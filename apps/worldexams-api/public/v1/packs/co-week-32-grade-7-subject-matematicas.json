@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T18:38:33.714Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v1",
+      "statement": "En una encuesta, ¿qué es la muestra?",
+      "context": "En Bogotá, la alcaldía quiere conocer el deporte favorito de los 200 000 jóvenes de la ciudad y decide preguntar a 2 000 de ellos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo completo sobre el que se quiere concluir, es decir, los 200 000 jóvenes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese grupo completo se llama población, no muestra."
+        },
+        {
+          "letter": "B",
+          "text": "El subconjunto al que realmente se pregunta, es decir, los 2 000 jóvenes encuestados",
+          "is_correct": true,
+          "feedback": "Correcto. La muestra es la parte de la población que se observa directamente."
+        },
+        {
+          "letter": "C",
+          "text": "La pregunta escrita en el formulario de la encuesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el instrumento, no la muestra."
+        },
+        {
+          "letter": "D",
+          "text": "El porcentaje final que se publica en los resultados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese porcentaje es una estimación, no la muestra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La población es el conjunto total de interés y la muestra es el subconjunto que se estudia. Con los datos de la muestra se infieren conclusiones sobre toda la población.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son la población y la muestra en este estudio?",
+      "context": "En Medellín, un colegio de 1 200 estudiantes encuesta a 60 de ellos sobre el sabor favorito del refrigerio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Población: los 1 200 estudiantes; muestra: los 60 encuestados",
+          "is_correct": true,
+          "feedback": "Correcto. La población abarca a todos los estudiantes y la muestra a los 60 observados."
+        },
+        {
+          "letter": "B",
+          "text": "Población: los 60 encuestados; muestra: los 1 200 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los conceptos: la muestra nunca es más grande que la población."
+        },
+        {
+          "letter": "C",
+          "text": "Población: los sabores del refrigerio; muestra: los 60 encuestados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sabores son la variable estudiada, no la población."
+        },
+        {
+          "letter": "D",
+          "text": "Población: los 1 200 estudiantes; muestra: el refrigerio servido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El refrigerio no es un subconjunto de estudiantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Población = conjunto total sobre el que se quiere saber (1 200 estudiantes). Muestra = quienes efectivamente responden (60). La inferencia va de la muestra hacia la población.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v3",
+      "statement": "Si la muestra es representativa, ¿cuántos estudiantes del colegio prefieren el fútbol?",
+      "context": "En Cali, de 50 estudiantes encuestados, 30 prefieren el fútbol sobre los demás deportes. El colegio tiene 800 estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 estudiantes, porque la muestra ya da el total",
+          "is_correct": false,
+          "feedback": "Incorrecto. 30 es el conteo dentro de la muestra de 50, no del colegio completo."
+        },
+        {
+          "letter": "B",
+          "text": "480 estudiantes, porque el 60 % de 800 es 480",
+          "is_correct": true,
+          "feedback": "Correcto. 30/50 = 60 % y el 60 % de 800 = 480 estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "800 estudiantes, porque todos prefieren lo mismo que la muestra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inferencia traslada la proporción (60 %), no impone unanimidad."
+        },
+        {
+          "letter": "D",
+          "text": "50 estudiantes, porque solo se puede afirmar sobre los encuestados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con muestra representativa sí se puede estimar el total de la población."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferencia por proporción: 30/50 = 0,6 = 60 %. Aplicando a la población: 0,6 × 800 = 480 estudiantes prefieren el fútbol.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos adultos se estima que usan la bicicleta?",
+      "context": "En Barranquilla, una encuesta a 200 ciudadanos muestra que el 25 % va al trabajo en bicicleta. La ciudad tiene 1 000 000 de habitantes adultos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 000 adultos, porque el 25 % de 1 000 000 es 250 000",
+          "is_correct": true,
+          "feedback": "Correcto. 0,25 × 1 000 000 = 250 000."
+        },
+        {
+          "letter": "B",
+          "text": "200 adultos, porque solo se puede afirmar sobre los encuestados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con muestra representativa la proporción se proyecta a toda la población."
+        },
+        {
+          "letter": "C",
+          "text": "25 adultos, porque el 25 % significa 25 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 25 % se aplica sobre la población total, no son 25 personas fijas."
+        },
+        {
+          "letter": "D",
+          "text": "1 000 000 de adultos, porque la muestra representa a todos por igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representar no significa que todos compartan la característica, solo el 25 %."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se traslada la proporción muestral a la población: 25 % de 1 000 000 = 250 000 adultos usarían la bicicleta, si la muestra fue bien elegida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos vecinos se estima que apoyan el parque?",
+      "context": "En Cartagena, de 400 vecinos encuestados, 100 apoyan construir un parque nuevo. El barrio tiene 2 000 vecinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 vecinos, que son los que dijeron que sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. 100 es el conteo en la muestra, pero la pregunta pide la estimación del barrio."
+        },
+        {
+          "letter": "B",
+          "text": "500 vecinos, porque 100/400 = 25 % y el 25 % de 2 000 es 500",
+          "is_correct": true,
+          "feedback": "Correcto. La proporción muestral (25 %) proyectada a 2 000 vecinos da 500."
+        },
+        {
+          "letter": "C",
+          "text": "400 vecinos, que son todos los encuestados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los encuestados apoyan: solo 100 de 400."
+        },
+        {
+          "letter": "D",
+          "text": "2 000 vecinos, porque la muestra decide por todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muestra estima una proporción, no impone unanimidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "100/400 = 0,25 = 25 %. Estimación poblacional: 0,25 × 2 000 = 500 vecinos a favor del parque.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué problema tiene esa conclusión?",
+      "context": "En Bucaramanga, un canal deportivo encuesta a la salida del estadio si a la gente le gusta el fútbol y concluye que al 98 % de la ciudad le apasiona el fútbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que 98 % es un valor imposible en cualquier encuesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. 98 % es posible como dato; el problema es a quiénes se preguntó."
+        },
+        {
+          "letter": "B",
+          "text": "Que la muestra está sesgada: solo incluye hinchas que van al estadio y no representa a la ciudad",
+          "is_correct": true,
+          "feedback": "Correcto. Preguntar en el estadio sobrerrepresenta a los aficionados; la muestra no es representativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que la muestra es demasiado grande para una ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no es el problema; una muestra grande pero sesgada sigue sesgada."
+        },
+        {
+          "letter": "D",
+          "text": "Que las encuestas nunca sirven para concluir nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las encuestas bien diseñadas sí permiten inferir; el fallo aquí es el sesgo de selección."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una muestra debe parecerse a la población. Encuestar solo a hinchas del estadio introduce sesgo de selección: los resultados describen a los asistentes, no a toda la ciudad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál opción da una estimación más confiable y por qué?",
+      "context": "En Pereira, para estimar el deporte favorito de 10 000 estudiantes se propone encuestar al azar a 100 o a 1 000 de ellos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encuestar a 1 000, porque una muestra aleatoria más grande fluctúa menos y representa mejor a la población",
+          "is_correct": true,
+          "feedback": "Correcto. A mayor tamaño muestral (aleatorio), menor error de estimación y mejor inferencia."
+        },
+        {
+          "letter": "B",
+          "text": "Encuestar a 100, porque las muestras pequeñas nunca se equivocan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las muestras pequeñas fluctúan mucho más y son menos confiables."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas dan exactamente la misma precisión siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de muestra sí afecta la precisión de la estimación."
+        },
+        {
+          "letter": "D",
+          "text": "Encuestar a 100, porque encuestar a más gente siempre sesga los resultados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no crea sesgo; el sesgo viene de mala selección, no de encuestar a más personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con muestreo aleatorio, aumentar la muestra reduce el error de estimación (las fluctuaciones se compensan). 1 000 encuestados describen mejor a 10 000 que solo 100.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué indica que ambas muestras den la misma proporción?",
+      "context": "En Manizales, en el curso A 20 de 40 estudiantes prefieren la lectura (50 %) y en el curso B 45 de 90 también la prefieren (50 %).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dos cursos tienen exactamente el mismo número de lectores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conteos difieren (20 frente a 45); lo igual es la proporción, no el conteo."
+        },
+        {
+          "letter": "B",
+          "text": "Que la preferencia por la lectura ronda el 50 % de forma consistente en ambos grupos",
+          "is_correct": true,
+          "feedback": "Correcto. 20/40 = 45/90 = 50 %: dos muestras independientes coinciden y refuerzan la estimación."
+        },
+        {
+          "letter": "C",
+          "text": "Que las encuestas están mal porque siempre deben dar resultados distintos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coincidir no es un error; dos muestras pueden dar la misma proporción."
+        },
+        {
+          "letter": "D",
+          "text": "Que el curso B lee el doble que el curso A",
+          "is_correct": false,
+          "feedback": "Incorrecto. 45 es más del doble de 20, pero la proporción de lectores es idéntica (50 %)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar proporciones (no conteos) permite contrastar grupos de distinto tamaño. Que ambas den 50 % sugiere una preferencia estable alrededor de la mitad en esa población escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v9",
+      "statement": "¿Es válida la afirmación del alcalde? Evalúe.",
+      "context": "En Villavicencio, el alcalde encuesta a sus 30 funcionarios y anuncia que los resultados representan la opinión de los 50 000 habitantes del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, la muestra es diminuta frente a la población y además está sesgada: los funcionarios no representan a los habitantes",
+          "is_correct": true,
+          "feedback": "Correcto. Falla por tamaño (30 frente a 50 000) y por selección (entorno del alcalde, no muestra aleatoria)."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 30 personas son suficientes para representar a cualquier población",
+          "is_correct": false,
+          "feedback": "Incorrecto. 30 personas elegidas a dedo no representan a 50 000 habitantes."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque los funcionarios conocen bien el municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer el municipio no convierte a un grupo cercano al alcalde en muestra representativa."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque ninguna encuesta puede representar a más de 1 000 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tal límite; muestras aleatorias de miles sí representan a millones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una inferencia válida exige muestra aleatoria y de tamaño razonable. Aquí hay doble fallo: 30 es muy poco para 50 000 y los funcionarios son un grupo sesgado (muestra de conveniencia).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación del gerente?",
+      "context": "En Neiva, una empresa necesita estimar con buena precisión el sabor favorito de 20 000 clientes y duda entre encuestar al azar a 100 o a 1 000. El gerente dice: \"Con 100 basta, encuestar a 1 000 cuesta más y da lo mismo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 100 y 1 000 encuestados siempre dan exactamente el mismo resultado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muestras distintas fluctúan; la de 1 000 fluctúa mucho menos."
+        },
+        {
+          "letter": "B",
+          "text": "No, la muestra de 1 000 (aleatoria) estima con mucho menos error que la de 100, aunque cueste más",
+          "is_correct": true,
+          "feedback": "Correcto. A igual método aleatorio, más muestra significa estimación más precisa; \"da lo mismo\" es falso."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque encuestar a más personas siempre introduce sesgo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no sesga; el sesgo depende de cómo se elige, no de a cuántos se elige."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque hay que encuestar a los 20 000 clientes o no se puede afirmar nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hace falta un censo: una muestra aleatoria grande estima muy bien a la población."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La precisión crece con el tamaño muestral (el error se reduce aproximadamente con la raíz del tamaño). 1 000 encuestas aleatorias estiman notablemente mejor que 100; el ahorro del gerente sacrifica la precisión que la empresa necesita.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-7-2026-W32-muestras-encuestas-inferencia-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
