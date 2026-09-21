@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:00:54.395Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor de $3^4$?",
+      "context": "En Medellín, un cultivo de bacterias cuadruplica su cantidad en cada ciclo. Después de $4$ ciclos el factor aplicado es $3^4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$81$",
+          "is_correct": true,
+          "feedback": "Correcto. $3^4 = 3 \\times 3 \\times 3 \\times 3 = 81$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste la base por el exponente en lugar de repetir el factor."
+        },
+        {
+          "letter": "C",
+          "text": "$64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste base $4$ en lugar de base $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$27$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $3^3$, no de $3^4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia indica multiplicar la base tantas veces como el exponente: $3^4 = 3 \\times 3 \\times 3 \\times 3 = 81$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el resultado de la multiplicación?",
+      "context": "En Cali, un analista financiero multiplica dos potencias de base $2$: $2^3 \\cdot 2^4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$128$",
+          "is_correct": true,
+          "feedback": "Correcto. $2^3 \\cdot 2^4 = 2^{3+4} = 2^7 = 128$."
+        },
+        {
+          "letter": "B",
+          "text": "$2^{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los exponentes en lugar de sumarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $2^6$, no de $2^7$."
+        },
+        {
+          "letter": "D",
+          "text": "$256$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $2^8$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un producto de igual base se suman los exponentes: $2^3 \\cdot 2^4 = 2^{7} = 128$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor de la expresión simplificada?",
+      "context": "En Barranquilla, un estudiante simplifica el cociente $\\frac{5^6}{5^2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$625$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{5^6}{5^2} = 5^{6-2} = 5^4 = 625$."
+        },
+        {
+          "letter": "B",
+          "text": "$125$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $5^3$, exponente restado de más."
+        },
+        {
+          "letter": "C",
+          "text": "$5^8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los exponentes en un cociente."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $5^2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un cociente de igual base se restan los exponentes: $\\frac{5^6}{5^2} = 5^{4} = 625$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de la expresión?",
+      "context": "En Bucaramanga, se calcula la potencia de una potencia: $(3^2)^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$729$",
+          "is_correct": true,
+          "feedback": "Correcto. $(3^2)^3 = 3^{2 \\times 3} = 3^6 = 729$."
+        },
+        {
+          "letter": "B",
+          "text": "$243$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $3^5$, sumaste los exponentes."
+        },
+        {
+          "letter": "C",
+          "text": "$6561$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $3^8$."
+        },
+        {
+          "letter": "D",
+          "text": "$27$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste mal los exponentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En potencia de potencia se multiplican los exponentes: $(3^2)^3 = 3^{6} = 729$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de la expresión?",
+      "context": "En Cartagena, una deuda se modela con la expresión $(-3)^2 + (-2)^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. $(-3)^2 = 9$ y $(-2)^3 = -8$; entonces $9 + (-8) = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$-17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $-9 + (-8)$ por un error de signo en el cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$17$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste el signo negativo del cubo."
+        },
+        {
+          "letter": "D",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al restar los valores absolutos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El exponente par da resultado positivo y el impar conserva el signo: $(-3)^2 = 9$ y $(-2)^3 = -8$. Luego $9 - 8 = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado de la expresión?",
+      "context": "En Manizales, un estudiante evalúa la expresión $2^3 \\cdot 3^2 - 5^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$47$",
+          "is_correct": true,
+          "feedback": "Correcto. $2^3 \\cdot 3^2 = 8 \\times 9 = 72$ y $5^2 = 25$; entonces $72 - 25 = 47$."
+        },
+        {
+          "letter": "B",
+          "text": "$72$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste restar $5^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$121$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en lugar de restar los términos."
+        },
+        {
+          "letter": "D",
+          "text": "$22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaluaste mal el producto de las primeras potencias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se evalúan las potencias y se respeta la jerarquía: $8 \\times 9 = 72$, luego $72 - 25 = 47$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál expresión corresponde a la mayor cantidad y con qué valor?",
+      "context": "En Pereira, un investigador compara el crecimiento de dos colonias: una con $2^{10}$ individuos y otra con $10^3$ individuos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^{10}$ con $1024$ individuos",
+          "is_correct": true,
+          "feedback": "Correcto. $2^{10} = 1024$ es mayor que $10^3 = 1000$."
+        },
+        {
+          "letter": "B",
+          "text": "$10^3$ con $1000$ individuos",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1000$ es menor que $1024$."
+        },
+        {
+          "letter": "C",
+          "text": "$2^{10}$ con $512$ individuos",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^{10}$ vale $1024$, no $512$ (ese es $2^9$)."
+        },
+        {
+          "letter": "D",
+          "text": "$10^3$ con $3000$ individuos",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10^3$ significa $10 \\times 10 \\times 10 = 1000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$2^{10} = 1024$ y $10^3 = 1000$. Por lo tanto, $1024 > 1000$ y la mayor cantidad es $2^{10}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor simplificado?",
+      "context": "En Montería, un estudiante simplifica la expresión $\\frac{4^3 \\cdot 4^{-1}}{4^2}$ aplicando propiedades de potencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. En el numerador $4^3 \\cdot 4^{-1} = 4^2$; entonces $\\frac{4^2}{4^2} = 4^0 = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal los exponentes del numerador."
+        },
+        {
+          "letter": "C",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la resta del exponente del denominador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al operar los exponentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Numerador: $4^3 \\cdot 4^{-1} = 4^{3-1} = 4^2$. Luego $\\frac{4^2}{4^2} = 4^{2-2} = 4^0 = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántas bacterias habrá al final de las $5$ horas?",
+      "context": "En Medellín, una población de bacterias se duplica cada hora. Al inicio hay $2^3$ bacterias y se observan $5$ horas después.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$256$ bacterias",
+          "is_correct": true,
+          "feedback": "Correcto. $2^3 \\cdot 2^5 = 2^{8} = 256$."
+        },
+        {
+          "letter": "B",
+          "text": "$128$ bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $2^7$, sumaste mal las horas."
+        },
+        {
+          "letter": "C",
+          "text": "$512$ bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $2^9$."
+        },
+        {
+          "letter": "D",
+          "text": "$64$ bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $2^6$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La población final es $2^3 \\cdot 2^5 = 2^{3+5} = 2^8 = 256$ bacterias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el volumen del cubo expresado como potencia?",
+      "context": "En Barranquilla, un cubo de madera tiene aristas de longitud $2^3\\text{ cm}$. Su volumen se calcula elevando la arista al cubo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2^9$",
+          "is_correct": true,
+          "feedback": "Correcto. Volumen $= (2^3)^3 = 2^{3 \\times 3} = 2^9$."
+        },
+        {
+          "letter": "B",
+          "text": "$2^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los exponentes en lugar de multiplicarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$2^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la arista, no del volumen."
+        },
+        {
+          "letter": "D",
+          "text": "$2^{27}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste el exponente al cubo en lugar de la base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de un cubo es arista al cubo: $(2^3)^3 = 2^{9}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W05-potenciacion-propiedades-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

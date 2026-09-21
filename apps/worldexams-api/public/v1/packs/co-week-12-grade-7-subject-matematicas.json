@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:00:54.397Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se calcula la media aritmética de un conjunto de datos?",
+      "context": "En Bogotá, el profesor explica cómo calcular el promedio de las notas del curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumando todos los datos y dividiendo entre la cantidad de datos",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "Tomando el dato que más se repite",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la moda, no la media."
+        },
+        {
+          "letter": "C",
+          "text": "Tomando el dato que está en la mitad al ordenarlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la mediana, no la media."
+        },
+        {
+          "letter": "D",
+          "text": "Restando el menor dato del mayor dato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe el rango, no la media."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media aritmética es $\\frac{\\text{suma de los datos}}{\\text{número de datos}}$. Resume el conjunto en un valor representativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la mediana de estas estaturas?",
+      "context": "En Medellín, las estaturas en centímetros de cinco jugadores son: $150$, $155$, $160$, $165$ y $170$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$160$",
+          "is_correct": true,
+          "feedback": "Correcto. Ordenados, el dato central (tercero de cinco) es $160$."
+        },
+        {
+          "letter": "B",
+          "text": "$150$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor mínimo, no el central."
+        },
+        {
+          "letter": "C",
+          "text": "$170$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor máximo, no el central."
+        },
+        {
+          "letter": "D",
+          "text": "$155$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el segundo dato, no el que está en la mitad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con un número impar de datos ordenados, la mediana es el valor del centro. Aquí el tercer dato es $160$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es su nota promedio?",
+      "context": "En Cali, las notas de Valentina en cuatro pruebas son: $4$, $6$, $8$ y $10$ (escala de $0$ a $10$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{4 + 6 + 8 + 10}{4} = \\frac{28}{4} = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al sumar las cuatro notas."
+        },
+        {
+          "letter": "C",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste una de las notas en lugar del promedio."
+        },
+        {
+          "letter": "D",
+          "text": "$28$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma; falta dividir entre $4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se suman los datos ($28$) y se dividen entre la cantidad de datos ($4$): media $= 7$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la moda de estos datos?",
+      "context": "En Barranquilla, el número de goles por partido de un equipo fue: $2$, $3$, $3$, $5$, $5$, $5$ y $7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. El $5$ aparece $3$ veces, más que cualquier otro valor."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aparece $2$ veces, menos que el $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aparece una sola vez."
+        },
+        {
+          "letter": "D",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aparece una sola vez."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La moda es el dato con mayor frecuencia. El $5$ se repite $3$ veces y es la moda.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la mediana de estos tiempos?",
+      "context": "En Pereira, los tiempos en minutos de seis estudiantes en una carrera fueron: $4$, $2$, $8$, $6$, $10$ y $12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$ minutos",
+          "is_correct": true,
+          "feedback": "Correcto. Ordenados: $2, 4, 6, 8, 10, 12$; mediana $\\frac{6 + 8}{2} = 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste solo uno de los dos datos centrales."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste solo el otro dato central."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al promediar los dos datos centrales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con seis datos, la mediana es el promedio de los dos centrales (tercero y cuarto): $\\frac{6 + 8}{2} = 7$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v6",
+      "statement": "¿Qué medida representa mejor el ingreso típico de la tienda?",
+      "context": "En Bucaramanga, los ingresos diarios en miles de COP de una tienda fueron: $100$, $120$, $140$, $150$ y $490$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediana, $140$",
+          "is_correct": true,
+          "feedback": "Correcto. La media ($200$) queda inflada por el valor extremo $490$; la mediana $140$ es más típica."
+        },
+        {
+          "letter": "B",
+          "text": "La media, $200$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está distorsionada por el dato atípico $490$."
+        },
+        {
+          "letter": "C",
+          "text": "La moda, $490$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún valor se repite, así que no hay moda."
+        },
+        {
+          "letter": "D",
+          "text": "El rango, $390$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango mide dispersión, no tendencia central."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media es $\\frac{1000}{5} = 200$, pero el dato $490$ la eleva. La mediana ($140$) no se afecta por el extremo y representa mejor lo típico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el promedio combinado de los $25$ estudiantes?",
+      "context": "En Manizales, el grupo A de $10$ estudiantes tiene promedio $3.8$ y el grupo B de $15$ estudiantes tiene promedio $4.2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.04$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{10 \\times 3.8 + 15 \\times 4.2}{25} = \\frac{38 + 63}{25} = 4.04$."
+        },
+        {
+          "letter": "B",
+          "text": "$4.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promediaste $3.8$ y $4.2$ sin ponderar por el tamaño de cada grupo."
+        },
+        {
+          "letter": "C",
+          "text": "$4.2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste solo el promedio del grupo B."
+        },
+        {
+          "letter": "D",
+          "text": "$3.9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al ponderar las sumas de cada grupo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es un promedio ponderado: suma total $38 + 63 = 101$ entre $25$ estudiantes: $4.04$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la nueva mediana de las edades?",
+      "context": "En Cartagena, las edades de cinco primos ordenadas son: $5$, $7$, $9$, $11$ y $13$. Luego nace un nuevo primo y se incluye su edad de $15$ años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. Datos: $5, 7, 9, 11, 13, 15$; mediana $\\frac{9 + 11}{2} = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa era la mediana anterior con cinco datos."
+        },
+        {
+          "letter": "C",
+          "text": "$11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste solo uno de los dos datos centrales."
+        },
+        {
+          "letter": "D",
+          "text": "$9.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promediaste $9$ y $10$ en lugar de $9$ y $11$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al pasar a seis datos, la mediana es el promedio del tercer y cuarto dato: $\\frac{9 + 11}{2} = 10$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación de Camilo?",
+      "context": "En Medellín, el promedio de Juan en $4$ exámenes es $4.0$. En tres de ellos sacó $3.5$, $4.0$ y $4.5$. Camilo afirma que en el cuarto examen Juan sacó $4.0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, es correcta: sacó $4.0$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma necesaria $16$; $3.5 + 4.0 + 4.5 = 12$; falta $16 - 12 = 4.0$."
+        },
+        {
+          "letter": "B",
+          "text": "No, sacó $3.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $3.5$ la suma sería $15.5$ y el promedio $3.875$."
+        },
+        {
+          "letter": "C",
+          "text": "No, sacó $4.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $4.5$ la suma sería $16.5$ y el promedio $4.125$."
+        },
+        {
+          "letter": "D",
+          "text": "No, sacó $5.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $5.0$ la suma sería $17$ y el promedio $4.25$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si el promedio de $4$ datos es $4.0$, la suma es $16$. El dato faltante es $16 - 12 = 4.0$. Camilo tiene razón.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación del gerente?",
+      "context": "En Popayán, en una tienda trabajan $12$ personas: $8$ ganan $1300000\\text{ COP}$, $3$ ganan $1500000\\text{ COP}$ y el gerente gana $8000000\\text{ COP}$. El gerente afirma que el salario medio de $1908333\\text{ COP}$ representa bien el salario típico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, la mediana de $1300000\\text{ COP}$ es más representativa",
+          "is_correct": true,
+          "feedback": "Correcto. La media está inflada por el salario del gerente; la mayoría gana $1300000$."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, la media sí representa bien a todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún empleado gana cerca de $1908333\\text{ COP}$."
+        },
+        {
+          "letter": "C",
+          "text": "No, la moda es $1500000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moda es $1300000$, con $8$ trabajadores."
+        },
+        {
+          "letter": "D",
+          "text": "No, la media real es $1500000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media real es $\\frac{22900000}{12} \\approx 1908333$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media $\\approx 1908333$ queda distorsionada por el valor extremo. La mediana (datos sexto y séptimo: $1300000$) refleja el salario típico de la mayoría.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W12-estadistica-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
