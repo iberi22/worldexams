@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-31-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T05:56:19.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v1",
+      "statement": "Que tipo de cambio ocurre cuando el hierro se oxida formando oxido rojizo?",
+      "context": "En el laboratorio de un colegio de Pereira, la profesora muestra un clavo de hierro que se cubrio de una capa rojiza tras dejarlo varios dias a la intemperie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cambio quimico, porque se forma una sustancia nueva con propiedades distintas a las del hierro",
+          "is_correct": true,
+          "feedback": "Correcto. La formacion de oxido es un cambio quimico, llamado oxidacion."
+        },
+        {
+          "letter": "B",
+          "text": "Un cambio fisico, porque el hierro solo se ensucio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al oxidarse se forma una sustancia nueva; no es simple suciedad."
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio de estado, porque el hierro se derritio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hierro no se derritio; su composicion cambio al oxidarse."
+        },
+        {
+          "letter": "D",
+          "text": "Ningun cambio, porque el clavo sigue siendo el mismo clavo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se formo oxido, una sustancia diferente del hierro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cambio quimico produce sustancias nuevas con propiedades diferentes; en la oxidacion, el hierro reacciona con el oxigeno del aire y la humedad para formar oxido de hierro, una sustancia rojiza y quebradiza distinta del metal original.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v2",
+      "statement": "Que caracteriza a la combustion de la vela?",
+      "context": "En una casa de Manizales, una vela encendida se consume poco a poco y libera calor y luz, dejando menos cera que al inicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un cambio quimico que libera calor y luz y consume una sustancia, por lo que al final queda menos cera",
+          "is_correct": true,
+          "feedback": "Correcto. La combustion libera energia y transforma la cera en gases y calor."
+        },
+        {
+          "letter": "B",
+          "text": "Es un cambio fisico porque la vela cambia de forma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ademas del cambio de forma, se forman sustancias nuevas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un cambio que no consume ninguna sustancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustion consume la cera y el oxigeno."
+        },
+        {
+          "letter": "D",
+          "text": "Es un cambio en el que la vela gana masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al consumirse, la cantidad de cera disminuye."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La combustion es una reaccion quimica rapida entre un combustible y el oxigeno que libera calor y luz; en la vela, la cera se transforma en gases como dioxido de carbono y vapor de agua, por lo que la cantidad de cera disminuye con el tiempo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v3",
+      "statement": "Que deben concluir si el clavo en agua con sal se oxida mas rapido?",
+      "context": "En un colegio de Armenia, los estudiantes entierran clavos de hierro en tres condiciones: al aire seco, en agua y en agua con sal, y observan cual se oxida mas rapido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tanto el oxigeno como el agua favorecen la oxidacion, y que la sal acelera el proceso, por lo que el hierro se conserva mejor en un lugar seco",
+          "is_correct": true,
+          "feedback": "Correcto. La comparacion muestra el efecto del agua, el oxigeno y la sal en la oxidacion."
+        },
+        {
+          "letter": "B",
+          "text": "Que la sal evita la oxidacion del hierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el experimento la sal acelera la oxidacion."
+        },
+        {
+          "letter": "C",
+          "text": "Que el clavo se oxida igual en todas las condiciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las condiciones cambian la velocidad de oxidacion."
+        },
+        {
+          "letter": "D",
+          "text": "Que el aire seco produce mas oxido que el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua y la sal aceleran la oxidacion del hierro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oxidacion del hierro requiere la presencia de oxigeno y agua; comparar condiciones controladas permite comprobar que la humedad y las sales disueltas aceleran la reaccion, por lo que guardar herramientas de hierro en lugares secos y protegidos ayuda a conservarlas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v4",
+      "statement": "Que explicacion cientifica corresponde a la llama amarilla y al hollin?",
+      "context": "Una familia de Bucaramanga enciende la estufa con gas natural; la llama es azul y limpia, pero un dia la llama se vuelve amarilla y deja hollin en la olla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La combustion es incompleta por falta de oxigeno, lo que produce particulas de carbono u hollin y una llama amarillenta, senal de que debe revisarse la entrada de aire",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de oxigeno genera combustion incompleta y hollin."
+        },
+        {
+          "letter": "B",
+          "text": "La llama amarilla indica que el gas es de mejor calidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La llama azul indica mejor combustion; la amarilla sugiere combustion incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "El hollin proviene del agua que hierve en la olla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hollin es carbono no quemado, no proviene del agua."
+        },
+        {
+          "letter": "D",
+          "text": "La llama cambia de color porque el gas cambia de olor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color depende de la combustion, no del olor del gas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La combustion completa produce llama azul y libera dioxido de carbono y agua; cuando falta oxigeno, la combustion es incompleta, se forman particulas de carbono que se depositan como hollin y la llama se torna amarilla, ademas de generarse gases contaminantes como el monoxido de carbono.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v5",
+      "statement": "Que explicacion corresponde al oscurecimiento de la fruta cortada?",
+      "context": "En un mercado de Barranquilla, el vendedor guarda unas frutas cortadas y al cabo de un rato se oscurecen; el mismo fenomeno ocurre con una manzana mordida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una oxidacion: al contacto con el oxigeno del aire, sustancias de la fruta reaccionan y forman compuestos oscuros",
+          "is_correct": true,
+          "feedback": "Correcto. El pardeamiento de la fruta expuesta al aire es una oxidacion."
+        },
+        {
+          "letter": "B",
+          "text": "La fruta se pudre porque pierde color por si sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oscurecimiento inicial se debe al contacto con el oxigeno."
+        },
+        {
+          "letter": "C",
+          "text": "Es un cambio fisico reversible al enfriar la fruta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formacion de compuestos oscuros es un cambio quimico."
+        },
+        {
+          "letter": "D",
+          "text": "La fruta se oxida porque el cuchillo le transmite color",
+          "is_correct": false,
+          "feedback": "Incorrecto. La causa es el oxigeno del aire, no el color del cuchillo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Muchas frutas contienen compuestos que se oxidan al contacto con el oxigeno del aire y forman pigmentos oscuros; este pardeamiento es un cambio quimico que puede retrasarse cubriendo la fruta, agregando jugo de limon o guardandola en un recipiente cerrado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v6",
+      "statement": "Que analisis explica por que se apaga la llama?",
+      "context": "En el laboratorio de un colegio de Medellin, los estudiantes ponen una vela encendida bajo un frasco de vidrio cerrado y observan que la llama se apaga despues de unos segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La llama consume el oxigeno disponible en el frasco cerrado; al agotarse ese gas, la combustion ya no puede continuar y se apaga",
+          "is_correct": true,
+          "feedback": "Correcto. La combustion necesita oxigeno, que se consume dentro del frasco."
+        },
+        {
+          "letter": "B",
+          "text": "La llama se apaga porque el vidrio la aplasta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vidrio no aplasta la llama; el frasco solo la encierra."
+        },
+        {
+          "letter": "C",
+          "text": "La llama se apaga porque la vela se enfria por el vidrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La causa principal es el agotamiento del oxigeno."
+        },
+        {
+          "letter": "D",
+          "text": "La llama se apaga porque el frasco produce agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es un producto de la combustion, no la causa del apagon."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La combustion es una reaccion que requiere combustible, oxigeno y calor; al encerrar la vela en un frasco, el oxigeno disponible se consume y, al agotarse, la reaccion se detiene; este principio explica por que el fuego se sofoca al taparlo con una manta o una tapa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v7",
+      "statement": "Que analisis explica la diferencia entre las partes oxidadas y las protegidas?",
+      "context": "Una motocicleta en una via de Cali presenta piezas de acero cubiertas de oxido, mientras las partes pintadas y engrasadas se conservan en buen estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pintura y el aceite forman una barrera que impide el contacto del hierro con el oxigeno y el agua, mientras las partes descubiertas quedan expuestas y se oxidan",
+          "is_correct": true,
+          "feedback": "Correcto. Explica el papel protector de la pintura y el engrase."
+        },
+        {
+          "letter": "B",
+          "text": "Las partes pintadas se oxidan mas porque la pintura atrae el oxigeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pintura protege el metal del contacto con el oxigeno y el agua."
+        },
+        {
+          "letter": "C",
+          "text": "El oxido aparece solo en las partes nuevas de la moto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oxidation depende de la proteccion superficial, no de la antiguedad."
+        },
+        {
+          "letter": "D",
+          "text": "El acero no se oxida nunca si esta en movimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento no impide la oxidacion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oxidacion del hierro ocurre cuando el metal entra en contacto con oxigeno y agua; por eso las superficies pintadas, engrasadas o galvanizadas se conservan mejor: forman una barrera que bloquea el contacto y frenan la reaccion, mientras las partes desprotegidas se corroen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v8",
+      "statement": "Que analisis explica la diferencia entre la madera seca y la humeda?",
+      "context": "En un fogon de lena del campo colombiano, los estudiantes notan que la madera seca arde con facilidad, mientras la madera humeda apenas prende y produce mucho humo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La madera humeda contiene agua que debe evaporarse antes de arder, por lo que consume parte del calor y produce combustion incompleta con mucho humo; la seca arde mejor",
+          "is_correct": true,
+          "feedback": "Correcto. Relaciona la humedad con la energia necesaria y la combustion incompleta."
+        },
+        {
+          "letter": "B",
+          "text": "La madera humeda arde mejor porque el agua alimenta el fuego",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no es combustible; dificulta la combustion."
+        },
+        {
+          "letter": "C",
+          "text": "La madera seca no se quema, solo se calienta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera seca es combustible y arde con facilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El humo de la madera humeda es oxigeno puro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El humo contiene particulas y gases, no oxigeno puro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que la madera arda, el calor debe primero evaporar el agua que contiene; la madera humeda consume energia en ese proceso, alcanza menor temperatura y produce combustion incompleta con mucho humo, mientras la madera seca aprovecha mejor el calor y arde con llama mas limpia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v9",
+      "statement": "Que evaluacion conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Cucuta, tres estudiantes afirman: 1) La combustion es un cambio quimico que libera energia. 2) La oxidacion solo ocurre con fuego. 3) En toda combustion se necesita oxigeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es verdadera, la 2 es falsa porque la oxidacion puede ocurrir lentamente sin fuego, como cuando el hierro se oxida, y la 3 es verdadera porque la combustion requiere oxigeno",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue oxidacion lenta de combustion y reconoce el papel del oxigeno."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque la oxidacion siempre produce llama",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oxidacion lenta, como la del hierro, no produce llama."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 2 es verdadera y las demas son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es falsa; hay oxidacion sin fuego."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque la combustion no libera energia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustion libera calor y luz, es decir, energia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige distinguir tipos de oxidacion: la oxidacion lenta ocurre sin llama, como en el hierro o la fruta expuesta al aire, mientras la combustion es una oxidacion rapida con liberacion de calor y luz que necesita oxigeno; ambas son cambios quimicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle-v10",
+      "statement": "Que conjunto de medidas conviene priorizar y por que?",
+      "context": "Un colegio de Bogota debe invertir un presupuesto limitado en COP en seguridad frente a incendios y en la proteccion de estructuras metalicas de la humedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instalar extintores y senalizacion, evitar fuentes de ignicion cerca de materiales inflamables y proteger el metal con pintura o anticorrosivo, porque atacan tanto el riesgo de combustion como el de oxidacion de forma preventiva",
+          "is_correct": true,
+          "feedback": "Correcto. La prevencion reduce riesgos de incendio y corrosion a bajo costo."
+        },
+        {
+          "letter": "B",
+          "text": "Guardar gasolina cerca de las aulas para tener combustible a mano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Almacenar combustible cerca de personas aumenta el riesgo de incendio."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar las estructuras metalicas sin proteccion para ahorrar dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin proteccion, el metal se oxida y pierde resistencia."
+        },
+        {
+          "letter": "D",
+          "text": "Apagar los incendios solo con agua en cualquier caso, incluido el aceite",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua sobre aceite en llamas puede propagar el fuego."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar medidas de seguridad exige reconocer los factores en juego: la combustion necesita combustible, oxigeno y calor, por lo que evitar fuentes de ignicion y disponer de extintores previene incendios; la oxidacion necesita oxigeno y agua, por lo que pintar o engrasar el metal lo protege, y ambas acciones son preventivas y de bajo costo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W31-cambios-quimicos-oxidacion-combustion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
