@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-38-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.701Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una crónica del mercado y la plaza?",
+      "context": "En Tunja, un cronista visita la plaza de mercado un sábado en la mañana y escribe lo que ve, escucha y huele.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un relato que narra con detalles lo que ocurre en un lugar cotidiano",
+          "is_correct": true,
+          "feedback": "Correcto, la crónica cuenta hechos reales observados con viveza."
+        },
+        {
+          "letter": "B",
+          "text": "Una fórmula matemática para resolver divisiones",
+          "is_correct": false,
+          "feedback": "Las fórmulas matemáticas no narran la vida de un lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Una factura con los precios de la tienda",
+          "is_correct": false,
+          "feedback": "La factura registra compras, no narra historias del mercado."
+        },
+        {
+          "letter": "D",
+          "text": "Un manual para armar un computador",
+          "is_correct": false,
+          "feedback": "El manual da instrucciones técnicas, no es una crónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica narra hechos cotidianos observados directamente por el cronista.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v2",
+      "statement": "¿Qué recurso usa el cronista en esa frase?",
+      "context": "En Ibagué, una crónica dice: \"El pregón del vendedor de jugos, el aroma del café recién colado y los colores de las frutas llenaban la plaza\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tabla de multiplicar para contar frutas",
+          "is_correct": false,
+          "feedback": "No hay operaciones matemáticas en la frase citada."
+        },
+        {
+          "letter": "B",
+          "text": "Una lista de precios sin descripciones",
+          "is_correct": false,
+          "feedback": "La frase describe sensaciones, no enumera precios."
+        },
+        {
+          "letter": "C",
+          "text": "Detalles sensoriales que muestran sonidos, olores y colores",
+          "is_correct": true,
+          "feedback": "Correcto, el cronista usa los sentidos para que imaginemos la plaza."
+        },
+        {
+          "letter": "D",
+          "text": "Un resumen de noticias internacionales",
+          "is_correct": false,
+          "feedback": "La frase no informa noticias, describe el ambiente del mercado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los detalles sensoriales permiten al lector ver, oír y oler el lugar descrito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v3",
+      "statement": "Si aplicas lo aprendido, ¿quiénes son los personajes típicos de esta crónica?",
+      "context": "En Neiva, los estudiantes leen una crónica donde aparecen la vendedora de arepas, el carguero amable y los niños que juegan entre los puestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Astronautas y robots del futuro",
+          "is_correct": false,
+          "feedback": "Esos personajes pertenecen a la ciencia ficción, no al mercado."
+        },
+        {
+          "letter": "B",
+          "text": "Personas comunes del mercado con oficios populares",
+          "is_correct": true,
+          "feedback": "Correcto, la crónica retrata a la gente trabajadora de la plaza."
+        },
+        {
+          "letter": "C",
+          "text": "Reyes y princesas de un castillo lejano",
+          "is_correct": false,
+          "feedback": "Los reyes pertenecen a los cuentos de hadas, no a la plaza."
+        },
+        {
+          "letter": "D",
+          "text": "Solo animales fantásticos que hablan",
+          "is_correct": false,
+          "feedback": "Los animales fantásticos no son los protagonistas de esta crónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crónica del mercado destaca a personajes reales de la vida popular colombiana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se reconoce la voz del cronista en ese fragmento?",
+      "context": "En Villavicencio, un cronista escribe: \"Yo caminé entre los puestos, saludé a doña Rosa y probé una tajada de piña dulce y fría\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque copia datos de una enciclopedia sin opinar",
+          "is_correct": false,
+          "feedback": "El fragmento muestra experiencia personal, no copia enciclopédica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque escribe órdenes militares para los soldados",
+          "is_correct": false,
+          "feedback": "No hay órdenes militares en el fragmento citado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque presenta horarios de buses intermunicipales",
+          "is_correct": false,
+          "feedback": "El fragmento no informa horarios de transporte."
+        },
+        {
+          "letter": "D",
+          "text": "Porque narra en primera persona lo que vivió y sintió",
+          "is_correct": true,
+          "feedback": "Correcto, el uso del yo muestra al cronista como testigo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La voz del cronista aparece cuando narra su propia experiencia en el lugar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v5",
+      "statement": "¿Qué propósito tiene describir con tanto detalle la plaza?",
+      "context": "En Medellín, una crónica describe la plaza de flores: puestos coloridos, risas de los vendedores y olor a tierra húmeda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el lector imagine el lugar como si estuviera allí",
+          "is_correct": true,
+          "feedback": "Correcto, la descripción viva acerca al lector a la escena."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a resolver restas con flores",
+          "is_correct": false,
+          "feedback": "La crónica no enseña operaciones matemáticas."
+        },
+        {
+          "letter": "C",
+          "text": "Vender boletas para un concierto",
+          "is_correct": false,
+          "feedback": "No hay venta de boletas en la descripción de la plaza."
+        },
+        {
+          "letter": "D",
+          "text": "Anunciar el resultado de un partido",
+          "is_correct": false,
+          "feedback": "La descripción no informa resultados deportivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Describir con detalle busca transportar al lector al mercado narrado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis distingue a la crónica del simple aviso?",
+      "context": "En Cali, un texto dice: \"Se vende papa a mil pesos\". Otro texto dice: \"Entre bultos de papa, don Ernesto grita con alegría su oferta mientras el olor a tierra fresca se mezcla con el bullicio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son crónicas porque hablan de papa",
+          "is_correct": false,
+          "feedback": "Mencionar el mismo producto no los hace crónicas."
+        },
+        {
+          "letter": "B",
+          "text": "El aviso es crónica porque es más corto",
+          "is_correct": false,
+          "feedback": "La brevedad del aviso no lo convierte en crónica."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo es crónica porque narra personajes, ambiente y voces del lugar",
+          "is_correct": true,
+          "feedback": "Correcto, la crónica incluye escena, personajes y sensaciones, no solo precio."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno puede analizarse como texto",
+          "is_correct": false,
+          "feedback": "Ambos textos sí pueden analizarse y compararse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crónica supera el dato simple con narración, ambiente y voces humanas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se reconoce la estructura de esa crónica?",
+      "context": "En Barranquilla, una crónica del mercado organiza así sus partes: llegada a la plaza, recorrido entre puestos con descripciones y cierre con una reflexión sobre el trabajo de los vendedores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque presenta solo una lista de precios sin orden",
+          "is_correct": false,
+          "feedback": "La lista de precios no tiene inicio, recorrido ni cierre reflexivo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sigue un orden de observación, descripción detallada y comentario final",
+          "is_correct": true,
+          "feedback": "Correcto, la crónica avanza como un recorrido narrado con cierre personal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque mezcla instrucciones de cocina sin conexión",
+          "is_correct": false,
+          "feedback": "Las instrucciones de cocina no estructuran una crónica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque repite el mismo saludo en cada párrafo",
+          "is_correct": false,
+          "feedback": "Repetir saludos no constituye la estructura de la crónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crónica se organiza como un recorrido observado que termina con la mirada del cronista.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál crónica merece ganar el premio?",
+      "context": "En Cartagena, el periódico escolar premiará la mejor crónica sobre la plaza de mercado del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que inventa datos falsos sobre el mercado sin visitarlo",
+          "is_correct": false,
+          "feedback": "Inventar datos sin observación rompe la verdad de la crónica."
+        },
+        {
+          "letter": "B",
+          "text": "La que solo copia precios sin describir ni narrar nada",
+          "is_correct": false,
+          "feedback": "Copiar precios no es narrar la vida del mercado."
+        },
+        {
+          "letter": "C",
+          "text": "La que insulta a los vendedores y desprecia su trabajo",
+          "is_correct": false,
+          "feedback": "Despreciar a los personajes contradice el respeto del cronista."
+        },
+        {
+          "letter": "D",
+          "text": "La que describe con sentidos vivos, da voz a los vendedores y cierra con reflexión",
+          "is_correct": true,
+          "feedback": "Correcto, integra observación sensorial, personajes reales y mirada reflexiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La mejor crónica combina descripción sensorial, voces populares y reflexión final.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-17-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T04:30:21.339Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una fuerza en ciencias naturales?",
+      "context": "En un taller de ciencias en Valledupar, los estudiantes de sexto grado empujan una carreta cargada con bultos de yuca por el patio del colegio y la profesora les pregunta por qué pueden moverla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda acción capaz de cambiar el estado de reposo o de movimiento de un cuerpo, o de deformarlo",
+          "is_correct": true,
+          "feedback": "Correcto. Una fuerza es una acción que puede poner en movimiento, detener, desviar o deformar un objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Una medida de la cantidad de materia del cuerpo empujado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la masa, no la fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "El brillo o el color que tiene un objeto cuando le llega luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El brillo o el color son propiedades ópticas, no fuerzas."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo que tarda un cuerpo en moverse de un lugar a otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una duración o un tiempo, no una fuerza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En física, una fuerza es cualquier acción capaz de modificar el estado de movimiento, de reposo o la forma de un cuerpo; por eso se asocia con empujar, halar, atraer o frenar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v2",
+      "statement": "¿En qué unidad se mide la fuerza en el Sistema Internacional?",
+      "context": "En una clase de física en Pasto, la profesora Camila les explica a los estudiantes las unidades que se usan en el Sistema Internacional para medir cantidades como la fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kilogramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El kilogramo es la unidad de masa, no de fuerza."
+        },
+        {
+          "letter": "B",
+          "text": "Metro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metro es la unidad de longitud, no de fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Litro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El litro es una unidad de volumen, no de fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Newton (N)",
+          "is_correct": true,
+          "feedback": "Correcto. La unidad de fuerza en el SI es el Newton, en honor a Isaac Newton."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El Sistema Internacional mide la fuerza en newtons (N); un newton es la fuerza necesaria para que un cuerpo de un kilogramo aumente su velocidad en un metro por segundo cada segundo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la fuerza principal que hace que la pelota caiga hacia el suelo cuando se suelta desde una altura?",
+      "context": "En un colegio de Tunja, los estudiantes dejan caer una pelota de tenis desde la ventana del segundo piso y observan cómo cae al patio del colegio cada vez más rápido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza muscular de quien la soltó",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza muscular solo actúa mientras se está empujando; al soltarla, ya no interviene."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza del aire que la empuja hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Normalmente el aire frena ligeramente la caída, no la empuja hacia abajo."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de gravedad que la Tierra ejerce sobre todos los cuerpos que tienen masa",
+          "is_correct": true,
+          "feedback": "Correcto. La gravedad terrestre atrae la pelota hacia el centro de la Tierra y la hace caer."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza del viento en contra que la sube",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento en contra podría frenarla, no haría que cayera más rápido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fuerza de gravedad es la atracción que ejerce la Tierra sobre cualquier cuerpo con masa; cerca de la superficie, hace que los objetos caigan con una aceleración aproximada de 9,8 metros por segundo al cuadrado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.83,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v4",
+      "statement": "¿Qué efecto principal produce el freno cuando el ciclista lo aprieta en medio de una bajada?",
+      "context": "En una ciclorruta de Montería, un ciclista baja por una calle empedrada y aplica los frenos con fuerza para detenerse antes de una curva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la velocidad por el calor de los frenos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor generado es por la fricción, no aumenta la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Levanta al ciclista del asiento y lo lanza al aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Frenar no produce salto del ciclista."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye la velocidad porque la fricción entre el freno y la llanta se opone al movimiento",
+          "is_correct": true,
+          "feedback": "Correcto. La fricción entre freno y llanta transforma energía de movimiento en calor y frena la bicicleta."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia el color de la pintura de la bicicleta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El frenado no modifica el color del objeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fricción es una fuerza que se opone al movimiento relativo entre dos superficies en contacto; por eso los frenos de la bicicleta, al crear fricción con la llanta, logran reducir la velocidad de forma controlada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ocurre con la fuerza necesaria para mover la carreta cuando aumenta su masa al agregar más bultos?",
+      "context": "En el mercado de Popayán, un carguero empuja una carreta cargada con dos bultos de papa y, al añadir un tercer bulto, siente que le cuesta mucho más trabajo moverla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se necesita menos fuerza para moverla porque las carretas se vuelven más fáciles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más masa implica mayor dificultad, no facilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Se necesita más fuerza para ponerla en movimiento o para cambiar su velocidad",
+          "is_correct": true,
+          "feedback": "Correcto. A mayor masa, hace falta una fuerza mayor para acelerarla."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza de empuje deja de actuar porque la carreta está muy pesada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza aplicada por el carguero siempre está presente mientras empuja."
+        },
+        {
+          "letter": "D",
+          "text": "La masa no influye en la fuerza necesaria para mover un objeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa es una variable clave en la relación entre fuerza y aceleración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para una fuerza aplicada sobre un cuerpo, mientras más masa tenga el cuerpo, menor será la aceleración que produce; por eso, para conseguir la misma aceleración, hace falta aplicar más fuerza cuanto mayor sea la masa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica correctamente por qué el vaso permanece en reposo si nadie lo empuja?",
+      "context": "En una clase de física en Bogotá, sobre una mesa lisa se coloca un vaso de precipitados que nadie empuja, y el profesor pregunta a sus estudiantes por qué el vaso se queda completamente quieto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la mesa tiene pegamento y pega el vaso",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay pegamento: el reposo se debe a las leyes del movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Por la primera ley de Newton: sin fuerza neta sobre un cuerpo, este mantiene su estado de reposo o de movimiento uniforme",
+          "is_correct": true,
+          "feedback": "Correcto. La primera ley de Newton o ley de inercia explica que un cuerpo sin fuerza neta no cambia su movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el vaso está hecho de un material que no se mueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los materiales pueden moverse si reciben una fuerza suficiente."
+        },
+        {
+          "letter": "D",
+          "text": "Por el color y la forma del vaso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color y la forma no determinan si un cuerpo permanece en reposo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera ley de Newton establece que un cuerpo permanece en reposo o en movimiento rectilíneo uniforme mientras la fuerza neta que actúa sobre él sea cero; por eso el vaso se queda quieto: las fuerzas se equilibran.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis explica que la pelota se detenga sola sin que nadie la toque?",
+      "context": "En Cúcuta, los estudiantes registran el movimiento de una pelota de fútbol: en el momento del puntapié acelera rápidamente; luego rueda por el pasto cada vez más despacio, y al final se detiene sola, sin que nadie la toque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fricción con el pasto y con el aire aplica fuerzas opuestas al movimiento y, si no hay quien la empuje, termina por detenerla",
+          "is_correct": true,
+          "feedback": "Correcto. La fricción y la resistencia del aire van restando velocidad hasta que la pelota se detiene."
+        },
+        {
+          "letter": "B",
+          "text": "La pelota se cansa de rodar después de un rato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los objetos no se cansan; las explicaciones sobre el movimiento son físicas, no biológicas."
+        },
+        {
+          "letter": "C",
+          "text": "La pelota pierde masa al rodar y por eso se frena",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa de la pelota no cambia por el hecho de rodar."
+        },
+        {
+          "letter": "D",
+          "text": "La pelota se enfría al contacto con el suelo y por eso se pega",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enfriamiento no detiene el movimiento horizontal de la pelota."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fricción con el pasto y la resistencia del aire son fuerzas no equilibradas que se oponen al movimiento; como no hay otra fuerza que las equilibre, la pelota pierde velocidad de manera gradual hasta detenerse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica correctamente que el peso cambie de una ciudad a otra mientras la masa permanece igual?",
+      "context": "En clase de Cali, los estudiantes comparan la lectura de una balanza de baño cuando pesan la misma mochila en Popayán y en Pasto, y notan valores levemente diferentes; en cambio, la masa registrada en una báscula de cocina es la misma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa también cambia entre ciudades porque el cuerpo está en lugares distintos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa es invariable: no depende del lugar donde se mida."
+        },
+        {
+          "letter": "B",
+          "text": "El peso es igual en cualquier ciudad del planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso depende de la gravedad local y puede variar ligeramente."
+        },
+        {
+          "letter": "C",
+          "text": "El peso depende de la gravedad del lugar donde se mide; la masa es la cantidad de materia y se mantiene constante en cualquier sitio",
+          "is_correct": true,
+          "feedback": "Correcto. Masa y peso son distintas: la masa es constante y el peso varía con la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "El peso y la masa son exactamente la misma magnitud física",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se midan con números parecidos en la Tierra, masa y peso son conceptos diferentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La masa mide la cantidad de materia y no cambia de un lugar a otro, mientras que el peso es la fuerza con que la gravedad atrae al cuerpo; por eso pequeñas variaciones de gravedad entre ciudades pueden cambiar levemente la lectura del peso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación es la más correcta para explicar por qué un jugador acelera más que el otro?",
+      "context": "En un partido de fútbol en Armenia, Quindío, dos jugadores de masa similar corren desde la mitad de la cancha hacia la portería contraria; uno de ellos logra acelerar más rápido y llegar primero a esa zona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El jugador más rápido tiene siempre mejores zapatos y eso cambia la física",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los zapatos pueden influir poco, pero no son la explicación física principal."
+        },
+        {
+          "letter": "B",
+          "text": "El jugador que llega primero lo logra por simple suerte sin relación con las fuerzas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las diferencias de aceleración dependen de fuerza neta y masa, no del azar."
+        },
+        {
+          "letter": "C",
+          "text": "La aceleración depende de la fuerza neta aplicada y de la masa: con masas similares, el jugador que aplica más fuerza neta acelera más",
+          "is_correct": true,
+          "feedback": "Correcto. A igual masa, una mayor fuerza aplicada produce mayor aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración no tiene importancia en física y se puede ignorar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración es una magnitud clave para describir el cambio de movimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La aceleración de un cuerpo es directamente proporcional a la fuerza neta aplicada e inversamente proporcional a su masa; con masas parecidas, la diferencia en aceleración se explica por la magnitud de la fuerza aplicada durante el arranque.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación explica correctamente este caso de fuerzas iguales y contrarias sobre el columpio?",
+      "context": "En un parque de Bucaramanga, dos niños aplican fuerza en sentidos contrarios a un columpio en el que está sentado un adulto; si las fuerzas son iguales en magnitud y opuestas en dirección, el columpio no cambia de movimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El columpio tiene un freno interno secreto que nadie ha visto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ese freno oculto; la explicación es puramente física."
+        },
+        {
+          "letter": "B",
+          "text": "Las fuerzas iguales y opuestas se cancelan, la fuerza neta sobre el columpio es cero y, por la primera ley de Newton, no cambia su movimiento",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la fuerza neta es cero, el cuerpo mantiene su estado, sea reposo o movimiento uniforme."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos fuerzas se eliminan mutuamente y destruyen el columpio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas no se aniquilan; simplemente suman cero como vectores opuestos."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del adulto anula las fuerzas aplicadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa no anula fuerzas; afecta la respuesta del cuerpo si la fuerza neta es distinta de cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fuerzas son vectores: dos fuerzas iguales y opuestas aplicadas a un mismo cuerpo suman cero como fuerza neta; por la primera ley de Newton, sin fuerza neta el cuerpo no varía su estado de movimiento, lo que en este caso significa que el columpio ni se acelera ni se frena.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W17-fuerza-movimiento-basico-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

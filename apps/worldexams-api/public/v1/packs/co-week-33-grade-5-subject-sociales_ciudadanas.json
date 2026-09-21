@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-33-grade-5-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-20T19:50:00.260Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un Parque Nacional Natural en Colombia?",
+      "context": "Colombia cuenta con un Sistema de Parques Nacionales Naturales que protege ecosistemas únicos como selvas, páramos, nevados y arrecifes de coral en todo el territorio nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un parque de diversiones con juegos mecánicos y piscinas.",
+          "is_correct": false,
+          "feedback": "Los parques de diversiones son para el entretenimiento; los parques nacionales protegen la naturaleza."
+        },
+        {
+          "letter": "B",
+          "text": "Un barrio nuevo construido para las familias de la ciudad.",
+          "is_correct": false,
+          "feedback": "Los barrios son zonas urbanas de vivienda, no áreas de protección ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Un área protegida por el Estado para conservar la naturaleza y sus especies.",
+          "is_correct": true,
+          "feedback": "Los Parques Nacionales son áreas del Estado dedicadas a conservar ecosistemas, agua y biodiversidad."
+        },
+        {
+          "letter": "D",
+          "text": "Una finca privada donde se cultiva café para la venta.",
+          "is_correct": false,
+          "feedback": "Las fincas cafeteras son propiedades productivas privadas, no áreas protegidas del Estado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificación de los Parques Nacionales Naturales como áreas protegidas del Estado para la conservación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el Parque Tayrona es importante para la economía y la naturaleza de Colombia?",
+      "context": "En el Parque Nacional Natural Tayrona, en Santa Marta, viven monos aulladores, iguanas y corales, y llegan visitantes de todo el mundo que pagan por conocer sus playas y senderos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque conserva especies únicas y genera ingresos con el turismo responsable.",
+          "is_correct": true,
+          "feedback": "El parque protege la biodiversidad y el turismo genera empleo e ingresos para la región."
+        },
+        {
+          "letter": "B",
+          "text": "Porque allí se construyen fábricas que producen muchos objetos.",
+          "is_correct": false,
+          "feedback": "En los parques nacionales está prohibido construir fábricas que dañen los ecosistemas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sus playas sirven para botar las basuras de la ciudad.",
+          "is_correct": false,
+          "feedback": "Arrojar basuras contamina el parque y destruye las especies que allí se protegen."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el parque se talan árboles para vender madera barata.",
+          "is_correct": false,
+          "feedback": "Talar el bosque del parque destruye el patrimonio natural que el Estado debe conservar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión del doble valor de las áreas protegidas: conservación de la biodiversidad y aporte económico del turismo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v3",
+      "statement": "Si los visitantes quieren cuidar el páramo de Chingaza durante su paseo, ¿qué deben hacer?",
+      "context": "Una familia de Bogotá visita el Parque Nacional Natural Chingaza, que abastece de agua a la capital, y el guía les explica que el páramo funciona como una esponja que guarda el agua de la lluvia y la neblina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrancar frailejones para llevarlos de adorno a la casa.",
+          "is_correct": false,
+          "feedback": "Arrancar frailejones destruye las plantas que capturan y guardan el agua del páramo."
+        },
+        {
+          "letter": "B",
+          "text": "Caminar solo por los senderos señalizados y no dejar basuras.",
+          "is_correct": true,
+          "feedback": "Usar los senderos y llevarse la basura protege el suelo frágil y el agua del páramo."
+        },
+        {
+          "letter": "C",
+          "text": "Encender una fogata en el pajonal para asar carne.",
+          "is_correct": false,
+          "feedback": "Las fogatas pueden causar incendios que destruyen el páramo y contaminan el agua."
+        },
+        {
+          "letter": "D",
+          "text": "Bañarse con jabón en las quebradas del parque.",
+          "is_correct": false,
+          "feedback": "El jabón contamina las quebradas que llevan agua limpia a Bogotá."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de normas de comportamiento responsable en áreas protegidas para conservar el agua y los ecosistemas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la petición del pescador ayuda a la economía de su comunidad a largo plazo?",
+      "context": "Un pescador de Providencia ofrece a los turistas paseos en lancha por 80000 COP para ver el arrecife de coral, pero les pide no pisar los corales ni llevarse caracoles de recuerdo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque si se acaban los corales, los turistas seguirán llegando igual.",
+          "is_correct": false,
+          "feedback": "Sin corales sanos los turistas dejan de venir y la comunidad pierde sus ingresos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque conservar el arrecife mantiene el turismo y el sustento de las familias.",
+          "is_correct": true,
+          "feedback": "El arrecife sano atrae turistas año tras año y garantiza ingresos permanentes para la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los caracoles que se llevan los turistas valen más que el arrecife.",
+          "is_correct": false,
+          "feedback": "Un caracol de recuerdo vale poco frente al arrecife vivo que sostiene toda la economía local."
+        },
+        {
+          "letter": "D",
+          "text": "Porque pisar los corales los hace crecer más rápido.",
+          "is_correct": false,
+          "feedback": "Pisar los corales los quiebra y los mata; tardan muchos años en recuperarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicación de la relación entre conservación ambiental y economía sostenible en comunidades que viven del turismo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tienen en común estos tres Parques Nacionales aunque estén en regiones distintas?",
+      "context": "En clase de sociales, la profesora muestra fotos del Parque Los Nevados, del santuario de fauna y flora Malpelo y del Parque Amacayacu en el Amazonas, y pide clasificar qué protege cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en los tres hace el mismo calor de la costa Caribe.",
+          "is_correct": false,
+          "feedback": "Los Nevados son fríos de alta montaña, Malpelo es isla oceánica y Amacayacu es selva cálida."
+        },
+        {
+          "letter": "B",
+          "text": "Que los tres fueron construidos con cemento por ingenieros.",
+          "is_correct": false,
+          "feedback": "Los parques protegen naturaleza original, no construcciones de cemento."
+        },
+        {
+          "letter": "C",
+          "text": "Que los tres conservan ecosistemas y especies representativas del país.",
+          "is_correct": true,
+          "feedback": "Aunque sean distintos, todos protegen muestras únicas de la biodiversidad colombiana."
+        },
+        {
+          "letter": "D",
+          "text": "Que en los tres se permite la cacería libre de animales.",
+          "is_correct": false,
+          "feedback": "La cacería está prohibida en los parques; su fin es proteger la fauna, no cazarla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clasificación de las áreas protegidas por su función común de conservar muestras representativas de la biodiversidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia hay entre la propuesta de la empresa y la de la comunidad frente al patrimonio natural?",
+      "context": "Una empresa quiere talar parte del bosque de un parque nacional para vender madera por 50000000 COP este año, mientras la comunidad propone conservarlo y ganar cada año con turismo de naturaleza y agua limpia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, porque ambas propuestas conservan el bosque igual.",
+          "is_correct": false,
+          "feedback": "Talar el bosque lo destruye, mientras el turismo de naturaleza lo mantiene en pie."
+        },
+        {
+          "letter": "B",
+          "text": "La empresa busca una ganancia rápida que agota el recurso y la comunidad un beneficio duradero que lo conserva.",
+          "is_correct": true,
+          "feedback": "La tala da dinero una sola vez y acaba el bosque; el turismo sostenible produce ingresos sin destruirlo."
+        },
+        {
+          "letter": "C",
+          "text": "La empresa conserva mejor porque tala solo una parte pequeña.",
+          "is_correct": false,
+          "feedback": "Aun la tala parcial fragmenta el ecosistema y viola la protección legal del parque."
+        },
+        {
+          "letter": "D",
+          "text": "La comunidad pierde dinero porque el turismo no genera ningún ingreso.",
+          "is_correct": false,
+          "feedback": "El turismo de naturaleza genera empleo en hospedaje, guianza, transporte y alimentación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Análisis del contraste entre explotación inmediata de los recursos y aprovechamiento sostenible del patrimonio natural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación existe entre el cuidado del bosque y la economía de estos municipios?",
+      "context": "En dos municipios vecinos del Eje Cafetero ocurre lo siguiente: en Filandia protegen la cuenca del río y mantienen el agua limpia todo el año, mientras en el otro municipio talaron el bosque de la cuenca y ahora el río se seca en verano y se desborda en invierno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bosque no tiene relación con el agua ni con la economía campesina.",
+          "is_correct": false,
+          "feedback": "El bosque regula el agua que usan los cultivos, las casas y los negocios."
+        },
+        {
+          "letter": "B",
+          "text": "Talar el bosque mejora la economía porque se acaba el problema del agua.",
+          "is_correct": false,
+          "feedback": "Talar empeoró el agua: sequías en verano e inundaciones en invierno que dañan cultivos."
+        },
+        {
+          "letter": "C",
+          "text": "Conservar el bosque asegura agua estable para cultivos y hogares, mientras talarlo genera pérdidas económicas.",
+          "is_correct": true,
+          "feedback": "El bosque guarda agua en invierno y la libera en verano; sin él se pierden cosechas y aumenta el daño."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos municipios tienen la misma economía porque el río pasa por los dos.",
+          "is_correct": false,
+          "feedback": "El estado del bosque en cada municipio cambió la cantidad y calidad del agua disponible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Análisis de la función económica de los ecosistemas como reguladores del agua para la agricultura y la vida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál decisión protege mejor el patrimonio natural y el futuro económico del municipio?",
+      "context": "El concejo de un municipio amazónico debe elegir entre dos proyectos: ampliar la zona de reserva forestal con empleo para guardabosques y guías, o autorizar minería ilegal sin control dentro del bosque a cambio de dinero rápido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autorizar la minería sin control, porque el dinero rápido soluciona todos los problemas.",
+          "is_correct": false,
+          "feedback": "La minería sin control contamina ríos con mercurio y destruye el bosque de forma irreversible."
+        },
+        {
+          "letter": "B",
+          "text": "Ampliar la reserva con empleos verdes, porque conserva el bosque y crea sustento duradero.",
+          "is_correct": true,
+          "feedback": "La reserva protege la biodiversidad y genera empleos estables en conservación y turismo científico."
+        },
+        {
+          "letter": "C",
+          "text": "Dividir el bosque en lotes privados para que cada quien haga lo que quiera.",
+          "is_correct": false,
+          "feedback": "Fragmentar el bosque rompe los ecosistemas y elimina la protección colectiva del patrimonio."
+        },
+        {
+          "letter": "D",
+          "text": "Quemar parte del bosque para sembrar un solo cultivo durante un año.",
+          "is_correct": false,
+          "feedback": "La quema empobrece el suelo amazónico y acaba con especies que no se recuperan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Valoración de decisiones públicas sobre el patrimonio natural, priorizando la sostenibilidad sobre el beneficio inmediato.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-5-2026-W33-parques-nacionales-patrimonio-natural-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

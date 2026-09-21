@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-32-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.700Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v1",
+      "statement": "Según la biografía, ¿en qué ciudad nació Mariana Pajón y quién la acompañó al inicio de su práctica deportiva?",
+      "context": "En clase de Bogotá, leen una biografía de Mariana Pajón, ciclista de BMX, donde se afirma: \"Mariana nació en Medellín y desde niña practicó BMX en la pista del barrio con la ayuda de su padre\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nació en Bogotá y entrenó sola en el parque del centro.",
+          "is_correct": false,
+          "feedback": "La biografía no dice que naciera en Bogotá ni que entrenara sola; sitúa la historia en Medellín."
+        },
+        {
+          "letter": "B",
+          "text": "Nació en Medellín y practicó BMX con el apoyo de su padre.",
+          "is_correct": true,
+          "feedback": "El texto indica claramente que Mariana nació en Medellín y que su padre la acompañó al inicio."
+        },
+        {
+          "letter": "C",
+          "text": "Nació en Cartagena y entrenó natación en la bahía.",
+          "is_correct": false,
+          "feedback": "La biografía trata sobre BMX, no sobre natación ni sobre la ciudad de Cartagena."
+        },
+        {
+          "letter": "D",
+          "text": "Nació en Cali y aprendió a bailar salsa en una escuela.",
+          "is_correct": false,
+          "feedback": "La biografía no menciona Cali ni la salsa; su deporte central es el BMX."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuperar información explícita en una biografía identificando lugar de nacimiento y figura de acompañamiento del personaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal que el autor quiere transmitir con esta parte de la biografía?",
+      "context": "El texto continúa: \"Mariana entrenó durante años, ganó varias medallas internacionales en BMX y se convirtió en un ejemplo de disciplina y esfuerzo para los jóvenes colombianos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Mariana se retiró del deporte por cansancio a temprana edad.",
+          "is_correct": false,
+          "feedback": "El texto no habla de retiro, sino de una carrera llena de logros y de su ejemplo para los jóvenes."
+        },
+        {
+          "letter": "B",
+          "text": "Que Mariana solo se dedicó a estudiar en una universidad europea.",
+          "is_correct": false,
+          "feedback": "El texto menciona su formación deportiva; no se centra en estudios universitarios."
+        },
+        {
+          "letter": "C",
+          "text": "Que la disciplina y el esfuerzo de Mariana la llevaron a triunfar y a inspirar a otros jóvenes.",
+          "is_correct": true,
+          "feedback": "La biografía une el esfuerzo personal con los logros obtenidos y su papel como ejemplo nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Que Mariana olvidó sus raíces y ya no quiere a su país.",
+          "is_correct": false,
+          "feedback": "El texto no presenta ese mensaje; al contrario, resalta su valor como ejemplo para los colombianos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la idea global de una biografía reconociendo el mensaje central sobre el esfuerzo y el ejemplo del personaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v3",
+      "statement": "¿En qué parte de la biografía se menciona la primera medalla olímpica de Mariana?",
+      "context": "La biografía presenta los hechos en este orden: (1) infancia en Medellín con su padre, (2) primeras competencias nacionales, (3) medalla olímpica en Londres, (4) medalla olímpica en Río de Janeiro, (5) retiro temporal y regreso al BMX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la parte de su retiro temporal, porque allí se recuerdan los logros.",
+          "is_correct": false,
+          "feedback": "El retiro temporal ocurre después, como un momento distinto al de la primera medalla."
+        },
+        {
+          "letter": "B",
+          "text": "En el apartado sobre Londres, porque allí obtuvo su primer oro olímpico.",
+          "is_correct": true,
+          "feedback": "La primera medalla olímpica se ubica en la sección que narra su participación en Londres."
+        },
+        {
+          "letter": "C",
+          "text": "En la infancia en Medellín, porque todo empezó cuando era niña.",
+          "is_correct": false,
+          "feedback": "En la infancia aún no había medallas olímpicas; estas llegaron en su vida adulta."
+        },
+        {
+          "letter": "D",
+          "text": "En la parte sobre Río de Janeiro, porque allí se retiró del deporte.",
+          "is_correct": false,
+          "feedback": "En Río también ganó medalla, pero no fue su primera ni fue su retiro definitivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar el orden cronológico de una biografía para ubicar temporalmente un hecho clave en la vida del personaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v4",
+      "statement": "¿Qué significa en este contexto la expresión \"levantarse\" usada en sentido figurado?",
+      "context": "La biografía describe: \"Para llegar a la línea de meta, Mariana tuvo que caerse, levantarse y volver a pedalear con más fuerza cada vez\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reanudar el entrenamiento y seguir compitiendo después de una caída o fracaso.",
+          "is_correct": true,
+          "feedback": "En la biografía, \"levantarse\" significa recuperarse de los tropiezos y continuar el camino."
+        },
+        {
+          "letter": "B",
+          "text": "Subirse a una silla muy alta dentro del salón de clase.",
+          "is_correct": false,
+          "feedback": "El significado literal de subirse a una silla no encaja con el deporte ni con el esfuerzo relatado."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar de ciudad y abandonar la bicicleta para siempre.",
+          "is_correct": false,
+          "feedback": "\"Levantarse\" no significa abandonar, sino continuar con fuerza renovada."
+        },
+        {
+          "letter": "D",
+          "text": "Gritarle al público del estadio para que se calle.",
+          "is_correct": false,
+          "feedback": "Gritar al público no tiene relación con el sentido de \"levantarse\" en el contexto deportivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el significado figurado de las expresiones para interpretar las dificultades superadas por el personaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa del autor al incluir este recuadro al final de la biografía?",
+      "context": "Al final de la biografía, el autor incluye un recuadro con un mensaje de Mariana a los niños: \"Si se caen, vuélvanse a parar. Los sueños se cumplen con trabajo diario\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anunciar la venta de bicicletas a los lectores del libro.",
+          "is_correct": false,
+          "feedback": "El recuadro no es publicidad; transmite una enseñanza personal de Mariana."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar el tema del texto y hablar de cocina tradicional paisa.",
+          "is_correct": false,
+          "feedback": "El mensaje refuerza el tema central del esfuerzo y los sueños, no cambia de tema."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar una enseñanza motivadora dirigida a los jóvenes lectores sobre el esfuerzo y la constancia.",
+          "is_correct": true,
+          "feedback": "El recuadro cierra la biografía con un mensaje directo a los niños para motivarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Informar las fechas exactas de las próximas competencias internacionales.",
+          "is_correct": false,
+          "feedback": "El recuadro no da fechas de competencia; comparte una reflexión personal de Mariana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la intención comunicativa de los recursos finales en una biografía para reconocer su valor formativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación establece el conector \"por eso\" en el fragmento?",
+      "context": "El autor escribe: \"Mariana entrenó con disciplina. Además, contó con el apoyo de su familia. Por eso, logró subir al podio olímpico\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresa una relación de tiempo entre el entrenamiento y la familia.",
+          "is_correct": false,
+          "feedback": "\"Por eso\" no marca tiempo, sino consecuencia lógica entre las acciones previas y el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que el logro olímpico es consecuencia del entrenamiento y del apoyo familiar.",
+          "is_correct": true,
+          "feedback": "El conector \"por eso\" introduce la consecuencia de las acciones mencionadas antes."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que los hechos ocurren en lugares muy distintos al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "El conector no habla de lugares ni de simultaneidad; une causa y consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que las acciones ocurrieron en un pasado muy lejano sin importancia.",
+          "is_correct": false,
+          "feedback": "\"Por eso\" no se relaciona con tiempo lejano; presenta una consecuencia clara y actual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el papel de los conectores consecutivos para comprender la relación causa-efecto en una biografía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tienen en común las dos biografías en su forma de presentar a las deportistas?",
+      "context": "En un colegio de Cali, los estudiantes comparan dos biografías: una de Mariana Pajón (BMX) y otra de Caterine Ibargüen (salto triple). Ambas resaltan el esfuerzo, los sacrificios familiares y los logros internacionales de las deportistas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas terminan con una lista de productos comerciales para la venta.",
+          "is_correct": false,
+          "feedback": "Las biografías no terminan con listas de productos; ambas cierran con una reflexión sobre el esfuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas resaltan la disciplina, el apoyo familiar y los logros internacionales de las protagonistas.",
+          "is_correct": true,
+          "feedback": "Los dos textos comparten una estructura centrada en el esfuerzo personal, la familia y los triunfos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas presentan a las deportistas como personas que abandonan el deporte muy jóvenes.",
+          "is_correct": false,
+          "feedback": "Las dos biografías destacan trayectorias largas y exitosas, no retiros tempranos."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos están escritas en otros idiomas para lectores extranjeros.",
+          "is_correct": false,
+          "feedback": "Las biografías están escritas en español, dirigidas a lectores colombianos y latinoamericanos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar dos biografías para identificar elementos comunes en la presentación de deportistas colombianos ejemplares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas biografías cumple mejor los tres criterios del profesor?",
+      "context": "El profesor de quinto en Barranquilla propone tres criterios para evaluar la biografía de un deportista colombiano: (1) presenta los hechos en orden cronológico, (2) muestra valores como el esfuerzo y la disciplina y (3) está escrita con un lenguaje claro para los niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una biografía desordenada, sin fechas, escrita en otro idioma y con muchos errores de ortografía.",
+          "is_correct": false,
+          "feedback": "No hay orden cronológico, el idioma no es accesible y la ortografía es descuidada."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuento de ficción con un personaje inventado que gana una medalla mágica sin esfuerzo.",
+          "is_correct": false,
+          "feedback": "Es un cuento, no una biografía real, y no muestra esfuerzo ni disciplina."
+        },
+        {
+          "letter": "C",
+          "text": "La biografía de Mariana, organizada por etapas de su vida, que muestra su disciplina y está escrita en un lenguaje sencillo para niños.",
+          "is_correct": true,
+          "feedback": "Cumple los tres criterios: orden cronológico, valores presentes y lenguaje claro para los lectores."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista con datos personales de varios deportistas sin narración ni valores destacados.",
+          "is_correct": false,
+          "feedback": "Aunque tenga datos, no hay narración cronológica ni se resaltan valores como el esfuerzo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una biografía aplicando criterios de organización temporal, valores transmitidos y claridad del lenguaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W32-biografia-deportista-colombiano-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-37-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.066Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a un cuento de misterio?",
+      "context": "En Bogotá, la profesora lee en clase un cuento donde desaparece una lonchera y todos buscan qué pasó.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un enigma que se intenta resolver con pistas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el misterio gira en torno a una pregunta sin respuesta hasta el final."
+        },
+        {
+          "letter": "B",
+          "text": "Solo describe un partido de fútbol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un partido no plantea ningún enigma por resolver."
+        },
+        {
+          "letter": "C",
+          "text": "Explica una receta de cocina paso a paso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la receta indica pasos y no guarda un secreto."
+        },
+        {
+          "letter": "D",
+          "text": "Lista los precios de una tienda del barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una lista de precios no crea suspenso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cuento de misterio plantea un enigma y deja pistas para que el lector participe. Reconocer sus elementos permite leer con atención y anticipar lo que puede ocurrir en la historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué sirve una pista dentro de un cuento de misterio?",
+      "context": "En el cuento, Ana encuentra una huella de barro junto a su pupitre y la señala al grupo.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para acercarnos a la respuesta del enigma.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada pista reduce las posibilidades y guía al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Para alargar el cuento con palabras muy difíciles.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una pista aporta información, no dificultad de vocabulario."
+        },
+        {
+          "letter": "C",
+          "text": "Para cambiar el tema de la historia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una pista mantiene el tema y ayuda a resolverlo."
+        },
+        {
+          "letter": "D",
+          "text": "Para terminar el cuento de inmediato.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las pistas se acumulan antes del desenlace."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las pistas son datos que el narrador deja para resolver el enigma: una huella, un objeto, una hora. Comprender su función permite distinguir la información importante de los detalles de relleno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v3",
+      "statement": "¿Qué pista señala directamente al responsable?",
+      "context": "En Medellín, el cuento dice: \"Después del aguacero, solo Nicolás tenía las botas llenas de barro\".\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las botas llenas de barro de Nicolás.",
+          "is_correct": true,
+          "feedback": "Es correcta porque une el barro del salón con la única persona que lo pisó."
+        },
+        {
+          "letter": "B",
+          "text": "El cuaderno nuevo de Ana.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuaderno no se relaciona con el barro del piso."
+        },
+        {
+          "letter": "C",
+          "text": "La ventana abierta del salón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ventana no muestra quién entró al salón."
+        },
+        {
+          "letter": "D",
+          "text": "El tablero limpio de la clase.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tablero no aporta información sobre el caso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la lectura de pistas exige relacionar el detalle con el enigma. El barro del salón solo coincide con las botas de Nicolás. Este tipo de deducción permite seguir la lógica del relato sin adivinar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el orden correcto de los hechos del cuento?",
+      "context": "En Cali, el cuento narra así: primero desaparece la lonchera, luego Ana ve una huella y al final la lonchera aparece en el patio.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desaparece la lonchera, Ana ve la huella y la lonchera aparece en el patio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque respeta el orden en que el narrador presenta los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Aparece la lonchera, desaparece la lonchera y Ana ve la huella.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lonchera primero desaparece y solo al final aparece."
+        },
+        {
+          "letter": "C",
+          "text": "Ana ve la huella, aparece la lonchera y luego desaparece.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte la desaparición y el hallazgo final."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los hechos ocurren al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el relato presenta una secuencia clara de inicio a fin."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la secuencia narrativa permite reconstruir la historia en orden. En un misterio, el orden de las pistas también importa: primero el problema, luego las huellas y al final la solución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v5",
+      "statement": "¿Qué pudo causar la caída del cuaderno?",
+      "context": "En Cartagena, el narrador escribe: \"El viento movió la cortina y el cuaderno cayó al piso\".\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento que movió la cortina.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto relaciona el viento con la caída del cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "El ruido del timbre de entrada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un sonido no empuja los objetos sobre la mesa."
+        },
+        {
+          "letter": "C",
+          "text": "La mesa del profesor.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la mesa no se menciona como causa de la caída."
+        },
+        {
+          "letter": "D",
+          "text": "El color de la pared del salón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el color no produce movimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir una causa es unir dos hechos del texto: el viento y la caída. Aplicar esta relación permite entender lo que el narrador sugiere sin decirlo de forma directa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v6",
+      "statement": "Al analizar los dos argumentos, ¿cuál es más confiable en un misterio?",
+      "context": "En Barranquilla, dos amigos investigan. Sofía dice que fue Pedro \"porque lo vio raro\", y Andrés dice que fue Pedro porque halló su nombre firmado en la lonchera.\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Andrés, porque se apoya en una prueba del caso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el nombre firmado es un dato concreto y verificable."
+        },
+        {
+          "letter": "B",
+          "text": "El de Sofía, porque su corazonada basta para acusar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una corazonada no es una prueba del hecho."
+        },
+        {
+          "letter": "C",
+          "text": "El de Sofía, porque vio a Pedro una vez.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ver a alguien no demuestra que haya hecho algo."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque los misterios nunca se resuelven.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un misterio se resuelve al reunir pruebas suficientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un misterio exige distinguir una prueba de una suposición. La prueba se puede mostrar y revisar; la corazonada no. Comparar argumentos enseña a decidir con razones y no con impresiones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v7",
+      "statement": "¿Qué debes hacer al analizar esa contradicción?",
+      "context": "En Bucaramanga, el cuento dice que la puerta siempre está cerrada, pero un testigo afirma que vio a alguien salir por ella.\n**Expected_Success:** 0.63",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar más pistas que aclaren cómo salió esa persona.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la nueva información ayuda a resolver la contradicción."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar al testigo para no complicar el cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque descartar un dato debilita la investigación."
+        },
+        {
+          "letter": "C",
+          "text": "Decidir que todo el cuento es falso y cerrarlo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una contradicción es parte del reto, no una falla total."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir a un culpable al azar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque acusar sin pruebas no resuelve el enigma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar contradicciones es comparar dos datos que no encajan y buscar una explicación. Puede haber un pasadizo, una llave o un error del testigo. Este razonamiento crítico fortalece la lectura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál final resuelve mejor el enigma con las pistas dadas?",
+      "context": "En Pereira, el club de lectura elige el mejor final para el misterio de la lonchera, usando las pistas que aparecieron en el cuento.\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lonchera apareció en el patio y las huellas de barro guiaron hasta el jardín, donde un perro la había arrastrado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque explica el hallazgo y usa la pista del barro para resolver el misterio."
+        },
+        {
+          "letter": "B",
+          "text": "De pronto llegó un dragón y se llevó todas las loncheras del colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un dragón no aparece en las pistas del cuento."
+        },
+        {
+          "letter": "C",
+          "text": "Nadie supo nunca qué pasó y el cuento terminó sin explicación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un final de misterio debe aclarar el enigma."
+        },
+        {
+          "letter": "D",
+          "text": "La lonchera se convirtió en piedra y el misterio siguió para siempre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un cambio imposible no se apoya en las pistas presentadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un final exige comprobar que use las pistas del cuento y explique el enigma. Un buen desenlace sorprende, pero también resulta creíble porque encaja con los datos anteriores.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

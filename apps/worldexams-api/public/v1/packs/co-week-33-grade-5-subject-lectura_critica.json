@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.700Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v1",
+      "statement": "Según el fragmento del mito, ¿de dónde salió Bachué y qué hizo al principio de la narración?",
+      "context": "En un taller de Medellín, la profesora lee un fragmento del mito muisca sobre Bachué: \"Bachué salió de la laguna de Iguaque con un niño en brazos y se convirtió en la madre de los pueblos muiscas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salió de la laguna de Iguaque con un niño en brazos para ser la madre de los muiscas.",
+          "is_correct": true,
+          "feedback": "El texto afirma que Bachué emergió de la laguna de Iguaque con un niño y se volvió madre del pueblo muisca."
+        },
+        {
+          "letter": "B",
+          "text": "Salió de una cueva oscura en el desierto de La Guajira.",
+          "is_correct": false,
+          "feedback": "El mito sitúa a Bachué en una laguna, no en una cueva ni en el desierto."
+        },
+        {
+          "letter": "C",
+          "text": "Apareció volando sobre las nubes del Amazonas.",
+          "is_correct": false,
+          "feedback": "El texto no habla del Amazonas ni de vuelo entre nubes; es una aparición en una laguna."
+        },
+        {
+          "letter": "D",
+          "text": "Bajó de una montaña nevada en el sur de Chile.",
+          "is_correct": false,
+          "feedback": "El mito es colombiano y no menciona Chile ni una montaña nevada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recuperar información explícita en un mito reconociendo el lugar y la acción inicial del personaje principal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal que transmite este fragmento de la leyenda?",
+      "context": "Ahora la profesora lee una leyenda boyacense sobre el mohán: \"Dicen los abuelos que el mohán vivía en las riveras del río Magdalena y se aparecía a los pescadores para probar su buen corazón\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los pescadores del Magdalena venden muchos pescados en el mercado.",
+          "is_correct": false,
+          "feedback": "La leyenda no habla de ventas ni de mercados, sino de pruebas morales a los pescadores."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mohán pone a prueba el buen corazón de los pescadores del Magdalena.",
+          "is_correct": true,
+          "feedback": "El fragmento une la aparición del mohán con el propósito de evaluar el corazón de los pescadores."
+        },
+        {
+          "letter": "C",
+          "text": "Que los ríos colombianos se secan en tiempo de verano intenso.",
+          "is_correct": false,
+          "feedback": "La leyenda no describe sequías; su tema es la prueba moral frente al mohán."
+        },
+        {
+          "letter": "D",
+          "text": "Que los abuelos boyacenses olvidaron todas las historias de la región.",
+          "is_correct": false,
+          "feedback": "Al contrario, los abuelos son quienes conservan y transmiten la historia del mohán."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la idea global de una leyenda identificando el propósito del personaje mágico en la historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v3",
+      "statement": "¿En qué parte de cada texto se presenta la enseñanza o moraleja final?",
+      "context": "El texto del mito presenta esta estructura: (1) Bachué sale de la laguna, (2) camina con su hijo, (3) funda comunidades, (4) se despide de los suyos y (5) vuelve a la laguna. La leyenda, en cambio, presenta: (1) pescadores en el río, (2) aparece el mohán, (3) les pone pruebas, (4) algunos fallan y (5) la gente recuerda la enseñanza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el mito, al volver a la laguna; en la leyenda, al recordar la enseñanza tras las pruebas.",
+          "is_correct": true,
+          "feedback": "El cierre de cada relato es donde se concentran el sentido simbólico y la enseñanza cultural."
+        },
+        {
+          "letter": "B",
+          "text": "En el inicio del mito, cuando Bachué sale, y al principio de la leyenda, con los pescadores.",
+          "is_correct": false,
+          "feedback": "Los inicios presentan el escenario; la enseñanza aparece al final de cada relato."
+        },
+        {
+          "letter": "C",
+          "text": "En la descripción de los oficios de los personajes, no en la trama principal.",
+          "is_correct": false,
+          "feedback": "La enseñanza no depende de los oficios sino del desenlace de cada narración."
+        },
+        {
+          "letter": "D",
+          "text": "Solo en la leyenda, porque el mito no transmite ninguna enseñanza cultural.",
+          "is_correct": false,
+          "feedback": "El mito también comunica una enseñanza cultural sobre el origen de un pueblo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la estructura narrativa para ubicar la parte donde mito y leyenda concentran su enseñanza cultural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v4",
+      "statement": "¿Qué significa la expresión \"sin esperar nada a cambio\" en este contexto?",
+      "context": "En la leyenda se lee: \"El mohán guardaba un secreto antiguo que solo revelaba a quienes ayudaban sin esperar nada a cambio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la ayuda es generosa y no busca recompensas materiales ni reconocimiento.",
+          "is_correct": true,
+          "feedback": "La expresión indica una ayuda desinteresada, sin pedir retribución por la buena acción."
+        },
+        {
+          "letter": "B",
+          "text": "Que la persona recibe a cambio una bolsa llena de monedas de oro.",
+          "is_correct": false,
+          "feedback": "\"Sin esperar nada a cambio\" excluye precisamente el recibir pagos o premios materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Que la ayuda se da únicamente cuando hay cámaras de televisión presentes.",
+          "is_correct": false,
+          "feedback": "El sentido de la expresión no depende de cámaras ni de escenarios públicos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ayuda se oculta para que nadie se entere jamás en el pueblo.",
+          "is_correct": false,
+          "feedback": "La expresión no habla de ocultar la ayuda, sino de no buscar recompensa por hacerla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar el significado de expresiones en contexto para interpretar la enseñanza ética de la leyenda.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa principal de los mitos y leyendas de tradición oral?",
+      "context": "En un colegio de Pereira, la profesora pregunta: \"¿Para qué sirven los mitos y las leyendas en la cultura colombiana?\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vender productos turísticos a los visitantes extranjeros del país.",
+          "is_correct": false,
+          "feedback": "La tradición oral no es una estrategia de marketing, aunque pueda ser atractiva para el turismo."
+        },
+        {
+          "letter": "B",
+          "text": "Contar solamente chistes para reír en las fiestas del pueblo.",
+          "is_correct": false,
+          "feedback": "Mitos y leyendas transmiten saberes culturales, no están pensados como chistes."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar el origen de pueblos, lugares o fenómenos y transmitir enseñanzas morales y culturales.",
+          "is_correct": true,
+          "feedback": "Mitos y leyendas explican orígenes y comparten valores a través de relatos simbólicos."
+        },
+        {
+          "letter": "D",
+          "text": "Anunciar las noticias del día en la radio comunitaria.",
+          "is_correct": false,
+          "feedback": "La tradición oral no se centra en la información inmediata, sino en la memoria colectiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la intención comunicativa de los relatos de tradición oral para reconocer su papel cultural y formativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función cumplen los conectores \"por eso\" y \"sin embargo\" en estos fragmentos?",
+      "context": "El texto del mito dice: \"Bachué era una mujer sagrada y, por eso, los muiscas la consideraban la madre de todos\". La leyenda, en cambio, dice: \"Los pescadores eran valientes; sin embargo, algunos fallaron en la prueba del mohán\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos indican que las acciones ocurren al mismo tiempo en el mismo lugar.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos marcadores expresa simultaneidad; cada uno cumple una función distinta."
+        },
+        {
+          "letter": "B",
+          "text": "\"Por eso\" expresa consecuencia y \"sin embargo\" expresa contraste entre ideas.",
+          "is_correct": true,
+          "feedback": "\"Por eso\" introduce la consecuencia de la condición sagrada; \"sin embargo\" opone valentía y fracaso."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos conectores sirven para cerrar el relato con un saludo al lector.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos se usa como cierre ni como saludo dentro del relato."
+        },
+        {
+          "letter": "D",
+          "text": "\"Por eso\" indica tiempo pasado y \"sin embargo\" indica lugar lejano.",
+          "is_correct": false,
+          "feedback": "\"Por eso\" marca consecuencia y \"sin embargo\" marca contraste, no tiempo ni lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el papel de los conectores para reconocer relaciones de consecuencia y contraste en mito y leyenda.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis de las diferencias entre mito y leyenda es más completo?",
+      "context": "En un foro de Bogotá, dos estudiantes discuten: Laura dice que los mitos y las leyendas son lo mismo porque ambos hablan de seres fantásticos. Andrés opina que se diferencian porque los mitos explican orígenes y las leyendas suelen incluir lugares y personajes reales con un toque mágico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Laura, porque cualquier relato con magia es un mito.",
+          "is_correct": false,
+          "feedback": "No basta con tener magia: la función cultural del mito es explicar orígenes, no solo entretener."
+        },
+        {
+          "letter": "B",
+          "text": "El de Andrés, porque el mito explica el origen de un pueblo y la leyenda mezcla lugares reales con magia.",
+          "is_correct": true,
+          "feedback": "Andrés distingue la función originaria del mito y el carácter local y moral de la leyenda."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos están equivocados, porque mito y leyenda nunca tienen nada en común.",
+          "is_correct": false,
+          "feedback": "Sí comparten elementos, como seres fantásticos, pero se diferencian en su intención cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno tiene razón, porque los mitos y las leyendas no se estudian en la escuela.",
+          "is_correct": false,
+          "feedback": "Mitos y leyendas forman parte del trabajo de lectura crítica en la escuela colombiana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar las diferencias entre mito y leyenda reconociendo la intención cultural propia de cada género narrativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos relatos cumple mejor los tres criterios propuestos por la profesora?",
+      "context": "La profesora de quinto en Cartagena propone tres criterios para evaluar los relatos del foro: (1) explica si es mito o leyenda y por qué, (2) menciona al menos un elemento mágico del relato y (3) comparte la enseñanza cultural que deja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto sin personajes ni acción, con una lista de colores preferidos por los niños.",
+          "is_correct": false,
+          "feedback": "No hay personajes ni acción mágica ni enseñanza cultural; incumple los tres criterios."
+        },
+        {
+          "letter": "B",
+          "text": "Un anuncio comercial que ofrece descuentos en una tienda del centro de Cartagena.",
+          "is_correct": false,
+          "feedback": "Es publicidad, no un relato tradicional, y no comparte enseñanza cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Un relato sobre el mohán que aparece a los pescadores del Magdalena, pone a prueba su bondad y deja la enseñanza de ayudar sin esperar nada a cambio.",
+          "is_correct": true,
+          "feedback": "Identifica la leyenda, menciona al mohán como ser mágico y comparte una enseñanza cultural clara."
+        },
+        {
+          "letter": "D",
+          "text": "Una receta de cocina paisa con ingredientes y pasos numerados para preparar una bandeja.",
+          "is_correct": false,
+          "feedback": "Es una receta, no un relato tradicional, y no incluye magia ni enseñanza cultural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un relato tradicional aplicando criterios explícitos sobre género narrativo, elementos mágicos y enseñanza cultural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W33-comparacion-mito-leyenda-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

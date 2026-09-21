@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-40-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T19:01:53.473Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v1",
+      "statement": "Which words describe people?",
+      "context": "In a classroom in Cúcuta, a chart shows tall, short, young and old people.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table, chair and board.",
+          "is_correct": false,
+          "feedback": "Table, chair and board are classroom objects, not descriptions."
+        },
+        {
+          "letter": "B",
+          "text": "Tall, short, young and old.",
+          "is_correct": true,
+          "feedback": "Tall, short, young and old all describe how people look or are."
+        },
+        {
+          "letter": "C",
+          "text": "Rice, soup and juice.",
+          "is_correct": false,
+          "feedback": "Rice, soup and juice are foods, not descriptions of people."
+        },
+        {
+          "letter": "D",
+          "text": "Dog, cat and fish.",
+          "is_correct": false,
+          "feedback": "Dog, cat and fish are animals, not descriptions of people."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta presenta adjetivos básicos para describir personas en inglés. También se conecta cada palabra con retratos del salón cucuteño.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v2",
+      "statement": "What is an adjective?",
+      "context": "In Florencia, a girl says: \"My brother is tall and funny. My grandmother is short and kind.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A word for an action.",
+          "is_correct": false,
+          "feedback": "Action words are verbs, not describing words."
+        },
+        {
+          "letter": "B",
+          "text": "A word that describes a person or thing.",
+          "is_correct": true,
+          "feedback": "Adjectives like tall and kind describe people and things."
+        },
+        {
+          "letter": "C",
+          "text": "A word for a place.",
+          "is_correct": false,
+          "feedback": "Place words are nouns like city or school, not descriptions."
+        },
+        {
+          "letter": "D",
+          "text": "A word for a number.",
+          "is_correct": false,
+          "feedback": "Numbers count things but do not describe how they are."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra adjective significa la palabra que describe personas o cosas. También se comprende con el hermano alto y la abuela amable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct verb to complete the sentence.",
+      "context": "In Yopal, a boy describes his friend: \"He _____ brown eyes and black hair.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have.",
+          "is_correct": false,
+          "feedback": "\"Have\" is plural and does not agree with the singular he."
+        },
+        {
+          "letter": "B",
+          "text": "Has.",
+          "is_correct": true,
+          "feedback": "\"Has\" agrees with the third person singular he."
+        },
+        {
+          "letter": "C",
+          "text": "Having.",
+          "is_correct": false,
+          "feedback": "\"Having\" needs am, is or are and is not correct alone here."
+        },
+        {
+          "letter": "D",
+          "text": "Had.",
+          "is_correct": false,
+          "feedback": "\"Had\" is past tense and the description is in the present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo has describe características con he, she e it en presente. También se practica describiendo a un amigo llanero.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v4",
+      "statement": "What does Ana like to do?",
+      "context": "In Mocoa, students read: \"My friend Ana is ten years old. She has long hair. She likes to sing vallenato. She is very happy.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To play soccer.",
+          "is_correct": false,
+          "feedback": "The text never mentions soccer in Ana's description."
+        },
+        {
+          "letter": "B",
+          "text": "To cook arepas.",
+          "is_correct": false,
+          "feedback": "The text never mentions cooking in Ana's description."
+        },
+        {
+          "letter": "C",
+          "text": "To swim daily.",
+          "is_correct": false,
+          "feedback": "The text never mentions swimming in Ana's description."
+        },
+        {
+          "letter": "D",
+          "text": "To sing vallenato.",
+          "is_correct": true,
+          "feedback": "The text says Ana likes to sing vallenato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Leer retratos exige localizar el gusto mencionado en el texto. También se aplica con una amiga que canta vallenato en Mocoa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v5",
+      "statement": "Which word means the opposite of happy?",
+      "context": "At home in Apartadó, twins play: \"I am happy today. My sister is sad because her kite broke.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sad.",
+          "is_correct": true,
+          "feedback": "Sad is the opposite of happy and describes the sister."
+        },
+        {
+          "letter": "B",
+          "text": "Glad.",
+          "is_correct": false,
+          "feedback": "Glad means the same as happy, not the opposite."
+        },
+        {
+          "letter": "C",
+          "text": "Tired.",
+          "is_correct": false,
+          "feedback": "Tired means needing rest, not the opposite of happy."
+        },
+        {
+          "letter": "D",
+          "text": "Hungry.",
+          "is_correct": false,
+          "feedback": "Hungry means needing food, not the opposite of happy."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los opuestos como happy y sad describen sentimientos de los niños. También se asocian con juegos de hermanos en Apartadó.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v6",
+      "statement": "What can you conclude about Pedro and Lucía?",
+      "context": "In Leticia, two notes appear: \"Pedro is tall, quiet and likes to read\" and \"Lucía is short, talkative and likes to dance.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both are tall and quiet.",
+          "is_correct": false,
+          "feedback": "Only Pedro is tall and quiet; Lucía is short and talkative."
+        },
+        {
+          "letter": "B",
+          "text": "They are opposite in size, character and taste.",
+          "is_correct": true,
+          "feedback": "The notes contrast tall-quiet-reading with short-talkative-dancing."
+        },
+        {
+          "letter": "C",
+          "text": "Both like exactly the same activity.",
+          "is_correct": false,
+          "feedback": "Pedro likes reading while Lucía likes dancing."
+        },
+        {
+          "letter": "D",
+          "text": "Neither note describes a person.",
+          "is_correct": false,
+          "feedback": "Both notes clearly describe Pedro and Lucía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar retratos permite comparar tamaño, carácter y gustos. También se trabaja el contraste entre dos amigos de Leticia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v7",
+      "statement": "Which statement explains the difference?",
+      "context": "In San José del Guaviare, a teacher compares: \"My mother is a doctor\" and \"My mother is generous.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both sentences describe her personality.",
+          "is_correct": false,
+          "feedback": "Only the second sentence describes personality with generous."
+        },
+        {
+          "letter": "B",
+          "text": "Both sentences name her job.",
+          "is_correct": false,
+          "feedback": "Only the first sentence names her job as a doctor."
+        },
+        {
+          "letter": "C",
+          "text": "The first names her job, the second describes her personality.",
+          "is_correct": true,
+          "feedback": "\"A doctor\" is a profession while \"generous\" is a quality."
+        },
+        {
+          "letter": "D",
+          "text": "The first describes personality, the second names her job.",
+          "is_correct": false,
+          "feedback": "The roles are reversed; job first, then quality."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La profesión se nombra con a o an y la cualidad con adjetivos. También se distingue el trabajo de la mamá y su generosidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle-v8",
+      "statement": "Which description is the best for fifth graders?",
+      "context": "In Mitú, two family descriptions for a school fair appear: one uses kind words and true facts; the other uses rude words and invented facts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The rude description, because jokes hurt less.",
+          "is_correct": false,
+          "feedback": "Rude words hurt feelings and are wrong at a school fair."
+        },
+        {
+          "letter": "B",
+          "text": "The kind description with true facts.",
+          "is_correct": true,
+          "feedback": "Kind words and true facts respect the family and teach well."
+        },
+        {
+          "letter": "C",
+          "text": "The invented description, because lies are fun.",
+          "is_correct": false,
+          "feedback": "Invented facts are lies and teach wrong information."
+        },
+        {
+          "letter": "D",
+          "text": "Both descriptions are equal for children.",
+          "is_correct": false,
+          "feedback": "The descriptions are very different; only one respects and teaches."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar descripciones implica revisar palabras amables y datos verdaderos. También se promueve describir a la familia con respeto y verdad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W40-describing-people-friends-family-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

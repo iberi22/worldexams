@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-34-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.700Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes partes aparece siempre al inicio de una carta formal de solicitud?",
+      "context": "En una escuela de Medellín, la profesora muestra una carta formal de solicitud dirigida a la rectoría para pedir libros nuevos para la biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lugar, la fecha y el nombre del destinatario",
+          "is_correct": true,
+          "feedback": "Correcto, toda carta formal inicia con el lugar, la fecha y los datos del destinatario."
+        },
+        {
+          "letter": "B",
+          "text": "Un dibujo colorido para decorar la carta",
+          "is_correct": false,
+          "feedback": "Los dibujos decorativos no hacen parte de la estructura de una carta formal."
+        },
+        {
+          "letter": "C",
+          "text": "Un chiste para saludar con alegría",
+          "is_correct": false,
+          "feedback": "Los chistes no corresponden al tono serio de una carta formal."
+        },
+        {
+          "letter": "D",
+          "text": "La firma del cartero que entrega la carta",
+          "is_correct": false,
+          "feedback": "El cartero no firma la carta, la firma quien escribe la solicitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La carta formal inicia con lugar, fecha y destinatario para ubicar la comunicación en tiempo y persona.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia principal entre una carta amistosa y una carta formal de solicitud?",
+      "context": "En un colegio de Cali, los estudiantes comparan una carta a un amigo con una carta de solicitud al alcalde para arreglar el parque del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carta amistosa es más larga que la carta formal",
+          "is_correct": false,
+          "feedback": "La longitud no es la diferencia principal entre ambas cartas."
+        },
+        {
+          "letter": "B",
+          "text": "La carta formal se escribe siempre con lápiz de colores",
+          "is_correct": false,
+          "feedback": "El material de escritura no define si una carta es formal o amistosa."
+        },
+        {
+          "letter": "C",
+          "text": "La carta formal usa lenguaje respetuoso y tiene un propósito de petición clara",
+          "is_correct": true,
+          "feedback": "Correcto, la carta formal usa trato respetuoso y presenta una solicitud concreta."
+        },
+        {
+          "letter": "D",
+          "text": "La carta amistosa lleva el sello de la alcaldía",
+          "is_correct": false,
+          "feedback": "Los sellos oficiales no aparecen en las cartas entre amigos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La carta formal se distingue por su tono respetuoso y por presentar una petición de manera ordenada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v3",
+      "statement": "Si los estudiantes escriben la carta de solicitud, ¿a quién deben dirigirla como destinatario?",
+      "context": "Los niños de una escuela en Barranquilla quieren escribir al coordinador para solicitar balones nuevos para la clase de educación física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los compañeros del salón de clases",
+          "is_correct": false,
+          "feedback": "Los compañeros no pueden autorizar la entrega de balones nuevos."
+        },
+        {
+          "letter": "B",
+          "text": "Al coordinador, que es la persona encargada de autorizar la solicitud",
+          "is_correct": true,
+          "feedback": "Correcto, el destinatario formal es quien tiene la autoridad para responder la petición."
+        },
+        {
+          "letter": "C",
+          "text": "Al vendedor de la tienda escolar",
+          "is_correct": false,
+          "feedback": "El vendedor de la tienda no decide sobre los implementos deportivos."
+        },
+        {
+          "letter": "D",
+          "text": "Al conductor del bus escolar",
+          "is_correct": false,
+          "feedback": "El conductor del bus no tiene relación con la solicitud de balones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El destinatario de una carta formal es la persona o entidad que puede atender la solicitud.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estas frases es una fórmula de cortesía adecuada para una carta formal de solicitud?",
+      "context": "Una niña de Cartagena escribe a la biblioteca pública para solicitar el préstamo de libros de cuentos para su curso de quinto grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hola, ¿qué más? necesito eso ya",
+          "is_correct": false,
+          "feedback": "Esa expresión es informal y exigente, no sirve para una carta formal."
+        },
+        {
+          "letter": "B",
+          "text": "Oye, hazme el favor rapidito",
+          "is_correct": false,
+          "feedback": "Esa expresión es propia del habla informal entre amigos."
+        },
+        {
+          "letter": "C",
+          "text": "Chao, nos vemos, cuídate mucho",
+          "is_correct": false,
+          "feedback": "Esa despedida es afectuosa pero no es propia de una carta formal."
+        },
+        {
+          "letter": "D",
+          "text": "Respetado señor bibliotecario, le solicito amablemente",
+          "is_correct": true,
+          "feedback": "Correcto, esta fórmula muestra respeto y presenta la petición con cortesía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las fórmulas de cortesía mantienen el tono respetuoso que exige la comunicación formal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el propósito comunicativo de la carta que escribe el personero?",
+      "context": "En Bucaramanga, el personero estudiantil redacta una carta a la rectoría para pedir permiso y realizar una jornada de aseo en el colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solicitar una autorización para realizar una actividad escolar",
+          "is_correct": true,
+          "feedback": "Correcto, la carta busca obtener un permiso mediante una petición respetuosa."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia divertida de sus vacaciones",
+          "is_correct": false,
+          "feedback": "Narrar vacaciones corresponde a una carta amistosa, no a una solicitud."
+        },
+        {
+          "letter": "C",
+          "text": "Describir cómo es el paisaje de Bucaramanga",
+          "is_correct": false,
+          "feedback": "Describir paisajes no es el propósito de una carta de solicitud."
+        },
+        {
+          "letter": "D",
+          "text": "Felicitar a la rectora por su cumpleaños",
+          "is_correct": false,
+          "feedback": "Felicitar es propio de una tarjeta de celebración, no de una solicitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El propósito de la carta de solicitud es pedir algo concreto de manera clara y respetuosa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v6",
+      "statement": "Una carta dice: \"Medellín, 3 de marzo de 2026. Respetada rectora: le solicito permiso para usar la cancha. Atentamente, Julián\". Otra carta dice: \"Hola, préstame la cancha, chao\". ¿Qué análisis es correcto?",
+      "context": "En una escuela de Pereira, el docente presenta dos cartas incompletas y pide a los estudiantes descubrir cuál respeta la estructura de la carta formal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas cartas son formales porque hablan de la cancha",
+          "is_correct": false,
+          "feedback": "Hablar del mismo tema no convierte una carta en formal."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda carta es formal porque es más corta y directa",
+          "is_correct": false,
+          "feedback": "La brevedad no define el carácter formal de una carta."
+        },
+        {
+          "letter": "C",
+          "text": "La primera carta es formal porque incluye encabezado, trato respetuoso, petición y despedida",
+          "is_correct": true,
+          "feedback": "Correcto, la primera carta reúne los elementos estructurales de la carta formal."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna carta tiene elementos analizables",
+          "is_correct": false,
+          "feedback": "Sí es posible analizar la estructura y el lenguaje de ambas cartas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la estructura permite reconocer si un texto cumple las características de la carta formal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el tono de esa carta NO es adecuado para una solicitud formal?",
+      "context": "En Manizales, una estudiante escribe: \"Exijo que me den mañana mismo los computadores, si no me enojo\". La profesora pide analizar el tono de la carta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usa la palabra computadores, que es muy difícil",
+          "is_correct": false,
+          "feedback": "La palabra computadores es correcta y no afecta el tono formal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa exigencias y amenazas en lugar de una petición respetuosa",
+          "is_correct": true,
+          "feedback": "Correcto, la carta formal requiere solicitar con cortesía, no exigir con enojo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque menciona el tiempo con la palabra mañana",
+          "is_correct": false,
+          "feedback": "Indicar una fecha no es un error en una carta formal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la escribió una estudiante y no un adulto",
+          "is_correct": false,
+          "feedback": "Los estudiantes también pueden escribir cartas formales adecuadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tono de la carta formal debe ser cordial y persuasivo, nunca impositivo ni agresivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas cartas merece la mejor valoración como carta formal de solicitud?",
+      "context": "En Pasto, tres grupos de quinto grado escribieron cartas para solicitar árboles para sembrar en el patio. El rector elegirá la mejor carta para responderla primero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que no tiene fecha ni destinatario pero pide muchos árboles con dibujos",
+          "is_correct": false,
+          "feedback": "Sin fecha ni destinatario la carta pierde formalidad y claridad."
+        },
+        {
+          "letter": "B",
+          "text": "La que usa groserías para presionar y no presenta despedida",
+          "is_correct": false,
+          "feedback": "La presión con groserías rompe la cortesía exigida en la carta formal."
+        },
+        {
+          "letter": "C",
+          "text": "La que solo saluda al rector pero olvida explicar qué solicita",
+          "is_correct": false,
+          "feedback": "Sin petición clara la carta no cumple su propósito de solicitud."
+        },
+        {
+          "letter": "D",
+          "text": "La que presenta encabezado completo, solicitud justificada, tono cortés y despedida con firma",
+          "is_correct": true,
+          "feedback": "Correcto, esta carta integra estructura, propósito y cortesía de manera ejemplar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una carta formal excelente combina estructura completa, petición justificada y lenguaje respetuoso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

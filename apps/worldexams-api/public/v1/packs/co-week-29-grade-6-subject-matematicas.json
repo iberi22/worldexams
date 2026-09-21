@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T02:17:10.414Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se lee correctamente el número 12.5?",
+      "context": "En Bogotá, un estudiante mide con la regla un objeto y anota la longitud 12.5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doce unidades y cinco décimas",
+          "is_correct": true,
+          "feedback": "Es correcto: la primera cifra después de la coma representa las décimas."
+        },
+        {
+          "letter": "B",
+          "text": "Doce unidades y cinco centésimas",
+          "is_correct": false,
+          "feedback": "Error conceptual: las centésimas ocupan la segunda posición decimal."
+        },
+        {
+          "letter": "C",
+          "text": "Doce unidades y cinco milésimas",
+          "is_correct": false,
+          "feedback": "Error conceptual: las milésimas ocupan la tercera posición decimal."
+        },
+        {
+          "letter": "D",
+          "text": "Doce unidades y cincuenta décimas",
+          "is_correct": false,
+          "feedback": "Error conceptual: el 5 representa cinco décimas, no cincuenta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un número decimal, la primera cifra después del punto corresponde a las décimas, la segunda a las centésimas y la tercera a las milésimas. Leer correctamente los decimales evita errores al operar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los dos números es mayor?",
+      "context": "En Medellín, un estudiante compara la estatura de dos plantas del huerto escolar: una mide 4.5 cm y la otra 4.45 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.5, porque 0.50 es mayor que 0.45 al comparar décimas y centésimas",
+          "is_correct": true,
+          "feedback": "Es correcto: 4.50 es mayor que 4.45 porque 50 centésimas superan a 45."
+        },
+        {
+          "letter": "B",
+          "text": "4.45, porque tiene más cifras decimales",
+          "is_correct": false,
+          "feedback": "Error conceptual: tener más cifras no significa que el número sea mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Son iguales",
+          "is_correct": false,
+          "feedback": "Error conceptual: 4.50 y 4.45 difieren en 0.05, así que no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "4.45, porque 45 es mayor que 5",
+          "is_correct": false,
+          "feedback": "Error conceptual: se comparan cifras de distinta posición decimal sin alinearlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar decimales se iguala el número de cifras y se compara posición por posición: 4.50 frente a 4.45. Al alinear los decimales, 4.50 resulta mayor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos kilómetros recorrió en total?",
+      "context": "En Cali, un atleta entrena corriendo primero 3.25 km y luego 2.6 km sin detenerse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.85 km",
+          "is_correct": true,
+          "feedback": "Es correcto: 3.25 + 2.60 = 5.85 km, alineando los decimales."
+        },
+        {
+          "letter": "B",
+          "text": "5.31 km",
+          "is_correct": false,
+          "feedback": "Error conceptual: 5.31 resulta de alinear mal los decimales y sumar cifras de distinta posición."
+        },
+        {
+          "letter": "C",
+          "text": "6.85 km",
+          "is_correct": false,
+          "feedback": "Error conceptual: 6.85 surge de sumar 1 km de más en el segundo recorrido."
+        },
+        {
+          "letter": "D",
+          "text": "5.05 km",
+          "is_correct": false,
+          "feedback": "Error conceptual: 5.05 resta en vez de sumar las distancias recorridas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sumar decimales se alinean las comas y se completan con ceros: 3.25 + 2.60 = 5.85. Ignorar la alineación produce errores de valor posicional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánta agua queda en el tanque?",
+      "context": "En Barranquilla, un tanque de agua contiene 15.5 L y en el riego se consumen 4.75 L.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.75 L",
+          "is_correct": true,
+          "feedback": "Es correcto: 15.50 − 4.75 = 10.75 L."
+        },
+        {
+          "letter": "B",
+          "text": "11.25 L",
+          "is_correct": false,
+          "feedback": "Error conceptual: 11.25 resulta de restar mal las centésimas."
+        },
+        {
+          "letter": "C",
+          "text": "10.25 L",
+          "is_correct": false,
+          "feedback": "Error conceptual: 10.25 surge de un error al restar 15.50 − 4.75."
+        },
+        {
+          "letter": "D",
+          "text": "11.75 L",
+          "is_correct": false,
+          "feedback": "Error conceptual: 11.75 aparece al no pedir prestado correctamente en las décimas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La resta 15.50 − 4.75 = 10.75 L exige alinear las comas y pedir prestado cuando la cifra superior es menor. El resultado representa el agua que permanece en el tanque.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la longitud total de la cuerda unida?",
+      "context": "En Bucaramanga, un instructor une tres cuerdas que miden 2.4 m, 1.85 m y 3.1 m para una actividad deportiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.35 m",
+          "is_correct": true,
+          "feedback": "Es correcto: 2.40 + 1.85 + 3.10 = 7.35 m."
+        },
+        {
+          "letter": "B",
+          "text": "7.15 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: 7.15 surge de un error de acarreo al sumar las centésimas."
+        },
+        {
+          "letter": "C",
+          "text": "8.35 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: 8.35 suma una cantidad adicional que no aparece en los datos."
+        },
+        {
+          "letter": "D",
+          "text": "6.35 m",
+          "is_correct": false,
+          "feedback": "Error conceptual: 6.35 omite casi un metro en la suma total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se alinean los tres decimales y se suman por columnas: 2.40 + 1.85 + 3.10 = 7.35 m. Completar con ceros facilita sumar cantidades con distinto número de decimales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál fue su error y cuál es el resultado correcto?",
+      "context": "En Pereira, un estudiante suma 12.4 + 3.65 y escribe como resultado 4.9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alineó mal los decimales; el resultado correcto es 16.05",
+          "is_correct": true,
+          "feedback": "Es correcto: 12.40 + 3.65 = 16.05, y sin alinear se obtiene un valor muy distinto."
+        },
+        {
+          "letter": "B",
+          "text": "No hubo error; el resultado es 4.9",
+          "is_correct": false,
+          "feedback": "Error conceptual: 4.9 no proviene de sumar dos cantidades mayores que 12 y 3."
+        },
+        {
+          "letter": "C",
+          "text": "Olvidó sumar; el resultado correcto es 15.9",
+          "is_correct": false,
+          "feedback": "Error conceptual: 15.9 no corresponde a la suma exacta de 12.40 y 3.65."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado correcto es 16.5",
+          "is_correct": false,
+          "feedback": "Error conceptual: 16.5 omite la cifra de las centésimas del segundo número."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El error típico es escribir los números sin alinear las comas. Al alinear 12.40 y 3.65 se obtiene 16.05; revisar el valor posicional previene este fallo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánta harina falta y qué operación lo resuelve?",
+      "context": "En Manizales, una receta necesita 1.5 kg de harina y la cocinera ya ha usado 0.75 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.75 kg, con la resta 1.50 − 0.75",
+          "is_correct": true,
+          "feedback": "Es correcto: 1.50 − 0.75 = 0.75 kg, que es la cantidad pendiente."
+        },
+        {
+          "letter": "B",
+          "text": "2.25 kg, con la suma de ambas cantidades",
+          "is_correct": false,
+          "feedback": "Error conceptual: sumar da el total hipotético, no lo que falta por usar."
+        },
+        {
+          "letter": "C",
+          "text": "0.75 kg, con la suma 0.75 + 0",
+          "is_correct": false,
+          "feedback": "Error conceptual: el valor coincide, pero la operación correcta es una resta."
+        },
+        {
+          "letter": "D",
+          "text": "1.25 kg, con la resta 1.50 − 0.25",
+          "is_correct": false,
+          "feedback": "Error conceptual: se resta una cantidad equivocada; lo usado es 0.75 kg."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Lo que falta se calcula restando lo usado al total: 1.50 − 0.75 = 0.75 kg. Identificar la operación adecuada es tan importante como el cálculo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué su razonamiento es incorrecto?",
+      "context": "En Ibagué, un estudiante afirma que 5.7 es menor que 5.65 porque \"7 es menor que 65\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque debe comparar décimas: 5.70 es mayor que 5.65",
+          "is_correct": true,
+          "feedback": "Es correcto: al igualar a centésimas, 570 supera a 565."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los números enteros de ambos son iguales",
+          "is_correct": false,
+          "feedback": "Error conceptual: que la parte entera sea igual no resuelve cuál decimal es mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque 5.7 tiene menos cifras decimales",
+          "is_correct": false,
+          "feedback": "Error conceptual: la cantidad de cifras no indica el valor del número."
+        },
+        {
+          "letter": "D",
+          "text": "Porque hay que sumar los decimales para poder comparar",
+          "is_correct": false,
+          "feedback": "Error conceptual: para comparar se alinean las posiciones, no se suman los decimales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar decimales exige alinear las posiciones: 5.70 frente a 5.65. Comparar \"7\" con \"65\" como números enteros ignora el valor posicional y lleva a conclusiones falsas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuánta leche queda? Selecciona el razonamiento correcto.",
+      "context": "En Pasto, una finca produjo 3.5 L de leche por la mañana, se vendieron 1.25 L y se derramaron 0.25 L.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.0 L, restando 3.5 − 1.25 − 0.25",
+          "is_correct": true,
+          "feedback": "Es correcto: se restan todas las pérdidas: 3.50 − 1.25 − 0.25 = 2.00 L."
+        },
+        {
+          "letter": "B",
+          "text": "2.5 L, restando solo la leche vendida",
+          "is_correct": false,
+          "feedback": "Error conceptual: se omite el derrame de 0.25 L."
+        },
+        {
+          "letter": "C",
+          "text": "1.75 L, sumando en vez de restar las pérdidas",
+          "is_correct": false,
+          "feedback": "Error conceptual: las pérdidas se restan; sumarlas aleja del resultado correcto."
+        },
+        {
+          "letter": "D",
+          "text": "5.0 L, sumando todas las cantidades",
+          "is_correct": false,
+          "feedback": "Error conceptual: sumar producción y pérdidas no representa lo que queda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando hay varias pérdidas se restan todas del total: 3.50 − 1.25 − 0.25 = 2.00 L. Modelar el problema con la operación correcta evita resultados absurdos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle-v10",
+      "statement": "¿La afirmación es correcta? Justifica tu respuesta.",
+      "context": "En Armenia, un estudiante afirma: \"Al restar 8.3 − 0.75 el resultado es 0.8\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque 8.30 − 0.75 = 7.55",
+          "is_correct": true,
+          "feedback": "Es correcto: al alinear y pedir prestado, 8.30 − 0.75 = 7.55."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 8.3 − 0.75 = 0.8",
+          "is_correct": false,
+          "feedback": "Error conceptual: 0.8 no proviene de la resta; es un error de alineación."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque el resultado es 8.55",
+          "is_correct": false,
+          "feedback": "Error conceptual: 8.55 sumaría las cantidades en lugar de restarlas."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque se restan 0.75 y 0.05",
+          "is_correct": false,
+          "feedback": "Error conceptual: se introduce un 0.05 que no existe en el problema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para validar una afirmación conviene calcular con cuidado: 8.30 − 0.75 = 7.55. El error surge al restar como si los números tuvieran las mismas cifras decimales sin alinear.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-6-2026-W29-decimales-suma-resta-problemas-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

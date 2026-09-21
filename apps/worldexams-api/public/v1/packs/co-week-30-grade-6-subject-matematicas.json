@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T02:17:10.415Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de relación existe entre el número de obreros y el tiempo de trabajo?",
+      "context": "En Bogotá, una constructora observa que al aumentar el número de obreros, el tiempo para terminar la obra disminuye.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporcionalidad inversa",
+          "is_correct": true,
+          "feedback": "Es correcto: al aumentar una magnitud, la otra disminuye de forma proporcional."
+        },
+        {
+          "letter": "B",
+          "text": "Proporcionalidad directa",
+          "is_correct": false,
+          "feedback": "Error conceptual: en la directa ambas magnitudes crecen juntas, y aquí una baja."
+        },
+        {
+          "letter": "C",
+          "text": "No hay relación entre ellas",
+          "is_correct": false,
+          "feedback": "Error conceptual: sí existe relación; lo que cambia es su sentido inverso."
+        },
+        {
+          "letter": "D",
+          "text": "Suma constante",
+          "is_correct": false,
+          "feedback": "Error conceptual: la relación no se describe sumando las magnitudes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos magnitudes son inversamente proporcionales cuando al multiplicar una por cierto factor, la otra se divide por ese factor. Más obreros implican menos tiempo, así que la relación es inversa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v2",
+      "statement": "Si aumenta la velocidad del carro, ¿qué ocurre con el tiempo del recorrido?",
+      "context": "En Medellín, un carro recorre cierta distancia a 60 km/h y tarda 4 horas; si viaja más rápido, el viaje dura menos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye, porque la relación es inversa",
+          "is_correct": true,
+          "feedback": "Es correcto: a mayor velocidad, menor tiempo para la misma distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta, porque es una relación directa",
+          "is_correct": false,
+          "feedback": "Error conceptual: velocidad y tiempo no crecen juntas; una sube y la otra baja."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene igual",
+          "is_correct": false,
+          "feedback": "Error conceptual: al cambiar la velocidad el tiempo también cambia."
+        },
+        {
+          "letter": "D",
+          "text": "Se duplica siempre",
+          "is_correct": false,
+          "feedback": "Error conceptual: el tiempo no se duplica de forma fija; depende de la velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para una distancia fija, velocidad y tiempo son inversamente proporcionales: el producto se mantiene constante. Por eso, aumentar la velocidad reduce el tiempo del recorrido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v3",
+      "statement": "¿En cuántos días construirían el mismo muro 12 obreros?",
+      "context": "En Cali, 6 obreros construyen un muro en 8 días trabajando al mismo ritmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 días",
+          "is_correct": true,
+          "feedback": "Es correcto: 6 × 8 = 48 y 48 ÷ 12 = 4 días."
+        },
+        {
+          "letter": "B",
+          "text": "16 días",
+          "is_correct": false,
+          "feedback": "Error conceptual: 16 días duplica el tiempo como si la relación fuera directa."
+        },
+        {
+          "letter": "C",
+          "text": "8 días",
+          "is_correct": false,
+          "feedback": "Error conceptual: el tiempo cambia al variar el número de obreros."
+        },
+        {
+          "letter": "D",
+          "text": "2 días",
+          "is_correct": false,
+          "feedback": "Error conceptual: 2 días reduciría el tiempo a la cuarta parte, no a la mitad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la proporcionalidad inversa el producto es constante: obreros × días = 48. Con 12 obreros, 48 ÷ 12 = 4 días. Duplicar los obreros reduce el tiempo a la mitad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto tardan en llenar el mismo tanque 4 grifos iguales?",
+      "context": "En Barranquilla, 3 grifos iguales llenan un tanque en 12 horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 horas",
+          "is_correct": true,
+          "feedback": "Es correcto: 3 × 12 = 36 y 36 ÷ 4 = 9 horas."
+        },
+        {
+          "letter": "B",
+          "text": "16 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 16 horas aumenta el tiempo como si fuera proporción directa."
+        },
+        {
+          "letter": "C",
+          "text": "6 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 6 horas implicaría duplicar los grifos, no pasar de 3 a 4."
+        },
+        {
+          "letter": "D",
+          "text": "36 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 36 es el producto constante, no el tiempo con 4 grifos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Caudal y tiempo son inversamente proporcionales: 3 × 12 = 36. Con 4 grifos, 36 ÷ 4 = 9 horas. El producto caudal por tiempo se conserva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto tardan 4 máquinas iguales en empacar el mismo pedido?",
+      "context": "En Bucaramanga, 8 máquinas iguales empacan un pedido en 5 horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 horas",
+          "is_correct": true,
+          "feedback": "Es correcto: 8 × 5 = 40 y 40 ÷ 4 = 10 horas."
+        },
+        {
+          "letter": "B",
+          "text": "2.5 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 2.5 horas reduciría el tiempo a la mitad al reducir las máquinas."
+        },
+        {
+          "letter": "C",
+          "text": "5 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: con menos máquinas el tiempo debe aumentar, no quedarse igual."
+        },
+        {
+          "letter": "D",
+          "text": "20 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 20 horas cuadruplica el tiempo, más de lo que corresponde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Menos máquinas implican más tiempo: 8 × 5 = 40 y 40 ÷ 4 = 10 horas. La relación inversa garantiza que el producto permanezca constante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos trabajadores se necesitan para cumplir el nuevo plazo?",
+      "context": "En Pereira, 10 trabajadores tardan 18 días en adecuar un terreno, pero se necesita terminar en 12 días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 trabajadores",
+          "is_correct": true,
+          "feedback": "Es correcto: 10 × 18 = 180 y 180 ÷ 12 = 15 trabajadores."
+        },
+        {
+          "letter": "B",
+          "text": "12 trabajadores",
+          "is_correct": false,
+          "feedback": "Error conceptual: 12 igualaría trabajadores con días, sin respetar el producto constante."
+        },
+        {
+          "letter": "C",
+          "text": "20 trabajadores",
+          "is_correct": false,
+          "feedback": "Error conceptual: 20 sobrepasa la cantidad requerida para 12 días."
+        },
+        {
+          "letter": "D",
+          "text": "8 trabajadores",
+          "is_correct": false,
+          "feedback": "Error conceptual: con menos trabajadores el plazo aumentaría, no se reduciría."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se conserva el trabajo total: 10 × 18 = 180 jornadas. Para 12 días, 180 ÷ 12 = 15 trabajadores. La relación inversa permite ajustar el equipo al nuevo plazo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto tarda a 60 km/h y qué constante se mantiene?",
+      "context": "En Manizales, un vehículo viaja a 80 km/h y tarda 3 horas; luego hace el mismo recorrido a 60 km/h.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 horas, manteniendo la distancia de 240 km",
+          "is_correct": true,
+          "feedback": "Es correcto: 80 × 3 = 240 km y 240 ÷ 60 = 4 horas."
+        },
+        {
+          "letter": "B",
+          "text": "2.25 horas, manteniendo la velocidad",
+          "is_correct": false,
+          "feedback": "Error conceptual: la velocidad cambia, por eso no puede mantenerse constante."
+        },
+        {
+          "letter": "C",
+          "text": "4 horas, manteniendo el tiempo",
+          "is_correct": false,
+          "feedback": "Error conceptual: el tiempo no se conserva; lo constante es la distancia."
+        },
+        {
+          "letter": "D",
+          "text": "2 horas, manteniendo la distancia",
+          "is_correct": false,
+          "feedback": "Error conceptual: la distancia es correcta, pero 240 ÷ 60 no da 2 horas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia recorrida es la constante: 80 × 3 = 240 km. Al reducir la velocidad, el tiempo sube: 240 ÷ 60 = 4 horas. Esto evidencia la proporcionalidad inversa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v8",
+      "statement": "¿En cuánto tiempo llenan juntas el tanque?",
+      "context": "En Neiva, una llave llena un tanque en 6 horas y otra llave, más potente, lo llena en 3 horas; se abren las dos al mismo tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 horas",
+          "is_correct": true,
+          "feedback": "Es correcto: en una hora llenan 1/6 + 1/3 = 1/2 del tanque, así que tardan 2 horas."
+        },
+        {
+          "letter": "B",
+          "text": "9 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 9 horas resulta de sumar los tiempos en vez de sumar los caudales."
+        },
+        {
+          "letter": "C",
+          "text": "4.5 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 4.5 es el promedio de los tiempos y no el tiempo conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "1.5 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: 1.5 horas supondría un caudal mayor que el real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los caudales se suman: 1/6 + 1/3 = 1/2 del tanque por hora. Por eso juntas tardan 2 horas. Sumar tiempos es un error porque las llaves trabajan a la vez.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v9",
+      "statement": "¿La afirmación es correcta? Justifica con proporcionalidad inversa.",
+      "context": "En Cartagena, un estudiante afirma: \"Al duplicar la velocidad, el tiempo del recorrido se duplica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque al duplicar la velocidad el tiempo se reduce a la mitad",
+          "is_correct": true,
+          "feedback": "Es correcto: en la relación inversa, duplicar una magnitud divide la otra entre 2."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque ambas magnitudes crecen juntas",
+          "is_correct": false,
+          "feedback": "Error conceptual: velocidad y tiempo no crecen juntos; es una relación inversa."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la distancia recorrida aumenta",
+          "is_correct": false,
+          "feedback": "Error conceptual: la distancia es la constante, no la causa del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el tiempo no cambia",
+          "is_correct": false,
+          "feedback": "Error conceptual: el tiempo sí cambia al variar la velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la proporcionalidad inversa, si una magnitud se multiplica por k, la otra se divide entre k. Por eso duplicar la velocidad reduce el tiempo a la mitad, como lo confirma el producto constante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál situación corresponde a proporcionalidad inversa y por qué?",
+      "context": "En Villavicencio, se comparan dos situaciones: en la primera, los kilos de arroz y su precio total; en la segunda, el número de obreros y el tiempo de una obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda, porque al aumentar los obreros disminuye el tiempo",
+          "is_correct": true,
+          "feedback": "Es correcto: obreros y tiempo se comportan de forma inversamente proporcional."
+        },
+        {
+          "letter": "B",
+          "text": "La primera, porque más kilos de arroz cuestan más",
+          "is_correct": false,
+          "feedback": "Error conceptual: kilos y precio crecen juntos, por eso es proporcionalidad directa."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas, porque en las dos hay dos magnitudes",
+          "is_correct": false,
+          "feedback": "Error conceptual: tener dos magnitudes no implica que la relación sea inversa."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque no hay proporción entre ellas",
+          "is_correct": false,
+          "feedback": "Error conceptual: ambas presentan proporción; solo una es inversa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la situación del arroz, más kilos implican más precio (directa). En la de los obreros, más trabajadores implican menos tiempo (inversa). Distinguir el sentido de la relación es la clave.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-6-2026-W30-proporcionalidad-inversa-magnitudes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

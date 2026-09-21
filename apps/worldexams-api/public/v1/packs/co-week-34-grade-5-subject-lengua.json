@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-34-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.065Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v1",
+      "statement": "Según la descripción \"mochila azul, de tela y con dos correas\", ¿qué característica indica el material del que está hecha?",
+      "context": "En un salón de Bogotá, la profesora muestra una mochila azul de tela con dos correas y pide describirla con detalle.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De tela.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"de tela\" señala el material del que está hecha la mochila."
+        },
+        {
+          "letter": "B",
+          "text": "Azul.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"azul\" indica el color y no el material."
+        },
+        {
+          "letter": "C",
+          "text": "Con dos correas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las correas indican una parte de la mochila."
+        },
+        {
+          "letter": "D",
+          "text": "Mochila.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa palabra nombra el objeto, no su material."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Describir es presentar las características de algo. En una buena descripción se distinguen el color, el material, la forma, el tamaño y las partes. En el ejemplo, \"de tela\" responde al material, mientras \"azul\" responde al color. Reconocer qué dato responde a cada pregunta mejora la precisión al describir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v2",
+      "statement": "¿Qué se entiende de la descripción del perro de Tomás?",
+      "context": "En Medellín, Tomás describe a su perro: \"Es pequeño, de pelo café y orejas largas; siempre mueve la cola cuando llego del colegio\".\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sus rasgos físicos son el tamaño, el color del pelo y las orejas, y que muestra alegría al verlo llegar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne los rasgos físicos y el comportamiento descritos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el perro es grande y de pelo negro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la descripción dice que es pequeño y de pelo café."
+        },
+        {
+          "letter": "C",
+          "text": "Que el perro vive en el parque y no con Tomás.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la descripción no menciona dónde vive el perro."
+        },
+        {
+          "letter": "D",
+          "text": "Que el perro no reconoce a Tomás cuando llega.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mover la cola indica que sí lo reconoce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender una descripción consiste en separar los rasgos físicos de los de comportamiento. Tomás menciona tamaño, color y orejas, y añade que el perro mueve la cola. Distinguir \"cómo es\" de \"cómo actúa\" permite comprender mejor a los animales y a las personas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál descripción permite identificar mejor un borrador?",
+      "context": "En Cali, los estudiantes deben describir un objeto para que un compañero lo adivine sin verlo.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pequeño, rectangular, de caucho blanco y sirve para borrar el lápiz.",
+          "is_correct": true,
+          "feedback": "Es correcta porque menciona forma, material, color y uso del objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Es un objeto que existe en muchos colores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa idea sirve para casi cualquier objeto y no lo identifica."
+        },
+        {
+          "letter": "C",
+          "text": "Es algo que se usa en el colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muchos objetos escolares cumplen esa condición."
+        },
+        {
+          "letter": "D",
+          "text": "Es pequeño y bonito.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no dice forma, material ni uso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la descripción exige elegir los datos que permitan reconocer el objeto: forma, material, color y uso. La opción correcta reúne esos cuatro aspectos y casi no deja dudas. Las descripciones vagas, como \"es bonito\", no ayudan a imaginar el objeto y por eso deben evitarse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál característica de la descripción indica lo que el loro sabe hacer?",
+      "context": "En Barranquilla, una estudiante describe al loro de su abuela: \"Tiene plumas verdes, pico curvo y repite algunas palabras\".\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir algunas palabras.",
+          "is_correct": true,
+          "feedback": "Es correcta porque repetir palabras describe una acción o habilidad del loro."
+        },
+        {
+          "letter": "B",
+          "text": "Tener plumas verdes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las plumas verdes son un rasgo físico."
+        },
+        {
+          "letter": "C",
+          "text": "Tener el pico curvo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el pico curvo es también un rasgo físico."
+        },
+        {
+          "letter": "D",
+          "text": "Ser un loro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa palabra nombra al animal y no menciona una acción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la descripción implica reconocer qué tipo de dato aporta cada palabra. El color de las plumas y la forma del pico describen el aspecto del loro; repetir palabras describe su comportamiento. Separar apariencia y acción hace que la descripción sea ordenada y completa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v5",
+      "statement": "¿Qué datos de esa descripción ayudan a un estudiante a decidir la compra?",
+      "context": "En una papelería de Pereira, la vendedora describe un cuaderno: \"Tiene 100 hojas, pasta dura y cuesta 3500 pesos\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de hojas, el tipo de pasta y el precio en pesos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esos tres datos permiten comparar el cuaderno con otros."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el nombre de la papelería.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el nombre del local no describe el cuaderno."
+        },
+        {
+          "letter": "C",
+          "text": "El día en que llegó el pedido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la descripción no menciona ese dato."
+        },
+        {
+          "letter": "D",
+          "text": "El color de la vitrina.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el color de la vitrina no informa sobre el cuaderno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la vida diaria describimos objetos para tomar decisiones, como comprar un cuaderno. Los datos útiles son las características del producto: número de hojas, tipo de pasta y precio en pesos colombianos. Aprender a fijarse en esos detalles ayuda a comparar opciones y a elegir mejor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v6",
+      "statement": "Ana dice: \"Es lenta y tiene caparazón duro\". Luis dice: \"Es un animal que se mueve despacio y lleva su casa encima\". ¿Cuál es la diferencia principal entre las dos descripciones?",
+      "context": "En Bucaramanga, dos compañeros describen la misma tortuga durante la clase de ciencias naturales.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Luis usa una comparación figurada y Ana describe con rasgos directos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Luis llama \"casa\" al caparazón en sentido figurado."
+        },
+        {
+          "letter": "B",
+          "text": "Que Ana habla de un animal diferente al de Luis.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las dos descripciones se refieren a la tortuga."
+        },
+        {
+          "letter": "C",
+          "text": "Que Luis no conoce a la tortuga de la clase.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su descripción coincide con la de Ana."
+        },
+        {
+          "letter": "D",
+          "text": "Que las dos descripciones usan exactamente las mismas palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cada uno eligió palabras y comparaciones distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar descripciones permite comparar estilos. Ana utiliza rasgos directos, como \"lenta\" y \"caparazón duro\"; Luis usa una comparación figurada, al decir que la tortuga lleva su casa encima. Ambas son válidas, pero reconocer el estilo ayuda a enriquecer la propia manera de describir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v7",
+      "statement": "¿Qué información importante falta en la descripción del aviso para que un comprador decida mejor?",
+      "context": "En Cartagena, un aviso ofrece un ventilador usado: \"Ventilador nuevo, de tres velocidades, color blanco, funciona muy bien\".\n**Expected_Success:** 0.71",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El precio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque sin el precio el comprador no puede comparar ni decidir."
+        },
+        {
+          "letter": "B",
+          "text": "El color del ventilador.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso sí dice que es blanco."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de velocidades.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso menciona que tiene tres velocidades."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de aparato que se vende.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso indica claramente que es un ventilador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una descripción también implica detectar lo que falta. El aviso informa el estado, las velocidades y el color, pero omite el precio, dato esencial en una venta. Revisar si la descripción responde a las preguntas del lector ayuda a comunicar de forma completa y útil.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las descripciones es la más completa y útil?",
+      "context": "En Bogotá, la profesora pide elegir la mejor descripción de un objeto para el mural del salón y publicarla con una imagen.\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un termo metálico de color rojo, de veinte centímetros, con tapa y asa, que conserva bebidas frías o calientes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne material, color, tamaño, partes y uso del objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Es un objeto rojo y bonito que sirve para muchas cosas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no precisa material, tamaño, partes ni uso."
+        },
+        {
+          "letter": "C",
+          "text": "Es una cosa que la gente usa todos los días.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa idea podría describir muchísimos objetos."
+        },
+        {
+          "letter": "D",
+          "text": "Es un termo grande, rojo, bonito, chévere y muy llamativo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque repite adjetivos de apariencia y no menciona partes ni uso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar descripciones exige comprobar si responden a las preguntas básicas: qué es, cómo es, de qué material, de qué tamaño, qué partes tiene y para qué sirve. La opción correcta responde a todas, mientras las demás se quedan en la apariencia. Una buena descripción permite que el lector imagine el objeto sin verlo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

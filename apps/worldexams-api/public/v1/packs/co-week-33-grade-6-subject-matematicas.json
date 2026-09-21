@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-33-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T02:17:10.416Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál unidad es la más adecuada para expresar la duración del descanso?",
+      "context": "En un colegio de Bogotá el descanso empieza a las 9:30 a. m. y termina a las 10:00 a. m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque el descanso dura media hora, y los minutos expresan esa duración con precisión."
+        },
+        {
+          "letter": "B",
+          "text": "Años",
+          "is_correct": false,
+          "feedback": "Error conceptual: los años miden periodos muy largos, no un descanso escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Siglos",
+          "is_correct": false,
+          "feedback": "Error conceptual: un siglo equivale a 100 años, una escala totalmente inadecuada."
+        },
+        {
+          "letter": "D",
+          "text": "Meses",
+          "is_correct": false,
+          "feedback": "Error conceptual: los meses sirven para periodos largos, no para media hora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La unidad se elige según lo que se mide. Para intervalos cortos del día convienen los minutos u horas; los años, meses y siglos se reservan para periodos muy largos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v2",
+      "statement": "¿A cuántos minutos equivalen 3 horas?",
+      "context": "En Neiva una familia planea un viaje por carretera que dura 3 horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "180 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada hora tiene 60 minutos y 3 × 60 = 180."
+        },
+        {
+          "letter": "B",
+          "text": "60 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: corresponde a solo una hora, no a las tres del viaje."
+        },
+        {
+          "letter": "C",
+          "text": "30 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: media hora no equivale a tres horas."
+        },
+        {
+          "letter": "D",
+          "text": "300 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica 3 por 100 en vez de por 60, que son los minutos de una hora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las unidades de tiempo forman un sistema sexagesimal: 1 hora = 60 minutos y 1 minuto = 60 segundos. Para pasar de horas a minutos se multiplica por 60.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto dura la clase?",
+      "context": "En Medellín una clase inicia a las 7:15 a. m. y termina a las 8:00 a. m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque de 7:15 a 8:00 faltan 45 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "30 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: subestima el intervalo; media hora solo llega hasta las 7:45."
+        },
+        {
+          "letter": "C",
+          "text": "1 hora y 15 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma una hora completa de más al intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "15 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: confunde el minuto de inicio con la duración total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para calcular una duración se resta la hora de inicio a la hora final. Completar de 7:15 a 8:00 da 45 minutos, porque faltan 45 para llegar a la hora en punto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos minutos dura el evento en total?",
+      "context": "En Cartagena un evento cultural dura 2 horas y 30 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 2 horas son 120 minutos y al sumar 30 se obtienen 150."
+        },
+        {
+          "letter": "B",
+          "text": "120 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: convierte las horas pero olvida sumar los 30 minutos."
+        },
+        {
+          "letter": "C",
+          "text": "90 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma 60 + 30 como si solo hubiera una hora."
+        },
+        {
+          "letter": "D",
+          "text": "250 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica por 100 en vez de por 60 al convertir las horas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para convertir una duración mixta se pasan las horas a minutos y se suman los minutos restantes. Dos horas son 120 minutos y 120 + 30 = 150 minutos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v5",
+      "statement": "¿A qué hora llega el bus a su destino?",
+      "context": "En Manizales un bus intermunicipal sale a las 2:40 p. m. y el viaje tarda 1 hora y 35 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4:15 p. m.",
+          "is_correct": true,
+          "feedback": "Es correcta porque 2:40 más 1 hora da 3:40 y 35 minutos más llegan a 4:15."
+        },
+        {
+          "letter": "B",
+          "text": "3:75 p. m.",
+          "is_correct": false,
+          "feedback": "Error conceptual: deja 75 minutos sin convertir a una hora y cuarto."
+        },
+        {
+          "letter": "C",
+          "text": "4:05 p. m.",
+          "is_correct": false,
+          "feedback": "Error conceptual: resta mal los minutos al sumar las duraciones."
+        },
+        {
+          "letter": "D",
+          "text": "3:15 p. m.",
+          "is_correct": false,
+          "feedback": "Error conceptual: omite una hora completa del tiempo de viaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sumar tiempos se agregan primero las horas y luego los minutos; si los minutos pasan de 60 se convierte una hora. Así 2:40 + 1:35 = 4:15 p. m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántas horas y minutos estudia en total de lunes a viernes?",
+      "context": "En Cali un estudiante organiza su semana: estudia 45 minutos cada día de lunes a viernes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 horas y 45 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 45 × 5 = 225 minutos, y 225 = 3 horas y 45 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "4 horas y 5 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: convierte mal los minutos sobrantes al repartir 225."
+        },
+        {
+          "letter": "C",
+          "text": "3 horas y 15 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: resta minutos de más y deja solo 15 en vez de 45."
+        },
+        {
+          "letter": "D",
+          "text": "2 horas y 45 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: multiplica los días por una duración equivocada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se multiplica la duración diaria por el número de días y luego se convierte el total. Cinco días de 45 minutos dan 225 minutos, equivalentes a 3 horas y 45 minutos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas horas permanece abierta al público?",
+      "context": "En Bogotá una biblioteca abre de 8:00 a. m. a 5:00 p. m., pero cierra una hora al mediodía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 horas",
+          "is_correct": true,
+          "feedback": "Es correcta porque de 8:00 a 5:00 hay 9 horas y al restar la hora de cierre quedan 8."
+        },
+        {
+          "letter": "B",
+          "text": "9 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: cuenta el total sin descontar la hora del mediodía."
+        },
+        {
+          "letter": "C",
+          "text": "7 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: resta dos horas de cierre en lugar de una sola."
+        },
+        {
+          "letter": "D",
+          "text": "10 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: exagera el intervalo sumando una hora extra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando hay una interrupción se calcula el intervalo total y se resta el tiempo cerrado. De 8:00 a 5:00 son 9 horas, y al descontar 1 hora de cierre quedan 8 horas abiertas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede concluir sobre los dos tiempos?",
+      "context": "En una maratón de Neiva un corredor tarda 1 hora y 50 minutos y otro tarda 110 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales, porque 1 hora y 50 minutos equivalen a 110 minutos",
+          "is_correct": true,
+          "feedback": "Es correcta porque 60 + 50 = 110; ambos corredores emplearon el mismo tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "El primer corredor tardó más por tener una hora",
+          "is_correct": false,
+          "feedback": "Error conceptual: no convierte a una unidad común antes de comparar."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo corredor tardó más por tener 110 minutos",
+          "is_correct": false,
+          "feedback": "Error conceptual: cree que un número mayor siempre implica más tiempo, sin convertir."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar porque usan unidades distintas",
+          "is_correct": false,
+          "feedback": "Error conceptual: se pueden comparar si se convierten a la misma unidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar duraciones se deben expresar en la misma unidad. Una hora y 50 minutos es equivalente a 110 minutos, así que ambos registros describen el mismo tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación del estudiante? Justifica tu respuesta.",
+      "context": "En Medellín un estudiante afirma: \"Todos los meses del año tienen exactamente 30 días\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque cada mes tiene entre 28 y 31 días según el calendario",
+          "is_correct": true,
+          "feedback": "Es correcta porque los meses varían: febrero tiene 28 o 29 días y otros llegan a 31."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, todos los meses tienen exactamente 30 días",
+          "is_correct": false,
+          "feedback": "Error conceptual: ignora que enero, marzo y otros meses tienen 31 días."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, excepto febrero, que tiene 30 días",
+          "is_correct": false,
+          "feedback": "Error conceptual: febrero tiene 28 días (29 en año bisiesto), no 30."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque todos los meses tienen 32 días",
+          "is_correct": false,
+          "feedback": "Error conceptual: ningún mes del calendario tiene 32 días."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El calendario gregoriano combina meses de 28, 29, 30 y 31 días. Reconocer esa variedad es necesario para calcular fechas y duraciones con exactitud.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la estrategia más adecuada para calcular la duración en horas?",
+      "context": "En Cartagena una familia planea un viaje de 2 días y medio y quiere expresar la duración en horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convertir 2 días a 48 horas y sumar 12 horas, porque medio día son 12 horas",
+          "is_correct": true,
+          "feedback": "Es correcta porque 2 × 24 = 48 y medio día son 12; el total es 60 horas."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicar 2 por 24 y dejar el medio día sin convertir",
+          "is_correct": false,
+          "feedback": "Error conceptual: omite la mitad del tiempo y subestima el total."
+        },
+        {
+          "letter": "C",
+          "text": "Contar cada día como 12 horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: un día completo tiene 24 horas, no 12."
+        },
+        {
+          "letter": "D",
+          "text": "Sumar 2 + 5 y expresar el resultado en horas",
+          "is_correct": false,
+          "feedback": "Error conceptual: suma los dígitos como si fueran horas, sin usar la equivalencia correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Convertir duraciones exige aplicar las equivalencias: 1 día = 24 horas y medio día = 12 horas. Así, 2 días y medio equivalen a 48 + 12 = 60 horas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.45,
+      "bundle_id": "CO-MAT-6-2026-W33-medidas-tiempo-calendario-duracion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

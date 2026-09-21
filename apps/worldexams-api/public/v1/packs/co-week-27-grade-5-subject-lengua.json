@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-27-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.640Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un afiche?",
+      "context": "En Armenia, la entrada del colegio luce un cartel grande con dibujos y letras de colores.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un libro largo con muchos capítulos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el libro se lee por dentro y el afiche se mira de un vistazo."
+        },
+        {
+          "letter": "B",
+          "text": "Un cartel con imagen y texto breve que anuncia o invita a algo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el afiche combina dibujo y pocas palabras para llamar la atención."
+        },
+        {
+          "letter": "C",
+          "text": "Una carta privada que se guarda en un sobre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la carta es privada y el afiche es público para todos."
+        },
+        {
+          "letter": "D",
+          "text": "Una factura con los precios de la tienda.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la factura cobra dinero y no invita ni anuncia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El afiche es un mensaje visual: imagen grande, texto corto y datos claros para que todos lo entiendan rápido. Recordar sus partes permite leer carteles de la calle como textos que quieren convencer.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v2",
+      "statement": "Según el afiche, ¿qué datos invitan al público?",
+      "context": "En Ibagué, el afiche del festival dice: \"¡Ven al Festival del Folclor! Sábado 10 a.m. Parque central. Entrada gratis\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del diseñador y su teléfono.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el afiche no trae esos datos del diseñador."
+        },
+        {
+          "letter": "B",
+          "text": "El evento, el día, la hora, el lugar y que es gratis.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esos cinco datos le dicen al lector qué, cuándo, dónde y cuánto."
+        },
+        {
+          "letter": "C",
+          "text": "La historia completa del folclor del Tolima.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el afiche anuncia con pocas palabras y no cuenta historias largas."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de todos los vecinos del barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la lista de vecinos no invita a ningún evento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todo buen afiche responde: qué, cuándo, dónde y cuánto. Comprender estos datos permite no perderse ningún evento y enseña a escribir avisos que nadie ignore.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v3",
+      "statement": "¿Qué quiere lograr el afiche con esa imagen y ese eslogan?",
+      "context": "En Montería, el afiche de la jornada de aseo muestra un río limpio, niños sonriendo y el eslogan \"Un río limpio es vida\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vender gaseosas en la orilla del río.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay gaseosas ni precios en el afiche."
+        },
+        {
+          "letter": "B",
+          "text": "Asustar a los niños para que no salgan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los niños sonríen y el mensaje es de cuidado, no de miedo."
+        },
+        {
+          "letter": "C",
+          "text": "Invitar a cuidar el río y a participar en la jornada de aseo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la imagen limpia y el eslogan de vida motivan a unirse al cuidado."
+        },
+        {
+          "letter": "D",
+          "text": "Cobrar dos mil pesos por mirar el río.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el afiche invita a participar y no cobra entrada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Imagen y eslogan trabajan juntos: el río limpio muestra la meta y la frase corta despierta el deseo de ayudar. Aplicar esta lectura permite descubrir la intención escondida en cada cartel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál cartel comunica mejor y por qué?",
+      "context": "En Pasto, dos carteles anuncian la feria: uno con letras diminutas y sin dibujos, otro con foto del carnaval y letras grandes.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de letras diminutas, porque trae más palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque más palabras pequeñas cansan y nadie se detiene a leerlas."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos comunican igual porque anuncian lo mismo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la forma visual decide si la gente mira o pasa de largo."
+        },
+        {
+          "letter": "C",
+          "text": "El de letras diminutas, porque ahorra tinta de colores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ahorrar tinta no sirve si nadie lee el mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "El de foto y letras grandes, porque se entiende de un vistazo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la imagen atrae y el texto grande entrega el mensaje en segundos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El afiche se lee con los ojos antes que con la mente: imagen y tamaño deciden la atención. Aplicar este criterio permite elegir y diseñar carteles que la gente sí mira en la calle.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v5",
+      "statement": "¿Qué le falta al afiche para funcionar bien?",
+      "context": "En Valledupar, el afiche dice: \"Gran bingo bailable. Premio: una bicicleta. Sábado 7 p.m.\" pero no dice el lugar.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lugar del evento, porque sin dirección nadie llega.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el dato del dónde es obligatorio y aquí está ausente."
+        },
+        {
+          "letter": "B",
+          "text": "Más adjetivos bonitos sobre la bicicleta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque adornar el premio no reemplaza la dirección faltante."
+        },
+        {
+          "letter": "C",
+          "text": "La foto del organizador con su familia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la foto personal no ubica el evento."
+        },
+        {
+          "letter": "D",
+          "text": "El precio de las boletas en dólares.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en Colombia los precios van en pesos y el lugar sigue faltando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un afiche sin lugar es una invitación perdida: el lector quiere ir pero no sabe a dónde. Aplicar la lista de datos (qué, cuándo, dónde, cuánto) permite detectar el hueco y corregirlo antes de pegar el cartel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v6",
+      "statement": "Al analizar el afiche, ¿qué truco usa para vender?",
+      "context": "En Cúcuta, el afiche de una gaseosa muestra a un niño volando con una botella y dice \"Te da alas\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informa con datos científicos verdaderos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque volar con una gaseosa contradice la ciencia."
+        },
+        {
+          "letter": "B",
+          "text": "Exagera con fantasía para que el producto parezca mágico.",
+          "is_correct": true,
+          "feedback": "Es correcta porque nadie vuela por beber gaseosa; la imagen exagera para antojar."
+        },
+        {
+          "letter": "C",
+          "text": "Explica los ingredientes con honestidad total.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el afiche esconde ingredientes y muestra alas imposibles."
+        },
+        {
+          "letter": "D",
+          "text": "Advierte que la gaseosa daña los dientes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso quiere vender y jamás advierte daños."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad exagera: pega alas imposibles para vender lo posible. Analizar la imagen con ojo crítico permite separar la fantasía del producto real y comprar sin dejarse engañar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v7",
+      "statement": "Al comparar los afiches, ¿qué diferencia hay en su intención?",
+      "context": "En Sincelejo, comparan el afiche de la campaña de vacunación (niños sanos jugando) con el de una rifa (carro y letras gigantes de premio).\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos quieren vender un carro a los niños.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la vacunación no vende nada; protege la salud gratis."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos esconden información importante.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la campaña de salud informa fechas y puestos con claridad."
+        },
+        {
+          "letter": "C",
+          "text": "Uno invita a un bien común gratuito y el otro mueve el deseo de ganar un premio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el mensaje solidario (vacunarse) del mensaje comercial (rifa)."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos obligan a pagar dos mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la vacuna es gratuita y la rifa vende boletas, no cobra por mirar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No todos los afiches venden: unos invitan al bien común y otros al lucro. Analizar la intención detrás de cada cartel permite responder con criterio: participar en salud y pensar antes de comprar rifas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál propuesta de afiche evalúa mejor para la campaña?",
+      "context": "En Quibdó, el curso evalúa propuestas de afiche para la campaña \"Cuida el Atrato\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo texto largo sin imágenes ni datos de la jornada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto largo sin imagen no detiene a nadie en la calle."
+        },
+        {
+          "letter": "B",
+          "text": "Foto del río sucio con el eslogan \"Todo está perdido, no vengas\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el mensaje derrota en vez de invitar a cuidar."
+        },
+        {
+          "letter": "C",
+          "text": "Imagen del premio en efectivo sin mencionar el río.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el premio distrae y esconde la causa ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "Foto del río limpio con niños, eslogan breve y datos de fecha y lugar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque une imagen que inspira, frase que queda y datos para participar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un afiche exige tres criterios: imagen que atrae, eslogan que se recuerda y datos para actuar. La propuesta elegida cumple los tres y convierte el cartel en una invitación que sí mueve al pueblo a cuidar el río.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

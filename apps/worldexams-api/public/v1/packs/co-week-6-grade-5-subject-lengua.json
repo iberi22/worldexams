@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-6-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T22:14:25.547Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v1",
+      "statement": "Lee la lista de palabras: \"cuaderno, correr, mesa, alegre\". ¿Cuál de estas palabras es un sustantivo?",
+      "context": "En una escuela de Bogotá, Juan organiza sus útiles sobre el pupitre antes de iniciar la clase de lenguaje.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mesa",
+          "is_correct": true,
+          "feedback": "Es correcta porque nombra un objeto que se puede ver y tocar, por eso es un sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "Correr",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque expresa una acción y por eso es un verbo, no un sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "Alegre",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque describe una cualidad de una persona y por eso es un adjetivo."
+        },
+        {
+          "letter": "D",
+          "text": "Lentamente",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque indica el modo de una acción y por eso es un adverbio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sustantivo es la palabra que nombra personas, animales, objetos, lugares o ideas. En la lista, \"mesa\" nombra un objeto del salón, mientras que las otras palabras expresan acciones o cualidades. Reconocer el sustantivo es la base para estudiar después su género y su número.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes sustantivos es de género femenino?",
+      "context": "Valentina, una estudiante de Medellín, clasifica en dos cajas los nombres de animales de una finca de su familia: en una caja los masculinos y en otra los femeninos.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vaca",
+          "is_correct": true,
+          "feedback": "Es correcta porque el artículo \"la\" acompaña a los sustantivos femeninos y \"vaca\" es femenino."
+        },
+        {
+          "letter": "B",
+          "text": "El caballo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el artículo \"el\" indica que es un sustantivo masculino."
+        },
+        {
+          "letter": "C",
+          "text": "El toro",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nombra a un animal masculino y lleva artículo masculino."
+        },
+        {
+          "letter": "D",
+          "text": "El ternero",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es un sustantivo masculino, como lo muestra el artículo \"el\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El género del sustantivo en español es masculino o femenino y casi siempre se reconoce por el artículo que lo acompaña: \"el\" para masculino y \"la\" para femenino. También se observa en la terminación, pues muchos femeninos terminan en \"a\". Clasificar con el artículo ayuda a no confundir el género.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v3",
+      "statement": "El sustantivo singular es \"árbol\". ¿Cuál es su forma correcta en plural?",
+      "context": "Santiago escribe en Cali la lista de compras de la tienda con su mamá y debe escribir varios productos en plural porque necesita comprar tres mil pesos de cada fruta.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Árboles",
+          "is_correct": true,
+          "feedback": "Es correcta porque los sustantivos terminados en consonante forman el plural agregando \"es\"."
+        },
+        {
+          "letter": "B",
+          "text": "Árbols",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo agregar \"s\" no sigue la regla de los sustantivos terminados en consonante."
+        },
+        {
+          "letter": "C",
+          "text": "Arboles",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el plural de árbol conserva la tilde al volverse palabra esdrújula."
+        },
+        {
+          "letter": "D",
+          "text": "Los árbol",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cambia el artículo pero deja el sustantivo en singular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los sustantivos terminados en consonante forman el plural con \"es\": árbol-árboles, papel-papeles, color-colores. La palabra árbol es aguda con tilde y al formar el plural se vuelve esdrújula, por eso conserva la tilde en árboles. Aplicar esta regla permite escribir correctamente listas, descripciones y textos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v4",
+      "statement": "Lee la oración: \"La estudiante Mariana ganó el concurso de lectura\". Si cambiamos el sustantivo \"estudiante\" por su forma masculina referida a un niño, ¿cómo queda la oración?",
+      "context": "En Cartagena, Mariana ayuda a su profesora a marcar los cuadernos del curso con el nombre de cada estudiante.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudiante Mariana ganó el concurso de lectura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"estudiante\" es un sustantivo común en cuanto al género y solo cambia el artículo de \"la\" a \"el\"."
+        },
+        {
+          "letter": "B",
+          "text": "La estudianta Mariana ganó el concurso de lectura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la palabra \"estudianta\" no existe en español."
+        },
+        {
+          "letter": "C",
+          "text": "El estudianto Mariana ganó el concurso de lectura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la terminación \"o\" no corresponde a este sustantivo."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiante Mariana ganó el concurso de lectura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla el plural \"los\" con el sustantivo en singular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Algunos sustantivos tienen una sola forma para masculino y femenino y solo cambian el artículo: el estudiante-la estudiante, el artista-la artista, el periodista-la periodista. Se llaman sustantivos comunes en cuanto al género. Reconocerlos evita crear formas incorrectas como \"estudianta\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál oración usa correctamente el género y el número del sustantivo subrayado?",
+      "context": "En Manizales, los niños del grado quinto preparan carteles para la feria del libro con los nombres de los útiles que van a vender.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las mochilas nuevas están listas para la feria.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el artículo \"las\" y el adjetivo \"nuevas\" concuerdan en femenino plural con \"mochilas\"."
+        },
+        {
+          "letter": "B",
+          "text": "Las mochila nuevas están listas para la feria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el artículo plural \"las\" no concuerda con el sustantivo singular \"mochila\"."
+        },
+        {
+          "letter": "C",
+          "text": "Los mochilas nuevas están listas para la feria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el artículo \"los\" es masculino y \"mochilas\" es femenino."
+        },
+        {
+          "letter": "D",
+          "text": "La mochilas nueva están listas para la feria.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla singular y plural en el artículo, el sustantivo y el adjetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo y el adjetivo deben concordar con el sustantivo en género y número. Si el sustantivo es femenino plural, como \"mochilas\", sus acompañantes también deben ser femeninos plurales: \"las\" y \"nuevas\". Esta concordancia da claridad y corrección a la oración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v6",
+      "statement": "Al analizar el aviso de Juan, ¿qué error hay en el uso del sustantivo?",
+      "context": "En Pereira, Juan escribió este aviso para la cartelera: \"Se informa que el biblioteca estará cerrada el viernes por inventario de libros\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usó el artículo masculino \"el\" con el sustantivo femenino \"biblioteca\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"biblioteca\" es femenino y exige el artículo \"la\", así que hay un error de concordancia de género."
+        },
+        {
+          "letter": "B",
+          "text": "Usó el sustantivo \"biblioteca\" en plural cuando debía estar en singular.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"biblioteca\" está en singular y ese no es el error del aviso."
+        },
+        {
+          "letter": "C",
+          "text": "Usó el sustantivo \"viernes\" con género incorrecto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"viernes\" es masculino y en el aviso no lleva artículo que cause error."
+        },
+        {
+          "letter": "D",
+          "text": "Usó el sustantivo \"libros\" en plural cuando debía estar en singular.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"libros\" está bien en plural, pues se refiere a varios ejemplares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un texto implica revisar la concordancia entre el sustantivo y sus acompañantes. \"Biblioteca\" es un sustantivo femenino aunque termine en un contexto escolar donde a veces se confunde; lo correcto es \"la biblioteca\". Detectar este tipo de errores fortalece la revisión de los propios escritos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v7",
+      "statement": "Compara las dos oraciones. ¿Cuál es correcta y por qué?",
+      "context": "Dos estudiantes de Bogotá escribieron una oración sobre los mapas del salón. Oración 1: \"Los mapa están sobre la mesa\". Oración 2: \"Los mapas están sobre la mesa\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración 2, porque el sustantivo \"mapas\" concuerda en plural con el artículo \"los\" y el verbo \"están\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica la concordancia completa en número entre artículo, sustantivo y verbo."
+        },
+        {
+          "letter": "B",
+          "text": "La oración 1, porque el sustantivo \"mapa\" siempre se escribe en singular.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mapa\" sí tiene plural y aquí se habla de varios mapas."
+        },
+        {
+          "letter": "C",
+          "text": "La oración 1, porque el artículo \"los\" puede acompañar sustantivos singulares.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"los\" es plural y exige un sustantivo plural."
+        },
+        {
+          "letter": "D",
+          "text": "La oración 2, porque la palabra \"mapas\" es de género femenino.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mapa\" es masculino, aunque termine en \"a\", y la razón dada es falsa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sustantivo \"mapa\" es una excepción famosa: termina en \"a\" pero es masculino, y su plural es \"mapas\". Al comparar oraciones se debe revisar el número y el género a la vez. La oración correcta mantiene la cadena de concordancia: \"los\" más \"mapas\" más \"están\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál párrafo usa de manera correcta el género y el número de los sustantivos?",
+      "context": "Valentina debe elegir el mejor párrafo para el periódico escolar de Medellín sobre la biblioteca del barrio.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biblioteca nueva abre sus puertas. Los libros infantiles están organizados y las mesas limpias esperan a los lectores.",
+          "is_correct": true,
+          "feedback": "Es correcta porque todos los artículos y adjetivos concuerdan en género y número con sus sustantivos."
+        },
+        {
+          "letter": "B",
+          "text": "El biblioteca nuevo abre sus puertas. Los libro infantil está organizado y las mesa limpia espera a los lectores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque presenta errores de género en \"biblioteca\" y de número en \"libro\" y \"mesa\"."
+        },
+        {
+          "letter": "C",
+          "text": "La biblioteca nuevas abre sus puertas. El libros infantiles están organizados y los mesas limpios esperan a los lectores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla singular con plural y masculino con femenino en casi todas las parejas."
+        },
+        {
+          "letter": "D",
+          "text": "Las biblioteca nueva abre sus puertas. La libros infantil están organizados y el mesa limpia esperan a los lectores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todos los artículos contradicen el género o el número de los sustantivos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un párrafo exige comprobar cada pareja de sustantivo con su artículo y su adjetivo. La opción correcta mantiene la coherencia total: \"la biblioteca nueva\", \"los libros infantiles\", \"las mesas limpias\". Un texto con concordancia correcta comunica con claridad y demuestra dominio de la gramática.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

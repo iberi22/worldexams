@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-15-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:02:47.326Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v1",
+      "statement": "Lee el fragmento: \"Lucía guardó la sombrilla en el morral y se puso las botas de caucho\". ¿Qué dato explícito aparece en el texto?",
+      "context": "En un colegio de Bogotá, los niños leen un cuento corto sobre una niña que empaca sombrilla y botas antes de salir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Lucía guardó la sombrilla y se puso las botas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque repite exactamente lo que el texto dice."
+        },
+        {
+          "letter": "B",
+          "text": "Que Lucía viajó a la luna en cohete.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no habla de viajes espaciales."
+        },
+        {
+          "letter": "C",
+          "text": "Que Lucía vendió su morral en el mercado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto dice que guardó cosas en el morral."
+        },
+        {
+          "letter": "D",
+          "text": "Que Lucía regaló sus botas a una amiga.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto dice que ella misma se las puso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura literal recupera lo que está escrito sin agregar ideas. Este paso es la base de la inferencia: primero se identifica el dato explícito y después se deduce lo que sugiere. Practicarlo mejora la atención y la comprensión inicial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v2",
+      "statement": "Según la nota, ¿qué se entiende de manera directa?",
+      "context": "En Medellín, la cartelera del salón tiene una nota: \"Mañana no hay clase porque los profesores tendrán una jornada de formación\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que mañana habrá un paseo al parque con todo el colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la nota habla de formación de profesores."
+        },
+        {
+          "letter": "B",
+          "text": "Que los estudiantes tendrán doble jornada de exámenes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la nota anuncia que no hay clase."
+        },
+        {
+          "letter": "C",
+          "text": "Que mañana no hay clase por la formación de profesores.",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume con otras palabras lo que dice la nota."
+        },
+        {
+          "letter": "D",
+          "text": "Que la jornada será en otra ciudad con las familias.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la nota no menciona viajes ni familias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender de forma literal también implica parafrasear: decir lo mismo con otras palabras. La opción correcta conserva los dos datos clave, suspensión de clase y motivo, sin inventar información. Esta habilidad prepara la deducción posterior.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v3",
+      "statement": "Lee el fragmento: \"Felipe entró dejando huellas de barro y escurría agua de su camisa\". ¿Qué se puede inferir de lo que le pasó?",
+      "context": "En Cali, Felipe llega del colegio con los zapatos llenos de barro y el uniforme mojado hasta las rodillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Felipe se quedó dormido en el salón de clases.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el barro y el agua indican que estuvo afuera."
+        },
+        {
+          "letter": "B",
+          "text": "Que Felipe se mojó con la lluvia en el camino a casa.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el barro y la ropa escurrida son señales de lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "Que Felipe ganó un concurso de dibujo en el colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no menciona concursos ni dibujos."
+        },
+        {
+          "letter": "D",
+          "text": "Que Felipe compró zapatos nuevos en el centro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los zapatos están sucios, no nuevos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir es unir las pistas del texto con la experiencia del mundo. El barro y el agua permiten deducir lluvia aunque la palabra no aparezca. Esta operación es el corazón de la lectura inferencial y también ayuda a resolver problemas diarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v4",
+      "statement": "Lee el fragmento: \"A la salida, el puesto de doña Elvira tenía una fila larga de niños con monedas en la mano\". ¿Qué se deduce del puesto?",
+      "context": "En Cartagena, doña Elvira vende cocadas a 3000 pesos en la puerta de un colegio del centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que nadie quiere comprar las cocadas de doña Elvira.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la fila larga muestra lo contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Que el puesto está cerrado y no vende nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una fila indica que sí hay venta."
+        },
+        {
+          "letter": "C",
+          "text": "Que los niños hacen fila para entrar a clase.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque tienen monedas y están frente al puesto de venta."
+        },
+        {
+          "letter": "D",
+          "text": "Que sus cocadas son apreciadas y los niños prefieren comprarle.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la fila con dinero en mano revela preferencia y confianza."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las pistas como \"fila larga\" y \"monedas en la mano\" permiten concluir el éxito del puesto sin que el texto lo afirme directamente. Aplicar este tipo de deducción enseña a leer intenciones y comportamientos a partir de detalles concretos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v5",
+      "statement": "Lee el fragmento: \"Valentina apretó su diploma contra el pecho y sonrió sin dejar de mirar a su mamá\". ¿Qué sentimiento se puede inferir en Valentina?",
+      "context": "En Bucaramanga, una niña abraza su diploma de lectura y sonríe frente a todo el curso en la izada de bandera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orgullo y alegría por su logro en lectura.",
+          "is_correct": true,
+          "feedback": "Es correcta porque abrazar el diploma y sonreír muestran satisfacción."
+        },
+        {
+          "letter": "B",
+          "text": "Tristeza profunda por haber perdido el diploma.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque lo aprieta con cariño y está sonriendo."
+        },
+        {
+          "letter": "C",
+          "text": "Enojo fuerte con sus compañeros del curso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su gesto es afectuoso y no agresivo."
+        },
+        {
+          "letter": "D",
+          "text": "Miedo de subir al escenario del colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mira a su mamá con alegría y no se esconde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los gestos revelan emociones que el texto no nombra. Apretar un reconocimiento y sonreír son señales de orgullo. Inferir sentimientos a partir de acciones ayuda a comprender a los personajes y también a mejorar la empatía en la comunicación diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v6",
+      "statement": "Andrés dice: \"Solo quieren sacarnos plata\". Lucía dice: \"Quieren reunir fondos para arreglar el parque\". ¿Cuál opinión se apoya mejor en el texto?",
+      "context": "En Pereira, dos amigos opinan sobre el mismo aviso del barrio: \"Gran bingo el sábado: cada tabla vale 10000 pesos para arreglar el parque\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de Andrés porque el aviso esconde un negocio injusto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso declara abiertamente el destino del dinero."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son iguales porque dicen lo mismo con otras palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una acusa y la otra reconoce el propósito comunitario."
+        },
+        {
+          "letter": "C",
+          "text": "La de Lucía porque el aviso indica que el dinero es para el parque.",
+          "is_correct": true,
+          "feedback": "Es correcta porque se basa en el destino explícito de los fondos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve porque el aviso no menciona dinero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso sí indica el valor de la tabla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar opiniones exige contrastarlas con las pruebas del texto. El aviso afirma que lo recogido es para el parque, lo cual respalda a Lucía. Esta comparación enseña a formar juicios con evidencia y no con sospechas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la intención principal del cartel de la playa?",
+      "context": "En Santa Marta, un cartel en la playa dice: \"Cuida la playa: recoge tus residuos y protege las tortugas marinas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar la historia de las tortugas marinas del Caribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no narra hechos pasados ni historias."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer a los visitantes de cuidar la playa con acciones concretas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque pide recoger residuos para proteger a las tortugas."
+        },
+        {
+          "letter": "C",
+          "text": "Informar los precios de los paseos en lancha.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no menciona precios ni paseos."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir la entrada de todas las personas a la playa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invita a cuidar, no a abandonar la playa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Descubrir la intención es un ejercicio inferencial: el verbo \"cuida\" y las acciones pedidas revelan un propósito persuasivo. Distinguir entre narrar, informar y convencer permite leer críticamente los mensajes públicos y responder a ellos con responsabilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle-v8",
+      "statement": "El cuento muestra al niño mirando los vidrios rotos y pensando en su mamá. ¿Cuál es el mejor final según lo que se puede inferir del personaje?",
+      "context": "En Manizales, el curso quinto debe elegir el mejor final para un cuento sobre un niño que rompió la ventana del salón jugando fútbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El niño huye del colegio y nunca vuelve a clases.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque abandonar el colegio no resuelve el daño causado."
+        },
+        {
+          "letter": "B",
+          "text": "El niño culpa a otro compañero para evitar el castigo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mentir agrava la falta y rompe la confianza."
+        },
+        {
+          "letter": "C",
+          "text": "El niño esconde los vidrios y finge que nada pasó en el salón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ocultar el daño impide repararlo y asumir la responsabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El niño avisa a la profesora y propone ayudar a reparar la ventana.",
+          "is_correct": true,
+          "feedback": "Es correcta porque asume su responsabilidad y ofrece una solución coherente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un final exige juzgar su coherencia con los valores del relato y con la formación ciudadana. La mejor opción muestra responsabilidad y reparación, cualidades que el texto sugiere al presentar a un niño preocupado. Elegir finales responsables también fortalece la comprensión ética de la lectura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:02:47.324Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v1",
+      "statement": "Lee la oración: \"Ayer visitamos Monserrate con el curso\". ¿Cuál palabra es un adverbio de tiempo?",
+      "context": "En un colegio de Bogotá, los niños leen una oración en el libro de lenguaje sobre una visita al cerro de Monserrate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayer",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"ayer\" indica cuándo ocurrió la visita."
+        },
+        {
+          "letter": "B",
+          "text": "Visitamos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"visitamos\" es el verbo que expresa la acción."
+        },
+        {
+          "letter": "C",
+          "text": "Monserrate",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"Monserrate\" es un sustantivo que nombra un lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Curso",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"curso\" es un sustantivo que nombra al grupo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los adverbios de tiempo responden a la pregunta ¿cuándo? Palabras como ayer, hoy, mañana, temprano y tarde ubican la acción en el tiempo. Reconocerlas ayuda a ordenar los hechos de un relato y a mejorar la comprensión lectora.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v2",
+      "statement": "Lee la oración: \"Las maletas están aquí, junto a la puerta\". ¿Cuál palabra es un adverbio de lugar?",
+      "context": "En Medellín, la profesora pide a los niños que señalen dónde dejaron las maletas para una salida al Parque Explora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maletas",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"maletas\" es un sustantivo que nombra los objetos."
+        },
+        {
+          "letter": "B",
+          "text": "Están",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"están\" es el verbo que indica el estado."
+        },
+        {
+          "letter": "C",
+          "text": "Aquí",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"aquí\" indica el lugar donde están las maletas."
+        },
+        {
+          "letter": "D",
+          "text": "Puerta",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"puerta\" es un sustantivo que nombra una parte del salón."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los adverbios de lugar responden a la pregunta ¿dónde? Palabras como aquí, allí, cerca, lejos, arriba y abajo señalan el sitio de la acción. Distinguirlos de los sustantivos permite entender con precisión las instrucciones y los relatos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v3",
+      "statement": "Santiago escribe: \"___ iremos al río Pance a nadar\". Quiere decir que el paseo será el día siguiente a hoy. ¿Qué adverbio completa la oración?",
+      "context": "En Cali, Santiago escribe en su cuaderno lo que hará el fin de semana con su familia en el barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayer iremos al río Pance a nadar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ayer\" indica el día pasado y no combina con \"iremos\"."
+        },
+        {
+          "letter": "B",
+          "text": "Mañana iremos al río Pance a nadar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"mañana\" señala el día siguiente y concuerda con el futuro \"iremos\"."
+        },
+        {
+          "letter": "C",
+          "text": "Nunca iremos al río Pance a nadar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"nunca\" niega la acción y cambia el sentido del paseo."
+        },
+        {
+          "letter": "D",
+          "text": "Lejos iremos al río Pance a nadar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"lejos\" indica lugar y no el momento del paseo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El adverbio debe concordar con el tiempo del verbo. \"Mañana\" combina con verbos en futuro como \"iremos\", mientras \"ayer\" combina con pasado. Esta relación entre adverbio y verbo ayuda a escribir planes y narraciones con coherencia temporal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v4",
+      "statement": "La mamá dice: \"Tu cuaderno está ___ , encima del armario\". ¿Qué adverbio de lugar completa correctamente la indicación?",
+      "context": "En Cartagena, una niña busca su cuaderno de ciencias y su mamá le indica dónde lo dejó en la casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tu cuaderno está temprano, encima del armario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"temprano\" indica tiempo y no el sitio del cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "Tu cuaderno está ayer, encima del armario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ayer\" indica tiempo pasado y no un lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Tu cuaderno está después, encima del armario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"después\" indica orden temporal y no precisa el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Tu cuaderno está arriba, encima del armario.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"arriba\" indica lugar y refuerza la expresión \"encima del armario\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los adverbios de lugar precisan el sitio de los objetos y las personas. \"Arriba\" concuerda con \"encima del armario\" porque ambos señalan una posición elevada. Usar el adverbio adecuado permite dar indicaciones claras en la vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v5",
+      "statement": "Valentina dice: \"Mi colegio queda ___ de mi casa, por eso madrugo\". Quiere decir que queda a gran distancia. ¿Qué adverbio usa?",
+      "context": "En una papelería de Bucaramanga, Valentina compra colores por 8500 pesos y cuenta que su colegio queda a varias cuadras de su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi colegio queda lejos de mi casa, por eso madrugo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"lejos\" expresa gran distancia y explica por qué madruga."
+        },
+        {
+          "letter": "B",
+          "text": "Mi colegio queda hoy de mi casa, por eso madrugo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"hoy\" indica tiempo y no distancia."
+        },
+        {
+          "letter": "C",
+          "text": "Mi colegio queda temprano de mi casa, por eso madrugo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"temprano\" indica hora y no distancia entre lugares."
+        },
+        {
+          "letter": "D",
+          "text": "Mi colegio queda mañana de mi casa, por eso madrugo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mañana\" indica tiempo futuro y no un lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Lejos\" y \"cerca\" son adverbios de lugar que expresan distancia. Elegir el correcto permite explicar causas de la vida diaria, como madrugar cuando el colegio queda distante. No deben confundirse con adverbios de tiempo como hoy o mañana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v6",
+      "statement": "Juan dice que \"afuera\" es de tiempo y \"temprano\" es de lugar. Mariana dice lo contrario. ¿Quién tiene la razón y por qué?",
+      "context": "En Pereira, dos estudiantes discuten sobre esta oración del periódico mural: \"Los niños juegan afuera temprano\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan tiene la razón porque \"afuera\" indica hora y \"temprano\" indica sitio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque invierte el significado de cada adverbio."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos se equivocan porque ninguna palabra es adverbio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambas palabras sí modifican al verbo \"juegan\"."
+        },
+        {
+          "letter": "C",
+          "text": "Mariana tiene la razón porque \"afuera\" indica lugar y \"temprano\" indica tiempo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"afuera\" responde a dónde juegan y \"temprano\" a cuándo juegan."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos tienen la razón porque los adverbios se pueden intercambiar libremente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cada adverbio tiene una función distinta que no se puede intercambiar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un adverbio exige preguntar si responde a ¿dónde? o a ¿cuándo? \"Afuera\" señala el sitio del juego y \"temprano\" la hora. Esta prueba sencilla permite clasificar cualquier adverbio y evita confundir tiempo con lugar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v7",
+      "statement": "¿Qué error hay en la oración del diario y cómo se corrige?",
+      "context": "En Santa Marta, un niño escribió en su diario: \"Hoy fuimos ayer a la playa con mis primos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay error, los dos adverbios se pueden usar juntos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"hoy\" y \"ayer\" señalan momentos opuestos y se contradicen."
+        },
+        {
+          "letter": "B",
+          "text": "Hay contradicción temporal y debe escribirse solo \"Ayer fuimos a la playa\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque se elimina la contradicción y queda un solo tiempo coherente."
+        },
+        {
+          "letter": "C",
+          "text": "El error es el verbo y debe decir \"Hoy iremos ayer a la playa\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mantiene la contradicción y mezcla pasado con futuro."
+        },
+        {
+          "letter": "D",
+          "text": "El error es la palabra \"playa\" y debe quitarse de la oración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"playa\" es necesaria para indicar el lugar del paseo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos adverbios de tiempo que se contradicen rompen la coherencia del texto. El análisis consiste en detectar que \"hoy\" y \"ayer\" no pueden describir la misma acción. Conservar uno solo devuelve claridad temporal al relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor descripción usando adverbios de tiempo y lugar precisos?",
+      "context": "En Manizales, el curso quinto debe elegir la mejor descripción del festival escolar para invitar a las familias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El festival será en un lugar en un momento con cosas buenas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no precisa ni el sitio ni la hora del festival."
+        },
+        {
+          "letter": "B",
+          "text": "El festival será ayer arriba sin otra información para las familias.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ayer\" ya pasó y \"arriba\" no ubica el lugar exacto."
+        },
+        {
+          "letter": "C",
+          "text": "El festival será en cualquier parte cuando sea posible algún día.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es vaga y no permite a las familias asistir puntualmente."
+        },
+        {
+          "letter": "D",
+          "text": "El festival será mañana a las diez en el patio central, cerca de la biblioteca.",
+          "is_correct": true,
+          "feedback": "Es correcta porque precisa el día, la hora y el sitio exacto del festival."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una descripción exige comprobar que informe con exactitud el cuándo y el dónde. La opción ganadora combina \"mañana\" y \"a las diez\" para el tiempo con \"en el patio central\" y \"cerca de la biblioteca\" para el lugar. La precisión también demuestra respeto por el lector y facilita la comunicación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

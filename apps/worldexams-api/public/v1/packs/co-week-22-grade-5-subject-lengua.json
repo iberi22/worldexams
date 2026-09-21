@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-22-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.639Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son las preposiciones?",
+      "context": "En Pereira, el profesor escribe en el tablero: a, de, en, con, para, por, sin, sobre.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que nombran personas, animales o cosas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nombrar seres y objetos es trabajo del sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que enlazan partes de la oración e indican lugar, tiempo o causa.",
+          "is_correct": true,
+          "feedback": "Es correcta porque preposiciones como en, de y para conectan ideas y dan relaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Palabras que expresan acciones que alguien realiza.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las acciones las expresan los verbos, como correr o leer."
+        },
+        {
+          "letter": "D",
+          "text": "Signos que se ponen al final de cada pregunta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque al final de la pregunta van los signos de interrogación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las preposiciones son enlaces cortos (a, de, en, con, para, por) que relacionan palabras: dicen dónde, cuándo, por qué o con quién pasa algo. Recordar su función permite armar oraciones claras y completas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v2",
+      "statement": "¿Qué preposiciones completan bien los espacios?",
+      "context": "En Cartagena, Andrés lee: \"El barco llegó ___ la bahía ___ la mañana ___ muchos turistas\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sin, contra, tras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esas preposiciones no indican llegada, momento ni compañía."
+        },
+        {
+          "letter": "B",
+          "text": "para, por, según.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ninguna de las tres señala destino, tiempo ni acompañamiento."
+        },
+        {
+          "letter": "C",
+          "text": "a, en, con.",
+          "is_correct": true,
+          "feedback": "Es correcta porque llegó a la bahía, en la mañana y con turistas expresan destino, tiempo y compañía."
+        },
+        {
+          "letter": "D",
+          "text": "de, desde, hacia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque de y desde marcan origen y el barco está llegando, no saliendo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada preposición aporta un sentido: a marca destino, en marca tiempo y con marca compañía. Comprender estos valores permite elegir la preposición exacta para cada espacio y evitar combinaciones sin sentido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué preposiciones completan correctamente la carta?",
+      "context": "En Manizales, Sofía escribe una carta: \"Viajo ___ Manizales ___ visitar a mi abuela ___ bus\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a, para, en.",
+          "is_correct": true,
+          "feedback": "Es correcta porque viajo a Manizales indica destino, para visitar indica finalidad y en bus indica medio."
+        },
+        {
+          "letter": "B",
+          "text": "de, sin, sobre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque de indica origen y ella va hacia Manizales, no viene de allí."
+        },
+        {
+          "letter": "C",
+          "text": "con, entre, tras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ninguna expresa destino, finalidad ni medio de transporte."
+        },
+        {
+          "letter": "D",
+          "text": "por, contra, según.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contra expresa oposición y según expresa opinión, sin relación con el viaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar preposiciones exige preguntar qué relación se quiere decir: destino (a), finalidad (para) y medio (en). Esta estrategia convierte una carta confusa en un mensaje claro donde cada palabra cumple su papel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v4",
+      "statement": "¿Qué par de preposiciones completa bien el aviso?",
+      "context": "En Tunja, el aviso de la tienda dice: \"Vendo ruana de lana ___ tres mil pesos ___ abrigar del frío\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sin y contra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque vender sin precio y contra el frío no expresan costo ni finalidad."
+        },
+        {
+          "letter": "B",
+          "text": "sobre y tras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sobre y tras indican posición, no precio ni propósito."
+        },
+        {
+          "letter": "C",
+          "text": "entre y hacia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque entre indica punto medio y hacia indica dirección, ajenos al aviso."
+        },
+        {
+          "letter": "D",
+          "text": "por y para.",
+          "is_correct": true,
+          "feedback": "Es correcta porque por tres mil pesos indica precio y para abrigar indica la finalidad de la ruana."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El precio se expresa con por (por tres mil pesos) y la finalidad con para (para abrigar). Aplicar esta diferencia permite escribir avisos de venta claros donde el cliente entiende cuánto paga y para qué sirve el producto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v5",
+      "statement": "¿Qué preposiciones necesita la oración de Mateo?",
+      "context": "En Cúcuta, Mateo escribe: \"Juego fútbol ___ mis amigos ___ el parque ___ las tardes\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "de, sin, sobre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque de marca pertenencia y sin niega la compañía de los amigos."
+        },
+        {
+          "letter": "B",
+          "text": "con, en, por.",
+          "is_correct": true,
+          "feedback": "Es correcta porque con mis amigos indica compañía, en el parque indica lugar y por las tardes indica tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "para, desde, hasta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque para indica finalidad y desde-hasta marcan recorridos, no compañía ni lugar fijo."
+        },
+        {
+          "letter": "D",
+          "text": "ante, bajo, contra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esas preposiciones expresan posición u oposición, sin relación con el juego."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tres relaciones distintas piden tres preposiciones: compañía (con), lugar (en) y tiempo (por). Aplicar cada una en su sitio arma oraciones completas donde el lector sabe con quién, dónde y cuándo se juega.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v6",
+      "statement": "Al analizar las notas, ¿qué diferencia hay entre ellas?",
+      "context": "En Montería, Felipe lee dos notas: \"Salió de la casa en la mañana\" y \"Salió desde la casa por la mañana\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia porque de y desde significan lo mismo siempre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desde marca el punto exacto de partida con más precisión que de."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es falsa porque en nunca indica tiempo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en la mañana sí indica tiempo de forma correcta."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda precisa mejor el punto de partida con desde y la causa del momento con por.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue el origen exacto (desde) y el marco temporal (por la mañana)."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda está mal porque desde no existe en español.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque desde sí existe y se usa para indicar origen o punto inicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar preposiciones cercanas revela matices: de indica origen general y desde precisa el punto de partida; en ubica el momento y por recorre el tiempo. Comparar estos valores forma lectores que notan diferencias finas en los textos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v7",
+      "statement": "Al analizar el sentido, ¿cuál es la opción correcta y por qué?",
+      "context": "En Neiva, Gabriela corrige: \"El regalo es ___ ti\" y duda entre \"para ti\" y \"por ti\".\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Por ti\", porque por siempre indica regalos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque por indica causa o precio, no destinatario de un regalo."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos sirven porque para y por son iguales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque para señala destino y por señala causa; no son intercambiables."
+        },
+        {
+          "letter": "C",
+          "text": "\"Para ti\", porque para señala el destinatario que recibe el regalo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue destino (para ti, lo recibes) de causa (por ti, a causa tuya)."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve porque los regalos no llevan preposición.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el destinatario del regalo sí se expresa con para."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El par para/por es el más confundido: para mira al destino (para ti = lo recibes) y por mira a la causa (por ti = por tu culpa o a cambio). Analizar la intención del mensaje permite elegir bien y evitar malentendidos en cartas y recados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál combinación evalúa mejor el cartel completo?",
+      "context": "En Leticia, el curso evalúa el cartel del paseo: \"Salida ___ las seis ___ el puerto ___ canoa ___ visitar a los abuelos\".\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Salida sin las seis con el puerto bajo canoa ante visitar\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla preposiciones de negación y posición sin indicar hora, lugar ni medio."
+        },
+        {
+          "letter": "B",
+          "text": "\"Salida para las seis de el puerto sobre canoa tras visitar\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque para no marca hora exacta y tras visitar invierte el sentido del paseo."
+        },
+        {
+          "letter": "C",
+          "text": "\"Salida contra las seis entre el puerto por canoa según visitar\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contra expresa oposición y según expresa opinión, ajenas al aviso."
+        },
+        {
+          "letter": "D",
+          "text": "\"Salida a las seis desde el puerto en canoa para visitar a los abuelos\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque a marca la hora, desde el punto de partida, en el medio y para la finalidad del paseo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto con varias preposiciones exige comprobar cada relación: hora (a), partida (desde), medio (en) y finalidad (para). La opción correcta encadena los cuatro valores sin choques y deja un aviso que cualquier familia entiende a la primera lectura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

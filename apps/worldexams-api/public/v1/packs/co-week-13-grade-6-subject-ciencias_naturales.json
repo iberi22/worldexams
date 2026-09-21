@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-13-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.854Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una cuenca hidrográfica?",
+      "context": "En una escuela ribereña del río Magdalena en el Huila, el profesor dibuja en el tablero todas las quebradas que bajan de las montañas al mismo río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El territorio donde las lluvias y quebradas drenan hacia un mismo río principal",
+          "is_correct": true,
+          "feedback": "Correcto. La cuenca es como un embudo gigante que recoge agua para un río."
+        },
+        {
+          "letter": "B",
+          "text": "Un tanque plástico donde se guarda agua en la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tanque almacena agua, pero la cuenca es un territorio natural."
+        },
+        {
+          "letter": "C",
+          "text": "Una piscina construida para nadar en vacaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piscina es artificial y no recoge lluvias de montañas."
+        },
+        {
+          "letter": "D",
+          "text": "Una nube grande que trae lluvia en invierno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nube lleva la lluvia, pero la cuenca es la tierra que la recibe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuenca es territorio que alimenta un río: todo lo que llueve allí y no se evapora termina viajando al mismo cauce principal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el río Magdalena es la cuenca más importante de Colombia?",
+      "context": "En clase de Neiva, los niños ubican en el mapa el río Magdalena: nace en el Huila, cruza el país y llega al mar Caribe en Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es el río más corto y solo pasa por un pueblo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el río más largo del país y cruza muchos departamentos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sus aguas son saladas como las del mar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un río de agua dulce que desemboca en el mar salado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque recorre gran parte del país de sur a norte y sostiene ciudades, cultivos y pesca",
+          "is_correct": true,
+          "feedback": "Correcto. Millones de colombianos viven, siembran y pescan gracias a su cuenca."
+        },
+        {
+          "letter": "D",
+          "text": "Porque nace en el mar y sube hasta las montañas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ríos nacen en las montañas y bajan al mar, no al revés."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Magdalena es la arteria de Colombia: entender su recorrido explica dónde vive y trabaja gran parte de la población.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué relación tiene el río Cauca con el río Magdalena?",
+      "context": "En un mapa de Cali, los estudiantes ven que el río Cauca corre paralelo al Magdalena y finalmente se le une antes de llegar al Caribe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cauca es un mar independiente que nunca se junta con otros ríos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Cauca es dulce y fluye hasta encontrarse con el Magdalena."
+        },
+        {
+          "letter": "B",
+          "text": "El Cauca es su principal afluente: le entrega sus aguas al Magdalena",
+          "is_correct": true,
+          "feedback": "Correcto. Un afluente o tributario es un río que alimenta a otro más grande."
+        },
+        {
+          "letter": "C",
+          "text": "El Cauca nace en el Caribe y le da agua salada al Magdalena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos nacen en montañas del sur y llevan agua dulce."
+        },
+        {
+          "letter": "D",
+          "text": "El Cauca seca al Magdalena porque le quita toda su agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al unirse le suma caudal, no se lo quita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar afluente es leer el mapa: el Cauca recoge el agua del occidente y la entrega al Magdalena rumbo al Caribe.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Dónde se ubican las cuencas del Orinoco y del Amazonas en Colombia?",
+      "context": "En Villavicencio, puerta de los Llanos, el profesor señala dos ríos gigantes del oriente: el Orinoco en la frontera con Venezuela y el Amazonas en la selva del sur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la costa Caribe, junto a Cartagena y Barranquilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La costa Caribe la bañan el Magdalena y sus afluentes."
+        },
+        {
+          "letter": "B",
+          "text": "En el desierto de La Guajira, donde casi no llueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Guajira tiene arroyos cortos y secos, no selvas gigantes."
+        },
+        {
+          "letter": "C",
+          "text": "En el centro de Bogotá, bajo las calles de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bogotá está en la cuenca alta del Magdalena, en la cordillera."
+        },
+        {
+          "letter": "D",
+          "text": "En el oriente colombiano: el Orinoco en los Llanos y el Amazonas en la selva del sur",
+          "is_correct": true,
+          "feedback": "Correcto. Son cuencas inmensas que Colombia comparte con Venezuela, Brasil y Perú."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Colombia mira a cuatro vertientes: Caribe, Pacífico, Orinoco y Amazonas; las dos últimas drenan el oriente plano y selvático.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué acción ahorra más agua en casa?",
+      "context": "En una casa de Barranquilla, donde el agua llega por turnos en verano, la familia quiere gastar menos agua sin dejar de asearse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerrar la llave al cepillarse, ducharse corto y reparar las fugas del baño",
+          "is_correct": true,
+          "feedback": "Correcto. Esos tres hábitos pueden ahorrar decenas de litros cada día."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar la llave abierta todo el día para que el agua no se dañe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua corriendo sin uso se desperdicia y baja el caudal de la cuenca."
+        },
+        {
+          "letter": "C",
+          "text": "Lavar el carro con manguera abierta durante una hora",
+          "is_correct": false,
+          "feedback": "Incorrecto. La manguera abierta gasta cientos de litros; mejor balde y trapo."
+        },
+        {
+          "letter": "D",
+          "text": "Botar el agua limpia del botellón porque ya está vieja de ayer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa agua sirve para regar plantas o lavar pisos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso responsable empieza en casa: cada litro ahorrado deja más agua en ríos y quebradas para todos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis de arrojar basuras al río es correcto?",
+      "context": "En un pueblo a orillas del río Magdalena, algunos vecinos arrojan basuras y aceite usado al agua, y río abajo otros niños se bañan y los pescadores tienden sus redes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No pasa nada porque el río se lleva todo y el agua queda limpia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente arrastra la basura, pero contamina kilómetros río abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Contamina el agua río abajo, mata peces y causa enfermedades en las comunidades",
+          "is_correct": true,
+          "feedback": "Correcto. Lo que se bota arriba lo sufren quienes viven abajo en la misma cuenca."
+        },
+        {
+          "letter": "C",
+          "text": "La basura alimenta a los peces y limpia el río",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los plásticos y aceites envenenan, no alimentan."
+        },
+        {
+          "letter": "D",
+          "text": "Solo ensucia el puente del pueblo y nada más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua viaja y lleva la contaminación lejos del punto donde se botó."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar cuenca es pensar río abajo: el agua conecta pueblos y toda basura botada regresa como enfermedad o pesca muerta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación hay entre talar los árboles de la orilla y las inundaciones?",
+      "context": "En las orillas de una quebrada de Manizales talaron todos los árboles para construir casas pegadas al cauce, y con las lluvias el agua baja turbia y se desborda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna: los árboles no tienen nada que ver con el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces amarran el suelo y frenan la escorrentía."
+        },
+        {
+          "letter": "B",
+          "text": "Sin árboles el suelo se erosiona, el cauce se tapona con tierra y el río se desborda",
+          "is_correct": true,
+          "feedback": "Correcto. El bosque de orilla es un muro vivo que protege la quebrada."
+        },
+        {
+          "letter": "C",
+          "text": "Sin árboles llueve menos y el río siempre se seca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia viene de las nubes; el daño aquí es erosión e inundación."
+        },
+        {
+          "letter": "D",
+          "text": "Los árboles tomaban toda el agua y por eso ahora hay más pesca",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua turbia con tierra mata los peces en vez de aumentarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ronda de bosque protege la cuenca: analizar erosión muestra que cuidar árboles es cuidar el caudal limpio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué los ríos del Pacífico son cortos pero llevan mucha agua?",
+      "context": "En el Chocó, en la costa del Pacífico, llueve casi todos los días y ríos cortos como el Atrato bajan crecidos al mar tras recorrer poca distancia desde la montaña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los riegan campesinos con mangueras todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su caudal viene de lluvias naturales intensísimas, no de riego."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el mar se mete al río y lo llena de agua salada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la desembocadura mezcla aguas; el caudal nace en la montaña."
+        },
+        {
+          "letter": "C",
+          "text": "Porque nacen en montañas cercanas al mar, en zona de lluvias extremas, y recorren poca distancia",
+          "is_correct": true,
+          "feedback": "Correcto. Mucha lluvia sobre un camino corto produce ríos caudalosos y rápidos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el Pacífico nunca llueve y el agua sale de las piedras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Chocó es una de las regiones más lluviosas del planeta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar vertientes revela la regla: a más lluvia y menos recorrido, ríos más cortos y bravos como los del Pacífico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v9",
+      "statement": "¿Qué plan para cuidar la quebrada es científicamente el mejor?",
+      "context": "Un colegio de Pasto quiere cuidar la quebrada que pasa junto a su sede y estudia cuatro planes propuestos por los grados sextos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jornadas de limpieza, no verter aceites ni jabones, sembrar árboles nativos y vigilar la quebrada todo el año",
+          "is_correct": true,
+          "feedback": "Correcto. El plan integral ataca basura, contaminación y erosión a la vez y se mantiene en el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Limpiar un solo día y después volver a botar basura porque ya quedó limpia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin constancia y sin dejar de contaminar, la quebrada se ensucia de nuevo."
+        },
+        {
+          "letter": "C",
+          "text": "Verter el aceite de cocina al agua porque la corriente lo desaparece",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un litro de aceite contamina miles de litros y mata la vida acuática."
+        },
+        {
+          "letter": "D",
+          "text": "Cubrir toda la quebrada con cemento para que no se vea el agua sucia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cemento destruye el hábitat y esconde el problema en vez de resolverlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar cuidado exige soluciones completas y permanentes: limpiar, no contaminar, reforestar y hacer seguimiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En La Guajira, donde el agua escasea, tres afirmaciones se debaten: 1) El Cauca es afluente del Magdalena. 2) Toda el agua usada en casa desaparece para siempre. 3) Cuidar bosques de orilla protege ríos y quebradas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres son verdaderas porque el agua nunca se puede cuidar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es falsa: el agua circula y ahorrarla sí deja más disponible en la cuenca."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la 2 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es la falsa; 1 y 3 están comprobadas en mapas y en campo."
+        },
+        {
+          "letter": "C",
+          "text": "La 1 es verdadera, la 2 es falsa porque el agua circula y ahorrar sirve, la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Reconoce el tributario, el ciclo del agua y el papel del bosque protector."
+        },
+        {
+          "letter": "D",
+          "text": "La 3 es falsa porque los árboles secan los ríos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bosque regula el agua: frena crecidas y guarda humedad en verano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzgar el agua pide mapa y ciclo: afluentes que se unen, agua que circula y bosques que guardan el caudal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W13-cuencas-hidrograficas-colombia-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

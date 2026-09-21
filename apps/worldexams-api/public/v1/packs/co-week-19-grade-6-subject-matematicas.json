@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-19-grade-6-subject-matematicas",
+    "generated_at": "2026-09-21T01:19:15.916Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v1",
+      "statement": "¿Qué relación hay entre el diámetro y el radio de una circunferencia?",
+      "context": "En la plaza principal de Tunja hay una fuente circular y el profesor dibuja sus partes en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diámetro es el doble del radio",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el diámetro cruza el centro uniendo dos puntos opuestos, por eso mide dos radios."
+        },
+        {
+          "letter": "B",
+          "text": "El diámetro es la mitad del radio",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte la relación; el radio es la mitad del diámetro, no al revés."
+        },
+        {
+          "letter": "C",
+          "text": "Son segmentos iguales",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: el radio va del centro al borde y el diámetro lo atraviesa completo, no miden igual."
+        },
+        {
+          "letter": "D",
+          "text": "No tienen ninguna relación",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ambos se definen desde el centro, así que están directamente relacionados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Radio (r) es la distancia del centro a la circunferencia y diámetro (d) la atraviesa por el centro: d = 2 × r. Esta relación es la base de todas las fórmulas del círculo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v2",
+      "statement": "¿Cuánto mide el diámetro de esa rueda?",
+      "context": "En un taller de Bucaramanga una rueda de bicicleta tiene radio de 30 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 cm",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: el diámetro es el doble del radio, y 2 × 30 = 60 cm."
+        },
+        {
+          "letter": "B",
+          "text": "30 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: repite el radio en vez de duplicarlo para hallar el diámetro."
+        },
+        {
+          "letter": "C",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide el radio entre dos, lo que daría medio radio, no el diámetro."
+        },
+        {
+          "letter": "D",
+          "text": "90 cm",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica el radio por tres sin justificación geométrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar d = 2 × r con r = 30 cm da d = 60 cm. Comprender la relación permite pasar del radio al diámetro y viceversa en cualquier problema circular.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos metros de alambre necesita para rodearlo una vez?",
+      "context": "En Medellín un jardinero cerca un arriate circular de radio 7 m con alambre. Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "43.96 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: L = 2 × 3.14 × 7 = 43.96 m de longitud de circunferencia."
+        },
+        {
+          "letter": "B",
+          "text": "21.98 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa solo un radio (3.14 × 7) olvidando el factor 2 de la fórmula."
+        },
+        {
+          "letter": "C",
+          "text": "153.86 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el área (3.14 × 49) en vez de la longitud del borde."
+        },
+        {
+          "letter": "D",
+          "text": "14 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: suma apenas el diámetro sin multiplicar por pi."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rodear un círculo es hallar la longitud de la circunferencia: L = 2 × pi × r = 2 × 3.14 × 7 = 43.96 m. Longitud y área son magnitudes distintas que no deben confundirse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el área de la pizza?",
+      "context": "En Cali una pizza familiar tiene radio de 10 cm. Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "314 cm²",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: A = 3.14 × 10² = 3.14 × 100 = 314 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "62.8 cm²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula la longitud (2 × 3.14 × 10) en vez del área."
+        },
+        {
+          "letter": "C",
+          "text": "31.4 cm²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: multiplica 3.14 × 10 sin elevar el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "1256 cm²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa el diámetro (20) como si fuera el radio al elevar al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área del círculo es A = pi × r². Con r = 10, r² = 100 y A = 314 cm². Elevar al cuadrado antes de multiplicar por pi es el paso clave.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos metros de línea se pintan?",
+      "context": "En Barranquilla una glorieta tiene 20 m de diámetro y se quiere pintar una línea en su borde. Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "62.8 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: L = pi × d = 3.14 × 20 = 62.8 m."
+        },
+        {
+          "letter": "B",
+          "text": "31.4 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa el radio (10) en la fórmula del diámetro sin el factor correcto."
+        },
+        {
+          "letter": "C",
+          "text": "1256 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el área con el radio mal elevado en vez de la longitud."
+        },
+        {
+          "letter": "D",
+          "text": "40 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: duplica el diámetro sin multiplicar por pi."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con el diámetro conocido, la fórmula directa es L = pi × d. Así, 3.14 × 20 = 62.8 m. Elegir la fórmula según el dato disponible ahorra pasos y errores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v6",
+      "statement": "¿Qué distancia avanza la patineta cuando la rueda da exactamente una vuelta?",
+      "context": "En Bogotá una rueda de patineta tiene radio de 0.5 m. Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.14 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: una vuelta recorre la longitud L = 2 × 3.14 × 0.5 = 3.14 m."
+        },
+        {
+          "letter": "B",
+          "text": "1.57 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula 3.14 × 0.5, es decir, solo medio recorrido de la fórmula."
+        },
+        {
+          "letter": "C",
+          "text": "0.785 m²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: calcula el área de la rueda, que no representa distancia recorrida."
+        },
+        {
+          "letter": "D",
+          "text": "6.28 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa el diámetro como radio y duplica el recorrido real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada vuelta completa de una rueda recorre exactamente su circunferencia. Con r = 0.5, L = 3.14 m, lo que conecta la geometría con el movimiento real.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál mesa tiene mayor superficie y por cuánto supera a la otra?",
+      "context": "En Manizales un carpintero compara una mesa circular de radio 2 m con una cuadrada de 3 m de lado. Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La circular, supera por 3.56 m²",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: círculo: 3.14 × 4 = 12.56; cuadrado: 9; diferencia: 12.56 - 9 = 3.56 m²."
+        },
+        {
+          "letter": "B",
+          "text": "La cuadrada, supera por 3.56 m²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: invierte la comparación; 9 es menor que 12.56, no mayor."
+        },
+        {
+          "letter": "C",
+          "text": "La circular, supera por 6.28 m²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: usa la longitud (2 × 3.14 × 2 = 25.12) en vez del área del círculo."
+        },
+        {
+          "letter": "D",
+          "text": "Son iguales porque ambas miden parecido",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: 12.56 y 9 difieren en más de 3 m², no son iguales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar áreas exige calcular cada una con su fórmula: círculo 12.56 m² frente a cuadrado 9 m². La diferencia de 3.56 m² muestra que formas distintas con medidas parecidas rinden superficies distintas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el radio de la pista?",
+      "context": "En Cartagena una cinta de 62.8 m rodea exactamente una pista circular. Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: r = 62.8 ÷ (2 × 3.14) = 62.8 ÷ 6.28 = 10 m."
+        },
+        {
+          "letter": "B",
+          "text": "20 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide solo entre 3.14 y obtiene el diámetro, no el radio."
+        },
+        {
+          "letter": "C",
+          "text": "31.4 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide entre 2 olvidando dividir también entre pi."
+        },
+        {
+          "letter": "D",
+          "text": "5 m",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: divide dos veces entre 2, reduciendo el radio a la mitad real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejar el radio de L = 2 × pi × r da r = L ÷ (2 × pi). Con L = 62.8 y pi = 3.14, r = 10 m. Invertir fórmulas es una destreza algebraica fundamental.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v9",
+      "statement": "¿Es correcta la afirmación? Comprueba con radio 3 m y radio 6 m.",
+      "context": "En Pereira un estudiante afirma: \"Si el radio de un círculo se duplica, su área también se duplica\". Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, el área se cuadruplica: pasa de 28.26 m² a 113.04 m²",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: 3.14 × 9 = 28.26 y 3.14 × 36 = 113.04; 113.04 es 4 veces 28.26."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, el área pasa de 28.26 m² a 56.52 m²",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: duplica el área en vez de recalcular con el nuevo radio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "No, el área queda igual porque pi no cambia",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: pi es constante pero el radio al cuadrado sí cambia el área."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque todas las medidas se duplican juntas",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: la longitud se duplica pero el área depende del cuadrado del radio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área depende de r²: al duplicar r, r² se multiplica por 4. Por eso el área se cuadruplica (28.26 → 113.04). Distinguir crecimiento lineal de cuadrático es clave en geometría.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál lote conviene elegir para obtener mayor área de siembra?",
+      "context": "En Pasto una familia siembra hortalizas: lote circular de radio 5 m o lote rectangular de 8 m por 10 m. Usa pi ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rectangular, con 80 m² frente a 78.5 m² del circular",
+          "is_correct": true,
+          "feedback": "Explica por qué es correcta: círculo: 3.14 × 25 = 78.5; rectángulo: 8 × 10 = 80; 80 > 78.5."
+        },
+        {
+          "letter": "B",
+          "text": "El circular, porque el círculo siempre rinde más área",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: ninguna forma \"siempre\" gana; hay que calcular cada caso concreto."
+        },
+        {
+          "letter": "C",
+          "text": "El circular, con 157 m² porque se suma el diámetro",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: inventa una fórmula inválida; el área correcta es 78.5 m²."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos rinden igual porque 5 + 5 = 10",
+          "is_correct": false,
+          "feedback": "Explica el error conceptual: sumar medidas lineales no equivale a comparar superficies."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Decidir con geometría exige calcular: 78.5 m² contra 80 m². El rectángulo gana por 1.5 m², una diferencia pequeña pero real que solo aparece al operar con precisión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-6-2026-W19-circulo-circunferencia-longitud-area-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T03:42:40.853Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la masa de un cuerpo?",
+      "context": "En una tienda de Bogotá, el tendero pesa una libra de arroz en una balanza y una profesora aclara qué mide cada instrumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de materia que tiene y se mide en kilogramos con una balanza",
+          "is_correct": true,
+          "feedback": "Correcto. La masa es la materia del cuerpo y no cambia si viaja a otro planeta."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza con que la Tierra lo atrae y se mide en newtons",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición del peso, no de la masa."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad con que cae cuando se suelta al aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad de caída es un efecto de la gravedad, no la masa."
+        },
+        {
+          "letter": "D",
+          "text": "El tamaño del empaque donde se guarda el arroz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El empaque es volumen externo, no cantidad de materia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Masa es materia: se mide en gramos y kilogramos y es la misma en la Tierra, en la Luna o en el espacio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es el peso de un cuerpo?",
+      "context": "En Medellín, un niño sostiene un balón de fútbol y siente que la Tierra lo hala hacia el suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza con que la Tierra atrae su masa y se mide en newtons con un dinamómetro",
+          "is_correct": true,
+          "feedback": "Correcto. El peso depende de la masa y de la gravedad del planeta."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de aire que hay dentro del balón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire influye en la masa, pero el peso es la atracción gravitatoria total."
+        },
+        {
+          "letter": "C",
+          "text": "El color y la forma redonda del balón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Color y forma no son fuerzas ni se miden en newtons."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo que tarda el balón en desinflarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es duración, no una fuerza de atracción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Peso es fuerza: resulta de multiplicar la masa por la gravedad y por eso cambia si cambia el planeta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la mochila pesa más con más libros?",
+      "context": "En Cali, una estudiante carga su mochila escolar con cuadernos y siente más peso en la espalda cada vez que agrega un libro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene más masa y la Tierra atrae con más fuerza a mayor masa",
+          "is_correct": true,
+          "feedback": "Correcto. A doble masa, doble peso si la gravedad es la misma."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los libros crean gravedad nueva dentro de la mochila",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los libros no crean gravedad; la Tierra atrae su masa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la mochila se vuelve más grande y flota menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no pesa; lo que aumenta es la materia contenida."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el color de los libros atrae más al suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no influye en la atracción gravitatoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Peso igual a masa por gravedad: si la masa crece y la gravedad local no cambia, el peso crece en la misma proporción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el mango cae hacia el suelo y no flota hacia el cielo?",
+      "context": "En el campo colombiano del Quindío, un mango maduro se suelta de la rama y cae directo al suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la gravedad de la Tierra lo atrae hacia su centro",
+          "is_correct": true,
+          "feedback": "Correcto. Toda masa cercana a la Tierra es atraída hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el mango es demasiado liviano para flotar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Liviano o pesado, todo cae por la misma atracción; lo liviano cae igual."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el viento siempre empuja las frutas hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento empuja en varias direcciones; la caída constante la causa la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las hojas empujan el mango con sus ramas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rama lo suelta, no lo lanza; la caída la dirige la gravedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gravedad atrae sin contacto: por eso los frutos, la lluvia y nosotros volvemos al suelo al soltarnos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué instrumento mide el peso y en qué unidad se expresa?",
+      "context": "En Barranquilla, un profesor muestra un dinamómetro con un balón colgado que marca 4 newtons en la Tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dinamómetro, que mide fuerzas en newtons",
+          "is_correct": true,
+          "feedback": "Correcto. El resorte se estira según la fuerza de atracción."
+        },
+        {
+          "letter": "B",
+          "text": "La regla, que mide fuerzas en centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla mide longitudes, no fuerzas."
+        },
+        {
+          "letter": "C",
+          "text": "El termómetro, que mide peso en grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El termómetro mide temperatura, no peso."
+        },
+        {
+          "letter": "D",
+          "text": "El reloj, que mide masa en segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reloj mide tiempo, no materia ni fuerza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Masa con balanza en kilogramos, peso con dinamómetro en newtons: confundirlos es el error más común del tema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica la caída de ambos objetos?",
+      "context": "En Tunja, un curso deja caer al tiempo una canica de vidrio y una hoja arrugada desde la misma altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gravedad acelera a ambos por igual y caen casi juntos porque la hoja arrugada sufre poco rozamiento",
+          "is_correct": true,
+          "feedback": "Correcto. Sin mucho aire en contra, la masa no cambia el tiempo de caída."
+        },
+        {
+          "letter": "B",
+          "text": "La canica cae primero porque la gravedad solo atrae objetos pesados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad atrae toda masa; lo pesado no cae más rápido por ser pesado."
+        },
+        {
+          "letter": "C",
+          "text": "La hoja flotará para siempre porque no tiene masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja tiene masa pequeña, pero masa al fin, y la gravedad la atrae."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno caerá porque en Tunja no hay gravedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad actúa en todo el planeta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Galileo lo mostró: en caída libre la aceleración es la misma; el aire frena más a lo extendido y liviano.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué le pasa a su masa y a su peso en la Luna, donde la gravedad es menor?",
+      "context": "En Pasto, una maleta marcada con 20 kilogramos se pesa en la Tierra y luego se imagina el mismo equipaje en la Luna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa sigue en 20 kilogramos y el peso disminuye porque hay menos gravedad",
+          "is_correct": true,
+          "feedback": "Correcto. La materia no cambia al viajar; la atracción lunar es unas seis veces menor."
+        },
+        {
+          "letter": "B",
+          "text": "La masa y el peso se vuelven cero porque en la Luna nada pesa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menor no es cero; los astronautas pesan menos pero sí pesan."
+        },
+        {
+          "letter": "C",
+          "text": "La masa disminuye y el peso aumenta al llegar a la Luna",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: la masa se conserva y el peso baja."
+        },
+        {
+          "letter": "D",
+          "text": "La masa se vuelve newtons y el peso se vuelve kilogramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las unidades no se intercambian; cada magnitud conserva la suya."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Masa invariable, peso variable: distinguirlas permite predecir cómo pesaríamos en la Luna o en Marte.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se comparan su masa y su peso?",
+      "context": "En Bucaramanga, dos mochilas iguales se llenan una con libros y otra con algodón hasta verse del mismo tamaño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de libros tiene más masa y por eso más peso, aunque ocupen igual volumen",
+          "is_correct": true,
+          "feedback": "Correcto. Igual tamaño no es igual materia; el papel es más denso que el algodón."
+        },
+        {
+          "letter": "B",
+          "text": "Pesan igual porque tienen el mismo tamaño de mochila",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen igual no garantiza masa igual."
+        },
+        {
+          "letter": "C",
+          "text": "La de algodón pesa más porque el algodón es blanco y esponjoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Color y esponjosidad no determinan la cantidad de materia."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna tiene masa porque las mochilas están cerradas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia existe esté abierta o cerrada la mochila."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar masa exige pensar en cantidad de materia y densidad, no solo en el tamaño aparente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio científico responde al vendedor?",
+      "context": "En la feria de Manizales, un vendedor ofrece una pulsera que según él quita la gravedad y hace que la mochila no pese.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pulsera no cambia la masa ni la gravedad terrestre, la mochila pesará igual al medirla con dinamómetro",
+          "is_correct": true,
+          "feedback": "Correcto. Ningún accesorio apaga la atracción de la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "La pulsera sí elimina el peso porque la fe mueve montañas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las creencias no modifican fuerzas físicas medibles."
+        },
+        {
+          "letter": "C",
+          "text": "La mochila flotará si todos creen juntos en la pulsera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no depende de opiniones colectivas."
+        },
+        {
+          "letter": "D",
+          "text": "El peso desaparece si se camina muy rápido con la pulsera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Caminar rápido no anula la atracción gravitatoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar pseudociencia exige medir: si el dinamómetro marca lo mismo con y sin pulsera, no hay efecto real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación de las tres afirmaciones es científicamente correcta?",
+      "context": "En Cartagena, tres afirmaciones se debaten: 1) La masa se mide en newtons. 2) El peso cambia si cambia la gravedad. 3) Dos cuerpos con igual masa tienen igual peso en el mismo lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque la masa se mide en kilogramos, la 2 es verdadera y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Corrige la unidad de masa y reconoce que el peso depende de la gravedad local."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque masa y peso son lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son magnitudes distintas con unidades distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres son falsas porque la gravedad no existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad se mide y predice caídas, mareas y órbitas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la 1 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 confunde kilogramos con newtons."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar exige unidades claras: kilogramos para materia, newtons para la fuerza con que el planeta la atrae.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W10-peso-masa-gravedad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-32-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.801Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v1",
+      "statement": "Which words are parts of a computer?",
+      "context": "In the computer room in Medellín, students see a screen, a keyboard and a mouse on each desk.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pencil, notebook and eraser.",
+          "is_correct": false,
+          "feedback": "Pencil, notebook and eraser are school supplies, not computer parts."
+        },
+        {
+          "letter": "B",
+          "text": "Apple, banana and orange.",
+          "is_correct": false,
+          "feedback": "Apple, banana and orange are fruits, not computer parts."
+        },
+        {
+          "letter": "C",
+          "text": "Screen, keyboard and mouse.",
+          "is_correct": true,
+          "feedback": "Screen, keyboard and mouse are basic parts of a computer."
+        },
+        {
+          "letter": "D",
+          "text": "Shirt, pants and shoes.",
+          "is_correct": false,
+          "feedback": "Shirt, pants and shoes are clothes, not computer parts."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta introduce vocabulario esencial de tecnología en inglés. También ayuda a reconocer los objetos de la sala de informática escolar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v2",
+      "statement": "What does \"click\" mean?",
+      "context": "In Bogotá, a teacher says: \"Click on the red button to open the game.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Write with the keyboard.",
+          "is_correct": false,
+          "feedback": "Writing with the keyboard is called \"type\", not \"click\"."
+        },
+        {
+          "letter": "B",
+          "text": "Speak into the microphone.",
+          "is_correct": false,
+          "feedback": "Speaking into the microphone is called \"talk\", not \"click\"."
+        },
+        {
+          "letter": "C",
+          "text": "Turn off the screen.",
+          "is_correct": false,
+          "feedback": "Turning off the screen is called \"turn off\", not \"click\"."
+        },
+        {
+          "letter": "D",
+          "text": "Press the mouse button.",
+          "is_correct": true,
+          "feedback": "To click means to press a button on the mouse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El verbo click describe la acción principal con el ratón. También es fundamental para seguir instrucciones básicas en inglés en el computador.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v3",
+      "statement": "What should she do first?",
+      "context": "In the school library in Cali, a girl wants to find information about whales on the internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Search for \"whales\" in the browser.",
+          "is_correct": true,
+          "feedback": "To search means to look for information on the internet."
+        },
+        {
+          "letter": "B",
+          "text": "Type milk in the calculator.",
+          "is_correct": false,
+          "feedback": "The calculator does not search for information about animals."
+        },
+        {
+          "letter": "C",
+          "text": "Click the trash bin icon.",
+          "is_correct": false,
+          "feedback": "The trash bin deletes files and does not search the internet."
+        },
+        {
+          "letter": "D",
+          "text": "Turn off the computer quickly.",
+          "is_correct": false,
+          "feedback": "Turning off the computer stops the activity and finds nothing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo search se usa para buscar información en internet. También se practica la secuencia correcta para investigar temas escolares en línea.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v4",
+      "statement": "What is the correct order of safe actions?",
+      "context": "In Cartagena, students read a poster: \"Type your name. Click Save. Do not share your password.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Share your password, then click Save.",
+          "is_correct": false,
+          "feedback": "Sharing your password is dangerous and not safe."
+        },
+        {
+          "letter": "B",
+          "text": "Click Save, type your name, share your password.",
+          "is_correct": false,
+          "feedback": "This order is wrong and sharing passwords is unsafe."
+        },
+        {
+          "letter": "C",
+          "text": "Type your name, click Save, keep your password secret.",
+          "is_correct": true,
+          "feedback": "This order follows the poster and keeps the password secret."
+        },
+        {
+          "letter": "D",
+          "text": "Share your password with friends in the chat.",
+          "is_correct": false,
+          "feedback": "Sharing passwords in chats is never safe on the internet."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Seguir instrucciones en orden es clave en la sala de informática. También se refuerza la regla de nunca compartir contraseñas en internet.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v5",
+      "statement": "Choose the correct verb to complete the sentence.",
+      "context": "In Bucaramanga, a boy writes a story: \"I _____ my homework on the computer every afternoon.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "click.",
+          "is_correct": false,
+          "feedback": "\"Click\" is for the mouse, not for writing homework."
+        },
+        {
+          "letter": "B",
+          "text": "type.",
+          "is_correct": true,
+          "feedback": "\"Type\" means to write with the keyboard on the computer."
+        },
+        {
+          "letter": "C",
+          "text": "search.",
+          "is_correct": false,
+          "feedback": "\"Search\" means to look for information, not to write homework."
+        },
+        {
+          "letter": "D",
+          "text": "print.",
+          "is_correct": false,
+          "feedback": "\"Print\" means to put paper work out, not to write it."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo type significa escribir con el teclado del computador. También se diferencia de otros verbos tecnológicos como click y search.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v6",
+      "statement": "What is the safest response?",
+      "context": "In Pereira, a girl receives a message from a stranger: \"Hello, send me your photo and your address.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Send the photo and the address quickly.",
+          "is_correct": false,
+          "feedback": "Sending personal information to strangers is very dangerous."
+        },
+        {
+          "letter": "B",
+          "text": "Do not answer and tell a teacher or parent.",
+          "is_correct": true,
+          "feedback": "Telling a trusted adult is the safest action with strangers."
+        },
+        {
+          "letter": "C",
+          "text": "Send the school password too.",
+          "is_correct": false,
+          "feedback": "Sharing passwords puts the whole school at risk."
+        },
+        {
+          "letter": "D",
+          "text": "Meet the stranger alone after school.",
+          "is_correct": false,
+          "feedback": "Meeting strangers alone is never safe for children."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La seguridad en internet exige no compartir datos personales. También es vital avisar a un adulto de confianza ante mensajes extraños.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v7",
+      "statement": "Which rule is better for a fifth grader?",
+      "context": "In Santa Marta, students compare two rules: \"Play two hours online every day\" and \"Ask permission and play thirty minutes after homework.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ask permission and play thirty minutes after homework.",
+          "is_correct": true,
+          "feedback": "This rule balances study, rest and short safe screen time."
+        },
+        {
+          "letter": "B",
+          "text": "Play two hours online every day alone.",
+          "is_correct": false,
+          "feedback": "Long hours alone online are unhealthy and unsafe."
+        },
+        {
+          "letter": "C",
+          "text": "Use the computer all night without permission.",
+          "is_correct": false,
+          "feedback": "Using the computer all night harms health and breaks rules."
+        },
+        {
+          "letter": "D",
+          "text": "Never do homework and only play games.",
+          "is_correct": false,
+          "feedback": "Homework is important and games should not replace study."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar hábitos digitales ayuda a usar la tecnología con equilibrio. También se promueve pedir permiso y priorizar las tareas escolares primero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle-v8",
+      "statement": "Which set of instructions is the clearest and most correct?",
+      "context": "In Manizales, a class writes instructions: \"First, turn on the computer. Then, open the browser. Finally, search for homework help.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Computer on. Browser thing. Search maybe.",
+          "is_correct": false,
+          "feedback": "These words are incomplete and the order is unclear."
+        },
+        {
+          "letter": "B",
+          "text": "Turn off, never open, never search.",
+          "is_correct": false,
+          "feedback": "These steps stop the task instead of helping with homework."
+        },
+        {
+          "letter": "C",
+          "text": "First turn on the computer, then open the browser, finally search for help.",
+          "is_correct": true,
+          "feedback": "This set uses clear verbs, correct order and polite sequence words."
+        },
+        {
+          "letter": "D",
+          "text": "Search first, turn on later, open never.",
+          "is_correct": false,
+          "feedback": "This order is impossible because the computer is still off."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar instrucciones exige revisar orden, verbos y claridad. También se practican conectores como first, then y finally para guías tecnológicas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W32-technology-internet-computers-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

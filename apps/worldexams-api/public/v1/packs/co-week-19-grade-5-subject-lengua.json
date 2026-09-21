@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-19-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:02:47.329Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v1",
+      "statement": "En un diálogo, ¿para qué sirve el guion largo al inicio de cada intervención?",
+      "context": "En Bogotá, el curso lee un cuento con conversación: \"—¿Vamos a la biblioteca? —preguntó Ana. —Sí, vamos —respondió Luis\".\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para separar los precios de la tienda escolar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los precios se separan con comas o puntos, no con guion de diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Para adornar el borde de la página.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el adorno no indica quién habla en la conversación."
+        },
+        {
+          "letter": "C",
+          "text": "Para señalar que habla un personaje distinto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada guion anuncia la voz de quien interviene en el diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Para terminar todo el cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el final se marca con punto final, no con guion inicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El diálogo reproduce la conversación entre personajes y cada intervención empieza con guion largo. Esta marca permite saber cuándo cambia el hablante sin repetir su nombre cada vez. Reconocerla facilita leer teatro, cuentos y novelas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v2",
+      "statement": "En una historieta, ¿qué es un bocadillo?",
+      "context": "En Medellín, los niños leen una historieta del metro: un dibujo con un globo que dice \"¡Vamos a leer!\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El globo con texto que muestra lo que dice o piensa un personaje.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el bocadillo encierra las palabras o pensamientos del personaje dibujado."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de precios de los útiles escolares.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los precios no aparecen en globos de diálogo."
+        },
+        {
+          "letter": "C",
+          "text": "El título del periódico de la ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título va fuera de la viñeta y no en boca del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "La firma del autor al final del libro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la firma identifica al creador y no habla por el personaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La historieta cuenta historias con viñetas, que son los cuadros con dibujos, y bocadillos, que son los globos con lo que cada personaje dice o piensa. Comprender estos elementos permite seguir la historia combinando imagen y texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v3",
+      "statement": "En la oración, ¿qué es \"¡Pum!\" y qué comunica?",
+      "context": "En Cali, Santiago lee: \"¡Pum! La pelota golpeó la ventana del salón\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un saludo amable entre compañeros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el saludo usa fórmulas como hola o buenos días."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre de la pelota del colegio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el nombre propio no imita sonidos."
+        },
+        {
+          "letter": "C",
+          "text": "Una onomatopeya que imita el sonido del golpe.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reproduce con letras el ruido seco del impacto."
+        },
+        {
+          "letter": "D",
+          "text": "Una despedida al final de la carta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la despedida cierra cartas y no imita ruidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La onomatopeya escribe los sonidos con letras: \"pum\" para un golpe, \"miau\" para el gato, \"toc toc\" para la puerta. Aplicar su reconocimiento ayuda a imaginar la escena con sonido mientras se lee la historieta o el cuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v4",
+      "statement": "Según la viñeta, ¿qué indica \"¡Quiquiriquí!\"?",
+      "context": "En Cartagena, Mariana lee una viñeta: dibujo de un gallo al amanecer con la palabra \"¡Quiquiriquí!\" en letras grandes.\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el gallo tiene hambre y pide concentrado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la palabra no pide comida, sino que imita el canto."
+        },
+        {
+          "letter": "B",
+          "text": "Que los niños están jugando fútbol en el patio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dibujo muestra un gallo y no un partido."
+        },
+        {
+          "letter": "C",
+          "text": "Que sonó el timbre del colegio a las seis.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el timbre suena \"rin rin\" y no como el gallo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el gallo está cantando al amanecer.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa onomatopeya reproduce el canto típico del gallo en la mañana."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la historieta la imagen y la onomatopeya se leen juntas: el dibujo muestra quién produce el sonido y la palabra indica cómo suena. Aplicar esta lectura conjunta permite comprender viñetas sin necesidad de párrafos largos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v5",
+      "statement": "Según el diálogo, ¿qué acuerdan Sara y Pedro?",
+      "context": "En Pereira, Juan lee este diálogo: \"—¿Me prestas tu libro de fábulas? —preguntó Sara. —Claro, te lo presto hasta mañana —respondió Pedro\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Pedro prestará su libro de fábulas a Sara hasta mañana.",
+          "is_correct": true,
+          "feedback": "Es correcta porque une la petición de Sara con la respuesta afirmativa de Pedro."
+        },
+        {
+          "letter": "B",
+          "text": "Que Sara comprará un libro nuevo por cinco mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hablan de compra ni de precios."
+        },
+        {
+          "letter": "C",
+          "text": "Que Pedro no quiere prestar nada a su compañera.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Pedro responde \"claro\", que significa que sí acepta."
+        },
+        {
+          "letter": "D",
+          "text": "Que Sara devolverá el libro dentro de un año.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el plazo acordado es hasta mañana, no un año."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comprender un diálogo se juntan las intervenciones: lo que pide uno y lo que responde el otro forman el acuerdo. Aplicar esta estrategia sirve para seguir conversaciones en cuentos, obras de teatro e historietas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v6",
+      "statement": "Al analizar los bocadillos, ¿qué diferencia hay entre ellos?",
+      "context": "En Manizales, Valentina compara dos bocadillos. Bocadillo 1 en forma de nube: \"Ojalá ganemos el concurso de lectura\". Bocadillo 2 en forma de óvalo con punta: \"¡Ganamos el concurso!\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos dicen lo mismo porque tienen las mismas letras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque uno expresa deseo y el otro anuncia un hecho."
+        },
+        {
+          "letter": "B",
+          "text": "El bocadillo de nube muestra un pensamiento o deseo; el ovalado con punta muestra algo dicho en voz alta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue pensamiento interno de diálogo hablado por la forma del globo."
+        },
+        {
+          "letter": "C",
+          "text": "El bocadillo ovalado es un pensamiento secreto del personaje.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el pensamiento se dibuja con nube, no con óvalo con punta."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno comunica nada porque son solo dibujos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambos combinan dibujo y texto con sentido claro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la historieta exige observar la forma del bocadillo: la nube indica pensamiento y el óvalo con punta indica voz. Esta convención gráfica permite saber si el personaje habla con otros o reflexiona en silencio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué cuenta la secuencia completa de viñetas?",
+      "context": "En Bucaramanga, el curso lee una historieta de tres viñetas: 1) Dos niños miran el cielo gris. 2) Se escucha \"¡Plaff! ¡Plaff!\" con gotas dibujadas. 3) Los niños abren la sombrilla y sonríen.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los niños compraron una sombrilla por diez mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay compra ni precios en la secuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que los niños juegan fútbol bajo el sol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cielo está gris y caen gotas de lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "Que empezó a llover y los niños se protegieron con la sombrilla.",
+          "is_correct": true,
+          "feedback": "Es correcta porque une las tres imágenes: cielo gris, sonido de lluvia y uso de la sombrilla."
+        },
+        {
+          "letter": "D",
+          "text": "Que la sombrilla se rompió y los niños lloraron.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en la última viñeta los niños sonríen protegidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar una historieta exige leer las viñetas en orden y juntar imagen, onomatopeya y gestos. La secuencia construye una pequeña historia con inicio, nudo y desenlace. Esta lectura global forma lectores que comprenden sin párrafos extensos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál viñeta comunica mejor la alegría de la fiesta?",
+      "context": "En Tunja, el curso debe elegir la mejor viñeta para la cartelera del festival de la ruana.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viñeta sin dibujo ni texto, solo el marco vacío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin imagen ni palabras no comunica nada."
+        },
+        {
+          "letter": "B",
+          "text": "Viñeta con un personaje dormido y la palabra \"¡Pum!\" sin relación con la escena.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la onomatopeya no corresponde a la imagen del sueño."
+        },
+        {
+          "letter": "C",
+          "text": "Viñeta con diálogo sin guion donde no se sabe quién habla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la falta de marcas confunde al lector sobre los hablantes."
+        },
+        {
+          "letter": "D",
+          "text": "Viñeta con dos niños bailando con ruana, bocadillo que dice \"¡Viva la fiesta!\" y onomatopeya \"¡Chas! ¡Chas!\" de las palmas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina dibujo claro, diálogo alegre y sonido coherente con la escena."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una viñeta exige comprobar coherencia entre dibujo, bocadillo y onomatopeya. La opción correcta mantiene el mismo tema festivo en los tres elementos, mientras las demás presentan vacíos o contradicciones que impiden comprender la alegría de la fiesta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W19-dialogo-historieta-onomatopeyas-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

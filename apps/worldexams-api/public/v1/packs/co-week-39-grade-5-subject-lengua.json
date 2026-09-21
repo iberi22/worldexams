@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-39-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.067Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo están ordenadas las palabras en un diccionario?",
+      "context": "En Bogotá, la profesora abre el diccionario del salón y muestra cómo están organizadas las palabras.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En orden alfabético, de la A a la Z.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el diccionario organiza las palabras según el abecedario."
+        },
+        {
+          "letter": "B",
+          "text": "Por la cantidad de letras que tienen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una palabra larga no va después de una corta por su tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "Por el color de la página.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el color no organiza las entradas de un diccionario."
+        },
+        {
+          "letter": "D",
+          "text": "Al azar, sin ningún orden.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin orden sería imposible encontrar una palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diccionario ordena sus palabras alfabéticamente para facilitar la búsqueda. Recordar este orden es el primer paso para consultar significados con rapidez y autonomía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué sirve el diccionario?",
+      "context": "En Medellín, Santiago quiere saber qué significa la palabra \"abeja\" y busca ayuda en su salón.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para consultar el significado y la escritura de las palabras.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el diccionario reúne los significados y la forma correcta de escribir."
+        },
+        {
+          "letter": "B",
+          "text": "Para guardar las notas del cuaderno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el diccionario no es un cuaderno de apuntes."
+        },
+        {
+          "letter": "C",
+          "text": "Para dibujar paisajes con colores.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el diccionario contiene palabras, no dibujos para pintar."
+        },
+        {
+          "letter": "D",
+          "text": "Para medir la longitud del salón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el diccionario no es un instrumento de medida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diccionario es una obra de consulta que explica el significado de las palabras y muestra cómo se escriben. Comprender su utilidad permite resolver dudas por cuenta propia durante la lectura y la escritura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de estas palabras aparece primero en orden alfabético?",
+      "context": "En Cali, Mariana copia cuatro palabras del tablero y debe ordenarlas como aparecerían en el diccionario.\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "laguna",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"la\" va antes que \"lá\", \"li\" y \"lu\"."
+        },
+        {
+          "letter": "B",
+          "text": "lápiz",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque debe comparar la segunda letra y \"la\" gana a \"lá\"."
+        },
+        {
+          "letter": "C",
+          "text": "libro",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"li\" va después de \"la\"."
+        },
+        {
+          "letter": "D",
+          "text": "luna",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"lu\" va después de \"la\" y de \"li\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando dos palabras empiezan igual, se compara la segunda letra y luego la tercera. Aplicar este criterio permite ordenar listas correctamente y ubicar cada palabra en su lugar del diccionario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v4",
+      "statement": "¿Encuentra la palabra \"tortuga\" en esa página?",
+      "context": "En Cartagena, Juan busca \"tortuga\" y abre el diccionario en una página cuyas palabras guía son \"tomate\" y \"tren\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque \"tortuga\" queda entre \"tomate\" y \"tren\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"tor\" va después de \"tom\" y antes de \"tre\"."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque \"tortuga\" va antes de \"tomate\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"tor\" va después de \"tom\" por la letra r."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque \"tortuga\" va después de \"tren\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"tor\" va antes de \"tre\"."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el diccionario no incluye animales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el diccionario incluye los nombres de los animales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras guía indican la primera y la última palabra de cada página. Aplicar su lectura permite saber si una palabra está dentro de esa página comparando las letras en orden.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v5",
+      "statement": "Según esa entrada del diccionario, ¿qué es la brisa?",
+      "context": "En Barranquilla, el diccionario del colegio dice: \"brisa: viento suave que sopla en la costa\".\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un viento suave.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la definición del diccionario lo dice con esas palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Una lluvia fuerte.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la definición habla de viento y no de lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "Una ola gigante.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la definición no menciona el mar ni las olas."
+        },
+        {
+          "letter": "D",
+          "text": "Un rayo de sol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la definición no se refiere a la luz del sol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la consulta del diccionario significa leer la definición y tomar de ella la información exacta. Esto permite usar las palabras con precisión en los textos propios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v6",
+      "statement": "Al analizar el orden, ¿cuál de estas palabras NO aparecería en esa página?",
+      "context": "En Bucaramanga, las palabras guía de una página del diccionario son \"gato\" y \"girasol\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "guitarra",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"gu\" va después de \"gi\" y quedaría fuera de la página."
+        },
+        {
+          "letter": "B",
+          "text": "gente",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ge\" queda entre \"gato\" y \"girasol\"."
+        },
+        {
+          "letter": "C",
+          "text": "gimnasio",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"gim\" va antes de \"girasol\"."
+        },
+        {
+          "letter": "D",
+          "text": "gemelo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ge\" queda entre las dos palabras guía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las palabras guía exige comparar letra por letra. Una palabra solo pertenece a la página si su orden alfabético queda entre las dos guías. Este análisis evita perder tiempo buscando en páginas equivocadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el orden alfabético correcto de las tres palabras?",
+      "context": "En Pereira, los estudiantes comparan tres palabras que empiezan igual: \"casa\", \"cama\" y \"caza\".\n**Expected_Success:** 0.63",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cama, casa, caza",
+          "is_correct": true,
+          "feedback": "Es correcta porque con la segunda letra m va antes que s y s antes que z."
+        },
+        {
+          "letter": "B",
+          "text": "casa, cama, caza",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"cama\" debe ir antes que \"casa\"."
+        },
+        {
+          "letter": "C",
+          "text": "caza, casa, cama",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"caza\" es la última de las tres."
+        },
+        {
+          "letter": "D",
+          "text": "cama, caza, casa",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"casa\" con s va antes que \"caza\" con z."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el orden de palabras con la misma primera letra exige comparar la segunda y la tercera. En \"cama, casa, caza\" la letra que decide es la tercera: m, s y z. Este criterio ordena listas con precisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál estrategia es la mejor para encontrar la palabra rápidamente?",
+      "context": "En Bogotá, en el concurso del diccionario deben hallar la palabra \"mariposa\" en el menor tiempo posible.\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrir por la letra M y usar las palabras guía para ubicar \"mariposa\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina el orden alfabético con las guías de cada página."
+        },
+        {
+          "letter": "B",
+          "text": "Leer todas las páginas desde la A hasta el final.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque recorrer todo el diccionario hace perder mucho tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar al azar y esperar tener suerte.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque depender de la suerte no garantiza encontrar la palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar el significado sin abrir el diccionario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no consulta la fuente y puede recibir una respuesta equivocada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estrategias de consulta exige comparar la rapidez y la precisión de cada una. Usar la letra inicial y las palabras guía es el método más eficiente para hallar cualquier palabra en el diccionario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

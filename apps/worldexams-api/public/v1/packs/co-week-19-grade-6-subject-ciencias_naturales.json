@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-19-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T04:30:21.339Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué mide el termómetro colgado en la pared del salón?",
+      "context": "Una mañana en Tunja el termómetro del patio del colegio marca 8 grados Celsius, pero los estudiantes sienten más frío dentro del salón sin calefacción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del aire en grados Celsius",
+          "is_correct": true,
+          "feedback": "Correcto. El termómetro indica la temperatura del aire en ese momento."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de calor total que contiene todo el colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor acumulado en un edificio no se mide con un termómetro de pared."
+        },
+        {
+          "letter": "C",
+          "text": "El peso del aire que entra por las ventanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del aire se mide con una balanza, no con termómetro."
+        },
+        {
+          "letter": "D",
+          "text": "La humedad relativa del ambiente en porcentaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. La humedad se mide con un higrómetro, que es otro instrumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El termómetro mide temperatura, es decir, el estado térmico del aire en ese instante. Calor y temperatura no son lo mismo: calor es la energía que pasa entre cuerpos y temperatura es la medida de qué tan caliente o frío se siente uno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la masa cambia de fría y cruda a caliente y cocida dentro del horno?",
+      "context": "En una panadería de Villa de Leyva el panadero mete al horno una masa para pan y la saca blanda y caliente después de veinte minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el calor del horno pasa a la masa hasta que su temperatura se iguala con la del aire del horno",
+          "is_correct": true,
+          "feedback": "Correcto. El calor fluye del cuerpo más caliente al más frío hasta equilibrar temperaturas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el horno genera nueva materia dentro de la masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El horno no crea masa, solo transfiere energía calorífica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la masa pierde agua y por eso se calienta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pérdida de agua es una consecuencia, no la causa principal del calentamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el color blanco de la masa atrae el fuego",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no atrae ni genera calor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El calor siempre pasa del cuerpo caliente al frío. Cuando dos cuerpos se tocan o están cerca, el calor se transfiere hasta que ambos quedan a la misma temperatura: ese estado se llama equilibrio térmico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué le sucede al anillo de cobre cuando se calienta mucho?",
+      "context": "En la planta metalúrgica de Sogamoso, los técnicos calientan un anillo de cobre a 700 grados Celsius para montarlo después en una pieza grande.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se dilata y su diámetro aumenta ligeramente",
+          "is_correct": true,
+          "feedback": "Correcto. Los metales sólidos se dilatan al subir la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Se contrae para resistir mejor el calor del horno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los sólidos se dilatan al calentarse, no se contraen."
+        },
+        {
+          "letter": "C",
+          "text": "Mantiene su tamaño porque el cobre es resistente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia mecánica no evita la dilatación térmica."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia de color y se evapora al mismo tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. A 700 grados Celsius el cobre sigue siendo sólido, no se evapora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dilatación térmica es el aumento de volumen de un cuerpo cuando su temperatura sube. Los metales sólidos como el cobre y el acero se dilatan de manera predecible y por eso ingenieros dejan juntas de expansión en puentes y rieles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué se rajan las tuberías cuando el agua interior se congela durante una helada?",
+      "context": "En la vereda de Soracá, cerca de Tunja, las instalaciones de agua tienen tubos de PVC enterrados y se han rajado en una helada nocturna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua al congelarse se dilata y empuja las paredes del tubo hasta romperlo",
+          "is_correct": true,
+          "feedback": "Correcto. El hielo ocupa más volumen que el agua líquida y rompe el tubo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el PVC se encoge con el frío y aparecen grietas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El PVC se contrae muy poco; el problema principal es la dilatación del agua al congelarse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el hielo dentro del tubo se vuelve más liviano y raspa las paredes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hielo es más duro, pero el daño ocurre por presión, no por roce."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el suelo helado succiona las tuberías",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra no succiona las tuberías; la presión la hace el agua al congelarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua es una excepción: al congelarse ocupa más volumen, no menos. Esa dilatación dentro de un tubo cerrado genera presión y agrieta paredes rígidas como el PVC o la cerámica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué forma de transferencia de calor permite que el extremo lejano de la barra se sienta caliente sin tocarse con la llama?",
+      "context": "En el laboratorio de la I.E. Técnica de Duitama, los estudiantes sostienen el extremo de una barra de metal y acercan el otro extremo a una vela encendida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conducción, porque el calor viaja por dentro del metal de un extremo al otro",
+          "is_correct": true,
+          "feedback": "Correcto. La conducción transmite calor por contacto interno entre partículas del sólido."
+        },
+        {
+          "letter": "B",
+          "text": "La convección, porque el aire caliente sube y calienta la barra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convección ocurre en líquidos y gases, no dentro del metal sólido."
+        },
+        {
+          "letter": "C",
+          "text": "La radiación, porque la llama emite luz invisible que calienta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radiación atraviesa el aire, pero dentro del metal sólido el calor va por conducción."
+        },
+        {
+          "letter": "D",
+          "text": "La evaporación, porque el metal se evapora poco a poco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metal no se evapora a la temperatura de una vela."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conducción transmite calor entre partículas en contacto dentro de un sólido; la convección ocurre en fluidos y la radiación viaja por ondas electromagnéticas incluso por el vacío.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica mejor la conservación del queso?",
+      "context": "En una plaza de mercado de Sogamoso, un vendedor observa que el queso campesino se conserva mejor envuelto en hojas de fique que en bolsa plástica cerrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hojas de fique son mejores aislantes térmicos que el plástico, así el calor del ambiente entra más despacio al queso",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen aislante térmico deja pasar poco calor por conducción."
+        },
+        {
+          "letter": "B",
+          "text": "El plástico genera frío dentro del queso por contacto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plástico no produce frío; solo es peor aislante."
+        },
+        {
+          "letter": "C",
+          "text": "Las hojas de fique enfrían el ambiente exterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas no enfrían el ambiente, solo retrasan la entrada del calor."
+        },
+        {
+          "letter": "D",
+          "text": "El queso no se afecta por la temperatura dentro de la plaza",
+          "is_correct": false,
+          "feedback": "Incorrecto. El queso se daña con calor y humedad, por eso importa el envase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la conservación exige comparar la conductividad térmica de los materiales: conductores dejan pasar el calor con facilidad y aislantes lo frenan; el fique natural es un buen aislante y el plástico común no tanto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo influye la radiación solar en la temperatura del agua de los dos baldes durante la mañana?",
+      "context": "En una finca de Paipa, dos estudiantes miden con termómetro la temperatura de un balde con agua expuesta al sol y la de un balde con agua guardado bajo techo a la sombra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El balde al sol recibe radiación, sube su temperatura, y el de la sombra permanece más frío por no recibirla directamente",
+          "is_correct": true,
+          "feedback": "Correcto. La radiación del Sol atraviesa el aire y calienta solo lo expuesto al sol directo."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos baldes tendrán la misma temperatura porque el aire los rodea por igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol directo entrega más energía al expuesto que al sombreado."
+        },
+        {
+          "letter": "C",
+          "text": "El balde a la sombra estará más caliente porque está tapado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra no genera calor; lo reduce al bloquear la radiación solar."
+        },
+        {
+          "letter": "D",
+          "text": "El agua del balde al sol se enfría por estar coloreada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color absorbe más radiación, no menos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La radiación solar llega en línea recta; lo que está expuesto al sol recibe más energía por metro cuadrado y sube su temperatura, mientras lo sombreado solo recibe radiación reflejada del ambiente y se mantiene más fresco.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica que el pocillo de barro se pueda tocar más rápido que la olla de aluminio después de servir el chocolate?",
+      "context": "En la cocina del colegio en Chiquinquirá, una señora prepara chocolate hirviente en una olla de aluminio y lo sirve en pocillos de barro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El barro es peor conductor térmico que el aluminio, así que transmite menos calor a la mano",
+          "is_correct": true,
+          "feedback": "Correcto. El barro tradicional es aislante térmico; el aluminio es conductor rápido."
+        },
+        {
+          "letter": "B",
+          "text": "El barro está más frío que el aluminio porque absorbió menos calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pocillos están a la misma temperatura del chocolate al inicio."
+        },
+        {
+          "letter": "C",
+          "text": "El aluminio se enfría más rápido y por eso la olla está fría",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aluminio pierde calor más rápido que el barro, justamente por ser conductor."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia se debe al color de los materiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo importante es la conductividad, no el color."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar materiales obliga a separar conductividad y color: el aluminio conduce el calor con facilidad y la mano se quema; el barro es aislante térmico y deja la superficie externa más tibia que se pueda sostener.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio científico se debe dar al aviso del vendedor?",
+      "context": "En un aviso de plaza en Tunja ofrecen un termo que promete mantener el agua hirviendo o fría durante 24 horas sin importar la temperatura exterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aviso exagera, porque todo termo real pierde algo de calor por conducción, convección y radiación con el paso de las horas",
+          "is_correct": true,
+          "feedback": "Correcto. Ningún aislamiento es perfecto y siempre hay pérdida gradual de calor."
+        },
+        {
+          "letter": "B",
+          "text": "El aviso es cierto porque los termos usan magia para anular el calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay magia; todos los materiales reales intercambian energía."
+        },
+        {
+          "letter": "C",
+          "text": "El termo solo sirve para bebidas frías porque el calor exterior es muy fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un buen termo también retrasa el calentamiento de bebidas frías."
+        },
+        {
+          "letter": "D",
+          "text": "La promesa se cumple si el termo se deja al sol todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejarlo al sol acelera la pérdida de calor hacia el ambiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar publicidad científica exige reconocer que ningún aislamiento es perfecto: el calor siempre encuentra camino de salida por conducción, convección y radiación; un buen termo reduce la velocidad de pérdida, no la elimina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación conjunta de las tres hipótesis es correcta?",
+      "context": "En el club de ciencia de Sogamoso se evalúan tres hipótesis: 1) El calor y la temperatura son sinónimos. 2) El mercurio del termómetro se dilata con la temperatura. 3) Dos cuerpos a la misma temperatura no intercambian calor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque calor y temperatura son magnitudes distintas, la 2 es verdadera y la 3 también es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Corrige la confusión inicial y confirma la dilatación del mercurio y el equilibrio térmico."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son falsas porque la temperatura no existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura se mide con cualquier termómetro."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 1 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 confunde calor con temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son verdaderas porque todo se llama calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calor y temperatura mantienen su diferencia técnica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juzgar hipótesis exige medir y definir: calor es energía en tránsito, temperatura es estado térmico, y dos cuerpos en equilibrio térmico ya no intercambian calor neto porque están a igual temperatura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W19-calor-temperatura-dilatacion-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

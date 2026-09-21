@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-33-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.065Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v1",
+      "statement": "La abuela dice: \"Más vale pájaro en mano que cien volando\". ¿Qué recomienda el refrán?",
+      "context": "En Medellín, la abuela de Julián repite un refrán mientras él guarda los mangos que alcanzó a recoger del patio.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el pájaro en mano representa lo seguro y los cien volando lo que no se tiene."
+        },
+        {
+          "letter": "B",
+          "text": "Soltar el pájaro para que vuele libre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el refrán aconseja lo contrario: no soltar lo que ya se tiene."
+        },
+        {
+          "letter": "C",
+          "text": "Cazar cien pájaros en un solo día.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el refrán no propone cazar, sino valorar lo seguro."
+        },
+        {
+          "letter": "D",
+          "text": "No acercarse nunca a los árboles del patio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el refrán no habla de peligros en los árboles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los refranes son dichos populares que guardan una enseñanza. \"Más vale pájaro en mano que cien volando\" recuerda que conviene valorar lo que ya se tiene antes de arriesgarlo por algo que todavía no es seguro. Reconocerlos es parte de la tradición oral colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v2",
+      "statement": "Su mamá le dijo: \"Al mal tiempo, buena cara\". ¿Qué quiso decirle con ese dicho?",
+      "context": "En Cali, Ángela llegó a la escuela con el uniforme impecable a pesar de la fuerte lluvia de la mañana.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que mantuviera buen ánimo aunque las cosas no salieran como quería.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el dicho invita a conservar el ánimo ante las dificultades."
+        },
+        {
+          "letter": "B",
+          "text": "Que debía mirar el cielo antes de salir de casa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dicho no habla de observar el clima."
+        },
+        {
+          "letter": "C",
+          "text": "Que la lluvia de ese día fue la más fuerte del año.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dicho no compara lluvias."
+        },
+        {
+          "letter": "D",
+          "text": "Que el uniforme se había dañado con el agua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dicho se refiere al ánimo y no a la ropa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender un dicho exige ir más allá de las palabras exactas. \"Al mal tiempo, buena cara\" no habla del clima, sino de la actitud: cuando algo sale mal, conviene responder con ánimo y no con queja. Este tipo de expresiones se escuchan mucho en las familias colombianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál refrán explica mejor lo que logró María?",
+      "context": "En Barranquilla, María guardó una parte de su mesada cada semana y después de varios meses logró comprar la bicicleta que quería.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"De grano en grano llena la gallina el buche\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque el ahorro pequeño y constante permitió alcanzar la meta."
+        },
+        {
+          "letter": "B",
+          "text": "\"A caballo regalado no se le miran los dientes\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de aceptar regalos sin criticarlos."
+        },
+        {
+          "letter": "C",
+          "text": "\"Más vale tarde que nunca\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de llegar tarde, no de ahorrar."
+        },
+        {
+          "letter": "D",
+          "text": "\"Perro que ladra no muerde\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de quien amenaza sin actuar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar un refrán consiste en encontrar la situación que mejor corresponde a su enseñanza. María ahorró poco a poco y así reunió el dinero, igual que la gallina que llena su buche grano a grano. Este ejercicio ayuda a usar el lenguaje figurado en contextos reales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál refrán describe mejor lo que le ocurrió al estudiante?",
+      "context": "En Bucaramanga, un estudiante dejó la tarea para el último momento y esa noche no alcanzó a terminarla ni a descansar bien.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"No dejes para mañana lo que puedas hacer hoy\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque aplazar la tarea le trajo cansancio y problemas."
+        },
+        {
+          "letter": "B",
+          "text": "\"En boca cerrada no entran moscas\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de hablar menos, no de aplazar tareas."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cada oveja con su pareja\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de agrupar cosas semejantes."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ojos que no ven, corazón que no siente\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de no sufrir por lo que no se sabe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar un refrán exige reconocer la causa de un problema. El estudiante dejó la tarea para después y por eso se atrasó, tal como advierte \"No dejes para mañana lo que puedas hacer hoy\". Usar estos dichos permite aconsejar con pocas palabras y hacerse entender.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál refrán se ajusta mejor a la situación de Sofía?",
+      "context": "En Pereira, Sofía gastó todo el dinero que había ahorrado durante la semana y ya no puede comprar el cuaderno que necesita para clase.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El que guarda, siempre tiene\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque el refrán destaca el valor de guardar algo para cuando se necesite."
+        },
+        {
+          "letter": "B",
+          "text": "\"Camarón que se duerme, se lo lleva la corriente\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de quien se descuida, no de ahorrar."
+        },
+        {
+          "letter": "C",
+          "text": "\"Al que madruga, Dios le ayuda\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de levantarse temprano."
+        },
+        {
+          "letter": "D",
+          "text": "\"Más vale pájaro en mano que cien volando\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de valorar lo seguro frente a lo dudoso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar un dicho con una situación permite comprobar si la enseñanza encaja. Sofía no guardó dinero y por eso no pudo comprar el cuaderno; \"El que guarda, siempre tiene\" resume esa advertencia. Los refranes transmiten consejos que se aprenden escuchando a la familia y a los vecinos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación hay entre el dicho y la situación del compañero?",
+      "context": "En Cartagena, un estudiante le dice a su compañero, que se distrae mucho en clase: \"Camarón que se duerme, se lo lleva la corriente\".\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el dicho advierte que quien se descuida puede perder una oportunidad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la corriente representa lo que se pierde por distraerse."
+        },
+        {
+          "letter": "B",
+          "text": "Que el dicho habla de la pesca en el mar Caribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el sentido del dicho es figurado y no trata de pescar."
+        },
+        {
+          "letter": "C",
+          "text": "Que el dicho recomienda dormir durante la clase.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el dicho critica el descuido, no lo aconseja."
+        },
+        {
+          "letter": "D",
+          "text": "Que el dicho no tiene ninguna relación con la situación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el descuido del compañero sí corresponde a la advertencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un dicho exige distinguir su sentido literal del figurado. El camarón no es el compañero y la corriente no es el río: ambos representan el descuido y la oportunidad perdida. Comprender esta comparación permite usar los refranes como consejos claros y oportunos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál interpretación del refrán es la más acertada?",
+      "context": "En Bogotá, dos estudiantes comentan el refrán \"Aunque la mona se vista de seda, mona se queda\" después de ver a un personaje que presumía de elegante.\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cambiar la apariencia no basta si no se cambia de verdad.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ropa fina no transforma lo que la persona es en realidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que los animales no deben usar ropa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el refrán usa la mona como ejemplo figurado."
+        },
+        {
+          "letter": "C",
+          "text": "Que la seda es una tela muy costosa en Colombia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el refrán no trata del precio de las telas."
+        },
+        {
+          "letter": "D",
+          "text": "Que a las monas les gusta disfrazarse de personas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el refrán no describe el gusto de un animal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un refrán consiste en descubrir su enseñanza general. \"Aunque la mona se vista de seda, mona se queda\" enseña que las apariencias no cambian la esencia de una persona. Distinguir el ejemplo figurado de la lección ayuda a interpretar correctamente el lenguaje popular.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle-v8",
+      "statement": "Historia: \"Lucía practicó la flauta todos los días durante tres meses y logró tocar la canción completa en el acto del colegio\". ¿Cuál refrán resume mejor el final de la historia?",
+      "context": "En Medellín, la profesora pide elegir el refrán que mejor resuma el final de una historia leída en clase sobre el esfuerzo.\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El que persevera, alcanza\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque la constancia diaria llevó a Lucía a lograr su meta."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ojos que no ven, corazón que no siente\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento habla de esfuerzo, no de ignorar algo."
+        },
+        {
+          "letter": "C",
+          "text": "\"No por mucho madrugar amanece más temprano\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la historia sí muestra un resultado gracias a la constancia."
+        },
+        {
+          "letter": "D",
+          "text": "\"En casa del herrero, cuchillo de palo\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese refrán habla de lo que falta donde debería sobrar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el mejor refrán exige revisar la idea central del relato. Lucía alcanzó su meta gracias a la práctica diaria, así que \"El que persevera, alcanza\" resume mejor el final. Comparar varios refranes y escoger el más adecuado fortalece la comprensión y la expresión de ideas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-5-2026-W33-refranes-dichos-colombianos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

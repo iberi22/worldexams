@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-28-grade-5-subject-lengua",
+    "generated_at": "2026-09-20T23:46:03.641Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una entrevista?",
+      "context": "En Tunja, el periódico escolar prepara una entrevista con la campeona de ciclismo del colegio.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un examen escrito con nota al final.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el examen califica y la entrevista conversa para informar."
+        },
+        {
+          "letter": "B",
+          "text": "Una conversación con preguntas y respuestas para conocer a alguien o algo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque entrevistar es preguntar y escuchar para contar lo aprendido."
+        },
+        {
+          "letter": "C",
+          "text": "Una receta para cocinar en familia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la receta da pasos de cocina y no pregunta nada."
+        },
+        {
+          "letter": "D",
+          "text": "Un partido de fútbol entre dos cursos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el partido se juega y la entrevista se conversa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La entrevista es un diálogo con propósito: alguien pregunta (entrevistador) y alguien responde (entrevistado). Recordar estos dos papeles permite leer y hacer entrevistas como un pequeño periodista.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v2",
+      "statement": "Según el guion, ¿quién hace cada parte?",
+      "context": "En Manizales, el guion trae: \"ENTREVISTADOR: ¿A qué hora entrenas? CAMPEONA: Entreno a las cinco de la mañana\".\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La campeona pregunta y el entrevistador responde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en el guion pregunta el entrevistador y responde la campeona."
+        },
+        {
+          "letter": "B",
+          "text": "El entrevistador pregunta y la campeona responde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada voz cumple su papel: uno interroga y la otra informa."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos preguntan al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque preguntar a la vez impediría escuchar las respuestas."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno habla porque es una entrevista escrita.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrevista escrita también trae preguntas y respuestas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda entrevista reparte turnos: preguntar y responder. Comprender este reparto permite seguir el diálogo sin confundir quién habla y valorar la información que entrega el entrevistado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué pregunta abierta sirve mejor para la entrevista?",
+      "context": "En Popayán, el curso entrevista al panadero: quieren saber su historia, no solo un sí o un no.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"¿Usted vende pan?\", porque se responde sí o no.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es cerrada: se agota en un sí y no cuenta la historia."
+        },
+        {
+          "letter": "B",
+          "text": "\"¿El pan cuesta mil pesos?\", porque habla de precios.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque también es cerrada y solo confirma un precio."
+        },
+        {
+          "letter": "C",
+          "text": "\"¿Cómo aprendió el oficio de panadero?\", porque invita a contar su historia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cómo abre la memoria y el entrevistado narra su vida."
+        },
+        {
+          "letter": "D",
+          "text": "\"¿Hoy es lunes?\", porque ubica el día.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es cerrada y nada aporta sobre el oficio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preguntas abiertas (cómo, por qué, cuénteme) invitan a narrar y las cerradas solo piden sí o no. Aplicar esta diferencia permite preparar entrevistas ricas donde el personaje cuenta su verdadera historia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué partes de una buena entrevista aparecen en el inicio?",
+      "context": "En Villavicencio, la entrevista empieza así: \"Buenos días, don Pedro. Gracias por recibirnos. ¿Cuántos años lleva pescando en el Meta?\".\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el chiste y la despedida.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay chistes y la despedida va al final."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la lista de precios del pescado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los precios no abren una conversación de historia."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la firma del entrevistado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la firma cierra y aquí apenas empieza el diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "El saludo, el agradecimiento y la primera pregunta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque saludar, agradecer y preguntar abren con respeto y orden."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Toda entrevista abre con cortesía: saludo, gracias y primera pregunta. Aplicar este orden gana la confianza del entrevistado y asegura respuestas amplias desde el primer minuto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué debe corregir la niña para entrevistar bien?",
+      "context": "En Neiva, la niña pregunta sin parar: interrumpe, no escucha y repite lo mismo tres veces.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escuchar sin interrumpir y preparar preguntas distintas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque entrevistar es escuchar: cada respuesta guía la siguiente pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntar más rápido para terminar pronto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la prisa corta respuestas y arruina la información."
+        },
+        {
+          "letter": "C",
+          "text": "Hablar todo el tiempo sin dejar responder.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque si el entrevistador habla, el invitado calla y no hay entrevista."
+        },
+        {
+          "letter": "D",
+          "text": "Repetir la misma pregunta hasta cansar al invitado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque repetir cansa y cierra la conversación en vez de abrirla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El secreto del entrevistador es escuchar: atender, no interrumpir y variar las preguntas. Aplicar esta actitud convierte un interrogatorio aburrido en una conversación que todos quieren leer.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v6",
+      "statement": "Al analizar las dos preguntas, ¿qué diferencia hay?",
+      "context": "En Cartagena, comparan: \"¿Le gusta el mar? (Sí)\" con \"¿Qué siente cuando nada en el mar al amanecer?\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia porque las dos hablan del mar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el tema igual no cambia el tipo de respuesta que provocan."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es cerrada y se agota en un sí; la segunda es abierta e invita a describir.",
+          "is_correct": true,
+          "feedback": "Es correcta porque distingue la pregunta que cierra (¿le gusta?) de la que abre (¿qué siente?)."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es abierta porque es más corta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la longitud no define el tipo; lo define la respuesta que provoca."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda es cerrada porque menciona el amanecer.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el detalle del amanecer enriquece y no cierra la respuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar preguntas es prever respuestas: ¿le gusta? muere en un sí, mientras ¿qué siente? nace en un relato. Esta previsión permite armar cuestionarios que sacan lo mejor de cada entrevistado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v7",
+      "statement": "Al analizar el borrador, ¿qué orden conviene a la entrevista?",
+      "context": "En Bucaramanga, el borrador trae preguntas desordenadas: primero el cierre, luego el saludo y al final la infancia.\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierre, saludo e infancia, como está.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque despedirse antes de saludar rompe la conversación."
+        },
+        {
+          "letter": "B",
+          "text": "Solo preguntas de cierre para terminar rápido.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sin inicio ni desarrollo no hay historia que cerrar."
+        },
+        {
+          "letter": "C",
+          "text": "Saludo, infancia y vida actual, y cierre con mensaje final.",
+          "is_correct": true,
+          "feedback": "Es correcta porque ordena de lo general a lo profundo y cierra con broche."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntas mezcladas al azar para sorprender.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el azar confunde al invitado y dispersa al lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La entrevista tiene arquitectura: apertura amable, recorrido por la vida y cierre con mensaje. Analizar el orden permite reordenar borradores caóticos en conversaciones que fluyen como un río.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál cuestionario evalúa mejor para la entrevista?",
+      "context": "En Santa Marta, el curso evalúa cuestionarios para entrevistar a una pescadora sobre el cuidado del mar.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres preguntas cerradas de sí o no sobre el clima.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el clima no es el tema y lo cerrado no cuenta la historia del mar."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntas que se burlan de la pesca artesanal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la burla ofende y cierra la boca de la entrevistada."
+        },
+        {
+          "letter": "C",
+          "text": "Una sola pregunta repetida cinco veces.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque repetir empobrece y desperdicia la visita."
+        },
+        {
+          "letter": "D",
+          "text": "Saludo, preguntas abiertas sobre su oficio y el mar, y cierre con su mensaje a los niños.",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina cortesía, preguntas que narran y cierre con enseñanza para el lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un cuestionario exige tres criterios: respeto en la apertura, preguntas abiertas sobre el tema y cierre con mensaje. El cuestionario elegido cumple los tres y promete una entrevista que enseña a cuidar el mar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

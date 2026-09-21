@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-30-grade-5-subject-lectura_critica",
+    "generated_at": "2026-09-20T17:58:21.699Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v1",
+      "statement": "Según el texto, ¿cuál es la planta característica que predomina en el páramo de Sumapaz?",
+      "context": "En un libro de ciencias del colegio, en Neiva, los estudiantes leen: \"El páramo de Sumapaz es un ecosistema de alta montaña donde predominan los frailejones, las plantas adaptadas al frío y las lagunas de origen glaciar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El frailejón, una planta adaptada al frío de alta montaña.",
+          "is_correct": true,
+          "feedback": "El texto nombra explícitamente al frailejón como planta predominante del páramo."
+        },
+        {
+          "letter": "B",
+          "text": "El cactus, propio de zonas desérticas muy secas.",
+          "is_correct": false,
+          "feedback": "El cactus no aparece en el texto; además, no es planta del páramo sino de zonas áridas."
+        },
+        {
+          "letter": "C",
+          "text": "El mangle, propio de las costas y zonas saladas.",
+          "is_correct": false,
+          "feedback": "El mangle pertenece a ecosistemas costeros y no al páramo de alta montaña."
+        },
+        {
+          "letter": "D",
+          "text": "El cacao, propio de zonas cálidas y húmedas.",
+          "is_correct": false,
+          "feedback": "El cacao se cultiva en tierras calientes, no en páramos de alta montaña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recuperar información explícita en un texto expositivo identificando la especie que el autor destaca en el ecosistema descrito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea principal que resume este fragmento del texto expositivo?",
+      "context": "El texto continúa: \"Colombia posee una gran variedad de ecosistemas gracias a sus tres cordilleras, sus costas en dos océanos y su posición ecuatorial, lo que la convierte en uno de los países más biodiversos del mundo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia es un país muy poblado por sus grandes ciudades modernas.",
+          "is_correct": false,
+          "feedback": "El texto no habla de ciudades ni de población; se centra en la biodiversidad y la variedad de ecosistemas."
+        },
+        {
+          "letter": "B",
+          "text": "Colombia tiene gran variedad de ecosistemas por su geografía diversa y por estar en la zona ecuatorial.",
+          "is_correct": true,
+          "feedback": "El fragmento une la geografía (cordilleras, mares) y la posición ecuatorial como causa de la biodiversidad."
+        },
+        {
+          "letter": "C",
+          "text": "Colombia solo tiene un tipo de clima en todo su territorio.",
+          "is_correct": false,
+          "feedback": "El texto afirma justamente lo contrario: existen variados climas y ecosistemas gracias a la geografía."
+        },
+        {
+          "letter": "D",
+          "text": "El páramo de Sumapaz es el único ecosistema de Colombia.",
+          "is_correct": false,
+          "feedback": "El fragmento habla de la variedad de ecosistemas del país, no de uno solo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la idea global de un texto expositivo sintetizando la causa principal de la biodiversidad colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿En qué parte del texto se explican las acciones humanas que pueden dañar los ecosistemas?",
+      "context": "El libro de ciencias presenta esta estructura: (1) introducción sobre la biodiversidad de Colombia, (2) descripción del páramo, (3) descripción de la selva húmeda tropical, (4) descripción del manglar, (5) amenazas que enfrentan estos ecosistemas y (6) recomendaciones para cuidarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la introducción, porque allí se resume todo el libro.",
+          "is_correct": false,
+          "feedback": "La introducción presenta el tema general, no las amenazas humanas específicas."
+        },
+        {
+          "letter": "B",
+          "text": "En la descripción del manglar, porque allí aparecen animales marinos.",
+          "is_correct": false,
+          "feedback": "Los animales marinos no son lo mismo que las acciones humanas que dañan los ecosistemas."
+        },
+        {
+          "letter": "C",
+          "text": "En el apartado dedicado a las amenazas que enfrentan los ecosistemas.",
+          "is_correct": true,
+          "feedback": "La sección sobre amenazas es el lugar preciso donde el autor describe las acciones humanas perjudiciales."
+        },
+        {
+          "letter": "D",
+          "text": "En las recomendaciones finales, porque allí se habla de cuidar.",
+          "is_correct": false,
+          "feedback": "Las recomendaciones proponen soluciones; las amenazas se desarrollan en su propia sección previa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la estructura del texto expositivo para localizar la parte donde se desarrollan las amenazas humanas a los ecosistemas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué significa en este contexto la expresión \"alta biodiversidad\"?",
+      "context": "El texto afirma: \"La selva húmeda tropical es un ecosistema con alta biodiversidad, donde la lluvia constante y el calor permiten el desarrollo de árboles gigantes, monos aulladores y miles de insectos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en la selva casi no existen formas de vida.",
+          "is_correct": false,
+          "feedback": "\"Alta\" indica mucha cantidad, no ausencia; por eso no encaja con la palabra \"biodiversidad\"."
+        },
+        {
+          "letter": "B",
+          "text": "Que en la selva hay una gran variedad de especies animales y vegetales conviviendo.",
+          "is_correct": true,
+          "feedback": "\"Alta biodiversidad\" se refiere a la riqueza de especies distintas en un mismo ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "Que la selva tiene únicamente árboles de la misma especie.",
+          "is_correct": false,
+          "feedback": "Si fuera así, no habría variedad y el texto diría lo contrario de lo que afirma."
+        },
+        {
+          "letter": "D",
+          "text": "Que los animales de la selva ya no están en peligro.",
+          "is_correct": false,
+          "feedback": "El término no se refiere al estado de amenaza sino a la variedad de especies presentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar el significado de vocabulario técnico en contexto para entender la información sobre los ecosistemas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa principal de un texto expositivo sobre ecosistemas colombianos?",
+      "context": "Un colegio de Pasto recibió el libro de texto expositivo y la maestra pregunta a sus estudiantes para qué creen que fue escrito ese texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una historia de ficción con animales que hablan entre sí.",
+          "is_correct": false,
+          "feedback": "El texto expositivo informa y explica, no narra ficciones con personajes que hablan."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar un nuevo deporte de alta competencia internacional.",
+          "is_correct": false,
+          "feedback": "No se trata de deportes; el tema central son los ecosistemas y la biodiversidad del país."
+        },
+        {
+          "letter": "C",
+          "text": "Informar y explicar al lector sobre los ecosistemas y la biodiversidad de Colombia.",
+          "is_correct": true,
+          "feedback": "La intención del texto expositivo es transmitir información clara sobre un tema de conocimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Vender productos turísticos de fin de semana en la costa atlántica.",
+          "is_correct": false,
+          "feedback": "El texto no es publicidad turística; su propósito es divulgar conocimiento científico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la intención comunicativa de los textos expositivos: informar y explicar con lenguaje claro y preciso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación establece el conector \"por el contrario\" entre los dos párrafos?",
+      "context": "El texto presenta dos párrafos: \"Los manglares son bosques que crecen en zonas costeras saladas\". \"Por el contrario, los frailejones son plantas que crecen en zonas muy frías de alta montaña\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica que ambos ecosistemas están en el mismo tipo de clima.",
+          "is_correct": false,
+          "feedback": "El conector \"por el contrario\" señala diferencia, no igualdad de condiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que los manglares y los páramos son ecosistemas opuestos en clima y ubicación.",
+          "is_correct": true,
+          "feedback": "El conector opone las condiciones cálidas y saladas del manglar con las condiciones frías del páramo."
+        },
+        {
+          "letter": "C",
+          "text": "Introduce un ejemplo idéntico al mencionado antes.",
+          "is_correct": false,
+          "feedback": "\"Por el contrario\" no sirve para repetir, sino para contrastar la información previa."
+        },
+        {
+          "letter": "D",
+          "text": "Resume la información principal del texto en pocas palabras.",
+          "is_correct": false,
+          "feedback": "Resumir corresponde a otros conectores, no a \"por el contrario\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el papel de los conectores de contraste en un texto expositivo para identificar diferencias entre dos ecosistemas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué opinión sobre el texto expositivo está mejor sustentada y por qué?",
+      "context": "Camila cree que el texto expositivo es mejor que el cuento de aventuras porque enseña datos verdaderos. Daniel opina que el cuento es mejor porque divierte más y enseña sin aburrir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de Camila, porque el texto expositivo usa información verificable y vocabulario técnico para explicar la realidad.",
+          "is_correct": true,
+          "feedback": "El texto expositivo se caracteriza por presentar datos verificables y un lenguaje preciso sobre los ecosistemas."
+        },
+        {
+          "letter": "B",
+          "text": "La de Daniel, porque los cuentos siempre enseñan más que los textos informativos.",
+          "is_correct": false,
+          "feedback": "Los cuentos también enseñan, pero no siempre usan datos verificables como hace el texto expositivo."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son malas, porque ningún texto sirve para aprender.",
+          "is_correct": false,
+          "feedback": "Tanto el texto expositivo como el cuento pueden contribuir al aprendizaje de distintas maneras."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve, porque el texto no tiene dibujos a color.",
+          "is_correct": false,
+          "feedback": "La presencia de dibujos no define la calidad de la información científica de un texto expositivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las características del texto expositivo para sustentar una opinión informada sobre su valor en la escuela.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estos párrafos cumple mejor los tres criterios de evaluación del colegio?",
+      "context": "El colegio de Bucaramanga propone evaluar el texto expositivo con tres criterios: (1) información clara y ordenada, (2) vocabulario técnico explicado para niños de quinto y (3) invitación a cuidar los ecosistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Me gusta mucho el parque del barrio porque tiene juegos y we can divertirnos mucho\".",
+          "is_correct": false,
+          "feedback": "El párrafo mezcla idiomas, no usa vocabulario técnico y no aborda el cuidado de ecosistemas."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los ecosistemas son cosas verdes que están en la montaña y ya, no hay más nada qué decir\".",
+          "is_correct": false,
+          "feedback": "La información es imprecisa, no hay vocabulario técnico ni se invita al cuidado del entorno."
+        },
+        {
+          "letter": "C",
+          "text": "\"El páramo es un ecosistema de alta montaña donde crecen frailejones que almacenan agua; por eso debemos protegerlos para asegurar el agua de las ciudades\".",
+          "is_correct": true,
+          "feedback": "La información es clara, explica el vocabulario y cierra con una invitación explícita al cuidado."
+        },
+        {
+          "letter": "D",
+          "text": "\"Las selvas son selvas con muchos animales que viven ahí y no tenemos que cuidarlas porque siempre han estado ahí\".",
+          "is_correct": false,
+          "feedback": "No hay vocabulario técnico y la conclusión contradice el mensaje de cuidado del texto expositivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un párrafo informativo aplicando criterios de claridad, precisión y compromiso ambiental.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-5-2026-W30-texto-expositivo-ecosistemas-colombia-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

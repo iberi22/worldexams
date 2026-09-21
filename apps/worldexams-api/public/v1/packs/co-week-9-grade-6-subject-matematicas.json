@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-6-subject-matematicas",
+    "generated_at": "2026-09-20T21:26:33.166Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v1",
+      "statement": "Un ángulo recto mide:",
+      "context": "En una escuela de Medellín los niños abren un compás para formar distintos ángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 grados",
+          "is_correct": true,
+          "feedback": "Es correcta porque el ángulo recto es exactamente un cuarto de giro."
+        },
+        {
+          "letter": "B",
+          "text": "45 grados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 45 grados es la mitad de un recto."
+        },
+        {
+          "letter": "C",
+          "text": "180 grados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 180 grados es un ángulo llano."
+        },
+        {
+          "letter": "D",
+          "text": "360 grados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 360 grados es un giro completo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ángulo recto se forma con dos rectas perpendiculares, como la esquina de un cuaderno. Su medida universal es 90 grados y se marca con un cuadradito en el vértice.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v2",
+      "statement": "Un ángulo que mide 180 grados se llama:",
+      "context": "En Bogotá un reloj de la torre muestra las manecillas formando una línea recta a las 6 en punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llano",
+          "is_correct": true,
+          "feedback": "Es correcta porque el ángulo de 180 grados forma una línea recta."
+        },
+        {
+          "letter": "B",
+          "text": "Agudo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el agudo mide menos de 90 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Recto",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el recto mide 90 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Obtuso",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el obtuso está entre 90 y 180, sin incluir 180."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ángulo llano equivale a medio giro y sus lados apuntan en direcciones opuestas. Por eso a las 6 en punto las manecillas del reloj forman un ángulo llano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v3",
+      "statement": "Si el transportador marca 60 grados, ¿cómo se clasifica ese ángulo?",
+      "context": "En Cali un niño mide con transportador el pico de una cometa que volará en el parque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agudo",
+          "is_correct": true,
+          "feedback": "Es correcta porque todo ángulo menor que 90 grados es agudo."
+        },
+        {
+          "letter": "B",
+          "text": "Recto",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el recto mide exactamente 90 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Obtuso",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el obtuso supera los 90 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Llano",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el llano mide 180 grados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ángulos agudos miden más de 0 y menos de 90 grados. Como 60 está en ese rango, el pico de la cometa es agudo y puntiagudo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v4",
+      "statement": "El ángulo final de 120 grados se clasifica como:",
+      "context": "En Cartagena se abre una puerta desde la pared: primero forma 30 grados y luego se abre hasta 120 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obtuso",
+          "is_correct": true,
+          "feedback": "Es correcta porque 120 está entre 90 y 180 grados."
+        },
+        {
+          "letter": "B",
+          "text": "Agudo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el agudo es menor que 90 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Recto",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el recto es exactamente 90 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Completo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el completo mide 360 grados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ángulos obtusos miden más de 90 y menos de 180 grados. La puerta bien abierta en 120 grados muestra esa abertura amplia típica del ángulo obtuso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto mide el ángulo suplementario de 50 grados?",
+      "context": "En Bucaramanga dos calles se cruzan y forman un ángulo de 50 grados. El ángulo vecino sobre la misma línea debe completar 180 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "130 grados",
+          "is_correct": true,
+          "feedback": "Es correcta porque 50 más 130 es igual a 180."
+        },
+        {
+          "letter": "B",
+          "text": "40 grados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 40 es el complemento para 90, no el suplemento."
+        },
+        {
+          "letter": "C",
+          "text": "50 grados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque dos ángulos de 50 suman 100 y no 180."
+        },
+        {
+          "letter": "D",
+          "text": "230 grados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque supera el valor de un ángulo llano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos ángulos son suplementarios cuando suman 180 grados. Para hallar el compañero de 50 se resta 180 menos 50, lo que da 130 grados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v6",
+      "statement": "Si dos ángulos opuestos por el vértice miden x y 70 grados, ¿cuánto vale x y por qué?",
+      "context": "En Barranquilla un ventilador gira sus aspas y se analizan los ángulos opuestos que se forman en el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70 grados, porque los opuestos por el vértice son iguales",
+          "is_correct": true,
+          "feedback": "Es correcta porque los ángulos enfrentados en un cruce miden lo mismo."
+        },
+        {
+          "letter": "B",
+          "text": "110 grados, porque son suplementarios",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los suplementarios son los vecinos, no los opuestos."
+        },
+        {
+          "letter": "C",
+          "text": "20 grados, porque complementan a 90",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay un ángulo recto que los relacione."
+        },
+        {
+          "letter": "D",
+          "text": "35 grados, porque es la mitad",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no existe una bisectriz que divida ese ángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando dos rectas se cruzan, los ángulos que quedan frente a frente comparten la misma abertura. Por eso si uno mide 70 grados, el opuesto también mide 70 grados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v7",
+      "statement": "Según sus ángulos, ¿cómo se clasifica ese triángulo?",
+      "context": "En Pereira un arquitecto dibuja un triángulo con ángulos de 60, 60 y 60 grados para el techo de una caseta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acutángulo",
+          "is_correct": true,
+          "feedback": "Es correcta porque sus tres ángulos son agudos menores que 90."
+        },
+        {
+          "letter": "B",
+          "text": "Rectángulo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no tiene ningún ángulo de 90 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Obtusángulo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ningún ángulo supera los 90 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Llano",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque llano describe un ángulo y no un triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un triángulo acutángulo tiene sus tres ángulos agudos. Como 60 es menor que 90 y la suma da 180, el techo dibujado es un triángulo acutángulo y también equiángulo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el ángulo complementario de la pendiente y qué significa?",
+      "context": "En Manizales un ciclista sube una pendiente y el instructor mide el ángulo de inclinación respecto a la horizontal: 25 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65 grados, lo que falta para completar un ángulo recto",
+          "is_correct": true,
+          "feedback": "Es correcta porque 25 más 65 es igual a 90."
+        },
+        {
+          "letter": "B",
+          "text": "155 grados, lo que falta para completar un llano",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque eso describe un suplemento y no un complemento."
+        },
+        {
+          "letter": "C",
+          "text": "25 grados, porque son iguales",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque dos ángulos de 25 suman 50 y no 90."
+        },
+        {
+          "letter": "D",
+          "text": "90 grados, porque todo complemento es recto",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 90 es la suma y no el ángulo buscado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos ángulos son complementarios cuando suman 90 grados. El complemento de 25 se halla con 90 menos 25, que da 65. Ese es el ángulo entre la pendiente y la vertical.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v9",
+      "statement": "Sin medir, ¿cuánto miden el ángulo correspondiente y el alterno interno respecto al de 110 grados?",
+      "context": "En Pasto dos avenidas paralelas son cortadas por una transversal. Uno de los ángulos formados mide 110 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos miden 110 grados por el paralelismo",
+          "is_correct": true,
+          "feedback": "Es correcta porque correspondientes y alternos internos son iguales con paralelas."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos miden 70 grados por ser suplementarios",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque 70 corresponde a los vecinos, no a los correspondientes."
+        },
+        {
+          "letter": "C",
+          "text": "Uno mide 110 y el otro 70",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla la relación de igualdad con la de suplemento."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin transportador",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las propiedades de las paralelas permiten deducirlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con rectas paralelas cortadas por una transversal, los ángulos correspondientes ocupan la misma posición y los alternos internos quedan a lados opuestos pero dentro de las paralelas. Ambas parejas son iguales, así que los dos miden 110 grados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En Tunja un estudiante afirma que un triángulo puede tener dos ángulos obtusos si uno es de 100 y el otro de 95 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa, porque la suma superaría 180 grados",
+          "is_correct": true,
+          "feedback": "Es correcta porque 100 más 95 ya es 195 y excede el total permitido."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera, porque los obtusos pueden sumarse libremente",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque todo triángulo debe sumar exactamente 180 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera, si el tercer ángulo es 0 grados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un ángulo de 0 grados no forma un triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, porque ningún triángulo tiene obtusos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque sí puede tener un obtuso, pero solo uno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma interior de todo triángulo es 180 grados. Dos obtusos ya suman más de 180, pues el menor obtuso supera 90. Por eso un triángulo puede tener máximo un ángulo obtuso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-6-2026-W09-angulos-clasificacion-medicion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

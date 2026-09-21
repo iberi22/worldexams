@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-36-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.066Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de estos verbos cambia su forma al conjugarse y por eso es irregular?",
+      "context": "En Medellín, la profesora escribe en el tablero: \"yo voy, tú vas, él va\" y pide recordar qué verbo es.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ir",
+          "is_correct": true,
+          "feedback": "Es correcta porque sus formas voy, vas, va no conservan la raíz del infinitivo."
+        },
+        {
+          "letter": "B",
+          "text": "Cantar",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cantar mantiene su raíz: canto, cantas, canta."
+        },
+        {
+          "letter": "C",
+          "text": "Correr",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque correr es regular: corro, corres, corre."
+        },
+        {
+          "letter": "D",
+          "text": "Saltar",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque saltar es regular: salto, saltas, salta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los verbos regulares conservan su raíz al conjugarse, como cantar (canto) o saltar (salto). Los irregulares la cambian o toman formas especiales, como ir (voy) o saber (sé). Reconocerlos ayuda a escribir y hablar con más seguridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la forma \"voy\" pertenece a un verbo irregular?",
+      "context": "En Bogotá, Santiago dice en voz alta: \"Yo voy a la tienda de la esquina a comprar pan\".\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no conserva la raíz del infinitivo \"ir\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque de \"ir\" se esperaría algo como \"iro\", pero la forma real es \"voy\"."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se escribe con mayúscula al inicio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las mayúsculas dependen de la escritura, no de la conjugación."
+        },
+        {
+          "letter": "C",
+          "text": "Porque termina en vocal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque muchos verbos regulares también terminan en vocal, como \"canto\"."
+        },
+        {
+          "letter": "D",
+          "text": "Porque lleva tilde en todas sus formas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"voy\" no lleva tilde y eso no define la irregularidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un verbo es irregular cuando su conjugación no sigue el modelo regular y cambia la raíz o las terminaciones. El verbo ir es un buen ejemplo: de \"ir\" surgen \"voy\", \"fui\" o \"iré\". Comprender esto permite reconocerlos en la lectura y usarlos bien al escribir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v3",
+      "statement": "Completa con la forma correcta del verbo ir en pasado: \"Ayer yo ______ al parque con mi familia\".",
+      "context": "En Cali, Mariana escribe en su diario lo que hizo el domingo con su familia.\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fui",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"fui\" es la forma del pasado que corresponde al sujeto \"yo\"."
+        },
+        {
+          "letter": "B",
+          "text": "fuiste",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"fuiste\" corresponde a \"tú\", no a \"yo\"."
+        },
+        {
+          "letter": "C",
+          "text": "fue",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"fue\" corresponde a \"él\", \"ella\" o \"usted\"."
+        },
+        {
+          "letter": "D",
+          "text": "fuimos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"fuimos\" corresponde a \"nosotros\", no a \"yo\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo ir en pasado cambia según la persona: yo fui, tú fuiste, él fue, nosotros fuimos. Aplicar la forma correcta exige mirar quién realiza la acción. Esta concordancia mantiene claro el relato escrito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v4",
+      "statement": "Completa con la forma correcta del verbo hacer en presente: \"Yo ______ la tarea antes de salir a jugar\".",
+      "context": "En Cartagena, Valentina ayuda en la casa y anota sus tareas del día en una lista.\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hago",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"hago\" es la forma irregular que corresponde al sujeto \"yo\"."
+        },
+        {
+          "letter": "B",
+          "text": "hace",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"hace\" corresponde a \"él\", \"ella\" o \"usted\"."
+        },
+        {
+          "letter": "C",
+          "text": "haces",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"haces\" corresponde a \"tú\", no a \"yo\"."
+        },
+        {
+          "letter": "D",
+          "text": "hacemos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"hacemos\" corresponde a \"nosotros\", no a \"yo\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo hacer es irregular: en presente la primera persona es \"hago\" con g, y no \"haco\" ni \"hazo\". Aplicar estas formas evita errores frecuentes y mejora la escritura de textos personales como diarios y listas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v5",
+      "statement": "Completa con la forma correcta del verbo decir en presente: \"Los estudiantes ______ la verdad ante el profesor\".",
+      "context": "En Bucaramanga, los estudiantes conversan sobre decir siempre la verdad durante la clase.\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dicen",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"dicen\" corresponde al sujeto plural \"los estudiantes\"."
+        },
+        {
+          "letter": "B",
+          "text": "decimos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"decimos\" corresponde a \"nosotros\"."
+        },
+        {
+          "letter": "C",
+          "text": "digo",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"digo\" corresponde a \"yo\", no al sujeto plural."
+        },
+        {
+          "letter": "D",
+          "text": "dices",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"dices\" corresponde a \"tú\", no al sujeto plural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo decir es irregular: yo digo, tú dices, él dice, ellos dicen. La raíz cambia de \"dec-\" a \"dig-\" o \"dic-\" según la persona. Aplicar estas formas permite hablar del grupo con precisión y concordancia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v6",
+      "statement": "Al analizar la oración de Juan, ¿qué error hay en el uso del verbo?",
+      "context": "En Pereira, Juan escribió en su cuaderno: \"Yo sabo la respuesta de la pregunta\".\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usó \"sabo\", que no existe; la forma correcta del verbo saber es \"sé\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica la forma verbal inventada y propone la correcta."
+        },
+        {
+          "letter": "B",
+          "text": "La oración está bien porque \"sabo\" viene del verbo saber.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no todas las formas que suenan posibles existen en español."
+        },
+        {
+          "letter": "C",
+          "text": "El error está en \"respuesta\", que no es una palabra válida.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"respuesta\" es un sustantivo correcto."
+        },
+        {
+          "letter": "D",
+          "text": "El error está en \"yo\", que no puede ir con ningún verbo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"yo\" es un pronombre válido para el sujeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un error verbal exige comprobar si la forma existe en español. El verbo saber es irregular en presente: yo sé, tú sabes, él sabe. Formas inventadas como \"sabo\" no se usan y deben corregirse por \"sé\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál texto usa correctamente el verbo poner en pasado?",
+      "context": "En Barranquilla, dos estudiantes escriben sobre el almuerzo. Texto 1: \"Ayer mi mamá ponió la sopa en la mesa\". Texto 2: \"Ayer mi mamá puso la sopa en la mesa\".\n**Expected_Success:** 0.63",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto 2, porque \"puso\" es la forma correcta del verbo poner en pasado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque identifica la forma irregular real del verbo poner."
+        },
+        {
+          "letter": "B",
+          "text": "El texto 1, porque \"ponió\" es la forma correcta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"ponió\" no existe; el verbo poner no se conjuga así."
+        },
+        {
+          "letter": "C",
+          "text": "El texto 1, porque la sopa siempre va sobre la mesa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque dónde se pone la sopa no cambia la conjugación del verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos, porque ambas formas existen en español.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo \"puso\" es la forma válida para ese tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Muchos verbos irregulares forman el pasado sin seguir el modelo regular: poner hace \"puse\" o \"puso\", no \"poní\" ni \"ponió\". Analizar estas formas ayuda a comparar versiones y elegir la que respeta las normas del idioma.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál oración usa mejor los verbos irregulares?",
+      "context": "En Santa Marta, el periódico escolar publicará una noticia sobre una salida familiar y el equipo elige la oración mejor escrita.\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi familia fue al mercado y trajo frutas frescas por cinco mil pesos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"fue\" y \"trajo\" son las formas irregulares correctas del pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Mi familia fuimos al mercado y trajo frutas frescas por cinco mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"fuimos\" no concuerda con el sujeto \"mi familia\"."
+        },
+        {
+          "letter": "C",
+          "text": "Mi familia va al mercado y traer frutas frescas por cinco mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla presente con infinitivo y rompe el tiempo del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Mi familia ir al mercado y trajo frutas frescas por cinco mil pesos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque deja el verbo en infinitivo sin conjugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un texto exige revisar que cada verbo esté bien conjugado y concuerde con su sujeto. La oración correcta usa \"fue\" y \"trajo\", dos formas irregulares del pasado. Este control final mejora la claridad de cualquier escrito escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}

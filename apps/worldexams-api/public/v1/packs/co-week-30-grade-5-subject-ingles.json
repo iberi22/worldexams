@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-30-grade-5-subject-ingles",
+    "generated_at": "2026-09-18T18:24:05.800Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v1",
+      "statement": "Which words are fruits you can buy at the market?",
+      "context": "At Paloquemao market in Bogotá, a boy sees red apples, yellow bananas and green avocados on a table.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carrot and onion.",
+          "is_correct": false,
+          "feedback": "Carrot and onion are vegetables, not fruits."
+        },
+        {
+          "letter": "B",
+          "text": "Apple and banana.",
+          "is_correct": true,
+          "feedback": "Apple and banana are common fruits sold at the market."
+        },
+        {
+          "letter": "C",
+          "text": "Rice and beans.",
+          "is_correct": false,
+          "feedback": "Rice and beans are grains, not fruits."
+        },
+        {
+          "letter": "D",
+          "text": "Chicken and fish.",
+          "is_correct": false,
+          "feedback": "Chicken and fish are animal products, not fruits."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta trabaja el vocabulario básico de frutas en inglés. También ayuda a diferenciar frutas, verduras y otros alimentos del mercado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v2",
+      "statement": "What does the question \"How much is it?\" mean in a market?",
+      "context": "In Bazurto market in Cartagena, a girl asks the vendor about the price of mangoes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What is your name?",
+          "is_correct": false,
+          "feedback": "That question asks for a name, not a price."
+        },
+        {
+          "letter": "B",
+          "text": "Where is the market?",
+          "is_correct": false,
+          "feedback": "That question asks for a place, not a price."
+        },
+        {
+          "letter": "C",
+          "text": "Do you like mangoes?",
+          "is_correct": false,
+          "feedback": "That question asks about taste, not about price."
+        },
+        {
+          "letter": "D",
+          "text": "What is the price?",
+          "is_correct": true,
+          "feedback": "\"How much is it?\" is the correct way to ask for the price."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La expresión How much is it? se usa para preguntar precios en inglés. También es esencial para comprar en la plaza de mercado con cortesía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.88,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v3",
+      "statement": "A boy wants one kilo of tomatoes. What does he say to the vendor?",
+      "context": "At Minorista market in Medellín, a sign says: \"Tomatoes $5.000 COP per kilo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How much is one kilo of tomatoes?",
+          "is_correct": true,
+          "feedback": "This is the correct question to ask the price of one kilo."
+        },
+        {
+          "letter": "B",
+          "text": "How many is one kilo of tomatoes?",
+          "is_correct": false,
+          "feedback": "\"How many\" is for countable quantity, not for asking the price."
+        },
+        {
+          "letter": "C",
+          "text": "What much is one kilo of tomatoes?",
+          "is_correct": false,
+          "feedback": "\"What much\" is not correct English for asking prices."
+        },
+        {
+          "letter": "D",
+          "text": "How much are you tomatoes?",
+          "is_correct": false,
+          "feedback": "This sentence is incorrect because it is missing \"of\" and changes the meaning."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "How much se combina con is para preguntar el precio de un producto. También se practica la estructura completa con la cantidad y el alimento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.82,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v4",
+      "statement": "The girl has $10.000 COP. What can she buy?",
+      "context": "In a market in Cali, a girl reads this note: \"Oranges $8.000 COP. Bananas $6.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oranges and bananas together.",
+          "is_correct": false,
+          "feedback": "Together they cost $14.000 COP, which is more than $10.000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "Two bags of oranges.",
+          "is_correct": false,
+          "feedback": "Two bags of oranges cost $16.000 COP, which is too much money."
+        },
+        {
+          "letter": "C",
+          "text": "One bag of bananas.",
+          "is_correct": true,
+          "feedback": "Bananas cost $6.000 COP, so she has enough money to buy them."
+        },
+        {
+          "letter": "D",
+          "text": "Two bags of bananas and one bag of oranges.",
+          "is_correct": false,
+          "feedback": "That combination costs $20.000 COP, which is more than her money."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta actividad aplica la lectura de precios en COP a una situación real. También exige comparar cantidades de dinero para tomar una decisión de compra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.78,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v5",
+      "statement": "The boy pays with $25.000 COP. The vendor gives him $13.000 COP back. What is this money called?",
+      "context": "At a fruit stand in Bucaramanga, the vendor says: \"The papaya is $12.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The price.",
+          "is_correct": false,
+          "feedback": "The price is the cost of the papaya, which is $12.000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "The bill.",
+          "is_correct": false,
+          "feedback": "The bill is the paper money used to pay, not the money returned."
+        },
+        {
+          "letter": "C",
+          "text": "The discount.",
+          "is_correct": false,
+          "feedback": "A discount is a lower price, not the money the vendor returns."
+        },
+        {
+          "letter": "D",
+          "text": "The change.",
+          "is_correct": true,
+          "feedback": "The change is the money the vendor returns after the payment."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La palabra change significa el dinero que se devuelve después de pagar. También es vocabulario esencial para manejar compras con pesos colombianos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v6",
+      "statement": "Why does the customer use \"How much are\" instead of \"How much is\"?",
+      "context": "At a market in Pereira, a vendor and a customer talk: \"How much are the lulo fruits?\" \"They are $15.000 COP.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because lulo is very expensive.",
+          "is_correct": false,
+          "feedback": "The price does not change the grammar of the question."
+        },
+        {
+          "letter": "B",
+          "text": "Because \"fruits\" is plural.",
+          "is_correct": true,
+          "feedback": "\"Are\" is used with plural nouns like \"fruits\" in the question."
+        },
+        {
+          "letter": "C",
+          "text": "Because the vendor is a woman.",
+          "is_correct": false,
+          "feedback": "The vendor does not change the verb in the price question."
+        },
+        {
+          "letter": "D",
+          "text": "Because the market is in Pereira.",
+          "is_correct": false,
+          "feedback": "The city does not change English grammar rules."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo cambia según el sustantivo: is para singular y are para plural. También se analiza la concordancia en preguntas reales sobre precios del mercado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comunicación y representación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v7",
+      "statement": "Ana pays with $25.000 COP. Which statement is correct?",
+      "context": "In Santa Marta, Ana has a shopping list: \"2 kilos of potatoes $10.000 COP, 1 pineapple $7.000 COP\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She can buy everything and receive $8.000 COP in change.",
+          "is_correct": true,
+          "feedback": "The total is $17.000 COP, so $25.000 minus $17.000 leaves $8.000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "She cannot buy the pineapple because she has no money.",
+          "is_correct": false,
+          "feedback": "She has $25.000 COP, which is more than the total of $17.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "The total is $25.000 COP exactly.",
+          "is_correct": false,
+          "feedback": "The total is $10.000 plus $7.000, which is $17.000 COP."
+        },
+        {
+          "letter": "D",
+          "text": "She needs $30.000 COP to buy everything.",
+          "is_correct": false,
+          "feedback": "She only needs $17.000 COP, so $25.000 COP is enough."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Esta pregunta exige sumar precios y calcular el cambio en COP. También fortalece la lectura atenta de listas de compras en inglés.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Part 6 - Reading Comprehension",
+      "expected_success": 0.68,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle-v8",
+      "statement": "Which response is the most polite and correct way to ask for fruit and its price?",
+      "context": "At a market in Manizales, a tourist says: \"Give me that fruit now. How much?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Give me fruits. Money now.",
+          "is_correct": false,
+          "feedback": "This order is rude and the grammar is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "Hey! That fruit! Price!",
+          "is_correct": false,
+          "feedback": "Shouting single words is impolite and unclear."
+        },
+        {
+          "letter": "C",
+          "text": "Excuse me, how much is this mango, please?",
+          "is_correct": true,
+          "feedback": "This sentence is polite, complete and asks the price correctly."
+        },
+        {
+          "letter": "D",
+          "text": "I want everything. No price.",
+          "is_correct": false,
+          "feedback": "This sentence is rude and does not ask for the price."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la cortesía es clave en la comunicación en inglés. También se valora usar preguntas completas con excuse me y please en el mercado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.62,
+      "bundle_id": "CO-ING-5-2026-W30-market-shopping-money-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
