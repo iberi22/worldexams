@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:46:39.544Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la relación entre el radio y el diámetro de un círculo?",
+      "context": "Una fuente ornamental en el centro de Barranquilla tiene forma circular y se quiere restaurar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diámetro es exactamente el doble del radio",
+          "is_correct": true,
+          "feedback": "Correcto. El diámetro $d = 2r$ siempre es el doble del radio."
+        },
+        {
+          "letter": "B",
+          "text": "El diámetro es el radio al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación cuadrática entre radio y diámetro."
+        },
+        {
+          "letter": "C",
+          "text": "El radio es el doble del diámetro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio es la mitad del diámetro, no su doble."
+        },
+        {
+          "letter": "D",
+          "text": "El radio y el diámetro son siempre iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo coincidirían en un círculo de radio $0$, lo cual no aplica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El radio $r$ es la distancia del centro al borde; el diámetro $d$ cruza el círculo pasando por el centro, y se cumple $d = 2r$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se calcula la longitud de la circunferencia de un círculo?",
+      "context": "En un taller de bicicletas de Cúcuta se debe medir la circunferencia de una rueda para calibrar el velocímetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con la fórmula $C = 2\\pi r$",
+          "is_correct": true,
+          "feedback": "Correcto. La longitud de la circunferencia es el doble del producto de $\\pi$ por el radio."
+        },
+        {
+          "letter": "B",
+          "text": "Con la fórmula $C = \\pi r^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\pi r^2$ es la fórmula del área, no del perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "Con la fórmula $C = r/2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir el radio entre 2 no produce la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Con la fórmula $C = 2r$ sin $\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin $\\pi$ solo se obtiene el doble del radio, no la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La circunferencia es el perímetro del círculo y su fórmula es $C = 2\\pi r$ (equivalente a $C = \\pi d$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v3",
+      "statement": "¿Qué longitud de pintura amarilla se requiere aproximadamente?",
+      "context": "Una glorieta de tráfico en Cúcuta tiene forma circular con radio $14\\text{ m}$. El municipio necesita repintar la línea amarilla perimetral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 87{,}96\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. $C = 2\\pi \\times 14 \\approx 87{,}96$ m."
+        },
+        {
+          "letter": "B",
+          "text": "$\\approx 43{,}98\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la circunferencia entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "$\\approx 175{,}93\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $2\\pi d$ o duplicaste el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\approx 615{,}75\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente calculaste $\\pi r^2$ (área) en lugar de la circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar la longitud de la línea circular aplica $C = 2\\pi r$, sustituyendo el radio en la misma unidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es aproximadamente el área de la superficie de la piscina?",
+      "context": "Una piscina circular de un condominio campestre en Girardot (Cundinamarca) tiene un diámetro de $8\\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 50{,}27\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Radio $r = 4$; $A = \\pi \\times 4^2 = 16\\pi \\approx 50{,}27$ m²."
+        },
+        {
+          "letter": "B",
+          "text": "$\\approx 100{,}53\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el diámetro en lugar del radio."
+        },
+        {
+          "letter": "C",
+          "text": "$\\approx 25{,}13\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 3 o tomaste un radio incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\approx 64\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo elevaste el diámetro al cuadrado sin multiplicar por $\\pi/4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recuerda identificar primero el radio. El área del círculo es $A = \\pi r^2$, no $\\pi d^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área del sector circular de $60^\\circ$?",
+      "context": "En una panadería de Bogotá se corta una torta circular de radio $10\\text{ cm}$ en porciones iguales; cada porción corresponde a un sector con ángulo central de $60^\\circ$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 52{,}36\\text{ cm}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Área del sector $= \\frac{60}{360} \\pi r^2 = \\frac{1}{6}\\pi \\times 100 \\approx 52{,}36$ cm²."
+        },
+        {
+          "letter": "B",
+          "text": "$100\\pi\\text{ cm}^2$ aproximadamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al círculo completo, no al sector."
+        },
+        {
+          "letter": "C",
+          "text": "$60\\pi\\text{ cm}^2$ aproximadamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el ángulo como factor sin convertirlo a fracción."
+        },
+        {
+          "letter": "D",
+          "text": "$30\\pi\\text{ cm}^2$ aproximadamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente tomaste el ángulo como $30^\\circ$ o invertiste la fracción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de un sector circular es proporcional al ángulo: $A_{sector} = \\frac{\\theta}{360^\\circ} \\cdot \\pi r^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el área total aproximada del parque?",
+      "context": "Un parque infantil en Sincelejo está formado por un rectángulo de $20\\text{ m}$ por $10\\text{ m}$ con un semicírculo pegado a uno de los lados cortos (radio del semicírculo $= 10\\text{ m}$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 357{,}08\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Rectángulo $200$ m² + semicírculo $\\frac{1}{2}\\pi \\times 100 \\approx 157{,}08$ m² = $357{,}08$ m²."
+        },
+        {
+          "letter": "B",
+          "text": "$\\approx 257{,}08\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste el semicírculo en vez de sumarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\approx 314{,}16\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente tomaste el círculo completo en lugar del semicírculo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\approx 414{,}16\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste doble semicírculo o duplicaste el rectángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para figuras compuestas se separan en regiones conocidas (rectángulo, semicírculo) y se suman sus áreas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas veces mayor es el área del Círculo B respecto al Círculo A?",
+      "context": "En una práctica de laboratorio de un colegio de Ibagué se comparan dos círculos: el Círculo A tiene radio de $3\\text{ cm}$ y el Círculo B tiene radio de $6\\text{ cm}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ veces mayor",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{\\pi \\cdot 6^2}{\\pi \\cdot 3^2} = \\frac{36}{9}=4$. El área escala con el cuadrado del radio."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ veces mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el factor entre radios, no entre áreas."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ veces mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cociente entre radios, no entre áreas."
+        },
+        {
+          "letter": "D",
+          "text": "$3$ veces mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado en la razón de áreas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las áreas son proporcionales al cuadrado del radio: si el radio se duplica, el área se multiplica por cuatro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área aproximada de la pista (la franja entre los dos círculos)?",
+      "context": "Una pista atlética circular de un colegio en Medellín tiene un radio exterior de $40\\text{ m}$ y un radio interior de $32\\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 1809{,}56\\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $A = \\pi(R^2 - r^2) = \\pi(1600 - 1024) = 576\\pi \\approx 1809{,}56$ m²."
+        },
+        {
+          "letter": "B",
+          "text": "$\\approx 3216{,}99\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las dos áreas en vez de restarlas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\approx 1406{,}72\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente restaste perímetros y no áreas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\approx 1152\\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste solo $576 \\times 2$ sin multiplicar por $\\pi$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un anillo o corona circular, el área es $\\pi(R^2 - r^2)$, donde $R$ es el radio mayor y $r$ el menor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v9",
+      "statement": "¿Qué diseño genera mayor área para sembrar césped y por qué?",
+      "context": "En un municipio del Huila se debe construir una glorieta utilizando exactamente $80\\text{ m}$ de bordillo. La administración compara una glorieta circular y una cuadrada, ambas usando los $80\\text{ m}$ como perímetro completo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La glorieta circular, con área $\\approx 509{,}3\\text{ m}^2$, porque el círculo maximiza el área con perímetro fijo",
+          "is_correct": true,
+          "feedback": "Correcto. Círculo: $r = 80/(2\\pi) \\approx 12{,}73$; área $\\approx 509{,}3$ m². Cuadrado: lado $20$, área $400$ m²."
+        },
+        {
+          "letter": "B",
+          "text": "La glorieta cuadrada, con área de $400\\text{ m}^2$, porque es más fácil de construir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque sea más fácil de construir, su área es menor."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas opciones generan exactamente la misma área",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con perímetro fijo, el círculo siempre tiene más área que el cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "Faltan datos para decidir entre las dos opciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con perímetro y forma ya es posible calcular el área exacta de cada diseño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entre todas las figuras planas, el círculo encierra la mayor área con el mismo perímetro; por eso se usa en reservorios, ductos y glorietas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle-v10",
+      "statement": "¿Qué distancia recorre aproximadamente la bicicleta en esos $10$ giros?",
+      "context": "Una rueda de bicicleta de carreras en Bogotá tiene diámetro de $70\\text{ cm}$. Un ciclista recorre $10$ vueltas completas en una pista de práctica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 21{,}99\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Circunferencia $\\pi \\times 70 \\approx 219{,}91$ cm $= 2{,}199$ m. Total $10 \\times 2{,}199 \\approx 21{,}99$ m."
+        },
+        {
+          "letter": "B",
+          "text": "$\\approx 70\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el diámetro como distancia recorrida por vuelta."
+        },
+        {
+          "letter": "C",
+          "text": "$\\approx 7\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $10$ en lugar de multiplicar por $10$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\approx 220\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste convertir centímetros a metros antes de multiplicar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para calcular la distancia recorrida por una rueda se multiplica la circunferencia por el número de vueltas, cuidando las unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W14-circulo-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

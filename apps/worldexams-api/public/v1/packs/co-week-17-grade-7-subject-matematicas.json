@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:46:39.545Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué establece el principio multiplicativo del conteo?",
+      "context": "Un técnico de Bogotá debe armar un computador eligiendo por separado el procesador, la memoria y el disco duro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si hay $m$ opciones para una primera elección y $n$ para una segunda independiente, existen $m \\times n$ formas combinadas",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición del principio multiplicativo."
+        },
+        {
+          "letter": "B",
+          "text": "El número de combinaciones se obtiene sumando las opciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para elecciones independientes se multiplica, no se suma."
+        },
+        {
+          "letter": "C",
+          "text": "El número de combinaciones se obtiene restando las opciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta aplica a conjuntos excluyentes, no a combinaciones."
+        },
+        {
+          "letter": "D",
+          "text": "El número de combinaciones se obtiene dividiendo las opciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La división aplica a la probabilidad, no al conteo de combinaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio multiplicativo afirma que para elecciones independientes el número de combinaciones es el producto de las opciones de cada etapa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántas combinaciones posibles de desayuno existen?",
+      "context": "En la cafetería escolar de Bogotá se ofrece un desayuno con $2$ opciones de pan y $3$ opciones de jugo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ combinaciones",
+          "is_correct": true,
+          "feedback": "Correcto. $2 \\times 3 = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ combinaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente sumaste las opciones: $2 + 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ combinaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es solo el número de jugos disponibles."
+        },
+        {
+          "letter": "D",
+          "text": "$2$ combinaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es solo el número de panes disponibles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si se elige un pan y un jugo, hay $2 \\times 3 = 6$ combinaciones distintas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas combinaciones de uniforme se pueden armar?",
+      "context": "En un colegio de Medellín el uniforme ofrece $3$ camisas (blanca, azul y beige) que se pueden combinar con $2$ pantalones (oscuro y beige).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ combinaciones",
+          "is_correct": true,
+          "feedback": "Correcto. $3 \\times 2 = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ combinaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las opciones en lugar de multiplicarlas."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ combinaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Consideraste solo las camisas."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ combinaciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3 + 2 + 4$ o usaste otra operación incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio multiplicativo combina elecciones independientes: $3$ camisas $\\times$ $2$ pantalones $= 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos posibles menús completos puede armar el cliente?",
+      "context": "Un restaurante típico de Cartagena ofrece un menú con $4$ entradas, $5$ platos fuertes y $3$ postres. Un cliente elige una opción de cada categoría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60$ menús posibles",
+          "is_correct": true,
+          "feedback": "Correcto. $4 \\times 5 \\times 3 = 60$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ menús posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo dos categorías."
+        },
+        {
+          "letter": "C",
+          "text": "$20$ menús posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por los postres."
+        },
+        {
+          "letter": "D",
+          "text": "$30$ menús posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste sumas o factores equivocados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con tres elecciones independientes, el total de combinaciones es el producto de las opciones de cada etapa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas rutas diferentes puede tomar Andrés para llegar?",
+      "context": "Andrés debe ir de su casa al colegio en Manizales: en la primera cuadra puede tomar $3$ calles distintas y en la segunda cuadra puede tomar $2$ calles distintas para llegar a la institución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ rutas distintas",
+          "is_correct": true,
+          "feedback": "Correcto. $3 \\times 2 = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ rutas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3 + 2$ en lugar de multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ rutas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste la primera cuadra."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ rutas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $3^2$ en lugar de $3 \\times 2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En cada cuadra las elecciones son independientes, así que el total de rutas es el producto de las opciones por cuadra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v6",
+      "statement": "¿De cuántas formas distintas pueden asignarse los puestos de primero, segundo y tercero?",
+      "context": "En una carrera atlética escolar en Bucaramanga participan $4$ corredores por los tres primeros lugares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ formas distintas",
+          "is_correct": true,
+          "feedback": "Correcto. Es una variación: $4 \\times 3 \\times 2 = 24$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ formas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste solo dos lugares."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ formas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el número de corredores, no de podios posibles."
+        },
+        {
+          "letter": "D",
+          "text": "$64$ formas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste $4$ al cubo en lugar de reducir opciones en cada paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una variación o permutación de $n$ elementos tomados de a $k$, se multiplican $n$, $n-1$, $n-2$, $\\ldots$, $n-k+1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos comités diferentes de $3$ personas se pueden formar?",
+      "context": "En la junta directiva de una asociación del Tolima se deben elegir $3$ personas para un comité a partir de $7$ candidatos voluntarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$35$ comités",
+          "is_correct": true,
+          "feedback": "Correcto. $C(7,3) = \\dfrac{7!}{3! \\cdot 4!} = \\dfrac{7 \\cdot 6 \\cdot 5}{3 \\cdot 2 \\cdot 1} = 35$."
+        },
+        {
+          "letter": "B",
+          "text": "$21$ comités",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $7 \\times 3$ o $C(7,2)$."
+        },
+        {
+          "letter": "C",
+          "text": "$7$ comités",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es solo el número de candidatos."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ comités",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el número de permutaciones de $3$ elegidos de $3$, no de $7$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para combinaciones el orden no importa: $C(n,k) = \\dfrac{n!}{k!(n-k)!}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos PIN diferentes puede generar un cliente bajo estas reglas?",
+      "context": "Una entidad bancaria en Bogotá exige a sus clientes crear un PIN de $4$ dígitos del $0$ al $9$ sin repetir ningún dígito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.040$ códigos posibles",
+          "is_correct": true,
+          "feedback": "Correcto. $10 \\times 9 \\times 8 \\times 7 = 5.040$."
+        },
+        {
+          "letter": "B",
+          "text": "$10.000$ códigos posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el total si se permitiera repetir dígitos."
+        },
+        {
+          "letter": "C",
+          "text": "$1.000$ códigos posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tendrías $10^3$ si el PIN fuera de $3$ dígitos."
+        },
+        {
+          "letter": "D",
+          "text": "$656$ códigos posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente calculaste combinaciones sin aplicar el orden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como los dígitos no se repiten, las opciones se reducen en cada posición: $10, 9, 8, 7$ y se multiplican.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántas posibles selecciones distintas de menú puede armar un comensal?",
+      "context": "Una señora en Bogotá prepara un almuerzo familiar ofreciendo $2$ sopas, $3$ platos fuertes, $2$ ensaladas y $2$ postres. Cada comensal debe elegir exactamente una opción de cada categoría y puede combinar cualquiera con cualquiera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ selecciones posibles",
+          "is_correct": true,
+          "feedback": "Correcto. $2 \\times 3 \\times 2 \\times 2 = 24$."
+        },
+        {
+          "letter": "B",
+          "text": "$9$ selecciones posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste opciones en lugar de multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ selecciones posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente tomaste $2 + 3 + 2 + 2 + 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$7$ selecciones posibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste categorías, no combinaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando se elige una opción de cada categoría se aplica el principio multiplicativo: producto de las opciones de cada etapa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuántas combinaciones reales de tiquete puede comprar un cliente nacional?",
+      "context": "Una agencia de viajes en Bogotá vende paquetes nacionales con $3$ destinos, $4$ aerolíneas y $2$ clases (económica y ejecutiva). Sin embargo, la clase ejecutiva solo está disponible con la Aerolínea $1$; las demás aerolíneas solo ofrecen clase económica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ combinaciones reales",
+          "is_correct": true,
+          "feedback": "Correcto. Aerolínea $1$: $3$ destinos $\\times 1$ clase $= 3$; otras $3$ aerolíneas: $3$ destinos $\\times 1$ clase $= 3 \\times 3 = 9$. Total $= 3 + 9 = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$24$ combinaciones reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el total si todas las combinaciones estuvieran disponibles."
+        },
+        {
+          "letter": "C",
+          "text": "$9$ combinaciones reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste las aerolíneas sin ejecutiva."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ combinaciones reales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste $3 + 3$ destinos en lugar de cruzar con aerolíneas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando hay restricciones se aplica el conteo por casos: se calculan por separado las combinaciones posibles y luego se suman.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W17-principio-multiplicativo-conteo-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

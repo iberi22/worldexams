@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-16-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:46:39.545Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el rango válido de una probabilidad expresada como número decimal?",
+      "context": "Una familia bogotana juega cada noche un juego de mesa que requiere lanzar un dado de seis caras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre $0$ y $1$, ambos incluidos",
+          "is_correct": true,
+          "feedback": "Correcto. La probabilidad teórica varía entre $0$ (imposible) y $1$ (seguro)."
+        },
+        {
+          "letter": "B",
+          "text": "Entre $-1$ y $1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las probabilidades no pueden ser negativas."
+        },
+        {
+          "letter": "C",
+          "text": "Entre $0\\%$ y $1000\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna probabilidad real supera el $100\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquier valor positivo sin límite superior",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad está acotada superiormente por $1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una probabilidad teórica se representa con números entre $0$ y $1$, donde $0$ es evento imposible y $1$ evento seguro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el espacio muestral del experimento \"lanzar un dado de seis caras\"?",
+      "context": "En un sorteo de la lotería tradicional de Cartagena se debe describir correctamente el espacio muestral al lanzar un dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada cara del dado representa un resultado posible."
+        },
+        {
+          "letter": "B",
+          "text": "$\\{\\text{par}, \\text{impar}\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso clasifica resultados, no los enumera individualmente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\{1, 6\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omite las caras $2, 3, 4$ y $5$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\{0, 1\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no aparece en un dado estándar de $6$ caras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio muestral es el conjunto de todos los resultados posibles del experimento aleatorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la probabilidad de que salga \"cara\" en una moneda justa?",
+      "context": "Antes de un partido en el estadio Atanasio Girardot de Medellín, dos amigos lanzan una moneda justa para decidir quién lava los uniformes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{1}{2} = 0{,}5$",
+          "is_correct": true,
+          "feedback": "Correcto. La moneda tiene $2$ caras posibles equiprobables."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moneda no tiene $4$ lados."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor no coincide con la división $1/2$."
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad $1$ sería un evento seguro, no el de una sola cara."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para eventos equiprobables: $P(\\text{cara}) = \\dfrac{\\text{casos favorables}}{\\text{casos totales}} = \\dfrac{1}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la probabilidad de obtener un número par en el lanzamiento?",
+      "context": "En un parque de Cali, un niño lanza un dado justo de seis caras durante un juego de piso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{1}{2} = 0{,}5$",
+          "is_correct": true,
+          "feedback": "Correcto. Casos favorables $\\{2,4,6\\}$ y totales $\\{1,2,3,4,5,6\\}$; $\\frac{3}{6} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el cociente de $2/6$, contando solo un par."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la probabilidad de un único número, no de los pares."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conteo incorrecto de casos favorables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un evento simple se cuentan los casos favorables sobre el total de resultados posibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la probabilidad de sacar una esfera roja en la primera extracción?",
+      "context": "En una feria cultural de Ipiales se ofrece una urna con $5$ esferas: $3$ rojas y $2$ blancas. Se extrae una esfera al azar sin mirar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{3}{5} = 0{,}6$",
+          "is_correct": true,
+          "feedback": "Correcto. Hay $3$ esferas rojas de un total de $5$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{1}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este sería el valor si hubiera una sola esfera roja."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{3}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad nunca supera $1$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el cociente entre casos favorables y totales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P(\\text{roja}) = \\dfrac{\\text{número de esferas rojas}}{\\text{total de esferas}}$ en extracción simple sin reemplazo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la probabilidad de que en realidad NO llueva?",
+      "context": "El pronóstico del tiempo en Bucaramanga indica que la probabilidad de lluvia para el día siguiente es $P = 0{,}7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0{,}3$",
+          "is_correct": true,
+          "feedback": "Correcto. $P(\\text{no lluvia}) = 1 - 0{,}7 = 0{,}3$."
+        },
+        {
+          "letter": "B",
+          "text": "$0{,}7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese era el valor original, no el complementario."
+        },
+        {
+          "letter": "C",
+          "text": "$1{,}4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad nunca puede ser mayor que $1$."
+        },
+        {
+          "letter": "D",
+          "text": "$0{,}0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si probabilidad de lluvia es $0{,}7$, la de no lluvia no puede ser $0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El evento complementario cumple $P(A) + P(\\text{no } A) = 1$. Se usa $1 - P(A)$ para hallar la probabilidad opuesta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la frecuencia relativa observada de los nacimientos masculinos?",
+      "context": "El hospital de Barranquilla registra que en los últimos $200$ nacimientos hubo $105$ niños y $95$ niñas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{105}{200} = 0{,}525$",
+          "is_correct": true,
+          "feedback": "Correcto. Frecuencia relativa $=$ casos observados / total."
+        },
+        {
+          "letter": "B",
+          "text": "$105$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es frecuencia absoluta, no relativa."
+        },
+        {
+          "letter": "C",
+          "text": "$0{,}95$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la frecuencia relativa de nacimientos femeninos, no masculinos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{100}{200}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No coincide con el número real de nacimientos masculinos observados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia relativa es el cociente entre el número de casos observados y el total de la muestra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la probabilidad de ganar algún premio (mayor o menor) al comprar un boleto?",
+      "context": "En una rifa comunitaria en Tumaco (Nariño) se venden $50$ boletos: $10$ con premio mayor, $15$ con premio menor y $25$ sin premio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{25}{50} = \\dfrac{1}{2} = 0{,}5$",
+          "is_correct": true,
+          "feedback": "Correcto. Boletos premiados $= 10 + 15 = 25$; probabilidad $= 25/50$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{10}{50}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste los premios mayores."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{15}{50}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste los premios menores."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{40}{50}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el complemento al revés, sumando lo que no gana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un evento incluye varios casos favorables, se suman sus conteos antes de dividir entre el total.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la decisión más razonable y por qué?",
+      "context": "Un estudiante en Pereira debe decidir si lleva paraguas al colegio. El pronóstico del día indica probabilidad de lluvia de $0{,}8$ y probabilidad de soleado de $0{,}2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar paraguas, porque la probabilidad de lluvia es alta y conviene estar preparado",
+          "is_correct": true,
+          "feedback": "Correcto. Con $P = 0{,}8$ es mucho más probable que llueva; llevar paraguas minimiza riesgos."
+        },
+        {
+          "letter": "B",
+          "text": "No llevar paraguas, porque \"siempre se puede improvisar después\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con lluvia muy probable, improvisar puede mojar al estudiante."
+        },
+        {
+          "letter": "C",
+          "text": "Da igual llevar o no llevar paraguas, porque la probabilidad es subjetiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad permite tomar decisiones informadas, no es irrelevante."
+        },
+        {
+          "letter": "D",
+          "text": "Salir sin paraguas y cruzar los dedos para que no llueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Apostar contra una probabilidad alta no es una decisión razonable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con probabilidades cercanas a $1$, conviene prepararse para el evento más probable; con probabilidades bajas, se puede asumir el riesgo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle-v10",
+      "statement": "¿En cuál lote es más alta la probabilidad de ganar con un boleto comprado?",
+      "context": "En Bogotá una vendedora de lotería compara dos lotes: Lote A con $100$ boletos y $5$ premios, y Lote B con $200$ boletos y $5$ premios. Cada boleto vale lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios",
+          "is_correct": true,
+          "feedback": "Correcto. $P_A = \\frac{5}{100} = 0{,}05$; $P_B = \\frac{5}{200} = 0{,}025$. Lote A es el doble de probable."
+        },
+        {
+          "letter": "B",
+          "text": "En el Lote B, porque tiene más boletos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más boletos significa menos probabilidad por boleto individual."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos lotes tienen la misma probabilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los denominadores son diferentes: $100$ vs $200$."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin información del premio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad de obtener un boleto premiado depende solo del cociente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar probabilidades de eventos uniformes exige evaluar el cociente entre casos favorables y casos totales para cada escenario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-7-2026-W16-probabilidad-eventos-simples-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
