@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.593Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el resultado de $(3x^2)(4x^3)$?",
+      "context": "En Medellín, un estudiante multiplica los monomios $(3x^2)$ y $(4x^3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12x^5$",
+          "is_correct": true,
+          "feedback": "Correcto. Se multiplican los coeficientes $3 \\times 4 = 12$ y se suman los exponentes $2 + 3 = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$7x^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los coeficientes en lugar de multiplicarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$12x^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los exponentes $2 \\times 3 = 6$ en lugar de sumarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$7x^6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los coeficientes y multiplicaste los exponentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la multiplicación de monomios se multiplican los coeficientes y se suman los exponentes de la misma variable: $3 \\times 4 = 12$ y $x^{2+3} = x^5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el resultado correcto de $(-2a^3)(5a)$?",
+      "context": "En Bogotá, una estudiante resuelve $(-2a^3)(5a)$ en su cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10a^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el signo negativo del primer factor."
+        },
+        {
+          "letter": "B",
+          "text": "$-10a^4$",
+          "is_correct": true,
+          "feedback": "Correcto. $(-2)(5) = -10$ y $a^{3+1} = a^4$."
+        },
+        {
+          "letter": "C",
+          "text": "$-7a^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los coeficientes $-2 + 5$ en lugar de multiplicarlos."
+        },
+        {
+          "letter": "D",
+          "text": "$-10a^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar el exponente de $a$, que también está elevado a la $1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se multiplican los signos y los coeficientes, y también se suman los exponentes: $(-2)(5) = -10$ y $a^{3+1} = a^4$, por lo cual el resultado es $-10a^4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el resultado de aplicar la propiedad distributiva a $3x(x + 4)$?",
+      "context": "En Cali, un docente usa $3x(x + 4)$ para explicar la propiedad distributiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo el primer término y dejaste el $4$ sin multiplicar."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $3x \\times 4$ olvidaste incluir la variable $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 + 12x$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x \\times x = 3x^2$ y $3x \\times 4 = 12x$."
+        },
+        {
+          "letter": "D",
+          "text": "$15x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $x + 4$ antes de multiplicar, lo cual viola la propiedad distributiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El monomio se distribuye sobre cada término del binomio: $3x \\cdot x + 3x \\cdot 4 = 3x^2 + 12x$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el producto de $-2y(3y^2 - y + 5)$?",
+      "context": "En Barranquilla, un estudiante distribuye $-2y(3y^2 - y + 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-6y^3 - 2y^2 - 10y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $(-2y)(-y)$ el resultado es positivo $+2y^2$, no negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$-6y^3 + 2y^2 + 10y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $(-2y)(5)$ el signo correcto es negativo $-10y$."
+        },
+        {
+          "letter": "C",
+          "text": "$6y^3 - 2y^2 + 10y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste todos los signos del resultado correcto."
+        },
+        {
+          "letter": "D",
+          "text": "$-6y^3 + 2y^2 - 10y$",
+          "is_correct": true,
+          "feedback": "Correcto. $-2y \\times 3y^2 = -6y^3$, $-2y \\times (-y) = +2y^2$ y $-2y \\times 5 = -10y$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se aplica la ley de los signos en cada producto parcial y se suman los exponentes: $-6y^3 + 2y^2 - 10y$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la expresión del área de la huerta?",
+      "context": "En Bucaramanga, una huerta rectangular mide $(x + 3)$ metros de ancho y $(x + 5)$ metros de largo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo los primeros y los últimos términos, faltan los términos cruzados."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 8x + 15$",
+          "is_correct": true,
+          "feedback": "Correcto. $x \\cdot x + 5x + 3x + 15 = x^2 + 8x + 15$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 5x + 15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el producto $3 \\cdot x = 3x$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los lados en lugar de multiplicarlos; eso daría el semiperímetro, no el área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área es el producto $(x+3)(x+5) = x^2 + 5x + 3x + 15 = x^2 + 8x + 15$, donde también se observa la suma de los términos cruzados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado simplificado de $(2x - 3)(x + 4)$?",
+      "context": "En Pereira, un estudiante multiplica $(2x - 3)(x + 4)$ paso a paso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 + 5x - 12$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^2 + 11x - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste $(-3)(x)$ como $+3x$ en lugar de $-3x$."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 + 5x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto $(-3)(4)$ es $-12$, no $+12$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 - 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eliminaste los términos cruzados $8x$ y $-3x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada término del primer binomio se multiplica por cada término del segundo y luego se reducen los semejantes: $8x - 3x = 5x$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el polinomio que representa el área del patio?",
+      "context": "En Cartagena, el patio de una escuela mide $(x + 2)$ metros de ancho y $(3x + 1)$ metros de largo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo multiplicaste los primeros términos y las constantes, sin los productos cruzados."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 + 6x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste $x \\times 1$ como $0$ y solo conservaste $2 \\times 3x = 6x$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2 + 7x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de las constantes $2 \\times 1$ es $2$, no $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^2 + 7x + 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $x(3x) + x(1) + 2(3x) + 2(1) = 3x^2 + x + 6x + 2$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área está dada por $(x+2)(3x+1) = 3x^2 + 7x + 2$, que también muestra cómo el área crece cuando aumenta $x$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v8",
+      "statement": "Al sustituir $x = 2$ en ambos lados, ¿qué valor se obtiene?",
+      "context": "En Manizales, Laura afirma que $(x - 4)(x + 3) = x^2 - x - 12$ y lo verifica sustituyendo $x = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor ignora los signos negativos de $(2 - 4) = -2$."
+        },
+        {
+          "letter": "B",
+          "text": "$-12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el término independiente, no el valor de la sustitución."
+        },
+        {
+          "letter": "C",
+          "text": "$-10$",
+          "is_correct": true,
+          "feedback": "Correcto. $(-2)(5) = -10$ y $4 - 2 - 12 = -10$; ambos lados coinciden."
+        },
+        {
+          "letter": "D",
+          "text": "$-6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $4 - 2 - 12$ como $-6$ por un error aritmético."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sustitución confirma la multiplicación: el lado izquierdo da $(-2)(5) = -10$ y el derecho $2^2 - 2 - 12 = -10$, por lo cual la identidad está verificada para ese valor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el producto simplificado?",
+      "context": "En Pasto, un grupo de grado octavo multiplica $(3x^2 - 2x + 1)(x - 3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^3 - 9x^2 + 7x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el producto $(-2x)(x) = -2x^2$ al agrupar los términos cuadráticos."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^3 - 11x^2 + 7x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x^3 - 9x^2 - 2x^2 + 6x + x - 3$ se reduce a $3x^3 - 11x^2 + 7x - 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^3 - 11x^2 + 5x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $6x + x$ como $5x$ en lugar de $7x$."
+        },
+        {
+          "letter": "D",
+          "text": "$3x^3 - 7x^2 + 7x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Combinaste $-9x^2 - 2x^2$ como $-7x^2$ por un error de signos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se distribuye cada término del trinomio por $(x - 3)$ y se reducen los semejantes: $-9x^2 - 2x^2 = -11x^2$ y $6x + x = 7x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el área del lote cuando $x = 10$?",
+      "context": "En Armenia, un lote rectangular mide $(2x + 5)$ metros y $(x - 4)$ metros. Para el plano se toma $x = 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$130$ metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal al evaluar $2(10)^2 - 3(10) - 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$170$ metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el término lineal en lugar de restarlo."
+        },
+        {
+          "letter": "C",
+          "text": "$250$ metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $(25)(10)$ en lugar de $(25)(6)$."
+        },
+        {
+          "letter": "D",
+          "text": "$150$ metros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área es $2x^2 - 3x - 20$ y con $x = 10$ da $200 - 30 - 20 = 150$; también $(25)(6) = 150$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Primero se multiplica $(2x+5)(x-4) = 2x^2 - 3x - 20$ y después se sustituye $x = 10$, lo que también equivale a multiplicar los lados numéricos $25$ y $6$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el error del estudiante y cuál es el resultado correcto?",
+      "context": "En Cúcuta, un estudiante escribió en el tablero que $(2x + 3)^2 = 4x^2 + 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Olvidó el doble producto; lo correcto es $4x^2 + 12x + 9$",
+          "is_correct": true,
+          "feedback": "Correcto. $(2x+3)(2x+3) = 4x^2 + 6x + 6x + 9$ e incluye el término $12x$."
+        },
+        {
+          "letter": "B",
+          "text": "Se equivocó en los cuadrados; lo correcto es $2x^2 + 12x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $(2x)^2 = 4x^2$, no $2x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "Sumó en lugar de multiplicar; lo correcto es $4x^2 + 6x + 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble producto es $2(2x)(3) = 12x$, no $6x$."
+        },
+        {
+          "letter": "D",
+          "text": "El cuadrado no aplica al $3$; lo correcto es $4x^2 + 12x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3^2 = 9$, no $3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuadrado de un binomio es $(2x+3)(2x+3)$ y exige los cuatro productos parciales; el término cruzado $12x$ es el que el estudiante omitió.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el producto simplificado?",
+      "context": "En Ibagué, una estudiante de olimpiadas multiplica $(x^2 + 2x - 1)(2x^2 - x + 3)$ y verifica con $x = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^4 + 3x^3 + 3x^2 + 7x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3x^2 - 2x^2 - 2x^2$ como $+3x^2$ en lugar de $-x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^4 + 5x^3 - x^2 + 7x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $-x^3 + 4x^3$ como $5x^3$ por un error de signos."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^4 + 3x^3 - x^2 + 7x - 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Los nueve productos parciales se agrupan en $3x^3$, $-x^2$ y $7x$; con $x = 1$ ambos lados dan $8$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^4 + 3x^3 - x^2 + 5x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $6x + x$ como $5x$ en lugar de $7x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al distribuir se obtienen $2x^4 - x^3 + 3x^2 + 4x^3 - 2x^2 + 6x - 2x^2 + x - 3$, que al reducir da $2x^4 + 3x^3 - x^2 + 7x - 3$; la sustitución con $x = 1$ confirma el resultado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W04-multiplicacion-polinomios-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

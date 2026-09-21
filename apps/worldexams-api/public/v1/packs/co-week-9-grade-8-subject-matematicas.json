@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-8-subject-matematicas",
+    "generated_at": "2026-09-21T22:09:29.595Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué criterio permite afirmar que los dos triángulos son semejantes?",
+      "context": "En Bogotá, frente al edificio Colpatria, la profesora dibuja dos triángulos: el triángulo ABC tiene ángulos de $50°$ y $60°$, y el triángulo DEF tiene ángulos de $50°$ y $70°$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Criterio LLL, porque se conocen los tres lados de cada triángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se conocen los lados, solo se conocen dos ángulos de cada triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Criterio AA, porque tienen dos ángulos correspondientes iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. El tercer ángulo de ABC es $180° - 50° - 60° = 70°$, igual al de DEF; dos ángulos iguales garantizan la semejanza por AA."
+        },
+        {
+          "letter": "C",
+          "text": "Criterio LAL, porque se conoce un ángulo y los lados que lo forman.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio LAL exige conocer dos lados proporcionales y el ángulo comprendido, datos que no se dan aquí."
+        },
+        {
+          "letter": "D",
+          "text": "No son semejantes, porque los ángulos dados no están en el mismo orden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden no importa; lo que importa es que dos pares de ángulos correspondientes sean iguales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El triángulo ABC tiene ángulos de $50°$, $60°$ y $180° - 50° - 60° = 70°$. El triángulo DEF también tiene $50°$ y $70°$. Por tener dos ángulos correspondientes iguales, son semejantes por el criterio AA.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son los lados del triángulo semejante obtenido?",
+      "context": "En Medellín, cerca del edificio EPM, un estudiante amplía el triángulo de lados $3$ m, $4$ m y $5$ m con razón de semejanza $2$ para una maqueta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ m, $5$ m y $6$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $1$ a cada lado en lugar de multiplicar por la razón $2$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ m, $6$ m y $7$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $2$ a cada lado; la semejanza exige multiplicar cada lado por la misma razón."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ m, $8$ m y $9$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos primeros lados están bien ($3 \\times 2 = 6$, $4 \\times 2 = 8$), pero $5 \\times 2 = 10$, no $9$."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ m, $8$ m y $10$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lado se multiplica por $2$: $3 \\times 2 = 6$, $4 \\times 2 = 8$ y $5 \\times 2 = 10$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En triángulos semejantes los lados correspondientes son proporcionales. Con razón $2$, cada lado se duplica: $3 \\times 2 = 6$, $4 \\times 2 = 8$ y $5 \\times 2 = 10$. Además se conserva la forma, pues $3$-$4$-$5$ y $6$-$8$-$10$ son triángulos rectángulos proporcionales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v3",
+      "statement": "Según el teorema de Tales, ¿cuánto mide el segmento EC?",
+      "context": "En Cali, frente a la iglesia La Ermita, se traza un triángulo donde el segmento DE es paralelo a BC. Se mide $AD = 4$ m, $DB = 6$ m y $AE = 6$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Por Tales $AD/DB = AE/EC$, es decir $4/6 = 6/EC$, de donde $EC = 36/4 = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste $EC = AE$ sin aplicar la proporción $AD/DB = AE/EC$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste EC con AD; la proporción correcta es $4/6 = 6/EC$."
+        },
+        {
+          "letter": "D",
+          "text": "$8$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $AD + DB - AE = 4$ de forma incorrecta en vez de plantear la proporción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como DE es paralelo a BC, el teorema de Tales establece que $AD/DB = AE/EC$. Sustituyendo: $4/6 = 6/EC$. Multiplicando en cruz: $4 \\times EC = 36$, por lo tanto $EC = 9$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto mide el lado mayor del triángulo semejante?",
+      "context": "En Cartagena, junto a la Torre del Reloj, un triángulo de lados $4$ m, $6$ m y $8$ m es semejante a otro cuyo lado menor mide $6$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $2$ al lado mayor en lugar de aplicar la razón de semejanza $6/4 = 1,5$."
+        },
+        {
+          "letter": "B",
+          "text": "$9$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el lado mediano ($6 \\times 1,5 = 9$), no el lado mayor."
+        },
+        {
+          "letter": "C",
+          "text": "$12$ m",
+          "is_correct": true,
+          "feedback": "Correcto. La razón es $6/4 = 1,5$ y el lado mayor es $8 \\times 1,5 = 12$."
+        },
+        {
+          "letter": "D",
+          "text": "$14$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $8$ por $1,75$ en vez de por la razón correcta $1,5$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La razón de semejanza es lado menor nuevo entre lado menor original: $k = 6/4 = 1,5$. Entonces los lados son $4 \\times 1,5 = 6$, $6 \\times 1,5 = 9$ y $8 \\times 1,5 = 12$. El lado mayor mide $12$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la altura del monumento?",
+      "context": "En Barranquilla, junto al monumento Ventana al Mundo, un poste de $1,6$ m proyecta una sombra de $2,4$ m, mientras el monumento proyecta una sombra de $18$ m a la misma hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $18/1,8$ sin usar la proporción entre altura y sombra de cada triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza $1,6/2,4 = h/18$, de donde $h = 1,6 \\times 18 / 2,4 = 28,8/2,4 = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$11$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $2,4 - 1,6$ de forma aditiva en vez de plantear la razón de proporcionalidad."
+        },
+        {
+          "letter": "D",
+          "text": "$14,4$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $1,6 \\times 9$ usando una razón $9$ que no corresponde a $18/2,4 = 7,5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los rayos del sol forman el mismo ángulo, así que los triángulos poste-sombra y monumento-sombra son semejantes. Se cumple $1,6/2,4 = h/18$. Despejando: $h = 1,6 \\times 18 / 2,4 = 28,8/2,4 = 12$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la altura de la torre?",
+      "context": "En Bucaramanga, frente a la catedral de la Sagrada Familia, una estudiante usa un espejo en el suelo para medir una torre. Sus ojos están a $1,5$ m del suelo, ella está a $2,5$ m del espejo y el espejo está a $22,5$ m de la base de la torre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $22,5/2,5 = 9$ pero multiplicaste por $1,33$ en vez de por $1,5$."
+        },
+        {
+          "letter": "B",
+          "text": "$15$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $22,5/2,5 + 6$ de forma aditiva; la relación entre los triángulos es multiplicativa."
+        },
+        {
+          "letter": "C",
+          "text": "$11,25$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la razón y calculaste $1,5 \\times 2,5 / 22,5$ en lugar de $1,5 \\times 22,5 / 2,5$."
+        },
+        {
+          "letter": "D",
+          "text": "$13,5$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza $1,5/2,5 = h/22,5$, de donde $h = 1,5 \\times 22,5 / 2,5 = 1,5 \\times 9 = 13,5$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El rayo que va de los ojos al espejo y el que va de la cima de la torre al espejo forman ángulos iguales con el suelo, así que los dos triángulos rectángulos son semejantes por AA. Entonces $h/22,5 = 1,5/2,5$. Como $22,5/2,5 = 9$, se obtiene $h = 1,5 \\times 9 = 13,5$ m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conclusión es correcta sobre los dos triángulos?",
+      "context": "En Pereira, en la plaza de Bolívar, se comparan dos triángulos: el primero tiene dos lados de $6$ m y $9$ m con el ángulo comprendido de $60°$; el segundo tiene lados de $8$ m y $12$ m con el ángulo comprendido también de $60°$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son semejantes por el criterio LAL, porque $6/8 = 9/12 = 0,75$ y el ángulo comprendido es igual.",
+          "is_correct": true,
+          "feedback": "Correcto. Los lados que forman el ángulo de $60°$ son proporcionales ($6/8 = 9/12 = 3/4$) y el ángulo comprendido es congruente."
+        },
+        {
+          "letter": "B",
+          "text": "Son semejantes por el criterio AA, porque solo se conoce un ángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio AA exige dos ángulos iguales; aquí solo se conoce uno y se usa la proporcionalidad de los lados que lo forman."
+        },
+        {
+          "letter": "C",
+          "text": "No son semejantes, porque $6 \\neq 8$ y $9 \\neq 12$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La semejanza no exige lados iguales sino lados proporcionales; $6/8 = 9/12$ sí se cumple."
+        },
+        {
+          "letter": "D",
+          "text": "Son congruentes por el criterio LAL, porque comparten el ángulo de $60°$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir un ángulo no los hace congruentes; los lados son distintos ($6 \\neq 8$), aunque sí son proporcionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El criterio LAL pide dos pares de lados proporcionales y el ángulo comprendido igual. Aquí $6/8 = 3/4$ y $9/12 = 3/4$, es decir $0,75$ en ambos casos, y el ángulo de $60°$ es el comprendido entre esos lados. Por lo tanto los triángulos son semejantes por LAL, pero no congruentes porque los lados no son iguales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánto mide el lado $x$ correspondiente a la hipotenusa?",
+      "context": "En Manizales, desde el monumento a Los Colonizadores, se analizan dos triángulos rectángulos semejantes: el primero tiene lados de $5$ m, $12$ m y $13$ m; el segundo tiene lados de $10$ m, $24$ m y un tercer lado desconocido $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cateto mayor ($12 \\times 2$); la hipotenusa debe corresponder a $13$."
+        },
+        {
+          "letter": "B",
+          "text": "$25$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $1$ a $24$; la razón de semejanza es $10/5 = 2$, así que debes multiplicar $13 \\times 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$26$ m",
+          "is_correct": true,
+          "feedback": "Correcto. La razón es $10/5 = 2$, luego $x = 13 \\times 2 = 26$; además $10$-$24$-$26$ cumple $10/5 = 24/12 = 26/13 = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$28$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $13$ por una razón aproximada de $2,15$ en vez de la razón exacta $2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La razón de semejanza es $10/5 = 2$ y se confirma con $24/12 = 2$. Por el criterio LLL, el tercer lado también debe seguir la razón: $x = 13 \\times 2 = 26$ m. Se verifica que $5$-$12$-$13$ y $10$-$24$-$26$ son proporcionales con razón $2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la longitud de la sombra de la persona, medida desde sus pies hasta el extremo de la sombra?",
+      "context": "En Pasto, en la plaza de Nariño, una farola de $4,5$ m ilumina a una persona de $1,8$ m que está de pie a $5$ m de la base de la farola. La sombra de la persona se proyecta sobre el andén.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2,5$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Planteaste $4,5/5 = 1,8/s$ omitiendo que la base del triángulo grande es $5 + s$, no $5$."
+        },
+        {
+          "letter": "B",
+          "text": "$3,33$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Por semejanza $4,5/(5 + s) = 1,8/s$, de donde $4,5s = 9 + 1,8s$, luego $2,7s = 9$ y $s = 3,33$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la razón invertida $1,8/4,5 = 5/s$, que ignora que la sombra forma parte de la base del triángulo mayor."
+        },
+        {
+          "letter": "D",
+          "text": "$4$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $5 - 1$ sin resolver la ecuación de proporcionalidad entre los dos triángulos semejantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La farola y la persona forman dos triángulos rectángulos semejantes que comparten el ángulo del extremo de la sombra. Si $s$ es la sombra, la base del triángulo grande es $5 + s$. Entonces $4,5/(5 + s) = 1,8/s$. Multiplicando en cruz: $4,5s = 1,8(5 + s) = 9 + 1,8s$. Luego $4,5s - 1,8s = 9$, es decir $2,7s = 9$, de donde $s = 9/2,7 = 3,33$ m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación de Felipe y por qué?",
+      "context": "En Armenia, junto al monumento al Arriero, Felipe afirma que dos triángulos rectángulos que tienen un ángulo agudo de $35°$ son siempre semejantes entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque solo se conoce un ángulo agudo y falta conocer los lados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con dos ángulos iguales basta para la semejanza; no es necesario conocer los lados."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque los triángulos rectángulos nunca pueden ser semejantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos triángulos rectángulos sí pueden ser semejantes si además comparten un ángulo agudo."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, por el criterio LLL, porque ambos tienen hipotenusa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener hipotenusa no garantiza proporcionalidad de los tres lados; la justificación correcta usa los ángulos."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, por el criterio AA, porque ambos tienen $90°$ y $35°$, y el tercer ángulo es $55°$ en los dos.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada triángulo tiene ángulos de $90°$, $35°$ y $180° - 90° - 35° = 55°$; dos ángulos iguales garantizan la semejanza por AA."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Todo triángulo rectángulo tiene un ángulo de $90°$. Si además ambos comparten un ángulo agudo de $35°$, entonces tienen dos ángulos correspondientes iguales. El tercer ángulo en cada uno es $180° - 90° - 35° = 55°$. Por el criterio AA, los dos triángulos son semejantes sin necesidad de medir los lados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v11",
+      "statement": "Según el teorema general de Tales, ¿cuánto mide $x$?",
+      "context": "En Cúcuta, tres calles paralelas (la avenida Libertadores y dos transversales) son cortadas por dos carreras. Sobre una carrera los segmentos entre las paralelas miden $5$ m y $7,5$ m; sobre la otra carrera, el primer segmento mide $8$ m y el segundo es desconocido $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Por Tales $5/7,5 = 8/x$, de donde $5x = 60$ y $x = 12$."
+        },
+        {
+          "letter": "B",
+          "text": "$10,5$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $7,5 + 8 - 5$ de forma aditiva en vez de plantear la proporción $5/7,5 = 8/x$."
+        },
+        {
+          "letter": "C",
+          "text": "$9,5$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promediaste $7,5$ y $8$ sin usar la razón de proporcionalidad entre las transversales."
+        },
+        {
+          "letter": "D",
+          "text": "$11$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redondeaste la razón $7,5/5 = 1,5$ a $1,375$; la razón exacta da $x = 8 \\times 1,5 = 12$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teorema general de Tales afirma que paralelas cortadas por dos transversales generan segmentos proporcionales: $5/7,5 = 8/x$. Como $5/7,5 = 50/75 = 2/3$, se tiene $8/x = 2/3$. Multiplicando en cruz: $2x = 24$, por lo tanto $x = 12$ m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el perímetro real del jardín triangular?",
+      "context": "En Ibagué, el plano del parque Murillo Toro incluye un jardín triangular de $3$ cm, $4$ cm y $5$ cm dibujado a escala $1:200$. El jardinero necesita cercar el jardín real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el perímetro en el plano ($3 + 4 + 5 = 12$ cm) sin aplicar la escala $1:200$."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $12 \\times 100 + 8$ con un factor incorrecto; la escala exige multiplicar por $200$."
+        },
+        {
+          "letter": "C",
+          "text": "$24$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Los lados reales son $6$ m, $8$ m y $10$ m, y el perímetro es $6 + 8 + 10 = 24$."
+        },
+        {
+          "letter": "D",
+          "text": "$30$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste el perímetro del plano por $250$ en vez de por $200$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La escala $1:200$ significa que $1$ cm del plano equivale a $200$ cm reales. Los lados reales son $3 \\times 200 = 600$ cm $= 6$ m, $4 \\times 200 = 800$ cm $= 8$ m y $5 \\times 200 = 1000$ cm $= 10$ m. El triángulo real es semejante al del plano con razón $200$. Su perímetro es $6 + 8 + 10 = 24$ m.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
