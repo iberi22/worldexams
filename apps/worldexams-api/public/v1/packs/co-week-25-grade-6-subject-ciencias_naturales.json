@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-25-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T05:56:19.178Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v1",
+      "statement": "¿Dónde comienza el proceso de digestión de los alimentos en el cuerpo humano?",
+      "context": "En el comedor escolar de un colegio de Pasto, una estudiante observa cómo mastica un plátano y siente que la saliva lo humedece antes de tragarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la boca",
+          "is_correct": true,
+          "feedback": "Correcto. La digestión inicia en la boca con la masticación y la saliva."
+        },
+        {
+          "letter": "B",
+          "text": "En el estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estómago continúa el proceso, pero no lo inicia."
+        },
+        {
+          "letter": "C",
+          "text": "En el intestino grueso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Allí se absorbe agua y se forman las heces, no inicia la digestión."
+        },
+        {
+          "letter": "D",
+          "text": "En los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pulmones pertenecen al sistema respiratorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La digestión comienza en la boca, donde los dientes trituran el alimento y la saliva lo humedece e inicia la transformación de los almidones mediante una enzima llamada amilasa salival.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumple la masticación en el proceso digestivo?",
+      "context": "En su casa de Barranquilla, un niño corre mientras come y su mamá le recuerda que debe masticar bien la comida antes de tragarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tritura el alimento en trozos más pequeños y facilita la acción de las enzimas y la deglución",
+          "is_correct": true,
+          "feedback": "Correcto. Fragmentar el alimento aumenta la superficie de contacto con las enzimas."
+        },
+        {
+          "letter": "B",
+          "text": "Calienta el alimento para que se cocine en la boca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La boca no cocina el alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina todos los nutrientes antes de tragar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masticación no elimina nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia el sabor de la comida para que sepa diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sabor no es el objetivo de la masticación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al masticar, los dientes reducen el alimento en partículas menores y aumentan su superficie, lo que permite que las enzimas actúen mejor y que el bolo alimenticio se deslice con facilidad hacia el esófago.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v3",
+      "statement": "¿Qué deben esperar al comparar el pan en agua con el pan en saliva diluida?",
+      "context": "En un laboratorio del colegio de Tunja, los estudiantes colocan un pedazo de pan en un tubo con agua y otro con saliva diluida, ambos a la misma temperatura, y comparan los resultados después de media hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el pan en saliva se descomponga más porque la amilasa salival transforma el almidón en azúcares más simples",
+          "is_correct": true,
+          "feedback": "Correcto. La saliva contiene enzimas que actúan sobre el almidón."
+        },
+        {
+          "letter": "B",
+          "text": "Que el pan en agua se descomponga más porque el agua es más pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua sola no contiene enzimas digestivas."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambos se descompongan exactamente igual porque son el mismo pan",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de saliva marca la diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que el pan no cambie en ninguno de los dos tubos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La saliva sí modifica el almidón del pan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La saliva contiene amilasa, una enzima que descompone el almidón en azúcares sencillos; por eso el pan en saliva se transforma más rápido que el pan sumergido únicamente en agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v4",
+      "statement": "¿Qué estructura conecta la boca con el estómago y cómo impulsa el alimento?",
+      "context": "Después de almorzar en el mercado de Sincelejo, un señor siente que los alimentos pasan por un tubo largo antes de llegar al estómago.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El esófago, que empuja el bolo alimenticio mediante movimientos musculares llamados movimientos peristálticos",
+          "is_correct": true,
+          "feedback": "Correcto. El peristaltismo impulsa el bolo por el esófago."
+        },
+        {
+          "letter": "B",
+          "text": "La tráquea, que lleva el alimento a los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tráquea conduce aire, no alimento."
+        },
+        {
+          "letter": "C",
+          "text": "El intestino delgado, que conecta la boca con el estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intestino delgado está después del estómago."
+        },
+        {
+          "letter": "D",
+          "text": "Las venas, que transportan el alimento con la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las venas transportan sangre, no el bolo alimenticio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El esófago es un tubo muscular que conecta la faringe con el estómago; sus paredes se contraen y relajan de forma ordenada en movimientos peristálticos que empujan el bolo alimenticio, sin depender de la gravedad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v5",
+      "statement": "¿Qué papel cumple el jugo gástrico en el estómago?",
+      "context": "En una tienda de Cali, un joven compra jugo de naranja con mucha acidez y nota que su estómago produce jugos para digerir la comida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descompone los alimentos y reduce los microbios gracias a su acidez, formando el quimo",
+          "is_correct": true,
+          "feedback": "Correcto. El ácido clorhídrico y las enzimas digieren y protegen."
+        },
+        {
+          "letter": "B",
+          "text": "Enfría los alimentos para que no quemen el intestino",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jugo gástrico no enfría; es ácido."
+        },
+        {
+          "letter": "C",
+          "text": "Absorbe todo el agua de los alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayor absorción de agua ocurre en el intestino grueso."
+        },
+        {
+          "letter": "D",
+          "text": "Impide que los alimentos bajen al intestino",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estómago sí permite el paso del quimo al intestino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El jugo gástrico contiene ácido clorhídrico y enzimas como la pepsina; su acidez descompone los alimentos, activa las enzimas y ayuda a eliminar microorganismos, transformando el bolo en una mezcla semilíquida llamada quimo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis explica por qué el intestino delgado es tan largo y con pliegues llamados vellosidades?",
+      "context": "Un equipo de estudiantes de un colegio de Manizales compara la longitud del intestino delgado y del intestino grueso y observa que el delgado es mucho más largo aunque más delgado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su gran longitud y sus vellosidades aumentan la superficie de absorción para que los nutrientes pasen a la sangre",
+          "is_correct": true,
+          "feedback": "Correcto. Más superficie significa más absorción de nutrientes."
+        },
+        {
+          "letter": "B",
+          "text": "Es largo porque almacena los desechos durante muchos días",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intestino grueso es el que almacena y forma las heces."
+        },
+        {
+          "letter": "C",
+          "text": "Su longitud sirve para que el alimento permanezca frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no determina su longitud."
+        },
+        {
+          "letter": "D",
+          "text": "Las vellosidades sirven para empujar el alimento más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función principal es absorber nutrientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El intestino delgado es el órgano principal de la absorción: su longitud y las vellosidades de su pared interna amplían enormemente la superficie disponible para que los nutrientes atraviesen hacia la sangre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis describe la función del hígado y el páncreas en la digestión?",
+      "context": "Un médico de Bucaramanga explica a un paciente que, aunque el hígado y el páncreas no forman parte directa del tubo digestivo, sus secreciones sí llegan al intestino delgado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hígado produce bilis que ayuda a digerir las grasas y el páncreas produce enzimas que descomponen grasas, proteínas y carbohidratos",
+          "is_correct": true,
+          "feedback": "Correcto. Sus secreciones vierten al intestino delgado y completan la digestión."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos producen sangre nueva para el sistema digestivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No producen sangre; vierten jugos digestivos."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos filtran el aire que respiramos al comer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no corresponde a su función digestiva."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno participa en la digestión de los alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque no son parte del tubo, sí aportan jugos esenciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El hígado y el páncreas son glándulas anexas: el hígado produce la bilis que emulsiona las grasas y el páncreas secreta enzimas que actúan sobre grasas, proteínas y carbohidratos; ambas secreciones llegan al intestino delgado para completar la digestión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica la relación entre el consumo de agua y la formación de las heces?",
+      "context": "En una vereda de Nariño, una familia nota que cuando beben poca agua sus heces se vuelven duras y la evacuación es difícil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El intestino grueso absorbe agua de los restos; si falta agua, absorbe más y las heces quedan secas y duras",
+          "is_correct": true,
+          "feedback": "Correcto. La absorción de agua en el colon endurece las heces."
+        },
+        {
+          "letter": "B",
+          "text": "El agua se convierte directamente en heces en el estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las heces se forman en el intestino grueso a partir de restos no digeridos."
+        },
+        {
+          "letter": "C",
+          "text": "Beber poca agua produce más vitaminas en el colon",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de agua no produce vitaminas."
+        },
+        {
+          "letter": "D",
+          "text": "El intestino delgado deja de absorber nutrientes si falta agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema descrito se relaciona con el intestino grueso, no con la absorción de nutrientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el intestino grueso se absorbe gran parte del agua que queda en los restos alimenticios; cuando el cuerpo recibe poca agua, esa absorción se acentúa y las heces se endurecen, dificultando la evacuación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En una feria de salud de Cúcuta, tres personas hacen estas afirmaciones: 1) Los nutrientes se absorben principalmente en el intestino delgado. 2) El intestino grueso solo sirve para acumular basura. 3) Masticar bien ayuda a digerir mejor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es verdadera, la 2 es falsa porque el intestino grueso también absorbe agua y forma las heces, y la 3 es verdadera",
+          "is_correct": true,
+          "feedback": "Correcto. Corrige el error sobre el intestino grueso y valida las otras dos."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque todo el intestino hace lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada región del intestino cumple funciones distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 2 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 1 y la 3 son verdaderas."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque la digestión ocurre solo en la boca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La digestión continúa en estómago e intestino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige distinguir las funciones de cada órgano: el intestino delgado absorbe la mayoría de nutrientes, el intestino grueso recupera agua y forma las heces, y la masticación facilita todo el proceso digestivo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle-v10",
+      "statement": "¿Qué recomendación es más adecuada para cuidar el sistema digestivo con bajo costo?",
+      "context": "Una nutricionista de Medellín asesora a una familia con presupuesto limitado en COP para mejorar su alimentación y cuidar el sistema digestivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumir frutas, verduras y suficiente agua, y masticar bien los alimentos, porque son hábitos accesibles que favorecen la digestión y la absorción",
+          "is_correct": true,
+          "feedback": "Correcto. La fibra, el agua y la buena masticación cuidan el sistema digestivo."
+        },
+        {
+          "letter": "B",
+          "text": "Comprar suplementos costosos que reemplacen todas las comidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un gasto alto no garantiza mejor salud digestiva."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar por completo el agua para no diluir los jugos gástricos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es necesaria para formar las heces y evitar el estreñimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Comer muy rápido para que el estómago trabaje más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comer rápido dificulta la digestión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar hábitos digestivos implica considerar su efecto real y su accesibilidad: aumentar el consumo de fibra y agua, masticar despacio y mantener horarios de comida regulares son medidas económicas y eficaces para prevenir el estreñimiento y mejorar la absorción de nutrientes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W25-sistema-digestivo-humano-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

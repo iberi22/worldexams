@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-24-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T05:56:19.171Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se llama la máquina simple que usa el vendedor al apoyar una barra sobre un punto fijo para levantar la carga?",
+      "context": "En el mercado de Paloquemao, en Bogotá, un vendedor de papa usa una barra de hierro apoyada sobre una piedra para levantar un bulto muy pesado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palanca",
+          "is_correct": true,
+          "feedback": "Correcto. La barra con un punto de apoyo es una palanca."
+        },
+        {
+          "letter": "B",
+          "text": "Polea",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polea usa una rueda con cuerda, no una barra apoyada."
+        },
+        {
+          "letter": "C",
+          "text": "Plano inclinado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plano inclinado es una rampa, no una barra que gira."
+        },
+        {
+          "letter": "D",
+          "text": "Tornillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tornillo es un plano inclinado enrollado, no una barra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palanca es una máquina simple formada por una barra rígida que gira sobre un punto de apoyo llamado fulcro; al aplicar fuerza en un extremo se vence una resistencia mayor en el otro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la rampa permite subir el mismo bulto con menos fuerza que levantándolo en línea recta?",
+      "context": "En una obra del barrio El Poblado, en Medellín, los obreros suben bultos de cemento a un segundo piso usando una rampa de madera en lugar de levantarlos en vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el plano inclinado reparte el esfuerzo en un recorrido más largo y reduce la fuerza necesaria",
+          "is_correct": true,
+          "feedback": "Correcto. La rampa cambia fuerza por distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la rampa hace que el bulto pese menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del bulto no cambia, cambia la fuerza aplicada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la madera de la rampa atrae el cemento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera no ejerce atracción sobre el bulto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque al subir en diagonal el aire empuja hacia arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no realiza ese trabajo de elevación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plano inclinado es una máquina simple que permite vencer una resistencia con menos fuerza a cambio de recorrer una distancia mayor; cuanto más larga y menos inclinada es la rampa, menor es el esfuerzo requerido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué deben observar los estudiantes para comprobar en qué posición necesitan menos fuerza?",
+      "context": "En el colegio de Ibagué, un grupo de estudiantes prueba una palanca con la piedra de apoyo cerca del bulto y luego cerca de sus manos para comparar el esfuerzo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al alejar el punto de apoyo de sus manos y acercarlo a la carga, aplican menos fuerza para levantarla",
+          "is_correct": true,
+          "feedback": "Correcto. Un brazo de potencia más largo reduce la fuerza."
+        },
+        {
+          "letter": "B",
+          "text": "Que el bulto pesa más cuando el apoyo está lejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del bulto no depende de la posición del apoyo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la palanca funciona mejor si es más corta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una palanca demasiado corta no da ventaja mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fuerza aplicada no cambia con la posición del apoyo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición del fulcro sí modifica la fuerza necesaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una palanca, la ventaja mecánica depende de los brazos: cuanto mayor sea la distancia entre el punto de apoyo y el lugar donde se aplica la fuerza, menor será la fuerza necesaria para mover la carga.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ventaja práctica ofrece la polea móvil frente a la polea fija al levantar cargas?",
+      "context": "En el muelle de Buenaventura, los estibadores usan una polea fija para subir cajas desde el camión hasta el barco y una polea móvil para cargas más pesadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La polea móvil reduce la fuerza necesaria porque la carga se reparte entre dos tramos de la cuerda",
+          "is_correct": true,
+          "feedback": "Correcto. Repartir la carga entre dos ramales disminuye la fuerza."
+        },
+        {
+          "letter": "B",
+          "text": "La polea móvil cambia el color de la cuerda para no confundirla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no influye en el esfuerzo de elevación."
+        },
+        {
+          "letter": "C",
+          "text": "La polea fija siempre requiere la mitad de fuerza que la móvil",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al contrario: la móvil ofrece ventaja mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "La polea móvil elimina por completo el peso de la carga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna polea elimina el peso; solo lo reparte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polea fija solo cambia la dirección de la fuerza, mientras que la polea móvil reparte el peso entre dos tramos de cuerda y permite levantarlo con aproximadamente la mitad del esfuerzo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo aplica el hacha el principio de la cuña al partir la leña?",
+      "context": "En una finca panelera de Vélez, Santander, un campesino parte leña usando un hacha, cuya hoja delgada y en cuña se introduce en la madera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hoja afilada en ángulo concentra la fuerza en un borde delgado y separa las fibras de la madera con menor esfuerzo",
+          "is_correct": true,
+          "feedback": "Correcto. La cuña concentra la fuerza en un filo estrecho."
+        },
+        {
+          "letter": "B",
+          "text": "El hacha calienta la madera hasta que esta se rompe sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rotura se debe a la fuerza concentrada, no al calor."
+        },
+        {
+          "letter": "C",
+          "text": "El mango del hacha es el que corta la madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mango sirve para aplicar fuerza y dar velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "La madera se parte porque el hacha la atrae con magnetismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hacha no ejerce atracción magnética sobre la madera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cuña es una máquina simple formada por dos planos inclinados que convergen en un filo; al golpearla, toda la fuerza se concentra en un borde muy delgado y vence la resistencia de la madera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis describe mejor la relación entre la longitud de la rampa, la fuerza y la distancia recorrida?",
+      "context": "En el taller de la Institución Educativa de Sincelejo, los estudiantes comparan dos rampas de igual altura: una corta y empinada y otra larga y suave, para subir un mismo bloque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rampa más larga exige menos fuerza pero obliga a recorrer más distancia; la corta exige más fuerza en menos recorrido",
+          "is_correct": true,
+          "feedback": "Correcto. La ventaja mecánica se compensa con la distancia."
+        },
+        {
+          "letter": "B",
+          "text": "La rampa más corta siempre requiere menos fuerza porque es más chica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una rampa corta y empinada exige más fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "La longitud de la rampa no influye en la fuerza aplicada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud es determinante en la ventaja mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "La rampa larga reduce el peso del bloque por calentarlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso no cambia con la longitud de la rampa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En toda máquina simple la energía se conserva: lo que se gana en fuerza se pierde en distancia. Una rampa larga reparte el esfuerzo en un recorrido mayor, por lo que se necesita menos fuerza para subir la misma carga.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.71,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis permite clasificar estas herramientas según la posición del punto de apoyo y la carga?",
+      "context": "En la plaza de mercado de Popayán, una vendedora usa tijeras, un destapador y una carretilla; nota que cada herramienta tiene el punto de apoyo en un lugar distinto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son palancas de distintos géneros: en unas el apoyo queda entre fuerza y carga, en otras la carga está entre apoyo y fuerza, y en la carretilla la fuerza queda entre apoyo y carga",
+          "is_correct": true,
+          "feedback": "Correcto. El género de la palanca depende de esas posiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Todas son del mismo tipo porque sirven para lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia la posición del fulcro, la carga y la fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna es palanca porque no usan electricidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las máquinas simples funcionan sin electricidad."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la carretilla es palanca; las demás son planos inclinados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tijeras y destapador también son palancas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palancas se clasifican en tres géneros según dónde se ubique el fulcro, la fuerza y la carga; esta organización permite analizar por qué unas herramientas aumentan la fuerza y otras la velocidad o el alcance.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué análisis explica por qué la polea y la escalera con pendiente ayudan a subir el agua con menos fuerza que cargándola en vertical?",
+      "context": "En la cuenca del río Magdalena, una familia sube agua desde el río hasta su casa en la ladera usando una polea y un balde; comparan el esfuerzo con subirla por una escalera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas máquinas simples reparten o cambian la dirección del esfuerzo, aumentando el recorrido para reducir la fuerza necesaria",
+          "is_correct": true,
+          "feedback": "Correcto. Palanca, polea y plano inclinado cumplen el principio de ventaja mecánica."
+        },
+        {
+          "letter": "B",
+          "text": "La polea y la escalera reducen la cantidad de agua que sube",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de agua es la misma."
+        },
+        {
+          "letter": "C",
+          "text": "El agua pierde peso al pasar por la polea",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del agua no cambia."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza solo disminuye si se grita más fuerte al halar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El esfuerzo físico no depende del grito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Toda máquina simple organiza el trabajo para que el esfuerzo sea menor: la polea cambia la dirección y reparte la carga, y el plano inclinado o la escalera amplían la distancia recorrida para reducir la fuerza aplicada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación conjunta de las tres afirmaciones es correcta?",
+      "context": "En el foro escolar de ciencias de Villavicencio, tres estudiantes afirman: 1) Las máquinas simples crean energía de la nada. 2) La polea móvil puede reducir la fuerza necesaria. 3) Una palanca siempre requiere más fuerza que levantar la carga con las manos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es falsa porque las máquinas simples no crean energía, la 2 es verdadera y la 3 es falsa porque la palanca puede reducir la fuerza",
+          "is_correct": true,
+          "feedback": "Correcto. Corrige los errores y valida la ventaja mecánica real."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque toda máquina aumenta la energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las máquinas simples no crean energía."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 1 es verdadera y las demás son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación 1 es falsa y la 2 es verdadera."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque las máquinas simples no existen",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palanca, la polea y el plano inclinado son reales y útiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar afirmaciones sobre máquinas simples exige recordar la conservación de la energía: ninguna máquina crea energía, solo transforma o redistribuye la fuerza y la distancia; por eso la palanca y la polea pueden reducir la fuerza aplicada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio permite decidir mejor cuál máquina simple conviene según su uso y su costo?",
+      "context": "Un alcalde de un municipio de Boyacá debe escoger, con un presupuesto limitado en COP, entre comprar una rampa larga para la escuela o una polea para subir materiales al segundo piso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparar el esfuerzo que cada máquina reduce, la distancia o el espacio que exige y su costo, eligiendo la que resuelva la necesidad con el menor gasto total",
+          "is_correct": true,
+          "feedback": "Correcto. La mejor decisión equilibra ventaja mecánica, espacio y costo."
+        },
+        {
+          "letter": "B",
+          "text": "Escoger siempre la máquina más costosa porque es la mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mayor costo no garantiza mejor resultado para el uso previsto."
+        },
+        {
+          "letter": "C",
+          "text": "Escoger la máquina que se vea más moderna en el catálogo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apariencia no define la utilidad mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "No comprar ninguna porque todas las máquinas simples son inútiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las máquinas simples reducen de forma comprobada el esfuerzo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar el uso de una máquina simple implica comparar ventaja mecánica, espacio requerido y costo. Una rampa larga sirve para subir cargas continuamente, mientras una polea ocupa menos espacio y es más versátil para izar materiales, de modo que la decisión depende de la necesidad concreta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W24-maquinas-simples-palancas-planos-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

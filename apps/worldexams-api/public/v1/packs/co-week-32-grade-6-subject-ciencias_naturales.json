@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-32-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T05:56:19.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v1",
+      "statement": "Que es un atomo?",
+      "context": "En una clase de ciencias de un colegio de Tunja, la profesora explica que toda la materia esta formada por particulas muy pequenas llamadas atomos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La particula mas pequena de un elemento que conserva sus propiedades quimicas",
+          "is_correct": true,
+          "feedback": "Correcto. El atomo es la unidad basica de un elemento quimico."
+        },
+        {
+          "letter": "B",
+          "text": "Un ser vivo microscopico que se mueve en el aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. El atomo no es un ser vivo, es una particula de materia."
+        },
+        {
+          "letter": "C",
+          "text": "Una mezcla de varias sustancias visibles a simple vista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El atomo es una unidad fundamental, no una mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "Una forma de energia que no tiene masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El atomo tiene masa y constituye la materia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El atomo es la unidad fundamental de la materia: cada elemento quimico esta formado por atomos con el mismo numero de protones, y a pesar de su tamano diminuto conserva las propiedades quimicas de ese elemento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v2",
+      "statement": "Que representa un elemento quimico?",
+      "context": "En un laboratorio de Bogota, la profesora muestra el simbolo quimico del oxigeno en el aire y el del hierro de una herramienta, y explica que cada elemento tiene su propio simbolo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sustancia formada por atomos del mismo tipo, que no puede descomponerse en sustancias mas simples por medios quimicos",
+          "is_correct": true,
+          "feedback": "Correcto. Un elemento esta formado por atomos identicos."
+        },
+        {
+          "letter": "B",
+          "text": "Una mezcla de varios elementos que se puede separar con un iman",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un elemento es una sustancia pura, no una mezcla."
+        },
+        {
+          "letter": "C",
+          "text": "Cualquier objeto que se ve en el laboratorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un objeto puede ser una mezcla de varias sustancias."
+        },
+        {
+          "letter": "D",
+          "text": "Una sustancia que cambia de nombre cada vez que se mide",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los elementos tienen nombre y simbolo propios y constantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un elemento quimico es una sustancia pura formada por atomos del mismo tipo, identificada por un nombre y un simbolo, como O para el oxigeno o Fe para el hierro; no puede separarse en sustancias mas simples mediante reacciones quimicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v3",
+      "statement": "Como pueden ubicar y describir estos elementos usando la tabla periodica?",
+      "context": "En un colegio de Neiva, los estudiantes observan la tabla periodica y localizan el sodio (Na) y el cloro (Cl), que juntos forman la sal de cocina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar su simbolo y su numero atomico en la tabla; el numero atomico indica cuantos protones tiene el atomo del elemento",
+          "is_correct": true,
+          "feedback": "Correcto. El simbolo y el numero atomico permiten ubicar y describir cada elemento."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el elemento que tenga el nombre mas largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla no se organiza por la longitud del nombre."
+        },
+        {
+          "letter": "C",
+          "text": "Contar las letras del simbolo para saber su masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numero de letras del simbolo no indica la masa."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar los elementos por el color de su etiqueta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla se ordena por numero atomico, no por colores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tabla periodica organiza los elementos segun su numero atomico creciente; cada casilla muestra el simbolo, el nombre y el numero atomico, que corresponde al numero de protones del atomo, ademas de la masa atomica, datos que permiten identificar y comparar elementos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v4",
+      "statement": "Que aplicacion del conocimiento de los elementos sobre la salud corresponde a esta situación?",
+      "context": "Una nutricionista de Cali le explica a una estudiante que el hierro de los alimentos ayuda a formar la hemoglobina de la sangre y que el calcio fortalece los huesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos son elementos quimicos que el cuerpo necesita en pequenas cantidades; el hierro forma parte de la hemoglobina y el calcio de los huesos y dientes",
+          "is_correct": true,
+          "feedback": "Correcto. Relaciona elementos quimicos con funciones vitales del cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "El hierro y el calcio son vitaminas que se disuelven en el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son elementos quimicos, no vitaminas."
+        },
+        {
+          "letter": "C",
+          "text": "El cuerpo produce hierro y calcio por si mismo sin necesidad de alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos elementos deben obtenerse de los alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "El hierro y el calcio solo sirven para dar sabor a la comida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumplen funciones esenciales en la sangre y los huesos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuerpo humano necesita diversos elementos quimicos: el hierro forma parte de la hemoglobina que transporta el oxigeno en la sangre y el calcio es un componente estructural de huesos y dientes; ambos se obtienen de los alimentos y su deficiencia afecta la salud.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v5",
+      "statement": "Que concluye correctamente sobre la composicion del agua?",
+      "context": "En una casa de Pereira, una estudiante observa la etiqueta de un envase de agua y lee que contiene hidrogeno y oxigeno, y recuerda que el agua es una sustancia compuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua es un compuesto formado por atomos de dos elementos, hidrogeno y oxigeno, unidos en una proporcion fija",
+          "is_correct": true,
+          "feedback": "Correcto. El agua es un compuesto de hidrogeno y oxigeno."
+        },
+        {
+          "letter": "B",
+          "text": "El agua es un elemento porque aparece en la tabla periodica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es un compuesto, no un elemento."
+        },
+        {
+          "letter": "C",
+          "text": "El agua contiene solo oxigeno porque se puede respirar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua contiene hidrogeno y oxigeno; no se respira como el aire."
+        },
+        {
+          "letter": "D",
+          "text": "El agua es una mezcla que se separa a simple vista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es un compuesto con proporcion fija de sus elementos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una sustancia compuesta, como el agua, esta formada por atomos de dos o mas elementos unidos en proporcion fija; en el agua hay dos atomos de hidrogeno por cada atomo de oxigeno, por lo que sus propiedades son distintas de las de los elementos que la forman.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v6",
+      "statement": "Que analisis clasifica correctamente las tres sustancias?",
+      "context": "En un colegio de Bucaramanga, los estudiantes comparan tres sustancias: oxigeno puro del aire, agua y una mezcla de agua con sal, y analizan si son elementos, compuestos o mezclas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El oxigeno es un elemento, el agua es un compuesto y el agua con sal es una mezcla, porque la sal se puede separar del agua sin cambiar su composicion",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue elemento, compuesto y mezcla segun su composicion."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son elementos porque se pueden ver",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua y la mezcla no son elementos."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres son mezclas porque contienen varios ingredientes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxigeno y el agua son sustancias puras."
+        },
+        {
+          "letter": "D",
+          "text": "El oxigeno es un compuesto y el agua es un elemento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Oxigeno es elemento y agua es compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Clasificar sustancias exige analizar su composicion: un elemento tiene atomos del mismo tipo, un compuesto combina dos o mas elementos en proporcion fija y una mezcla reune sustancias que conservan sus propiedades y pueden separarse por metodos fisicos, como la evaporacion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v7",
+      "statement": "Que analisis explica las diferencias entre el aluminio y el hierro?",
+      "context": "En una planta industrial de Barranquilla, el encargado explica que el aluminio de las latas es ligero y no se oxida con facilidad, mientras el hierro de las estructuras es mas pesado y se oxida con la humedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunque ambos son metales, cada uno es un elemento distinto con propiedades propias; el aluminio es mas ligero y forma una capa protectora, mientras el hierro es mas denso y se oxida mas facilmente",
+          "is_correct": true,
+          "feedback": "Correcto. Cada elemento tiene propiedades caracteristicas que explican su uso."
+        },
+        {
+          "letter": "B",
+          "text": "El aluminio y el hierro son el mismo elemento con nombres distintos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son elementos diferentes con propiedades diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Las diferencias se deben al color de la pintura de las latas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las propiedades dependen del elemento, no de la pintura."
+        },
+        {
+          "letter": "D",
+          "text": "El hierro no se oxida y el aluminio si",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el hierro el que se oxida mas facilmente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada elemento quimico posee propiedades caracteristicas, como la densidad, la resistencia o la tendencia a oxidarse; esto explica por que el aluminio, ligero y con una capa de oxido que lo protege, se usa en latas y ventanas, mientras el hierro, mas denso y oxidable, se emplea en estructuras y requiere proteccion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v8",
+      "statement": "Que analisis explica por que los elementos de una misma columna tienen comportamiento similar?",
+      "context": "En un laboratorio escolar de Manizales, los estudiantes observan que la tabla periodica organiza los elementos en filas y columnas, y que elementos de una misma columna se comportan de manera parecida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque comparten propiedades quimicas semejantes, ya que se agrupan segun caracteristicas comunes, como su tendencia a reaccionar de forma parecida",
+          "is_correct": true,
+          "feedback": "Correcto. Los elementos de un grupo comparten propiedades quimicas similares."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen el mismo nombre y el mismo color",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada elemento tiene su propio nombre y simbolo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la tabla los ordena por el numero de letras de su nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla se ordena por numero atomico y propiedades."
+        },
+        {
+          "letter": "D",
+          "text": "Porque todos pesan exactamente lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los elementos de un grupo tienen masas diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tabla periodica agrupa los elementos en columnas o grupos cuyos miembros comparten propiedades quimicas semejantes; esas semejanzas permiten predecir como reaccionan los elementos y explican por que, por ejemplo, los metales alcalinos se comportan de forma parecida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v9",
+      "statement": "Que evaluacion conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Santa Marta, tres estudiantes afirman: 1) El atomo es la unidad basica de la materia. 2) Todos los atomos son iguales. 3) La tabla periodica organiza los elementos segun sus propiedades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es verdadera, la 2 es falsa porque hay atomos de distintos elementos y la 3 es verdadera porque la tabla organiza los elementos segun sus propiedades y su numero atomico",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue la unidad basica de la diversidad de elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque todos los atomos son identicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen muchos tipos de atomos, uno por cada elemento."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 2 es verdadera y las demas son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es falsa; los atomos de distintos elementos son diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque los atomos no existen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los atomos son reales y forman toda la materia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige reconocer la diversidad de la materia: el atomo es la unidad basica de cada elemento, pero existen tantos tipos de atomos como elementos quimicos, y la tabla periodica los organiza por numero atomico y propiedades, lo que permite predecir su comportamiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle-v10",
+      "statement": "Que eleccion conviene y por que?",
+      "context": "Una empresa de una ciudad colombiana debe escoger, con un presupuesto limitado en COP, el material para fabricar envases de bebidas que sean livianos y resistentes a la corrosion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir el aluminio porque, por ser un elemento ligero y con una capa protectora natural, ofrece envases livianos y resistentes a la corrosion",
+          "is_correct": true,
+          "feedback": "Correcto. La eleccion se sustenta en las propiedades del elemento."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el hierro sin proteccion porque es el mas barato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hierro sin proteccion se oxida y afecta el producto."
+        },
+        {
+          "letter": "C",
+          "text": "Elegir cualquier material sin revisar sus propiedades",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eleccion debe basarse en las propiedades del material."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir un material que reaccione con la bebida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un material reactivo contaminaria la bebida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar materiales exige conocer las propiedades de los elementos: el aluminio es ligero, resistente y forma una capa de oxido que lo protege de la corrosion, por lo que resulta adecuado para envases; elegir con criterio cientifico mejora la calidad y la seguridad del producto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W32-atomos-elementos-tabla-periodica-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

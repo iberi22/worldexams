@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-30-grade-6-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T05:56:19.180Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v1",
+      "statement": "Que se entiende por adaptacion de un ser vivo?",
+      "context": "En un colegio de Pasto, la profesora explica que el frailejon vive en el paramo, donde hace frio, hay viento fuerte y la luz es muy intensa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una caracteristica o comportamiento que le ayuda a sobrevivir y reproducirse en su ambiente",
+          "is_correct": true,
+          "feedback": "Correcto. La adaptacion es una caracteristica heredable que favorece la supervivencia."
+        },
+        {
+          "letter": "B",
+          "text": "Un cambio que el animal decide hacer en un momento dado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las adaptaciones se heredan; no son decisiones momentaneas."
+        },
+        {
+          "letter": "C",
+          "text": "Una enfermedad que debilita a la especie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una enfermedad no es una adaptacion, sino un dano a la salud."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar donde vive el organismo, sin importar sus rasgos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adaptacion es el rasgo, no el lugar que habita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las adaptaciones son caracteristicas anatomicas, fisiologicas o de comportamiento que se heredan y que aumentan las probabilidades de sobrevivir y dejar descendencia en un ambiente determinado; el pelaje denso del frailejon y su tallo con pelos que retienen agua son ejemplos tipicos del paramo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v2",
+      "statement": "Por que en el bosque seco muchos arboles pierden las hojas en la temporada seca?",
+      "context": "En un bosque seco del Tolima, los arboles pierden sus hojas en la temporada seca, mientras en la selva del Choco las hojas permanecen verdes todo el ano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al perder las hojas reducen la perdida de agua por evaporacion y sobreviven a la sequia",
+          "is_correct": true,
+          "feedback": "Correcto. La caida de hojas es una adaptacion que disminuye la perdida de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las hojas se aburren de estar en el arbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no tienen sentimientos ni decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el arbol quiere quedar sin hojas para verse diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La perdida de hojas responde a la escasez de agua, no a la apariencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las hojas se convierten en raices al caer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas caidas se descomponen y forman materia organica, no raices."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los bosques secos, la temporada de pocas lluvias exige ahorrar agua; los arboles caducifolios pierden sus hojas, reducen la superficie de transpiracion y entran en una especie de reposo que les permite sobrevivir hasta el regreso de las lluvias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v3",
+      "statement": "Que explicacion dan los estudiantes a estas dos caracteristicas observadas?",
+      "context": "En una salida de campo a un manglar de la costa Caribe, los estudiantes observan que las raices de los mangles sobresalen del agua lodosa y que sus semillas germinan en el propio arbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las raices aereas les permiten respirar en un suelo lodoso pobre en oxigeno y las semillas que germinan en el arbol favorecen su establecimiento en el lodo",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas son adaptaciones al ambiente salino y anegado del manglar."
+        },
+        {
+          "letter": "B",
+          "text": "Las raices sobresalen porque el mangle quiere crecer mas alto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raices aereas cumplen la funcion de respirar en el lodo."
+        },
+        {
+          "letter": "C",
+          "text": "Las semillas germinan en el arbol porque no les gusta el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La germinacion en el arbol ayuda a la plántula a establecerse."
+        },
+        {
+          "letter": "D",
+          "text": "El mangle no tiene ninguna adaptacion y crece por casualidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mangle presenta adaptaciones claras al ambiente del manglar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El manglar es un ambiente salino, con lodo pobre en oxigeno y mareas; los mangles presentan raices aereas o zancudas que captan oxigeno y semillas que germinan sobre el arbol (viviparas), lo que permite que la plántula caiga ya formada y se fije en el lodo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.81,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v4",
+      "statement": "Que ventaja adaptativa ofrecen estas capacidades en los rios amazonicos?",
+      "context": "Un biologo del Amazonas explica que algunos peces electrices y ciertos bagres tienen organos que producen descargas o detectan campos electricos en aguas turbias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les permiten orientarse, detectar presas y comunicarse en aguas oscuras y turbias donde la vista es poco util",
+          "is_correct": true,
+          "feedback": "Correcto. La electrolocalizacion compensa la falta de visibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Les sirven para cambiar el color del agua del rio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las descargas electricas no cambian el color del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Les ayudan a volar sobre la superficie del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces no vuelan; las descargas cumplen otra funcion."
+        },
+        {
+          "letter": "D",
+          "text": "No ofrecen ninguna ventaja porque el rio siempre es claro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los rios amazonicos suelen ser turbios y oscuros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En aguas turbias, oscuras o ricas en sedimentos, la vision resulta poco eficaz; por eso algunos peces han desarrollado organos electricos que generan campos y receptores que los detectan, lo que les permite orientarse, encontrar alimento y comunicarse sin depender de la luz.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v5",
+      "statement": "Que explicacion corresponde a las caracteristicas de esa planta?",
+      "context": "En un paramo de Santander, los estudiantes observan que una planta pequena de hojas gruesas y peludas vive donde el viento es fuerte y la temperatura baja de noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hojas gruesas y peludas retienen el calor y reducen la perdida de agua, adaptaciones utiles en el frio, el viento y la intensa radiacion del paramo",
+          "is_correct": true,
+          "feedback": "Correcto. Relaciona los rasgos con las condiciones extremas del paramo."
+        },
+        {
+          "letter": "B",
+          "text": "Las hojas gruesas sirven para flotar en el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paramo no es un ambiente acuatico."
+        },
+        {
+          "letter": "C",
+          "text": "Los pelos de las hojas atraen la lluvia hacia las raices",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pelos reducen la transpiracion y protegen del frio."
+        },
+        {
+          "letter": "D",
+          "text": "Las hojas gruesas indican que la planta es de clima calido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa caracteristica es propia de plantas de ambientes frios y secos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el paramo, la baja temperatura, el viento y la fuerte radiacion solar exigen adaptaciones: hojas pequenas, gruesas y cubiertas de pelos que aïslan del frio, reducen la transpiracion y protegen del exceso de luz; estas caracteristicas distinguen a muchas plantas de alta montana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v6",
+      "statement": "Que analisis explica la relacion entre la forma de las patas y el ambiente de cada ave?",
+      "context": "En una laguna de la Sabana de Bogota, los estudiantes comparan las patas de dos aves: una que nada y bucea y otra que camina sobre el barro con patas muy largas y finas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las patas palmeadas del ave nadadora le sirven como remos en el agua, mientras las patas largas y finas de la otra le permiten caminar sin hundirse en el barro",
+          "is_correct": true,
+          "feedback": "Correcto. Relaciona la forma de las patas con la forma de desplazarse."
+        },
+        {
+          "letter": "B",
+          "text": "Las patas palmeadas sirven para caminar sobre las piedras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las patas palmeadas funcionan como remos en el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Las patas largas y finas sirven para nadar mas rapido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su funcion es caminar sobre el barro sin hundirse."
+        },
+        {
+          "letter": "D",
+          "text": "La forma de las patas no tiene relacion con el ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de las patas refleja la adaptacion al ambiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar estructuras con la funcion que cumplen permite inferir adaptaciones: las patas palmeadas aumentan la superficie de empuje en el agua y sirven de remos; las patas largas y delgadas reparten el peso y permiten caminar sobre lodos blandos, donde otras aves se hundirian.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v7",
+      "statement": "Que analisis explica las diferencias entre las plantas acuaticas y las de tierra firme?",
+      "context": "Un grupo de investigadores de la Orinoquia observa que algunas plantas acuaticas tienen hojas grandes y flotantes con tallos huecos, mientras plantas cercanas de tierra firme tienen raices profundas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plantas acuaticas flotan gracias a tallos con espacios de aire y hojas amplias que captan luz, mientras las de tierra firme necesitan raices profundas para sostener la planta y tomar agua del suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Cada estructura responde a las condiciones del medio."
+        },
+        {
+          "letter": "B",
+          "text": "Las plantas acuaticas no necesitan luz porque viven en el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas acuaticas tambien necesitan luz para la fotosintesis."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas de tierra firme flotan sobre el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas de tierra firme se sostienen con raices en el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Las diferencias se deben solo al azar y no al ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las diferencias responden a las condiciones de cada ambiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ambiente acuatico ofrece flotacion y luz en la superficie, pero poco oxigeno y sosten; por eso las plantas flotantes desarrollan tejidos con espacios de aire y hojas amplias, mientras las terrestres invierten en raices profundas para anclarse y absorber agua y minerales del suelo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v8",
+      "statement": "Que analisis explica el valor adaptativo de estas dos estrategias?",
+      "context": "En un ecosistema del Choco, un insecto tiene forma y color muy parecidos a los de una hoja, y una rana pequena de colores brillantes es evitada por los depredadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El parecido con la hoja es camuflaje que dificulta ser visto, y los colores brillantes de la rana son un aviso de que es toxica, lo que disuade a los depredadores",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue cripsis de coloracion de advertencia."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos organismos son venenosos por sus colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El camuflaje del insecto no implica veneno."
+        },
+        {
+          "letter": "C",
+          "text": "El insecto imita a la hoja para volar mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parecido con la hoja sirve para pasar desapercibido."
+        },
+        {
+          "letter": "D",
+          "text": "La rana es brillante para atraer a los depredadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores de advertencia alejan a los depredadores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las adaptaciones defensivas pueden ser de dos tipos: la cripsis o camuflaje, en la que el organismo se confunde con el fondo, y la coloracion de advertencia o aposematica, en la que colores llamativos anuncian toxicidad; ambas aumentan la probabilidad de sobrevivir frente a los depredadores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v9",
+      "statement": "Que evaluacion conjunta de las tres afirmaciones es correcta?",
+      "context": "En un foro escolar de Villavicencio, tres estudiantes afirman: 1) Las adaptaciones se heredan de una generacion a otra. 2) Un organismo puede adaptarse en minutos si lo necesita. 3) El ambiente influye en cuales rasgos resultan ventajosos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La 1 es verdadera, la 2 es falsa porque las adaptaciones surgen a lo largo de muchas generaciones y la 3 es verdadera porque el ambiente determina que rasgos resultan ventajosos",
+          "is_correct": true,
+          "feedback": "Correcto. Distingue herencia y tiempos evolutivos del papel del ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres son verdaderas porque un animal puede cambiar sus genes cuando quiere",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los organismos no cambian sus genes por voluntad."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la 2 es verdadera y las demas son falsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La 2 es falsa; las adaptaciones no ocurren en minutos."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son falsas porque el ambiente no influye en la evolucion",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ambiente es clave para la seleccion de rasgos ventajosos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estas afirmaciones exige distinguir los tiempos de la evolucion: las adaptaciones son rasgos heredables que se acumulan en las poblaciones a lo largo de muchas generaciones, no cambios voluntarios ni inmediatos; el ambiente actua como filtro que favorece a los individuos mejor dotados para sobrevivir y reproducirse.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle-v10",
+      "statement": "Que medida conviene priorizar y por que?",
+      "context": "Una fundacion de una ciudad colombiana dispone de un presupuesto limitado en COP para proteger una especie amenazada cuyo habitat se esta fragmentando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservar y conectar los fragmentos de habitat y reducir las amenazas directas, porque mantener el ambiente donde la especie esta adaptada es la forma mas sostenible de protegerla",
+          "is_correct": true,
+          "feedback": "Correcto. Conservar el habitat respeta las adaptaciones y es eficaz a largo plazo."
+        },
+        {
+          "letter": "B",
+          "text": "Llevar unos pocos individuos a un zoologico y no hacer nada mas con el habitat",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin habitat, la especie no se recupera en la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir la especie en un ambiente muy distinto esperando que se adapte en poco tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La adaptacion requiere muchas generaciones y no garantiza exito."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar la fragmentacion y dejar que la especie se adapte sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fragmentacion reduce el habitat y las poblaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar estrategias de conservacion exige considerar las adaptaciones de la especie: cada organismo esta ajustado a su ambiente, por lo que proteger y conectar los fragmentos de habitat y reducir amenazas como la tala o la caza es mas eficaz y sostenible que trasladar individuos a ambientes muy distintos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-6-2026-W30-adaptaciones-seres-vivos-ambientes-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
