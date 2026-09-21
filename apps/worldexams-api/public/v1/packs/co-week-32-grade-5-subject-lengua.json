@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 5,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-32-grade-5-subject-lengua",
+    "generated_at": "2026-09-21T00:33:11.063Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v1",
+      "statement": "Lee la lista: \"El tendero vendió manzanas, peras, mangos y bananos\". ¿Qué signo separa los elementos de la lista?",
+      "context": "En un mercado de Bogotá, la profesora escribe en el tablero la lista de frutas que vendió un tendero durante la mañana.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La coma.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan manzanas, peras y mangos dentro de la lista."
+        },
+        {
+          "letter": "B",
+          "text": "El punto final.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el punto final cierra la oración y no separa elementos."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos puntos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en la lista no aparece ese signo."
+        },
+        {
+          "letter": "D",
+          "text": "El signo de interrogación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración no es una pregunta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coma es el signo que separa los elementos de una enumeración. En la lista del tendero, cada fruta queda separada por una coma, y antes del último elemento se usa la palabra \"y\". Reconocer este uso ayuda a leer y a escribir listas con claridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué se entiende sobre el uso de la coma en la oración \"En mi morral llevo cuadernos, colores, regla y borrador\"?",
+      "context": "En Medellín, Camila escribe la lista de útiles que llevará al colegio y quiere que su mamá la entienda bien.\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la coma separa los elementos de una enumeración.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada útil queda separado por una coma dentro de la lista."
+        },
+        {
+          "letter": "B",
+          "text": "Que la coma sirve para terminar la oración.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración termina con un punto, no con una coma."
+        },
+        {
+          "letter": "C",
+          "text": "Que la coma reemplaza algunas palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la coma es un signo y no sustituye palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Que la coma cambia el significado de los útiles.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los útiles siguen siendo los mismos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Entender el uso de la coma en enumeraciones consiste en identificar su función: separar elementos de la misma clase. En la lista de Camila, la coma organiza los útiles y la \"y\" cierra la enumeración. Este aprendizaje se aplica al escribir tareas, listas de mercado y normas del salón.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la forma correcta de escribir la oración?",
+      "context": "En Cali, un estudiante escribió la oración \"Compré pan leche huevos y queso\" y la maestra le pidió corregirla.\n**Expected_Success:** 0.85",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compré pan, leche, huevos y queso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan los cuatro productos enumerados."
+        },
+        {
+          "letter": "B",
+          "text": "Compré pan leche, huevos y, queso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque deja juntos los dos primeros productos y separa mal los demás."
+        },
+        {
+          "letter": "C",
+          "text": "Compré, pan leche huevos y queso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque coloca la coma después del verbo y no entre los productos."
+        },
+        {
+          "letter": "D",
+          "text": "Compré pan; leche; huevos, queso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mezcla el punto y coma con la coma sin seguir la enumeración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la coma en una enumeración exige colocar el signo entre cada elemento y dejar la \"y\" solo antes del último. La oración correcta separa pan, leche, huevos y queso. Revisar dónde va cada coma evita confusiones cuando se escriben listas de compras o de tareas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v4",
+      "statement": "¿Dónde debe colocarse una coma para que la lista quede bien separada?",
+      "context": "En Barranquilla, la tienda escolar anotó el pedido de un curso: \"jugos de mango agua galletas y empanadas\".\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Después de \"mango\".",
+          "is_correct": true,
+          "feedback": "Es correcta porque ahí termina el primer elemento y comienza el siguiente."
+        },
+        {
+          "letter": "B",
+          "text": "Después de \"jugos\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"jugos de mango\" es un solo elemento."
+        },
+        {
+          "letter": "C",
+          "text": "Después de \"y\".",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se escribe coma inmediatamente después de la \"y\"."
+        },
+        {
+          "letter": "D",
+          "text": "Al final de toda la lista.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el final de la oración lleva punto, no coma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la coma requiere localizar los límites entre los elementos. En \"jugos de mango agua galletas y empanadas\" el primer elemento es \"jugos de mango\", así que la coma va después de \"mango\". Fijarse en los grupos de palabras y no solo en las palabras sueltas mejora la escritura de listas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple la coma en esa oración?",
+      "context": "En Pereira, una familia anota la cuenta del mercado: \"pagué 12000 pesos por la papa, 8000 pesos por el arroz y 5000 pesos por el pan\".\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separar los productos y sus precios dentro de la enumeración.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada grupo de producto y precio queda separado por comas."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar que la oración terminó.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración termina con un punto."
+        },
+        {
+          "letter": "C",
+          "text": "Mostrar que la familia hace una pregunta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración afirma un gasto, no pregunta nada."
+        },
+        {
+          "letter": "D",
+          "text": "Unir los productos en un solo grupo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la coma separa los grupos y no los une."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una enumeración con precios, la coma separa cada producto con su valor y la \"y\" cierra la lista. Así se distinguen los 12000 pesos de la papa, los 8000 pesos del arroz y los 5000 pesos del pan. Usar bien la coma ayuda a llevar cuentas claras en pesos colombianos y a comunicar los gastos sin confusiones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v6",
+      "statement": "Juan escribió \"Traje lápices, borrador y regla\". Sara escribió \"Traje lápices borrador y regla\". ¿Cuál es la diferencia principal entre las dos oraciones?",
+      "context": "En Bucaramanga, dos estudiantes comparan dos formas de escribir la misma lista de útiles para la clase de arte.\n**Expected_Success:** 0.75",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la oración de Juan separa los elementos con comas y la de Sara no.",
+          "is_correct": true,
+          "feedback": "Es correcta porque Juan usa comas en la enumeración y Sara las omite."
+        },
+        {
+          "letter": "B",
+          "text": "Que la oración de Sara usa más comas que la de Juan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Sara no escribe ninguna coma."
+        },
+        {
+          "letter": "C",
+          "text": "Que las dos oraciones hablan de objetos diferentes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambas mencionan los mismos útiles."
+        },
+        {
+          "letter": "D",
+          "text": "Que la oración de Juan está incompleta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la oración de Juan tiene sujeto, verbo y lista completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar dos versiones de una misma oración permite ver el efecto de la coma. La versión de Juan separa los elementos y se lee con facilidad; la de Sara junta las palabras y dificulta distinguir cada útil. Comparar escrituras parecidas ayuda a comprender por qué la puntuación ordena la información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v7",
+      "statement": "¿Para qué se usan las comas en el aviso del colegio?",
+      "context": "En Cartagena, un aviso del colegio dice: \"Trae tu cuaderno, tu lápiz, tu borrador y tu cartuchera para la actividad del viernes\".\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para enumerar los elementos que el estudiante debe llevar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan cada objeto de la lista."
+        },
+        {
+          "letter": "B",
+          "text": "Para señalar que el aviso es una pregunta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso no pregunta nada y termina con punto."
+        },
+        {
+          "letter": "C",
+          "text": "Para indicar que la actividad terminó antes del viernes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la coma no informa sobre fechas."
+        },
+        {
+          "letter": "D",
+          "text": "Para separar únicamente la primera palabra del aviso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las comas separan varios elementos y no solo el primero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un aviso exige identificar la intención de cada signo. Las comas ordenan lo que el estudiante debe llevar y la \"y\" cierra la lista. Comprender esta función permite leer instrucciones escolares con rapidez y cumplir con los materiales pedidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las oraciones está escrita correctamente con el uso de la coma?",
+      "context": "En Bogotá, el curso va a publicar una lista de normas de convivencia y la profesora revisa la escritura antes de imprimirla.\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el salón cuidamos los libros, las sillas, las paredes y el tablero.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las comas separan los cuatro elementos de la enumeración."
+        },
+        {
+          "letter": "B",
+          "text": "En el salón, cuidamos los libros las sillas las paredes y el tablero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque coloca una sola coma y deja unidos los elementos de la lista."
+        },
+        {
+          "letter": "C",
+          "text": "En el salón cuidamos los libros las sillas, las paredes, y el tablero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque omite comas y deja una coma antes de la \"y\" al final."
+        },
+        {
+          "letter": "D",
+          "text": "En el salón cuidamos, los libros, las sillas las paredes y el tablero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque pone coma después del verbo y deja parte de la lista sin separar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una oración completa exige revisar toda la puntuación y no solo una parte. La forma correcta separa con comas los cuatro elementos y usa la \"y\" antes del último. Publicar textos bien escritos en el periódico mural demuestra respeto por los lectores y cuidado con el lenguaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 5,
+      "country": "co"
+    }
+  ]
+}
