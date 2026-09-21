@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T07:45:50.979Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el orden correcto de los niveles de organización en un animal, desde el más simple hasta el más complejo?",
+      "context": "En el colegio de Tunja, la profesora pide ordenar tarjetas con los niveles de organización del cuerpo humano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Célula, tejido, órgano, sistema, organismo",
+          "is_correct": true,
+          "feedback": "Correcta porque describe la secuencia de complejidad creciente aceptada en biología."
+        },
+        {
+          "letter": "B",
+          "text": "Célula, órgano, tejido, sistema, organismo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el órgano está formado por tejidos, no al contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Tejido, célula, sistema, órgano, organismo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la célula es la unidad básica y va antes que el tejido."
+        },
+        {
+          "letter": "D",
+          "text": "Órgano, sistema, célula, tejido, organismo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque invierte el orden de complejidad de los niveles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las células semejantes forman tejidos, varios tejidos forman un órgano y varios órganos coordinados forman un sistema. Memorizar esta secuencia permite ubicar cualquier estructura del cuerpo en su nivel correcto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función principal del tejido epitelial en los animales?",
+      "context": "Un estudiante de Manizales se raspa la rodilla jugando fútbol y observa que la piel lo protegía antes del raspón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir movimiento mediante contracciones",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el movimiento por contracción corresponde al tejido muscular."
+        },
+        {
+          "letter": "B",
+          "text": "Recubrir superficies y proteger el cuerpo",
+          "is_correct": true,
+          "feedback": "Correcta porque el tejido epitelial forma la piel y recubre órganos y cavidades."
+        },
+        {
+          "letter": "C",
+          "text": "Transmitir impulsos eléctricos entre órganos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la transmisión de impulsos es función del tejido nervioso."
+        },
+        {
+          "letter": "D",
+          "text": "Transportar oxígeno dentro de la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el transporte de oxígeno lo realizan los glóbulos rojos del tejido conectivo sanguíneo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tejido epitelial está formado por células muy unidas que recubren la piel y las mucosas. Su función de barrera explica por qué protege contra microbios, pérdida de agua y lesiones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tejido permite el movimiento de las piernas durante la carrera?",
+      "context": "En una carrera atlética escolar en el estadio de Cali, una niña siente que sus piernas se mueven con fuerza rítmica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido nervioso del cerebro",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el tejido nervioso coordina, pero no genera la fuerza del movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Tejido epitelial de la piel",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el epitelial recubre, no produce contracción."
+        },
+        {
+          "letter": "C",
+          "text": "Tejido muscular esquelético de las piernas",
+          "is_correct": true,
+          "feedback": "Correcta porque sus fibras se contraen y tiran de los huesos para correr."
+        },
+        {
+          "letter": "D",
+          "text": "Tejido vascular de las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el tejido vascular transporta sustancias en vegetales, no mueve piernas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El músculo esquelético está unido a los huesos y se contrae de forma voluntaria. Aplicar este concepto permite reconocer que todo movimiento corporal visible depende de la contracción muscular coordinada por el sistema nervioso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el hueso y la sangre se clasifican como tejido conectivo?",
+      "context": "En el hospital de Bucaramanga, un médico explica que un hueso fracturado y la sangre pertenecen a la misma familia de tejidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque ambos transmiten impulsos nerviosos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la transmisión de impulsos es propia del tejido nervioso."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ambos sostienen, conectan o transportan dentro del cuerpo",
+          "is_correct": true,
+          "feedback": "Correcta porque el conectivo incluye sostén como el hueso y transporte como la sangre."
+        },
+        {
+          "letter": "C",
+          "text": "Porque ambos recubren la superficie del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque recubrir superficies es función del tejido epitelial."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ambos realizan la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la fotosíntesis ocurre en tejidos vegetales, no en animales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tejido conectivo es diverso: el óseo da sostén, el cartilaginoso amortigua, el adiposo reserva energía y el sanguíneo transporta. Comprender esta familia evita clasificar al hueso y la sangre como sistemas aislados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tejido vegetal ayuda a la hoja a evitar la pérdida excesiva de agua?",
+      "context": "En un cultivo de café del Quindío, las hojas amanecen con gotas y resisten el sol fuerte del mediodía sin marchitarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido meristemático del ápice",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el meristemático produce células nuevas para crecer, no impermeabiliza."
+        },
+        {
+          "letter": "B",
+          "text": "Tejido protector de la epidermis con cutícula",
+          "is_correct": true,
+          "feedback": "Correcta porque la epidermis con cutícula impermeabiliza y regula la transpiración."
+        },
+        {
+          "letter": "C",
+          "text": "Tejido muscular liso",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el tejido muscular solo existe en animales."
+        },
+        {
+          "letter": "D",
+          "text": "Tejido nervioso de la raíz",
+          "is_correct": false,
+          "feedback": "Incorrecta porque las plantas no tienen tejido nervioso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La epidermis foliar, a veces con cutícula cérea y estomas, controla la salida de vapor de agua. Relacionar estructura y ambiente explica por qué las plantas de zonas soleadas desarrollan cutículas más gruesas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis permite diferenciar correctamente las dos muestras?",
+      "context": "En un laboratorio escolar de Medellín, dos muestras de microscopio muestran: muestra P con fibras alargadas que se contraen y muestra Q con células estrelladas conectadas en red.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son tejido epitelial porque tienen células unidas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque ninguna muestra describe células aplanadas y unidas típicas del epitelio."
+        },
+        {
+          "letter": "B",
+          "text": "P es tejido muscular y Q es tejido nervioso por su forma y función",
+          "is_correct": true,
+          "feedback": "Correcta porque las fibras contráctiles indican músculo y la red estrellada indica neuronas."
+        },
+        {
+          "letter": "C",
+          "text": "P es tejido nervioso y Q es tejido muscular",
+          "is_correct": false,
+          "feedback": "Incorrecta porque invierte los rasgos: las neuronas no son fibras contráctiles."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son tejido conectivo sanguíneo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la sangre muestra células separadas en plasma, no fibras ni redes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar forma y organización celular permite inferir función: fibra alargada sugiere contracción y célula ramificada en red sugiere comunicación. Este razonamiento histológico es la base de la identificación de tejidos al microscopio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v7",
+      "statement": "¿Qué diferencia existe entre el tejido meristemático y el tejido fundamental en esa planta?",
+      "context": "Un vivero de plátano en Urabá compara la punta de la raíz, que crece cada día, con la pulpa del tallo, que almacena reservas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos fotosintetizan de igual forma en toda la planta",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la fotosíntesis ocurre sobre todo en el parénquima verde, no en todo meristemo."
+        },
+        {
+          "letter": "B",
+          "text": "El meristemático se divide para crecer y el fundamental rellena, almacena y fotosintetiza",
+          "is_correct": true,
+          "feedback": "Correcta porque distingue división celular continua frente a funciones de sostén metabólico."
+        },
+        {
+          "letter": "C",
+          "text": "El fundamental produce nuevas células y el meristemático transporta savia",
+          "is_correct": false,
+          "feedback": "Incorrecta porque invierte los roles y confunde con el tejido vascular."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno participa en el crecimiento de la planta",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el crecimiento depende directamente del meristemo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El meristemo conserva capacidad de división mientras el parénquima fundamental se especializa en fotosíntesis, reserva y relleno. Compararlos muestra la división del trabajo celular en la planta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v8",
+      "statement": "Si el agua con sales sube desde la raíz hasta las hojas de la yuca, ¿qué tejido es responsable y por qué?",
+      "context": "En la orilla del río Magdalena, un docente muestra un corte de tallo de yuca con tubos centrales por donde sube el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido protector, porque impermeabiliza la raíz",
+          "is_correct": false,
+          "feedback": "Incorrecta porque proteger no equivale a conducir savia a distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Tejido meristemático, porque genera hojas nuevas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque generar células no explica el ascenso de agua ya absorbida."
+        },
+        {
+          "letter": "C",
+          "text": "Tejido vascular xilema, porque conduce savia bruta hacia arriba",
+          "is_correct": true,
+          "feedback": "Correcta porque el xilema transporta agua y sales desde la raíz al resto de la planta."
+        },
+        {
+          "letter": "D",
+          "text": "Tejido nervioso, porque ordena el ascenso",
+          "is_correct": false,
+          "feedback": "Incorrecta porque las plantas carecen de tejido nervioso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sistema vascular vegetal tiene xilema para savia bruta ascendente y floema para savia elaborada. Identificar el sentido del flujo permite atribuir correctamente cada transporte a su tejido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se evalúa científicamente esa afirmación usando los niveles de organización?",
+      "context": "Un programa de radio en Pasto afirma: \"Tomar jugos cura cualquier enfermedad porque la sangre enferma se reemplaza sola sin necesidad de órganos ni sistemas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se acepta porque la sangre actúa de forma independiente del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la sangre depende del corazón, vasos, médula ósea y otros órganos."
+        },
+        {
+          "letter": "B",
+          "text": "Se rechaza porque la salud depende de células, tejidos, órganos y sistemas coordinados, no de un solo tejido",
+          "is_correct": true,
+          "feedback": "Correcta porque aplica el modelo de niveles integrados frente a una explicación simplista."
+        },
+        {
+          "letter": "C",
+          "text": "Se acepta porque los tejidos no necesitan órganos para funcionar",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los tejidos solo funcionan integrados en órganos y sistemas."
+        },
+        {
+          "letter": "D",
+          "text": "Se rechaza porque los jugos nunca aportan nutrientes",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los jugos sí aportan nutrientes, pero eso no valida la afirmación sobre curar todo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar afirmaciones de salud exige pensar en sistemas: la sangre se produce, se bombea y se filtra gracias a varios órganos. El pensamiento sistémico protege contra remedios milagrosos sin evidencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el mejor diseño experimental para lograr ese objetivo?",
+      "context": "El semillero científico de un colegio en Cartagena quiere demostrar con microscopios escolares la diferencia entre tejido protector y vascular en hojas de mango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Observar una sola hoja sin comparar ni registrar nada",
+          "is_correct": false,
+          "feedback": "Incorrecta porque una sola observación sin registro no permite comparar ni concluir."
+        },
+        {
+          "letter": "B",
+          "text": "Probar sabores de mango de distintas tiendas de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el sabor no evidencia la anatomía de los tejidos foliares."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar cortes de epidermis y de nervadura, dibujar, medir y repetir en varias hojas",
+          "is_correct": true,
+          "feedback": "Correcta porque contrasta ambos tejidos con evidencia repetible y registrada."
+        },
+        {
+          "letter": "D",
+          "text": "Regar una planta con gaseosa y otra sin agua durante un mes",
+          "is_correct": false,
+          "feedback": "Incorrecta porque maltrata las plantas y no compara los dos tejidos solicitados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen diseño compara muestras equivalentes, repite observaciones y registra datos. Elegir cortes específicos de cada tejido garantiza que la conclusión responda a la pregunta de indagación planteada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W02-organizacion-tejidos-animales-vegetales-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
