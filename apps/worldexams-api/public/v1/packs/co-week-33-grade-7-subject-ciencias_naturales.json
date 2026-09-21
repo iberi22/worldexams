@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-33-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T12:47:19.934Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v1",
+      "statement": "¿Qué órgano se encarga de filtrar la sangre y formar la orina?",
+      "context": "En un colegio de Armenia, el profesor muestra un modelo del cuerpo con los riñones, los uréteres, la vejiga y la uretra, y pregunta cuál es el órgano que filtra la sangre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El corazón, que filtra la sangre mientras bombea hacia los brazos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el corazón impulsa la sangre pero no forma la orina."
+        },
+        {
+          "letter": "B",
+          "text": "El riñón, que limpia la sangre y produce la orina con los desechos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque identifica al riñón como el filtro principal del sistema excretor."
+        },
+        {
+          "letter": "C",
+          "text": "El pulmón, que convierte toda la orina en aire al respirar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el pulmón expulsa dióxido de carbono y vapor, no fabrica orina."
+        },
+        {
+          "letter": "D",
+          "text": "El estómago, que guarda la orina después de cada comida.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el estómago digiere alimentos y no almacena orina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los riñones son dos órganos que reciben mucha sangre y retienen las sustancias de desecho disueltas en ella. Con esos desechos y el exceso de agua forman la orina. Luego la orina viaja por los uréteres hasta la vejiga, donde se guarda hasta salir por la uretra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v2",
+      "statement": "¿Qué elimina el cuerpo humano a través del sudor?",
+      "context": "En un partido de microfútbol en Valledupar con mucho calor, los estudiantes sudan bastante y el profesor explica que el sudor también es una forma de excreción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exceso de agua, sales y una parte de desechos, además de ayudar a refrescar el cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque describe la doble función del sudor: excretar y regular la temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Toda la sangre sucia completa que sale por los poros de la piel.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque por el sudor no sale sangre sino agua con sales disueltas."
+        },
+        {
+          "letter": "C",
+          "text": "Solo aire caliente sin agua ni sales de ningún tipo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el sudor es líquido y contiene sales que se pierden."
+        },
+        {
+          "letter": "D",
+          "text": "Los huesos gastados que el cuerpo expulsa cuando hace ejercicio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los huesos no salen por la piel ni se eliminan con el sudor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La piel participa en la excreción mediante las glándulas que producen sudor. Cuando hace calor o se juega, el sudor se evapora y enfría el cuerpo. Por eso después de sudar mucho conviene tomar agua: se debe reponer el líquido y las sales que se perdieron.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se explica la diferencia en el color y la cantidad de orina entre los dos estudiantes?",
+      "context": "En un colegio de Tunja, dos estudiantes comparan su orina: uno tomó dos litros de agua en el día y su orina se ve clara; el otro casi no tomó agua y su orina se ve oscura y escasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua oscurece la orina y por eso quien más toma produce menos orina.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque tomar agua aclara la orina y aumenta su volumen."
+        },
+        {
+          "letter": "B",
+          "text": "Tomar suficiente agua diluye los desechos y produce orina clara y abundante, mientras la falta de agua la concentra.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica la relación entre hidratación y concentración de la orina."
+        },
+        {
+          "letter": "C",
+          "text": "El color de la orina depende del color del uniforme y no de lo que se bebe.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la ropa no cambia la composición de la orina."
+        },
+        {
+          "letter": "D",
+          "text": "La orina siempre es idéntica y nunca cambia con la cantidad de agua tomada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los riñones ajustan la orina según el agua disponible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los riñones regulan el agua del cuerpo: si hay mucha agua, eliminan más y la orina sale clara; si falta agua, la conservan y la orina sale oscura y poca. Por eso el color de la orina es una señal sencilla de hidratación. Tomar agua durante el día ayuda a los riñones a limpiar la sangre.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué los pulmones también se consideran órganos de excreción?",
+      "context": "En una clase de educación física en Montería, la profesora explica que al correr se respira más rápido y se elimina más dióxido de carbono por los pulmones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fabrican la orina cuando los riñones están cansados de filtrar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los pulmones nunca producen orina."
+        },
+        {
+          "letter": "B",
+          "text": "Porque expulsan el dióxido de carbono, que es un desecho de la respiración de las células.",
+          "is_correct": true,
+          "feedback": "Correcta, porque reconoce al dióxido de carbono como desecho eliminado al exhalar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque guardan el sudor del cuerpo para después repartirlo en la piel.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el sudor lo producen glándulas de la piel, no los pulmones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque convierten el aire en alimento para no tener que comer.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los pulmones toman oxígeno pero no fabrican nutrientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada célula produce dióxido de carbono al liberar energía de los nutrientes. La sangre lo lleva hasta los pulmones y al exhalar sale del cuerpo. Sin esa salida, el desecho se acumularía y haría daño. Por eso respirar es excretar un gas de desecho además de tomar oxígeno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué aguantarse las ganas de orinar y tomar poca agua puede dañar el sistema excretor?",
+      "context": "En Cúcuta, con 45000 COP una familia compra un botellón de agua para la semana porque el puesto de salud advirtió que aguantar las ganas de orinar y tomar poca agua enferma los riñones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la vejiga se vuelve más grande y fuerte cuando nunca se desocupa.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque retener orina favorece infecciones en vez de fortalecer."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la orina retenida facilita infecciones y la poca agua concentra desechos que forman cálculos.",
+          "is_correct": true,
+          "feedback": "Correcta, porque conecta la retención y la deshidratación con la enfermedad renal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tomar agua ensucia los riñones y es mejor no beber nada en el día.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el agua ayuda a los riñones a limpiar la sangre."
+        },
+        {
+          "letter": "D",
+          "text": "Porque orinar elimina los huesos y por eso conviene retener todo lo posible.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la orina lleva desechos disueltos y no huesos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ir al baño a tiempo evita que los microbios crezcan en la orina retenida. Tomar agua mantiene los desechos diluidos y ayuda a expulsarlos antes de que formen piedras en el riñón. Estos dos hábitos sencillos, más una buena higiene, protegen la vejiga y los riñones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis de la comparación entre el filtro y el riñón es correcto?",
+      "context": "En un laboratorio de Ibagué, el curso filtra agua con tierra y arena usando un embudo con papel filtro: el agua pasa limpia y la tierra queda retenida. El profesor lo compara con el riñón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son idénticos porque el riñón es un embudo de papel que se cambia cada semana.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el riñón es un órgano vivo con filtración selectiva y no un papel desechable."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos separan lo que pasa de lo que queda retenido, pero el riñón además reabsorbe agua y sustancias útiles para el cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque encuentra la semejanza y la diferencia clave con la reabsorción."
+        },
+        {
+          "letter": "C",
+          "text": "No se parecen en nada porque el agua del filtro nunca tuvo tierra mezclada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en ambos casos hay una mezcla que se separa al filtrar."
+        },
+        {
+          "letter": "D",
+          "text": "El filtro es mejor porque el riñón deja pasar todos los desechos hacia la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el riñón retiene los desechos en la orina y devuelve lo útil a la sangre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La comparación ayuda: el filtro deja pasar el agua y retiene la tierra, como el riñón deja salir desechos y conserva células y proteínas grandes. La diferencia es que el riñón es selectivo e inteligente: recupera agua, sales y glucosa que el cuerpo necesita antes de formar la orina final.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis conecta sus síntomas con el funcionamiento del sistema excretor?",
+      "context": "En Riohacha, con calor fuerte, un estudiante juega dos horas sin tomar agua, suda mucho y luego siente mareo, dolor de cabeza y orina muy poca y oscura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sudar mucho hidrata el cuerpo y por eso el mareo indica que sobra agua.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sudar pierde agua y el mareo señala deshidratación."
+        },
+        {
+          "letter": "B",
+          "text": "Perdió mucha agua por el sudor sin reponerla, los riñones conservaron líquido y aparecieron señales de deshidratación.",
+          "is_correct": true,
+          "feedback": "Correcta, porque encadena pérdida de agua, respuesta renal y síntomas."
+        },
+        {
+          "letter": "C",
+          "text": "La orina oscura prueba que sus riñones dejaron de funcionar para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la orina concentrada es una respuesta normal ante la falta de agua."
+        },
+        {
+          "letter": "D",
+          "text": "El dolor de cabeza ocurre porque el sudor enfría demasiado el cuerpo en La Guajira.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el problema es la falta de agua y no el enfriamiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuerpo pierde agua por el sudor y los riñones responden guardando la que queda, por eso la orina sale escasa y oscura. Si no se repone el agua, bajan el volumen de sangre y aparecen mareo y dolor de cabeza. Tomar agua antes, durante y después del juego evita la deshidratación en climas calientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué una enfermedad con exceso de azúcar en la sangre termina dañando a los riñones?",
+      "context": "En Villavicencio, el centro de salud registra que varios adultos con diabetes sin control también desarrollan daño en los riñones con el tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el azúcar tapa la boca y ya no se puede tomar agua en ningún momento.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el daño ocurre dentro del filtro renal y no en la boca."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el exceso de azúcar obliga a los filtros del riñón a trabajar de más y con los años se deterioran.",
+          "is_correct": true,
+          "feedback": "Correcta, porque explica la sobrecarga crónica del filtro por la glucosa alta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la diabetes convierte los riñones en pulmones que ya no filtran nada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los órganos no se transforman unos en otros."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el azúcar de la sangre nunca llega a los riñones y por eso se dañan de tristeza.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque toda la sangre, con su azúcar, pasa por los riñones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los riñones filtran toda la sangre muchas veces al día. Cuando la glucosa está alta de forma constante, los filtros diminutos se fuerzan, dejan escapar proteínas y se cicatrizan. Controlar el azúcar con dieta, ejercicio y medicación cuando el médico la indica protege también a los riñones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v9",
+      "statement": "Plan 1: garantizar agua disponible para todos. Plan 2: priorizar la venta de bebidas azucaradas. ¿Cuál es la evaluación correcta para la salud excretora?",
+      "context": "En un colegio de Bogotá, con 90000 COP el curso debe elegir: plan 1, instalar un punto de agua con vasos para tomar agua todo el día; plan 2, vender solo bebidas azucaradas para recoger fondos y pedir que cada uno traiga agua solo si quiere.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plan 2 es mejor porque el azúcar ayuda a los riñones a filtrar más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el exceso de azúcar sobrecarga los riñones en vez de ayudarlos."
+        },
+        {
+          "letter": "B",
+          "text": "El plan 1 es mejor porque facilita la hidratación diaria y el trabajo renal, mientras el plan 2 la dificulta.",
+          "is_correct": true,
+          "feedback": "Correcta, porque evalúa el acceso real al agua frente a la barrera de las bebidas azucaradas."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son iguales porque tomar líquido, sea cual sea, hidrata exactamente igual.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las bebidas azucaradas no reemplazan al agua y aportan exceso de azúcar."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno sirve porque los estudiantes no necesitan tomar agua durante la jornada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en una jornada larga sí se necesita reponer el agua perdida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar planes de salud es mirar quién se beneficia y por cuánto tiempo. Un punto de agua beneficia a todo el curso cada día y forma el hábito de hidratarse. Vender solo bebidas azucaradas deja el agua como opción difícil y aumenta el riesgo renal y dental. La mejor decisión combina fondos con opciones saludables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle-v10",
+      "statement": "Afirmación 1: si se ve transparente, el agua es segura. Afirmación 2: se necesita analizar y tratar el agua antes de beberla. ¿Cuál es la evaluación correcta?",
+      "context": "En Quibdó, un estudiante dice que tomar agua de un caño contaminado es seguro porque se ve transparente. Su compañera responde que la transparencia no garantiza pureza y que esa agua puede llevar microbios que enferman riñones y vejiga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es verdadera porque los microbios siempre se ven a simple vista en el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque bacterias y parásitos son invisibles sin instrumentos."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son verdaderas porque toda agua transparente ya viene tratada de fábrica.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el agua de caños puede contaminarse en el camino."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es falsa y la segunda es verdadera, porque solo el análisis y el tratamiento confirman que el agua es apta.",
+          "is_correct": true,
+          "feedback": "Correcta, porque juzga la apariencia frente a la evidencia del análisis del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son falsas porque el agua nunca se puede tratar ni analizar en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sí existen métodos de análisis, hervido, filtrado y cloración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El agua transparente puede esconder bacterias, parásitos y químicos que dañan el sistema excretor y digestivo. Hervirla, filtrarla o tratarla según la norma, y comparar con análisis de turbiedad y cloro, es la única garantía. Evaluar con datos y no con la vista protege la salud de toda la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-7-2026-W33-sistema-excretor-humano-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

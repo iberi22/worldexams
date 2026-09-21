@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-37-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T12:47:19.935Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la atmósfera y cuál es su composición principal?",
+      "context": "En un colegio de Bogotá, la profesora infla una bomba, muestra que el aire ocupa espacio y pregunta de qué está hecha la atmósfera que envuelve la Tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una capa de agua sólida que cubre las montañas y está hecha solo de hielo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque eso describe glaciares y no la envoltura gaseosa del planeta."
+        },
+        {
+          "letter": "B",
+          "text": "La capa de gases que envuelve la Tierra, compuesta sobre todo por nitrógeno y oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define la atmósfera y nombra sus dos gases más abundantes."
+        },
+        {
+          "letter": "C",
+          "text": "Un techo de cemento construido sobre las ciudades para sostener las nubes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la atmósfera es natural y no una construcción humana."
+        },
+        {
+          "letter": "D",
+          "text": "El suelo del patio del colegio formado por tierra y piedras pequeñas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque eso describe el suelo y no la capa de aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La atmósfera es la mezcla de gases retenida por la gravedad que permite respirar, regula la temperatura y forma el clima. El nitrógeno ocupa casi cuatro quintas partes y el oxígeno una quinta parte, con pequeñas cantidades de otros gases y vapor de agua. Sin ella no habría nubes, lluvia ni protección contra el sol fuerte.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre el tiempo atmosférico y el clima?",
+      "context": "En Cartagena amanece con sol fuerte y en la tarde cae un aguacero corto, mientras los libros dicen que Cartagena tiene clima cálido y húmedo todo el año y Bogotá tiene clima frío de montaña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tiempo es el estado del aire en un día y lugar, y el clima es el patrón de muchos años en una región.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue la condición diaria del promedio de largo plazo."
+        },
+        {
+          "letter": "B",
+          "text": "Son lo mismo y ambos cambian cada minuto en todo el planeta por igual.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el clima es estable por décadas y el tiempo cambia cada día."
+        },
+        {
+          "letter": "C",
+          "text": "El clima dura solo una tarde y el tiempo dura treinta años seguidos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte las escalas de duración de cada concepto."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo solo existe en Cartagena y el clima solo existe en Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambos conceptos aplican a cualquier lugar del país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo responde qué pasa hoy: sol, lluvia, viento o frío. El clima resume cómo se comporta una zona durante décadas: cálido, templado o frío, seco o lluvioso. Un aguacero en Cartagena no cambia su clima cálido, como un día soleado en Bogotá no la vuelve tierra caliente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v3",
+      "statement": "Si Santa Marta está al nivel del mar y Tunja está a casi 2800 metros de altura, ¿cómo se clasifican?",
+      "context": "En clase de geografía en Bucaramanga aprenden los pisos térmicos de Colombia: cálido, templado, frío, páramo y nieves, según la altura sobre el nivel del mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son páramo porque en Colombia todas las ciudades están sobre nieves perpetuas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque solo las cumbres más altas tienen nieves y ninguna de las dos es páramo."
+        },
+        {
+          "letter": "B",
+          "text": "Santa Marta es piso cálido y Tunja es piso frío, porque a mayor altura baja la temperatura.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica la relación entre altura y temperatura en los pisos térmicos."
+        },
+        {
+          "letter": "C",
+          "text": "Santa Marta es fría y Tunja es caliente porque el mar enfría y la montaña calienta.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte el efecto real de la altura sobre la temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "La altura no influye y ambas tienen el mismo clima porque están en el mismo país.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la altura es el factor que más cambia el clima en Colombia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la zona tropical la altura manda: cada vez que se sube, el aire se enfría. Por eso la costa Caribe es cálida y el altiplano cundiboyacense es frío, aunque estén a latitudes parecidas. Los pisos térmicos explican por qué los cultivos cambian con la altura: banano abajo, café en el medio y papa arriba.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué Quibdó es tan lluvioso y Riohacha tan seco si ambos están en tierras bajas?",
+      "context": "En Quibdó, Chocó, llueve casi todos los días y los ríos viven crecidos, mientras en Riohacha, La Guajira, pasan meses con sol fuerte y poca lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quibdó recibe vientos húmedos del Pacífico que chocan con la cordillera y descargan lluvia, y Riohacha recibe vientos secos alisios.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica humedad del aire, relieve y vientos a cada región."
+        },
+        {
+          "letter": "B",
+          "text": "Quibdó tiene una llave gigante bajo la selva y Riohacha la tiene cerrada por decisión del alcalde.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la lluvia viene de la atmósfera y no de llaves subterráneas."
+        },
+        {
+          "letter": "C",
+          "text": "La lluvia cae por castigo en el Chocó y por premio deja de caer en La Guajira.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque apela a un castigo y no a factores físicos del clima."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas ciudades tienen el mismo clima y los mapas del IDEAM están inventados.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los registros muestran diferencias reales y medidas por décadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El clima resulta de combinar humedad, vientos y relieve. El aire húmedo del Pacífico sube por la cordillera occidental, se enfría y suelta aguaceros sobre Quibdó. En La Guajira, los vientos alisios llegan secos y hay poca montaña que los obligue a descargar. Por eso Colombia tiene selvas muy húmedas y desiertos costeros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se explica la brisa marina de la tarde en Barranquilla?",
+      "context": "En Barranquilla, los estudiantes sienten brisa fresca del mar en la tarde que entra a la ciudad, y aprenden que el aire se mueve de zonas de alta presión a zonas de baja presión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mar sopla porque las olas empujan el aire con sus manos invisibles.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque atribuye manos a las olas en vez de explicar presión y temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La tierra se calienta más rápido que el mar, el aire caliente sube y la brisa fresca del mar ocupa su lugar.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica el calentamiento desigual y el movimiento del aire por presión."
+        },
+        {
+          "letter": "C",
+          "text": "La brisa aparece porque los edificios altos fabrican viento con sus ventiladores.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los edificios modifican el viento pero no crean la brisa marina."
+        },
+        {
+          "letter": "D",
+          "text": "El viento solo existe de noche porque de día el sol lo quema y desaparece.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el viento se forma de día y de noche según las diferencias de presión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tierra y el mar se calientan distinto: en la tarde la tierra está más caliente, el aire sobre ella sube y deja una zona de baja presión que atrae el aire fresco del mar. Esa es la brisa que refresca a Barranquilla, Cartagena y Santa Marta. De noche ocurre al revés y sopla el terral hacia el mar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis de los datos climáticos es correcto?",
+      "context": "En un colegio de Villavicencio comparan datos del IDEAM: Bogotá promedia 14 grados con lluvias en abril y octubre, y Barranquilla promedia 28 grados con una temporada seca larga a inicio de año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá es más caliente porque está más cerca del sol al quedar sobre una montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la altura enfría el aire aunque acerque un poco al sol."
+        },
+        {
+          "letter": "B",
+          "text": "Bogotá es fría por su altura andina con lluvias bimodales, y Barranquilla es cálida costera con estación seca marcada.",
+          "is_correct": true,
+          "feedback": "Correcta, porque interpreta temperatura y régimen de lluvias de cada ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "Los datos no sirven porque dos ciudades distintas jamás pueden compararse.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque comparar registros es la base para describir climas regionales."
+        },
+        {
+          "letter": "D",
+          "text": "Barranquilla es fría porque el mar Caribe congela el aire de la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el Caribe es cálido y mantiene altas las temperaturas costeras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el clima es leer promedios de largo plazo, no un solo día. La altura explica el frío bogotano y la latitud costera explica el calor barranquillero. El doble pico de lluvias en el interior y la sequía caribeña de inicio de año muestran que Colombia tiene varios calendarios de lluvia según la región.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué errores comete esa afirmación sobre la atmósfera?",
+      "context": "En Leticia, Amazonas, un estudiante dice que el efecto invernadero siempre es malo y debe eliminarse por completo, y que el hueco de la capa de ozono es lo mismo que el calentamiento global.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque sin gases la Tierra estaría mejor y el ozono calienta igual que el dióxido de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin efecto natural la Tierra sería un planeta helado."
+        },
+        {
+          "letter": "B",
+          "text": "Confunde el efecto natural que mantiene tibio el planeta con su aumento por gases humanos, y mezcla el ozono con el calentamiento.",
+          "is_correct": true,
+          "feedback": "Correcta, porque separa el efecto natural, su aumento y el tema distinto del ozono."
+        },
+        {
+          "letter": "C",
+          "text": "Su error es hablar de gases, porque la atmósfera colombiana no tiene ningún gas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el aire amazónico también es mezcla de nitrógeno, oxígeno y vapor."
+        },
+        {
+          "letter": "D",
+          "text": "Su error es estudiar, porque en la selva está prohibido medir la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque medir en la selva es clave para entender el clima del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El efecto invernadero natural retiene parte del calor y mantiene la Tierra habitable; el problema es su aumento por quemar combustibles y talar bosques. El hueco de ozono es otro asunto: menos filtro contra rayos ultravioleta por ciertas sustancias. Distinguirlos evita soluciones equivocadas y ayuda a cuidar la selva amazónica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se relacionan El Niño y La Niña con esas cosechas del Tolima?",
+      "context": "En el Tolima, los arroceros notan que unos años el verano es muy fuerte y se secan los canales, y otros años llueve sin parar y se inundan los cultivos, y el técnico habla de El Niño y La Niña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son inventos de la televisión y el clima del Tolima nunca cambia entre años.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los registros muestran años secos y lluviosos alternados."
+        },
+        {
+          "letter": "B",
+          "text": "El Niño calienta el Pacífico y suele traer sequías al interior, y La Niña lo enfría y suele traer lluvias e inundaciones.",
+          "is_correct": true,
+          "feedback": "Correcta, porque conecta el océano con sequías e inundaciones en Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "El Niño trae inundaciones y La Niña trae sequías porque sus nombres están cruzados a propósito.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte los efectos típicos en el país."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos enfrían el Tolima hasta nevar los arrozales todos los diciembres.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el Tolima bajo no nieva y los efectos son de lluvia, no de nieve."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El Pacífico actúa como control del clima: sus aguas cálidas o frías cambian los vientos y las lluvias sobre Colombia. En El Niño conviene ahorrar agua y sembrar variedades resistentes, y en La Niña conviene drenar y proteger contra inundaciones. Leer los boletines del IDEAM ayuda a planear la siembra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v9",
+      "statement": "Conclusión 1: el patio se calienta más que el jardín en estas tardes. Conclusión 2: todo Neiva tiene siempre 34 grados por culpa del patio del colegio. ¿Cuál es la evaluación correcta?",
+      "context": "En un colegio de Neiva con una estación meteorológica de 110000 COP, el patio de cemento marca 34 grados en la tarde y el jardín con árboles marca 29 grados a la misma hora durante una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son correctas porque un termómetro escolar mide toda la ciudad y todo el año.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque una medida local y semanal no representa toda la ciudad ni el clima."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es válida porque se apoya en los datos, y la segunda es exagerada porque generaliza un microclima a toda la ciudad.",
+          "is_correct": true,
+          "feedback": "Correcta, porque acepta lo medido y frena el salto del patio a toda Neiva."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son falsas porque medir temperatura con instrumentos invalida cualquier comparación.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque medir con instrumentos es el procedimiento válido para comparar."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es falsa y la segunda verdadera porque en ciencia gana la frase más alarmante.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en ciencia gana la afirmación ajustada a los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar es distinguir tiempo, microclima y clima. Los datos muestran una isla de calor en el cemento frente al jardín sombreado, un hallazgo valioso para sembrar árboles. Pero el clima de Neiva se describe con años de registros de varias estaciones. Una buena conclusión declara lugar, hora y límites antes de proponer acciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la mejor evaluación del plan para comparar los microclimas?",
+      "context": "En un colegio de Santa Marta con 150000 COP, el curso debe comparar el microclima del patio de cemento y del jardín: adivinar con la mano, votar por el sitio más fresco, o medir temperatura y humedad a la misma hora con réplicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tocar el piso con la mano una vez y declarar el resultado para todo el año escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque una sensación única no mide ni permite comparar con confianza."
+        },
+        {
+          "letter": "B",
+          "text": "Votar por el sitio favorito porque la simpatía del grupo refresca el ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque votar no mide temperatura ni humedad de cada sitio."
+        },
+        {
+          "letter": "C",
+          "text": "Medir con termómetro e higrómetro a la misma hora varios días, registrar en tablas y comparar promedios.",
+          "is_correct": true,
+          "feedback": "Correcta, porque usa instrumentos, réplicas, registro y comparación justa."
+        },
+        {
+          "letter": "D",
+          "text": "No medir nada porque el clima de Santa Marta es idéntico en cada rincón del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sombra, cemento y vegetación crean microclimas distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen plan controla la hora, repite las medidas y registra en tablas para comparar promedios del patio y del jardín. Los instrumentos evitan que la opinión contamine los datos. Evaluar planes con variables controladas, réplicas y evidencia es el corazón de la indagación sobre el clima escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-7-2026-W37-atmosfera-clima-tiempo-colombia-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
