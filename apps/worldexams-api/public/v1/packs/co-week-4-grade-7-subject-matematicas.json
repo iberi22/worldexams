@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-7-subject-matematicas",
+    "generated_at": "2026-09-21T16:00:54.395Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el producto de las dos fracciones?",
+      "context": "En Manizales, una panadería multiplica la fracción de un lote de masa: $\\frac{3}{5}$ por $\\frac{2}{7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{6}{35}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se multiplican numeradores y denominadores: $\\frac{3 \\times 2}{5 \\times 7} = \\frac{6}{35}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste numeradores y denominadores en lugar de multiplicarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{6}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los numeradores pero sumaste los denominadores."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{35}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto de los numeradores no es $5$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para multiplicar fracciones se opera en línea: $\\frac{3}{5} \\times \\frac{2}{7} = \\frac{3 \\times 2}{5 \\times 7} = \\frac{6}{35}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v2",
+      "statement": "¿Qué fracción de galón contiene cada envase?",
+      "context": "En Armenia, un tendero reparte $\\frac{4}{5}$ de un galón de aceite en $2$ envases iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{5}$ de galón",
+          "is_correct": true,
+          "feedback": "Correcto. Dividir entre $2$ equivale a multiplicar por $\\frac{1}{2}$: $\\frac{4}{5} \\times \\frac{1}{2} = \\frac{2}{5}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{8}{5}$ de galón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $2$ en lugar de dividir entre $2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{5}$ de galón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste también el denominador entre $2$ de forma incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{8}$ de galón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repartir en dos partes iguales es dividir entre $2$: $\\frac{4}{5} \\div 2 = \\frac{4}{5} \\times \\frac{1}{2} = \\frac{2}{5}$ de galón por envase.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el resultado de dividir $\\frac{3}{4}$ entre $\\frac{2}{5}$?",
+      "context": "En Neiva, un agricultor debe dividir $\\frac{3}{4}$ de hectárea en parcelas de $\\frac{2}{5}$ de hectárea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{15}{8}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{4} \\div \\frac{2}{5} = \\frac{3}{4} \\times \\frac{5}{2} = \\frac{15}{8}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste directamente las dos fracciones sin invertir la segunda."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{8}{15}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción equivocada."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la primera fracción en lugar de la segunda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividir fracciones es multiplicar por el recíproco: $\\frac{3}{4} \\div \\frac{2}{5} = \\frac{3}{4} \\times \\frac{5}{2} = \\frac{15}{8}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fracción del rollo completo usó en el pedido?",
+      "context": "En Pereira, una modista tiene $\\frac{5}{6}$ de un rollo de tela y usa $\\frac{2}{3}$ de esa cantidad para un pedido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{9}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{5}{6} \\times \\frac{2}{3} = \\frac{10}{18} = \\frac{5}{9}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la fracción usada con la fracción disponible."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{7}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las fracciones en lugar de multiplicarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar el producto obtenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fracción del rollo usada es $\\frac{5}{6} \\times \\frac{2}{3} = \\frac{10}{18} = \\frac{5}{9}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos vasos se pueden llenar completamente?",
+      "context": "En Cúcuta, una jarra contiene $\\frac{3}{2}$ de litro de jugo y se sirve en vasos de $\\frac{1}{4}$ de litro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ vasos",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{2} \\div \\frac{1}{4} = \\frac{3}{2} \\times 4 = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{8}$ de vaso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las fracciones cuando se pedía una división."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{8}{3}$ de vaso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el orden de la división."
+        },
+        {
+          "letter": "D",
+          "text": "$4$ vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la fracción $\\frac{3}{2}$ del contenido total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Número de vasos $= \\frac{3}{2} \\div \\frac{1}{4} = \\frac{3}{2} \\times \\frac{4}{1} = 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado correcto y simplificado?",
+      "context": "En Villavicencio, un estudiante calcula el producto $\\frac{2}{3} \\times \\frac{9}{4}$ para resolver un problema de proporciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{2}{3} \\times \\frac{9}{4} = \\frac{18}{12} = \\frac{3}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{11}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los términos en lugar de multiplicarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplificaste de forma incorrecta el producto."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{27}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste mal uno de los factores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se multiplica en línea y se simplifica: $\\frac{2}{3} \\times \\frac{9}{4} = \\frac{18}{12} = \\frac{3}{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el resultado simplificado de esa división?",
+      "context": "En Popayán, un laboratorio debe calcular la razón $\\frac{5}{6} \\div \\frac{10}{9}$ para dosificar una mezcla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{5}{6} \\times \\frac{9}{10} = \\frac{45}{60} = \\frac{3}{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{4}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción que se dividía."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{25}{27}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el producto directo sin invertir el divisor."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{18}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar el producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\frac{5}{6} \\div \\frac{10}{9} = \\frac{5}{6} \\times \\frac{9}{10} = \\frac{45}{60} = \\frac{3}{4}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área del terreno en kilómetros cuadrados?",
+      "context": "En Villavicencio, un terreno rectangular mide $\\frac{7}{8}\\text{ km}$ de largo por $\\frac{4}{7}\\text{ km}$ de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}\\text{ km}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{7}{8} \\times \\frac{4}{7} = \\frac{28}{56} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{11}{56}\\text{ km}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las dimensiones en lugar de multiplicarlas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{28}{15}\\text{ km}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Operaste mal con los denominadores."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{8}\\text{ km}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error al simplificar el producto de las fracciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área es base por altura: $\\frac{7}{8} \\times \\frac{4}{7} = \\frac{28}{56} = \\frac{1}{2}\\text{ km}^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántos segundos se requieren para llenar la reserva?",
+      "context": "En Sincelejo, una llave vierte $\\frac{3}{8}$ de litro por segundo en un tanque. Se desea llenar una reserva de $\\frac{9}{4}$ de litro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ segundos",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{9}{4} \\div \\frac{3}{8} = \\frac{9}{4} \\times \\frac{8}{3} = \\frac{72}{12} = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{27}{32}$ de segundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las fracciones en lugar de dividirlas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{32}{27}$ de segundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la razón entre volumen y caudal."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{2}$ segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste de forma incompleta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tiempo $= \\frac{9}{4} \\div \\frac{3}{8} = \\frac{9}{4} \\times \\frac{8}{3} = \\frac{72}{12} = 6$ segundos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle-v10",
+      "statement": "¿Cuánto dinero destinó a lácteos?",
+      "context": "En Ibagué, un comerciante dispone de $240000\\text{ COP}$. Gasta $\\frac{3}{4}$ de ese dinero en mercancía y, de lo gastado, destina $\\frac{2}{5}$ a lácteos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$72000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. Mercancía: $\\frac{3}{4}$ de $240000 = 180000$; lácteos: $\\frac{2}{5}$ de $180000 = 72000$."
+        },
+        {
+          "letter": "B",
+          "text": "$108000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $\\frac{3}{5}$ en lugar de $\\frac{2}{5}$."
+        },
+        {
+          "letter": "C",
+          "text": "$144000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste $\\frac{3}{5}$ sobre el monto inicial."
+        },
+        {
+          "letter": "D",
+          "text": "$48000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste $\\frac{1}{5}$ al monto inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Gasto en mercancía $= \\frac{3}{4} \\times 240000 = 180000$. Lácteos $= \\frac{2}{5} \\times 180000 = 72000$ COP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-7-2026-W04-numeros-racionales-multiplicacion-division-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
