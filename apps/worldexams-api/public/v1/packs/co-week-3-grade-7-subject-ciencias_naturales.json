@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-3-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T07:45:50.982Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal del corazón en el sistema circulatorio?",
+      "context": "En clase de educación física en un colegio de Bogotá, el profesor pide señalar el órgano que bombea la sangre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombear la sangre hacia todo el cuerpo",
+          "is_correct": true,
+          "feedback": "Correcta porque el corazón es una bomba muscular que impulsa la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "Filtrar la orina de la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecta porque filtrar la orina es función de los riñones."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar el intercambio de gases en los alvéolos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el intercambio gaseoso ocurre en los pulmones."
+        },
+        {
+          "letter": "D",
+          "text": "Producir los nutrientes de los alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los nutrientes provienen de la digestión, no del corazón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El corazón tiene cuatro cavidades y se contrae rítmicamente para impulsar la sangre. Recordar su papel de bomba es la base para entender todo el circuito circulatorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia existe entre arterias y venas?",
+      "context": "Una niña de Soacha observa en una lámina que unas tuberías llevan sangre desde el corazón y otras la devuelven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas llevan oxígeno en la misma dirección",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la dirección del flujo es opuesta en cada tipo de vaso."
+        },
+        {
+          "letter": "B",
+          "text": "Las arterias sacan sangre del corazón y las venas la devuelven hacia él",
+          "is_correct": true,
+          "feedback": "Correcta porque describe el sentido del flujo respecto al corazón."
+        },
+        {
+          "letter": "C",
+          "text": "Las venas sacan sangre del corazón y las arterias la devuelven",
+          "is_correct": false,
+          "feedback": "Incorrecta porque invierte el sentido real de la circulación."
+        },
+        {
+          "letter": "D",
+          "text": "No existe diferencia entre arterias y venas",
+          "is_correct": false,
+          "feedback": "Incorrecta porque difieren en dirección del flujo, paredes y presión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las arterias tienen paredes gruesas para soportar alta presión de salida, mientras las venas tienen válvulas para el retorno. Comprender el sentido del flujo evita confundir ambos vasos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el esfuerzo físico se siente más intenso cuando se llega a la altura de Bogotá?",
+      "context": "Un equipo de fútbol infantil llega de Barranquilla a jugar en Bogotá, a 2600 metros de altura, y se agita más rápido de lo normal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el corazón deja de bombear sangre en la altura",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el corazón sigue bombeando, aunque trabaja más rápido."
+        },
+        {
+          "letter": "B",
+          "text": "Porque hay menos oxígeno disponible y el corazón y la respiración aceleran su ritmo",
+          "is_correct": true,
+          "feedback": "Correcta porque la menor presión parcial de oxígeno exige mayor trabajo cardiopulmonar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las arterias se convierten en venas con la altura",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los vasos no cambian de tipo según la altura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sangre deja de transportar nutrientes",
+          "is_correct": false,
+          "feedback": "Incorrecta porque la sangre sigue transportando nutrientes y oxígeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A mayor altura hay menor disponibilidad de oxígeno, de modo que el cuerpo compensa con más frecuencia cardiaca y respiratoria. Aplicar este principio explica el agotamiento de quienes no están aclimatados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v4",
+      "statement": "¿Qué componente de la sangre se relaciona con el transporte de oxígeno y con la prevención de la anemia?",
+      "context": "En el restaurante escolar de Pereira sirven lentejas, panela y jugo de guayaba para prevenir la anemia de los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plaquetas, que forman coágulos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque las plaquetas participan en la coagulación, no en llevar oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Los glóbulos rojos con hemoglobina",
+          "is_correct": true,
+          "feedback": "Correcta porque la hemoglobina de los glóbulos rojos transporta el oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "El plasma sin células",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el plasma transporta sustancias disueltas, pero el oxígeno viaja sobre todo en glóbulos rojos."
+        },
+        {
+          "letter": "D",
+          "text": "Los glóbulos blancos exclusivamente",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los glóbulos blancos defienden contra infecciones, no transportan oxígeno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hemoglobina contiene hierro y fija el oxígeno en los pulmones para liberarlo en los tejidos. Una dieta con hierro y vitamina C favorece su producción y previene la anemia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo llegan los nutrientes del sancocho hasta los músculos del estudiante?",
+      "context": "Después de almorzar sancocho en un colegio de Cartagena, un estudiante siente más energía para jugar en el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Viajan por los nervios hasta los músculos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los nervios llevan impulsos, no nutrientes digeridos."
+        },
+        {
+          "letter": "B",
+          "text": "Pasan del intestino a la sangre y la circulación los distribuye",
+          "is_correct": true,
+          "feedback": "Correcta porque los nutrientes absorbidos viajan en la sangre a todo el cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "Pasan directo del estómago a las piernas sin usar vasos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque todo transporte interno requiere los vasos sanguíneos."
+        },
+        {
+          "letter": "D",
+          "text": "Se transforman en aire dentro de los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los nutrientes y el aire siguen rutas distintas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los nutrientes absorbidos en el intestino delgado entran a capilares y viajan por la circulación mayor hasta cada célula. Este recorrido conecta la digestión con la energía muscular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis distingue correctamente la circulación menor de la circulación mayor?",
+      "context": "En un esquema del cuerpo humano usado en Villavicencio hay dos circuitos: uno entre corazón y pulmones y otro entre corazón y resto del cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La menor lleva nutrientes al cuerpo y la mayor lleva aire a los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecta porque confunde el contenido transportado con el destino del circuito."
+        },
+        {
+          "letter": "B",
+          "text": "La menor intercambia gases en los pulmones y la mayor distribuye oxígeno y recoge dióxido de carbono en el cuerpo",
+          "is_correct": true,
+          "feedback": "Correcta porque diferencia el circuito pulmonar del circuito sistémico por su función."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas ocurren solo dentro del corazón sin salir a otros órganos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque ambos circuitos salen del corazón hacia pulmones o cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "La mayor ocurre en plantas y la menor en humanos",
+          "is_correct": false,
+          "feedback": "Incorrecta porque ambas circulaciones descritas son del cuerpo humano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circulación menor oxigena la sangre en los pulmones y la mayor la reparte por el cuerpo. Analizar destino y función de cada circuito permite seguir el viaje completo de un glóbulo rojo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué aumenta el pulso después del esfuerzo físico?",
+      "context": "En una feria de la salud en Cúcuta miden el pulso de los asistentes antes y después de subir escaleras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los huesos empujan la sangre más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los huesos no impulsan la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los músculos necesitan más oxígeno y el corazón late más veces por minuto",
+          "is_correct": true,
+          "feedback": "Correcta porque relaciona demanda de oxígeno con mayor frecuencia cardiaca."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las venas dejan de devolver sangre al corazón",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el retorno venoso aumenta con el ejercicio, no se detiene."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sangre se vuelve más espesa y lenta",
+          "is_correct": false,
+          "feedback": "Incorrecta porque lo que cambia es el ritmo de bombeo, no el espesor de la sangre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pulso refleja cada contracción cardiaca. Durante el ejercicio, las células consumen más oxígeno y el corazón responde con más latidos para sostener el aporte.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v8",
+      "statement": "¿Qué hábito ayuda a cuidar los vasos sanguíneos y por qué?",
+      "context": "Un médico en Ibagué explica a un paciente que tiene la presión alta y que la sangre golpea con demasiada fuerza las paredes arteriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumir gaseosa y paquetes todos los días porque dan energía",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el exceso de sal, azúcar y grasas eleva la presión y daña arterias."
+        },
+        {
+          "letter": "B",
+          "text": "Reducir la sal, hacer actividad física y comer frutas y verduras",
+          "is_correct": true,
+          "feedback": "Correcta porque estos hábitos mantienen elásticas las arterias y regulan la presión."
+        },
+        {
+          "letter": "C",
+          "text": "Evitar toda actividad física para no cansar el corazón",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el sedentarismo debilita el corazón y empeora la circulación."
+        },
+        {
+          "letter": "D",
+          "text": "Tomar antibióticos sin receta cada semana",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los antibióticos no regulan la presión y su mal uso es riesgoso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La presión alta daña el endotelio arterial con el tiempo. La actividad física regular y la dieta baja en sal preservan la elasticidad vascular y reducen el riesgo cardiovascular.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se evalúa críticamente esa afirmación?",
+      "context": "Un influenciador afirma en redes: \"Si te sientes cansado en Bogotá, basta con tomar agua con limón para que la sangre lleve más oxígeno y no necesitas médico\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se acepta porque el limón fabrica glóbulos rojos de inmediato",
+          "is_correct": false,
+          "feedback": "Incorrecta porque ningún alimento crea glóbulos rojos de forma instantánea."
+        },
+        {
+          "letter": "B",
+          "text": "Se rechaza como receta única porque el cansancio puede tener muchas causas y requiere diagnóstico",
+          "is_correct": true,
+          "feedback": "Correcta porque evalúa la afirmación con criterio médico y evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Se acepta porque el agua reemplaza por completo a la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecta porque el agua hidrata, pero no reemplaza las funciones de la sangre."
+        },
+        {
+          "letter": "D",
+          "text": "Se rechaza porque hidratarse siempre es dañino",
+          "is_correct": false,
+          "feedback": "Incorrecta porque hidratarse es saludable, pero no cura todas las causas del cansancio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cansancio persistente puede deberse a anemia, infecciones o problemas cardiacos. Evaluar remedios virales exige pedir evidencia y consultar profesionales de la salud antes de aceptarlos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la mejor inversión de ese presupuesto desde la evidencia científica?",
+      "context": "El comité de salud de un colegio en Santa Marta propone una campaña de 500000 COP para cuidar el corazón de los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar pulseras magnéticas que prometen limpiar la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecta porque esos productos carecen de evidencia científica."
+        },
+        {
+          "letter": "B",
+          "text": "Instalar puntos de hidratación, fruta fresca y torneos deportivos semanales",
+          "is_correct": true,
+          "feedback": "Correcta porque promueve hidratación, dieta sana y ejercicio con efecto comprobado."
+        },
+        {
+          "letter": "C",
+          "text": "Repartir energizantes para rendir más en educación física",
+          "is_correct": false,
+          "feedback": "Incorrecta porque los energizantes alteran el ritmo cardiaco en menores."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir tomar agua durante el ejercicio para acostumbrar el cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecta porque restringir el agua durante el ejercicio es peligroso para el corazón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las intervenciones con evidencia para la salud cardiovascular en escolares son actividad física regular, alimentación con frutas y verduras e hidratación con agua. Evaluar el gasto con ese criterio garantiza impacto real y evita productos sin respaldo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W03-sistema-circulatorio-humano-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
