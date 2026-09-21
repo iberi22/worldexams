@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-35-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-09-21T12:47:19.934Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la fotosíntesis en las plantas?",
+      "context": "En un colegio de Armenia, Quindío, la profesora muestra una planta de café, agua, luz del sol y aire, y pregunta qué proceso permite a la planta fabricar su alimento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La absorción de agua por las raíces para sostener las hojas sin fabricar alimento.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la absorción es solo una parte y no describe la fabricación del alimento."
+        },
+        {
+          "letter": "B",
+          "text": "El proceso por el cual la planta usa luz, agua y dióxido de carbono para producir glucosa y liberar oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcta, porque define los insumos y los productos de la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La caída de las hojas viejas cuando llega la temporada seca en el cafetal.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la caída de hojas es una respuesta, no la fabricación del alimento."
+        },
+        {
+          "letter": "D",
+          "text": "El transporte de semillas que hacen los campesinos para sembrar nuevos surcos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sembrar es una labor agrícola y no el proceso interno de la planta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fotosíntesis ocurre principalmente en las hojas, donde la clorofila captura la luz solar. Con esa energía, la planta transforma agua y dióxido de carbono en glucosa, que es su alimento, y libera oxígeno al aire. Por eso las plantas son productoras que sostienen a casi todos los seres vivos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre la fotosíntesis y la respiración celular en las plantas?",
+      "context": "En una finca platanera de Apartadó, Antioquia, dos estudiantes discuten: uno dice que las plantas solo hacen fotosíntesis de día y otro dice que las plantas también respiran para obtener energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fotosíntesis fabrica alimento con luz y la respiración libera la energía de ese alimento en todo momento.",
+          "is_correct": true,
+          "feedback": "Correcta, porque distingue fabricar alimento con luz de liberar su energía de día y de noche."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son el mismo proceso y ocurren solo cuando la planta está en completa oscuridad.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque son procesos distintos y la fotosíntesis necesita luz."
+        },
+        {
+          "letter": "C",
+          "text": "La respiración fabrica glucosa y la fotosíntesis quema la glucosa para mover las hojas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque invierte los papeles de cada proceso."
+        },
+        {
+          "letter": "D",
+          "text": "Las plantas no respiran porque no tienen pulmones como las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque respirar a nivel celular no requiere pulmones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fotosíntesis necesita luz y ocurre en los cloroplastos, mientras la respiración celular ocurre en las mitocondrias de día y de noche para liberar la energía guardada en la glucosa. Las plantas hacen ambos procesos: de día fotosintetizan y respiran, y de noche solo respiran. Sin respiración no podrían crecer ni transportar sustancias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v3",
+      "statement": "Si después de dos semanas la planta de la ventana crece verde y la del armario crece pálida y débil, ¿qué aplicación del concepto es correcta?",
+      "context": "En Garzón, Huila, un grupo pone dos plantas iguales de maíz: una junto a la ventana con buena luz y otra dentro de un armario oscuro, con igual agua, tierra y materas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oscuridad ayuda al maíz porque las plantas se alimentan de la tierra del armario.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin luz no hay fotosíntesis y la planta se debilita."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas crecerán igual porque el maíz fabrica luz propia dentro del armario.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las plantas no producen la luz que necesitan."
+        },
+        {
+          "letter": "C",
+          "text": "La luz es necesaria para la fotosíntesis y por eso la planta iluminada produce más alimento y crece mejor.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica la relación entre luz, fotosíntesis y crecimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El agua sobra en el experimento porque las plantas toman energía del plástico de la matera.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el agua es insumo esencial y el plástico no aporta energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al cambiar solo la luz y mantener iguales agua, tierra y tipo de planta, la diferencia en el crecimiento se debe a la fotosíntesis. La planta pálida se estira buscando luz y agota sus reservas. Este diseño de prueba justa permite concluir que la luz es un factor necesario para producir alimento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la relación correcta entre los insumos y los productos de la fotosíntesis en la caña?",
+      "context": "En Palmira, Valle del Cauca, los estudiantes de una escuela rural estudian la caña de azúcar y escriben la ecuación de la fotosíntesis en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dióxido de carbono más agua, con energía de la luz, producen glucosa y oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcta, porque nombra los insumos y productos verdaderos de la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno más glucosa, con energía de la luz, producen agua y dióxido de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esa es la dirección de la respiración y no de la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "La caña produce azúcar solo con tierra y viento, sin necesidad de agua ni aire.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin agua ni dióxido de carbono no hay materia para fabricar glucosa."
+        },
+        {
+          "letter": "D",
+          "text": "La luz se convierte en tierra fértil dentro del tallo de la caña.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la luz aporta energía y no se transforma en tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación resume que la materia del alimento viene del agua que sube por el tallo y del dióxido de carbono que entra por los estomas, mientras la luz aporta la energía. La caña guarda esa glucosa como sacarosa en el tallo. Entender la ecuación ayuda a ver por qué riego, aire y luz afectan la cosecha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v5",
+      "statement": "¿Qué resultado se espera en la prueba de yodo y por qué?",
+      "context": "En un colegio de Tunja, el curso tapa con papel aluminio la mitad de una hoja de geranio, la deja al sol todo el día y luego hace la prueba de yodo, que se vuelve azul oscuro donde hay almidón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda la hoja se tiñe igual porque el aluminio también hace fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el papel aluminio no fotosintetiza y bloquea la luz."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la parte iluminada se tiñe oscuro porque allí hubo fotosíntesis y se formó almidón.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aplica que sin luz no se produce glucosa ni almidón."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la parte tapada se tiñe porque la oscuridad fabrica más almidón.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la oscuridad impide la fotosíntesis en vez de aumentarla."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna parte se tiñe porque el yodo elimina el almidón de las hojas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el yodo revela el almidón y no lo elimina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El almidón es la forma en que la hoja guarda la glucosa fabricada. Donde llegó la luz hubo fotosíntesis y el yodo se oscurece; donde el aluminio bloqueó la luz no se formó alimento. Esta prueba clásica demuestra con evidencia visible que la luz es indispensable para la fotosíntesis.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v6",
+      "statement": "¿Qué análisis de los datos es correcto?",
+      "context": "En un laboratorio escolar de Pasto, los estudiantes acercan y alejan una lámpara de un vaso con elodea y cuentan burbujas de oxígeno por minuto: a 10 centímetros cuentan 40, a 20 centímetros cuentan 22 y a 40 centímetros cuentan 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alejar la lámpara aumenta la fotosíntesis porque las burbujas son adornos de la planta.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los datos muestran menos burbujas a mayor distancia."
+        },
+        {
+          "letter": "B",
+          "text": "A menor distancia hay más intensidad de luz y mayor tasa de fotosíntesis, como muestran las burbujas.",
+          "is_correct": true,
+          "feedback": "Correcta, porque interpreta la relación entre distancia, luz y oxígeno liberado."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia no importa porque la elodea fabrica oxígeno con la oscuridad del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ignora la tendencia clara de los datos con la luz."
+        },
+        {
+          "letter": "D",
+          "text": "Contar burbujas invalida el experimento porque el oxígeno no tiene relación con la fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el oxígeno es producto directo de la fotosíntesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las burbujas son oxígeno liberado al fotosintetizar, de modo que funcionan como indicador de la tasa del proceso. Al alejar la lámpara disminuye la intensidad luminosa y cae la producción. Analizar la tabla permite concluir que la fotosíntesis depende de la luz y que la relación se puede medir y graficar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo se explica ese marchitamiento temporal con los estomas y la transpiración?",
+      "context": "En Pereira, Risaralda, los cafetales se marchitan al mediodía aunque la tierra está húmeda, y en la tarde recuperan su firmeza cuando baja el sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las raíces dejan de funcionar al mediodía porque odian el sol fuerte del Eje Cafetero.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque atribuye gustos a las raíces y no explica el fenómeno."
+        },
+        {
+          "letter": "B",
+          "text": "Al mediodía la planta pierde más agua por transpiración de la que absorbe y cierra los estomas, y en la tarde se recupera.",
+          "is_correct": true,
+          "feedback": "Correcta, porque conecta calor, pérdida de agua, cierre de estomas y recuperación."
+        },
+        {
+          "letter": "C",
+          "text": "La planta deja de respirar para siempre al mediodía y revive por arte de magia en la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la respiración no se detiene y no hay magia en la recuperación."
+        },
+        {
+          "letter": "D",
+          "text": "El marchitamiento prueba que la fotosíntesis ocurre solo en las raíces bajo la tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la fotosíntesis ocurre en las hojas con luz y no en las raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los estomas dejan entrar dióxido de carbono pero también dejan salir vapor de agua. Con calor fuerte, la planta pierde mucha agua y cierra los estomas para protegerse, lo que reduce temporalmente la fotosíntesis. Cuando refresca, los estomas se abren y la planta se recupera. Es un equilibrio entre conseguir carbono y cuidar el agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v8",
+      "statement": "¿Qué demuestra ese resultado sobre las plantas en germinación?",
+      "context": "En Duitama, Boyacá, un equipo pone semillas de arveja que están germinando dentro de un frasco cerrado con un sensor, en oscuridad total, y observa que baja el oxígeno y sube el dióxido de carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las semillas hacen fotosíntesis en la oscuridad usando la tapa del frasco.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque sin luz no hay fotosíntesis y la tapa no aporta energía."
+        },
+        {
+          "letter": "B",
+          "text": "Que las semillas respiran: consumen oxígeno y liberan dióxido de carbono al liberar energía para germinar.",
+          "is_correct": true,
+          "feedback": "Correcta, porque interpreta el intercambio de gases como evidencia de respiración celular."
+        },
+        {
+          "letter": "C",
+          "text": "Que el sensor está dañado porque las plantas jamás intercambian gases con el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el intercambio de gases es normal y el sensor lo registra bien."
+        },
+        {
+          "letter": "D",
+          "text": "Que las semillas crean oxígeno de la nada sin usar sus reservas de alimento.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque usan las reservas de la semilla y consumen oxígeno en el proceso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las semillas en germinación no tienen hojas verdes ni luz, así que no fotosintetizan, pero sí respiran para obtener energía de sus reservas. El descenso de oxígeno y el aumento de dióxido de carbono son la firma de la respiración celular. Esto prueba que la respiración es permanente y sostiene el crecimiento incluso en la oscuridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v9",
+      "statement": "Conclusión 1: la luz extra aumentó el crecimiento en estas condiciones. Conclusión 2: la luz es el único factor que regula a las plantas en todo el planeta. ¿Cuál es la evaluación correcta?",
+      "context": "En Facatativá, Cundinamarca, un invernadero de flores con 120000 COP de materiales compara rosas con luz suplementaria, que crecen 15 centímetros en un mes, frente a rosas sin luz extra, que crecen 8 centímetros, con igual agua y nutrientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son correctas porque un invernadero pequeño demuestra todo lo que pasa en el planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque un ensayo local no prueba afirmaciones universales absolutas."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es válida porque se apoya en los datos, y la segunda es exagerada porque agua, nutrientes y temperatura también influyen.",
+          "is_correct": true,
+          "feedback": "Correcta, porque acepta lo respaldado por la evidencia y frena la generalización excesiva."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son falsas porque medir tallos con regla invalida cualquier experimento agrícola.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque medir con regla es un procedimiento válido y necesario."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es falsa y la segunda verdadera porque en ciencia gana la frase más amplia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en ciencia gana la afirmación ajustada a los datos, no la más llamativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar conclusiones es comparar cada frase con los datos y con lo ya conocido. El mayor crecimiento con luz extra respalda la primera conclusión dentro de ese invernadero. La segunda ignora otros factores limitantes y salta a todo el planeta. Una buena conclusión declara condiciones, reconoce límites y propone repetir el ensayo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la mejor evaluación del plan experimental para demostrar la respiración nocturna?",
+      "context": "En un colegio de Medellín, el curso debe demostrar que las plantas también respiran de noche con plantas de fríjol, bolsas plásticas, agua de cal y sensores sencillos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Meter la planta al sol con la bolsa y afirmar que el agua de cal se enturbia por la fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque de día predomina la fotosíntesis y confunde los gases que se miden."
+        },
+        {
+          "letter": "B",
+          "text": "Oler la bolsa en la mañana y votar por el olor favorito para decidir si la planta respiró.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque votar no mide gases y ningún gusto colectivo demuestra la respiración."
+        },
+        {
+          "letter": "C",
+          "text": "Cubrir la planta en oscuridad, recoger el aire en la bolsa y probar con agua de cal que se enturbia por el dióxido de carbono, con un frasco sin planta como control.",
+          "is_correct": true,
+          "feedback": "Correcta, porque aísla la respiración nocturna, usa indicador de dióxido de carbono y control."
+        },
+        {
+          "letter": "D",
+          "text": "No hacer nada porque las plantas solo respiran cuando las personas las están mirando.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la respiración celular es continua e independiente de la observación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen plan para la respiración nocturna elimina la fotosíntesis con oscuridad, captura el aire emitido y lo revela con agua de cal, que se enturbia con el dióxido de carbono. El frasco control sin planta permite comparar y descartar que el gas venga del aire ambiente. Evaluar planes con variables, controles e indicadores es el corazón de la indagación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-7-2026-W35-fotosintesis-respiracion-celular-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
