@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-20-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.101Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de sucesión es $3, 7, 11, 15, \\ldots$?",
+      "context": "En Bogotá, la profesora Mariana escribe la sucesión $3, 7, 11, 15, \\ldots$ y pide identificar su característica principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aritmética, porque la diferencia entre términos consecutivos es constante.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada término se obtiene sumando 4 al anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Geométrica, porque sus términos crecen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Crecer no basta; la diferencia es constante, no la razón."
+        },
+        {
+          "letter": "C",
+          "text": "Aritmética, porque el cociente entre términos es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cociente constante caracteriza a las geométricas."
+        },
+        {
+          "letter": "D",
+          "text": "No es una sucesión definida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene un patrón claro de suma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una sucesión aritmética tiene diferencia común constante entre términos consecutivos. Aquí $7 - 3 = 4$, $11 - 7 = 4$ y $15 - 11 = 4$, por lo que la diferencia es $d = 4$ y la sucesión es aritmética.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el primer término y la diferencia común de la sucesión?",
+      "context": "En Medellín, Santiago identifica el primer término y la diferencia de la sucesión $10, 6, 2, -2, \\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_1 = 10$ y $d = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos disminuyen, por lo que la diferencia es negativa."
+        },
+        {
+          "letter": "B",
+          "text": "$a_1 = 10$ y $d = -4$",
+          "is_correct": true,
+          "feedback": "Correcto. Se resta 4 en cada paso: $6 - 10 = -4$."
+        },
+        {
+          "letter": "C",
+          "text": "$a_1 = 10$ y $d = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre términos consecutivos es $-4$, no $-2$."
+        },
+        {
+          "letter": "D",
+          "text": "$a_1 = -2$ y $d = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundieron el primer término y la diferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El primer término es $a_1 = 10$. La diferencia común se calcula restando dos términos consecutivos: $d = 6 - 10 = -4$. Una diferencia negativa indica que la sucesión decrece.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el término general $a_n$ de la sucesión con primer término 5 y diferencia 3?",
+      "context": "En Cali, se escribe el término general de la sucesión aritmética con $a_1 = 5$ y $d = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = 5 + 3n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $n = 1$ daría 8, no 5."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = 3 + 5n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron el primer término y la diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = 5 + 3(n - 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula general es $a_n = a_1 + (n - 1)d = 5 + 3(n - 1)$."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = 5 + (n + 1) \\cdot 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente de posición es $n - 1$, no $n + 1$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El término general de una sucesión aritmética es $a_n = a_1 + (n - 1)d$. Con $a_1 = 5$ y $d = 3$, queda $a_n = 5 + 3(n - 1)$. Verificar con $n = 1$ y $n = 2$ confirma que reproduce los primeros términos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el término $a_{10}$ de la sucesión?",
+      "context": "En Barranquilla, Mariana usa la fórmula del término general para la sucesión $2, 5, 8, 11, \\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó $2 + 3 \\cdot 10$ en vez de $2 + 3 \\cdot 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$26$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó menos de lo debido en la posición."
+        },
+        {
+          "letter": "C",
+          "text": "$23$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el octavo término, no el décimo."
+        },
+        {
+          "letter": "D",
+          "text": "$29$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_{10} = 2 + 3(10 - 1) = 2 + 27 = 29$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con $a_1 = 2$ y $d = 3$, el término general es $a_n = 2 + 3(n - 1)$. Para $n = 10$: $a_{10} = 2 + 3 \\cdot 9 = 29$. El error típico es multiplicar por $n$ en lugar de $n - 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto ahorra el día 12?",
+      "context": "En Medellín, Santiago organiza sus ahorros: el primer día guarda \\$2.000 COP y cada día siguiente agrega \\$1.500 COP más que el anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$20.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó la posición 12 de forma incorrecta con $2.000 + 1.500 \\cdot 12$."
+        },
+        {
+          "letter": "B",
+          "text": "\\$16.500 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se contó el aumento sin sumar el primer día."
+        },
+        {
+          "letter": "C",
+          "text": "\\$18.500 COP",
+          "is_correct": true,
+          "feedback": "Correcto. $a_{12} = 2.000 + 1.500(12 - 1) = 2.000 + 16.500 = 18.500$."
+        },
+        {
+          "letter": "D",
+          "text": "\\$21.500 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó el aumento completo sin aplicar el factor $n - 1$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ahorro diario es una sucesión aritmética con $a_1 = 2.000$ y $d = 1.500$. El término 12 es $a_{12} = a_1 + 11d = 2.000 + 16.500 = 18.500$ COP. El día 12 acumula el primer valor más once incrementos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la suma de los primeros 5 términos?",
+      "context": "En Cali, Mariana calcula la suma de los primeros términos de la sucesión $1, 3, 5, 7, \\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltaron los términos 7 y 9."
+        },
+        {
+          "letter": "B",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se contaron los términos de forma incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "$30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó de más o se usó una fórmula con $n + 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": true,
+          "feedback": "Correcto. $S_5 = 1 + 3 + 5 + 7 + 9 = 25$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La suma de los primeros 5 términos es $S_5 = 1 + 3 + 5 + 7 + 9 = 25$. También se puede usar $S_n = \\frac{n(a_1 + a_n)}{2}$: $S_5 = \\frac{5(1 + 9)}{2} = 25$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la suma de los primeros 10 términos?",
+      "context": "En Barranquilla, Santiago determina la suma de los primeros 10 términos de la sucesión aritmética con $a_1 = 3$ y $a_{10} = 21$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$240$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó $3 \\cdot 10 + 21 \\cdot 10$ sin aplicar la fórmula correcta."
+        },
+        {
+          "letter": "B",
+          "text": "$210$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $a_{10}$ multiplicado por 10."
+        },
+        {
+          "letter": "C",
+          "text": "$120$",
+          "is_correct": true,
+          "feedback": "Correcto. $S_{10} = \\frac{10(3 + 21)}{2} = 120$."
+        },
+        {
+          "letter": "D",
+          "text": "$60$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió de más o se usó solo la mitad de los términos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fórmula de la suma es $S_n = \\frac{n(a_1 + a_n)}{2}$. Con $n = 10$, $a_1 = 3$ y $a_{10} = 21$: $S_{10} = \\frac{10 \\cdot 24}{2} = 120$. La fórmula evita sumar los 10 términos uno a uno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia común $d$ de la sucesión?",
+      "context": "En Bogotá, Mariana analiza una sucesión aritmética donde $a_3 = 10$ y $a_7 = 22$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$d = 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 es la diferencia total entre ambos términos, no la común."
+        },
+        {
+          "letter": "B",
+          "text": "$d = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_7 - a_3 = 4d = 12$, por lo que $d = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$d = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 es el número de saltos, no el valor de cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "$d = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir $22 - 10 = 12$ entre 4 da 3, no 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entre $a_3$ y $a_7$ hay $7 - 3 = 4$ incrementos de tamaño $d$. Entonces $a_7 - a_3 = 4d$, es decir $22 - 10 = 4d$, luego $d = 3$. Confundir el número de saltos con el valor de la diferencia es el error típico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la suma de los primeros 100 números impares?",
+      "context": "En Medellín, Santiago suma los primeros 100 números naturales impares usando sucesiones aritméticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a la mitad del valor correcto."
+        },
+        {
+          "letter": "B",
+          "text": "$20.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se duplicó el resultado correcto."
+        },
+        {
+          "letter": "C",
+          "text": "$10.000$",
+          "is_correct": true,
+          "feedback": "Correcto. El último término es 199 y $S_{100} = \\frac{100(1 + 199)}{2} = 10.000$."
+        },
+        {
+          "letter": "D",
+          "text": "$100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la suma con el número de términos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los impares forman la aritmética $1, 3, 5, \\ldots$ con $a_1 = 1$ y $d = 2$. El término 100 es $a_{100} = 1 + 2 \\cdot 99 = 199$. La suma es $S_{100} = \\frac{100(1 + 199)}{2} = 10.000$. La suma de los primeros $n$ impares equivale a $n^2$, y $100^2 = 10.000$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué oferta genera mayor ingreso total en 30 días?",
+      "context": "En Cali, Mariana decide cuál de dos ofertas de ahorro conviene más: la oferta A paga \\$100.000 COP el primer día y aumenta \\$20.000 COP cada día; la oferta B paga una cantidad fija de \\$150.000 COP diarios durante 30 días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oferta B, porque paga más cada día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe comparar el total acumulado, no el pago diario."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas generan lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los totales difieren considerablemente."
+        },
+        {
+          "letter": "C",
+          "text": "Depende del día en que se calcule, no del total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema pide comparar el ingreso total del periodo."
+        },
+        {
+          "letter": "D",
+          "text": "La oferta A, porque su total supera el de B.",
+          "is_correct": true,
+          "feedback": "Correcto. A suma $\\frac{30(100.000 + 680.000)}{2} = 11.700.000$ COP, frente a $30 \\cdot 150.000 = 4.500.000$ COP de B."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La oferta A es una sucesión aritmética con $a_1 = 100.000$ y $d = 20.000$. El día 30 paga $a_{30} = 100.000 + 20.000 \\cdot 29 = 680.000$ COP, y el total es $S_{30} = \\frac{30(100.000 + 680.000)}{2} = 11.700.000$ COP. La oferta B entrega $30 \\cdot 150.000 = 4.500.000$ COP. Evaluar totales permite decidir con rigor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el menor valor de $n$ para el que la suma supera 1.000?",
+      "context": "En Bogotá, Santiago analiza si la suma de los primeros $n$ términos de $2, 5, 8, \\ldots$ puede superar 1.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n = 20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 20 términos la suma es $S_{20} = 610$, menor que 1.000."
+        },
+        {
+          "letter": "B",
+          "text": "$n = 22$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $S_{22} = 737$, todavía menor que 1.000."
+        },
+        {
+          "letter": "C",
+          "text": "$n = 26$",
+          "is_correct": true,
+          "feedback": "Correcto. $S_{25} = 950$ y $S_{26} = 1027$, por lo que 26 es el menor."
+        },
+        {
+          "letter": "D",
+          "text": "$n = 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 25 términos la suma es 950, aún no supera 1.000."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sucesión tiene $a_1 = 2$ y $d = 3$, con término general $a_n = 3n - 1$. La suma es $S_n = \\frac{n(2 + 3n - 1)}{2} = \\frac{n(3n + 1)}{2}$. Se busca $S_n > 1.000$: para $n = 25$, $S_{25} = 950$; para $n = 26$, $S_{26} = 1.027$. Evaluar la fórmula en los valores cercanos determina el menor $n$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle-v12",
+      "statement": "¿La sala alcanza para los 600 asistentes?",
+      "context": "En Barranquilla, un teatro tiene 20 filas: la primera tiene 12 sillas y cada fila siguiente tiene 2 sillas más que la anterior. Mariana debe decidir si la sala alcanza para un evento con 600 asistentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque la última fila solo tiene 50 sillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe comparar el total, no la última fila."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el total es 580 sillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo del total es 620, no 580."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque hay exactamente 600 sillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total real es 620, que supera a 600."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque el total es 620 sillas.",
+          "is_correct": true,
+          "feedback": "Correcto. La fila 20 tiene 50 sillas y $S_{20} = \\frac{20(12 + 50)}{2} = 620$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las sillas por fila forman la aritmética con $a_1 = 12$ y $d = 2$. La fila 20 tiene $a_{20} = 12 + 2 \\cdot 19 = 50$ sillas. El total es $S_{20} = \\frac{20(12 + 50)}{2} = 620$ sillas, superior a los 600 asistentes. La decisión se fundamenta en comparar el total calculado con la demanda.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W20-sucesiones-aritmeticas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

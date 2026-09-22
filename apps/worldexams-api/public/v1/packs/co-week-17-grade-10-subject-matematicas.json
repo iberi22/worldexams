@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.099Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v1",
+      "statement": "El principio multiplicativo establece que si una decisión tiene $m$ opciones y otra decisión tiene $n$ opciones, el número total de posibilidades combinadas es:",
+      "context": "En Bogotá, la profesora Valentina explica el principio multiplicativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m \\cdot n$",
+          "is_correct": true,
+          "feedback": "Correcto. Las opciones se multiplican."
+        },
+        {
+          "letter": "B",
+          "text": "$m + n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se suman solo cuando las decisiones son excluyentes."
+        },
+        {
+          "letter": "C",
+          "text": "$m^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería si cada decisión repitiera $m$ opciones $n$ veces."
+        },
+        {
+          "letter": "D",
+          "text": "$n^m$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exponenciación no corresponde al principio multiplicativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si una etapa tiene $m$ formas de ocurrir y otra $n$ formas independientes, el total de combinaciones es $m \\cdot n$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se calcula el número de permutaciones de $n$ elementos distintos?",
+      "context": "En Medellín, se repasa la fórmula de las permutaciones de elementos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las permutaciones no son una potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{n(n+1)}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma de los primeros naturales."
+        },
+        {
+          "letter": "C",
+          "text": "$n!$",
+          "is_correct": true,
+          "feedback": "Correcto. Las permutaciones de $n$ elementos son $n!$."
+        },
+        {
+          "letter": "D",
+          "text": "$2^n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso cuenta subconjuntos, no ordenaciones completas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El número de formas de ordenar $n$ elementos distintos es $n! = n \\cdot (n-1) \\cdot (n-2) \\cdots 1$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la diferencia clave entre una permutación y una combinación?",
+      "context": "En Cali, se compara cuándo usar permutaciones y cuándo combinaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las permutaciones no usan factoriales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas usan factoriales."
+        },
+        {
+          "letter": "B",
+          "text": "En la permutación el orden importa; en la combinación no.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la distinción fundamental."
+        },
+        {
+          "letter": "C",
+          "text": "Las combinaciones siempre dan un número mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las permutaciones dan números mayores porque cuentan más."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia entre ambas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Difieren en si el orden de los elementos importa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una permutación el orden de los elementos produce resultados distintos; en una combinación, conjuntos con los mismos elementos en distinto orden son iguales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v4",
+      "statement": "El restaurante ofrece 3 sopas, 4 platos fuertes y 2 postres. ¿Cuántos menús distintos de sopa, plato y postre se pueden armar?",
+      "context": "En Cartagena, un restaurante publica su menú del día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las opciones en lugar de multiplicarlas."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo multiplicaste sopas por platos."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste todos los elementos del menú."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. $3 \\cdot 4 \\cdot 2 = 24$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por el principio multiplicativo, el total de menús es $3 \\cdot 4 \\cdot 2 = 24$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v5",
+      "statement": "¿De cuántas formas se pueden ordenar 5 libros distintos en un estante?",
+      "context": "En Barranquilla, se organizan cinco libros distintos en un estante de la biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": true,
+          "feedback": "Correcto. $5! = 120$."
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $5^2$, no una permutación."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $4!$, no $5!$."
+        },
+        {
+          "letter": "D",
+          "text": "720",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $6!$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ordenar 5 libros distintos es una permutación: $5! = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 120$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v6",
+      "statement": "¿De cuántas formas se pueden elegir 2 representantes de un grupo de 6 estudiantes?",
+      "context": "En Pereira, un curso de 6 estudiantes debe elegir 2 representantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería $6 \\cdot 2$, que no es una combinación."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $6 \\cdot 5$, que cuenta el orden."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. $C(6,2) = \\frac{6!}{2! \\cdot 4!} = 15$."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el tamaño del grupo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como el orden no importa, se usa la combinación $C(6,2) = \\frac{6!}{2! \\cdot 4!} = \\frac{6 \\cdot 5}{2} = 15$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v7",
+      "statement": "Ana, Bruno, Camila y Diego se toman una foto en fila, pero Ana y Bruno deben quedar juntos. ¿De cuántas formas pueden organizarse?",
+      "context": "En Manizales, cuatro amigos se toman una foto en fila con una condición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $4!$ sin la restricción."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Se trata al bloque como un elemento: $3! \\cdot 2! = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste ordenar a Ana y Bruno entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "48",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el resultado sin justificación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se forma el bloque (Ana, Bruno) con $2!$ ordenes internos. Quedan 3 elementos (el bloque, Camila y Diego), con $3! = 6$ ordenes. Total: $3! \\cdot 2! = 12$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v8",
+      "statement": "De un grupo de 5 mujeres y 4 hombres se debe elegir un comité de 3 personas con al menos una mujer. ¿De cuántas formas?",
+      "context": "En Cúcuta, se forma un comité de estudiantes con una condición de género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la resta del total con el caso sin mujeres."
+        },
+        {
+          "letter": "B",
+          "text": "84",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el total de comités sin la restricción."
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste mal las combinaciones válidas."
+        },
+        {
+          "letter": "D",
+          "text": "80",
+          "is_correct": true,
+          "feedback": "Correcto. $C(9,3) - C(4,3) = 84 - 4 = 80$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El total de comités es $C(9,3) = 84$. Los comités sin mujeres son $C(4,3) = 4$. Los que tienen al menos una mujer son $84 - 4 = 80$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v9",
+      "statement": "Con los dígitos 1, 2, 3 y 4, ¿cuántos números de 3 cifras distintas se pueden formar?",
+      "context": "En Pasto, se forman números de tres cifras con dígitos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. $P(4,3) = 4 \\cdot 3 \\cdot 2 = 24$."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo contaste $4 \\cdot 3$."
+        },
+        {
+          "letter": "C",
+          "text": "64",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $4^3$, que permite repetir dígitos."
+        },
+        {
+          "letter": "D",
+          "text": "81",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $3^4$, un cálculo equivocado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como el orden de las cifras importa y no se repiten, se usa $P(4,3) = 4 \\cdot 3 \\cdot 2 = 24$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v10",
+      "statement": "Se deben elegir 3 delegados entre 8 candidatos sin asignarles cargos distintos. ¿Se usa permutación o combinación y por qué?",
+      "context": "En Ibagué, un curso debe elegir 3 delegados entre 8 candidatos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permutación, porque hay 8 candidatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de candidatos no define la técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Permutación, porque los delegados cumplen cargos distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los delegados cumplen la misma función."
+        },
+        {
+          "letter": "C",
+          "text": "Combinación, porque los 3 delegados cumplen la misma función y el orden no importa.",
+          "is_correct": true,
+          "feedback": "Correcto. Elegir a Juan, Ana y Luis es lo mismo en cualquier orden."
+        },
+        {
+          "letter": "D",
+          "text": "Combinación, porque 8 > 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón es el orden, no la relación entre los números."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como los tres delegados cumplen el mismo rol, el orden de elección no produce comités distintos, por lo que se usa la combinación $C(8,3)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v11",
+      "statement": "Una placa se forma con 2 letras seguidas de 3 dígitos. El alfabeto tiene 26 letras y hay 10 dígitos. ¿Cuántas placas distintas se pueden formar si no se repiten letras ni dígitos?",
+      "context": "En Villavicencio, se calculan las placas posibles para la nueva flota de un municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "468",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste los órdenes de magnitud del producto."
+        },
+        {
+          "letter": "B",
+          "text": "468000",
+          "is_correct": true,
+          "feedback": "Correcto. $26 \\cdot 25 \\cdot 10 \\cdot 9 \\cdot 8 = 468000$."
+        },
+        {
+          "letter": "C",
+          "text": "676000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Permites repetir letras: $26^2 \\cdot 10^3$."
+        },
+        {
+          "letter": "D",
+          "text": "650000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repites los dígitos en lugar de excluirlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin repetición, las letras dan $26 \\cdot 25$ opciones y los dígitos $10 \\cdot 9 \\cdot 8$. El total es $26 \\cdot 25 \\cdot 10 \\cdot 9 \\cdot 8 = 468000$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v12",
+      "statement": "Para repartir 3 premios idénticos entre 7 participantes se usa combinación, pero para repartir 3 medallas (oro, plata, bronce) se usa permutación. ¿Cuál es la razón?",
+      "context": "En Armenia, se reparten premios y medallas en una olimpiada escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los premios idénticos son más difíciles de repartir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad no define la técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Las medallas son de distinto color.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color en sí no es la razón matemática."
+        },
+        {
+          "letter": "C",
+          "text": "Hay más participantes que premios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa condición es igual en ambos casos."
+        },
+        {
+          "letter": "D",
+          "text": "Con premios idénticos el orden no importa; con medallas distinguibles el orden sí importa.",
+          "is_correct": true,
+          "feedback": "Correcto. Los premios iguales se cuentan como combinación y las medallas como permutación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los premios idénticos no distinguen al ganador por posición, así que se cuentan con combinaciones. Las medallas de oro, plata y bronce distinguen el puesto, por lo que se cuentan con permutaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

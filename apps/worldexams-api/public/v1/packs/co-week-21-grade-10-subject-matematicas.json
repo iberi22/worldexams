@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.101Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de sucesión es $2, 6, 18, 54, \\ldots$?",
+      "context": "En Bogotá, la profesora Mariana escribe la sucesión $2, 6, 18, 54, \\ldots$ y pide clasificarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aritmética, porque los términos crecen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia no es constante; el cociente sí lo es."
+        },
+        {
+          "letter": "B",
+          "text": "Aritmética, porque la diferencia entre términos es 4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia es 4 solo entre los dos primeros términos."
+        },
+        {
+          "letter": "C",
+          "text": "Geométrica, porque el cociente entre términos consecutivos es constante.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada término se obtiene multiplicando por 3 al anterior."
+        },
+        {
+          "letter": "D",
+          "text": "Geométrica, porque la diferencia entre términos es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió la razón con la diferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una sucesión geométrica tiene razón constante entre términos consecutivos. Aquí $6 \\div 2 = 3$, $18 \\div 6 = 3$ y $54 \\div 18 = 3$, por lo que la razón es $r = 3$ y la sucesión es geométrica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el primer término y la razón de la sucesión?",
+      "context": "En Medellín, Santiago identifica el primer término y la razón de la sucesión $5, 10, 20, 40, \\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_1 = 5$ y $r = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada término duplica al anterior: $10 \\div 5 = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$a_1 = 5$ y $r = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10 \\div 5$ es 2, no 5."
+        },
+        {
+          "letter": "C",
+          "text": "$a_1 = 5$ y $r = 0.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa razón indicaría que la sucesión decrece."
+        },
+        {
+          "letter": "D",
+          "text": "$a_1 = 2$ y $r = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundieron el primer término y la razón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El primer término es $a_1 = 5$. La razón se calcula dividiendo términos consecutivos: $r = 10 \\div 5 = 2$. Una razón mayor que 1 indica que la sucesión crece.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el término general $a_n$ de la sucesión?",
+      "context": "En Cali, se escribe el término general de una sucesión geométrica con $a_1 = 3$ y $r = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_n = 3 + 2(n - 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula de una sucesión aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "$a_n = 3 \\cdot 2n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El multiplicador debe ser una potencia de la razón."
+        },
+        {
+          "letter": "C",
+          "text": "$a_n = 3 \\cdot 2^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. El término general geométrico es $a_n = a_1 \\cdot r^{n-1} = 3 \\cdot 2^{n-1}$."
+        },
+        {
+          "letter": "D",
+          "text": "$a_n = 3^n \\cdot 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base de la potencia es la razón, no el primer término."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El término general de una sucesión geométrica es $a_n = a_1 \\cdot r^{n-1}$. Con $a_1 = 3$ y $r = 2$, queda $a_n = 3 \\cdot 2^{n-1}$. Verificar $n = 1, 2, 3$ reproduce los términos esperados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el término $a_6$ de la sucesión?",
+      "context": "En Barranquilla, Mariana usa la fórmula del término general para la sucesión $1, 3, 9, 27, \\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se aplicó una fórmula aritmética en lugar de geométrica."
+        },
+        {
+          "letter": "B",
+          "text": "$81$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el término $a_5$, no $a_6$."
+        },
+        {
+          "letter": "C",
+          "text": "$729$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó el exponente $n$ en vez de $n - 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$243$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_6 = 1 \\cdot 3^{5} = 243$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con $a_1 = 1$ y $r = 3$, el término general es $a_n = 3^{n-1}$. Para $n = 6$: $a_6 = 3^5 = 243$. El error común es calcular $3^6 = 729$, olvidando que el exponente es $n - 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál será la población después de 5 horas si se parte de 10 bacterias?",
+      "context": "En Medellín, una bacteria se duplica cada hora. Santiago modela la población con la sucesión $10, 20, 40, 80, \\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50$ bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería una suma aritmética, no una duplicación."
+        },
+        {
+          "letter": "B",
+          "text": "$160$ bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor a las 4 horas."
+        },
+        {
+          "letter": "C",
+          "text": "$320$ bacterias",
+          "is_correct": true,
+          "feedback": "Correcto. Tras 5 horas la población es $10 \\cdot 2^5 = 320$."
+        },
+        {
+          "letter": "D",
+          "text": "$640$ bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se contó la hora inicial como una duplicación de más."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La población es geométrica con $a_1 = 10$ y $r = 2$. Después de 5 horas se aplican 5 duplicaciones: $10 \\cdot 2^5 = 320$. La duplicación acumula multiplicaciones por 2, por lo que crece exponencialmente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la suma de los primeros 4 términos?",
+      "context": "En Cali, Mariana calcula la suma de los primeros términos de la sucesión geométrica $4, 12, 36, 108, \\ldots$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$160$",
+          "is_correct": true,
+          "feedback": "Correcto. $S_4 = 4 + 12 + 36 + 108 = 160$."
+        },
+        {
+          "letter": "B",
+          "text": "$108$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se consideró el último término."
+        },
+        {
+          "letter": "C",
+          "text": "$120$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó sumar el primer término 4."
+        },
+        {
+          "letter": "D",
+          "text": "$164$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un término adicional de más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma directa es $S_4 = 4 + 12 + 36 + 108 = 160$. También se puede usar $S_n = \\frac{a_1(r^n - 1)}{r - 1}$: $S_4 = \\frac{4(3^4 - 1)}{3 - 1} = \\frac{4 \\cdot 80}{2} = 160$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la razón $r$ de la sucesión?",
+      "context": "En Barranquilla, Santiago analiza la razón de la sucesión geométrica donde $a_2 = 6$ y $a_4 = 54$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$r = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió 54 entre 6 sin considerar la distancia entre posiciones."
+        },
+        {
+          "letter": "B",
+          "text": "$r = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_4 = a_2 \\cdot r^2$, luego $54 = 6r^2$ y $r^2 = 9$, por lo que $r = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$r = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 es $r^2$, no la razón."
+        },
+        {
+          "letter": "D",
+          "text": "$r = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2^2 = 4$, y $6 \\cdot 4 = 24 \\neq 54$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entre $a_2$ y $a_4$ hay dos pasos de razón $r$: $a_4 = a_2 \\cdot r^2$. Entonces $54 = 6 r^2$, luego $r^2 = 9$ y $r = 3$ (razón positiva). Es clave contar la distancia entre posiciones antes de extraer la raíz.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la suma de los primeros 5 términos?",
+      "context": "En Bogotá, Mariana suma los primeros 5 términos de la sucesión geométrica $2, 6, 18, 54, \\ldots$ con la fórmula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el último término en la suma."
+        },
+        {
+          "letter": "B",
+          "text": "$161$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó 1 de más al aplicar la fórmula."
+        },
+        {
+          "letter": "C",
+          "text": "$242$",
+          "is_correct": true,
+          "feedback": "Correcto. $S_5 = \\frac{2(3^5 - 1)}{3 - 1} = \\frac{2 \\cdot 242}{2} = 242$."
+        },
+        {
+          "letter": "D",
+          "text": "$243$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es $3^5$, no la suma de la sucesión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con $a_1 = 2$ y $r = 3$: $S_5 = \\frac{a_1(r^5 - 1)}{r - 1} = \\frac{2(243 - 1)}{2} = 242$. La suma directa $2 + 6 + 18 + 54 + 162 = 242$ confirma el resultado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v9",
+      "statement": "Si $a_1 = 8$ y $r = \\frac{1}{2}$, ¿cuál es la suma de los primeros 4 términos?",
+      "context": "En Medellín, Santiago estudia la suma de los primeros términos de una sucesión geométrica con razón entre 0 y 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron términos de forma incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": true,
+          "feedback": "Correcto. $8 + 4 + 2 + 1 = 15$."
+        },
+        {
+          "letter": "C",
+          "text": "$7.5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó la fórmula de la suma infinita."
+        },
+        {
+          "letter": "D",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó un término de más."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sucesión es $8, 4, 2, 1$, cuya suma es 15. Con la fórmula: $S_4 = \\frac{8((1/2)^4 - 1)}{1/2 - 1} = \\frac{8(1/16 - 1)}{-1/2} = 15$. Cuando $0 < r < 1$ la sucesión decrece.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué plan produce más dinero después de 4 años?",
+      "context": "En Cali, Mariana compara dos planes de inversión. El plan A multiplica el capital por 1.5 cada año; el plan B agrega \\$50.000 COP fijos anuales. Parte de \\$100.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plan B, porque la suma de aumentos fijos es mayor al inicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento multiplicativo supera al fijo a mediano plazo."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos producen lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los totales difieren."
+        },
+        {
+          "letter": "C",
+          "text": "El plan B, porque nunca pierde dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno pierde dinero, pero eso no define cuál es mayor."
+        },
+        {
+          "letter": "D",
+          "text": "El plan A, porque crece multiplicativamente.",
+          "is_correct": true,
+          "feedback": "Correcto. El plan A alcanza $100.000 \\cdot 1{,}5^4 = 506.250$ COP."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El plan A es geométrico: $a_4 = 100.000 \\cdot 1{,}5^3 = 337.500$ COP como cuarto incremento, y el total acumulado tras 4 años es $S_4 = \\frac{100.000(1{,}5^4 - 1)}{1{,}5 - 1} = \\frac{100.000(5{,}0625 - 1)}{0{,}5} = 812.500$ COP. El plan B acumula $4 \\cdot 50.000 = 200.000$ COP más el capital inicial de 100.000, es decir 300.000 COP. El crecimiento multiplicativo domina al fijo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la suma de la serie geométrica infinita?",
+      "context": "En Bogotá, Santiago evalúa si la suma de los términos de la sucesión geométrica infinita $9, 3, 1, \\frac{1}{3}, \\ldots$ converge.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe, porque la serie diverge.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con razón menor que 1 en valor absoluto, la serie converge."
+        },
+        {
+          "letter": "B",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron los primeros términos sin usar la fórmula infinita."
+        },
+        {
+          "letter": "C",
+          "text": "$13.5$",
+          "is_correct": true,
+          "feedback": "Correcto. $S_\\infty = \\frac{9}{1 - 1/3} = \\frac{9}{2/3} = 13{,}5$."
+        },
+        {
+          "letter": "D",
+          "text": "$27$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó $9 \\cdot 3$ en lugar de dividir por $1 - r$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La razón es $r = \\frac{1}{3}$, con $|r| < 1$, por lo que la serie converge. La suma infinita es $S_\\infty = \\frac{a_1}{1 - r} = \\frac{9}{1 - 1/3} = \\frac{9}{2/3} = 13{,}5$. La convergencia ocurre solo cuando la razón está entre -1 y 1.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el menor número de términos necesarios para que la suma supere 1.000?",
+      "context": "En Barranquilla, Mariana decide cuántos términos de la sucesión $1, 2, 4, 8, \\ldots$ debe sumar para superar 1.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ términos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de 8 términos es 255, muy por debajo de 1.000."
+        },
+        {
+          "letter": "B",
+          "text": "$9$ términos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de 9 términos es 511."
+        },
+        {
+          "letter": "C",
+          "text": "$11$ términos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 10 términos ya se supera 1.000."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ términos",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de 10 términos es 1.023, mayor que 1.000."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La suma de los primeros $n$ términos es $S_n = \\frac{1(2^n - 1)}{2 - 1} = 2^n - 1$. Se busca $2^n - 1 > 1.000$, es decir $2^n > 1.001$. Como $2^9 = 512$ y $2^{10} = 1.024$, el menor $n$ es 10, con suma $S_{10} = 1.023$. La potencia de 2 crece lo bastante para superar 1.000 en el décimo término.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W21-sucesiones-geometricas-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
