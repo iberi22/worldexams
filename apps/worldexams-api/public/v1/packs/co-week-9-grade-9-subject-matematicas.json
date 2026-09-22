@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T01:49:11.707Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el valor de $\\operatorname{sen} \\theta$?",
+      "context": "En Bogotá, un triángulo rectángulo tiene un ángulo agudo $\\theta$, con cateto opuesto de $3$ cm e hipotenusa de $5$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. El seno es cateto opuesto sobre hipotenusa: $\\frac{3}{5}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la razón: la hipotenusa siempre va en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{4}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al coseno, no al seno del ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la tangente, que usa el cateto adyacente en vez de la hipotenusa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por definición, $\\operatorname{sen} \\theta = \\frac{\\text{opuesto}}{\\text{hipotenusa}} = \\frac{3}{5} = 0.6$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la longitud de la hipotenusa del triángulo?",
+      "context": "En Medellín, un estudiante dibuja un triángulo rectángulo con catetos de $6$ cm y $8$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los catetos; debes usar el teorema de Pitágoras con cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los catetos y dividiste entre 4, lo cual no aplica aquí."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. $h = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$."
+        },
+        {
+          "letter": "D",
+          "text": "$28$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número no resulta de ninguna operación válida con los catetos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El teorema de Pitágoras indica $h = \\sqrt{6^2 + 8^2} = \\sqrt{100} = 10$ cm.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor de $\\cos \\theta$?",
+      "context": "En Cali, un triángulo rectángulo tiene hipotenusa de $5$ cm, cateto opuesto de $3$ cm y cateto adyacente de $4$ cm respecto al ángulo $\\theta$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente es el seno del ángulo, no el coseno."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{4}{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno es cateto adyacente sobre hipotenusa: $\\frac{4}{5}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción y el resultado supera 1, imposible para un coseno."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa razón es la tangente del ángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $\\cos \\theta = \\frac{\\text{adyacente}}{\\text{hipotenusa}}$, se obtiene $\\cos \\theta = \\frac{4}{5} = 0.8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de $\\tan \\theta$?",
+      "context": "En Barranquilla, un triángulo rectángulo tiene cateto opuesto de $5$ m y cateto adyacente de $12$ m respecto al ángulo $\\theta$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{12}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la cotangente, la razón recíproca de la tangente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{13}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la hipotenusa ($13$) en vez del cateto opuesto."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{12}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente es el coseno del ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{12}$",
+          "is_correct": true,
+          "feedback": "Correcto. La tangente es opuesto sobre adyacente: $\\frac{5}{12}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tangente se define como $\\tan \\theta = \\frac{5}{12}$, pues divide el cateto opuesto entre el adyacente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la altura que alcanza la parte alta del tobogán?",
+      "context": "En Bucaramanga, un tobogán recto de $10$ m de largo forma un ángulo de $30°$ con el suelo. Se sabe que $\\operatorname{sen} 30° = \\frac{1}{2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre el seno en vez de multiplicar por él."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Altura $= 10 \\cdot \\operatorname{sen} 30° = 10 \\cdot \\frac{1}{2} = 5$ m."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la longitud del tobogán con la altura vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$2$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la longitud entre 5 sin justificación trigonométrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cateto opuesto al ángulo es la altura: $h = 10 \\cdot \\operatorname{sen} 30° = 10 \\cdot 0.5 = 5$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la longitud de la rampa (hipotenusa)?",
+      "context": "En Pereira, una rampa forma un ángulo de $60°$ con el piso. La proyección horizontal de la rampa (cateto adyacente) mide $6$ m. Se sabe que $\\cos 60° = \\frac{1}{2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por el coseno en vez de dividir entre él."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la proyección horizontal con la longitud de la rampa."
+        },
+        {
+          "letter": "C",
+          "text": "$12$ m",
+          "is_correct": true,
+          "feedback": "Correcto. $L = \\frac{6}{\\cos 60°} = \\frac{6}{1/2} = 12$ m."
+        },
+        {
+          "letter": "D",
+          "text": "$18$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 3 sin relación con la razón trigonométrica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $\\cos 60° = \\frac{6}{L}$, se despeja $L = \\frac{6}{0.5} = 12$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v7",
+      "statement": "Si $\\theta$ es el ángulo de elevación del sol sobre el horizonte, ¿qué razón trigonométrica lo determina?",
+      "context": "En Cartagena, un poste de luz de $6$ m proyecta una sombra de $8$ m sobre el suelo plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\operatorname{sen} \\theta = \\frac{6}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el cálculo usa valores válidos, la tangente relaciona directamente altura y sombra."
+        },
+        {
+          "letter": "B",
+          "text": "$\\tan \\theta = \\frac{3}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan \\theta = \\frac{6}{8} = \\frac{3}{4}$, pues relaciona el poste con su sombra."
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan \\theta = \\frac{8}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los catetos: la altura va en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$\\cos \\theta = \\frac{10}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente supera 1 y ningún coseno puede valer más de 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ángulo de elevación cumple $\\tan \\theta = \\frac{\\text{altura}}{\\text{sombra}} = \\frac{6}{8} = \\frac{3}{4}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v8",
+      "statement": "¿A qué altura sobre el suelo se encuentra la cometa?",
+      "context": "En Medellín, un niño eleva una cometa con una cuerda tensa de $50$ m que forma un ángulo de $30°$ con el suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cuerda es la hipotenusa, no la altura vertical."
+        },
+        {
+          "letter": "B",
+          "text": "$25\\sqrt{3}$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el coseno, que da la distancia horizontal y no la altura."
+        },
+        {
+          "letter": "C",
+          "text": "$100$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la cuerda en vez de multiplicarla por el seno."
+        },
+        {
+          "letter": "D",
+          "text": "$25$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Altura $= 50 \\cdot \\operatorname{sen} 30° = 50 \\cdot \\frac{1}{2} = 25$ m."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La altura es el cateto opuesto al ángulo: $h = 50 \\cdot \\operatorname{sen} 30° = 25$ m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la altura del muro?",
+      "context": "En Bogotá, un observador se ubica a $20$ m de la base de un muro y mide un ángulo de elevación de $45°$ hasta lo alto del muro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ m",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\tan 45° = 1$, la altura iguala la distancia: $20 \\cdot 1 = 20$ m."
+        },
+        {
+          "letter": "B",
+          "text": "$10$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la distancia entre 2 sin fundamento trigonométrico."
+        },
+        {
+          "letter": "C",
+          "text": "$20\\sqrt{3}$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la tangente de $60°$ en vez de la de $45°$."
+        },
+        {
+          "letter": "D",
+          "text": "$40$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la distancia en vez de multiplicarla por $\\tan 45° = 1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $\\tan 45° = \\frac{h}{20} = 1$, se concluye que $h = 20$ m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuánto vale $\\cos(90° - \\theta)$?",
+      "context": "En Manizales, un docente explica que en todo triángulo rectángulo los dos ángulos agudos son complementarios. En un ejemplo se tiene $\\operatorname{sen} \\theta = 0.6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $\\cos \\theta$, no del ángulo complementario."
+        },
+        {
+          "letter": "B",
+          "text": "$0.4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste de 1, pero las cofunciones no funcionan por resta."
+        },
+        {
+          "letter": "C",
+          "text": "$0.6$",
+          "is_correct": true,
+          "feedback": "Correcto. Por cofunción, $\\cos(90° - \\theta) = \\operatorname{sen} \\theta = 0.6$."
+        },
+        {
+          "letter": "D",
+          "text": "$1.6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 1 al seno; ninguna razón de un ángulo agudo supera 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los ángulos complementarios intercambian seno y coseno, así que $\\cos(90° - \\theta) = \\operatorname{sen} \\theta = 0.6$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación correcta de su afirmación?",
+      "context": "En Armenia, Valentina afirma que encontró un ángulo agudo $\\alpha$ cuyo seno vale $1.2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es posible si el triángulo es muy grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño del triángulo no cambia las razones, que dependen solo del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Es imposible, pues el cateto opuesto nunca supera la hipotenusa y el seno está entre 0 y 1",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\operatorname{sen} \\alpha = \\frac{\\text{opuesto}}{\\text{hipotenusa}}$, jamás supera 1."
+        },
+        {
+          "letter": "C",
+          "text": "Es posible si el ángulo supera los $90°$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Además de que $\\alpha$ es agudo, el seno tampoco llega a 1.2 en ese caso."
+        },
+        {
+          "letter": "D",
+          "text": "Es posible porque el seno no tiene límite superior",
+          "is_correct": false,
+          "feedback": "Incorrecto. El seno sí está acotado: para ángulos agudos vive entre 0 y 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo rectángulo la hipotenusa es el lado mayor, luego $\\operatorname{sen} \\alpha < 1$ siempre y el valor $1.2$ es imposible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el error cometido y el valor correcto de la tangente?",
+      "context": "En Cúcuta, un estudiante trabaja con un triángulo de cateto opuesto $5$, cateto adyacente $12$ e hipotenusa $13$. Divide $13$ entre $12$ y responde que la tangente vale $\\frac{13}{12}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor correcto es $\\frac{12}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente es el coseno, no corrige el error con la tangente."
+        },
+        {
+          "letter": "B",
+          "text": "El valor correcto es $\\frac{12}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la cotangente, la razón inversa de la pedida."
+        },
+        {
+          "letter": "C",
+          "text": "El valor correcto es $\\frac{5}{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cociente es el seno del ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Confundió la definición: $\\tan \\theta = \\frac{\\text{opuesto}}{\\text{adyacente}} = \\frac{5}{12}$",
+          "is_correct": true,
+          "feedback": "Correcto. Usó la hipotenusa en vez del cateto opuesto; la tangente correcta es $\\frac{5}{12}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tangente jamás usa la hipotenusa: $\\tan \\theta = \\frac{5}{12}$, de modo que dividir $13$ entre $12$ fue el error.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W09-razones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
