@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T01:49:11.706Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la expresión correcta para la probabilidad compuesta de que ocurran ambos eventos $A$ y $B$?",
+      "context": "En Bogotá, la profesora explica dos eventos independientes $A$ y $B$ del juego de la ruleta del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P(A \\text{ y } B) = P(A) \\times P(B)$",
+          "is_correct": true,
+          "feedback": "Correcto. Para eventos independientes, la probabilidad conjunta es el producto de las probabilidades."
+        },
+        {
+          "letter": "B",
+          "text": "$P(A \\text{ y } B) = P(A) + P(B)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma corresponde a la unión de eventos excluyentes, no a la ocurrencia conjunta."
+        },
+        {
+          "letter": "C",
+          "text": "$P(A \\text{ y } B) = P(A) - P(B)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta no define ninguna probabilidad compuesta."
+        },
+        {
+          "letter": "D",
+          "text": "$P(A \\text{ y } B) = \\frac{P(A)}{P(B)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cociente no representa la ocurrencia simultánea de ambos eventos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando dos eventos son independientes, la ocurrencia de uno no afecta al otro y la probabilidad de que sucedan los dos es el producto $P(A) \\times P(B)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v2",
+      "statement": "¿Qué ocurre con la probabilidad de la segunda extracción al no devolver la primera bola?",
+      "context": "En Medellín, una urna contiene $5$ bolas rojas y $3$ bolas azules. Valentina extrae una bola y no la devuelve a la urna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las probabilidades se mantienen iguales porque cada extracción es independiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin reposición, la primera extracción sí modifica las condiciones de la segunda."
+        },
+        {
+          "letter": "B",
+          "text": "El total se reduce a $7$ bolas y las probabilidades de la segunda extracción cambian",
+          "is_correct": true,
+          "feedback": "Correcto. Sin reposición, el espacio muestral se reduce y los eventos quedan encadenados."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda extracción siempre tiene probabilidad de $\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad depende de la composición que quede en la urna."
+        },
+        {
+          "letter": "D",
+          "text": "El total aumenta a $9$ bolas porque se suma la bola extraída",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al no devolver la bola, el total disminuye, no aumenta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Extraer sin reposición genera eventos dependientes: después de sacar una bola quedan $7$ bolas y las probabilidades de la segunda extracción se calculan sobre ese nuevo total.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la probabilidad de obtener cara en los dos lanzamientos?",
+      "context": "En Cali, Juan lanza una moneda legal dos veces seguidas para decidir quién inicia el partido de microfútbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a un solo lanzamiento, no a los dos combinados."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay tres resultados posibles en este experimento."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. $P(\\text{cara y cara}) = \\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al complemento de obtener dos caras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los lanzamientos son independientes: $\\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$. El diagrama de árbol muestra un solo camino favorable entre cuatro caminos posibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la probabilidad de obtener un $5$ en el primer lanzamiento y un número par en el segundo?",
+      "context": "En Barranquilla, se lanza un dado legal dos veces durante la fiesta del Carnavalito escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{12}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{6} \\times \\frac{3}{6} = \\frac{3}{36} = \\frac{1}{12}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde solo al primer lanzamiento."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades en vez de multiplicarlas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde solo a obtener un número par en un lanzamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los lanzamientos son independientes: $P(5) = \\frac{1}{6}$ y $P(\\text{par}) = \\frac{3}{6} = \\frac{1}{2}$. El producto es $\\frac{1}{6} \\times \\frac{1}{2} = \\frac{1}{12}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la probabilidad de extraer primero una ficha verde y después una amarilla?",
+      "context": "En Bucaramanga, una caja tiene $4$ fichas verdes y $6$ fichas amarillas. Se extraen dos fichas seguidas sin reposición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $\\frac{4}{10} \\times \\frac{6}{6}$ sin reducir el total de la segunda extracción."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor no corresponde al producto de las fracciones encadenadas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste como si la segunda extracción fuera sobre $10$ fichas con reposición parcial."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{15}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{4}{10} \\times \\frac{6}{9} = \\frac{24}{90} = \\frac{4}{15}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sin reposición, la segunda extracción se calcula sobre $9$ fichas: $\\frac{4}{10} \\times \\frac{6}{9} = \\frac{24}{90} = \\frac{4}{15}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la probabilidad de que las dos bolas extraídas sean rojas?",
+      "context": "En Pereira, una bolsa contiene $3$ bolas rojas y $2$ bolas blancas. Se extrae una bola, se devuelve a la bolsa y luego se extrae otra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo supone extracción sin reposición y olvida devolver la primera bola."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{9}{25}$",
+          "is_correct": true,
+          "feedback": "Correcto. Con reposición, $\\frac{3}{5} \\times \\frac{3}{5} = \\frac{9}{25}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{6}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades y el resultado supera a $1$, lo cual es imposible."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a extraer una bola blanca en un intento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con reposición, la composición se mantiene: $P(\\text{roja}) = \\frac{3}{5}$ en cada extracción. Entonces $\\frac{3}{5} \\times \\frac{3}{5} = \\frac{9}{25}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la probabilidad de acertar exactamente una de las dos preguntas?",
+      "context": "En Manizales, un examen tiene dos preguntas. La probabilidad de acertar la primera es $0.7$ y la de acertar la segunda es $0.6$, de forma independiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.46$",
+          "is_correct": true,
+          "feedback": "Correcto. $0.7 \\times 0.4 + 0.3 \\times 0.6 = 0.28 + 0.18 = 0.46$."
+        },
+        {
+          "letter": "B",
+          "text": "$0.42$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la probabilidad de acertar las dos preguntas, no exactamente una."
+        },
+        {
+          "letter": "C",
+          "text": "$0.58$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el complemento de acertar ambas, lo cual incluye fallar las dos."
+        },
+        {
+          "letter": "D",
+          "text": "$1.3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades y el resultado supera a $1$, lo cual es imposible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Exactamente una correcta reúne dos caminos del árbol: acertar solo la primera ($0.7 \\times 0.4 = 0.28$) o solo la segunda ($0.3 \\times 0.6 = 0.18$). La suma es $0.46$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor de la probabilidad condicional $P(B \\mid A)$?",
+      "context": "En Pasto, en una encuesta escolar se sabe que $P(A \\text{ y } B) = 0.3$ y que $P(A) = 0.6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los datos en vez de aplicar el cociente de la probabilidad condicional."
+        },
+        {
+          "letter": "B",
+          "text": "$0.5$",
+          "is_correct": true,
+          "feedback": "Correcto. $P(B \\mid A) = \\frac{0.3}{0.6} = 0.5$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los datos, lo cual invierte la relación condicional."
+        },
+        {
+          "letter": "D",
+          "text": "$2.0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste al revés $\\frac{0.6}{0.3}$ y el resultado supera a $1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La probabilidad condicional se define como $P(B \\mid A) = \\frac{P(A \\text{ y } B)}{P(A)} = \\frac{0.3}{0.6} = 0.5$. Expresa la probabilidad de $B$ sabiendo que $A$ ya ocurrió.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la probabilidad de obtener exactamente dos caras en los tres lanzamientos?",
+      "context": "En Cúcuta, se lanza una moneda legal tres veces seguidas en el torneo de juegos de mesa del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a una sola secuencia ordenada, como cara-cara-cruz."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo contaste dos de las tres secuencias favorables."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{8}$",
+          "is_correct": true,
+          "feedback": "Correcto. Hay $3$ secuencias favorables entre $8$ posibles: $\\frac{3}{8}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a obtener al menos una cara, no exactamente dos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El espacio muestral tiene $2^3 = 8$ secuencias. Las favorables son cara-cara-cruz, cara-cruz-cara y cruz-cara-cara: $3$ casos. Por tanto $P = \\frac{3}{8}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la probabilidad de que las dos balotas sean del mismo color?",
+      "context": "En Armenia, una caja contiene $5$ balotas azules y $3$ balotas rojas. Se extraen dos balotas seguidas sin reposición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asumiste simetría entre los colores, pero hay más balotas azules que rojas."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{17}{32}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo supone reposición y conserva $\\frac{5}{8}$ y $\\frac{3}{8}$ en ambas extracciones."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{14}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo contaste el caso azul-azul y olvidaste el caso rojo-rojo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{13}{28}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{5}{8} \\times \\frac{4}{7} + \\frac{3}{8} \\times \\frac{2}{7} = \\frac{20}{56} + \\frac{6}{56} = \\frac{26}{56} = \\frac{13}{28}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Mismo color reúne dos caminos: azul-azul ($\\frac{5}{8} \\times \\frac{4}{7} = \\frac{20}{56}$) y rojo-rojo ($\\frac{3}{8} \\times \\frac{2}{7} = \\frac{6}{56}$). La suma es $\\frac{26}{56} = \\frac{13}{28}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál procedimiento es correcto y cuál es la probabilidad exacta?",
+      "context": "En Cartagena, cuatro estudiantes proponen procedimientos distintos para calcular la probabilidad de que la suma de dos dados legales sea $7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar los $6$ casos favorables $(1,6)$, $(2,5)$, $(3,4)$, $(4,3)$, $(5,2)$, $(6,1)$ sobre $36$ resultados: $P = \\frac{1}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. El espacio muestral tiene $36$ parejas ordenadas y $6$ de ellas suman $7$."
+        },
+        {
+          "letter": "B",
+          "text": "Tomar la suma $7$ como casos favorables sobre $36$ resultados: $P = \\frac{7}{36}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de los puntos no es el número de casos favorables."
+        },
+        {
+          "letter": "C",
+          "text": "Contar las $11$ sumas posibles del $2$ al $12$ como espacio muestral: $P = \\frac{1}{11}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las $11$ sumas no son equiprobables, así que ese espacio muestral no sirve."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar $\\frac{2}{6} \\times \\frac{2}{6}$ porque el $7$ usa dos números: $P = \\frac{1}{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inventaste factores sin relación con los casos que suman $7$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El procedimiento válido enumera el espacio muestral equiprobable de $36$ parejas y cuenta las $6$ que suman $7$. Por tanto $P = \\frac{6}{36} = \\frac{1}{6}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál afirmación sobre ambos juegos es correcta?",
+      "context": "En Bogotá, en la feria escolar hay dos juegos. Juego X: extraer dos bolas rojas seguidas sin reposición de una urna con $2$ rojas y $3$ azules. Juego Y: obtener cara en dos monedas lanzadas a la vez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conviene el juego X porque su probabilidad es $\\frac{2}{5}$, ya que solo importa la primera extracción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste la segunda extracción y el efecto de no devolver la bola."
+        },
+        {
+          "letter": "B",
+          "text": "Conviene el juego Y porque $\\frac{1}{4}$ es mayor que $\\frac{1}{10}$",
+          "is_correct": true,
+          "feedback": "Correcto. $P(X) = \\frac{2}{5} \\times \\frac{1}{4} = \\frac{1}{10}$ y $P(Y) = \\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$. Como $\\frac{1}{4} > \\frac{1}{10}$, el juego Y es más favorable."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos juegos son equivalentes porque cada uno tiene probabilidad de $\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juego X depende de una extracción sin reposición y su valor es $\\frac{1}{10}$."
+        },
+        {
+          "letter": "D",
+          "text": "Conviene el juego X porque $\\frac{1}{10}$ es mayor que $\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el orden: $\\frac{1}{10}$ es menor que $\\frac{1}{4}$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar exige calcular bien cada probabilidad compuesta: $P(X) = \\frac{2}{5} \\times \\frac{1}{4} = \\frac{1}{10}$ frente a $P(Y) = \\frac{1}{4}$. La comparación $\\frac{1}{4} > \\frac{1}{10}$ demuestra que el juego Y ofrece más chance de ganar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W07-probabilidad-compuesta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

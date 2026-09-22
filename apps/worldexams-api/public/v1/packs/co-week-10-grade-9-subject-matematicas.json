@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T01:49:11.707Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes expresiones define una función exponencial?",
+      "context": "En Bogotá, un docente escribe cuatro modelos en el tablero y pide identificar el exponencial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3 \\cdot 2^{x}$",
+          "is_correct": true,
+          "feedback": "Correcto. La variable está en el exponente y la base $2$ es positiva y distinta de 1."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 3x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función lineal, pues la variable está multiplicada y no en el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = x^{2} + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función cuadrática: la variable es la base, no el exponente."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\frac{2}{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una función racional con la variable en el denominador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una función exponencial tiene la forma $f(x) = a \\cdot b^{x}$ con $b > 0$ y $b \\neq 1$; solo la opción A cumple esa forma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el factor de crecimiento anual del modelo?",
+      "context": "En Medellín, el crecimiento de un ahorro se modela con $f(x) = 5 \\cdot (1.2)^{x}$, donde $x$ son los años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor inicial $f(0)$, no el factor que multiplica cada año."
+        },
+        {
+          "letter": "B",
+          "text": "$x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la variable del tiempo, no un factor numérico."
+        },
+        {
+          "letter": "C",
+          "text": "$1.2$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la base de la potencia: cada año la cantidad se multiplica por $1.2$."
+        },
+        {
+          "letter": "D",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $5 \\cdot 1.2$, lo cual da $f(1)$, no el factor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En $f(x) = a \\cdot b^{x}$, la base $b = 1.2$ es el factor de crecimiento: representa un aumento del $20\\%$ anual.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas bacterias hay al cabo de $5$ horas si al inicio hay una sola?",
+      "context": "En Cali, una población de bacterias se duplica cada hora según $f(x) = 2^{x}$, con $x$ en horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $2 \\cdot 5$; el crecimiento exponencial exige potenciar, no multiplicar."
+        },
+        {
+          "letter": "B",
+          "text": "$32$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(5) = 2^{5} = 32$ bacterias."
+        },
+        {
+          "letter": "C",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $5^{2}$ en vez de $2^{5}$; el exponente es el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "$64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a $x = 6$, una hora más de crecimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la función en $x = 5$ da $f(5) = 2^{5} = 32$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas bacterias habrá después de $3$ horas?",
+      "context": "En Medellín, un laboratorio cultiva $100$ bacterias que se duplican cada hora: $N(t) = 100 \\cdot 2^{t}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$300$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $100 \\cdot 3$ y olvidaste la duplicación exponencial."
+        },
+        {
+          "letter": "B",
+          "text": "$600$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $100 \\cdot 2 \\cdot 3$; el tiempo debe ir en el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$400$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo duplicaste dos veces ($100 \\cdot 4$); faltó la tercera hora."
+        },
+        {
+          "letter": "D",
+          "text": "$800$",
+          "is_correct": true,
+          "feedback": "Correcto. $N(3) = 100 \\cdot 2^{3} = 100 \\cdot 8 = 800$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tres duplicaciones multiplican por $2^{3} = 8$: $N(3) = 100 \\cdot 8 = 800$ bacterias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál será el valor de la motocicleta después de $2$ años?",
+      "context": "En Barranquilla, una motocicleta nueva cuesta $20.000.000$ de pesos y pierde el $10\\%$ de su valor cada año: $V(t) = 20.000.000 \\cdot (0.9)^{t}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18.000.000$ de pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor tras un solo año de depreciación."
+        },
+        {
+          "letter": "B",
+          "text": "$16.000.000$ de pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste el $20\\%$ de una vez en vez de aplicar el $10\\%$ compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "$16.200.000$ de pesos",
+          "is_correct": true,
+          "feedback": "Correcto. $V(2) = 20.000.000 \\cdot 0.81 = 16.200.000$ de pesos."
+        },
+        {
+          "letter": "D",
+          "text": "$19.800.000$ de pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste una pérdida de solo el $1\\%$ anual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos años de depreciación dan $(0.9)^{2} = 0.81$; luego $V(2) = 20.000.000 \\cdot 0.81 = 16.200.000$ de pesos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v6",
+      "statement": "¿Después de cuántos días se alcanzan $24$ mensajes?",
+      "context": "En Bucaramanga, el número de mensajes de una cadena se modela con $M(t) = 3 \\cdot 2^{t}$, donde $t$ son los días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $24$ entre $3$ y olvidaste despejar el exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$4$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $t = 4$ habría $3 \\cdot 16 = 48$ mensajes."
+        },
+        {
+          "letter": "C",
+          "text": "$2$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $t = 2$ habría $3 \\cdot 4 = 12$ mensajes."
+        },
+        {
+          "letter": "D",
+          "text": "$3$ días",
+          "is_correct": true,
+          "feedback": "Correcto. $3 \\cdot 2^{t} = 24 \\implies 2^{t} = 8 \\implies t = 3$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dividiendo entre $3$ queda $2^{t} = 8 = 2^{3}$, por lo tanto $t = 3$ días.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función exponencial describe los datos?",
+      "context": "En Bogotá, un experimento registra estos datos: si $x = 0$, $y = 4$; si $x = 1$, $y = 12$; si $x = 2$, $y = 36$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 8x + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese modelo lineal falla en $x = 2$, donde daría $20$ y no $36$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 4 \\cdot 3^{x}$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada valor triplica al anterior: $4$, $12$, $36$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 4 \\cdot 2^{x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese modelo daría $8$ en $x = 1$, pero el dato real es $12$."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = x^{3} + 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = 1$ daría $5$ y no $12$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cocientes sucesivos son $\\frac{12}{4} = 3$ y $\\frac{36}{12} = 3$; con valor inicial $4$, el modelo es $f(x) = 4 \\cdot 3^{x}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos miligramos quedan en el cuerpo después de $12$ horas?",
+      "context": "En Pasto, un paciente recibe $200$ mg de un medicamento que se reduce a la mitad cada $6$ horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100$ mg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cantidad queda tras $6$ horas, es decir, una sola vida media."
+        },
+        {
+          "letter": "B",
+          "text": "$0$ mg",
+          "is_correct": false,
+          "feedback": "Incorrecto. El decaimiento exponencial por mitades nunca llega a cero exacto."
+        },
+        {
+          "letter": "C",
+          "text": "$50$ mg",
+          "is_correct": true,
+          "feedback": "Correcto. Dos vidas medias: $200 \\to 100 \\to 50$ mg."
+        },
+        {
+          "letter": "D",
+          "text": "$150$ mg",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $50$ mg de forma lineal en vez de aplicar mitades sucesivas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada $6$ horas la cantidad se multiplica por $\\frac{1}{2}$: $200 \\cdot (\\frac{1}{2})^{2} = 200 \\cdot \\frac{1}{4} = 50$ mg.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v9",
+      "statement": "¿Qué característica describe correctamente la función?",
+      "context": "En Pereira, un grupo analiza la gráfica de $f(x) = 4 \\cdot (0.5)^{x}$ para describir su comportamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es creciente porque el coeficiente $4$ es positivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento lo decide la base, no el coeficiente inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Es constante porque el exponente no cambia la forma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente variable sí cambia los valores en cada punto."
+        },
+        {
+          "letter": "C",
+          "text": "Crece primero y luego decrece como una parábola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese comportamiento corresponde a una cuadrática, no a una exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "Es decreciente y sus valores se acercan a $0$ sin tocarlo",
+          "is_correct": true,
+          "feedback": "Correcto. La base $0.5 < 1$ produce decaimiento con asíntota horizontal $y = 0$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Como la base está entre $0$ y $1$, la función decrece y el eje $x$ ($y = 0$) es su asíntota horizontal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v10",
+      "statement": "¿Cuánto dinero habrá en la cuenta después de $2$ años?",
+      "context": "En Bogotá, una cuenta de ahorros con $1.000.000$ de pesos rinde el $5\\%$ anual compuesto: $C(t) = 1.000.000 \\cdot (1.05)^{t}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.102.500$ de pesos",
+          "is_correct": true,
+          "feedback": "Correcto. $C(2) = 1.000.000 \\cdot 1.1025 = 1.102.500$ de pesos."
+        },
+        {
+          "letter": "B",
+          "text": "$1.100.000$ de pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el $5\\%$ dos veces de forma simple, sin capitalizar los intereses."
+        },
+        {
+          "letter": "C",
+          "text": "$1.050.000$ de pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el saldo tras un solo año."
+        },
+        {
+          "letter": "D",
+          "text": "$1.210.000$ de pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste una tasa del $10\\%$ en vez del $5\\%$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El interés compuesto capitaliza: $(1.05)^{2} = 1.1025$, luego $C(2) = 1.000.000 \\cdot 1.1025 = 1.102.500$ de pesos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación correcta de su propuesta?",
+      "context": "En Cúcuta, un estudiante propone modelar un fenómeno con $f(x) = (-2)^{x}$ y asegura que es una función exponencial válida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida porque el exponente es la variable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la variable esté en el exponente no basta: la base también debe cumplir condiciones."
+        },
+        {
+          "letter": "B",
+          "text": "No es válida, pues la base de una función exponencial debe ser un número positivo",
+          "is_correct": true,
+          "feedback": "Correcto. Con base negativa la expresión no define valores reales para todo $x$."
+        },
+        {
+          "letter": "C",
+          "text": "Es válida únicamente para valores enteros de $x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un modelo exponencial debe estar definido para toda variable real."
+        },
+        {
+          "letter": "D",
+          "text": "Es válida porque $-2$ es distinto de cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser distinto de cero no alcanza: la base debe ser positiva y distinta de 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La definición exige $f(x) = a \\cdot b^{x}$ con $b > 0$ y $b \\neq 1$; la base $-2$ viola esa condición y el modelo se rechaza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle-v12",
+      "statement": "¿Qué afirmación compara correctamente ambos crecimientos?",
+      "context": "En Cali, dos barrios crecen según $P(t) = 500 \\cdot (1.1)^{t}$ y $Q(t) = 500 \\cdot (1.08)^{t}$, con $t$ en años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$Q$ crece más rápido porque $8$ es mayor que $1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparaste dígitos sueltos en vez de las bases completas $1.1$ y $1.08$."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos crecen igual porque inician con $500$ habitantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor inicial igual no implica igual ritmo de crecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "$Q$ crece más rápido porque su exponente cambia más veloz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente es el mismo $t$ en ambos modelos; lo que difiere es la base."
+        },
+        {
+          "letter": "D",
+          "text": "$P$ crece más rápido porque su base ($1.1$) es mayor que la de $Q$ ($1.08$)",
+          "is_correct": true,
+          "feedback": "Correcto. A igual valor inicial, mayor base implica crecimiento más veloz para todo $t > 0$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con el mismo coeficiente inicial, el ritmo lo fija la base: $1.1 > 1.08$, así que $P(t) > Q(t)$ para todo $t > 0$ y $P$ crece más rápido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W10-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
