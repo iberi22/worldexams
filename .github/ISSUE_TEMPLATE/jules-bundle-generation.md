@@ -75,6 +75,8 @@ protocol_version: "5.2"
 total_questions: {NUM_PREGUNTAS}
 bundle_size: {NUM_PREGUNTAS}
 alignment: "{alignment}"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -86,7 +88,7 @@ Prohibido usar `semana` en reemplazo de `week`. Prohibido omitir `total_question
 ## Formato exacto de pregunta
 
 ```markdown
-## Question 1 [D3]
+## Question 1 [D3-D4]
 **ID:** {BUNDLE_ID}-v1
 **Bloom:** Remember
 **ICFES:** {competencia/eje}
