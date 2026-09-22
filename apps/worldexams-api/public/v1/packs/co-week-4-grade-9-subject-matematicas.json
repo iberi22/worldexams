@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T01:49:11.704Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son los valores de $a$, $b$ y $c$?",
+      "context": "En Bogotá, se estudia la ecuación $2x^2 - 5x + 3 = 0$ escrita en la forma general $ax^2 + bx + c = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 2, b = 5, c = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el signo negativo del término lineal: $b = -5$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 2, b = -5, c = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Comparando con $ax^2 + bx + c = 0$ se lee $a = 2$, $b = -5$ y $c = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 2, b = -5, c = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término independiente es $+3$, no $-3$."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 5, b = 2, c = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los coeficientes $a$ y $b$: $a$ acompaña a $x^2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la forma general $ax^2 + bx + c = 0$, el coeficiente $a$ acompaña a $x^2$, $b$ acompaña a $x$ y $c$ es el término independiente. Aquí $a = 2$, $b = -5$ y $c = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué expresión permite calcular el discriminante $D$ de la ecuación cuadrática?",
+      "context": "En Medellín, se repasa la fórmula general para resolver $ax^2 + bx + c = 0$ con $a \\neq 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$D = b^2 + 4ac$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo correcto antes de $4ac$ es menos, no más."
+        },
+        {
+          "letter": "B",
+          "text": "$D = 2a - b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión no usa el término $c$ ni los cuadrados necesarios."
+        },
+        {
+          "letter": "C",
+          "text": "$D = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula general de las soluciones, no la del discriminante."
+        },
+        {
+          "letter": "D",
+          "text": "$D = b^2 - 4ac$",
+          "is_correct": true,
+          "feedback": "Correcto. El discriminante es exactamente $b^2 - 4ac$ y su signo indica cuántas soluciones reales hay."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El discriminante $D = b^2 - 4ac$ es la cantidad que aparece dentro de la raíz en la fórmula general. Su signo determina si la ecuación tiene dos, una o cero soluciones reales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Cali, se resuelve por factorización la ecuación $x^2 - 5x + 6 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$ y $x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. La factorización es $(x - 2)(x - 3) = 0$, de donde $x = 2$ o $x = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -2$ y $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores dan $(-2)(-3) = 6$ pero su suma es $-5$, no $+5$ con el signo requerido."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$ y $x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $1 \\times 6 = 6$, su suma es $7 \\neq 5$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$ y $x = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de esos valores anula el polinomio: $25 - 25 + 6 = 6 \\neq 0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se buscan dos números que multiplicados den $6$ y sumados den $5$: son $2$ y $3$. Entonces $(x - 2)(x - 3) = 0$, de donde $x = 2$ o $x = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el conjunto solución de la ecuación?",
+      "context": "En Barranquilla, se resuelve la ecuación incompleta $x^2 - 9 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\{9\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada: $x^2 = 9$ no implica $x = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\{0, 9\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $0$ no verifica la ecuación, pues $0 - 9 = -9 \\neq 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\{-3, 3\\}$",
+          "is_correct": true,
+          "feedback": "Correcto. De $x^2 = 9$ se obtiene $x = \\pm 3$, y ambos valores verifican la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$\\{3\\}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la raíz negativa: $(-3)^2 - 9 = 0$ también se cumple."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Despejando: $x^2 = 9 \\implies x = \\pm\\sqrt{9} = \\pm 3$. El conjunto solución es $\\{-3, 3\\}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor del discriminante de la ecuación?",
+      "context": "En Bucaramanga, se analiza la ecuación $2x^2 + 4x + 2 = 0$ antes de resolverla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$D = 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $4^2 - 8 = 8$ usando $4ac = 8$ en vez de $4(2)(2) = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$D = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. $D = 4^2 - 4(2)(2) = 16 - 16 = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$D = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el valor de $b^2$; olvidaste restar $4ac = 16$."
+        },
+        {
+          "letter": "D",
+          "text": "$D = -8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cometiste un error de signo: $16 - 16 = 0$, no $-8$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con $a = 2$, $b = 4$ y $c = 2$: $D = b^2 - 4ac = 16 - 16 = 0$. Un discriminante nulo indica una única solución real (raíz doble).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la factorización correcta del trinomio?",
+      "context": "En Pereira, se pide factorizar el trinomio $x^2 + 7x + 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 1)(x + 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $1 \\times 12 = 12$, su suma es $13 \\neq 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 2)(x + 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $2 \\times 6 = 12$, su suma es $8 \\neq 7$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 3)(x - 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos están invertidos: ese producto da $x^2 - 7x + 12$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 3)(x + 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Se cumple $3 \\times 4 = 12$ y $3 + 4 = 7$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se buscan dos números con producto $12$ y suma $7$: son $3$ y $4$. Por tanto $x^2 + 7x + 12 = (x + 3)(x + 4)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el ancho del lote?",
+      "context": "En Manizales, un lote rectangular tiene $3\\text{ m}$ más de largo que de ancho y su área mide $40\\text{ m}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $x(x + 3) = 40$ queda $(x + 8)(x - 5) = 0$ y el valor positivo es $x = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $8\\text{ m}$ de ancho el área sería $8 \\times 11 = 88\\text{ m}^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$10\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $10\\text{ m}$ de ancho el área sería $10 \\times 13 = 130\\text{ m}^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $4\\text{ m}$ de ancho el área sería $4 \\times 7 = 28\\text{ m}^2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si el ancho es $x$, el largo es $x + 3$: $x(x + 3) = 40 \\implies x^2 + 3x - 40 = 0 \\implies (x + 8)(x - 5) = 0$. La medida debe ser positiva, luego el ancho es $5\\text{ m}$ y el largo $8\\text{ m}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas soluciones reales tiene la ecuación?",
+      "context": "En Pasto, se estudia la ecuación $x^2 + 2x + 5 = 0$ y se calcula primero su discriminante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una solución real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre cuando $D = 0$, pero aquí $D = 4 - 20 = -16$."
+        },
+        {
+          "letter": "B",
+          "text": "Dos soluciones reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso exige $D > 0$, pero aquí $D = -16$."
+        },
+        {
+          "letter": "C",
+          "text": "Cero soluciones reales.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $D = 2^2 - 4(1)(5) = -16 < 0$, no existen soluciones reales."
+        },
+        {
+          "letter": "D",
+          "text": "Infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una ecuación cuadrática tiene como máximo dos soluciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El discriminante vale $D = 4 - 20 = -16$. Al ser negativo, la raíz cuadrada en la fórmula general no produce números reales y la ecuación no tiene soluciones reales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la coordenada $x$ del vértice de la parábola?",
+      "context": "En Cúcuta, se grafica la parábola $y = x^2 - 4x + 3$ y se localiza su punto más bajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste el signo: la fórmula es $x_v = -\\frac{b}{2a} = -\\frac{-4}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando $x_v = -\\frac{b}{2a} = \\frac{4}{2} = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre $2a = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el intercepto con el eje $y$ (cuando $x = 0$), no el vértice."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El vértice de $y = ax^2 + bx + c$ está en $x_v = -\\frac{b}{2a}$. Aquí $x_v = -\\frac{-4}{2(1)} = 2$. Como $a = 1 > 0$, la parábola abre hacia arriba y ese punto es el mínimo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el número menor?",
+      "context": "En Sincelejo, el producto de dos números enteros consecutivos es $72$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consecutivos $6$ y $7$ dan $6 \\times 7 = 42 \\neq 72$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los consecutivos $7$ y $8$ dan $7 \\times 8 = 56 \\neq 72$."
+        },
+        {
+          "letter": "C",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número mayor de la pareja buscada, no el menor."
+        },
+        {
+          "letter": "D",
+          "text": "$8$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $n(n + 1) = 72$ queda $(n + 9)(n - 8) = 0$ y el valor positivo es $n = 8$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Si el menor es $n$: $n(n + 1) = 72 \\implies n^2 + n - 72 = 0 \\implies (n + 9)(n - 8) = 0$. Las soluciones son $n = -9$ y $n = 8$; en enteros positivos el menor es $8$ y el mayor $9$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es ese valor positivo de $k$?",
+      "context": "En Cartagena, se busca el valor positivo de $k$ para que la ecuación $x^2 + kx + 9 = 0$ tenga una única solución real (raíz doble).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 6$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $D = k^2 - 36 = 0$ resulta $k = \\pm 6$ y el valor positivo es $6$."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 3$ el discriminante vale $9 - 36 = -27$ y no hay soluciones reales."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 9$ el discriminante vale $81 - 36 = 45 > 0$ y habría dos soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "$k = -6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor también produce raíz doble, pero se pide el valor positivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La raíz doble exige $D = 0$: $k^2 - 4(1)(9) = k^2 - 36 = 0 \\implies k = \\pm 6$. El valor positivo pedido es $k = 6$, con solución única $x = -3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle-v12",
+      "statement": "¿Es correcta la afirmación del estudiante?",
+      "context": "En Tunja, un estudiante afirma que la ecuación $x^2 + 1 = 0$ tiene dos soluciones reales: $x = 1$ y $x = -1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque $1^2 + 1 = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En realidad $1^2 + 1 = 2 \\neq 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque al despejar queda $x = \\pm\\sqrt{-1}$, que son números reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz cuadrada de un número negativo no es un número real."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque el discriminante $D = -4$ es negativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Con $D = 0 - 4(1)(1) = -4 < 0$ la ecuación no tiene soluciones reales."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la ecuación no tiene término lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia del término $bx$ no impide las soluciones: $x^2 - 9 = 0$ sí tiene dos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Verificando directamente: $1^2 + 1 = 2$ y $(-1)^2 + 1 = 2$, así que ninguno de los valores propuestos es solución. Además $D = -4 < 0$ confirma que no existen soluciones reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W04-ecuacion-cuadratica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
