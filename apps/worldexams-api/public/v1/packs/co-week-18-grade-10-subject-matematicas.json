@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.099Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes expresiones corresponde a una función exponencial con base $b > 0$ y $b \\neq 1$?",
+      "context": "En Bogotá, la profesora Mariana escribe en el tablero varias expresiones y pide identificar cuál es una función exponencial de la forma $f(x) = a \\cdot b^x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función polinómica, pues la variable está en la base y el exponente es constante."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 2x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función lineal, no exponencial, porque la variable no está en el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3 \\cdot 2^x$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una función exponencial de la forma $a \\cdot b^x$ con $a = 3$ y base $b = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = \\log_2 x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta es una función logarítmica, que es la inversa de la exponencial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una función exponencial tiene la variable independiente en el exponente, como $f(x) = a \\cdot b^x$ con base $b > 0$ y $b \\neq 1$. En $f(x) = 3 \\cdot 2^x$ el coeficiente $3$ y la base $2$ son constantes y $x$ está en el exponente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el dominio de la función exponencial $f(x) = 2^x$?",
+      "context": "En Medellín, Santiago estudia las propiedades de la función $f(x) = 2^x$ para preparar su examen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo los números positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exponencial acepta también exponentes negativos y cero."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales.",
+          "is_correct": true,
+          "feedback": "Correcto. El dominio de toda función exponencial con base positiva es el conjunto de los números reales."
+        },
+        {
+          "letter": "C",
+          "text": "Solo los números enteros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dominio no se limita a enteros; incluye racionales e irracionales."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los números mayores que 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confunde el dominio con la condición sobre la base."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para cualquier base positiva $b \\neq 1$, la función $f(x) = b^x$ está definida para todo $x \\in \\mathbb{R}$. El dominio de $f(x) = 2^x$ es, entonces, todos los números reales, mientras que su rango es $(0, +\\infty)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo es el comportamiento de la función $g(x) = \\left(\\frac{1}{3}\\right)^x$ cuando $x$ aumenta?",
+      "context": "En Cali, los estudiantes comparan las gráficas de $f(x) = 3^x$ y $g(x) = \\left(\\frac{1}{3}\\right)^x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decrece acercándose a cero.",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser la base $\\frac{1}{3} < 1$, la función es decreciente y tiende a 0 cuando $x \\to +\\infty$."
+        },
+        {
+          "letter": "B",
+          "text": "Crece sin límite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una base menor que 1 produce decrecimiento, no crecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene constante en 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo es 1 cuando $x = 0$; no es constante."
+        },
+        {
+          "letter": "D",
+          "text": "Oscila entre 1 y 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exponencial no oscila; es monótona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando la base está entre 0 y 1, la función exponencial es decreciente. Como $\\frac{1}{3} < 1$, $g(x)$ decrece y se aproxima a 0 sin alcanzarlo, mientras que $f(x) = 3^x$ crece. Ambas pasan por $(0, 1)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de $f(2)$?",
+      "context": "En Barranquilla, Mariana calcula valores de la función $f(x) = 2 \\cdot 3^x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó multiplicar por el coeficiente 2."
+        },
+        {
+          "letter": "B",
+          "text": "$64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería $2^6$, no el valor pedido."
+        },
+        {
+          "letter": "C",
+          "text": "$18$",
+          "is_correct": true,
+          "feedback": "Correcto. $f(2) = 2 \\cdot 3^2 = 2 \\cdot 9 = 18$."
+        },
+        {
+          "letter": "D",
+          "text": "$36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó el exponente por el coeficiente en vez de evaluar primero la potencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para evaluar $f(2)$ se reemplaza $x$ por 2: $f(2) = 2 \\cdot 3^2 = 2 \\cdot 9 = 18$. La potencia se calcula antes que la multiplicación por el coeficiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál será el monto después de 2 años?",
+      "context": "Santiago deposita \\$1.000.000 COP en una cuenta que paga 2% de interés compuesto anual. Usa la fórmula $M = C(1 + i)^t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$1.020.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el monto tras un solo año o con interés simple."
+        },
+        {
+          "letter": "B",
+          "text": "\\$1.040.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el resultado de sumar 2% dos veces, sin capitalizar."
+        },
+        {
+          "letter": "C",
+          "text": "\\$1.044.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó la base incorrecta; el factor correcto es $1{,}02^2 = 1{,}0404$."
+        },
+        {
+          "letter": "D",
+          "text": "\\$1.040.400 COP",
+          "is_correct": true,
+          "feedback": "Correcto. $M = 1.000.000 \\cdot (1{,}02)^2 = 1.000.000 \\cdot 1{,}0404 = 1.040.400$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con capitalización compuesta anual, $M = C(1 + i)^t$. Aquí $M = 1.000.000 \\cdot (1 + 0{,}02)^2 = 1.000.000 \\cdot 1{,}0404 = 1.040.400$ COP. La diferencia frente al interés simple está en que los intereses del primer año generan nuevos intereses.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la asíntota horizontal de la gráfica de $f(x) = 5^x$?",
+      "context": "En una clase de Bogotá se traza la gráfica de $f(x) = 5^x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La recta $x = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x = 0$ es vertical; la asíntota de esta exponencial es horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "La recta $y = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando $x \\to -\\infty$, $5^x \\to 0$, así que el eje $x$ es la asíntota."
+        },
+        {
+          "letter": "C",
+          "text": "La recta $y = 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función cruza $(0, 1)$, pero la asíntota es $y = 0$."
+        },
+        {
+          "letter": "D",
+          "text": "La recta $y = 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $y = 5$ es el valor cuando $x = 1$, no una asíntota."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función $f(x) = b^x$ con $b > 1$ se aproxima a 0 cuando $x$ tiende a $-\\infty$ sin tocarlo nunca. Por eso el eje horizontal $y = 0$ es su asíntota, y la gráfica nunca corta dicho eje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v7",
+      "statement": "¿Qué afirmación es correcta sobre las funciones $f(x) = 1{,}5^x$ y $g(x) = 1{,}8^x$?",
+      "context": "En Medellín, dos bancos ofrecen planes de ahorro: uno usa $f(x) = 1{,}5^x$ y otro $g(x) = 1{,}8^x$ para modelar el factor de crecimiento mensual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ crece más rápido que $g$ para todo $x > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una base mayor produce crecimiento más rápido."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas decrecen para $x > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas bases son mayores que 1, por lo que ambas crecen."
+        },
+        {
+          "letter": "C",
+          "text": "$g$ supera a $f$ para todo $x > 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Con la misma forma, la base mayor $1{,}8 > 1{,}5$ hace que $g$ crezca más rápido y supere a $f$."
+        },
+        {
+          "letter": "D",
+          "text": "$g$ es el doble de $f$ en todo punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón no es constante; depende del exponente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para exponenciales de la forma $b^x$ con $b > 1$, cuanto mayor es la base, mayor es la tasa de crecimiento. Como $1{,}8 > 1{,}5$, $g(x) > f(x)$ para todo $x > 0$, y la diferencia se amplía conforme crece $x$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v8",
+      "statement": "¿En cuántas horas la población llegará a 1.600 bacterias?",
+      "context": "En Cali, un cultivo bacteriano se modela con $P(t) = 200 \\cdot 2^t$, donde $t$ se mide en horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En 1 hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t = 1$ la población es 400."
+        },
+        {
+          "letter": "B",
+          "text": "En 2 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t = 2$ la población es 800."
+        },
+        {
+          "letter": "C",
+          "text": "En 3 horas.",
+          "is_correct": true,
+          "feedback": "Correcto. Se resuelve $200 \\cdot 2^t = 1.600$, es decir $2^t = 8$, luego $t = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "En 8 horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió el resultado de la potencia con el valor de $t$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se plantea $200 \\cdot 2^t = 1.600$. Dividiendo: $2^t = 8$. Como $8 = 2^3$, se deduce $t = 3$ horas. La igualdad de potencias con la misma base permite igualar los exponentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v9",
+      "statement": "¿Cómo se obtiene la gráfica de $h(x) = 2^{x-3}$ a partir de la de $f(x) = 2^x$?",
+      "context": "En Barranquilla, Mariana compara la gráfica de $f(x) = 2^x$ con la de $h(x) = 2^{x-3}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplazándola 3 unidades hacia arriba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso correspondería a sumar 3 fuera del exponente."
+        },
+        {
+          "letter": "B",
+          "text": "Desplazándola 3 unidades hacia la izquierda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso correspondería a $2^{x+3}$."
+        },
+        {
+          "letter": "C",
+          "text": "Reflejándola sobre el eje $y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión corresponde a $2^{-x}$."
+        },
+        {
+          "letter": "D",
+          "text": "Desplazándola 3 unidades hacia la derecha.",
+          "is_correct": true,
+          "feedback": "Correcto. $2^{x-3}$ traslada la gráfica 3 unidades a la derecha en el eje horizontal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En $b^{x-c}$, el valor $c > 0$ desplaza la gráfica $c$ unidades a la derecha. Por eso $h(x) = 2^{x-3}$ es la gráfica de $f(x) = 2^x$ trasladada 3 unidades hacia la derecha; el desplazamiento horizontal actúa en sentido inverso al signo del exponente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v10",
+      "statement": "Si se desea la mayor ganancia a 10 años, ¿qué debe elegir Santiago y por qué?",
+      "context": "Santiago compara dos inversiones en pesos: la primera capitaliza con $A(t) = 5 \\cdot 10^t$ millones y la segunda con $B(t) = 10 \\cdot 2^t$ millones, con $t$ en años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inversión B, porque siempre vale el doble.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación no es constante y depende del valor de $t$."
+        },
+        {
+          "letter": "B",
+          "text": "Cualquiera, porque ambas crecen igual de rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bases 10 y 2 implican tasas de crecimiento muy diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "La inversión B, porque tiene mayor valor inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor inicial mayor no compensa una base de crecimiento menor a largo plazo."
+        },
+        {
+          "letter": "D",
+          "text": "La inversión A, porque para $t = 10$, $A(10) = 5 \\cdot 10^{10}$ supera a $B(10) = 10 \\cdot 2^{10}$.",
+          "is_correct": true,
+          "feedback": "Correcto. A 10 años, $A$ alcanza $5 \\cdot 10^{10}$ millones, mucho más que $10.240$ millones de $B$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar para decidir exige comparar $A(10) = 5 \\cdot 10^{10}$ con $B(10) = 10 \\cdot 2^{10} = 10 \\cdot 1.024 = 10.240$. La base $10$ en $A$ domina a la base $2$ de $B$ a largo plazo, pese a que $B$ parte de un coeficiente mayor. La base de la exponencial es el factor determinante del crecimiento a plazos largos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es una crítica matemáticamente válida al modelo $P(t) = 2 \\cdot 3^{t/4}$?",
+      "context": "Una ciudad colombiana proyecta su población con $P(t) = 2 \\cdot 3^{t/4}$ millones de habitantes, con $t$ en años desde 2026. Mariana duda de que el modelo sea realista para plazos muy largos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función es decreciente, lo que contradice el crecimiento urbano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función crece porque la base 3 es mayor que 1."
+        },
+        {
+          "letter": "B",
+          "text": "La población nunca supera los 2 millones de habitantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor inicial es 2 millones y crece desde ahí."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo oscila entre 1 y 3 millones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exponencial es monótona creciente y no oscila."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo crece sin tope, por lo que no puede ser válido indefinidamente en una ciudad con recursos limitados.",
+          "is_correct": true,
+          "feedback": "Correcto. Una exponencial no tiene asíntota superior y sobreestima la población a largo plazo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la validez del modelo implica reconocer sus límites. $P(t)$ es exponencial creciente sin asíntota horizontal superior, así que para $t$ grande predice poblaciones arbitrariamente grandes. En la realidad, factores como espacio, recursos y cambios en la tasa de natalidad frenan el crecimiento, por lo que el modelo solo es razonable en el corto plazo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle-v12",
+      "statement": "Con base en el comportamiento de los datos, ¿qué decisión es la más adecuada?",
+      "context": "En un laboratorio de Bogotá se registran datos de una sustancia que se duplica cada hora. Los estudiantes proponen dos modelos: $M_1(t) = 100 \\cdot 2^t$ y $M_2(t) = 200 + 100t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar $M_2$, porque siempre predice valores menores y es más conservador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser conservador no justifica ignorar la evidencia de duplicación."
+        },
+        {
+          "letter": "B",
+          "text": "Usar $M_1$ solo para $t$ entre 0 y 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duplicación observada se mantiene en todos los intervalos registrados."
+        },
+        {
+          "letter": "C",
+          "text": "Usar $M_1$, porque un patrón de duplicación por hora corresponde a una función exponencial.",
+          "is_correct": true,
+          "feedback": "Correcto. Duplicarse cada hora es un crecimiento multiplicativo que modela $100 \\cdot 2^t$."
+        },
+        {
+          "letter": "D",
+          "text": "Usar la suma de ambos modelos para promediar los errores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezclar modelos de distinta naturaleza no se justifica matemáticamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar cuál modelo describe los datos exige identificar el tipo de variación. Si la cantidad se duplica en intervalos iguales, la variación es multiplicativa constante, típica de una exponencial. Por eso $M_1(t) = 100 \\cdot 2^t$ refleja el patrón, mientras $M_2$ es un crecimiento aditivo lineal que no corresponde a la duplicación observada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W18-funcion-exponencial-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
