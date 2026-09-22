@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T00:22:15.741Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el conjunto solución de $x + 5 > 9$?",
+      "context": "En Bogotá, la profesora escribe en el tablero la inecuación $x + 5 > 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 5 de forma equivocada e invertiste el símbolo sin necesidad."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\le 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El símbolo correcto es estricto $>$, no $\\le$."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $x > 9 - 5$, es decir $x > 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No despejaste el 5 que suma a $x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se resta 5 en ambos lados: $x > 9 - 5 = 4$. La solución son todos los números reales mayores que $4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v2",
+      "statement": "¿Qué intervalo representa correctamente la inecuación $x \\le 3$?",
+      "context": "En Medellín, los estudiantes representan $x \\le 3$ en la recta numérica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-\\infty, 3]$",
+          "is_correct": true,
+          "feedback": "Correcto. Incluye el 3 con corchete y se extiende hacia menos infinito."
+        },
+        {
+          "letter": "B",
+          "text": "$[3, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese intervalo representa $x \\ge 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, +\\infty)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese intervalo representa $x > 3$."
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta incluir el extremo $3$, que sí pertenece por el símbolo $\\le$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El símbolo $\\le$ indica menores o iguales. En notación de intervalos se escribe $(-\\infty, 3]$, con corchete en $3$ porque el extremo es cerrado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el conjunto solución de $2x - 6 \\ge 10$?",
+      "context": "En Cali, Valentina resuelve $2x - 6 \\ge 10$ para una tarea de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\ge 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $10$ entre $2$ sin sumar primero el $6$."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\le 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el símbolo sin multiplicar ni dividir por un negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste que el símbolo original $\\ge$ se conserva porque se divide entre positivo."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge 8$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x \\ge 16 \\implies x \\ge 8$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se suma $6$: $2x \\ge 16$. Se divide entre $2$ positivo: $x \\ge 8$. Al dividir entre positivo el sentido se mantiene.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la solución de $5x + 2 < 3x + 10$?",
+      "context": "En Cartagena, Diego agrupa términos en $5x + 2 < 3x + 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $10 - 2 = 8$ pero dividiste entre $1$ en lugar de $2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $5x - 3x < 10 - 2 \\implies 2x < 8 \\implies x < 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el símbolo sin justificación."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No agrupaste los términos con $x$ a un solo lado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Agrupando: $2x < 8$. Dividiendo entre $2$: $x < 4$. Todos los valores menores que $4$ satisfacen la inecuación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el conjunto solución correcto?",
+      "context": "En Barranquilla, Camila resuelve $-2x + 7 > 15$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste invertir el símbolo al dividir entre $-2$."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo al despejar $8 / (-2)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x < -4$",
+          "is_correct": true,
+          "feedback": "Correcto. $-2x > 8 \\implies x < -4$ al dividir entre negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\le -8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $8$ entre $1$ en lugar de $2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$-2x > 15 - 7 = 8$. Al dividir entre $-2$, número negativo, el símbolo $>$ se invierte a $<$. Por tanto $x < -4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v6",
+      "statement": "Después de expandir y simplificar, ¿cuál es la solución?",
+      "context": "En Bucaramanga, un curso analiza $4(x - 1) > 2(x + 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 7$",
+          "is_correct": true,
+          "feedback": "Correcto. $4x - 4 > 2x + 10 \\implies 2x > 14 \\implies x > 7$."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $10 - 4 = 6$ en lugar de $14$."
+        },
+        {
+          "letter": "C",
+          "text": "$x < 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el símbolo sin dividir entre negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\ge 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expandiendo: $4x - 4 > 2x + 10$. Agrupando: $2x > 14$. Dividiendo: $x > 7$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el intervalo solución para $x$?",
+      "context": "En Pereira, se estudia la inecuación doble $-1 \\le 2x + 3 < 11$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-2 < x < 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El extremo $-2$ sí se incluye porque la desigualdad izquierda es $\\le$."
+        },
+        {
+          "letter": "B",
+          "text": "$-1 \\le x < 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste restar $3$ y dividir entre $2$ en los tres miembros."
+        },
+        {
+          "letter": "C",
+          "text": "$-4 \\le x < 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $3$ pero olvidaste dividir entre $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$-2 \\le x < 4$",
+          "is_correct": true,
+          "feedback": "Correcto. Restar $3$: $-4 \\le 2x < 8$. Dividir entre $2$: $-2 \\le x < 4$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se opera en los tres miembros a la vez. Restar $3$ y luego dividir entre $2$ conserva los sentidos porque $2$ es positivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v8",
+      "statement": "Si $n$ es el número de clases, ¿qué inecuación modela la situación y cuántas clases puede tomar como máximo?",
+      "context": "En Manizales, un club deportivo cobra $20.000$ COP de inscripción más $5.000$ COP por clase. Laura tiene como máximo $60.000$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$n \\ge 8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el sentido: el gasto no puede superar el presupuesto."
+        },
+        {
+          "letter": "B",
+          "text": "$20.000 + 5.000n \\le 60.000$ y $n \\le 8$",
+          "is_correct": true,
+          "feedback": "Correcto. $5.000n \\le 40.000 \\implies n \\le 8$."
+        },
+        {
+          "letter": "C",
+          "text": "$20.000 + 5.000n \\le 60.000$ y $n \\le 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $40.000$ entre $3.000$ en lugar de $5.000$."
+        },
+        {
+          "letter": "D",
+          "text": "$20.000 + 5.000n < 60.000$ y $n < 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $40.000 / 5.000 = 8$, no $7$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El costo total es $20.000 + 5.000n$. Debe ser menor o igual que $60.000$. Despejando: $n \\le 8$. Laura puede tomar hasta $8$ clases.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v9",
+      "statement": "Al evaluar el procedimiento, ¿cuál es la conclusión correcta?",
+      "context": "En Pasto, un estudiante resolvió $-3x + 9 \\ge 0$ y afirmó que $x \\ge 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto, porque $9 / 3 = 3$ y se mantiene $\\ge$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignora la regla del cambio de sentido al dividir entre negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcto y la solución es $x > -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay error de signo y de símbolo."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecto, lo correcto es $x \\le 3$ porque al dividir entre $-3$ se invierte el símbolo",
+          "is_correct": true,
+          "feedback": "Correcto. $-3x \\ge -9 \\implies x \\le 3$. El error fue no invertir la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecto, lo correcto es $x < 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero no es el punto de corte de esta inecuación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$-3x \\ge -9$. Al dividir entre $-3$ se invierte el sentido: $x \\le 3$. El estudiante omitió esa regla fundamental de las inecuaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor mínimo entero que satisface la inecuación?",
+      "context": "En Armenia, se plantea $\\frac{x}{2} + \\frac{x}{3} > 10$ para calcular un puntaje mínimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > 12$, mínimo entero $13$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{5x}{6} > 10 \\implies x > 12$. El menor entero es $13$."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 10$, mínimo entero $11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $\\frac{1}{2} + \\frac{1}{3}$ como si fuera $1$."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\ge 5$, mínimo entero $5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por un denominador incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "$x < 12$, mínimo entero $11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el símbolo sin justificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "MCM $= 6$: $3x + 2x > 60 \\implies 5x > 60 \\implies x > 12$. Como es estricto, el menor entero que cumple es $13$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v11",
+      "statement": "¿Qué valor de $k$ hace verdadera esa equivalencia?",
+      "context": "En Cúcuta, se busca el valor de $k$ para que $2x + k > 10$ tenga como solución $x > 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 2$ la solución sería $x > 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 6$ la solución sería $x > 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 10$ la solución sería $x > 0$."
+        },
+        {
+          "letter": "D",
+          "text": "$k = -2$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x - 2 > 10 \\implies 2x > 12 \\implies x > 6$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "De $2x + k > 10$ se obtiene $x > (10 - k)/2$. Igualando $(10 - k)/2 = 6$ resulta $10 - k = 12$, de donde $k = -2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el intervalo solución y qué significa en términos de valores admisibles?",
+      "context": "En Montería, se analiza el presupuesto $3(x - 2) + 5 \\le 2(x + 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[9, +\\infty)$, valores mayores o iguales que $9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el símbolo final."
+        },
+        {
+          "letter": "B",
+          "text": "$(-\\infty, 9]$, valores menores o iguales que $9$",
+          "is_correct": true,
+          "feedback": "Correcto. $3x - 1 \\le 2x + 8 \\implies x \\le 9$."
+        },
+        {
+          "letter": "C",
+          "text": "$(-\\infty, 9)$, valores estrictamente menores que $9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $9$ sí cumple la igualdad, por eso lleva corchete."
+        },
+        {
+          "letter": "D",
+          "text": "$[-9, 9]$, valores entre $-9$ y $9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cota inferior en esta inecuación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Expandiendo: $3x - 6 + 5 \\le 2x + 8 \\implies 3x - 1 \\le 2x + 8 \\implies x \\le 9$. En intervalos: $(-\\infty, 9]$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-25-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T00:22:15.740Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula del área total de un cubo de arista $a$?",
+      "context": "En Medellín, los estudiantes forran con cartulina una caja cúbica de regalo para la feria de las flores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = 6a^2$, porque el cubo tiene seis caras cuadradas iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada cara aporta $a^2$ y hay seis caras."
+        },
+        {
+          "letter": "B",
+          "text": "$A = a^3$, porque se multiplica la arista tres veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del volumen, no del área."
+        },
+        {
+          "letter": "C",
+          "text": "$A = 4a^2$, porque solo se cuentan las caras laterales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería el área lateral sin las dos bases."
+        },
+        {
+          "letter": "D",
+          "text": "$A = 6a$, porque se suman los seis bordes del cubo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar al cuadrado: el área se mide en unidades cuadradas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cubo tiene $6$ caras congruentes, cada una un cuadrado de área $a^2$. Por tanto el área total es $A = 6a^2$. El área se expresa en $cm^2$ o $m^2$, mientras el volumen $a^3$ se expresa en unidades cúbicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia hay entre el área total y el área lateral de un prisma?",
+      "context": "En Bogotá, una fábrica de envases compara el cartón necesario para forrar una caja con tapa frente a una caja sin tapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son lo mismo, ambas incluyen todas las caras del prisma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área lateral excluye las bases."
+        },
+        {
+          "letter": "B",
+          "text": "El área total incluye las dos bases y el área lateral solo las caras de los lados.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la distinción entre área total y área lateral."
+        },
+        {
+          "letter": "C",
+          "text": "El área lateral incluye las bases y el área total solo los lados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exactamente al revés."
+        },
+        {
+          "letter": "D",
+          "text": "El área total se mide en $cm^3$ y el área lateral en $cm^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas áreas se miden en unidades cuadradas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si $P$ es el perímetro de la base, $h$ la altura y $B$ el área de una base, entonces el área lateral es $A_L = P \\times h$ y el área total es $A_T = A_L + 2B$. Una caja sin tapa usaría $A_L + B$. Distinguir ambos conceptos evita comprar cartón de más o de menos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el área total de la caja?",
+      "context": "En Cali, una caja de zapatos mide $30$ cm de largo, $20$ cm de ancho y $12$ cm de alto. Se quiere forrar toda su superficie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1\\,200$ $cm^2$, porque se multiplica $30 \\times 20 \\times 12$ y se divide entre $6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese procedimiento mezcla el volumen con el área."
+        },
+        {
+          "letter": "B",
+          "text": "$1\\,320$ $cm^2$, porque solo se suman dos caras distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta incluir la tercera pareja de caras."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\,400$ $cm^2$, porque $2(30 \\times 20 + 30 \\times 12 + 20 \\times 12) = 2\\,400$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman las tres parejas de caras opuestas iguales."
+        },
+        {
+          "letter": "D",
+          "text": "$7\\,200$ $cm^2$, porque se calcula el volumen $30 \\times 20 \\times 12$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el volumen en $cm^3$, no el área."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un prisma rectangular de lados $l$, $w$, $h$ tiene área $A = 2(lw + lh + wh)$. Aquí $A = 2(600 + 360 + 240) = 2(1\\,200) = 2\\,400$ $cm^2$. Cada pareja de caras opuestas es idéntica, por eso se multiplica por $2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el área lateral del cilindro?",
+      "context": "En Cartagena, un tarro cilíndrico de dulces tiene radio $7$ cm y altura $10$ cm. Usa $\\pi \\approx \\frac{22}{7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$220$ $cm^2$, porque se calcula $2 \\times 22 \\times 10$ sin el radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta simplificar correctamente el radio con el $7$ de $\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$154$ $cm^2$, porque se calcula el área de una base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $\\pi r^2$, el área de la base, no la lateral."
+        },
+        {
+          "letter": "C",
+          "text": "$748$ $cm^2$, porque se suma el doble de todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor mezcla el área total con aproximaciones erradas."
+        },
+        {
+          "letter": "D",
+          "text": "$440$ $cm^2$, porque $A_L = 2\\pi r h = 2 \\times \\frac{22}{7} \\times 7 \\times 10 = 440$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al desarrollar el cilindro se obtiene un rectángulo de $2\\pi r$ por $h$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área lateral del cilindro es el área del rectángulo que lo envuelve: base $2\\pi r$ por altura $h$. Con los datos, $A_L = 2 \\times \\frac{22}{7} \\times 7 \\times 10 = 2 \\times 22 \\times 10 = 440$ $cm^2$. El área total añadiría las dos bases $2\\pi r^2 = 308$ $cm^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área lateral de la pirámide?",
+      "context": "En Barranquilla, una pirámide de base cuadrada para una maqueta del Carnaval tiene base de $6$ cm de lado y apotema lateral (altura de cada cara triangular) de $5$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60$ $cm^2$, porque son $4$ triángulos de $\\frac{6 \\times 5}{2} = 15$ cada uno.",
+          "is_correct": true,
+          "feedback": "Correcto. El área lateral suma las cuatro caras triangulares."
+        },
+        {
+          "letter": "B",
+          "text": "$36$ $cm^2$, porque solo se calcula el área de la base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $6 \\times 6$, el área de la base cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "$96$ $cm^2$, porque se suman base y caras sin dividir entre $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada cara triangular debe dividirse entre $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$120$ $cm^2$, porque se multiplica $6 \\times 5 \\times 4$ sin dividir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir entre $2$ por ser triángulos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada cara lateral es un triángulo de base $6$ cm y altura $5$ cm, con área $\\frac{6 \\times 5}{2} = 15$ $cm^2$. Como hay $4$ caras, $A_L = 4 \\times 15 = 60$ $cm^2$. El área total sería $60 + 36 = 96$ $cm^2$ al añadir la base.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál envase exige más material y por cuánto se diferencian?",
+      "context": "En Bucaramanga, dos envases cuestan distinto cartón: un cubo de arista $10$ cm y un prisma rectangular de $20$ cm por $10$ cm por $5$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El prisma, porque su volumen es mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos volúmenes son $1\\,000$ $cm^3$ y lo que importa es el área."
+        },
+        {
+          "letter": "B",
+          "text": "El prisma con $700$ $cm^2$ frente a $600$ $cm^2$ del cubo; se diferencian en $100$ $cm^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. El cubo minimiza el área entre los prismas del mismo volumen."
+        },
+        {
+          "letter": "C",
+          "text": "El cubo con $1\\,000$ $cm^2$ frente a $700$ $cm^2$ del prisma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área del cubo es $6 \\times 100 = 600$ $cm^2$."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos exigen lo mismo porque tienen igual volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igual volumen no implica igual área de superficie."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cubo: $A = 6 \\times 10^2 = 600$ $cm^2$. El prisma: $A = 2(20 \\times 10 + 20 \\times 5 + 10 \\times 5) = 2(200 + 100 + 50) = 700$ $cm^2$. La diferencia es $100$ $cm^2$. A igual volumen, el cubo es más eficiente en material, un principio usado en empaques.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto cuesta pintar el exterior del tanque?",
+      "context": "En Pereira, un tanque cilíndrico abierto por arriba (sin tapa) tiene radio $3$ m y altura $5$ m. Se pinta por fuera a $12\\,000$ COP por $m^2$. Usa $\\pi \\approx 3{,}14$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1\\,130\\,400$ COP, porque se pinta también la tapa superior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tanque está abierto: no hay tapa superior."
+        },
+        {
+          "letter": "B",
+          "text": "$1\\,017\\,360$ COP, porque se omite la base inferior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base inferior sí se pinta; lo que falta es la tapa."
+        },
+        {
+          "letter": "C",
+          "text": "$1\\,469\\,520$ COP, porque el área es $94{,}2 + 28{,}26 = 122{,}46$ $m^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman lateral y una base y se multiplica por el precio."
+        },
+        {
+          "letter": "D",
+          "text": "$791\\,280$ COP, porque solo se pinta el área lateral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta añadir la base inferior del tanque."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Área lateral: $2\\pi r h = 2 \\times 3{,}14 \\times 3 \\times 5 = 94{,}2$ $m^2$. Una base: $\\pi r^2 = 3{,}14 \\times 9 = 28{,}26$ $m^2$. Total: $122{,}46$ $m^2$. Costo: $122{,}46 \\times 12\\,000 = 1\\,469\\,520$ COP. Analizar si hay tapa o no es clave en problemas de superficie.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v8",
+      "statement": "Usando $\\pi \\approx 3{,}14$, ¿qué afirmación sobre sus áreas de superficie es correcta?",
+      "context": "En Manizales, una esfera decorativa de radio $6$ cm y un cubo de arista $6$ cm se comparan para un monumento del café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cubo tiene menor área porque la esfera siempre es más pequeña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con estos datos la esfera tiene mayor área."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas áreas son iguales porque tienen la misma medida de $6$ cm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fórmulas son distintas y dan valores distintos."
+        },
+        {
+          "letter": "C",
+          "text": "La esfera tiene área $113{,}04$ $cm^2$ porque se usa $\\pi r^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es el área de un círculo, no de una esfera; falta el factor $4$."
+        },
+        {
+          "letter": "D",
+          "text": "La esfera tiene $452{,}16$ $cm^2$ y el cubo $216$ $cm^2$; la esfera tiene mayor área.",
+          "is_correct": true,
+          "feedback": "Correcto. La esfera usa $4\\pi r^2 = 4 \\times 3{,}14 \\times 36 = 452{,}16$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área de la esfera es $A = 4\\pi r^2 = 4 \\times 3{,}14 \\times 36 = 452{,}16$ $cm^2$, mientras el cubo tiene $A = 6 \\times 36 = 216$ $cm^2$. Aquí la esfera tiene mayor superficie porque su radio iguala a la arista; en general, a igual volumen la esfera minimiza el área, pero aquí los volúmenes no son iguales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v9",
+      "statement": "Si la arista se duplica, ¿qué ocurre con el área de superficie y con el material necesario?",
+      "context": "En Pasto, un artesano duplica todas las aristas de una caja cúbica para un pedido grande del carnaval de negros y blancos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área se cuadruplica, porque cada cara multiplica su área por $2^2 = 4$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al escalar por $k = 2$, las áreas escalan por $k^2$."
+        },
+        {
+          "letter": "B",
+          "text": "El área se duplica, porque todo se multiplica por $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las longitudes se duplican pero las áreas van con el cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "El área se multiplica por $8$, porque el volumen va con el cubo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor $8$ corresponde al volumen, no al área."
+        },
+        {
+          "letter": "D",
+          "text": "El área no cambia, porque la forma sigue siendo un cubo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma se conserva pero el tamaño cambia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si la arista pasa de $a$ a $2a$, el área pasa de $6a^2$ a $6(2a)^2 = 24a^2$, es decir, $4$ veces más. En general, al escalar longitudes por $k$, las áreas escalan por $k^2$ y los volúmenes por $k^3$. El artesano debe comprar $4$ veces más cartulina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v10",
+      "statement": "Evalúa el costo correcto de la lona lateral.",
+      "context": "En Cúcuta, una carpa con forma de pirámide cuadrada necesita lona para las $4$ caras laterales. La base mide $8$ m de lado, la altura de la pirámide es $3$ m y la lona cuesta $25\\,000$ COP por $m^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1\\,200\\,000$ COP, porque el área lateral es $4 \\times \\frac{8 \\times 3}{2} = 48$ $m^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó la altura de la pirámide en vez de la apotema lateral."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\,000\\,000$ COP, porque la apotema lateral es $5$ m y el área lateral es $80$ $m^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. La apotema se halla con Pitágoras y luego se calcula la lona."
+        },
+        {
+          "letter": "C",
+          "text": "$3\\,600\\,000$ COP, porque se incluye también la base de la carpa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carpa no lleva lona en el piso."
+        },
+        {
+          "letter": "D",
+          "text": "$800\\,000$ COP, porque solo se forran dos caras de la pirámide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son cuatro caras laterales, no dos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La apotema lateral $a_l$ forma un triángulo rectángulo con la altura $3$ m y la mitad de la base $4$ m: $a_l = \\sqrt{3^2 + 4^2} = 5$ m. Cada cara mide $\\frac{8 \\times 5}{2} = 20$ $m^2$ y las $4$ suman $80$ $m^2$. Costo: $80 \\times 25\\,000 = 2\\,000\\,000$ COP. Usar la altura vertical en vez de la apotema es el error típico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v11",
+      "statement": "¿Es correcto el desarrollo y cuál es el área total que se deduce?",
+      "context": "En Ibagué, un estudiante presenta este desarrollo plano y afirma que corresponde al área total de un cilindro de radio $r$ y altura $h$: dos círculos y un rectángulo de lados $h$ y $2\\pi r$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incorrecto, porque el rectángulo debe medir $\\pi r$ por $h$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lado del rectángulo es la circunferencia completa $2\\pi r$."
+        },
+        {
+          "letter": "B",
+          "text": "Correcto, y el área total es $2\\pi r h$ sin añadir nada más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta sumar las dos bases circulares."
+        },
+        {
+          "letter": "C",
+          "text": "Correcto, y el área total es $A = 2\\pi r h + 2\\pi r^2 = 2\\pi r(h + r)$.",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo describe exactamente las tres piezas del cilindro."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrecto, porque un cilindro no tiene desarrollo plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cilindro sí se desarrolla en un rectángulo y dos círculos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El desarrollo plano del cilindro consta de un rectángulo de $2\\pi r$ por $h$ (área $2\\pi r h$) y dos círculos de área $\\pi r^2$ cada uno. Sumando se obtiene $A_T = 2\\pi r h + 2\\pi r^2 = 2\\pi r(h + r)$. Evaluar desarrollos planos es la base para deducir fórmulas en vez de memorizarlas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el presupuesto correcto para forrar toda la superficie?",
+      "context": "En Villavicencio, una constructora forra con cerámica un prisma triangular recto cuya base es un triángulo rectángulo de catetos $6$ m y $8$ m e hipotenusa $10$ m, con longitud del prisma $12$ m. La cerámica cuesta $45\\,000$ COP por $m^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\\,960\\,000$ COP, porque se multiplica el volumen por el precio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio es por $m^2$ de superficie, no por $m^3$."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\,160\\,000$ COP, porque solo se enchapan las dos bases triangulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el área lateral, que es la mayor parte."
+        },
+        {
+          "letter": "C",
+          "text": "$10\\,800\\,000$ COP, porque se usa solo el área lateral de $240$ $m^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta añadir las dos bases de $24$ $m^2$ cada una."
+        },
+        {
+          "letter": "D",
+          "text": "$12\\,960\\,000$ COP, porque el área total es $288$ $m^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Lateral $288 - 48 = 240$ más bases $48$ da $288$ $m^2$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Área de cada base triangular: $\\frac{6 \\times 8}{2} = 24$ $m^2$; dos bases: $48$ $m^2$. Perímetro de la base: $6 + 8 + 10 = 24$ m; área lateral: $24 \\times 12 = 288 - 48 = 240$ $m^2$. Área total: $240 + 48 = 288$ $m^2$. Presupuesto: $288 \\times 45\\,000 = 12\\,960\\,000$ COP. El procedimiento evalúa la fórmula general $A_T = P \\times h + 2B$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

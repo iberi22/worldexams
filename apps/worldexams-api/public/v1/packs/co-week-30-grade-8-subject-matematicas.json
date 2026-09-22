@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T00:22:15.742Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v1",
+      "statement": "¿Cuánto es el $25\\%$ de $200$?",
+      "context": "En Bogotá, la tienda calcula el $25\\%$ de $200$ manzanas para una promoción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el porcentaje como valor absoluto."
+        },
+        {
+          "letter": "B",
+          "text": "$75$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el $37,5\\%$ y no el $25\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$50$",
+          "is_correct": true,
+          "feedback": "Correcto. $200 \\times 0,25 = 50$."
+        },
+        {
+          "letter": "D",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el $10\\%$ de $200$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El $25\\%$ equivale a $\\frac{25}{100} = 0,25$. Entonces $200 \\times 0,25 = 50$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v2",
+      "statement": "¿A qué porcentaje equivale el número decimal $0,15$?",
+      "context": "En Medellín, los estudiantes convierten el decimal $0,15$ a porcentaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. $0,15 \\times 100 = 15\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$1,5\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Moviste la coma un lugar en lugar de dos."
+        },
+        {
+          "letter": "C",
+          "text": "$150\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $1000$ en lugar de $100$."
+        },
+        {
+          "letter": "D",
+          "text": "$0,15\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No convertiste el decimal, lo dejaste igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para pasar de decimal a porcentaje se multiplica por $100$. Así $0,15 \\times 100 = 15\\%$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto paga el cliente después del descuento?",
+      "context": "En Cali, una chaqueta cuesta $80.000$ COP y tiene $20\\%$ de descuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $20.000$ fijos en lugar del $20\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$72.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste solo $10\\%$ de descuento."
+        },
+        {
+          "letter": "C",
+          "text": "$16.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor del descuento, no el precio final."
+        },
+        {
+          "letter": "D",
+          "text": "$64.000$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. Descuento $= 16.000$. Precio final $= 80.000 - 16.000 = 64.000$ COP."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Descuento $= 80.000 \\times 0,20 = 16.000$ COP. Precio final $= 80.000 - 16.000 = 64.000$ COP. También es $80.000 \\times 0,80$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto interés se paga con $I = P \\cdot r \\cdot t$?",
+      "context": "En Cartagena, un préstamo de $500.000$ COP se pacta al $2\\%$ mensual durante $6$ meses con interés simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $t = 5$ meses en lugar de $6$."
+        },
+        {
+          "letter": "B",
+          "text": "$60.000$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. $500.000 \\times 0,02 \\times 6 = 60.000$ COP."
+        },
+        {
+          "letter": "C",
+          "text": "$600.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $r = 20\\%$ en lugar de $2\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "$560.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste capital más interés; solo piden el interés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$I = 500.000 \\times 0,02 \\times 6 = 10.000 \\times 6 = 60.000$ COP. La tasa debe usarse en decimal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el nuevo precio?",
+      "context": "En Barranquilla, un computador de $200.000$ COP sube $15\\%$ por inflación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$215.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $7,5\\%$ en lugar de $15\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$300.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste $50\\%$ de aumento."
+        },
+        {
+          "letter": "C",
+          "text": "$230.000$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. $200.000 \\times 1,15 = 230.000$ COP."
+        },
+        {
+          "letter": "D",
+          "text": "$203.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $1,5\\%$ en lugar de $15\\%$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aumento $= 200.000 \\times 0,15 = 30.000$ COP. Precio nuevo $= 200.000 + 30.000 = 230.000$ COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el precio final con IVA incluido?",
+      "context": "En Bucaramanga, un celular cuesta $150.000$ COP antes de IVA. El IVA en Colombia es $19\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$178.500$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. $150.000 \\times 1,19 = 178.500$ COP."
+        },
+        {
+          "letter": "B",
+          "text": "$169.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste IVA de aproximadamente $12,7\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$165.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste $10\\%$ en lugar de $19\\%$."
+        },
+        {
+          "letter": "D",
+          "text": "$150.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. No agregaste el IVA."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "IVA $= 150.000 \\times 0,19 = 28.500$ COP. Precio final $= 150.000 + 28.500 = 178.500$ COP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál fue el capital inicial $P$?",
+      "context": "En Pereira, un ahorrador recibió $48.000$ COP de interés simple en $8$ meses a una tasa de $2\\%$ mensual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$200.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese capital el interés sería $32.000$ COP."
+        },
+        {
+          "letter": "B",
+          "text": "$240.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese capital el interés sería $38.400$ COP."
+        },
+        {
+          "letter": "C",
+          "text": "$400.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese capital el interés sería $64.000$ COP."
+        },
+        {
+          "letter": "D",
+          "text": "$300.000$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. $P = 48.000 / (0,02 \\times 8) = 300.000$ COP."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "De $I = P \\cdot r \\cdot t$ se despeja $P = I / (r \\cdot t) = 48.000 / 0,16 = 300.000$ COP.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál fue la tasa mensual aplicada?",
+      "context": "En Manizales, $400.000$ COP produjeron $72.000$ COP de interés simple en $9$ meses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,5\\%$ mensual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esa tasa el interés sería $54.000$ COP."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\%$ mensual",
+          "is_correct": true,
+          "feedback": "Correcto. $r = 72.000 / (400.000 \\times 9) = 0,02 = 2\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$3\\%$ mensual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esa tasa el interés sería $108.000$ COP."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\%$ mensual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esa tasa el interés sería $144.000$ COP."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$r = I / (P \\cdot t) = 72.000 / 3.600.000 = 0,02$. En porcentaje es $2\\%$ mensual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v9",
+      "statement": "Al evaluar ambas propuestas, ¿cuál conviene al inversionista?",
+      "context": "En Medellín, un banco ofrece $1.000.000$ COP al $2,5\\%$ mensual por $12$ meses y otro ofrece $28\\%$ anual por un año, ambos con interés simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El banco anual, porque $28\\%$ supera a $2,5\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No comparaste periodos iguales: $2,5\\%$ es mensual."
+        },
+        {
+          "letter": "B",
+          "text": "Son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2,5\\% \\times 12 = 30\\%$, mayor que $28\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "El banco mensual, porque produce $300.000$ COP frente a $280.000$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. Mensual: $1.000.000 \\times 0,025 \\times 12 = 300.000$. Anual: $280.000$."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, ambos pierden dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos generan interés positivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Interés mensual $= 300.000$ COP. Interés anual $= 1.000.000 \\times 0,28 = 280.000$ COP. Conviene la oferta mensual por $20.000$ COP de diferencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el monto final $M = P(1 + r \\cdot t)$?",
+      "context": "En Armenia, se invierten $800.000$ COP al $3\\%$ mensual durante $5$ meses con interés simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$920.000$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. $M = 800.000 \\times (1 + 0,15) = 920.000$ COP."
+        },
+        {
+          "letter": "B",
+          "text": "$840.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $t = 2$ meses en lugar de $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$1.200.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $r = 10\\%$ mensual."
+        },
+        {
+          "letter": "D",
+          "text": "$812.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo un mes de interés."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$r \\cdot t = 0,03 \\times 5 = 0,15$. Entonces $M = 800.000 \\times 1,15 = 920.000$ COP, que incluye $120.000$ de interés.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v11",
+      "statement": "Al evaluar el cálculo, ¿cuál es el interés correcto y qué error cometió?",
+      "context": "En Pasto, un estudiante calculó el interés de $200.000$ COP al $5\\%$ mensual por $4$ meses y obtuvo $4.000.000$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.000.000$ COP, el cálculo es correcto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó $r = 5$ en lugar de $0,05$."
+        },
+        {
+          "letter": "B",
+          "text": "$240.000$ COP, olvidó dividir entre $100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor correspondería a $30\\%$ mensual."
+        },
+        {
+          "letter": "C",
+          "text": "$210.000$ COP, sumó el capital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor mezcla interés con parte del capital."
+        },
+        {
+          "letter": "D",
+          "text": "$40.000$ COP, usó $5$ en vez de $0,05$ como tasa",
+          "is_correct": true,
+          "feedback": "Correcto. $200.000 \\times 0,05 \\times 4 = 40.000$ COP. El error fue no convertir $5\\%$ a decimal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$5\\% = 0,05$. El interés es $200.000 \\times 0,05 \\times 4 = 40.000$ COP. Multiplicar por $5$ da un valor $100$ veces mayor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el precio final con los descuentos sucesivos?",
+      "context": "En Cartagena, un almacén vende una maleta de $120.000$ COP con $30\\%$ de descuento más $10\\%$ adicional sobre el valor ya rebajado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$72.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el precio con $40\\%$ directo, no con descuentos sucesivos."
+        },
+        {
+          "letter": "B",
+          "text": "$75.600$ COP",
+          "is_correct": true,
+          "feedback": "Correcto. $120.000 \\times 0,70 = 84.000$ y $84.000 \\times 0,90 = 75.600$ COP."
+        },
+        {
+          "letter": "C",
+          "text": "$78.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $35\\%$ directo en lugar de aplicar sucesión."
+        },
+        {
+          "letter": "D",
+          "text": "$84.000$ COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste solo el primer descuento del $30\\%$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primer descuento: $120.000 \\times 0,70 = 84.000$ COP. Segundo: $84.000 \\times 0,90 = 75.600$ COP. Equivale a un descuento único de $37\\%$, menor que $40\\%$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
