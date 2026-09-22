@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T03:44:38.733Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué le ocurre a la gráfica al pasar de y igual a f(x) a y igual a f(x) + 2?",
+      "context": "En Bogotá, un profesor compara la gráfica de y igual a f(x) con la de y igual a f(x) + 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se desplaza 2 unidades hacia arriba",
+          "is_correct": true,
+          "feedback": "Correcto. Sumar 2 fuera de la función eleva cada punto."
+        },
+        {
+          "letter": "B",
+          "text": "Se desplaza 2 unidades hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurriría con y igual a f(x) menos 2."
+        },
+        {
+          "letter": "C",
+          "text": "Se desplaza 2 unidades a la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento horizontal usa cambios dentro de la función."
+        },
+        {
+          "letter": "D",
+          "text": "Se refleja respecto al eje x",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión corresponde a y igual a menos f(x)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumar una constante k a f(x) traslada la gráfica verticalmente: con k = 2, todo sube 2 unidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa la transformación y igual a f(x - 3)?",
+      "context": "En Medellín, los estudiantes observan cómo cambia la parábola al pasar de y igual a f(x) a y igual a f(x - 3).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gráfica se desplaza 3 unidades a la derecha",
+          "is_correct": true,
+          "feedback": "Correcto. Restar dentro de la función desplaza a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "La gráfica se desplaza 3 unidades a la izquierda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurriría con y igual a f(x + 3)."
+        },
+        {
+          "letter": "C",
+          "text": "La gráfica se desplaza 3 unidades hacia arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera de la función."
+        },
+        {
+          "letter": "D",
+          "text": "La gráfica se desplaza 3 unidades hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera de la función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cambios dentro del argumento actúan al contrario de lo esperado: x menos 3 mueve la gráfica 3 lugares a la derecha.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el vértice de la parábola y igual a x al cuadrado + 4?",
+      "context": "En Cali, un grupo grafica y igual a x al cuadrado y luego y igual a x al cuadrado + 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto (0, 4)",
+          "is_correct": true,
+          "feedback": "Correcto. La gráfica sube 4 unidades y el vértice pasa de (0, 0) a (0, 4)."
+        },
+        {
+          "letter": "B",
+          "text": "El punto (0, menos 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese vértice corresponde a y igual a x al cuadrado menos 4."
+        },
+        {
+          "letter": "C",
+          "text": "El punto (4, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el desplazamiento vertical con uno horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "El punto (0, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el vértice original sin desplazar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumar 4 eleva toda la parábola: el mínimo deja de estar en (0, 0) y queda en (0, 4).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el vértice de esa parábola?",
+      "context": "En Barranquilla, los estudiantes grafican y igual a (x - 2) al cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto (2, 0)",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión se anula en x = 2, así que el vértice es (2, 0)."
+        },
+        {
+          "letter": "B",
+          "text": "El punto (menos 2, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese vértice corresponde a y igual a (x + 2) al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "El punto (0, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el desplazamiento horizontal con uno vertical."
+        },
+        {
+          "letter": "D",
+          "text": "El punto (0, menos 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parábola sería y igual a x al cuadrado menos 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En y igual a (x menos h) al cuadrado, el vértice es (h, 0); con h = 2 queda (2, 0).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v5",
+      "statement": "¿Qué representa la gráfica de y igual a menos f(x) respecto a la de y igual a f(x)?",
+      "context": "En Bucaramanga, un profesor refleja la gráfica de una función multiplicándola por menos uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una reflexión respecto al eje x",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar el signo de las imágenes invierte la gráfica verticalmente."
+        },
+        {
+          "letter": "B",
+          "text": "Una reflexión respecto al eje y",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a y igual a f(menos x)."
+        },
+        {
+          "letter": "C",
+          "text": "Un giro respecto al origen sin reflexión",
+          "is_correct": false,
+          "feedback": "Incorrecto. El giro de media vuelta corresponde a menos f(menos x)."
+        },
+        {
+          "letter": "D",
+          "text": "Una reflexión respecto a la recta y igual a x",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa reflexión corresponde a la función inversa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar la función por menos uno cambia el signo de cada y: lo que estaba arriba pasa abajo y viceversa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuánto vale g(1)?",
+      "context": "En Pereira, una función cumple que f(1) = 3 y se define g(x) = 2 f(x).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Se duplica la imagen: 2 por 3 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor original de f(1) sin transformar."
+        },
+        {
+          "letter": "C",
+          "text": "1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2 en vez de multiplicar por 2."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 2 en vez de multiplicar por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transformación y igual a 2 f(x) estira verticalmente al doble: cada imagen queda multiplicada por 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación hay entre las dos gráficas?",
+      "context": "En Manizales, se comparan las parábolas y igual a x al cuadrado y y igual a (x + 5) al cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda es la primera desplazada 5 unidades a la izquierda",
+          "is_correct": true,
+          "feedback": "Correcto. Sumar 5 dentro del cuadrado mueve la gráfica a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda es la primera desplazada 5 unidades a la derecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurriría con y igual a (x - 5) al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda es la primera desplazada 5 unidades hacia arriba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda es la primera desplazada 5 unidades hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El vértice pasa de (0, 0) a (menos 5, 0): la forma es idéntica, solo cambia la posición horizontal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor máximo de esa función?",
+      "context": "En Cartagena, un grupo analiza la función y igual a menos x al cuadrado + 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice es (0, 1) y la parábola abre hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el máximo de y igual a menos x al cuadrado, sin el + 1."
+        },
+        {
+          "letter": "C",
+          "text": "Menos 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el signo del desplazamiento vertical."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene máximo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda parábola que abre hacia abajo tiene un máximo en su vértice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reflexión invierte la parábola y el + 1 la sube: el punto más alto queda en (0, 1).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v9",
+      "statement": "¿Cuánto vale g(2)?",
+      "context": "En Santa Marta, una tabla muestra que f(2) = 5 y se define g(x) = f(x) - 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Se resta 3 a la imagen: 5 menos 3 = 2."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de f(2) sin la transformación."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3 en vez de restar 3."
+        },
+        {
+          "letter": "D",
+          "text": "Menos 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste partir del valor f(2) = 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Restar 3 fuera de la función baja cada punto 3 unidades: g(2) = f(2) menos 3 = 2.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v10",
+      "statement": "¿Qué punto de g corresponde al punto (3, 4) de f?",
+      "context": "En Armenia, la gráfica de f contiene al punto (3, 4) y se define g(x) = f(x + 1) + 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto (2, 6)",
+          "is_correct": true,
+          "feedback": "Correcto. La gráfica se mueve 1 a la izquierda y 2 hacia arriba: (2, 6)."
+        },
+        {
+          "letter": "B",
+          "text": "El punto (4, 6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Moviste a la derecha en vez de a la izquierda."
+        },
+        {
+          "letter": "C",
+          "text": "El punto (2, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Moviste hacia abajo en vez de hacia arriba."
+        },
+        {
+          "letter": "D",
+          "text": "El punto (4, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste ambas direcciones del desplazamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transformación combina x + 1 (izquierda 1) con + 2 (arriba 2): x pasa de 3 a 2 y y pasa de 4 a 6.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.61,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se evalúa esa afirmación?",
+      "context": "En Villavicencio, un estudiante afirma que y igual a f(2x) duplica la altura de la gráfica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa: f(2x) comprime horizontalmente; la altura la duplica y igual a 2 f(x)",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar dentro afecta al eje x, no a la altura."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: multiplicar por 2 siempre duplica la altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el 2 fuera de la función estira verticalmente."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera cuando la función es lineal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni siquiera en lineales: f(2x) cambia la pendiente, no duplica cada imagen por separado."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa porque f(2x) no cambia nada en la gráfica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay cambio: la gráfica se angosta a la mitad en horizontal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El factor dentro del argumento acelera la entrada y comprime la gráfica hacia el eje y; el estiramiento vertical usa el factor fuera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el error cometido?",
+      "context": "En Neiva, un estudiante dice que el vértice de y igual a (x - 4) al cuadrado es el punto (menos 4, 0).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vértice es (4, 0), porque x - 4 se anula en x = 4",
+          "is_correct": true,
+          "feedback": "Correcto. La parábola se desplaza 4 a la derecha, no a la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "No hay error: el vértice sí es (menos 4, 0)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaluar en menos 4 se obtiene 64, no 0."
+        },
+        {
+          "letter": "C",
+          "text": "El vértice es (0, menos 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el desplazamiento horizontal con uno vertical."
+        },
+        {
+          "letter": "D",
+          "text": "El vértice es (0, 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parábola sería y igual a x al cuadrado + 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cero de x menos 4 está en x = 4: el estudiante aplicó el signo al revés y movió la parábola al lado contrario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W30-transformaciones-graficas-funciones-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

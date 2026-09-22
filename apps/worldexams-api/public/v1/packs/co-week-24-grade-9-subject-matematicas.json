@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-24-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T03:44:38.730Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula de la longitud de una circunferencia de radio r?",
+      "context": "En Bogotá, un estudiante debe calcular la longitud del borde de una tapa circular de radio r.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2πr",
+          "is_correct": true,
+          "feedback": "Correcto. La longitud de la circunferencia es 2πr, equivalente a π por el diámetro."
+        },
+        {
+          "letter": "B",
+          "text": "πr²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión corresponde al área del círculo, no a su longitud."
+        },
+        {
+          "letter": "C",
+          "text": "πd²",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diámetro no se eleva al cuadrado en la longitud de la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "2πr²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese producto duplica el área del círculo y no representa una longitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud de la circunferencia se obtiene con la fórmula L = 2πr, donde r es el radio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula del área de un círculo de radio r?",
+      "context": "En Medellín, se quiere cubrir con césped una zona circular de radio r.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "πr²",
+          "is_correct": true,
+          "feedback": "Correcto. El área del círculo es π por el cuadrado del radio."
+        },
+        {
+          "letter": "B",
+          "text": "2πr",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión da la longitud de la circunferencia, no el área."
+        },
+        {
+          "letter": "C",
+          "text": "πr",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "4πr²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese factor corresponde al área de la esfera, no a la del círculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área del círculo se calcula con A = πr².",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el área de la superficie de la piscina?",
+      "context": "En Cali, una piscina circular tiene un radio de 5 m. Use π ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "78.5 m²",
+          "is_correct": true,
+          "feedback": "Correcto. A = πr² = 3.14 × 25 = 78.5 m²."
+        },
+        {
+          "letter": "B",
+          "text": "31.4 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la longitud de la circunferencia (2πr), no el área."
+        },
+        {
+          "letter": "C",
+          "text": "15.7 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste πr sin elevar el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "157 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el área correcta sin justificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con r = 5 m se obtiene A = πr² = 3.14 × 25 = 78.5 m².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la longitud del borde de la tapa?",
+      "context": "En Barranquilla, una tapa de alcantarilla tiene un diámetro de 14 dm. Use π ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21.98 dm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el radio (7 dm) como si fuera el diámetro."
+        },
+        {
+          "letter": "B",
+          "text": "43.96 dm",
+          "is_correct": true,
+          "feedback": "Correcto. L = πd = 3.14 × 14 = 43.96 dm."
+        },
+        {
+          "letter": "C",
+          "text": "153.86 dm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es el área del círculo, no su longitud."
+        },
+        {
+          "letter": "D",
+          "text": "87.92 dm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la longitud correcta sin justificación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como la longitud es π por el diámetro, L = 3.14 × 14 = 43.96 dm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área del sector circular?",
+      "context": "En Bucaramanga, una pizza circular de 12 cm de radio se corta en un sector cuyo ángulo central mide 90°. Use π ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "452.16 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el área del círculo completo, no del sector de 90°."
+        },
+        {
+          "letter": "B",
+          "text": "113.04 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. A = (90/360) × πr² = 0.25 × 3.14 × 144 = 113.04 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "56.52 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 8 en vez de entre 4."
+        },
+        {
+          "letter": "D",
+          "text": "226.08 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la mitad del círculo en vez de un cuarto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un sector de 90° es la cuarta parte del círculo, así que su área es 0.25 × 3.14 × 144 = 113.04 cm².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la longitud del arco recorrido? (Exprese el resultado en función de π).",
+      "context": "En Pereira, un reloj de pared tiene un radio de 12 cm. La manecilla de los minutos recorre un arco correspondiente a 90°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12π cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a la semicircunferencia, no a un arco de 90°."
+        },
+        {
+          "letter": "B",
+          "text": "6π cm",
+          "is_correct": true,
+          "feedback": "Correcto. L = (90/360) × 2πr = 0.25 × 24π = 6π cm."
+        },
+        {
+          "letter": "C",
+          "text": "3π cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 8 en vez de entre 4."
+        },
+        {
+          "letter": "D",
+          "text": "24π cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la circunferencia completa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La longitud del arco es L = (90/360) × 2π × 12 = 6π cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el área del estanque?",
+      "context": "En Manizales, la circunferencia del borde de un estanque circular mide 31.4 m. Use π ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "78.5 m²",
+          "is_correct": true,
+          "feedback": "Correcto. r = 31.4/(2×3.14) = 5 m, y A = 3.14 × 25 = 78.5 m²."
+        },
+        {
+          "letter": "B",
+          "text": "314 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste la longitud por 10 sin despejar el radio."
+        },
+        {
+          "letter": "C",
+          "text": "15.7 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el perímetro como si fuera el radio."
+        },
+        {
+          "letter": "D",
+          "text": "62.8 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la longitud conocida en vez de hallar el área."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De L = 2πr se despeja r = 31.4/6.28 = 5 m; luego A = πr² = 3.14 × 25 = 78.5 m².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas veces es mayor el área del círculo B con respecto al área del círculo A?",
+      "context": "En Cartagena, un círculo A tiene radio de 3 cm y un círculo B tiene el doble de radio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 veces",
+          "is_correct": true,
+          "feedback": "Correcto. Al duplicar el radio, el área se multiplica por 2² = 4."
+        },
+        {
+          "letter": "B",
+          "text": "2 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área depende del cuadrado del radio, no del radio directamente."
+        },
+        {
+          "letter": "C",
+          "text": "3 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparaste los radios, pero el área crece con el cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "8 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el factor del área con el del volumen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si el radio se duplica, el área queda multiplicada por 2² = 4, porque A = πr².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v9",
+      "statement": "¿Cuánta membrana se necesita como mínimo?",
+      "context": "En Santa Marta, un aspersor riega en forma circular con un radio de 8 m. Se quiere cubrir toda la zona regada con una membrana. Use π ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25.12 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la longitud de la circunferencia, no el área."
+        },
+        {
+          "letter": "B",
+          "text": "200.96 m²",
+          "is_correct": true,
+          "feedback": "Correcto. A = πr² = 3.14 × 64 = 200.96 m²."
+        },
+        {
+          "letter": "C",
+          "text": "401.92 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el área correcta sin justificación."
+        },
+        {
+          "letter": "D",
+          "text": "100.48 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la mitad del radio en el cálculo del área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área cubierta es A = πr² = 3.14 × 64 = 200.96 m².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el área de la superficie de agua (corona circular)?",
+      "context": "En Armenia, una fuente circular tiene un borde exterior de 5 m de radio y una isla central circular de 2 m de radio. Use π ≈ 3.14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65.94 m²",
+          "is_correct": true,
+          "feedback": "Correcto. A = π(5² − 2²) = 3.14 × 21 = 65.94 m²."
+        },
+        {
+          "letter": "B",
+          "text": "91.06 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las áreas en vez de restarlas."
+        },
+        {
+          "letter": "C",
+          "text": "28.26 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el área de la isla central, no la corona."
+        },
+        {
+          "letter": "D",
+          "text": "12.56 m²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los radios sin elevarlos al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área del agua es la diferencia de las áreas: π(5² − 2²) = 3.14 × 21 = 65.94 m².",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación correcta de la afirmación de Julián?",
+      "context": "En Villavicencio, Julián afirma que si duplica el radio de un círculo, el área también se duplica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa: el área se multiplica por 4, porque depende del cuadrado del radio",
+          "is_correct": true,
+          "feedback": "Correcto. Al duplicar r, el factor 2² = 4 multiplica el área."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: el área crece en la misma proporción que el radio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área crece con el cuadrado del radio, no linealmente."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera si el círculo es pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación cuadrática se cumple para cualquier tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa: el área se multiplica por 2π",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor correcto es 4 y no incluye a π."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como A = πr², al duplicar el radio el área se multiplica por 2² = 4, de modo que la afirmación es falsa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el error cometido y el área correcta? (Exprese el área en función de π).",
+      "context": "En Cúcuta, un estudiante calcula el área de un círculo cuyo diámetro mide 10 cm y responde 100π cm².",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundió el diámetro con el radio: el radio es 5 cm y el área correcta es 25π cm²",
+          "is_correct": true,
+          "feedback": "Correcto. Con r = 5 cm, A = πr² = 25π cm²."
+        },
+        {
+          "letter": "B",
+          "text": "No hay error: el área es 100π cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado sale de elevar el diámetro al cuadrado, lo cual no aplica."
+        },
+        {
+          "letter": "C",
+          "text": "El error es que debió usar 2πr: el área correcta es 10π cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2πr es la longitud de la circunferencia, no el área."
+        },
+        {
+          "letter": "D",
+          "text": "El error es que debió dividir entre 2: el área correcta es 50π cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir 100π entre 2 no corrige la confusión entre radio y diámetro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El radio es la mitad del diámetro, es decir 5 cm; por lo tanto el área correcta es A = π(5)² = 25π cm².",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W24-circunferencia-circulo-area-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

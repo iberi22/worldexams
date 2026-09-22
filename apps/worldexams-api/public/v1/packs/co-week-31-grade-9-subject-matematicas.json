@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-31-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T03:44:38.734Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza al interés compuesto?",
+      "context": "En Bogotá, un profesor de matemáticas explica a sus estudiantes qué significa invertir a interés compuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los intereses de cada periodo se suman al capital y generan nuevos intereses en el periodo siguiente",
+          "is_correct": true,
+          "feedback": "Correcto. En el interés compuesto el capital crece cada periodo porque los intereses se capitalizan."
+        },
+        {
+          "letter": "B",
+          "text": "El interés se calcula siempre sobre el capital inicial sin sumarse a él",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición del interés simple, no del compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "El capital disminuye cada periodo en un valor fijo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El capital a interés compuesto crece, no disminuye de forma fija."
+        },
+        {
+          "letter": "D",
+          "text": "El interés de cada periodo se retira y nunca afecta el capital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el interés se retira, no hay capitalización y no es interés compuesto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El interés compuesto se distingue porque los intereses generados se acumulan al capital y a su vez producen más intereses, lo que produce un crecimiento exponencial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v2",
+      "statement": "Si C es el capital inicial, i es la tasa de interés por periodo en forma decimal y n es el número de periodos, ¿cuál es la fórmula del monto M a interés compuesto?",
+      "context": "En Medellín, una cooperativa explica a unos jóvenes la fórmula que usa para proyectar sus ahorros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "M = C por (1 + i) elevado a la n",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la fórmula del monto a interés compuesto."
+        },
+        {
+          "letter": "B",
+          "text": "M = C por (1 + i por n)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del monto a interés simple."
+        },
+        {
+          "letter": "C",
+          "text": "M = C más i elevado a la n sin sumar 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta sumar 1 a la tasa antes de elevar, pues el capital base se conserva."
+        },
+        {
+          "letter": "D",
+          "text": "M = C menos C por i elevado a la n",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión resta en vez de acumular el crecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El factor (1 + i) representa que en cada periodo se conserva el capital (1) y se agrega el interés (i); al elevarlo a la n se aplica la capitalización repetida durante n periodos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el monto final de la inversión?",
+      "context": "En Cali, una familia invierte COP 1.000.000 en un CDT que paga 10 % anual compuesto durante 2 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "COP 1.210.000",
+          "is_correct": true,
+          "feedback": "Correcto. M = 1.000.000 por 1,1 al cuadrado = 1.000.000 por 1,21 = 1.210.000."
+        },
+        {
+          "letter": "B",
+          "text": "COP 1.200.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor usa interés simple: 1.000.000 más 2 por 100.000."
+        },
+        {
+          "letter": "C",
+          "text": "COP 1.100.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el monto de un solo año, falta capitalizar el segundo año."
+        },
+        {
+          "letter": "D",
+          "text": "COP 1.300.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 100.000 tres veces sin aplicar la capitalización correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se aplica M = 1.000.000 por (1 + 0,10) al cuadrado = 1.000.000 por 1,21 = COP 1.210.000.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el monto acumulado al final de los 2 años?",
+      "context": "En Barranquilla, un comerciante deposita COP 2.000.000 en una cuenta que reconoce 5 % anual compuesto durante 2 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "COP 2.205.000",
+          "is_correct": true,
+          "feedback": "Correcto. M = 2.000.000 por 1,05 al cuadrado = 2.000.000 por 1,1025 = 2.205.000."
+        },
+        {
+          "letter": "B",
+          "text": "COP 2.200.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al interés simple: 2.000.000 más 200.000."
+        },
+        {
+          "letter": "C",
+          "text": "COP 2.100.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el monto de un solo año de capitalización."
+        },
+        {
+          "letter": "D",
+          "text": "COP 2.500.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste una tasa mucho mayor que el 5 % indicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primer año: 2.000.000 por 1,05 = 2.100.000. Segundo año: 2.100.000 por 1,05 = 2.205.000, que equivale a 2.000.000 por 1,1025.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto dinero tendrá al final del segundo año?",
+      "context": "En Bucaramanga, una estudiante ahorra COP 500.000 en una entidad que paga 20 % anual compuesto durante 2 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "COP 720.000",
+          "is_correct": true,
+          "feedback": "Correcto. M = 500.000 por 1,2 al cuadrado = 500.000 por 1,44 = 720.000."
+        },
+        {
+          "letter": "B",
+          "text": "COP 700.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor usa interés simple: 500.000 más 2 por 100.000."
+        },
+        {
+          "letter": "C",
+          "text": "COP 600.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el monto de un solo año, falta el segundo periodo."
+        },
+        {
+          "letter": "D",
+          "text": "COP 750.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste una tasa distinta al 20 % anual indicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El factor de capitalización es 1,2 por año; en dos años es 1,44, de modo que 500.000 por 1,44 = COP 720.000.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el interés ganado al final de los 3 años?",
+      "context": "En Pereira, un docente invierte COP 1.000.000 al 10 % anual compuesto durante 3 años para el fondo de su curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "COP 331.000",
+          "is_correct": true,
+          "feedback": "Correcto. El monto es 1.331.000 y el interés es 1.331.000 menos 1.000.000 = 331.000."
+        },
+        {
+          "letter": "B",
+          "text": "COP 300.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el interés simple de 3 años: 3 por 100.000."
+        },
+        {
+          "letter": "C",
+          "text": "COP 1.331.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el monto total, no el interés ganado; falta restar el capital."
+        },
+        {
+          "letter": "D",
+          "text": "COP 310.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Capitalizaste mal el tercer año del proceso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "M = 1.000.000 por 1,1 al cubo = 1.000.000 por 1,331 = 1.331.000. El interés es M menos C = COP 331.000.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conclusión es correcta al analizar los intereses de cada año?",
+      "context": "En Manizales, una inversión de COP 1.000.000 al 10 % anual compuesto genera COP 100.000 de interés el primer año y COP 110.000 el segundo año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El interés del segundo año es mayor porque se calcula sobre COP 1.100.000 ya capitalizados",
+          "is_correct": true,
+          "feedback": "Correcto. La base del segundo año incluye los intereses del primero, por eso el interés crece."
+        },
+        {
+          "letter": "B",
+          "text": "El interés debería ser igual los dos años porque la tasa no cambió",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con capitalización la base cambia aunque la tasa sea la misma."
+        },
+        {
+          "letter": "C",
+          "text": "El interés del segundo año es menor porque el capital se reduce",
+          "is_correct": false,
+          "feedback": "Incorrecto. El capital aumenta con la capitalización, no se reduce."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia se debe a un error del banco al liquidar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia es propia del interés compuesto y está bien calculada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primer año: 10 % de 1.000.000 = 100.000. Nuevo capital: 1.100.000. Segundo año: 10 % de 1.100.000 = 110.000. El interés crece porque la base crece.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v8",
+      "statement": "¿Qué opción conviene y por qué?",
+      "context": "En Cartagena, dos bancos ofrecen por un año: Banco A, 12 % anual con capitalización anual; Banco B, 1 % mensual capitalizable. Un cliente invertiría COP 1.000.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Banco B, porque 1 % mensual compuesto produce cerca de COP 1.126.825, más que los COP 1.120.000 del Banco A",
+          "is_correct": true,
+          "feedback": "Correcto. 1,01 elevado a 12 es 1,126825, equivalente a 12,68 % efectivo anual, mayor que 12 %."
+        },
+        {
+          "letter": "B",
+          "text": "El Banco A, porque 12 % anual siempre supera cualquier tasa mensual del 1 %",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al capitalizar cada mes, el 1 % mensual se acumula por encima del 12 % anual."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos opciones son iguales porque 12 por 1 % es 12 %",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar 12 por 1 % ignora la capitalización mensual compuesta."
+        },
+        {
+          "letter": "D",
+          "text": "El Banco B, porque entrega COP 1.120.000 exactos sin capitalización",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Banco B con capitalización entrega más de 1.120.000, no ese valor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Banco A: 1.000.000 por 1,12 = 1.120.000. Banco B: 1.000.000 por 1,01 elevado a 12 = 1.126.825. La capitalización mensual hace mayor el rendimiento aunque 12 por 1 parezca 12.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v9",
+      "statement": "¿Qué patrón muestra la evolución del monto?",
+      "context": "En Santa Marta, un fondo de COP 800.000 al 25 % anual compuesto reporta estos montos: año 1, COP 1.000.000; año 2, COP 1.250.000; año 3, COP 1.562.500.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada año el monto se multiplica por 1,25, por eso el aumento anual es cada vez mayor",
+          "is_correct": true,
+          "feedback": "Correcto. El factor constante 1,25 aplicado al capital creciente genera aumentos de 200.000, 250.000 y 312.500."
+        },
+        {
+          "letter": "B",
+          "text": "Cada año el monto aumenta en COP 200.000 fijos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el primer aumento es 200.000; luego los aumentos crecen."
+        },
+        {
+          "letter": "C",
+          "text": "El monto crece en forma lineal porque la tasa es fija",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa fija con capitalización produce crecimiento exponencial, no lineal."
+        },
+        {
+          "letter": "D",
+          "text": "El monto se multiplica por 0,25 cada año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por 0,25 reduciría el capital en vez de aumentarlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cocientes 1.000.000/800.000, 1.250.000/1.000.000 y 1.562.500/1.250.000 valen 1,25. Al multiplicar una base cada vez mayor, el incremento absoluto crece.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál afirmación es correcta al comparar los dos montos?",
+      "context": "En Armenia, se comparan para COP 1.000.000 al 10 % anual durante 3 años el interés simple y el compuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El compuesto supera al simple en COP 31.000, porque capitaliza los intereses de cada año",
+          "is_correct": true,
+          "feedback": "Correcto. Simple: 1.300.000; compuesto: 1.331.000; diferencia: 31.000."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos montos son iguales porque usan la misma tasa y el mismo tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con igual tasa y tiempo, el compuesto supera al simple desde el segundo periodo."
+        },
+        {
+          "letter": "C",
+          "text": "El simple supera al compuesto en COP 31.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El simple da 1.300.000, menor que los 1.331.000 del compuesto."
+        },
+        {
+          "letter": "D",
+          "text": "El compuesto supera al simple en COP 300.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la diferencia con el interés total de un año."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interés simple: 1.000.000 más 3 por 100.000 = 1.300.000. Interés compuesto: 1.000.000 por 1,331 = 1.331.000. La capitalización explica los 31.000 adicionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En Villavicencio, un estudiante afirma: \"Si se duplica el tiempo de una inversión a interés compuesto, el monto final se duplica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa: el crecimiento es exponencial, no lineal; por ejemplo, COP 1.000.000 al 10 % en 2 años da 1.210.000 y en 4 años da 1.464.100, que no es el doble",
+          "is_correct": true,
+          "feedback": "Correcto. Duplicar n eleva el factor al cuadrado, no lo multiplica por 2."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: duplicar el tiempo siempre duplica el monto final",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa proporcionalidad solo ocurre en modelos lineales, no en el exponencial."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera solo cuando la tasa es del 10 % anual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ninguna tasa positiva duplicar el tiempo duplica el monto de forma general."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa porque el monto de 4 años es menor que el de 2 años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monto de 4 años es mayor, pero no es el doble; la razón dada es errónea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "M(2) = C por 1,1 al cuadrado y M(4) = C por 1,1 a la cuarta = M(2) por 1,21. El factor de 4 años es 1,4641, no 2 por 1,21.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el error cometido y cuál es el monto correcto?",
+      "context": "En Neiva, un estudiante calcula una inversión de COP 1.000.000 al 10 % anual durante 2 años como COP 1.200.000 y asegura que aplicó interés compuesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aplicó interés simple en vez de compuesto: lo correcto es COP 1.210.000",
+          "is_correct": true,
+          "feedback": "Correcto. Sumó 100.000 dos veces sin capitalizar; lo correcto es 1.000.000 por 1,21."
+        },
+        {
+          "letter": "B",
+          "text": "No hay error: COP 1.200.000 es el monto a interés compuesto",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.200.000 corresponde al interés simple de dos periodos."
+        },
+        {
+          "letter": "C",
+          "text": "El error es usar la tasa en decimal: lo correcto es COP 1.100.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.100.000 es solo un año y además sí se usa la tasa en decimal."
+        },
+        {
+          "letter": "D",
+          "text": "El error es elevar al cuadrado: lo correcto es COP 2.000.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevar al cuadrado es precisamente lo que exige la capitalización en 2 periodos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El procedimiento 1.000.000 más 2 por 100.000 es interés simple. A interés compuesto se debe multiplicar por 1,1 cada año: 1.000.000 por 1,21 = COP 1.210.000.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W31-interes-compuesto-matematica-financiera-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
