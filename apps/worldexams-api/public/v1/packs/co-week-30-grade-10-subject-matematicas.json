@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.247Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa la segunda derivada $f''(x)$ de una función $f$?",
+      "context": "En Bogotá, una clase de cálculo introduce el concepto de segunda derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pendiente de la recta tangente a $f$ en el punto $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la primera derivada $f'(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "El área bajo la curva entre dos puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área bajo la curva se relaciona con la integral, no con la segunda derivada."
+        },
+        {
+          "letter": "C",
+          "text": "La razón de cambio de la primera derivada $f'(x)$ con respecto a $x$.",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda derivada mide cómo varía la pendiente de la recta tangente."
+        },
+        {
+          "letter": "D",
+          "text": "El valor máximo de la función $f$ en el punto $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor máximo se obtiene con criterios de la primera o segunda derivada, no es la derivada misma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La segunda derivada $f''(x)$ se define como la derivada de la primera derivada: $f''(x) = \\frac{d}{dx}\\big(f'(x)\\big)$. Indica cómo cambia la pendiente de la recta tangente cuando $x$ varía, lo cual se relaciona con la concavidad de la gráfica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes notaciones es equivalente a $f''(x)$?",
+      "context": "En Medellín, se explican las notaciones equivalentes para la segunda derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{d^2 f}{dx^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. La notación de Leibniz $\\frac{d^2 f}{dx^2}$ representa la derivada segunda de $f$ respecto a $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{df}{dx}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa notación corresponde a la primera derivada, no a la segunda."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{d^2 x}{df^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las variables están invertidas y no representa la segunda derivada de $f$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int f(x)\\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la integral indefinida de $f$, no su segunda derivada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La segunda derivada admite distintas notaciones equivalentes: $f''(x)$, $\\frac{d^2 f}{dx^2}$ y $D^2 f(x)$. La notación de Leibniz refleja que se derivó dos veces: primero $\\frac{d}{dx}$ y luego otra vez $\\frac{d}{dx}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v3",
+      "statement": "¿Qué indica la condición $f''(x) > 0$ sobre la gráfica de $f$ cerca de $x$?",
+      "context": "En Cali, se interpreta geométricamente la segunda derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la función es decreciente cerca de $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La monotonicidad se analiza con $f'(x)$, no con $f''(x)$."
+        },
+        {
+          "letter": "B",
+          "text": "Que la gráfica es cóncava hacia arriba cerca de $x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando $f''(x) > 0$, la pendiente de la tangente aumenta y la gráfica se curva hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "Que la función es lineal cerca de $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $f''(x) > 0$, la pendiente cambia; la función no es lineal cerca de $x$."
+        },
+        {
+          "letter": "D",
+          "text": "Que la función tiene un máximo local en $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El máximo local se relaciona con un cambio de signo de $f'$, no con $f''$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando $f''(x) > 0$ en un intervalo, la primera derivada $f'$ es creciente allí, lo que geométricamente significa que la curva es cóncava hacia arriba (con forma de $\\cup$). Cuando $f''(x) < 0$, la curva es cóncava hacia abajo (forma de $\\cap$).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la segunda derivada de $f(x) = 3x^4 - 2x^2 + 5$?",
+      "context": "En Barranquilla, se calcula la segunda derivada de $f(x) = 3x^4 - 2x^2 + 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12x^3 - 4x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el resultado de la primera derivada, no de la segunda."
+        },
+        {
+          "letter": "B",
+          "text": "$36x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta derivar otra vez el término $-4x$ para obtener $-4$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^2 - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste los coeficientes entre $2$ en lugar de aplicar la regla de la potencia."
+        },
+        {
+          "letter": "D",
+          "text": "$36x^2 - 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 12x^3 - 4x$ y $f''(x) = 36x^2 - 4$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicando dos veces la regla de la potencia: $f'(x) = 12x^3 - 4x$ y $f''(x) = 36x^2 - 4$. El término constante $+5$ desaparece en ambas derivadas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué concavidad tiene $f(x) = x^3 - 6x$ en $x = 1$?",
+      "context": "En Bucaramanga, se estudia la concavidad de $f(x) = x^3 - 6x$ en un punto concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cóncava hacia arriba, porque $f''(1) = 6 > 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x) = 6x$, así que $f''(1) = 6 > 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Cóncava hacia abajo, porque $f''(1) = 6 > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo es positivo, pero concluyes mal sobre la concavidad."
+        },
+        {
+          "letter": "C",
+          "text": "No se puede determinar con la segunda derivada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(1)$ existe y su signo basta para conocer la concavidad local."
+        },
+        {
+          "letter": "D",
+          "text": "Lineal, porque $f''(1) = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(1) = 6$, no $0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $f(x) = x^3 - 6x$, $f''(x) = 6x$. Como $f''(1) = 6 > 0$, la gráfica es cóncava hacia arriba en $x = 1$, lo que significa que la pendiente crece al pasar por ese punto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v6",
+      "statement": "¿En qué intervalo es cóncava hacia arriba la función $f(x) = x^3 - 3x^2 + x$?",
+      "context": "En Pereira, se analiza $f(x) = x^3 - 3x^2 + x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En $(-\\infty, 1)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $(-\\infty, 1)$ la concavidad es hacia abajo."
+        },
+        {
+          "letter": "B",
+          "text": "En $(1, \\infty)$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x) = 6x - 6 = 6(x-1)$ es positiva cuando $x > 1$."
+        },
+        {
+          "letter": "C",
+          "text": "En $(-\\infty, 0)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(0) = -6 < 0$, así que allí la concavidad es hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "En todo $\\mathbb{R}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda derivada cambia de signo en $x = 1$, así que la concavidad no es uniforme."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $f''(x) = 6(x-1)$, la concavidad hacia arriba se da donde $f''(x) > 0$, es decir, cuando $x > 1$. Antes de $x = 1$, $f''(x) < 0$ y la curva es cóncava hacia abajo. En $x = 1$ hay un punto de inflexión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el punto de inflexión de $f(x) = x^3 - 3x^2 + 2$?",
+      "context": "En Cartagena, una estudiante busca puntos de inflexión de $f(x) = x^3 - 3x^2 + 2$.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "$(1, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x) = 6x - 6 = 0$ da $x = 1$; evaluando, $f(1) = 1 - 3 + 2 = 0$, y $f''$ cambia de signo allí."
+        },
+        {
+          "letter": "A",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(0) = -6 \\neq 0$ y no hay cambio de concavidad en $x = 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, -2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(2) = 6 \\neq 0$ y la concavidad no cambia en $x = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene puntos de inflexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda derivada es lineal y se anula exactamente una vez, garantizando un punto de inflexión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de inflexión ocurre donde $f''(x)$ cambia de signo. Como $f''(x) = 6x - 6$, se anula en $x = 1$. Para $x < 1$, $f''(x) < 0$ (cóncava hacia abajo); para $x > 1$, $f''(x) > 0$ (cóncava hacia arriba). El punto es $(1, f(1)) = (1, 0)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v8",
+      "statement": "Si la gráfica de $f'$ es una recta creciente que cruza el eje $x$ en $x = 3$, ¿qué se puede concluir sobre $f$?",
+      "context": "En Santa Marta, se observa la gráfica de la primera derivada $f'$ de cierta función $f$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ tiene un punto de inflexión en $x = 3$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f'$ creciente significa $f''(x) > 0$ y $f''(3) = 0$, lo que indica cambio de concavidad en $x = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$f$ tiene un mínimo local en $x = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mínimo requiere analizar el signo de $f'$, no de $f''$."
+        },
+        {
+          "letter": "C",
+          "text": "$f$ es lineal cerca de $x = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $f'$ es lineal y creciente, $f$ es cuadrática, no lineal."
+        },
+        {
+          "letter": "D",
+          "text": "$f$ no tiene ninguna característica especial en $x = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cruce de $f'$ por cero marca un punto notable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $f'$ cruza el eje $x$ en $x = 3$, hay un punto crítico de $f$ allí. Además, $f'$ creciente implica que $f''(x) > 0$, y al cruzar $f''(3) = 0$ cambia el signo de la concavidad de $f$. Por tanto, $x = 3$ es un punto de inflexión de $f$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v9",
+      "statement": "¿Qué se puede concluir sobre $f(x) = x^3 - 12x$ en $x = 2$ usando el criterio de la segunda derivada?",
+      "context": "En Manizales, se aplica el criterio de la segunda derivada a $f(x) = x^3 - 12x$ en $x = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay un máximo local porque $f'(2) > 0$ y $f''(2) > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para aplicar el criterio, primero debe cumplirse $f'(2) = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Hay un punto de inflexión porque $f''(2) = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $f''(2) = 0$, hay que verificar que cambie de signo."
+        },
+        {
+          "letter": "C",
+          "text": "No se puede concluir nada porque $f'(2) \\neq 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí sí se cumple $f'(2) = 0$."
+        },
+        {
+          "letter": "D",
+          "text": "Hay un mínimo local porque $f'(2) = 0$ y $f''(2) = 12 > 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(2) = 12 - 12 = 0$ y $f''(2) = 6 \\cdot 2 = 12 > 0$, por lo que hay un mínimo local."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El criterio de la segunda derivada establece que si $f'(c) = 0$ y $f''(c) > 0$, entonces $f$ tiene un mínimo local en $c$. En este caso, $f'(2) = 3(2)^2 - 12 = 0$ y $f''(2) = 6 \\cdot 2 = 12 > 0$, por lo que $x = 2$ es un mínimo local con $f(2) = -16$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v10",
+      "statement": "¿En qué intervalo el crecimiento de las ganancias se está acelerando?",
+      "context": "En Bogotá, las ganancias de una empresa, en millones de COP, se modelan como $G(t) = -t^3 + 6t^2$, donde $t$ se mide en años desde 2026.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para $t > 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para $t > 4$ la segunda derivada es negativa, así que el crecimiento se desacelera."
+        },
+        {
+          "letter": "B",
+          "text": "Para todo $t \\geq 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda derivada cambia de signo, así que no es uniforme."
+        },
+        {
+          "letter": "C",
+          "text": "Para $0 < t < 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $G''(t) = -6t + 12$ es positiva cuando $t < 2$, indicando aceleración del crecimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente en $t = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t = 2$ la segunda derivada vale cero, no hay aceleración instantánea allí."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El crecimiento se acelera cuando $G'(t)$ crece, es decir, cuando $G''(t) > 0$. Como $G''(t) = -6t + 12$, esta expresión es positiva en el intervalo $(0, 2)$. A partir de $t = 2$, el crecimiento se desacelera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v11",
+      "statement": "¿Qué tipo de extremo tiene $f$ en $x = 1$?",
+      "context": "En Medellín, una función cumple $f'(1) = 0$, $f''(1) = -4$ y $f'''(1) = 2$.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Máximo local, porque $f'(1) = 0$ y $f''(1) < 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio de la segunda derivada indica un máximo local cuando $f'(c) = 0$ y $f''(c) < 0$."
+        },
+        {
+          "letter": "A",
+          "text": "Mínimo local, porque $f'(1) = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para mínimo local se requiere $f''(1) > 0$, lo cual no se cumple."
+        },
+        {
+          "letter": "C",
+          "text": "Punto de inflexión, porque $f'''(1) \\neq 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada tercera no decide si hay extremo en $x = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "No hay extremo, porque $f''(1) \\neq 0$ y $f'''(1) \\neq 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio de la segunda derivada sí es aplicable cuando $f'(c) = 0$ y $f''(c) \\neq 0$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $f'(1) = 0$ y $f''(1) = -4 < 0$, el criterio de la segunda derivada garantiza un máximo local en $x = 1$. La derivada tercera no es relevante para clasificar este extremo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la aceleración de la partícula en el instante $t = 3$?",
+      "context": "En Cali, la posición en metros de una partícula en $t$ segundos está dada por $s(t) = t^3 - 6t^2 + 9t$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$ m/s$^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $s'(t) = 3t^2 - 12t + 9$ y $a(t) = s''(t) = 6t - 12$; en $t = 3$, $a(3) = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$0$ m/s$^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t = 3$ la aceleración es positiva, no nula."
+        },
+        {
+          "letter": "C",
+          "text": "$-6$ m/s$^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración es positiva en $t = 3$, no negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$9$ m/s$^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9$ corresponde a la velocidad inicial $s'(0)$, no a la aceleración en $t = 3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aceleración es la segunda derivada de la posición: $a(t) = s''(t)$. Derivando dos veces $s(t) = t^3 - 6t^2 + 9t$, se obtiene $a(t) = 6t - 12$. Evaluando en $t = 3$: $a(3) = 18 - 12 = 6$ m/s$^2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-10-2026-W30-derivadas-segunda-orden-concavidad-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.248Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define la tasa de cambio promedio de una función $f$ entre los puntos $x = a$ y $x = b$?",
+      "context": "En Bogotá, Valentina explica la tasa de cambio promedio en clase de cálculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{f(b) - f(a)}{b - a}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es el cociente entre el cambio de la salida y el cambio de la entrada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{b - a}{f(b) - f(a)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el cociente."
+        },
+        {
+          "letter": "C",
+          "text": "$f(b) - f(a)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el cambio en la salida, falta dividir por el cambio en la entrada."
+        },
+        {
+          "letter": "D",
+          "text": "$f(a) \\cdot f(b)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa de cambio no es un producto de valores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tasa de cambio promedio se define como $\\frac{f(b)-f(a)}{b-a}$ y corresponde al cambio en la salida por cada unidad de cambio en la entrada, medido sobre el intervalo $[a, b]$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v2",
+      "statement": "¿Qué representa geométricamente la tasa de cambio promedio entre dos puntos de la gráfica?",
+      "context": "En Medellín, Santiago grafica la posición de un bus intermunicipal en función del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área bajo la curva entre los dos puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área bajo la curva corresponde a otra magnitud, la integral."
+        },
+        {
+          "letter": "B",
+          "text": "La pendiente de la recta secante que une los dos puntos.",
+          "is_correct": true,
+          "feedback": "Correcto. La tasa de cambio promedio equivale a la pendiente de la secante."
+        },
+        {
+          "letter": "C",
+          "text": "La longitud del arco entre los dos puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de arco no representa la tasa de cambio."
+        },
+        {
+          "letter": "D",
+          "text": "La pendiente de la recta tangente en el primer punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la tasa instantánea, no la promedio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tasa de cambio promedio entre dos puntos equivale a la pendiente de la recta que los une, llamada secante porque corta la curva en dos puntos distintos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál fue la tasa de cambio promedio del crecimiento de la planta?",
+      "context": "En Cali, Mariana mide el crecimiento de una planta de café: pasó de $30$ cm a $42$ cm en 4 semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ cm por semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $42 - 30$ sin dividir entre 4."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ cm por semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese producto no corresponde al cociente correcto."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ cm por semana",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{42 - 30}{4} = \\frac{12}{4} = 3$ cm por semana."
+        },
+        {
+          "letter": "D",
+          "text": "$0.5$ cm por semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el cociente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tasa de cambio promedio se calcula como $\\frac{\\Delta s}{\\Delta t} = \\frac{42 - 30}{4} = 3$ cm por semana, es decir, la planta creció $3$ centímetros cada semana en promedio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la pendiente de la secante, que corresponde a la velocidad promedio del auto?",
+      "context": "En Cartagena, se registran los puntos $(t, s) = (0, 0)$ y $(5, 60)$ en una gráfica de posición (en m) frente a tiempo (en s) para un auto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa pendiente dividiría 60 entre 12, no corresponde al cálculo."
+        },
+        {
+          "letter": "B",
+          "text": "$10$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. No coincide con el cambio en el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te equivocaste en el cociente."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ m/s",
+          "is_correct": true,
+          "feedback": "Correcto. Pendiente $= \\frac{60 - 0}{5 - 0} = 12$ m/s."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La pendiente de la secante que une $(0,0)$ y $(5,60)$ es $\\frac{\\Delta s}{\\Delta t} = \\frac{60}{5} = 12$ m/s, lo que corresponde a la velocidad promedio del auto durante ese intervalo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál fue la rapidez promedio del camión?",
+      "context": "En Barranquilla, un camión sale hacia Cartagena: recorrió 150 km en 3 horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50$ km/h",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{150}{3} = 50$ km/h."
+        },
+        {
+          "letter": "B",
+          "text": "$150$ km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la distancia con la rapidez."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ h/km",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa unidad es recíproca, no aplica aquí."
+        },
+        {
+          "letter": "D",
+          "text": "$45$ km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el producto $15 \\cdot 3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La rapidez promedio es la distancia total dividida por el tiempo total: $\\frac{150}{3} = 50$ km/h.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la velocidad promedio entre $t = 2$ s y $t = 4$ s?",
+      "context": "En Bogotá, la posición (en m) de una cicla de Juan se modela con $s(t) = 5t^2$, donde $t$ está en segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo el valor inicial de la posición."
+        },
+        {
+          "letter": "B",
+          "text": "$30$ m/s",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{s(4) - s(2)}{4 - 2} = \\frac{80 - 20}{2} = 30$ m/s."
+        },
+        {
+          "letter": "C",
+          "text": "$40$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo el valor $s(4)$."
+        },
+        {
+          "letter": "D",
+          "text": "$60$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es $s(4) - s(2)$ sin dividir por el cambio de tiempo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$s(2) = 20$ m y $s(4) = 80$ m, por lo que la velocidad promedio es $\\frac{80 - 20}{4 - 2} = 30$ m/s en ese intervalo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente la diferencia entre ambas?",
+      "context": "En Medellín, en clase se compara la tasa de cambio promedio con la tasa de cambio instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tasa promedio y la instantánea se calculan exactamente de la misma manera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La promedio usa un cociente finito; la instantánea usa un límite."
+        },
+        {
+          "letter": "B",
+          "text": "La tasa instantánea nunca se calcula, solo se aproxima de forma verbal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con derivadas se puede calcular exactamente."
+        },
+        {
+          "letter": "C",
+          "text": "La tasa instantánea se obtiene cuando el intervalo tiende a cero; la promedio usa un intervalo finito.",
+          "is_correct": true,
+          "feedback": "Correcto. La instantánea es el límite de las tasas promedio cuando $h \\to 0$."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia entre ambas; son exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia está en el tamaño del intervalo usado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tasa promedio se calcula sobre un intervalo finito $[a, b]$. La instantánea corresponde al límite cuando ese intervalo se reduce a un punto, lo que coincide con la derivada en ese punto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál expresión representa la tasa de cambio instantánea de $f$ en $x = a$?",
+      "context": "En Cali, una estudiante escribe la definición formal de la tasa de cambio instantánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{f(a+h) - f(a)}{h}$ con $h$ grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para la instantánea, $h$ debe tender a $0$, no ser grande."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{f(b) - f(a)}{b - a}$ con $b$ lejano de $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la tasa promedio sobre un intervalo grande."
+        },
+        {
+          "letter": "C",
+          "text": "$f(a)$ evaluada solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No considera el cambio, es solo un valor puntual."
+        },
+        {
+          "letter": "D",
+          "text": "$\\lim_{h \\to 0}\\frac{f(a+h) - f(a)}{h}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición estándar de la derivada como tasa instantánea."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tasa de cambio instantánea de $f$ en $a$ se define como $f'(a) = \\lim_{h \\to 0}\\frac{f(a+h)-f(a)}{h}$, siempre que dicho límite exista.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v9",
+      "statement": "¿Qué indica una tasa de cambio promedio positiva entre estos puntos?",
+      "context": "En Cartagena, una empresa registra ventas (en millones de COP) frente a los días de la semana: $V(0) = 10$ y $V(7) = 18$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en promedio las ventas subieron 8 millones de COP en 7 días; aproximadamente $1.14$ millones por día.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{18 - 10}{7 - 0} = \\frac{8}{7} \\approx 1.14$, indicando crecimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Que las ventas disminuyeron en el período.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tasa negativa indicaría descenso, no es el caso."
+        },
+        {
+          "letter": "C",
+          "text": "Que las ventas no cambiaron en la semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tasa cero implicaría ninguna variación."
+        },
+        {
+          "letter": "D",
+          "text": "Que las ventas llegaron a cero al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nivel final es 18, no 0."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tasa de cambio promedio positiva indica que la magnitud aumentó en el intervalo. Aquí $\\frac{18-10}{7} \\approx 1.14$ millones de COP por día es positivo, así que las ventas crecieron.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v10",
+      "statement": "Aplicando la definición de derivada, ¿cuál es la velocidad instantánea del objeto en $t = 3$ s?",
+      "context": "En Bogotá, Valentina modela la posición (en m) de un objeto que cae con $s(t) = 4.9t^2$, donde $t$ está en segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14.7$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es aproximadamente la mitad del valor correcto; falta evaluar la derivada en $t=3$."
+        },
+        {
+          "letter": "B",
+          "text": "$29.4$ m/s",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada es $s'(t) = 9.8t$, por lo que en $t = 3$ se obtiene $29.4$ m/s."
+        },
+        {
+          "letter": "C",
+          "text": "$44.1$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la posición $s(3)$, no la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "$9.8$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es $s'(1)$, no $s'(3)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $s(t) = 4.9t^2$, su derivada es $s'(t) = 9.8t$. Evaluada en $t = 3$ se obtiene $s'(3) = 29.4$ m/s. Por esto, la velocidad instantánea a los $3$ segundos es $29.4$ m/s.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones es VERDADERA sobre la relación entre velocidad instantánea y velocidad promedio?",
+      "context": "En Medellín, en clase de física con Santiago, se discute cómo varía la velocidad durante un viaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La velocidad instantánea siempre coincide con la velocidad promedio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo coinciden en movimientos con velocidad uniforme."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad instantánea se obtiene restando distancia total menos tiempo total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa operación no define ninguna velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad instantánea puede variar durante un viaje aunque la velocidad promedio sea la misma.",
+          "is_correct": true,
+          "feedback": "Correcto. Por ejemplo, en tráfico urbano, se puede frenar y acelerar sin que cambie la velocidad promedio del trayecto."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad instantánea solo aplica cuando el objeto se mueve con aceleración cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad instantánea se aplica en cualquier movimiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La velocidad instantánea es la derivada de la posición en un instante, mientras que la promedio resume todo el recorrido. Pueden diferir ampliamente si la velocidad cambia durante el trayecto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la valoración correcta de esa afirmación?",
+      "context": "En Cali, Mariana revisa la respuesta de un compañero: \"Si la posición de un bus cambia de $0$ a $100$ m en $10$ s, su velocidad promedio fue $100$ m/s.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el bus recorrió 100 metros en total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de metros no basta sin dividir por el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque el intervalo es de 10 segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intervalo de tiempo solo se usa al dividir el desplazamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta si el bus se considera muy rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad se calcula, no se estima subjetivamente."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta; la velocidad promedio es $\\frac{100 - 0}{10} = 10$ m/s.",
+          "is_correct": true,
+          "feedback": "Correcto. Divides el desplazamiento total entre el tiempo total transcurrido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El compañero olvidó dividir entre el tiempo. La velocidad promedio es el desplazamiento sobre el tiempo: $\\frac{100}{10} = 10$ m/s, no $100$ m/s.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W32-tasa-de-cambio-promedio-instantanea-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
