@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T00:22:15.743Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes números es irracional?",
+      "context": "En Bogotá, la clase clasifica números reales en racionales e irracionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0,5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0,5 = \\frac{1}{2}$ es racional exacto."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda fracción de enteros es racional."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{2} \\approx 1,4142...$ tiene decimales infinitos no periódicos."
+        },
+        {
+          "letter": "D",
+          "text": "$-3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enteros son racionales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un irracional no puede escribirse como fracción de enteros. $\\sqrt{2}$ tiene expansión decimal infinita no periódica, por eso es irracional.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad justifica que $5 + 7 = 7 + 5$?",
+      "context": "En Medellín, los estudiantes identifican propiedades de los reales con $a = 5$ y $b = 7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conmutativa de la adición",
+          "is_correct": true,
+          "feedback": "Correcto. El orden de los sumandos no altera la suma."
+        },
+        {
+          "letter": "B",
+          "text": "Asociativa de la multiplicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí se suma, no se multiplica, y no hay reagrupación."
+        },
+        {
+          "letter": "C",
+          "text": "Distributiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distributiva relaciona suma con multiplicación."
+        },
+        {
+          "letter": "D",
+          "text": "Elemento neutro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El neutro de la suma es $0$ y no aparece aquí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad conmutativa afirma $a + b = b + a$ para todo $a, b$ reales. Cambiar el orden deja invariante el resultado $12$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto es $2\\sqrt{3} + 5\\sqrt{3}$?",
+      "context": "En Cali, se suman longitudes $2\\sqrt{3}$ m y $5\\sqrt{3}$ m de dos jardines.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7\\sqrt{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se multiplican los radicandos al sumar."
+        },
+        {
+          "letter": "B",
+          "text": "$10\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste coeficientes en lugar de sumarlos."
+        },
+        {
+          "letter": "C",
+          "text": "$21$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aproximaste $\\sqrt{3} \\approx 3$, lo cual es falso."
+        },
+        {
+          "letter": "D",
+          "text": "$7\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman coeficientes: $(2+5)\\sqrt{3} = 7\\sqrt{3}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Son términos semejantes con el mismo radical. Se opera con los coeficientes: $2 + 5 = 7$, conservando $\\sqrt{3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto vale $\\sqrt{5} \\times \\sqrt{20}$?",
+      "context": "En Cartagena, un área se calcula como $\\sqrt{5} \\times \\sqrt{20}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $5 \\times 1$ en lugar de $5 \\times 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{5 \\times 20} = \\sqrt{100} = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\sqrt{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descompusiste mal $\\sqrt{20}$."
+        },
+        {
+          "letter": "D",
+          "text": "$100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste extraer la raíz de $100$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Propiedad: $\\sqrt{a}\\sqrt{b} = \\sqrt{ab}$. Entonces $\\sqrt{100} = 10$ porque $10^2 = 100$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v5",
+      "statement": "¿Entre qué enteros consecutivos está $-\\sqrt{2}$?",
+      "context": "En Barranquilla, se ubica $-\\sqrt{2} \\approx -1,41$ en la recta numérica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre $1$ y $2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste el signo negativo."
+        },
+        {
+          "letter": "B",
+          "text": "Entre $-1$ y $0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $-1,41$ es menor que $-1$."
+        },
+        {
+          "letter": "C",
+          "text": "Entre $-2$ y $-1$",
+          "is_correct": true,
+          "feedback": "Correcto. $-2 < -1,41 < -1$."
+        },
+        {
+          "letter": "D",
+          "text": "Entre $-3$ y $-2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $-1,41$ es mayor que $-2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $1 < \\sqrt{2} < 2$, al multiplicar por $-1$ se invierte el orden: $-2 < -\\sqrt{2} < -1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la forma racionalizada de $\\frac{3}{\\sqrt{3}}$?",
+      "context": "En Bucaramanga, se racionaliza $\\frac{3}{\\sqrt{3}}$ para un diseño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3\\sqrt{3}}{3} = \\sqrt{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $\\sqrt{3}$ pero olvidaste dividir."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste $\\sqrt{3}$ con $3$ directamente."
+        },
+        {
+          "letter": "D",
+          "text": "$9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste al cuadrado sin racionalizar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se multiplica por $\\frac{\\sqrt{3}}{\\sqrt{3}}$: $\\frac{3\\sqrt{3}}{3} = \\sqrt{3}$. Se elimina el radical del denominador.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto vale $|-7| + |3 - 8|$?",
+      "context": "En Pereira, un termómetro marca variaciones y se calcula $|-7| + |3 - 8|$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor absoluto nunca es negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $-7 + 9$ sin valores absolutos."
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $7 + (-7)$ equivocadamente."
+        },
+        {
+          "letter": "D",
+          "text": "$12$",
+          "is_correct": true,
+          "feedback": "Correcto. $7 + |-5| = 7 + 5 = 12$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$|-7| = 7$ y $|3 - 8| = |-5| = 5$. La suma es $12$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el resultado exacto y su naturaleza?",
+      "context": "En Manizales, se simplifica $\\sqrt{2} + \\sqrt{8}$ para una estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3\\sqrt{4}$, racional",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{8} = 2\\sqrt{2}$, no $3\\sqrt{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "$3\\sqrt{2}$, irracional",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{8} = 2\\sqrt{2}$, luego $1\\sqrt{2} + 2\\sqrt{2} = 3\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{10}$, irracional",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman los radicandos directamente."
+        },
+        {
+          "letter": "D",
+          "text": "$4$, racional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aproximaste $\\sqrt{2} \\approx 1$ y $\\sqrt{8} \\approx 3$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$\\sqrt{8} = \\sqrt{4 \\times 2} = 2\\sqrt{2}$. Sumando: $3\\sqrt{2}$, que sigue siendo irracional por ser múltiplo no nulo de $\\sqrt{2}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el resultado correcto?",
+      "context": "En Pasto, se expande $(1 - \\sqrt{2})^2$ para verificar un área.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $1 - 2$ ignorando el cuadrado del binomio."
+        },
+        {
+          "letter": "B",
+          "text": "$3 + 2\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Error de signo en el término cruzado $-2\\sqrt{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$3 - 2\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $1 - 2\\sqrt{2} + 2 = 3 - 2\\sqrt{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$1 - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste elevar $\\sqrt{2}$ al cuadrado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$(a - b)^2 = a^2 - 2ab + b^2$. Con $a = 1$, $b = \\sqrt{2}$: $1 - 2\\sqrt{2} + 2 = 3 - 2\\sqrt{2}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v10",
+      "statement": "Al evaluar la afirmación, ¿cuál es el valor correcto y el error?",
+      "context": "En Armenia, un estudiante afirma que $\\sqrt{9 + 16} = 3 + 4 = 7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$, la raíz no se distribuye sobre la suma",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sqrt{25} = 5$, distinto de $7$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$, el procedimiento es correcto",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\sqrt{9+16} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$12$, se suman primero los cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9 + 16 = 25$, no $144$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$, se omite la raíz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se suma dentro del radical: $9 + 16 = 25$. Luego $\\sqrt{25} = 5$. La raíz de una suma no es la suma de raíces.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el resultado racionalizado?",
+      "context": "En Cúcuta, se racionaliza $\\frac{5}{\\sqrt{2} + 1}$ con la conjugada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5\\sqrt{2} + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $\\sqrt{2}+1$ en lugar de la conjugada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $(\\sqrt{2}+1)(\\sqrt{2}+1) = 2$ erróneamente."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cancelaste el denominador sin operar."
+        },
+        {
+          "letter": "D",
+          "text": "$5\\sqrt{2} - 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{5(\\sqrt{2}-1)}{2-1} = 5\\sqrt{2} - 5$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Conjugada $\\sqrt{2} - 1$: numerador $5(\\sqrt{2}-1)$, denominador $2 - 1 = 1$. Resultado $5\\sqrt{2} - 5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es su perímetro exacto?",
+      "context": "En Cali, un lote cuadrado tiene lado $\\sqrt{50}$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor del área $(\\sqrt{50})^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$20\\sqrt{2}$ m",
+          "is_correct": true,
+          "feedback": "Correcto. $4\\sqrt{50} = 4 \\times 5\\sqrt{2} = 20\\sqrt{2}$ m."
+        },
+        {
+          "letter": "C",
+          "text": "$25$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $50$ entre $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$10\\sqrt{2}$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $2$ en lugar de $4$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Perímetro $= 4\\sqrt{50} = 4\\sqrt{25 \\times 2} = 4 \\times 5\\sqrt{2} = 20\\sqrt{2}$ m. El área es $(\\sqrt{50})^2 = 50$ m².",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
