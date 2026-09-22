@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.098Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el primer cuartil ($Q_1$) de un conjunto de datos ordenado?",
+      "context": "En Bogotá, el profesor Juan explica los cuartiles a sus estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor que deja el 25% de los datos por debajo de él.",
+          "is_correct": true,
+          "feedback": "Correcto. $Q_1$ separa el 25% inferior de los datos."
+        },
+        {
+          "letter": "B",
+          "text": "El valor que deja el 50% de los datos por debajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al segundo cuartil o mediana."
+        },
+        {
+          "letter": "C",
+          "text": "El valor máximo de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el extremo superior del conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia entre el máximo y el mínimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el rango."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cuartiles dividen los datos ordenados en cuatro partes iguales. $Q_1$ deja el 25% de los datos por debajo, $Q_2$ (mediana) el 50% y $Q_3$ el 75%.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se calcula el rango de un conjunto de datos?",
+      "context": "En Medellín, un grupo de estudiantes repasa cómo medir la dispersión de un conjunto de datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumando todos los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es parte del cálculo de la media."
+        },
+        {
+          "letter": "B",
+          "text": "Dividiendo la suma entre el número de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la media aritmética."
+        },
+        {
+          "letter": "C",
+          "text": "Restando el valor mínimo del valor máximo.",
+          "is_correct": true,
+          "feedback": "Correcto. El rango es $R = x_{max} - x_{min}$."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicando el mayor por el menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango es una resta, no un producto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rango mide la dispersión total: $R = x_{max} - x_{min}$. Solo depende de los valores extremos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v3",
+      "statement": "Si un estudiante está en el percentil 80 de la estatura, ¿qué significa?",
+      "context": "En Cali, se comparan las estaturas de los estudiantes de un curso usando percentiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que mide 80 centímetros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El percentil no es una medida en centímetros."
+        },
+        {
+          "letter": "B",
+          "text": "Que el 80% de sus compañeros tiene estatura menor o igual que la suya.",
+          "is_correct": true,
+          "feedback": "Correcto. El percentil 80 deja el 80% de los datos por debajo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el 80% de sus compañeros es más alto que él.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el 20% de los datos queda por encima."
+        },
+        {
+          "letter": "D",
+          "text": "Que su estatura es la máxima del grupo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El máximo correspondería al percentil 100."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un percentil $P_k$ deja el $k\\%$ de los datos por debajo. Estar en el percentil 80 significa que el 80% del grupo mide igual o menos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v4",
+      "statement": "Los tiempos son 12, 7, 19, 4, 15 y 9 minutos. ¿Cuál es el rango?",
+      "context": "En Cartagena, se registran los tiempos de viaje en minutos de un grupo de trabajadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la diferencia entre el máximo y el mínimo."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el primer dato, no el rango."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste los valores."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. $R = 19 - 4 = 15$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El máximo es 19 y el mínimo es 4, por lo que el rango es $R = 19 - 4 = 15$ minutos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v5",
+      "statement": "Las notas ordenadas son 5, 8, 10, 12, 15, 18 y 20. ¿Cuál es el primer cuartil ($Q_1$)?",
+      "context": "En Barranquilla, se ordenan las calificaciones de siete estudiantes para hallar cuartiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana es 12 y el primer cuartil es la mediana de 5, 8, 10."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor ya está cerca de la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el segundo cuartil o mediana."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor mínimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con siete datos, la mediana es 12. La mitad inferior es 5, 8, 10 y su mediana es 8, por lo que $Q_1 = 8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v6",
+      "statement": "Las notas son 4, 6, 8, 10 y 12. ¿Cuál es la varianza poblacional?",
+      "context": "En Pereira, un profesor calcula la varianza de cinco notas de un parcial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de una sola desviación al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el promedio simple de las notas."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. La media es 8 y la varianza es $\\frac{16+4+0+4+16}{5} = 8$."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la suma de los cuadrados de las desviaciones, sin dividir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La media es 8. Las desviaciones al cuadrado son 16, 4, 0, 4 y 16, cuya suma es 40. La varianza poblacional es $\\sigma^2 = \\frac{40}{5} = 8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v7",
+      "statement": "Dos grupos tienen la misma media, pero sus desviaciones estándar son 2.1 y 5.4. ¿Qué se puede concluir?",
+      "context": "En Manizales, se comparan los tiempos de respuesta de dos equipos con igual promedio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos grupos son idénticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igual media no implica igual dispersión."
+        },
+        {
+          "letter": "B",
+          "text": "El grupo con desviación 5.4 tiene datos más dispersos.",
+          "is_correct": true,
+          "feedback": "Correcto. Una mayor desviación estándar indica mayor variabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "El grupo con desviación 2.1 tiene datos más dispersos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La menor desviación indica datos más concentrados."
+        },
+        {
+          "letter": "D",
+          "text": "La media de ambos grupos cambió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión se refiere a la dispersión, no a la media."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La desviación estándar mide qué tan alejados están los datos de la media. A mayor desviación estándar, mayor dispersión, aunque las medias coincidan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v8",
+      "statement": "Para hallar el percentil 50 ($P_{50}$) de 40 datos ordenados, ¿qué posición se considera?",
+      "context": "En Cúcuta, se analizan 40 resultados ordenados de una prueba de resistencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dato número 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería el percentil 25 aproximado."
+        },
+        {
+          "letter": "B",
+          "text": "El dato número 25.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la mitad de los datos."
+        },
+        {
+          "letter": "C",
+          "text": "El dato número 15.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde al percentil 50."
+        },
+        {
+          "letter": "D",
+          "text": "El valor entre los datos 20 y 21.",
+          "is_correct": true,
+          "feedback": "Correcto. La posición es $0.5 \\cdot (40+1) = 20.5$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La posición del percentil 50 es $0.5 \\cdot (40+1) = 20.5$, por lo que se promedian los datos que ocupan las posiciones 20 y 21. El percentil 50 es la mediana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v9",
+      "statement": "El conjunto A es 10, 12, 14, 16, 18 y el conjunto B es 10, 10, 14, 18, 18. ¿Qué relación existe entre sus varianzas?",
+      "context": "En Pasto, se comparan dos conjuntos de puntajes con la misma media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La varianza de B es mayor que la de A.",
+          "is_correct": true,
+          "feedback": "Correcto. B concentra valores en los extremos, elevando su varianza a 12.8."
+        },
+        {
+          "letter": "B",
+          "text": "La varianza de A es mayor que la de B.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A está más concentrado cerca de su media."
+        },
+        {
+          "letter": "C",
+          "text": "Las varianzas son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las medias coinciden, las dispersiones difieren."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar porque las medias son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad de medias no impide comparar dispersiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ambos conjuntos tienen media 14. La varianza de A es 8 y la de B es 12.8, por lo que B presenta mayor dispersión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v10",
+      "statement": "Ambas empresas tienen un tiempo medio de entrega de 2 días. La empresa X tiene desviación estándar 0.3 y la empresa Y de 1.2. ¿Cuál es más confiable y por qué?",
+      "context": "En Ibagué, una tienda evalúa dos empresas de mensajería por sus tiempos de entrega.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La empresa Y, porque sus tiempos son más variados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor variabilidad significa menos regularidad."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna, porque las medias son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dispersión permite diferenciarlas."
+        },
+        {
+          "letter": "C",
+          "text": "La empresa X, porque sus tiempos de entrega son más consistentes.",
+          "is_correct": true,
+          "feedback": "Correcto. La menor desviación estándar indica entregas más regulares."
+        },
+        {
+          "letter": "D",
+          "text": "La empresa Y, porque tiene menor desviación estándar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La empresa Y tiene la mayor desviación estándar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ante medias iguales, se elige el proveedor con menor desviación estándar: la empresa X (0.3) ofrece tiempos más estables y predecibles.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v11",
+      "statement": "Para describir la dispersión de la muestra, ¿qué medida es la más adecuada?",
+      "context": "En Villavicencio, un investigador quiere estimar la variabilidad del peso de 2000 estudiantes midiendo solo 40.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rango de la muestra, porque siempre es el más preciso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango depende solo de los extremos y es poco estable."
+        },
+        {
+          "letter": "B",
+          "text": "La desviación estándar muestral, que divide por $n - 1$.",
+          "is_correct": true,
+          "feedback": "Correcto. La corrección de Bessel evita subestimar la variabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "La varianza poblacional, que divide por $n$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de una muestra, no de toda la población."
+        },
+        {
+          "letter": "D",
+          "text": "La media, porque mide la dispersión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media es una medida de tendencia central, no de dispersión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al trabajar con una muestra se usa la varianza muestral $s^2 = \\frac{\\sum (x_i - \\bar{x})^2}{n-1}$, y su raíz cuadrada es la desviación estándar muestral, que corrige el sesgo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle-v12",
+      "statement": "Ante un salario atípico muy alto, ¿cuál medida de dispersión se distorsiona más?",
+      "context": "En Armenia, se analizan los salarios de una empresa donde un directivo gana mucho más que los demás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tercer cuartil ($Q_3$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuartiles resisten bien los valores atípicos."
+        },
+        {
+          "letter": "B",
+          "text": "La mediana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana es una medida de posición robusta, no de dispersión."
+        },
+        {
+          "letter": "C",
+          "text": "El percentil 25.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los percentiles bajos no se ven afectados por un máximo extremo."
+        },
+        {
+          "letter": "D",
+          "text": "El rango, porque depende solo del máximo y del mínimo.",
+          "is_correct": true,
+          "feedback": "Correcto. Un solo valor extremo agranda el rango de forma exagerada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El rango usa únicamente los valores extremos, por lo que un salario muy alto lo infla. Medidas como los cuartiles o la desviación estándar de la muestra lo resisten mejor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

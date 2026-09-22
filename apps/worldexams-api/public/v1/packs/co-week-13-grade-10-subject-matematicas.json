@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.095Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa la media aritmética de un conjunto de datos?",
+      "context": "En Bogotá, la profesora Valentina explica las medidas de tendencia central a sus estudiantes de grado 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor que se obtiene al sumar todos los datos y dividir entre el número de datos.",
+          "is_correct": true,
+          "feedback": "Correcto. La media aritmética es $\\bar{x} = \\frac{\\sum x_i}{n}$."
+        },
+        {
+          "letter": "B",
+          "text": "El valor que queda justo en el medio cuando los datos se ordenan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "El dato que más veces se repite en el conjunto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la moda."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia entre el dato mayor y el dato menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el rango, no una medida de tendencia central."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media aritmética es $\\bar{x} = \\frac{x_1 + x_2 + \\dots + x_n}{n}$: se suman todos los datos y se divide entre el número total de datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v2",
+      "statement": "Para calcular la mediana de un conjunto de datos, ¿qué se debe hacer primero?",
+      "context": "En Medellín, un grupo de estudiantes repasa cómo hallar la mediana de un conjunto de edades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar todos los datos y dividir entre el número de datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el procedimiento de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántas veces se repite cada valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sirve para hallar la moda."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenar los datos de menor a mayor.",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana es el valor central de los datos ordenados."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar todos los datos entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese procedimiento no corresponde a ninguna medida de tendencia central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mediana se obtiene ordenando los datos de menor a mayor y tomando el valor central; si la cantidad de datos es par, se promedian los dos valores del centro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v3",
+      "statement": "Las ventas registradas fueron 5, 8, 5, 12 y 5. ¿Cuál es la moda de estos datos?",
+      "context": "En Cali, un vendedor de frutas registra sus ventas diarias en miles de pesos durante una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 8 aparece una sola vez."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. El 5 es el valor que más se repite."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 12 aparece una sola vez."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 7 ni siquiera aparece en los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La moda es el valor con mayor frecuencia. En los datos 5, 8, 5, 12 y 5, el valor 5 aparece tres veces, más que cualquier otro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v4",
+      "statement": "Las temperaturas máximas fueron 28, 30, 29, 31 y 27 grados centígrados. ¿Cuál es la temperatura media?",
+      "context": "En Cartagena, el IDEAM registra las temperaturas máximas durante cinco días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor máximo, no el promedio."
+        },
+        {
+          "letter": "B",
+          "text": "29.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma es 145, no 147.5."
+        },
+        {
+          "letter": "C",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a la suma dividida por 5."
+        },
+        {
+          "letter": "D",
+          "text": "29",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{28 + 30 + 29 + 31 + 27}{5} = \\frac{145}{5} = 29$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La media es $\\bar{x} = \\frac{28 + 30 + 29 + 31 + 27}{5} = \\frac{145}{5} = 29$ grados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v5",
+      "statement": "Las edades son 14, 16, 15, 17, 18 y 18. ¿Cuál es la mediana?",
+      "context": "En Barranquilla, se encuesta a seis estudiantes sobre su edad en años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16.5",
+          "is_correct": true,
+          "feedback": "Correcto. Al ordenar, los valores centrales son 16 y 17; su promedio es 16.5."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con seis datos se promedian los dos centrales, no se toma uno solo."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta promediar con el otro valor central."
+        },
+        {
+          "letter": "D",
+          "text": "15.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no corresponde a los valores centrales ordenados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ordenando los datos: 14, 15, 16, 17, 18, 18. Como hay seis datos, la mediana es el promedio de los dos centrales: $\\frac{16 + 17}{2} = 16.5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v6",
+      "statement": "Los intervalos $[0,10)$, $[10,20)$ y $[20,30)$ tienen frecuencias 2, 5 y 3. ¿Cuál es la media aproximada de los datos agrupados?",
+      "context": "En Pereira, un profesor agrupa las notas de sus alumnos en una tabla de frecuencias con intervalos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se usaron las marcas de clase ni las frecuencias correctamente."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el promedio simple de las marcas, sin ponderar por las frecuencias."
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{5 \\cdot 2 + 15 \\cdot 5 + 25 \\cdot 3}{10} = \\frac{160}{10} = 16$."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la suma ponderada por un total equivocado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las marcas de clase son 5, 15 y 25. La media ponderada es $\\frac{5 \\cdot 2 + 15 \\cdot 5 + 25 \\cdot 3}{10} = \\frac{10 + 75 + 75}{10} = 16$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v7",
+      "statement": "Los salarios son 1.5, 1.6, 1.7, 1.8 y 9.0. ¿Cuál medida de tendencia central representa mejor el salario típico de la empresa?",
+      "context": "En Manizales, una empresa reporta los salarios mensuales en millones de pesos de cinco empleados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media, porque utiliza todos los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El salario de 9.0 distorsiona la media hacia arriba."
+        },
+        {
+          "letter": "B",
+          "text": "La mediana, porque el valor 9.0 es atípico y desplaza la media.",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana (1.7) resume el grupo sin dejarse afectar por el valor extremo."
+        },
+        {
+          "letter": "C",
+          "text": "La moda, porque es el valor que más se repite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los valores aparecen una vez, no hay moda."
+        },
+        {
+          "letter": "D",
+          "text": "La media, porque siempre es menor que la mediana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí la media (3.12) es mayor que la mediana (1.7)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media es $\\frac{1.5 + 1.6 + 1.7 + 1.8 + 9.0}{5} = 3.12$, muy superior a la mediana de 1.7. Ante valores atípicos, la mediana describe mejor el valor típico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v8",
+      "statement": "Los intervalos $[0,20)$, $[20,40)$, $[40,60)$ y $[60,80)$ tienen frecuencias 8, 14, 10 y 6. ¿Cuál es la clase modal?",
+      "context": "En Cúcuta, se agrupan las edades de 38 personas en una tabla de frecuencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[0,20)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese intervalo tiene frecuencia 8, menor que la mayor."
+        },
+        {
+          "letter": "B",
+          "text": "$[40,60)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su frecuencia es 10, no la más alta."
+        },
+        {
+          "letter": "C",
+          "text": "$[60,80)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su frecuencia es 6, la menor de todas."
+        },
+        {
+          "letter": "D",
+          "text": "$[20,40)$",
+          "is_correct": true,
+          "feedback": "Correcto. Es el intervalo con mayor frecuencia (14)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En datos agrupados, la clase modal es el intervalo de mayor frecuencia absoluta. Aquí es $[20,40)$, con frecuencia 14.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v9",
+      "statement": "Las frecuencias acumuladas son 5, 12, 20, 27 y 30. ¿En qué intervalo se encuentra la mediana (dato 15)?",
+      "context": "En Pasto, una tabla presenta las frecuencias acumuladas de 30 tiempos de atención en minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el tercer intervalo.",
+          "is_correct": true,
+          "feedback": "Correcto. El dato 15 supera la acumulada 12 del segundo intervalo y cae en el tercero."
+        },
+        {
+          "letter": "B",
+          "text": "En el segundo intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acumulada del segundo intervalo llega solo a 12, menor que 15."
+        },
+        {
+          "letter": "C",
+          "text": "En el cuarto intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato 15 ya quedó incluido antes de llegar al cuarto intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "En el quinto intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El quinto intervalo solo reúne los datos 28 a 30."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con 30 datos, la mediana es la posición $\\frac{30 + 1}{2} = 15.5$, es decir entre el dato 15 y 16. El dato 15 supera la acumulada 12 y queda dentro del tercer intervalo (acumulada 20).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v10",
+      "statement": "Si el conjunto de 50 datos es bimodal, ¿qué se puede concluir correctamente?",
+      "context": "En Ibagué, un investigador analiza 50 encuestas cuyas respuestas tienen dos valores con la misma frecuencia máxima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mediana no existe para ese conjunto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana siempre existe; el bimodalismo no la elimina."
+        },
+        {
+          "letter": "B",
+          "text": "La media es necesariamente igual a la moda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe esa relación forzosa."
+        },
+        {
+          "letter": "C",
+          "text": "Existen dos valores distintos con la misma frecuencia máxima.",
+          "is_correct": true,
+          "feedback": "Correcto. Un conjunto bimodal tiene dos modas."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto posee un único valor central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bimodalismo indica dos modas, no un valor central único."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un conjunto es bimodal cuando dos valores diferentes comparten la mayor frecuencia. Esa propiedad es independiente de la media y de la mediana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante obtuvo 3.5 con peso 20%, 4.0 con peso 30% y 4.5 con peso 50%. ¿Cuál es su nota final?",
+      "context": "En Villavicencio, un curso pondera tres notas parciales con distinto porcentaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el promedio simple de las notas, sin aplicar los pesos."
+        },
+        {
+          "letter": "B",
+          "text": "4.15",
+          "is_correct": true,
+          "feedback": "Correcto. $3.5 \\cdot 0.2 + 4.0 \\cdot 0.3 + 4.5 \\cdot 0.5 = 0.7 + 1.2 + 2.25 = 4.15$."
+        },
+        {
+          "letter": "C",
+          "text": "4.3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste los pesos con las notas."
+        },
+        {
+          "letter": "D",
+          "text": "4.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la nota de mayor peso, no la media ponderada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media ponderada es $3.5 \\cdot 0.2 + 4.0 \\cdot 0.3 + 4.5 \\cdot 0.5 = 0.7 + 1.2 + 2.25 = 4.15$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle-v12",
+      "statement": "El conjunto 3, 5, 7, 9, 11 tiene mediana 7. Si se agrega el dato 100, ¿qué ocurre con las medidas?",
+      "context": "En Armenia, se registran los minutos de ejercicio diario de un grupo y luego se añade un nuevo dato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media aumenta y la mediana se mantiene exactamente en 7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con seis datos la mediana pasa a ser el promedio de 7 y 9."
+        },
+        {
+          "letter": "B",
+          "text": "La media no cambia porque 100 es un solo dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un valor extremo sí altera la media."
+        },
+        {
+          "letter": "C",
+          "text": "La media y la mediana aumentan en la misma proporción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana se desplaza poco, la media mucho."
+        },
+        {
+          "letter": "D",
+          "text": "La media aumenta considerablemente mientras la mediana solo se desplaza a 8.",
+          "is_correct": true,
+          "feedback": "Correcto. La media pasa de 7 a 22.5, mientras que la mediana sube apenas a 8."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La nueva media es $\\frac{3 + 5 + 7 + 9 + 11 + 100}{6} = \\frac{135}{6} = 22.5$. Con los datos ordenados, la mediana es $\\frac{7 + 9}{2} = 8$. Esto muestra que la mediana es robusta frente a valores atípicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

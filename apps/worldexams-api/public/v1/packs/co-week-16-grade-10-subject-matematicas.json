@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-16-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.098Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define la probabilidad condicional $P(A|B)$?",
+      "context": "En Bogotá, el profesor Juan introduce la probabilidad condicional en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{P(A \\cap B)}{P(B)}$, con $P(B) > 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la probabilidad de A restringida al espacio de B."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{P(A)}{P(B)}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la intersección de los dos eventos en el numerador."
+        },
+        {
+          "letter": "C",
+          "text": "$P(A) + P(B)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa suma corresponde a la unión de eventos excluyentes."
+        },
+        {
+          "letter": "D",
+          "text": "$P(A) \\cdot P(B)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese producto aparece solo cuando los eventos son independientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La probabilidad condicional es $P(A|B) = \\frac{P(A \\cap B)}{P(B)}$, válida cuando $P(B) > 0$. Expresa la probabilidad de A sabiendo que B ocurrió.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v2",
+      "statement": "Dos eventos $A$ y $B$ son independientes si...",
+      "context": "En Medellín, se estudian las condiciones para que dos eventos sean independientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son mutuamente excluyentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluyentes e independientes son conceptos diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "$P(A \\cap B) = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso caracteriza a los eventos mutuamente excluyentes."
+        },
+        {
+          "letter": "C",
+          "text": "$P(A \\cap B) = P(A) \\cdot P(B)$",
+          "is_correct": true,
+          "feedback": "Correcto. La ocurrencia de uno no afecta la probabilidad del otro."
+        },
+        {
+          "letter": "D",
+          "text": "$P(A) = P(B)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad de probabilidades no define la independencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos eventos son independientes si $P(A \\cap B) = P(A) \\cdot P(B)$, lo que equivale a que $P(A|B) = P(A)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v3",
+      "statement": "En la encuesta, $P(\\text{lee el periódico} | \\text{es mayor de 40 años}) = 0.7$. ¿Qué significa?",
+      "context": "En Cali, una encuesta de hábitos de lectura reporta probabilidades condicionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 70% de todos los encuestados lee el periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición reduce el grupo a los mayores de 40 años."
+        },
+        {
+          "letter": "B",
+          "text": "Entre los mayores de 40 años, el 70% lee el periódico.",
+          "is_correct": true,
+          "feedback": "Correcto. La condición delimita el grupo de referencia."
+        },
+        {
+          "letter": "C",
+          "text": "El 70% de los lectores tiene más de 40 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición está invertida."
+        },
+        {
+          "letter": "D",
+          "text": "El 30% de los encuestados lee el periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata del complemento sobre el total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresión $P(\\text{lee el periódico} | \\text{mayor de 40})$ se lee como la probabilidad de leer el periódico dentro del grupo de los mayores de 40 años.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v4",
+      "statement": "De las 50 personas, 20 prefieren playa y 30 montaña. Entre los que prefieren playa, 8 son de Cartagena. ¿Cuál es $P(\\text{de Cartagena} | \\text{prefiere playa})$?",
+      "context": "En Cartagena, se encuestan 50 personas sobre su preferencia entre playa y montaña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{8}{50}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre el total de encuestados, no entre los que prefieren playa."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{20}{50}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la probabilidad de preferir playa sin condición."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{8}{30}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador debe ser el grupo que prefiere playa."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{20}$",
+          "is_correct": true,
+          "feedback": "Correcto. $P(\\text{Cartagena} | \\text{playa}) = \\frac{8}{20} = \\frac{2}{5}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La condición \"prefiere playa\" reduce el espacio a las 20 personas con esa preferencia. La probabilidad es $\\frac{8}{20} = \\frac{2}{5}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v5",
+      "statement": "Se lanza un dado y se sabe que el resultado es impar. ¿Cuál es la probabilidad de que sea 3?",
+      "context": "En Barranquilla, se lanza un dado y se recibe una pista sobre el resultado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Entre los impares (1, 3, 5), el 3 es uno de tres."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No usaste la información de que el resultado es impar."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es la probabilidad sin condición."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la probabilidad de obtener un impar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con la condición de impar, el espacio muestral se reduce a 1, 3, 5. Por tanto, $P(3 | \\text{impar}) = \\frac{1}{3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v6",
+      "statement": "De los 60 estudiantes, 36 son mujeres y 24 hombres. De las mujeres, 18 estudian ingeniería. ¿Cuál es la probabilidad de que una estudiante elegida al azar estudie ingeniería, sabiendo que es mujer?",
+      "context": "En Pereira, se organiza en una tabla de contingencia la carrera y el género de 60 estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{18}{60}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre el total, no entre las mujeres."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{36}{60}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la probabilidad de ser mujer."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{18}{36}$",
+          "is_correct": true,
+          "feedback": "Correcto. $P(\\text{ingeniería} | \\text{mujer}) = \\frac{18}{36} = \\frac{1}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{18}{24}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador debe ser el número de mujeres, no de hombres."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La condición \"es mujer\" restringe el espacio a 36 estudiantes. Entre ellas, 18 estudian ingeniería, por lo que la probabilidad es $\\frac{18}{36} = \\frac{1}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v7",
+      "statement": "En un dado, $A = \\{\\text{sale un número par}\\}$ y $B = \\{\\text{sale 4}\\}$. ¿Son $A$ y $B$ eventos independientes?",
+      "context": "En Manizales, se analiza la relación entre dos eventos de un dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque $B$ está contenido en $A$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar contenido no implica independencia."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque $P(A \\cap B) \\ne P(A) \\cdot P(B)$.",
+          "is_correct": true,
+          "feedback": "Correcto. $P(A \\cap B) = \\frac{1}{6}$ y $P(A) \\cdot P(B) = \\frac{1}{12}$."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque ambos ocurren en el mismo dado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir experimento no define la independencia."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque $P(A) = P(B)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia no se decide comparando las probabilidades entre sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$P(A \\cap B) = P(\\{4\\}) = \\frac{1}{6}$, mientras que $P(A) \\cdot P(B) = \\frac{1}{2} \\cdot \\frac{1}{6} = \\frac{1}{12}$. Como no coinciden, los eventos no son independientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v8",
+      "statement": "De 100 personas, 60 usan transporte público y 40 usan carro. De los que usan transporte público, 45 viven en el centro; de los que usan carro, 10 viven en el centro. Si se elige a alguien que vive en el centro, ¿cuál es la probabilidad de que use transporte público?",
+      "context": "En Cúcuta, una tabla de contingencia relaciona el transporte y la zona de vivienda de 100 personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{45}{60}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición aquí es vivir en el centro, no usar transporte público."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{45}{100}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador no es el total de personas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{10}{40}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la proporción de usuarios de carro que viven en el centro."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{45}{55}$",
+          "is_correct": true,
+          "feedback": "Correcto. Los que viven en el centro son $45 + 10 = 55$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los que viven en el centro son $45 + 10 = 55$ personas. Entre ellos, 45 usan transporte público, por lo que $P(\\text{público} | \\text{centro}) = \\frac{45}{55} = \\frac{9}{11}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v9",
+      "statement": "Sean $P(A) = 0.3$ y $P(B) = 0.6$, con $A$ y $B$ independientes. ¿Cuál es la probabilidad de que ocurra al menos uno de los dos?",
+      "context": "En Pasto, se trabaja con eventos independientes y sus complementos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.72$",
+          "is_correct": true,
+          "feedback": "Correcto. $0.3 + 0.6 - 0.18 = 0.72$."
+        },
+        {
+          "letter": "B",
+          "text": "$0.9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste sin restar la intersección."
+        },
+        {
+          "letter": "C",
+          "text": "$0.18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es solo la intersección $P(A \\cap B)$."
+        },
+        {
+          "letter": "D",
+          "text": "$0.6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la probabilidad de un solo evento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la unión, $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$. Como son independientes, $P(A \\cap B) = 0.3 \\cdot 0.6 = 0.18$, luego $P(A \\cup B) = 0.3 + 0.6 - 0.18 = 0.72$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v10",
+      "statement": "De 200 estudiantes, 100 son mujeres y de ellas 40 usan gafas. En total, 80 usan gafas. ¿Son \"usar gafas\" y \"ser mujer\" eventos independientes?",
+      "context": "En Ibagué, se estudia la relación entre usar gafas y ser mujer en una escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque hay más mujeres que usan gafas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia se verifica con el producto de probabilidades."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque las proporciones son diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proporciones sí coinciden con el criterio de independencia."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque $P(\\text{gafas} \\cap \\text{mujer}) = P(\\text{gafas}) \\cdot P(\\text{mujer})$.",
+          "is_correct": true,
+          "feedback": "Correcto. $0.2 = 0.4 \\cdot 0.5$, por lo que son independientes."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque hay exactamente 40 mujeres con gafas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número en sí no demuestra la independencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$P(\\text{gafas}) = \\frac{80}{200} = 0.4$, $P(\\text{mujer}) = 0.5$ y $P(\\text{gafas} \\cap \\text{mujer}) = \\frac{40}{200} = 0.2$. Como $0.4 \\cdot 0.5 = 0.2$, los eventos son independientes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v11",
+      "statement": "Una caja tiene 3 balones rojos y 2 azules. Se extraen dos sin reemplazo. ¿Cuál es la probabilidad de que ambos sean rojos?",
+      "context": "En Villavicencio, se extraen balones de una caja sin reemplazo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{9}{25}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a extracción con reemplazo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{3}{5} \\cdot \\frac{2}{4} = \\frac{6}{20} = \\frac{3}{10}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la probabilidad del primer balón rojo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste correctamente el producto de probabilidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al extraer sin reemplazo, las probabilidades cambian: $P(\\text{1ro rojo}) = \\frac{3}{5}$ y $P(\\text{2do rojo} | \\text{1ro rojo}) = \\frac{2}{4}$. El producto es $\\frac{3}{5} \\cdot \\frac{2}{4} = \\frac{6}{20} = \\frac{3}{10}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle-v12",
+      "statement": "Una prueba detecta la enfermedad con sensibilidad del 95%, es decir $P(\\text{positiva} | \\text{enfermo}) = 0.95$. La enfermedad afecta al 1% de la población. ¿Qué precaución debe tomarse al interpretar un resultado positivo?",
+      "context": "En Armenia, un laboratorio evalúa la utilidad de una prueba médica en la población.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resultado positivo confirma la enfermedad con certeza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sensibilidad no equivale a certeza diagnóstica."
+        },
+        {
+          "letter": "B",
+          "text": "La probabilidad de estar enfermo es exactamente 0.95.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $P(\\text{enfermo} | \\text{positiva})$ no es la sensibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "La prueba nunca falla en personas sanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sensibilidad no dice nada sobre los falsos positivos."
+        },
+        {
+          "letter": "D",
+          "text": "La probabilidad de estar enfermo dado un positivo depende también de la proporción de falsos positivos en la población.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay que usar el teorema de Bayes e incluir los falsos positivos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$P(\\text{enfermo} | \\text{positiva})$ se obtiene con el teorema de Bayes e involucra tanto la sensibilidad como los falsos positivos y la prevalencia. Un 95% de sensibilidad no implica un 95% de certeza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

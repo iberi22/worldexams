@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-22-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.101Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de inecuación es $x^2 - 5x + 6 > 0$?",
+      "context": "En Bogotá, la profesora Mariana pide identificar el grado de la expresión $x^2 - 5x + 6 > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una inecuación cuadrática.",
+          "is_correct": true,
+          "feedback": "Correcto. El término de mayor grado es $x^2$, por lo que es de segundo grado."
+        },
+        {
+          "letter": "B",
+          "text": "Una inecuación lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una inecuación lineal solo tiene grado 1."
+        },
+        {
+          "letter": "C",
+          "text": "Una ecuación cuadrática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una inecuación porque usa el símbolo $>$, no el signo igual."
+        },
+        {
+          "letter": "D",
+          "text": "Una inecuación cúbica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay término de grado 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una inecuación cuadrática es una desigualdad cuyo término de mayor grado es $x^2$. La expresión $x^2 - 5x + 6 > 0$ es de segundo grado y usa un signo de desigualdad, por lo que es una inecuación cuadrática.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son las raíces de la ecuación $x^2 - 4x + 3 = 0$?",
+      "context": "En Medellín, Santiago identifica las raíces del polinomio $x^2 - 4x + 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$ y $x = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. El polinomio factoriza como $(x - 1)(x - 3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -1$ y $x = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos de las raíces están invertidos."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$ y $x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término constante 3 exige que el producto de las raíces sea 3."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -1$ y $x = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto $-3$ no coincide con el término constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se factoriza $x^2 - 4x + 3 = (x - 1)(x - 3)$. Igualando cada factor a cero se obtienen las raíces $x = 1$ y $x = 3$, que son los puntos donde la parábola corta el eje $x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo es la gráfica de $f(x) = x^2 - 4$?",
+      "context": "En Cali, se analiza la forma de la gráfica de $f(x) = x^2 - 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una recta con pendiente 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término $x^2$ hace que sea una parábola."
+        },
+        {
+          "letter": "B",
+          "text": "Una parábola que abre hacia abajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente de $x^2$ es positivo, por lo que abre hacia arriba."
+        },
+        {
+          "letter": "C",
+          "text": "Una parábola que abre hacia arriba.",
+          "is_correct": true,
+          "feedback": "Correcto. El coeficiente de $x^2$ es 1, positivo, y corta el eje $x$ en $-2$ y $2$."
+        },
+        {
+          "letter": "D",
+          "text": "Una parábola que no corta el eje $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x^2 - 4 = 0$ tiene soluciones reales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El coeficiente principal $a = 1 > 0$ indica que la parábola abre hacia arriba. Las raíces de $x^2 - 4 = 0$ son $x = \\pm 2$, por lo que corta el eje $x$ en dos puntos y tiene un mínimo en el vértice.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el conjunto solución de $x^2 - 4 > 0$?",
+      "context": "En Barranquilla, Mariana resuelve la inecuación $x^2 - 4 > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-2 < x < 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ese intervalo el producto es negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$x < -2$ y $x > 2$",
+          "is_correct": true,
+          "feedback": "Correcto. La parábola es positiva fuera del intervalo entre las raíces."
+        },
+        {
+          "letter": "C",
+          "text": "$x > 2$ solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el intervalo $x < -2$."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre $-2$ y $2$ la expresión es negativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La inecuación $x^2 - 4 > 0$ tiene raíces $x = -2$ y $x = 2$. La parábola abre hacia arriba, por lo que es positiva cuando $x < -2$ o $x > 2$. El conjunto solución es $(-\\infty, -2) \\cup (2, \\infty)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el conjunto solución de $x^2 - 5x + 6 \\leq 0$?",
+      "context": "En Medellín, Santiago resuelve la inecuación $x^2 - 5x + 6 \\leq 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\leq 2$ o $x \\geq 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuera del intervalo la expresión es positiva."
+        },
+        {
+          "letter": "B",
+          "text": "$x < 2$ o $x > 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el caso con el signo $>$, no $\\leq$."
+        },
+        {
+          "letter": "C",
+          "text": "$2 \\leq x \\leq 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces son 2 y 3, y la parábola es negativa o nula entre ellas."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\leq 3$ solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el límite inferior 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las raíces de $x^2 - 5x + 6 = 0$ son $x = 2$ y $x = 3$. Como la parábola abre hacia arriba, es menor o igual a cero entre las raíces. La solución es $[2, 3]$, incluyendo los extremos por el símbolo $\\leq$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el conjunto solución de $-x^2 + 4 \\geq 0$?",
+      "context": "En Cali, Mariana resuelve la inecuación $-x^2 + 4 \\geq 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\leq -2$ o $x \\geq 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la solución de $x^2 - 4 \\geq 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$x \\geq 2$ solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoró el intervalo negativo."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuera de las raíces la expresión es negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$-2 \\leq x \\leq 2$",
+          "is_correct": true,
+          "feedback": "Correcto. La parábola abre hacia abajo y es no negativa entre sus raíces."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reescribiendo, $-x^2 + 4 \\geq 0$ equivale a $4 - x^2 \\geq 0$, con raíces $x = -2$ y $x = 2$. Como el coeficiente de $x^2$ es negativo, la parábola abre hacia abajo y es no negativa en el intervalo $[-2, 2]$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v7",
+      "statement": "¿En qué intervalo es positiva la expresión $x^2 - 4x + 3$?",
+      "context": "En Barranquilla, Santiago analiza el signo de la expresión $x^2 - 4x + 3$ en distintos intervalos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo entre 1 y 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre las raíces la parábola es negativa."
+        },
+        {
+          "letter": "B",
+          "text": "En todo el dominio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parábola toma valores negativos entre sus raíces."
+        },
+        {
+          "letter": "C",
+          "text": "En $x < 1$ o $x > 3$.",
+          "is_correct": true,
+          "feedback": "Correcto. La parábola abre hacia arriba y es positiva fuera del intervalo de raíces."
+        },
+        {
+          "letter": "D",
+          "text": "Solo en $x > 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omite el intervalo $x < 1$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las raíces de $x^2 - 4x + 3$ son $x = 1$ y $x = 3$. La parábola abre hacia arriba, por lo que toma valores positivos a la izquierda de 1 y a la derecha de 3: $(-\\infty, 1) \\cup (3, \\infty)$, y negativos en $(1, 3)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el conjunto solución de $x^2 - 2x + 1 > 0$?",
+      "context": "En Bogotá, Mariana resuelve la inecuación $x^2 - 2x + 1 > 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = 1$ la expresión vale 0, no es mayor que 0."
+        },
+        {
+          "letter": "B",
+          "text": "Ningún valor real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadrado es positivo en casi todos los reales."
+        },
+        {
+          "letter": "C",
+          "text": "Solo $x > 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También es positiva para $x < 1$."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los reales excepto $x = 1$.",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión es un cuadrado perfecto, positivo salvo en la raíz doble."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El polinomio factoriza como $(x - 1)^2$, que es siempre mayor o igual a 0 y se anula solo en $x = 1$. Por eso $x^2 - 2x + 1 > 0$ se cumple para todos los reales excepto $x = 1$. La raíz doble no cambia el signo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuándo la parábola $y = x^2 + kx + 4$ está siempre por encima del eje $x$?",
+      "context": "En Medellín, Santiago analiza para qué valores de $k$ la inecuación $x^2 + kx + 4 > 0$ se cumple para todo $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando $k = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 0$ la expresión es $x^2 + 4$, que sí es siempre positiva, pero no es la condición general."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando el discriminante es positivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Discriminante positivo implica dos cortes con el eje $x$."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando el discriminante es igual a 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con discriminante nulo la parábola toca el eje en un punto."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando el discriminante es menor que 0.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin raíces reales, la parábola positiva nunca corta el eje $x$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Como el coeficiente principal es positivo, la parábola abre hacia arriba. Está siempre por encima del eje $x$ si no tiene raíces reales, es decir, si el discriminante $k^2 - 16 < 0$. Por ejemplo $k = 0$ cumple, pero la condición general es el signo del discriminante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v10",
+      "statement": "¿En qué intervalo de unidades vendidas la utilidad es positiva?",
+      "context": "En Cali, Mariana debe decidir en qué intervalos la utilidad de un producto es positiva. La utilidad se modela con $U(x) = -x^2 + 80x - 1.200$, en miles de pesos, con $x$ unidades vendidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menos de 20 unidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Antes de 20 la utilidad es negativa."
+        },
+        {
+          "letter": "B",
+          "text": "Más de 60 unidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Después de 60 la utilidad es negativa."
+        },
+        {
+          "letter": "C",
+          "text": "Entre 20 y 60 unidades.",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces son 20 y 60, y la parábola abre hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "Siempre, porque la empresa vende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vender no garantiza utilidad positiva."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se resuelve $-x^2 + 80x - 1.200 = 0$. Multiplicando por -1: $x^2 - 80x + 1.200 = 0$, cuyas raíces son $x = 20$ y $x = 60$. Como la parábola abre hacia abajo, $U(x) > 0$ en $(20, 60)$ unidades. La utilidad es negativa fuera de ese intervalo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el conjunto solución de $x^2 + 1 < 0$ en los reales?",
+      "context": "En Bogotá, Santiago evalúa si la inecuación $x^2 + 1 < 0$ tiene solución en los números reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x^2 + 1$ es siempre positivo."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\pm 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores no anulan la expresión."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene solución real.",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 + 1 \\geq 1$ para todo $x$, por lo que nunca es negativo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo $x < -1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluso los negativos elevados al cuadrado son positivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para todo número real, $x^2 \\geq 0$, por lo que $x^2 + 1 \\geq 1 > 0$. La desigualdad $x^2 + 1 < 0$ nunca se satisface y su conjunto solución es vacío. La parábola abre hacia arriba y no corta el eje $x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle-v12",
+      "statement": "¿En qué se diferencian los conjuntos solución de $(x - 3)^2 > 0$ y $(x - 3)^2 \\geq 0$?",
+      "context": "En Barranquilla, Mariana compara los conjuntos solución de $(x - 3)^2 > 0$ y $(x - 3)^2 \\geq 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer conjunto excluye $x = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "El primero incluye $x = 3$ y el segundo no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo incluye $x = 3$ y el primero lo excluye.",
+          "is_correct": true,
+          "feedback": "Correcto. En $x = 3$ el cuadrado vale 0, admisible solo con $\\geq$."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son vacíos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuadrados no nulos son positivos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cuadrado $(x - 3)^2$ es positivo para todo $x \\neq 3$ y vale 0 en $x = 3$. Por eso $(x - 3)^2 > 0$ excluye el 3, mientras que $(x - 3)^2 \\geq 0$ lo incluye. La diferencia radica únicamente en si el punto donde el cuadrado se anula pertenece a la solución.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W22-inecuaciones-cuadraticas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
