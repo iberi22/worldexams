@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T19:29:48.098Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v1",
+      "statement": "Según la regla de Laplace, ¿cómo se calcula la probabilidad de un evento?",
+      "context": "En Bogotá, la profesora Valentina introduce la regla de Laplace en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Casos favorables dividido entre casos posibles.",
+          "is_correct": true,
+          "feedback": "Correcto. $P(A) = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$."
+        },
+        {
+          "letter": "B",
+          "text": "Casos posibles dividido entre casos favorables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fracción está invertida."
+        },
+        {
+          "letter": "C",
+          "text": "Casos favorables multiplicado por casos posibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una división, no un producto."
+        },
+        {
+          "letter": "D",
+          "text": "Casos favorables menos casos posibles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad nunca se calcula con una resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla de Laplace establece que, para experimentos con resultados equiprobables, $P(A) = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es un evento simple en probabilidad?",
+      "context": "En Medellín, se definen los conceptos básicos de un experimento aleatorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un evento que siempre ocurre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el evento seguro, no un evento simple."
+        },
+        {
+          "letter": "B",
+          "text": "La unión de varios eventos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un evento compuesto."
+        },
+        {
+          "letter": "C",
+          "text": "Un resultado individual de un experimento aleatorio.",
+          "is_correct": true,
+          "feedback": "Correcto. El evento simple es un solo resultado del espacio muestral."
+        },
+        {
+          "letter": "D",
+          "text": "Un evento que nunca ocurre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el evento imposible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un evento simple es un único resultado del espacio muestral, como \"sale 3\" al lanzar un dado. Un evento compuesto agrupa varios resultados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v3",
+      "statement": "Al lanzar una moneda balanceada, ¿cuál es la probabilidad de obtener sello?",
+      "context": "En Cali, se analiza el lanzamiento de una moneda balanceada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería la probabilidad del evento seguro."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Hay un caso favorable de dos posibles."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo hay dos resultados posibles, no cuatro."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso correspondería a un evento imposible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La moneda tiene dos resultados equiprobables (cara y sello). Por Laplace, $P(\\text{sello}) = \\frac{1}{2}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v4",
+      "statement": "Al lanzar un dado común, ¿cuál es la probabilidad de obtener un número par?",
+      "context": "En Cartagena, unos estudiantes juegan con un dado común.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de un resultado puntual."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay tres favorables entre seis, no uno."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pares son la mitad, no dos tercios."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Los pares son 2, 4 y 6: $\\frac{3}{6} = \\frac{1}{2}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los números pares del dado son 2, 4 y 6. La probabilidad es $\\frac{3}{6} = \\frac{1}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v5",
+      "statement": "Una bolsa tiene 3 canicas rojas, 2 azules y 5 verdes. ¿Cuál es la probabilidad de sacar una azul al azar?",
+      "context": "En Barranquilla, una bolsa contiene canicas de varios colores para una rifa escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{2}{10} = \\frac{1}{5}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el caso de las rojas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las azules no son la mitad del total."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total de canicas es 10, no 8."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hay 10 canicas en total y 2 azules, por lo que $P(\\text{azul}) = \\frac{2}{10} = \\frac{1}{5}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la probabilidad de obtener cara en la moneda y un número menor que 3 en el dado?",
+      "context": "En Pereira, se lanza una moneda y luego un dado para estudiar eventos compuestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es solo la probabilidad de la moneda."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es solo la probabilidad del dado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{1}{2} \\cdot \\frac{2}{6} = \\frac{1}{6}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $\\frac{1}{6}$ para el dado en lugar de $\\frac{2}{6}$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los eventos son independientes: $P(\\text{cara}) = \\frac{1}{2}$ y $P(\\text{menor que 3}) = \\frac{2}{6} = \\frac{1}{3}$. El producto es $\\frac{1}{2} \\cdot \\frac{1}{3} = \\frac{1}{6}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v7",
+      "statement": "Una urna tiene 4 fichas rojas y 6 azules. ¿Cuál es la probabilidad de NO sacar una ficha roja?",
+      "context": "En Manizales, una urna contiene fichas de dos colores para un sorteo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la probabilidad de sacar roja."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. El complemento de sacar roja es $\\frac{6}{10} = \\frac{3}{5}$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{4}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparaste rojas contra azules, sin el total."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sacar roja tiene probabilidad positiva, así que el complemento es menor que 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por complemento, $P(\\text{no roja}) = 1 - P(\\text{roja}) = 1 - \\frac{4}{10} = \\frac{6}{10} = \\frac{3}{5}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v8",
+      "statement": "La baraja tiene 4 palos de 10 cartas cada uno. ¿Cuál es la probabilidad de sacar una carta de oros?",
+      "context": "En Cúcuta, se utiliza una baraja española de 40 cartas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la probabilidad de una carta puntual del palo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{40}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la probabilidad de una carta específica."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería la probabilidad de no sacar oros."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 10 oros entre 40 cartas: $\\frac{10}{40} = \\frac{1}{4}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los oros son 10 de las 40 cartas, así que $P(\\text{oros}) = \\frac{10}{40} = \\frac{1}{4}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v9",
+      "statement": "Al lanzar un dado, ¿cuál es la probabilidad de obtener un número primo o un múltiplo de 3?",
+      "context": "En Pasto, se estudian eventos con intersección no vacía al lanzar un dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Los favorables son 2, 3, 5 y 6: $\\frac{4}{6}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste la unión de los dos eventos."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las probabilidades sin restar la intersección."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde solo a los múltiplos de 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primos: 2, 3, 5. Múltiplos de 3: 3, 6. La unión es 2, 3, 5, 6 (cuatro resultados). La probabilidad es $\\frac{4}{6} = \\frac{2}{3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v10",
+      "statement": "El juego cobra 2000 pesos. Si sale 6 se ganan 8000 pesos; si sale 1 se ganan 2000 pesos; en los demás casos no se gana. ¿Es un juego justo?",
+      "context": "En Ibagué, una feria ofrece un juego de azar con dados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque existe la posibilidad de ganar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La justicia se mide con la ganancia esperada, no con la posibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque el premio mayor es alto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un premio alto no compensa por sí solo la baja probabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque en promedio el jugador pierde dinero.",
+          "is_correct": true,
+          "feedback": "Correcto. La ganancia esperada es $\\frac{10000}{6} \\approx 1666.67$ pesos, menor que el costo."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el dado está cargado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evidencia de que el dado esté cargado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ganancia esperada es $\\frac{1}{6} \\cdot 8000 + \\frac{1}{6} \\cdot 2000 = \\frac{10000}{6} \\approx 1666.67$ pesos. Como es menor que los 2000 pesos pagados, el juego favorece a la feria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la probabilidad de que la suma de dos dados sea 7?",
+      "context": "En Villavicencio, dos estudiantes lanzan dos dados y suman los resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay 6 parejas favorables, no 3."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 6 parejas que suman 7 entre 36 posibles."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exageraste el número de casos favorables."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{36}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la probabilidad de una pareja puntual, como (1,1)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las parejas que suman 7 son (1,6), (2,5), (3,4), (4,3), (5,2) y (6,1): 6 casos de 36. Así, $P = \\frac{6}{36} = \\frac{1}{6}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle-v12",
+      "statement": "La moneda salió cara 54 veces. ¿Qué se puede afirmar correctamente?",
+      "context": "En Armenia, un curso lanza una moneda balanceada cien veces como experimento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La probabilidad de cara cambió a 0.54.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La probabilidad teórica no cambia por los resultados observados."
+        },
+        {
+          "letter": "B",
+          "text": "La moneda está cargada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 54 caras de 100 es compatible con una moneda balanceada."
+        },
+        {
+          "letter": "C",
+          "text": "La probabilidad teórica de cara ahora es $\\frac{27}{50}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fracción es la frecuencia relativa observada, no la teórica."
+        },
+        {
+          "letter": "D",
+          "text": "La frecuencia relativa (0.54) se acerca a la probabilidad teórica (0.5) sin ser exactamente igual.",
+          "is_correct": true,
+          "feedback": "Correcto. La frecuencia relativa es una aproximación empírica de la probabilidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La frecuencia relativa $\\frac{54}{100} = 0.54$ es una estimación experimental de la probabilidad teórica $\\frac{1}{2} = 0.5$. A mayor número de lanzamientos, la frecuencia relativa tiende a la probabilidad teórica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
