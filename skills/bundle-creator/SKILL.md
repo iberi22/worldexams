@@ -51,6 +51,8 @@ protocol_version: "5.2"
 total_questions: {question_count}
 bundle_size: {question_count}
 alignment: "{official_alignment}"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -103,7 +105,7 @@ For 8 or 12 questions, keep the same progression and avoid overloading expert qu
 ## Exact Question Format
 
 ```markdown
-## Question N [D{level}]
+## Question N [D{level}-D{level+1}]
 **ID:** {id}-v{N}
 **Bloom:** {Remember|Understand|Apply|Analyze|Evaluate}
 **ICFES:** {competency_or_exam_axis}
