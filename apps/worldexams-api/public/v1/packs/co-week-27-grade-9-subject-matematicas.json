@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T03:44:38.732Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué mide el rango de un conjunto de datos?",
+      "context": "En Bogotá, un grupo de estudiantes registra las notas de una evaluación y calcula el rango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia entre el dato mayor y el dato menor",
+          "is_correct": true,
+          "feedback": "Correcto. El rango es la distancia entre el valor máximo y el mínimo."
+        },
+        {
+          "letter": "B",
+          "text": "El promedio aritmético de los datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio es una medida de tendencia central, no de dispersión."
+        },
+        {
+          "letter": "C",
+          "text": "La suma de todos los datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma no describe la dispersión del conjunto."
+        },
+        {
+          "letter": "D",
+          "text": "El dato que más se repite",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el concepto de moda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rango es una medida de dispersión que se calcula como el dato mayor menos el dato menor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué describe la desviación estándar de un conjunto de datos?",
+      "context": "En Medellín, un profesor explica a sus estudiantes el significado de la desviación estándar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Qué tan dispersos están los datos respecto a la media",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar mide la separación promedio respecto a la media."
+        },
+        {
+          "letter": "B",
+          "text": "El valor que más se repite en el conjunto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese concepto corresponde a la moda."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia entre el dato mayor y el menor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición del rango."
+        },
+        {
+          "letter": "D",
+          "text": "La suma de todos los datos del conjunto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma no describe la dispersión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desviación estándar cuantifica cuánto se alejan los datos de su media; a mayor valor, mayor dispersión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el rango de las temperaturas?",
+      "context": "En Cali, las temperaturas máximas registradas durante cinco días fueron 18 °C, 22 °C, 20 °C, 25 °C y 17 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 °C",
+          "is_correct": true,
+          "feedback": "Correcto. Rango = 25 − 17 = 8 °C."
+        },
+        {
+          "letter": "B",
+          "text": "7 °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal los valores extremos."
+        },
+        {
+          "letter": "C",
+          "text": "20 °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el promedio aproximado, no el rango."
+        },
+        {
+          "letter": "D",
+          "text": "25 °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo el dato mayor sin restar el menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El dato mayor es 25 °C y el menor es 17 °C, por lo que el rango es 25 − 17 = 8 °C.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la varianza del conjunto?",
+      "context": "En Barranquilla, un estudiante analiza el conjunto de datos 2, 4, 6, 8 y calcula su varianza poblacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. La media es 5 y el promedio de las desviaciones al cuadrado es 20/4 = 5."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de las desviaciones al cuadrado, sin dividir entre el número de datos."
+        },
+        {
+          "letter": "C",
+          "text": "2.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste dos veces entre el número de datos."
+        },
+        {
+          "letter": "D",
+          "text": "√5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a la desviación estándar, no a la varianza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media es 5; las desviaciones al cuadrado son 9, 1, 1 y 9, que suman 20. La varianza es 20/4 = 5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la desviación estándar del conjunto?",
+      "context": "En Bucaramanga, un profesor usa el conjunto 2, 4, 4, 4, 5, 5, 7, 9 para explicar la desviación estándar poblacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. La varianza es 32/8 = 4 y su raíz cuadrada es 2."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la varianza, no la desviación estándar."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de las desviaciones al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "√8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste mal la suma de las desviaciones al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media es 5; las desviaciones al cuadrado suman 32 y la varianza es 32/8 = 4, de modo que la desviación estándar es √4 = 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la desviación estándar de esos datos?",
+      "context": "En Pereira, un analista revisa un informe donde la varianza de los datos de producción es 16 unidades cuadradas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. La desviación estándar es la raíz cuadrada de la varianza: √16 = 4."
+        },
+        {
+          "letter": "B",
+          "text": "256",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste la varianza al cuadrado en vez de extraer la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2 en vez de calcular la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la varianza sin justificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desviación estándar es la raíz cuadrada de la varianza: √16 = 4.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conclusión es correcta al comparar los dos grupos?",
+      "context": "En Manizales, dos grupos obtuvieron una media de 70 puntos en matemáticas. El grupo A tiene una desviación estándar de 3 y el grupo B, de 12.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo A es más homogéneo, porque sus resultados están más concentrados alrededor de la media",
+          "is_correct": true,
+          "feedback": "Correcto. Una desviación estándar menor indica menor dispersión y mayor homogeneidad."
+        },
+        {
+          "letter": "B",
+          "text": "El grupo B es más homogéneo, porque su desviación estándar es mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor desviación estándar, mayor dispersión y menor homogeneidad."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos grupos tienen la misma dispersión porque la media es igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media igual no implica la misma dispersión."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar porque las medias son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Precisamente con medias iguales se comparan las desviaciones estándar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con la misma media, la desviación estándar indica la dispersión: el grupo A, con 3, es más homogéneo que el B, con 12.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué ocurre con la desviación estándar de la serie?",
+      "context": "En Cartagena, a todos los datos de una serie se les suma 5 unidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No cambia, porque sumar una constante desplaza todos los datos sin alterar su dispersión",
+          "is_correct": true,
+          "feedback": "Correcto. Una traslación no modifica las distancias entre los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta en 5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación estándar mide dispersión, no posición."
+        },
+        {
+          "letter": "C",
+          "text": "Se multiplica por 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación afecta a los datos, pero aquí solo se sumó."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuye en 5 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar una constante no reduce la dispersión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sumar la misma constante a todos los datos, las diferencias respecto a la media no cambian; por eso la desviación estándar permanece igual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál vendedor presenta un desempeño más estable?",
+      "context": "En Santa Marta, dos vendedores tienen promedios de ventas muy parecidos (COP 3.000.000 y COP 3.050.000 mensuales), pero el vendedor 1 tiene una desviación estándar de COP 150.000 y el vendedor 2, de COP 900.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vendedor 1, porque su desviación estándar es menor y sus ventas varían menos",
+          "is_correct": true,
+          "feedback": "Correcto. Menor desviación estándar indica ventas más estables mes a mes."
+        },
+        {
+          "letter": "B",
+          "text": "El vendedor 2, porque su desviación estándar es mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una desviación mayor indica más variabilidad, no más estabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos por igual, porque sus promedios son parecidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los promedios no determinan la estabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "El vendedor 2, porque vendió un poco más en promedio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de promedios es pequeña frente a la diferencia de dispersión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estabilidad se asocia a la menor dispersión; el vendedor 1, con desviación estándar de COP 150.000, es más consistente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué sensor ofrece registros más confiables para un cultivo que requiere temperatura estable?",
+      "context": "En Armenia, dos sensores registran la temperatura de un invernadero. El sensor A tiene una desviación estándar de 0.2 °C y el sensor B, de 2.5 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sensor A, porque sus lecturas se alejan menos de la media",
+          "is_correct": true,
+          "feedback": "Correcto. Una desviación estándar menor indica lecturas más estables y confiables."
+        },
+        {
+          "letter": "B",
+          "text": "El sensor B, porque tiene mayor desviación estándar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor desviación estándar significa lecturas más dispersas e inestables."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos por igual, porque ambos miden temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dispersión de las lecturas es distinta y afecta la confiabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede decidir con desviaciones estándar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación estándar es precisamente el criterio de estabilidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para un cultivo que exige temperatura estable conviene el sensor con menor dispersión, es decir el sensor A (0.2 °C).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación correcta de la afirmación de Lucía?",
+      "context": "En Villavicencio, Lucía afirma que un grupo con promedio más alto siempre tiene mayor dispersión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa: el promedio y la dispersión miden aspectos distintos y son independientes",
+          "is_correct": true,
+          "feedback": "Correcto. Una media alta no implica necesariamente una desviación estándar alta."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: un promedio mayor indica datos más dispersos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio es una medida de posición, no de dispersión."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera: la dispersión crece con la media",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe esa relación obligatoria entre media y dispersión."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, pero solo cuando los datos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia se cumple en general, no solo en ese caso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media describe la posición central y la desviación estándar la dispersión; pueden combinarse de muchas formas sin relación obligatoria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.52,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el error cometido y el rango correcto?",
+      "context": "En Neiva, un estudiante calcula el rango del conjunto 3, 5, 7 y 9, y responde 4 porque \"hay 4 datos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundió el rango con el número de datos: el rango es 9 − 3 = 6",
+          "is_correct": true,
+          "feedback": "Correcto. El rango es la diferencia entre el mayor y el menor, es decir 6."
+        },
+        {
+          "letter": "B",
+          "text": "No hay error: el rango es 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango no es la cantidad de datos del conjunto."
+        },
+        {
+          "letter": "C",
+          "text": "El error es que debió sumar los datos: el rango es 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar los datos no es el procedimiento del rango."
+        },
+        {
+          "letter": "D",
+          "text": "El error es que debió promediar: el rango es 6, igual que en la opción A por otra razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor 6 es correcto, pero se obtiene restando extremos, no promediando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rango se calcula restando el dato menor al mayor: 9 − 3 = 6. El estudiante lo confundió con contar los datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W27-medidas-dispersion-datos-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
