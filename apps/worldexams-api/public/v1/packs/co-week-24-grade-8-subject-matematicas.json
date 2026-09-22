@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-24-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T00:22:15.739Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una traslación en el plano cartesiano?",
+      "context": "En Medellín, los estudiantes mueven fichas triangulares sobre un tablero cuadriculado sin girarlas ni voltearlas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un giro de la figura alrededor de un punto fijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una rotación, no una traslación."
+        },
+        {
+          "letter": "B",
+          "text": "Un desplazamiento de la figura en una dirección fija, sin girarla ni deformarla.",
+          "is_correct": true,
+          "feedback": "Correcto. La traslación suma un mismo vector a todos los puntos de la figura."
+        },
+        {
+          "letter": "C",
+          "text": "Un reflejo de la figura frente a una recta como un espejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una reflexión."
+        },
+        {
+          "letter": "D",
+          "text": "Un cambio de tamaño de la figura desde un centro fijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una homotecia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una traslación por el vector $(h, k)$ transforma cada punto $(x, y)$ en $(x + h, y + k)$. La figura conserva su forma, su tamaño y su orientación: solo cambia de posición. Es un movimiento rígido, como deslizar la ficha por el tablero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué caracteriza a una reflexión respecto a una recta?",
+      "context": "En Bogotá, en clase de arte geométrico se dobla una hoja y se pinta una mariposa simétrica sobre la línea del doblez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada punto y su imagen quedan a igual distancia de la recta y el segmento que los une es perpendicular a ella.",
+          "is_correct": true,
+          "feedback": "Correcto. La recta actúa como espejo y es mediatriz de cada par punto-imagen."
+        },
+        {
+          "letter": "B",
+          "text": "Cada punto se desplaza la misma cantidad de casillas hacia la derecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una traslación horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Cada punto gira un mismo ángulo alrededor del origen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una rotación."
+        },
+        {
+          "letter": "D",
+          "text": "Cada punto se aleja del origen al doble de su distancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una homotecia de razón $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reflexión sobre una recta $l$ asigna a cada punto $P$ un punto $P'$ tal que $l$ es la mediatriz del segmento $PP'$. La figura resultante es el espejo de la original: conserva forma y tamaño pero invierte la orientación, igual que las alas de la mariposa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las coordenadas de la imagen de $A(2, 3)$ tras la traslación $(+4, -1)$?",
+      "context": "En Cali, un dron registra el punto $A(2, 3)$ y luego se desplaza $4$ unidades a la derecha y $1$ unidad hacia abajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(6, 4)$, porque se suman $4$ y $1$ a ambas coordenadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento vertical es $-1$, no $+1$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-2, 2)$, porque se restan las cantidades indicadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento horizontal es hacia la derecha, se suma."
+        },
+        {
+          "letter": "C",
+          "text": "$(6, 2)$, porque $(2 + 4, 3 - 1) = (6, 2)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se suma $4$ en $x$ y se resta $1$ en $y$."
+        },
+        {
+          "letter": "D",
+          "text": "$(2, 3)$, porque la traslación no cambia las coordenadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda traslación no nula cambia la posición del punto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el vector $(h, k) = (4, -1)$ significa $x' = x + h$ y $y' = y + k$. Así, $(2 + 4, 3 + (-1)) = (6, 2)$. La traslación conserva las distancias entre puntos, por eso el dron mantiene la forma de su ruta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la imagen de $B(5, 2)$ al reflejarlo respecto al eje $y$?",
+      "context": "En Cartagena, un diseñador refleja el punto $B(5, 2)$ respecto al eje $y$ para completar el plano de una plaza simétrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5, -2)$, porque se cambia el signo de la coordenada $y$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el reflejo respecto al eje $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-5, -2)$, porque se cambian ambos signos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso equivale a una rotación de $180^{\\circ}$ alrededor del origen."
+        },
+        {
+          "letter": "C",
+          "text": "$(5, 2)$, porque el punto queda en el mismo lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los puntos sobre el eje $y$ quedan fijos."
+        },
+        {
+          "letter": "D",
+          "text": "$(-5, 2)$, porque el reflejo respecto al eje $y$ cambia el signo de $x$.",
+          "is_correct": true,
+          "feedback": "Correcto. La regla es $(x, y) \\to (-x, y)$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La reflexión respecto al eje $y$ aplica $(x, y) \\to (-x, y)$: se conserva la altura $y$ y se invierte el lado. Así $B(5, 2) \\to B'(-5, 2)$. En cambio, el reflejo respecto al eje $x$ sería $(x, y) \\to (x, -y)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v5",
+      "statement": "¿Dónde queda la estaca $C(4, 1)$ después de la rotación de $90^{\\circ}$ alrededor del origen en sentido contrario a las manecillas?",
+      "context": "En Barranquilla, una carpa de circo gira $90^{\\circ}$ en sentido contrario a las manecillas del reloj alrededor del origen. El punto $C(4, 1)$ marca una estaca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-1, 4)$, porque la regla es $(x, y) \\to (-y, x)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al aplicar la regla se obtiene $(-1, 4)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(1, -4)$, porque se intercambian las coordenadas y se cambia un signo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la rotación de $90^{\\circ}$ en el sentido de las manecillas."
+        },
+        {
+          "letter": "C",
+          "text": "$(-4, -1)$, porque se cambian ambos signos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la rotación de $180^{\\circ}$."
+        },
+        {
+          "letter": "D",
+          "text": "$(4, 1)$, porque la rotación no mueve los puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el centro de rotación queda fijo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La rotación de $90^{\\circ}$ en sentido contrario a las manecillas alrededor del origen sigue la regla $(x, y) \\to (-y, x)$. Entonces $(4, 1) \\to (-1, 4)$. Es útil memorizar las tres reglas básicas: $90^{\\circ}$ antihorario $(-y, x)$, $90^{\\circ}$ horario $(y, -x)$ y $180^{\\circ}$ $(-x, -y)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuáles son los vértices de la imagen y qué ocurre con el área?",
+      "context": "En Bucaramanga, un logo triangular tiene vértices $P(1, 1)$, $Q(3, 1)$ y $R(1, 4)$. Se le aplica una homotecia con centro en el origen y razón $k = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 2)$, $(4, 2)$, $(2, 5)$ y el área se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto $(1, 4)$ duplicado es $(2, 8)$, no $(2, 5)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 2)$, $(6, 2)$, $(2, 8)$ y el área se multiplica por $4$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada coordenada se multiplica por $2$ y el área por $k^2 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 2)$, $(6, 2)$, $(2, 8)$ y el área se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vértices están bien pero el área se multiplica por $k^2$, no por $k$."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 1)$, $(3, 1)$, $(1, 4)$ y el área no cambia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homotecia con $k = 2$ sí cambia el tamaño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La homotecia con centro en el origen y razón $k$ aplica $(x, y) \\to (kx, ky)$. Con $k = 2$ los vértices quedan $(2, 2)$, $(6, 2)$ y $(2, 8)$. Los lados se duplican y el área se multiplica por $k^2 = 4$, pues el área original de $3$ unidades cuadradas pasa a $12$ unidades cuadradas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué transformación se aplicó y cuál es su parámetro?",
+      "context": "En Pereira, el triángulo $ABC$ se transforma en $A'B'C'$ con $A(2, 2) \\to A'(5, 2)$, $B(4, 5) \\to B'(7, 5)$ y $C(2, 5) \\to C'(5, 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión respecto al eje $x$, porque la coordenada $y$ se conserva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esa reflexión la coordenada $y$ cambiaría de signo."
+        },
+        {
+          "letter": "B",
+          "text": "Rotación de $90^{\\circ}$, porque los puntos se movieron tres lugares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una rotación cambiarían ambas coordenadas según la regla de giro."
+        },
+        {
+          "letter": "C",
+          "text": "Traslación de vector $(3, 0)$, porque cada $x$ aumenta $3$ y cada $y$ queda igual.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es constante en los tres vértices."
+        },
+        {
+          "letter": "D",
+          "text": "Homotecia de razón $3$, porque los valores aumentaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homotecia multiplicaría, no sumaría una constante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al restar imagen menos original: $5 - 2 = 3$ en $x$ y $2 - 2 = 0$ en $y$, y lo mismo ocurre con $B$ y $C$. Como el desplazamiento $(3, 0)$ es idéntico para todos los puntos, se trata de una traslación de $3$ unidades a la derecha. Si los desplazamientos difirieran, no sería una única traslación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v8",
+      "statement": "Si el punto inicial es $D(3, 4)$, ¿dónde queda tras la composición?",
+      "context": "En Manizales, un arquitecto combina dos movimientos: primero refleja una figura respecto al eje $x$ y luego la traslada $2$ unidades hacia arriba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 6)$, porque la reflexión no cambia nada y se suma $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión respecto al eje $x$ sí cambia el signo de $y$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-3, -2)$, porque se aplica el reflejo en ambos ejes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se refleja respecto al eje $x$, no respecto al eje $y$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3, -2)$, porque se refleja y luego se resta $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación es hacia arriba, se suma $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, -2)$, porque primero se refleja a $(3, -4)$ y luego se sube $2$ unidades.",
+          "is_correct": true,
+          "feedback": "Correcto. Primero $(3, 4) \\to (3, -4)$ y luego $(3, -4 + 2) = (3, -2)$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La composición se aplica en orden: primero la reflexión $(x, y) \\to (x, -y)$, así $(3, 4) \\to (3, -4)$; después la traslación $(x, y) \\to (x, y + 2)$, así $(3, -4) \\to (3, -2)$. El orden importa: si se trasladara primero, el resultado sería $(3, 6) \\to (3, -6)$, distinto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v9",
+      "statement": "¿Es verdadera la afirmación? Evalúa y justifica.",
+      "context": "En Pasto, un estudiante afirma que toda traslación seguida de una rotación conserva las medidas de lados y ángulos de cualquier figura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadera, porque la traslación y la rotación son movimientos rígidos que preservan distancias y ángulos.",
+          "is_correct": true,
+          "feedback": "Correcto. La composición de movimientos rígidos es otro movimiento rígido."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa, porque la rotación cambia el tamaño de la figura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rotación conserva todas las distancias al centro."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera, porque cualquier transformación conserva las medidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homotecia con $k \\neq 1$ cambia el tamaño aunque la afirmación puntual sea cierta."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa, porque la traslación deforma los ángulos agudos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación conserva exactamente cada ángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los movimientos rígidos (traslación, rotación y reflexión) preservan la distancia entre cualquier par de puntos, y por tanto preservan lados, ángulos, perímetros y áreas. La composición de dos movimientos rígidos sigue siendo rígida. En cambio, las homotecias con razón distinta de $1$ o $-1$ no son rígidas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué transformación única equivale a dos reflexiones con ejes paralelos separados $3$ cm?",
+      "context": "En Cúcuta, un mosaico de la catedral se genera aplicando dos reflexiones seguidas con ejes paralelos separados $3$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una rotación de $3^{\\circ}$ alrededor del punto medio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ejes paralelos no producen giro."
+        },
+        {
+          "letter": "B",
+          "text": "Una traslación de $6$ cm en dirección perpendicular a los ejes.",
+          "is_correct": true,
+          "feedback": "Correcto. Dos espejos paralelos equivalen a deslizar el doble de su separación."
+        },
+        {
+          "letter": "C",
+          "text": "Una homotecia de razón $3$ desde el primer eje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reflexiones no cambian el tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "Una reflexión respecto a una recta inclinada $3$ cm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La composición de dos reflexiones paralelas no es otra reflexión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al reflejar dos veces con ejes paralelos, la orientación se restaura y cada punto avanza el doble de la distancia entre los ejes: $2 \\times 3 = 6$ cm en dirección perpendicular a los espejos. Es un teorema clásico: dos reflexiones paralelas equivalen a una traslación y dos reflexiones que se cortan equivalen a una rotación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el área final y uno de sus vértices imagen?",
+      "context": "En Ibagué, se aplica al rectángulo de vértices $(0, 0)$, $(4, 0)$, $(4, 2)$ y $(0, 2)$ una homotecia de razón $k = \\frac{1}{2}$ con centro en el origen, seguida de una traslación $(2, 1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Área $8$ y vértice $(4, 1)$, porque la homotecia no cambia el área.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homotecia con $k = \\frac{1}{2}$ reduce el área a la cuarta parte."
+        },
+        {
+          "letter": "B",
+          "text": "Área $4$ y vértice $(4, 2)$, porque solo se trasladó la figura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta aplicar la reducción de la homotecia."
+        },
+        {
+          "letter": "C",
+          "text": "Área $2$ y vértice $(4, 2)$, porque $(4, 2) \\to (2, 1) \\to (4, 2)$.",
+          "is_correct": true,
+          "feedback": "Correcto. El área $8 \\times \\frac{1}{4} = 2$ y el vértice se verifica paso a paso."
+        },
+        {
+          "letter": "D",
+          "text": "Área $2$ y vértice $(6, 3)$, porque se suman directamente los parámetros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar la razón y el vector; hay que aplicarlas en orden."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área inicial es $4 \\times 2 = 8$. Con $k = \\frac{1}{2}$ el área se multiplica por $k^2 = \\frac{1}{4}$, quedando $2$. El vértice $(4, 2)$ se transforma primero en $(2, 1)$ y luego, con la traslación $(2, 1)$, en $(4, 2)$. La traslación no altera el área final.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle-v12",
+      "statement": "El logo se reduce con homotecia de razón $k = 0{,}4$. ¿Qué se conserva y qué cambia? Evalúa la decisión.",
+      "context": "En Villavicencio, una empresa de señalización debe decidir si el logo reducido de $10$ cm a $4$ cm es congruente o semejante al original para conservar la legibilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo se conserva, por eso los logos son congruentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 0{,}4$ el tamaño cambia y no hay congruencia."
+        },
+        {
+          "letter": "B",
+          "text": "Nada se conserva, por eso hay que rediseñar el logo desde cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos y la forma sí se conservan."
+        },
+        {
+          "letter": "C",
+          "text": "Se conserva el área pero cambian los ángulos, por eso no sirve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: los ángulos se conservan y el área cambia con $k^2$."
+        },
+        {
+          "letter": "D",
+          "text": "Se conservan la forma y los ángulos pero cambian lados y área; los logos son semejantes y la decisión es válida si el texto sigue legible.",
+          "is_correct": true,
+          "feedback": "Correcto. La homotecia produce semejanza con razón $0{,}4$ y área reducida a $0{,}16$ del original."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La homotecia con $k = 0{,}4$ multiplica cada longitud por $0{,}4$ (de $10$ cm a $4$ cm) y cada área por $k^2 = 0{,}16$, pero conserva todos los ángulos y la forma. Por tanto las figuras son semejantes, no congruentes. Para señalización la decisión es válida siempre que el tamaño reducido mantenga la legibilidad del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W24-transformaciones-geometricas-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

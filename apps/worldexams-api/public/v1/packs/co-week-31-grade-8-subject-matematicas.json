@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-31-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T00:22:15.743Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se calcula el rango de un conjunto de datos?",
+      "context": "En Bogotá, el profesor define las medidas de dispersión en la clase de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumando todos los datos y dividiendo entre el total",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula de la media aritmética."
+        },
+        {
+          "letter": "B",
+          "text": "Tomando el dato que más se repite",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el concepto de moda."
+        },
+        {
+          "letter": "C",
+          "text": "Restando el valor mínimo del valor máximo",
+          "is_correct": true,
+          "feedback": "Correcto. Rango $=$ máximo $-$ mínimo. Mide la amplitud total."
+        },
+        {
+          "letter": "D",
+          "text": "Dividiendo la desviación entre la media",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa operación no define el rango."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rango es la medida de dispersión más sencilla: $\\text{Rango} = x_{\\max} - x_{\\min}$. Indica qué tan extendidos están los datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa que un grupo tenga mayor desviación estándar que otro?",
+      "context": "En Medellín, dos cursos tienen la misma media en matemáticas pero distinta desviación estándar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus datos están más dispersos respecto a la media",
+          "is_correct": true,
+          "feedback": "Correcto. Mayor desviación indica datos más alejados del promedio."
+        },
+        {
+          "letter": "B",
+          "text": "Su promedio es mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación no mide el promedio sino la dispersión."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene menos estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no determina la desviación."
+        },
+        {
+          "letter": "D",
+          "text": "Todos sus datos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si todos fueran iguales, la desviación sería $0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desviación estándar mide la distancia típica a la media. Un valor grande significa datos heterogéneos; un valor cercano a $0$ significa datos homogéneos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el rango de las edades?",
+      "context": "En Cali, las edades de un equipo son $12$, $15$, $18$, $20$ y $25$ años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $25 - 15$ en lugar de usar el mínimo $12$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el mínimo como rango."
+        },
+        {
+          "letter": "C",
+          "text": "$18$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la mediana $18$ como si fuera el rango."
+        },
+        {
+          "letter": "D",
+          "text": "$13$ años",
+          "is_correct": true,
+          "feedback": "Correcto. $25 - 12 = 13$ años."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Máximo $= 25$, mínimo $= 12$. Rango $= 25 - 12 = 13$ años.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v4",
+      "statement": "Si la media es $\\bar{x} = 4$, ¿cuál es la varianza poblacional $\\sigma^2 = \\frac{\\sum (x_i - \\bar{x})^2}{n}$?",
+      "context": "En Cartagena, los goles de un equipo fueron $2$, $4$, $4$, $4$ y $6$ en cinco partidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la suma $8$ entre $8$ en lugar de $5$."
+        },
+        {
+          "letter": "B",
+          "text": "$1,6$",
+          "is_correct": true,
+          "feedback": "Correcto. $(4 + 0 + 0 + 0 + 4)/5 = 8/5 = 1,6$."
+        },
+        {
+          "letter": "C",
+          "text": "$2,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $10$ en lugar de $8$ en el numerador."
+        },
+        {
+          "letter": "D",
+          "text": "$8,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre $n = 5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desviaciones al cuadrado: $(2-4)^2 = 4$, tres ceros y $(6-4)^2 = 4$. Suma $= 8$. Varianza $= 8/5 = 1,6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v5",
+      "statement": "Según el rango, ¿qué curso presenta mayor dispersión?",
+      "context": "En Barranquilla, el curso A tiene notas entre $3,2$ y $4,8$ y el curso B entre $2,5$ y $5,0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El curso A, con rango $1,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango de A es $4,8 - 3,2 = 1,6$."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos igual, con rango $2,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los rangos son $1,6$ y $2,5$, distintos."
+        },
+        {
+          "letter": "C",
+          "text": "El curso B, con rango $2,5$",
+          "is_correct": true,
+          "feedback": "Correcto. Rango B $= 5,0 - 2,5 = 2,5$, mayor que $1,6$ de A."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin la media",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango solo necesita máximo y mínimo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Rango A $= 1,6$. Rango B $= 2,5$. A mayor rango, mayor amplitud de las notas; el curso B es más disperso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v6",
+      "statement": "Si la media es $12$ y la varianza es $8/3 \\approx 2,67$, ¿cuál es la desviación estándar?",
+      "context": "En Bucaramanga, los tiempos de tres atletas son $10$, $12$ y $14$ segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente $1,63$ segundos",
+          "is_correct": true,
+          "feedback": "Correcto. $\\sigma = \\sqrt{2,67} \\approx 1,63$."
+        },
+        {
+          "letter": "B",
+          "text": "$2,67$ segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la varianza, no de la desviación."
+        },
+        {
+          "letter": "C",
+          "text": "$2,0$ segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $(14-10)/2$ como si fuera la desviación."
+        },
+        {
+          "letter": "D",
+          "text": "$4,0$ segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste la suma de cuadrados $8$ y la dividiste entre $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desviación es la raíz de la varianza: $\\sigma = \\sqrt{8/3} \\approx \\sqrt{2,67} \\approx 1,63$ segundos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la varianza poblacional del conjunto?",
+      "context": "En Pereira, los minutos de lectura fueron $8$, $9$, $9$, $10$ y $14$ con media $10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2,1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor aproxima la desviación, no la varianza."
+        },
+        {
+          "letter": "B",
+          "text": "$5,5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $27,5$ en lugar de $22$."
+        },
+        {
+          "letter": "C",
+          "text": "$3,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $22$ entre $7$ en lugar de $5$."
+        },
+        {
+          "letter": "D",
+          "text": "$4,4$",
+          "is_correct": true,
+          "feedback": "Correcto. $(4 + 1 + 1 + 0 + 16)/5 = 22/5 = 4,4$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuadrados: $4$, $1$, $1$, $0$, $16$. Suma $= 22$. Varianza $= 22/5 = 4,4$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál grupo es más homogéneo y por qué?",
+      "context": "En Manizales, dos grupos tienen media $15$ puntos. El grupo A tiene desviación $1,2$ y el grupo B tiene desviación $4,8$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo B, porque su desviación es mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor desviación significa mayor dispersión, no homogeneidad."
+        },
+        {
+          "letter": "B",
+          "text": "El grupo A, porque su menor desviación indica datos cercanos a la media",
+          "is_correct": true,
+          "feedback": "Correcto. Desviación $1,2 < 4,8$: el grupo A es más compacto."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos igual, porque tienen la misma media",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igual media no implica igual dispersión."
+        },
+        {
+          "letter": "D",
+          "text": "Falta conocer el rango para decidir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación ya permite comparar homogeneidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con igual media, menor desviación equivale a mayor homogeneidad. El grupo A varía típicamente $1,2$ puntos; el B varía $4,8$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v9",
+      "statement": "Al evaluar el efecto del dato atípico, ¿cuál es el nuevo rango?",
+      "context": "En Pasto, las notas fueron $5$, $6$, $7$, $6$ y $5$. Luego ingresa un estudiante con nota $20$ en una escala de $1$ a $20$ de un concurso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese era el rango antes del dato atípico $7 - 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $20 - 13$ sin sentido."
+        },
+        {
+          "letter": "C",
+          "text": "$15$",
+          "is_correct": true,
+          "feedback": "Correcto. Nuevo máximo $20$, mínimo $5$: $20 - 5 = 15$."
+        },
+        {
+          "letter": "D",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el máximo como rango sin restar el mínimo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El rango es sensible a valores atípicos: pasó de $2$ a $15$. El mínimo sigue en $5$ y el máximo sube a $20$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuáles son la varianza y la desviación estándar correctas?",
+      "context": "En Armenia, cuatro notas son $4,0$, $4,0$, $5,0$ y $5,0$ con media $4,5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Varianza $0,25$ y desviación $0,5$",
+          "is_correct": true,
+          "feedback": "Correcto. $(0,25+0,25+0,25+0,25)/4 = 0,25$ y $\\sqrt{0,25} = 0,5$."
+        },
+        {
+          "letter": "B",
+          "text": "Varianza $0,5$ y desviación $1,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la suma de cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "Varianza $1,0$ y desviación $1,0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste entre $n = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "Varianza $0,125$ y desviación $0,35$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $8$ en lugar de $4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada $(x_i - 4,5)^2 = 0,25$. Suma $= 1,0$. Varianza $= 1,0/4 = 0,25$. Desviación $= \\sqrt{0,25} = 0,5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v11",
+      "statement": "Al evaluar la calidad, ¿qué máquina es más confiable?",
+      "context": "En Cúcuta, dos máquinas llenan bolsas de café de $500$ g en promedio. La máquina A tiene desviación $3$ g y la B tiene desviación $12$ g.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La B, porque varía más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor variación significa menor control de calidad."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas igual, porque el promedio es $500$ g",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igual promedio no garantiza igual precisión."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna, falta el rango",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación es suficiente para comparar precisión."
+        },
+        {
+          "letter": "D",
+          "text": "La A, porque su menor dispersión indica llenado más consistente",
+          "is_correct": true,
+          "feedback": "Correcto. Desviación $3$ g frente a $12$ g: la máquina A es más precisa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La confiabilidad se mide por consistencia. Con la misma media, la máquina A se desvía típicamente solo $3$ g, mientras la B se desvía $12$ g.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle-v12",
+      "statement": "¿Qué ciudad presenta mayor dispersión térmica según el rango?",
+      "context": "En Colombia se registran temperaturas: Bogotá $12$, $13$, $14$, $13$, $12$ grados y Cartagena $27$, $30$, $33$, $29$, $31$ grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá, con rango $14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $14$ es el máximo, no el rango."
+        },
+        {
+          "letter": "B",
+          "text": "Cartagena, con rango $6$ frente a $2$ de Bogotá",
+          "is_correct": true,
+          "feedback": "Correcto. Cartagena: $33 - 27 = 6$. Bogotá: $14 - 12 = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas igual, con rango $4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los rangos son $2$ y $6$, claramente distintos."
+        },
+        {
+          "letter": "D",
+          "text": "No son comparables por ser ciudades distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango permite comparar dispersión en cualquier contexto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Rango Bogotá $= 2$ grados, clima estable. Rango Cartagena $= 6$ grados, mayor variabilidad térmica en el periodo observado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
