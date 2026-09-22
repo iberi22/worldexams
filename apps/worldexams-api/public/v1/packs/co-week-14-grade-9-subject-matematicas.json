@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T02:28:41.346Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el perímetro del cuadrado de lado $12$ m?",
+      "context": "En Bogotá, un parque cuadrado tiene lados de $12$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$48$ m",
+          "is_correct": true,
+          "feedback": "Correcto. El perímetro del cuadrado es $4 \\times 12 = 48$ m."
+        },
+        {
+          "letter": "B",
+          "text": "$24$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $2$ en vez de por $4$; el cuadrado tiene cuatro lados."
+        },
+        {
+          "letter": "C",
+          "text": "$144$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. $144$ es el área $12^{2}$, no el perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "$36$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a un triángulo equilátero de lado $12$, no a un cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro es la suma de los lados. En un cuadrado los cuatro lados son iguales, por lo que $P = 4l = 4 \\times 12 = 48$ m.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el área del rectángulo de $8$ m por $5$ m?",
+      "context": "En Medellín, una cartelera rectangular mide $8$ m de largo y $5$ m de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$26$ m cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. $26$ es el perímetro $2(8 + 5)$; el área se obtiene multiplicando."
+        },
+        {
+          "letter": "B",
+          "text": "$13$ m cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $8 + 5$; el área del rectángulo es base por altura."
+        },
+        {
+          "letter": "C",
+          "text": "$40$ m cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área es $8 \\times 5 = 40$ metros cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$20$ m cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la mitad del área; aplicaste la fórmula del triángulo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área del rectángulo es base por altura: $A = b \\times h = 8 \\times 5 = 40$ metros cuadrados. El perímetro, en cambio, sería $26$ m.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el perímetro del triángulo equilátero de lado $9$ cm?",
+      "context": "En Cali, una señal de tránsito es un triángulo equilátero de lado $9$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $2$; el triángulo tiene tres lados iguales."
+        },
+        {
+          "letter": "B",
+          "text": "$27$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. El perímetro es $3 \\times 9 = 27$ cm."
+        },
+        {
+          "letter": "C",
+          "text": "$36$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $4$ como si fuera un cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$81$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. $81 = 9^{2}$ no tiene relación con el perímetro del triángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un triángulo equilátero los tres lados son iguales, por lo que $P = 3l = 3 \\times 9 = 27$ cm.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el perímetro del hexágono regular de lado $6$ cm?",
+      "context": "En Barranquilla, un vitral hexagonal regular tiene lados de $6$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $4$; el hexágono tiene seis lados."
+        },
+        {
+          "letter": "B",
+          "text": "$30$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $5$ como si fuera un pentágono."
+        },
+        {
+          "letter": "C",
+          "text": "$12$ cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $2$; debes multiplicar por el número de lados del polígono."
+        },
+        {
+          "letter": "D",
+          "text": "$36$ cm",
+          "is_correct": true,
+          "feedback": "Correcto. El hexágono tiene seis lados: $6 \\times 6 = 36$ cm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El perímetro de un polígono regular es $P = n \\times l$. Para el hexágono $n = 6$, así que $P = 6 \\times 6 = 36$ cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área del triángulo de base $10$ m y altura $6$ m?",
+      "context": "En Cartagena, una piscina triangular tiene base $10$ m y altura $6$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30$ m cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área es $(10 \\times 6) \\div 2 = 30$ metros cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$60$ m cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dividir entre $2$; ese es el área del rectángulo equivalente."
+        },
+        {
+          "letter": "C",
+          "text": "$16$ m cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste base más altura; el área requiere multiplicar y dividir entre $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$32$ m cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es el perímetro aproximado, no el área del triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área del triángulo es la mitad del rectángulo que lo contiene: $A = (b \\times h) \\div 2 = (10 \\times 6) \\div 2 = 30$ metros cuadrados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el área del pentágono con $P = 50$ cm y apotema $a = 6.88$ cm?",
+      "context": "En Bucaramanga, un pentágono regular tiene perímetro $50$ cm y apotema $6.88$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$343.88$ cm cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste perímetro más apotema; la fórmula requiere multiplicar y dividir entre $2$."
+        },
+        {
+          "letter": "B",
+          "text": "$344$ cm cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $50 \\times 6.88$ sin dividir entre $2$."
+        },
+        {
+          "letter": "C",
+          "text": "$172$ cm cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. $A = (P \\times a) \\div 2 = (50 \\times 6.88) \\div 2 = 172$ cm cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$86$ cm cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste dos veces entre $2$; solo se divide una vez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de un polígono regular es $A = (P \\times a) \\div 2$. Sustituyendo, $(50 \\times 6.88) \\div 2 = 344 \\div 2 = 172$ cm cuadrados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v7",
+      "statement": "Si el lado de un cuadrado aumenta de $6$ m a $8$ m, ¿cómo cambia su área?",
+      "context": "En Pereira, dos lotes cuadrados tienen lados $6$ m y $8$ m. Un arquitecto compara sus áreas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta $2$ m cuadrados, igual que el lado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área no crece de forma lineal con el lado; crece con el cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "Pasa de $36$ a $64$ m cuadrados; aumenta $28$ m cuadrados.",
+          "is_correct": true,
+          "feedback": "Correcto. $6^{2} = 36$ y $8^{2} = 64$; la diferencia es $28$ m cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "Se duplica porque el lado casi se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar el lado cuadruplica el área; aquí el lado ni siquiera se duplica."
+        },
+        {
+          "letter": "D",
+          "text": "Pasa de $24$ a $32$ m cuadrados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores son los perímetros, no las áreas de los cuadrados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área cuadrática amplifica los cambios lineales: un aumento de $2$ m en el lado produce $64 - 36 = 28$ m cuadrados más. Esto muestra que perímetro y área no son proporcionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v8",
+      "statement": "Si cada triángulo central tiene área $6.93$ cm cuadrados, ¿cuál es el área del hexágono?",
+      "context": "En Bogotá, un hexágono regular de lado $4$ cm se divide en $6$ triángulos equiláteros desde el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12.93$ cm cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $6 + 6.93$; debes multiplicar el área de un triángulo por $6$."
+        },
+        {
+          "letter": "B",
+          "text": "$27.72$ cm cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $4$ (el lado) en vez de por $6$ (los triángulos)."
+        },
+        {
+          "letter": "C",
+          "text": "$24$ cm cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. $24$ es el perímetro $6 \\times 4$, no el área del hexágono."
+        },
+        {
+          "letter": "D",
+          "text": "$41.58$ cm cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El hexágono contiene $6$ triángulos: $6 \\times 6.93 = 41.58$ cm cuadrados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El hexágono regular se descompone en seis triángulos equiláteros congruentes. Por aditividad del área, $A = 6 \\times 6.93 = 41.58$ cm cuadrados, lo cual coincide con $(P \\times a) \\div 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál afirmación compara correctamente ambas áreas?",
+      "context": "En Medellín, un rectángulo de $12$ m por $5$ m y un triángulo de base $12$ m y altura $10$ m se comparan en un taller de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas áreas miden $60$ m cuadrados y por tanto son iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. Rectángulo: $12 \\times 5 = 60$; triángulo: $(12 \\times 10) \\div 2 = 60$."
+        },
+        {
+          "letter": "B",
+          "text": "El triángulo es mayor porque su altura $10$ supera el ancho $5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula del triángulo divide entre $2$, lo que compensa la mayor altura."
+        },
+        {
+          "letter": "C",
+          "text": "El rectángulo es mayor porque no se divide entre $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el triángulo divide entre $2$, su altura duplica el ancho del rectángulo."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar porque son figuras distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área es una magnitud común que permite comparar cualquier figura plana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular ambas áreas con sus fórmulas muestra la igualdad: $12 \\times 5 = 60$ y $(12 \\times 10) \\div 2 = 60$. Figuras distintas pueden tener igual área, lo que se llama equivalencia de áreas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v10",
+      "statement": "De las opciones, ¿qué rectángulo usa exactamente $40$ m de perímetro y tiene mayor área?",
+      "context": "En Cali, con $40$ m de cerca se quiere encerrar un lote rectangular de área máxima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15$ m por $5$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro es $40$ m pero el área es $75$ m cuadrados, menor que la del cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ m por $8$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro es $40$ m pero el área es $96$ m cuadrados, menor que $100$."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ m por $10$ m",
+          "is_correct": true,
+          "feedback": "Correcto. El perímetro es $40$ m y el área $100$ m cuadrados, la máxima posible."
+        },
+        {
+          "letter": "D",
+          "text": "$18$ m por $2$ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro es $40$ m pero el área es solo $36$ m cuadrados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A perímetro fijo, el cuadrado maximiza el área del rectángulo. Entre las opciones con $P = 40$ m, las áreas son $75$, $96$, $100$ y $36$; el cuadrado de $10 \\times 10$ gana con $100$ m cuadrados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se evalúa la afirmación del estudiante?",
+      "context": "En Barranquilla, un estudiante afirma que si el lado de un polígono regular se duplica, su perímetro y su área también se duplican.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente correcta: ambas magnitudes se duplican.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el perímetro se duplica; el área se cuadruplica por ser cuadrática."
+        },
+        {
+          "letter": "B",
+          "text": "Es parcialmente correcta: el perímetro se duplica pero el área se cuadruplica.",
+          "is_correct": true,
+          "feedback": "Correcto. $P$ es lineal en $l$ mientras $A$ depende de $l^{2}$; al duplicar $l$, $P$ se multiplica por $2$ y $A$ por $4$."
+        },
+        {
+          "letter": "C",
+          "text": "Es totalmente falsa: ninguna de las dos se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro sí se duplica porque $P = n \\times l$."
+        },
+        {
+          "letter": "D",
+          "text": "Es parcialmente correcta: el área se duplica pero el perímetro se cuadruplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los efectos: el perímetro es lineal y el área es cuadrática."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si $l' = 2l$, entonces $P' = n(2l) = 2P$ y $A' = k(2l)^{2} = 4A$. Esta diferencia entre crecimiento lineal y cuadrático es clave en semejanza de figuras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el costo total de cercar el lote?",
+      "context": "En Pereira, cercar un lote octagonal regular de lado $9$ m cuesta $25000$ pesos COP por metro lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$225000$ pesos COP, porque se multiplicó un solo lado por el precio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9 \\times 25000 = 225000$ es el costo de un solo lado, no de todo el perímetro."
+        },
+        {
+          "letter": "B",
+          "text": "$450000$ pesos COP, porque se usaron $4$ lados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El octágono tiene $8$ lados, no $4$; faltó la mitad del perímetro."
+        },
+        {
+          "letter": "C",
+          "text": "$900000$ pesos COP, porque el perímetro se calculó como $36$ m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $36 = 9 \\times 4$ corresponde a un cuadrado; el octágono da $72$ m."
+        },
+        {
+          "letter": "D",
+          "text": "$1800000$ pesos COP, porque el perímetro es $72$ m.",
+          "is_correct": true,
+          "feedback": "Correcto. $P = 8 \\times 9 = 72$ m y $72 \\times 25000 = 1800000$ pesos COP."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Primero se halla el perímetro del octágono: $P = 8 \\times 9 = 72$ m. Luego se multiplica por el precio unitario: $72 \\times 25000 = 1800000$ pesos COP. El error típico es confundir el número de lados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

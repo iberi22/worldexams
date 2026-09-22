@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T02:28:41.349Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la factorización correcta de $6x + 12$?",
+      "context": "En Bogotá, el profesor pide extraer el factor común de $6x + 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6(x + 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. $6$ es el máximo factor común de $6x$ y $12$."
+        },
+        {
+          "letter": "B",
+          "text": "$6(x + 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste el $12$ entre $6$."
+        },
+        {
+          "letter": "C",
+          "text": "$3(x + 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3$ es factor común pero no el máximo."
+        },
+        {
+          "letter": "D",
+          "text": "$x(6 + 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x$ no es factor del término $12$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factor común: se divide cada término entre $6$. $6x + 12 = 6(x + 2)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la factorización de $x^2 - 9$?",
+      "context": "En Medellín, se estudia la diferencia de cuadrados $x^2 - 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 9)(x - 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9 \\times 1 \\neq 9$ con esos signos."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 3)(x - 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $x^2 - 3^2 = (x+3)(x-3)$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso expande a $x^2 + 6x + 9$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 3)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso expande a $x^2 - 6x + 9$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Diferencia de cuadrados: $a^2 - b^2 = (a+b)(a-b)$. Aquí $a = x$, $b = 3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es su factorización?",
+      "context": "En Cali, se analiza el trinomio $x^2 + 6x + 9$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 9)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9 + 1 = 10 \\neq 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)(x - 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos deben ser positivos."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x + 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. Es el trinomio cuadrado perfecto $(x+3)^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 6)(x + 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6 \\times 3 = 18 \\neq 9$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se buscan dos números que sumen $6$ y multipliquen $9$: $3$ y $3$. Por tanto $x^2+6x+9 = (x+3)^2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la factorización correcta?",
+      "context": "En Barranquilla, se necesita factorizar $x^2 + 5x + 6$ para simplificar una fracción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 6)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6 + 1 = 7 \\neq 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 2)(x - 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos deben ser positivos."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 5)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5 \\times 1 = 5 \\neq 6$."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 2)(x + 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $2 + 3 = 5$ y $2 \\times 3 = 6$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Trinomio de la forma $x^2+bx+c$: se buscan números que sumen $5$ y multipliquen $6$, es decir $2$ y $3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo se factoriza $4x^2 - 25$?",
+      "context": "En Cartagena, un diseño de baldosas usa el área $4x^2 - 25$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x + 5)(2x - 5)$",
+          "is_correct": true,
+          "feedback": "Correcto. $(2x)^2 - 5^2 = (2x+5)(2x-5)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(4x + 5)(x - 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4x \\times x = 4x^2$ pero el término cruzado no se anula."
+        },
+        {
+          "letter": "C",
+          "text": "$(2x + 5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso da $4x^2 + 20x + 25$."
+        },
+        {
+          "letter": "D",
+          "text": "$(2x - 5)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso da $4x^2 - 20x + 25$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es diferencia de cuadrados con $a = 2x$ y $b = 5$. Los términos cruzados $+10x$ y $-10x$ se cancelan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es su factorización por factor común?",
+      "context": "En Bucaramanga, se simplifica la expresión $2x^2 + 8x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2(x^2 + 8x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No extrajiste la $x$ común."
+        },
+        {
+          "letter": "B",
+          "text": "$2x(x + 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. El máximo factor común es $2x$."
+        },
+        {
+          "letter": "C",
+          "text": "$x(2x + 8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta extraer el $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$4x(x + 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4x$ no divide a $8x$ dejando entero en el segundo factor como $2$, pero $4x(x+2) = 4x^2+8x \\neq 2x^2+8x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$2x^2 + 8x = 2x \\cdot x + 2x \\cdot 4 = 2x(x + 4)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v7",
+      "statement": "¿Qué afirmación es correcta?",
+      "context": "En Pereira, se comparan $9x^2 - 16y^2$ y $9x^2 + 16y^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas son diferencia de cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda es una suma."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna se puede factorizar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera sí se factoriza."
+        },
+        {
+          "letter": "C",
+          "text": "Solo $9x^2 - 16y^2 = (3x + 4y)(3x - 4y)$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de cuadrados no factoriza en reales."
+        },
+        {
+          "letter": "D",
+          "text": "$9x^2 - 16y^2 = (3x + 4y)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso expande a $9x^2 + 24xy + 16y^2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia de cuadrados sí factoriza; la suma $a^2+b^2$ no tiene factorización real. Distinguir el signo es clave.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v8",
+      "statement": "¿Qué error cometió?",
+      "context": "En Cali, un estudiante afirma que $(x + 4)^2 = x^2 + 16$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, es correcto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el doble producto."
+        },
+        {
+          "letter": "B",
+          "text": "Debió restar en vez de sumar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el signo sino el término faltante."
+        },
+        {
+          "letter": "C",
+          "text": "Debió elevar cada término al cubo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente es $2$."
+        },
+        {
+          "letter": "D",
+          "text": "Omitió el doble producto $2 \\cdot x \\cdot 4 = 8x$",
+          "is_correct": true,
+          "feedback": "Correcto. Lo correcto es $x^2 + 8x + 16$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$(x+4)^2 = x^2 + 8x + 16$. El error de linealizar el cuadrado es muy frecuente y también aparece en química al expandir concentraciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la factorización completa?",
+      "context": "En Bogotá, se debe factorizar por completo $3x^2 - 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3(x + 2)(x - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Primero factor común $3$, luego diferencia de cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "$3(x - 2)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso da $3x^2 - 12x + 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$(3x + 6)(x - 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No extrajiste por completo el factor común."
+        },
+        {
+          "letter": "D",
+          "text": "$3(x^2 - 12)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste mal: $12 / 3 = 4$, no $12$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En dos pasos: $3x^2-12 = 3(x^2-4) = 3(x+2)(x-2)$. Factorizar por completo exige agotar todos los casos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v10",
+      "statement": "¿Cuáles son los lados y el valor total del rectángulo cuando $x = 2$?",
+      "context": "En Medellín, un rectángulo tiene área $x^2 + 7x + 12$. Si $x = 2$, el metro cuadrado cuesta $100.000 COP$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lados $(x+6)(x+1)$ y valor $3.000.000 COP$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6+1 = 7$ pero $6 \\times 1 = 6 \\neq 12$."
+        },
+        {
+          "letter": "B",
+          "text": "Lados $(x+3)(x+4)$ y valor $3.000.000 COP$",
+          "is_correct": true,
+          "feedback": "Correcto. Área = $(5)(6) = 30$; $30 \\times 100.000 = 3.000.000$."
+        },
+        {
+          "letter": "C",
+          "text": "Lados $(x+3)(x+4)$ y valor $30.000 COP$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste dos ceros al multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "Lados $(x+2)(x+6)$ y valor $4.800.000 COP$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa factorización da $x^2+8x+12$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$x^2+7x+12 = (x+3)(x+4)$. Con $x=2$: $5 \\times 6 = 30$ metros cuadrados. Valor = $30 \\times 100.000 = 3.000.000$ COP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la factorización como suma de cubos?",
+      "context": "En Cartagena, un tanque cúbico tiene volumen $27x^3 + 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3x + 1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso expande a $27x^3 + 27x^2 + 9x + 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$(3x + 1)(9x^2 + 3x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del término cruzado debe ser negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$(3x + 1)(9x^2 - 3x + 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. $a^3+b^3 = (a+b)(a^2-ab+b^2)$ con $a=3x$, $b=1$."
+        },
+        {
+          "letter": "D",
+          "text": "$(3x - 1)(9x^2 + 3x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la diferencia de cubos de $27x^3 - 1$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Suma de cubos: $(3x)^3 + 1^3 = (3x+1)(9x^2-3x+1)$. Verificar con el producto confirma los signos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la factorización correcta?",
+      "context": "En Bucaramanga, se debe factorizar $2x^2 + 7x + 3$ para hallar sus raíces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x + 3)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso da $2x^2 + 5x + 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2x + 1)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso da $2x^2 + 3x + 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 3)(x + 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso da $x^2 + 4x + 3$, sin el $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(2x + 1)(x + 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x \\cdot x = 2x^2$; $2x \\cdot 3 + 1 \\cdot x = 7x$; $1 \\cdot 3 = 3$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Por tanteo dirigido: $(2x+1)(x+3) = 2x^2+6x+x+3 = 2x^2+7x+3$. Las raíces son $x = -1/2$ y $x = -3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
