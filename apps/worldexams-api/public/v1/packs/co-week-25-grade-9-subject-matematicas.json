@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-25-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T03:44:38.730Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué ley de los exponentes se aplica al multiplicar potencias de igual base?",
+      "context": "En Bogotá, el docente escribe en el tablero la expresión a^m · a^n, con la misma base a.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se conserva la base y se suman los exponentes",
+          "is_correct": true,
+          "feedback": "Correcto. a^m · a^n = a^(m+n)."
+        },
+        {
+          "letter": "B",
+          "text": "Se conserva la base y se multiplican los exponentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar exponentes corresponde a la potencia de una potencia."
+        },
+        {
+          "letter": "C",
+          "text": "Se conserva la base y se restan los exponentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta de exponentes corresponde a la división de potencias."
+        },
+        {
+          "letter": "D",
+          "text": "Se multiplican las bases y se suman los exponentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base debe conservarse igual cuando las bases coinciden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al multiplicar potencias con la misma base se conserva la base y se suman los exponentes: a^m · a^n = a^(m+n).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál igualdad es válida para los radicales con a y b no negativos?",
+      "context": "En Medellín, un estudiante repasa las propiedades de los radicales para números a y b no negativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "√(a · b) = √a · √b",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz de un producto es el producto de las raíces."
+        },
+        {
+          "letter": "B",
+          "text": "√(a + b) = √a + √b",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz no se distribuye sobre la suma."
+        },
+        {
+          "letter": "C",
+          "text": "√(a − b) = √a − √b",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz tampoco se distribuye sobre la resta."
+        },
+        {
+          "letter": "D",
+          "text": "√(a² + b²) = a + b",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz de una suma de cuadrados no es la suma de las bases."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La propiedad correcta es √(a · b) = √a · √b; la raíz no se distribuye sobre sumas ni restas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor de esa expresión?",
+      "context": "En Cali, un laboratorio modela el crecimiento de bacterias y obtiene la expresión 2^3 · 2^4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "128",
+          "is_correct": true,
+          "feedback": "Correcto. 2^3 · 2^4 = 2^7 = 128."
+        },
+        {
+          "letter": "B",
+          "text": "4096",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los exponentes en vez de sumarlos."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los exponentes en vez de sumarlos."
+        },
+        {
+          "letter": "D",
+          "text": "16384",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las potencias como si se elevaran entre sí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como las bases son iguales, se suman los exponentes: 2^3 · 2^4 = 2^7 = 128.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el resultado simplificado?",
+      "context": "En Barranquilla, un estudiante simplifica la expresión 5^7 ÷ 5^4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5^11",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los exponentes, pero en la división se restan."
+        },
+        {
+          "letter": "B",
+          "text": "125",
+          "is_correct": true,
+          "feedback": "Correcto. 5^7 ÷ 5^4 = 5^3 = 125."
+        },
+        {
+          "letter": "C",
+          "text": "5^28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los exponentes en vez de restarlos."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de exponentes no es cero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la división de potencias de igual base se restan los exponentes: 5^7 ÷ 5^4 = 5^3 = 125.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de la expresión?",
+      "context": "En Bucaramanga, un estudiante debe simplificar la potencia de una potencia (2^3)^2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los exponentes en vez de multiplicarlos."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "is_correct": true,
+          "feedback": "Correcto. (2^3)^2 = 2^6 = 64."
+        },
+        {
+          "letter": "C",
+          "text": "512",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3 + 2 + 4 en un procedimiento sin fundamento."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 2 por 8 en vez de aplicar la ley de exponentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la potencia de una potencia se multiplican los exponentes: (2^3)^2 = 2^(3×2) = 2^6 = 64.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la forma simplificada de √50?",
+      "context": "En Pereira, un estudiante simplifica el radical √50 extrayendo el factor cuadrado perfecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25√2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Extraes el cuadrado completo en vez de la raíz del factor."
+        },
+        {
+          "letter": "B",
+          "text": "5√2",
+          "is_correct": true,
+          "feedback": "Correcto. √50 = √(25 × 2) = 5√2."
+        },
+        {
+          "letter": "C",
+          "text": "2√5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegiste un factor que no divide correctamente a 50."
+        },
+        {
+          "letter": "D",
+          "text": "10√5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor extraído y el radicando no corresponden."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se descompone 50 = 25 × 2, y como 25 es cuadrado perfecto, √50 = 5√2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el valor de 2^(−3)?",
+      "context": "En Manizales, un estudiante debe evaluar la potencia con exponente negativo 2^(−3).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/8",
+          "is_correct": true,
+          "feedback": "Correcto. Un exponente negativo invierte la base: 2^(−3) = 1/2^3 = 1/8."
+        },
+        {
+          "letter": "B",
+          "text": "−8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo del exponente no hace negativo el resultado."
+        },
+        {
+          "letter": "C",
+          "text": "−1/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado de una potencia de base positiva es positivo."
+        },
+        {
+          "letter": "D",
+          "text": "1/6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la potencia con una división entre el exponente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un exponente negativo indica el recíproco de la potencia positiva: 2^(−3) = 1/2^3 = 1/8.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor de 27^(2/3)?",
+      "context": "En Cartagena, un estudiante evalúa la potencia con exponente fraccionario 27^(2/3).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. 27^(1/3) = 3 y luego 3² = 9."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 27 por 2/3 en vez de aplicar el exponente fraccionario."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aplicaste la raíz cúbica, sin elevar al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "81",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste 3 a la cuarta en vez de al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El exponente 2/3 significa raíz cúbica y luego cuadrado: 27^(2/3) = (∛27)² = 3² = 9.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la expresión simplificada?",
+      "context": "En Santa Marta, un estudiante simplifica la expresión algebraica (x^5 · x^(−2)) ÷ x^4, con x distinto de cero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/x",
+          "is_correct": true,
+          "feedback": "Correcto. x^(5−2−4) = x^(−1) = 1/x."
+        },
+        {
+          "letter": "B",
+          "text": "x^7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste todos los exponentes sin respetar la división."
+        },
+        {
+          "letter": "C",
+          "text": "x^3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste restar el exponente del denominador."
+        },
+        {
+          "letter": "D",
+          "text": "x^(−11)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste en el orden equivocado los exponentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se suman los exponentes del numerador y se resta el del denominador: 5 − 2 − 4 = −1, de modo que la expresión es x^(−1) = 1/x.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el resultado simplificado?",
+      "context": "En Armenia, un estudiante debe simplificar la suma de radicales √12 + √27.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5√3",
+          "is_correct": true,
+          "feedback": "Correcto. √12 = 2√3 y √27 = 3√3, y su suma es 5√3."
+        },
+        {
+          "letter": "B",
+          "text": "√39",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar los radicandos directamente."
+        },
+        {
+          "letter": "C",
+          "text": "5√6",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radicando común es 3, no 6."
+        },
+        {
+          "letter": "D",
+          "text": "13√3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los coeficientes 12 y 27 sin simplificar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Se simplifica cada radical: √12 = 2√3, √27 = 3√3; al ser semejantes se suman los coeficientes y se obtiene 5√3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación correcta de la afirmación de Sofía?",
+      "context": "En Villavicencio, Sofía afirma que √(9 + 16) = √9 + √16 = 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa: √(9 + 16) = √25 = 5, que es distinto de 7",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz no se distribuye sobre la suma; el resultado es 5."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: la raíz se distribuye sobre la suma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad distributiva no aplica a la radicación sobre sumas."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, pero solo porque 9 y 16 no son cuadrados perfectos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error no depende de que sean cuadrados perfectos."
+        },
+        {
+          "letter": "D",
+          "text": "Es verdadera porque 3 + 4 = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo correcto debe hacer primero la suma dentro del radical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se resuelve el interior del radical: √25 = 5. La igualdad √(a + b) = √a + √b no es válida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la evaluación correcta de esa expresión?",
+      "context": "En Neiva, un estudiante escribe en su cuaderno que 2^0 = 0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta: toda base no nula elevada a 0 es igual a 1, así que 2^0 = 1",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, a^0 = 1 para cualquier a distinto de cero."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta: cualquier número elevado a 0 da 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente 0 no anula el resultado; da 1."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta porque 2^0 = 2 − 2 = 0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar exponentes no es el significado de la potencia cero."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, pero el resultado correcto es 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La potencia cero no conserva la base."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la ley de exponentes, a^m ÷ a^m = a^0 = 1 para cualquier base no nula; por eso 2^0 = 1 y no 0.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W25-potenciacion-radicacion-leyes-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

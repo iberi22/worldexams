@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T03:44:38.732Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes números es irracional?",
+      "context": "En Bogotá, un profesor pide a sus estudiantes identificar un número irracional en una lista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La raíz cuadrada de 2",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz cuadrada de 2 no puede expresarse como fracción de enteros."
+        },
+        {
+          "letter": "B",
+          "text": "Tres cuartos (3/4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tres cuartos es una fracción de enteros, por lo tanto es racional."
+        },
+        {
+          "letter": "C",
+          "text": "Cero punto cinco (0.5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este decimal termina y equivale a 1/2, por lo tanto es racional."
+        },
+        {
+          "letter": "D",
+          "text": "Menos seis (-6)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo número entero es racional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un número irracional no puede escribirse como cociente de dos enteros; la raíz cuadrada de 2 es el ejemplo clásico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v2",
+      "statement": "¿Qué caracteriza a un número irracional?",
+      "context": "En Medellín, una estudiante explica a su clase qué caracteriza a los números irracionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No puede expresarse como fracción de enteros y su expansión decimal es infinita no periódica",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición precisa de número irracional."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre es un número negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay irracionales positivos como pi y la raíz cuadrada de 2."
+        },
+        {
+          "letter": "C",
+          "text": "Es el cociente de dos números enteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de número racional."
+        },
+        {
+          "letter": "D",
+          "text": "Su expansión decimal siempre termina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el decimal termina, el número es racional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los irracionales tienen decimales infinitos sin periodo que se repita, por eso no admiten forma de fracción exacta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v3",
+      "statement": "Con esa aproximación, ¿dónde se ubica correctamente la raíz cuadrada de 5?",
+      "context": "En Cali, un estudiante usa la aproximación de la raíz cuadrada de 5 como 2.236 para ubicarla en la recta real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre 2 y 3, más cerca de 2",
+          "is_correct": true,
+          "feedback": "Correcto. Como 2.236 está entre 2 y 3 y más próximo a 2."
+        },
+        {
+          "letter": "B",
+          "text": "Entre 3 y 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz cuadrada de 9 es 3, y 5 es menor que 9."
+        },
+        {
+          "letter": "C",
+          "text": "Entre 1 y 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz cuadrada de 4 es 2, y 5 es mayor que 4."
+        },
+        {
+          "letter": "D",
+          "text": "Es exactamente igual a 2.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2.5 al cuadrado es 6.25, no 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como 4 < 5 < 9, la raíz cuadrada de 5 está entre 2 y 3; con 2.236 se confirma que está más cerca de 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes números es racional?",
+      "context": "En Barranquilla, un grupo clasifica varios números en racionales e irracionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La raíz cuadrada de 9",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz cuadrada de 9 es 3, que es un número entero y racional."
+        },
+        {
+          "letter": "B",
+          "text": "La raíz cuadrada de 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como 7 no es cuadrado perfecto, su raíz es irracional."
+        },
+        {
+          "letter": "C",
+          "text": "El número pi",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pi es irracional, con decimales infinitos no periódicos."
+        },
+        {
+          "letter": "D",
+          "text": "Cero punto uno cero uno cero cero uno cero cero cero uno, con patrón creciente de ceros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese decimal infinito no periódico es irracional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La raíz cuadrada de un cuadrado perfecto es entera; la raíz cuadrada de 9 es 3, racional, mientras las demás opciones son irracionales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v5",
+      "statement": "¿Entre qué enteros se encuentra menos raíz cuadrada de 5?",
+      "context": "En Bucaramanga, un profesor ubica el número menos raíz cuadrada de 5 en la recta real usando la aproximación menos 2.236.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre menos 3 y menos 2",
+          "is_correct": true,
+          "feedback": "Correcto. Menos 2.236 está entre menos 3 y menos 2."
+        },
+        {
+          "letter": "B",
+          "text": "Entre menos 2 y menos 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese intervalo contiene a menos 1.5, no a menos 2.236."
+        },
+        {
+          "letter": "C",
+          "text": "Entre menos 4 y menos 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menos 2.236 es mayor que menos 3."
+        },
+        {
+          "letter": "D",
+          "text": "Entre 2 y 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el signo negativo del número."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Multiplicar por menos uno invierte el orden: si 2 < raíz de 5 < 3, entonces menos 3 < menos raíz de 5 < menos 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de número es el resultado de 5 más la raíz cuadrada de 2?",
+      "context": "En Pereira, una tienda vende un cuaderno en COP 5.000 y una calculadora cuyo precio incluye la raíz cuadrada de 2 en su costo de importación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Irracional",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de un racional con un irracional siempre es irracional."
+        },
+        {
+          "letter": "B",
+          "text": "Entero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz cuadrada de 2 aporta decimales infinitos no periódicos."
+        },
+        {
+          "letter": "C",
+          "text": "Racional exacto igual a 6.414",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6.414 es solo una aproximación con tres decimales."
+        },
+        {
+          "letter": "D",
+          "text": "Cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de dos positivos no puede ser cero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumar un racional (5) con un irracional (raíz de 2) nunca elimina la parte decimal infinita no periódica; el resultado sigue siendo irracional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v7",
+      "statement": "Usando raíz de 2 como 1.414 y pi medios como 1.571, ¿cuál es el orden correcto de menor a mayor?",
+      "context": "En Manizales, tres estudiantes marcan en la recta los números raíz cuadrada de 2, 1.5 y pi medios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Raíz de 2 < 1.5 < pi medios",
+          "is_correct": true,
+          "feedback": "Correcto. Se cumple 1.414 < 1.5 < 1.571."
+        },
+        {
+          "letter": "B",
+          "text": "1.5 < raíz de 2 < pi medios",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.5 es mayor que 1.414, no menor."
+        },
+        {
+          "letter": "C",
+          "text": "Pi medios < 1.5 < raíz de 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pi medios es el mayor de los tres, no el menor."
+        },
+        {
+          "letter": "D",
+          "text": "Raíz de 2 < pi medios < 1.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pi medios vale 1.571, que es mayor que 1.5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al convertir a decimales se comparan directamente: 1.414 < 1.500 < 1.571, lo que define el orden en la recta real.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántos números irracionales hay entre 1.4 y 1.5?",
+      "context": "En Cartagena, un estudiante afirma que entre 1.4 y 1.5 solo cabe la raíz cuadrada de 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinitos",
+          "is_correct": true,
+          "feedback": "Correcto. Entre dos reales distintos siempre hay infinitos irracionales por la densidad."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz cuadrada de 2 (1.414) ya está en ese intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "Exactamente uno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Además de la raíz de 2 hay muchos más, como 1.4142135 con más cifras."
+        },
+        {
+          "letter": "D",
+          "text": "Solo la raíz cuadrada de 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un ejemplo, pero existen infinitos más en el intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los irracionales son densos en la recta real: entre cualquier par de números distintos hay infinitos irracionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v9",
+      "statement": "¿Qué comparación entre la raíz cuadrada de 50 y 7 es correcta?",
+      "context": "En Santa Marta, un topógrafo compara la raíz cuadrada de 50 con el número 7 para estimar una distancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La raíz de 50 es mayor que 7, porque 50 es mayor que 49",
+          "is_correct": true,
+          "feedback": "Correcto. Como 7 al cuadrado es 49 y 50 > 49, la raíz de 50 supera a 7."
+        },
+        {
+          "letter": "B",
+          "text": "La raíz de 50 es menor que 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. 7 al cuadrado es 49, menor que 50."
+        },
+        {
+          "letter": "C",
+          "text": "La raíz de 50 es igual a 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la raíz de 49 es exactamente 7."
+        },
+        {
+          "letter": "D",
+          "text": "La raíz de 50 es mayor que 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 al cuadrado es 64, muy superior a 50."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elevar al cuadrado preserva el orden en positivos: 49 < 50 implica 7 < raíz de 50; además raíz de 50 es 5 veces raíz de 2, cerca de 7.07.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v10",
+      "statement": "¿Dónde queda pi respecto a 3.14 en la recta real?",
+      "context": "En Armenia, dos marcas en una cinta métrica señalan 3.14 y el número pi (3.1416 aproximado).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la derecha de 3.14",
+          "is_correct": true,
+          "feedback": "Correcto. Como 3.1416 > 3.14, pi queda a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "A la izquierda de 3.14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pi es mayor que 3.14, no menor."
+        },
+        {
+          "letter": "C",
+          "text": "En el mismo punto que 3.14",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3.14 es un truncamiento; pi tiene más cifras decimales."
+        },
+        {
+          "letter": "D",
+          "text": "A la izquierda de 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pi es mayor que 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la recta real, el mayor queda a la derecha: pi (3.1416) supera a 3.14, así que su punto está a la derecha.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación correcta de la afirmación de Lucía?",
+      "context": "En Villavicencio, Lucía afirma que todo número con decimales infinitos es irracional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa: los decimales infinitos periódicos como 0.333 son racionales",
+          "is_correct": true,
+          "feedback": "Correcto. 0.333 equivale a 1/3, una fracción exacta."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: ningún decimal infinito puede ser fracción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los periódicos infinitos sí admiten forma de fracción."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera solo para los números negativos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo no determina si un decimal es periódico o no."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa porque pi es racional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pi sí es irracional; el contraejemplo correcto es 0.333."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clave es el periodo: infinitos con periodo (0.333, 0.4545) son racionales; solo los infinitos no periódicos son irracionales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el error cometido?",
+      "context": "En Neiva, un estudiante escribe que la raíz de 2 más la raíz de 3 es igual a la raíz de 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecto: la suma vale cerca de 3.146, mientras la raíz de 5 vale cerca de 2.236",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces no se suman por dentro del radical."
+        },
+        {
+          "letter": "B",
+          "text": "No hay error: la igualdad es correcta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al elevar 3.146 al cuadrado se obtiene cerca de 9.9, no 5."
+        },
+        {
+          "letter": "C",
+          "text": "El error es que el resultado correcto es la raíz de 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz de 6 viene de multiplicar, no de sumar."
+        },
+        {
+          "letter": "D",
+          "text": "El error es que el resultado correcto es 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar radicales no equivale a sumar los radicandos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "1.414 + 1.732 = 3.146, distinto de 2.236; las raíces de sumandos no se combinan sumando los radicandos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W28-numeros-irracionales-recta-real-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
