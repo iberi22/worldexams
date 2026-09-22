@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-39-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T01:08:08.108Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son términos semejantes y cuáles lo son en 5x + 3y + 2x + 7?",
+      "context": "En Medellín, la profesora pide identificar los términos semejantes en la expresión 5x + 3y + 2x + 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son términos con la misma parte literal; 5x y 2x son semejantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos tienen la misma variable x con el mismo exponente."
+        },
+        {
+          "letter": "B",
+          "text": "Son términos con distinto signo; 5x y 3y son semejantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5x y 3y tienen distinta parte literal."
+        },
+        {
+          "letter": "C",
+          "text": "Son todos los números sin variable; 3y y 7 son semejantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3y tiene variable y 7 es constante; no son semejantes."
+        },
+        {
+          "letter": "D",
+          "text": "Son términos con la misma parte literal; 5x y 7 son semejantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 7 es un término independiente, sin parte literal x."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos términos son semejantes cuando tienen exactamente la misma parte literal, es decir, las mismas variables con los mismos exponentes. En la expresión dada, 5x y 2x son semejantes; 3y y 7 no tienen semejantes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el resultado de simplificar 4a + 6a?",
+      "context": "En Bogotá, un estudiante debe reducir la expresión 4a + 6a en su cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10a al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sumar no se multiplican las variables ni se elevan exponentes."
+        },
+        {
+          "letter": "B",
+          "text": "10a",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman los coeficientes 4 + 6 y se conserva la parte literal a."
+        },
+        {
+          "letter": "C",
+          "text": "24a",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería el producto 4 por 6, no la suma."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al reducir se debe conservar la parte literal a."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sumar términos semejantes se suman o restan los coeficientes y se conserva la parte literal. Así, 4a + 6a = (4 + 6)a = 10a.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué significa simplificar una expresión algebraica y a qué se reduce 45.000n + 45.000n?",
+      "context": "En Cali, una tienda vende morrales a 45.000 COP. El costo de n morrales se modela con la expresión 45.000n + 45.000n.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significa eliminar todas las letras; se reduce a 90.000.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplificar no es borrar la variable, sino combinar términos semejantes."
+        },
+        {
+          "letter": "B",
+          "text": "Significa escribirla de forma más corta combinando términos semejantes; se reduce a 90.000n.",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman los coeficientes y se conserva la variable n."
+        },
+        {
+          "letter": "C",
+          "text": "Significa multiplicar los coeficientes; se reduce a 2.025.000.000n.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes de términos semejantes se suman, no se multiplican."
+        },
+        {
+          "letter": "D",
+          "text": "Significa ordenar los términos; se reduce a n(45.000 + 45.000n).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa escritura es más larga y no combina los términos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Simplificar es expresar la misma cantidad con menos términos, combinando los semejantes. Aquí 45.000n + 45.000n = 90.000n en COP, que representa el costo total de forma compacta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la forma simplificada del perímetro?",
+      "context": "En Barranquilla, el perímetro de un cultivo rectangular de largo 3x y ancho 2x se expresa como 3x + 2x + 3x + 2x.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se perdieron las variables al simplificar."
+        },
+        {
+          "letter": "B",
+          "text": "10x",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman los cuatro coeficientes: 3 + 2 + 3 + 2 = 10."
+        },
+        {
+          "letter": "C",
+          "text": "12x al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería una expresión de área con producto, no de perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "5x + 5x al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden inventar exponentes al combinar términos lineales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todos los términos son semejantes en x. Al sumarlos: (3 + 2 + 3 + 2)x = 10x. Esta es la forma simplificada del perímetro del rectángulo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la expresión simplificada de los gastos?",
+      "context": "En Bucaramanga, una microempresa registra sus gastos semanales en COP con la expresión 8m + 5.000 − 3m + 12.000, donde m es el número de unidades producidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5m + 5.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta sumar las dos constantes 5.000 y 12.000."
+        },
+        {
+          "letter": "B",
+          "text": "5m + 17.000",
+          "is_correct": true,
+          "feedback": "Correcto. Se combinan 8m − 3m = 5m y 5.000 + 12.000 = 17.000."
+        },
+        {
+          "letter": "C",
+          "text": "11m + 17.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos 8m y −3m se restan, no se suman."
+        },
+        {
+          "letter": "D",
+          "text": "5m + 7.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las constantes se suman: 5.000 + 12.000 = 17.000, no 7.000."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se agrupan semejantes por separado: parte variable 8m − 3m = 5m y parte constante 5.000 + 12.000 = 17.000. La expresión simplificada es 5m + 17.000 en COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v6",
+      "statement": "Al aplicar la propiedad distributiva, ¿a qué equivale 3(x + 2)?",
+      "context": "En Manizales, un paquete de café cuesta 12.000 COP. Un tendero reparte 3(x + 2) libras entre tres veredas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3x + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 3 debe multiplicar también al 2."
+        },
+        {
+          "letter": "B",
+          "text": "3x + 6",
+          "is_correct": true,
+          "feedback": "Correcto. Se multiplica 3 por x y 3 por 2."
+        },
+        {
+          "letter": "C",
+          "text": "5x + 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se suman el factor 3 con la variable x."
+        },
+        {
+          "letter": "D",
+          "text": "3x + 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto 3 por 2 es 6, no 12."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La propiedad distributiva indica que 3(x + 2) = 3·x + 3·2 = 3x + 6. Cada término dentro del paréntesis se multiplica por el factor externo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v7",
+      "statement": "¿Quién tiene la razón y dónde está el error del otro procedimiento?",
+      "context": "En Pereira, dos estudiantes simplifican 2(3a + 4) − 5a. Camila obtiene a + 8 y Andrés obtiene 6a + 8 − 5a = a + 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camila tiene la razón; Andrés multiplicó mal porque 2 por 4 = 8, no 3.",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo completo es 6a + 8 − 5a = a + 8."
+        },
+        {
+          "letter": "B",
+          "text": "Andrés tiene la razón; Camila olvidó restar la a.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Camila sí restó: 6a − 5a = a."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen la razón porque a + 8 y a + 3 son equivalentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos expresiones dan valores distintos para cualquier a."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno tiene la razón porque el resultado correcto es 11a.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se pueden sumar 6a con 8 porque no son semejantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se distribuye: 2(3a + 4) = 6a + 8. Luego se combina con −5a: 6a − 5a = a, quedando a + 8. El error de Andrés fue escribir 3 en lugar de 8 al multiplicar 2 por 4.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la forma simplificada correcta?",
+      "context": "En Cartagena, se debe simplificar la expresión 7x² + 3x − 2x² + 5 − 3x.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5x³ + 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al combinar 7x² − 2x² el exponente se conserva en 2, no cambia a 3."
+        },
+        {
+          "letter": "B",
+          "text": "5x² + 5",
+          "is_correct": true,
+          "feedback": "Correcto. Se combinan 7x² − 2x² = 5x² y 3x − 3x = 0, quedando 5x² + 5."
+        },
+        {
+          "letter": "C",
+          "text": "5x² + 6x + 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos 3x y −3x se cancelan, no se suman."
+        },
+        {
+          "letter": "D",
+          "text": "10x² + 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos cuadráticos se restan: 7x² − 2x² = 5x², no 10x²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se agrupan por grado: cuadráticos 7x² − 2x² = 5x²; lineales 3x − 3x = 0; constante 5. El resultado es 5x² + 5. Nótese que x² y x no son semejantes y no se combinan entre sí.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v9",
+      "statement": "Al simplificar (x + 3)(x + 5) − (x² + 8x), ¿qué expresión se obtiene?",
+      "context": "En Santa Marta, el área total de dos lotes cuadrados se modela con (x + 3)(x + 5) − (x² + 8x).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x² + 8x + 15 − x² + 8x = 16x + 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al restar el paréntesis, el signo de 8x cambia a −8x."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. El producto da x² + 8x + 15 y al restar x² + 8x solo queda 15."
+        },
+        {
+          "letter": "C",
+          "text": "2x² + 16x + 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo paréntesis se resta, no se suma."
+        },
+        {
+          "letter": "D",
+          "text": "x² + 8x + 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta restar el término −(x² + 8x) del final."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero se multiplica: (x + 3)(x + 5) = x² + 5x + 3x + 15 = x² + 8x + 15. Luego se resta el segundo grupo: x² + 8x + 15 − x² − 8x = 15. Los términos con x se cancelan por completo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué error comete y cuál es la simplificación correcta?",
+      "context": "En Tunja, un estudiante afirma que 4x + 3y + 2x se simplifica como 9xy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay error: 4 + 3 + 2 = 9 y x + y + x = xy.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las variables no se multiplican al sumar términos."
+        },
+        {
+          "letter": "B",
+          "text": "Suma términos no semejantes: lo correcto es 6x + 3y.",
+          "is_correct": true,
+          "feedback": "Correcto. Solo 4x y 2x son semejantes; 3y se conserva aparte."
+        },
+        {
+          "letter": "C",
+          "text": "El error es el coeficiente: lo correcto es 9x + 3y.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4x + 2x = 6x, no 9x."
+        },
+        {
+          "letter": "D",
+          "text": "Lo correcto es 9x²y².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sumar no aparecen exponentes ni productos de variables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Solo se pueden combinar los términos con idéntica parte literal. Aquí 4x + 2x = 6x y el término 3y queda sin combinar. El resultado 6x + 3y ya no admite más reducción porque x y y son distintas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la expresión simplificada del ingreso y cuánto se recibe por 10 anchetas?",
+      "context": "En Pasto, una fundación vende anchetas a 25.000 COP. El ingreso por n anchetas con un descuento total de 3.000 COP se modela como 25.000n − 3.000 + 5.000(n − 1).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30.000n − 3.000 y por 10 anchetas 297.000 COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa combinación no distribuye bien el 5.000 en el paréntesis."
+        },
+        {
+          "letter": "B",
+          "text": "30.000n − 8.000 y por 10 anchetas 292.000 COP.",
+          "is_correct": true,
+          "feedback": "Correcto. Se distribuye 5.000n − 5.000 y se combinan constantes y términos en n."
+        },
+        {
+          "letter": "C",
+          "text": "30.000n − 8.000 y por 10 anchetas 300.000 COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión es correcta, pero 30.000 por 10 − 8.000 = 292.000, no 300.000."
+        },
+        {
+          "letter": "D",
+          "text": "25.000n + 5.000n = 30.000n y por 10 anchetas 300.000 COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoraron las constantes −3.000 y −5.000."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se distribuye: 5.000(n − 1) = 5.000n − 5.000. Luego 25.000n − 3.000 + 5.000n − 5.000 = 30.000n − 8.000 en COP. Para n = 10: 300.000 − 8.000 = 292.000 COP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle-v12",
+      "statement": "¿La afirmación es verdadera o falsa? Justifique simplificando.",
+      "context": "En Villavicencio, se propone que la expresión 2x(x + 4) − 2x² equivale a 8 para todo valor de x.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadera y equivale a 8x para todo x.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simplificación correcta elimina la x por completo."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa como está escrita: la expresión equivale a 8x, que solo vale 8 cuando x = 1.",
+          "is_correct": true,
+          "feedback": "Correcto. Al distribuir queda 2x² + 8x − 2x² = 8x, no la constante 8."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera: 2x² + 8x − 2x² = 8 para todo x.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos que se cancelan son los cuadráticos, no los lineales."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa: la expresión no se puede simplificar porque tiene paréntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad distributiva sí permite eliminar el paréntesis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al aplicar la propiedad distributiva: 2x(x + 4) = 2x² + 8x. Al restar 2x² queda 8x. Por tanto, la expresión depende de x y solo vale 8 cuando x = 1; la afirmación original es falsa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W39-simplificacion-expresiones-algebraicas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

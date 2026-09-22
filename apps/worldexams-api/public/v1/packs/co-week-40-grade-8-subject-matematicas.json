@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-40-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T01:08:08.109Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuánto suman los ángulos internos de un triángulo y de un cuadrilátero?",
+      "context": "En Medellín, los estudiantes dibujan un triángulo y un cuadrilátero para comparar sus ángulos internos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El triángulo suma 180° y el cuadrilátero suma 360°.",
+          "is_correct": true,
+          "feedback": "Correcto. Son los dos resultados básicos que se memorizan primero."
+        },
+        {
+          "letter": "B",
+          "text": "El triángulo suma 360° y el cuadrilátero suma 180°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos suman 180°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadrilátero equivale a dos triángulos, por eso suma 360°."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos suman 540°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 540° es la suma de los ángulos de un pentágono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de los ángulos internos de un triángulo es 180°. Un cuadrilátero se divide con una diagonal en dos triángulos, por eso su suma es 2 × 180° = 360°.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula de la suma de los ángulos internos de un polígono de n lados?",
+      "context": "En Cali, la profesora recuerda la fórmula general antes de trabajar con pentágonos y hexágonos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S = 180° × n",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esa fórmula el triángulo sumaría 540°, lo cual es falso."
+        },
+        {
+          "letter": "B",
+          "text": "S = (n − 2) × 180°",
+          "is_correct": true,
+          "feedback": "Correcto. El polígono se divide en n − 2 triángulos desde un vértice."
+        },
+        {
+          "letter": "C",
+          "text": "S = (n + 2) × 180°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esa fórmula el triángulo sumaría 540°, lo cual es falso."
+        },
+        {
+          "letter": "D",
+          "text": "S = n × 90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esa fórmula el cuadrilátero sumaría 360° por coincidencia, pero falla en el triángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Desde un vértice de un polígono de n lados se trazan n − 3 diagonales que forman n − 2 triángulos. Como cada triángulo aporta 180°, la suma total es S = (n − 2) × 180°.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto suman los ángulos internos de un pentágono?",
+      "context": "En Bogotá, un grupo construye un pentágono regular con cartulina para decorar el salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma del cuadrilátero, no del pentágono."
+        },
+        {
+          "letter": "B",
+          "text": "720°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma del hexágono, no del pentágono."
+        },
+        {
+          "letter": "C",
+          "text": "540°",
+          "is_correct": true,
+          "feedback": "Correcto. Se aplica (5 − 2) × 180° = 3 × 180° = 540°."
+        },
+        {
+          "letter": "D",
+          "text": "180°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma del triángulo, no del pentágono."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para n = 5, la fórmula da S = (5 − 2) × 180° = 3 × 180° = 540°. El pentágono se divide en 3 triángulos desde un vértice.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto suman los ángulos internos del hexágono y cuánto mide cada ángulo interno si es regular?",
+      "context": "En Barranquilla, un parque tiene forma de hexágono regular y se instalará una banca en cada vértice con el ángulo exacto del polígono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suma 540° y cada ángulo mide 90°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 540° es la suma del pentágono, no del hexágono."
+        },
+        {
+          "letter": "B",
+          "text": "Suma 720° y cada ángulo mide 120°.",
+          "is_correct": true,
+          "feedback": "Correcto. S = (6 − 2) × 180° = 720° y 720° / 6 = 120°."
+        },
+        {
+          "letter": "C",
+          "text": "Suma 720° y cada ángulo mide 108°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma es correcta, pero 108° es el ángulo del pentágono regular."
+        },
+        {
+          "letter": "D",
+          "text": "Suma 900° y cada ángulo mide 150°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores corresponden al heptágono, no al hexágono."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para n = 6: S = (6 − 2) × 180° = 4 × 180° = 720°. En un polígono regular todos los ángulos son iguales, así que cada uno mide 720° / 6 = 120°.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto mide cada ángulo interno del octágono regular?",
+      "context": "En Bucaramanga, un tapete artesanal tiene forma de octágono regular tejido por artesanos de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el ángulo interno del hexágono regular."
+        },
+        {
+          "letter": "B",
+          "text": "135°",
+          "is_correct": true,
+          "feedback": "Correcto. La suma es (8 − 2) × 180° = 1.080° y 1.080° / 8 = 135°."
+        },
+        {
+          "letter": "C",
+          "text": "150°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el ángulo interno del dodecágono regular."
+        },
+        {
+          "letter": "D",
+          "text": "1.080°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.080° es la suma total, no la medida de cada ángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Suma del octágono: S = (8 − 2) × 180° = 6 × 180° = 1.080°. Como es regular, cada ángulo mide 1.080° / 8 = 135°.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la suma de los ángulos internos del decágono y cuál es el costo total de decorar sus 10 vértices?",
+      "context": "En Cartagena, un arquitecto diseña una plazoleta con forma de decágono regular. El presupuesto de cada vértice decorado es de 350.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suma 1.260° y costo 3.500.000 COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.260° es la suma del nonágono, no del decágono."
+        },
+        {
+          "letter": "B",
+          "text": "Suma 1.440° y costo 3.500.000 COP.",
+          "is_correct": true,
+          "feedback": "Correcto. S = (10 − 2) × 180° = 1.440° y 10 por 350.000 = 3.500.000 COP."
+        },
+        {
+          "letter": "C",
+          "text": "Suma 1.440° y costo 350.000 COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma es correcta, pero el costo debe multiplicarse por los 10 vértices."
+        },
+        {
+          "letter": "D",
+          "text": "Suma 1.800° y costo 3.500.000 COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.800° es la suma del dodecágono, no del decágono."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para n = 10: S = (10 − 2) × 180° = 8 × 180° = 1.440°. El costo total es 10 × 350.000 = 3.500.000 COP, pues cada uno de los 10 vértices lleva decoración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto mide el ángulo faltante del cuadrilátero?",
+      "context": "En Manizales, un cuadrilátero tiene ángulos de 95°, 85° y 110°. Falta hallar el cuarto ángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. 95 + 85 + 110 + 90 = 380, que supera los 360° del cuadrilátero."
+        },
+        {
+          "letter": "B",
+          "text": "70°",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman 290° y 360° − 290° = 70°."
+        },
+        {
+          "letter": "C",
+          "text": "110°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese valor la suma sería 400°, mayor que 360°."
+        },
+        {
+          "letter": "D",
+          "text": "80°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese valor la suma sería 370°, mayor que 360°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma de un cuadrilátero es 360°. Los ángulos conocidos suman 95 + 85 + 110 = 290°. Por tanto, el ángulo faltante es 360 − 290 = 70°.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuánto mide el quinto ángulo del pentágono?",
+      "context": "En Pereira, un pentágono tiene cuatro ángulos conocidos: 100°, 120°, 95° y 115°. Se necesita el quinto para cortar la pieza en madera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "110°",
+          "is_correct": true,
+          "feedback": "Correcto. Los cuatro ángulos suman 430° y 540° − 430° = 110°."
+        },
+        {
+          "letter": "B",
+          "text": "100°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese valor la suma sería 530°, menor que 540°."
+        },
+        {
+          "letter": "C",
+          "text": "120°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese valor la suma sería 550°, mayor que 540°."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese valor la suma sería 520°, menor que 540°."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma del pentágono es 540°. Los ángulos conocidos suman 100 + 120 + 95 + 115 = 430°. El ángulo faltante es 540 − 430 = 110°.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error comete y cuál es el valor correcto?",
+      "context": "En Santa Marta, un estudiante afirma que cada ángulo interno de un pentágono regular mide 120° porque \"todos los polígonos regulares tienen ángulos de 120°\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay error: todo polígono regular tiene ángulos de 120°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo depende del número de lados; 120° solo corresponde al hexágono."
+        },
+        {
+          "letter": "B",
+          "text": "Confunde el hexágono con el pentágono: cada ángulo del pentágono regular mide 108°.",
+          "is_correct": true,
+          "feedback": "Correcto. La suma 540° dividida entre 5 da 108°, no 120°."
+        },
+        {
+          "letter": "C",
+          "text": "El error es la suma: el pentágono suma 720° y cada ángulo mide 144°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 720° es la suma del hexágono, no del pentágono."
+        },
+        {
+          "letter": "D",
+          "text": "El error es dividir: el pentágono regular tiene ángulos de 90°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 90° es el ángulo del cuadrado, no del pentágono."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada polígono regular tiene su propio ángulo interno: se calcula como (n − 2) × 180° / n. Para el pentágono es 540° / 5 = 108°. El valor 120° corresponde al hexágono regular (720° / 6).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuántos lados tiene el polígono y cuál sería cada ángulo si fuera regular?",
+      "context": "En Tunja, se sabe que la suma de los ángulos internos de un polígono es 1.260°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 lados y cada ángulo 135°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El octágono suma 1.080°, no 1.260°."
+        },
+        {
+          "letter": "B",
+          "text": "9 lados y cada ángulo 140°.",
+          "is_correct": true,
+          "feedback": "Correcto. Al resolver (n − 2) × 180 = 1.260 se obtiene n = 9 y 1.260 / 9 = 140."
+        },
+        {
+          "letter": "C",
+          "text": "9 lados y cada ángulo 135°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de lados es correcto, pero 1.260 / 9 = 140, no 135."
+        },
+        {
+          "letter": "D",
+          "text": "10 lados y cada ángulo 144°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El decágono suma 1.440°, no 1.260°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Se despeja n de la fórmula: (n − 2) × 180 = 1.260, luego n − 2 = 7 y n = 9. Es un nonágono. Si fuera regular, cada ángulo mediría 1.260° / 9 = 140°.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuánto mide cada ángulo interno del dodecágono regular y cuál es su perímetro?",
+      "context": "En Villavicencio, un dodecágono regular se usará como base de un kiosco. Cada lado mide 2 metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada ángulo 140° y perímetro 20 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 140° es el ángulo del nonágono y el perímetro de 12 lados de 2 m es 24 m."
+        },
+        {
+          "letter": "B",
+          "text": "Cada ángulo 150° y perímetro 24 metros.",
+          "is_correct": true,
+          "feedback": "Correcto. S = (12 − 2) × 180° = 1.800°, 1.800° / 12 = 150° y 12 × 2 = 24 m."
+        },
+        {
+          "letter": "C",
+          "text": "Cada ángulo 150° y perímetro 20 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo es correcto, pero el perímetro es 12 por 2 = 24, no 20."
+        },
+        {
+          "letter": "D",
+          "text": "Cada ángulo 1.800° y perímetro 24 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.800° es la suma total, no la medida de cada ángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para n = 12: S = 10 × 180° = 1.800° y cada ángulo mide 1.800° / 12 = 150°. El perímetro es la suma de los 12 lados: 12 × 2 = 24 metros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle-v12",
+      "statement": "¿Cómo se evalúa esa afirmación? Use como ejemplo el paso del triángulo al hexágono.",
+      "context": "En Pasto, una estudiante dice: \"Si duplico el número de lados de un polígono, la suma de sus ángulos internos también se duplica\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadera: el triángulo suma 180° y el hexágono suma 360°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hexágono suma 720°, no 360°."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa: el triángulo suma 180° y el hexágono suma 720°, que es cuatro veces 180°.",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula (n − 2) × 180° no es proporcional a n por el término −2."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera: toda suma de ángulos se duplica al duplicar los lados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación no es de proporcionalidad directa por el −2 de la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa: el hexágono suma lo mismo que el triángulo, 180°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hexágono suma 720°, mucho más que el triángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma S = (n − 2) × 180° crece linealmente con n, pero no es proporcional a n por el término independiente −2. Del triángulo (n = 3, S = 180°) al hexágono (n = 6, S = 720°) los lados se duplican pero la suma se cuadruplica. Por tanto, la afirmación es falsa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W40-angulos-internos-poligonos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
