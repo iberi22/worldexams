@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.246Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la derivada de $f(x) = x^5$?",
+      "context": "En Bogotá, Juan aplica la regla de la potencia para derivar un monomio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5x^4$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla de la potencia, $\\frac{d}{dx}(x^n) = n x^{n-1}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por el exponente original $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$5x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente no baja a $1$."
+        },
+        {
+          "letter": "D",
+          "text": "$5x^5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por el exponente no conserva el mismo exponente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla de la potencia establece que $\\frac{d}{dx}(x^n) = n \\cdot x^{n-1}$; con $n=5$, se obtiene $5 x^4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la derivada de $f(x) = 7$?",
+      "context": "En Medellín, Valentina revisa qué pasa al derivar una constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de una constante no es la misma constante."
+        },
+        {
+          "letter": "B",
+          "text": "$1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1$ es la derivada de $x$, no de una constante."
+        },
+        {
+          "letter": "C",
+          "text": "$0$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de cualquier constante es $0$."
+        },
+        {
+          "letter": "D",
+          "text": "$7x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las constantes no generan un término con $x$ al derivar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una función constante no cambia, por lo que su tasa de variación instantánea es $0$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la derivada de $f(x) = 4x^3$?",
+      "context": "En Cali, Santiago combina la regla de la potencia con la del múltiplo constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajaste el exponente pero olvidaste multiplicar por $3$."
+        },
+        {
+          "letter": "B",
+          "text": "$12x^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $4 \\cdot 3 \\cdot x^{3-1} = 12 x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por el coeficiente $4$."
+        },
+        {
+          "letter": "D",
+          "text": "$12x^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente debe bajar en $1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por la regla del múltiplo constante combinada con la de la potencia: $\\frac{d}{dx}(4x^3) = 4 \\cdot 3 x^2 = 12 x^2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la derivada de $f(x) = 3x^2 + 5x - 2$?",
+      "context": "En Cartagena, Mariana aplica la regla de la suma para derivar un polinomio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x + 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los exponentes deben bajar: $3x^2$ produce $6x$, no $3x$."
+        },
+        {
+          "letter": "B",
+          "text": "$6x - 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada del término lineal es $5$, no $-2$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función, no su derivada."
+        },
+        {
+          "letter": "D",
+          "text": "$6x + 5$.",
+          "is_correct": true,
+          "feedback": "Correcto. Término a término: $6x + 5 + 0$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La derivada se aplica término a término: $\\frac{d}{dx}(3x^2) = 6x$, $\\frac{d}{dx}(5x) = 5$ y $\\frac{d}{dx}(-2) = 0$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v5",
+      "statement": "Si $f(x) = x \\cdot g(x)$, ¿cuál es la forma de $f'(x)$ por la regla del producto?",
+      "context": "En Barranquilla, la profesora enuncia la regla del producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$g(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta considerar el otro factor $x$ y su derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$x + g(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una suma simple."
+        },
+        {
+          "letter": "C",
+          "text": "$1 \\cdot g(x) + x \\cdot g'(x)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma $(u v)' = u' v + u v'$."
+        },
+        {
+          "letter": "D",
+          "text": "$x \\cdot g'(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el término con $u' v$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla del producto expresa: $\\frac{d}{dx}(u \\cdot v) = u' \\cdot v + u \\cdot v'$, con $u = x$ y $v = g(x)$, de donde $u' = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la forma correcta de $f'(x)$ por la regla del cociente?",
+      "context": "En Bucaramanga, Juan enuncia la regla del cociente para $f(x) = \\frac{x}{x+1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{x+1}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la derivada de $\\ln(x+1)$, no de este cociente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1 \\cdot (x+1) - x \\cdot 1}{(x+1)^2}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es exactamente la forma $(u'v - uv')/v^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x}{(x+1)^2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aplica la estructura correcta del cociente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{(x+1)^2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la versión ya simplificada, no la forma literal del cociente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del cociente indica $f'(x) = \\frac{u'v - uv'}{v^2}$; con $u = x$ y $v = x+1$, se obtiene la expresión correcta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la derivada correcta aplicando la regla del producto?",
+      "context": "En Pereira, Valentina aplica la regla del producto a $f(x) = (2x+1)(x-3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2(x-3) + (2x+1) \\cdot 1$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma $(u' v + u v')$ con $u = 2x+1$ y $v = x-3$."
+        },
+        {
+          "letter": "B",
+          "text": "$2(x-3)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aparece el primer sumando de la regla del producto."
+        },
+        {
+          "letter": "C",
+          "text": "$(2x+1)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aparece un factor, no la suma de los productos."
+        },
+        {
+          "letter": "D",
+          "text": "$2 \\cdot 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan los factores $v$ y $u$ multiplicando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $u = 2x+1$ ($u' = 2$) y $v = x-3$ ($v' = 1$), la regla del producto da $u'v + uv' = 2(x-3) + (2x+1)(1)$, que se simplifica a $4x - 5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la forma correcta de $f'(x)$ antes de simplificar?",
+      "context": "En Manizales, Santiago aplica la regla del cociente a $f(x) = \\frac{2x}{x^2+1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{x^2+1}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta aplicar la estructura del cociente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{2x}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no corresponde a la regla del cociente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{4x}{(x^2+1)^2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería una versión simplificada particular, no la forma literal."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2(x^2+1) - 2x \\cdot 2x}{(x^2+1)^2}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma $(u'v - uv')/v^2$ con $u = 2x$ y $v = x^2+1$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La regla del cociente da $f'(x) = \\frac{u'v - uv'}{v^2}$; con $u = 2x$ y $v = x^2+1$, se obtiene la expresión correcta antes de simplificar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la derivada de $f(x) = x^4 - 3x^2 + 5x - 1$?",
+      "context": "En Cúcuta, Mariana deriva un polinomio de cuarto grado término a término.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^3 - 3x + 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al derivar $-3x^2$ debes obtener $-6x$, no $-3x$."
+        },
+        {
+          "letter": "B",
+          "text": "$4x^3 - 6x + 5$.",
+          "is_correct": true,
+          "feedback": "Correcto. Término a término: $4x^3 - 6x + 5 + 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 - x + 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por los exponentes $4$ y $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$4x^3 - 6x - 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada del término constante $-1$ es $0$, no $-1$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la regla de la potencia y la de la suma: $\\frac{d}{dx}(x^4) = 4x^3$, $\\frac{d}{dx}(-3x^2) = -6x$, $\\frac{d}{dx}(5x) = 5$ y $\\frac{d}{dx}(-1) = 0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la derivada de $f(x) = (x^2+1)(x^3-2)$?",
+      "context": "En Pasto, Juan aplica la regla del producto a $(x^2+1)(x^3-2)$ usando notación algebraica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x(x^3-2)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aparece $u'v$, falta el sumando $uv'$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2x)(3x^2) = 6x^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las derivadas pero olvidaste los factores."
+        },
+        {
+          "letter": "C",
+          "text": "$2x(x^3-2) + (x^2+1)(3x^2)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma completa de la regla del producto."
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 3x^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aparecen las derivadas de cada factor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con $u = x^2+1$ ($u' = 2x$) y $v = x^3-2$ ($v' = 3x^2$), la regla del producto da $u'v + uv'$, que se simplifica a $5x^4 + 3x^2 - 4x$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la derivada correcta antes de simplificar?",
+      "context": "En Ibagué, Valentina aplica la regla del cociente a $f(x) = \\frac{x^2}{x+1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2x(x+1) - x^2 \\cdot 1}{(x+1)^2}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma $(u'v - uv')/v^2$ con $u = x^2$ y $v = x+1$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2x}{1}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la derivada de $x^2$, no del cociente."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{(x+1)^2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aplica la estructura del cociente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2x}{x+1}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada no es un cociente simple de derivadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $u = x^2$ ($u' = 2x$) y $v = x+1$ ($v' = 1$), la regla del cociente produce $\\frac{2x(x+1) - x^2}{(x+1)^2}$, que se simplifica a $\\frac{x^2 + 2x}{(x+1)^2}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle-v12",
+      "statement": "Si $f'(x) = 6x + 2$, ¿cuál es el valor de $f''(x)$?",
+      "context": "En Villavicencio, Santiago calcula la segunda derivada de una función lineal más una constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x + 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería $f'(x)$, no su derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$6x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término constante $2$ se elimina al derivar."
+        },
+        {
+          "letter": "C",
+          "text": "$0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6x$ no es constante."
+        },
+        {
+          "letter": "D",
+          "text": "$6$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $6x + 2$ es $6 + 0 = 6$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La segunda derivada se obtiene derivando la primera: $\\frac{d}{dx}(6x) = 6$ y $\\frac{d}{dx}(2) = 0$, así que $f''(x) = 6$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W27-reglas-derivacion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

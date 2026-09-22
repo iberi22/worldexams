@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-23-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.245Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa la expresión $\\lim_{x \\to a} f(x) = L$?",
+      "context": "En Bogotá, Juan revisa la gráfica de $f(x)$ para una tarea de cálculo y debe interpretar qué expresa el límite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor exacto de $f$ en el punto $x=a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería $f(a)$, no el límite. El límite describe la tendencia, no el valor puntual."
+        },
+        {
+          "letter": "B",
+          "text": "El valor al cual $f(x)$ se aproxima cuando $x$ se acerca a $a$.",
+          "is_correct": true,
+          "feedback": "Correcto. El límite describe el comportamiento de $f$ cerca de $a$, sin exigir que $f(a)$ exista o coincida."
+        },
+        {
+          "letter": "C",
+          "text": "La pendiente de la recta tangente en $x=a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente de la tangente es la derivada $f'(a)$, no el límite funcional."
+        },
+        {
+          "letter": "D",
+          "text": "El valor máximo que alcanza $f$ cerca de $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite no aporta información sobre máximos locales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El símbolo $\\lim_{x \\to a} f(x) = L$ indica que cuando $x$ toma valores cada vez más cercanos a $a$, los valores de $f(x)$ se aproximan a $L$, sin importar si $f$ está definida o no en $a$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la condición para que exista el límite $\\lim_{x \\to a} f(x)$?",
+      "context": "En Medellín, una profesora explica a Valentina cuándo existe el límite bilateral según la gráfica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $f(a)$ exista y sea un número real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen límites con $f(a)$ indefinida; basta el comportamiento alrededor de $a$."
+        },
+        {
+          "letter": "B",
+          "text": "Que $f$ sea derivable en $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivabilidad implica existencia del límite, pero no es la condición mínima."
+        },
+        {
+          "letter": "C",
+          "text": "Que los límites laterales existan y sean iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. La condición necesaria y suficiente es $\\lim_{x \\to a^-} f(x) = \\lim_{x \\to a^+} f(x)$."
+        },
+        {
+          "letter": "D",
+          "text": "Que $f$ sea continua en todo su dominio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La continuidad en todo el dominio es más fuerte de lo que se necesita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El límite bilateral existe si y solo si ambos límites laterales existen y coinciden. Esto puede leerse directamente desde la gráfica observando si las aproximaciones por izquierda y por derecha convergen al mismo valor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v3",
+      "statement": "Si la gráfica muestra que $f(x)$ se acerca a $3$ cuando $x$ se acerca a $2$, ¿qué se puede afirmar?",
+      "context": "En Cali, Santiago observa la gráfica de $f$ y nota que al acercarse a $x=2$ los valores de $f(x)$ tienden a $3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\lim_{x \\to 2} f(x) = 3$.",
+          "is_correct": true,
+          "feedback": "Correcto. La tendencia de la gráfica hacia el valor $3$ define el límite."
+        },
+        {
+          "letter": "B",
+          "text": "$f(2) \\ne 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gráfica no permite concluir el valor puntual de $f(2)$."
+        },
+        {
+          "letter": "C",
+          "text": "La función no es continua en $x=2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para saber si es continua falta comparar $\\lim$ y $f(2)$."
+        },
+        {
+          "letter": "D",
+          "text": "El límite no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aproximación visible a un único valor indica que sí existe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando la gráfica evidencia una sola tendencia clara hacia un valor, ese valor es el límite, independientemente de lo que ocurra exactamente en el punto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de $\\lim_{x \\to 2} f(x)$ según la gráfica?",
+      "context": "En Cartagena, la gráfica de $f$ muestra un pequeño \"hueco\" en $x=2$; el punto aislado está en $f(2)=5$, pero el resto de la curva tiende a $4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5$ es el valor del punto aislado $f(2)$, no la tendencia."
+        },
+        {
+          "letter": "B",
+          "text": "No existe, porque hay un hueco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un hueco no impide la existencia del límite; solo afecta el valor puntual."
+        },
+        {
+          "letter": "C",
+          "text": "$2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2$ es la coordenada $x$ del hueco, no el límite."
+        },
+        {
+          "letter": "D",
+          "text": "$4$.",
+          "is_correct": true,
+          "feedback": "Correcto. La curva se acerca a $4$ por ambos lados, así que el límite es $4$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una discontinuidad evitable se caracteriza porque el límite existe y vale el valor \"al que tiende\" la curva, aunque $f$ tome otro valor en ese punto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de $\\lim_{x \\to 3^-} f(x)$?",
+      "context": "En Barranquilla, la gráfica de una función escalón muestra un salto en $x=3$: por la izquierda se acerca a $2$, por la derecha a $5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por la izquierda la curva se acerca a $2$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5$ es el valor del límite por la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "No existe, porque hay salto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite lateral izquierdo sí existe y vale $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0$ no aparece en la descripción de la gráfica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El límite lateral por la izquierda considera únicamente los valores de $x$ menores que $a$; aquí, la tendencia es claramente $2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es $\\lim_{x \\to \\infty} f(x)$ según la gráfica?",
+      "context": "En Bucaramanga, la gráfica de $f(x) = \\frac{4x+1}{x}$ muestra que, para valores grandes de $x$, la curva se acerca a la recta $y=4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La curva no se acerca a $0$ cuando $x \\to \\infty$."
+        },
+        {
+          "letter": "B",
+          "text": "$4$.",
+          "is_correct": true,
+          "feedback": "Correcto. La curva se aproxima horizontalmente a $y=4$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\infty$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La curva es asintótica, no diverge."
+        },
+        {
+          "letter": "D",
+          "text": "No existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe y vale $4$, aunque $f$ nunca alcance ese valor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El límite en el infinito puede leerse como la altura de la asíntota horizontal a la cual se acerca la gráfica; aquí, esa altura es $4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de discontinuidad presenta $f$ en $x=1$?",
+      "context": "En Pereira, la gráfica de $f$ muestra un punto \"hueco\" en $x=1$ con $f(1)=7$, mientras que la curva se acerca a $5$ por ambos lados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discontinuidad infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una discontinuidad infinita implica crecimiento sin límite cerca del punto."
+        },
+        {
+          "letter": "B",
+          "text": "Discontinuidad de salto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un salto requiere que los límites laterales difieran; aquí coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "Discontinuidad evitable (removible).",
+          "is_correct": true,
+          "feedback": "Correcto. El límite existe y solo difiere del valor asignado en el punto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay discontinuidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay discontinuidad porque $\\lim \\ne f(1)$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La discontinuidad evitable ocurre cuando el límite existe pero la función toma un valor distinto en el punto; basta redefinir $f(1)=5$ para que sea continua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede concluir sobre el límite bilateral en $x=2$?",
+      "context": "En Manizales, Mariana lee la gráfica de $f$ y observa que $\\lim_{x \\to 2^-} f(x) = 3$ y $\\lim_{x \\to 2^+} f(x) = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\lim_{x \\to 2} f(x) = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste el límite por la izquierda."
+        },
+        {
+          "letter": "B",
+          "text": "$\\lim_{x \\to 2} f(x) = 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste el límite por la derecha."
+        },
+        {
+          "letter": "C",
+          "text": "$\\lim_{x \\to 2} f(x) = 8$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los límites laterales, pero el límite bilateral no se obtiene así."
+        },
+        {
+          "letter": "D",
+          "text": "El límite bilateral no existe.",
+          "is_correct": true,
+          "feedback": "Correcto. Como los límites laterales difieren, no hay límite en $x=2$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando los límites laterales son distintos, la función \"salta\" en el punto y el límite bilateral no existe; la gráfica lo muestra como un quiebre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la asíntota horizontal de $f$?",
+      "context": "En Cúcuta, la gráfica de $f$ muestra que la curva se acerca a la recta horizontal $y=3$ cuando $x \\to \\infty$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y=3$.",
+          "is_correct": true,
+          "feedback": "Correcto. La recta $y=3$ es la asíntota horizontal porque la curva se acerca a ella."
+        },
+        {
+          "letter": "B",
+          "text": "$x=3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x=3$ sería una asíntota vertical, no horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene asíntota horizontal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción indica claramente la presencia de una."
+        },
+        {
+          "letter": "D",
+          "text": "$y=0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La curva se acerca a $3$, no a $0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La asíntota horizontal $y=L$ aparece cuando $\\lim_{x \\to \\infty} f(x) = L$ o $\\lim_{x \\to -\\infty} f(x) = L$; en este caso, $L=3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué se puede concluir con certeza?",
+      "context": "En Pasto, la gráfica de $f$ muestra que $\\lim_{x \\to 4^-} f(x) = \\lim_{x \\to 4^+} f(x) = 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ es continua en $x=4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para continuidad falta comparar el límite con $f(4)$; la gráfica no lo asegura."
+        },
+        {
+          "letter": "B",
+          "text": "El límite bilateral existe y vale $6$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como ambos límites laterales coinciden, el límite bilateral es $6$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(4) = 6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto no se deduce solo de los límites laterales."
+        },
+        {
+          "letter": "D",
+          "text": "$f$ no tiene límite en $x=4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coincidencia de laterales implica la existencia del límite."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coincidencia de los límites laterales garantiza la existencia del límite bilateral, pero no aporta información sobre el valor puntual $f(4)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v11",
+      "statement": "¿Qué indica la asíntota vertical en $x=2$?",
+      "context": "En Ibagué, la gráfica de $f$ presenta una asíntota vertical en $x=2$, con la curva creciendo sin tope cerca de ese valor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $f(2)$ es un número muy grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las asíntotas verticales suelen corresponder a puntos donde $f$ no está definida."
+        },
+        {
+          "letter": "B",
+          "text": "Que $\\lim_{x \\to 2} f(x)$ existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Precisamente, el límite no existe porque la curva diverge."
+        },
+        {
+          "letter": "C",
+          "text": "Que $f$ crece sin límite al acercarse a $x=2$.",
+          "is_correct": true,
+          "feedback": "Correcto. La curva se dispara hacia $+\\infty$ o $-\\infty$ cerca de la asíntota."
+        },
+        {
+          "letter": "D",
+          "text": "Que $f$ es continua en $x=2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de asíntota vertical contradice la continuidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una asíntota vertical indica que el valor de la función tiende a infinito (o menos infinito) cuando $x$ se aproxima al punto; el límite bilateral no existe.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la conclusión correcta?",
+      "context": "En Villavicencio, la gráfica de $f$ muestra que los límites laterales en $x=3$ no coinciden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ es continua en $x=3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coincidencia de laterales y $f(3)$ es necesaria para la continuidad."
+        },
+        {
+          "letter": "B",
+          "text": "$\\lim_{x \\to 3} f(x)$ existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de laterales impide la existencia del límite bilateral."
+        },
+        {
+          "letter": "C",
+          "text": "$\\lim_{x \\to 3} f(x) = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay información que sugiera ese valor."
+        },
+        {
+          "letter": "D",
+          "text": "El límite bilateral en $x=3$ no existe.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin coincidencia de laterales, no hay límite en el punto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La condición mínima para que exista el límite bilateral es la coincidencia de los límites laterales; al no cumplirse, el límite no está definido en ese punto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W23-limites-por-graficas-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
