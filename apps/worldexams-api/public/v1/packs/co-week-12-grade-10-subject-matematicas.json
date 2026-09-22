@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T17:25:34.781Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la frecuencia absoluta de una categoría?",
+      "context": "En Bogotá, un curso de 30 estudiantes registra las edades y se organizan en una tabla de frecuencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de veces que aparece esa categoría en los datos.",
+          "is_correct": true,
+          "feedback": "Correcto. La frecuencia absoluta es el conteo de observaciones de la categoría."
+        },
+        {
+          "letter": "B",
+          "text": "La proporción del total que representa la categoría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la frecuencia relativa."
+        },
+        {
+          "letter": "C",
+          "text": "La categoría que aparece más veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la moda, no la frecuencia absoluta de una categoría."
+        },
+        {
+          "letter": "D",
+          "text": "El promedio de los valores de la categoría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia es un conteo, no un promedio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia absoluta de una categoría es el número de observaciones que pertenecen a ella; se denota usualmente como $f_i$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v2",
+      "statement": "Si $f_i$ es la frecuencia absoluta y $n$ el total de datos, ¿cómo se calcula la frecuencia relativa?",
+      "context": "En Medellín, se explica cómo se calcula la frecuencia relativa de una categoría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{f_i}{n}$",
+          "is_correct": true,
+          "feedback": "Correcto. La frecuencia relativa es el cociente entre la frecuencia absoluta y el total de datos."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{n}{f_i}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el cociente."
+        },
+        {
+          "letter": "C",
+          "text": "$f_i \\cdot n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una división, no un producto."
+        },
+        {
+          "letter": "D",
+          "text": "$f_i - n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia relativa es $f_i/n$ y expresa la proporción de datos que caen en la categoría; al sumar todas resulta $1$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v3",
+      "statement": "Si 10 estudiantes viajan en bicicleta, ¿cuál es la frecuencia relativa de esa categoría?",
+      "context": "En Cali, se interpreta una tabla de frecuencias de 40 estudiantes según su medio de transporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.25$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{10}{40} = 0.25$, es decir el 25%."
+        },
+        {
+          "letter": "B",
+          "text": "$0.4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{10}{40}$ no es $0.4$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $\\frac{40}{10}$, el cociente invertido."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor absoluto, no la frecuencia relativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia relativa es $\\frac{f_i}{n} = \\frac{10}{40} = 0.25$, equivalente al $25\\%$ del total.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el porcentaje de personas que prefiere fútbol?",
+      "context": "En Barranquilla, una encuesta de 50 personas pregunta por su deporte favorito. El fútbol fue elegido por 20 personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{20}{50} = 0.4 = 40\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$25\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{20}{50}$ no es $0.25$."
+        },
+        {
+          "letter": "C",
+          "text": "$50\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sería $50\\%$ si lo eligieran $25$ personas."
+        },
+        {
+          "letter": "D",
+          "text": "$20\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el conteo con el porcentaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Porcentaje $= \\frac{20}{50} \\cdot 100 = 40\\%$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la frecuencia acumulada hasta el tercer intervalo?",
+      "context": "En Bucaramanga, una tabla de frecuencias de notas tiene intervalos. Las frecuencias absolutas son $3$, $7$, $12$ y $8$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$22$",
+          "is_correct": true,
+          "feedback": "Correcto. $3 + 7 + 12 = 22$."
+        },
+        {
+          "letter": "B",
+          "text": "$30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluiste también el cuarto intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el tercer intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "$19$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo $7 + 12$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia acumulada hasta el tercer intervalo es la suma $3 + 7 + 12 = 22$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la marca de clase de ese intervalo?",
+      "context": "En Pereira, se agrupan datos en el intervalo $[20, 30)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25$",
+          "is_correct": true,
+          "feedback": "Correcto. La marca de clase es el punto medio: $\\frac{20 + 30}{2} = 25$."
+        },
+        {
+          "letter": "B",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el límite inferior del intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "$30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el límite superior del intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10$ es la amplitud del intervalo, no su marca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La marca de clase es el punto medio del intervalo: $\\frac{20 + 30}{2} = 25$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la amplitud de cada intervalo si se usan 5 intervalos de igual ancho?",
+      "context": "En Manizales, se construye una tabla con 5 intervalos a partir de datos cuyo valor mínimo es 12 y máximo es 62.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. El rango es $62 - 12 = 50$; $\\frac{50}{5} = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$50$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $50$ es el rango total de los datos."
+        },
+        {
+          "letter": "C",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor mínimo."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de intervalos con la amplitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rango es $62 - 12 = 50$. Con 5 intervalos de igual ancho, la amplitud es $\\frac{50}{5} = 10$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el valor de $x$ para completar la tabla?",
+      "context": "En Cartagena, una tabla de frecuencias de 60 datos tiene frecuencias $10$, $15$, $20$, $x$ y $5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de frecuencias debe ser $60$: $10 + 15 + 20 + x + 5 = 60$, luego $x = 10$."
+        },
+        {
+          "letter": "B",
+          "text": "$15$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma daría $65$."
+        },
+        {
+          "letter": "C",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma daría $55$."
+        },
+        {
+          "letter": "D",
+          "text": "$20$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma daría $70$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma de todas las frecuencias absolutas es el total de datos: $10 + 15 + 20 + x + 5 = 60$, por lo que $x = 10$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v9",
+      "statement": "Si el total de datos es $200$, ¿cuántos datos hay en ese intervalo?",
+      "context": "En Cúcuta, un histograma muestra un intervalo con frecuencia relativa de $0.35$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$70$",
+          "is_correct": true,
+          "feedback": "Correcto. $0.35 \\cdot 200 = 70$."
+        },
+        {
+          "letter": "B",
+          "text": "$35$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No multiplicaste por el total de datos."
+        },
+        {
+          "letter": "C",
+          "text": "$65$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal el producto."
+        },
+        {
+          "letter": "D",
+          "text": "$200$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia absoluta es $f_i = fr_i \\cdot n = 0.35 \\cdot 200 = 70$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v10",
+      "statement": "Para construir una tabla de frecuencias con intervalos de amplitud 5 que empiece en 5, ¿cuál es el primer intervalo?",
+      "context": "En Pasto, se registran 40 tiempos de espera en minutos: 5, 8, 9, 12, 15, 18, 20, 22, 25, 28 y otros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[5, 10)$",
+          "is_correct": true,
+          "feedback": "Correcto. Un intervalo de amplitud $5$ que comienza en $5$ es $[5, 10)$."
+        },
+        {
+          "letter": "B",
+          "text": "$[5, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amplitud sería $10$, no $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$[0, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No comienza en $5$."
+        },
+        {
+          "letter": "D",
+          "text": "$[10, 15)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intervalo no debe empezar en $5$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un intervalo que comienza en el valor mínimo $5$ con amplitud $5$ es $[5, 10)$, es decir $5 \\le x < 10$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la frecuencia relativa acumulada hasta el segundo intervalo?",
+      "context": "En Ibagué, se analiza la tabla: intervalos $[0,10)$, $[10,20)$, $[20,30)$ con frecuencias $5$, $10$ y $15$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{15}{30} = 0.5$",
+          "is_correct": true,
+          "feedback": "Correcto. Frecuencia acumulada $5 + 10 = 15$; total $30$; $\\frac{15}{30} = 0.5$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{10}{30}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo usaste el segundo intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{30}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo usaste el primer intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{30}{30} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería hasta el tercer intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frecuencia acumulada hasta el segundo intervalo es $5 + 10 = 15$. El total es $30$, por lo que la frecuencia relativa acumulada es $\\frac{15}{30} = 0.5$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle-v12",
+      "statement": "¿Qué porcentaje de estudiantes obtuvo calificación menor que 4.0?",
+      "context": "En Villavicencio, un profesor registra las calificaciones de 25 estudiantes: 8 están entre 3.0 y 3.9, 10 entre 4.0 y 4.9, y el resto entre 5.0 y 5.9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. Menores que 4.0 son 8 estudiantes: $\\frac{8}{25} \\cdot 100 = 32\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$40\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{10}{25}$ es el grupo entre 4.0 y 4.9."
+        },
+        {
+          "letter": "C",
+          "text": "$28\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{7}{25}$ es el grupo entre 5.0 y 5.9."
+        },
+        {
+          "letter": "D",
+          "text": "$8\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el conteo con el porcentaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los menores de 4.0 son los 8 estudiantes del primer grupo: $\\frac{8}{25} \\cdot 100 = 32\\%$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W12-distribucion-frecuencias-datos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
