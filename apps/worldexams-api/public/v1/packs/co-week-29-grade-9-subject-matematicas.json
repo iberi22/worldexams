@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T03:44:38.733Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v1",
+      "statement": "¿Qué hace una homotecia sobre una figura?",
+      "context": "En Bogotá, un profesor muestra cómo ampliar el logo del colegio sin deformarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La amplía o la reduce conservando su forma",
+          "is_correct": true,
+          "feedback": "Correcto. La homotecia cambia el tamaño pero mantiene la forma y los ángulos."
+        },
+        {
+          "letter": "B",
+          "text": "La desplaza sin cambiar su tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una traslación, no una homotecia."
+        },
+        {
+          "letter": "C",
+          "text": "La refleja como en un espejo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una reflexión."
+        },
+        {
+          "letter": "D",
+          "text": "La gira alrededor de un punto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una rotación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La homotecia multiplica las distancias al centro por un factor fijo, así que la figura crece o se encoge sin deformarse.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v2",
+      "statement": "¿Qué caracteriza a una traslación de una figura?",
+      "context": "En Medellín, los estudiantes mueven una ficha de parqués tres casillas a la derecha sin girarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplaza todos los puntos la misma distancia y en la misma dirección, conservando tamaño y forma",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la definición de traslación."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia el tamaño de la figura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación nunca cambia el tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "Invierte la figura como en un espejo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a una reflexión."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia los ángulos internos de la figura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación conserva ángulos y longitudes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Trasladar es deslizar la figura: cada punto se mueve con el mismo vector, así que la imagen es congruente con la original.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la imagen del punto (3, 5)?",
+      "context": "En Cali, un diseñador aplica una homotecia con centro en el origen y factor 2 al punto (3, 5).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto (6, 10)",
+          "is_correct": true,
+          "feedback": "Correcto. Se multiplica cada coordenada por 2: (6, 10)."
+        },
+        {
+          "letter": "B",
+          "text": "El punto (5, 7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 2 en vez de multiplicar por 2."
+        },
+        {
+          "letter": "C",
+          "text": "El punto (3, 5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el punto original sin transformar."
+        },
+        {
+          "letter": "D",
+          "text": "El punto (1.5, 2.5)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2, lo que corresponde al factor un medio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con centro en el origen, la homotecia multiplica coordenadas: (3 por 2, 5 por 2) = (6, 10).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v4",
+      "statement": "¿Dónde queda el punto (2, 7) después de la traslación?",
+      "context": "En Barranquilla, un mapa desplaza cada punto según la regla (x, y) se transforma en (x + 4, y - 3).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el punto (6, 4)",
+          "is_correct": true,
+          "feedback": "Correcto. Se suma 4 a x y se resta 3 a y: (6, 4)."
+        },
+        {
+          "letter": "B",
+          "text": "En el punto (2, 4)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste sumar 4 a la coordenada x."
+        },
+        {
+          "letter": "C",
+          "text": "En el punto (6, 7)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste restar 3 a la coordenada y."
+        },
+        {
+          "letter": "D",
+          "text": "En el punto (menos 2, 10)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 4 y sumaste 3, al revés de la regla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La traslación suma el vector (4, menos 3): x pasa de 2 a 6 y y pasa de 7 a 4.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto mide el segmento imagen?",
+      "context": "En Bucaramanga, un plano amplía con homotecia de factor 3 un segmento que mide 4 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Las longitudes se multiplican por el factor: 4 por 3 = 12."
+        },
+        {
+          "letter": "B",
+          "text": "7 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el factor en vez de multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "4 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la medida original sin ampliar."
+        },
+        {
+          "letter": "D",
+          "text": "9 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste mal 4 por 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una homotecia, toda longitud queda multiplicada por el factor de escala: 4 cm por 3 = 12 cm.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el área del triángulo imagen?",
+      "context": "En Pereira, un triángulo de área 20 centímetros cuadrados se traslada 6 unidades a la derecha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. La traslación conserva todas las medidas, incluida el área."
+        },
+        {
+          "letter": "B",
+          "text": "40 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación no duplica el área."
+        },
+        {
+          "letter": "C",
+          "text": "10 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación no reduce el área."
+        },
+        {
+          "letter": "D",
+          "text": "26 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el desplazamiento al área, lo cual no tiene sentido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Trasladar es mover sin deformar: lados, ángulos, perímetro y área quedan exactamente iguales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el área de la figura imagen?",
+      "context": "En Manizales, un cuadrado de lado 3 cm (área 9 centímetros cuadrados) se amplía con homotecia de factor 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área se multiplica por el factor al cuadrado: 9 por 4 = 36."
+        },
+        {
+          "letter": "B",
+          "text": "18 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste el área solo por 2, no por 2 al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "12 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el factor al área en vez de aplicar la escala."
+        },
+        {
+          "letter": "D",
+          "text": "9 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es el área original; la homotecia sí cambia el área."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con factor k, el lado se duplica (6 cm) y el área se multiplica por k al cuadrado: 9 por 4 = 36.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son las dimensiones del rectángulo imagen?",
+      "context": "En Cartagena, un rectángulo de 8 cm por 6 cm se reduce con homotecia de factor un medio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 cm por 3 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lado se multiplica por un medio: 4 por 3."
+        },
+        {
+          "letter": "B",
+          "text": "8 cm por 6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son las dimensiones originales sin reducir."
+        },
+        {
+          "letter": "C",
+          "text": "6 cm por 4 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 2 a cada lado en vez de multiplicar por un medio."
+        },
+        {
+          "letter": "D",
+          "text": "16 cm por 12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste en vez de reducir a la mitad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El factor un medio divide cada longitud entre 2, conservando la proporción 8 a 6 en 4 a 3.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.67,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v9",
+      "statement": "¿Qué transformación describe esa regla?",
+      "context": "En Santa Marta, un videojuego transforma cada punto (x, y) en (x - 5, y + 2).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traslación de 5 unidades a la izquierda y 2 hacia arriba",
+          "is_correct": true,
+          "feedback": "Correcto. Restar 5 en x mueve a la izquierda y sumar 2 en y mueve hacia arriba."
+        },
+        {
+          "letter": "B",
+          "text": "Homotecia de factor 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homotecia multiplica coordenadas, no suma ni resta."
+        },
+        {
+          "letter": "C",
+          "text": "Rotación de 90 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rotación intercambia y cambia signos de coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "Reflexión respecto al eje x",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión cambiaría el signo de una coordenada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sumar o restar constantes a las coordenadas es la forma algebraica de una traslación con vector (menos 5, 2).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la imagen del punto?",
+      "context": "En Armenia, una homotecia con centro en el origen y factor menos 1 se aplica al punto (4, 2).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto (menos 4, menos 2)",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar por menos 1 cambia el signo de ambas coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "El punto (4, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el punto original sin transformar."
+        },
+        {
+          "letter": "C",
+          "text": "El punto (menos 4, 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste solo el signo de x; el factor afecta ambas coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "El punto (4, menos 2)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste solo el signo de y; el factor afecta ambas coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El factor menos 1 produce una media vuelta respecto al origen: (x, y) pasa a (menos x, menos y).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.61,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se evalúa esa afirmación?",
+      "context": "En Villavicencio, un estudiante afirma que una homotecia de factor 3 conserva el área de la figura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falsa: el área se multiplica por 9, es decir 3 al cuadrado",
+          "is_correct": true,
+          "feedback": "Correcto. Las áreas escalan con el cuadrado del factor."
+        },
+        {
+          "letter": "B",
+          "text": "Es verdadera: la homotecia conserva todas las medidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La homotecia conserva la forma, pero no las longitudes ni el área."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera cuando el centro es el origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro cambia la posición, no el efecto sobre el área."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa porque la figura cambia de forma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La figura no cambia de forma; lo que cambia es el tamaño y el área."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con factor 3, cada lado se triplica y el área se multiplica por 9; solo el factor 1 (o menos 1 en magnitud) conserva el área.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el error cometido?",
+      "context": "En Neiva, un estudiante aplica al cuadrado la traslación (x + 2, y + 2) y dice que el área se duplica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay duplicación: la traslación conserva el área exactamente igual",
+          "is_correct": true,
+          "feedback": "Correcto. Trasladar solo cambia la posición, no las medidas."
+        },
+        {
+          "letter": "B",
+          "text": "No hay error: el área sí se duplica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna traslación modifica el área."
+        },
+        {
+          "letter": "C",
+          "text": "Debió multiplicar las coordenadas para trasladar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar corresponde a homotecia, no a traslación."
+        },
+        {
+          "letter": "D",
+          "text": "El área se reduce a la mitad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traslación ni aumenta ni reduce el área."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La traslación es una isometría: lados, ángulos, perímetro y área de la imagen son idénticos a los originales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W29-homotecia-traslacion-figuras-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
