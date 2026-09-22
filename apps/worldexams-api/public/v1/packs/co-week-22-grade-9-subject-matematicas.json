@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-22-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T02:28:41.350Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v1",
+      "statement": "¿Qué condición identifica a dos magnitudes $x$ e $y$ inversamente proporcionales?",
+      "context": "En Bogotá, el profesor explica que dos magnitudes son inversamente proporcionales si su producto es constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\times y = k$ constante",
+          "is_correct": true,
+          "feedback": "Correcto. Si una crece, la otra decrece para mantener el producto."
+        },
+        {
+          "letter": "B",
+          "text": "$y / x = k$ constante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la condición de proporcionalidad directa."
+        },
+        {
+          "letter": "C",
+          "text": "$y = x + k$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una relación lineal aditiva."
+        },
+        {
+          "letter": "D",
+          "text": "$y = x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una relación cuadrática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inversa significa $y = k/x$, equivalente a $x \\cdot y = k$. El producto constante es la prueba clave.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la constante $k$ de proporcionalidad inversa?",
+      "context": "En Medellín, una relación inversa cumple que cuando $x = 2$, $y = 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $12 / 2$ como si fuera directa."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 24$",
+          "is_correct": true,
+          "feedback": "Correcto. $k = x \\cdot y = 2 \\times 12 = 24$."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $2 + 12$."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $12 - 2$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$k = 2 \\times 12 = 24$. La relación es $y = 24/x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v3",
+      "statement": "Si $x = 6$, ¿cuánto vale $y$?",
+      "context": "En Cali, una tabla inversa tiene $k = 24$. Cuando $x = 3$, $y = 8$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste $y$ al duplicar $x$, como si fuera directa."
+        },
+        {
+          "letter": "B",
+          "text": "$8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetiste el valor anterior sin ajustar."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. $y = 24 / 6 = 4$. Al duplicar $x$, $y$ se reduce a la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste en vez de dividir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con $k$ constante, $y = k/x = 24/6 = 4$. Duplicar $x$ divide $y$ entre $2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto tardarán 6 obreros en el mismo muro?",
+      "context": "En Barranquilla, 4 obreros construyen un muro en 12 días trabajando al mismo ritmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste regla directa: más obreros, más días."
+        },
+        {
+          "letter": "B",
+          "text": "$10$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $2$ días por los $2$ obreros extra."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste a la mitad sin calcular $k$."
+        },
+        {
+          "letter": "D",
+          "text": "$8$ días",
+          "is_correct": true,
+          "feedback": "Correcto. $k = 4 \\times 12 = 48$; $48 / 6 = 8$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Obreros y días son inversos: $4 \\times 12 = 6 \\times t \\implies t = 48/6 = 8$ días.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.81,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto tardará si aumenta la velocidad a $80$ km/h?",
+      "context": "En Cartagena, un bus viaja a $60$ km/h y tarda $4$ horas entre dos ciudades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ horas",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia = $240$ km; $240 / 80 = 3$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ horas y $20$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentaste el tiempo al aumentar la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad sí afecta el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "$2$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $120$ en vez de $80$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Velocidad y tiempo son inversos con distancia constante: $60 \\times 4 = 240$ km. Luego $t = 240/80 = 3$ horas, un caso típico de la física del movimiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v6",
+      "statement": "¿Cuánto tardarán $3$ grifos iguales en llenar el mismo tanque?",
+      "context": "En Bucaramanga, 2 grifos iguales llenan un tanque en $6$ horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste proporción directa."
+        },
+        {
+          "letter": "B",
+          "text": "$4$ horas",
+          "is_correct": true,
+          "feedback": "Correcto. $k = 2 \\times 6 = 12$; $12 / 3 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $6 / 2$ sin usar el total."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $2 \\times 6$ y lo dejaste como respuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Más grifos, menos tiempo: $2 \\times 6 = 3 \\times t \\implies t = 4$ horas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tabla representa proporcionalidad inversa?",
+      "context": "En Pereira, tres tablas relacionan $x$ e $y$. Tabla P: $(2,12)$, $(3,8)$, $(4,6)$. Tabla Q: $(2,6)$, $(3,9)$, $(4,12)$. Tabla R: $(2,14)$, $(3,15)$, $(4,16)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tabla Q, pues $y$ crece con $x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe proporción directa."
+        },
+        {
+          "letter": "B",
+          "text": "La tabla R, pues $y = x + 12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es variación lineal aditiva."
+        },
+        {
+          "letter": "C",
+          "text": "La tabla P, pues $x \\times y = 24$ en todos los pares",
+          "is_correct": true,
+          "feedback": "Correcto. $2 \\times 12 = 24$, $3 \\times 8 = 24$, $4 \\times 6 = 24$."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, pues $24$ no aparece en las tablas",
+          "is_correct": false,
+          "feedback": "Incorrecto. $24$ es el producto, no un dato visible."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar significa verificar el producto en cada par. Solo P mantiene $k = 24$ constante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v8",
+      "statement": "¿Qué modelo describe mejor los datos?",
+      "context": "En Cali, un experimento de física registra presión y volumen: $(1,24)$, $(2,12)$, $(3,8)$, $(4,6)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 12x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo coincide en un punto."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 25 - x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta no mantiene el producto."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 6x - 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es lineal y no pasa por todos los puntos."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 24/x$",
+          "is_correct": true,
+          "feedback": "Correcto. Todos los productos valen $24$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada par multiplica $24$. El modelo inverso $y = 24/x$ explica la ley de Boyle entre presión y volumen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error cometió?",
+      "context": "En Bogotá, un estudiante resuelve: 5 máquinas hacen un pedido en 10 horas, luego 10 máquinas tardarán 20 horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usó proporción directa en un caso inverso; lo correcto es $5$ horas",
+          "is_correct": true,
+          "feedback": "Correcto. $k = 5 \\times 10 = 50$; $50 / 10 = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "Se equivocó en la suma $5 + 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es aditivo."
+        },
+        {
+          "letter": "C",
+          "text": "Debió dar $15$ horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste máquinas y horas sin sentido."
+        },
+        {
+          "letter": "D",
+          "text": "El cálculo $20$ horas es correcto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más máquinas deben tardar menos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Duplicar máquinas reduce el tiempo a la mitad, no lo duplica. La constante es $50$ horas-máquina.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v10",
+      "statement": "Si llegan $6$ pintores y el total no cambia, ¿cuánto recibe cada uno y qué relación es?",
+      "context": "En Medellín, una obra paga $600.000 COP en total a repartir en partes iguales entre los pintores. Con $3$ pintores, cada uno recibe $200.000 COP$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$400.000 COP$; directa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste en vez de dividir."
+        },
+        {
+          "letter": "B",
+          "text": "$100.000 COP$; inversa",
+          "is_correct": true,
+          "feedback": "Correcto. $600.000 / 6 = 100.000$; más pintores, menos por persona."
+        },
+        {
+          "letter": "C",
+          "text": "$200.000 COP$; inversa",
+          "is_correct": false,
+          "feedback": "Incorrecto. No repartiste entre los $6$."
+        },
+        {
+          "letter": "D",
+          "text": "$100.000 COP$; directa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor es correcto pero la clasificación no."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Total constante $k = 600.000$. Pago por persona $= 600.000/n$. Es inversa y también enseña matemáticas financieras básicas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v11",
+      "statement": "¿Qué velocidad se necesita para hacer la misma ruta en $3$ horas?",
+      "context": "En Cartagena, un carro a $45$ km/h tarda $4$ horas en una ruta turística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40$ km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducir la velocidad aumentaría el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "$48$ km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $45$ por $16/15$ sin usar $k$."
+        },
+        {
+          "letter": "C",
+          "text": "$60$ km/h",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia = $180$ km; $180 / 3 = 60$."
+        },
+        {
+          "letter": "D",
+          "text": "$135$ km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $45 \\times 3$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distancia $= 45 \\times 4 = 180$ km. Velocidad requerida $= 180/3 = 60$ km/h. Evaluar exige hallar primero la constante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle-v12",
+      "statement": "¿Cuánto tardarán los $3$ grifos y qué justificación es correcta?",
+      "context": "En Bucaramanga, $4$ grifos llenan una piscina en $9$ horas. Uno se daña y quedan $3$ grifos con el mismo caudal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6.75$ horas, pues $9 \\times 3/4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste factor directo menor que $1$."
+        },
+        {
+          "letter": "B",
+          "text": "$9$ horas, pues el daño no afecta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menos grifos implican más tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ horas, por estimación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestima el efecto inverso."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ horas, pues $4 \\times 9 = 36$ y $36 / 3 = 12$",
+          "is_correct": true,
+          "feedback": "Correcto. La capacidad total $36$ horas-grifo se reparte entre $3$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$k = 4 \\times 9 = 36$. Con $3$ grifos, $t = 36/3 = 12$ horas. La justificación muestra la constante inversa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

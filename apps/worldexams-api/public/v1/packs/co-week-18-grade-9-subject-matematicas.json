@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T02:28:41.348Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la media aritmética de las notas 6, 8 y 10?",
+      "context": "En Bogotá, el profesor de matemáticas registra las notas de tres estudiantes en un quiz: 6, 8 y 10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. La media es (6 + 8 + 10) / 3 = 24 / 3 = 8."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 1 al total antes de dividir."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el valor mayor como si fuera el promedio."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los datos pero olvidaste dividir entre 3."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media aritmética se obtiene sumando todos los datos y dividiendo entre el número de datos: (6 + 8 + 10) / 3 = 8.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la mediana de las estaturas 150, 158, 162, 170 y 175?",
+      "context": "En Medellín, cinco amigos comparan sus estaturas en centímetros, ya ordenadas: 150, 158, 162, 170, 175.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "158",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el segundo dato, no el valor central."
+        },
+        {
+          "letter": "B",
+          "text": "162",
+          "is_correct": true,
+          "feedback": "Correcto. Con 5 datos ordenados, la mediana es el tercer dato: 162."
+        },
+        {
+          "letter": "C",
+          "text": "163",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la media aproximada en lugar de la mediana."
+        },
+        {
+          "letter": "D",
+          "text": "170",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuarto dato, no el central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mediana es el valor central de un conjunto ordenado. Con un número impar de datos, corresponde al dato de la mitad: 162.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la moda del conjunto 2, 3, 3, 5, 7, 3, 4?",
+      "context": "En Cali, una tienda de barrio registra los panes vendidos por cliente en una mañana: 2, 3, 3, 5, 7, 3, 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 2 aparece una sola vez."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 4 también aparece una sola vez."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. El 3 aparece tres veces, más que cualquier otro valor."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 aparece una sola vez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La moda es el dato con mayor frecuencia absoluta. El valor 3 se repite tres veces, por lo cual es la moda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la temperatura media de esos cinco días?",
+      "context": "En Barranquilla, se registran las temperaturas del mediodía durante cinco días: 28, 30, 29, 31 y 27 grados Celsius.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "28 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el dato menor cercano, no el promedio."
+        },
+        {
+          "letter": "B",
+          "text": "30 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es uno de los datos, no la media del conjunto."
+        },
+        {
+          "letter": "C",
+          "text": "27 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor mínimo registrado."
+        },
+        {
+          "letter": "D",
+          "text": "29 grados",
+          "is_correct": true,
+          "feedback": "Correcto. (28 + 30 + 29 + 31 + 27) / 5 = 145 / 5 = 29."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se suman las temperaturas: 28 + 30 + 29 + 31 + 27 = 145. Al dividir entre 5 se obtiene 29 grados, que también es útil en física ambiental para describir el clima local.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.81,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la mediana del conjunto 5, 7, 9 y 11?",
+      "context": "En Cartagena, cuatro lanchas reportan el número de turistas transportados en un día: 5, 7, 9 y 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true,
+          "feedback": "Correcto. Con un número par de datos, la mediana es (7 + 9) / 2 = 8."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el segundo dato sin promediar los centrales."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el tercer dato sin promediar los centrales."
+        },
+        {
+          "letter": "D",
+          "text": "8.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 7 + 10 en lugar de 7 + 9."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con cuatro datos ordenados, la mediana es el promedio de los dos centrales: (7 + 9) / 2 = 8.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el precio medio por camiseta vendida ese día?",
+      "context": "En Bucaramanga, una tienda vende 3 camisetas a $30.000 COP cada una y 2 camisetas a $45.000 COP cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$37.500 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el promedio simple de 30.000 y 45.000, sin ponderar cantidades."
+        },
+        {
+          "letter": "B",
+          "text": "$36.000 COP",
+          "is_correct": true,
+          "feedback": "Correcto. (3 x 30.000 + 2 x 45.000) / 5 = 180.000 / 5 = 36.000."
+        },
+        {
+          "letter": "C",
+          "text": "$35.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el peso de las camisetas de 45.000."
+        },
+        {
+          "letter": "D",
+          "text": "$38.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobrestimaste el total de la venta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es una media ponderada: total vendido = 90.000 + 90.000 = 180.000. Entre 5 camisetas, el precio medio es 36.000 COP.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v7",
+      "statement": "Si se comparan la media y la mediana de esos cinco salarios, ¿qué ocurre?",
+      "context": "En Pereira, cuatro empleados ganan $1.200.000 COP y la jefa gana $5.000.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas valen $1.200.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ignora el salario de la jefa en la media."
+        },
+        {
+          "letter": "B",
+          "text": "La mediana es $1.960.000 COP y la media es $1.200.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los valores de media y mediana."
+        },
+        {
+          "letter": "C",
+          "text": "La media es $1.960.000 COP y la mediana es $1.200.000 COP",
+          "is_correct": true,
+          "feedback": "Correcto. Media = 9.800.000 / 5 = 1.960.000; mediana = dato central = 1.200.000."
+        },
+        {
+          "letter": "D",
+          "text": "La media es $5.000.000 COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomaste el valor atípico como promedio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El valor atípico eleva la media pero no cambia la mediana. Por eso la mediana representa mejor al trabajador típico en distribuciones asimétricas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v8",
+      "statement": "¿Qué afirmación compara correctamente la media y la mediana de esos tiempos?",
+      "context": "En Bogotá, los minutos que tarda el TransMilenio en cinco recorridos son: 12, 15, 18, 22 y 40.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media es 18 y la mediana es 21.4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los cálculos de media y mediana."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas valen 18 minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la mediana vale 18."
+        },
+        {
+          "letter": "C",
+          "text": "La mediana es mayor que la media",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media es 21.4 y la mediana es 18."
+        },
+        {
+          "letter": "D",
+          "text": "La media es 21.4 y la mediana es 18, pues el dato 40 eleva la media",
+          "is_correct": true,
+          "feedback": "Correcto. Suma = 107; 107 / 5 = 21.4; mediana = 18. El retraso atípico afecta más a la media."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Media = 107 / 5 = 21.4. Mediana = 18. El valor extremo 40 desplaza la media hacia arriba, mientras la mediana permanece estable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v9",
+      "statement": "¿Qué medida de tendencia central resume mejor esa variable cualitativa y cuál es su valor?",
+      "context": "En Barranquilla, se encuesta el sabor de jugo favorito: mango 18 votos, corozo 25 votos, tamarindo 12 votos y guayaba 18 votos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La moda, que es corozo",
+          "is_correct": true,
+          "feedback": "Correcto. Es variable categórica; no tiene sentido promediar. La categoría más frecuente es corozo con 25 votos."
+        },
+        {
+          "letter": "B",
+          "text": "La media, que es mango",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se puede calcular media de sabores."
+        },
+        {
+          "letter": "C",
+          "text": "La mediana, que es tamarindo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin orden numérico no hay mediana útil."
+        },
+        {
+          "letter": "D",
+          "text": "La moda, que es mango y guayaba",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mango y guayaba empatan en 18, pero corozo los supera con 25."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para variables cualitativas nominales solo la moda es adecuada. La categoría con mayor frecuencia es corozo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v10",
+      "statement": "¿Cómo se evalúa esa afirmación?",
+      "context": "En Medellín, un profesor afirma: si a cada nota de un curso se le suma 1 punto, la media aumenta en 1 pero la mediana no cambia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente correcta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda parte es falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Es parcialmente falsa, pues también la mediana aumenta en 1",
+          "is_correct": true,
+          "feedback": "Correcto. Sumar una constante desplaza toda la distribución: media y mediana aumentan en 1."
+        },
+        {
+          "letter": "C",
+          "text": "Es falsa, pues ninguna medida cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la distribución se desplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, pues la media aumenta en 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento es igual a la constante sumada, es decir 1."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si $x_i' = x_i + 1$, entonces la media nueva es $\\bar{x} + 1$ y la mediana nueva es $Me + 1$. Ambas medidas se trasladan con los datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v11",
+      "statement": "¿Qué medida debe usar la alcaldía para describir el ingreso típico y por qué?",
+      "context": "En Cartagena, la alcaldía estudia los ingresos de 100 hogares para asignar un subsidio. Hay 95 hogares con $1.300.000 COP y 5 hogares con $12.000.000 COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La media, porque incluye todos los ingresos altos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media quedará inflada y ocultará la situación de la mayoría."
+        },
+        {
+          "letter": "B",
+          "text": "La moda de los 5 hogares ricos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representa a la minoría."
+        },
+        {
+          "letter": "C",
+          "text": "La mediana, porque no la distorsionan los 5 ingresos atípicos",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana será 1.300.000 y refleja al hogar típico; la media superará los 1.800.000 por los atípicos."
+        },
+        {
+          "letter": "D",
+          "text": "El rango, porque mide la desigualdad total",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango no es medida de tendencia central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con asimetría fuerte, la mediana es más representativa. La media = (95 x 1.3 + 5 x 12) / 100 = 1.835 millones, que no corresponde a ningún hogar típico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el promedio conjunto de los 50 estudiantes?",
+      "context": "En Bogotá, dos cursos de grado 9 presentan el mismo examen de matemáticas. El curso A tiene 20 estudiantes con promedio 3.8 y el curso B tiene 30 estudiantes con promedio 4.2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.0",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el promedio simple de 3.8 y 4.2, sin ponderar por estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "3.9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le diste demasiado peso al curso pequeño."
+        },
+        {
+          "letter": "C",
+          "text": "4.1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le diste demasiado peso al curso grande sin calcular exactamente."
+        },
+        {
+          "letter": "D",
+          "text": "4.04",
+          "is_correct": true,
+          "feedback": "Correcto. (20 x 3.8 + 30 x 4.2) / 50 = (76 + 126) / 50 = 202 / 50 = 4.04."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Es una media ponderada por tamaños de grupo. El curso B pesa más, por eso el resultado 4.04 está más cerca de 4.2 que de 3.8.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
