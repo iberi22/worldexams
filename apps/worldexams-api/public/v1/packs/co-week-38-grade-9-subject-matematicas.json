@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-38-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T16:24:49.989Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v1",
+      "statement": "Que expresa el simbolo $n!$ cuando $n$ es un numero entero positivo?",
+      "context": "Una profesora de matematicas de un colegio publico de Bogota introduce a sus estudiantes de noveno la notacion factorial durante una clase sobre tecnicas de conteo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El producto de todos los numeros enteros positivos desde $1$ hasta $n$, es decir, $n! = 1 \\times 2 \\times 3 \\times \\cdots \\times n$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por definicion, $n!$ es el producto de los enteros positivos consecutivos desde $1$ hasta $n$, con el caso especial $0! = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "La suma de los numeros enteros positivos desde $1$ hasta $n$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la suma $1+2+\\dots+n$, que no tiene relacion con el factorial."
+        },
+        {
+          "letter": "C",
+          "text": "El producto de $n$ por $(n-1)$ solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresion equivale a $n \\times (n-1)$, que es solo un paso intermedio del factorial, no el factorial completo."
+        },
+        {
+          "letter": "D",
+          "text": "La division de $n$ entre $(n-1)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operacion inversa del factorial no es una division simple sino la funcion Gamma o el factorial del entero anterior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La notacion factorial se define como $n! = 1 \\times 2 \\times 3 \\times \\cdots \\times n$ para todo entero $n \\ge 1$ y $0! = 1$. Reconocer esta definicion es la base para comprender permutaciones y combinaciones en grados posteriores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v2",
+      "statement": "Por que el numero total de combinaciones posibles de bandeja con jugo se calcula multiplicando $3 \\times 4$ y no sumando $3 + 4$?",
+      "context": "En un restaurante tradicional de Medellin, la carta ofrece $3$ tipos de bandeja paisa y $4$ clases de jugo natural; el mesero toma cada pedido de forma independiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un capricho del profesor, pues sumar o multiplicar daria el mismo resultado siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma y el producto son operaciones distintas y solo coinciden en casos muy especificos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada una de las $3$ bandejas puede acompanarse con cualquiera de los $4$ jugos, formando parejas independientes, y eso se cuenta con el principio multiplicativo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando las decisiones son independientes, el conteo se hace con el principio multiplicativo: $3 \\times 4 = 12$ combinaciones posibles."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sumando se obtiene exactamente el mismo resultado cuando los numeros son pequenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3+4=7$ y $3 \\times 4 = 12$ son distintos; no coinciden por ser pequenos."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se aplica la multiplicacion cuando hay mas de $5$ elementos en total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio multiplicativo se aplica siempre que las elecciones sean independientes, sin importar la cantidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio multiplicativo establece que si una decision puede tomarse de $m$ formas y otra decision independiente de $n$ formas, entonces hay $m \\times n$ formas de tomar ambas. Sumar seria incorrecto porque eso contaria las opciones como excluyentes, cuando aqui pueden combinarse libremente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v3",
+      "statement": "Cuantas placas distintas pueden emitirse bajo ese formato?",
+      "context": "En Bogota, las placas de los vehiculos particulares tienen el formato de $3$ letras seguidas de $3$ digitos, sin restricciones adicionales sobre las letras ni sobre los digitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$26 \\times 10 = 260$ placas, una por cada combinacion simple de una letra y un digito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cuenta corresponderia a placas con una sola letra y un solo digito, no al formato completo de seis posiciones."
+        },
+        {
+          "letter": "B",
+          "text": "$26^3 \\times 10^3 = 17576000$ placas, porque cada posicion se elige de manera independiente.",
+          "is_correct": true,
+          "feedback": "Correcto. En cada una de las $3$ posiciones de letra hay $26$ opciones y en cada una de las $3$ posiciones de digito hay $10$ opciones, y el principio multiplicativo da $26^3 \\times 10^3$."
+        },
+        {
+          "letter": "C",
+          "text": "$26 + 10 = 36$ placas, una por cada simbolo distinto del alfabeto alfanumerico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar seria valido solo si letras y digitos fueran opciones excluyentes para la misma posicion, lo cual no es el caso."
+        },
+        {
+          "letter": "D",
+          "text": "$3 \\times 26 \\times 3 \\times 10 = 2340$ placas, contando letras y digitos multiplicados por la cantidad de cada uno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por $3$ repite las letras o los digitos, lo que duplica cuentas que ya estan contempladas en las potencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar el principio multiplicativo a un problema de varios caracteres equivale a elevar la cantidad de simbolos de cada tipo al numero de posiciones disponibles. Asi, $26^3$ cubre las letras y $10^3$ los digitos, y el producto final es el numero total de placas posibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v4",
+      "statement": "Cuantas formas distintas tiene un estudiante de elegir su postre, sabiendo que torta, helado y fruta son categorias excluyentes entre si?",
+      "context": "En la cafeteria de un colegio de Cartagena el menu de postres ofrece $3$ opciones de torta, $4$ opciones de helado y $2$ opciones de fruta. Cada estudiante debe elegir exactamente un postre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3 \\times 4 \\times 2 = 24$ formas, una por cada combinacion simultanea de las tres categorias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar asume que se elige una torta, un helado y una fruta a la vez, cuando en realidad solo se escoge un postre."
+        },
+        {
+          "letter": "B",
+          "text": "$3 + 4 + 2 = 9$ formas, sumando las opciones excluyentes de cada categoria.",
+          "is_correct": true,
+          "feedback": "Correcto. Como las categorias son excluyentes, se aplica el principio aditivo y se obtiene $3+4+2 = 9$ formas posibles."
+        },
+        {
+          "letter": "C",
+          "text": "$3 + 4 \\times 2 = 11$ formas, mezclando un producto parcial con una suma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar helado por fruta y luego sumar tortas no corresponde a ninguna regla valida del conteo."
+        },
+        {
+          "letter": "D",
+          "text": "$3^4 \\times 2^4 = 1296$ formas, elevando cada categoria a sus sub-opciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las potencias $3^4$ y $2^4$ no tienen sentido porque ninguna categoria tiene $4$ sub-opciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio aditivo dice que cuando las opciones son mutuamente excluyentes, el total se obtiene sumando los conteos de cada categoria. En este caso torta, helado y fruta no se eligen a la vez, asi que el total es $3+4+2 = 9$ formas posibles de pedir un postre.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v5",
+      "statement": "De cuantas formas distintas pueden llegar a la meta los $5$ corredores si todos tienen la misma probabilidad de quedar en cualquier posicion?",
+      "context": "En una carrera atletica interescolar realizada en el estadio El Campin de Bogota participan $5$ estudiantes. El orden de llegada a la meta define los puntos que cada uno obtiene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5^5 = 3125$ formas, porque cada corredor puede ubicarse en cualquiera de las $5$ posiciones independientemente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^5$ describe colocaciones con repeticion donde un mismo corredor podria estar en varios lugares a la vez."
+        },
+        {
+          "letter": "B",
+          "text": "$5! = 120$ formas, aplicando una permutacion sin repeticion de los $5$ corredores.",
+          "is_correct": true,
+          "feedback": "Correcto. Como cada corredor ocupa exactamente una posicion, se trata de una permutacion de $5$ elementos distintos y el total es $5! = 120$."
+        },
+        {
+          "letter": "C",
+          "text": "$5 \\times 4 = 20$ formas, contando solo el primero y el segundo lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cuenta ignora el tercer, cuarto y quinto lugar, que tambien son posiciones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "$5 + 4 = 9$ formas, sumando el numero de participantes y de posiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar cantidades no relacionadas no produce el numero de ordenamientos posibles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una permutacion de $n$ elementos distintos es el numero de formas de ordenarlos sin repetir ninguno, que es $n!$. Para $n=5$, se obtiene $5! = 120$ posibles llegadas, una cifra clave para calcular probabilidades en competencias con todos los resultados igualmente probables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v6",
+      "statement": "Al dibujar el diagrama de arbol que representa estas tres decisiones independientes, cuantas ramas finales aparecen?",
+      "context": "Una familia de Medellin esta planeando las vacaciones y debe elegir: $2$ posibles fechas de salida, $3$ posibles destinos dentro de Colombia y $2$ tipos de hospedaje (hotel o finca).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\times 3 \\times 2 = 12$ ramas, una por cada combinacion completa de las tres decisiones.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada nivel del arbol multiplica el numero de opciones, dando $2 \\times 3 \\times 2 = 12$ combinaciones finales, una por hoja del diagrama."
+        },
+        {
+          "letter": "B",
+          "text": "$2 + 3 + 2 = 7$ ramas, una por cada decision sumada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma seria valida solo si las decisiones fueran excluyentes, lo que no ocurre porque se toman en paralelo."
+        },
+        {
+          "letter": "C",
+          "text": "$2 \\times 3 + 2 = 8$ ramas, mezclando una multiplicacion parcial con una suma final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operacion $2 \\times 3 + 2$ no corresponde a ninguna regla valida del conteo."
+        },
+        {
+          "letter": "D",
+          "text": "$3! = 6$ ramas, una permutacion de los destinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3!$ solo reordena los destinos, pero aqui no se trata de ordenar sino de combinarlos con fechas y hospedaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un diagrama de arbol permite visualizar todas las combinaciones cuando las decisiones son independientes: cada nivel aporta un factor multiplicativo. Por eso, con $2$ fechas, $3$ destinos y $2$ hospedajes, las hojas del arbol son exactamente $12$ combinaciones posibles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v7",
+      "statement": "De cuantas formas distintas se pueden asignar los tres cargos?",
+      "context": "En un club juvenil de Medellin hay $8$ candidatos para ocupar los cargos de presidente, vicepresidente y tesorero. Cada cargo lo ocupa una persona distinta y nadie puede tener dos cargos a la vez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8^3 = 512$ formas, porque en cada cargo puede caer cualquiera de los $8$ candidatos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $8^3$ permitiria que la misma persona ocupara varios cargos, lo que viola la condicion del problema."
+        },
+        {
+          "letter": "B",
+          "text": "$8 \\times 7 \\times 6 = 336$ formas, aplicando una permutacion sin repeticion $P(8,3)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Para presidente hay $8$ opciones, para vicepresidente quedan $7$ y para tesorero $6$, dando $8 \\times 7 \\times 6 = 336$ asignaciones."
+        },
+        {
+          "letter": "C",
+          "text": "$\\binom{8}{3} = 56$ formas, una combinacion sin importar el orden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combinacion ignora que los cargos son distintos; aqui presidente, vicepresidente y tesorero importan."
+        },
+        {
+          "letter": "D",
+          "text": "$3! = 6$ formas, una por cada orden posible de los tres cargos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3!$ solo reordena los cargos entre si, sin considerar cuantos candidatos hay para cada uno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando se asignan cargos distintos a partir de un conjunto de personas y nadie puede repetirse, se trata de una permutacion sin repeticion $P(n,k) = n!/(n-k)!$. Con $n=8$ y $k=3$, se obtiene $P(8,3) = 8 \\times 7 \\times 6 = 336$ formas validas de asignacion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v8",
+      "statement": "Cuantas cadenas distintas de seis letras pueden formarse con esas letras, teniendo en cuenta que las dos O no se distinguen?",
+      "context": "Una profesora de noveno grado en Bogota reparte a cada uno letras moviles de cartulina con las letras B, O, G, O, T, A y les pide formar cadenas de seis letras, considerando que las dos letras O son identicas entre si.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6! = 720$ cadenas, como si todas las letras fueran distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6!$ sobrecuenta porque intercambia las dos O identicas como si fueran letras diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{6!}{2!} = 360$ cadenas, dividiendo por las repeticiones de la letra O.",
+          "is_correct": true,
+          "feedback": "Correcto. Como las dos O son identicas, cada ordenamiento se cuenta dos veces en $6!$, asi que el numero correcto de cadenas distintas es $6!/2! = 360$."
+        },
+        {
+          "letter": "C",
+          "text": "$6! \\times 2 = 1440$ cadenas, duplicando para incluir las O en ambos sentidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por $2$ amplia el conteo en lugar de corregir la doble contabilidad de las O."
+        },
+        {
+          "letter": "D",
+          "text": "$6^6 = 46656$ cadenas, una permutacion con repeticion donde cada posicion tiene seis opciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6^6$ corresponde a un arreglo con repeticion sobre $6$ simbolos posibles, no a usar las letras dadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular permutaciones con repeticion se divide el factorial total entre el factorial de cada grupo de letras repetidas. En BOGOTA solo se repite la O dos veces, por lo que el numero de ordenamientos distintos es $6!/2! = 360$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v9",
+      "statement": "Cuantas claves distintas puede crear el cliente bajo esas dos restricciones?",
+      "context": "El cajero automatico de una sucursal bancaria en Cali exige al usuario crear una clave de $4$ digitos. La politica del banco prohibe que un mismo digito se repita dentro de la clave y exige que el primer digito no sea $0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10^4 = 10000$ claves, una por cada cadena de cuatro digitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10^4$ no aplica la prohibicion de repetir digitos ni la restriction sobre el cero."
+        },
+        {
+          "letter": "B",
+          "text": "$10 \\times 10 \\times 10 \\times 10 = 10000$ claves, equivalente al conteo anterior sin restricciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la misma cuenta que la opcion A y omite las dos restricciones."
+        },
+        {
+          "letter": "C",
+          "text": "$9 \\times 9 \\times 8 \\times 7 = 4536$ claves, aplicando la primera restriction al primer digito y la no repeticion a los demas.",
+          "is_correct": true,
+          "feedback": "Correcto. El primer digito tiene $9$ opciones ($1$ a $9$), el segundo $9$ opciones (cualquier digito excepto el primero), el tercero $8$ y el cuarto $7$, dando $9 \\times 9 \\times 8 \\times 7 = 4536$."
+        },
+        {
+          "letter": "D",
+          "text": "$9 \\times 8 \\times 7 \\times 6 = 3024$ claves, ignorando que el cero si puede aparecer despues del primer digito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cuenta prohibe el cero en todas las posiciones, lo que es mas estricto de lo pedido y reduce las claves."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El problema combina dos restricciones: el primer digito no puede ser cero, lo que reduce las opciones a $9$, y la no repeticion reduce las opciones en cada paso siguiente. Asi, la cuenta correcta es una permutacion parcial $P(10,4)$ con la primera restriction adicional: $9 \\times 9 \\times 8 \\times 7 = 4536$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v10",
+      "statement": "Cuantos comites diferentes de $3$ personas pueden formarse?",
+      "context": "En una empresa textil de Medellin se quiere conformar un comite de $3$ personas a partir de $10$ empleados aptos. Dentro del comite todos tienen la misma jerarquia, asi que el orden de los elegidos no importa, solo quienes lo conforman.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10 \\times 9 \\times 8 = 720$ comites, como si los cargos dentro del comite fueran distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cuenta distingue el orden de los miembros, pero aqui el orden no importa, asi que sobrecuenta."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{10!}{3! \\cdot 7!} = \\binom{10}{3} = 120$ comites, aplicando una combinacion.",
+          "is_correct": true,
+          "feedback": "Correcto. Como el orden dentro del comite no importa, se divide la permutacion entre las $3!$ reordenaciones posibles de los elegidos, quedando $\\binom{10}{3} = 120$ comites."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{10!}{7!} = 720$ comites, una permutacion que no corrige el orden interno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10!/7!$ es $10 \\times 9 \\times 8$ y sobrecuenta cada comite $3!$ veces."
+        },
+        {
+          "letter": "D",
+          "text": "$3 \\times 10 = 30$ comites, multiplicando el tamano del comite por el total de empleados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar asi no es una regla de conteo valida para elegir grupos sin orden."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La combinacion $\\binom{n}{k} = \\frac{n!}{k!(n-k)!}$ cuenta cuantos subconjuntos de $k$ elementos pueden formarse a partir de $n$ elementos sin importar el orden. Para $n=10$ y $k=3$, el resultado es $\\binom{10}{3} = 120$ comites posibles.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v11",
+      "statement": "Cual es la valoracion correcta del razonamiento de la estudiante?",
+      "context": "Una estudiante de noveno grado en Bogota presenta la siguiente argumentacion: para calcular cuantas contrasenas de $5$ caracteres (formadas solo por letras minusculas y digitos) pueden crearse, calculo $36^5$ porque en cada una de las $5$ posiciones puedo colocar cualquiera de los $36$ simbolos y son posiciones independientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El razonamiento es correcto siempre que se permitan letras y digitos repetidos y el orden importe, produciendo $36^5 = 60466176$ contrasenas.",
+          "is_correct": true,
+          "feedback": "Correcto. El principio multiplicativo con $36$ opciones por posicion y $5$ posiciones independientes da exactamente $36^5 = 60466176$, valido si no hay restricciones adicionales."
+        },
+        {
+          "letter": "B",
+          "text": "El razonamiento es incorrecto porque las letras y los digitos no pueden mezclarse dentro de una misma contrasena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las contrasenas usualmente si mezclan letras y digitos, por eso el alfabeto de $36$ simbolos es valido."
+        },
+        {
+          "letter": "C",
+          "text": "El razonamiento es incorrecto porque faltan los simbolos especiales como espacios o signos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema delimita explicitamente el alfabeto a letras y digitos, asi que no hay simbolos adicionales que agregar."
+        },
+        {
+          "letter": "D",
+          "text": "El razonamiento es incorrecto porque deberia usarse $5^{36}$ en su lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5^{36}$ invierte base y exponente, lo cual no corresponde a ninguna regla de conteo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un argumento de conteo implica verificar si se cumplen las hipotesis del principio aplicado. Aqui cada posicion es independiente, los simbolos pueden repetirse y el orden importa, por lo que $36^5$ es efectivamente la cantidad de contrasenas. La regla clave es reconocer que la estrategia es valida bajo las condiciones dadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle-v12",
+      "statement": "Que estrategia de conteo es la mas adecuada para determinar el numero total de podios posibles?",
+      "context": "En un torneo de baloncesto escolar en Cartagena se deben asignar los tres primeros lugares (oro, plata y bronce) entre $8$ clubes inscritos. Cada club puede recibir como maximo uno de esos lugares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aplicar combinaciones $\\binom{8}{3}$ porque el podio es solo un grupo de tres clubes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa combinacion ignora que los lugares del podio son posiciones ordenadas y no intercambiables."
+        },
+        {
+          "letter": "B",
+          "text": "Aplicar combinaciones con repeticion porque los lugares son distintos pero los clubes pueden repetirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema prohibe que un club reciba dos lugares, asi que no hay repeticion."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicar una permutacion $P(8,3) = 8 \\times 7 \\times 6$ porque los lugares del podio son posiciones ordenadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Como oro, plata y bronce son posiciones distintas y cada club aparece a lo sumo una vez, se trata de una permutacion sin repeticion $P(8,3) = 336$ podios posibles."
+        },
+        {
+          "letter": "D",
+          "text": "Aplicar el principio aditivo con $8 + 7 + 6 = 21$ porque se suman las opciones por lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio aditivo se usa para opciones excluyentes, no para lugares que deben asignarse de manera consistente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la mejor estrategia de conteo exige distinguir si el orden importa y si hay repeticion. En un podio los lugares son posiciones ordenadas y los clubes no pueden repetirse, por lo que la herramienta adecuada es la permutacion sin repeticion $P(8,3) = 8 \\times 7 \\times 6 = 336$ podios validos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W38-tecnicas-conteo-permutaciones-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

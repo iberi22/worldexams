@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-39-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T16:24:49.989Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v1",
+      "statement": "En estadistica, ¿como se denomina el conjunto completo de habitantes de Bogota sobre el cual se quiere obtener informacion?",
+      "context": "En Bogota, la secretaria de salud quiere conocer la opinion de todos los habitantes de la ciudad sobre la jornada de vaccination.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poblacion",
+          "is_correct": true,
+          "feedback": "Correcto. La poblacion es el conjunto total de individuos sobre el que se desea investigar."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muestra es solo una parte seleccionada de la poblacion."
+        },
+        {
+          "letter": "C",
+          "text": "Variable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una variable es la caracteristica que se mide, no el conjunto de individuos."
+        },
+        {
+          "letter": "D",
+          "text": "Muestreo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El muestreo es el procedimiento, no el conjunto de individuos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La poblacion estadistica es la totalidad de elementos que comparten una caracteristica y sobre los que se desea concluir. En este caso, todos los habitantes de Bogota forman la poblacion.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v2",
+      "statement": "¿Por que 800 personas entrevistadas en Medellin pueden considerarse una muestra y no una poblacion?",
+      "context": "En Medellin, una encuesta telefonica consulta a 800 personas sobre sus candidatos a la alcaldia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la encuesta se realizo por telefono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El medio de la encuesta no define si es muestra o poblacion."
+        },
+        {
+          "letter": "B",
+          "text": "Porque fueron elegidas del total de habitantes de Medellin, no incluye a todos",
+          "is_correct": true,
+          "feedback": "Correcto. Una muestra es un subconjunto representativo de la poblacion total."
+        },
+        {
+          "letter": "C",
+          "text": "Porque 800 es un numero pequeno de personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una muestra puede ser grande; lo que la define es no incluir a toda la poblacion."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las personas dieron su opinion voluntariamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La voluntariedad no convierte al grupo en muestra ni en poblacion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La muestra es cualquier subconjunto de la poblacion del cual se recogen datos. Aunque se encuesten 800 personas, siguen siendo solo una parte de los habitantes de Medellin.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v3",
+      "statement": "Que tipo de muestreo se describe en este caso?",
+      "context": "En Cali, una universidad asigna un numero aleatorio a cada estudiante y elige al azar a quienes aparezcan en una lista generada por computador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestreo sistematico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El muestreo sistematico elige elementos a intervalos regulares, no por azar con lista computarizada."
+        },
+        {
+          "letter": "B",
+          "text": "Muestreo aleatorio simple",
+          "is_correct": true,
+          "feedback": "Correcto. Cada estudiante tiene la misma probabilidad de ser elegido gracias a la seleccion al azar."
+        },
+        {
+          "letter": "C",
+          "text": "Muestreo estratificado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se dividio la poblacion en estratos como comunas o facultades."
+        },
+        {
+          "letter": "D",
+          "text": "Muestreo por conveniencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conveniencia selecciona a los mas faciles de alcanzar, no al azar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el muestreo aleatorio simple todos los individuos tienen la misma probabilidad de ser elegidos y la seleccion depende del azar, aqui mediado por un generador de numeros aleatorios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v4",
+      "statement": "Cual es la proporcion estimada de personas que apoyan la jornada gratuita en esa encuesta?",
+      "context": "En Cartagena, una encuesta pregunto a 500 personas si apoyan la jornada de vaccination gratuita, y 350 respondieron que si.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,35",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste 350 como numerador sin dividir entre el total 500."
+        },
+        {
+          "letter": "B",
+          "text": "0,55",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la proporcion de quienes no apoyan, no la de quienes si."
+        },
+        {
+          "letter": "C",
+          "text": "0,70",
+          "is_correct": true,
+          "feedback": "Correcto. 350 / 500 = 0,70, es decir el 70% apoya la jornada."
+        },
+        {
+          "letter": "D",
+          "text": "0,85",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobrestimaste la proporcion al sumar indebidamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La proporcion muestral p = (numero de exitos) / (tamano de la muestra) = 350 / 500 = 0,70. Es el estimador natural de la proporcion poblacional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v5",
+      "statement": "Cual es el intervalo de seleccion k que debe aplicarse cada vez para tomar la muestra sistematica?",
+      "context": "En Pereira, una empresa tiene 1200 clientes numerados del 1 al 1200 y quiere aplicar un muestreo sistematico de 60 clientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. 60 / 1200 da 0,05; ese es el intervalo, no 10."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. k = 1200 / 60 = 20. Se elige un numero al azar entre 1 y 20 y luego se suma 20."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el tamano de la muestra con el intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste al reves: 60 / 0,3 no corresponde a este caso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En muestreo sistematico, el intervalo k = N / n, donde N es la poblacion y n la muestra. Aqui k = 1200 / 60 = 20.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v6",
+      "statement": "Que tipo de muestreo se esta aplicando en Barranquilla?",
+      "context": "En Barranquilla, una encuesta divide a los votantes por estratos socioeconomicos (1, 2, 3, 4, 5 y 6) y luego elige una muestra aleatoria dentro de cada estrato proporcional a su tamano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aleatorio simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aleatorio simple no usa grupos previos como los estratos socioeconomicos."
+        },
+        {
+          "letter": "B",
+          "text": "Sistematico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistematico usa intervalos fijos, no division por estratos."
+        },
+        {
+          "letter": "C",
+          "text": "Estratificado",
+          "is_correct": true,
+          "feedback": "Correcto. Se forman estratos (niveles socioeconomicos) y se toma muestra dentro de cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "Por conglomerados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conglomerados son unidades geograficas como barrios, no niveles socioeconomicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El muestreo estratificado divide la poblacion en subgrupos homogeneos internos (estratos) y luego toma muestras dentro de cada uno, garantizando representacion de todos los grupos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v7",
+      "statement": "Que tipo de sesgo presenta principalmente esa encuesta?",
+      "context": "En Bogota, una encuesta politica se realizo unicamente en el norte de la ciudad entre personas con ingresos superiores a $8.000.000 COP mensuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sesgo de respuesta aleatoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sesgo aleatorio no es un tipo reconocido; lo que preocupa aqui es la falta de representatividad."
+        },
+        {
+          "letter": "B",
+          "text": "Sesgo por falta de datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hubo datos, el problema es a quienes representan."
+        },
+        {
+          "letter": "C",
+          "text": "Sesgo de seleccion, porque excluye a la mayoria de la poblacion",
+          "is_correct": true,
+          "feedback": "Correcto. Al restringir por zona y por nivel socioeconomico se deja fuera a la mayoria, lo que introduce sesgo de seleccion."
+        },
+        {
+          "letter": "D",
+          "text": "Sesgo de memoria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sesgo de memoria se da cuando el encuestado no recuerda con precision."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sesgo de seleccion ocurre cuando el procedimiento de muestreo favorece o excluye sistematicamente a ciertos grupos. Limitar la encuesta al norte de Bogota y a ingresos altos sesga fuertemente los resultados hacia esa poblacion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v8",
+      "statement": "Cual de las dos estrategias permite estimaciones mas confiables si se sospecha que la opinion varia mucho entre facultades?",
+      "context": "En Cali, una universidad compara dos metodos: elegir 400 estudiantes totalmente al azar, o elegir 100 estudiantes de cada una de 4 facultades garantizando presencia de todas las carreras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos son igualmente eficientes siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuando hay heterogeneidad entre subgrupos, el muestreo aleatorio simple puede no representar bien a cada carrera."
+        },
+        {
+          "letter": "B",
+          "text": "La totalmente al azar, porque es mas simple",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simplicidad no garantiza precision cuando hay variabilidad entre facultades."
+        },
+        {
+          "letter": "C",
+          "text": "El muestreo por facultades, porque asegura representacion de cada carrera",
+          "is_correct": true,
+          "feedback": "Correcto. El muestreo estratificado reduce la varianza cuando los estratos son internamente homogeneos y diferentes entre si."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna sirve; mejor entrevistar a todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eficientemente, una muestra estratificada bien hecha suele superar al aleatorio simple en precision."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando la variable de interes cambia entre subgrupos (facultades), el muestreo estratificado garantiza que cada subgrupo quede representado, reduciendo la variabilidad de las estimaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v9",
+      "statement": "Que se puede afirmar correctamente sobre ese resultado?",
+      "context": "Una firma encuestadora publica en Colombia que el candidato X tiene 38% de la intencion de voto, con un margen de error de mas o menos 3 puntos porcentuales y un nivel de confianza del 95%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si la muestra fue aleatoria, es razonable que la verdadera intencion de voto este entre 35% y 41%",
+          "is_correct": true,
+          "feedback": "Correcto. El margen de error del 3% indica que, con 95% de confianza, el verdadero porcentaje cae en ese rango."
+        },
+        {
+          "letter": "B",
+          "text": "El candidato X obtendra exactamente el 38% de los votos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 38% es una estimacion puntual, no una prediccion exacta del resultado electoral."
+        },
+        {
+          "letter": "C",
+          "text": "Hay 95% de probabilidad de que gane el candidato X",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 95% es confianza sobre el intervalo, no probabilidad de que un candidato gane."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el 5% de los encuestados respondio la verdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5% no se refiere a la veracidad de las respuestas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una estimacion con margen de error de mas o menos 3% y 95% de confianza indica que, si se repitiera el muestreo muchas veces, en aproximadamente el 95% de los casos el parametro poblacional caeria dentro del intervalo 35% a 41%.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v10",
+      "statement": "Que relacion existe entre el tamano de la muestra y el margen de error, segun estos datos?",
+      "context": "En Manizales, una encuesta con 1000 personas tuvo margen de error de 3%, mientras otra encuesta con 250 personas tuvo margen de error de 6%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A mayor muestra, mayor margen de error",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relacion observada es la opuesta."
+        },
+        {
+          "letter": "B",
+          "text": "El margen de error no depende del tamano de la muestra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El margen de error claramente cambia al variar la muestra."
+        },
+        {
+          "letter": "C",
+          "text": "A mayor tamano de muestra, menor margen de error",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar por 4 la muestra, el margen se reduce aproximadamente a la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "El margen de error solo depende del nivel de confianza, no del tamano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamano muestral es un factor determinante del margen de error."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El margen de error disminuye cuando crece el tamano de la muestra, aproximadamente en proporcion a 1 sobre raiz de n. Pasar de 250 a 1000 (4 veces mas) reduce el error a la mitad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v11",
+      "statement": "Cual es la valoracion estadistica mas adecuada de esa conclusion?",
+      "context": "En Bogota, un periodico afirma: \"el 90% de los colombianos esta en contra de subir el precio del pasaje de TransMilenio\", basandose en 40 respuestas recogidas en una sola estacion del sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es confiable porque el periodico es una fuente reconocida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente no garantiza validez estadistica si la muestra es pequena y sesgada."
+        },
+        {
+          "letter": "B",
+          "text": "Es confiable porque la mayoria respondio negativamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una mayoria dentro de una muestra sesgada no representa a toda la poblacion."
+        },
+        {
+          "letter": "C",
+          "text": "Es poco confiable por muestra pequena (n=40) y sesgo de seleccion",
+          "is_correct": true,
+          "feedback": "Correcto. Con solo 40 personas en una sola estacion, los resultados no son extrapolables a todo el pais."
+        },
+        {
+          "letter": "D",
+          "text": "Es inutil porque la pregunta ya estaba definida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la pregunta sino el diseno de muestreo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un estudio para inferir a todo Colombia requiere muestra representativa y suficientemente grande. Encuestar solo a 40 usuarios en una estacion produce una estimacion con enorme incertidumbre y probable sesgo de seleccion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle-v12",
+      "statement": "Que lectura critica es la mas acertada frente a ese titular?",
+      "context": "En Cartagena, una firma asegura que la candidata Y lidera con 42% frente a 39% del candidato Z, con margen de error del 3%. Ambos porcentajes tienen intervalos que se superponen entre 39% y 42%.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La candidata Y esta ganando claramente la intencion de voto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los intervalos se solapan, por lo cual la diferencia no es estadisticamente significativa."
+        },
+        {
+          "letter": "B",
+          "text": "El candidato Z en realidad va ganando porque tiene menor porcentaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un porcentaje menor no se convierte en ventaja; lo relevante es el solapamiento de los intervalos."
+        },
+        {
+          "letter": "C",
+          "text": "Con esos datos, no es posible afirmar que un candidato supere al otro",
+          "is_correct": true,
+          "feedback": "Correcto. Como los intervalos de confianza se cruzan, la diferencia podria explicarse por el azar del muestreo."
+        },
+        {
+          "letter": "D",
+          "text": "La encuesta es defectuosa y debe descartarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metodologia puede ser valida, solo que la diferencia no es estadisticamente significativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando los intervalos de confianza de dos estimaciones se superponen, la diferencia entre ellas no es estadisticamente significativa al nivel de confianza usado. Por tanto, no se puede afirmar quien lidera con esos datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W39-muestreo-inferencia-basica-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
