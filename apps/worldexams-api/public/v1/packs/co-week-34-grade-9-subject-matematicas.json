@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-34-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T16:24:49.986Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes condiciones debe cumplirse para que $\\sqrt{x}$ exista como número real?",
+      "context": "En Bogotá, un profesor del colegio San Bartolomé repasa las condiciones de existencia de los radicales en los números reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x \\geq 0$, porque el radicando de una raíz cuadrada real no puede ser negativo.",
+          "is_correct": true,
+          "feedback": "Correcto. En los reales, $\\sqrt{x}$ solo existe cuando el radicando es mayor o igual que cero."
+        },
+        {
+          "letter": "B",
+          "text": "$x > 0$, porque cualquier número positivo tiene raíz cuadrada y el cero no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cero sí tiene raíz cuadrada real: $\\sqrt{0} = 0$, así que la condición incluye al cero."
+        },
+        {
+          "letter": "C",
+          "text": "$x \\leq 0$, porque las raíces siempre producen un resultado negativo o nulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una raíz cuadrada real nunca puede tener un radicando negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$x$ puede ser cualquier real, ya que la raíz acepta números negativos multiplicándolos por $-1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces de índice par solo aceptan radicandos no negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los números reales, la raíz cuadrada $\\sqrt{x}$ solo está definida cuando $x \\geq 0$. Por eso, antes de resolver una ecuación irracional con radicales cuadráticos, es indispensable imponer la condición de existencia del radicando.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes ecuaciones se clasifica como ecuación irracional?",
+      "context": "En Medellín, un estudiante de noveno observa varias ecuaciones para distinguir cuáles son irracionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x + 5 = 11$, porque contiene una variable elevada a un número.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque tiene la palabra \"elevada\", la variable no está dentro de un radical; es una ecuación lineal."
+        },
+        {
+          "letter": "B",
+          "text": "$x^{2} - 4 = 0$, porque tiene un exponente que la hace compleja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí el exponente es entero y la variable no aparece dentro de un radical."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{x + 3} = 7$, porque la variable aparece dentro de un radical.",
+          "is_correct": true,
+          "feedback": "Correcto. Una ecuación es irracional cuando la incógnita está al menos una vez dentro de un radical."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{3}{x} = 6$, porque tiene una fracción con la variable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí la variable está en el denominador; es una ecuación racional, no irracional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una ecuación irracional es aquella en la que la incógnita aparece dentro de un radical, por ejemplo $\\sqrt{x+3} = 7$ o $\\sqrt[3]{2x-1} = 4$. Esto la distingue de las ecuaciones lineales, cuadráticas o racionales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la solución de $\\sqrt{x + 3} = 5$?",
+      "context": "En Cali, una estudiante resuelve en su cuaderno la ecuación $\\sqrt{x + 3} = 5$ aplicando la condición de existencia del radicando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$, porque se resta $5 - 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar no elimina el radical; antes hay que elevar ambos lados al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 8$, porque se suma $5 + 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar no despeja la raíz; el procedimiento correcto es elevar al cuadrado y luego restar $3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 22$, porque al elevar al cuadrado se obtiene $x + 3 = 25$.",
+          "is_correct": true,
+          "feedback": "Correcto. Elevando al cuadrado: $x + 3 = 25$, luego $x = 22$ y $\\sqrt{22 + 3} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 25$, porque se conserva el radicando.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $25$ es el resultado de $x + 3$, todavía falta restar $3$ para despejar $x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se eleva al cuadrado ambos miembros: $(\\sqrt{x+3})^{2} = 5^{2}$, lo que da $x + 3 = 25$. Despejando, $x = 22$. La verificación con el radical confirma que $\\sqrt{22 + 3} = 5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el conjunto solución de $\\sqrt{2x - 4} = x - 2$?",
+      "context": "En Cartagena, un estudiante resuelve la ecuación $\\sqrt{2x - 4} = x - 2$ aislando primero el radical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente $x = 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al elevar al cuadrado se obtiene una ecuación cuadrática con dos raíces candidatas, no solo una."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$ y $x = 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz menor no satisface la ecuación original; conviene revisar la cuadrática resultante."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$ y $x = 2$, y ambas verifican la ecuación original.",
+          "is_correct": true,
+          "feedback": "Correcto. Al elevar al cuadrado, $2x - 4 = x^{2} - 4x + 4$ da $x = 4$ o $x = 2$, y ambos cumplen $\\sqrt{2x-4} = x-2$."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene solución porque el radical nunca se anula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radical sí admite el valor $0$ cuando $x = 2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elevando ambos miembros al cuadrado: $2x - 4 = (x-2)^{2} = x^{2} - 4x + 4$. Se reorganiza en $x^{2} - 6x + 8 = 0$, que factoriza como $(x-2)(x-4) = 0$. Las candidatas son $x = 2$ y $x = 4$. La verificación en la ecuación original muestra que ambas son válidas: $\\sqrt{0} = 0$ y $\\sqrt{4} = 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v5",
+      "statement": "Al resolver $\\sqrt{3x + 1} = x - 1$, ¿cuál de las siguientes afirmaciones describe correctamente el conjunto solución?",
+      "context": "En Bogotá, un estudiante de noveno resuelve $\\sqrt{3x + 1} = x - 1$ y debe decidir qué hacer con las candidatas que aparecen al elevar al cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos candidatas $x = 0$ y $x = 5$ son soluciones de la ecuación original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La candidata $x = 0$ no satisface la ecuación porque $\\sqrt{1} = 1 \\neq -1$."
+        },
+        {
+          "letter": "B",
+          "text": "La única solución es $x = 0$, porque $x - 1$ se anula a la izquierda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x - 1 = 0$ da $x = 1$, no $x = 0$; además la candidata $x = 0$ ni siquiera cumple la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "La única solución válida es $x = 5$, porque $x = 0$ es una solución extraña que aparece al elevar al cuadrado.",
+          "is_correct": true,
+          "feedback": "Correcto. Al elevar al cuadrado se obtiene $x^{2} - 5x = 0$, con candidatas $x = 0$ y $x = 5$; solo $x = 5$ verifica $\\sqrt{3 \\cdot 5 + 1} = 5 - 1$."
+        },
+        {
+          "letter": "D",
+          "text": "La única solución es $x = 1$, porque ese es el valor que anula el radical al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x = 1$ no es ni siquiera candidata, ya que al elevar al cuadrado la cuadrática resultante no lo contiene."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al elevar al cuadrado se obtiene $3x + 1 = x^{2} - 2x + 1$, es decir $x^{2} - 5x = 0$, con candidatas $x = 0$ y $x = 5$. La verificación en la ecuación original muestra que $\\sqrt{1} = 1 \\neq -1$ para $x = 0$ (solución extraña) y que $\\sqrt{16} = 4 = 5 - 1$ para $x = 5$ (solución válida).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la solución de $\\sqrt[3]{2x - 1} = 3$?",
+      "context": "En Medellín, un estudiante aplica la técnica para radicales cúbicos en $\\sqrt[3]{2x - 1} = 3$, sin imponer restricciones sobre el signo del radicando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 1$, porque el radicando vale $1$ y la raíz cúbica de $1$ es $3$ no, es $1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz cúbica de $1$ es $1$, no $3$; por eso esa sustitución no resuelve la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 9$, porque se suma $1 + 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar no despeja; hay que elevar al cubo y luego operar con el término independiente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 4$, porque se divide $12$ entre $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término independiente es $-1$, no $+12$; dividir entre $3$ tampoco aplica aquí."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 14$, porque al elevar al cubo se obtiene $2x - 1 = 27$.",
+          "is_correct": true,
+          "feedback": "Correcto. $(\\sqrt[3]{2x - 1})^{3} = 3^{3}$ da $2x - 1 = 27$, luego $2x = 28$ y $x = 14$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A diferencia de las raíces de índice par, las raíces de índice impar están definidas para cualquier radicando real. Se eleva al cubo: $2x - 1 = 27$, luego $2x = 28$ y $x = 14$. La verificación directa da $\\sqrt[3]{2 \\cdot 14 - 1} = \\sqrt[3]{27} = 3$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v7",
+      "statement": "Al resolver $\\sqrt{x + 7} = x + 1$, ¿cuál es el análisis correcto del conjunto solución?",
+      "context": "En Cali, un docente presenta la ecuación $\\sqrt{x + 7} = x + 1$ y pide a sus estudiantes analizar por qué algunas candidatas no son válidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las candidatas son $x = 2$ y $x = -3$, y ambas son válidas porque aparecen al elevar al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ambas aparecen al elevar al cuadrado, solo una verifica la ecuación original."
+        },
+        {
+          "letter": "B",
+          "text": "La única candidata es $x = 2$ porque $-3$ queda descartado por la raíz, que no acepta negativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz $\\sqrt{-3 + 7} = \\sqrt{4}$ sí existe; el descarte de $-3$ ocurre en el otro miembro, no en el radical."
+        },
+        {
+          "letter": "C",
+          "text": "La única válida es $x = 2$, porque $x = -3$ da $\\sqrt{4} = 2 \\neq -2$, por lo que es solución extraña.",
+          "is_correct": true,
+          "feedback": "Correcto. Para $x = 2$ se cumple $\\sqrt{9} = 3 = 2 + 1$; para $x = -3$ se obtiene $\\sqrt{4} = 2 \\neq -2$."
+        },
+        {
+          "letter": "D",
+          "text": "La única válida es $x = -3$, porque el radical siempre da un número positivo que iguala al lado derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = -3$, el lado derecho es $-2$, que no es positivo, así que la igualdad falla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elevando al cuadrado: $x + 7 = (x + 1)^{2} = x^{2} + 2x + 1$, lo que reorganizado da $x^{2} + x - 6 = 0$, es decir $(x + 3)(x - 2) = 0$. Las candidatas son $x = -3$ y $x = 2$. Sin embargo, al sustituir en la ecuación original, $x = -3$ produce $\\sqrt{4} = 2$ en el lado izquierdo y $-2$ en el derecho, por lo que es una solución extraña. Solo $x = 2$ cumple la igualdad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes comparaciones describe correctamente la diferencia entre $\\sqrt{2x + 1} = \\sqrt{x + 5}$ y $\\sqrt{2x + 1} = 7$?",
+      "context": "En Cartagena, una estudiante compara dos procedimientos: uno eleva al cuadrado con radicales en ambos miembros y otro aísla primero el radical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En ambos casos se requiere imponer la condición de existencia antes de elevar al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la condición de existencia es importante, lo que aquí diferencia los casos es la cantidad de radicales, no solo el dominio."
+        },
+        {
+          "letter": "B",
+          "text": "En $\\sqrt{2x + 1} = \\sqrt{x + 5}$ se despeja primero un radical; en $\\sqrt{2x + 1} = 7$ no hace falta porque el otro miembro es un número.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuando el otro miembro es un número positivo como $7$, basta con elevar al cuadrado directamente sin aislar."
+        },
+        {
+          "letter": "C",
+          "text": "En $\\sqrt{2x + 1} = \\sqrt{x + 5}$ se elevan al cuadrado ambos radicales al tiempo porque ambos miembros contienen raíces; en $\\sqrt{2x + 1} = 7$ basta elevar al cuadrado el lado del radical.",
+          "is_correct": true,
+          "feedback": "Correcto. Con dos radicales se eleva toda la igualdad al cuadrado; con un radical y un número se eleva solo el lado del radical."
+        },
+        {
+          "letter": "D",
+          "text": "En $\\sqrt{2x + 1} = \\sqrt{x + 5}$ se suman los radicandos, pero en $\\sqrt{2x + 1} = 7$ se restan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar o restar radicandos no es un paso algebraico válido para resolver ecuaciones irracionales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando ambos miembros de la ecuación contienen un radical, se eleva al cuadrado la igualdad completa: $(\\sqrt{2x+1})^{2} = (\\sqrt{x+5})^{2}$, lo que da $2x + 1 = x + 5$. Cuando un miembro es un número conocido como $7$, basta elevar al cuadrado el lado del radical: $2x + 1 = 7^{2} = 49$. En ambos casos hay que comprobar las candidatas en la ecuación original.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes opciones describe correctamente el primer paso para resolver $\\sqrt{x + 5} - \\sqrt{x} = 1$?",
+      "context": "En Bogotá, un equipo de noveno analiza la ecuación $\\sqrt{x + 5} - \\sqrt{x} = 1$ para decidir cómo aislar los radicales antes de elevar al cuadrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dividir ambos miembros entre $1$ para eliminar la diferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir entre $1$ no simplifica la ecuación porque ese cociente es la misma expresión."
+        },
+        {
+          "letter": "B",
+          "text": "Restar $\\sqrt{x}$ en ambos miembros para que solo quede un radical.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar $\\sqrt{x}$ en ambos lados no aísla el radical, solo reorganiza la resta."
+        },
+        {
+          "letter": "C",
+          "text": "Aislar un radical pasándolo al otro miembro, de modo que quede $\\sqrt{x + 5} = 1 + \\sqrt{x}$, y luego elevar al cuadrado.",
+          "is_correct": true,
+          "feedback": "Correcto. Trasladar $\\sqrt{x}$ al lado derecho deja un solo radical a la izquierda, lo que permite elevar al cuadrado una sola vez."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar ambos miembros por el producto $\\sqrt{x+5} \\cdot \\sqrt{x}$ para simplificar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque multiplicar por el conjugado es válido en otros contextos, aquí el primer paso es despejar un radical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para resolver $\\sqrt{x + 5} - \\sqrt{x} = 1$ se recomienda despejar primero un radical: $\\sqrt{x + 5} = 1 + \\sqrt{x}$. Luego se eleva al cuadrado: $x + 5 = 1 + 2\\sqrt{x} + x$, lo que da $4 = 2\\sqrt{x}$, es decir $\\sqrt{x} = 2$ y $x = 4$. La verificación con la ecuación original confirma que $\\sqrt{9} - \\sqrt{4} = 3 - 2 = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v10",
+      "statement": "Al resolver $\\sqrt{x - 1} + \\sqrt{x + 3} = 4$, ¿cuál de las siguientes afirmaciones sobre las candidatas es correcta?",
+      "context": "En Medellín, un estudiante aplica el método de elevar al cuadrado a $\\sqrt{x - 1} + \\sqrt{x + 3} = 4$ y debe distinguir las candidatas que verifican la ecuación original.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo $x = 1$ cumple porque hace cero el primer radical y deja $\\sqrt{4} = 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $x = 1$ la suma es $\\sqrt{0} + \\sqrt{4} = 2$, que no es $4$."
+        },
+        {
+          "letter": "B",
+          "text": "Cualquier candidato que satisfaga la cuadrática obtenida al elevar al cuadrado es automáticamente válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevar al cuadrado puede introducir soluciones extrañas, así que siempre se debe verificar en la original."
+        },
+        {
+          "letter": "C",
+          "text": "Después de aislar un radical y elevar al cuadrado se obtiene $x = 2$; al verificar, $\\sqrt{1} + \\sqrt{5} \\approx 3{,}24 \\neq 4$, por lo que esa candidata es extraña y no hay soluciones válidas.",
+          "is_correct": true,
+          "feedback": "Correcto. La verificación muestra que la candidata $x = 2$ no cumple la ecuación original; en este problema la igualdad pedida no se satisface con números reales."
+        },
+        {
+          "letter": "D",
+          "text": "Después de elevar al cuadrado se obtiene $x = 2$ y $x = 13$, y ambas satisfacen la ecuación original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque pueden aparecer varias candidatas, la verificación en la original puede descartar todas, como ocurre en este caso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al aislar $\\sqrt{x - 1} = 4 - \\sqrt{x + 3}$ y elevar al cuadrado se llega a una ecuación cuadrática con candidatas reales, entre ellas $x = 2$. Sin embargo, al sustituir en la ecuación original, $\\sqrt{2 - 1} + \\sqrt{2 + 3} = 1 + \\sqrt{5} \\approx 3{,}24 \\neq 4$. Por eso $x = 2$ es una solución extraña y el problema no tiene soluciones válidas. Esto evidencia la necesidad de verificar siempre las candidatas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v11",
+      "statement": "Si la velocidad registrada al caer fue $v = 19{,}6 \\text{ m/s}$, ¿desde qué altura $h$ se soltó el objeto?",
+      "context": "En Medellín, en una práctica de laboratorio de física, se mide la velocidad con que cae un objeto lanzado desde el mirador de un edificio del centro. La velocidad de impacto está dada por $v = \\sqrt{2gh}$, donde $g = 9{,}8 \\text{ m/s}^{2}$ y $h$ es la altura en metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$h = 19{,}6 \\text{ m}$, porque al elevar al cuadrado se obtiene $19{,}6^{2} = 2 \\cdot 9{,}8 \\cdot h$.",
+          "is_correct": true,
+          "feedback": "Correcto. $19{,}6^{2} = 384{,}16$ y $2 \\cdot 9{,}8 \\cdot 19{,}6 = 384{,}16$, así que la igualdad se cumple y la altura es $19{,}6 \\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$h = 9{,}8 \\text{ m}$, porque se divide la velocidad entre $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir entre $2$ no aplica; el despeje correcto surge de elevar al cuadrado y luego dividir entre $2g$."
+        },
+        {
+          "letter": "C",
+          "text": "$h = 38{,}4 \\text{ m}$, porque se duplica el valor de la velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar $19{,}6$ no es la operación correcta; la altura debe obtenerse de $h = v^{2} / (2g)$."
+        },
+        {
+          "letter": "D",
+          "text": "$h = 4{,}9 \\text{ m}$, porque se toma la mitad de la velocidad al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mitad de la velocidad al cuadrado no coincide con la fórmula $h = v^{2} / (2g)$ en este caso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A partir de $v = \\sqrt{2gh}$ se eleva al cuadrado: $v^{2} = 2gh$. Despejando $h = \\dfrac{v^{2}}{2g}$. Con $v = 19{,}6$ y $g = 9{,}8$: $h = \\dfrac{19{,}6^{2}}{2 \\cdot 9{,}8} = \\dfrac{384{,}16}{19{,}6} = 19{,}6 \\text{ m}$. La verificación da $v = \\sqrt{2 \\cdot 9{,}8 \\cdot 19{,}6} = \\sqrt{384{,}16} = 19{,}6 \\text{ m/s}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle-v12",
+      "statement": "Si la diagonal de la pantalla es $d = 65$ pulgadas y el ancho es $a = 52$ pulgadas, ¿cuál es la altura $b$ de la pantalla?",
+      "context": "En Cali, en una tienda de electrónica se ofrece una pantalla con diagonal de $65$ pulgadas y ancho de $52$ pulgadas. El vendedor usa la relación $d = \\sqrt{a^{2} + b^{2}}$ para hallar la altura $b$ y luego calcular el precio de COP $2\\,350\\,000$ en función del área visible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$b = 33$ pulgadas, porque se resta $65 - 52$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación correcta es pitagórica; restar las medidas no da la altura."
+        },
+        {
+          "letter": "B",
+          "text": "$b = 45$ pulgadas, porque se aproxima la diagonal al entero cercano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aproximar no sustituye al cálculo exacto con el teorema de Pitágoras."
+        },
+        {
+          "letter": "C",
+          "text": "$b = 51$ pulgadas, porque se toma el valor anterior a $52$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor $51$ no surge de la relación $d^{2} = a^{2} + b^{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$b = 39$ pulgadas, porque $65^{2} = 52^{2} + b^{2}$ da $b^{2} = 1521$ y $\\sqrt{1521} = 39$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al despejar, $b^{2} = 65^{2} - 52^{2} = 4225 - 2704 = 1521$, y $\\sqrt{1521} = 39$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se despeja $b$ en $d = \\sqrt{a^{2} + b^{2}}$: $b = \\sqrt{d^{2} - a^{2}}$. Con $d = 65$ y $a = 52$, $b^{2} = 65^{2} - 52^{2} = 4225 - 2704 = 1521$, así que $b = \\sqrt{1521} = 39$ pulgadas. La verificación da $\\sqrt{52^{2} + 39^{2}} = \\sqrt{2704 + 1521} = \\sqrt{4225} = 65$ pulgadas, lo que coincide con la diagonal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W34-ecuaciones-irracionales-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

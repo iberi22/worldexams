@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-36-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T16:24:49.988Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué se entiende por \"área sombreada\" en una figura compuesta?",
+      "context": "En una guía de geometría entregada en un colegio de Bogotá se introduce el concepto de figuras compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La región delimitada por la combinación o superposición de varias figuras planas y resaltada con un color o tramado distinto en el dibujo.",
+          "is_correct": true,
+          "feedback": "Correcto: la región resaltada corresponde a la combinación de varias figuras básicas del plano."
+        },
+        {
+          "letter": "B",
+          "text": "El área de toda la figura, calculada únicamente como el producto del largo por el ancho total.",
+          "is_correct": false,
+          "feedback": "Equivocado: esa fórmula solo aplica a un rectángulo completo, no a figuras compuestas con huecos o adiciones."
+        },
+        {
+          "letter": "C",
+          "text": "El área de la pieza más pequeña del dibujo, independiente de las demás formas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la pieza más chica por sí sola no representa la zona sombreada si no se combina con las demás."
+        },
+        {
+          "letter": "D",
+          "text": "La longitud del contorno exterior de la figura, sin importar su forma interna.",
+          "is_correct": false,
+          "feedback": "Confundes perímetro (longitud) con área (superficie); el contorno no define la región resaltada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área sombreada es la región interior limitada por la combinación de figuras planas (rectángulos, triángulos, círculos, trapecios), destacada con color o trama en el dibujo. Su cálculo exige sumar o restar las áreas de las figuras que la componen, de acuerdo con la configuración propuesta y el enunciado de cada situación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v2",
+      "statement": "Para hallar el área de una figura compuesta por un rectángulo y un semicírculo adosado a uno de sus lados, ¿cuál es la estrategia correcta?",
+      "context": "Una docente de Medellín explica la estrategia general para calcular áreas en figuras compuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calcular el área del rectángulo (base por altura) y el área del semicírculo ($\\pi \\cdot r^2 / 2$), y luego sumar ambos resultados.",
+          "is_correct": true,
+          "feedback": "Estrategia correcta: cada parte se calcula con su propia fórmula y los resultados se suman."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicar la base del rectángulo por el radio del semicírculo y dividir entre dos.",
+          "is_correct": false,
+          "feedback": "Mezclas dimensiones de figuras distintas sin fórmula que las respalde; esa operación no representa un área válida."
+        },
+        {
+          "letter": "C",
+          "text": "Calcular únicamente el área del rectángulo porque el semicírculo ya representa \"la mitad\" del rectángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el semicírculo es una región adicional; omitirlo deja el área incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "Sumar el perímetro del rectángulo con el área del semicírculo, porque ambas son medidas de la misma figura.",
+          "is_correct": false,
+          "feedback": "No se mezclan longitudes (perímetro) con superficies (área) porque las unidades son diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para figuras compuestas se descompone la región en figuras básicas, se aplica la fórmula de cada una (A_rect = b·h, A_tri = b·h/2, A_circ = π·r², A_trap = (B+b)·h/2) y se suman los resultados. Si una parte se encuentra \"hueca\", como un círculo dentro de un rectángulo, esa área se resta en lugar de sumarse. Esta organización facilita la resolución y reduce errores de cálculo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v3",
+      "statement": "La zona rectangular marcada mide 24 m de largo y 14 m de ancho. ¿Cuál es el área de dicha zona?",
+      "context": "En una cancha de fútbol de Cali se pintó una zona rectangular en el centro para marcar entrenamientos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "336 m²",
+          "is_correct": true,
+          "feedback": "Correcto: A = 24 × 14 = 336 m²."
+        },
+        {
+          "letter": "B",
+          "text": "76 m²",
+          "is_correct": false,
+          "feedback": "Sumaste 24 + 14 = 38 y duplicaste: 38 · 2 = 76; el área requiere producto, no suma."
+        },
+        {
+          "letter": "C",
+          "text": "196 m²",
+          "is_correct": false,
+          "feedback": "Calculaste 14 × 14; ese valor solo serviría si la región fuera un cuadrado de 14 m de lado."
+        },
+        {
+          "letter": "D",
+          "text": "38 m²",
+          "is_correct": false,
+          "feedback": "Sumaste el largo y el ancho (24 + 14 = 38); esa operación no representa un área."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de un rectángulo se obtiene multiplicando su base por su altura: A = b · h. En este caso, A = 24 · 14 = 336 m². La unidad de área siempre es cuadrada respecto de la unidad lineal utilizada (m² en este caso).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v4",
+      "statement": "El mural tiene forma de triángulo con base 12 m y altura 5 m. ¿Cuál es su área?",
+      "context": "En un parque infantil de Cartagena se pinta un mural triangular sobre una de las paredes del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 m²",
+          "is_correct": true,
+          "feedback": "Correcto: A = (12 × 5) / 2 = 30 m²."
+        },
+        {
+          "letter": "B",
+          "text": "60 m²",
+          "is_correct": false,
+          "feedback": "Calculaste 12 × 5 sin dividir entre 2; ese sería el área del rectángulo que envuelve al triángulo."
+        },
+        {
+          "letter": "C",
+          "text": "17 m²",
+          "is_correct": false,
+          "feedback": "Sumaste base + altura (12 + 5 = 17); esa operación no representa un área."
+        },
+        {
+          "letter": "D",
+          "text": "24 m²",
+          "is_correct": false,
+          "feedback": "Dividiste entre un valor inadecuado; el área del triángulo es base por altura sobre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de un triángulo es la mitad del producto de su base por su altura: A = (b · h) / 2. Esto se debe a que el triángulo ocupa exactamente la mitad del rectángulo que lo envuelve. Para 12 m y 5 m: A = (12 · 5) / 2 = 30 m².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v5",
+      "statement": "La jardinera es un cuadrado de 6 m de lado y en el centro se ubica una fuente circular de 2 m de radio. ¿Cuál es el área aproximada del cuadrado que NO está ocupada por la fuente? (Use $\\pi \\approx 3{,}14$)",
+      "context": "En la Plaza de Bolívar de Bogotá se instala una jardinera cuadrada con una fuente circular en el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$36 - 4\\pi \\approx 23{,}44 \\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto: A_cuadrado = 6² = 36 m²; A_fuente = π · 2² = 4π; diferencia = 36 − 4π ≈ 23,44."
+        },
+        {
+          "letter": "B",
+          "text": "$36 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "No restaste el círculo; ese sería el área del cuadrado completo."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\pi \\approx 12{,}57 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste solo el área del círculo, pero olvidaste restarla del área del cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$36 + 4\\pi \\approx 48{,}57 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste en lugar de restar, lo que da un valor mayor que el área total del cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar el área sombreada cuando hay un \"hueco\" interior, se aplica A_sombreada = A_total − A_hueco. Aquí, A_total = 6 · 6 = 36 m² y A_hueco = π · 2² = 4π. Por tanto, A = 36 − 4π ≈ 23,44 m². Verificar la operación de resta es clave en problemas con figuras compuestas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v6",
+      "statement": "Un marco rectangular tiene dimensiones exteriores 30 cm × 24 cm y un hueco interior rectangular de 26 cm × 20 cm. ¿Cuál es el área del marco?",
+      "context": "En una tienda de marcos de Medellín se fabrica un marco rectangular para un cuadro familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 cm²",
+          "is_correct": true,
+          "feedback": "Correcto: A_ext = 30 · 24 = 720 cm²; A_int = 26 · 20 = 520 cm²; A_marco = 720 − 520 = 200 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "720 cm²",
+          "is_correct": false,
+          "feedback": "Calculaste solo el área del rectángulo exterior, sin restar el hueco central."
+        },
+        {
+          "letter": "C",
+          "text": "520 cm²",
+          "is_correct": false,
+          "feedback": "Calculaste solo el área del hueco interior; el marco es la diferencia entre los dos rectángulos."
+        },
+        {
+          "letter": "D",
+          "text": "96 cm²",
+          "is_correct": false,
+          "feedback": "Restaste las dimensiones sueltas en vez de las áreas: (30 − 26)(24 − 20) = 4 · 4 = 16, no 96."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un marco rectangular se modela como la diferencia entre dos rectángulos concéntricos. Su área se obtiene con A_marco = A_exterior − A_interior. Para este caso: 30 · 24 − 26 · 20 = 720 − 520 = 200 cm². Identificar correctamente la pieza que se resta es esencial para no subestimar ni sobreestimar el resultado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v7",
+      "statement": "El patio rectangular mide 40 m de largo por 20 m de ancho. En el centro se dispone un jardín circular de 5 m de radio dedicado a plantas ornamentales. ¿Cuántos metros cuadrados del patio NO están ocupados por el jardín? (Use $\\pi \\approx 3{,}14$)",
+      "context": "En la entrada principal de un colegio en Medellín hay un patio rectangular con un jardín circular interior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$800 - 25\\pi \\approx 721{,}50 \\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto: A_patio = 40 · 20 = 800 m²; A_jardín = π · 5² = 25π ≈ 78,5; diferencia = 800 − 25π ≈ 721,50."
+        },
+        {
+          "letter": "B",
+          "text": "$800 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "No restaste el área del jardín; ese valor corresponde al patio completo."
+        },
+        {
+          "letter": "C",
+          "text": "$25\\pi \\approx 78{,}50 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste únicamente el área del jardín, no el área disponible del patio."
+        },
+        {
+          "letter": "D",
+          "text": "$800 + 25\\pi \\approx 878{,}50 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste en lugar de restar; el resultado final no puede superar el área del rectángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar el área disponible del patio es necesario restar el área circular del jardín al área rectangular del patio. Como A_patio = b · h = 800 m² y A_jardín = π · r² = 25π m², se obtiene A_disponible = 800 − 25π ≈ 721,50 m². La fórmula general para figuras compuestas con un hueco es A = A_total − A_hueco.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v8",
+      "statement": "El estanque central es un círculo de 4 m de radio y el sendero que lo rodea es un anillo circular cuyo borde exterior mide 7 m de radio. ¿Cuál es el área aproximada del sendero? (Use $\\pi \\approx 3{,}14$)",
+      "context": "En una plaza de Cartagena se dispone un sendero circular en forma de anillo alrededor de un estanque central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(49 - 16)\\pi = 33\\pi \\approx 103{,}62 \\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto: A_anillo = π (R² − r²) = π (7² − 4²) = π · 33 ≈ 103,62 m²."
+        },
+        {
+          "letter": "B",
+          "text": "$49\\pi \\approx 153{,}86 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste solo el área del círculo mayor; falta restar el estanque interior."
+        },
+        {
+          "letter": "C",
+          "text": "$16\\pi \\approx 50{,}24 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste solo el área del estanque; el anillo que lo rodea no está incluido."
+        },
+        {
+          "letter": "D",
+          "text": "$\\pi(7 + 4) = 11\\pi \\approx 34{,}54 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste los radios en lugar de operar sobre los cuadrados; esa expresión no corresponde al área del anillo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de un anillo circular se calcula como la diferencia entre las áreas de dos círculos concéntricos: A = π · R² − π · r² = π (R² − r²). Aquí, R = 7 m y r = 4 m, por lo que A = π (49 − 16) = 33π ≈ 103,62 m². Con frecuencia es útil recordar el resultado como π(R − r)(R + r), que es algebraicamente equivalente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v9",
+      "statement": "El terreno es un trapecio isósceles con bases de 20 m y 12 m, y altura de 8 m. Dentro de él se ubica una piscina triangular cuya base coincide con la base menor del trapecio y cuya altura es 4 m. ¿Cuál es el área del terreno disponible fuera de la piscina?",
+      "context": "En una finca cerca de Medellín hay un terreno trapezoidal con una piscina triangular en su interior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "104 m²",
+          "is_correct": true,
+          "feedback": "Correcto: A_trap = (20 + 12) · 8 / 2 = 128 m²; A_pisc = 12 · 4 / 2 = 24 m²; diferencia = 128 − 24 = 104 m²."
+        },
+        {
+          "letter": "B",
+          "text": "152 m²",
+          "is_correct": false,
+          "feedback": "Sumaste 128 + 24 = 152; contar dos veces la piscina sobreestima el área disponible."
+        },
+        {
+          "letter": "C",
+          "text": "128 m²",
+          "is_correct": false,
+          "feedback": "Calculaste el área total del trapecio sin descontar la piscina interior."
+        },
+        {
+          "letter": "D",
+          "text": "24 m²",
+          "is_correct": false,
+          "feedback": "Calculaste únicamente el área de la piscina; falta restarla al área del trapecio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área disponible se obtiene restando el área de la piscina (triángulo) al área del trapecio. Se aplican A_trapecio = (B + b) · h / 2 y A_triángulo = (b · h) / 2. Para nuestro caso: A = 128 − 24 = 104 m². Es fundamental identificar qué figura se suma y qué figura se resta en cada configuración compuesta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v10",
+      "statement": "El parque tiene forma de semicírculo de 14 m de diámetro. En el centro se dispone un jardín circular de 4 m de diámetro. ¿Cuál es el área aproximada del parque destinada a juegos, sin contar el jardín? (Use $\\pi \\approx 3{,}14$)",
+      "context": "En una escuela rural de Bogotá se diseña un parque con forma de semicírculo y un jardín circular interior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{41\\pi}{2} \\approx 64{,}37 \\text{ m}^2$",
+          "is_correct": true,
+          "feedback": "Correcto: A_semicírculo = π · 7² / 2 = 49π / 2; A_jardín = π · 2² = 4π; diferencia = (49π − 8π) / 2 = 41π / 2 ≈ 64,37."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{49\\pi}{2} \\approx 76{,}93 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste solo el área del semicírculo; falta descontar el jardín interior."
+        },
+        {
+          "letter": "C",
+          "text": "$4\\pi \\approx 12{,}57 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Calculaste únicamente el área del jardín central, no el área disponible para juegos."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{53\\pi}{2} \\approx 83{,}17 \\text{ m}^2$",
+          "is_correct": false,
+          "feedback": "Sumaste 49π / 2 + 4π = 57π / 2; en una resta el resultado no puede superar al semicírculo inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área disponible para juegos se obtiene restando el área del jardín circular interior al área del semicírculo exterior. A_parque = π · R² / 2 − π · r² = π (R² / 2 − r²). Para R = 7 m y r = 2 m: A = π (49 / 2 − 4) = 41π / 2 ≈ 64,37 m². Verificar el orden de las operaciones con sumas y restas de múltiplos de π es un buen hábito.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v11",
+      "statement": "El piso de la zona de calentamiento es un semicírculo de 14 m de diámetro. Dentro del semicírculo, en el centro, se ubica una zona circular de colchonetas de 6 m de diámetro. La zona libre alrededor (entre el borde del semicírculo y la zona de colchonetas) se debe cubrir con baldosas que cuestan COP $56.000 por $\\text{m}^2$ instalado. Determine el costo total del embaldosado. (Use $\\pi \\approx 3{,}14$)",
+      "context": "En un gimnasio de Cali, el piso de la zona de calentamiento es un semicírculo con una zona circular interior reservada para colchonetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente COP $2.726.000",
+          "is_correct": true,
+          "feedback": "Correcto: A_semicírculo = π · 7² / 2 = 49π / 2 ≈ 76,93 m²; A_colchonetas = π · 3² = 9π ≈ 28,26 m²; A_baldosa = 49π / 2 − 9π = 31π / 2 ≈ 48,69 m²; costo = 48,69 · 56.000 ≈ 2.726.640."
+        },
+        {
+          "letter": "B",
+          "text": "Aproximadamente COP $4.308.000",
+          "is_correct": false,
+          "feedback": "Calculaste el costo de cubrir todo el semicírculo sin descontar el área de las colchonetas."
+        },
+        {
+          "letter": "C",
+          "text": "Aproximadamente COP $1.583.000",
+          "is_correct": false,
+          "feedback": "Subestimaste: tomaste solo una porción del semicírculo o aplicaste un radio incorrecto para la resta."
+        },
+        {
+          "letter": "D",
+          "text": "Aproximadamente COP $3.500.000",
+          "is_correct": false,
+          "feedback": "Sobrestimaste el área real; al verificar el resultado es muy superior al valor correcto, por lo que se descarta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En este problema compuesto se combinan tres pasos: (1) calcular el área del semicírculo mayor con A = π · R² / 2; (2) calcular el área del círculo interior con A = π · r²; (3) restar ambas áreas. Luego se multiplica por el costo unitario del metro cuadrado de baldosa. Aquí, A_baldosa = 49π / 2 − 9π = (49π − 18π) / 2 = 31π / 2 ≈ 48,69 m², y el costo total ≈ 48,69 · 56.000 ≈ COP $2.726.640.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle-v12",
+      "statement": "La superficie del patio es un trapecio isósceles con bases de 24 m y 16 m, y altura de 12 m. Opción A: sembrar grama en todo el trapecio. Opción B: sembrar grama en todo el trapecio EXCEPTO en un jardín circular central de 5 m de diámetro. Si el $\\text{m}^2$ de grama sembrada cuesta COP $22.000, determine cuál opción es más económica y la diferencia aproximada de costo entre ambas. (Use $\\pi \\approx 3{,}14$)",
+      "context": "Para remodelar el patio central de un colegio en Medellín se comparan dos opciones de zonas verdes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opción B es más económica; la diferencia es aproximadamente COP $431.000 a favor de B.",
+          "is_correct": true,
+          "feedback": "Correcto: A_trap = (24 + 16) · 12 / 2 = 240 m²; A_jardín = π · 2,5² = 6,25π ≈ 19,63 m²; opción A = 240 · 22.000 = 5.280.000; opción B = (240 − 19,63) · 22.000 ≈ 4.848.140; diferencia ≈ 431.860."
+        },
+        {
+          "letter": "B",
+          "text": "La opción A es más económica; la diferencia es aproximadamente COP $431.000 a favor de A.",
+          "is_correct": false,
+          "feedback": "Invertiste la decisión: como el jardín central no se cubre con grama, B requiere menos grama y, por tanto, es más barata."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas opciones cuestan exactamente lo mismo porque el jardín se paga aparte.",
+          "is_correct": false,
+          "feedback": "Incorrecto: en ambas opciones se paga por TODA la grama sembrada; en B se siembra menos grama, por lo que el costo es menor."
+        },
+        {
+          "letter": "D",
+          "text": "La opción B es más económica por aproximadamente COP $5.280.000.",
+          "is_correct": false,
+          "feedback": "Incorrecto: 5.280.000 es el costo total de la opción A, no la diferencia entre ambas opciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para tomar la decisión se comparan las dos áreas de grama. A_trap = (24 + 16) · 12 / 2 = 240 m² y A_jardín = π · 2,5² = 6,25π ≈ 19,63 m². Costo A = 240 · 22.000 = COP $5.280.000; costo B = (240 − 19,63) · 22.000 ≈ COP $4.848.140. La opción B es más económica porque se evita sembrar grama dentro del círculo central; la diferencia aproximada es COP $431.860. La clave de la evaluación está en reconocer qué área se paga en cada opción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W36-areas-sombreadas-composicion-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
