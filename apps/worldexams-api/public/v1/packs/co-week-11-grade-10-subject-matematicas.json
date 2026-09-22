@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T17:25:34.781Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la ecuación canónica de una elipse con centro en el origen y semiejes $a$ y $b$, con $a > b$?",
+      "context": "En Bogotá, en clase de geometría analítica se define la elipse con centro en el origen y eje mayor horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $a > b$, el eje mayor es horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^2}{b^2} + \\frac{y^2}{a^2} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a un eje mayor vertical."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la ecuación de una hipérbola."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + y^2 = a^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una circunferencia, no una elipse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elipse canónica con eje mayor horizontal tiene ecuación $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, donde $a > b$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor de $a$ y de $b$ en la elipse?",
+      "context": "En Medellín, se identifican los elementos de la elipse $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a = 5$ y $b = 4$",
+          "is_correct": true,
+          "feedback": "Correcto. $a^2 = 25$ y $b^2 = 16$, por lo que $a = 5$ y $b = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$a = 25$ y $b = 16$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los cuadrados de los semiejes."
+        },
+        {
+          "letter": "C",
+          "text": "$a = 4$ y $b = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El semieje mayor es $5$, asociado a $x^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$a = 3$ y $b = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay semieje igual a $3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$, $a^2 = 25$ y $b^2 = 16$, luego $a = 5$ y $b = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la relación entre $a$, $b$ y $c$ (distancia del centro al foco) en una elipse?",
+      "context": "En Cali, se estudia la relación entre los semiejes y la distancia focal de una elipse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c^2 = a^2 - b^2$",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia focal cumple $c^2 = a^2 - b^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$c^2 = a^2 + b^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a una hipérbola."
+        },
+        {
+          "letter": "C",
+          "text": "$c = a + b$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación no es aditiva."
+        },
+        {
+          "letter": "D",
+          "text": "$c = \\frac{a}{b}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa no es la relación correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una elipse, $c^2 = a^2 - b^2$, donde $c$ es la distancia del centro a cada foco.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son los focos de la elipse?",
+      "context": "En Barranquilla, se determinan los focos de la elipse $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(\\pm 4, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. $c^2 = 25 - 9 = 16$, luego $c = 4$; focos en $(\\pm 4, 0)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, \\pm 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eje mayor es horizontal, los focos están sobre el eje $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$(\\pm 5, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los vértices, no los focos."
+        },
+        {
+          "letter": "D",
+          "text": "$(\\pm 3, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3$ es el semieje menor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $a^2 = 25$ y $b^2 = 9$, $c^2 = 25 - 9 = 16$, $c = 4$. Los focos son $(\\pm 4, 0)$ sobre el eje mayor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la ecuación de la elipse?",
+      "context": "En Bucaramanga, se escribe la ecuación de la elipse con centro en el origen, $a = 6$ y $b = 4$, con eje mayor horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^2}{36} + \\frac{y^2}{16} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $a^2 = 36$ y $b^2 = 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^2}{16} + \\frac{y^2}{36} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería con eje mayor vertical."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{6} + \\frac{y^2}{4} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los semiejes van elevados al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^2}{36} - \\frac{y^2}{16} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una hipérbola."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $a = 6$ y $b = 4$: $a^2 = 36$ y $b^2 = 16$. La ecuación es $\\frac{x^2}{36} + \\frac{y^2}{16} = 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la excentricidad de la elipse?",
+      "context": "En Pereira, se calcula la excentricidad de la elipse $\\frac{x^2}{100} + \\frac{y^2}{36} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.8$",
+          "is_correct": true,
+          "feedback": "Correcto. $c^2 = 100 - 36 = 64$, $c = 8$; $e = \\frac{c}{a} = \\frac{8}{10} = 0.8$."
+        },
+        {
+          "letter": "B",
+          "text": "$0.6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0.6$ sería $\\frac{b}{a}$ o el cálculo con datos erróneos."
+        },
+        {
+          "letter": "C",
+          "text": "$0.36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste con $b^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$0.64$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el valor de $c^2/a^2$, no de $e$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$c = \\sqrt{a^2 - b^2} = \\sqrt{100 - 36} = 8$. La excentricidad es $e = \\frac{c}{a} = \\frac{8}{10} = 0.8$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el centro de la elipse?",
+      "context": "En Manizales, se identifica el centro de la elipse $(x - 2)^2/16 + (y + 3)^2/9 = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, -3)$",
+          "is_correct": true,
+          "feedback": "Correcto. El centro es $(h, k) = (2, -3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(-2, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos están invertidos."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada del centro es $-3$."
+        },
+        {
+          "letter": "D",
+          "text": "$(-2, -3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abscisa del centro es $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma $(x - h)^2/a^2 + (y - k)^2/b^2 = 1$ tiene centro en $(h, k)$. Aquí es $(2, -3)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la ecuación de la elipse?",
+      "context": "En Cartagena, se convierten los focos de una elipse centrada en el origen. Sus focos son $(\\pm 5, 0)$ y su semieje mayor es $13$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^2}{169} + \\frac{y^2}{144} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = 13$ y $b^2 = a^2 - c^2 = 169 - 25 = 144$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^2}{144} + \\frac{y^2}{169} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eje mayor es horizontal, asociado a $x^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{169} + \\frac{y^2}{25} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $b^2$ no es $c^2$; usa $b^2 = a^2 - c^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^2}{25} + \\frac{y^2}{169} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste los ejes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $c = 5$ y $a = 13$: $b^2 = a^2 - c^2 = 169 - 25 = 144$. Ecuación: $\\frac{x^2}{169} + \\frac{y^2}{144} = 1$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el semieje menor $b$?",
+      "context": "En Cúcuta, se determina el semieje menor de una elipse con excentricidad $0.6$ y semieje mayor $10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$",
+          "is_correct": true,
+          "feedback": "Correcto. $c = 0.6 \\cdot 10 = 6$; $b = \\sqrt{100 - 36} = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6$ es la distancia focal $c$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el valor de $b$."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el semieje mayor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$c = ea = 0.6 \\cdot 10 = 6$. Luego $b^2 = a^2 - c^2 = 100 - 36 = 64$, por lo que $b = 8$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el eje mayor de la elipse?",
+      "context": "En Pasto, un plano cartesiano contiene la elipse $9x^2 + 4y^2 = 36$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vertical, con longitud $6$.",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo entre $36$: $\\frac{x^2}{4} + \\frac{y^2}{9} = 1$; el semieje mayor es $3$, longitud $6$."
+        },
+        {
+          "letter": "B",
+          "text": "Horizontal, con longitud $6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9 > 4$ en el denominador, el eje mayor es vertical."
+        },
+        {
+          "letter": "C",
+          "text": "Horizontal, con longitud $4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eje mayor mide $2a = 6$."
+        },
+        {
+          "letter": "D",
+          "text": "Vertical, con longitud $4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El semieje mayor es $3$, no $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividiendo entre $36$: $\\frac{x^2}{4} + \\frac{y^2}{9} = 1$. Como $9 > 4$, el semieje mayor es $3$ sobre el eje $y$; el eje mayor mide $2a = 6$ y es vertical.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las dos elipses es más redonda?",
+      "context": "En Ibagué, se compara la forma de dos elipses: $E_1: \\frac{x^2}{25} + \\frac{y^2}{24} = 1$ y $E_2: \\frac{x^2}{25} + \\frac{y^2}{9} = 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$E_1$, porque su excentricidad es menor.",
+          "is_correct": true,
+          "feedback": "Correcto. $e_1 = \\sqrt{1 - 24/25} = 0.2$ y $e_2 = \\sqrt{1 - 9/25} = 0.8$; menor excentricidad es más redonda."
+        },
+        {
+          "letter": "B",
+          "text": "$E_2$, porque su excentricidad es mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mayor excentricidad implica elipse más achatada."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen la misma forma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus excentricidades son distintas."
+        },
+        {
+          "letter": "D",
+          "text": "$E_2$, porque tiene semieje menor más pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un semieje menor pequeño hace la elipse más achatada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$e_1 = \\sqrt{1 - \\frac{24}{25}} = 0.2$ y $e_2 = \\sqrt{1 - \\frac{9}{25}} = 0.8$. Como $e_1 < e_2$, $E_1$ es más redonda.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle-v12",
+      "statement": "Si se modela el arco como una elipse con centro en el origen y eje mayor horizontal, ¿cuál es su ecuación?",
+      "context": "En Villavicencio, un puente tiene un arco elíptico de $20$ m de largo (eje mayor) y $6$ m de altura máxima (semieje menor).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x^2}{100} + \\frac{y^2}{9} = 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $a = 10$ y $b = 3$: $a^2 = 100$ y $b^2 = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^2}{400} + \\frac{y^2}{36} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $20$ es el eje mayor, no el semieje; $a = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^2}{100} + \\frac{y^2}{36} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $b = 3$, por lo que $b^2 = 9$, no $36$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^2}{20} + \\frac{y^2}{6} = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los semiejes van al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El eje mayor mide $20$ m, así que $a = 10$. La altura máxima es $6$ m, es decir $b = 3$. Ecuación: $\\frac{x^2}{100} + \\frac{y^2}{9} = 1$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W11-elipse-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

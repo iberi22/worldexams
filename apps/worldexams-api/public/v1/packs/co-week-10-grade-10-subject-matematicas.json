@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T17:25:34.781Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la ecuación canónica de una parábola con vértice en el origen, foco en $(p, 0)$ y directriz $x = -p$?",
+      "context": "En Bogotá, en clase de geometría analítica se define la parábola con vértice en el origen y eje focal en $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y^2 = 4px$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma canónica de una parábola horizontal que abre a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 = 4py$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la forma de una parábola vertical con foco en $(0, p)$."
+        },
+        {
+          "letter": "C",
+          "text": "$y^2 = -4px$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese signo corresponde a una parábola que abre a la izquierda."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 = -4py$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la forma vertical que abre hacia abajo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La parábola con foco en $(p, 0)$ y directriz $x = -p$ tiene ecuación $y^2 = 4px$ y abre hacia la derecha.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el foco de la parábola?",
+      "context": "En Medellín, se identifica el foco de la parábola $y^2 = 8x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. $4p = 8$, luego $p = 2$ y el foco es $(p, 0) = (2, 0)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el foco de una parábola vertical."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $p = 2$, no $4$; $4p = 8$."
+        },
+        {
+          "letter": "D",
+          "text": "$(8, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el coeficiente de la ecuación con $p$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparando con $y^2 = 4px$: $4p = 8$, luego $p = 2$ y el foco es $(2, 0)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v3",
+      "statement": "¿Hacia dónde abre la parábola y cuál es su foco?",
+      "context": "En Cali, se estudia la parábola $x^2 = 12y$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abre hacia arriba y su foco es $(0, 3)$.",
+          "is_correct": true,
+          "feedback": "Correcto. $4p = 12$, luego $p = 3$; el foco de $x^2 = 4py$ es $(0, 3)$."
+        },
+        {
+          "letter": "B",
+          "text": "Abre hacia abajo y su foco es $(0, -3)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abre hacia arriba porque el coeficiente es positivo."
+        },
+        {
+          "letter": "C",
+          "text": "Abre hacia la derecha y su foco es $(3, 0)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una parábola vertical, no horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "Abre hacia la izquierda y su foco es $(-3, 0)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma $x^2 = 4py$ es vertical y positiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para $x^2 = 4py$, la parábola abre hacia arriba si $p > 0$. Aquí $p = 3$, foco en $(0, 3)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la ecuación de la directriz?",
+      "context": "En Barranquilla, se determina la directriz de la parábola $y^2 = 16x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -4$",
+          "is_correct": true,
+          "feedback": "Correcto. $4p = 16$, luego $p = 4$; la directriz es $x = -p = -4$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x = 4$ es la recta del foco, no la directriz."
+        },
+        {
+          "letter": "C",
+          "text": "$y = -4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La directriz es vertical, $x = -4$, no horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la orientación de la directriz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $4p = 16$, $p = 4$. Para una parábola $y^2 = 4px$, la directriz es la recta vertical $x = -p = -4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la ecuación de la parábola?",
+      "context": "En Bucaramanga, se escribe la ecuación de la parábola con vértice en el origen y foco en $(0, 3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 = 12y$",
+          "is_correct": true,
+          "feedback": "Correcto. Foco $(0, p) = (0, 3)$, $p = 3$; $x^2 = 4py = 12y$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 = -12y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco está arriba, por lo que el coeficiente es positivo."
+        },
+        {
+          "letter": "C",
+          "text": "$y^2 = 12x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una parábola horizontal con foco en $(3, 0)$."
+        },
+        {
+          "letter": "D",
+          "text": "$y^2 = 3x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente debe ser $4p = 12$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El foco en $(0, 3)$ indica una parábola vertical con $p = 3$: $x^2 = 4py = 12y$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el vértice de la parábola?",
+      "context": "En Pereira, se determinan los elementos de la parábola $(y - 2)^2 = 8(x + 1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-1, 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice es $(h, k) = (-1, 2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(1, -2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos están invertidos."
+        },
+        {
+          "letter": "C",
+          "text": "$(8, -1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el coeficiente con las coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vértice está desplazado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma $(y - k)^2 = 4p(x - h)$ tiene vértice en $(h, k)$. Aquí $y - 2$ y $x + 1 = x - (-1)$, por lo que el vértice es $(-1, 2)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el foco de la parábola?",
+      "context": "En Manizales, se analiza la parábola $y^2 = -8x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(-2, 0)$",
+          "is_correct": true,
+          "feedback": "Correcto. $4p = -8$, luego $p = -2$; el foco es $(p, 0) = (-2, 0)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo indica que abre a la izquierda."
+        },
+        {
+          "letter": "C",
+          "text": "$(0, -2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la posición de una parábola vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parábola es horizontal, no vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparando con $y^2 = 4px$: $4p = -8$, $p = -2$. El foco es $(p, 0) = (-2, 0)$ y la parábola abre a la izquierda.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la ecuación de la parábola?",
+      "context": "En Cartagena, se halla la ecuación de la parábola con vértice en el origen y directriz $x = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y^2 = -20x$",
+          "is_correct": true,
+          "feedback": "Correcto. $x = 5$ implica $p = -5$; $y^2 = 4px = -20x$."
+        },
+        {
+          "letter": "B",
+          "text": "$y^2 = 20x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco estaría en $(5, 0)$, pero la directriz $x = 5$ indica que abre a la izquierda."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 = -20y$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería una parábola vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$y^2 = -5x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente es $4p = -20$, no $-5$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si la directriz es $x = -p = 5$, entonces $p = -5$ y $4p = -20$: $y^2 = -20x$, abriendo a la izquierda.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la longitud del lado recto?",
+      "context": "En Cúcuta, se determina la longitud del lado recto (cuerda focal perpendicular al eje) de la parábola $y^2 = 20x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$",
+          "is_correct": true,
+          "feedback": "Correcto. El lado recto mide $|4p| = 20$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5$ es el valor de $p$, no del lado recto."
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lado recto mide $4p$, no $2p$."
+        },
+        {
+          "letter": "D",
+          "text": "$80$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste de más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lado recto de una parábola $y^2 = 4px$ mide $|4p|$. Con $4p = 20$, la longitud es $20$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v10",
+      "statement": "¿A qué distancia del vértice debe ubicarse la fuente de luz para que los rayos salgan paralelos?",
+      "context": "En Pasto, un reflector parabólico tiene forma $y^2 = 24x$, con unidades en decímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A $6$ dm.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuente va en el foco; $4p = 24$, luego $p = 6$ dm."
+        },
+        {
+          "letter": "B",
+          "text": "A $24$ dm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $24$ es $4p$, no la distancia focal."
+        },
+        {
+          "letter": "C",
+          "text": "A $12$ dm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco está a $p = 6$ dm, no a $12$."
+        },
+        {
+          "letter": "D",
+          "text": "A $3$ dm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste la distancia focal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un reflector parabólico, la fuente se ubica en el foco. De $y^2 = 24x$, $4p = 24$, luego $p = 6$ dm.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v11",
+      "statement": "Completando cuadrados, ¿cuál es el foco de la parábola?",
+      "context": "En Ibagué, se determina el foco de la parábola $x^2 - 4x - 8y + 12 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2, 3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x-2)^2 = 8(y-1)$; vértice $(2, 1)$, $4p = 8$, $p = 2$, foco en $(2, 1+2) = (2, 3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(2, 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el vértice, no el foco."
+        },
+        {
+          "letter": "C",
+          "text": "$(2, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2$ es el valor de $p$, pero el foco suma $p$ a la ordenada del vértice."
+        },
+        {
+          "letter": "D",
+          "text": "$(0, 0)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vértice está desplazado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completando cuadrados: $x^2 - 4x = 8y - 12$, luego $(x - 2)^2 = 8y - 8 = 8(y - 1)$. Vértice $(2, 1)$, $4p = 8$, $p = 2$. Como abre hacia arriba, el foco es $(2, 1 + 2) = (2, 3)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la ecuación de la parábola?",
+      "context": "En Villavicencio, se determina la ecuación de la parábola con vértice en $(1, 2)$ y foco en $(1, 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 1)^2 = 12(y - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Distancia focal $p = 3$; abre hacia arriba: $(x - 1)^2 = 4(3)(y - 2) = 12(y - 2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 1)^2 = 3(y - 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente debe ser $4p = 12$."
+        },
+        {
+          "letter": "C",
+          "text": "$(y - 2)^2 = 12(x - 1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco está sobre la misma vertical que el vértice, es una parábola vertical."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 1)^2 = -12(y - 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco está arriba del vértice, por lo que el signo es positivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El foco $(1, 5)$ está $3$ unidades arriba del vértice $(1, 2)$, así que $p = 3$ y la parábola abre hacia arriba: $(x - 1)^2 = 12(y - 2)$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W10-parabola-elementos-ecuacion-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

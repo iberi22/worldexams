@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T17:25:34.779Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Bogotá, se resuelve la ecuación básica $\\operatorname{sen} x = \\frac{1}{2}$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{5\\pi}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. El seno vale $\\frac{1}{2}$ en el primer y segundo cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{2\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos ángulos el seno vale $\\frac{\\sqrt{3}}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{3\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos ángulos el seno vale $\\frac{\\sqrt{2}}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ y $x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos ángulos el seno vale $0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\operatorname{sen} x = \\frac{1}{2}$ tiene soluciones $x = \\frac{\\pi}{6}$ (cuadrante I) y $x = \\pi - \\frac{\\pi}{6} = \\frac{5\\pi}{6}$ (cuadrante II).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Medellín, se resuelve $\\cos x = 0$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{2}$ y $x = \\frac{3\\pi}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. El coseno se anula en el punto más alto y más bajo del círculo unitario."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$ y $x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos puntos el coseno vale $1$ y $-1$, respectivamente."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{5\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos ángulos el coseno vale $\\frac{\\sqrt{2}}{2}$ y $-\\frac{\\sqrt{2}}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{2\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coseno no se anula en esos ángulos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El coseno es la coordenada horizontal del punto sobre el círculo unitario; es cero en $x = \\frac{\\pi}{2}$ y $x = \\frac{3\\pi}{2}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Cali, se resuelve $\\tan x = 1$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{5\\pi}{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. La tangente vale $1$ en el primer y tercer cuadrante."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{3\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $\\frac{3\\pi}{4}$ la tangente vale $-1$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{5\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos ángulos la tangente vale $\\frac{\\sqrt{3}}{3}$ y $-\\frac{\\sqrt{3}}{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "Solo $x = \\frac{\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente tiene periodo $\\pi$, por lo que hay otra solución en el intervalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tangente es positiva en los cuadrantes I y III. $\\tan x = 1$ da $x = \\frac{\\pi}{4}$ y $x = \\frac{\\pi}{4} + \\pi = \\frac{5\\pi}{4}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Barranquilla, se resuelve la ecuación $2\\cos x - 1 = 0$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{5\\pi}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\cos x = \\frac{1}{2}$, cuyas soluciones son $\\frac{\\pi}{3}$ y $\\frac{5\\pi}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{11\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí el coseno vale $\\frac{\\sqrt{3}}{2}$, no $\\frac{1}{2}$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{2}$ y $x = \\frac{3\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí el coseno vale $0$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$ y $x = 2\\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí el coseno vale $1$, no $\\frac{1}{2}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando, $\\cos x = \\frac{1}{2}$. Las soluciones en $[0, 2\\pi)$ son $x = \\frac{\\pi}{3}$ y $x = 2\\pi - \\frac{\\pi}{3} = \\frac{5\\pi}{3}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Bucaramanga, se resuelve la ecuación $\\sqrt{3}\\tan x + 1 = 0$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{5\\pi}{6}$ y $x = \\frac{11\\pi}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan x = -\\frac{1}{\\sqrt{3}}$, negativa en cuadrantes II y IV."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{7\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí la tangente vale $\\frac{\\sqrt{3}}{3}$, positiva."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{4\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí la tangente vale $\\sqrt{3}$, positiva."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{\\pi}{2}$ y $x = \\frac{3\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí la tangente no está definida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\tan x = -\\frac{1}{\\sqrt{3}}$ es negativa en los cuadrantes II y IV, por lo que $x = \\frac{5\\pi}{6}$ y $x = \\frac{11\\pi}{6}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántas soluciones distintas tiene la ecuación en el intervalo?",
+      "context": "En Pereira, se resuelve $\\operatorname{sen}(2x) = \\frac{1}{2}$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. $2x = \\frac{\\pi}{6}, \\frac{5\\pi}{6}, \\frac{13\\pi}{6}, \\frac{17\\pi}{6}$ dan $x = \\frac{\\pi}{12}, \\frac{5\\pi}{12}, \\frac{13\\pi}{12}, \\frac{17\\pi}{12}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste que $2x$ recorre dos vueltas en el intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "$1$ solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el número de soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste de más al incluir valores fuera del rango."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $x \\in [0, 2\\pi)$, entonces $2x \\in [0, 4\\pi)$, por lo que hay cuatro soluciones para $\\operatorname{sen}(2x) = \\frac{1}{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son todas las soluciones de la ecuación?",
+      "context": "En Manizales, se resuelve la ecuación cuadrática $2\\cos^2 x - \\cos x - 1 = 0$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$, $x = \\frac{2\\pi}{3}$ y $x = \\frac{4\\pi}{3}$",
+          "is_correct": true,
+          "feedback": "Correcto. Factoriza: $(2\\cos x + 1)(\\cos x - 1) = 0$, luego $\\cos x = 1$ o $\\cos x = -\\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{5\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí $\\cos x = \\frac{1}{2}$, que no anula la ecuación."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan las soluciones de $\\cos x = -\\frac{1}{2}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{\\pi}{2}$ y $x = \\frac{3\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\cos x = 0$ no es raíz de la cuadrática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Factorizando $(2\\cos x + 1)(\\cos x - 1) = 0$: $\\cos x = 1$ da $x = 0$, y $\\cos x = -\\frac{1}{2}$ da $x = \\frac{2\\pi}{3}$ y $x = \\frac{4\\pi}{3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas soluciones distintas tiene la ecuación en el intervalo?",
+      "context": "En Cúcuta, se resuelve la ecuación $\\cos(2x) = \\cos x$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. Con $\\cos(2x) = 2\\cos^2 x - 1$, queda $(2\\cos x + 1)(\\cos x - 1) = 0$, con soluciones $x = 0, \\frac{2\\pi}{3}, \\frac{4\\pi}{3}$."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste alguna solución de la factorización."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste de más."
+        },
+        {
+          "letter": "D",
+          "text": "$1$ solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ecuación no es trivial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usando $\\cos(2x) = 2\\cos^2 x - 1$: $2\\cos^2 x - \\cos x - 1 = 0 = (2\\cos x + 1)(\\cos x - 1)$. Soluciones: $x = 0$, $x = \\frac{2\\pi}{3}$ y $x = \\frac{4\\pi}{3}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v9",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Pasto, se resuelve la ecuación $2\\operatorname{sen}^2 x - \\operatorname{sen} x - 1 = 0$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{2}$, $x = \\frac{7\\pi}{6}$ y $x = \\frac{11\\pi}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $(2\\operatorname{sen} x + 1)(\\operatorname{sen} x - 1) = 0$, luego $\\operatorname{sen} x = 1$ o $\\operatorname{sen} x = -\\frac{1}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{5\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí $\\operatorname{sen} x = \\frac{1}{2}$, que no es raíz."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = \\pi$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\operatorname{sen} x = 0$ no anula la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{\\pi}{2}$ y $x = \\frac{3\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan las soluciones de $\\operatorname{sen} x = -\\frac{1}{2}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$(2\\operatorname{sen} x + 1)(\\operatorname{sen} x - 1) = 0$ da $\\operatorname{sen} x = 1$ ($x = \\frac{\\pi}{2}$) y $\\operatorname{sen} x = -\\frac{1}{2}$ ($x = \\frac{7\\pi}{6}, \\frac{11\\pi}{6}$).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuáles son las soluciones de la ecuación?",
+      "context": "En Armenia, se resuelve la ecuación $\\operatorname{sen} x + \\cos x = 1$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$ y $x = \\frac{\\pi}{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Elevando al cuadrado: $1 + \\operatorname{sen}(2x) = 1$, luego $2x = 0$ o $2x = \\pi$, y se descartan las raíces extrañas $x = \\pi$ y $x = \\frac{3\\pi}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\pi$ y $x = \\frac{3\\pi}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son raíces extrañas que aparecen al elevar al cuadrado y no cumplen la ecuación original."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{5\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí la suma vale $\\sqrt{2}$ y $-\\sqrt{2}$, no $1$."
+        },
+        {
+          "letter": "D",
+          "text": "Solo $x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x = \\frac{\\pi}{2}$ también cumple la ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elevando al cuadrado, $\\operatorname{sen}(2x) = 0$ da $x = 0, \\frac{\\pi}{2}, \\pi, \\frac{3\\pi}{2}$. Verificando en la ecuación original solo cumplen $x = 0$ y $x = \\frac{\\pi}{2}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v11",
+      "statement": "¿Cuántas soluciones distintas tiene la ecuación en el intervalo?",
+      "context": "En Ibagué, se resuelve la ecuación $\\operatorname{sen}^2 x = \\frac{3}{4}$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ soluciones",
+          "is_correct": true,
+          "feedback": "Correcto. $\\operatorname{sen} x = \\pm \\frac{\\sqrt{3}}{2}$, cada uno con dos soluciones en el intervalo."
+        },
+        {
+          "letter": "B",
+          "text": "$2$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el signo negativo al sacar raíz."
+        },
+        {
+          "letter": "C",
+          "text": "$1$ solución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste las soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "$3$ soluciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay un número par de soluciones por la simetría del seno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\operatorname{sen} x = \\frac{\\sqrt{3}}{2}$ da $x = \\frac{\\pi}{3}, \\frac{2\\pi}{3}$, y $\\operatorname{sen} x = -\\frac{\\sqrt{3}}{2}$ da $x = \\frac{4\\pi}{3}, \\frac{5\\pi}{3}$. Total: $4$ soluciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle-v12",
+      "statement": "¿Cuáles son todas las soluciones de la ecuación?",
+      "context": "En Villavicencio, se resuelve la ecuación $3\\tan^2 x - 1 = 0$ en el intervalo $[0, 2\\pi)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = \\frac{\\pi}{6}$, $x = \\frac{5\\pi}{6}$, $x = \\frac{7\\pi}{6}$ y $x = \\frac{11\\pi}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan x = \\pm \\frac{1}{\\sqrt{3}}$, con dos soluciones por cada signo."
+        },
+        {
+          "letter": "B",
+          "text": "$x = \\frac{\\pi}{6}$ y $x = \\frac{7\\pi}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste la tangente positiva."
+        },
+        {
+          "letter": "C",
+          "text": "$x = \\frac{\\pi}{3}$ y $x = \\frac{4\\pi}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí $\\tan x = \\sqrt{3}$, no $\\frac{1}{\\sqrt{3}}$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = \\frac{\\pi}{4}$ y $x = \\frac{5\\pi}{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí $\\tan x = 1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$\\tan^2 x = \\frac{1}{3}$ implica $\\tan x = \\pm \\frac{1}{\\sqrt{3}}$. Las soluciones son $\\frac{\\pi}{6}, \\frac{7\\pi}{6}$ (positiva) y $\\frac{5\\pi}{6}, \\frac{11\\pi}{6}$ (negativa).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W04-ecuaciones-trigonometricas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
