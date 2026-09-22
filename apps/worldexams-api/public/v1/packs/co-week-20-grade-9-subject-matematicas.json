@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-20-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T02:28:41.349Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la distancia entre $(0,0)$ y $(3,4)$?",
+      "context": "En Bogotá, un mapa escolar ubica la portería en el origen $(0,0)$ y la biblioteca en $(3,4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3 + 4$ sin usar el teorema de Pitágoras."
+        },
+        {
+          "letter": "C",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $3 \\times 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste antes de elevar al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es el triángulo 3-4-5: $d = \\sqrt{(3-0)^2 + (4-0)^2} = \\sqrt{9+16} = 5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la distancia entre $P(1,1)$ y $Q(4,5)$?",
+      "context": "En Medellín, dos estaciones del metrocable se representan como $P(1,1)$ y $Q(4,5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste diferencias sin elevar al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. $dx = 3$, $dy = 4$; $d = \\sqrt{9+16} = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3 + 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste extraer la raíz cuadrada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$d = \\sqrt{(4-1)^2 + (5-1)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.87,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la expresión correcta de la distancia $d(A,B)$?",
+      "context": "En Cali, el profesor escribe en el tablero la fórmula de distancia entre $A(x_1,y_1)$ y $B(x_2,y_2)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$d = |x_2 - x_1| + |y_2 - y_1|$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la distancia Manhattan, no la euclidiana."
+        },
+        {
+          "letter": "B",
+          "text": "$d = (x_2 - x_1)^2 + (y_2 - y_1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la aplicación directa del teorema de Pitágoras."
+        },
+        {
+          "letter": "D",
+          "text": "$d = \\sqrt{|x_2 - x_1| + |y_2 - y_1|}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las diferencias deben ir al cuadrado dentro de la raíz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La distancia euclidiana es la hipotenusa del triángulo de catetos $|x_2-x_1|$ y $|y_2-y_1|$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la longitud del tramo $MN$?",
+      "context": "En Barranquilla, el malecón une los puntos $M(2,3)$ y $N(8,11)$ en un plano en kilómetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $6 + 8$ sin Pitágoras."
+        },
+        {
+          "letter": "B",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste una de las diferencias."
+        },
+        {
+          "letter": "C",
+          "text": "$100$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste la raíz cuadrada de $100$."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. $dx = 6$, $dy = 8$; $d = \\sqrt{36+64} = 10$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$d = \\sqrt{(8-2)^2 + (11-3)^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$ kilómetros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.81,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la distancia $AB$?",
+      "context": "En Cartagena, una muralla une los miradores $A(-2,1)$ y $B(2,4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$",
+          "is_correct": true,
+          "feedback": "Correcto. $dx = 4$, $dy = 3$; $d = \\sqrt{16+9} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $4 + 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No extrajiste la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{13}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal una coordenada con signo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$d = \\sqrt{(2-(-2))^2 + (4-1)^2} = \\sqrt{16 + 9} = 5$. El signo negativo se maneja con cuidado al restar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la distancia directa entre las entradas?",
+      "context": "En Bucaramanga, un parque tiene entradas en $P(0,6)$ y $Q(8,0)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $8 + 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$10$",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{8^2 + (-6)^2} = \\sqrt{100} = 10$."
+        },
+        {
+          "letter": "C",
+          "text": "$48$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $8 \\times 6$."
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $8 - 6$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$d = \\sqrt{(8-0)^2 + (0-6)^2} = \\sqrt{64 + 36} = 10$. El cuadrado elimina el signo negativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué par de veredas está más lejos entre sí?",
+      "context": "En Pereira, tres veredas se ubican en $A(0,0)$, $B(6,0)$ y $C(0,8)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A$ y $B$, con $8$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $AB = 6$, no $8$."
+        },
+        {
+          "letter": "B",
+          "text": "$A$ y $C$, con $6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $AC = 8$, no $6$."
+        },
+        {
+          "letter": "C",
+          "text": "$B$ y $C$, con $10$",
+          "is_correct": true,
+          "feedback": "Correcto. $AB = 6$, $AC = 8$, $BC = \\sqrt{36+64} = 10$."
+        },
+        {
+          "letter": "D",
+          "text": "Todos están a la misma distancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tres distancias son 6, 8 y 10."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se calculan las tres distancias y se comparan. La hipotenusa $BC = 10$ es la mayor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tipo de triángulo es según sus lados?",
+      "context": "En Cali, un triángulo tiene vértices $P(1,1)$, $Q(4,5)$ y $R(4,1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equilátero de lado $3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo $QR$ no mide eso; $PQ = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "Isósceles con dos lados de $4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lados son 3, 4 y 5."
+        },
+        {
+          "letter": "C",
+          "text": "Escaleno obtusángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es escaleno pero rectángulo, pues $3^2+4^2=5^2$."
+        },
+        {
+          "letter": "D",
+          "text": "Escaleno rectángulo de lados $3$, $4$ y $5$",
+          "is_correct": true,
+          "feedback": "Correcto. $PR = 3$, $QR = 4$, $PQ = 5$; cumple Pitágoras."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$PR = 3$, $QR = 4$, $PQ = 5$. Como $3^2 + 4^2 = 5^2$, es rectángulo y, con tres lados distintos, escaleno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.69,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error cometió el estudiante?",
+      "context": "En Bogotá, un estudiante calcula la distancia entre $(2,5)$ y $(6,2)$ así: $d = \\sqrt{(6+2)^2 + (2+5)^2}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumó las coordenadas en vez de restarlas",
+          "is_correct": true,
+          "feedback": "Correcto. Debe ser $(6-2)$ y $(2-5)$, no sumas."
+        },
+        {
+          "letter": "B",
+          "text": "Olvidó la raíz cuadrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí incluyó la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "Elevó al cubo en vez de al cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó cuadrados correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "El procedimiento es correcto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia correcta es $5$, no $\\sqrt{113}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Lo correcto es $d = \\sqrt{(6-2)^2 + (2-5)^2} = \\sqrt{16+9} = 5$. Sumar coordenadas es un error frecuente con signos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el perímetro del parque?",
+      "context": "En Medellín, un parque triangular tiene vértices $A(0,0)$, $B(6,0)$ y $C(3,4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $6 + 4 + 4$ sin calcular $AC$ y $BC$."
+        },
+        {
+          "letter": "B",
+          "text": "$16$",
+          "is_correct": true,
+          "feedback": "Correcto. $AB = 6$, $AC = 5$, $BC = 5$; perímetro = $16$."
+        },
+        {
+          "letter": "C",
+          "text": "$18$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobrestimaste las distancias inclinadas."
+        },
+        {
+          "letter": "D",
+          "text": "$12$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste uno de los lados inclinados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$AC = \\sqrt{9+16} = 5$ y $BC = \\sqrt{9+16} = 5$. Perímetro = $6 + 5 + 5 = 16$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v11",
+      "statement": "¿Cuánto debe pagar un turista por el viaje directo?",
+      "context": "En Cartagena, un taxi cobra $2.500 COP por kilómetro. En el mapa, el hotel está en $(2,3)$ y el aeropuerto en $(5,7)$, con coordenadas en kilómetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7.500 COP$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $3$ km en vez de la distancia real."
+        },
+        {
+          "letter": "B",
+          "text": "$10.000 COP$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $4$ km."
+        },
+        {
+          "letter": "C",
+          "text": "$12.500 COP$",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{9+16} = 5$ km; $5 \\times 2.500 = 12.500$."
+        },
+        {
+          "letter": "D",
+          "text": "$25.000 COP$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste la distancia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero se halla la distancia: $d = \\sqrt{(5-2)^2 + (7-3)^2} = 5$ km. Luego se multiplica por la tarifa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle-v12",
+      "statement": "¿Qué justificación es correcta?",
+      "context": "En Bucaramanga, se quiere verificar si el punto $(-2,-1)$ está a $5$ unidades de $(1,3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque la distancia es $\\sqrt{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste sin elevar al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la distancia es $7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $3 + 4$."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque $3 + 4 = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el paso de Pitágoras."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque $d = \\sqrt{(3)^2 + (4)^2} = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $dx = 1-(-2) = 3$; $dy = 3-(-1) = 4$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "$d = \\sqrt{(1+2)^2 + (3+1)^2} = \\sqrt{9 + 16} = 5$. La justificación debe mostrar diferencias, cuadrados y raíz.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T02:28:41.343Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la escritura de $45000$ en notación científica?",
+      "context": "En Bogotá, una clase de física escribe el número $45000$ en notación científica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.5 \\times 10^{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se corre la coma cuatro lugares a la izquierda: $45000 = 4.5 \\times 10^{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "$45 \\times 10^{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente debe estar entre $1$ y $10$; $45$ no cumple la forma normalizada."
+        },
+        {
+          "letter": "C",
+          "text": "$0.45 \\times 10^{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente $0.45$ es menor que $1$ y no es la forma normalizada."
+        },
+        {
+          "letter": "D",
+          "text": "$4.5 \\times 10^{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente correcto es $4$, no $5$; con $10^{5}$ se obtiene $450000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La notación científica exige un coeficiente $a$ con $1 \\le a < 10$ multiplicado por una potencia de $10$. Como $45000 = 4.5 \\times 10000$, el resultado es $4.5 \\times 10^{4}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la escritura de $0.00032$ en notación científica?",
+      "context": "En Medellín, un laboratorio mide una bacteria de $0.00032$ metros de longitud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32 \\times 10^{-5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente $32$ no está entre $1$ y $10$; falta normalizar."
+        },
+        {
+          "letter": "B",
+          "text": "$3.2 \\times 10^{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente debe ser negativo porque el número es menor que $1$."
+        },
+        {
+          "letter": "C",
+          "text": "$3.2 \\times 10^{-4}$",
+          "is_correct": true,
+          "feedback": "Correcto. La coma se corre cuatro lugares a la derecha, por eso el exponente es $-4$."
+        },
+        {
+          "letter": "D",
+          "text": "$0.32 \\times 10^{-3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente $0.32$ es menor que $1$; la forma normalizada usa $3.2$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para números menores que $1$, el exponente de $10$ es negativo e indica cuántos lugares se corre la coma a la derecha. Así, $0.00032 = 3.2 \\times 10^{-4}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el valor de $7.1 \\times 10^{6}$ en notación decimal?",
+      "context": "En Cali, un reporte ambiental indica que la ciudad emite $7.1 \\times 10^{6}$ toneladas de $CO_2$ al año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$71000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a $7.1 \\times 10^{4}$; faltan dos ceros."
+        },
+        {
+          "letter": "B",
+          "text": "$7100000$",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplicar por $10^{6}$ agrega seis cifras: $7.1$ se convierte en $7100000$."
+        },
+        {
+          "letter": "C",
+          "text": "$71000000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a $7.1 \\times 10^{7}$; sobra un cero."
+        },
+        {
+          "letter": "D",
+          "text": "$0.0000071$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el exponente positivo con uno negativo; el número es grande, no pequeño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un exponente positivo $n$ indica correr la coma $n$ lugares a la derecha. Por tanto, $7.1 \\times 10^{6} = 7100000$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el resultado de $(2 \\times 10^{5}) \\times (3 \\times 10^{4})$ en notación científica?",
+      "context": "En Barranquilla, un astrónomo multiplica $(2 \\times 10^{5}) \\times (3 \\times 10^{4})$ para estimar distancias estelares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5 \\times 10^{9}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los coeficientes $2 + 3$; en la multiplicación los coeficientes se multiplican."
+        },
+        {
+          "letter": "B",
+          "text": "$6 \\times 10^{20}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los exponentes $5 \\times 4$; los exponentes de igual base se suman."
+        },
+        {
+          "letter": "C",
+          "text": "$6 \\times 10^{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente correcto es $5 + 4 = 9$, no $8$."
+        },
+        {
+          "letter": "D",
+          "text": "$6 \\times 10^{9}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se multiplican los coeficientes $2 \\times 3 = 6$ y se suman los exponentes $5 + 4 = 9$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la multiplicación en notación científica se multiplican los coeficientes y se suman los exponentes de $10$. Así, $(2 \\times 10^{5}) \\times (3 \\times 10^{4}) = 6 \\times 10^{9}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de $\\frac{8 \\times 10^{7}}{2 \\times 10^{3}}$ en notación científica?",
+      "context": "En Cartagena, una universidad reparte $8 \\times 10^{7}$ pesos de un fondo entre $2 \\times 10^{3}$ estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4 \\times 10^{4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Se dividen los coeficientes $8 \\div 2 = 4$ y se restan los exponentes $7 - 3 = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$4 \\times 10^{10}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los exponentes; en la división los exponentes se restan."
+        },
+        {
+          "letter": "C",
+          "text": "$6 \\times 10^{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los coeficientes $8 - 2$; en la división los coeficientes se dividen."
+        },
+        {
+          "letter": "D",
+          "text": "$4 \\times 10^{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente correcto es $7 - 3 = 4$, no $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la división se dividen los coeficientes y se restan los exponentes de $10$. Por eso el cociente es $4 \\times 10^{4}$, es decir, $40000$ pesos por estudiante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la escritura de $300000$ en notación científica?",
+      "context": "En Bucaramanga, la distancia aproximada a Bogotá es $300$ km, que en metros es $300000$ m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.3 \\times 10^{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente $0.3$ es menor que $1$ y no es la forma normalizada."
+        },
+        {
+          "letter": "B",
+          "text": "$30 \\times 10^{4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente $30$ es mayor que $10$; falta normalizar a un dígito entero."
+        },
+        {
+          "letter": "C",
+          "text": "$3 \\times 10^{5}$",
+          "is_correct": true,
+          "feedback": "Correcto. $300000 = 3 \\times 100000 = 3 \\times 10^{5}$ con coeficiente entre $1$ y $10$."
+        },
+        {
+          "letter": "D",
+          "text": "$3 \\times 10^{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $10^{6}$ se obtiene $3000000$, diez veces el valor real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Contar los ceros ayuda a hallar el exponente: $300000$ tiene cinco ceros después del $3$, por lo que su notación científica es $3 \\times 10^{5}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v7",
+      "statement": "Al comparar $3.2 \\times 10^{8}$ y $3.19 \\times 10^{8}$, ¿qué afirmación es correcta?",
+      "context": "En Pereira, dos laboratorios reportan $3.2 \\times 10^{8}$ y $3.19 \\times 10^{8}$ glóbulos rojos en dos muestras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales porque tienen el mismo exponente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con igual exponente se comparan los coeficientes, y $3.2 \\ne 3.19$."
+        },
+        {
+          "letter": "B",
+          "text": "$3.2 \\times 10^{8}$ es mayor porque $3.2 > 3.19$ con igual exponente.",
+          "is_correct": true,
+          "feedback": "Correcto. A igual exponente, el orden lo decide el coeficiente: $3.2 > 3.19$."
+        },
+        {
+          "letter": "C",
+          "text": "$3.19 \\times 10^{8}$ es mayor porque tiene más cifras decimales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener más cifras no significa ser mayor; $3.19$ es menor que $3.2$."
+        },
+        {
+          "letter": "D",
+          "text": "No se pueden comparar sin pasar a decimal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con el mismo exponente la comparación es directa entre coeficientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando dos números en notación científica comparten el exponente, basta comparar los coeficientes. Como $3.2 = 3.20 > 3.19$, la primera muestra es mayor por $0.01 \\times 10^{8} = 10^{6}$ unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el resultado de $(5 \\times 10^{6}) + (3 \\times 10^{6})$?",
+      "context": "En Bogotá, un fondo de investigación suma $(5 \\times 10^{6}) + (3 \\times 10^{6})$ pesos en COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8 \\times 10^{12}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los exponentes; con igual exponente este se conserva y solo se suman coeficientes."
+        },
+        {
+          "letter": "B",
+          "text": "$15 \\times 10^{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los coeficientes $5 \\times 3$; en la suma los coeficientes se suman."
+        },
+        {
+          "letter": "C",
+          "text": "$8 \\times 10^{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente se mantiene en $6$; cambiarlo a $7$ multiplica el resultado por $10$."
+        },
+        {
+          "letter": "D",
+          "text": "$8 \\times 10^{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. Con igual exponente se suman los coeficientes: $5 + 3 = 8$ y se conserva $10^{6}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La suma con igual potencia de $10$ usa la propiedad distributiva: $(5 + 3) \\times 10^{6} = 8 \\times 10^{6}$, es decir, $8000000$ pesos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué $45 \\times 10^{3}$ NO es una notación científica correcta y cuál es su forma normalizada?",
+      "context": "En Medellín, un estudiante escribe $45 \\times 10^{3}$ como respuesta final de un problema de química.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el coeficiente $45$ supera $10$; la forma correcta es $4.5 \\times 10^{4}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Se divide $45$ entre $10$ y se aumenta el exponente en $1$: $4.5 \\times 10^{4}$."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el exponente es positivo; la forma correcta es $4.5 \\times 10^{-4}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número $45000$ es grande, así que el exponente debe seguir siendo positivo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque le falta un decimal; la forma correcta es $45.0 \\times 10^{3}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregar $.0$ no corrige el coeficiente, que sigue fuera del rango $[1,10)$."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el exponente es muy pequeño; la forma correcta es $45 \\times 10^{4}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión vale $450000$ y además mantiene el coeficiente $45$ sin normalizar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La definición exige $1 \\le a < 10$. Para normalizar $45 \\times 10^{3}$ se corre la coma un lugar a la izquierda en el coeficiente y se suma $1$ al exponente, obteniendo $4.5 \\times 10^{4}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la escritura de $2400000000000$ en notación científica y qué representa el exponente?",
+      "context": "En Cali, el presupuesto anual de una obra es de $2.4$ billones de pesos COP, es decir, $2400000000000$ pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24 \\times 10^{11}$; el exponente cuenta los dígitos totales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente $24$ no está normalizado y el exponente no cuenta todos los dígitos."
+        },
+        {
+          "letter": "B",
+          "text": "$2.4 \\times 10^{11}$; el exponente indica billones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2.4 \\times 10^{11} = 240000000000$, que es diez veces menor que el valor real."
+        },
+        {
+          "letter": "C",
+          "text": "$2.4 \\times 10^{12}$; el exponente indica los lugares que se corre la coma.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay $12$ lugares entre la posición del $2$ y el final, por eso el exponente es $12$."
+        },
+        {
+          "letter": "D",
+          "text": "$0.24 \\times 10^{13}$; el exponente indica los ceros más uno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El coeficiente $0.24$ no está normalizado aunque el valor numérico coincida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El exponente $12$ refleja el orden de magnitud de los billones en escala corta ($10^{12}$). La forma normalizada $2.4 \\times 10^{12}$ facilita comparar presupuestos y detectar errores de un factor de $10$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el resultado correcto de $\\frac{6.4 \\times 10^{-5}}{1.6 \\times 10^{2}}$?",
+      "context": "En Barranquilla, un ingeniero calcula $\\frac{6.4 \\times 10^{-5}}{1.6 \\times 10^{2}}$ para la concentración de una solución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4 \\times 10^{-3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal los exponentes: $-5 - 2 = -7$, no $-3$."
+        },
+        {
+          "letter": "B",
+          "text": "$4 \\times 10^{-7}$",
+          "is_correct": true,
+          "feedback": "Correcto. $6.4 \\div 1.6 = 4$ y $(-5) - (2) = -7$, de modo que el cociente es $4 \\times 10^{-7}$."
+        },
+        {
+          "letter": "C",
+          "text": "$4.8 \\times 10^{-7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los coeficientes $6.4 - 1.6$; los coeficientes se dividen, no se restan."
+        },
+        {
+          "letter": "D",
+          "text": "$4 \\times 10^{7}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente debe ser negativo porque el numerador es mucho menor que el denominador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el cociente se dividen coeficientes y se restan exponentes respetando la ley de los signos: $-5 - (+2) = -7$. El resultado $4 \\times 10^{-7}$ tiene sentido físico como concentración muy pequeña.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle-v12",
+      "statement": "¿Es correcta la afirmación del docente? Justifica.",
+      "context": "En Cartagena, un docente afirma que $(4 \\times 10^{-3}) \\times (5 \\times 10^{2}) = 2 \\times 10^{0} = 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque el resultado es $20 \\times 10^{-1} = 20$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $20 \\times 10^{-1} = 2$, no $20$; además esa no es la forma normalizada."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque los exponentes se multiplican y dan $10^{-6}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los exponentes de igual base se suman: $-3 + 2 = -1$, no se multiplican."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, pero solo por casualidad, porque $4 \\times 5 = 20$ y $20 = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es casualidad: $20 \\times 10^{-1}$ se normaliza exactamente a $2 \\times 10^{0} = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque $4 \\times 5 = 20$ y $10^{-3+2} = 10^{-1}$, luego $20 \\times 10^{-1} = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. El producto es $20 \\times 10^{-1}$, que normalizado es $2 \\times 10^{0} = 2$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El procedimiento combina dos leyes: producto de coeficientes y suma de exponentes. Como $20 \\times 10^{-1} = (2 \\times 10) \\times 10^{-1} = 2 \\times 10^{0} = 2$, la afirmación queda verificada y también ilustra la normalización.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

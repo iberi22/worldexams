@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T02:28:41.346Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué condición garantiza que dos triángulos sean semejantes por el criterio ángulo-ángulo?",
+      "context": "En Bogotá, dos triángulos tienen exactamente los mismos tres ángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener dos pares de ángulos correspondientes iguales.",
+          "is_correct": true,
+          "feedback": "Correcto. Con dos ángulos iguales el tercero también coincide y los triángulos son semejantes."
+        },
+        {
+          "letter": "B",
+          "text": "Tener los tres lados exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa condición define congruencia, que es un caso particular más fuerte que la semejanza."
+        },
+        {
+          "letter": "C",
+          "text": "Tener un ángulo recto en cada triángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo ángulo igual no basta; se necesitan dos pares de ángulos."
+        },
+        {
+          "letter": "D",
+          "text": "Tener el mismo perímetro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igual perímetro no garantiza ni semejanza ni igualdad de ángulos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El criterio AA establece que basta con dos pares de ángulos correspondientes iguales para afirmar la semejanza, pues la suma interna de $180$ grados fija el tercer ángulo automáticamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles son los lados del triángulo semejante con factor $2$?",
+      "context": "En Medellín, un triángulo de lados $3$, $4$ y $5$ se amplía con factor de escala $2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$, $6$ y $7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $2$ a cada lado; el factor de escala multiplica, no suma."
+        },
+        {
+          "letter": "B",
+          "text": "$3$, $4$ y $5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los lados originales; con factor $2$ cada lado se duplica."
+        },
+        {
+          "letter": "C",
+          "text": "$6$, $8$ y $10$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada lado se multiplica por $2$: $3 \\times 2 = 6$, $4 \\times 2 = 8$, $5 \\times 2 = 10$."
+        },
+        {
+          "letter": "D",
+          "text": "$9$, $16$ y $25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste cada lado al cuadrado; el factor de escala es lineal, no cuadrático."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar un factor de escala $k$ significa multiplicar cada longitud por $k$. Con $k = 2$, el triángulo $3$-$4$-$5$ se transforma en $6$-$8$-$10$ y conserva sus ángulos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v3",
+      "statement": "Si un lado del primer triángulo mide $5$ cm, ¿cuánto mide su correspondiente en el segundo?",
+      "context": "En Cali, dos triángulos semejantes tienen razón de semejanza $3$ del primero al segundo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$ cm, porque se suma la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón de semejanza multiplica los lados, no se suma a ellos."
+        },
+        {
+          "letter": "B",
+          "text": "$15$ cm, porque se multiplica por la razón $3$.",
+          "is_correct": true,
+          "feedback": "Correcto. El lado correspondiente es $5 \\times 3 = 15$ cm."
+        },
+        {
+          "letter": "C",
+          "text": "$25$ cm, porque se eleva al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadrado de la razón afecta áreas, no longitudes."
+        },
+        {
+          "letter": "D",
+          "text": "$2$ cm, porque se divide entre la razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir correspondería a pasar del segundo al primero, no al revés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La razón de semejanza es el cociente entre lados correspondientes. Si del primero al segundo la razón es $3$, todo lado se triplica: $5 \\times 3 = 15$ cm.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la altura del edificio, suponiendo rayos solares paralelos?",
+      "context": "En Barranquilla, la sombra de un poste de $6$ m mide $4$ m, y la sombra de un edificio cercano mide $20$ m a la misma hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ m, porque se multiplicaron $6 \\times 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste altura por sombra del poste sin usar la proporción con el edificio."
+        },
+        {
+          "letter": "B",
+          "text": "$14$ m, porque se sumó la diferencia de sombras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sombras no se suman; se establece una proporción entre alturas y sombras."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ m, porque se dividió $20 \\div 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo ignora la altura del poste de referencia."
+        },
+        {
+          "letter": "D",
+          "text": "$30$ m, porque $\\frac{6}{4} = \\frac{h}{20}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Despejando $h = 20 \\times 6 \\div 4 = 30$ m por semejanza de triángulos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los rayos paralelos forman triángulos semejantes: altura sobre sombra es constante. Entonces $h \\div 20 = 6 \\div 4$, de donde $h = 30$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v5",
+      "statement": "¿Son semejantes los triángulos y cuál es la razón del primero al segundo?",
+      "context": "En Cartagena, dos triángulos tienen lados $6$, $8$, $10$ y $9$, $12$, $15$ respectivamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, con razón $1.5$ porque cada lado del segundo es $1.5$ veces el del primero.",
+          "is_correct": true,
+          "feedback": "Correcto. $9 \\div 6 = 12 \\div 8 = 15 \\div 10 = 1.5$; se cumple el criterio LLL."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque los lados no son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La semejanza exige proporcionalidad, no igualdad de lados."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, con razón $3$ porque la diferencia entre lados es $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón es un cociente, no una diferencia; $9 - 6 = 3$ no define semejanza."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque los ángulos no se conocen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio LLL permite afirmar semejanza solo con lados proporcionales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El criterio lado-lado-lado exige que los tres cocientes coincidan. Aquí los tres valen $1.5$, por lo que los triángulos son semejantes con esa razón.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el perímetro del triángulo ampliado?",
+      "context": "En Bucaramanga, un plano amplía un triángulo de perímetro $18$ cm con factor $3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$21$ cm, porque se suma el factor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor de escala multiplica el perímetro, no se le suma."
+        },
+        {
+          "letter": "B",
+          "text": "$162$ cm, porque el perímetro se multiplica por $9$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $9 = 3^{2}$ aplica a las áreas, no a los perímetros."
+        },
+        {
+          "letter": "C",
+          "text": "$54$ cm, porque el perímetro se multiplica por $3$.",
+          "is_correct": true,
+          "feedback": "Correcto. El perímetro es lineal: $18 \\times 3 = 54$ cm."
+        },
+        {
+          "letter": "D",
+          "text": "$36$ cm, porque el perímetro se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor es $3$, no $2$; además duplicar no corresponde a la ampliación dada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El perímetro es una longitud total y escala linealmente con el factor $k$. Por eso $P' = k \\times P = 3 \\times 18 = 54$ cm, mientras el área escalaría con $k^{2}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el factor de escala y el cateto mayor del segundo triángulo?",
+      "context": "En Pereira, un triángulo rectángulo de catetos $6$ y $8$ es semejante a otro cuya hipotenusa mide $20$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Factor $2$ y cateto mayor $16$, porque se duplicó todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipotenusa del primero es $10$, y $20 \\div 10 = 2$ parece correcto, pero verifica: el cateto mayor sería $16$, lo cual coincide; sin embargo el factor real se calcula igual. Revisa el cálculo alternativo con factor $4$."
+        },
+        {
+          "letter": "B",
+          "text": "Factor $2$ y cateto mayor $16$, porque la hipotenusa pasó de $10$ a $20$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por Pitágoras la hipotenusa original es $10$; $20 \\div 10 = 2$ y $8 \\times 2 = 16$."
+        },
+        {
+          "letter": "C",
+          "text": "Factor $4$ y cateto mayor $32$, porque se cuadruplicó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el factor lineal con el de áreas; $20 \\div 10 = 2$, no $4$."
+        },
+        {
+          "letter": "D",
+          "text": "Factor $1.5$ y cateto mayor $12$, porque se sumó $10$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor es un cociente $20 \\div 10 = 2$, no una suma ni $1.5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero se halla la hipotenusa original: $\\sqrt{6^{2} + 8^{2}} = 10$. Luego el factor es $20 \\div 10 = 2$, así que el cateto mayor es $8 \\times 2 = 16$. Este análisis combina Pitágoras con semejanza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v8",
+      "statement": "Aplicando el teorema de Tales, ¿cuánto mide $BC$?",
+      "context": "En Bogotá, en un triángulo $ABC$ se traza un segmento $DE$ paralelo a $BC$, con $AD = 4$, $DB = 6$ y $DE = 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$9$, porque se sumó $4 + 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese cálculo no usa la proporcionalidad entre el triángulo pequeño y el grande."
+        },
+        {
+          "letter": "B",
+          "text": "$10$, porque se sumó $4 + 6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los segmentos sobre el mismo lado sin plantear la proporción."
+        },
+        {
+          "letter": "C",
+          "text": "$12$, porque se duplicó $DE$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar solo vale si $D$ fuera punto medio, pero $AD = 4$ y $AB = 10$."
+        },
+        {
+          "letter": "D",
+          "text": "$15$, porque $\\frac{AB}{AD} = \\frac{BC}{DE}$ con $AB = 10$.",
+          "is_correct": true,
+          "feedback": "Correcto. $AB = 4 + 6 = 10$; luego $BC = 6 \\times 10 \\div 4 = 15$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El segmento paralelo genera un triángulo menor semejante al mayor. La proporción es $AB \\div AD = BC \\div DE$, es decir, $10 \\div 4 = BC \\div 6$, de donde $BC = 15$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.71,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué criterio se aplica y qué se concluye?",
+      "context": "En Medellín, dos triángulos tienen dos lados proporcionales con razón $2$ y el ángulo comprendido igual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Criterio LAL; los triángulos son semejantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Dos lados proporcionales con el ángulo comprendido igual garantizan semejanza por LAL."
+        },
+        {
+          "letter": "B",
+          "text": "Criterio AA; los triángulos son semejantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. AA requiere dos pares de ángulos y aquí solo se conoce uno."
+        },
+        {
+          "letter": "C",
+          "text": "Criterio LLL; los triángulos son semejantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. LLL requiere los tres pares de lados proporcionales y aquí solo hay dos."
+        },
+        {
+          "letter": "D",
+          "text": "Ningún criterio; falta información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La información dada coincide exactamente con el criterio lado-ángulo-lado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El criterio LAL combina proporcionalidad de dos lados con igualdad del ángulo que forman. Esa es justo la hipótesis dada, por lo que la semejanza queda establecida sin medir el tercer lado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el área del segundo triángulo?",
+      "context": "En Cali, dos triángulos semejantes tienen razón lineal $3$ del primero al segundo. El área del primero es $20$ cm cuadrados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60$ cm cuadrados, porque se multiplica por $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por $3$ aplica a longitudes, no a áreas."
+        },
+        {
+          "letter": "B",
+          "text": "$120$ cm cuadrados, porque se multiplica por $6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $6$ no tiene justificación; la razón de áreas es el cuadrado de la lineal."
+        },
+        {
+          "letter": "C",
+          "text": "$180$ cm cuadrados, porque se multiplica por $9$.",
+          "is_correct": true,
+          "feedback": "Correcto. La razón de áreas es $3^{2} = 9$; $20 \\times 9 = 180$ cm cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "$8000$ cm cuadrados, porque se eleva al cubo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cubo $3^{3} = 27$ aplica a volúmenes, no a áreas planas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En figuras semejantes, las áreas escalan con el cuadrado de la razón lineal. Como $k = 3$, el área se multiplica por $9$, dando $180$ cm cuadrados. Confundir $k$ con $k^{2}$ es el error típico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v11",
+      "statement": "¿Es correcta la afirmación? Justifica con los cocientes.",
+      "context": "En Barranquilla, un estudiante afirma que dos triángulos con lados $5$, $5$, $8$ y $10$, $10$, $16$ son semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, porque los triángulos isósceles nunca son semejantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos isósceles sí pueden ser semejantes si sus lados son proporcionales."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque $\\frac{10}{5} = \\frac{10}{5} = \\frac{16}{8} = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres cocientes valen $2$, así que se cumple el criterio LLL."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque $16 \\div 8 = 2$ pero $10 \\div 5 = 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $10 \\div 5 = 2$, no $5$; el cálculo del cociente está errado."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque ambos tienen el mismo perímetro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los perímetros son $18$ y $36$, distintos; además igual perímetro no prueba semejanza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verificar los tres cocientes es la prueba del criterio LLL: $10 \\div 5 = 2$, $10 \\div 5 = 2$, $16 \\div 8 = 2$. Al coincidir, la semejanza queda demostrada con razón $2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.59,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la longitud real del lado y qué supuesto valida el cálculo?",
+      "context": "En Cartagena, una maqueta de un puente triangular usa escala $1:200$. Un lado de la maqueta mide $12$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$212$ cm, suponiendo que la escala se suma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala $1:200$ multiplica por $200$, no suma $200$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ cm, suponiendo que la maqueta es más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $2$; la escala indica que lo real es $200$ veces la maqueta."
+        },
+        {
+          "letter": "C",
+          "text": "$200$ cm, suponiendo que todos los lados miden lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignoraste los $12$ cm de la maqueta; cada lado real es $12 \\times 200$."
+        },
+        {
+          "letter": "D",
+          "text": "$2400$ cm, suponiendo semejanza exacta entre maqueta y puente.",
+          "is_correct": true,
+          "feedback": "Correcto. $12 \\times 200 = 2400$ cm ($24$ m) bajo el supuesto de figuras semejantes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La escala $1:200$ es una razón de semejanza: cada longitud real es $200$ veces la de la maqueta. Así, $12 \\times 200 = 2400$ cm. El cálculo solo vale si la maqueta reproduce exactamente las proporciones, es decir, si hay semejanza estricta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
