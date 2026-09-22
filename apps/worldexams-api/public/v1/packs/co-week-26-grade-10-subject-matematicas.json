@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.246Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición formal de la derivada $f'(a)$?",
+      "context": "En Bogotá, Juan repasa la definición formal de derivada que verá en clase de cálculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\lim_{x \\to a} f(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión es el límite de $f$, no su derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$\\lim_{h \\to 0} \\frac{f(a+h) - f(a)}{h}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la definición clásica de la derivada como límite del cociente incremental."
+        },
+        {
+          "letter": "C",
+          "text": "$f(a+h) - f(a)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir entre $h$ y tomar el límite."
+        },
+        {
+          "letter": "D",
+          "text": "$f(a)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(a)$ es solo el valor de la función en el punto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La derivada $f'(a)$ se define como el límite del cociente entre el incremento de la función y el incremento de la variable cuando este último tiende a $0$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v2",
+      "statement": "¿Qué representa geométricamente la derivada $f'(a)$?",
+      "context": "En Medellín, Valentina interpreta la derivada como una pendiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pendiente de la recta tangente a la gráfica de $f$ en $x = a$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada mide la inclinación de la tangente a la curva en ese punto."
+        },
+        {
+          "letter": "B",
+          "text": "El valor exacto de la función en $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es $f(a)$, no su derivada."
+        },
+        {
+          "letter": "C",
+          "text": "El área bajo la curva hasta $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área bajo la curva corresponde a una integral, no a la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "El máximo absoluto de $f$ cerca de $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada no aporta esa información por sí sola."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La interpretación geométrica de la derivada es la pendiente de la recta tangente a la curva en el punto; por eso $f'(a)$ mide la \"inclinación\" instantánea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v3",
+      "statement": "Si $s(t)$ está en metros y $t$ en segundos, ¿qué unidades tiene $s'(t)$?",
+      "context": "En Cali, Santiago analiza el movimiento de un auto cuya posición en metros es $s(t)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son las unidades de $s$, no de su derivada."
+        },
+        {
+          "letter": "B",
+          "text": "segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son unidades de $t$."
+        },
+        {
+          "letter": "C",
+          "text": "metros / segundo.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de la posición respecto al tiempo es la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "metros / segundo$^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son unidades de aceleración, es decir $s''(t)$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al derivar posición respecto a tiempo, las unidades se dividen; el resultado es la velocidad instantánea, expresada en metros por segundo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v4",
+      "statement": "Usando la definición de derivada, ¿cuál es $f'(x)$ para $f(x) = x^2$?",
+      "context": "En Cartagena, Juan aplica la definición para derivar $f(x) = x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x$ es la mitad del resultado correcto."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x^2$ es la función original, no su derivada."
+        },
+        {
+          "letter": "C",
+          "text": "$2x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al aplicar el límite se obtiene $f'(x) = 2x$."
+        },
+        {
+          "letter": "D",
+          "text": "$2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $2$ es el valor en $x=1$, no la derivada general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicando la definición: $\\lim_{h \\to 0} \\frac{(x+h)^2 - x^2}{h} = \\lim_{h \\to 0} (2x + h) = 2x$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v5",
+      "statement": "Para $f(x) = x^2$, ¿cuál es la pendiente de la recta tangente en $x = 3$?",
+      "context": "En Barranquilla, la profesora calcula la pendiente de la tangente a $f(x) = x^2$ en un punto específico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3$ es el valor de $x$, no de $f'(3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$6$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $f'(x) = 2x$, se tiene $f'(3) = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$9$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $9 = f(3)$, no la pendiente."
+        },
+        {
+          "letter": "D",
+          "text": "$12$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $12 = 2 \\cdot 6$, sería la pendiente en $x=6$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pendiente de la tangente en un punto se obtiene evaluando la derivada en dicho punto: $f'(3) = 2 \\cdot 3 = 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v6",
+      "statement": "Para $f(x) = x^2$, ¿cuál es la ecuación de la recta tangente en $x = 2$?",
+      "context": "En Bucaramanga, Mariana encuentra la ecuación de la recta tangente a $f(x) = x^2$ en $x=2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 2x - 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente $2$ corresponde a $f'(1)$, no a $f'(2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 4x + 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término independiente debe ser $-4$, no $+4$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 4x - 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada al origen debe ser $-4$ porque la recta pasa por $(2,4)$."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 4x - 4$.",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente es $f'(2)=4$ y la recta pasa por $(2,4)$, dando $y = 4x - 4$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La recta tangente cumple $y - f(a) = f'(a)(x - a)$. Aquí, $a=2$, $f(2)=4$ y $f'(2)=4$, así que $y - 4 = 4(x - 2)$ y simplificando se obtiene $y = 4x - 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v7",
+      "statement": "Si $f$ es derivable en $x = a$, ¿qué se puede asegurar?",
+      "context": "En Pereira, Santiago analiza la relación entre derivabilidad y continuidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ puede ser discontinua en $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivabilidad exige continuidad en el punto."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(a) = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada puede ser no nula; el valor $0$ solo ocurre en tangentes horizontales."
+        },
+        {
+          "letter": "C",
+          "text": "$f$ es continua en $a$.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda función derivable en un punto es continua en ese punto."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La continuidad sí se garantiza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La derivabilidad es una condición más fuerte que la continuidad: si $f'(a)$ existe, entonces $f$ es continua en $a$, aunque el recíproco no es verdadero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v8",
+      "statement": "Para $f(x) = 3x + 1$, ¿cuál es el valor de $f'(x)$?",
+      "context": "En Manizales, Valentina aplica la definición de derivada a una función lineal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$.",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente de la recta es constante e igual a $3$."
+        },
+        {
+          "letter": "B",
+          "text": "$0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0$ sería la derivada de una constante."
+        },
+        {
+          "letter": "C",
+          "text": "$1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $1$ es el término independiente, no la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "$3x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada no contiene a $x$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una función lineal $f(x) = mx + b$ tiene derivada constante $f'(x) = m$; en este caso $m = 3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v9",
+      "statement": "¿En qué se diferencia la derivada $f'(a)$ de la pendiente de una recta secante?",
+      "context": "En Cúcuta, Juan compara la derivada con la pendiente de una secante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son exactamente iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secante aproxima, pero no coincide con la tangente en general."
+        },
+        {
+          "letter": "B",
+          "text": "La derivada siempre es mayor que la secante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe esa relación sistemática de tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "No hay diferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secante usa dos puntos; la derivada usa el límite."
+        },
+        {
+          "letter": "D",
+          "text": "La secante usa un intervalo entre dos puntos y la derivada usa el límite cuando el intervalo se reduce a un punto.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada es el caso límite de la pendiente de las secantes cuando los dos puntos se acercan."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La pendiente de la secante entre $a$ y $a+h$ es $\\frac{f(a+h) - f(a)}{h}$; al hacer $h \\to 0$ esa pendiente se convierte en la derivada $f'(a)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la tasa de crecimiento instantánea en $t = 2$ horas?",
+      "context": "En Pasto, un cultivo de bacterias crece según $N(t) = 100t^2$, donde $t$ se mide en horas y $N$ en número de bacterias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$200$ bacterias / hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $200$ es $N'(1)$, no $N'(2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$300$ bacterias / hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $300$ sería la derivada de $100t^{1.5}$ en $t=2$."
+        },
+        {
+          "letter": "C",
+          "text": "$400$ bacterias / hora.",
+          "is_correct": true,
+          "feedback": "Correcto. $N'(t) = 200t$, entonces $N'(2) = 400$."
+        },
+        {
+          "letter": "D",
+          "text": "$800$ bacterias / hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $800$ sería $N'(4)$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tasa de crecimiento instantánea se obtiene derivando $N(t)$ y evaluando en $t=2$: $N'(t) = 200t$, así $N'(2) = 400$ bacterias por hora.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v11",
+      "statement": "¿Qué representa $f''(x) = 6x$ en $f(x) = x^3$?",
+      "context": "En Ibagué, Mariana interpreta la segunda derivada de $f(x) = x^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pendiente de la tangente en cada punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la primera derivada, $f'(x) = 3x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "La concavidad de la curva, es decir, cómo cambia la pendiente.",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda derivada describe si la curva es cóncava hacia arriba o abajo."
+        },
+        {
+          "letter": "C",
+          "text": "El valor de $f$ en cada punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de $f$ es $x^3$."
+        },
+        {
+          "letter": "D",
+          "text": "El área bajo la curva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área corresponde a una integral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La segunda derivada $f''(x)$ mide la concavidad: si es positiva la curva es cóncava hacia arriba; si es negativa, hacia abajo. Aquí $f''(x) = 6x$ cambia de signo en $x=0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle-v12",
+      "statement": "¿Qué se puede concluir sobre $f$ en $x = 4$?",
+      "context": "En Villavicencio, Santiago observa que la recta tangente a $f$ en $x=4$ es horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(4) = 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. Una tangente horizontal tiene pendiente $0$, así que $f'(4) = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(4) = 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La horizontalidad no fija el valor de la función."
+        },
+        {
+          "letter": "C",
+          "text": "$f$ no existe en $4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para tener tangente, $f$ debe estar definida y ser derivable en $4$."
+        },
+        {
+          "letter": "D",
+          "text": "$f(4)$ es un valor máximo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tangente horizontal indica un posible extremo, no garantiza máximo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente de la tangente es $f'(a)$; cuando es $0$, la recta tangente es horizontal y el punto puede corresponder a un máximo, mínimo o punto de inflexión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W26-derivada-pendiente-recta-tangente-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

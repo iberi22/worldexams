@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.247Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición necesaria que debe cumplir la derivada de una función derivable para que esta sea creciente en un intervalo?",
+      "context": "En Bogotá, una clase de cálculo repasa el concepto de función creciente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) \\geq 0$ en todo punto del intervalo.",
+          "is_correct": true,
+          "feedback": "Correcto. Una función derivable es creciente en un intervalo cuando su derivada es no negativa en todos sus puntos."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(x) \\leq 0$ en todo punto del intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa condición caracteriza a las funciones decrecientes."
+        },
+        {
+          "letter": "C",
+          "text": "$f'(x) = 0$ en al menos un punto del intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la derivada se anule en un punto no garantiza crecimiento en el intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x)$ debe ser constante y positiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada puede variar; basta con que no tome valores negativos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Si $f$ es derivable en un intervalo $I$, entonces $f$ es creciente en $I$ si y solo si $f'(x) \\geq 0$ para todo $x \\in I$ donde la derivada esté definida. Esto permite analizar la monotonicidad de una función sin construir su tabla de valores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es un punto crítico de una función $f$?",
+      "context": "En Medellín, se introduce el concepto de punto crítico para el análisis de extremos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un punto donde $f(x) = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la función se anule no es la definición de punto crítico."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto del dominio donde $f$ alcanza su valor máximo global.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un máximo global es un tipo particular de extremo, no la definición general de punto crítico."
+        },
+        {
+          "letter": "C",
+          "text": "Un punto interior del dominio donde $f'(x) = 0$ o $f'(x)$ no existe.",
+          "is_correct": true,
+          "feedback": "Correcto. Un punto crítico es un punto del dominio donde la derivada vale cero o no está definida."
+        },
+        {
+          "letter": "D",
+          "text": "Un punto del dominio donde la función es continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La continuidad es una propiedad más débil que ser punto crítico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un punto crítico de $f$ es un punto $c$ del dominio tal que $f'(c) = 0$ o $f'(c)$ no existe. Estos puntos son los candidatos a ser máximos o mínimos locales, según el primer o segundo criterio de derivación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v3",
+      "statement": "Si $f'(x) < 0$ para todo $x$ en el intervalo $(a, b)$, ¿qué se puede concluir sobre $f$ en ese intervalo?",
+      "context": "En Cali, se interpreta la relación entre el signo de la derivada y la monotonicidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ es creciente en $(a, b)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento requiere $f'(x) \\geq 0$, no $f'(x) < 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$f$ es decreciente en $(a, b)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la derivada es estrictamente negativa, la función es estrictamente decreciente."
+        },
+        {
+          "letter": "C",
+          "text": "$f$ es constante en $(a, b)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $f$ fuera constante, su derivada sería $0$, no negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$f$ tiene un máximo local en $(a, b)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un máximo local requeriría que la derivada cambiara de signo, no que fuera siempre negativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la derivada es estrictamente negativa en un intervalo, la función es estrictamente decreciente allí: si $x_1 < x_2$, entonces $f(x_1) > f(x_2)$. Este es el principio fundamental del criterio de la primera derivada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v4",
+      "statement": "¿En qué intervalos es creciente la función $f(x) = x^3 - 3x$?",
+      "context": "En Barranquilla, una estudiante analiza $f(x) = x^3 - 3x$ y sus intervalos de crecimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En todo $\\mathbb{R}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función no es monótona creciente en toda la recta, porque tiene un máximo y un mínimo local."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente en $(-1, 1)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $(-1, 1)$ la derivada es negativa, así que allí la función es decreciente."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente en $(-\\infty, -1)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque crece en $(-\\infty, -1)$, también crece en $(1, \\infty)$."
+        },
+        {
+          "letter": "D",
+          "text": "En $(-\\infty, -1)$ y en $(1, \\infty)$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 3x^2 - 3 = 3(x-1)(x+1)$ es positiva fuera del intervalo $[-1, 1]$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con $f'(x) = 3x^2 - 3 = 3(x-1)(x+1)$, la derivada es positiva cuando $x < -1$ o $x > 1$, y negativa cuando $-1 < x < 1$. Por lo tanto, $f$ crece en $(-\\infty, -1) \\cup (1, \\infty)$ y decrece en $(-1, 1)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el máximo local de la función $f(x) = -x^2 + 4x + 1$?",
+      "context": "En Bucaramanga, se calcula el máximo local de la parábola $f(x) = -x^2 + 4x + 1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(2) = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = -2x + 4 = 0$ da $x = 2$; evaluando, $f(2) = -4 + 8 + 1 = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(0) = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x = 0$ no es punto crítico porque $f'(0) = 4 \\neq 0$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(4) = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $x = 4$ no es punto crítico y $f(4) = -16 + 16 + 1 = 1$, no $-1$."
+        },
+        {
+          "letter": "D",
+          "text": "$f(1) = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f'(1) = 2 \\neq 0$, por lo que $x = 1$ no es punto crítico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como la parábola abre hacia abajo (coeficiente principal negativo), su vértice es el máximo local. Derivando, $f'(x) = -2x + 4 = 0$ produce $x = 2$, y $f(2) = -4 + 8 + 1 = 5$. Por tanto, el máximo local es $5$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede afirmar sobre el comportamiento de $f$ en el punto $x = 2$?",
+      "context": "En Pereira, una estudiante conoce que $f'(2) = -1$ para una función derivable $f$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f$ alcanza un máximo local en $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para un máximo local se necesitaría que la derivada cambiara de positiva a negativa, lo cual no se deduce solo de $f'(2) = -1$."
+        },
+        {
+          "letter": "B",
+          "text": "$f$ alcanza un mínimo local en $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para un mínimo local se requeriría que la derivada cambiara de negativa a positiva."
+        },
+        {
+          "letter": "C",
+          "text": "$f$ es decreciente en $x = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $f'(2) = -1 < 0$, la función decrece al pasar por ese punto."
+        },
+        {
+          "letter": "D",
+          "text": "$f$ es constante cerca de $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $f$ fuera constante, su derivada sería $0$ y no $-1$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El signo de la derivada en un punto indica la pendiente de la recta tangente allí. Como $f'(2) = -1 < 0$, la función es decreciente al pasar por $x = 2$; esto no implica nada sobre máximos o mínimos sin información adicional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se puede concluir sobre el comportamiento de $f$ en $x = 2$?",
+      "context": "En Cartagena, una función $f$ cumple $f'(x) > 0$ para $x < 2$ y $f'(x) < 0$ para $x > 2$.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "$f$ tiene un máximo local en $x = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada cambia de positiva (creciente) a negativa (decreciente) en $x = 2$, lo que indica un máximo local."
+        },
+        {
+          "letter": "A",
+          "text": "$f$ tiene un mínimo local en $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para un mínimo local, la derivada cambiaría de negativa a positiva, no de positiva a negativa."
+        },
+        {
+          "letter": "C",
+          "text": "$f$ es constante en $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una función constante tendría derivada cero en un entorno, no derivada positiva y negativa."
+        },
+        {
+          "letter": "D",
+          "text": "$f$ no tiene extremo alguno en $x = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de signo de la derivada indica claramente la presencia de un extremo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El criterio de la primera derivada afirma que si $f'$ cambia de positiva a negativa al pasar por $x = 2$, entonces $f$ tiene un máximo local en $x = 2$. Por el contrario, si cambia de negativa a positiva, hay un mínimo local.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuáles son los puntos críticos de $f(x) = x^4 - 4x^2$?",
+      "context": "En Manizales, una estudiante busca los puntos críticos de $f(x) = x^4 - 4x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0,\\ x = \\sqrt{2},\\ x = -\\sqrt{2}$",
+          "is_correct": true,
+          "feedback": "Correcto. $f'(x) = 4x^3 - 8x = 4x(x^2 - 2) = 0$ da $x = 0, x = \\pm\\sqrt{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 0$ y $x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos no son los ceros de la derivada; $x = 2$ no anula $f'(x)$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$ y $x = -1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f'(1) = -4$ y $f'(-1) = 4$, ninguno anula la derivada."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente $x = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f'(x)$ también se anula en $x = \\pm\\sqrt{2}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los puntos críticos se obtienen igualando la derivada a cero: $f'(x) = 4x^3 - 8x = 4x(x^2 - 2) = 0$. Las soluciones son $x = 0$ y $x = \\pm\\sqrt{2}$. Estos tres puntos son los candidatos a extremos locales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de extremo tiene $f(x) = x^4 - 4x^2$ en $x = 0$?",
+      "context": "En Armenia, se aplica el criterio de la segunda derivada a $f(x) = x^4 - 4x^2$ en $x = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Máximo local, porque $f''(0) > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f''(0) = -8 < 0$, así que la concavidad es hacia abajo en ese punto."
+        },
+        {
+          "letter": "B",
+          "text": "No es un extremo, porque $f'(0) \\neq 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f'(0) = 0$, sí es un punto crítico."
+        },
+        {
+          "letter": "C",
+          "text": "No se puede clasificar con la segunda derivada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda derivada existe y es distinta de cero, así que el criterio es aplicable."
+        },
+        {
+          "letter": "D",
+          "text": "Máximo local, porque $f''(0) < 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. $f''(x) = 12x^2 - 8$, por lo que $f''(0) = -8 < 0$ indica concavidad hacia abajo y un máximo local."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El criterio de la segunda derivada afirma que si $f'(c) = 0$ y $f''(c) < 0$, entonces $f$ tiene un máximo local en $c$. En este caso, $f''(0) = -8 < 0$, así que en $x = 0$ la función tiene un máximo local con $f(0) = 0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v10",
+      "statement": "¿En qué año la población alcanza su valor máximo y cuál es ese valor?",
+      "context": "En Bogotá, la población de una especie en una reserva, en cientos de individuos, se modela como $P(t) = -t^2 + 100t + 1000$, donde $t$ se mide en años desde 2026.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En 2026, con $1100$ cientos de individuos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $t = 0$ no hay extremo: $P'(0) = 100 \\neq 0$."
+        },
+        {
+          "letter": "B",
+          "text": "En 2076, con $3500$ cientos de individuos.",
+          "is_correct": true,
+          "feedback": "Correcto. $P'(t) = -2t + 100 = 0$ da $t = 50$, es decir, 2026 + 50 = 2076, y $P(50) = -2500 + 5000 + 1000 = 3500$."
+        },
+        {
+          "letter": "C",
+          "text": "En 2051, con $2500$ cientos de individuos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituiste mal el valor en la parábola."
+        },
+        {
+          "letter": "D",
+          "text": "En 2076, con $2500$ cientos de individuos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El instante es correcto, pero el valor de $P(50)$ es $3500$, no $2500$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $P$ es una parábola que abre hacia abajo, su vértice da el máximo. Derivando, $P'(t) = -2t + 100 = 0$ produce $t = 50$. Sumando a 2026 se obtiene 2076 y $P(50) = 3500$ cientos de individuos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v11",
+      "statement": "¿Qué se puede concluir sobre $f$ en $x = 3$?",
+      "context": "En Medellín, una función $f$ cumple $f'(x) < 0$ para $x < 3$ y $f'(x) > 0$ para $x > 3$, con $f(3) = 7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay un máximo local con valor $7$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El máximo local requeriría cambio de positiva a negativa, no de negativa a positiva."
+        },
+        {
+          "letter": "B",
+          "text": "No hay extremo en $x = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de signo de la derivada sí indica un extremo."
+        },
+        {
+          "letter": "C",
+          "text": "Hay un mínimo local con valor $7$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada cambia de negativa (decreciente) a positiva (creciente) en $x = 3$, indicando un mínimo local."
+        },
+        {
+          "letter": "D",
+          "text": "Hay un punto de inflexión en $x = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de inflexión requiere cambio de concavidad, no de monotonicidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El criterio de la primera derivada afirma que si $f'$ pasa de negativa a positiva al cruzar $x = 3$, entonces $f$ tiene un mínimo local allí. Por el comportamiento descrito, $f$ decrece antes de $3$ y crece después, así que $f(3) = 7$ es un mínimo local.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuántas velas debe producir la fábrica para minimizar el costo y cuál es ese costo mínimo?",
+      "context": "En Cali, una fábrica de velas tiene una función de costo, en miles de COP, dada por $C(x) = x^2 - 40x + 500$, donde $x$ es la cantidad de velas producidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ velas, con un costo mínimo de $100$ mil COP.",
+          "is_correct": true,
+          "feedback": "Correcto. $C'(x) = 2x - 40 = 0$ da $x = 20$; evaluando, $C(20) = 400 - 800 + 500 = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "$40$ velas, con un costo mínimo de $500$ mil COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $C'(40) = 40 \\neq 0$, así que $x = 40$ no es punto crítico."
+        },
+        {
+          "letter": "C",
+          "text": "$20$ velas, con un costo mínimo de $0$ mil COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituiste mal en la función de costo."
+        },
+        {
+          "letter": "D",
+          "text": "$50$ velas, con un costo mínimo de $200$ mil COP.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni la cantidad ni el valor mínimo son correctos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como $C(x)$ es una parábola que abre hacia arriba, su vértice es el mínimo. Con $C'(x) = 2x - 40 = 0$ se obtiene $x = 20$. El costo mínimo es $C(20) = 400 - 800 + 500 = 100$, es decir, 100 mil COP.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-10-2026-W29-aplicaciones-derivada-optimizacion-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

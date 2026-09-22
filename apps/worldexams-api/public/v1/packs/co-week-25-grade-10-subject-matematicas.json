@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-25-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.246Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la condición para que $f$ sea continua en $x=a$?",
+      "context": "En Bogotá, Juan estudia cuándo una función puede considerarse continua en un punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\lim_{x \\to a} f(x) = f(a)$.",
+          "is_correct": true,
+          "feedback": "Correcto. La continuidad equivale a que el límite coincida con el valor de la función en el punto."
+        },
+        {
+          "letter": "B",
+          "text": "Que $f(a) = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor puntual puede ser cualquier número, no necesariamente $0$."
+        },
+        {
+          "letter": "C",
+          "text": "Que $f$ sea derivable en $a$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivabilidad implica continuidad, pero no es la definición."
+        },
+        {
+          "letter": "D",
+          "text": "Que $f(a)$ exista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la condición sobre el límite."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Continuidad en $a$ requiere que $f(a)$ exista, que $\\lim_{x \\to a} f(x)$ exista y que ambos coincidan; la forma compacta es $\\lim_{x \\to a} f(x) = f(a)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v2",
+      "statement": "¿En dónde es continua la función $f(x) = x^2 - 3x + 2$?",
+      "context": "En Medellín, Valentina revisa una función polinómica de segundo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo para $x > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polinomios no tienen restricciones de signo."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente en los números enteros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polinomios están definidos para todo número real."
+        },
+        {
+          "letter": "C",
+          "text": "En todos los números reales $\\mathbb{R}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Todo polinomio es continuo en $\\mathbb{R}$."
+        },
+        {
+          "letter": "D",
+          "text": "Solo en $x \\in [0, \\infty)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay restricciones de dominio en los polinomios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los polinomios son funciones continuas en todo $\\mathbb{R}$ porque están formados por sumas y productos de la función identidad $f(x)=x$ y constantes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v3",
+      "statement": "¿En qué punto la función $f(x) = \\frac{1}{x-2}$ NO es continua?",
+      "context": "En Cali, Santiago analiza una función racional sencilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=0$, $f(0) = -1/2$ y el límite existe."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 2$.",
+          "is_correct": true,
+          "feedback": "Correcto. En $x=2$ el denominador se anula y $f$ no está definida."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=1$, $f(1) = -1$ sin problema."
+        },
+        {
+          "letter": "D",
+          "text": "$x = -2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x=-2$, $f(-2) = -1/4$ también está definida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las funciones racionales son continuas en todo su dominio; el único punto excluido aquí es donde el denominador vale $0$, es decir $x=2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes funciones es continua en todo $\\mathbb{R}$?",
+      "context": "En Cartagena, Mariana compara varias funciones para identificar la que es continua en todos los reales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = \\frac{1}{x}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta discontinuidad en $x=0$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = \\sqrt{x-5}$ en su dominio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo es continua en $[5, \\infty)$, no en todo $\\mathbb{R}$."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\tan(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tiene discontinuidades donde $\\cos(x) = 0$."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = |x|$.",
+          "is_correct": true,
+          "feedback": "Correcto. El valor absoluto es continuo en todos los reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función valor absoluto $|x|$ es continua en $\\mathbb{R}$ porque es el resultado de componer funciones continuas: $x \\mapsto x^2 \\mapsto \\sqrt{\\cdot}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v5",
+      "statement": "Si $f$ es continua en $[2,6]$ y $f(2)=3$, $f(6)=11$, ¿qué garantiza el teorema?",
+      "context": "En Barranquilla, la profesora aplica el teorema del valor intermedio con $f(x)=x^2$ en $[2,6]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Existe $c \\in [2,6]$ con $f(c) = 7$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $7$ está entre $3$ y $11$, el teorema asegura un $c$ con $f(c)=7$."
+        },
+        {
+          "letter": "B",
+          "text": "Solo existe $c$ si $f$ es lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La linealidad no es un requisito."
+        },
+        {
+          "letter": "C",
+          "text": "No existe tal $c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teorema del valor intermedio sí lo garantiza."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo debe ser abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teorema se aplica a intervalos cerrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El teorema del valor intermedio exige continuidad en un intervalo cerrado $[a,b]$ y un valor intermedio $k$ entre $f(a)$ y $f(b)$; entonces existe $c$ con $f(c)=k$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v6",
+      "statement": "Si $f$ y $g$ son continuas en $x=a$, ¿qué se puede afirmar de $f+g$ en $a$?",
+      "context": "En Bucaramanga, Juan combina dos funciones continuas para deducir propiedades de su suma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que puede no ser continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de continuas siempre es continua."
+        },
+        {
+          "letter": "B",
+          "text": "Que es discontinua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de continuas conserva la continuidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que es continua en $a$.",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de funciones continuas es continua."
+        },
+        {
+          "letter": "D",
+          "text": "Que no se puede saber nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se puede concluir la continuidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las operaciones algebraicas (suma, resta, producto y cociente con denominador no nulo) preservan la continuidad, así que $f+g$ también es continua en $a$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de discontinuidad tiene $f$ en $x=2$?",
+      "context": "En Pereira, Valentina analiza el comportamiento de $f(x) = \\frac{x^2 - 4}{x-2}$ cerca de $x=2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discontinuidad de salto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un salto requeriría que los límites laterales difirieran; aquí coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "Discontinuidad infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite no diverge: existe y vale $4$."
+        },
+        {
+          "letter": "C",
+          "text": "Es continua en $x=2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No está definida en $x=2$."
+        },
+        {
+          "letter": "D",
+          "text": "Discontinuidad evitable (removible).",
+          "is_correct": true,
+          "feedback": "Correcto. El límite existe; basta redefinir $f(2)=4$ para que sea continua."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La discontinuidad evitable se caracteriza porque $\\lim_{x \\to 2} f(x)$ existe, pero $f(2)$ no está definida o difiere de ese valor; basta asignar el límite para hacerla continua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v8",
+      "statement": "La función $f(x) = \\begin{cases} x+1 & \\text{si } x < 2 \\\\ x-1 & \\text{si } x \\ge 2 \\end{cases}$ tiene en $x=2$:",
+      "context": "En Manizales, Santiago estudia una función definida por tramos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discontinuidad evitable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los límites laterales difieren, así que no es evitable."
+        },
+        {
+          "letter": "B",
+          "text": "Discontinuidad de salto.",
+          "is_correct": true,
+          "feedback": "Correcto. Los límites laterales son $3$ y $1$, diferentes entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Es continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de laterales descarta la continuidad."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene límite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los límites laterales sí existen, solo no coinciden."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una discontinuidad de salto aparece cuando los límites laterales existen pero son diferentes; aquí son $3$ (por la izquierda) y $1$ (por la derecha).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes NO es una condición necesaria para que $f$ sea continua en $x=a$?",
+      "context": "En Cúcuta, Mariana revisa cuál NO es condición necesaria para la continuidad en un punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que $f(a) \\ne 0$.",
+          "is_correct": true,
+          "feedback": "Correcto. La continuidad no exige que $f(a)$ sea distinto de $0$."
+        },
+        {
+          "letter": "B",
+          "text": "Que $f(a)$ esté definido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que $f(a)$ exista sí es necesario."
+        },
+        {
+          "letter": "C",
+          "text": "Que $\\lim_{x \\to a} f(x)$ exista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia del límite es parte de la definición."
+        },
+        {
+          "letter": "D",
+          "text": "Que $\\lim_{x \\to a} f(x) = f(a)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta igualdad es la definición misma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La continuidad exige tres condiciones: $f(a)$ definido, existencia del límite, y coincidencia entre ambos. El valor puntual puede ser cualquier número real, incluido $0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v10",
+      "statement": "Sea $f(x) = \\begin{cases} x^2 & \\text{si } x \\ne 2 \\\\ k & \\text{si } x = 2 \\end{cases}$. ¿Qué valor de $k$ hace continua a $f$ en $x=2$?",
+      "context": "En Pasto, Juan debe elegir el valor de $k$ para que una función definida por tramos sea continua en $x=2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\lim_{x \\to 2} x^2 = 4$, no $0$."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $k = 2$ produciría un salto visible."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 4$.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $\\lim_{x \\to 2} x^2 = 4$, se requiere $k = 4$ para que $f(2)$ coincida con el límite."
+        },
+        {
+          "letter": "D",
+          "text": "No existe tal $k$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí existe y es $k=4$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para que la función por tramos sea continua en el punto de empalme, el valor asignado $k$ debe coincidir con el límite de la expresión algebraica cuando $x \\to 2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál descripción corresponde a una discontinuidad evitable (removible)?",
+      "context": "En Ibagué, Valentina clasifica varios tipos de discontinuidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función salta de un valor a otro en el punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un salto, no una discontinuidad evitable."
+        },
+        {
+          "letter": "B",
+          "text": "La función crece sin límite al acercarse al punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una discontinuidad infinita."
+        },
+        {
+          "letter": "C",
+          "text": "Existe un hueco que se podría \"tapar\" redefiniendo el valor en el punto.",
+          "is_correct": true,
+          "feedback": "Correcto. La discontinuidad evitable tiene límite y se resuelve asignando ese límite en el punto."
+        },
+        {
+          "letter": "D",
+          "text": "La función no está definida en un punto y diverge.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a una discontinuidad esencial o infinita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una discontinuidad es evitable cuando el límite existe: reasignando $f(a)$ al valor del límite, la función se vuelve continua en $a$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle-v12",
+      "statement": "El teorema del valor intermedio requiere que:",
+      "context": "En Villavicencio, Santiago repasa los requisitos del teorema del valor intermedio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función sea constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constancia no es un requisito."
+        },
+        {
+          "letter": "B",
+          "text": "La función sea continua en un intervalo cerrado $[a,b]$.",
+          "is_correct": true,
+          "feedback": "Correcto. La hipótesis clave del teorema es la continuidad en un intervalo cerrado."
+        },
+        {
+          "letter": "C",
+          "text": "La función sea lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teorema aplica a funciones continuas, no solo a las lineales."
+        },
+        {
+          "letter": "D",
+          "text": "El intervalo sea abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intervalo debe ser cerrado para garantizar la existencia de los extremos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema del valor intermedio exige continuidad en un intervalo cerrado $[a,b]$; bajo esa hipótesis, todo valor entre $f(a)$ y $f(b)$ se alcanza en algún punto del intervalo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W25-continuidad-funciones-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
