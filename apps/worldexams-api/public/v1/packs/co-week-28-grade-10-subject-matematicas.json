@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T22:41:54.247Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v1",
+      "statement": "Si $h(x) = f(g(x))$, ¿cuál es la expresión correcta de $h'(x)$ según la regla de la cadena?",
+      "context": "En Bogotá, en una clase de cálculo, la profesora introduce la regla de la cadena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f'(x) \\cdot g'(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de la composición no es el producto de las derivadas evaluadas en $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$f'(g(x)) \\cdot g'(x)$",
+          "is_correct": true,
+          "feedback": "Correcto. La regla de la cadena establece que la derivada de la composición es la derivada externa evaluada en la interna, multiplicada por la derivada de la interna."
+        },
+        {
+          "letter": "C",
+          "text": "$f(g'(x))$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por la derivada de la función externa $f'$."
+        },
+        {
+          "letter": "D",
+          "text": "$f'(x) + g'(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La composición no se deriva como una suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla de la cadena establece que si $h(x) = f(g(x))$ y ambas funciones son derivables, entonces $h'(x) = f'(g(x)) \\cdot g'(x)$. Es decir, se multiplica la derivada de la función externa evaluada en la función interna por la derivada de la interna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v2",
+      "statement": "Para $h(x) = (3x+5)^4$, ¿cuál es la identificación correcta de la función interna $g(x)$ y la externa $f(u)$?",
+      "context": "En Medellín, una estudiante analiza la composición $h(x) = (3x+5)^4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$g(x) = 3x+5$ y $f(u) = u^4$",
+          "is_correct": true,
+          "feedback": "Correcto. La interna es el argumento $3x+5$ y la externa eleva a la cuarta potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$g(x) = x^4$ y $f(u) = 3x+5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste las funciones interna y externa."
+        },
+        {
+          "letter": "C",
+          "text": "$g(x) = 3x$ y $f(u) = (x+5)^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La interna debe ser toda la expresión $3x+5$, no solo $3x$."
+        },
+        {
+          "letter": "D",
+          "text": "$g(x) = 4$ y $f(u) = 3x+5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente $4$ pertenece a la función externa, no a la interna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para escribir $h(x) = (3x+5)^4$ como $h(x) = f(g(x))$, se toma $g(x) = 3x+5$ como la función interna y $f(u) = u^4$ como la externa. Identificar correctamente ambas funciones es el primer paso para aplicar la regla de la cadena.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v3",
+      "statement": "¿Para cuál de las siguientes funciones es estrictamente necesaria la regla de la cadena para calcular su derivada?",
+      "context": "En Cali, un profesor explica cuándo es indispensable aplicar la regla de la cadena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = x^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una potencia simple y basta con la regla de la potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 5x + 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un polinomio de grado 1 y se deriva término a término."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = \\sin(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $\\sin(x)$ es $\\cos(x)$ sin composición."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = (x^2+1)^5$",
+          "is_correct": true,
+          "feedback": "Correcto. Es una composición de $u^5$ con $u = x^2+1$, así que se requiere la regla de la cadena."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La regla de la cadena se aplica cuando una función es composición de otras dos o más funciones. En $f(x) = (x^2+1)^5$, la función interna $g(x) = x^2+1$ está compuesta con la externa $u^5$; derivar sin la regla de la cadena perdería la derivada de la interna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la derivada de $h(x) = (2x+1)^5$?",
+      "context": "En Barranquilla, una estudiante debe derivar $h(x) = (2x+1)^5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5(2x+1)^4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por la derivada del argumento $2x+1$, que vale $2$."
+        },
+        {
+          "letter": "B",
+          "text": "$10(2x+1)^5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exponente no cambia al derivar."
+        },
+        {
+          "letter": "C",
+          "text": "$10(2x+1)^4$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla de la cadena: $5(2x+1)^4 \\cdot 2 = 10(2x+1)^4$."
+        },
+        {
+          "letter": "D",
+          "text": "$5(2x+1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al aplicar la regla de la potencia, el exponente se multiplica por $4$ y se resta $1$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con $g(x) = 2x+1$ y $f(u) = u^5$, se tiene $h'(x) = f'(g(x)) \\cdot g'(x) = 5(2x+1)^4 \\cdot 2 = 10(2x+1)^4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la derivada de $f(x) = \\sin(3x^2)$?",
+      "context": "En Bucaramanga, una estudiante calcula la derivada de $f(x) = \\sin(3x^2)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x \\cos(3x^2)$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla de la cadena: $\\cos(3x^2) \\cdot 6x = 6x\\cos(3x^2)$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos(3x^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por la derivada del argumento $3x^2$, que es $6x$."
+        },
+        {
+          "letter": "C",
+          "text": "$3\\cos(3x^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $3x^2$ es $6x$, no $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$-6x \\sin(3x^2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $\\sin(u)$ es $\\cos(u)$, no $-\\sin(u)$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $g(x) = 3x^2$ y $f(u) = \\sin(u)$, se obtiene $f'(x) = \\cos(3x^2) \\cdot (6x) = 6x \\cos(3x^2)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la derivada de $g(x) = e^{5x}$?",
+      "context": "En Pereira, se estudia la derivada de la función exponencial compuesta $g(x) = e^{5x}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$e^{5x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por la derivada del exponente $5x$."
+        },
+        {
+          "letter": "B",
+          "text": "$5e^{5x}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla de la cadena: $e^{5x} \\cdot 5 = 5e^{5x}$."
+        },
+        {
+          "letter": "C",
+          "text": "$e^{5}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de una exponencial con variable en el exponente no es constante."
+        },
+        {
+          "letter": "D",
+          "text": "$5x e^{5x}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada del exponente es $5$, no $5x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para $g(x) = e^{u}$ con $u = 5x$, se tiene $g'(x) = e^{5x} \\cdot 5 = 5e^{5x}$. La regla general es $\\frac{d}{dx}e^{u} = e^{u} \\cdot u'$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v7",
+      "statement": "Si $h(x) = f(g(x))$, ¿cuál es el valor de $h'(2)$?",
+      "context": "En Cartagena, se conocen los valores $f(1) = 3$, $f'(1) = 5$, $g(2) = 1$ y $g'(2) = -2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-10$",
+          "is_correct": true,
+          "feedback": "Correcto. $h'(2) = f'(g(2)) \\cdot g'(2) = f'(1) \\cdot (-2) = 5 \\cdot (-2) = -10$."
+        },
+        {
+          "letter": "B",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tuviste en cuenta que $g'(2) = -2$, no $+2$."
+        },
+        {
+          "letter": "C",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de $f(1)$, no de $h'(2)$."
+        },
+        {
+          "letter": "D",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el factor $g'(2)$, falta multiplicar por $f'(g(2))$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la cadena, $h'(x) = f'(g(x)) \\cdot g'(x)$. Evaluando en $x = 2$: $h'(2) = f'(g(2)) \\cdot g'(2) = f'(1) \\cdot (-2) = 5 \\cdot (-2) = -10$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la derivada de $f(x) = \\ln(2x^3+1)$?",
+      "context": "En Santa Marta, una estudiante debe derivar $f(x) = \\ln(2x^3+1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{1}{2x^3+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por la derivada del argumento $2x^3+1$, que vale $6x^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{1}{3x^2+2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese denominador no corresponde al argumento de la función."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{2x^3}{2x^3+1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la derivada del argumento dividida por el argumento, pero te faltó el factor $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{6x^2}{2x^3+1}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla de la cadena: $\\frac{1}{2x^3+1} \\cdot 6x^2 = \\frac{6x^2}{2x^3+1}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para $f(x) = \\ln(u)$ con $u = 2x^3+1$, se cumple $f'(x) = \\frac{1}{u} \\cdot u' = \\frac{6x^2}{2x^3+1}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la derivada de $f(x) = x^2 (x+1)^3$?",
+      "context": "En Manizales, se calcula la derivada del producto $f(x) = x^2 (x+1)^3$ usando regla del producto y de la cadena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x (x+1)^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aplicaste la derivada al primer factor y olvidaste el segundo."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^2 (x+1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo derivaste el segundo factor; falta el primer sumando de la regla del producto."
+        },
+        {
+          "letter": "C",
+          "text": "$2x (x+1)^3 + 3x^2 (x+1)^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla del producto y de la cadena: $f'(x) = 2x(x+1)^3 + x^2 \\cdot 3(x+1)^2 = 2x(x+1)^3 + 3x^2(x+1)^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$5x^2 (x+1)^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los coeficientes en lugar de mantener los dos sumandos de la regla del producto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicando la regla del producto a $u(x) = x^2$ y $v(x) = (x+1)^3$, se obtiene $f'(x) = u'v + uv'$. Como $v'(x) = 3(x+1)^2 \\cdot 1$, el resultado es $2x(x+1)^3 + 3x^2(x+1)^2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la derivada de $f(x) = \\sin(\\cos(2x))$?",
+      "context": "En Armenia, se calcula la derivada de la composición $f(x) = \\sin(\\cos(2x))$, que aplica la regla de la cadena dos veces seguidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\cos(\\cos(2x))$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aplicaste la derivada del seno externo, sin la derivada del argumento $\\cos(2x)$."
+        },
+        {
+          "letter": "B",
+          "text": "$-2\\sin(2x) \\cos(\\cos(2x))$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $\\cos(2x)$ es $-2\\sin(2x)$, y por la regla de la cadena se multiplica por $\\cos(\\cos(2x))$."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\cos(2x) \\sin(\\cos(2x))$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $\\cos(2x)$ es $-2\\sin(2x)$, con signo negativo."
+        },
+        {
+          "letter": "D",
+          "text": "$-\\sin(2x) \\cos(\\cos(2x))$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te faltó el factor $2$ que viene de derivar $2x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sea $u = \\cos(2x)$ y $f(x) = \\sin(u)$. Entonces $f'(x) = \\cos(u) \\cdot u'$. Como $u' = -2\\sin(2x)$, se obtiene $f'(x) = -2\\sin(2x) \\cos(\\cos(2x))$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la velocidad del auto cuando $t = 1$ segundo?",
+      "context": "En Bogotá, la posición en metros de un auto en $t$ segundos está dada por $p(t) = (t^2+1)^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24$ m/s",
+          "is_correct": true,
+          "feedback": "Correcto. $p'(t) = 3(t^2+1)^2 \\cdot 2t = 6t(t^2+1)^2$; en $t=1$: $6 \\cdot 1 \\cdot 4 = 24$ m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$16$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente sustituyiste mal el valor de $t$ en la derivada."
+        },
+        {
+          "letter": "C",
+          "text": "$4$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es $(t^2+1)^2$ en $t=1$, falta multiplicar por $6t$."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ m/s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $6t$ pero olvidaste elevar al cuadrado el argumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La velocidad instantánea es $v(t) = p'(t)$. Por regla de la cadena, $p'(t) = 3(t^2+1)^2 \\cdot 2t = 6t(t^2+1)^2$. Evaluando en $t = 1$: $v(1) = 6 \\cdot 1 \\cdot (1+1)^2 = 6 \\cdot 4 = 24$ m/s.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la derivada de $f(x) = \\dfrac{x^2}{(2x+1)^3}$?",
+      "context": "En Medellín, una estudiante calcula la derivada de $f(x) = \\dfrac{x^2}{(2x+1)^3}$ usando regla del cociente y de la cadena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\dfrac{2x}{(2x+1)^3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste la derivada del numerador y olvidaste el denominador."
+        },
+        {
+          "letter": "B",
+          "text": "$\\dfrac{2x(2x+1)^3 - x^2 \\cdot 6(2x+1)^2}{(2x+1)^6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla del cociente no requiere multiplicar los factores en una sola fracción de sexto grado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\dfrac{2x(2x+1) - 6x^2}{(2x+1)^4}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por regla del cociente y de la cadena: $f'(x) = \\frac{2x(2x+1)^3 - x^2 \\cdot 3(2x+1)^2 \\cdot 2}{(2x+1)^6} = \\frac{2x(2x+1) - 6x^2}{(2x+1)^4}$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\dfrac{2x}{(2x+1)^4}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste correctamente la regla del cociente al numerador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Con $u = x^2$ y $v = (2x+1)^3$, la regla del cociente da $f'(x) = \\frac{u'v - uv'}{v^2}$. Como $u' = 2x$ y $v' = 3(2x+1)^2 \\cdot 2 = 6(2x+1)^2$, simplificando $(2x+1)^2$ en numerador y denominador se obtiene $\\frac{2x(2x+1) - 6x^2}{(2x+1)^4}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.58,
+      "bundle_id": "CO-MAT-10-2026-W28-derivadas-funciones-compuestas-regla-cadena-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
