@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T17:25:34.780Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la ecuación canónica de una circunferencia con centro en $(h, k)$ y radio $r$?",
+      "context": "En Bogotá, en clase de geometría analítica se escribe la ecuación canónica de una circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - h)^2 + (y - k)^2 = r^2$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma canónica: distancia constante $r$ al centro."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + h)^2 + (y + k)^2 = r^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos de los términos deben ser negativos."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - h)^2 + (y - k)^2 = r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio aparece elevado al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + y^2 = r$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo es válida para centro en el origen y con $r^2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación canónica es $(x - h)^2 + (y - k)^2 = r^2$, que expresa que la distancia de cualquier punto al centro es $r$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el centro y el radio de la circunferencia?",
+      "context": "En Medellín, se interpreta la ecuación $(x - 3)^2 + (y + 2)^2 = 16$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centro $(3, -2)$ y radio $4$.",
+          "is_correct": true,
+          "feedback": "Correcto. El centro es $(3, -2)$ porque $(y - (-2))^2$, y $r^2 = 16$, luego $r = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "Centro $(-3, 2)$ y radio $4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del centro está invertido."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(3, -2)$ y radio $16$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $16$ es $r^2$, el radio es $\\sqrt{16} = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "Centro $(-3, -2)$ y radio $4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La abscisa del centro es $3$, no $-3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De $(x - 3)^2 + (y + 2)^2 = 16$, el centro es $(3, -2)$ y $r^2 = 16$, por lo que $r = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es su ecuación?",
+      "context": "En Cali, se trabaja con una circunferencia con centro en el origen y radio $5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + y^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. Con centro en el origen, $(x)^2 + (y)^2 = r^2 = 25$."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + y^2 = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio va elevado al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - y^2 = 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos términos se suman."
+        },
+        {
+          "letter": "D",
+          "text": "$x + y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una recta, no una circunferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con centro en $(0, 0)$ y radio $5$: $x^2 + y^2 = 5^2 = 25$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es su ecuación canónica?",
+      "context": "En Barranquilla, se escribe la ecuación de la circunferencia con centro en $(4, -1)$ y radio $3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 4)^2 + (y + 1)^2 = 9$",
+          "is_correct": true,
+          "feedback": "Correcto. Centro $(4, -1)$ y $r^2 = 9$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 4)^2 + (y - 1)^2 = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del centro está invertido."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 4)^2 + (y + 1)^2 = 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio debe estar al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 4)^2 + (y - 1)^2 = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ordenada del centro es $-1$, no $1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo en $(x - h)^2 + (y - k)^2 = r^2$: $(x - 4)^2 + (y + 1)^2 = 9$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v5",
+      "statement": "¿Cuáles son el centro y el radio?",
+      "context": "En Bucaramanga, se identifica el centro y el radio de la circunferencia $x^2 + y^2 = 36$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centro $(0, 0)$ y radio $6$.",
+          "is_correct": true,
+          "feedback": "Correcto. $r^2 = 36$, luego $r = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "Centro $(0, 0)$ y radio $36$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $36$ es $r^2$, el radio es $6$."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(6, 0)$ y radio $6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay término lineal, el centro está en el origen."
+        },
+        {
+          "letter": "D",
+          "text": "Centro $(0, 6)$ y radio $6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro está en el origen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Como no hay términos lineales, el centro es $(0, 0)$ y $r^2 = 36$, por lo que $r = 6$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se concluye?",
+      "context": "En Pereira, se determina si el punto $P(4, 3)$ pertenece a la circunferencia $x^2 + y^2 = 25$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí pertenece, pues $4^2 + 3^2 = 25$.",
+          "is_correct": true,
+          "feedback": "Correcto. $16 + 9 = 25$, el punto satisface la ecuación."
+        },
+        {
+          "letter": "B",
+          "text": "No pertenece.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto satisface la ecuación de la circunferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Está dentro de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar dentro implicaría $x^2 + y^2 < 25$."
+        },
+        {
+          "letter": "D",
+          "text": "Está fuera de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar fuera implicaría $x^2 + y^2 > 25$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluando: $4^2 + 3^2 = 16 + 9 = 25$. Como la igualdad se cumple, el punto está sobre la circunferencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son el centro y el radio de la circunferencia?",
+      "context": "En Manizales, se convierte la ecuación $x^2 + y^2 - 6x + 4y - 12 = 0$ a la forma canónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centro $(3, -2)$ y radio $5$.",
+          "is_correct": true,
+          "feedback": "Correcto. Completando cuadrados: $(x-3)^2 + (y+2)^2 = 25$."
+        },
+        {
+          "letter": "B",
+          "text": "Centro $(-3, 2)$ y radio $5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos del centro están invertidos."
+        },
+        {
+          "letter": "C",
+          "text": "Centro $(3, -2)$ y radio $\\sqrt{12}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término independiente se ajusta al completar cuadrados."
+        },
+        {
+          "letter": "D",
+          "text": "Centro $(6, -4)$ y radio $5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste los coeficientes lineales con el centro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completando cuadrados: $(x^2 - 6x + 9) + (y^2 + 4y + 4) = 12 + 9 + 4 = 25$, es decir $(x - 3)^2 + (y + 2)^2 = 25$. Centro $(3, -2)$ y radio $5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la ecuación de la circunferencia?",
+      "context": "En Cartagena, se halla la ecuación de la circunferencia cuyo diámetro tiene extremos $A(1, 2)$ y $B(5, 8)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 3)^2 + (y - 5)^2 = 13$",
+          "is_correct": true,
+          "feedback": "Correcto. Centro $(3, 5)$, radio $\\frac{\\sqrt{(5-1)^2 + (8-2)^2}}{2} = \\frac{\\sqrt{52}}{2} = \\sqrt{13}$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)^2 + (y - 5)^2 = 52$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $52$ es el cuadrado del diámetro, no del radio."
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 1)^2 + (y - 2)^2 = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los extremos, no el centro."
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 3)^2 + (y + 5)^2 = 13$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos del centro están invertidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El centro es el punto medio $M = (3, 5)$. El diámetro es $\\sqrt{52}$, así que $r = \\sqrt{13}$ y $r^2 = 13$. Ecuación: $(x - 3)^2 + (y - 5)^2 = 13$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la ecuación de la circunferencia?",
+      "context": "En Cúcuta, una circunferencia con centro en $(2, -1)$ pasa por el punto $(5, 3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x - 2)^2 + (y + 1)^2 = 25$",
+          "is_correct": true,
+          "feedback": "Correcto. $r^2 = (5-2)^2 + (3+1)^2 = 9 + 16 = 25$."
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 2)^2 + (y + 1)^2 = 7$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $7$ es la suma de diferencias sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 2)^2 + (y - 1)^2 = 25$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos del centro están invertidos."
+        },
+        {
+          "letter": "D",
+          "text": "$(x - 2)^2 + (y + 1)^2 = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó sumar el cuadrado de la otra diferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El radio es la distancia del centro al punto: $r^2 = (5-2)^2 + (3-(-1))^2 = 9 + 16 = 25$. Ecuación: $(x - 2)^2 + (y + 1)^2 = 25$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el radio de la circunferencia?",
+      "context": "En Pasto, se convierte la ecuación $x^2 + y^2 + 8x - 10y + 5 = 0$ a la forma canónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x+4)^2 + (y-5)^2 = 16 + 25 - 5 = 36$, luego $r = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "$36$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $36$ es $r^2$, el radio es $\\sqrt{36} = 6$."
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $4$ corresponde al término de completar cuadrados en $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $5$ es el término independiente original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completando cuadrados: $(x^2 + 8x + 16) + (y^2 - 10y + 25) = -5 + 16 + 25 = 36$, es decir $(x+4)^2 + (y-5)^2 = 36$. El radio es $6$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la distancia del centro de la circunferencia al punto $P(0, 0)$?",
+      "context": "En Ibagué, se analiza la circunferencia $x^2 + y^2 - 6x + 2y - 6 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{10}$",
+          "is_correct": true,
+          "feedback": "Correcto. Centro $(3, -1)$; distancia al origen: $\\sqrt{3^2 + (-1)^2} = \\sqrt{10}$."
+        },
+        {
+          "letter": "B",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la distancia con otra magnitud."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{8}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste mal la distancia al centro."
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el cuadrado de la distancia, no la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Completando cuadrados: $(x-3)^2 + (y+1)^2 = 16$, centro $(3, -1)$. La distancia al origen es $\\sqrt{(3-0)^2 + (-1-0)^2} = \\sqrt{10}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle-v12",
+      "statement": "¿Dónde se ubica el punto $Q$ respecto a la circunferencia?",
+      "context": "En Villavicencio, una circunferencia con centro en $(2, 3)$ pasa por el punto $(5, 7)$. Se quiere saber si el punto $Q(6, 3)$ está sobre, dentro o fuera de la circunferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está dentro de la circunferencia.",
+          "is_correct": true,
+          "feedback": "Correcto. $r^2 = 25$; la distancia de $Q$ al centro al cuadrado es $16 < 25$."
+        },
+        {
+          "letter": "B",
+          "text": "Está sobre la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia al cuadrado es $16$, no $25$."
+        },
+        {
+          "letter": "C",
+          "text": "Está fuera de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar fuera implicaría distancia al cuadrado mayor que $25$."
+        },
+        {
+          "letter": "D",
+          "text": "Es el centro de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centro es $(2, 3)$, no $(6, 3)$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$r^2 = (5-2)^2 + (7-3)^2 = 9 + 16 = 25$. La distancia de $Q(6, 3)$ al centro al cuadrado es $(6-2)^2 + (3-3)^2 = 16$. Como $16 < 25$, el punto está dentro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W09-circunferencia-ecuacion-canonica-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

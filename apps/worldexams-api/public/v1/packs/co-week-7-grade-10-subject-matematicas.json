@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T17:25:34.780Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula de la pendiente de la recta que pasa por $(x_1, y_1)$ y $(x_2, y_2)$?",
+      "context": "En Bogotá, en clase de geometría analítica se define la pendiente de una recta que pasa por dos puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente es el cociente entre el cambio vertical y el cambio horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el orden de las diferencias."
+        },
+        {
+          "letter": "C",
+          "text": "$m = (y_2 - y_1)(x_2 - x_1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es un cociente, no un producto."
+        },
+        {
+          "letter": "D",
+          "text": "$m = \\frac{y_2 + y_1}{x_2 + x_1}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restan las coordenadas, no se suman."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente $m = \\frac{y_2 - y_1}{x_2 - x_1}$ mide la inclinación de la recta como la razón entre el cambio en $y$ y el cambio en $x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la pendiente de una recta horizontal?",
+      "context": "En Medellín, se analiza la pendiente de una recta horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$",
+          "is_correct": true,
+          "feedback": "Correcto. No hay cambio vertical, por lo que el numerador es cero."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pendiente $1$ corresponde a una recta a $45^\\circ$."
+        },
+        {
+          "letter": "C",
+          "text": "Indefinida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente indefinida corresponde a una recta vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Negativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente negativa indica que la recta desciende."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una recta horizontal, $y_2 = y_1$, así que $m = \\frac{0}{x_2 - x_1} = 0$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la pendiente de una recta vertical?",
+      "context": "En Cali, se estudia la pendiente de una recta vertical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indefinida",
+          "is_correct": true,
+          "feedback": "Correcto. No hay cambio horizontal, por lo que el denominador es cero."
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $0$ es la pendiente de una recta horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a una recta vertical."
+        },
+        {
+          "letter": "D",
+          "text": "Infinita pero positiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente no se define como un número para la vertical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una recta vertical, $x_2 = x_1$, por lo que el denominador es cero y la pendiente es indefinida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la pendiente de la recta que pasa por esos puntos?",
+      "context": "En Barranquilla, se calcula la pendiente de la recta que pasa por $P(1, 2)$ y $Q(4, 8)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. $m = \\frac{8 - 2}{4 - 1} = \\frac{6}{3} = 2$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción de las diferencias."
+        },
+        {
+          "letter": "C",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste las coordenadas en vez de las diferencias."
+        },
+        {
+          "letter": "D",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cambio vertical sin dividir entre el horizontal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{8 - 2}{4 - 1} = \\frac{6}{3} = 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v5",
+      "statement": "Usando la forma punto-pendiente, ¿cuál es la ecuación de la recta?",
+      "context": "En Bucaramanga, se escribe la ecuación de la recta con pendiente $m = 3$ que pasa por el punto $(2, 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y - 5 = 3(x - 2)$",
+          "is_correct": true,
+          "feedback": "Correcto. La forma punto-pendiente es $y - y_1 = m(x - x_1)$."
+        },
+        {
+          "letter": "B",
+          "text": "$y + 5 = 3(x + 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos del punto deben restarse."
+        },
+        {
+          "letter": "C",
+          "text": "$y - 5 = 3(x + 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se resta la abscisa del punto."
+        },
+        {
+          "letter": "D",
+          "text": "$y = 3x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto $(2, 5)$ no pertenece a esa recta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sustituyendo en $y - y_1 = m(x - x_1)$: $y - 5 = 3(x - 2)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la ecuación de la recta en forma pendiente-intercepto?",
+      "context": "En Pereira, se halla la ecuación de la recta que pasa por los puntos $(0, -1)$ y $(3, 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 2x - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $m = \\frac{5 - (-1)}{3 - 0} = 2$ y el intercepto es $-1$."
+        },
+        {
+          "letter": "B",
+          "text": "$y = 2x + 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercepto con el eje $y$ es $-1$, no $1$."
+        },
+        {
+          "letter": "C",
+          "text": "$y = 3x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es $2$, no $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$y = \\frac{1}{2}x - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente calculada es $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente es $m = \\frac{5 - (-1)}{3 - 0} = 2$. Como pasa por $(0, -1)$, el intercepto es $b = -1$: $y = 2x - 1$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v7",
+      "statement": "¿Cuáles son los interceptos con los ejes de la recta?",
+      "context": "En Manizales, se analiza la recta $3x - 2y = 6$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intercepto en $x = 2$ e intercepto en $y = -3$.",
+          "is_correct": true,
+          "feedback": "Correcto. Con $y = 0$: $3x = 6$, $x = 2$. Con $x = 0$: $-2y = 6$, $y = -3$."
+        },
+        {
+          "letter": "B",
+          "text": "Intercepto en $x = 3$ e intercepto en $y = 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los valores al despejar."
+        },
+        {
+          "letter": "C",
+          "text": "Intercepto en $x = -2$ e intercepto en $y = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos están invertidos."
+        },
+        {
+          "letter": "D",
+          "text": "Intercepto en $x = 6$ e intercepto en $y = 6$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste entre los coeficientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con $y = 0$, $3x = 6$, luego $x = 2$. Con $x = 0$, $-2y = 6$, luego $y = -3$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la pendiente de la recta?",
+      "context": "En Cartagena, se estudia la recta $-4x + 2y = 8$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$",
+          "is_correct": true,
+          "feedback": "Correcto. Despejando: $2y = 4x + 8$, luego $y = 2x + 4$; la pendiente es $2$."
+        },
+        {
+          "letter": "B",
+          "text": "$-2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al despejar, el signo del coeficiente de $x$ cambia."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el intercepto, no la pendiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando $y$: $2y = 4x + 8$, es decir $y = 2x + 4$. La pendiente es $m = 2$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la conclusión correcta?",
+      "context": "En Cúcuta, se verifica si los puntos $A(1, 1)$, $B(3, 5)$ y $C(5, 9)$ son colineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí son colineales, pues la pendiente entre $A$ y $B$ es igual a la de $B$ y $C$.",
+          "is_correct": true,
+          "feedback": "Correcto. $m_{AB} = \\frac{5-1}{3-1} = 2$ y $m_{BC} = \\frac{9-5}{5-3} = 2$; pendientes iguales."
+        },
+        {
+          "letter": "B",
+          "text": "No son colineales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pendientes calculadas son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Forman un triángulo rectángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres puntos están sobre una misma recta."
+        },
+        {
+          "letter": "D",
+          "text": "Forman un triángulo isósceles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No forman triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$m_{AB} = \\frac{5-1}{3-1} = 2$ y $m_{BC} = \\frac{9-5}{5-3} = 2$. Al tener la misma pendiente, los tres puntos son colineales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la ecuación de la recta en forma general $Ax + By + C = 0$?",
+      "context": "En Pasto, se busca la ecuación de la recta que pasa por $(1, 2)$ y $(4, 11)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x - y - 1 = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. $m = \\frac{11-2}{4-1} = 3$; con punto-pendiente: $y - 2 = 3(x - 1)$, es decir $3x - y - 1 = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$3x + y - 1 = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo del término en $y$ es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$x - 3y - 1 = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es $3$, no $\\frac{1}{3}$."
+        },
+        {
+          "letter": "D",
+          "text": "$3x - y + 1 = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El término independiente es $-1$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$m = 3$. De $y - 2 = 3(x - 1)$ se obtiene $y = 3x - 1$, y llevando a forma general: $3x - y - 1 = 0$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el ángulo de inclinación de la recta respecto al eje $x$ positivo?",
+      "context": "En Ibagué, se calcula el ángulo de inclinación de una recta con pendiente $m = \\sqrt{3}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$60^\\circ$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan \\theta = \\sqrt{3}$, por lo que $\\theta = 60^\\circ$."
+        },
+        {
+          "letter": "B",
+          "text": "$30^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\tan 30^\\circ = \\frac{\\sqrt{3}}{3}$, no $\\sqrt{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "$45^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\tan 45^\\circ = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$90^\\circ$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese ángulo corresponde a una recta vertical con pendiente indefinida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ángulo de inclinación cumple $\\tan \\theta = m$. Como $\\tan 60^\\circ = \\sqrt{3}$, entonces $\\theta = 60^\\circ$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle-v12",
+      "statement": "Modelando con una recta, ¿cuántos litros habrá a los $10$ minutos?",
+      "context": "En Villavicencio, un tanque de agua se llena a ritmo constante. A los $2$ minutos hay $20$ litros y a los $6$ minutos hay $60$ litros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100$ litros",
+          "is_correct": true,
+          "feedback": "Correcto. La recta es $V = 10t$ (pendiente $\\frac{60-20}{6-2} = 10$); a $t = 10$, $V = 100$."
+        },
+        {
+          "letter": "B",
+          "text": "$80$ litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste el ritmo de llenado."
+        },
+        {
+          "letter": "C",
+          "text": "$90$ litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es $10$ litros por minuto, no $9$."
+        },
+        {
+          "letter": "D",
+          "text": "$120$ litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobrestimaste el ritmo de llenado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pendiente es $\\frac{60 - 20}{6 - 2} = 10$ L/min. La recta pasa por $(2, 20)$: $V - 20 = 10(t - 2)$, es decir $V = 10t$. A los $10$ minutos, $V = 100$ litros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W07-pendiente-ecuacion-recta-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
