@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T01:49:11.697Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa que el par $(3, 2)$ sea solución del sistema?",
+      "context": "En Bogotá, se estudia el sistema $\\begin{cases} x + y = 5 \\\\ 2x - y = 4 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el par satisface únicamente la primera ecuación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El par $(3, 2)$ también cumple la segunda ecuación, pues $2(3) - 2 = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "Que el par satisface las dos ecuaciones al mismo tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. Se cumple $3 + 2 = 5$ y también $2(3) - 2 = 4$."
+        },
+        {
+          "letter": "C",
+          "text": "Que los valores de $x$ e $y$ deben ser siempre iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este caso $x = 3$ e $y = 2$ son valores distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la suma de $x$ más $y$ siempre vale $5$ para cualquier par.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso solo describe la primera ecuación, no todo el sistema."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un par ordenado es solución de un sistema $2\\times 2$ cuando al reemplazarlo verifica cada ecuación: $3 + 2 = 5$ y $2(3) - 2 = 6 - 2 = 4$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo está formado un sistema de ecuaciones $2\\times 2$?",
+      "context": "En Medellín, la profesora pide al curso describir los elementos de un sistema de ecuaciones $2\\times 2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por una sola ecuación con dos incógnitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sistema requiere dos ecuaciones relacionadas entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Por dos ecuaciones que usan una sola incógnita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada ecuación del sistema utiliza dos incógnitas, normalmente $x$ e $y$."
+        },
+        {
+          "letter": "C",
+          "text": "Por tres ecuaciones con dos incógnitas cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sistema $2\\times 2$ usa exactamente dos ecuaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Por dos ecuaciones con dos incógnitas cada una.",
+          "is_correct": true,
+          "feedback": "Correcto. El símbolo $2\\times 2$ indica dos ecuaciones y dos incógnitas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La notación $2\\times 2$ resume la estructura: el primer $2$ cuenta las ecuaciones y el segundo $2$ cuenta las incógnitas compartidas por ambas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la solución $(x, y)$ del sistema?",
+      "context": "En Cali, se resuelve por reducción el sistema $\\begin{cases} x + y = 12 \\\\ x - y = 4 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(8, 4)$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando ambas ecuaciones: $2x = 16 \\implies x = 8$. Luego $8 + y = 12 \\implies y = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$(4, 8)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los valores: $4 - 8 = -4 \\neq 4$."
+        },
+        {
+          "letter": "C",
+          "text": "$(7, 5)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $7 + 5 = 12$, se tiene $7 - 5 = 2 \\neq 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$(10, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque $10 + 2 = 12$, se tiene $10 - 2 = 8 \\neq 4$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al sumar miembro a miembro se elimina $y$: $2x = 16 \\implies x = 8$. Reemplazando en la primera ecuación: $y = 12 - 8 = 4$. La solución es $(8, 4)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor de $x$ e $y$?",
+      "context": "En Barranquilla, se resuelve por sustitución el sistema $\\begin{cases} y = 2x + 1 \\\\ 3x + y = 16 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2, y = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esos valores $3(2) + 5 = 11 \\neq 16$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4, y = 9$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esos valores $3(4) + 9 = 21 \\neq 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3, y = 7$",
+          "is_correct": true,
+          "feedback": "Correcto. Reemplazando $y$: $3(3) + 7 = 9 + 7 = 16$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5, y = 11$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esos valores $3(5) + 11 = 26 \\neq 16$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sustituyendo $y = 2x + 1$ en la segunda ecuación: $3x + 2x + 1 = 16 \\implies 5x = 15 \\implies x = 3$. Entonces $y = 2(3) + 1 = 7$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la solución $(x, y)$ del sistema?",
+      "context": "En Bucaramanga, se resuelve por eliminación el sistema $\\begin{cases} 3x + 2y = 18 \\\\ 5x - 2y = 14 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3, y = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esos valores $3(3) + 2(4) = 17 \\neq 18$."
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4, y = 3$",
+          "is_correct": true,
+          "feedback": "Correcto. Sumando: $8x = 32 \\implies x = 4$. Luego $12 + 2y = 18 \\implies y = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 5, y = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esos valores $3(5) + 2(1) = 17 \\neq 18$."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 6, y = 0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con esos valores $5(6) - 2(0) = 30 \\neq 14$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los términos en $y$ son opuestos y se cancelan al sumar: $8x = 32 \\implies x = 4$. Reemplazando: $3(4) + 2y = 18 \\implies 2y = 6 \\implies y = 3$. Además $5(4) - 2(3) = 14$ confirma el resultado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el precio de un cuaderno?",
+      "context": "En Pereira, doña Luz vende útiles escolares: dos cuadernos y un lápiz cuestan $\\$9.000$, mientras que un cuaderno más un lápiz cuestan $\\$5.500$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$2.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el precio del lápiz, no del cuaderno."
+        },
+        {
+          "letter": "B",
+          "text": "$\\$4.500$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la mitad de $\\$9.000$, pero ignora el precio del lápiz."
+        },
+        {
+          "letter": "C",
+          "text": "$\\$5.500$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el precio combinado de un cuaderno más un lápiz."
+        },
+        {
+          "letter": "D",
+          "text": "$\\$3.500$",
+          "is_correct": true,
+          "feedback": "Correcto. Restando ambas compras: $(2c + l) - (c + l) = 9.000 - 5.500 \\implies c = 3.500$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Si $c$ es el precio del cuaderno y $l$ el del lápiz: $2c + l = 9.000$ y $c + l = 5.500$. Restando la segunda de la primera se obtiene $c = 3.500$. El lápiz cuesta $\\$2.000$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v7",
+      "statement": "¿Con cuántos minutos consumidos ambos planes cuestan exactamente lo mismo?",
+      "context": "En Manizales, dos planes de telefonía cobran $y = 25.000 + 400x$ y $y = 10.000 + 700x$, donde $x$ es el número de minutos consumidos y $y$ el costo en pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$50$ minutos",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando: $25.000 + 400x = 10.000 + 700x \\implies 15.000 = 300x \\implies x = 50$."
+        },
+        {
+          "letter": "B",
+          "text": "$40$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $40$ minutos el primer plan cuesta $\\$41.000$ y el segundo $\\$38.000$."
+        },
+        {
+          "letter": "C",
+          "text": "$60$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $60$ minutos el primer plan cuesta $\\$49.000$ y el segundo $\\$52.000$."
+        },
+        {
+          "letter": "D",
+          "text": "$30$ minutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $30$ minutos el primer plan cuesta $\\$37.000$ y el segundo $\\$31.000$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto de equilibrio es la solución del sistema formado por ambas tarifas: $25.000 + 400x = 10.000 + 700x \\implies 300x = 15.000 \\implies x = 50$ minutos, con un costo común de $\\$45.000$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas soluciones tiene el sistema y por qué?",
+      "context": "En Pasto, se analiza el sistema $\\begin{cases} 2x + 4y = 12 \\\\ x + 2y = 6 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una solución, porque las pendientes de ambas rectas son distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas rectas tienen pendiente $-\\frac{1}{2}$, así que no se cortan en un solo punto."
+        },
+        {
+          "letter": "B",
+          "text": "Cero soluciones, porque las rectas son paralelas y distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rectas no son distintas: la segunda ecuación es la mitad de la primera."
+        },
+        {
+          "letter": "C",
+          "text": "Infinitas soluciones, porque ambas ecuaciones representan la misma recta.",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo la primera ecuación entre $2$ se obtiene exactamente la segunda."
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones, porque el sistema es de tamaño $2\\times 2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos rectas en el plano jamás se intersectan en exactamente dos puntos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al simplificar $2x + 4y = 12$ dividiendo entre $2$ se llega a $x + 2y = 6$. Las dos ecuaciones describen la misma recta, de modo que todo punto de ella es solución: hay infinitas soluciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v9",
+      "statement": "¿Cuántas soluciones tiene el sistema?",
+      "context": "En Cúcuta, se analiza el sistema $\\begin{cases} 3x + y = 5 \\\\ 6x + 2y = 16 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una solución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas rectas tienen pendiente $-3$, así que no se cortan en un punto."
+        },
+        {
+          "letter": "B",
+          "text": "Cero soluciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Dividiendo la segunda ecuación entre $2$ queda $3x + y = 8$, que contradice $3x + y = 5$."
+        },
+        {
+          "letter": "C",
+          "text": "Infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los términos independientes difieren ($5 \\neq 8$), luego no son la misma recta."
+        },
+        {
+          "letter": "D",
+          "text": "Tres soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos rectas en el plano jamás se cortan en tres puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las dos ecuaciones tienen la misma pendiente pero distinto intercepto: son rectas paralelas no coincidentes. El sistema es inconsistente y no posee solución.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la edad del hermano mayor?",
+      "context": "En Sincelejo, la suma de las edades de dos hermanos es $40$ años y el hermano mayor supera al menor por $8$ años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la edad del hermano menor ($40 - 24 = 16$)."
+        },
+        {
+          "letter": "B",
+          "text": "$20$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $20$ años la diferencia con el menor sería $0$, no $8$."
+        },
+        {
+          "letter": "C",
+          "text": "$32$ años",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el mayor tuviera $32$, la suma con el menor ($24$) sería $56$."
+        },
+        {
+          "letter": "D",
+          "text": "$24$ años",
+          "is_correct": true,
+          "feedback": "Correcto. Con $M + m = 40$ y $M - m = 8$, sumando queda $2M = 48 \\implies M = 24$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Planteando $M + m = 40$ y $M - m = 8$ y sumando ambas ecuaciones: $2M = 48 \\implies M = 24$ años. El menor tiene $16$ años y la diferencia es $8$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál debe ser el valor exacto de $k$?",
+      "context": "En Cartagena, se busca el valor de $k$ para que el sistema $\\begin{cases} 2x + 5y = 10 \\\\ 6x + ky = 30 \\end{cases}$ tenga infinitas soluciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = 15$",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda ecuación debe ser el triple de la primera: $3 \\times 5 = 15$ y $3 \\times 10 = 30$."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 5$ las pendientes difieren ($-\\frac{2}{5}$ frente a $-\\frac{6}{5}$) y habría una sola solución."
+        },
+        {
+          "letter": "C",
+          "text": "$k = 10$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $k = 10$ las ecuaciones no son proporcionales ($\\frac{5}{10} \\neq \\frac{10}{30}$)."
+        },
+        {
+          "letter": "D",
+          "text": "$k = 30$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el coeficiente de $y$ con el término independiente de la segunda ecuación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Infinitas soluciones exigen proporcionalidad total: $\\frac{2}{6} = \\frac{5}{k} = \\frac{10}{30} = \\frac{1}{3} \\implies k = 15$. Entonces la segunda ecuación es el triple de la primera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál afirmación sobre el sistema es correcta?",
+      "context": "En Tunja, se estudia el sistema con parámetro $a$: $\\begin{cases} ax + y = 5 \\\\ 2x + 3y = 12 \\end{cases}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si $a = \\frac{2}{3}$, el sistema tiene infinitas soluciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con ese valor los interceptos difieren ($5 \\neq 4$), así que el sistema no tiene solución."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema jamás puede tener una solución única.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Basta tomar $a = 0$ para obtener rectas con distinta pendiente y un único punto de corte."
+        },
+        {
+          "letter": "C",
+          "text": "Si $a \\neq \\frac{2}{3}$, el sistema tiene exactamente una solución.",
+          "is_correct": true,
+          "feedback": "Correcto. Las pendientes $-a$ y $-\\frac{2}{3}$ son distintas, de modo que las rectas se cortan en un solo punto."
+        },
+        {
+          "letter": "D",
+          "text": "Si $a = \\frac{2}{3}$, el sistema tiene una solución única.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con pendientes iguales ($-\\frac{2}{3}$) las rectas son paralelas y no se cortan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Despejando $y$: $y = -ax + 5$ y $y = -\\frac{2}{3}x + 4$. Hay un único punto de corte exactamente cuando las pendientes difieren, es decir, cuando $a \\neq \\frac{2}{3}$. Si $a = \\frac{2}{3}$, las rectas son paralelas distintas y el sistema no tiene solución.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W03-sistemas-ecuaciones-2x2-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

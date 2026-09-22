@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T01:49:11.705Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el volumen del cubo?",
+      "context": "En Bogotá, un dado artesanal tiene forma de cubo con arista de $4$ centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el área de una cara ($4^2$) en vez del volumen ($4^3$)."
+        },
+        {
+          "letter": "B",
+          "text": "$48$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $4 \\cdot 4 \\cdot 3$ confundiendo el exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$64$ centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. $V = l^3 = 4^3 = 64$ centímetros cúbicos."
+        },
+        {
+          "letter": "D",
+          "text": "$12$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $4 \\cdot 3$ en vez de elevar al cubo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen de un cubo es $V = l^3$. Con $l = 4$ centímetros, $V = 4 \\cdot 4 \\cdot 4 = 64$ centímetros cúbicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la unidad correcta para expresar el volumen de un cuerpo geométrico?",
+      "context": "En Medellín, una clase de geometría repasa las unidades de medida del volumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centímetros cúbicos ($cm^3$)",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen mide el espacio tridimensional y se expresa en unidades cúbicas."
+        },
+        {
+          "letter": "B",
+          "text": "Centímetros ($cm$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa unidad mide longitudes, que son unidimensionales."
+        },
+        {
+          "letter": "C",
+          "text": "Centímetros cuadrados ($cm^2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa unidad mide áreas, que son bidimensionales."
+        },
+        {
+          "letter": "D",
+          "text": "Grados ($°$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa unidad mide ángulos, no capacidad ni volumen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La longitud usa $cm$, el área usa $cm^2$ y el volumen usa $cm^3$, porque ocupa tres dimensiones: largo, ancho y alto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen de la caja?",
+      "context": "En Cali, una caja de zapatos es un prisma rectangular de $5$ cm de largo, $3$ cm de ancho y $2$ cm de alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo dos dimensiones ($5 \\cdot 2$)."
+        },
+        {
+          "letter": "B",
+          "text": "$30$ centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. $V = 5 \\cdot 3 \\cdot 2 = 30$ centímetros cúbicos."
+        },
+        {
+          "letter": "C",
+          "text": "$20$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las dimensiones y luego duplicaste: $(5+3+2) \\cdot 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$15$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el área de la base ($5 \\cdot 3$) sin multiplicar por la altura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen del prisma rectangular es $V = largo \\cdot ancho \\cdot alto = 5 \\cdot 3 \\cdot 2 = 30$ centímetros cúbicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el volumen exacto del vaso?",
+      "context": "En Barranquilla, un vaso cilíndrico tiene radio de $3$ cm y altura de $5$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$15\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $r \\cdot h$ sin elevar el radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$30\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el diámetro en vez del radio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$25\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $r^2 + h$ en vez de $r^2 \\cdot h$."
+        },
+        {
+          "letter": "D",
+          "text": "$45\\pi$ centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\pi r^2 h = \\pi (9)(5) = 45\\pi$ centímetros cúbicos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El volumen del cilindro es $V = \\pi r^2 h = \\pi (3)^2 (5) = \\pi (9)(5) = 45\\pi$ centímetros cúbicos, aproximadamente $141.4$ centímetros cúbicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el volumen exacto del cono?",
+      "context": "En Bucaramanga, un gorro de fiesta tiene forma de cono con radio de $2$ cm y altura de $6$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8\\pi$ centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{1}{3}\\pi (2)^2 (6) = \\frac{1}{3}\\pi (24) = 8\\pi$."
+        },
+        {
+          "letter": "B",
+          "text": "$24\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste multiplicar por $1/3$; ese es el volumen del cilindro equivalente."
+        },
+        {
+          "letter": "C",
+          "text": "$12\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $1/2$ en vez de $1/3$."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $6$ en vez de entre $3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen del cono es $V = \\frac{1}{3} \\pi r^2 h = \\frac{1}{3} \\pi (4)(6) = \\frac{24\\pi}{3} = 8\\pi$ centímetros cúbicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el volumen exacto de la esfera?",
+      "context": "En Pereira, una esfera decorativa del parque tiene radio de $3$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el área de la superficie ($4\\pi r^2$) en vez del volumen."
+        },
+        {
+          "letter": "B",
+          "text": "$36\\pi$ centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{4}{3}\\pi (3)^3 = \\frac{4}{3}\\pi (27) = 36\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$27\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste al cubo pero olvidaste el factor $4/3$."
+        },
+        {
+          "letter": "D",
+          "text": "$9\\pi$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $r^3$ sin ningún factor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de la esfera es $V = \\frac{4}{3} \\pi r^3 = \\frac{4}{3} \\pi (27) = 36\\pi$ centímetros cúbicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el volumen de la pirámide?",
+      "context": "En Manizales, una pirámide con base cuadrada de $6$ cm de lado y altura de $4$ cm se usa como monumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$144$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste el área de la base por la altura sin el factor $1/3$."
+        },
+        {
+          "letter": "B",
+          "text": "$96$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $6 \\cdot 4 \\cdot 4$ confundiendo el área de la base."
+        },
+        {
+          "letter": "C",
+          "text": "$48$ centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{1}{3}(6^2)(4) = \\frac{1}{3}(36)(4) = 48$."
+        },
+        {
+          "letter": "D",
+          "text": "$24$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $1/6$ en vez de $1/3$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen de la pirámide es $V = \\frac{1}{3} \\cdot A_{base} \\cdot h = \\frac{1}{3}(36)(4) = 144/3 = 48$ centímetros cúbicos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación existe entre el volumen del cono y el del cilindro?",
+      "context": "En Pasto, un cilindro y un cono comparten la misma base circular y la misma altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cono tiene el doble del volumen del cilindro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cono siempre es menor porque incluye el factor $1/3$."
+        },
+        {
+          "letter": "B",
+          "text": "El cono tiene la tercera parte del volumen del cilindro",
+          "is_correct": true,
+          "feedback": "Correcto. $V_{cono} = \\frac{1}{3}\\pi r^2 h$ frente a $V_{cilindro} = \\pi r^2 h$."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos volúmenes son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo serían iguales si el cono tuviera el triple de altura."
+        },
+        {
+          "letter": "D",
+          "text": "El cono tiene la mitad del volumen del cilindro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el factor $1/3$ del cono con el $1/2$ del triángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con igual base e igual altura, $V_{cono} = \\frac{1}{3} B h$ y $V_{cilindro} = B h$. Por tanto el cono equivale exactamente a la tercera parte del cilindro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v9",
+      "statement": "¿En qué factor aumenta el volumen del cubo?",
+      "context": "En Cúcuta, un artesano duplica la arista de un cubo que medía $2$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica (factor $2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud se duplica, pero el volumen crece con el cubo del factor."
+        },
+        {
+          "letter": "B",
+          "text": "Se cuadruplica (factor $4$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el factor de crecimiento del área, no del volumen."
+        },
+        {
+          "letter": "C",
+          "text": "Se multiplica por $8$",
+          "is_correct": true,
+          "feedback": "Correcto. El volumen pasa de $8$ a $64$ centímetros cúbicos, es decir $2^3 = 8$ veces."
+        },
+        {
+          "letter": "D",
+          "text": "Se multiplica por $6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste el factor por el número de caras del cubo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Si la arista se multiplica por $k = 2$, el volumen se multiplica por $k^3 = 8$. En efecto: $2^3 = 8$ y $4^3 = 64$, y $64 / 8 = 8$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la altura del tanque?",
+      "context": "En Armenia, un tanque cilíndrico con volumen de $250\\pi$ litros tiene radio de $5$ metros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10$ metros",
+          "is_correct": true,
+          "feedback": "Correcto. $250\\pi = \\pi (25) h$, de donde $h = 250 / 25 = 10$ metros."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el diámetro en vez del radio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$50$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre $5$ en vez de entre $25$."
+        },
+        {
+          "letter": "D",
+          "text": "$25$ metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado dos veces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando de $V = \\pi r^2 h$: $h = V / (\\pi r^2) = 250\\pi / (25\\pi) = 10$ metros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál recipiente tiene mayor capacidad y por cuánto supera al otro?",
+      "context": "En Cartagena, un hotel compara dos recipientes: un cilindro de radio $4$ cm y altura $9$ cm, y un prisma rectangular de $10$ cm por $10$ cm de base y $5$ cm de altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El prisma, supera por $56$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prisma tiene $500$ centímetros cúbicos, pero el cilindro lo supera."
+        },
+        {
+          "letter": "B",
+          "text": "El cilindro, supera por $144$ centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. $144\\pi$ es el volumen del cilindro, no la diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "El prisma, supera por aproximadamente $47.6$ centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "Correcto. Cilindro: $144\\pi \\approx 452.4$; prisma: $500$. La diferencia es $500 - 452.4 = 47.6$."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos tienen igual capacidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. $144\\pi \\approx 452.4$ es distinto de $500$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "$V_{cilindro} = \\pi (4)^2 (9) = 144\\pi \\approx 452.4$ centímetros cúbicos. $V_{prisma} = 10 \\cdot 10 \\cdot 5 = 500$ centímetros cúbicos. El prisma es mayor por $500 - 452.4 = 47.6$ centímetros cúbicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuántas esferas completas se pueden llenar con el contenido de un cono?",
+      "context": "En Santa Marta, una empresa de jugos envasa en esferas de radio $3$ cm y en conos de radio $3$ cm y altura $12$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ esferas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste al revés: la esfera es menor que el cono, no mayor."
+        },
+        {
+          "letter": "B",
+          "text": "$1$ esfera",
+          "is_correct": true,
+          "feedback": "Correcto. El cono tiene $36\\pi$ y la esfera $36\\pi$: alcanza exactamente para una esfera."
+        },
+        {
+          "letter": "C",
+          "text": "$2$ esferas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble de la esfera sería $72\\pi$, mayor que el cono."
+        },
+        {
+          "letter": "D",
+          "text": "$4$ esferas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el factor $4/3$ de la esfera con un múltiplo entero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "$V_{cono} = \\frac{1}{3}\\pi (9)(12) = 36\\pi$ centímetros cúbicos. $V_{esfera} = \\frac{4}{3}\\pi (27) = 36\\pi$ centímetros cúbicos. El cociente es $36\\pi / 36\\pi = 1$: el cono llena exactamente una esfera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W06-volumenes-cuerpos-geometricos-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

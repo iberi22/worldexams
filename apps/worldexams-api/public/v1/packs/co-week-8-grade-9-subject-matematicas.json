@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-9-subject-matematicas",
+    "generated_at": "2026-09-22T01:49:11.706Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fruta prefiere la mayoría y cuántos votos obtuvo?",
+      "context": "En Bogotá, el grado noveno votó por su fruta favorita y los resultados se muestran en un gráfico de barras: mango $12$, banano $9$, manzana $7$ y pera $5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mango, con $12$ votos",
+          "is_correct": true,
+          "feedback": "Correcto. La barra del mango es la más alta y llega hasta $12$."
+        },
+        {
+          "letter": "B",
+          "text": "El banano, con $9$ votos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El banano ocupa el segundo lugar, no el primero."
+        },
+        {
+          "letter": "C",
+          "text": "La manzana, con $7$ votos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La manzana ocupa el tercer lugar en la votación."
+        },
+        {
+          "letter": "D",
+          "text": "La pera, con $5$ votos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pera tiene la barra más baja de todas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un gráfico de barras, la categoría con la barra más alta es la moda del conjunto. Aquí el mango alcanza $12$ votos, valor superior a todos los demás.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué medio de transporte usa el mayor porcentaje de estudiantes?",
+      "context": "En Medellín, un diagrama circular muestra cómo viajan los estudiantes al colegio: bus $40\\%$, metro $30\\%$, bicicleta $20\\%$ y a pie $10\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El metro, con $30\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metro ocupa el segundo sector más grande del diagrama."
+        },
+        {
+          "letter": "B",
+          "text": "El bus, con $40\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. El sector del bus es el más amplio y equivale al $40\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "La bicicleta, con $20\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bicicleta representa solo la quinta parte del total."
+        },
+        {
+          "letter": "D",
+          "text": "Caminar, con $10\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ir a pie es el sector más pequeño del diagrama."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un diagrama circular, el sector de mayor área representa la categoría con mayor porcentaje. El bus, con $40\\%$, supera a todos los demás medios.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la moda del número de goles por partido?",
+      "context": "En Cali, la tabla de frecuencias del torneo muestra los goles por partido: $0$ goles en $2$ partidos, $1$ gol en $5$ partidos, $2$ goles en $6$ partidos y $3$ goles en $3$ partidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$ goles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo $2$ partidos terminaron sin goles, la frecuencia más baja."
+        },
+        {
+          "letter": "B",
+          "text": "$1$ gol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la segunda frecuencia más alta, con $5$ partidos."
+        },
+        {
+          "letter": "C",
+          "text": "$2$ goles",
+          "is_correct": true,
+          "feedback": "Correcto. Los $2$ goles aparecen en $6$ partidos, la frecuencia más alta."
+        },
+        {
+          "letter": "D",
+          "text": "$3$ goles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo $3$ partidos tuvieron $3$ goles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La moda es el valor con mayor frecuencia absoluta. Como $6$ partidos tuvieron $2$ goles, cifra superior a las demás frecuencias, la moda es $2$ goles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el promedio diario de vasos vendidos en esos cinco días?",
+      "context": "En Barranquilla, el gráfico de barras de la tienda escolar registra las ventas de jugos de lunes a viernes: $20$, $30$, $25$, $35$ y $40$ vasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$30$ vasos",
+          "is_correct": true,
+          "feedback": "Correcto. $(20 + 30 + 25 + 35 + 40) \\div 5 = 150 \\div 5 = 30$."
+        },
+        {
+          "letter": "B",
+          "text": "$25$ vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el dato del miércoles, no el promedio de la semana."
+        },
+        {
+          "letter": "C",
+          "text": "$35$ vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el dato del jueves, no el promedio de la semana."
+        },
+        {
+          "letter": "D",
+          "text": "$150$ vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las ventas pero olvidaste dividir entre los $5$ días."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El promedio se obtiene al dividir el total entre el número de datos: $150 \\div 5 = 30$ vasos por día.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos estudiantes eligieron el fútbol?",
+      "context": "En Bucaramanga, un diagrama circular resume el deporte favorito de $200$ estudiantes: el fútbol reúne el $25\\%$ de las respuestas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el porcentaje con el número de estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "$40$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al $20\\%$, no al $25\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$75$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al $37.5\\%$ del total."
+        },
+        {
+          "letter": "D",
+          "text": "$50$ estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. El $25\\%$ de $200$ es $200 \\times 0.25 = 50$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para pasar del porcentaje al conteo se multiplica: $200 \\times \\frac{25}{100} = 50$ estudiantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v6",
+      "statement": "¿En cuántos grados aumentó la temperatura entre esas dos horas?",
+      "context": "En Pereira, el gráfico de líneas de la estación meteorológica marca $22$ grados a las $8$ de la mañana y $28$ grados a las $2$ de la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal los valores del gráfico."
+        },
+        {
+          "letter": "B",
+          "text": "$6$ grados",
+          "is_correct": true,
+          "feedback": "Correcto. $28 - 22 = 6$ grados de aumento."
+        },
+        {
+          "letter": "C",
+          "text": "$8$ grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste dígitos de las horas en vez de restar las temperaturas."
+        },
+        {
+          "letter": "D",
+          "text": "$28$ grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor final, no el aumento entre las dos horas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un gráfico de líneas, el cambio entre dos puntos es la resta de sus valores: $28 - 22 = 6$ grados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conclusión se deduce al comparar ambas barras?",
+      "context": "En Manizales, el gráfico de barras dobles compara los puntajes del grado noveno: en matemáticas $78$ puntos y en ciencias $86$ puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciencias supera a matemáticas por $8$ puntos",
+          "is_correct": true,
+          "feedback": "Correcto. $86 - 78 = 8$ puntos a favor de ciencias."
+        },
+        {
+          "letter": "B",
+          "text": "Matemáticas supera a ciencias por $8$ puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el orden de la comparación entre las barras."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas áreas obtuvieron el mismo puntaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las barras tienen alturas claramente distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Ciencias supera a matemáticas por $14$ puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $86 - 72$ en vez de $86 - 78$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar barras dobles exige restar en el orden correcto: $86 - 78 = 8$. La barra de ciencias es más alta por $8$ puntos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mediana de los datos de lluvia?",
+      "context": "En Pasto, el registro de lluvia de una semana, en milímetros, fue: $4$, $6$, $5$, $9$, $5$, $7$ y $5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ milímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor mínimo, no el dato central."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ milímetros",
+          "is_correct": true,
+          "feedback": "Correcto. Datos ordenados: $4$, $5$, $5$, $5$, $6$, $7$, $9$. El cuarto dato es $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$6$ milímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el quinto dato ordenado, no el central."
+        },
+        {
+          "letter": "D",
+          "text": "$7$ milímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el sexto dato ordenado, no el central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mediana es el dato central de la lista ordenada. Con $7$ datos, ocupa la cuarta posición: $4$, $5$, $5$, $\\mathbf{5}$, $6$, $7$, $9$. Por tanto la mediana es $5$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la lectura correcta de ese gráfico?",
+      "context": "En Cúcuta, un gráfico de barras compara dos cursos con promedios de $96$ y $98$. El eje vertical empieza en $90$, así que la barra de $98$ se ve mucho más alta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un curso duplica el promedio del otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia visual la causa el eje recortado, no los valores reales."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia entre los cursos es de $20$ puntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la altura dibujada con la diferencia numérica."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia real es de solo $2$ puntos y el eje recortado exagera la brecha",
+          "is_correct": true,
+          "feedback": "Correcto. $98 - 96 = 2$ puntos; el eje iniciado en $90$ amplía una brecha pequeña."
+        },
+        {
+          "letter": "D",
+          "text": "El gráfico no permite leer ningún valor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los valores están rotulados y la resta $98 - 96$ sí se puede calcular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un eje truncado distorsiona la percepción: siempre se deben restar los valores reales ($98 - 96 = 2$) antes de concluir. La brecha visual no equivale a la brecha numérica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuántos estudiantes tiene en total el grado sexto?",
+      "context": "En Armenia, el gráfico de barras apiladas del grado sexto muestra $18$ niños y $15$ niñas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$18$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo el segmento de los niños."
+        },
+        {
+          "letter": "B",
+          "text": "$15$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo el segmento de las niñas."
+        },
+        {
+          "letter": "C",
+          "text": "$32$ estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste $18 - 3$ en vez de sumar ambos segmentos."
+        },
+        {
+          "letter": "D",
+          "text": "$33$ estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. $18 + 15 = 33$ estudiantes en total."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una barra apilada, el total es la suma de todos los segmentos: $18 + 15 = 33$ estudiantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál afirmación está respaldada por los datos?",
+      "context": "En Cartagena, una encuesta a $30$ estudiantes sobre horas semanales de lectura muestra que $18$ leen menos de $3$ horas, $9$ leen entre $3$ y $5$ horas y $3$ leen más de $5$ horas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Más de la mitad lee menos de $3$ horas, pues $18$ de $30$ están en ese rango",
+          "is_correct": true,
+          "feedback": "Correcto. $18$ supera la mitad de $30$ y el gráfico lo confirma."
+        },
+        {
+          "letter": "B",
+          "text": "La mayoría lee más de $5$ horas semanales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo $3$ de $30$ estudiantes están en ese rango."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los estudiantes leen la misma cantidad de horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos se reparten en tres rangos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "La encuesta demuestra el hábito de lectura de todo el país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una muestra de $30$ estudiantes de un colegio no representa a todo el país."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una conclusión exige dos pasos: verificar la fracción dentro de la muestra ($\\frac{18}{30} = 60\\%$, más de la mitad) y no generalizar más allá de la población encuestada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál decisión gráfica es correcta y por qué?",
+      "context": "En Bogotá, la tienda escolar registra sus ventas mes a mes durante un año y duda entre mostrar la evolución anual con un diagrama circular o con un gráfico de líneas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar el diagrama circular porque reparte los meses con más colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no aporta información sobre la evolución temporal."
+        },
+        {
+          "letter": "B",
+          "text": "Usar el gráfico de líneas porque muestra la tendencia mes a mes, mientras el circular dificulta comparar la evolución",
+          "is_correct": true,
+          "feedback": "Correcto. La línea une los $12$ meses en orden y revela subidas y bajadas; el círculo fragmenta la secuencia temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Usar un pictograma sin escala porque los dibujos reemplazan los números",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin escala no se pueden comparar cantidades entre meses."
+        },
+        {
+          "letter": "D",
+          "text": "Usar cualquier gráfico porque todos comunican exactamente lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada tipo de gráfico resalta un aspecto distinto de los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El gráfico debe elegirse según el mensaje: las líneas son adecuadas para tendencias en el tiempo porque conservan el orden de los meses, mientras el diagrama circular sirve para repartos de un total en un momento dado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-9-2026-W08-analisis-graficos-estadisticos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
