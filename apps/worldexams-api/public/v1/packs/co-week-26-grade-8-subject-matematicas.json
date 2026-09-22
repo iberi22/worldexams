@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-8-subject-matematicas",
+    "generated_at": "2026-09-22T00:22:15.740Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula del volumen de una pirámide?",
+      "context": "En Medellín, la profesora presenta una pirámide de base cuadrada y un prisma con la misma base y la misma altura para comparar capacidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = \\frac{1}{3}B h$, donde $B$ es el área de la base y $h$ la altura.",
+          "is_correct": true,
+          "feedback": "Correcto. La pirámide ocupa la tercera parte del prisma correspondiente."
+        },
+        {
+          "letter": "B",
+          "text": "$V = B h$, porque base por altura da el volumen de cualquier sólido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del prisma, no de la pirámide."
+        },
+        {
+          "letter": "C",
+          "text": "$V = \\frac{4}{3}\\pi r^3$, porque toda pirámide contiene una esfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula del volumen de la esfera."
+        },
+        {
+          "letter": "D",
+          "text": "$V = 2B + P h$, porque se suman bases y laterales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión corresponde al área total de un prisma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen de una pirámide es la tercera parte del volumen del prisma con igual base e igual altura: $V = \\frac{B \\times h}{3}$. La altura $h$ debe ser perpendicular a la base. El volumen se mide en unidades cúbicas como $cm^3$ o $m^3$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula del volumen de una esfera de radio $r$ y qué significa cada parte?",
+      "context": "En Bogotá, los estudiantes inflan balones esféricos de distinto tamaño para la semana deportiva del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = 4\\pi r^2$, que mide la capacidad interior de la esfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es el área de la superficie, no el volumen."
+        },
+        {
+          "letter": "B",
+          "text": "$V = \\frac{4}{3}\\pi r^3$, donde $r^3$ muestra que el volumen crece con el cubo del radio.",
+          "is_correct": true,
+          "feedback": "Correcto. El factor cúbico explica el rápido crecimiento del volumen."
+        },
+        {
+          "letter": "C",
+          "text": "$V = \\frac{4}{3}\\pi r^2$, donde el radio va al cuadrado como en el área.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen exige el cubo del radio, no el cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "$V = 2\\pi r^3$, que usa el diámetro en vez del radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante correcta es $\\frac{4}{3}\\pi$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El volumen de la esfera es $V = \\frac{4}{3}\\pi r^3$: depende del cubo del radio, por eso duplicar el radio multiplica el volumen por $8$. En cambio, el área de la superficie $4\\pi r^2$ depende del cuadrado. No se debe confundir capacidad (cúbica) con cáscara (cuadrada).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es su volumen?",
+      "context": "En Cali, una pirámide decorativa de base cuadrada para una carroza tiene base de $6$ cm de lado y altura $9$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$324$ $cm^3$, porque se multiplica $36 \\times 9$ sin dividir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el volumen del prisma; falta dividir entre $3$."
+        },
+        {
+          "letter": "B",
+          "text": "$54$ $cm^3$, porque se divide dos veces entre $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se divide una vez entre $3$."
+        },
+        {
+          "letter": "C",
+          "text": "$108$ $cm^3$, porque $V = \\frac{36 \\times 9}{3} = 108$.",
+          "is_correct": true,
+          "feedback": "Correcto. La base mide $36$ $cm^2$ y se aplica la fórmula de la pirámide."
+        },
+        {
+          "letter": "D",
+          "text": "$216$ $cm^3$, porque se usa la mitad en vez de la tercera parte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pirámide es la tercera parte, no la mitad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero el área de la base: $B = 6 \\times 6 = 36$ $cm^2$. Luego $V = \\frac{B h}{3} = \\frac{36 \\times 9}{3} = \\frac{324}{3} = 108$ $cm^3$. Dividir entre $3$ es el paso que distingue la pirámide del prisma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el volumen del balón?",
+      "context": "En Cartagena, un balón esférico de playa tiene radio $7$ cm. Usa $\\pi \\approx \\frac{22}{7}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1\\,078$ $cm^3$, porque se calcula $4 \\times 22 \\times 7$ sin el cubo completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta elevar el radio al cubo y dividir entre $3$."
+        },
+        {
+          "letter": "B",
+          "text": "$616$ $cm^3$, porque se calcula $4\\pi r^2$ en vez del volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el área de la superficie, no la capacidad."
+        },
+        {
+          "letter": "C",
+          "text": "$2\\,143$ $cm^3$, porque se usa un factor errado en la fracción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la simplificación de $7^3$ con el $7$ de $\\pi$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4\\,312}{3}$ $cm^3 \\approx 1\\,437{,}33$ $cm^3$, porque $V = \\frac{4}{3} \\times \\frac{22}{7} \\times 343$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al simplificar $343 \\div 7 = 49$ se obtiene ese valor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El radio al cubo es $7^3 = 343$. Entonces $V = \\frac{4}{3} \\times \\frac{22}{7} \\times 343 = \\frac{4 \\times 22 \\times 49}{3} = \\frac{4\\,312}{3} \\approx 1\\,437{,}33$ $cm^3$. La simplificación $343 \\div 7 = 49$ facilita el cálculo sin calculadora.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos metros cúbicos de agua almacena cuando está lleno?",
+      "context": "En Barranquilla, un tanque con forma de pirámide de base rectangular de $8$ m por $5$ m y altura $6$ m almacena agua para el Carnaval.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80$ $m^3$, porque $V = \\frac{40 \\times 6}{3} = 80$.",
+          "is_correct": true,
+          "feedback": "Correcto. La base mide $40$ $m^2$ y se divide entre $3$."
+        },
+        {
+          "letter": "B",
+          "text": "$240$ $m^3$, porque se omite la división entre $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el volumen de un prisma rectangular."
+        },
+        {
+          "letter": "C",
+          "text": "$40$ $m^3$, porque solo se calcula el área de la base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por la altura y dividir entre $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$120$ $m^3$, porque se divide entre $2$ en vez de entre $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pirámide usa el factor $\\frac{1}{3}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área de la base rectangular es $B = 8 \\times 5 = 40$ $m^2$. El volumen es $V = \\frac{40 \\times 6}{3} = 80$ $m^3$, equivalentes a $80\\,000$ litros. La fórmula vale para cualquier forma de base siempre que $B$ sea su área.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es su altura?",
+      "context": "En Bucaramanga, una pirámide tiene volumen $120$ $cm^3$ y base cuadrada de $6$ cm de lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3{,}33$ cm, porque se divide $120$ entre $36$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta despejar correctamente el factor $3$ de la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "$10$ cm, porque $h = \\frac{3V}{B} = \\frac{360}{36} = 10$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al despejar $h$ el $3$ pasa multiplicando."
+        },
+        {
+          "letter": "C",
+          "text": "$20$ cm, porque se multiplica $120 \\times 6$ y se divide entre $36$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se mezcló el lado con el volumen en el despeje."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ cm, porque el volumen siempre iguala al lado de la base.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal regla general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "De $V = \\frac{B h}{3}$ se despeja $h = \\frac{3V}{B}$. Con $B = 36$ $cm^2$ y $V = 120$ $cm^3$, resulta $h = \\frac{360}{36} = 10$ cm. Verificación: $\\frac{36 \\times 10}{3} = 120$. Despejar fórmulas es una habilidad clave de grado octavo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas esferas pequeñas se obtienen, sin desperdicio?",
+      "context": "En Pereira, una esfera de radio $3$ cm se funde para fabricar esferas pequeñas de radio $1$ cm. Usa $\\pi \\approx 3{,}14$ solo si lo necesitas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$ esferas, porque $3 \\div 1 = 3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los volúmenes escalan con el cubo, no linealmente."
+        },
+        {
+          "letter": "B",
+          "text": "$9$ esferas, porque las áreas van con el cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay que comparar volúmenes, no áreas."
+        },
+        {
+          "letter": "C",
+          "text": "$27$ esferas, porque $\\frac{3^3}{1^3} = 27$.",
+          "is_correct": true,
+          "feedback": "Correcto. La razón de volúmenes es el cubo de la razón de radios."
+        },
+        {
+          "letter": "D",
+          "text": "$81$ esferas, porque se multiplica dos veces por $3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor correcto es $3^3 = 27$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen grande es $\\frac{4}{3}\\pi \\times 27$ y el pequeño $\\frac{4}{3}\\pi \\times 1$; al dividir, los factores $\\frac{4}{3}\\pi$ se cancelan y queda $27$. En general, si el radio se multiplica por $k$, el volumen se multiplica por $k^3$. Aquí $k = 3$ y $3^3 = 27$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación hay entre sus volúmenes?",
+      "context": "En Manizales, un cono y una pirámide tienen la misma base de $25$ $cm^2$ y la misma altura de $12$ cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cono tiene mayor volumen porque su base es redonda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con igual base e igual altura los volúmenes coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "La pirámide tiene mayor volumen porque tiene aristas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de la base no cambia el factor $\\frac{1}{3}$."
+        },
+        {
+          "letter": "C",
+          "text": "No se pueden comparar porque son sólidos distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos comparten la misma estructura de fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "Son iguales, ambos valen $100$ $cm^3$, porque $V = \\frac{B h}{3}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Conos y pirámides comparten la fórmula de volumen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tanto el cono como la pirámide cumplen $V = \\frac{B h}{3}$: $V = \\frac{25 \\times 12}{3} = 100$ $cm^3$. Lo que importa es el área de la base, no su forma. Este principio, relacionado con el principio de Cavalieri, unifica pirámides y conos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v9",
+      "statement": "Evalúa la afirmación del joyero.",
+      "context": "En Pasto, un joyero duplica el radio de una esfera de plata de $2$ cm a $4$ cm y afirma que necesitará el doble de plata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falsa: el volumen se multiplica por $8$ y necesitará $8$ veces más plata.",
+          "is_correct": true,
+          "feedback": "Correcto. Duplicar el radio multiplica el volumen por $2^3 = 8$."
+        },
+        {
+          "letter": "B",
+          "text": "Verdadera: el volumen se duplica al duplicar el radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen depende del cubo del radio."
+        },
+        {
+          "letter": "C",
+          "text": "Falsa: el volumen se multiplica por $4$ como en el área.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor $4$ corresponde al área, no al volumen."
+        },
+        {
+          "letter": "D",
+          "text": "Verdadera: la fórmula de la esfera es lineal en el radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula lleva $r^3$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El volumen inicial es $\\frac{4}{3}\\pi \\times 8$ y el final $\\frac{4}{3}\\pi \\times 64$; el cociente es $64 \\div 8 = 8$. Por eso el costo del material se multiplica por $8$, no por $2$. Este crecimiento cúbico explica por qué los objetos grandes de metal son mucho más costosos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál estructura encierra más aire y por cuánto?",
+      "context": "En Cúcuta, una carpa piramidal de base cuadrada de $10$ m de lado y $12$ m de altura se compara con un prisma rectangular de $10$ m por $10$ m por $4$ m para un campamento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pirámide con $1\\,200$ $m^3$ frente a $400$ $m^3$ del prisma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir entre $3$ en la pirámide."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas encierran $400$ $m^3$; son equivalentes en capacidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La pirámide da $\\frac{100 \\times 12}{3} = 400$ y el prisma $100 \\times 4 = 400$."
+        },
+        {
+          "letter": "C",
+          "text": "El prisma con $400$ $m^3$ frente a $133{,}33$ $m^3$ de la pirámide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pirámide no mide $133{,}33$ sino $400$."
+        },
+        {
+          "letter": "D",
+          "text": "La pirámide con $400$ $m^3$ frente a $1\\,200$ $m^3$ del prisma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prisma mide $10 \\times 10 \\times 4 = 400$, no $1\\,200$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pirámide: $B = 100$ $m^2$, $V = \\frac{100 \\times 12}{3} = 400$ $m^3$. Prisma: $V = 100 \\times 4 = 400$ $m^3$. Encierran el mismo aire aunque sus formas difieren. La pirámide, más alta y puntiaguda, compensa su estrechez superior con mayor altura total.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v11",
+      "statement": "¿Es correcto su resultado? Evalúa el procedimiento.",
+      "context": "En Ibagué, un estudiante calcula el volumen de una esfera de radio $6$ m usando $\\pi \\approx 3{,}14$ y obtiene $904{,}32$ $m^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incorrecto, porque debió usar $V = 4\\pi r^2$ para hallar la capacidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es el área de la superficie, no el volumen; el estudiante usó bien la fórmula cúbica."
+        },
+        {
+          "letter": "B",
+          "text": "Incorrecto, porque $6^3 = 216$ es demasiado grande para una esfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevar al cubo es exactamente lo que exige la fórmula del volumen."
+        },
+        {
+          "letter": "C",
+          "text": "Correcto, porque $V = \\frac{4}{3} \\times 3{,}14 \\times 216 = 904{,}32$ $m^3$.",
+          "is_correct": true,
+          "feedback": "Correcto. El cálculo $\\frac{4}{3} \\times 216 = 288$ y $288 \\times 3{,}14 = 904{,}32$ confirma el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Incorrecto, el volumen real es $452{,}16$ $m^3$ porque se divide entre $2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay división entre $2$ en la fórmula de la esfera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Verificación completa: $r^3 = 216$; $\\frac{4}{3} \\times 216 = 288$; $288 \\times 3{,}14 = 904{,}32$ $m^3$. El resultado del estudiante es correcto. La confusión frecuente es creer que $904{,}32$ es demasiado grande, pero el crecimiento cúbico lo explica: una esfera de $6$ m contiene más de $900$ metros cúbicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle-v12",
+      "statement": "Si el volumen escala con el cubo del radio, ¿qué precio justo debería tener la copa grande?",
+      "context": "En Villavicencio, una empresa vende helados en copas semiesféricas de radio $5$ cm a $8\\,000$ COP cada una. Quiere lanzar una copa de radio $10$ cm manteniendo el precio por $cm^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$16\\,000$ COP, porque el radio se duplica y el precio se duplica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen se multiplica por $8$, no por $2$."
+        },
+        {
+          "letter": "B",
+          "text": "$32\\,000$ COP, porque el área se cuadruplica y se añade el borde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay que escalar por volumen, no por área."
+        },
+        {
+          "letter": "C",
+          "text": "$24\\,000$ COP, porque se triplica la satisfacción del cliente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay fundamento geométrico para el factor $3$."
+        },
+        {
+          "letter": "D",
+          "text": "$64\\,000$ COP, porque el volumen se multiplica por $2^3 = 8$.",
+          "is_correct": true,
+          "feedback": "Correcto. La copa grande contiene $8$ veces más helado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La semiesfera pequeña tiene $V = \\frac{2}{3}\\pi \\times 125$ y la grande $\\frac{2}{3}\\pi \\times 1\\,000$; el cociente es $8$. Para mantener el precio por $cm^3$, la copa grande debe costar $8\\,000 \\times 8 = 64\\,000$ COP. Este análisis volumétrico es esencial para fijar precios justos en alimentos y bebidas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
