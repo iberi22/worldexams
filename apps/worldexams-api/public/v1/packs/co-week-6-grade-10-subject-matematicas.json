@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-10-subject-matematicas",
+    "generated_at": "2026-09-22T17:25:34.779Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula de la distancia entre los puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$?",
+      "context": "En Bogotá, en clase de geometría analítica se estudia la distancia entre dos puntos del plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+          "is_correct": true,
+          "feedback": "Correcto. Es la aplicación del teorema de Pitágoras a la diferencia de coordenadas."
+        },
+        {
+          "letter": "B",
+          "text": "$d = (x_2 - x_1) + (y_2 - y_1)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia no es una suma lineal de diferencias."
+        },
+        {
+          "letter": "C",
+          "text": "$d = \\sqrt{(x_2 - x_1)^2 - (y_2 - y_1)^2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas diferencias se elevan al cuadrado y se suman."
+        },
+        {
+          "letter": "D",
+          "text": "$d = \\frac{(x_2 - x_1) + (y_2 - y_1)}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión se relaciona con el punto medio, no con la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia entre dos puntos es $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$, consecuencia directa del teorema de Pitágoras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula del punto medio $M$ del segmento $AB$?",
+      "context": "En Medellín, se calcula el punto medio de un segmento cuyos extremos son $A(x_1, y_1)$ y $B(x_2, y_2)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$M = \\left( \\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2} \\right)$",
+          "is_correct": true,
+          "feedback": "Correcto. El punto medio promedia las coordenadas de los extremos."
+        },
+        {
+          "letter": "B",
+          "text": "$M = (x_1 + x_2, y_1 + y_2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir cada suma entre $2$."
+        },
+        {
+          "letter": "C",
+          "text": "$M = \\left( \\frac{x_2 - x_1}{2}, \\frac{y_2 - y_1}{2} \\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se promedian las coordenadas, no se restan."
+        },
+        {
+          "letter": "D",
+          "text": "$M = \\left( \\sqrt{x_1^2 + y_1^2}, \\sqrt{x_2^2 + y_2^2} \\right)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión no corresponde al punto medio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto medio es $M = \\left( \\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2} \\right)$, el promedio aritmético de las coordenadas de los extremos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la distancia entre el origen y el punto $(3, 4)$?",
+      "context": "En Cali, se calcula la distancia entre el origen $(0, 0)$ y el punto $(3, 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$. Es una terna pitagórica."
+        },
+        {
+          "letter": "B",
+          "text": "$7$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las coordenadas en vez de aplicar Pitágoras."
+        },
+        {
+          "letter": "C",
+          "text": "$12$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste las coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{7}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevaste mal los cuadrados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$d = \\sqrt{(3-0)^2 + (4-0)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$ unidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la distancia entre $A$ y $B$?",
+      "context": "En Barranquilla, se calcula la distancia entre los puntos $A(1, 2)$ y $B(4, 6)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{9 + 16} = 5$."
+        },
+        {
+          "letter": "B",
+          "text": "$7$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las diferencias sin elevar al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{34}$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las diferencias de coordenadas."
+        },
+        {
+          "letter": "D",
+          "text": "$25$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtuviste el cuadrado de la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$ unidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el punto medio del segmento $CD$?",
+      "context": "En Bucaramanga, se calcula el punto medio del segmento con extremos $C(2, -3)$ y $D(8, 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(5, 1)$",
+          "is_correct": true,
+          "feedback": "Correcto. $M = \\left( \\frac{2+8}{2}, \\frac{-3+5}{2} \\right) = (5, 1)$."
+        },
+        {
+          "letter": "B",
+          "text": "$(6, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el promedio de las coordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "$(10, 2)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste entre $2$."
+        },
+        {
+          "letter": "D",
+          "text": "$(3, 4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste de forma incorrecta las coordenadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$M = \\left( \\frac{2+8}{2}, \\frac{-3+5}{2} \\right) = \\left( \\frac{10}{2}, \\frac{2}{2} \\right) = (5, 1)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la abscisa del punto $P$?",
+      "context": "En Pereira, un punto $P$ está en el eje $x$ y es equidistante de $A(2, 3)$ y $B(6, 3)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. La bisectriz vertical equidistante está en $x = \\frac{2+6}{2} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un extremo del segmento."
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el otro extremo del segmento."
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la ordenada de ambos puntos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los puntos tienen la misma ordenada, así que el punto equidistante del eje $x$ se halla promediando las abscisas: $x = \\frac{2+6}{2} = 4$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de triángulo forman los puntos?",
+      "context": "En Manizales, se verifica si el triángulo con vértices $A(0, 0)$, $B(6, 0)$ y $C(3, 4)$ es isósceles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulo isósceles.",
+          "is_correct": true,
+          "feedback": "Correcto. $AB = 6$, $AC = \\sqrt{3^2+4^2} = 5$ y $BC = \\sqrt{3^2+4^2} = 5$; dos lados iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Triángulo equilátero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $AB = 6$, pero los otros lados miden $5$."
+        },
+        {
+          "letter": "C",
+          "text": "Triángulo rectángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $6^2 \\neq 5^2 + 5^2$."
+        },
+        {
+          "letter": "D",
+          "text": "Triángulo escaleno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay dos lados de igual longitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$AB = 6$, $AC = \\sqrt{(3)^2 + (4)^2} = 5$ y $BC = \\sqrt{(3)^2 + (-4)^2} = 5$. Como $AC = BC$, el triángulo es isósceles.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el perímetro del cuadrilátero?",
+      "context": "En Cartagena, un cuadrilátero tiene vértices $A(1, 1)$, $B(5, 1)$, $C(5, 4)$ y $D(1, 4)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. $AB = 4$, $BC = 3$, $CD = 4$ y $DA = 3$; el perímetro es $4+3+4+3 = 14$."
+        },
+        {
+          "letter": "B",
+          "text": "$12$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste mal los lados."
+        },
+        {
+          "letter": "C",
+          "text": "$16$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste un lado de más."
+        },
+        {
+          "letter": "D",
+          "text": "$10$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la mitad del perímetro real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es un rectángulo de base $4$ y altura $3$: perímetro $= 2(4+3) = 14$ unidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v9",
+      "statement": "¿Cuáles son las coordenadas del punto $B$?",
+      "context": "En Cúcuta, se sabe que el punto medio del segmento entre $A(-2, 5)$ y $B$ es $M(3, 1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(8, -3)$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\frac{-2 + x}{2} = 3$ da $x = 8$; $\\frac{5 + y}{2} = 1$ da $y = -3$."
+        },
+        {
+          "letter": "B",
+          "text": "$(8, 3)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo de la ordenada es negativo."
+        },
+        {
+          "letter": "C",
+          "text": "$(4, -4)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resolviste mal las ecuaciones del punto medio."
+        },
+        {
+          "letter": "D",
+          "text": "$(1, 6)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste en vez de despejar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De $\\frac{-2 + x}{2} = 3$ se obtiene $x = 8$, y de $\\frac{5 + y}{2} = 1$ se obtiene $y = -3$. Por lo tanto $B(8, -3)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor de $k$?",
+      "context": "En Pasto, se busca el valor de $k$ para que el punto $P(3, k)$ esté a distancia $5$ del punto $Q(6, 1)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k = -3$ o $k = 5$",
+          "is_correct": true,
+          "feedback": "Correcto. $25 = 9 + (k-1)^2$, luego $(k-1)^2 = 16$, $k = 5$ o $k = -3$."
+        },
+        {
+          "letter": "B",
+          "text": "$k = 3$ o $k = -5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los signos al despejar."
+        },
+        {
+          "letter": "C",
+          "text": "Solo $k = 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ecuación cuadrática tiene dos soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "Solo $k = -3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ecuación cuadrática tiene dos soluciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$5 = \\sqrt{(6-3)^2 + (1-k)^2}$ implica $25 = 9 + (k-1)^2$, es decir $(k-1)^2 = 16$, con soluciones $k = 5$ y $k = -3$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la conclusión correcta?",
+      "context": "En Ibagué, se verifica si los puntos $A(1, 2)$, $B(4, 6)$ y $C(7, 10)$ son colineales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí son colineales, pues $AB + BC = AC$.",
+          "is_correct": true,
+          "feedback": "Correcto. $AB = 5$, $BC = 5$ y $AC = 10$; la suma de los primeros es igual a la distancia total."
+        },
+        {
+          "letter": "B",
+          "text": "No son colineales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las distancias satisfacen la igualdad $AB + BC = AC$."
+        },
+        {
+          "letter": "C",
+          "text": "Forman un triángulo rectángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al ser colineales no forman un triángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Forman un triángulo isósceles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No forman triángulo alguno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$AB = \\sqrt{3^2 + 4^2} = 5$, $BC = \\sqrt{3^2 + 4^2} = 5$ y $AC = \\sqrt{6^2 + 8^2} = 10$. Como $AB + BC = AC$, los tres puntos son colineales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la longitud de la mediana trazada desde el vértice $C$ hasta el lado $AB$?",
+      "context": "En Villavicencio, se analiza el triángulo con vértices $A(2, 3)$, $B(8, 3)$ y $C(5, 7)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$ unidades",
+          "is_correct": true,
+          "feedback": "Correcto. El punto medio de $AB$ es $(5, 3)$ y la distancia de $C(5, 7)$ a ese punto es $\\sqrt{(5-5)^2 + (7-3)^2} = 4$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de los lados $CA$ y $CB$, no de la mediana."
+        },
+        {
+          "letter": "C",
+          "text": "$3$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste la longitud."
+        },
+        {
+          "letter": "D",
+          "text": "$6$ unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sobrestimaste la longitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto medio de $AB$ es $M = \\left( \\frac{2+8}{2}, \\frac{3+3}{2} \\right) = (5, 3)$. La mediana es la distancia de $C(5, 7)$ a $M(5, 3)$: $\\sqrt{(5-5)^2 + (7-3)^2} = \\sqrt{0 + 16} = 4$ unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W06-distancia-punto-medio-plano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
