@@ -1,0 +1,116 @@
+---
+/**
+ * /juego/harness — DEV-ONLY test harness (Ola Juego #1425).
+ * Nunca en prod: redirect inmediato fuera de DEV. Expone `window.__wxJuego`
+ * (contrato verbatim para E2E multi-nodo/mesh/motor) y renderiza los
+ * componentes result-flow con fixtures fijas.
+ */
+if (!import.meta.env.DEV) {
+  return Astro.redirect('/juego', 302);
+}
+import Layout from '../../layouts/Layout.astro';
+import SemaforoHabilidades from '../../components/juego/SemaforoHabilidades.svelte';
+import PantallaVictoria from '../../components/juego/PantallaVictoria.svelte';
+import BoletinFormativo from '../../components/juego/BoletinFormativo.svelte';
+import { computeSemaforo, narrar } from '../../lib/juego/semaforo';
+
+const fixtureAnswers = [
+  ...Array.from({ length: 5 }, () => ({ tema: 'multiplicacion', correct: true })),
+  { tema: 'suma-denominador', correct: true },
+  { tema: 'suma-denominador', correct: true },
+  { tema: 'suma-denominador', correct: false },
+  { tema: 'simplificacion', correct: false },
+  { tema: 'simplificacion', correct: false },
+  { tema: 'simplificacion', correct: true },
+];
+const nodos = computeSemaforo(fixtureAnswers);
+const narrativa = narrar(nodos);
+---
+
+<Layout title="Harness DEV — Juego" description="Harness de pruebas solo desarrollo.">
+  <div class="min-h-screen bg-[#121212]" data-testid="juego-harness">
+    <div class="max-w-4xl mx-auto px-4 py-6 space-y-8">
+      <h1 class="text-xl font-bold text-white/80">Harness DEV (no prod)</h1>
+
+      <section data-testid="harness-semaforo">
+        <SemaforoHabilidades {nodos} {narrativa} client:load />
+      </section>
+
+      <section data-testid="harness-victoria">
+        <PantallaVictoria
+          xpGanado={150}
+          eloAntes={1420}
+          eloDespues={1445}
+          rachaDias={5}
+          liga={{ tier: 'Oro', puesto: 4, xpFaltante: 50 }}
+          onJugarOtra={() => console.info('victoria:otra')}
+          onRevisar={() => console.info('victoria:revisar')}
+          client:load
+        />
+      </section>
+
+      <section data-testid="harness-boletin">
+        <BoletinFormativo
+          nivel="Competente"
+          fortaleza="Multiplicación de fracciones"
+          brecha="Simplificación (2 de 3 falladas)"
+          accion="Repasa la regla de los números primos"
+          hrefEstudio="/estudio?tema=simplificacion"
+          client:load
+        />
+      </section>
+    </div>
+  </div>
+
+  <script>
+    import {
+      computeSemaforo,
+      narrar,
+    } from '../../lib/juego/semaforo';
+    import {
+      recordAttempt,
+      addActionXp,
+      loadState,
+      saveState,
+    } from '../../lib/juego/store';
+    import {
+      openRetry,
+      retryStatus,
+      closeAttempt,
+      finalScore,
+    } from '../../lib/juego/reintentos';
+    import { awardXp } from '../../lib/juego/xp';
+    import { applyAttempt } from '../../lib/juego/elo';
+    import { esElegible } from '../../lib/juego/olimpiada';
+    import { coronar, leerHall } from '../../lib/juego/goat';
+    import { buildLiga } from '../../lib/juego/ligas';
+    import { buildTorneoSet } from '../../lib/juego/olimpiada';
+    import { MeshTransport } from '../../lib/mesh/transport';
+    import { SalonDirectory } from '../../lib/mesh/salon-directory';
+
+    window.__wxJuego = {
+      engine: {
+        computeSemaforo,
+        narrar,
+        recordAttempt,
+        addActionXp,
+        openRetry,
+        retryStatus,
+        closeAttempt,
+        finalScore,
+        awardXp,
+        applyAttempt,
+        esElegible,
+        coronar,
+        leerHall,
+        buildLiga,
+        buildTorneoSet,
+      },
+      mesh: {
+        createTransport: (opts) => new MeshTransport(opts),
+        createDirectory: (opts) => new SalonDirectory(opts),
+      },
+      store: { loadState, saveState },
+    };
+  </script>
+</Layout>
