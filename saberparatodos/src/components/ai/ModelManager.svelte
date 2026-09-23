@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { getAiCore } from '../../lib/ai/ai-core-client';
-  import type { DeviceCapabilities, ModelRecommendation, DownloadedModel } from 'edge-mesh';
+  import type { DeviceCapabilities, ModelRecommendation, DownloadedModel } from '../../lib/ai/__mocks__/edge-mesh-stub';
   import { recordMejoraInterna } from '../../lib/mejora-interna-telemetry';
   import TierSelector from './TierSelector.svelte';
 

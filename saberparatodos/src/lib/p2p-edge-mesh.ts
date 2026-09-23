@@ -1,18 +1,18 @@
 // ─── ADAPTADOR EDGE-MESH → WORLDEXAMS ──────────────────────────────────────
-// Bridge entre edge-mesh (EdgeMesh + SalonesManager + ExamenCompartido)
-// y la infraestructura existente de worldexams/saberparatodos.
+// Bridge entre el core real `@iberi22/edge-mesh` (cores/edge-mesh) y la
+// infraestructura existente de worldexams/saberparatodos.
 //
-// API real (edge-mesh root export):
-//   new EdgeMesh(config) → await mesh.iniciar()
-//   new SalonesManager(mesh)
-//   new SalonRegistry({ nodoId }) → salones.usarRegistry(registry)
+// API real verificada del core:
+//   new EdgeMesh(config) → await mesh.iniciar()  (PeerJS propio si hay peerId)
+//   new SalonesManager(mesh) → crearSalon / unirseSalon / abandonarSalon
 //   new ExamenCompartido(examenId, mesh.yjsAdapter)
-//   abandonarSalon / mesh.detener()
+//   mesh.on/off("nodoConectado"|"nodoDesconectado") / mesh.detener()
 //
-// DISCOVERY MESH-FIRST:
-//   SalonRegistry anuncia cada salón por código y mantiene el directorio
-//   regional. unirsePorCodigo descubre el host remoto y crea el proxy local;
-//   Supabase no participa en discovery ni es fallback automático.
+// El core NO tiene `SalonRegistry` ni directorio remoto: el anuncio y
+// descubrimiento de salones lo implementa `SalonDirectory` (mesh-first:
+// BroadcastChannel + Worker /v1/mesh/*, efímero, BR-04). La unión remota
+// por código (proxy Yjs entre managers) es fase 2; `unirseSalonExamen`
+// une salones locales y falla honesto en remoto.
 //
 // Trystero (p2p-service) se mantiene como legacy hasta probar este bridge.
 // ────────────────────────────────────────────────────────────────────────────
@@ -20,16 +20,15 @@
 import {
 	EdgeMesh,
 	SalonesManager,
-	SalonRegistry,
 	SalonVirtual,
 	TIPO_SALON,
 	ExamenCompartido,
 	TIPO_PREGUNTA,
 	type NodoId,
-	type SalonAd,
 	type TipoPregunta,
 	type Pregunta as EdgePregunta,
-} from "edge-mesh";
+} from "@iberi22/edge-mesh";
+import { SalonDirectory, type SalonAd } from "./mesh/salon-directory";
 
 import { writable, derived, type Writable, type Readable } from "svelte/store";
 import { getOrCreateSwalInstanceId } from "./swal-instance-id";
@@ -157,7 +156,7 @@ export class P2PEdgeMesh {
 
 	private mesh: EdgeMesh | null = null;
 	private salones: SalonesManager | null = null;
-	private registry: SalonRegistry | null = null;
+	private directory: SalonDirectory | null = null;
 	private salonActivo: SalonVirtual | null = null;
 	private examenActivo: ExamenCompartido | null = null;
 
@@ -197,8 +196,8 @@ export class P2PEdgeMesh {
 
 	// ─── INICIALIZACIÓN ────────────────────────────────────────────────────
 
-	async iniciar(nombreUsuario?: string): Promise<NodoId> {
-		if (this.mesh && this.salones && this.registry) {
+	async iniciar(nombreUsuario?: string, opts?: { backendBase?: string }): Promise<NodoId> {
+		if (this.mesh && this.salones && this.directory) {
 			return this.miNodoId;
 		}
 
@@ -227,8 +226,10 @@ export class P2PEdgeMesh {
 			await this.mesh.iniciar();
 
 			this.salones = new SalonesManager(this.mesh);
-			this.registry = new SalonRegistry({ nodoId: this.miNodoId });
-			this.salones.usarRegistry(this.registry);
+			// Directorio mesh-first (L0 BroadcastChannel + L2/L3 Worker).
+			// Sin backendBase solo capas locales: la mesh sigue sin backend.
+			this.directory = new SalonDirectory({ backendBase: opts?.backendBase });
+			this.directory.listen();
 
 			this.mesh.on("nodoConectado", this.onNodoConectado);
 			this.mesh.on("nodoDesconectado", this.onNodoDesconectado);
@@ -263,12 +264,25 @@ export class P2PEdgeMesh {
 			nombre,
 			TIPO_SALON.EXAMEN,
 			maxPeers,
-			meta,
 		);
 
 		this.salonActivo = salon;
 		// Room code = salon.id (Map key en SalonesManager)
 		const codigoSala = salon.id;
+
+		// El directorio lleva los metadatos (el core no acepta `meta` en crearSalon).
+		this.directory?.host({
+			codigo: codigoSala,
+			nombre,
+			hostNodoId: this.miNodoId,
+			hostPeerId: this.miNodoId,
+			subject: meta?.subject,
+			grade: meta?.grade,
+			region: meta?.region,
+			maxParticipantes: maxPeers,
+			status: "esperando",
+			createdAt: Date.now(),
+		});
 
 		this.examenActivo = new ExamenCompartido(
 			codigoSala,
@@ -293,28 +307,57 @@ export class P2PEdgeMesh {
 
 	/** Anuncia o actualiza metadatos de un salón en el directorio mesh. */
 	anunciarSalon(meta: AnuncioSalonExamen): SalonAd {
-		if (!this.registry) {
+		if (!this.directory) {
 			throw new Error("Mesh no inicializado.");
 		}
-
-		return this.registry.anunciar({
+		const codigo = (meta as { codigo?: string }).codigo ?? this.salonActivo?.id;
+		if (!codigo) throw new Error("Sin sala activa que anunciar.");
+		return this.directory.host({
 			...meta,
+			codigo,
+			nombre: meta.nombre ?? this.salonActivo?.obtenerInfo().nombre ?? codigo,
+			hostNodoId: this.miNodoId,
 			hostPeerId: meta.hostPeerId ?? this.miNodoId,
+			createdAt: meta.createdAt ?? Date.now(),
 		});
 	}
 
 	/** Lista los anuncios activos conocidos, con filtro regional opcional. */
-	listarSalones(region?: string): readonly SalonAd[] {
-		return this.registry?.listar(region) ?? [];
+	listarSalones(region?: string): SalonAd[] {
+		return this.directory?.listar(region) ?? [];
 	}
 
-	/** Descubre y se une a un salón local o remoto usando su room code. */
+	/** Refresca el directorio contra el relay CF (requiere backendBase en iniciar). */
+	async refrescarSalones(region?: string): Promise<SalonAd[]> {
+		const ads = (await this.directory?.refresh()) ?? [];
+		return region ? ads.filter((a) => a.region === region) : ads;
+	}
+
+	/**
+	 * Se une a un salón LOCAL por room code.
+	 * Remoto (anunciado por otro host) → error honesto: el core no expone
+	 * proxy remoto; la unión remota por relay SDP es fase 2.
+	 */
 	async unirseSalonExamen(codigoSala: string): Promise<void> {
 		if (!this.mesh || !this.salones) {
 			throw new Error("Mesh no inicializado.");
 		}
 
-		const salon = await this.salones.unirsePorCodigo(codigoSala);
+		let salon: SalonVirtual | null = null;
+		try {
+			salon = await this.salones.unirseSalon(codigoSala);
+		} catch {
+			salon = null;
+		}
+		if (!salon) {
+			const ad = this.directory?.buscar(codigoSala);
+			if (ad) {
+				throw new Error(
+					`Salón ${codigoSala} es remoto (host ${ad.hostPeerId}). Unión remota en fase 2 — usa la red local por ahora.`,
+				);
+			}
+			throw new Error(`Salón ${codigoSala} no encontrado en esta mesh local.`);
+		}
 		this.salonActivo = salon;
 
 		this.examenActivo = new ExamenCompartido(
@@ -340,6 +383,7 @@ export class P2PEdgeMesh {
 		if (this.salonActivo && this.salones) {
 			await this.salones.abandonarSalon(this.salonActivo.id);
 		}
+		this.directory?.unhost();
 		this.salonActivo = null;
 		this.examenActivo = null;
 		estadoSalon.set(null);
@@ -459,10 +503,10 @@ export class P2PEdgeMesh {
 			this.mesh.off("nodoDesconectado", this.onNodoDesconectado);
 			await this.mesh.detener();
 		}
-		this.registry?.dispose();
+		this.directory?.dispose();
 		this.mesh = null;
 		this.salones = null;
-		this.registry = null;
+		this.directory = null;
 		this.examenActivo = null;
 
 		estadoMesh.set({

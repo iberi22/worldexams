@@ -7,7 +7,10 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
       '$lib': fileURLToPath(new URL('./src/lib', import.meta.url)),
-      'edge-mesh': fileURLToPath(new URL('./saberparatodos/src/lib/ai/__mocks__/edge-mesh-stub.ts', import.meta.url)),
+      // NOTA: sin alias 'edge-mesh' — los tests usan el core real
+      // `@iberi22/edge-mesh` (cores/edge-mesh). El stub local
+      // `saberparatodos/src/lib/ai/__mocks__/edge-mesh-stub.ts` solo cubre
+      // `AiCore`, que el core aún no publica.
     },
   },
   test: {
