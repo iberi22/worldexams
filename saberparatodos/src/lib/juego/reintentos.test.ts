@@ -65,4 +65,24 @@ describe('reintentos (F3)', () => {
     expect(link.query).toBe('Simplificación de fracciones');
     expect(JSON.parse(localStorage.getItem(RETRY_STORAGE_KEY) || '{}')[QUIZ]).toBeUndefined();
   });
+
+  it('closeAttempt sin registro previo delega en retryStatus', () => {
+    localStorage.clear();
+    const st = closeAttempt('unregistered', 80);
+    expect(st.allowed).toBe(true);
+    expect(st.attemptsUsed).toBe(0);
+  });
+
+  it('readStore y writeStore capturan errores de localStorage', () => {
+    localStorage.clear();
+    localStorage.setItem(RETRY_STORAGE_KEY, 'invalid json');
+    expect(retryStatus('q1').allowed).toBe(true);
+
+    const originalSetItem = localStorage.setItem;
+    localStorage.setItem = () => {
+      throw new Error('QuotaExceededError');
+    };
+    expect(openRetry('q1', 50, 'mat')).toBe(12 * 60 * 1000);
+    localStorage.setItem = originalSetItem;
+  });
 });

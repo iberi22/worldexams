@@ -22,13 +22,34 @@ describe('ligas (F4)', () => {
     );
   });
 
-  it('puestos ordenados y movimiento ascenso/descenso', () => {
-    const top = buildLiga('2026-W38', 99999, 'nodo1');
+  it('puestos ordenados y movimiento ascenso/descenso/permanencia', () => {
+    const top = buildLiga('2026-W38', 99999);
     expect(top.puestoJugador).toBe(1);
     expect(top.movimiento).toBe(1);
     const bottom = buildLiga('2026-W38', 0, 'nodo1');
     expect(bottom.puestoJugador).toBe(LIGA_SIZE);
     expect(bottom.movimiento).toBe(-1);
+
+    let permFound = false;
+    for (let xp = 100; xp <= 500; xp += 10) {
+      const mid = buildLiga('2026-W38', xp, 'nodo1');
+      if (mid.movimiento === 0) {
+        expect(mid.puestoJugador).toBeGreaterThan(5);
+        expect(mid.puestoJugador).toBeLessThanOrEqual(25);
+        permFound = true;
+        break;
+      }
+    }
+    expect(permFound).toBe(true);
+  });
+
+  it('ventanaLiga fallback si no encuentra al jugador', () => {
+    const liga = buildLiga('2026-W38', 1300, 'nodo1');
+    liga.miembros.forEach((m) => {
+      m.esJugador = false;
+    });
+    const win = ventanaLiga(liga, 2);
+    expect(win.length).toBe(5);
   });
 
   it('ventana de 5 alrededor del jugador', () => {
