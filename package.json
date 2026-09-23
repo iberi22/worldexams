@@ -34,7 +34,9 @@
     "lint": "eslint src/",
     "jules:issue-matrix": "node scripts/generate-jules-issue-matrix.mjs",
     "smoke:geo": "node scripts/smoke-geo-routing.mjs",
-    "sync:upstream": "bash scripts/gitcore-sync-upstream.sh"
+    "sync:upstream": "bash scripts/gitcore-sync-upstream.sh",
+    "test:obscura:juego": "node scripts/obscura-juego-run.mjs",
+    "test:obscura:60q": "node scripts/obscura-examen-60q.mjs"
   },
   "devDependencies": {
     "@playwright/test": "1.62.1",

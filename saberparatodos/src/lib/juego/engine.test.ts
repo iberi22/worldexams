@@ -6,6 +6,7 @@ import {
   gradeOffset,
   questionEloFor,
   selectMatchmaking,
+  kForPlayer,
   ELO_MAX,
 } from './elo';
 import { tierFor, xpToNextTier, awardXp } from './xp';
@@ -51,6 +52,53 @@ describe('elo (K=32, tope 2200)', () => {
 
   it('expectedScore 50% en igualdad', () => {
     expect(expectedScore(1200, 1200)).toBeCloseTo(0.5, 5);
+  });
+
+  it('K por incertidumbre: 40/32/16', () => {
+    expect(kForPlayer(0)).toBe(40);
+    expect(kForPlayer(9)).toBe(40);
+    expect(kForPlayer(10)).toBe(32);
+    expect(kForPlayer(29)).toBe(32);
+    expect(kForPlayer(30)).toBe(16);
+    // default preserva clásico: hazaña con attemptsPlayed omitido = +31
+    expect(applyAttempt(1200, 1800, true).playerDelta).toBe(31);
+    // K alto calibra más rápido al inicio
+    expect(applyAttempt(1200, 1800, true, { attemptsPlayed: 0 }).playerDelta).toBe(39);
+  });
+
+  it('ancla frena el encarecimiento por fallos en racha', () => {
+    const sin = applyAttempt(1000, 800, false);
+    const con = applyAttempt(1000, 800, false, { questionAnchor: 800 });
+    expect(con.newQuestionElo).toBeLessThan(sin.newQuestionElo);
+    expect(con.newQuestionElo).toBeGreaterThanOrEqual(800);
+  });
+
+  it('novato con piso D1 se recupera (sin espiral de muerte)', () => {
+    // Simulación determinista 60q: novato real ~45%, PRNG fijo
+    let seed = 42;
+    const rand = () => {
+      seed = (seed + 0x6d2b79f5) | 0;
+      let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+    let elo = 1000;
+    let q = 800;
+    let attempts = 0;
+    let min = elo;
+    for (let i = 0; i < 60; i++) {
+      const exp = 1 / (1 + Math.pow(10, (q - elo) / 400));
+      const correct = rand() < 0.45;
+      const r = applyAttempt(elo, q, correct, { attemptsPlayed: attempts, questionAnchor: 800 });
+      elo = r.newPlayerElo;
+      q = r.newQuestionElo;
+      attempts++;
+      min = Math.min(min, elo);
+      void exp;
+    }
+    expect(min).toBeLessThan(1000); // cae al inicio (calibración honesta)
+    expect(elo).toBeGreaterThan(min); // ...pero se recupera, no muere
+    expect(q).toBeLessThan(950); // la pregunta no se encareció sin límite
   });
 });
 

@@ -40,6 +40,8 @@ export interface GameState {
   lastActiveDay: string | null;
   /** Elo por pregunta (vivo, local): questionId -> elo. */
   questionElo: Record<string, number>;
+  /** Intentos históricos (K por incertidumbre). Falta en estados viejos → 0. */
+  attemptsPlayed: number;
   updatedAt: number;
 }
 

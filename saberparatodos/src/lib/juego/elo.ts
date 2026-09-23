@@ -14,6 +14,17 @@ export const ELO_K_QUESTION = 8;
 export const ELO_MIN = 100;
 export const ELO_MAX = 2200;
 
+/**
+ * K por incertidumbre (hallazgo test 60q 2026-09-24: K=32 fijo + preguntas
+ * que se encarecen al fallar = espiral de muerte para novatos).
+ * Calibración rápida al inicio, estabilidad después.
+ */
+export function kForPlayer(attemptsPlayed: number): number {
+  if (attemptsPlayed < 10) return 40;
+  if (attemptsPlayed < 30) return ELO_K_PLAYER;
+  return 16;
+}
+
 /** Base Elo por banda (DECISION-ELO-MMR tabla base). */
 export const BAND_BASE_ELO: Record<DifficultyBand, number> = {
   'D1-D2': 500,
@@ -55,20 +66,32 @@ function clampElo(v: number): number {
   return Math.min(ELO_MAX, Math.max(ELO_MIN, Math.round(v)));
 }
 
-/** Aplica un intento. Nunca mezcla XP (ver xp.ts). */
+/** Aplica un intento. Nunca mezcla XP (ver xp.ts).
+ *
+ * @param attemptsPlayed intentos previos del jugador (K por incertidumbre;
+ *   default 15 = comportamiento clásico K=32, preserva tests existentes).
+ * @param questionAnchor Elo base de la banda para reversión a la media
+ *   (10%): las preguntas no se encarecen sin límite por fallos en racha.
+ */
 export function applyAttempt(
   playerElo: number,
   questionElo: number,
   correct: boolean,
+  opts: { attemptsPlayed?: number; questionAnchor?: number } = {},
 ): EloResult {
   const expected = expectedScore(playerElo, questionElo);
   const actual = correct ? 1 : 0;
-  const playerDelta = Math.round(ELO_K_PLAYER * (actual - expected));
+  const k = kForPlayer(opts.attemptsPlayed ?? 15);
+  const playerDelta = Math.round(k * (actual - expected));
   // La pregunta se mueve inverso: si el jugador acierta, la pregunta "pierde".
   const questionDelta = Math.round(ELO_K_QUESTION * ((1 - actual) - (1 - expected)));
+  let newQuestionElo = questionElo + questionDelta;
+  if (opts.questionAnchor !== undefined) {
+    newQuestionElo = newQuestionElo + (opts.questionAnchor - newQuestionElo) * 0.1;
+  }
   return {
     newPlayerElo: clampElo(playerElo + playerDelta),
-    newQuestionElo: clampElo(questionElo + questionDelta),
+    newQuestionElo: clampElo(newQuestionElo),
     playerDelta,
     questionDelta,
     expected,

@@ -30,3 +30,19 @@ and works identically in Vite, vitest, tsc and `npm ci`.
 - `SalonRegistry` / `SalonAd` → `../mesh/salon-directory.ts`
 - `AiCore` / `createAiCore` → `../ai/__mocks__/edge-mesh-stub.ts`
 - Do NOT fork the core here: changes belong upstream, then re-vendor.
+
+## Upstream proposals (para el repo cores/edge-mesh, no implementar aquí)
+
+1. **Barrel browser-safe**: `dist/index.js:51` re-exporta `RelayServer`
+   (depende de `ws` de Node) y `storage/index.js:174` re-exporta
+   `optimizer` (zstd/cbor). Cualquier bundler que importe el barrel en
+   browser/jsdom rompe (probado: astro build + vitest). Propuesta: entrada
+   `browser` en `exports` (nuevo `dist/browser.js` sin relay-server,
+   polygon-bridge ni optimizer) o re-exports perezosos. Workaround local:
+   imports profundos (`edge-mesh.js`, `salones/manager.js`, `chat/index.js`).
+2. **Primitiva de directorio/anuncio**: el core descubre por PeerJS pero no
+   publica salas; cada app reinventa el registry. Propuesta: `SalonDirectory`
+   mínimo (announce TTL + listar) sobre el transporte existente.
+3. **Señalización sin servidor PeerJS**: `PeerJSTransport` exige un servidor
+   (propio o nube pública). Propuesta: transporte `MailboxTransport` sobre
+   buzón efímero HTTP (patrón `/v1/mesh/relay` probado) para SDP + deltas.
