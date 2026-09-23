@@ -468,7 +468,7 @@
       "priority": "P0",
       "progress_pct": 90.0,
       "status": "implemented",
-      "implemented_in": "apps/worldexams-api/src/mesh.ts, apps/worldexams-api/src/index.ts, apps/worldexams-api/src/mesh.test.ts",
+      "implemented_in": "apps/worldexams-api/src/mesh.ts, apps/worldexams-api/src/index.ts, apps/worldexams-api/tests/mesh.test.ts",
       "evidence": "Rutas /v1/mesh/health|announce|discover|relay con TTL 60/120s, rate-limit 30 req/min/IP, gate BR-04 (claves PII→400), lectura destructiva del buzón, Cache-Control no-store. mesh.test.ts 8/8 PASS (vitest root). tsc --noEmit api 0 errores.",
       "caveat": "Memoria por isolate (sin KV/D1/DO): el cliente re-anuncia cada 20s. Sin WS persistente — el relay es por polling con sala activa. SDP-over-relay para dial sin nube PeerJS queda en fase 2.",
       "steps": [
