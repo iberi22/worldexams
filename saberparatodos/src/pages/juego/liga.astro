@@ -1,0 +1,10 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import LigaPanel from '../../components/juego/LigaPanel.svelte';
+---
+
+<Layout title="Liga Semanal | SaberParaTodos">
+  <main class="mx-auto max-w-xl px-4 py-8">
+    <LigaPanel client:only="svelte" />
+  </main>
+</Layout>
