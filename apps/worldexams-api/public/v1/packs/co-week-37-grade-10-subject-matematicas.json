@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-10-subject-matematicas",
+    "generated_at": "2026-09-23T00:27:43.792Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes expresiones representa el área entre dos curvas continuas $y = f(x)$ y $y = g(x)$ con $f(x) \\geq g(x)$ en $[a, b]$?",
+      "context": "En Cali, Mariana calcula el área entre dos curvas en clase de cálculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int_a^b [f(x) + g(x)]\\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las funciones; lo correcto es restar la inferior a la superior."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int_a^b [f(x) - g(x)]\\, dx$",
+          "is_correct": true,
+          "feedback": "Correcto. El área entre curvas es la integral de la diferencia entre la curva superior y la inferior."
+        },
+        {
+          "letter": "C",
+          "text": "$\\int_a^b f(x)\\, dx - \\int_a^b g(x)\\, dx \\cdot g(x)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no tiene sentido dimensional ni operativo."
+        },
+        {
+          "letter": "D",
+          "text": "$f(b) - g(a)$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una resta de valores puntuales, no una integral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando $f(x) \\geq g(x)$ en $[a, b]$, el área encerrada entre las curvas se obtiene integrando la diferencia $f(x) - g(x)$ en ese intervalo, lo que representa el \"ancho vertical\" sumado a lo largo del recorrido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v2",
+      "statement": "¿Qué representa geométricamente la expresión $\\int_a^b [f(x) - g(x)]\\, dx$?",
+      "context": "En Bogotá, Valentina interpreta geométricamente la integral definida entre dos curvas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El volumen generado al rotar las curvas alrededor del eje $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para volúmenes se usa otra técnica de integración."
+        },
+        {
+          "letter": "B",
+          "text": "El área de la región limitada por las gráficas de $f$ y $g$ entre $x = a$ y $x = b$.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral de la diferencia entrega el área entre las curvas en ese intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "La longitud del arco de $f$ entre $a$ y $b$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de arco se calcula con otra fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "El valor promedio de $f$ en $[a, b]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor promedio se obtiene dividiendo la integral entre $(b - a)$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integral definida de la diferencia de dos funciones en un intervalo entrega el área de la región encerrada entre ambas curvas en ese intervalo, lo que conecta el concepto de integral con una medida geométrica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la diferencia $f(x) - g(x)$ que se debe integrar en ese intervalo?",
+      "context": "En Medellín, Santiago identifica la curva superior y la curva inferior entre $f(x) = x^2 + 4$ y $g(x) = 2x + 1$ en $[1, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 2x + 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los términos en lugar de restarlos."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 - 2x + 3$",
+          "is_correct": true,
+          "feedback": "Correcto. $(x^2 + 4) - (2x + 1) = x^2 - 2x + 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$-x^2 + 2x - 3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtuviste el negativo de la diferencia correcta."
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 2x + 5$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $4$ y $1$ en lugar de restarlos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Restar término a término: $(x^2 + 4) - (2x + 1) = x^2 - 2x + 3$. Esta diferencia es la función \"altura\" cuya integral en $[1, 3]$ dará el área entre las curvas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el valor del área entre estas dos curvas en ese intervalo?",
+      "context": "En Cali, Mariana calcula el área entre las curvas $y = x$ y $y = x^2$ en $[0, 1]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-\\frac{1}{6}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste el orden de la resta y obtuviste el signo negativo."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^1 (x - x^2)\\, dx = \\left[\\frac{x^2}{2} - \\frac{x^3}{3}\\right]_0^1 = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$."
+        },
+        {
+          "letter": "C",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las integrales en lugar de restar."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste el valor de una integral parcial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $x \\geq x^2$ en $[0, 1]$, el área es $\\int_0^1 (x - x^2)\\, dx = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$. Esto equivale a $0.1\\overline{6}$ unidades cuadradas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v5",
+      "statement": "Si $R_1(t) \\geq R_2(t)$ en ese intervalo, ¿cuál es el \"excedente\" acumulado de $R_1$ sobre $R_2$ en millones de COP?",
+      "context": "En Barranquilla, dos líneas de producción generan ingresos diarios (en millones de COP) modelados por $R_1(t) = 8t + 10$ y $R_2(t) = t^2 + 2$ durante $t \\in [1, 3]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40$ millones de COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las integrales en lugar de restar."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{20}{3}$ millones de COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a otra integral distinta."
+        },
+        {
+          "letter": "C",
+          "text": "$10$ millones de COP",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo no corresponde a esta integral."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{118}{3}$ millones de COP, aproximadamente $39.33$ millones.",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_1^3 (-t^2 + 8t + 8)\\, dt = \\left[-\\frac{t^3}{3} + 4t^2 + 8t\\right]_1^3 = 51 - \\frac{35}{3} = \\frac{118}{3} \\approx 39.33$ millones de COP."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El excedente acumulado equivale a $\\int_1^3 [(8t + 10) - (t^2 + 2)]\\, dt = \\int_1^3 (-t^2 + 8t + 8)\\, dt$. Evaluando: $\\left[-\\frac{t^3}{3} + 4t^2 + 8t\\right]_1^3 = \\left(-9 + 36 + 24\\right) - \\left(-\\frac{1}{3} + 4 + 8\\right) = 51 - \\frac{35}{3} = \\frac{118}{3}$, es decir, aproximadamente $39.33$ millones de COP en el intervalo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v6",
+      "statement": "Primero se obtienen los puntos de intersección resolviendo $4 - x^2 = x^2 - 2x$. ¿Cuáles son estos puntos?",
+      "context": "En Bogotá, se debe calcular el área limitada por las curvas $y = 4 - x^2$ y $y = x^2 - 2x$ en el intervalo donde se cruzan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = -2$ y $x = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos puntos no satisfacen la igualdad original."
+        },
+        {
+          "letter": "B",
+          "text": "$x = -1$ y $x = 2$",
+          "is_correct": true,
+          "feedback": "Correcto. $2x^2 - 2x - 4 = 0$ da $x^2 - x - 2 = 0$, cuyas raíces son $x = -1$ y $x = 2$."
+        },
+        {
+          "letter": "C",
+          "text": "$x = 0$ y $x = 4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos puntos no satisfacen la ecuación."
+        },
+        {
+          "letter": "D",
+          "text": "$x = 1$ y $x = 2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una raíz es correcta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Igualar las funciones lleva a $4 - x^2 = x^2 - 2x$, es decir, $2x^2 - 2x - 4 = 0$, que se simplifica a $x^2 - x - 2 = 0$. Aplicando factorización: $(x - 2)(x + 1) = 0$, con raíces $x = -1$ y $x = 2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v7",
+      "statement": "¿En qué subintervalo la parábola está por encima de la recta?",
+      "context": "En Medellín, Santiago debe decidir qué curva es la superior entre $f(x) = 6 - x^2$ y $g(x) = x$ en $[-2, 2]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En todo el intervalo $[-2, 2]$ sin ninguna verificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque aquí sí se cumple, falta justificar resolviendo la desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "En todo el intervalo $[-2, 2]$, porque resolver $6 - x^2 \\geq x$ da $-3 \\leq x \\leq 2$ y ese rango contiene a $[-2, 2]$.",
+          "is_correct": true,
+          "feedback": "Correcto. La parábola está por encima de la recta en todo $[-2, 2]$ porque la inecuación $6 - x^2 \\geq x$ se cumple para $-3 \\leq x \\leq 2$."
+        },
+        {
+          "letter": "C",
+          "text": "Solo en $x = 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay un rango más amplio donde se cumple la desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Nunca; la recta siempre está por encima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En $x = 0$, la parábola da $6$ y la recta $0$; la parábola está muy por encima."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Resolver $6 - x^2 \\geq x$ lleva a $x^2 + x - 6 \\leq 0$, es decir, $(x + 3)(x - 2) \\leq 0$. La solución es $-3 \\leq x \\leq 2$. Intersectando con $[-2, 2]$, obtenemos $[-2, 2]$ donde la parábola está por encima de la recta en todo el intervalo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la valoración correcta de esa afirmación?",
+      "context": "En Cartagena, un estudiante argumenta: \"Para encontrar el área entre dos curvas basta con integrar la diferencia en cualquier intervalo, sin importar quién está arriba.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque la integral siempre da el área, sin importar el orden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si inviertes el orden, el resultado cambia de signo y deja de representar un área."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta; se debe integrar la diferencia entre la curva superior y la inferior para obtener un valor positivo de área.",
+          "is_correct": true,
+          "feedback": "Correcto. Integrar la diferencia en el orden equivocado puede dar un valor negativo, lo que no representa área."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta solo si las curvas no se cruzan en el intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio de orden superior/inferior aplica siempre."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si las curvas son funciones lineales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden superior/inferior aplica para todo tipo de funciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si se resta la curva superior menos la inferior, la integral entrega el área. Si se resta en el orden contrario, el resultado es el negativo del área. Por eso, antes de integrar, hay que determinar correctamente cuál curva está por encima en el intervalo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la expresión correcta para esa área?",
+      "context": "En Pereira, se tiene el área entre $y = e^x$ y $y = 1$ en $[0, 1]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int_0^1 1\\, dx = 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo calculaste el área bajo $y = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int_0^1 e^x\\, dx = e - 1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es el área bajo la curva $y = e^x$, no entre las dos curvas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\int_0^1 (e^x - 1)\\, dx = e - 2$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $e^x \\geq 1$ en $[0, 1]$, el área entre las curvas es $\\int_0^1 (e^x - 1)\\, dx = (e - 1) - 1 = e - 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int_0^1 (1 - e^x)\\, dx = 1 - e$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa integral es negativa porque $e^x > 1$ en ese intervalo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En $[0, 1]$, $e^x \\geq 1$, así que la curva superior es $y = e^x$ y la inferior es $y = 1$. El área entre ambas es $\\int_0^1 (e^x - 1)\\, dx = [e^x - x]_0^1 = (e - 1) - (1 - 0) = e - 2 \\approx 0.718$ unidades cuadradas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el valor exacto del área entre estas curvas en ese intervalo?",
+      "context": "En Bucaramanga, Valentina integra entre $y = \\sin(x)$ y $y = \\cos(x)$ en $[0, \\pi/4]$, donde $\\cos(x) \\geq \\sin(x)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un valor que no corresponde a esta integral."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral $\\int_0^{\\pi/4} \\cos x\\, dx$ da $\\frac{\\sqrt{2}}{2}$, pero falta restar la otra."
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{2} - 1$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int_0^{\\pi/4} (\\cos x - \\sin x)\\, dx = [\\sin x + \\cos x]_0^{\\pi/4} = \\frac{\\sqrt{2}}{2} + \\frac{\\sqrt{2}}{2} - (0 + 1) = \\sqrt{2} - 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{2}}{2}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es solo el valor de $\\int_0^{\\pi/4} \\cos x\\, dx$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área es $\\int_0^{\\pi/4} (\\cos x - \\sin x)\\, dx$. Como $\\int \\cos x\\, dx = \\sin x$ y $\\int -\\sin x\\, dx = \\cos x$, se obtiene $[\\sin x + \\cos x]_0^{\\pi/4} = \\left(\\frac{\\sqrt{2}}{2} + \\frac{\\sqrt{2}}{2}\\right) - (0 + 1) = \\sqrt{2} - 1 \\approx 0.414$ unidades cuadradas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el procedimiento correcto para calcular esa área?",
+      "context": "En Medellín, Santiago debe calcular el área limitada por $y = 4x - x^2$ (una parábola que abre hacia abajo) y el eje $x$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Multiplicar el valor máximo de la función por la raíz positiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese producto no tiene interpretación geométrica como área."
+        },
+        {
+          "letter": "B",
+          "text": "Integrar la función entre sus dos raíces, multiplicando por $(-1)$ porque la parábola está bajo el eje en parte del intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parábola está sobre el eje entre sus raíces; no hay que multiplicar por $(-1)$."
+        },
+        {
+          "letter": "C",
+          "text": "Calcular las raíces $x = 0$ y $x = 4$, luego integrar $\\int_0^4 (4x - x^2)\\, dx$.",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces son $x(4 - x) = 0$, es decir, $x = 0$ y $x = 4$, y en ese intervalo la parábola está por encima del eje, así que se integra directamente."
+        },
+        {
+          "letter": "D",
+          "text": "Tomar la mitad del valor de la integral entre $0$ y $4$ porque el área debe ser menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso reduce artificialmente el valor sin razón geométrica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para $y = 4x - x^2 = x(4 - x)$, las raíces son $x = 0$ y $x = 4$, y la parábola es no negativa en $[0, 4]$. Por tanto, el área limitada por la curva y el eje $x$ es $\\int_0^4 (4x - x^2)\\, dx = \\left[2x^2 - \\frac{x^3}{3}\\right]_0^4 = 32 - \\frac{64}{3} = \\frac{32}{3}$ unidades cuadradas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle-v12",
+      "statement": "Ella nota que en $[0, 1]$, $x \\geq x^3$. ¿Cuál es el área correcta y por qué?",
+      "context": "En Cali, Mariana compara dos métodos para obtener el área entre $y = x$ y $y = x^3$ en $[0, 1]$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int_0^1 (x^3 - x)\\, dx = -\\frac{5}{12}$, así que el área es $\\frac{5}{12}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Integraste en el orden equivocado, pero al menos obtuviste el signo correcto. Faltó verificar el orden."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int_0^1 (x - x^3)\\, dx = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}$, porque en ese intervalo $x \\geq x^3$.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia correcta es $x - x^3$, y su integral en $[0, 1]$ da $\\frac{1}{4}$."
+        },
+        {
+          "letter": "C",
+          "text": "$1$ porque las curvas coinciden en los extremos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coincidencia en extremos no implica que el área sea 1."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede calcular porque las curvas no se intersectan en el interior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se intersectan en $x = 0$ y $x = 1$, pero el área interior está bien definida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En $[0, 1]$, $x \\geq x^3$ (por ejemplo, en $x = 0.5$: $0.5 \\geq 0.125$). Por eso, el área entre las curvas es $\\int_0^1 (x - x^3)\\, dx = \\left[\\frac{x^2}{2} - \\frac{x^4}{4}\\right]_0^1 = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}$ unidades cuadradas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W37-area-entre-curvas-integral-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
