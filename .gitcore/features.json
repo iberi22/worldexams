@@ -510,7 +510,7 @@
       "progress_pct": 100.0,
       "status": "experimental",
       "implemented_in": "saberparatodos/src/lib/juego/types.ts, saberparatodos/src/lib/juego/elo.ts, saberparatodos/src/lib/juego/xp.ts, saberparatodos/src/lib/juego/store.ts, saberparatodos/src/lib/juego/engine.test.ts, saberparatodos/src/lib/juego/semaforo.ts, saberparatodos/src/components/juego/LigaSemanal.svelte, saberparatodos/src/components/juego/OlimpiadaHub.svelte, saberparatodos/src/components/juego/PantallaVictoria.svelte, saberparatodos/src/components/juego/BoletinFormativo.svelte, saberparatodos/src/components/juego/ProgresoJuego.svelte, saberparatodos/src/components/juego/LigaPanel.svelte, saberparatodos/src/components/juego/OlimpiadaPanel.svelte, saberparatodos/src/pages/juego/index.astro, saberparatodos/src/pages/juego/liga.astro, saberparatodos/src/pages/juego/olimpiada.astro",
-      "evidence": "F1 (2026-09-23): motor Elo K=32/K=8 tope 2200 + tablas DECISION-ELO-MMR + matchmaking ±200 + XP/tiers + store local semanal. engine.test.ts 13/13 PASS. tsc 0. F2 (2026-09-23): semáforo por micro-competencia (🟢≥80/🟡50-79/🔴<50) + narrativa adaptativa + componente Svelte con barras y ARIA. semaforo.test.ts 5/5 PASS. astro build OK. F3 (2026-09-23): reintentos con cooldown 12min + tema foco + max 3 intentos + nota=max + studyLink slug. reintentos.test.ts 6/6 PASS. F4 (2026-09-23): ligas de 30 deterministas (hash semana+tier), 29 seudónimos isSimulated, ascenso/descenso 5/5 por XP, ventana de 5. ligas.test.ts 5/5 PASS. F7 (2026-09-23): seasons Q1-Q4 + esElegible (Oro+ 2 sem + simulacro ≥60/≥70%) + ventana 72h + set común 20. olimpiada.test.ts 6/6 PASS. F9 (2026-09-23): 7 componentes Svelte + 3 rutas /juego. astro build OK con rutas nuevas.",
+      "evidence": "F1 (2026-09-23): motor Elo K=32/K=8 tope 2200 + tablas DECISION-ELO-MMR + matchmaking ±200 + XP/tiers + store local semanal. engine.test.ts 13/13 PASS. tsc 0. F2 (2026-09-23): semáforo por micro-competencia (🟢≥80/🟡50-79/🔴<50) + narrativa adaptativa + componente Svelte con barras y ARIA. semaforo.test.ts 5/5 PASS. astro build OK. F3 (2026-09-23): reintentos con cooldown 12min + tema foco + max 3 intentos + nota=max + studyLink slug. reintentos.test.ts 6/6 PASS. F4 (2026-09-23): ligas de 30 deterministas (hash semana+tier), 29 seudónimos isSimulated, ascenso/descenso 5/5 por XP, ventana de 5. ligas.test.ts 5/5 PASS. F7 (2026-09-23): seasons Q1-Q4 + esElegible (Oro+ 2 sem + simulacro ≥60/≥70%) + ventana 72h + set común 20. olimpiada.test.ts 6/6 PASS. F9 (2026-09-23): 7 componentes Svelte + 3 rutas /juego. astro build OK con rutas nuevas. Mejora K adaptativo 40/32/16 + ancla 10% (hallazgo test 60q Obscura, anti-espiral novatos).",
       "caveat": "No implementada. Depende de feat-mesh-transport para sync de ligas. Requiere gate BR-03/BR-04/BR-06 desde el primer commit.",
       "steps": [
         "F1 tipos + motor Elo/XP + tests",
@@ -522,8 +522,8 @@
       ],
       "name": "Área /juego: Elo + ligas semanales (plan)",
       "github_issue": null,
-      "verified_by": "vitest root 713 PASS + tsc 0 + astro build OK",
-      "last_tested": "2026-09-23"
+      "verified_by": "vitest juego 56 + tsc 0",
+      "last_tested": "2026-09-24"
     },
     {
       "id": "feat-olimpiadas-goat",

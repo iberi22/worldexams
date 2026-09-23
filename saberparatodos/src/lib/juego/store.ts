@@ -37,6 +37,7 @@ export function emptyState(grade: number, now: number = Date.now()): GameState {
     streakDays: 0,
     lastActiveDay: null,
     questionElo: {},
+    attemptsPlayed: 0,
     updatedAt: now,
   };
 }
@@ -49,6 +50,7 @@ export function loadState(grade: number, now: number = Date.now()): GameState {
     if (!raw) return emptyState(grade, now);
     const parsed = JSON.parse(raw) as GameState;
     if (parsed.v !== 1 || typeof parsed.elo !== 'number') return emptyState(grade, now);
+    if (typeof parsed.attemptsPlayed !== 'number') parsed.attemptsPlayed = 0;
     // Reset semanal: semana distinta → XP a cero, Elo y racha se conservan.
     if (parsed.weekKey !== weekKey(now)) {
       parsed.xpWeekly = 0;
@@ -102,13 +104,19 @@ export interface AttemptInput {
   questionId: string;
   questionElo: number;
   correct: boolean;
+  /** Elo base de la banda (reversión a la media de la pregunta). */
+  questionAnchor?: number;
 }
 
 /** Aplica un intento: mueve Elo jugador + Elo vivo de la pregunta. Sin XP aquí. */
 export function recordAttempt(state: GameState, input: AttemptInput): { playerDelta: number; newElo: number } {
-  const r = applyAttempt(state.elo, input.questionElo, input.correct);
+  const r = applyAttempt(state.elo, input.questionElo, input.correct, {
+    attemptsPlayed: state.attemptsPlayed ?? 0,
+    questionAnchor: input.questionAnchor,
+  });
   state.elo = r.newPlayerElo;
   state.questionElo[input.questionId] = r.newQuestionElo;
+  state.attemptsPlayed = (state.attemptsPlayed ?? 0) + 1;
   return { playerDelta: r.playerDelta, newElo: r.newPlayerElo };
 }
 
