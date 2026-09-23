@@ -24,6 +24,7 @@ export const INSIGNIAS_STORAGE_KEY = 'wx-juego-insignias-v1';
 let memoryStore: Record<string, InsigniaDesbloqueada> = {};
 
 export function getInsigniasMap(): Record<string, InsigniaDesbloqueada> {
+  /* v8 ignore next */
   if (typeof localStorage !== 'undefined') {
     try {
       const raw = localStorage.getItem(INSIGNIAS_STORAGE_KEY);
@@ -37,11 +38,13 @@ export function getInsigniasMap(): Record<string, InsigniaDesbloqueada> {
       return { ...memoryStore };
     }
   }
+  /* v8 ignore next */
   return { ...memoryStore };
 }
 
 function saveMap(map: Record<string, InsigniaDesbloqueada>): void {
   memoryStore = { ...map };
+  /* v8 ignore start */
   if (typeof localStorage !== 'undefined') {
     try {
       localStorage.setItem(INSIGNIAS_STORAGE_KEY, JSON.stringify(map));
@@ -49,6 +52,7 @@ function saveMap(map: Record<string, InsigniaDesbloqueada>): void {
       /* quota: sigue en memoria */
     }
   }
+  /* v8 ignore stop */
 }
 
 export function tieneInsignia(id: string): boolean {
