@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-34-grade-10-subject-matematicas",
+    "generated_at": "2026-09-23T00:27:43.791Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el resultado de aplicar la regla de la potencia $\\int x^n \\, dx$ cuando $n \\neq -1$?",
+      "context": "En Bogotá, Valentina repasa en clase la regla de la potencia para integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$nx^{n-1} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula de la derivada, no la de la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x^{n+1}}{n+1} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Se sube el exponente en 1 y se divide entre el nuevo exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x^{n+1} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir entre $n+1$."
+        },
+        {
+          "letter": "D",
+          "text": "$(n+1)x^n + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura de la respuesta no corresponde a la regla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para $n \\neq -1$, la regla de la potencia para integrales establece $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$, lo que es la operación inversa de derivar $x^{n+1}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué establece la regla del múltiplo constante $\\int k \\cdot f(x) \\, dx$?",
+      "context": "En Medellín, Santiago explica la regla del múltiplo constante para integrar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$k + \\int f(x) \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante no se suma al resultado de la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$k \\int f(x) \\, dx + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La constante $k$ sale de la integral multiplicando la antiderivada de $f$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\int k \\cdot f(x) \\, dx$ no se puede simplificar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede factorizar la constante."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int k \\, dx + \\int f(x) \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante $k$ no se trata como una integral separada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla del múltiplo constante indica que una constante multiplicando una función puede salir del signo integral: $\\int k \\cdot f(x) \\, dx = k \\int f(x) \\, dx + C$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la integral $\\int (f(x) + g(x)) \\, dx$ según la regla de la suma?",
+      "context": "En Cali, Mariana combina dos reglas: el múltiplo constante y la suma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int f(x) \\, dx + \\int g(x) \\, dx + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La integral de una suma es la suma de las integrales."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int f(x) \\, dx \\cdot \\int g(x) \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma no se convierte en producto de integrales."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) \\cdot g(x) + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería el producto de funciones, no su integral."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int f(x) \\, dx - \\int g(x) \\, dx$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma no se transforma en resta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La integral es lineal: la integral de una suma (o diferencia) es la suma (o diferencia) de las integrales de cada sumando, con una sola constante $+C$ al final.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el resultado de $\\int 6x^2 \\, dx$?",
+      "context": "En Cartagena, Valentina debe integrar $f(x) = 6x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la derivada, no la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^3 + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla de la potencia con $n=2$ y el múltiplo constante $6$."
+        },
+        {
+          "letter": "C",
+          "text": "$6x^3 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $6$ entre $3$ como si dieran $2$, pero omitiste dividir."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No subiste el exponente a $3$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando la regla de la potencia: $\\int 6x^2 \\, dx = 6 \\cdot \\frac{x^{3}}{3} + C = 2x^3 + C$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el resultado de la integral?",
+      "context": "En Barranquilla, Santiago calcula $\\int 5x^4 \\, dx$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^5 + C$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\int 5x^4 \\, dx = 5 \\cdot \\frac{x^5}{5} + C = x^5 + C$."
+        },
+        {
+          "letter": "B",
+          "text": "$5x^5 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste $5$ entre el nuevo exponente $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^4 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajaste el exponente en vez de subirlo."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5x^5}{4} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre el exponente anterior $4$ en vez del nuevo $5$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la regla de la potencia: $\\int 5x^4 \\, dx = 5 \\cdot \\frac{x^{5}}{5} + C = x^5 + C$. El factor $5$ y el divisor $5$ se cancelan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado correcto?",
+      "context": "En Bucaramanga, Mariana integra $\\int (3x^2 + 4x - 2) \\, dx$ combinando las reglas básicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6x + 4 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la derivada, no la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$3x^3 + 4x^2 - 2x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste el cociente, debiste dividir cada término entre su nuevo exponente."
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 2x^2 - 2x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada término se integra por separado: $\\int 3x^2 dx = x^3$, $\\int 4x dx = 2x^2$, $\\int -2 dx = -2x$."
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 + 2x^2 - 2x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la constante $+C$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se aplica la regla de la potencia a cada monomio: $\\int 3x^2 dx = x^3$, $\\int 4x dx = 2x^2$, $\\int -2 dx = -2x$. La suma final, más $+C$, da $x^3 + 2x^2 - 2x + C$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué es válido escribir $\\int (x^2 + x) \\, dx = \\int x^2 \\, dx + \\int x \\, dx$?",
+      "context": "En Pereira, Valentina observa que $\\int (x^2 + x) \\, dx$ se puede separar como suma de integrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la integral solo aplica a funciones positivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral se aplica a funciones con cualquier signo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el producto de integrales equivale a la integral del producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla aplica a sumas, no a productos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la integral es lineal y la integral de una suma es la suma de las integrales.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una consecuencia directa de la linealidad de la integral."
+        },
+        {
+          "letter": "D",
+          "text": "Porque $x^2$ y $x$ son funciones iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son funciones distintas, aunque relacionadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La integral indefinida es una operación lineal: respeta sumas y múltiplos constantes, por lo que $\\int (f+g) \\, dx = \\int f \\, dx + \\int g \\, dx$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la fórmula $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$ no aplica cuando $n = -1$?",
+      "context": "En Medellín, Santiago debe reconocer qué regla falla cuando $n = -1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en $n = -1$ la derivada de $\\frac{x^{n+1}}{n+1}$ no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada sí existe para cualquier $n$, el problema es la división por cero."
+        },
+        {
+          "letter": "B",
+          "text": "Porque al sustituir $n = -1$ se divide entre $0$, lo que no está definido.",
+          "is_correct": true,
+          "feedback": "Correcto. El denominador $n+1$ se anula y la expresión deja de tener sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la fórmula solo aplica a exponentes enteros positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla funciona para cualquier $n \\neq -1$, incluso negativo o fraccionario."
+        },
+        {
+          "letter": "D",
+          "text": "Porque con $n = -1$ el resultado es una raíz cuadrada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma del resultado no depende de raíces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula requiere $n \\neq -1$, ya que el denominador $n+1$ se vuelve cero. Para ese caso se usa la regla especial $\\int \\frac{1}{x} \\, dx = \\ln|x| + C$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el resultado?",
+      "context": "En Cali, Mariana combina múltiples reglas para resolver $\\int (8x^3 - 12x^2 + 5) \\, dx$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24x^2 - 24x + 5 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la derivada, no la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$2x^4 - 4x^3 + 5x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada monomio se integra por separado aplicando potencia y múltiplo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$2x^4 - 4x^3 + 5x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la constante $+C$."
+        },
+        {
+          "letter": "D",
+          "text": "$2x^4 - 4x^3 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te faltó integrar la constante $5$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por la regla de la potencia: $\\int 8x^3 dx = 2x^4$, $\\int -12x^2 dx = -4x^3$, $\\int 5 dx = 5x$. Sumando, queda $2x^4 - 4x^3 + 5x + C$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la valoración correcta de esa respuesta?",
+      "context": "En Bogotá, un estudiante propone $\\int 4x^3 \\, dx = x^4$ sin la constante $+C$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente correcta, porque $x^4$ es una antiderivada válida de $4x^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta la constante $+C$ exigida por la integral indefinida."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta solo si no se evalúa en un punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición no tiene relación con la presencia de $+C$."
+        },
+        {
+          "letter": "C",
+          "text": "Es incompleta: la integral indefinida exige $+C$ para representar todas las antiderivadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque $x^4$ es una antiderivada particular, la familia completa es $x^4 + C$."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta porque $x^4$ no es antiderivada de $4x^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí lo es: la derivada de $x^4$ es $4x^3$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La integral indefinida devuelve la familia completa de antiderivadas, no solo una. Por tanto, debe escribirse $\\int 4x^3 \\, dx = x^4 + C$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v11",
+      "statement": "Si una estudiante obtuvo $\\int (3x^2 - 6x) \\, dx = x^3 - 6x^2 + C$, ¿cuál es la mejor forma de comprobar el resultado?",
+      "context": "En Medellín, Santiago verifica su propia respuesta derivando el resultado de una integral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Graficar la función primitiva y medir su altura máxima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura máxima no verifica la derivada."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar todos los coeficientes y verificar que el total dé $0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese procedimiento no tiene relación con la derivada."
+        },
+        {
+          "letter": "C",
+          "text": "Derivar el resultado y comprobar que se recupera la función original $3x^2 - 6x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por definición, la derivada de la primitiva debe coincidir con el integrando."
+        },
+        {
+          "letter": "D",
+          "text": "Derivar el resultado y dividir entre el número de términos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir no aporta información."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para verificar una integral indefinida, basta derivar el resultado. Si la derivada coincide con el integrando, la primitiva es correcta y la constante $+C$ desaparece automáticamente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la expresión general correcta?",
+      "context": "En Cartagena, Valentina debe integrar $\\int (ax^2 + bx + c) \\, dx$ en términos de los parámetros $a$, $b$, $c$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$ax^3 + bx^2 + cx + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No dividiste cada coeficiente entre el nuevo exponente."
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{a}{3}x^3 + \\frac{b}{2}x^2 + cx + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada monomio se integra aplicando la regla de la potencia y el múltiplo constante."
+        },
+        {
+          "letter": "C",
+          "text": "$2ax + b + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la derivada, no la integral."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{a}{3}x^3 + \\frac{b}{2}x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te faltó el término lineal $cx$ proveniente de la constante $c$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicando término a término: $\\int ax^2 dx = \\frac{a}{3}x^3$, $\\int bx dx = \\frac{b}{2}x^2$, $\\int c dx = cx$, y se suma $+C$. Así, $\\int (ax^2 + bx + c) \\, dx = \\frac{a}{3}x^3 + \\frac{b}{2}x^2 + cx + C$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W34-reglas-basicas-integracion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
