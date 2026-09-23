@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import OlimpiadaPanel from '../../components/juego/OlimpiadaPanel.svelte';
+---
+
+<Layout title="Olimpiada | SaberParaTodos" description="Panel de Olimpiada en Juego">
+  <div data-testid="juego-olimpiada-page" class="min-h-screen bg-[#121212] text-[#F5F5DC] p-4 sm:p-8">
+    <div class="max-w-4xl mx-auto space-y-6">
+      <a
+        href="/juego"
+        class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm"
+      >
+        ← Volver a Juego
+      </a>
+      <h1 class="text-3xl sm:text-4xl font-bold tracking-tight">Olimpiada</h1>
+      <p class="text-sm text-white/60">
+        Compite a nivel nacional en las olimpiadas de conocimiento.
+      </p>
+      <OlimpiadaPanel client:load />
+    </div>
+  </div>
+</Layout>

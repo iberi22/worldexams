@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import LigaPanel from '../../components/juego/LigaPanel.svelte';
+---
+
+<Layout title="Mi Liga | SaberParaTodos" description="Panel de Mi Liga en Juego">
+  <div data-testid="juego-liga-page" class="min-h-screen bg-[#121212] text-[#F5F5DC] p-4 sm:p-8">
+    <div class="max-w-4xl mx-auto space-y-6">
+      <a
+        href="/juego"
+        class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm"
+      >
+        ← Volver a Juego
+      </a>
+      <h1 class="text-3xl sm:text-4xl font-bold tracking-tight">Mi liga</h1>
+      <p class="text-sm text-white/60">
+        Clasificación y progreso de tu división.
+      </p>
+      <LigaPanel client:load />
+    </div>
+  </div>
+</Layout>
