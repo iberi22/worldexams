@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-12-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T02:11:20.403Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v1",
+      "statement": "Para que exista trabajo mecánico sobre un cuerpo, ¿qué condición física es indispensable?",
+      "context": "En una de las estaciones del Metrocable de Medellín, un operario observa cómo las cabinas se deslizan por los cables hasta la cima del cerro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que actúe una fuerza neta sobre el cuerpo y que este se desplace en la dirección de la fuerza.",
+          "is_correct": true,
+          "feedback": "Correcto. El trabajo mecánico requiere simultáneamente fuerza neta no nula y desplazamiento en la dirección de esa fuerza ($W = F \\cdot d \\cdot \\cos\\theta$)."
+        },
+        {
+          "letter": "B",
+          "text": "Que únicamente se aplique una fuerza sobre el cuerpo en reposo, sin desplazamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin desplazamiento no hay trabajo mecánico, por más intensa que sea la fuerza aplicada."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cuerpo se mueva a gran velocidad aunque no exista fuerza neta aplicada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la fuerza neta es nula y el cuerpo solo se mueve por inercia, el trabajo realizado es cero."
+        },
+        {
+          "letter": "D",
+          "text": "Que la masa y la velocidad del cuerpo aumenten al mismo tiempo de manera considerable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo mecánico no depende de cambios en la masa, sino de fuerza y desplazamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo mecánico se aplica por una fuerza neta que produce desplazamiento en la dirección de la fuerza. Si la fuerza y el desplazamiento son perpendiculares ($\\theta = 90^\\circ$), el trabajo es nulo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el trabajo mecánico que el ebanista realiza sobre la viga?",
+      "context": "En un taller de carpintería en Cali, un ebanista empuja horizontalmente una viga de madera aplicando una fuerza constante de $80\\text{ N}$ y la desplaza $5\\text{ m}$ en la misma dirección y sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$400\\text{ J}$",
+          "is_correct": true,
+          "feedback": "Correcto. $W = F \\cdot d = 80\\text{ N} \\times 5\\text{ m} = 400\\text{ J}$."
+        },
+        {
+          "letter": "B",
+          "text": "$16\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste erróneamente la fuerza entre el desplazamiento ($80/5$)."
+        },
+        {
+          "letter": "C",
+          "text": "$85\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste fuerza y desplazamiento; el trabajo se obtiene multiplicando."
+        },
+        {
+          "letter": "D",
+          "text": "$75\\text{ J}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste desplazamiento a la fuerza, operación sin sentido físico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$W = F \\cdot d \\cdot \\cos\\theta$. Con fuerza y desplazamiento paralelos ($\\theta = 0^\\circ$), $W = 80\\text{ N} \\times 5\\text{ m} = 400\\text{ J}$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la unidad de medida de la potencia mecánica en el Sistema Internacional (SI)?",
+      "context": "En el puerto de Barranquilla, las grúas pórtico mueven contenedores rápidamente entre los buques y los patios de almacenamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watt (W)",
+          "is_correct": true,
+          "feedback": "Correcto. $1\\text{ W} = 1\\text{ J/s}$; el watt es la unidad SI de potencia en homenaje a James Watt."
+        },
+        {
+          "letter": "B",
+          "text": "Joule (J)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El joule mide energía o trabajo, no potencia."
+        },
+        {
+          "letter": "C",
+          "text": "Newton (N)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El newton es la unidad de fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Pascal (Pa)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pascal mide presión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia relaciona trabajo y tiempo: $P = W/t$. Su unidad SI es el watt ($1\\text{ W} = 1\\text{ J/s}$), aunque también se usan caballos de fuerza (HP) o kilovatios (kW).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la potencia media desarrollada por el motor del ascensor durante el ascenso?",
+      "context": "En un edificio residencial del centro de Medellín, el motor de un ascensor sube una carga de $1200\\text{ N}$ hasta una altura de $8\\text{ m}$ en $12\\text{ s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$800\\text{ W}$",
+          "is_correct": true,
+          "feedback": "Correcto. $W = 1200 \\times 8 = 9600\\text{ J}$ y $P = 9600/12 = 800\\text{ W}$."
+        },
+        {
+          "letter": "B",
+          "text": "$14400\\text{ W}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste peso por altura pero olvidaste dividir por el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "$9600\\text{ W}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtuviste el trabajo pero no lo dividiste entre el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "$150\\text{ W}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la altura entre el tiempo sin considerar la fuerza aplicada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P_{\\text{media}} = W/t = (F \\cdot d)/t = (1200 \\cdot 8)/12 = 800\\text{ W}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la fuerza mínima que debe aplicarse en el otro extremo para equilibrar la roca?",
+      "context": "En una finca cafetera de Manizales, se usa una palanca de primer género para mover rocas. El punto de apoyo se ubica a $0{,}5\\text{ m}$ de la roca ($200\\text{ N}$) y a $1{,}5\\text{ m}$ del extremo donde se aplica la fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 66{,}7\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. Por equilibrio de momentos $F_1 \\cdot d_1 = F_2 \\cdot d_2$, entonces $F_1 = (200 \\cdot 0{,}5)/1{,}5 = 66{,}67\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$200\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo si las distancias fueran iguales la fuerza aplicada igualaría a la carga."
+        },
+        {
+          "letter": "C",
+          "text": "$600\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste carga por distancia del lado contrario sin dividir."
+        },
+        {
+          "letter": "D",
+          "text": "$100\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la mitad de la carga, pero aquí las distancias no son iguales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ley de la palanca: $F_1 \\cdot d_1 = F_2 \\cdot d_2$. La fuerza mínima es $F_1 = (200 \\cdot 0{,}5)/1{,}5 \\approx 66{,}7\\text{ N}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la fuerza paralela mínima que debe aplicar el estibador para subir la caja?",
+      "context": "En el puerto de Cartagena, un estibador empuja una caja de $60\\text{ N}$ a velocidad constante por un plano inclinado ideal (sin rozamiento) de $3\\text{ m}$ de longitud y $1\\text{ m}$ de altura, mediante una fuerza paralela al plano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20\\text{ N}$",
+          "is_correct": true,
+          "feedback": "Correcto. En plano ideal sin rozamiento, $F = (P \\cdot h)/L = (60 \\cdot 1)/3 = 20\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "$60\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el peso con la fuerza paralela necesaria; el plano reduce la fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "$180\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste peso por longitud, pero debías dividir entre la altura."
+        },
+        {
+          "letter": "D",
+          "text": "$15\\text{ N}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste longitud entre peso sin considerar la altura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un plano inclinado ideal, $F_{\\text{paralela}} = P \\cdot (h/L)$. Con $h = 1\\text{ m}$ y $L = 3\\text{ m}$, $F = 20\\text{ N}$, una tercera parte del peso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la eficiencia (rendimiento) del montacargas durante la operación?",
+      "context": "En un taller mecánico de Medellín, un montacargas eleva un motor de $800\\text{ N}$ a una altura de $2\\text{ m}$, realizando un trabajo total de $2000\\text{ J}$ sobre el sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$80\\%$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\eta = (W_{\\text{útil}}/W_{\\text{total}}) \\cdot 100 = (800 \\cdot 2/2000) \\cdot 100 = 80\\%$."
+        },
+        {
+          "letter": "B",
+          "text": "$25\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtuviste la fracción inversa o confundiste trabajo total con trabajo útil."
+        },
+        {
+          "letter": "C",
+          "text": "$100\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se logra $100\\%$ de eficiencia en sistemas ideales sin fricción, lo cual no ocurre en máquinas reales."
+        },
+        {
+          "letter": "D",
+          "text": "$40\\%$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste una proporción entre trabajo útil y altura, no entre útil y total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La eficiencia compara el trabajo útil con el trabajo total invertido: $\\eta = (W_{\\text{útil}}/W_{\\text{total}}) \\cdot 100$. Aquí $W_{\\text{útil}} = 1600\\text{ J}$ y $\\eta = 80\\%$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la potencia total (de entrada) que debe entregar el motor eléctrico al sistema?",
+      "context": "En el sistema de cable aéreo de Pereira, se transportan $20$ personas con un peso promedio de $700\\text{ N}$ cada una hasta una altura de $400\\text{ m}$ en $2$ minutos. La eficiencia global del sistema electromecánico es del $60\\%$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 77\\,778\\text{ W}$",
+          "is_correct": true,
+          "feedback": "Correcto. $W_{\\text{útil}} = 20 \\cdot 700 \\cdot 400 = 5\\,600\\,000\\text{ J}$; $P_{\\text{útil}} = 5\\,600\\,000/120 \\approx 46\\,667\\text{ W}$; $P_{\\text{total}} = P_{\\text{útil}}/\\eta \\approx 77\\,778\\text{ W}$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\approx 46\\,667\\text{ W}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtuviste la potencia útil, pero olvidaste considerar la eficiencia menor a $100\\%$."
+        },
+        {
+          "letter": "C",
+          "text": "$\\approx 28\\,000\\text{ W}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste peso total por tiempo y dividiste por la altura, sin coherencia dimensional."
+        },
+        {
+          "letter": "D",
+          "text": "$\\approx 9\\,333\\text{ W}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste trabajo total entre $600\\text{ s}$, pero no calculaste correctamente $W_{\\text{total}}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$W_{\\text{útil}} = mgh$ para subir las personas, $P_{\\text{útil}} = W/t$, y la potencia de entrada es $P_{\\text{entrada}} = P_{\\text{útil}}/\\eta$. Con $\\eta = 0{,}6$, se obtiene $\\approx 77\\,778\\text{ W}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente la ventaja mecánica (VM) teórica de cada sistema y la fuerza necesaria para subir el tronco?",
+      "context": "En un aserrío de Bucaramanga, se comparan dos sistemas para subir troncos de $1200\\text{ N}$ a una plataforma de $1{,}2\\text{ m}$ de altura: (a) un plano inclinado ideal de $3\\text{ m}$ y (b) un aparejo con dos poleas móviles (ideal).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plano: VM $= 2{,}5$ y fuerza ≈ $480\\text{ N}$; Aparejo: VM $= 4$ y fuerza $= 300\\text{ N}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Plano: $F = P \\cdot h/L = 1200 \\cdot 1{,}2/3 = 480\\text{ N}$, VM $= 3/1{,}2 = 2{,}5$. Aparejo con $2$ poleas móviles: VM $= 2^2 = 4$, $F = 1200/4 = 300\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "Plano: VM $= 3$ y fuerza $= 400\\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\\text{ N}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la longitud como denominador sin considerar la altura."
+        },
+        {
+          "letter": "C",
+          "text": "Plano: VM $= 2{,}5$ y fuerza $= 480\\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\\text{ N}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una polea móvil tendría VM $= 2$; con dos, la VM teórica es $4$."
+        },
+        {
+          "letter": "D",
+          "text": "Plano: VM $= 1{,}2$ y fuerza $= 1000\\text{ N}$; Aparejo: VM $= 4$ y fuerza $= 300\\text{ N}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la altura con la longitud al calcular VM del plano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La VM teórica del plano inclinado ideal es $L/h$, mientras que la de un aparejo con $n$ poleas móviles es $2^n$. En el aparejo de $2$ poleas, VM $= 4$ y la fuerza baja a $300\\text{ N}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué persona desarrolla mayor potencia mecánica media y cuánto aproximadamente?",
+      "context": "En Medellín, dos personas de distinto peso suben corriendo las mismas escaleras hasta un mismo piso. La persona A ($700\\text{ N}$) tarda $20\\text{ s}$, y la persona B ($800\\text{ N}$) tarda $22\\text{ s}$, recorriendo ambas un desnivel de $6\\text{ m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Persona B, con $\\approx 218\\text{ W}$.",
+          "is_correct": true,
+          "feedback": "Correcto. Persona A: $P = (700 \\cdot 6)/20 = 210\\text{ W}$; Persona B: $P = (800 \\cdot 6)/22 \\approx 218\\text{ W}$. B es ligeramente mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Persona A, con $\\approx 210\\text{ W}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque A sube más rápido, su menor peso reduce levemente la potencia final frente a B."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas desarrollan la misma potencia, $\\approx 214\\text{ W}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Peso y tiempo diferentes producen potencias medias distintas."
+        },
+        {
+          "letter": "D",
+          "text": "No es posible calcular la potencia sin conocer la masa exacta de cada persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con peso total (N) y altura basta para calcular trabajo y potencia media."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$P_{\\text{media}} = W/t = (P \\cdot h)/t$. Aunque A sube más rápido, B realiza más trabajo útil. Aquí B alcanza $\\approx 218\\text{ W}$, ligeramente superior a los $210\\text{ W}$ de A.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa correctamente la opción más eficiente para reducir el esfuerzo del trabajador?",
+      "context": "Un agricultor en una finca cafetera de Manizales debe subir sacos de café de $600\\text{ N}$ a la plataforma de un camión a $1{,}2\\text{ m}$ de altura. Tiene tres opciones mecánicas ideales disponibles: (a) plano inclinado de $3\\text{ m}$, (b) plano inclinado de $6\\text{ m}$, (c) polea móvil simple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plano de $6\\text{ m}$ (VM $= 5$) es la mejor opción porque minimiza la fuerza necesaria a $120\\text{ N}$, aunque implique mayor distancia recorrida.",
+          "is_correct": true,
+          "feedback": "Correcto. VM del plano de $6\\text{ m}$ $= 6/1{,}2 = 5$; fuerza $= 600/5 = 120\\text{ N}$. La polea móvil da VM $= 2$ y el plano de $3\\text{ m}$ da VM $= 2{,}5$."
+        },
+        {
+          "letter": "B",
+          "text": "La polea móvil simple es la mejor opción porque tiene VM fija de $2$ y siempre será mejor que cualquier plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polea tiene VM $= 2$, menor que la VM $= 5$ del plano de $6\\text{ m}$."
+        },
+        {
+          "letter": "C",
+          "text": "El plano de $3\\text{ m}$ es la mejor opción porque requiere menos desplazamiento total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menor recorrido no implica mayor VM ni menor fuerza aplicada."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres opciones ofrecen exactamente la misma ventaja mecánica porque realizan el mismo trabajo útil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La VM depende de la geometría de la máquina, no del trabajo útil total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La VM teórica es: plano $= L/h$, polea móvil $= 2$. El plano de $6\\text{ m}$ ofrece la mayor VM ($5$) y por tanto la menor fuerza ($120\\text{ N}$), aunque el trabajador deba recorrer más distancia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle-v12",
+      "statement": "¿Cuánto ahorra la empresa mensualmente en costos de electricidad gracias al cambio de motor?",
+      "context": "Una industria metalmecánica en Cartagena reemplaza un motor antiguo que entrega $5\\text{ kW}$ útiles con eficiencia del $50\\%$ por un motor nuevo que entrega los mismos $5\\text{ kW}$ útiles con eficiencia del $90\\%$. El motor opera $8$ horas al día durante $30$ días y el kWh industrial cuesta $750\\text{ COP}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\approx 800\\,000\\text{ COP}$",
+          "is_correct": true,
+          "feedback": "Correcto. Motor viejo: $P_{\\text{entrada}} = 5/0{,}5 = 10\\text{ kW}$, energía $= 2400\\text{ kWh}$, costo $= 1\\,800\\,000\\text{ COP}$. Motor nuevo: $P_{\\text{entrada}} = 5/0{,}9 \\approx 5{,}56\\text{ kW}$, energía $\\approx 1333{,}3\\text{ kWh}$, costo $\\approx 1\\,000\\,000\\text{ COP}$. Ahorro $\\approx 800\\,000\\text{ COP}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1\\,800\\,000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el costo total del motor viejo, no el ahorro neto."
+        },
+        {
+          "letter": "C",
+          "text": "$1\\,000\\,000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el costo total del motor nuevo, no la diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "$200\\,000\\text{ COP}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste la energía consumida y por tanto el ahorro real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Motor viejo: $10\\text{ kW} \\times 8\\text{ h} \\times 30 = 2400\\text{ kWh} \\rightarrow 1\\,800\\,000\\text{ COP}$. Motor nuevo: $5{,}56\\text{ kW} \\times 8\\text{ h} \\times 30 \\approx 1333\\text{ kWh} \\rightarrow 1\\,000\\,000\\text{ COP}$. Ahorro aproximado: $800\\,000\\text{ COP}$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W12-trabajo-potencia-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

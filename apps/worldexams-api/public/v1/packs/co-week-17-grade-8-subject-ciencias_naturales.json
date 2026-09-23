@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-17-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T02:11:20.406Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de carga adquiere el globo al ser frotado contra el suéter?",
+      "context": "En el laboratorio del colegio en Medellín, una estudiante frota un globo contra suéter y lo acerca a pequeños trozos de papel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carga negativa, porque gana electrones del suéter",
+          "is_correct": true,
+          "feedback": "Al frotar el globo, este gana electrones transferidos desde el suéter, quedando con carga neta negativa según el modelo atómico."
+        },
+        {
+          "letter": "B",
+          "text": "Carga positiva, porque gana electrones del suéter",
+          "is_correct": false,
+          "feedback": "Si gana electrones, la carga es negativa; confundiste el signo asociado al exceso de electrones."
+        },
+        {
+          "letter": "C",
+          "text": "Carga neutra, porque no hay transferencia de protones",
+          "is_correct": false,
+          "feedback": "Los protones no se transfieren al frotar; sí hay carga neta porque se mueven electrones."
+        },
+        {
+          "letter": "D",
+          "text": "Carga negativa, porque pierde protones hacia el suéter",
+          "is_correct": false,
+          "feedback": "Los protones permanecen en el núcleo y no se transfieren por fricción; lo que se transfieren son electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La electrización por fricción ocurre por transferencia de electrones entre dos materiales. El globo queda con carga negativa cuando gana electrones, lo que le permite atraer trozos de papel neutros por inducción. Este fenómeno demuestra que la carga eléctrica se conserva y que solo los electrones son móviles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la definición correcta de corriente eléctrica?",
+      "context": "En una casa del barrio Chapinero en Bogotá, varios electrodomésticos funcionan simultáneamente conectados al mismo circuito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El flujo ordenado de electrones a través de un conductor por unidad de tiempo",
+          "is_correct": true,
+          "feedback": "La corriente es el movimiento dirigido de cargas eléctricas (electrones en metales) medido en amperios."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad total de electrones almacenados en un cable apagado",
+          "is_correct": false,
+          "feedback": "Si no hay flujo, no hay corriente; el almacenamiento estático no es corriente eléctrica."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia de potencial entre dos puntos de un circuito abierto",
+          "is_correct": false,
+          "feedback": "Eso corresponde al voltaje, no a la corriente; se necesita un circuito cerrado para que haya corriente."
+        },
+        {
+          "letter": "D",
+          "text": "La resistencia que opone un material al paso de los protones",
+          "is_correct": false,
+          "feedback": "La resistencia se opone al paso de electrones (no protones); confundiste el portador de carga en metales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La corriente eléctrica (I) se mide en amperios (A) y representa la cantidad de carga que atraviesa una sección transversal del conductor por segundo. En los metales, los electrones libres son los portadores que se mueven de forma ordenada cuando hay un campo eléctrico aplicado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la diferencia fundamental entre voltaje y corriente eléctrica?",
+      "context": "Un técnico de EPM en Medellín explica a unos usuarios la diferencia entre lo que mide el voltímetro y el amperímetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El voltaje es la diferencia de potencial entre dos puntos; la corriente es el flujo de carga por unidad de tiempo",
+          "is_correct": true,
+          "feedback": "V (voltios) mide energía por unidad de carga; I (amperios) mide carga por unidad de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "El voltaje se mide en amperios y la corriente en ohmios",
+          "is_correct": false,
+          "feedback": "Las unidades están invertidas; el voltaje se mide en voltios y la corriente en amperios."
+        },
+        {
+          "letter": "C",
+          "text": "El voltaje solo existe en circuitos serie y la corriente solo en paralelo",
+          "is_correct": false,
+          "feedback": "Ambos conceptos aplican a cualquier tipo de circuito; la distinción es topológica, no conceptual."
+        },
+        {
+          "letter": "D",
+          "text": "El voltaje y la corriente son la misma magnitud física con distinto nombre",
+          "is_correct": false,
+          "feedback": "Son magnitudes diferentes: una es diferencia de potencial y la otra es flujo de carga."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El voltaje (V) es la energía por unidad de carga que impulsa a los electrones; la corriente (I) es la cantidad de carga que circula por segundo. Se relacionan mediante la resistencia en la ley de Ohm: V = I · R. Sin voltaje no hay corriente en un circuito cerrado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v4",
+      "statement": "Por un resistor circula una corriente de 0,5 A cuando se conecta a una diferencia de potencial de 12 V. ¿Cuál es el valor de la resistencia?",
+      "context": "En una práctica de laboratorio en el Colegio Mayor de Medellín, un estudiante mide con un multímetro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 Ω",
+          "is_correct": true,
+          "feedback": "R = V/I = 12 V / 0,5 A = 24 Ω, aplicando correctamente la ley de Ohm."
+        },
+        {
+          "letter": "B",
+          "text": "6 Ω",
+          "is_correct": false,
+          "feedback": "Calculaste I · V en lugar de V/I; recuerda que R = V dividido entre I."
+        },
+        {
+          "letter": "C",
+          "text": "0,042 Ω",
+          "is_correct": false,
+          "feedback": "Invertiste la fórmula; el resultado correcto es dividir 12 entre 0,5, no multiplicar."
+        },
+        {
+          "letter": "D",
+          "text": "12,5 Ω",
+          "is_correct": false,
+          "feedback": "Sumaste los valores en lugar de aplicar la fórmula; usa siempre R = V/I."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de Ohm establece que V = I · R, por lo tanto R = V / I. Al sustituir: R = 12 V / 0,5 A = 24 Ω. Esta ley se cumple para conductores óhmicos a temperatura constante y es la base del análisis de circuitos resistivos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v5",
+      "statement": "Un circuito en serie tiene dos resistencias de 10 Ω cada una, conectadas a una fuente de 12 V. ¿Cuál es la corriente que circula por el circuito?",
+      "context": "En una clase de tecnología en Bogotá, los estudiantes arman un circuito serie con una pila de 9 V y dos resistencias iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,6 A",
+          "is_correct": true,
+          "feedback": "En serie R_total = 10 + 10 = 20 Ω; luego I = V/R = 12/20 = 0,6 A."
+        },
+        {
+          "letter": "B",
+          "text": "1,2 A",
+          "is_correct": false,
+          "feedback": "Usaste solo una resistencia; en serie se suman todas las resistencias."
+        },
+        {
+          "letter": "C",
+          "text": "0,3 A",
+          "is_correct": false,
+          "feedback": "Dividiste entre 40 Ω, que sería equivalente a sumar y luego duplicar; revisa el cálculo."
+        },
+        {
+          "letter": "D",
+          "text": "2,4 A",
+          "is_correct": false,
+          "feedback": "Multiplicaste en lugar de dividir; recuerda que I = V/R."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un circuito en serie, la resistencia equivalente es la suma de las resistencias individuales (R_eq = R1 + R2 = 20 Ω). La corriente es la misma en todos los componentes y se calcula con I = V / R_eq = 12 V / 20 Ω = 0,6 A.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v6",
+      "statement": "En un circuito en paralelo con tres resistencias idénticas de 30 Ω conectadas a 120 V, ¿cuál es el voltaje en cada resistencia?",
+      "context": "Tres bombillas idénticas se conectan en paralelo al circuito eléctrico de una vivienda en Envigado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 V en cada una",
+          "is_correct": true,
+          "feedback": "En paralelo, el voltaje es el mismo en todas las ramas e igual al de la fuente."
+        },
+        {
+          "letter": "B",
+          "text": "40 V en cada una",
+          "is_correct": false,
+          "feedback": "Dividiste el voltaje entre el número de resistencias; eso solo aplica a capacitores en serie."
+        },
+        {
+          "letter": "C",
+          "text": "360 V en cada una",
+          "is_correct": false,
+          "feedback": "Multiplicaste en lugar de mantener el voltaje; en paralelo no se suman voltajes."
+        },
+        {
+          "letter": "D",
+          "text": "90 V en cada una",
+          "is_correct": false,
+          "feedback": "Restaste 30 V por cada rama; el voltaje no depende del valor de la resistencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una propiedad clave de los circuitos en paralelo es que el voltaje (diferencia de potencial) es idéntico en cada rama e igual al voltaje de la fuente. Lo que se divide es la corriente, no el voltaje. Por eso los aparatos domésticos están conectados en paralelo a 120 V.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v7",
+      "statement": "Una estufa eléctrica opera a 120 V y consume 5 A. Si funciona 2 horas, ¿cuánta energía consume en kilovatios-hora (kWh)?",
+      "context": "En una factura de Codensa (ahora Enel-Codensa) en Bogotá, una familia observa el consumo de una estufa eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,2 kWh",
+          "is_correct": true,
+          "feedback": "P = V·I = 120·5 = 600 W = 0,6 kW; E = 0,6 kW · 2 h = 1,2 kWh."
+        },
+        {
+          "letter": "B",
+          "text": "0,6 kWh",
+          "is_correct": false,
+          "feedback": "Calculaste solo la potencia en kW, te faltó multiplicar por el tiempo de uso."
+        },
+        {
+          "letter": "C",
+          "text": "240 kWh",
+          "is_correct": false,
+          "feedback": "Multiplicaste V·I·t sin convertir unidades; 600 W · 2 h = 1200 Wh = 1,2 kWh."
+        },
+        {
+          "letter": "D",
+          "text": "60 kWh",
+          "is_correct": false,
+          "feedback": "Dividiste en lugar de multiplicar; revisa la conversión de Wh a kWh."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La potencia eléctrica se calcula como P = V · I = 120 V · 5 A = 600 W. La energía consumida es E = P · t = 600 W · 2 h = 1200 Wh = 1,2 kWh. En Colombia, el kWh es la unidad facturada por las empresas de energía como EPM, Enel-Codensa y Afinia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué en una instalación domiciliaria en Colombia las bombillas se conectan en paralelo y no en serie?",
+      "context": "Un electricista en Cali debe explicar a un cliente por qué los focos de su casa están conectados en paralelo y no en serie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el voltaje sea igual en todas y funcionen independientemente al abrir o cerrar el interruptor",
+          "is_correct": true,
+          "feedback": "En paralelo, si una bombilla se daña, las demás siguen funcionando porque cada rama es independiente."
+        },
+        {
+          "letter": "B",
+          "text": "Para que la corriente total sea mayor y consuman más energía",
+          "is_correct": false,
+          "feedback": "El consumo depende de la potencia de cada bombilla, no de la topología del circuito."
+        },
+        {
+          "letter": "C",
+          "text": "Para que la resistencia total aumente y se ahorre energía automáticamente",
+          "is_correct": false,
+          "feedback": "La resistencia en paralelo disminuye, no aumenta; el ahorro no depende de la topología."
+        },
+        {
+          "letter": "D",
+          "text": "Para que el voltaje se divida y cada bombilla reciba menos potencia",
+          "is_correct": false,
+          "feedback": "En paralelo el voltaje no se divide; cada rama recibe el voltaje completo de la fuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un circuito paralelo, cada dispositivo recibe el mismo voltaje de la fuente y opera de manera independiente. Si una bombilla se quema, las demás siguen encendidas porque la corriente puede fluir por las otras ramas. En serie, si una bombilla se apaga, todo el circuito se interrumpe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v9",
+      "statement": "Si una bombilla del circuito en serie se quema (queda como circuito abierto) y otra bombilla del circuito en paralelo se quema, ¿qué ocurre?",
+      "context": "En una feria de ciencias en Bucaramanga, dos grupos montan circuitos con tres bombillas: uno en serie y otro en paralelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En serie todas las bombillas se apagan; en paralelo solo se apaga la dañada",
+          "is_correct": true,
+          "feedback": "En serie el circuito se interrumpe totalmente; en paralelo cada rama es independiente."
+        },
+        {
+          "letter": "B",
+          "text": "En serie solo se apaga la dañada; en paralelo todas se apagan",
+          "is_correct": false,
+          "feedback": "Invertiste los efectos; el paralelo es tolerante a fallas individuales."
+        },
+        {
+          "letter": "C",
+          "text": "En ambos casos se apagan todas las bombillas",
+          "is_correct": false,
+          "feedback": "Solo en serie se apagan todas; el paralelo mantiene activas las demás ramas."
+        },
+        {
+          "letter": "D",
+          "text": "En ambos casos solo se apaga la bombilla dañada",
+          "is_correct": false,
+          "feedback": "Solo en paralelo ocurre esto; en serie se interrumpe todo el circuito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En serie, una interrupción (foco quemado) impide el paso de corriente por todo el circuito. En paralelo, cada rama tiene su propia trayectoria de corriente, por lo que la falla de un componente no afecta a los demás. Esta es la razón por la que las instalaciones eléctricas residenciales usan topología paralela.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v10",
+      "statement": "Se tiene un circuito con R1 = 10 Ω y R2 = 20 Ω en serie, esta combinación en paralelo con R3 = 15 Ω, alimentado a 30 V. ¿Cuál es la resistencia equivalente?",
+      "context": "Un taller de electrónica en Popayán arma un circuito mixto con dos resistencias en serie y una en paralelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 Ω",
+          "is_correct": true,
+          "feedback": "R_serie = 10 + 20 = 30 Ω; R_eq = (30·15)/(30+15) = 450/45 = 10 Ω."
+        },
+        {
+          "letter": "B",
+          "text": "45 Ω",
+          "is_correct": false,
+          "feedback": "Sumaste todas las resistencias; ese cálculo solo aplica si todas estuvieran en serie."
+        },
+        {
+          "letter": "C",
+          "text": "30 Ω",
+          "is_correct": false,
+          "feedback": "Calculaste solo la parte en serie y olvidaste combinar con la resistencia en paralelo."
+        },
+        {
+          "letter": "D",
+          "text": "6 Ω",
+          "is_correct": false,
+          "feedback": "Aplicaste mal la fórmula de paralelo; recuerda que es producto dividido por suma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para circuitos mixtos se simplifica por pasos. Primero, la combinación en serie: R_s = R1 + R2 = 30 Ω. Luego, en paralelo con R3: R_eq = (R_s · R3) / (R_s + R3) = (30 · 15) / (30 + 15) = 450 / 45 = 10 Ω. La resistencia equivalente siempre es menor que la menor de las resistencias en paralelo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v11",
+      "statement": "Para una sala con seis bombillas LED que deben prenderse y apagarse de forma independiente, ¿cuál es la mejor decisión de diseño eléctrico?",
+      "context": "El ingeniero eléctrico de una constructora en Medellín debe decidir el diseño del circuito para una sala de estar donde se instalarán seis luminarias LED.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectar todas las bombillas en paralelo, cada una con su interruptor independiente",
+          "is_correct": true,
+          "feedback": "El paralelo permite control independiente y que una falla no afecte a las demás luminarias."
+        },
+        {
+          "letter": "B",
+          "text": "Conectar todas en serie con un solo interruptor para ahorrar cable",
+          "is_correct": false,
+          "feedback": "En serie, si una falla todas se apagan y el voltaje se divide entre las seis, no encenderán bien."
+        },
+        {
+          "letter": "C",
+          "text": "Conectar tres en serie y tres en paralelo sin interruptores individuales",
+          "is_correct": false,
+          "feedback": "Sin interruptores individuales no hay control independiente de cada luminaria."
+        },
+        {
+          "letter": "D",
+          "text": "Conectar dos en serie, dos en paralelo y dos sueltas a la fuente",
+          "is_correct": false,
+          "feedback": "Las \"sueltas\" no tendrían trayectoria de retorno; el circuito sería inseguro y no funcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diseño correcto debe garantizar control independiente, seguridad y operación continua. La conexión en paralelo con interruptores individuales cumple con la norma eléctrica colombiana (RETIE) para instalaciones residenciales, evita fallas totales y permite seleccionar qué luces encender según la necesidad del usuario.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle-v12",
+      "statement": "Un aire acondicionado de 1.500 W queda encendido 8 horas por error durante 30 días. ¿Cuánta energía adicional consume y cuánto representará aproximadamente en la factura si EPM cobra alrededor de 750 COP por kWh?",
+      "context": "Una familia en el barrio El Poblado de Medellín recibe una factura de EPM de 180.000 COP y sospecha que un electrodoméstico está consumiendo de más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360 kWh adicionales, aproximadamente 270.000 COP extra",
+          "is_correct": true,
+          "feedback": "E = 1,5 kW · 8 h · 30 días = 360 kWh; costo = 360 · 750 = 270.000 COP."
+        },
+        {
+          "letter": "B",
+          "text": "120 kWh adicionales, aproximadamente 90.000 COP extra",
+          "is_correct": false,
+          "feedback": "Calculaste 1,5 kW · 8 h · 10 días; debes multiplicar por los 30 días del mes."
+        },
+        {
+          "letter": "C",
+          "text": "12 kWh adicionales, aproximadamente 9.000 COP extra",
+          "is_correct": false,
+          "feedback": "Olvidaste convertir vatios a kilovatios; 1.500 W = 1,5 kW."
+        },
+        {
+          "letter": "D",
+          "text": "360.000 kWh adicionales, aproximadamente 270.000.000 COP extra",
+          "is_correct": false,
+          "feedback": "No convertiste watts a kilowatts y exageraste el resultado por un factor de 1.000."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía se calcula como E = P · t. Con P = 1.500 W = 1,5 kW y t = 8 h · 30 días = 240 h, se obtiene E = 1,5 kW · 240 h = 360 kWh. Multiplicando por el costo aproximado de 750 COP/kWh en Medellín, el sobrecosto es 360 · 750 = 270.000 COP, lo que explica el aumento considerable en la factura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W17-electricidad-circuitos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

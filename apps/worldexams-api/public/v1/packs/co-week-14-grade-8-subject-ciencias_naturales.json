@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-14-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T02:11:20.405Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v1",
+      "statement": "En el colegio de Manizales, el profesor explica que el calor y la temperatura son conceptos físicos diferentes. ¿Cuál de las siguientes afirmaciones describe correctamente esa diferencia?",
+      "context": "Aula de ciencias en Manizales, en el eje cafetero colombiano, con referencia al calor de Valledupar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor es la energía térmica que se transfiere entre cuerpos a diferente temperatura, mientras que la temperatura mide la energía cinética promedio de las partículas de un cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto. El calor es energía en tránsito y la temperatura es una magnitud escalar relacionada con la agitación molecular promedio."
+        },
+        {
+          "letter": "B",
+          "text": "El calor y la temperatura son exactamente la misma magnitud física, solo que se expresan en unidades distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se relacionan, son conceptos físicos diferentes con unidades diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura es la cantidad de energía contenida en un cuerpo y se mide en joules, mientras que el calor se mide en grados Celsius.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inviertes las unidades: la temperatura se mide en °C, K o °F, y el calor en joules (J) o calorías (cal)."
+        },
+        {
+          "letter": "D",
+          "text": "El calor solamente se presenta en cuerpos que están a temperaturas muy altas, como el asfalto de Valledupar al mediodía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transferencia de calor ocurre siempre que exista diferencia de temperatura entre dos cuerpos, no solo a temperaturas altas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La temperatura es una propiedad escalar que indica el grado de agitación de las partículas de un cuerpo y se mide con termómetro en grados Celsius, Kelvin o Fahrenheit. El calor, en cambio, es la energía térmica transferida entre cuerpos que están a diferente temperatura; fluye espontáneamente del más caliente al más frío. Aunque en el habla cotidiana se usen como sinónimos, en física se distinguen claramente: la temperatura es un estado y el calor es un proceso de transferencia de energía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v2",
+      "statement": "Un estudiante observa tres fenómenos: el sol calienta la tierra en Tunja, el agua del río Magdalena forma corrientes y una cuchara de metal dentro de una olla con sopa se calienta. Estos tres hechos corresponden, en su orden, a mecanismos de transferencia de calor identificados como:",
+      "context": "Tres mecanismos de transferencia de calor en entornos colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiación, convección y conducción.",
+          "is_correct": true,
+          "feedback": "Correcto. La radiación no requiere medio material; la convección ocurre en fluidos por movimiento de masas; la conducción requiere contacto directo entre partículas."
+        },
+        {
+          "letter": "B",
+          "text": "Conducción, radiación y convección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transferencia del sol a la tierra es radiación, no conducción."
+        },
+        {
+          "letter": "C",
+          "text": "Convección, conducción y radiación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reordenaste los tres mecanismos; el sol a la tierra no es convección."
+        },
+        {
+          "letter": "D",
+          "text": "Radiación, conducción y convección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cuchara dentro de la sopa se calienta por conducción a través del metal, no por convección."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los tres mecanismos de transferencia de calor son: conducción (a través de sólidos por contacto directo entre partículas, sin transporte de materia), convección (en fluidos por movimiento de masas calientes y frías) y radiación (por ondas electromagnéticas, no requiere medio material y ocurre incluso en el vacío). Por eso el sol puede calentar la Tierra a través del vacío espacial mediante radiación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v3",
+      "statement": "Una familia de Valledupar consulta en su celular la temperatura ambiente, que marca 35 °C. El termómetro digital también muestra el valor en la escala Kelvin. ¿Por qué la escala Kelvin es considerada una escala absoluta de temperatura?",
+      "context": "Escalas termométricas y la escala Kelvin como absoluta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque su cero coincide con la mínima energía de agitación de las partículas y no toma valores negativos.",
+          "is_correct": true,
+          "feedback": "Correcto. El cero Kelvin (0 K) equivale a -273,15 °C y representa el cero absoluto, donde la agitación molecular es mínima."
+        },
+        {
+          "letter": "B",
+          "text": "Porque fue inventada por el colombiano José Celestino Mutis y se usa solamente en nuestro país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala Kelvin fue propuesta por el físico británico William Thomson (Lord Kelvin) y es de uso internacional."
+        },
+        {
+          "letter": "C",
+          "text": "Porque mide el calor contenido en un cuerpo, a diferencia del Celsius que mide la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala Kelvin mide temperatura, no calor; ambas escalas miden lo mismo, solo difieren en su punto de origen."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua hierve exactamente a 373 K en lugar de a 100 °C, lo que la hace más precisa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua hierve a 373,15 K, pero esa no es la razón por la que la escala Kelvin es absoluta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala Kelvin es la escala absoluta del Sistema Internacional porque parte del cero absoluto (0 K = -273,15 °C), estado teórico donde cesa toda agitación molecular. Por eso no existen temperaturas negativas en Kelvin. La relación con Celsius es T(K) = T(°C) + 273,15. Así, los 35 °C de Valledupar corresponden a 308,15 K, una conversión directa sin necesidad de tablas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v4",
+      "statement": "En un laboratorio escolar de Tunja, un termómetro marca la temperatura ambiente en 18 °C. ¿A cuántos Kelvin equivale aproximadamente esa lectura?",
+      "context": "Conversión de temperatura entre escalas Celsius y Kelvin.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "291 K",
+          "is_correct": true,
+          "feedback": "Correcto. T(K) = 18 + 273 = 291 K."
+        },
+        {
+          "letter": "B",
+          "text": "255 K",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 18 en lugar de sumar 273 al valor en Celsius."
+        },
+        {
+          "letter": "C",
+          "text": "18 K",
+          "is_correct": false,
+          "feedback": "Incorrecto. No realizaste la conversión; 18 °C no equivale a 18 K."
+        },
+        {
+          "letter": "D",
+          "text": "318 K",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 300 en lugar de 273; revisa el valor exacto del cero absoluto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para convertir de grados Celsius a Kelvin se aplica la fórmula T(K) = T(°C) + 273,15. Así, 18 °C corresponden a 291,15 K, que se aproxima a 291 K. La conversión es directa y no requiere tablas, solo sumar el offset del cero absoluto. Esta operación es muy útil para comparar datos con publicaciones científicas internacionales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v5",
+      "statement": "Una señora en Manizales calienta una olla con agua para el tinto en una estufa de gas. ¿Cuál de las siguientes opciones describe correctamente los mecanismos de transferencia de calor involucrados en ese proceso?",
+      "context": "Identificación de mecanismos de transferencia en una cocina casera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor de la llama llega al agua principalmente por conducción a través del metal de la olla y por convección dentro del líquido.",
+          "is_correct": true,
+          "feedback": "Correcto. La conducción ocurre en el metal y la convección en el agua líquida por corrientes ascendentes del agua caliente."
+        },
+        {
+          "letter": "B",
+          "text": "Toda la transferencia de calor de la llama al agua ocurre por radiación electromagnética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radiación sí ocurre, pero no es el único mecanismo; predomina la conducción a través del metal."
+        },
+        {
+          "letter": "C",
+          "text": "La única forma de transferir calor dentro del agua es por conducción entre moléculas vecinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los fluidos predomina la convección, no la conducción, porque las moléculas se desplazan."
+        },
+        {
+          "letter": "D",
+          "text": "El calor de la llama atraviesa el vacío entre la estufa y la olla mediante conducción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre la llama y la olla hay aire, no vacío; y el mecanismo dominante no es solo conducción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una olla sobre estufa ocurren varios mecanismos simultáneamente: la llama irradia energía, esa energía se transmite por conducción a través del metal de la olla, y dentro del agua se establece una corriente de convección donde el agua caliente sube y la fría baja. La conducción es eficiente en metales por su alta conductividad, la convección domina en fluidos y la radiación no requiere contacto material.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v6",
+      "statement": "Un puente metálico de Manizales tiene una longitud inicial de 50 m a 20 °C. Si la temperatura máxima del día alcanza 40 °C y el coeficiente de dilatación lineal del metal es 1,2 × 10⁻⁵ °C⁻¹, ¿cuánto se dilata aproximadamente el puente?",
+      "context": "Cálculo de dilatación lineal en una estructura metálica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,2 cm",
+          "is_correct": true,
+          "feedback": "Correcto. ΔL = α·L₀·ΔT = 1,2·10⁻⁵ · 50 · 20 = 0,012 m = 1,2 cm."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el exponente -5 en el coeficiente de dilatación."
+        },
+        {
+          "letter": "C",
+          "text": "1,2 mm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 10 adicionalmente al resultado."
+        },
+        {
+          "letter": "D",
+          "text": "0,012 mm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste por mil en lugar de mantener el valor en metros (0,012 m = 1,2 cm)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula de la dilatación lineal es ΔL = α·L₀·ΔT, donde α es el coeficiente de dilatación lineal (en °C⁻¹), L₀ la longitud inicial y ΔT el cambio de temperatura. En este caso: ΔL = (1,2 × 10⁻⁵)(50)(20) = 0,012 m = 1,2 cm. Por eso los puentes y las vías férreas se construyen con pequeñas juntas de dilatación: aunque el valor parezca poco, en grandes longitudes la dilatación es significativa y debe absorberse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v7",
+      "statement": "Una familia en Valledupar compra un balde con 20 litros de agua por unos 6 000 COP para refrescarse durante un día caluroso. El agua está inicialmente a 25 °C y al final del día alcanza 35 °C. ¿Qué cantidad de calor absorbió aproximadamente el agua? (Ce agua = 4 200 J/(kg·°C)).",
+      "context": "Calor sensible y calor específico del agua en el Caribe colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8,4 × 10⁵ J (840 000 J)",
+          "is_correct": true,
+          "feedback": "Correcto. Q = m·c·ΔT = 20 · 4 200 · 10 = 840 000 J = 8,4 × 10⁵ J."
+        },
+        {
+          "letter": "B",
+          "text": "8 400 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste por 100; la masa es 20 kg, no 0,2 kg."
+        },
+        {
+          "letter": "C",
+          "text": "4,2 × 10⁵ J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo la mitad del cambio de temperatura o de la masa."
+        },
+        {
+          "letter": "D",
+          "text": "8,4 × 10⁶ J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por mil de más; revisa la conversión de unidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula del calor sensible es Q = m·c·ΔT, donde m es la masa (20 kg, ya que 1 L de agua ≈ 1 kg), c es el calor específico (4 200 J/(kg·°C) para el agua) y ΔT = 10 °C. Así, Q = 20 · 4 200 · 10 = 840 000 J = 8,4 × 10⁵ J. Esto explica por qué el agua tarda más en calentarse y enfriarse que otros materiales: tiene un alto calor específico, lo que la hace un excelente regulador térmico en climas cálidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v8",
+      "statement": "En un laboratorio en Tunja, una estudiante registra la temperatura de dos sustancias A y B, de igual masa, mientras reciben calor constante. La gráfica muestra que la sustancia A alcanza 60 °C en 2 minutos y la sustancia B alcanza 60 °C en 5 minutos. ¿Qué se puede concluir al comparar ambas sustancias?",
+      "context": "Análisis de datos experimentales sobre calor específico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sustancia A tiene menor calor específico que B, por lo que se calienta más rápido con la misma cantidad de calor.",
+          "is_correct": true,
+          "feedback": "Correcto. A igual masa e igual calor suministrado, si A aumenta más rápido su temperatura, su calor específico es menor."
+        },
+        {
+          "letter": "B",
+          "text": "La sustancia A tiene mayor calor específico que B, por lo que requiere más calor para subir su temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si A se calienta más rápido, su calor específico es menor, no mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos sustancias tienen el mismo calor específico porque ambas llegaron a 60 °C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor específico se compara por la rapidez con que cambia la temperatura, no por el valor final alcanzado."
+        },
+        {
+          "letter": "D",
+          "text": "La sustancia B es más caliente que la A en todo momento del experimento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gráfica muestra que B tarda más en alcanzar 60 °C, pero no que sea más caliente durante todo el proceso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "De la ecuación Q = m·c·ΔT se deduce que, para igual masa e igual calor recibido, una sustancia con menor calor específico (c) experimentará un mayor aumento de temperatura. Por eso los metales se calientan más rápido que el agua: su calor específico es menor. Esta comparación es la base para entender por qué distintos materiales regulan la temperatura de manera diferente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v9",
+      "statement": "En las madrugadas frías de Tunja se observa que el aire cercano al suelo está más frío que el aire que está unos metros más arriba. ¿Cuál de los siguientes análisis explica correctamente este fenómeno atmosférico?",
+      "context": "Análisis del fenómeno de inversión térmica en una ciudad andina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El suelo pierde calor por radiación durante la noche, enfriando el aire en contacto; el aire caliente sube por menor densidad y queda arriba, generando inversión térmica.",
+          "is_correct": true,
+          "feedback": "Correcto. La radiación nocturna enfría el suelo; el aire caliente, menos denso, sube, invirtiendo el gradiente térmico normal."
+        },
+        {
+          "letter": "B",
+          "text": "El aire caliente siempre permanece abajo porque pesa más y el frío sube.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el aire caliente es menos denso y tiende a subir."
+        },
+        {
+          "letter": "C",
+          "text": "El fenómeno se debe únicamente a la conducción del calor desde el suelo hacia arriba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conducción es despreciable en el aire; predomina la radiación desde el suelo y la convección."
+        },
+        {
+          "letter": "D",
+          "text": "La inversión térmica ocurre solo en ciudades costeras y nunca en ciudades frías de montaña como Tunja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversión térmica es frecuente en valles y altiplanos fríos durante noches despejadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Normalmente el aire caliente está abajo y el frío arriba, pero durante noches despejadas el suelo pierde calor por radiación infrarroja, enfriando el aire en contacto. Como el aire frío es más denso, queda abajo y el caliente sube, produciendo una inversión térmica. Este fenómeno es común en ciudades andinas como Tunja, Bogotá o Pasto, y afecta la calidad del aire al impedir la dispersión de contaminantes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v10",
+      "statement": "En una feria de ciencias en Manizales, un grupo construyó un dispositivo consistente en un tubo metálico con agua en su interior, expuesto al sol. Al cabo de una hora, el agua se ha calentado aunque el sol no toca directamente el agua. ¿Cuál es la cadena correcta de mecanismos de transferencia involucrados?",
+      "context": "Análisis de una cadena de mecanismos de transferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiación del sol al tubo, conducción a través del metal y convección dentro del agua.",
+          "is_correct": true,
+          "feedback": "Correcto. La radiación llega al tubo, la conducción propaga el calor en el metal y la convección distribuye el calor dentro del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Conducción del sol al agua directamente y radiación dentro del tubo metálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay conducción directa del sol al agua; entre ellos está el metal, que recibe por radiación."
+        },
+        {
+          "letter": "C",
+          "text": "Convección del sol al tubo metálico y radiación dentro del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convección no ocurre en sólidos como el metal del tubo."
+        },
+        {
+          "letter": "D",
+          "text": "Radiación del sol al agua directamente, sin pasar por el metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua está dentro del tubo metálico y no recibe directamente la radiación solar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para llegar al agua, el calor del sol atraviesa tres etapas: primero la radiación electromagnética llega al tubo metálico, luego la conducción propaga el calor a través del metal y, finalmente, dentro del agua se establecen corrientes de convección que distribuyen el calor. Identificar la cadena correcta de mecanismos es clave para entender sistemas térmicos reales como colectores solares, termosifones y calderas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante en Valledupar plantea la siguiente hipótesis: \"Si coloco una camisa oscura y una camisa blanca al sol el mismo tiempo, la oscura se calentará más porque absorbe más radiación.\" ¿Cuál de las siguientes opciones evalúa mejor la calidad experimental de esa hipótesis?",
+      "context": "Evaluación de una hipótesis experimental en un clima cálido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hipótesis es coherente con la física, pero para probarla se deben controlar variables como el tipo de tela, el grosor y la ventilación, registrando la temperatura a intervalos regulares.",
+          "is_correct": true,
+          "feedback": "Correcto. Una buena hipótesis requiere control de variables y medición sistemática para ser validada."
+        },
+        {
+          "letter": "B",
+          "text": "La hipótesis es falsa porque las superficies oscuras y blancas absorben exactamente la misma cantidad de radiación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las superficies oscuras absorben más radiación y reflejan menos; eso es correcto en física."
+        },
+        {
+          "letter": "C",
+          "text": "La hipótesis no se puede probar porque la temperatura no se puede medir sobre telas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura se mide fácilmente con termómetro o sensor infrarrojo."
+        },
+        {
+          "letter": "D",
+          "text": "La hipótesis es innecesaria porque las camisas siempre se calientan igual sin importar el color.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color sí afecta la absorción de radiación; no todas las telas se comportan igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una hipótesis experimental válida debe ser verificable y, para ponerla a prueba, se controlan las variables independientes (color) y se mantienen constantes las demás (material, grosor, exposición al viento, etc.). En física, las superficies oscuras absorben más radiación y reflejan menos; las claras reflejan más y absorben menos. Por eso usar ropa blanca en climas cálidos ayuda a sentirse más fresco, y por eso las casas del Caribe colombiano suelen pintarse de tonos claros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle-v12",
+      "statement": "Una docente de Tunja propone el siguiente experimento: \"Tomar tres vasos iguales con 200 mL de agua a 20 °C y agregar a cada uno 50 g de arena, 50 g de hierro y 50 g de corcho, respectivamente. Medir la temperatura después de 5 minutos bajo el sol.\" ¿Cuál de los siguientes análisis evalúa mejor ese diseño experimental?",
+      "context": "Evaluación del diseño de un experimento escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El experimento permite comparar la capacidad de almacenar calor de cada material, pero debe asegurarse de que las masas, el tiempo y la exposición solar sean iguales para los tres vasos.",
+          "is_correct": true,
+          "feedback": "Correcto. Controlar variables garantiza que la diferencia observada se atribuya al material y no a otros factores."
+        },
+        {
+          "letter": "B",
+          "text": "El experimento no sirve porque el agua, la arena, el hierro y el corcho son demasiado diferentes para compararse entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre materiales es justamente la variable que se quiere estudiar."
+        },
+        {
+          "letter": "C",
+          "text": "El experimento demuestra que el agua cambia su temperatura igual que los sólidos en todos los casos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se está midiendo el agua sola sino mezclada con cada material; las conclusiones deben ser cuidadosas."
+        },
+        {
+          "letter": "D",
+          "text": "El experimento es perfecto y no necesita control de variables porque todos los materiales están al sol al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Siempre se requiere control de variables para validar resultados en una investigación escolar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un buen diseño experimental se identifica una variable dependiente (la temperatura final del agua), una independiente (el tipo de material agregado) y se controlan las demás (masa, volumen de agua, tiempo de exposición y orientación al sol). Este experimento permite comparar cuánto tarda cada material en transmitir calor al agua y cuánto absorbe, lo cual se relaciona con su calor específico y su conductividad térmica, conceptos clave del bloque de calor y temperatura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W14-calor-temperatura-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-18-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T02:11:20.407Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son los nombres de los dos polos que presenta cualquier imán, sin importar su forma ni su tamaño?",
+      "context": "Estudiantes de una feria de ciencias en Bogotá muestran a sus compañeros los polos de distintos imanes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polo norte y polo sur magnético",
+          "is_correct": true,
+          "feedback": "Todo imán tiene un polo norte y un polo sur magnético por donde salen y entran las líneas de campo."
+        },
+        {
+          "letter": "B",
+          "text": "Polo positivo y polo negativo eléctrico",
+          "is_correct": false,
+          "feedback": "Positivo y negativo son nombres de cargas eléctricas, no de polos magnéticos."
+        },
+        {
+          "letter": "C",
+          "text": "Polo superior y polo inferior",
+          "is_correct": false,
+          "feedback": "Esos nombres describen una posición, no las propiedades magnéticas del imán."
+        },
+        {
+          "letter": "D",
+          "text": "Polo caliente y polo frío",
+          "is_correct": false,
+          "feedback": "Caliente y frío describen temperatura, no polos magnéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todo imán posee dos polos llamados norte y sur magnético. Estos no se pueden separar: si se corta un imán por la mitad, cada mitad vuelve a tener un polo norte y un polo sur. Esta propiedad es la base del comportamiento magnético de la Tierra, que también actúa como un gran imán.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la aguja imantada de la brújula siempre se orienta hacia una dirección particular cuando el guía se detiene y la sostiene en reposo?",
+      "context": "Un guía kogui en la Sierra Nevada de Santa Marta usa una brújula tradicional durante una caminata por los senderos ancestrales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la Tierra actúa como un gran imán y la aguja se alinea con sus líneas de campo",
+          "is_correct": true,
+          "feedback": "El campo magnético terrestre alinea la aguja, indicando la dirección del norte magnético."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el viento de la Sierra Nevada empuja la aguja hacia el norte",
+          "is_correct": false,
+          "feedback": "El aire no tiene las propiedades magnéticas necesarias para orientar la aguja de forma fija."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gravedad jala con más fuerza el extremo norte de la aguja",
+          "is_correct": false,
+          "feedback": "La gravedad no distingue entre norte y sur; tira igual de ambos extremos."
+        },
+        {
+          "letter": "D",
+          "text": "Por la rotación de la Tierra sobre su propio eje",
+          "is_correct": false,
+          "feedback": "La rotación terrestre produce el día y la noche, pero no orienta una brújula por sí sola."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Tierra se comporta como un inmenso imán con un polo norte magnético cercano al norte geográfico y un polo sur magnético. La aguja imantada, al suspenderse libremente, gira hasta alinearse con las líneas de campo magnético terrestre, lo que permite orientarse en cualquier lugar, incluyendo las alturas de la Sierra Nevada de Santa Marta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué indica una línea de campo magnético dibujada alrededor de un imán?",
+      "context": "Docentes de ciencias naturales en Medellín preparan una práctica de laboratorio sobre visualización del campo magnético con limaduras de hierro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dirección que seguiría el polo norte de una brújula ubicada en ese punto del espacio",
+          "is_correct": true,
+          "feedback": "La dirección de la línea muestra cómo se orientaría el polo norte de una pequeña brújula situada allí."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura exacta que tiene el imán en cada zona",
+          "is_correct": false,
+          "feedback": "Las líneas de campo no representan temperatura, sino la dirección de la fuerza magnética."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de metal que compone al imán",
+          "is_correct": false,
+          "feedback": "Las líneas no cuantifican el material del imán; solo su distribución espacial de fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "La distancia máxima a la que llega el efecto del imán",
+          "is_correct": false,
+          "feedback": "No marcan un límite claro; la influencia magnética disminuye gradualmente con la distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las líneas de campo magnético son una representación gráfica creada por Michael Faraday para describir cómo se orienta la fuerza magnética en el espacio que rodea al imán. Van del polo norte al polo sur por fuera del imán y son más densas allí donde el campo es más intenso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v4",
+      "statement": "Aplicando la regla de la mano derecha, ¿cómo debe circular la corriente por el cable enrollado para que la punta libre del clavo se convierta en el polo norte del electroimán?",
+      "context": "Una estudiante de Neiva enrolla cable aislado alrededor de un clavo de hierro y lo conecta a una pila para armar un electroimán casero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dedos de la mano derecha deben curvarse en el sentido de la corriente y el pulgar señalar la punta norte",
+          "is_correct": true,
+          "feedback": "Esa es la regla de la mano derecha para solenoides: el pulgar apunta al polo norte del campo resultante."
+        },
+        {
+          "letter": "B",
+          "text": "La corriente debe ir en línea recta sin enrollar el cable en el clavo",
+          "is_correct": false,
+          "feedback": "Si el cable no se enrolla, no se forma un campo magnético concentrado en el clavo."
+        },
+        {
+          "letter": "C",
+          "text": "La corriente debe fluir siempre del sur al norte geográfico de la Tierra",
+          "is_correct": false,
+          "feedback": "La orientación geográfica del laboratorio no determina el polo magnético del electroimán."
+        },
+        {
+          "letter": "D",
+          "text": "La corriente debe ser alterna y de frecuencia muy alta",
+          "is_correct": false,
+          "feedback": "La frecuencia no define el polo; lo define el sentido de la corriente continua, no su frecuencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla de la mano derecha permite conocer la polaridad de un solenoide: si los dedos de la mano derecha siguen el sentido de la corriente, el pulgar indica el polo norte del campo magnético generado. Por eso, al invertir el sentido de la corriente también se invierten los polos norte y sur del electroimán.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v5",
+      "statement": "Para que dos imanes se atraigan con la mayor fuerza posible, ¿qué condición deben cumplir los polos que quedan enfrentados?",
+      "context": "En las minas de hierro de Paz del Río, en Boyacá, se separan trozos de mineral ferromagnético con enormes electroimanes industriales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los polos enfrentados deben ser opuestos: un norte frente a un sur",
+          "is_correct": true,
+          "feedback": "Polos opuestos siempre se atraen, produciendo la fuerza de adhesión magnética."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos polos deben ser iguales: norte frente a norte",
+          "is_correct": false,
+          "feedback": "Polos iguales se repelen, no se atraen."
+        },
+        {
+          "letter": "C",
+          "text": "Los imanes deben estar a temperatura muy alta",
+          "is_correct": false,
+          "feedback": "Calentar un imán puede incluso desmagnetizarlo; no aumenta su fuerza de atracción."
+        },
+        {
+          "letter": "D",
+          "text": "Los imanes deben pintarse con colores opuestos",
+          "is_correct": false,
+          "feedback": "El color es una propiedad óptica y no guarda relación con el magnetismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla básica del magnetismo establece que polos opuestos se atraen y polos iguales se repelen. En las minas boyacenses, los electroimanes activan su campo para atraer el hierro y lo sueltan al desconectar la corriente, facilitando la separación rápida del mineral ferroso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes modificaciones aumenta más efectivamente la fuerza de un electroimán casero construido con un clavo de hierro y cable?",
+      "context": "Un equipo del SENA en Cali quiere construir un electroimán más potente para una empresa recicladora que levanta chatarra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar el número de vueltas del cable alrededor del clavo y mantener o subir la corriente eléctrica",
+          "is_correct": true,
+          "feedback": "Más espiras y mayor corriente incrementan directamente la intensidad del campo magnético del solenoide."
+        },
+        {
+          "letter": "B",
+          "text": "Pintar el clavo con pintura aislante de colores vivos",
+          "is_correct": false,
+          "feedback": "La pintura no modifica el magnetismo; a lo sumo aísla eléctricamente, pero no refuerza el campo."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir el clavo de hierro por una barra de plástico",
+          "is_correct": false,
+          "feedback": "El plástico no es ferromagnético y no concentra el campo magnético en su interior."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuir la corriente eléctrica que pasa por el cable",
+          "is_correct": false,
+          "feedback": "Reducir la corriente debilita el campo magnético generado por el solenoide."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza de un electroimán depende del número de espiras del solenoide, de la intensidad de la corriente que circula y de usar un núcleo ferromagnético como el hierro. Modificar estos factores en el sentido correcto aumenta de manera directa la intensidad del campo magnético producido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué principio físico se aprovecha principalmente para que un tren maglev levite sin tocar los rieles?",
+      "context": "El proyecto de un tren de cercanías entre Medellín y los municipios del Valle de Aburrá contempla tramos experimentales con levitación magnética sobre superconductores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repulsión entre polos magnéticos iguales generados por campos controlados en el tren y la vía",
+          "is_correct": true,
+          "feedback": "Polos iguales se repelen; esa fuerza vertical equilibra el peso del tren y lo hace levitar."
+        },
+        {
+          "letter": "B",
+          "text": "La atracción gravitacional entre el tren y el suelo",
+          "is_correct": false,
+          "feedback": "La gravedad atrae hacia el centro de la Tierra; no produce levitación."
+        },
+        {
+          "letter": "C",
+          "text": "La fricción estática con el aire",
+          "is_correct": false,
+          "feedback": "La fricción con el aire se opone al movimiento; nunca eleva al vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "La inercia del aire comprimido dentro del tren",
+          "is_correct": false,
+          "feedback": "El aire comprimido no es el principio de la levitación magnética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los trenes maglev generan campos magnéticos intensos y controlados para producir repulsión entre el vehículo y la vía. Al eliminar el contacto físico desaparece prácticamente la fricción, lo que permite mayor velocidad, menor desgaste de componentes y un desplazamiento muy silencioso, ideal para zonas densamente pobladas como el Valle de Aburrá.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v8",
+      "statement": "Al cerrar el circuito, la aguja de la brújula se desvía de forma sistemática. ¿Qué conclusión es válida a partir de este resultado?",
+      "context": "En el laboratorio del colegio, una estudiante coloca una brújula pequeña cerca de un cable recto conectado a una pila y observa lo que ocurre al cerrar el interruptor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corriente eléctrica genera un campo magnético alrededor del cable, el cual actúa sobre la aguja",
+          "is_correct": true,
+          "feedback": "Oersted demostró que toda corriente produce un campo magnético circular a su alrededor."
+        },
+        {
+          "letter": "B",
+          "text": "La brújula estaba descalibrada y debe repararse antes de usarla",
+          "is_correct": false,
+          "feedback": "La desviación es sistemática y predecible, no un defecto del instrumento."
+        },
+        {
+          "letter": "C",
+          "text": "El cable se calienta y mueve el aire cercano a la brújula",
+          "is_correct": false,
+          "feedback": "Aunque el cable se caliente, eso no explica la orientación específica de la aguja."
+        },
+        {
+          "letter": "D",
+          "text": "La gravedad local cambió por la presencia de la pila",
+          "is_correct": false,
+          "feedback": "Una pila no tiene la capacidad de alterar el campo gravitatorio terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En 1820, Hans Christian Oersted descubrió que una corriente eléctrica genera un campo magnético a su alrededor, cuya dirección se determina por la regla de la mano derecha. Este hallazgo fundó el electromagnetismo y permitió desarrollar motores, generadores y electroimanes que transformaron la industria y la vida cotidiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la función principal del conmutador o colector de delgas dentro de un motor eléctrico de corriente continua?",
+      "context": "Un técnico repara el motor eléctrico de corriente continua de una pequeña bomba de agua en un taller de mantenimiento en Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Invertir el sentido de la corriente en la bobina cada medio giro para mantener el movimiento rotatorio",
+          "is_correct": true,
+          "feedback": "Sin el conmutador, la bobina se frenaría al alinearse con el campo; él asegura la rotación continua."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la temperatura del motor para mejorar la conducción eléctrica",
+          "is_correct": false,
+          "feedback": "Calentar el motor no es deseable; reduce la eficiencia y daña los aislamientos."
+        },
+        {
+          "letter": "C",
+          "text": "Pintar el motor para protegerlo de la corrosión ambiental",
+          "is_correct": false,
+          "feedback": "La protección contra corrosión la da el aislamiento eléctrico externo, no el conmutador."
+        },
+        {
+          "letter": "D",
+          "text": "Soportar la estructura mecánica del eje del rotor",
+          "is_correct": false,
+          "feedback": "El soporte mecánico del eje lo cumplen los rodamientos, no el conmutador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El conmutador es un anillo partido que invierte la dirección de la corriente en la bobina cada vez que el rotor completa un medio giro. De esta manera, el par de fuerzas magnéticas siempre actúa en el mismo sentido y el motor convierte energía eléctrica en mecánica de forma continua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué resulta más útil un electroimán que un imán permanente en esta operación diaria de la chatarrería?",
+      "context": "En una chatarrería del centro de Bogotá, un operario usa una grúa con electroimán para levantar piezas de hierro y soltarlas luego en un camión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el campo magnético se puede encender y apagar a voluntad, soltando la carga cuando se requiera",
+          "is_correct": true,
+          "feedback": "Al cortar la corriente, el electroimán deja de atraer el metal, lo que facilita soltar la chatarra exactamente donde se necesita."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el electroimán siempre es más barato de fabricar que un imán permanente",
+          "is_correct": false,
+          "feedback": "Un electroimán requiere cable, fuente de energía y mantenimiento, por lo que puede ser más costoso."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el electroimán no consume energía eléctrica en su funcionamiento",
+          "is_correct": false,
+          "feedback": "Por definición, un electroimán necesita corriente eléctrica para generar su campo magnético."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el electroimán pesa mucho menos que cualquier imán permanente del mismo tamaño",
+          "is_correct": false,
+          "feedback": "El peso depende del tamaño y del diseño, no del tipo de imán utilizado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gran ventaja del electroimán es que su magnetismo es controlable: se activa al hacer circular corriente y desaparece al interrumpirla. Esto permite manipular materiales ferromagnéticos con precisión, encendiéndolo para recoger y apagándolo para soltar la carga, una capacidad que el imán permanente no ofrece en la práctica industrial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de los siguientes procedimientos experimentales brinda la evidencia más confiable para demostrar que la corriente crea un campo magnético?",
+      "context": "Un equipo de feria de ciencias en Tunja debe demostrar experimentalmente que la corriente eléctrica produce un campo magnético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparar la desviación de una brújula con el circuito abierto y con el circuito cerrado, manteniendo constantes distancia, orientación y tipo de cable",
+          "is_correct": true,
+          "feedback": "Comparar con y sin corriente, controlando variables, es el método experimental más riguroso."
+        },
+        {
+          "letter": "B",
+          "text": "Acercar la brújula una sola vez al cable encendido y registrar la observación obtenida",
+          "is_correct": false,
+          "feedback": "Una sola medición sin repetición ni control no permite afirmar causalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el material del cable sin repetir mediciones y observar lo que ocurre",
+          "is_correct": false,
+          "feedback": "Sin repeticiones y sin variar únicamente la corriente, no se puede aislar el efecto buscado."
+        },
+        {
+          "letter": "D",
+          "text": "Usar solo observaciones visuales del cable sin brújula ni instrumentos de medición",
+          "is_correct": false,
+          "feedback": "Sin un sensor magnético como la brújula no se detecta el débil campo del cable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un experimento riguroso controla variables, repite mediciones y compara una condición con y sin la variable que se quiere estudiar. Mantener constantes la distancia y el tipo de cable, y variar solo si hay corriente, permite afirmar con evidencia que el campo magnético aparece cuando circula corriente por el conductor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle-v12",
+      "statement": "¿Qué análisis resulta más sólido para decidir si conviene adoptar el sistema maglev desde el punto de vista físico y tecnológico?",
+      "context": "La alcaldía de una ciudad intermedia colombiana evalúa reemplazar el actual tren de cercanías diésel por un sistema maglev de levitación magnética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparar el consumo energético, la complejidad técnica del control magnético y el beneficio de eliminar la fricción mecánica",
+          "is_correct": true,
+          "feedback": "La decisión responsable sopesa energía, dificultad de control y ganancia por menor rozamiento antes de invertir."
+        },
+        {
+          "letter": "B",
+          "text": "Asumir que no habrá costos adicionales ni impacto energético asociados al cambio",
+          "is_correct": false,
+          "feedback": "Ignorar costos y consumo lleva a decisiones técnicamente inviables y financieramente riesgosas."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar el consumo eléctrico porque la electricidad ya es renovable en el país",
+          "is_correct": false,
+          "feedback": "Aunque sea renovable, la energía consumida tiene costo e impacto y debe cuantificarse."
+        },
+        {
+          "letter": "D",
+          "text": "Medir solo la velocidad máxima teórica del maglev y decidir con base en ese único dato",
+          "is_correct": false,
+          "feedback": "La velocidad máxima aislada ignora factores determinantes como energía, costo y mantenimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un sistema tecnológico exige considerar múltiples variables físicas y económicas a la vez: energía consumida, fricción eliminada, vida útil, complejidad del control de campos magnéticos y costos asociados. Una decisión responsable sopesa beneficios y limitaciones antes de comprometer recursos públicos en infraestructura de transporte.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W18-magnetismo-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
