@@ -9,7 +9,7 @@ import {
   ELO_MAX,
 } from './elo';
 import { tierFor, xpToNextTier, awardXp } from './xp';
-import { loadState, saveState, recordDaily, addActionXp, recordAttempt, GAME_STORAGE_KEY } from './store';
+import { loadState, saveState, recordDaily, addActionXp, recordAttempt, matchPool, GAME_STORAGE_KEY } from './store';
 
 describe('elo (K=32, tope 2200)', () => {
   it('hazaña 1200 vs 1800 correcta sube fuerte (+31)', () => {
@@ -38,7 +38,14 @@ describe('elo (K=32, tope 2200)', () => {
     expect(questionEloFor('D3-D4', 6)).toBe(900); // 800 + 100
     expect(questionEloFor('D9-D10', 11)).toBe(2200); // 2000+400 topado
     expect(gradeOffset(4)).toBe(0);
+    expect(gradeOffset(6)).toBe(100);
+    expect(gradeOffset(8)).toBe(200);
+    expect(gradeOffset(10)).toBe(300);
+    expect(gradeOffset(11)).toBe(400);
     expect(initialElo(11)).toBe(1800);
+    expect(initialElo(10)).toBe(1600);
+    expect(initialElo(9)).toBe(1300);
+    expect(initialElo(6)).toBe(1000);
     expect(initialElo(3)).toBe(500);
   });
 
@@ -121,5 +128,46 @@ describe('store local', () => {
     addActionXp(s, 'respuesta');
     expect(s.xpWeekly).toBe(10);
     expect(s.elo).toBe(eloBefore);
+  });
+
+  it('loadState recupera ante corrupción o cambio de semana', () => {
+    localStorage.setItem(GAME_STORAGE_KEY, 'invalid json');
+    const corrupted = loadState(6, Date.now());
+    expect(corrupted.elo).toBe(1000);
+
+    localStorage.setItem(GAME_STORAGE_KEY, JSON.stringify({ v: 2, elo: 1500 }));
+    const badVersion = loadState(6, Date.now());
+    expect(badVersion.elo).toBe(1000);
+
+    const oldWeekState = {
+      v: 1,
+      elo: 1500,
+      xpWeekly: 500,
+      weekKey: '2020-W01',
+      streakDays: 5,
+      lastActiveDay: null,
+      questionElo: { q1: 1000 },
+      updatedAt: 1000,
+    };
+    localStorage.setItem(GAME_STORAGE_KEY, JSON.stringify(oldWeekState));
+    const resetState = loadState(6, Date.now());
+    expect(resetState.elo).toBe(1500);
+    expect(resetState.xpWeekly).toBe(0);
+  });
+
+  it('saveState recorta elo de preguntas mayores a 2000 y matchPool mapea correctamente', () => {
+    const s = loadState(6, Date.now());
+    for (let i = 0; i < 2005; i++) {
+      s.questionElo[`q_${i}`] = 1000 + i;
+    }
+    saveState(s);
+    const saved = JSON.parse(localStorage.getItem(GAME_STORAGE_KEY) || '{}');
+    expect(Object.keys(saved.questionElo).length).toBe(2000);
+    expect(saved.questionElo['q_2004']).toBe(3004);
+
+    const pool = matchPool(s);
+    expect(pool.length).toBe(2000);
+    expect(pool[0]).toHaveProperty('id');
+    expect(pool[0]).toHaveProperty('elo');
   });
 });
