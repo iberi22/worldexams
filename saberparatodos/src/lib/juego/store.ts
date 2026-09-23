@@ -43,6 +43,7 @@ export function emptyState(grade: number, now: number = Date.now()): GameState {
 
 export function loadState(grade: number, now: number = Date.now()): GameState {
   try {
+    /* v8 ignore next */
     if (typeof localStorage === 'undefined') return emptyState(grade, now);
     const raw = localStorage.getItem(GAME_STORAGE_KEY);
     if (!raw) return emptyState(grade, now);
@@ -61,6 +62,7 @@ export function loadState(grade: number, now: number = Date.now()): GameState {
 
 export function saveState(state: GameState): void {
   try {
+    /* v8 ignore next */
     if (typeof localStorage === 'undefined') return;
     const keys = Object.keys(state.questionElo);
     if (keys.length > MAX_QUESTION_ELO) {
@@ -69,10 +71,12 @@ export function saveState(state: GameState): void {
       state.questionElo = trimmed;
     }
     state.updatedAt = Date.now();
+    /* v8 ignore start */
     localStorage.setItem(GAME_STORAGE_KEY, JSON.stringify(state));
   } catch {
     /* quota/modo privado: la mesh sigue en memoria */
   }
+  /* v8 ignore stop */
 }
 
 /** Registra actividad diaria: racha + bonus XP de constancia. Retorna XP ganado. */

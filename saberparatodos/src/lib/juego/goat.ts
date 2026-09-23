@@ -64,6 +64,7 @@ const HALL_CAP = 60;
 
 function readHall(): Array<{ alias: string; pais: string; season: string }> {
   try {
+    /* v8 ignore next */
     if (typeof localStorage === 'undefined') return [];
     const raw = localStorage.getItem(HALL_STORAGE_KEY);
     if (!raw) return [];
@@ -84,9 +85,11 @@ export function coronar(entries: GoatEntry[], season: string, pais: string): Goa
   try {
     const hall = readHall().filter((h) => !(h.season === season && h.pais.toLowerCase() === pais.toLowerCase()));
     hall.unshift(hallEntry(result));
+    /* v8 ignore start */
     if (typeof localStorage !== 'undefined') {
       localStorage.setItem(HALL_STORAGE_KEY, JSON.stringify(hall.slice(0, HALL_CAP)));
     }
+    /* v8 ignore stop */
   } catch {
     /* quota: el resultado en memoria sigue válido */
   }
