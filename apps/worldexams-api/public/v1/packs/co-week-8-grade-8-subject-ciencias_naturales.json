@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v1",
+      "statement": "Cual de los siguientes ejemplos corresponde a un cambio físico de la materia?",
+      "context": "En el laboratorio del Colegio Gimnasio Campestre de Bogotá, se comparan diferentes fenomenos cotidianos para clasificarlos como cambios físicos o químicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fundir hielo para obtener agua liquida.",
+          "is_correct": true,
+          "feedback": "Correcto. Cambia el estado físico pero la sustancia sigue siendo $H_2O$."
+        },
+        {
+          "letter": "B",
+          "text": "Quemar un papel y obtener cenizas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se forman nuevas sustancias (ceniza, gases), es un cambio químico."
+        },
+        {
+          "letter": "C",
+          "text": "Oxidar un clavo de hierro expuesto a la humedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se forma óxido de hierro, una sustancia nueva; es un cambio químico."
+        },
+        {
+          "letter": "D",
+          "text": "Digerir un alimento en el estómago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La digestión es un conjunto de cambios químicos que transforman los alimentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambio físico: altera forma o estado, pero no la composicion química de la materia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v2",
+      "statement": "Que evidencia confirma que el horneado del pan es un cambio químico y no uno físico?",
+      "context": "En una panaderia artesanal de Cali, la cocinera observa que la masa cruda se transforma en pan durante el horneado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.",
+          "is_correct": true,
+          "feedback": "Correcto. La fermentacion y el horneado producen nuevas sustancias químicas."
+        },
+        {
+          "letter": "B",
+          "text": "La masa cambia de color pero mantiene su composicion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantener la composicion es caracteristica de un cambio físico."
+        },
+        {
+          "letter": "C",
+          "text": "La masa se derrite como un solido que pasa a liquido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derretimiento es físico, no describe el horneado."
+        },
+        {
+          "letter": "D",
+          "text": "La masa simplemente se seca sin reaccionar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Durante el horneado ocurren reacciones químicas complejas, no solo secado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cambio químico transforma unas sustancias en otras con composiciones diferentes, mientras que un cambio físico conserva la composicion.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v3",
+      "statement": "Cuál es la explicacion correcta de por que la masa del producto (óxido de magnesio) es mayor que la del magnesio inicial?",
+      "context": "En el laboratorio de química de la Universidad del Cauca, se mide la masa antes y despues de quemar una cinta de magnesio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El magnesio se combina con oxígeno del aire, incorporando masa adicional al sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. La combustion añade átomos de oxígeno al producto, aumentando su masa."
+        },
+        {
+          "letter": "B",
+          "text": "La masa aumenta porque la materia se crea espontaneamente durante la combustion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia no se crea ni se destruye, solo se transforma (Ley de conservacion de la masa)."
+        },
+        {
+          "letter": "C",
+          "text": "La masa adicional proviene del recipiente que se calienta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recipiente solo aporta calor, no materia al producto."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del óxido es igual a la del magnesio porque la combustion no cambia la masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa total se conserva, pero la del solido aumenta por adicion de oxígeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ley de conservacion de la masa (Lavoisier): la masa total del sistema cerrado permanece constante. La masa del producto aumenta al fijar oxígeno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v4",
+      "statement": "Que tipo de cambio se produce en la superficie de la moneda y por que se evidencia facilmente?",
+      "context": "En Cartagena, se observa una moneda de cobre expuesta al aire marino y aparecen manchas verdosas de óxido de cobre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambio químico: el cobre reacciona con oxígeno, agua y sales formando óxido verde.",
+          "is_correct": true,
+          "feedback": "Correcto. Se forma una sustancia nueva (óxido de cobre) por reacción química."
+        },
+        {
+          "letter": "B",
+          "text": "Cambio físico: la moneda solo cambia de color pero su composicion sigue igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La composicion cambia al formarse óxido de cobre, no es solo color."
+        },
+        {
+          "letter": "C",
+          "text": "Cambio físico: el cobre se derrite con la brisa marina caliente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura ambiente no derrite al cobre."
+        },
+        {
+          "letter": "D",
+          "text": "Cambio químico reversible donde el óxido retorna al cobre con facilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formacion del óxido verde es dificilmente reversible en condiciones normales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La corrosion del cobre en ambientes salinos es una reacción química lenta que forma óxido cuproso o cuprico, evidente por el color verde caracteristico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v5",
+      "statement": "Como se clasifican los cambios de estado solido $\\to$ liquido $\\to$ gas observados en el hielo?",
+      "context": "En la vereda La Calera cerca de Bogotá, se lleva hielo al mercado en bloques y se observa que poco a poco se transforma en agua liquida y luego en vapor al sol del medio dia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son cambios físicos porque la sustancia sigue siendo agua aunque cambie de estado.",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar de estado no altera la composicion química del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Son cambios químicos porque el agua deja de ser hielo y se convierte en otra sustancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo $H_2O$; el cambio es físico, no químico."
+        },
+        {
+          "letter": "C",
+          "text": "Son cambios químicos porque se libera o absorbe calor durante el proceso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cambios físicos también involucran calor sin alterar la composicion."
+        },
+        {
+          "letter": "D",
+          "text": "No son considerados cambios de la materia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si son cambios de la materia: cambios de estado o cambios físicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambios de estado (fusion, ebullicion, sublimacion, etc.) son cambios físicos: la composicion molecular del agua permanece constante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v6",
+      "statement": "Que análisis se obtiene al comparar la masa de la vela antes y despues de arder en un sistema cerrado?",
+      "context": "En Medellín, un grupo de estudiantes realiza el experimento de la combustion de una vela y registra la masa antes y despues.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masa total permanece constante porque se conserva la materia dentro del sistema cerrado.",
+          "is_correct": true,
+          "feedback": "Correcto. La masa de los productos (gases, cenizas) iguala a la masa inicial de cera y oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "La masa disminuye notablemente porque la vela \"desaparece\" durante la combustion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En sistema cerrado, la masa no cambia. En sistema abierto, parte de los gases escapan."
+        },
+        {
+          "letter": "C",
+          "text": "La masa se duplica porque la combustion crea materia adicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia no se crea; la masa se conserva."
+        },
+        {
+          "letter": "D",
+          "text": "La masa solo cambia cuando hay liquido presente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conservacion es general, independiente del estado físico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ley de Lavoisier: en sistema cerrado, la masa total se conserva durante una reacción química.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v7",
+      "statement": "Cuál es el análisis correcto de los indicadores de reacción química observados en este experimento?",
+      "context": "En un laboratorio de Barrancabermeja, se mezcla ácido clorhidrico ($HCl$) con hidrogenocarbonato de sodio ($NaHCO_3$) y se observan burbujas de gas y aumento de temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.",
+          "is_correct": true,
+          "feedback": "Correcto. La liberacion de gas y el cambio de temperatura son signos de reacción química."
+        },
+        {
+          "letter": "B",
+          "text": "Las burbujas y el calor son evidencia de un simple cambio físico de las sustancias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La produccion de un gas nuevo indica una transformacion química."
+        },
+        {
+          "letter": "C",
+          "text": "La reacción no ocurre porque los ácidos y las bases nunca reaccionan entre si.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ácidos y las bases si reaccionan: es la reacción de neutralizacion."
+        },
+        {
+          "letter": "D",
+          "text": "Las burbujas son aire atrapado y el calor proviene de la mano del experimentador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gas generado es $CO_2$ y el calor es propio de la reacción exotermica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evidencias de cambio químico: cambio de color, desprendimiento de gas, variacion de temperatura, formacion de precipitado o cambio de olor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v8",
+      "statement": "Cuál es el análisis correcto del papel de los cambios físicos y químicos en la preparacion del chocolate?",
+      "context": "En zonas rurales del Huila, se muelen granos de cacao con azucar y luego se calientan para preparar chocolate; durante el proceso, el aroma y el color cambian notablemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El molido es físico (cambia tamano) y el calentamiento induce cambios químicos como la reacción de Maillard.",
+          "is_correct": true,
+          "feedback": "Correcto. La molienda es física; el calentamiento produce transformaciones químicas complejas."
+        },
+        {
+          "letter": "B",
+          "text": "Tanto el molido como el calentamiento son cambios físicos solamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calentamiento desencadena reacciones químicas detectables por color y aroma."
+        },
+        {
+          "letter": "C",
+          "text": "La preparacion del chocolate no involucra cambios en la materia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Implica multiples transformaciones fisicas y químicas."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio de aroma es unicamente psicologico, sin base material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aroma surge de nuevas moléculas formadas por reacciones químicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El procesamiento de alimentos combina cambios físicos (molienda, fusion) y químicos (reacción de Maillard, caramelizacion) que generan sabor, aroma y color.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v9",
+      "statement": "Cuál es la diferencia fundamental entre una combustion completa y una combustion incompleta de un hidrocarburo como el metano?",
+      "context": "En Cucuta, se analizan etiquetas de productos caseros que indican \"reacciones de combustion completas\" e \"incompletas\" durante la quema de gas domiciliario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).",
+          "is_correct": true,
+          "feedback": "Correcto. La combustion incompleta ocurre con poco oxígeno y genera $CO$, un gas toxico."
+        },
+        {
+          "letter": "B",
+          "text": "La combustion completa produce monoxido de carbono y la incompleta solo vapor de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al reves: la completa produce $CO_2$; la incompleta produce $CO$."
+        },
+        {
+          "letter": "C",
+          "text": "No existen diferencias químicas entre ambas, solo cambia el color de la llama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los productos y la toxicidad son diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "La combustion incompleta consume mas oxígeno que la completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La completa consume mas oxígeno y produce mas $CO_2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Combustion completa: hidrocarburo $+$ $O_2 \\to CO_2 + H_2O$. Incompleta: falta oxígeno y se genera $CO$, $C$ o hollin.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v10",
+      "statement": "Cual de los siguientes argumentos justifica mejor la prohibicion de plasticos de un solo uso en los colegios desde la perspectiva de los cambios químicos?",
+      "context": "En Bogotá, el Consejo Distrital discute una norma para reducir uso de plasticos de un solo uso en restaurantes escolares, citando argumentos sobre cambios químicos lentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.",
+          "is_correct": true,
+          "feedback": "Correcto. La degradacion química de los plasticos genera contaminantes persistentes."
+        },
+        {
+          "letter": "B",
+          "text": "Los plasticos desaparecen inmediatamente al contacto con el suelo, sin dejar residuos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los plasticos persisten durante siglos en el ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Los plasticos son biodegradables en pocos minutos en cualquier ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoria de los plasticos comerciales son muy estables y no biodegradables rapidamente."
+        },
+        {
+          "letter": "D",
+          "text": "Los plasticos no sufren cambios químicos porque son inertes para siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sufren foto-degradacion, oxidacion y otros procesos lentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los plasticos experimentan degradacion química lenta que libera aditivos y microplasticos, con efectos sobre la salud y los ecosistemas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta del cambio químico que realiza el cloro en el agua potable y su justificacion sanitaria?",
+      "context": "En la planta de tratamiento de agua de Bucaramanga, se aplica cloro para potabilizar el agua antes de distribuirla a la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.",
+          "is_correct": true,
+          "feedback": "Correcto. El cloro desinfecta por oxidacion química de agentes patogenos."
+        },
+        {
+          "letter": "B",
+          "text": "El cloro se mezcla fisicamente sin reaccionar, por lo que no elimina bacterias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloro si reacciona quimicamente y oxida la materia organica y los microorganismos."
+        },
+        {
+          "letter": "C",
+          "text": "El cloro solo mejora el sabor del agua sin efecto microbiologico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su funcion principal es la desinfeccion microbiologica."
+        },
+        {
+          "letter": "D",
+          "text": "El cloro es inutil contra bacterias, solo sirve para aclarar el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es uno de los desinfectantes mas usados globalmente por su eficacia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clorinacion es una reacción de oxidacion que elimina bacterias, virus y protozoarios, garantizando agua microbiologicamente segura para el consumo humano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle-v12",
+      "statement": "Cual de las siguientes evaluaciones cientificas justifica mejor el reciclaje de papel desde la perspectiva de cambios físicos y químicos?",
+      "context": "En el aula ambiental de Riohacha, una profesora senala que reciclar papel evita la tala de bosques y reduce el uso de agua y energía en fabricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reciclar papel reduce el número de reacciones químicas industriales necesarias para producir pulpa virgen, ahorrando energía.",
+          "is_correct": true,
+          "feedback": "Correcto. Reutilizar fibras disminuye procesos químicos y consumo energetico industrial."
+        },
+        {
+          "letter": "B",
+          "text": "Reciclar papel implica cambios químicos prohibidos por la ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje es una práctica ambiental promovida por la ley."
+        },
+        {
+          "letter": "C",
+          "text": "El papel reciclado no sufre ningun cambio físico ni químico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se somete a procesos físicos y químicos de re-pulpeo y blanqueado."
+        },
+        {
+          "letter": "D",
+          "text": "El reciclaje aumenta las emisiones de $CO_2$ sin reducir el impacto ambiental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Disminuye las emisiones globales al reducir la produccion industrial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reciclar papel reduce la demanda de madera, agua y energía, disminuyendo las emisiones y los cambios químicos industriales asociados a su fabricacion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W08-cambios-materia-fisicos-quimicos-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

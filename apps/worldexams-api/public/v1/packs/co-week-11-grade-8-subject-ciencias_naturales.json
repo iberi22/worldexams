@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.182Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v1",
+      "statement": "Cuál es la unidad de medida de la energía en el Sistema Internacional (SI)?",
+      "context": "En el Colegio Colombo Britanico de Cartagena, se introduce el concepto de energía como capacidad de producir cambios o realizar trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Joule (J).",
+          "is_correct": true,
+          "feedback": "Correcto. El joule es la unidad de energía en el SI, equivalente a $N \\cdot m$."
+        },
+        {
+          "letter": "B",
+          "text": "Newton (N).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El newton es la unidad de fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Watt (W).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El watt mide potencia, no energía directamente."
+        },
+        {
+          "letter": "D",
+          "text": "Pascal (Pa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pascal mide presión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el SI la energía se mide en joules (J). $1\\text{ J} = 1\\text{ N} \\cdot m = 1\\text{ kg} \\cdot m^2 / s^2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la transformacion principal de energía que ocurre en una central hidroelectrica?",
+      "context": "En una microcentral hidroelectrica del Valle del Cauca, el agua en movimiento activa una turbina que produce electricidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía mecánica (cinética del agua) $\\to$ energía eléctrica.",
+          "is_correct": true,
+          "feedback": "Correcto. La turbina convierte el movimiento del agua en electricidad."
+        },
+        {
+          "letter": "B",
+          "text": "Energía química $\\to$ energía nuclear.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay reacción nuclear en una central hidroelectrica."
+        },
+        {
+          "letter": "C",
+          "text": "Energía térmica $\\to$ energía mecánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa secuencia corresponde a centrales termoelectricas."
+        },
+        {
+          "letter": "D",
+          "text": "Energía luminosa $\\to$ energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa transformacion es propia de paneles fotovoltaicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Central hidroelectrica: energía potencial y cinética del agua $\\to$ energía mecánica (turbina) $\\to$ energía eléctrica (generador).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v3",
+      "statement": "Cuál es la energía potencial gravitacional del carro en la cima?",
+      "context": "En Ibague, una montaña rusa lleva un carro de $500$ kg hasta una altura de $20$ m, considerando $g = 10$ m/s$^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100.000$ J.",
+          "is_correct": true,
+          "feedback": "Correcto. $E_p = m \\cdot g \\cdot h = 500 \\cdot 10 \\cdot 20 = 100.000$ J."
+        },
+        {
+          "letter": "B",
+          "text": "$1.000$ J.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una masa de $5$ kg en $20$ m."
+        },
+        {
+          "letter": "C",
+          "text": "$10.000$ J.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una altura de $2$ m."
+        },
+        {
+          "letter": "D",
+          "text": "$200.000$ J.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a usar mal la fórmula, multiplicando por $2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Energía potencial gravitacional: $E_p = m \\cdot g \\cdot h$. Con $m = 500$ kg, $g = 10$ m/s$^2$ y $h = 20$ m, $E_p = 100.000$ J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v4",
+      "statement": "Cuál es la energía cinética del vehiculo?",
+      "context": "En Neiva, un vehiculo de $1200$ kg circula a $20$ m/s por una carretera recta y horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$240.000$ J.",
+          "is_correct": true,
+          "feedback": "Correcto. $E_c = \\frac{1}{2} m v^2 = 0,5 \\cdot 1200 \\cdot 20^2 = 240.000$ J."
+        },
+        {
+          "letter": "B",
+          "text": "$24.000$ J.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltaria un factor $10$ en la operacion."
+        },
+        {
+          "letter": "C",
+          "text": "$12.000$ J.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se eleva al cuadrado la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "$480.000$ J.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supone multiplicar $m \\cdot v^2$ sin el factor $1/2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Energía cinética: $E_c = \\frac{1}{2} m v^2$. Con $m = 1200$ kg y $v = 20$ m/s, $E_c = 240.000$ J.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v5",
+      "statement": "Cuál es la cadena principal de transformaciones energeticas en esta planta de biomasa?",
+      "context": "En Manizales, una planta generadora de cafe utiliza bagazo para producir vapor que mueve una turbina y genera electricidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía química del bagazo $\\to$ energía térmica del vapor $\\to$ energía mecánica $\\to$ energía eléctrica.",
+          "is_correct": true,
+          "feedback": "Correcto. La combustion libera calor que mueve la turbina y el generador produce electricidad."
+        },
+        {
+          "letter": "B",
+          "text": "Energía nuclear $\\to$ energía mecánica $\\to$ energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay reacciones nucleares en una planta de biomasa."
+        },
+        {
+          "letter": "C",
+          "text": "Energía potencial $\\to$ energía luminosa $\\to$ energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se aprovecha energía potencial gravitacional ni luminica."
+        },
+        {
+          "letter": "D",
+          "text": "Energía solar $\\to$ energía mecánica $\\to$ energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente es el bagazo, no la radiacion solar directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Planta de biomasa: combustion del bagazo (química) $\\to$ vapor (térmica) $\\to$ turbina (mecánica) $\\to$ generador (eléctrica).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v6",
+      "statement": "Cuál es el análisis correcto de la transformacion de energía al frotar las manos?",
+      "context": "En Medellín, un profesor senala que al frotar las manos, estas se calientan aunque no haya llama visible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía mecánica del movimiento se transforma en energía térmica por fricción.",
+          "is_correct": true,
+          "feedback": "Correcto. El rozamiento convierte trabajo mecánico en calor."
+        },
+        {
+          "letter": "B",
+          "text": "La energía térmica se transforma en energía mecánica por el movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sentido del proceso es el contrario: mecánica $\\to$ térmica."
+        },
+        {
+          "letter": "C",
+          "text": "No hay transformacion energetica porque las manos no cambian de temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor por fricción si eleva la temperatura de las manos."
+        },
+        {
+          "letter": "D",
+          "text": "La energía eléctrica aparece primero y luego se convierte en calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción no genera electricidad de manera significativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fricción convierte trabajo mecánico en calor: parte de la energía mecánica se disipa como energía térmica interna.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v7",
+      "statement": "Cuál es el análisis correcto de la transformacion energetica en un panel fotovoltaico?",
+      "context": "En una finca solar de Yopal, Casanare, paneles fotovoltaicos se instalan sobre el techo del galpon para alimentar sistemas de iluminacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía luminosa del sol se transforma directamente en energía eléctrica por el efecto fotovoltaico.",
+          "is_correct": true,
+          "feedback": "Correcto. Los semiconductores convierten fotones en electricidad."
+        },
+        {
+          "letter": "B",
+          "text": "La energía térmica del sol se convierte en energía mecánica y luego en electricidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay etapa mecánica en paneles fotovoltaicos."
+        },
+        {
+          "letter": "C",
+          "text": "La energía química del sol se transforma en energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol emite radiacion electromagnetica, no energía química directa."
+        },
+        {
+          "letter": "D",
+          "text": "La energía nuclear del sol se convierte en electricidad sin perdidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conversion tiene perdidas asociadas a la eficiencia del panel."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Efecto fotovoltaico: fotones incidentes liberan electrones en un semiconductor, generando corriente eléctrica continua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v8",
+      "statement": "Cuál es el análisis del flujo energetico desde el viento hasta la electricidad entregada a los hogares?",
+      "context": "En un parque eolico de La Guajira, el viento mueve las aspas de un aerogenerador que produce electricidad para miles de hogares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía cinética del viento $\\to$ mecánica (aspas y eje) $\\to$ eléctrica (generador).",
+          "is_correct": true,
+          "feedback": "Correcto. El viento entrega energía mecánica, luego transformada en eléctrica por el generador."
+        },
+        {
+          "letter": "B",
+          "text": "Energía térmica del viento $\\to$ energía mecánica $\\to$ energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento transfiere energía mecánica, no térmica como fuente principal."
+        },
+        {
+          "letter": "C",
+          "text": "Energía luminosa $\\to$ energía mecánica $\\to$ energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no aporta energía luminosa significativa."
+        },
+        {
+          "letter": "D",
+          "text": "Energía química $\\to$ energía mecánica $\\to$ energía eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no transporta energía química aprovechable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Energía eolica: viento (cinética) $\\to$ aspas (mecánica) $\\to$ generador (eléctrica). Parte se pierde por fricción y resistencia aerodinamica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v9",
+      "statement": "Cuál es el análisis correcto de las transformaciones energeticas implicadas en el bombeo y distribucion del agua?",
+      "context": "En el acueducto de Bogotá, se bombea agua a un tanque elevado para distribuirla por gravedad a las viviendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombeo: energía eléctrica $\\to$ mecánica $\\to$ potencial gravitacional. Distribucion: potencial $\\to$ cinética $\\to$ calor por fricción.",
+          "is_correct": true,
+          "feedback": "Correcto. La bomba eleva el agua ganando energía potencial, que luego se libera al fluir."
+        },
+        {
+          "letter": "B",
+          "text": "El bombeo convierte energía térmica en eléctrica sin perdidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conversion incluye perdidas termicas por fricción."
+        },
+        {
+          "letter": "C",
+          "text": "La distribucion del agua no involucra ninguna transformacion energetica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al descender, la energía potencial se convierte en cinética y calor por rozamiento."
+        },
+        {
+          "letter": "D",
+          "text": "La energía eléctrica del bombeo se convierte en energía nuclear.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay reacciones nucleares implicadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua elevada almacena energía potencial gravitacional. Al descender, esta energía se transforma en cinética y se disipa parcialmente como calor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v10",
+      "statement": "Cual de los siguientes argumentos justifica mejor la sustitucion de lamparas de sodio por lamparas LED desde el punto de vista energetico?",
+      "context": "En Pereira, el gobierno municipal discute sustituir el alumbrado publico de sodio por tecnologia LED para reducir el consumo eléctrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los LED convierten una mayor fraccion de la energía eléctrica en luz, reduciendo perdidas por calor.",
+          "is_correct": true,
+          "feedback": "Correcto. Los LED tienen alta eficiencia luminica, menor disipacion térmica."
+        },
+        {
+          "letter": "B",
+          "text": "Los LED producen mas calor que las lamparas de sodio, aumentando las perdidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los LED son mas frios y eficientes que las lamparas de sodio."
+        },
+        {
+          "letter": "C",
+          "text": "Los LED tienen el mismo consumo que las lamparas de sodio pero mas bonitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su ventaja principal es la eficiencia energetica, no la estetica."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir lamparas no produce ahorro energetico alguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnologia LED permite ahorros significativos en consumo eléctrico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los LED son mas eficientes porque una mayor fraccion de la energía eléctrica se convierte en luz y menos en calor, reduciendo perdidas energeticas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta de las ventajas energeticas de la energía solar frente a la combustion de diesel en zonas remotas?",
+      "context": "En una comunidad indigena de la Sierra Nevada de Santa Marta, se evalua instalar sistemas solares fotovoltaicos para reemplazar plantas diesel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía solar es renovable y no produce emisiones locales, aunque su disponibilidad depende del clima.",
+          "is_correct": true,
+          "feedback": "Correcto. La radiacion solar es renovable y limpia; su variabilidad es una limitacion tecnica."
+        },
+        {
+          "letter": "B",
+          "text": "La energía solar produce mas dioxido de carbono que el diesel por metro cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Durante su operacion, los paneles solares no emiten $CO_2$."
+        },
+        {
+          "letter": "C",
+          "text": "La energía solar no es aprovechable en zonas remotas por falta de tecnologia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen sistemas solares modulares diseñados para zonas apartadas."
+        },
+        {
+          "letter": "D",
+          "text": "La energía solar y el diesel tienen el mismo impacto ambiental durante su uso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustion de diesel emite contaminantes locales y gases de efecto invernadero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía solar es renovable, modular y limpia en operacion. El diesel implica combustion, ruido y transporte de combustibles.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle-v12",
+      "statement": "Cuál es la evaluacion correcta de la ley de conservacion de la energía aplicada a una planta eléctrica que utiliza carbon?",
+      "context": "En el colegio de Sogamoso, una estudiante argumenta que nunca se \"crea\" ni se \"destruye\" energía, solo se transforma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía química del carbon se transforma en electricidad y calor, manteniendo constante la energía total del sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. La energía total se conserva aunque se transforme y se disipe parcialmente como calor."
+        },
+        {
+          "letter": "B",
+          "text": "Parte de la energía se destruye en forma de calor inutil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no se destruye; solo se transforma en formas menos aprovechables."
+        },
+        {
+          "letter": "C",
+          "text": "La electricidad creada es mas energía que la contenida en el carbon original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía util es siempre menor o igual a la energía inicial, por conservacion."
+        },
+        {
+          "letter": "D",
+          "text": "La conservacion de la energía solo aplica a sistemas sin fricción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una ley universal; aplica a todo sistema cerrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primera ley de la termodinamica: la energía total de un sistema aislado se conserva, aunque se transforme en formas menos aprovechables como calor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W11-energia-transformaciones-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

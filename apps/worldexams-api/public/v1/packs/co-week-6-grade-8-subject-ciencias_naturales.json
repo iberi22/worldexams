@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-6-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.180Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las glándulas principales que conforman el sistema endocrino humano?",
+      "context": "En una clase de biología en Ibague, se describe el sistema endocrino como una red de glándulas que producen sustancias químicas reguladoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.",
+          "is_correct": true,
+          "feedback": "Correcto. Estas son las glándulas endocrinas clasicas del cuerpo humano."
+        },
+        {
+          "letter": "B",
+          "text": "Hígado, estómago, intestino delgado y páncreas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hígado, estómago e intestino no son glándulas endocrinas principales."
+        },
+        {
+          "letter": "C",
+          "text": "Rinon, vejiga, uretra y prostata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos órganos pertenecen al sistema urinario o reproductor masculino."
+        },
+        {
+          "letter": "D",
+          "text": "Bazo, ganglios linfaticos y timo unicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos forman parte del sistema inmunologico, principalmente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Glándulas endocrinas principales: hipotálamo, hipófisis, pineal, tiroides, paratiroides, suprarrenales, páncreas (islotes) y gonadas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v2",
+      "statement": "Cuál es el mecanismo general por el cual las hormonas regulan funciones en el cuerpo humano?",
+      "context": "En un consultorio pediatric de Tunja, se explica a una familia que el páncreas produce insulina para regular el azucar en sangre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hormonas se secretan a la sangre y viajan hasta células blanco con receptores especificos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hormonas viajan por el torrente sanguineo y actuan en células con receptores compatibles."
+        },
+        {
+          "letter": "B",
+          "text": "Las hormonas viajan por los nervios hasta los musculos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte por nervios corresponde a neurotransmisores, no a hormonas."
+        },
+        {
+          "letter": "C",
+          "text": "Las hormonas se eliminan rapidamente sin ejercer efecto alguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas actuan durante periodos prolongados antes de metabolizarse."
+        },
+        {
+          "letter": "D",
+          "text": "Las hormonas solo actuan en órganos cercanos a la glándula que las produce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas endocrinas llegan a órganos distantes a traves de la sangre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hormona $=$ mensajero químico secretado a la sangre que actua sobre células blanco con receptores especificos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v3",
+      "statement": "Cuál es la relacion correcta entre el páncreas endocrino y la hiperglucemia observada?",
+      "context": "En el Hospital de San Jose de Bogotá, un paciente adulto presenta hiperglucemia cronica, sed excesiva y perdida de peso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin suficiente insulina funcional, la glucosa no ingresa bien a las células y se acumula en sangre."
+        },
+        {
+          "letter": "B",
+          "text": "La hiperglucemia se debe exclusivamente a consumo excesivo de sal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal afecta la presión arterial, no directamente la glucemia."
+        },
+        {
+          "letter": "C",
+          "text": "El páncreas endocrino produce bicarbonato, no insulina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El páncreas exocrino secreta bicarbonato; el endocrino produce hormonas como insulina y glucagon."
+        },
+        {
+          "letter": "D",
+          "text": "La hiperglucemia solo aparece por falta de ejercicio, no por problemas hormonales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las causas hormonales, especialmente la diabetes, son factores claves de hiperglucemia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Insulina: facilita la entrada de glucosa a las células. Su deficiencia causa hiperglucemia cronica, caracteristica de la diabetes mellitus.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v4",
+      "statement": "Cuál es la funcion principal de la tiroxina (T4) secretada por la glándula tiroides?",
+      "context": "En el programa escolar de salud de Pasto, se explica a los estudiantes la funcion de la tiroides y de su principal hormona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto. Las hormonas tiroideas regulan el metabolismo energetico y el desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la concentracion de calcio en la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calcemia la regula principalmente la parathormona (PTH)."
+        },
+        {
+          "letter": "C",
+          "text": "Estimular la produccion de glóbulos rojos en la médula osea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eritropoyetina cumple esa funcion, no la tiroxina."
+        },
+        {
+          "letter": "D",
+          "text": "Regular el ciclo menstrual femenino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo menstrual depende de estrogenos y progesterona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tiroxina (T4) y la triyodotironina (T3) regulan el metabolismo basal, termogenesis y el desarrollo somatico y neurologico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v5",
+      "statement": "Cuál es la hormona principal secretada por la médula suprarrenal que produce estas respuestas fisiologicas?",
+      "context": "En una expedicion en el Parque Nacional El Cocuy, los alpinistas presentan taquicardia, temblor fino y dilatacion pupilar ante el descenso de temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adrenalina (epinefrina).",
+          "is_correct": true,
+          "feedback": "Correcto. La adrenalina prepara al cuerpo para respuestas rapidas de lucha o huida."
+        },
+        {
+          "letter": "B",
+          "text": "Insulina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La insulina regula la glucosa en sangre, no la respuesta de alerta."
+        },
+        {
+          "letter": "C",
+          "text": "Melatonina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La melatonina regula el ciclo sueno-vigilia."
+        },
+        {
+          "letter": "D",
+          "text": "Oxitocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oxitocina esta relacionada con el parto y la lactancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adrenalina aumenta frecuencia cardiaca, dilata pupilas y moviliza reservas energeticas para respuestas de emergencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v6",
+      "statement": "Cuál es el análisis correcto del mecanismo de retroalimentacion negativa entre la tiroides y la hipófisis?",
+      "context": "En un colegio de Armenia, se explica el sistema de retroalimentacion negativa del eje hipotalamo-hipofisis-tiroides.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando las hormonas tiroideas suben en sangre, inhiben la secrecion de TSH hipofisaria.",
+          "is_correct": true,
+          "feedback": "Correcto. El exceso hormonal frena la estimulacion hipofisaria para mantener homeostasis."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando las hormonas tiroideas bajan, la hipófisis deja de producir TSH definitivamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En realidad, la hipófisis aumenta la TSH cuando las hormonas tiroideas son bajas."
+        },
+        {
+          "letter": "C",
+          "text": "La retroalimentacion negativa solo ocurre en la glándula pineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un mecanismo general del sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Las hormonas tiroideas nunca afectan a la hipófisis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eje hipotalamo-hipofisis-tiroides se regula por retroalimentacion negativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Retroalimentacion negativa: el aumento del producto final (T3/T4) inhibe la estimulacion del eje central para mantener niveles estables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v7",
+      "statement": "Cuál es el análisis correcto del origen fisiologico del gigantismo observado?",
+      "context": "En una consulta pediatric de Pereira, se detecta gigantismo en un nino de 10 anos con niveles muy altos de la hormona del crecimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. El exceso de GH antes del cierre epifisario produce gigantismo hipofisario."
+        },
+        {
+          "letter": "B",
+          "text": "Deficiencia de insulina en el páncreas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La insulina no controla directamente el crecimiento somatico."
+        },
+        {
+          "letter": "C",
+          "text": "Falta de vitamina D en la dieta del nino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deficiencia de vitamina D causa raquitismo, no gigantismo."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento excesivo de la melatonina por exposicion a pantallas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La melatonina regula el sueno, no el crecimiento oseo longitudinal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La somatotropina (GH) estimula el crecimiento oseo longitudinal. Su exceso durante la niinez produce gigantismo; en adultos, acromegalia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v8",
+      "statement": "Cuál es el análisis del efecto del exceso de yodo sobre la funcion tiroidea en el cuerpo humano?",
+      "context": "En Riohacha, una persona consume agua con alta concentracion de yodo durante anos sin supervision medica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.",
+          "is_correct": true,
+          "feedback": "Correcto. Tanto el deficit como el exceso de yodo alteran la produccion de T3 y T4."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de yodo no tiene ningun efecto sobre la tiroides humana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tiroides requiere yodo en cantidades reguladas para sintetizar hormonas."
+        },
+        {
+          "letter": "C",
+          "text": "El yodo solo afecta al sistema nervioso, no a la tiroides.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El yodo es esencial para la síntesis de hormonas tiroideas."
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de yodo produce siempre hipertiroidismo sin posibilidad de hipotiroidismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede producir ambos extremos por mecanismos diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tiroides requiere yodo para sintetizar hormonas. Su exceso puede desregular la produccion hormonal por distintos mecanismos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v9",
+      "statement": "Cuál es el análisis correcto del papel de las gonadotropinas hipofisarias en el inicio de la pubertad?",
+      "context": "En una clase de educacion sexual en Medellín, se explica a adolescentes el inicio de la pubertad y los cambios físicos asociados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.",
+          "is_correct": true,
+          "feedback": "Correcto. Las gonadotropinas FSH y LH activan ovarios y testiculos durante la pubertad."
+        },
+        {
+          "letter": "B",
+          "text": "La pubertad se inicia exclusivamente por la melatonina pineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La melatonina tiene un papel modulatorio, pero no es el detonante principal."
+        },
+        {
+          "letter": "C",
+          "text": "La hipófisis no participa en la regulacion de la pubertad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipófisis es clave al liberar gonadotropinas que activan las gonadas."
+        },
+        {
+          "letter": "D",
+          "text": "La pubertad depende solo de la voluntad del adolescente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un proceso biologicamente regulado por hormonas y genes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "FSH y LH estimulan las gonadas para producir estrogenos y testosterona, hormonas que producen los caracteres sexuales secundarios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v10",
+      "statement": "Cual de los siguientes argumentos justifica mejor la importancia de garantizar acceso universal a la insulina?",
+      "context": "En el barrio Moravia de Medellín, una mujer diagnostica con diabetes tipo 1 no puede costear su tratamiento insulinico y la Secretaria de Salud discute intervenciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin insulina exogena, la diabetes tipo 1 produce cetoacidosis y muerte."
+        },
+        {
+          "letter": "B",
+          "text": "La insulina es opcional y los diabeticos pueden regular la glucosa solo con dieta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En diabetes tipo 1, la insulina exogena es indispensable."
+        },
+        {
+          "letter": "C",
+          "text": "Garantizar la insulina solo interesa a las companias farmaceuticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una prioridad de salud publica por su impacto en morbimortalidad."
+        },
+        {
+          "letter": "D",
+          "text": "La diabetes tipo 1 no requiere ningun tratamiento hormonal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diabetes tipo 1 requiere insulina de por vida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El acceso a insulina es un derecho de salud básico para personas con diabetes tipo 1, dada su naturaleza hormonal y vital.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta del riesgo de los disruptores endocrinos presentes en algunos plasticos para la salud humana?",
+      "context": "En zonas rurales de La Guajira, muchas familias utilizan envases de plastico para almacenar agua y alimentos, exponiendose a sustancias que pueden interferir con el sistema endocrino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los disruptores endocrinos pueden mimetizar o bloquear hormonas naturales, alterando el desarrollo y la reproducción.",
+          "is_correct": true,
+          "feedback": "Correcto. Compuestos como el bisfenol A afectan receptores hormonales y la salud."
+        },
+        {
+          "letter": "B",
+          "text": "Los plasticos son totalmente inertes y no generan riesgo endocrino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algunos plasticos liberan sustancias con actividad hormonal."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el sistema nervioso se ve afectado por los plasticos, nunca el endocrino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los disruptores endocrinos afectan glándulas y receptores hormonales."
+        },
+        {
+          "letter": "D",
+          "text": "Los disruptores endocrinos solo aparecen en metales pesados, no en plasticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen disruptores endocrinos tanto en plasticos como en otros materiales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los disruptores endocrinos son sustancias exogenas que alteran la síntesis, liberacion o acción de hormonas naturales, con efectos sobre la salud.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle-v12",
+      "statement": "Cual de las siguientes afirmaciones evalua mejor los riesgos del uso de esteroides anabolizantes durante la adolescencia?",
+      "context": "En Bogotá, una adolescente enfrenta presión social para usar anabolizantes con el fin de mejorar su rendimiento deportivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los anabolizantes alteran el sistema endocrino propio, causando dano hepatico, crecimiento detenido y cambios emocionales.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de anabolizantes en adolescentes genera desequilibrios hormonales severos."
+        },
+        {
+          "letter": "B",
+          "text": "Los anabolizantes son completamente seguros si se usan en dosis deportivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo uso de anabolizantes sin prescripcion tiene riesgos importantes."
+        },
+        {
+          "letter": "C",
+          "text": "Los anabolizantes solo afectan el sistema muscular sin impacto hormonal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son hormonas esteroides y alteran profundamente el sistema endocrino."
+        },
+        {
+          "letter": "D",
+          "text": "Los anabolizantes favorecen el crecimiento lineal en adolescentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden cerrar prematuramente las placas de crecimiento, reduciendo la talla final."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de esteroides anabolizantes en adolescentes altera la regulacion hormonal, afecta el hígado, detiene el crecimiento y causa danos psicologicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W06-sistema-endocrino-humano-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
