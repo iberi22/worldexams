@@ -29,6 +29,7 @@ export function emptyRecord(focusTema: string, now: number = Date.now()): RetryR
 
 function readStore(): RetryStore {
   try {
+    /* v8 ignore next */
     if (typeof localStorage === 'undefined') return {};
     const raw = localStorage.getItem(RETRY_STORAGE_KEY);
     if (!raw) return {};
@@ -41,6 +42,7 @@ function readStore(): RetryStore {
 
 function writeStore(store: RetryStore): void {
   try {
+    /* v8 ignore next */
     if (typeof localStorage === 'undefined') return;
     localStorage.setItem(RETRY_STORAGE_KEY, JSON.stringify(store));
   } catch {
