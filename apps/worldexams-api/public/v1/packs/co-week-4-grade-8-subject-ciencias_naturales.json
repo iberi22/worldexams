@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.178Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v1",
+      "statement": "Que nombre recibe el proceso por el cual el agua pasa del estado liquido a vapor en los ecosistemas terrestres?",
+      "context": "En el páramo de Sumapaz, cerca de Bogotá, se estudia el recorrido del agua a traves de nieblas, lluvias, ríos y suelos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporacion",
+          "is_correct": true,
+          "feedback": "Correcto. La evaporacion transforma el agua liquida en vapor por aumento de temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Condensacion",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condensacion transforma vapor en liquido, no liquido en vapor."
+        },
+        {
+          "letter": "C",
+          "text": "Precipitacion",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precipitacion es la caida de agua desde la atmósfera hacia la superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Infiltracion",
+          "is_correct": false,
+          "feedback": "Incorrecto. La infiltracion es el ingreso del agua al suelo, sin cambio de estado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ciclo del agua: evaporacion $\\to$ condensacion $\\to$ precipitacion $\\to$ escorrentia e infiltracion, repitiendo el ciclo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v2",
+      "statement": "Que gas es capturado de la atmósfera por las plantas durante la fotosíntesis y luego incorporado a compuestos organicos como la glucosa?",
+      "context": "En un cultivo de cafe en el Quindio, se observa que las hojas verdes realizan fotosíntesis fijando dioxido de carbono atmosferico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dioxido de carbono ($CO_2$)",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas toman $CO_2$ atmosferico y lo fijan en carbohidratos durante la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Nitrógeno molecular ($N_2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $N_2$ atmosferico no se usa directamente en la fotosíntesis."
+        },
+        {
+          "letter": "C",
+          "text": "Oxígeno ($O_2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $O_2$ se libera durante la fotosíntesis, no se captura."
+        },
+        {
+          "letter": "D",
+          "text": "Hidrógeno molecular ($H_2$)",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $H_2$ no es el gas capturado por las plantas en la fotosíntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Fotosíntesis: $6CO_2 + 6H_2O \\to C_6H_{12}O_6 + 6O_2$. El carbono del $CO_2$ se incorpora a moléculas organicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v3",
+      "statement": "Cuál es el proceso ecologico que relaciona el vertimiento de nitrógeno con la proliferacion de algas y la disminucion del oxígeno disuelto?",
+      "context": "En el río Magdalena, a la altura de Honda (Tolima), se vierten aguas residuales ricas en nitrógeno que estimulan el crecimiento excesivo de algas en el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eutrofizacion",
+          "is_correct": true,
+          "feedback": "Correcto. El exceso de nutrientes nitrogenados provoca crecimiento algal, sombra y muerte del ecosistema acuatico."
+        },
+        {
+          "letter": "B",
+          "text": "Fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis es beneficiosa y no implica exceso de nutrientes."
+        },
+        {
+          "letter": "C",
+          "text": "Nitrificacion controlada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nitrificacion controlada no genera proliferacion algal nociva."
+        },
+        {
+          "letter": "D",
+          "text": "Lluvia acida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia acida es causada por óxidos de azufre y nitrógeno atmosfericos, no por vertidos puntuales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Eutrofizacion: enriquecimiento excesivo de nutrientes en el agua, proliferacion algal, bloqueo de luz y caida del oxígeno disuelto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v4",
+      "statement": "Cuál es el mecanismo por el cual las leguminosas enriquecen el suelo en nitrógeno aprovechable por otras plantas?",
+      "context": "En la altillanura colombiana, los agricultores siembran leguminosas como el frijol para mejorar la fertilidad del suelo sin fertilizantes sinteticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las bacterias fijadoras de nitrógeno en sus raíces convierten $N_2$ atmosferico en nitrógeno aprovechable.",
+          "is_correct": true,
+          "feedback": "Correcto. Las bacterias del genero Rhizobium fijan $N_2$ y lo entregan a la planta, que lo libera al suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Las leguminosas producen nitrógeno a partir de fotosíntesis directa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no producen nitrógeno; necesitan fuentes externas."
+        },
+        {
+          "letter": "C",
+          "text": "Las leguminosas absorben nitrógeno del aire por las hojas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrógeno atmosferico no se absorbe foliarmente de manera significativa."
+        },
+        {
+          "letter": "D",
+          "text": "Las leguminosas eliminan nitrógeno del suelo durante la cosecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mas bien aportan nitrógeno al ecosistema, no lo eliminan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La simbiosis leguminosa-bacteria fija $N_2$ atmosferico en amonio, que luego se incorpora al suelo y al resto de la cadena trófica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v5",
+      "statement": "Cuál es el efecto ambiental mas directo de la liberacion de $SO_2$ atmosferico sobre los ecosistemas terrestres cercanos?",
+      "context": "En el Valle de Aburra, una planta industrial libera dioxido de azufre a la atmósfera, lo que produce danos en cultivos cercanos a Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formacion de lluvia acida que acidifica suelos y cuerpos de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. El $SO_2$ se oxida a ácido sulfurico y cae como lluvia acida, alterando el pH."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento inmediato del pH del suelo y de los ríos cercanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto es acidificante, no basificante."
+        },
+        {
+          "letter": "C",
+          "text": "Incremento de la produccion primaria por mayor disponibilidad de azufre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azufre en exceso da la productividad vegetal y acidifica los ecosistemas."
+        },
+        {
+          "letter": "D",
+          "text": "Neutralizacion completa del efecto invernadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $SO_2$ es un contaminante ácido, no un mitigante del efecto invernadero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Lluvia acida: $SO_2$ y $NO_x$ atmosfericos reaccionan con vapor de agua formando ácidos fuertes que acidifican suelos y agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v6",
+      "statement": "Cuál es el análisis correcto del impacto de la deforestacion sobre el ciclo global del carbono?",
+      "context": "En la Amazonia colombiana, se deforestan grandes extensiones de selva para ganaderia, reduciendo la capacidad de captura de carbono del ecosistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye la fijacion de carbono por fotosíntesis y libera el carbono almacenado, elevando el $CO_2$ atmosferico.",
+          "is_correct": true,
+          "feedback": "Correcto. La deforestacion reduce la captura y libera el carbono del suelo y biomasa."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la fijacion de carbono porque quedan mas espacios libres para nuevas plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ganaderia extensiva reemplaza bosques con pasturas de menor capacidad de fijacion."
+        },
+        {
+          "letter": "C",
+          "text": "La deforestacion no tiene relacion con el ciclo del carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vegetacion es el principal sumidero de carbono terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "Solo afecta el ciclo del nitrógeno y no el del carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Impacta directamente el ciclo del carbono y otros ciclos asociados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los bosques son sumideros de carbono. Su deforestacion altera el ciclo global del carbono al liberar $CO_2$ previamente fijado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v7",
+      "statement": "Cuál es el análisis correcto del fenomeno de lixiviacion en los suelos del Choco y su efecto en los ciclos biogeoquimicos?",
+      "context": "En el Choco Biogeografico, las lluvias torrenciales arrastran nutrientes del suelo hacia los ríos, lo que reduce la productividad agricola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua arrastra nutrientes solubles como nitratos y potasio, impoverenciendo el suelo y alterando los ciclos locales.",
+          "is_correct": true,
+          "feedback": "Correcto. La lixiviacion remueve nutrientes disponibles, reduciendo fertilidad y modificando ciclos locales."
+        },
+        {
+          "letter": "B",
+          "text": "La lixiviacion enriquece el suelo al depositar nuevos minerales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lixiviacion arrastra nutrientes, no los repone."
+        },
+        {
+          "letter": "C",
+          "text": "La lluvia solo afecta el ciclo del agua, ningun otro ciclo biogeoquimico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altera ciclos de nitrógeno, fosforo, potasio y carbono del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "La lixiviacion ocurre solo en zonas deserticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre también en regiones con alta pluviosidad como el Choco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Lixiviacion: lavado de nutrientes del suelo por el agua, disminuyendo su fertilidad y alterando los ciclos biogeoquimicos terrestres.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v8",
+      "statement": "Cuál es el análisis correcto del efecto del aumento de $CO_2$ atmosferico sobre el ciclo del carbono y el clima global?",
+      "context": "En la Sabana de Bogotá, se monitorean los niveles de dioxido de carbono atmosferico y se observa un aumento progresivo en los ultimos anos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incremento del efecto invernadero por acumulacion de $CO_2$, con aumento de la temperatura media del planeta.",
+          "is_correct": true,
+          "feedback": "Correcto. El $CO_2$ atrapa radiacion infrarroja y contribuye al calentamiento global."
+        },
+        {
+          "letter": "B",
+          "text": "Disminucion del efecto invernadero por acumulacion de $CO_2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $CO_2$ aumenta, no disminuye, el efecto invernadero."
+        },
+        {
+          "letter": "C",
+          "text": "El $CO_2$ atmosferico no tiene relacion con el clima del planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es uno de los principales gases de efecto invernadero."
+        },
+        {
+          "letter": "D",
+          "text": "El aumento de $CO_2$ enfria la atmósfera al reflejar la luz solar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El $CO_2$ absorbe radiacion infrarroja y calienta la atmósfera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ciclo del carbono esta alterado por emisiones antropogenicas de $CO_2$, lo que intensifica el efecto invernadero y el calentamiento global.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v9",
+      "statement": "Cuál es el análisis ecologico mas completo del fenomeno observado en el golfo de Uraba?",
+      "context": "En el golfo de Uraba, los pescadores reportan disminucion de capturas y presencia de zonas muertas en el fondo marino tras varios anos de vertimientos agricolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eutrofizacion por exceso de nutrientes, proliferacion algal, hipoxia y muerte de fauna marina.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la secuencia clasica de eutrofizacion antropogenica en sistemas costeros."
+        },
+        {
+          "letter": "B",
+          "text": "Mayor produccion pesquera por enriquecimiento del agua con nutrientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exceso de nutrientes causa colapso pesquero, no aumento."
+        },
+        {
+          "letter": "C",
+          "text": "Disminucion de nutrientes en el agua marina cercana a la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay aumento de nutrientes, lo que dispara la eutrofizacion."
+        },
+        {
+          "letter": "D",
+          "text": "El fenomeno es independiente de las actividades humanas en tierra firme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escorrentia agricola es un factor claramente antropogenico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Vertidos ricos en nitrógeno y fosforo generan eutrofizacion, que altera el oxígeno disuelto y reduce la biodiversidad marina.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v10",
+      "statement": "Cual de las siguientes afirmaciones evalua mejor el impacto potencial de la fumigacion sobre el ciclo del agua y la biodiversidad del parque?",
+      "context": "En Monteria, se discute si autorizar la fumigacion con glifosato en cultivos ilicitos cercanos al Parque Nacional Paramillo afecta los ciclos biogeoquimicos regionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los agroquimicos pueden contaminar fuentes de agua y suelos, alterando los ciclos biogeoquimicos y la fauna del parque.",
+          "is_correct": true,
+          "feedback": "Correcto. Los agroquimicos afectan ciclos locales y la biota del area protegida."
+        },
+        {
+          "letter": "B",
+          "text": "El glifosato se evapora completamente sin dejar rastro en el agua ni en el suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El glifosato deja residuos en suelo y agua, con efectos ecologicos documentados."
+        },
+        {
+          "letter": "C",
+          "text": "La fumigacion solo afecta a los cultivos ilicitos, sin ningun impacto sobre parques cercanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deriva y la escorrentia llevan los agroquimicos a zonas vecinas."
+        },
+        {
+          "letter": "D",
+          "text": "No existe relacion alguna entre agroquimicos y ciclos biogeoquimicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe amplia evidencia de la relacion entre agroquimicos y alteracion de ciclos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de agroquimicos sin control impacta los ciclos del agua, nitrógeno y fosforo, con efectos sobre la biodiversidad regional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta del impacto de esta sequía sobre el ciclo del agua y la seguridad alimentaria regional?",
+      "context": "En la Guajira, una sequía prolongada reduce la disponibilidad de agua para comunidades wayuu y para el ganado caprino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sequía reduce la precipitacion y la humedad del suelo, comprometiendo la produccion agricola y el acceso al agua potable.",
+          "is_correct": true,
+          "feedback": "Correcto. La sequía prolongada altera el ciclo hidrologico y la disponibilidad de recursos para las comunidades."
+        },
+        {
+          "letter": "B",
+          "text": "La sequía solo afecta a las comunidades humanas, sin alterar los ecosistemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sequía impacta a ecosistemas enteros y a las sociedades que dependen de ellos."
+        },
+        {
+          "letter": "C",
+          "text": "La sequía aumenta automaticamente las lluvias locales por compensacion climatica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sequias prolongadas reducen la precipitacion acumulada."
+        },
+        {
+          "letter": "D",
+          "text": "La seguridad alimentaria es independiente de los ciclos biogeoquimicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La produccion de alimentos depende directamente del agua y los nutrientes del suelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La disponibilidad de agua y nutrientes del suelo determina la productividad agricola y la seguridad alimentaria, especialmente en regiones vulnerables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle-v12",
+      "statement": "Cual de los siguientes argumentos científicos respalda mejor esta politica ambiental desde la perspectiva del ciclo del carbono?",
+      "context": "En Bogotá, se discute una politica ambiental que sustituya vehiculos de combustion por bicicletas y transporte eléctrico para reducir las emisiones de $CO_2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir emisiones de $CO_2$ disminuye la acumulacion atmosferica, mitigando el efecto invernadero y el cambio climatico.",
+          "is_correct": true,
+          "feedback": "Correcto. Disminuir emisiones contribuye a estabilizar el ciclo del carbono antropogenico."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir vehiculos por bicicletas elimina totalmente el $CO_2$ atmosferico del planeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medida reduce emisiones mas no elimina el $CO_2$ acumulado."
+        },
+        {
+          "letter": "C",
+          "text": "El transporte eléctrico no genera impacto alguno en el ciclo del carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La generacion eléctrica también tiene huella de carbono, aunque menor."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio climatico no esta relacionado con el ciclo del carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ciclo del carbono es el principal regulador del clima terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Politicas de movilidad limpia reducen emisiones antropogenicas de $CO_2$, contribuyendo a mitigar la alteracion del ciclo del carbono y el cambio climatico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W04-ciclos-biogeoquimicos-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

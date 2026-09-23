@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.181Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v1",
+      "statement": "Cuál es la magnitud cinematica que mide el cambio de posicion de un cuerpo por unidad de tiempo?",
+      "context": "En la clase de física de un colegio en Medellín, se introduce el concepto de movimiento como cambio de posicion con respecto al tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La velocidad mide la variacion de la posicion en el tiempo ($v = \\Delta x / \\Delta t$)."
+        },
+        {
+          "letter": "B",
+          "text": "Aceleración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración mide el cambio de velocidad en el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Fuerza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza es una magnitud dinámica, no cinematica."
+        },
+        {
+          "letter": "D",
+          "text": "Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa es una propiedad de la materia, no del movimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Velocidad $v = \\Delta x / \\Delta t$: cambio de posicion respecto al tiempo, expresada en $m/s$ en el SI.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v2",
+      "statement": "Que tipo de movimiento describe el bus en este trayecto?",
+      "context": "En la carretera que conecta Bogotá con Girardot, un bus recorre $120$ km en $2$ horas en linea recta a velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Movimiento rectilineo uniforme (MRU).",
+          "is_correct": true,
+          "feedback": "Correcto. Trayectoria rectilinea con velocidad constante en modulo, direccion y sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Movimiento rectilineo uniformemente acelerado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad no cambia, por tanto no hay aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "Movimiento circular uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay trayectoria circular sino recta."
+        },
+        {
+          "letter": "D",
+          "text": "Movimiento oscilatorio armonico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay oscilacion periodica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "MRU: trayectoria rectilinea con velocidad constante ($a = 0$). La distancia recorrida es proporcional al tiempo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v3",
+      "statement": "Cuál es la velocidad media de la bicicleta en $m/s$?",
+      "context": "En una ciclovia de Cali, una bicicleta recorre $30$ metros en $6$ segundos con movimiento rectilineo uniforme.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5$ m/s.",
+          "is_correct": true,
+          "feedback": "Correcto. $v = \\Delta x / \\Delta t = 30\\text{ m} / 6\\text{ s} = 5\\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$0,2$ m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponderia a $30 / 150$, valor incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "$36$ m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la conversion erronea multiplicando en lugar de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "$180$ m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el producto $30 \\cdot 6$, sin relacion con la velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Velocidad media $v = d / t = 30\\text{ m} / 6\\text{ s} = 5\\text{ m/s}$ en el SI.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v4",
+      "statement": "Que distancia recorrera en $20$ segundos si mantiene el mismo movimiento rectilineo uniforme?",
+      "context": "En una pista de atletismo de Bucaramanga, una atleta corre $400$ m en $80$ segundos con velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$100$ m.",
+          "is_correct": true,
+          "feedback": "Correcto. A velocidad constante $v = 400 / 80 = 5\\text{ m/s}$; en $20$ s recorre $5 \\cdot 20 = 100$ m."
+        },
+        {
+          "letter": "B",
+          "text": "$80$ m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a una proporcion inversa mal aplicada."
+        },
+        {
+          "letter": "C",
+          "text": "$400$ m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la distancia total en $80$ s, no en $20$ s."
+        },
+        {
+          "letter": "D",
+          "text": "$200$ m.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Implicaria una velocidad doble de la real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En MRU, $x = v \\cdot t$. Si $v = 5$ m/s y $t = 20$ s, entonces $x = 100$ m.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v5",
+      "statement": "Cuanto tiempo tardara en recorrer $60$ km manteniendo la misma velocidad constante?",
+      "context": "En el sistema integrado de transporte masivo TransMilenio de Bogotá, un autobus se desplaza a $40$ km/h constantes por la troncal Caracas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1,5$ horas.",
+          "is_correct": true,
+          "feedback": "Correcto. $t = d / v = 60\\text{ km} / 40\\text{ km/h} = 1,5$ h."
+        },
+        {
+          "letter": "B",
+          "text": "$1$ hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponderia a una velocidad de $60$ km/h."
+        },
+        {
+          "letter": "C",
+          "text": "$2,4$ horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la inversa multiplicada por $60$: $60 \\cdot 40 = 2400$ min."
+        },
+        {
+          "letter": "D",
+          "text": "$0,67$ horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a recorrer $26,7$ km, no $60$ km."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$t = d / v$: en MRU, el tiempo es directamente proporcional a la distancia e inversamente proporcional a la velocidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v6",
+      "statement": "Que indica una gráfica posicion-tiempo rectilinea con pendiente positiva constante?",
+      "context": "En un laboratorio escolar de Pereira, se construye la gráfica posicion-tiempo de un carrito en una pista recta, obteniendose una linea recta ascendente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el cuerpo se mueve con velocidad constante en la misma direccion.",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente constante representa una velocidad uniforme."
+        },
+        {
+          "letter": "B",
+          "text": "Que el cuerpo esta en reposo absoluto durante todo el intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si estuviera en reposo, la gráfica seria horizontal en $x$ constante."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cuerpo se mueve con aceleración constante positiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente constante indica $a = 0$, no aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "Que el cuerpo cambia de direccion continuamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una linea recta continua indica una sola direccion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En $x$ vs $t$, una recta con pendiente positiva describe MRU; la pendiente equivale a la velocidad del movil.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v7",
+      "statement": "Cuál es la velocidad del pasajero respecto a la costa, segun el principio de suma de velocidades en una dimension?",
+      "context": "En el puerto de Santa Marta, un ferry viaja a velocidad constante de $15$ m/s y un pasajero camina dentro del barco a $2$ m/s respecto al barco en el mismo sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$17$ m/s en el sentido del movimiento del ferry.",
+          "is_correct": true,
+          "feedback": "Correcto. $v_{pasajero/costa} = v_{barco/costa} + v_{pasajero/barco} = 15 + 2 = 17$ m/s."
+        },
+        {
+          "letter": "B",
+          "text": "$13$ m/s en sentido contrario al del ferry.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la diferencia, pero solo si el pasajero caminara en sentido contrario."
+        },
+        {
+          "letter": "C",
+          "text": "$0$ m/s porque el pasajero esta dentro del barco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pasajero si se mueve respecto a la costa porque el barco lo arrastra."
+        },
+        {
+          "letter": "D",
+          "text": "$30$ m/s, el doble exacto de ambas velocidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma es $17$ m/s, no el producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Suma de velocidades en una dimension: $v_{A/C} = v_{A/B} + v_{B/C}$ cuando los movimientos son en el mismo sentido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v8",
+      "statement": "Cuanto tiempo tardaran en cruzarse los dos carros si mantienen su velocidad constante?",
+      "context": "En una pista de la Sabana de Bogotá, un carro se desplaza a $60$ km/h y otro en sentido contrario a $40$ km/h. Se encuentran separados inicialmente $200$ km.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$ horas.",
+          "is_correct": true,
+          "feedback": "Correcto. Velocidad relativa $= 60 + 40 = 100$ km/h; $t = 200\\text{ km} / 100\\text{ km/h} = 2$ h."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a sumar tiempos por separado, no al movimiento relativo."
+        },
+        {
+          "letter": "C",
+          "text": "$20$ horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponderia a la división inversa, sin considerar el cierre de la distancia."
+        },
+        {
+          "letter": "D",
+          "text": "$1$ hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Supondria el doble de la velocidad relativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para cuerpos moviendose en sentidos opuestos, la velocidad relativa es la suma de sus modulos; asi, $t = d_{inicial} / v_{relativa}$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v9",
+      "statement": "Por que en un movimiento circular uniforme la rapidez puede ser constante pero la velocidad cambia continuamente?",
+      "context": "En una clase de Cartagena, una docente explica la diferencia entre velocidad y rapidez usando el caso de un carro que recorre una pista circular regresando al mismo punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la direccion del movimiento cambia en cada instante, alterando el vector velocidad aunque el modulo sea constante.",
+          "is_correct": true,
+          "feedback": "Correcto. La velocidad es vectorial: depende de modulo y direccion."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la rapidez siempre cambia aun cuando el carro no acelere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En MCU la rapidez permanece constante en modulo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el carro se detiene momentaneamente en cada punto de la circunferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se detiene; cambia de direccion pero mantiene rapidez."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el carro recorre mas distancia que el desplazamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa diferencia existe pero no explica el cambio vectorial de velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Velocidad es vectorial (modulo $+$ direccion $+$ sentido). Si la direccion cambia, el vector velocidad cambia aunque el modulo (rapidez) sea constante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v10",
+      "statement": "Cual de los siguientes argumentos justifica mejor el riesgo de usar el celular al cruzar la calle, en terminos del tiempo de reacción?",
+      "context": "En Tunja, una campana de seguridad vial busca convencer a los jovenes de no usar el celular mientras caminan o conducen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distraccion aumenta el tiempo de reacción y reduce la distancia disponible para frenar a tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. Mas tiempo de reacción implica mayor distancia recorrida antes de detenerse."
+        },
+        {
+          "letter": "B",
+          "text": "El celular aumenta la velocidad de quien camina, reduciendo el riesgo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El celular no modifica la velocidad del peatón."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo de reacción es constante e independiente de la atencion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo de reacción aumenta significativamente con la distraccion."
+        },
+        {
+          "letter": "D",
+          "text": "El uso del celular solo afecta a conductores, no a peatones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peatones distraidos también estan en riesgo al cruzar la calle."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo de reacción se incrementa con la distraccion y, en MRU, una reacción mas lenta implica mayor distancia recorrida por el vehiculo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta del impacto de reducir la velocidad a la mitad sobre la distancia de frenado en MRU?",
+      "context": "En el plan de movilidad de Manizales, se discute reducir el limite de velocidad en zonas escolares de $40$ km/h a $20$ km/h para proteger a los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distancia de frenado se reduce aproximadamente a la mitad al diminuir la velocidad a la mitad.",
+          "is_correct": true,
+          "feedback": "Correcto. En condiciones ideales, distancia proporcional a la velocidad inicial."
+        },
+        {
+          "letter": "B",
+          "text": "La distancia de frenado se duplica al reducir la velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia es proporcional a la velocidad, no inversa."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia de frenado no se ve afectada por cambios en la velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia depende directamente de la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "La distancia de frenado aumenta cuatro veces al reducir la velocidad a la mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentaria cuatro veces si la velocidad se duplicara, no al reducirla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En MRU, distancia de frenado $d = v \\cdot t_{frenado}$. Si $v$ se reduce a la mitad, $d$ también se reduce aproximadamente a la mitad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle-v12",
+      "statement": "Cual de las siguientes evaluaciones justifica mejor el establecimiento de limites estrictos de velocidad para drones en zonas urbanas?",
+      "context": "En Neiva, una empresa de drones analiza si su vehiculo aereo no tripulado cumple la norma de velocidad máxima sobre zonas residenciales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limites de velocidad reducen la energía cinética del impacto, disminuyendo el riesgo de danos a personas y bienes.",
+          "is_correct": true,
+          "feedback": "Correcto. La energía cinética depende del cuadrado de la velocidad, asi que reducirla disminuye notablemente el riesgo."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad no afecta el riesgo de un drone porque solo importa su tamano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad es critica para la gravedad del impacto."
+        },
+        {
+          "letter": "C",
+          "text": "Los drones urbanos no pueden controlarse y siempre van a alta velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los drones modernos tienen control preciso de velocidad y altitud."
+        },
+        {
+          "letter": "D",
+          "text": "Limitar la velocidad de drones no aporta ninguna mejora a la seguridad urbana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulacion de velocidad reduce el riesgo de accidentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía cinética es proporcional a $v^2$; reducir la velocidad disminuye drasticamente la energía del impacto, mejorando la seguridad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W09-movimiento-velocidad-mru-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
