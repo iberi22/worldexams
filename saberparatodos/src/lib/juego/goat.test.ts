@@ -36,11 +36,37 @@ describe('goat (F8)', () => {
       base({ alias: 'B', puntaje: 1000, accuracy: 0.8, elo: 2000 }),
     ]);
     expect(porAccuracy?.campeon.alias).toBe('A');
+    const porElo = campeonDe([
+      base({ alias: 'A', puntaje: 1000, accuracy: 0.8, elo: 1500, tiempoMs: 500_000 }),
+      base({ alias: 'B', puntaje: 1000, accuracy: 0.8, elo: 1800, tiempoMs: 500_000 }),
+    ]);
+    expect(porElo?.campeon.alias).toBe('B');
     const porTiempo = campeonDe([
-      base({ alias: 'A', tiempoMs: 500_000 }),
-      base({ alias: 'B', tiempoMs: 400_000 }),
+      base({ alias: 'A', puntaje: 1000, accuracy: 0.8, elo: 1500, tiempoMs: 500_000 }),
+      base({ alias: 'B', puntaje: 1000, accuracy: 0.8, elo: 1500, tiempoMs: 400_000 }),
     ]);
     expect(porTiempo?.campeon.alias).toBe('B');
+  });
+
+  it('readHall maneja JSON no array o error de localStorage', () => {
+    localStorage.clear();
+    localStorage.setItem(HALL_STORAGE_KEY, JSON.stringify({ notAnArray: true }));
+    expect(leerHall()).toEqual([]);
+
+    localStorage.setItem(HALL_STORAGE_KEY, 'bad json');
+    expect(leerHall()).toEqual([]);
+  });
+
+  it('coronar captura quota/setItem error gracioso', () => {
+    localStorage.clear();
+    const entries = [base({ alias: 'A', puntaje: 900 })];
+    const originalSetItem = localStorage.setItem;
+    localStorage.setItem = () => {
+      throw new Error('QuotaExceededError');
+    };
+    const res = coronar(entries, '2026-Q3', 'co');
+    expect(res?.campeon.alias).toBe('A');
+    localStorage.setItem = originalSetItem;
   });
 
   it('filtra por season/país (case-insensitive) y vacío → null', () => {
@@ -92,5 +118,23 @@ describe('insignias (F8)', () => {
     expect(insigniaGoat('2026-Q3', 'CO')).toBe('goat-2026-q3-co');
     expect(insigniaOlimpico('2026-Q3')).toBe('olimpico-2026-q3');
     expect(insigniaFinalista(2026)).toBe('finalista-hispano-2026');
+  });
+
+  it('getInsigniasMap y saveMap manejan localStorage corrupto o errores', () => {
+    localStorage.clear();
+    localStorage.setItem(INSIGNIAS_STORAGE_KEY, 'invalid json');
+    _resetMemoryStoreForTest();
+    expect(listarInsignias()).toEqual([]);
+
+    localStorage.setItem(INSIGNIAS_STORAGE_KEY, JSON.stringify(['arrayNotAllowed']));
+    expect(listarInsignias()).toEqual([]);
+
+    const originalSetItem = localStorage.setItem;
+    localStorage.setItem = () => {
+      throw new Error('QuotaExceededError');
+    };
+    expect(desbloquearInsignia('test-quota-key')).toBe(true);
+    expect(tieneInsignia('test-quota-key')).toBe(true);
+    localStorage.setItem = originalSetItem;
   });
 });
