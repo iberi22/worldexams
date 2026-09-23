@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-35-grade-10-subject-matematicas",
+    "generated_at": "2026-09-23T00:27:43.792Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa geométricamente una suma de Riemann asociada a una función $f$ en el intervalo $[a, b]$?",
+      "context": "En Bogotá, Valentina presenta la suma de Riemann como herramienta para aproximar áreas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una aproximación del área bajo la curva mediante rectángulos.",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de Riemann aproxima el área con rectángulos de base $\\Delta x$ y altura $f(x_i^*)$."
+        },
+        {
+          "letter": "B",
+          "text": "La derivada exacta de $f$ en cada punto del intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de Riemann aproxima un área, no una derivada."
+        },
+        {
+          "letter": "C",
+          "text": "La longitud del arco entre los extremos del intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de arco es otra magnitud geométrica."
+        },
+        {
+          "letter": "D",
+          "text": "El valor máximo de $f$ en el intervalo $[a, b]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma no calcula un máximo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una suma de Riemann aproxima el área bajo la curva de $f$ entre $a$ y $b$ sumando áreas de rectángulos cuya base es $\\Delta x$ y cuya altura es un valor de $f$ en cada subintervalo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v2",
+      "statement": "¿Qué expresa la integral definida $\\int_{a}^{b} f(x) \\, dx$?",
+      "context": "En Medellín, Santiago explica la notación de la integral definida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de los valores de $f$ en todos los puntos del intervalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral suma áreas infinitesimales, no los valores puntuales."
+        },
+        {
+          "letter": "B",
+          "text": "La antiderivada general de $f$ con una constante $+C$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la integral indefinida."
+        },
+        {
+          "letter": "C",
+          "text": "El área neta bajo la curva de $f$ entre $x = a$ y $x = b$.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral definida entrega el área neta bajo la curva en el intervalo $[a, b]$."
+        },
+        {
+          "letter": "D",
+          "text": "La derivada de $f$ en el extremo superior $b$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada es otra operación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La integral definida $\\int_{a}^{b} f(x) \\, dx$ representa el área bajo la curva de $f$ entre $a$ y $b$, tomada como suma continua de rectángulos infinitesimales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v3",
+      "statement": "¿En qué se diferencia una suma de Riemann por la izquierda de una por la derecha?",
+      "context": "En Cali, Mariana compara la suma izquierda y la suma derecha de Riemann.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma por la izquierda usa el valor de $f$ en el extremo izquierdo de cada subintervalo; la derecha usa el extremo derecho.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en el punto donde se evalúa la altura del rectángulo."
+        },
+        {
+          "letter": "B",
+          "text": "La suma por la izquierda no usa rectángulos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas aproximaciones usan rectángulos."
+        },
+        {
+          "letter": "C",
+          "text": "La suma por la izquierda aproxima derivadas, la derecha aproxima áreas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas aproximan el área."
+        },
+        {
+          "letter": "D",
+          "text": "La suma por la izquierda solo aplica a funciones negativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección del extremo no depende del signo de $f$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la suma izquierda, la altura se toma en $x_i^* = x_i$; en la suma derecha, en $x_i^* = x_{i+1}$. Ambas aproximan la misma integral con rectángulos, pero por lados distintos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v4",
+      "statement": "Si toma $f(0) = 0$ y $f(1) = 1$, ¿cuál es el valor de la suma?",
+      "context": "En Cartagena, Valentina aproxima $\\int_{0}^{2} x \\, dx$ con dos rectángulos de ancho $\\Delta x = 1$ usando la suma izquierda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste ambos extremos derechos a la vez."
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma izquierda con $n=2$: $0 \\cdot 1 + 1 \\cdot 1 = 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las alturas pero olvidaste multiplicar por el ancho."
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo $f(0)$ y descartaste el otro rectángulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La suma izquierda con $n=2$ y $\\Delta x=1$ da $f(0) \\cdot 1 + f(1) \\cdot 1 = 0 + 1 = 1$. Esta es una subestimación porque $f(x) = x$ es creciente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v5",
+      "statement": "Con $f(1) = 1$ y $f(2) = 2$, ¿cuál es la suma derecha con dos rectángulos?",
+      "context": "En Barranquilla, Santiago aproxima la misma integral $\\int_{0}^{2} x \\, dx$ pero con la suma derecha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la suma izquierda, no la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "$3$",
+          "is_correct": true,
+          "feedback": "Correcto. Suma derecha: $f(1) \\cdot 1 + f(2) \\cdot 1 = 1 + 2 = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo por el ancho de un rectángulo."
+        },
+        {
+          "letter": "D",
+          "text": "$4$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las alturas pero sin multiplicar por $\\Delta x$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con la suma derecha y $\\Delta x = 1$, se obtiene $f(1) \\cdot 1 + f(2) \\cdot 1 = 1 + 2 = 3$. Esta es una sobreestimación porque $f(x) = x$ es creciente en $[0, 2]$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el valor aproximado de la integral usando esa suma?",
+      "context": "En Bucaramanga, Mariana aproxima el área bajo $f(x) = x^2$ en $[0, 3]$ con tres rectángulos de ancho $1$, usando el extremo derecho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1 + 4 + 9 = 14$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las alturas pero no multiplicaste por el ancho $\\Delta x = 1$."
+        },
+        {
+          "letter": "B",
+          "text": "$1 + 4 + 9 = 14$, porque $\\Delta x = 1$.",
+          "is_correct": true,
+          "feedback": "Correcto. Con $\\Delta x = 1$, multiplicar por el ancho no cambia la suma."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{14}{3}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste incorrectamente entre 3."
+        },
+        {
+          "letter": "D",
+          "text": "$0 + 1 + 4 = 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste extremo izquierdo en lugar del derecho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con $n=3$ y $\\Delta x=1$, los puntos derechos son $1, 2, 3$. Las alturas son $1^2 = 1$, $2^2 = 4$, $3^2 = 9$. La suma da $(1+4+9) \\cdot 1 = 14$, una sobreestimación porque $x^2$ es creciente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v7",
+      "statement": "¿Qué sucede cuando $n$, el número de subintervalos, tiende a infinito en una suma de Riemann?",
+      "context": "En Pereira, Valentina discute qué ocurre al aumentar el número de rectángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de Riemann diverge al infinito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si $f$ es integrable, la suma converge al valor exacto del área."
+        },
+        {
+          "letter": "B",
+          "text": "La suma de Riemann se aproxima al valor exacto de la integral definida.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral definida se define como el límite de esas sumas."
+        },
+        {
+          "letter": "C",
+          "text": "La suma se vuelve cero porque los rectángulos son muy delgados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el ancho tiende a $0$, las alturas pueden compensar."
+        },
+        {
+          "letter": "D",
+          "text": "La suma deja de existir porque se vuelve una suma infinita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite existe cuando $f$ es integrable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por definición, la integral definida es el límite de las sumas de Riemann cuando $n \\to \\infty$, siempre que $f$ sea integrable en el intervalo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la integral definida de $f(x) = x$ en $[-1, 1]$ es igual a cero?",
+      "context": "En Bogotá, Santiago observa que la integral $\\int_{-1}^{1} x \\, dx$ vale $0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque $f$ es constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(x) = x$ no es constante."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el área bajo la curva en $[-1, 0]$ cancela exactamente el área bajo la curva en $[0, 1]$.",
+          "is_correct": true,
+          "feedback": "Correcto. La función es impar, y el intervalo es simétrico respecto al origen, así que las áreas se cancelan."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la integral definida siempre vale $0$ en $[-1, 1]$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Depende de la función; por ejemplo $\\int_{-1}^{1} 1 \\, dx = 2$."
+        },
+        {
+          "letter": "D",
+          "text": "Porque $f$ no es continua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $f(x) = x$ sí es continua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como $x$ es una función impar y el intervalo $[-1, 1]$ es simétrico, el área negativa en $[-1, 0]$ se cancela con el área positiva en $[0, 1]$, dando como resultado $0$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes igualdades es VERDADERA para cualquier constante $k$ y funciones $f$ y $g$ integrables?",
+      "context": "En Medellín, Mariana evalúa propiedades de la integral definida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\int_{a}^{b} (f \\cdot g) \\, dx = \\int_{a}^{b} f \\, dx \\cdot \\int_{a}^{b} g \\, dx$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral del producto no es el producto de integrales."
+        },
+        {
+          "letter": "B",
+          "text": "$\\int_{a}^{b} (f + g) \\, dx = \\int_{a}^{b} f \\, dx + \\int_{a}^{b} g \\, dx$.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral definida es lineal y respeta sumas."
+        },
+        {
+          "letter": "C",
+          "text": "$\\int_{a}^{b} k \\, dx = k$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\int_{a}^{b} k \\, dx = k(b-a)$, no $k$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int_{a}^{b} f \\, dx = \\int_{b}^{a} f \\, dx$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el orden de los límites cambia el signo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integral definida es lineal: la integral de una suma es la suma de las integrales. En cambio, cambiar los límites invierte el signo: $\\int_{a}^{b} f \\, dx = -\\int_{b}^{a} f \\, dx$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué es importante interpretar la integral definida como un límite de sumas de Riemann en grado 10?",
+      "context": "En Cali, Valentina explica que toda integral definida se puede escribir como límite de una suma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite calcular derivadas exactas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada no es el foco de la integral definida."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reemplaza el uso de las funciones trigonométricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones trigonométricas no se ven afectadas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque conecta la noción intuitiva de área con la definición formal de integral.",
+          "is_correct": true,
+          "feedback": "Correcto. La suma de Riemann es el puente entre el área geométrica y el análisis matemático."
+        },
+        {
+          "letter": "D",
+          "text": "Porque elimina la necesidad de la constante $+C$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante $+C$ solo aparece en la integral indefinida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Interpretar la integral como un límite de sumas de Riemann permite entenderla como el área bajo la curva, lo que conecta la geometría con la formalización del cálculo integral.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones es VERDADERA sobre las aproximaciones obtenidas?",
+      "context": "En Cartagena, Santiago compara la aproximación por la izquierda y por la derecha para $f(x) = x^2$ en $[0, 2]$ con $n = 4$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma por la izquierda y por la derecha coinciden siempre que $n$ sea par.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo coinciden en casos muy particulares."
+        },
+        {
+          "letter": "B",
+          "text": "Como $f(x) = x^2$ es creciente, la suma por la izquierda subestima y la derecha sobreestima.",
+          "is_correct": true,
+          "feedback": "Correcto. Para una función creciente, izquierda $\\leq$ integral $\\leq$ derecha."
+        },
+        {
+          "letter": "C",
+          "text": "La suma por la derecha siempre subestima, sin importar la función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso depende de si la función es creciente o decreciente."
+        },
+        {
+          "letter": "D",
+          "text": "La suma por la izquierda y por la derecha son siempre mayores que la integral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma izquierda suele subestimar en funciones crecientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para funciones crecientes positivas, la suma izquierda queda por debajo de la integral y la derecha por encima. En funciones decrecientes, las relaciones se invierten.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle-v12",
+      "statement": "Si $\\Delta x = 1$, $f(1) = 3$, $f(2) = 5$, $f(3) = 7$ y $f(4) = 9$, ¿cuál es el promedio de las dos aproximaciones?",
+      "context": "En Pereira, Mariana aproxima $\\int_{1}^{4} (2x + 1) \\, dx$ usando 3 rectángulos de igual ancho, primero por la izquierda y luego por la derecha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo las alturas pero sin promediar las dos aproximaciones."
+        },
+        {
+          "letter": "B",
+          "text": "$18$.",
+          "is_correct": true,
+          "feedback": "Correcto. Suma izquierda: $3+5+7 = 15$. Suma derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$."
+        },
+        {
+          "letter": "C",
+          "text": "$15$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste la suma izquierda sin promediar."
+        },
+        {
+          "letter": "D",
+          "text": "$21$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste la suma derecha sin promediar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Izquierda: $3+5+7 = 15$. Derecha: $5+7+9 = 21$. Promedio: $(15+21)/2 = 18$. Como $f$ es lineal, este promedio coincide con el valor exacto $18$ de la integral.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W35-integral-definida-sumas-riemann-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

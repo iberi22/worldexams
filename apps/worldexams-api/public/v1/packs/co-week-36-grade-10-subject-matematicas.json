@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-36-grade-10-subject-matematicas",
+    "generated_at": "2026-09-23T00:27:43.792Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el enunciado básico del Teorema Fundamental del Cálculo?",
+      "context": "En Bogotá, Valentina presenta el Teorema Fundamental del Cálculo (TFC) como puente entre derivada e integral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda función continua tiene una raíz real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no es el TFC."
+        },
+        {
+          "letter": "B",
+          "text": "Si $F(x) = \\int_{a}^{x} f(t) \\, dt$ y $f$ es continua, entonces $F'(x) = f(x)$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el primer TFC: la integral con límite superior variable recupera el integrando al derivar."
+        },
+        {
+          "letter": "C",
+          "text": "La derivada de una constante es la propia constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una propiedad básica de derivadas, no el TFC."
+        },
+        {
+          "letter": "D",
+          "text": "La integral definida de $f$ en $[a, b]$ es igual a $f(b) - f(a)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso solo vale si $f$ es la derivada de $F$, lo cual es el segundo TFC."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El primer Teorema Fundamental del Cálculo dice que si defines $F(x) = \\int_{a}^{x} f(t) \\, dt$ con $f$ continua, entonces $F$ es derivable y $F'(x) = f(x)$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre la primera y la segunda parte del TFC?",
+      "context": "En Medellín, Santiago explica las dos partes del Teorema Fundamental del Cálculo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera dice que derivar la integral recupera el integrando; la segunda evalúa la integral definida usando una antiderivada.",
+          "is_correct": true,
+          "feedback": "Correcto. Son las dos caras del puente entre derivación e integración."
+        },
+        {
+          "letter": "B",
+          "text": "La primera solo aplica a funciones lineales; la segunda a funciones cuadráticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas partes son generales para funciones continuas."
+        },
+        {
+          "letter": "C",
+          "text": "La primera calcula áreas; la segunda calcula longitudes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El TFC trata áreas bajo curvas y antiderivadas, no longitudes de arco."
+        },
+        {
+          "letter": "D",
+          "text": "La primera usa límites; la segunda usa derivadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas partes se expresan con derivada y/o integral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La primera parte del TFC establece que $F'(x) = f(x)$ cuando $F$ se define como una integral con límite superior variable. La segunda parte permite calcular $\\int_{a}^{b} f(x) \\, dx = F(b) - F(a)$ para una antiderivada $F$ de $f$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué se puede afirmar sobre $F(x)$?",
+      "context": "En Cali, Mariana define la función $F(x) = \\int_{0}^{x} t \\, dt$ como ejemplo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$F(x)$ es constante porque el límite inferior es $0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite superior variable hace que $F$ cambie con $x$."
+        },
+        {
+          "letter": "B",
+          "text": "$F(x)$ es derivable y su derivada es $F'(x) = x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por el primer TFC, derivar la integral devuelve el integrando $t$ evaluado en $x$."
+        },
+        {
+          "letter": "C",
+          "text": "$F(x)$ no se puede derivar porque depende de un parámetro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Precisamente el TFC garantiza su derivabilidad."
+        },
+        {
+          "letter": "D",
+          "text": "$F'(x) = 0$ porque el integrando es $t$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El integrando evaluado en $x$ no es $0$."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Por el primer TFC, con $f(t) = t$ continua, $F(x) = \\int_{0}^{x} t \\, dt$ satisface $F'(x) = x$. Es decir, derivar deshace la integral.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es $g'(x)$?",
+      "context": "En Cartagena, Valentina aplica el primer TFC a $g(x) = \\int_{1}^{x} (3t^2) \\, dt$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la integral evaluada en $x$, no la derivada."
+        },
+        {
+          "letter": "B",
+          "text": "$0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de una integral con límite variable no es $0$."
+        },
+        {
+          "letter": "C",
+          "text": "$3x^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por el primer TFC, la derivada de la integral devuelve el integrando evaluado en $x$."
+        },
+        {
+          "letter": "D",
+          "text": "$1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor no tiene relación con el integrando."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El primer TFC indica que si $g(x) = \\int_{1}^{x} f(t) \\, dt$, entonces $g'(x) = f(x)$. Aquí $f(t) = 3t^2$, así que $g'(x) = 3x^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el valor de la integral?",
+      "context": "En Barranquilla, Santiago debe calcular $\\int_{1}^{3} 2x \\, dx$ usando el segundo TFC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente olvidaste evaluar en el extremo superior."
+        },
+        {
+          "letter": "B",
+          "text": "$4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es solo el valor de la antiderivada en $x = 3$."
+        },
+        {
+          "letter": "C",
+          "text": "$8$.",
+          "is_correct": true,
+          "feedback": "Correcto. Una antiderivada de $2x$ es $x^2$, y $3^2 - 1^2 = 9 - 1 = 8$."
+        },
+        {
+          "letter": "D",
+          "text": "$9$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste $F(3)$, sin restar $F(1)$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por el segundo TFC, $\\int_{1}^{3} 2x \\, dx = [x^2]_{1}^{3} = 3^2 - 1^2 = 9 - 1 = 8$. La integral definida se reduce a evaluar la antiderivada en los extremos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el resultado?",
+      "context": "En Bucaramanga, Mariana evalúa $\\int_{0}^{2} (4x^3) \\, dx$ usando el segundo TFC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente calculaste $4 \\cdot 2^2 = 16$ y olvidaste dividir entre $4$."
+        },
+        {
+          "letter": "B",
+          "text": "$16$.",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivada: $x^4$. Luego $2^4 - 0^4 = 16 - 0 = 16$."
+        },
+        {
+          "letter": "C",
+          "text": "$32$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $2^5$ sin dividir entre $4$."
+        },
+        {
+          "letter": "D",
+          "text": "$0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El extremo inferior es $0$, pero el superior aporta valor positivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una antiderivada de $4x^3$ es $x^4$. Por el segundo TFC, $\\int_{0}^{2} 4x^3 \\, dx = [x^4]_{0}^{2} = 2^4 - 0^4 = 16$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es $H'(x)$?",
+      "context": "En Pereira, Valentina aplica el primer TFC con la regla de la cadena para $H(x) = \\int_{0}^{x^2} \\cos(t) \\, dt$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\cos(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por la derivada del límite superior."
+        },
+        {
+          "letter": "B",
+          "text": "$\\cos(x^2) \\cdot 2x$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por el primer TFC combinado con la regla de la cadena."
+        },
+        {
+          "letter": "C",
+          "text": "$-\\sin(x^2)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste $\\cos$ con $\\sin$ y omitiste el factor $2x$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int_{0}^{x^2} \\cos(t) \\, dt$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función original, no su derivada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el límite superior no es $x$ sino $u(x) = x^2$, el primer TFC se combina con la regla de la cadena: $H'(x) = f(u(x)) \\cdot u'(x) = \\cos(x^2) \\cdot 2x$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el segundo TFC permite calcular áreas bajo curvas sin recurrir a sumas de Riemann?",
+      "context": "En Medellín, Santiago discute la relación entre el TFC y el cálculo de áreas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el TFC elimina la necesidad de gráficos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gráficos siguen siendo útiles para visualizar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el TFC solo aplica a funciones negativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El TFC aplica a funciones continuas con cualquier signo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque convierte la integral definida en una simple resta de valores de una antiderivada.",
+          "is_correct": true,
+          "feedback": "Correcto. El TFC reduce el problema del área a evaluar $F(b) - F(a)$."
+        },
+        {
+          "letter": "D",
+          "text": "Porque aproxima áreas con rectángulos cada vez más finos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición original, no la potencia del TFC."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El segundo TFC permite calcular la integral definida sin construir sumas de Riemann: basta encontrar una antiderivada $F$ y restar $F(b) - F(a)$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el valor de la integral?",
+      "context": "En Cali, Mariana calcula $\\int_{-2}^{2} (3x^2 + 4) \\, dx$ aplicando el segundo TFC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral de una función par en intervalo simétrico no es $0$."
+        },
+        {
+          "letter": "B",
+          "text": "$16$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste el valor en $x = 2$ sin restar el valor en $x = -2$."
+        },
+        {
+          "letter": "C",
+          "text": "$8$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente solo tomaste la parte constante $4 \\cdot 2$."
+        },
+        {
+          "letter": "D",
+          "text": "$32$.",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivada $x^3 + 4x$. Luego $(8 + 8) - (-8 - 8) = 16 - (-16) = 32$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Antiderivada de $3x^2 + 4$ es $x^3 + 4x$. Evaluando: $[x^3 + 4x]_{-2}^{2} = (8 + 8) - (-8 - 8) = 16 - (-16) = 32$. Por lo tanto, $\\int_{-2}^{2} (3x^2 + 4) \\, dx = 32$.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v10",
+      "statement": "Para verificar que $\\int_{1}^{4} 6x^2 \\, dx = 126$, ¿cuál de los siguientes procedimientos es el más confiable?",
+      "context": "En Bogotá, Valentina propone verificar el resultado de una integral definida derivando una primitiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Graficar $6x^2$ y estimar visualmente el área bajo la curva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estimación visual no es confiable para verificar un valor numérico."
+        },
+        {
+          "letter": "B",
+          "text": "Aplicar el segundo TFC con $F(x) = 2x^3$ y comprobar que $F(4) - F(1) = 126$.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el camino formal: encontrar la antiderivada y aplicar el segundo TFC."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar $6x^2$ en $x = 1, 2, 3, 4$ y obtener el total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar valores puntuales no recupera el área bajo la curva."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar $6 \\cdot 4^2$ para obtener $96$ y compararlo con $126$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso solo evalúa la función en el extremo superior, no integra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para verificar $\\int_{1}^{4} 6x^2 \\, dx$, lo correcto es aplicar el segundo TFC con $F(x) = 2x^3$: $F(4) - F(1) = 2(64) - 2(1) = 128 - 2 = 126$, confirmando el resultado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es $G'(x)$?",
+      "context": "En Medellín, Santiago debe aplicar el primer TFC a $G(x) = \\int_{0}^{x^3} \\sin(t) \\, dt$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin(x^3) \\cdot 3x^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Por el primer TFC con la regla de la cadena, usando $u(x) = x^3$."
+        },
+        {
+          "letter": "B",
+          "text": "$\\sin(x^3)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta multiplicar por la derivada del límite superior."
+        },
+        {
+          "letter": "C",
+          "text": "$3\\sin(x^3) \\cdot x^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución del producto es diferente."
+        },
+        {
+          "letter": "D",
+          "text": "$\\int_{0}^{x^3} \\cos(t) \\, dt$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería una integral del coseno, no la derivada de $G$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicando el primer TFC con regla de la cadena: si $u(x) = x^3$, entonces $G'(x) = \\sin(u(x)) \\cdot u'(x) = \\sin(x^3) \\cdot 3x^2$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle-v12",
+      "statement": "Aplicando el TFC, ¿cuál es el valor exacto de la integral?",
+      "context": "En Cartagena, Mariana debe calcular $\\int_{0}^{3} (2x + 5) \\, dx$ mediante el segundo TFC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subestimaste porque solo consideraste $F(3)$."
+        },
+        {
+          "letter": "B",
+          "text": "$15$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Probablemente calculaste $\\frac{(2\\cdot3+5)\\cdot 3}{2} = 16.5$, y redondeaste mal."
+        },
+        {
+          "letter": "C",
+          "text": "$24$.",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivada $x^2 + 5x$. Luego $[x^2 + 5x]_{0}^{3} = (9 + 15) - 0 = 24$."
+        },
+        {
+          "letter": "D",
+          "text": "$33$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste $9 + 15 + 9$ sin cancelar los extremos correctamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Por el segundo TFC, una antiderivada de $2x + 5$ es $x^2 + 5x$. Entonces, $\\int_{0}^{3} (2x + 5) \\, dx = [x^2 + 5x]_{0}^{3} = (9 + 15) - (0 + 0) = 24$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W36-teorema-fundamental-calculo-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

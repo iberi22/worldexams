@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-40-grade-10-subject-matematicas",
+    "generated_at": "2026-09-23T00:27:43.793Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el primer paso en la modelación matemática de una situación real?",
+      "context": "En Bogotá, Valentina explica qué significa modelar matemáticamente un fenómeno real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hallar la derivada de cualquier función relacionada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Antes de derivar hay que identificar las variables y construir la función."
+        },
+        {
+          "letter": "B",
+          "text": "Representar el fenómeno mediante una gráfica hecha a mano alzada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque graficar ayuda, primero hay que identificar las magnitudes que varían."
+        },
+        {
+          "letter": "C",
+          "text": "Identificar las variables relevantes y la relación entre ellas.",
+          "is_correct": true,
+          "feedback": "Correcto. El primer paso es reconocer qué magnitudes cambian y cómo se relacionan."
+        },
+        {
+          "letter": "D",
+          "text": "Calcular el valor exacto en un punto particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso viene después de tener un modelo funcional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la modelación matemática, el primer paso es identificar las magnitudes que intervienen (variables independientes y dependientes) y la forma en que se relacionan. Después se propone una función o familia de funciones, se ajustan parámetros con datos y se valida con casos reales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de función es apropiado proponer para ese modelo inicial?",
+      "context": "En Cali, Mariana observa que el precio de un producto (en miles de COP) depende linealmente de la cantidad demandada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una función trigonométrica como $f(x) = a \\sin(bx)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las trigonométricas describen fenómenos oscilatorios, no una dependencia lineal simple."
+        },
+        {
+          "letter": "B",
+          "text": "Una función lineal de la forma $f(x) = mx + b$.",
+          "is_correct": true,
+          "feedback": "Correcto. La dependencia lineal entre precio y cantidad se modela con $f(x) = mx + b$."
+        },
+        {
+          "letter": "C",
+          "text": "Una función exponencial como $f(x) = a \\cdot b^x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las exponenciales describen crecimientos multiplicativos."
+        },
+        {
+          "letter": "D",
+          "text": "Una función constante $f(x) = c$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera constante, no habría dependencia entre las variables."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si dos magnitudes se relacionan de manera directamente proporcional o aproximadamente constante, una función lineal $f(x) = mx + b$ es un primer modelo razonable. La elección del tipo de función debe guiarse por el comportamiento observado del fenómeno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de función describe mejor esa secuencia de alturas?",
+      "context": "En Medellín, Santiago registra la altura (en cm) de una planta de café cada semana: semana 1: 10 cm; semana 2: 14 cm; semana 3: 18 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una función lineal, porque la altura aumenta $4$ cm cada semana.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es constante, así que una función lineal $f(n) = 4n + 6$ ajusta bien."
+        },
+        {
+          "letter": "B",
+          "text": "Una función exponencial, porque la altura crece rápidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque crece, no es multiplicativa; las diferencias son constantes."
+        },
+        {
+          "letter": "C",
+          "text": "Una función logarítmica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los logaritmos crecen cada vez más lento, no es el caso."
+        },
+        {
+          "letter": "D",
+          "text": "Una función trigonométrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay oscilación; los datos son monótonos crecientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando las diferencias entre valores consecutivos son aproximadamente constantes, la relación es lineal. En este caso, la diferencia semanal es $4$ cm, así que un modelo lineal es el más natural.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v4",
+      "statement": "¿Qué función describe la venta diaria $V(n)$ como función del día $n$?",
+      "context": "En Barranquilla, una panadería vende cada día el doble de pan que el día anterior, empezando con $50$ unidades el día $1$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V(n) = 50n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es crecimiento lineal; aquí el crecimiento es multiplicativo."
+        },
+        {
+          "letter": "B",
+          "text": "$V(n) = 50 \\cdot 2^{n-1}$",
+          "is_correct": true,
+          "feedback": "Correcto. Empezamos con $50$ en el día $1$ y cada día se duplica, así que $V(n) = 50 \\cdot 2^{n-1}$."
+        },
+        {
+          "letter": "C",
+          "text": "$V(n) = 50 + 2n$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es lineal con pendiente $2$, no exponencial."
+        },
+        {
+          "letter": "D",
+          "text": "$V(n) = 50 \\cdot n^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es cuadrático, no exponencial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un crecimiento multiplicativo se modela con funciones exponenciales. Aquí la base es $2$ (se duplica cada día) y el valor inicial es $50$ en $n = 1$. La forma correcta es $V(n) = 50 \\cdot 2^{n-1}$, lo que da $V(1) = 50$, $V(2) = 100$, $V(3) = 200$, etc.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la amplitud y la frecuencia angular de este movimiento?",
+      "context": "En Cartagena, un péndulo se mueve de manera que su desplazamiento lateral (en cm) respecto al tiempo $t$ (en segundos) sigue $f(t) = 5 \\cos(2t)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplitud $2$ cm y frecuencia angular $5$ rad/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste amplitud y frecuencia angular."
+        },
+        {
+          "letter": "B",
+          "text": "Amplitud $5$ rad y frecuencia angular $2$ cm.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las unidades son incorrectas."
+        },
+        {
+          "letter": "C",
+          "text": "Amplitud $5$ cm y frecuencia angular $2$ rad/s.",
+          "is_correct": true,
+          "feedback": "Correcto. En $f(t) = A \\cos(\\omega t)$, $A$ es la amplitud y $\\omega$ la frecuencia angular."
+        },
+        {
+          "letter": "D",
+          "text": "Amplitud $10$ cm y frecuencia angular $2$ rad/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amplitud es $5$, no $10$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para $f(t) = A \\cos(\\omega t)$, $|A|$ es la amplitud (máximo desplazamiento desde el equilibrio) y $\\omega$ es la frecuencia angular (en radianes por segundo). Aquí $A = 5$ cm y $\\omega = 2$ rad/s.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la altura máxima alcanzada y en qué tiempo ocurre?",
+      "context": "En Bogotá, un cohete se lanza y su altura (en metros) en función del tiempo $t$ (en segundos) se modela con $h(t) = -5t^2 + 30t + 10$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altura máxima $10$ m en $t = 0$ s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $h(0) = 10$ es la altura inicial, no la máxima."
+        },
+        {
+          "letter": "B",
+          "text": "Altura máxima $55$ m en $t = 1$ s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo no es correcto."
+        },
+        {
+          "letter": "C",
+          "text": "Altura máxima $55$ m en $t = 3$ s.",
+          "is_correct": true,
+          "feedback": "Correcto. El vértice está en $t = -\\frac{b}{2a} = 3$ s y $h(3) = -5(9) + 30(3) + 10 = 55$ m."
+        },
+        {
+          "letter": "D",
+          "text": "Altura máxima $100$ m en $t = 3$ s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura es $55$ m, no $100$ m."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para una parábola $h(t) = at^2 + bt + c$ con $a < 0$, el vértice (altura máxima) está en $t = -\\frac{b}{2a}$. Aquí $t = -\\frac{30}{2(-5)} = 3$ s, y $h(3) = -5(9) + 30(3) + 10 = -45 + 90 + 10 = 55$ m. Este modelo es típico para lanzamientos verticales bajo gravedad constante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia entre usar $P(t) = P_0 \\cdot 2^t$ y $P(t) = P_0 + 2t$ para modelar ese crecimiento?",
+      "context": "En Medellín, un equipo debe decidir qué tipo de función modela el crecimiento de una población de bacterias que se duplica cada hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos funciones producen el mismo resultado siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Crecimientos exponencial y lineal son muy distintos a largo plazo."
+        },
+        {
+          "letter": "B",
+          "text": "La función lineal $P_0 + 2t$ representa mejor un crecimiento multiplicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lineal representa crecimiento aditivo, no multiplicativo."
+        },
+        {
+          "letter": "C",
+          "text": "La función $P_0 \\cdot 2^t$ describe un crecimiento multiplicativo (se duplica cada hora), mientras que $P_0 + 2t$ describe un crecimiento aditivo (suma una cantidad fija cada hora).",
+          "is_correct": true,
+          "feedback": "Correcto. El modelo exponencial es apropiado para poblaciones bacterianas que se duplican; el lineal solo sirve si el incremento es constante, lo que no ocurre en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos sirve; hay que usar trigonometría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones trigonométricas modelan oscilaciones, no crecimiento poblacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia clave entre crecimiento exponencial y lineal es la naturaleza del incremento: en el modelo $P_0 \\cdot 2^t$ cada hora se duplica la cantidad anterior (incremento multiplicativo), mientras que en $P_0 + 2t$ cada hora se suman $2$ bacterias al valor inicial (incremento aditivo). Para poblaciones bacterianas reales, el modelo exponencial es el adecuado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia entre ambos modelos en $t = 10$?",
+      "context": "En Pereira, se comparan dos modelos para la misma población: $P(t) = 100 \\cdot 1.05^t$ y $P(t) = 100 \\cdot e^{0.05 t}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos modelos dan exactamente el mismo valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque son cercanos, no son idénticos."
+        },
+        {
+          "letter": "B",
+          "text": "El primero da $100 \\cdot e^{0.5}$ y el segundo da $100 \\cdot 1.05^{10}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste los modelos."
+        },
+        {
+          "letter": "C",
+          "text": "El primero da aproximadamente $162.89$ y el segundo aproximadamente $164.87$.",
+          "is_correct": true,
+          "feedback": "Correcto. $100 \\cdot 1.05^{10} \\approx 162.89$ y $100 \\cdot e^{0.5} \\approx 164.87$."
+        },
+        {
+          "letter": "D",
+          "text": "El primero da exactamente $100$ y el segundo da $0$ en $t = 10$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos crecen, no se anulan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia entre las bases $1.05^t$ y $e^{0.05t}$ es sutil pero significativa: la base $1.05$ representa un aumento del $5\\%$ por unidad de tiempo, mientras que $e^{0.05t}$ corresponde a una tasa instantánea de crecimiento del $5\\%$ por unidad de tiempo. Para valores pequeños, son cercanos; para tiempos largos, se separan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v9",
+      "statement": "Si vende $x$ camisetas al mes, ¿cuál es la función de utilidad mensual?",
+      "context": "En Cali, una empresa vende camisetas a un precio unitario de $25.000$ COP. El costo fijo mensual es de $500.000$ COP y cada camiseta tiene un costo de producción de $10.000$ COP.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$U(x) = 25.000x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo consideraste los ingresos, falta restar costos."
+        },
+        {
+          "letter": "B",
+          "text": "$U(x) = 15.000x - 500.000$",
+          "is_correct": true,
+          "feedback": "Correcto. Ingresos: $25.000x$. Costos: $500.000 + 10.000x$. Utilidad: $U(x) = 25.000x - (500.000 + 10.000x) = 15.000x - 500.000$."
+        },
+        {
+          "letter": "C",
+          "text": "$U(x) = 35.000x - 500.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los precios en lugar de restar."
+        },
+        {
+          "letter": "D",
+          "text": "$U(x) = -500.000$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No consideraste las ventas; esa sería la utilidad si no se vende nada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La utilidad es la diferencia entre ingresos y costos. Con precio $p = 25.000$, costo variable $c_v = 10.000$ y costo fijo $C_f = 500.000$, se obtiene $U(x) = (p - c_v)x - C_f = 15.000x - 500.000$ COP. Esta función es lineal y su pendiente representa la ganancia por camiseta vendida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio es el más apropiado para decidir entre ambos modelos?",
+      "context": "En Bogotá, se comparan dos modelos para el mismo fenómeno: uno lineal y otro exponencial, ambos ajustando bien los primeros datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir siempre el modelo exponencial porque crece más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Crecimiento rápido no implica mejor ajuste; hay que considerar la naturaleza del fenómeno."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir siempre el lineal por simplicidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simplicidad no basta si no representa bien el fenómeno a largo plazo."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar las predicciones de ambos modelos con datos nuevos no usados en el ajuste y elegir el que tenga menor error de predicción.",
+          "is_correct": true,
+          "feedback": "Correcto. La validación con datos nuevos y el análisis de residuos son criterios objetivos para elegir modelos."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir el que mejor se vea en una hoja cuadriculada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apariencia gráfica no es un criterio cuantitativo suficiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La elección entre modelos se hace evaluando su capacidad predictiva con datos no usados en el ajuste, comparando errores de predicción o analizando residuos. También se consideran criterios de parsimonia, pero siempre combinados con la validación cuantitativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la valoración correcta de esa afirmación?",
+      "context": "En Medellín, una estudiante afirma: \"Como el ajuste lineal dio $R^2 = 0.95$, el modelo lineal es perfecto para predecir el fenómeno.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque $R^2$ mide la bondad de ajuste a los datos usados, pero no garantiza buena predicción fuera de ese rango ni considera otros factores.",
+          "is_correct": true,
+          "feedback": "Correcto. Un $R^2$ alto no implica que el modelo sea perfecto: hay que validar con datos nuevos y considerar el dominio de validez."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque $R^2$ cercano a $1$ siempre significa modelo perfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $R^2$ es solo una medida entre varias; un valor alto no garantiza validez predictiva completa."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta si el fenómeno es lineal en su naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el fenómeno sea lineal, hay que validar el ajuste con datos fuera de la muestra."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si el $R^2$ es exactamente $1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluso con $R^2 = 1$ en la muestra, no se garantiza buena predicción fuera de ella."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El coeficiente de determinación $R^2$ mide la proporción de variabilidad explicada por el modelo en los datos de ajuste, pero no garantiza extrapolaciones confiables ni captura relaciones no lineales. La validación con datos independientes es indispensable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes es la mejor justificación para usar ese tipo de proyecto integrador como cierre?",
+      "context": "En Bogotá, al final del año lectivo, un docente debe presentar el cierre del componente variacional. Elige un proyecto integrador donde los estudiantes deben elegir un fenómeno real y proponer un modelo matemático (lineal, cuadrático, exponencial o trigonométrico), ajustarlo con datos, validarlo y comunicarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el cierre porque los exámenes finales ya cubren todos los temas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un proyecto integrador aporta algo distinto: articular y aplicar conocimientos en contexto."
+        },
+        {
+          "letter": "B",
+          "text": "Es el cierre porque elimina la necesidad de explicar la teoría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El proyecto integra teoría y práctica, no sustituye la explicación conceptual."
+        },
+        {
+          "letter": "C",
+          "text": "Es el cierre porque permite a los estudiantes integrar funciones lineales, cuadráticas, exponenciales y trigonométricas en un único contexto de modelación, fortaleciendo el pensamiento variacional.",
+          "is_correct": true,
+          "feedback": "Correcto. El proyecto articula las distintas familias de funciones vistas durante el año y exige tomar decisiones de modelación, ajuste y validación, lo que consolida el pensamiento variacional."
+        },
+        {
+          "letter": "D",
+          "text": "Es el cierre porque es la única manera de obtener una nota.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaluación se puede hacer de muchas formas; el valor del proyecto es pedagógico, no administrativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un proyecto integrador de cierre es valioso porque articula los distintos tipos de funciones trabajados durante el año (lineales, cuadráticas, exponenciales, trigonométricas) en un contexto de modelación real. Obliga a los estudiantes a tomar decisiones sobre qué modelo proponer, ajustar parámetros con datos, validar y comunicar resultados, lo que consolida el pensamiento variacional y las competencias de modelación matemática evaluadas en Saber 11.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W40-modelacion-matematica-funciones-cierre-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
