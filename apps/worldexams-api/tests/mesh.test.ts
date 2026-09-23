@@ -5,7 +5,7 @@ import {
   containsForbiddenKeys,
   validateEnvelope,
   type MeshStores,
-} from "./mesh";
+} from "../src/mesh";
 
 function req(path: string, init?: RequestInit): Request {
   return new Request(`http://localhost${path}`, init);
