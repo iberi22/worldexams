@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-33-grade-10-subject-matematicas",
+    "generated_at": "2026-09-23T00:27:43.790Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se define la antiderivada (o primitiva) de una función $f(x)$?",
+      "context": "En Bogotá, Valentina presenta en clase la antiderivada como operación inversa de la derivada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una función $F(x)$ tal que $F'(x) = f(x)$.",
+          "is_correct": true,
+          "feedback": "Correcto. La antiderivada es la función cuya derivada recupera $f$."
+        },
+        {
+          "letter": "B",
+          "text": "Una función $F(x)$ tal que $F(x) = f'(x)$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso sería la derivada de $F$, no su antiderivada."
+        },
+        {
+          "letter": "C",
+          "text": "El área bajo la curva de $f$ entre $0$ y $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la integral definida, no la antiderivada."
+        },
+        {
+          "letter": "D",
+          "text": "El valor máximo que toma $f$ en su dominio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La antiderivada no tiene que ver con máximos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una antiderivada de $f$ es una función $F$ cuya derivada es $f$. Decimos que $F' = f$, lo que la convierte en la operación inversa de la derivación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la antiderivada de una función no es única sino una familia de funciones?",
+      "context": "En Medellín, Santiago explica por qué aparecen infinitas antiderivadas para una misma función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque depende del sistema de coordenadas que se elija.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección de coordenadas no afecta la antiderivada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque si $F(x)$ es una antiderivada, entonces $F(x) + C$ también lo es, para cualquier constante $C$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de una constante es $0$, así que se mantiene la igualdad $F' = f$."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo existe cuando $f$ es lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen antiderivadas para funciones no lineales también."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la derivada solo se puede calcular una vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada no limita el número de antiderivadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Si $F'(x) = f(x)$, entonces $(F(x) + C)' = F'(x) + 0 = f(x)$. Por eso toda familia $F(x) + C$ es el conjunto completo de antiderivadas de $f$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes expresiones representa correctamente la integral indefinida $\\int 2x \\, dx$?",
+      "context": "En Cali, Mariana escribe la integral indefinida de $f(x) = 2x$ durante una explicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir por el nuevo exponente $2$, aplicando la regla de la potencia."
+        },
+        {
+          "letter": "B",
+          "text": "$x^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque su derivada es $2x$, le falta la constante $+C$ de la integral indefinida."
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $x^2 + C$ es $2x$, por lo que es la integral indefinida correcta."
+        },
+        {
+          "letter": "D",
+          "text": "$x + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $x + C$ es $1$, no $2x$."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La integral indefinida $\\int 2x \\, dx = x^2 + C$ incluye la constante $+C$ porque cualquier constante se anula al derivar, dando así todas las antiderivadas de $2x$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.86,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el resultado de $\\int 5 \\, dx$?",
+      "context": "En Cartagena, un estudiante debe hallar la integral indefinida de una constante $k = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste $5$ por un $x$ inexistente y elevaste al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$5x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. La antiderivada de una constante $k$ es $kx + C$, ya que la derivada de $5x$ es $5$."
+        },
+        {
+          "letter": "C",
+          "text": "$C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integral de una constante no es solo otra constante."
+        },
+        {
+          "letter": "D",
+          "text": "$5 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se incluye la variable $x$ en la respuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La integral indefinida de una constante $k$ es $kx + C$ porque la derivada de $kx$ es exactamente $k$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la antiderivada de $x^3$ usando la regla de la potencia para integrales?",
+      "context": "En Barranquilla, Valentina aplica la regla de la potencia para antiderivar $f(x) = x^3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x^2 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la derivada de $x^3$, no su antiderivada."
+        },
+        {
+          "letter": "B",
+          "text": "$x^4 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por $4$ en vez de dividir."
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^4}{4} + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Por la regla: $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$, con $n = 3$."
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{x^3}{3} + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajaste el exponente a 2 en lugar de subirlo a 4."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La regla de la potencia para integrales indica $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$, así que con $n = 3$ se obtiene $\\frac{x^4}{4} + C$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la integral indefinida $\\int (4x^3 - 6x + 7) \\, dx$?",
+      "context": "En Bucaramanga, Santiago debe combinar varias reglas básicas para antiderivar $f(x) = 4x^3 - 6x + 7$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12x^2 - 6 + C$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la derivada, no la integral."
+        },
+        {
+          "letter": "B",
+          "text": "$4x^4 - 6x^2 + 7x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltó dividir cada término entre su nuevo exponente y la constante $+C$."
+        },
+        {
+          "letter": "C",
+          "text": "$x^4 - 3x^2 + 7x + C$",
+          "is_correct": true,
+          "feedback": "Correcto. Cada término se antideriva aplicando la regla de la potencia y la del múltiplo constante."
+        },
+        {
+          "letter": "D",
+          "text": "$x^4 - 3x^2 + 7x$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo falta agregar $+C$ al final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicando término a término: $\\int 4x^3 \\, dx = x^4$, $\\int -6x \\, dx = -3x^2$, $\\int 7 \\, dx = 7x$, y sumando la constante $+C$ al final.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v7",
+      "statement": "Si $f(x) = 3x^2$ y $F(x)$ es una antiderivada, ¿cuál de las siguientes afirmaciones es correcta?",
+      "context": "En Pereira, Mariana compara el comportamiento de la derivada y la antiderivada de $f(x) = 3x^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$F(x) = 3x^2 + C$ para todo $x$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sería la derivada, no la antiderivada."
+        },
+        {
+          "letter": "B",
+          "text": "$F(x)$ solo existe si $x > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La antiderivada existe en todo el dominio de $f$."
+        },
+        {
+          "letter": "C",
+          "text": "$F(x) = x^3 + C$ cumple $F'(x) = 3x^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivada de $x^3$ es exactamente $3x^2$."
+        },
+        {
+          "letter": "D",
+          "text": "$F(x)$ no se puede determinar, porque la integral es imposible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una integral polinómica elemental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $f(x) = 3x^2$, su antiderivada es $F(x) = x^3 + C$, ya que al derivar $x^3$ se recupera $3x^2$, y se conserva $+C$ para toda la familia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v8",
+      "statement": "Si la aceleración de un objeto es $a(t) = 6t$ (en m/s$^2$), ¿cuál es la velocidad $v(t)$ si $v(0) = 0$?",
+      "context": "En Bogotá, Valentina recupera información de un movimiento a partir de su aceleración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$v(t) = 6t^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste el valor inicial $v(0) = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "$v(t) = 6t$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la aceleración, no la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "$v(t) = 3t^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivar $6t$ da $3t^2 + C$, y con $v(0)=0$ se obtiene $C=0$."
+        },
+        {
+          "letter": "D",
+          "text": "$v(t) = 3t^2 + 6t$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste la aceleración original, lo cual no aplica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como $v'(t) = a(t) = 6t$, se tiene $v(t) = \\int 6t \\, dt = 3t^2 + C$. Con $v(0)=0$ se obtiene $C = 0$, así que $v(t) = 3t^2$ m/s.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la posición $s(t)$ del objeto?",
+      "context": "En Medellín, Santiago debe recuperar la posición $s(t)$ a partir de la aceleración $a(t) = 12t$ y la condición inicial $s(0) = 5$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$s(t) = 12t^2 + 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste solo una vez por 2, falta otra integración."
+        },
+        {
+          "letter": "B",
+          "text": "$s(t) = 6t^2 + 5t$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidaste el segundo término $+C$ al integrar."
+        },
+        {
+          "letter": "C",
+          "text": "$s(t) = 2t^3 + 5$.",
+          "is_correct": true,
+          "feedback": "Correcto. Antiderivas dos veces: $v(t) = 6t^2$, $s(t) = 2t^3 + C$, con $s(0)=5$ da $C=5$."
+        },
+        {
+          "letter": "D",
+          "text": "$s(t) = 12t + 5$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aplicaste la regla de la potencia correctamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Integrar $12t$ da $v(t) = 6t^2 + C_1$. Integrar de nuevo da $s(t) = 2t^3 + C_1 t + C_2$. Si $v(0)=0$ se obtiene $C_1=0$, y con $s(0)=5$ queda $C_2=5$, es decir $s(t) = 2t^3 + 5$ m.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v10",
+      "statement": "Un compañero afirma: \"Como solo me piden una antiderivada, puedo omitir la constante $+C$.\" ¿Cuál es la valoración correcta?",
+      "context": "En Cali, Mariana discute con un compañero sobre si la constante $+C$ es obligatoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque cualquier constante sirve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante $+C$ no se elige arbitrariamente; representa toda la familia."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta solo si la pregunta dice \"una\" antiderivada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aun así, una antiderivada específica debe escribirse con $C=0$ explícito."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta; $+C$ indica la familia completa de antiderivadas, exigida por la integral indefinida.",
+          "is_correct": true,
+          "feedback": "Correcto. La integral indefinida exige la constante $+C$ para representar todas las soluciones."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, pero solo en exámenes internacionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla aplica universalmente, sin importar el contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La integral indefinida devuelve la familia completa de antiderivadas. Por eso, salvo que se pida un valor específico, debe incluirse siempre la constante $+C$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.65,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la valoración de esa respuesta?",
+      "context": "En Cartagena, un estudiante presenta la integral $\\int \\frac{1}{x} \\, dx = \\frac{1}{x^2} + C$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta; la antiderivada correcta de $\\frac{1}{x}$ es $\\ln|x| + C$, no $\\frac{1}{x^2} + C$.",
+          "is_correct": true,
+          "feedback": "Correcto. La regla de la potencia no aplica cuando $n = -1$; se usa el logaritmo natural."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la derivada de $\\frac{1}{x^2}$ es $\\frac{1}{x}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La derivada de $x^{-2}$ es $-2x^{-3}$, no $\\frac{1}{x}$."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta solo si $x > 0$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aun restringiendo el dominio, $\\frac{1}{x^2}$ no tiene derivada $\\frac{1}{x}$."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta porque los dos sumandos son equivalentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $\\frac{1}{x^2}$ y $\\ln|x|$ son funciones distintas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regla $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$ requiere $n \\neq -1$. Para $n=-1$ se usa $\\int \\frac{1}{x} \\, dx = \\ln|x| + C$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la expresión explícita de $f(x)$?",
+      "context": "En Bogotá, Valentina reconstruye la función $f(x)$ cuya derivada es $f'(x) = 6x - 4$ y que cumple $f(1) = 3$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$f(x) = 3x^2 - 4x + 1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicaste mal la condición inicial; con $C=1$ se obtiene $f(1)=0$, no $3$."
+        },
+        {
+          "letter": "B",
+          "text": "$f(x) = 6x - 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la derivada, no la función original."
+        },
+        {
+          "letter": "C",
+          "text": "$f(x) = 3x^2 - 4x + 4$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al integrar da $3x^2 - 4x + C$, y con $f(1)=3$ se obtiene $C = 4$."
+        },
+        {
+          "letter": "D",
+          "text": "$f(x) = 3x^2 - 4x - 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constante $C$ quedó con signo contrario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Integrar $6x - 4$ da $3x^2 - 4x + C$. La condición $f(1) = 3$ implica $3 - 4 + C = 3$, de donde $C = 4$. Así, $f(x) = 3x^2 - 4x + 4$.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-10-2026-W33-antiderivadas-integral-indefinida-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
