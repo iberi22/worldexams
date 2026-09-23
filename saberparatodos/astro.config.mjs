@@ -43,8 +43,10 @@ export default defineConfig({
     resolve: {
       alias: {
         '@': fileURLToPath(new URL('./src', import.meta.url)),
-        '$lib': fileURLToPath(new URL('./src/lib', import.meta.url)),
-        'edge-mesh': fileURLToPath(new URL('./src/lib/ai/__mocks__/edge-mesh-stub.ts', import.meta.url))
+        '$lib': fileURLToPath(new URL('./src/lib', import.meta.url))
+        // NOTA: sin alias 'edge-mesh' — el build usa el core real
+        // `@iberi22/edge-mesh` (cores/edge-mesh). Solo `AiCore` sigue en stub
+        // local (import directo en ai-core-client/ModelManager).
       }
     },
     plugins: [tailwindcss()]
