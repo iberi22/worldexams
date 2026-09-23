@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-16-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T02:11:20.405Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v1",
+      "statement": "La luz visible es:",
+      "context": "Un estudiante de La Macarena (Meta) observa el arcoíris que se forma sobre el Caño Cristales después de una tarde de lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una onda electromagnética que el ojo humano puede detectar.",
+          "is_correct": true,
+          "feedback": "Correcto. La luz visible ocupa el rango aproximado de 380 a 750 nm del espectro electromagnético y es percibida por los conos de la retina."
+        },
+        {
+          "letter": "B",
+          "text": "Una onda mecánica que requiere un medio material para propagarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde al sonido; la luz también se propaga en el vacío."
+        },
+        {
+          "letter": "C",
+          "text": "Una corriente eléctrica que circula por los conductores metálicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente eléctrica es flujo de electrones, no radiación luminosa."
+        },
+        {
+          "letter": "D",
+          "text": "Una forma de energía que solo emite el Sol en el rango visible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda sustancia incandescente, fluorescente o un LED también emiten luz visible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La luz visible es la fracción del espectro electromagnético con longitudes de onda entre 380 y 750 nm, perceptible por el ojo humano. Presenta comportamiento dual onda-partícula y se propaga en el vacío a ≈ 3·10^8 m/s. No necesita un medio material, a diferencia de las ondas mecánicas como el sonido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v2",
+      "statement": "Cuando un rayo de luz choca contra una superficie lisa y pulida y cambia de trayectoria regresando al medio de origen, el fenómeno se denomina:",
+      "context": "Un turista en Cartagena observa cómo el haz del faro se refleja en la superficie tranquila del mar Caribe durante la noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión de la luz.",
+          "is_correct": true,
+          "feedback": "Correcto. En la reflexión el rayo incidente, la normal y el rayo reflejado se ubican en el mismo plano, con θᵢ = θᵣ."
+        },
+        {
+          "letter": "B",
+          "text": "Refracción de la luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refracción es el paso de la luz de un medio a otro con cambio de velocidad y dirección."
+        },
+        {
+          "letter": "C",
+          "text": "Dispersión cromática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dispersión separa la luz blanca en sus colores componentes."
+        },
+        {
+          "letter": "D",
+          "text": "Difracción de la luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difracción es el desvío de la luz al atravesar aberturas pequeñas comparables con su longitud de onda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la reflexión luminosa especular, el rayo incidente, la normal a la superficie y el rayo reflejado están en el mismo plano, cumpliéndose que el ángulo de incidencia es igual al ángulo de reflexión (θᵢ = θᵣ). Las superficies lisas y pulidas producen reflexión especular, mientras que las irregulares generan reflexión difusa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v3",
+      "statement": "Una lente que hace converger los rayos paralelos de luz hacia un punto llamado foco se clasifica como:",
+      "context": "En el observatorio astronómico de Villa de Leyva (Boyacá), un técnico reemplaza la lente objetivo de un telescopio refractor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lente convergente (biconvexa).",
+          "is_correct": true,
+          "feedback": "Correcto. Las lentes convergentes, más gruesas en el centro, refractan los rayos paralelos hacia un foco real."
+        },
+        {
+          "letter": "B",
+          "text": "Lente divergente (bicóncava).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lentes divergentes separan los rayos paralelos, no los concentran."
+        },
+        {
+          "letter": "C",
+          "text": "Espejo plano de observación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espejo plano refleja la luz sin concentrarla en un punto focal."
+        },
+        {
+          "letter": "D",
+          "text": "Prisma óptico triangular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prisma desvía y dispersa la luz, no la enfoca en un único punto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las lentes convergentes (biconvexas o planoconvexas) tienen mayor espesor en el centro y refractan los rayos paralelos hacia un punto focal real. Se usan en lupas, proyectores, faros y objetivos de telescopios. Su distancia focal es positiva según la convención cartesiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v4",
+      "statement": "Aplicando la ley de Snell (n₁·senθ₁ = n₂·senθ₂), ¿cuál es aproximadamente el ángulo de refracción?",
+      "context": "En un laboratorio escolar de Medellín, un rayo de luz pasa del aire (n₁ = 1.00) hacia el vidrio de una ventana (n₂ = 1.50) con un ángulo de incidencia de 30°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente 19.5°, porque senθ₂ = (1.00·sen30°)/1.50 ≈ 0.333.",
+          "is_correct": true,
+          "feedback": "Correcto. senθ₂ = 0.5/1.5 ≈ 0.333; θ₂ ≈ 19.5°. Al pasar a un medio más denso, el rayo se acerca a la normal."
+        },
+        {
+          "letter": "B",
+          "text": "Exactamente 30°, porque el ángulo se conserva al cambiar de medio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo se conserva solo cuando ambos medios comparten el mismo índice de refracción."
+        },
+        {
+          "letter": "C",
+          "text": "Aproximadamente 45°, porque el rayo se desvía siempre 15°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación depende de la razón entre los índices de refracción, no de una constante fija."
+        },
+        {
+          "letter": "D",
+          "text": "Aproximadamente 90°, porque el vidrio bloquea la trayectoria del rayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ángulo de 90° corresponde al ángulo crítico de reflexión total, no a la refracción ordinaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ley de Snell: n₁·senθ₁ = n₂·senθ₂. Con n₁ = 1.00, n₂ = 1.50 y θ₁ = 30°, se obtiene senθ₂ ≈ 0.333, por lo que θ₂ ≈ 19.5°. Cuando la luz pasa de un medio menos denso (aire) a uno más denso (vidrio), el rayo refractado se acerca a la normal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué característica tienen los rayos que emergen del espejo después de reflejarse?",
+      "context": "El Faro de Cartagena utiliza una lámpara puntual ubicada exactamente en el foco de un espejo parabólico cóncavo para iluminar el horizonte marítimo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son paralelos al eje principal del espejo, formando un haz dirigido de largo alcance.",
+          "is_correct": true,
+          "feedback": "Correcto. Todo rayo que pasa por el foco de un espejo parabólico se refleja paralelo al eje principal."
+        },
+        {
+          "letter": "B",
+          "text": "Convergen nuevamente sobre el mismo foco por segunda vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tras la primera reflexión los rayos paralelos no regresan al foco."
+        },
+        {
+          "letter": "C",
+          "text": "Se dispersan en todos los colores del espectro visible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dispersión cromática ocurre en prismas, no en espejos metálicos."
+        },
+        {
+          "letter": "D",
+          "text": "Salen perpendiculares a la superficie del espejo en cada punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de reflexión exige que el ángulo de incidencia sea igual al de reflexión respecto a la normal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los espejos parabólicos cóncavos cumplen la propiedad óptica de que cualquier rayo que pase por su foco se refleja paralelo al eje principal. Por ello los faros, las linternas y los faros de los vehículos usan esta geometría para producir haces colimados de larga distancia sobre el mar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el aumento aproximado del telescopio?",
+      "context": "En Villa de Leyva, un astrónomo aficionado observa la Luna con un telescopio refractor cuya lente objetivo tiene distancia focal de 800 mm y la lente ocular de 20 mm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40×, porque el aumento se calcula dividiendo la focal del objetivo entre la del ocular.",
+          "is_correct": true,
+          "feedback": "Correcto. Aumento = f_objetivo / f_ocular = 800/20 = 40."
+        },
+        {
+          "letter": "B",
+          "text": "820×, porque se suman ambas distancias focales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las focales no se suman; esa operación no corresponde a ninguna fórmula óptica válida."
+        },
+        {
+          "letter": "C",
+          "text": "0.025×, porque se divide la focal del ocular entre la del objetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso reduciría el objeto en lugar de aumentarlo."
+        },
+        {
+          "letter": "D",
+          "text": "16 000×, porque se multiplican ambas distancias focales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación de focales no tiene significado óptico en telescopios refractores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un telescopio refractor astronómico (configuración Kepleriana), el aumento angular está dado por M = f_objetivo / f_ocular. Con 800 mm y 20 mm se obtiene M = 40×, lo que significa que el diámetro aparente del objeto se observa 40 veces mayor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la razón física principal por la que la luz blanca se descompone en colores al atravesar el prisma?",
+      "context": "En un laboratorio de Ibagué, un haz de luz blanca atraviesa un prisma triangular de vidrio y emerge separado en los colores del arcoíris.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El índice de refracción del vidrio varía ligeramente con la longitud de onda, por lo que cada color se desvía un ángulo distinto.",
+          "is_correct": true,
+          "feedback": "Correcto. La dispersión cromática surge porque el índice de refracción depende de la longitud de onda."
+        },
+        {
+          "letter": "B",
+          "text": "El prisma absorbe selectivamente todos los colores y solo transmite el rojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prisma no absorbe la luz visible, solo la desvía según su longitud de onda."
+        },
+        {
+          "letter": "C",
+          "text": "Cada color tiene una masa diferente y eso determina su trayectoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa no influye en la refracción; lo que varía es la velocidad de la onda en el medio."
+        },
+        {
+          "letter": "D",
+          "text": "El prisma refleja la luz blanca y solo deja pasar una pequeña porción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión interna ocurre pero no explica la separación cromática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dispersión cromática se origina porque el índice de refracción del medio depende ligeramente de la longitud de onda (dispersión normal). El violeta se desvía más y el rojo menos. Aplicando Snell con n(λ) variable se obtienen los ángulos característicos del espectro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor explicación científica de la variedad cromática del río?",
+      "context": "En el Parque Nacional Natural Sierra de la Macarena, el Caño Cristales es conocido como el \"río de los cinco colores\" por sus tonalidades roja, amarilla, verde, azul y negra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La planta acuática Macarenia clavigera presenta pigmentos que cambian con la luz solar, combinados con la absorción selectiva del agua a distintas profundidades.",
+          "is_correct": true,
+          "feedback": "Correcto. Los pigmentos carotenoides de la Macarenia generan los tonos rojo y amarillo según la estación y la profundidad."
+        },
+        {
+          "letter": "B",
+          "text": "El lecho rocoso está pintado artificialmente con minerales de colores por las comunidades locales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores son naturales y desaparecen fuera de la temporada, lo que descarta una intervención humana."
+        },
+        {
+          "letter": "C",
+          "text": "El agua contiene altas concentraciones de sales de cobre y hierro disueltos que generan los colores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe correlación iónica demostrada; los colores son biológicos, no químicos."
+        },
+        {
+          "letter": "D",
+          "text": "El reflejo permanente del arcoíris sobre la superficie explica todos los tonos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El arcoíris es un fenómeno meteorológico temporal y no genera los cinco colores simultáneamente en el río."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los colores del Caño Cristales provienen principalmente de la planta endémica Macarenia clavigera, cuyos pigmentos varían de verde a rojo y amarillo según la estación, la profundidad y la exposición a la luz. La combinación con la absorción selectiva del agua produce el característico espectáculo multicolor entre junio y noviembre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué se elige cada tipo de espejo según su uso?",
+      "context": "En un supermercado de Medellín, los espejos de seguridad sobre las cajas son convexos; en cambio, los espejos que usan los odontólogos en Bogotá son cóncavos y pequeños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los convexos siempre producen imágenes virtuales derechas y pequeñas, abarcando un campo visual amplio; los cóncavos cerca del foco producen imágenes virtuales derechas y aumentadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los convexos ofrecen amplio campo (seguridad vial); los cóncavos cerca del foco magnifican el detalle (odontología)."
+        },
+        {
+          "letter": "B",
+          "text": "Los convexos siempre forman imágenes reales invertidas y los cóncavos imágenes reales derechas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En sus aplicaciones cotidianas ambos producen imágenes virtuales derechas."
+        },
+        {
+          "letter": "C",
+          "text": "La elección depende solo de la moda y el costo, no de consideraciones ópticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección está estrictamente determinada por las propiedades ópticas de cada espejo."
+        },
+        {
+          "letter": "D",
+          "text": "Los convexos invierten verticalmente la imagen y los cóncavos mantienen la orientación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En sus usos típicos ninguno invierte la imagen del observador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los espejos convexos siempre producen imágenes virtuales, derechas y de menor tamaño que el objeto, abarcando un campo visual amplio (seguridad vial). Los espejos cóncavos, cuando el objeto está entre el foco y el espejo, producen imágenes virtuales derechas y aumentadas (uso odontológico y cosmético).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué explicación física unificada describe ambos fenómenos?",
+      "context": "Un viajero que llega a Leticia observa que al mediodía el cielo sobre el Amazonas es intensamente azul, mientras que en el atardecer el disco solar aparece rojo anaranjado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dispersión de Rayleigh: al mediodía la luz atraviesa poca atmósfera y predominan las longitudes de onda cortas (azul); al atardecer el camino óptico es mayor y se eliminan las ondas cortas, prevaleciendo el rojo.",
+          "is_correct": true,
+          "feedback": "Correcto. La dispersión selectiva según la longitud de onda explica tanto el cielo azul diurno como el rojo del ocaso."
+        },
+        {
+          "letter": "B",
+          "text": "El Sol cambia su temperatura y emite solo rojo, fenómeno exclusivo del trópico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La emisión solar es prácticamente constante durante el día; lo que cambia es la filtración atmosférica."
+        },
+        {
+          "letter": "C",
+          "text": "El agua del Amazonas refleja el rojo y bloquea el azul por la tarde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto se observa en cualquier dirección del firmamento, no solo sobre el agua."
+        },
+        {
+          "letter": "D",
+          "text": "La atmósfera se enciende al atardecer y produce luz propia de color rojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La atmósfera no es una fuente luminosa; solo dispersa y filtra la luz solar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dispersión de Rayleigh establece que la intensidad con que la atmósfera dispersa la luz es inversamente proporcional a la cuarta potencia de la longitud de onda. Por eso las longitudes cortas (azul/violeta) se dispersan mucho más que las largas (rojo). Al atardecer el haz atraviesa más atmósfera y solo las ondas largas llegan al observador.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el diseño experimental más apropiado y confiable para obtener el valor buscado?",
+      "context": "Una estudiante de Popayán quiere determinar experimentalmente el índice de refracción del agua usando los materiales disponibles en el laboratorio del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colocar una moneda en el fondo de un recipiente, verter líquido y observar la moneda desde la superficie midiendo los ángulos en aire y en agua para aplicar la ley de Snell.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación entre el ángulo aparente y el ángulo real permite calcular el índice de refracción por la ley de Snell."
+        },
+        {
+          "letter": "B",
+          "text": "Pesar una masa conocida de agua y dividir por su volumen para hallar el índice de refracción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa medición corresponde a la densidad, no al índice de refracción óptico."
+        },
+        {
+          "letter": "C",
+          "text": "Medir la temperatura del agua con un termómetro y graficarla contra el tiempo para deducir el índice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no determina directamente el índice de refracción en este contexto experimental."
+        },
+        {
+          "letter": "D",
+          "text": "Escuchar el eco de un sonido producido dentro del agua para deducir la velocidad de la luz en el líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad del sonido no aporta información sobre la velocidad de la luz en el agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un experimento confiable para medir el índice de refracción usa la ley de Snell. Se coloca un objeto en el fondo, se vierte agua y, observándolo desde distintos ángulos, se comparan los ángulos en aire y en agua. La razón entre los senos de esos ángulos entrega el índice de refracción buscado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle-v12",
+      "statement": "¿Qué tipo de lente debe usar para corregir su defecto visual?",
+      "context": "Un estudiante de 14 años en Medellín asiste al optómetra y le diagnostican miopía: su globo ocular es ligeramente más largo de lo normal, por lo que la imagen de objetos lejanos se enfoca antes de la retina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lente divergente (cóncava) que desplaza el foco hacia atrás, permitiendo que la imagen se forme sobre la retina.",
+          "is_correct": true,
+          "feedback": "Correcto. En la miopía el foco queda antes de la retina; una lente cóncava (negativa) lo desplaza hacia atrás."
+        },
+        {
+          "letter": "B",
+          "text": "Una lente convergente (convexa) que aumente la convergencia de los rayos hacia la retina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lente convergente acortaría aún más la distancia focal, empeorando la miopía."
+        },
+        {
+          "letter": "C",
+          "text": "Un espejo plano para redirigir la luz hacia el ojo desde otro ángulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los espejos planos no cambian la posición del foco del sistema óptico del ojo."
+        },
+        {
+          "letter": "D",
+          "text": "Un filtro de densidad neutra que reduzca la cantidad total de luz que entra al ojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los filtros neutros regulan la intensidad luminosa, pero no corrigen ametropías."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la miopía, el ojo es demasiado convergente o el globo ocular es alargado, y la imagen se enfoca antes de la retina. Una lente divergente (cóncava, de potencia negativa en dioptrías) reduce la potencia total del sistema óptico, desplazando el foco hacia atrás hasta ubicarlo exactamente sobre la retina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W16-luz-optica-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

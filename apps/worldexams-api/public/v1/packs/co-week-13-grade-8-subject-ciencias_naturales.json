@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-13-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T02:11:20.404Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v1",
+      "statement": "Una vendedora coloca una caja de mangos sobre un mesón. ¿Cuál es la definición física correcta de la presión que la caja ejerce sobre el mesón?",
+      "context": "En una plaza de mercado de Cartagena, como Bazurto, los vendedores apilan cajas de frutas sobre mesones, y la marca de la fruta en la superficie depende de cuánto se hunde la caja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La razón entre la fuerza aplicada y el área de la superficie sobre la que se distribuye.",
+          "is_correct": true,
+          "feedback": "Correcto: P = F/A. Esa es la definición operacional de presión y permite comparar efectos de fuerzas iguales sobre áreas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza total que un cuerpo sólido ejerce, sin importar el área de contacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: Eso describe únicamente la fuerza neta; para hablar de presión hace falta dividir entre el área."
+        },
+        {
+          "letter": "C",
+          "text": "El peso del cuerpo dividido entre su volumen total.",
+          "is_correct": false,
+          "feedback": "Incorrecto: Esa relación corresponde a la densidad (m/V), no a la presión."
+        },
+        {
+          "letter": "D",
+          "text": "La energía cinética media de las moléculas que componen el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: Eso pertenece a la teoría cinético-molecular; la definición macroscópica de presión es F/A."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión es una magnitud escalar que relaciona la fuerza perpendicular ejercida sobre una superficie con el área de esa superficie. Su unidad en el Sistema Internacional es el pascal (Pa), que equivale a 1 N/m². Comprender esta definición es la base para diferenciar después presión hidrostática, atmosférica y de gases.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v2",
+      "statement": "Según el Sistema Internacional (SI), ¿cuál es la unidad de medida de la presión?",
+      "context": "En una estación de servicio de Bogotá, el operario revisa la presión de las llantas con un manómetro que muestra lecturas en kilopascales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Newton (N).",
+          "is_correct": false,
+          "feedback": "Incorrecto: Newton es la unidad de fuerza, no de presión."
+        },
+        {
+          "letter": "B",
+          "text": "Pascal (Pa).",
+          "is_correct": true,
+          "feedback": "Correcto: 1 Pa = 1 N/m², la unidad derivada del SI para presión, llamada así en honor a Blaise Pascal."
+        },
+        {
+          "letter": "C",
+          "text": "Joule (J).",
+          "is_correct": false,
+          "feedback": "Incorrecto: Joule es la unidad de energía y de trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Watt (W).",
+          "is_correct": false,
+          "feedback": "Incorrecto: Watt es la unidad de potencia, no de presión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pascal (Pa) es la unidad derivada del SI para presión. Como es muy pequeño para las presiones cotidianas, se usan múltiplos como el kilopascal (1 kPa = 1.000 Pa) o el megapascal (1 MPa = 1.000.000 Pa). La presión atmosférica al nivel del mar, por ejemplo, ronda 101,3 kPa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la presión atmosférica en Bogotá es menor que en Cartagena?",
+      "context": "Bogotá está a unos 2.640 m sobre el nivel del mar, mientras que Cartagena se encuentra al nivel del mar. Un docente pregunta por qué se siente distinto el oído al despegar de un vuelo desde el aeropuerto Rafael Núñez.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la columna de aire sobre Bogotá es más corta, al estar a mayor altitud sobre el nivel del mar.",
+          "is_correct": true,
+          "feedback": "Correcto: a mayor altitud hay menos masa de aire encima y, por tanto, menor presión atmosférica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en Bogotá el aire pesa más por el frío, así que empuja con más fuerza.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el aire frío es más denso, pero el factor determinante es la menor cantidad de aire encima."
+        },
+        {
+          "letter": "C",
+          "text": "Porque Cartagena recibe más horas de lluvia al año.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el régimen de lluvias no define la presión atmosférica media de una ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ambas ciudades están prácticamente a la misma altura.",
+          "is_correct": false,
+          "feedback": "Incorrecto: hay más de 2.500 m de diferencia entre ellas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión atmosférica corresponde al peso de la columna de aire que se extiende desde el suelo hasta el límite superior de la atmósfera. A medida que ascendemos, la cantidad de aire encima disminuye y, con ella, la presión. Por eso Bogotá, a unos 2.640 m, presenta una presión atmosférica claramente inferior a la de Cartagena, a nivel del mar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v4",
+      "statement": "Una persona de 60 kg camina por la arena usando zapatos con suelas cuya área total combinada es 200 cm². ¿Cuál es la presión aproximada que ejerce sobre la arena? (use g = 10 m/s²)",
+      "context": "En Playa Blanca, isla de Tierra Bomba (Cartagena), los bañistas suelen hundirse en la arena porque la superficie de contacto con sus zapatos es pequeña. Una guía pregunta a los estudiantes cuánto afecta esa área.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 Pa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: olvidaste convertir cm² a m² o aplicaste mal la fórmula."
+        },
+        {
+          "letter": "B",
+          "text": "30.000 Pa.",
+          "is_correct": true,
+          "feedback": "Correcto: F = 60·10 = 600 N y A = 0,02 m², de modo que P = 600/0,02 = 30.000 Pa."
+        },
+        {
+          "letter": "C",
+          "text": "600 Pa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: calculaste solo la fuerza, pero no la dividiste por el área."
+        },
+        {
+          "letter": "D",
+          "text": "3.000.000 Pa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: probablemente convertiste mal las unidades y obtuviste un valor mil veces mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fuerza peso es F = m·g = 60·10 = 600 N. El área total combinada es 200 cm² = 0,02 m². Por tanto, P = F/A = 600/0,02 = 30.000 Pa. Esa presión explica por qué zapatos con suela ancha son más cómodos sobre la arena que aquellos con suela estrecha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v5",
+      "statement": "Un gato hidráulico tiene pistones con áreas de 4 cm² y de 80 cm². Si sobre el pistón pequeño se aplica una fuerza de 50 N, ¿qué fuerza aparece en el pistón grande, en el supuesto de que no haya pérdidas?",
+      "context": "Un taller de mecánica en el barrio Restrepo (Bogotá) usa un gato hidráulico con dos pistones para levantar un carro con el motor. Los estudiantes observan el experimento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.000 N.",
+          "is_correct": true,
+          "feedback": "Correcto: por Pascal, F₂ = F₁·(A₂/A₁) = 50·(80/4) = 50·20 = 1.000 N."
+        },
+        {
+          "letter": "B",
+          "text": "200 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto: invertiste la razón de áreas (multiplicaste por 4/80)."
+        },
+        {
+          "letter": "C",
+          "text": "50 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esto ignoraría por completo el principio de Pascal."
+        },
+        {
+          "letter": "D",
+          "text": "5 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto: dividiste en lugar de multiplicar, posiblemente porque confundiste A₂ con A₁."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio de Pascal afirma que la presión aplicada a un fluido encerrado se transmite con la misma intensidad a todos los puntos del fluido. Como P₁ = F₁/A₁ y P₂ = F₂/A₂, y deben ser iguales, F₂ = F₁·(A₂/A₁) = 50·(80/4) = 1.000 N. El sistema intercambia fuerza por desplazamiento: la fuerza se multiplica, pero el recorrido se reduce.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v6",
+      "statement": "Una balsa de madera de 200 kg flota en equilibrio sobre el río Magdalena. ¿Qué empuje recibe del agua mientras está en reposo?",
+      "context": "En el puerto de Barrancabermeja, sobre el río Magdalena, una balsa de madera usada tradicionalmente por pescadores transporta personas y carga navegando sin hundirse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto: confundiste los 200 kg con su valor numérico, sin multiplicar por g."
+        },
+        {
+          "letter": "B",
+          "text": "0 N, porque se encuentra en equilibrio estático.",
+          "is_correct": false,
+          "feedback": "Incorrecto: un cuerpo en el agua siempre experimenta empuje, ya esté en movimiento o en reposo."
+        },
+        {
+          "letter": "C",
+          "text": "Aproximadamente 1.960 N.",
+          "is_correct": true,
+          "feedback": "Correcto: como flota en equilibrio, E = peso = m·g = 200·9,8 ≈ 1.960 N."
+        },
+        {
+          "letter": "D",
+          "text": "3.920 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto: duplicaste el valor del peso, lo que haría que la balsa ascendiera aceleradamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un cuerpo flota en equilibrio, el empuje hidrostático debe igualar al peso total del cuerpo. Con g = 9,8 m/s², E = m·g = 200·9,8 = 1.960 N. El principio de Arquímedes establece que ese empuje equivale al peso del volumen de agua desplazado por la parte sumergida de la balsa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v7",
+      "statement": "En agua dulce (ρ = 1.000 kg/m³) a 12 m de profundidad en el embalse, con presión atmosférica superficial de 101,3 kPa y g = 10 m/s², ¿cuál es aproximadamente la presión total sobre la compuerta?",
+      "context": "En el embalse Peñol-Guatapé (oriente antioqueño), ingenieros revisan el estado de las compuertas de la central hidroeléctrica y deben calcular la presión a distintas profundidades sobre el concreto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "221,3 kPa.",
+          "is_correct": true,
+          "feedback": "Correcto: P = P_atm + ρ·g·h = 101,3 + 120 = 221,3 kPa."
+        },
+        {
+          "letter": "B",
+          "text": "120 kPa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: calculaste solo la presión hidrostática y dejaste fuera la atmosférica superficial."
+        },
+        {
+          "letter": "C",
+          "text": "0,12 kPa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: te faltó multiplicar por 1.000 para convertir pascales a kilopascales."
+        },
+        {
+          "letter": "D",
+          "text": "12.000 kPa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: confundiste unidades y obtuviste un valor 100 veces mayor de lo correcto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión total a una profundidad h dentro de un líquido expuesto a la atmósfera es la suma de la presión atmosférica más la presión hidrostática: P = P_atm + ρ·g·h. Con los valores dados, P = 101.300 + 1.000·10·12 = 221.300 Pa = 221,3 kPa. Este cálculo es esencial para diseñar correctamente las paredes de las represas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v8",
+      "statement": "Un bloque macizo de acero de 1 kg se hunde en el agua, pero un gran barco de acero flota sin dificultad. ¿Qué análisis explica mejor esta diferencia?",
+      "context": "En el puerto de Cartagena entran y salen grandes navíos de acero que transportan contenedores, mientras que un pequeño bloque macizo del mismo metal se hunde rápidamente en el mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acero de los barcos es más liviano que el del bloque macizo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ambos tipos son del mismo material; el peso específico por unidad de masa no cambia."
+        },
+        {
+          "letter": "B",
+          "text": "El barco desplaza un volumen de agua cuyo peso es mayor o igual al peso total del barco, gracias a su forma hueca.",
+          "is_correct": true,
+          "feedback": "Correcto: la densidad media del barco (masa total / volumen sumergido) es menor que la densidad del agua."
+        },
+        {
+          "letter": "C",
+          "text": "El agua de la bahía de Cartagena tiene menos sal que la del mar abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la salinidad real no se aleja lo suficiente como para soportar un barco de acero."
+        },
+        {
+          "letter": "D",
+          "text": "En agua caliente la presión disminuye, así que el barco sube y flota.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la presión cambia con la profundidad, no por la temperatura superficial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Arquímedes no compara materiales, sino densidades medias. Un barco es una carcasa hueca con mucho aire atrapado en su interior, de manera que su densidad media es menor que la del agua, aunque esté hecho del mismo acero que un bloque sólido. Por eso enormes portacontenedores entran y salen a diario de la bahía de Cartagena.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v9",
+      "statement": "La receta indica hervir agua durante 20 minutos para cocinar frijoles. En Cartagena se logra, pero en Bogotá se necesita más tiempo. ¿Qué explicación es la más adecuada?",
+      "context": "Una cocinera en Bogotá nota que la receta de frijoles que prepara su prima en Cartagena necesita más tiempo de hervor al pie de la cordillera, aunque siga los mismos pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua en Bogotá tenga mayor contenido de sal.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la sal modifica muy poco la temperatura de ebullición en condiciones domésticas."
+        },
+        {
+          "letter": "B",
+          "text": "La menor presión atmosférica en Bogotá reduce la temperatura de ebullición, por lo que el agua hierve por debajo de 100 °C.",
+          "is_correct": true,
+          "feedback": "Correcto: a 2.640 m, el agua hierve cerca de 91 °C y la cocción de alimentos tarda más."
+        },
+        {
+          "letter": "C",
+          "text": "Que las ollas en Bogotá sean más pequeñas y concentren menos calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el tamaño de la olla no determina la temperatura de ebullición del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Que el aire en Bogotá tenga menos nitrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la composición porcentual del aire seco es prácticamente la misma en cualquier lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La temperatura a la que hierve un líquido depende de la presión que soporta su superficie. A mayor altitud, menor presión atmosférica y, por tanto, menor temperatura de ebullición. En Bogotá, alrededor de los 91 °C, las reacciones químicas de cocción como la gelatinización del almidón se retrasan, y por ello los frijoles requieren más tiempo de hervor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v10",
+      "statement": "Una prensa hidráulica tiene un pistón de entrada de 5 cm² y otro de salida de 50 cm². Si se aplica una fuerza de 100 N en el pistón pequeño, ¿qué fuerza se obtiene en el pistón grande, suponiendo que el aceite es prácticamente incompresible?",
+      "context": "En una planta extractora de aceite de palma cerca de Villavicencio (Meta), una prensa hidráulica con aceite a presión separa el aceite del fruto. Los ingenieros ajustan las áreas de los pistones para conseguir la fuerza necesaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 N, porque la fuerza total debe conservarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto: lo que se conserva es la energía, pero la fuerza sí se multiplica gracias al cambio de área."
+        },
+        {
+          "letter": "B",
+          "text": "1.000 N.",
+          "is_correct": true,
+          "feedback": "Correcto: P = 100/(5·10⁻⁴) = 2·10⁵ Pa, y F₂ = 2·10⁵ · (50·10⁻⁴) = 1.000 N."
+        },
+        {
+          "letter": "C",
+          "text": "10.000 N, porque las áreas se multiplican por 10 dos veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la razón de áreas es 10, no 100."
+        },
+        {
+          "letter": "D",
+          "text": "5.000 N, sumando los efectos de ambos pistones.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la fuerza en un pistón no se suma con la del otro; cada uno es independiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de Pascal establece que la presión aplicada al fluido se transmite uniformemente, de modo que F₁/A₁ = F₂/A₂. Con A₁ = 5·10⁻⁴ m² y A₂ = 5·10⁻³ m², la fuerza se multiplica por diez y vale F₂ = F₁·(A₂/A₁) = 1.000 N. Lo ganado en fuerza se pierde en desplazamiento, lo que refleja la conservación de la energía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de los siguientes montajes experimentales es el más adecuado para demostrar que la presión hidrostática depende solo de la densidad del líquido y de la profundidad?",
+      "context": "En el laboratorio de un colegio de Bogotá, una estudiante de grado 8 propone una práctica para verificar que la presión en el interior de un líquido depende solo de la densidad y de la profundidad, no de la forma del recipiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar un solo recipiente y modificar su forma entre pruebas sin variar la profundidad ni el líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecto: cambiar la forma manteniendo variables constantes no permite concluir dependencia alguna."
+        },
+        {
+          "letter": "B",
+          "text": "Variar sistemáticamente la profundidad h con un mismo líquido, luego cambiar el líquido manteniendo h constante, y comparar las lecturas de un manómetro.",
+          "is_correct": true,
+          "feedback": "Correcto: es un diseño controlado que aísla cada variable y permite concluir P = ρ·g·h."
+        },
+        {
+          "letter": "C",
+          "text": "Llenar varios recipientes de formas distintas y medir solo la altura final del líquido en cada uno.",
+          "is_correct": false,
+          "feedback": "Incorrecto: solo se mide una variable, sin aislar densidad ni profundidad."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar simultáneamente la profundidad y el tipo de líquido en cada prueba y comparar con el valor teórico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: variar dos variables a la vez impide atribuir el efecto a una sola de ellas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen diseño experimental controla las variables: se mantiene fijo un parámetro mientras se varía el otro y se mide la presión con un manómetro. Así se puede comprobar que P = ρ·g·h. Variar dos factores a la vez introduce sesgos y no permite confirmar la relación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle-v12",
+      "statement": "Un buzo usa un traje que soporta como máximo 300 kPa de presión absoluta. Si la presión atmosférica superficial es 101,3 kPa y la densidad del agua de mar es 1.025 kg/m³, ¿cuál es la profundidad máxima segura, aproximadamente, para descender? (use g = 10 m/s²)",
+      "context": "En San Andrés Islas, una instructora de buceo revisa los límites del traje de un turista que se dispone a explorar el parque coralino. El equipo indica la presión máxima soportada y se deben considerar la densidad del agua marina y la presión atmosférica local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29,3 m.",
+          "is_correct": false,
+          "feedback": "Incorrecto: olvidaste restar la presión atmosférica al calcular el término hidrostático permitido."
+        },
+        {
+          "letter": "B",
+          "text": "19,4 m.",
+          "is_correct": true,
+          "feedback": "Correcto: h = (300 − 101,3)·10³ / (1.025·10) = 198.700/10.250 ≈ 19,4 m."
+        },
+        {
+          "letter": "C",
+          "text": "38,8 m.",
+          "is_correct": false,
+          "feedback": "Incorrecto: duplicaste la profundidad correcta, probablemente porque sumaste presiones en lugar de restarlas."
+        },
+        {
+          "letter": "D",
+          "text": "9,7 m.",
+          "is_correct": false,
+          "feedback": "Incorrecto: dividiste el resultado entre dos de manera injustificada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La presión total a profundidad h es P = P_atm + ρ·g·h. Despejando el límite: h = (P_máx − P_atm)/(ρ·g). Con los datos, h = (300.000 − 101.300)/(1.025·10) = 198.700/10.250 ≈ 19,4 m. Más allá de esa profundidad el traje cedería, por lo que el buzo debe dejar un margen de seguridad adicional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W13-presion-fluidos-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
