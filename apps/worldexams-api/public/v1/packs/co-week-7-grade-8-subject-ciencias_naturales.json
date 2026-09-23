@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.180Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las tres particulas subatomicas principales que componen un átomo y su ubicacion relativa?",
+      "context": "En el laboratorio de química del Colegio Mayor de San Bartolome, en Bogotá, se introduce el concepto de átomo y sus componentes subatomicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protones y neutrones en el nucleo; electrones en la corteza.",
+          "is_correct": true,
+          "feedback": "Correcto. Los protones y neutrones forman el nucleo; los electrones orbitan en la corteza."
+        },
+        {
+          "letter": "B",
+          "text": "Protones en la corteza, neutrones en el nucleo y electrones libres en todo el átomo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protones estan en el nucleo, no en la corteza."
+        },
+        {
+          "letter": "C",
+          "text": "Neutrones y electrones en el nucleo; protones en la corteza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones no estan en el nucleo."
+        },
+        {
+          "letter": "D",
+          "text": "Solo protones y electrones existen en el átomo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los neutrones también forman parte del átomo, salvo en el hidrogeno-1."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Átomo $=$ nucleo (protones $+$ neutrones) $+$ corteza electronica (electrones). La carga positiva esta en el nucleo y la negativa en la corteza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v2",
+      "statement": "Cual de las siguientes afirmaciones describe correctamente el modelo atomico de Dalton?",
+      "context": "En Manizales, un docente explica a los estudiantes el modelo atomico de Dalton, propuesto a principios del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El átomo es una esfera indivisible, indestructible y maciza con propiedades definidas para cada elemento.",
+          "is_correct": true,
+          "feedback": "Correcto. Dalton concibio el átomo como una esfera solida, indivisible y especifica de cada elemento."
+        },
+        {
+          "letter": "B",
+          "text": "El átomo tiene un nucleo positivo con electrones orbitando a su alrededor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripcion corresponde al modelo de Rutherford o Bohr, no al de Dalton."
+        },
+        {
+          "letter": "C",
+          "text": "Los electrones se encuentran en orbitas cuantizadas bien definidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las orbitas cuantizadas son propias del modelo de Bohr."
+        },
+        {
+          "letter": "D",
+          "text": "El átomo es una nube difusa de carga positiva con electrones incrustados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la imagen del modelo de Thomson (\"budin de pasas\")."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dalton: átomo $=$ esfera solida, indivisible e indestructible, con masa caracteristica para cada elemento químico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v3",
+      "statement": "Cuántos protones, electrones y neutrones posee este átomo de carbono-12?",
+      "context": "En el laboratorio de la Universidad del Valle, se determina que un átomo neutro de carbono tiene número atomico $Z = 6$ y número masico $A = 12$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 protones, 6 electrones y 6 neutrones.",
+          "is_correct": true,
+          "feedback": "Correcto. $Z = 6$ implica 6 protones y 6 electrones (átomo neutro). $N = A - Z = 12 - 6 = 6$ neutrones."
+        },
+        {
+          "letter": "B",
+          "text": "12 protones, 6 electrones y 0 neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de protones es $Z = 6$, no 12."
+        },
+        {
+          "letter": "C",
+          "text": "6 protones, 12 electrones y 6 neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un átomo neutro, protones = electrones = 6."
+        },
+        {
+          "letter": "D",
+          "text": "12 protones, 12 electrones y 6 neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El átomo neutro tendria 6 protones y 6 electrones, no 12 de cada uno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "$Z$ $=$ protones $=$ electrones (átomo neutro). $N$ $=$ neutrones $= A - Z$. Para C-12: $6p$, $6e$, $6n$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v4",
+      "statement": "Cual fue la conclusión principal de Rutherford a partir de la dispersion de particulas alfa al chocar contra una lamina de oro?",
+      "context": "En un taller de química en Pereira, se comparan los modelos atomicos de Thomson, Rutherford y Bohr para explicar el experimento de la lamina de oro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El átomo tiene un nucleo pequeno, denso y con carga positiva donde se concentra casi toda la masa.",
+          "is_correct": true,
+          "feedback": "Correcto. Rutherford propuso el nucleo positivo y denso rodeado de gran espacio vacio."
+        },
+        {
+          "letter": "B",
+          "text": "El átomo es una esfera maciza e indivisible como sostenia Dalton.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa era la conclusión previa de Dalton, refutada por el experimento."
+        },
+        {
+          "letter": "C",
+          "text": "Los electrones estan incrustados en una nube positiva difusa como en el modelo de Thomson.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa idea corresponde al modelo de Thomson, superado por Rutherford."
+        },
+        {
+          "letter": "D",
+          "text": "Los electrones se mueven en orbitas circulares bien definidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las orbitas circulares son propias del modelo de Bohr, posterior a Rutherford."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rutherford: el átomo tiene un nucleo pequeno, denso y positivo, rodeado de gran espacio vacio por donde orbitan los electrones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v5",
+      "statement": "Que caracteriza a los isotopos de un mismo elemento químico?",
+      "context": "En Neiva, una docente explica la diferencia entre isotopos usando como ejemplo los isotopos del hidrógeno: protio, deuterio y tritio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poseen el mismo número atomico $Z$ pero diferente número masico $A$ por variar el número de neutrones.",
+          "is_correct": true,
+          "feedback": "Correcto. Isotopos tienen igual $Z$ y diferente $A$ (distinto número de neutrones)."
+        },
+        {
+          "letter": "B",
+          "text": "Poseen diferente número de protones y electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si varian los protones, ya no es el mismo elemento."
+        },
+        {
+          "letter": "C",
+          "text": "Poseen el mismo número masico $A$ pero diferente número atomico $Z$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a isotonos, no a isotopos."
+        },
+        {
+          "letter": "D",
+          "text": "Son átomos con carga eléctrica neta diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los isotopos son neutros; las especies cargadas son iones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Isotopos: mismo $Z$, diferente $A$. Ejemplo: hidrogeno-1, hidrogeno-2 (deuterio), hidrogeno-3 (tritio).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v6",
+      "statement": "Cuál es el análisis correcto de la presencia de lineas espectrales discretas en el hidrógeno?",
+      "context": "En el laboratorio de la Universidad Nacional, se mide el espectro de emision del hidrógeno y se observan lineas discretas en zonas visible y ultravioleta del espectro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los electrones absorben o emiten energía solo en saltos cuantizados entre niveles energeticos definidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Bohr explico que los electrones ocupan niveles energeticos cuantizados."
+        },
+        {
+          "letter": "B",
+          "text": "El espectro discreto prueba que los átomos son esferas macizas como proponia Dalton.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dalton no explicaba el origen de los espectros discretos."
+        },
+        {
+          "letter": "C",
+          "text": "Las lineas espectrales se deben a vibraciones mecanicas del nucleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lineas espectrales se deben a transiciones electronicas, no a vibraciones nucleares."
+        },
+        {
+          "letter": "D",
+          "text": "El espectro discreto demuestra que el átomo es totalmente continuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es justamente evidencia de la cuantizacion de la energía en el átomo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los espectros discretos revelan la cuantizacion de la energía: los electrones solo ocupan ciertos niveles energeticos permitidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v7",
+      "statement": "Cuál es el análisis correcto de las principales limitaciones del modelo de Bohr frente al modelo cuantico actual?",
+      "context": "En una clase en Medellín, se compara el modelo de Bohr con el modelo mecanocuantico actual para describir el átomo de hidrógeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bohr asume orbitas circulares definidas, mientras el modelo cuantico describe orbitales como regiones probabilisticas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los orbitales son regiones de probabilidad, no trayectorias circulares exactas."
+        },
+        {
+          "letter": "B",
+          "text": "Bohr y el modelo cuantico son identicos, solo cambia la notacion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Difieren profundamente en la descripcion del movimiento electronico."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo cuantico elimina por completo el concepto de niveles energeticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conserva los niveles energeticos cuantizados, aunque con orbitales y spin."
+        },
+        {
+          "letter": "D",
+          "text": "Bohr ya incluye el principio de incertidumbre de Heisenberg.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bohr trabajaba con trayectorias definidas, incompatibles con el principio de incertidumbre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modelo cuantico sustituye orbitas por orbitales probabilisticos y considera el principio de incertidumbre de Heisenberg.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v8",
+      "statement": "Cuál es el análisis del papel del isotopo carbono-14 en la datacion de muestras biologicas antiguas?",
+      "context": "En Cucuta, una empresa embotelladora usa carbon-14 para verificar la autenticidad de bebidas artesanales mediante datacion radiactiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carbono-14 es un isotopo radiactivo cuyo periodo de semidesintegracion permite estimar la edad de restos biologicos.",
+          "is_correct": true,
+          "feedback": "Correcto. La desintegracion radiactiva del C-14 sirve como reloj natural."
+        },
+        {
+          "letter": "B",
+          "text": "El carbono-14 es estable y no cambia con el tiempo, por lo que no sirve para datar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El C-14 es radiactivo y se desintegra con un periodo conocido."
+        },
+        {
+          "letter": "C",
+          "text": "El carbono-14 solo aparece en materiales sintetizados en laboratorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El C-14 se forma en la atmósfera y se incorpora a los seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "El carbono-14 es util solo para datar minerales, no muestras biologicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Especificamente sirve para datar restos organicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El C-14 atmosferico es incorporado por organismos vivos. Tras la muerte, su cantidad disminuye por desintegracion radiactiva, lo que permite datar la muestra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v9",
+      "statement": "Cuál es el análisis correcto del aporte principal de Niels Bohr al modelo atomico?",
+      "context": "En un concurso de ciencia escolar en Popayan, se discute la evolucion historica de los modelos atomicos: Dalton, Thomson, Rutherford, Bohr y modelo cuantico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introducir la idea de cuantizacion de la energía y de niveles estacionarios para los electrones.",
+          "is_correct": true,
+          "feedback": "Correcto. Bohr planteo que los electrones ocupan orbitas con energía cuantizada."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el átomo es indivisible y macizo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa idea corresponde a Dalton, no a Bohr."
+        },
+        {
+          "letter": "C",
+          "text": "Proponer el descubrimiento del electron mediante rayos catodicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El electron fue descubierto por Thomson mediante rayos catodicos."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrar que el nucleo ocupa la mayor parte del volumen atomico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rutherford mostro que el nucleo es muy pequeno comparado con el átomo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Bohr incorporo la cuantizacion: los electrones solo pueden ocupar ciertos niveles de energía, explicando los espectros discretos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v10",
+      "statement": "Cual de los siguientes argumentos pedagogocientificos justifica mejor iniciar con el modelo de Dalton y avanzar progresivamente?",
+      "context": "En Sincelejo, una comunidad educativa debate si la ensenanza del modelo atomico debe iniciarse con el modelo de Dalton o con el modelo cuantico actual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dalton ofrece una imagen inicial simple que permite construir conceptos basicos antes de abordar modelos mas complejos.",
+          "is_correct": true,
+          "feedback": "Correcto. Comenzar por un modelo sencillo facilita la comprension gradual del estudiante."
+        },
+        {
+          "letter": "B",
+          "text": "Es ineficiente partir de Dalton porque ese modelo esta obsoleto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque obsoleto, es util como punto de partida pedagogico."
+        },
+        {
+          "letter": "C",
+          "text": "Lo mejor es iniciar directamente con el modelo cuantico actual sin etapas intermedias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saltar a modelos avanzados sin base genera confusion conceptual."
+        },
+        {
+          "letter": "D",
+          "text": "El orden historico no aporta nada a la comprension científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evolucion historica ilustra la naturaleza acumulativa de la ciencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una secuencia historica permite comprender como se construyen los modelos y por que se superan, mostrando la ciencia como proceso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta del fundamento físico del espectrometro de masas para distinguir átomos e isotopos?",
+      "context": "En el laboratorio forense de la Fiscalia en Bogotá, se utiliza un espectrometro de masas para distinguir muestras de drogas sinteticas en polvo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separa iones segun su relacion masa/carga, permitiendo identificar elementos e isotopos especificos.",
+          "is_correct": true,
+          "feedback": "Correcto. El espectrometro analiza la razon masa/carga de los iones generados."
+        },
+        {
+          "letter": "B",
+          "text": "Mide solamente el color de la muestra para identificar el compuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se basa en color sino en propiedades de masa y carga."
+        },
+        {
+          "letter": "C",
+          "text": "Funciona unicamente con muestras solidas y rechaza liquidos y gases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede analizar solidos, liquidos y gases previa ionizacion."
+        },
+        {
+          "letter": "D",
+          "text": "No distingue isotopos, solo elementos químicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su alta resolucion permite distinguir isotopos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espectrometro de masas identifica átomos, moléculas e isotopos al separar iones segun su relacion masa/carga en campos electricos y magneticos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle-v12",
+      "statement": "Cual de los siguientes argumentos científicos justifica mejor el uso controlado de isotopos radiactivos en medicina?",
+      "context": "En Tumaco, se discute si permitir el uso de isocopos radiactivos en procedimientos medicos hospitalarios, dado el principio de precaucion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permiten diagnosticos y tratamientos especificos; su riesgo se minimiza con dosis y protocolos adecuados.",
+          "is_correct": true,
+          "feedback": "Correcto. Los isotopos radiactivos aportan beneficios clinicos cuando se controlan."
+        },
+        {
+          "letter": "B",
+          "text": "Cualquier exposicion a isotopos radiactivos siempre es mortal para el paciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dosis clinicas estan cuidadosamente calibradas para minimizar danos."
+        },
+        {
+          "letter": "C",
+          "text": "Los isotopos radiactivos nunca deben usarse porque toda radiacion es igualmente peligrosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El riesgo depende de la dosis, el tipo de radiacion y el tiempo de exposicion."
+        },
+        {
+          "letter": "D",
+          "text": "Los isotopos radiactivos curan automaticamente cualquier enfermedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son utiles en diagnostico y en algunos tratamientos especificos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso medico de isotopos radiactivos se basa en la relacion riesgo-beneficio: aportan informacion diagnostica y tratamientos especificos cuando se dosifican correctamente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W07-estructura-atomica-modelos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
