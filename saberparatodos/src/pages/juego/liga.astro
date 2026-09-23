@@ -1,0 +1,25 @@
+---
+/**
+ * /juego/liga — Liga semanal de 30 (F9). Grupo determinista on-device.
+ */
+import Layout from '../../layouts/Layout.astro';
+import LigaPanel from '../../components/juego/LigaPanel.svelte';
+---
+
+<Layout
+  title="Mi liga semanal | Juego SaberParaTodos"
+  description="Tu grupo semanal de 30 por XP. Top 5 ascienden, últimos 5 descienden."
+>
+  <div class="min-h-screen bg-[#121212]">
+    <div class="max-w-4xl mx-auto px-4 pt-6">
+      <a href="/juego" class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm mb-4">
+        ← Volver al juego
+      </a>
+      <h1 class="text-2xl sm:text-3xl font-bold text-[#F5F5DC] tracking-tight">Mi liga</h1>
+    </div>
+
+    <div class="max-w-4xl mx-auto px-4 py-6">
+      <LigaPanel client:load />
+    </div>
+  </div>
+</Layout>

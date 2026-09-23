@@ -1,0 +1,35 @@
+---
+/**
+ * /juego — Hub del área de juego (F9). Todo on-device, opt-in, sin PII.
+ * Semáforo, ligas, olimpiadas y GOAT viven aquí, aislados de /leaderboard.
+ */
+import Layout from '../../layouts/Layout.astro';
+import ProgresoJuego from '../../components/juego/ProgresoJuego.svelte';
+---
+
+<Layout
+  title="Juego — Ligas y Olimpiadas | SaberParaTodos"
+  description="Tu progreso de juego: Elo, liga semanal y olimpiadas. Todo en tu dispositivo, anónimo y revocable."
+>
+  <div class="min-h-screen bg-[#121212]">
+    <div class="max-w-4xl mx-auto px-4 pt-6">
+      <a href="/" class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm mb-4">
+        ← Volver al inicio
+      </a>
+      <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">Juego</h1>
+      <p class="text-sm text-white/60 mt-2">
+        Ligas semanales, olimpiadas trimestrales y GOAT of Season.
+        <strong class="text-white/80">Mapa de progreso, no castigo.</strong>
+      </p>
+      <div class="mt-3 flex flex-wrap gap-2 text-[10px]">
+        <span class="px-3 py-1 bg-emerald-500/10 border border-emerald-500/30 rounded-full text-emerald-400 font-mono">on-device</span>
+        <span class="px-3 py-1 bg-blue-500/10 border border-blue-500/30 rounded-full text-blue-400 font-mono">opt-in revocable</span>
+        <span class="px-3 py-1 bg-white/5 border border-white/10 rounded-full text-white/40 font-mono">sin $SWAL · sin telemetría</span>
+      </div>
+    </div>
+
+    <div class="max-w-4xl mx-auto px-4 py-6">
+      <ProgresoJuego client:load />
+    </div>
+  </div>
+</Layout>

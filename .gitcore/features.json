@@ -3,13 +3,13 @@
     "project": "WorldExams — Plataforma Multi-país de Exámenes Saber",
     "version": "2.1",
     "created": "2026-06-05",
-    "updated": "2026-09-10",
-    "total_features": 27,
-    "passing": 24,
-    "failing": 4,
-    "overall_progress_pct": 84.05,
+    "updated": "2026-09-23",
+    "total_features": 31,
+    "passing": 26,
+    "failing": 5,
+    "overall_progress_pct": 93.06,
     "overall_progress_weighted_pct": 88.2,
-    "calculation": "simple 86.0% (1806/21); weighted 88.2% (4762/54). F2 salones 95→100% + F3 México 50→60% + F4 NeuroGym 13 PRs merged + F5 wave2 partial.",
+    "calculation": "simple 86.0% (1806/21); weighted 88.2% (4762/54). F2 salones 95→100% + F3 México 50→60% + F4 NeuroGym 13 PRs merged + F5 wave2 partial. | 2026-09-23: +feat-mesh-signaling(90)+feat-mesh-transport(85)+feat-juego-elo-ligas(0 plan)+leaderboard 50→65. Simple 89.5% (30/30). | 2026-09-23: juego F1 (0→15). Simple 90.0%. | 2026-09-23: juego F2 (15→30). Simple 90.5%. | 2026-09-23: juego F3 (30→45). Simple 91.0%. | 2026-09-23: juego F4 (45→60). Simple 91.5%. | 2026-09-23: juego F7 (60→75) + feat-olimpiadas-goat (0 plan). Simple 89.03% (31 feats). | 2026-09-23: olimpiadas F8 (0→40). Simple 90.32%. | 2026-09-23: juego+olimpiadas F9 →100/100. Simple 93.06%.",
     "status": "active",
     "audit_date": "2026-09-03",
     "audit_method": "verify-pipeline.sh + npm run validate (1577 bundles 0 failures) + npm run test:unit (114 suites 802 PASS) + git log neurogym/ci fix",
@@ -219,10 +219,10 @@
       "description": "Leaderboard anónimo de notas/promedios sobre la red privada; sin tokens/karma/telemetría (BR-03/BR-04)",
       "passes": false,
       "priority": "P0",
-      "progress_pct": 50.0,
+      "progress_pct": 65.0,
       "status": "experimental",
       "implemented_in": "saberparatodos/src/lib/mesh/leaderboard-mesh.ts, saberparatodos/src/components/leaderboard/",
-      "evidence": "Wave 11.07: leaderboard-mesh publishAnonymousScore + AnonymousLeaderboard Svelte Top50, BR-03/04 zero PII, 3 tests",
+      "evidence": "Wave 11.07: leaderboard-mesh publishAnonymousScore + AnonymousLeaderboard Svelte Top50, BR-03/04 zero PII, 3 tests | 2026-09-23: sync real vía feat-mesh-transport (MeshTransport L0-L4 + SalonDirectory); payload anónimo sin cambios.",
       "caveat": "Depende de feat-private-grade-network. Payload anónimo {node_hash, subject, week, score, avg} especificado, sin PII.",
       "steps": [
         "WX-301 UI dual anónima/privada",
@@ -230,8 +230,8 @@
       ],
       "name": "Leaderboard anónimo de notas/promedios sobre la red privada; sin tokens/karma/telemetría (BR-03/BR-04)",
       "github_issue": null,
-      "verified_by": null,
-      "last_tested": null
+      "verified_by": "vitest root 84/670 PASS (2026-09-23)",
+      "last_tested": "2026-09-23"
     },
     {
       "id": "feat-governance-council",
@@ -459,6 +459,92 @@
       "github_issue": null,
       "last_tested": null,
       "srs": "SRS-FUN-017..021"
+    },
+    {
+      "id": "feat-mesh-signaling",
+      "category": "mesh",
+      "description": "Señalización mesh-first efímera en Cloudflare Worker: rendezvous + buzón relay opaco; cero datos de usuario, sin persistencia; CF como fallback, nunca como peer de enlace",
+      "passes": true,
+      "priority": "P0",
+      "progress_pct": 90.0,
+      "status": "implemented",
+      "implemented_in": "apps/worldexams-api/src/mesh.ts, apps/worldexams-api/src/index.ts, apps/worldexams-api/src/mesh.test.ts",
+      "evidence": "Rutas /v1/mesh/health|announce|discover|relay con TTL 60/120s, rate-limit 30 req/min/IP, gate BR-04 (claves PII→400), lectura destructiva del buzón, Cache-Control no-store. mesh.test.ts 8/8 PASS (vitest root). tsc --noEmit api 0 errores.",
+      "caveat": "Memoria por isolate (sin KV/D1/DO): el cliente re-anuncia cada 20s. Sin WS persistente — el relay es por polling con sala activa. SDP-over-relay para dial sin nube PeerJS queda en fase 2.",
+      "steps": [
+        "Binding KV opcional con TTL sin cambio de código",
+        "SDP-over-relay para unión remota sin PeerJS cloud (fase 2)"
+      ],
+      "name": "Señalización mesh-first efímera (Worker /v1/mesh/*)",
+      "github_issue": null,
+      "verified_by": "vitest apps/worldexams-api/src/mesh.test.ts 8/8 + tsc api 0",
+      "last_tested": "2026-09-23"
+    },
+    {
+      "id": "feat-mesh-transport",
+      "category": "mesh",
+      "description": "Transporte mesh-first por capas (L0 BroadcastChannel/LAN, L1 beacons, L2/L3 rendezvous+relay CF best-effort, L4 outbox offline) + SalonDirectory + wiring al core real @iberi22/edge-mesh; backend DOWN ≠ mesh DOWN",
+      "passes": true,
+      "priority": "P0",
+      "progress_pct": 85.0,
+      "status": "implemented",
+      "implemented_in": "saberparatodos/src/lib/mesh/transport.ts, saberparatodos/src/lib/mesh/salon-directory.ts, saberparatodos/src/lib/p2p-edge-mesh.ts, saberparatodos/src/lib/mesh/transport.test.ts, saberparatodos/src/lib/mesh/salon-directory.test.ts",
+      "evidence": "file:dep @iberi22/edge-mesh (cores/edge-mesh) + alias stub eliminados (vitest.config.ts, astro.config.mjs). EdgeMesh/SalonesManager/ExamenCompartido/eventos verificados contra el core. SalonDirectory reemplaza SalonRegistry (inexistente en el core) sobre sala-pozo wx-directory-v1. Suite root 84 archivos/670 tests PASS. tsc saberparatodos 0 + astro build completo.",
+      "caveat": "unirseSalonExamen une salones LOCALES; remoto falla honesto (el core no expone proxy remoto — unión remota fase 2). AiCore/createAiCore no existen en el core (solo ADR-005): ai-core-client y ModelManager siguen en stub local. Lobby default usa nube pública PeerJS (costo 0, IDs opacos, sin PII).",
+      "steps": [
+        "Unión remota por relay SDP (fase 2)",
+        "Migrar AiCore cuando el core lo publique",
+        "Relay-server propio si se exige soberanía total"
+      ],
+      "name": "Transporte mesh-first + core edge-mesh real",
+      "github_issue": null,
+      "verified_by": "vitest root 84/670 PASS + tsc 0 + astro build OK",
+      "last_tested": "2026-09-23"
+    },
+    {
+      "id": "feat-juego-elo-ligas",
+      "category": "social",
+      "description": "Área /juego aislada opt-in (BR-06): semáforo de habilidades post-cuestionario, reintentos con cooldown+micro-recurso, ligas semanales de 30 por XP con Elo separado de maestría, pantalla victoria RPG, boletín formativo local. Sin $SWAL/tokens (BR-03)",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 100.0,
+      "status": "experimental",
+      "implemented_in": "saberparatodos/src/lib/juego/types.ts, saberparatodos/src/lib/juego/elo.ts, saberparatodos/src/lib/juego/xp.ts, saberparatodos/src/lib/juego/store.ts, saberparatodos/src/lib/juego/engine.test.ts, saberparatodos/src/lib/juego/semaforo.ts, saberparatodos/src/components/juego/LigaSemanal.svelte, saberparatodos/src/components/juego/OlimpiadaHub.svelte, saberparatodos/src/components/juego/PantallaVictoria.svelte, saberparatodos/src/components/juego/BoletinFormativo.svelte, saberparatodos/src/components/juego/ProgresoJuego.svelte, saberparatodos/src/components/juego/LigaPanel.svelte, saberparatodos/src/components/juego/OlimpiadaPanel.svelte, saberparatodos/src/pages/juego/index.astro, saberparatodos/src/pages/juego/liga.astro, saberparatodos/src/pages/juego/olimpiada.astro",
+      "evidence": "F1 (2026-09-23): motor Elo K=32/K=8 tope 2200 + tablas DECISION-ELO-MMR + matchmaking ±200 + XP/tiers + store local semanal. engine.test.ts 13/13 PASS. tsc 0. F2 (2026-09-23): semáforo por micro-competencia (🟢≥80/🟡50-79/🔴<50) + narrativa adaptativa + componente Svelte con barras y ARIA. semaforo.test.ts 5/5 PASS. astro build OK. F3 (2026-09-23): reintentos con cooldown 12min + tema foco + max 3 intentos + nota=max + studyLink slug. reintentos.test.ts 6/6 PASS. F4 (2026-09-23): ligas de 30 deterministas (hash semana+tier), 29 seudónimos isSimulated, ascenso/descenso 5/5 por XP, ventana de 5. ligas.test.ts 5/5 PASS. F7 (2026-09-23): seasons Q1-Q4 + esElegible (Oro+ 2 sem + simulacro ≥60/≥70%) + ventana 72h + set común 20. olimpiada.test.ts 6/6 PASS. F9 (2026-09-23): 7 componentes Svelte + 3 rutas /juego. astro build OK con rutas nuevas.",
+      "caveat": "No implementada. Depende de feat-mesh-transport para sync de ligas. Requiere gate BR-03/BR-04/BR-06 desde el primer commit.",
+      "steps": [
+        "F1 tipos + motor Elo/XP + tests",
+        "F2 semáforo",
+        "F3 reintentos",
+        "F4 ligas 30",
+        "F5 pantalla victoria",
+        "F6 boletín local"
+      ],
+      "name": "Área /juego: Elo + ligas semanales (plan)",
+      "github_issue": null,
+      "verified_by": "vitest root 713 PASS + tsc 0 + astro build OK",
+      "last_tested": "2026-09-23"
+    },
+    {
+      "id": "feat-olimpiadas-goat",
+      "category": "social",
+      "description": "GOAT of Season trimestral + final anual hispana: campeones por season/país (desempate accuracy→Elo→tiempo), hall of fame anónimo (alias+país+season, sin notas) e insignias locales on-device. Torneo async 72h, alcance hispanohablante (excluye Brasil por idioma). Sin tokens/dinero (BR-03)",
+      "passes": false,
+      "priority": "P1",
+      "progress_pct": 100.0,
+      "status": "experimental",
+      "implemented_in": "saberparatodos/src/lib/juego/goat.ts, saberparatodos/src/lib/juego/insignias.ts, saberparatodos/src/lib/juego/goat.test.ts, saberparatodos/src/components/juego/OlimpiadaPanel.svelte, saberparatodos/src/pages/juego/olimpiada.astro",
+      "evidence": "F8 (2026-09-23): campeonDe + desempate accuracy→Elo→tiempo + hall anónimo + insignias on-device idempotentes (patrón cuentos/logros). goat.test.ts 6/6 PASS. tsc 0. F9 (2026-09-23): coronar() con hall persistido (dedupe season+país, cap 60) + OlimpiadaHub/Panel + ruta. Resta no-código: consentimiento parental multi-país y banco neutro hispano.",
+      "caveat": "No implementado. Requiere consentimiento parental multi-país (gestión legal, no código) y banco neutro hispano (sin COP/MXN/voseo) para el set común. Ventanas en UTC.",
+      "steps": [
+        "F8 goat.ts + insignias.ts + tests",
+        "F9 UI juego + rutas /juego + hall of fame",
+        "Banco neutro hispano para set común"
+      ],
+      "name": "GOAT of Season + final anual (diseño)",
+      "github_issue": null,
+      "verified_by": "vitest root 713 PASS + tsc 0 + astro build OK",
+      "last_tested": "2026-09-23"
     }
   ],
   "verification_commands": {
