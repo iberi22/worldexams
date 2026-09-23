@@ -40,12 +40,30 @@ describe('semaforo (F2)', () => {
     expect(texto).toContain('multiplicacion'); // fortaleza citada
   });
 
-  it('todo verde celebra sin foco de mejora', () => {
-    const nodos = computeSemaforo([
+  it('todo verde celebra sin foco de mejora (singular y plural)', () => {
+    const uno = computeSemaforo([{ tema: 'a', correct: true }]);
+    expect(narrar(uno)).toContain('la micro-competencia evaluada');
+
+    const dos = computeSemaforo([
       { tema: 'a', correct: true },
       { tema: 'b', correct: true },
     ]);
-    expect(narrar(nodos)).toContain('verde');
+    expect(narrar(dos)).toContain('las 2 micro-competencias evaluadas');
+  });
+
+  it('narrativa sin dominado usa frase de esfuerzo', () => {
+    const nodos = computeSemaforo([{ tema: 'a', correct: false }]);
+    expect(narrar(nodos)).toContain('Buen esfuerzo al intentarlo');
+  });
+
+  it('computeSemaforo maneja temas vacíos y orden alfabético en desempate', () => {
+    const nodos = computeSemaforo([
+      { tema: '  ', correct: true },
+      { tema: '', correct: false },
+      { tema: 'b_tema', correct: true },
+      { tema: 'a_tema', correct: true },
+    ]);
+    expect(nodos.some((n) => n.tema === 'general')).toBe(true);
   });
 
   it('vacío invita al primer cuestionario', () => {
