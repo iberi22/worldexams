@@ -1,5 +1,5 @@
 import json, sys
-sys.path.insert(0, "/home/belal/proyectosSWAL/worldexams/.gitcore/scripts/lib")
+sys.path.insert(0, "/home/belal/proyectosSWAL/apps/worldexams/.gitcore/scripts/lib")
 from load_lenient import load_lenient
 d = load_lenient(sys.argv[1])
 for f in d.get("features", []):

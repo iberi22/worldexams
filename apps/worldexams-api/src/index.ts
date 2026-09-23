@@ -1,3 +1,7 @@
+import { routeMesh, createMeshStores, type MeshStores } from "./mesh";
+
+const meshStores: MeshStores = createMeshStores();
+
 export interface Env {
   SUPABASE_URL: string
   SUPABASE_ANON_KEY: string
@@ -427,6 +431,15 @@ export default {
       return new Response(null, { status: 204, headers: corsHeadersFor(request) })
     }
 
+    // Mesh-first: señalización efímera (cero datos de usuario, sin persistencia).
+    // Si el backend cae, los nodos siguen vía capas P2P locales.
+    if (url.pathname.startsWith("/v1/mesh/")) {
+      const meshRes = await routeMesh(request, meshStores)
+      if (meshRes) {
+        return json(meshRes.body, meshRes.status, { "Cache-Control": "no-store" }, request)
+      }
+    }
+
     if (url.pathname.startsWith("/v1/packs/")) {
       const assetResponse = await env.ASSETS.fetch(request)
       return withCors(assetResponse, request)
@@ -439,6 +452,10 @@ export default {
         docs_url: "https://saberparatodos.space/developers/docs",
         endpoints: {
           health: "/health",
+          mesh_health: "/v1/mesh/health",
+          mesh_announce: "/v1/mesh/announce",
+          mesh_discover: "/v1/mesh/discover",
+          mesh_relay: "/v1/mesh/relay",
           free_questions: "/v1/questions",
           premium_questions: "/v1/premium/questions",
           grade_bundle: "/v1/grades/:country/:grade/bundle",
