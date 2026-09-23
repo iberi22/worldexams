@@ -7,10 +7,10 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
       '$lib': fileURLToPath(new URL('./src/lib', import.meta.url)),
-      // NOTA: sin alias 'edge-mesh' — los tests usan el core real
-      // `@iberi22/edge-mesh` (cores/edge-mesh). El stub local
-      // `saberparatodos/src/lib/ai/__mocks__/edge-mesh-stub.ts` solo cubre
-      // `AiCore`, que el core aún no publica.
+      // NOTA: sin alias 'edge-mesh' — el mesh usa el core real vendored en
+      // `saberparatodos/src/lib/vendor/edge-mesh` (ver VENDOR/README ahí).
+      // El stub `saberparatodos/src/lib/ai/__mocks__/edge-mesh-stub.ts`
+      // solo cubre `AiCore`, que el core aún no publica.
     },
   },
   test: {
@@ -20,6 +20,7 @@ export default defineConfig({
       'src/**/*.{test,spec}.{js,ts,jsx,tsx}',
       'saberparatodos/src/**/*.{test,spec}.{js,ts,jsx,tsx}',
       'apps/**/src/**/*.{test,spec}.{js,ts,jsx,tsx}',
+      'apps/**/tests/**/*.{test,spec}.{js,ts,jsx,tsx}',
     ],
     exclude: ['**/node_modules/**', '**/dist/**', '**/.astro/**', 'tests/e2e/**'],
   },
