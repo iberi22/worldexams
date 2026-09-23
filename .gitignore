@@ -25,6 +25,7 @@ saberparatodos/.wrangler/
 saberparatodos/dist/
 apps/*/dist/
 apps/*/.astro/
+apps/*/.wrangler/
 .astro/
 dist/
 
