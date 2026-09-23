@@ -6,8 +6,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
-      "$lib/*": ["src/lib/*"],
-      "edge-mesh": ["src/lib/ai/__mocks__/edge-mesh-stub.ts"]
+      "$lib/*": ["src/lib/*"]
     }
   },
   "include": ["src/**/*", "src/env.d.ts"],
