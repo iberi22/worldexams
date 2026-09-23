@@ -1,0 +1,32 @@
+export class TokenBucketRateLimiter {
+    config;
+    buckets = new Map();
+    constructor(config) {
+        this.config = config;
+    }
+    consume(key, tokens = 1) {
+        const now = Date.now();
+        let bucket = this.buckets.get(key);
+        if (!bucket) {
+            bucket = { tokens: this.config.maxTokens, lastRefill: now };
+            this.buckets.set(key, bucket);
+        }
+        else {
+            const elapsed = now - bucket.lastRefill;
+            if (elapsed > 0) {
+                const tokensToAdd = elapsed * (this.config.tokensPerInterval / this.config.intervalMs);
+                bucket.tokens = Math.min(this.config.maxTokens, bucket.tokens + tokensToAdd);
+                bucket.lastRefill = now;
+            }
+        }
+        if (bucket.tokens >= tokens) {
+            bucket.tokens -= tokens;
+            return true;
+        }
+        return false;
+    }
+    reset(key) {
+        this.buckets.delete(key);
+    }
+}
+//# sourceMappingURL=rate-limiter.js.map
