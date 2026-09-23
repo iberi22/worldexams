@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-5-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.178Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v1",
+      "statement": "Cuales órganos forman parte del sistema nervioso central (SNC) humano?",
+      "context": "En una clase de biología en Bucaramanga, se describe el sistema nervioso central como el centro de procesamiento de la informacion del cuerpo humano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El encefalo y la médula espinal.",
+          "is_correct": true,
+          "feedback": "Correcto. El SNC esta constituido por el encefalo y la médula espinal, protegidos por meninges y hueso."
+        },
+        {
+          "letter": "B",
+          "text": "El cerebro y los nervios perifericos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nervios perifericos pertenecen al sistema nervioso periferico (SNP)."
+        },
+        {
+          "letter": "C",
+          "text": "El cerebelo y los ganglios raquideos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ganglios raquideos forman parte del SNP, no del SNC."
+        },
+        {
+          "letter": "D",
+          "text": "El bulbo raquideo y los musculos esqueleticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los musculos son efectores, no parte del SNC."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sistema nervioso central (SNC) $=$ encefalo (cerebro, cerebelo, tronco encefalico) $+$ médula espinal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la funcion principal del sistema nervioso periferico (SNP) en el cuerpo humano?",
+      "context": "En el Hospital Universitario San Ignacio de Bogotá, un paciente recupera movilidad en una pierna tras sesiones de fisioterapia neurologica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectar el SNC con los órganos, musculos y receptores sensoriales del resto del cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto. El SNP comunica receptores y efectores con el SNC, permitiendo respuestas integradas."
+        },
+        {
+          "letter": "B",
+          "text": "Producir las neuronas que forman el cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La produccion de neuronas se realiza en etapas embrionarias y se localiza en el SNC."
+        },
+        {
+          "letter": "C",
+          "text": "Bombear sangre al cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa funcion corresponde al sistema cardiovascular."
+        },
+        {
+          "letter": "D",
+          "text": "Secretar hormonas al torrente sanguineo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hormonas son secretadas por el sistema endocrino, no por el SNP."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El SNP esta formado por nervios y ganglios que llevan informacion sensorial al SNC y llevan ordenes motoras a los efectores.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v3",
+      "statement": "Cuál es el orden correcto de las estructuras que participan en el acto reflejo de retirar la mano?",
+      "context": "En Valledupar, un estudiante retira rapidamente la mano al tocar una olla caliente sobre la estufa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Receptor sensorial $\\to$ neurona aferente $\\to$ médula espinal $\\to$ neurona eferente $\\to$ musculo efector.",
+          "is_correct": true,
+          "feedback": "Correcto. El arco reflejo sigue esta secuencia y permite respuestas rapidas sin pasar por el cerebro."
+        },
+        {
+          "letter": "B",
+          "text": "Musculo efector $\\to$ médula espinal $\\to$ receptor sensorial $\\to$ neurona eferente $\\to$ cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia inicia en el receptor y termina en el efector, no al reves."
+        },
+        {
+          "letter": "C",
+          "text": "Cerebro $\\to$ ganglio raquideo $\\to$ musculo $\\to$ piel $\\to$ médula espinal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reflejo espinal no requiere procesamiento cerebral consciente."
+        },
+        {
+          "letter": "D",
+          "text": "Glándula endocrina $\\to$ sangre $\\to$ musculo $\\to$ piel $\\to$ receptor sensorial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta secuencia corresponde a respuestas hormonales, no a un acto reflejo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arco reflejo: receptor $\\to$ via aferente $\\to$ centro integrador (médula) $\\to$ via eferente $\\to$ efector (musculo).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v4",
+      "statement": "Cuál es el efecto de la mielina sobre la velocidad de conduccion del impulso nervioso en los axones?",
+      "context": "En el laboratorio de neurociencias de la Universidad de los Andes, se estudia la conduccion del impulso nervioso a lo largo de una neurona mielinizada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la velocidad de conduccion al permitir la propagacion saltatoria entre los nodulos de Ranvier.",
+          "is_correct": true,
+          "feedback": "Correcto. La mielina aísla el axon y el impulso \"salta\" entre nodos, acelerando la conduccion."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye la velocidad de conduccion al obstaculizar el flujo eléctrico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mielina acelera, no entorpece, la conduccion nerviosa."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene ningun efecto sobre la velocidad del impulso nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mielinizacion es clave para la velocidad del impulso."
+        },
+        {
+          "letter": "D",
+          "text": "Hace que el impulso viaje solo en direccion contraria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mielina no modifica la direccion del impulso, sino su velocidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La vaina de mielina produce conduccion saltatoria: el potencial de acción salta entre los nodulos de Ranvier, aumentando la velocidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v5",
+      "statement": "Cual seria la consecuencia fisiologica directa de la desmielinizacion sobre la conduccion nerviosa?",
+      "context": "En una paciente con esclerosis multiple tratada en Manizales, el sistema inmune destruye progresivamente la mielina de los axones del SNC.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduccion de la velocidad del impulso nervioso y deterioro de la coordinacion motora.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin mielina, el impulso se hace mas lento y aparecen deficits motores y sensoriales."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento exagerado de la velocidad de conduccion axonal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desmielinizacion enlentece, no acelera, la conduccion."
+        },
+        {
+          "letter": "C",
+          "text": "Incremento del grosor de los musculos esqueleticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desmielinizacion no afecta directamente el grosor muscular."
+        },
+        {
+          "letter": "D",
+          "text": "Disminucion de la temperatura corporal central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fiebre o hipotermia no son consecuencia directa de la desmielinizacion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mielina es esencial para la conduccion rapida del impulso. Su perdida causa lentitud y fallos en la transmision sinaptica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v6",
+      "statement": "Cuál es el análisis correcto de la relacion entre la corteza motora y el movimiento del brazo derecho?",
+      "context": "En Medellín, una lesion cerebral compromete la corteza motora de un adolescente, afectando la movilidad voluntaria del brazo derecho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corteza motora del hemisferio izquierdo controla principalmente los movimientos voluntarios del lado derecho del cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto. La motricidad voluntaria sigue un control cruzado: hemisferio izquierdo para el lado derecho."
+        },
+        {
+          "letter": "B",
+          "text": "La corteza motora del hemisferio derecho controla los movimientos del lado derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza motora derecha controla el lado izquierdo del cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "La corteza motora controla funciones del sistema endocrino, no del movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza motora comanda movimientos volontaires, no secreciones hormonales."
+        },
+        {
+          "letter": "D",
+          "text": "La corteza motora del cerebro solo interviene en funciones vegetativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones vegetativas se regulan en el tronco encefalico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Control motor cruzado: cada hemisferio cerebral comanda los movimientos del lado opuesto del cuerpo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v7",
+      "statement": "Cuál es el análisis del efecto del estres cronico sobre la transmision sinaptica en el sistema nervioso?",
+      "context": "En el Laboratorio de Neurociencias de la Universidad Javeriana, se mide la concentracion de neurotransmisores en la sinapsis de ratones sometidos a situaciones de estres cronico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede alterar el equilibrio de neurotransmisores como serotonina y dopamina, afectando el estado de animo y la memoria.",
+          "is_correct": true,
+          "feedback": "Correcto. El estres cronico desregula neurotransmisores clave, impactando animo, memoria y comportamiento."
+        },
+        {
+          "letter": "B",
+          "text": "El estres cronico aumenta la produccion de mielina en todo el sistema nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estres cronico no incrementa la mielinizacion, sino que puede reducirla."
+        },
+        {
+          "letter": "C",
+          "text": "Los neurotransmisores son independientes del estado emocional del individuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los neurotransmisores estan estrechamente ligados a las emociones."
+        },
+        {
+          "letter": "D",
+          "text": "El estres cronico elimina por completo todas las sinapsis del cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No las elimina por completo, pero modifica su eficiencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estres cronico altera la liberacion y recaptacion de neurotransmisores, modificando la plasticidad sinaptica y la funcion cognitiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v8",
+      "statement": "Cuál es el análisis correcto del efecto del sueno insuficiente sobre el sistema nervioso de los estudiantes?",
+      "context": "En una escuela rural de Boyaca, se observa que los estudiantes que duermen menos de 7 horas tienen menor rendimiento academico que aquellos con sueno suficiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sueno insuficiente afecta la consolidacion de la memoria, la atencion y el aprendizaje en el sistema nervioso.",
+          "is_correct": true,
+          "feedback": "Correcto. Dormir es esencial para consolidar memorias y mantener funciones cognitivas optimas."
+        },
+        {
+          "letter": "B",
+          "text": "El sueno insuficiente mejora la capacidad de concentracion del estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de sueno disminuye la concentracion y el rendimiento cognitivo."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema nervioso no se ve afectado por la cantidad de sueno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema nervioso requiere sueno para su recuperacion y plasticidad."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los musculos esqueleticos se recuperan durante el sueno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sueno es vital también para el cerebro y el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Durante el sueno se consolidan memorias, se eliminan desechos metabolicos cerebrales y se regula el estado emocional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v9",
+      "statement": "Cuál es el análisis del efecto del alcohol sobre areas especificas del sistema nervioso?",
+      "context": "En la costa Caribe, una persona consume altas cantidades de alcohol en una rumba y al dia siguiente presenta dificultad para coordinar movimientos y hablar con claridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El alcohol deprime principalmente el cerebelo y la corteza cerebral, alterando coordinacion, equilibrio y lenguaje.",
+          "is_correct": true,
+          "feedback": "Correcto. El cerebelo controla coordinacion; la corteza cerebral participa en el lenguaje y juicio."
+        },
+        {
+          "letter": "B",
+          "text": "El alcohol estimula la médula espinal, aumentando los reflejos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcohol es depresor del SNC, no estimulante de la médula."
+        },
+        {
+          "letter": "C",
+          "text": "El alcohol no afecta el sistema nervioso, solo el hígado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcohol atraviesa la barrera hematoencefalica y actua directamente sobre neuronas."
+        },
+        {
+          "letter": "D",
+          "text": "El alcohol mejora la coordinacion motora fina durante varias horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inicialmente deprime la coordinacion y el juicio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El alcohol es un depresor del SNC que afecta primero corteza (juicio) y luego cerebelo (equilibrio) y bulbo (funciones vitales).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v10",
+      "statement": "Cual de los siguientes argumentos científicos justifica con mayor solidez evitar el consumo de sustancias psicoactivas durante la adolescencia?",
+      "context": "En Bogotá, el Ministerio de Salud promueve campanas para que jovenes eviten el consumo de sustancias psicoactivas que afectan la plasticidad neuronal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Durante la adolescencia el cerebro aun esta en desarrollo y las sustancias psicoactivas pueden alterar la plasticidad neuronal.",
+          "is_correct": true,
+          "feedback": "Correcto. El cerebro adolescente es vulnerable a sustancias que modifican la conectividad neuronal."
+        },
+        {
+          "letter": "B",
+          "text": "Las sustancias psicoactivas fortalecen la memoria de manera permanente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las sustancias psicoactivas suelen deteriorar, no fortalecer, la memoria."
+        },
+        {
+          "letter": "C",
+          "text": "Las sustancias psicoactivas no tienen efecto alguno sobre el sistema nervioso en adolescentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto en adolescentes es particularmente marcado por la maduracion cerebral."
+        },
+        {
+          "letter": "D",
+          "text": "El cerebro adolescente esta completamente desarrollado y resiste cualquier sustancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza prefrontal madura hasta cerca de los 25 anos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adolescencia es una ventana critica de maduracion cerebral; las sustancias psicoactivas pueden dejar secuelas neuropsicologicas permanentes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta de la relacion entre el sistema nervioso, los traumatismos craneoencefalicos y la importancia del casco?",
+      "context": "En el programa de educacion vial de Cali, se discute la importancia de usar casco y evitar el celular al conducir una moto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El casco reduce el riesgo de lesiones cerebrales al amortiguar golpes que podrian danar irreversiblemente las neuronas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las neuronas del SNC tienen capacidad de regeneracion muy limitada."
+        },
+        {
+          "letter": "B",
+          "text": "El casco solo protege la cara, no el cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El casco protege principalmente el cráneo y el cerebro subyacente."
+        },
+        {
+          "letter": "C",
+          "text": "Las neuronas cerebrales se regeneran rapidamente, por lo que el casco es innecesario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La capacidad de regeneracion neuronal del SNC adulto es muy limitada."
+        },
+        {
+          "letter": "D",
+          "text": "Los golpes en la cabeza no afectan el funcionamiento del sistema nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los traumatismos craneoencefalicos pueden producir danos neurologicos graves."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema nervioso central tiene capacidad limitada de regeneracion. Prevenir traumatismos con casco es esencial para evitar lesiones irreversibles.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle-v12",
+      "statement": "Cual de los siguientes argumentos científicos justifica mejor la inversion en actividad física regular para proteger el sistema nervioso?",
+      "context": "En el plan de salud de Antioquia, se discute invertir recursos en programas de actividad física para reducir el riesgo de enfermedades neurodegenerativas en adultos mayores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ejercicio estimula la neuroplasticidad, mejora el flujo sanguineo cerebral y reduce el deterioro cognitivo.",
+          "is_correct": true,
+          "feedback": "Correcto. La actividad física promueve plasticidad sinaptica y salud cerebrovascular."
+        },
+        {
+          "letter": "B",
+          "text": "El ejercicio físico solo beneficia al sistema muscular, no al nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejercicio tiene efectos directos sobre el cerebro y la cognicion."
+        },
+        {
+          "letter": "C",
+          "text": "El deterioro cognitivo es inevitable y el ejercicio no aporta beneficio alguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evidencia muestra que el ejercicio puede retrasar el deterioro cognitivo."
+        },
+        {
+          "letter": "D",
+          "text": "La actividad física acelera el envejecimiento cerebral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evidencia indica que el ejercicio regular protege al cerebro del envejecimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La actividad física regular estimula factores neurotroficos, mejora la perfusion cerebral y favorece la plasticidad sinaptica, protegiendo la funcion cognitiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W05-sistema-nervioso-humano-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

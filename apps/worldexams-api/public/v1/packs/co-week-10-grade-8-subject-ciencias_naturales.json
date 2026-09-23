@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-23T01:21:21.182Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v1",
+      "statement": "Cuál es la unidad de medida de la fuerza en el Sistema Internacional (SI)?",
+      "context": "En una clase de física del Colegio San Jose de Barranquilla, se introduce el concepto de fuerza como interaccion entre cuerpos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Newton (N).",
+          "is_correct": true,
+          "feedback": "Correcto. El newton es la unidad de fuerza en el SI, equivalente a $kg \\cdot m/s^2$."
+        },
+        {
+          "letter": "B",
+          "text": "Joule (J).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El joule mide energía, no fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Watt (W).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El watt mide potencia, no fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Pascal (Pa).",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pascal mide presión, no fuerza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el SI la fuerza se mide en newtons (N). $1\\text{ N} = 1\\text{ kg} \\cdot m/s^2$.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v2",
+      "statement": "Cual ley de Newton explica por que la moto permanece en reposo a pesar de la fuerza aplicada por el estudiante?",
+      "context": "En un parqueadero de Popayan, un estudiante intenta empujar una moto pero esta no se mueve porque el freno de mano esta puesto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primera ley de Newton (Ley de inercia).",
+          "is_correct": true,
+          "feedback": "Correcto. Un cuerpo permanece en reposo si la fuerza neta sobre el es nula."
+        },
+        {
+          "letter": "B",
+          "text": "Segunda ley de Newton ($F = m \\cdot a$).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda ley relaciona fuerza, masa y aceleración cuando hay fuerza neta."
+        },
+        {
+          "letter": "C",
+          "text": "Tercera ley de Newton (acción y reacción).",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tercera ley describe pares de fuerzas entre dos cuerpos."
+        },
+        {
+          "letter": "D",
+          "text": "Ley de gravitacion universal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa ley describe la atraccion entre masas, no el reposo de la moto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primera ley de Newton (inercia): un cuerpo mantiene su estado de reposo o MRU si la fuerza neta es cero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v3",
+      "statement": "Cuál es la aceleración que adquiere el automovil?",
+      "context": "En el taller de mecánica de Palmira, se aplica una fuerza neta de $200$ N sobre un automovil de $1000$ kg de masa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0,2$ m/s$^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $a = F / m = 200\\text{ N} / 1000\\text{ kg} = 0,2$ m/s$^2$."
+        },
+        {
+          "letter": "B",
+          "text": "$5$ m/s$^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a multiplicar en vez de dividir $F$ por $m$."
+        },
+        {
+          "letter": "C",
+          "text": "$200000$ m/s$^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el producto $F \\cdot m$ sin unidad adecuada."
+        },
+        {
+          "letter": "D",
+          "text": "$0$ m/s$^2$ porque la fuerza no supera el rozamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con fuerza neta de $200$ N si hay aceleración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Segunda ley de Newton: $F = m \\cdot a$. Si $F = 200$ N y $m = 1000$ kg, entonces $a = 0,2$ m/s$^2$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v4",
+      "statement": "Cuál es la aceleración de cada bloque segun la segunda ley de Newton?",
+      "context": "En una clase experimental en Cucuta, dos bloques de masa $2$ kg y $6$ kg son empujados por la misma fuerza neta de $12$ N sobre una superficie lisa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a_1 = 6$ m/s$^2$ para el bloque de $2$ kg y $a_2 = 2$ m/s$^2$ para el bloque de $6$ kg.",
+          "is_correct": true,
+          "feedback": "Correcto. $a = F / m$: $12/2 = 6$ m/s$^2$ y $12/6 = 2$ m/s$^2$."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos bloques adquieren la misma aceleración de $4$ m/s$^2$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo seria cierto si tuvieran la misma masa."
+        },
+        {
+          "letter": "C",
+          "text": "El bloque mas pesado acelera mas por inercia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A mayor masa, menor aceleración con la misma fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno acelera porque falta la fuerza de fricción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza neta es no nula, asi que ambos aceleran."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aceleración es inversamente proporcional a la masa: mayor masa produce menor aceleración con la misma fuerza neta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v5",
+      "statement": "Cuál es la explicacion correcta de por que la persona siente mayor peso cuando el ascensor acelera hacia arriba?",
+      "context": "En la Explanada de Monserrate en Bogotá, una persona siente su peso aparente modificado al estar dentro de un ascensor que acelera hacia arriba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza normal del piso aumenta para producir la aceleración neta hacia arriba del cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto. Por la segunda ley, $N - mg = m \\cdot a$, asi $N = m(g + a) > mg$."
+        },
+        {
+          "letter": "B",
+          "text": "La masa de la persona aumenta dentro del ascensor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa es invariante; solo cambia la fuerza normal (peso aparente)."
+        },
+        {
+          "letter": "C",
+          "text": "La gravedad aumenta repentinamente al subir el ascensor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad local no cambia por moverse dentro del ascensor."
+        },
+        {
+          "letter": "D",
+          "text": "La persona pierde masa porque consume mas energía al moverse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La perdida de energía no altera la masa gravitacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El peso aparente (fuerza normal) depende de la aceleración: si $a$ es hacia arriba, $N = m(g + a)$; si $a$ es hacia abajo, $N = m(g - a)$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v6",
+      "statement": "Cuál es la interpretacion correcta del fenomeno observado segun la tercera ley de Newton?",
+      "context": "En una pista de hielo en Bogotá, un patinador empuja una pared con una fuerza de $80$ N y sale despedido en sentido contrario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pared ejerce sobre el patinador una fuerza igual en modulo y opuesta en sentido a la fuerza que el ejerce sobre ella.",
+          "is_correct": true,
+          "feedback": "Correcto. La acción y la reacción tienen igual modulo y direcciones opuestas."
+        },
+        {
+          "letter": "B",
+          "text": "La pared no ejerce fuerza alguna porque es rigida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda interaccion genera un par accion-reaccion."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza del patinador es mayor y por eso se impulsa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas son iguales en modulo; el patinador acelera porque su masa es menor."
+        },
+        {
+          "letter": "D",
+          "text": "El patinador se impulsa porque aumenta su masa durante el contacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa del patinador no cambia durante el breve contacto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tercera ley de Newton: a toda acción le corresponde una reacción igual y opuesta, aplicadas sobre cuerpos distintos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v7",
+      "statement": "Cuál es el análisis correcto de la condicion de equilibrio estatico del puente?",
+      "context": "En Riohacha, un ingeniero analiza las fuerzas sobre un puente colgante: el peso propio, la tension de los cables y el empuje de los vehiculos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma vectorial de todas las fuerzas sobre el puente es igual a cero.",
+          "is_correct": true,
+          "feedback": "Correcto. En equilibrio estatico, la fuerza neta es nula: $\\sum \\vec{F} = 0$."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la tension de los cables importa; el peso no afecta el equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del puente y la carga son parte esencial del equilibrio."
+        },
+        {
+          "letter": "C",
+          "text": "El puente esta en equilibrio si la suma de las fuerzas verticales es distinta de cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debe ser cero, no cualquier otro valor."
+        },
+        {
+          "letter": "D",
+          "text": "El equilibrio depende solo de las fuerzas internas, no de las externas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equilibrio implica balance de fuerzas externas e internas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Equilibrio estatico: $\\sum \\vec{F} = 0$ y $\\sum \\tau = 0$. La fuerza neta y el torque neto deben ser nulos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v8",
+      "statement": "Cuál es el análisis correcto de la fuerza centrípeta necesaria para mantener al ciclista en la curva?",
+      "context": "En Medellín, un ciclista de $70$ kg (con bicicleta) recorre una pista curva peraltada para mantener el equilibrio dinamico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una fuerza neta dirigida hacia el centro de la curva que produce el cambio de direccion del movimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin fuerza centrípeta, el ciclista seguiria en linea recta por inercia."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza centrípeta actua en direccion tangente a la curva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza centrípeta apunta hacia el centro de la trayectoria, no tangente."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza centrípeta solo aparece cuando el ciclista se detiene.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aparece siempre que hay cambio de direccion del movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del ciclista es irrelevante para la fuerza centrípeta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $F_c = m \\cdot v^2 / r$ depende directamente de la masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza centrípeta $F_c = m v^2 / r$ esta dirigida al centro de la curva y es responsable del cambio de direccion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v9",
+      "statement": "Cuál es el análisis correcto de la fuerza de rozamiento estática en funcion del peso del objeto?",
+      "context": "En Villavicencio, una familia discute por que un objeto pesado requiere mas fuerza para moverse sobre el piso que un objeto ligero, en superficies con igual rozamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuerza de rozamiento estática máxima es proporcional a la fuerza normal y por tanto al peso del objeto.",
+          "is_correct": true,
+          "feedback": "Correcto. $F_{r,max} = \\mu_e \\cdot N = \\mu_e \\cdot m \\cdot g$."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza de rozamiento es independiente del peso del cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza normal depende del peso, y el rozamiento es proporcional a la normal."
+        },
+        {
+          "letter": "C",
+          "text": "El rozamiento disminuye cuando el cuerpo pesa mas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumenta con el peso, no disminuye."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza de rozamiento solo depende del area de contacto, no del peso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para superficies en contacto, depende de la normal (peso), no del area."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rozamiento estatico máximo: $F_{r,max} = \\mu_e \\cdot N$. Si la superficie es horizontal, $N = m \\cdot g$, asi el rozamiento crece con el peso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v10",
+      "statement": "Cual de las siguientes evaluaciones justifica mejor el uso de materiales livianos y motores potentes en el diseno de una aeronave?",
+      "context": "En el aeropuerto El Dorado de Bogotá, ingenieros discuten el diseno de una pista considerando las fuerzas sobre un avion en despegue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menor masa aumenta la aceleración para una misma fuerza de propulsion, facilitando el despegue.",
+          "is_correct": true,
+          "feedback": "Correcto. Por $a = F / m$, reducir masa aumenta aceleración."
+        },
+        {
+          "letter": "B",
+          "text": "La masa no afecta el movimiento de un avion porque este vuela por gravedad reducida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa es determinante para la inercia y la aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "Los motores potentes compensan cualquier masa, por lo que el material es irrelevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los motores deben vencer inercia, inercia que crece con la masa."
+        },
+        {
+          "letter": "D",
+          "text": "El avion despega con masa indiferente; solo importa la forma del ala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aerodinamica y masa son ambas criticas para el vuelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Segunda ley de Newton: $a = F / m$. Disminuir masa incrementa la aceleración que imprimen los motores, vital en el despegue.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la evaluacion correcta del principio físico detras del cinturon de seguridad durante una frenada brusca?",
+      "context": "En Santa Marta, una campana de seguridad vial busca convencer a conductores sobre la importancia del uso del cinturon de seguridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cinturon aplica una fuerza sobre el cuerpo que lo desacelera, evitando que continue moviendose por inercia.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin cinturon, el cuerpo mantiene su movimiento por inercia."
+        },
+        {
+          "letter": "B",
+          "text": "El cinturon elimina la inercia del pasajero durante la colision.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inercia es una propiedad de la masa y no se elimina."
+        },
+        {
+          "letter": "C",
+          "text": "El cinturon aumenta la velocidad del cuerpo para reducir el impacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que hace es reducir la velocidad de manera controlada."
+        },
+        {
+          "letter": "D",
+          "text": "El cinturon solo sirve en choques laterales, no frontales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es eficaz en todo tipo de colisiones y frenadas bruscas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una frenada brusca, el cinturon aplica una fuerza distribuida para desacelerar el cuerpo, evitando que continue su movimiento por inercia (primera ley).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle-v12",
+      "statement": "Cual de las siguientes afirmaciones evalua mejor la razon por la que los satélites requieren gran propulsion inicial para alcanzar la órbita terrestre?",
+      "context": "En Cali, se discute el lanzamiento de un satélite colombiano desde una base con capacidades limitadas de propulsion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deben alcanzar gran velocidad tangencial y altura suficiente para que la gravedad los mantenga en órbita estable.",
+          "is_correct": true,
+          "feedback": "Correcto. Velocidad orbital alta y altura compensan la gravedad y mantienen al satélite en órbita."
+        },
+        {
+          "letter": "B",
+          "text": "La propulsion inicial elimina la gravedad terrestre de manera permanente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningun motor elimina la gravedad; se compensa con velocidad tangencial."
+        },
+        {
+          "letter": "C",
+          "text": "Los satélites no requieren propulsion inicial porque flotan automaticamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alcanzar órbita requiere vencer gravedad e imprimir velocidad orbital."
+        },
+        {
+          "letter": "D",
+          "text": "La propulsion solo sirve para que el satélite se vea bonito desde la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propulsion es esencial para insertar al satélite en su órbita funcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para orbitar, un satélite debe tener velocidad tangencial suficiente y altura que equilibre la gravedad, manteniendo asi una trayectoria cerrada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W10-fuerzas-leyes-newton-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
