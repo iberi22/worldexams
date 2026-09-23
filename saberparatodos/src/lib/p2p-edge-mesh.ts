@@ -17,17 +17,19 @@
 // Trystero (p2p-service) se mantiene como legacy hasta probar este bridge.
 // ────────────────────────────────────────────────────────────────────────────
 
+import { EdgeMesh } from "./vendor/edge-mesh/dist/edge-mesh.js";
 import {
-	EdgeMesh,
 	SalonesManager,
 	SalonVirtual,
 	TIPO_SALON,
+} from "./vendor/edge-mesh/dist/salones/manager.js";
+import {
 	ExamenCompartido,
 	TIPO_PREGUNTA,
-	type NodoId,
-	type TipoPregunta,
 	type Pregunta as EdgePregunta,
-} from "@iberi22/edge-mesh";
+	type TipoPregunta,
+} from "./vendor/edge-mesh/dist/chat/index.js";
+import type { NodoId } from "./vendor/edge-mesh/dist/types/index.js";
 import { SalonDirectory, type SalonAd } from "./mesh/salon-directory";
 
 import { writable, derived, type Writable, type Readable } from "svelte/store";
