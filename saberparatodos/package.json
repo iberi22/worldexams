@@ -65,6 +65,8 @@
     "test:party:headed": "playwright test party-mode.spec.ts --headed",
     "test:unit": "vitest run",
     "test:coverage": "vitest run --coverage",
+    "test:juego": "vitest run --config ../vitest.juego.config.ts",
+    "test:juego-coverage": "vitest run --config ../vitest.juego.config.ts --coverage",
     "smoke:geo": "node ../scripts/smoke-geo-routing.mjs",
     "smoke:ai": "node scripts/smoke-ai-core.mjs",
     "metrics:generation": "node scripts/generate-generation-metrics.mjs"
