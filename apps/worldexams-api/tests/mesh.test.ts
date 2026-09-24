@@ -175,3 +175,36 @@ describe("mesh KV efímero cross-isolate", () => {
     expect(res?.body.rendezvous).toBe("kv-ephemeral");
   });
 });
+
+describe("mesh KV relay cross-isolate", () => {
+  const ENVELOPE = { v: 1, from: "p_kv_a", seq: 7, t: 1234567890, kind: "delta", blob: "Y2lwaGVy" };
+
+  it("deposit en A → drain en B (lectura destructiva)", async () => {
+    const kv = fakeKV();
+    const inbox = "kvinbox-cross-01";
+    const storesA = createMeshStores();
+    const dep = await routeMesh(
+      jsonReq("/v1/mesh/relay", { inbox_hash: inbox, envelope: ENVELOPE }),
+      storesA,
+      kv,
+    );
+    expect(dep?.status).toBe(200);
+
+    const storesB = createMeshStores();
+    const drain1 = await routeMesh(req(`/v1/mesh/relay?inbox=${inbox}`), storesB, kv);
+    expect((drain1?.body.messages as unknown[]).length).toBe(1);
+    const drain2 = await routeMesh(req(`/v1/mesh/relay?inbox=${inbox}`), storesB, kv);
+    expect((drain2?.body.messages as unknown[]).length).toBe(0);
+  });
+
+  it("consume=0 no borra (peek repetible)", async () => {
+    const kv = fakeKV();
+    const inbox = "kvinbox-peek-01";
+    const stores = createMeshStores();
+    await routeMesh(jsonReq("/v1/mesh/relay", { inbox_hash: inbox, envelope: ENVELOPE }), stores, kv);
+    const peek1 = await routeMesh(req(`/v1/mesh/relay?inbox=${inbox}&consume=0`), stores, kv);
+    const peek2 = await routeMesh(req(`/v1/mesh/relay?inbox=${inbox}&consume=0`), stores, kv);
+    expect((peek1?.body.messages as unknown[]).length).toBe(1);
+    expect((peek2?.body.messages as unknown[]).length).toBe(1);
+  });
+});
