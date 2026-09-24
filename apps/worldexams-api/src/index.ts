@@ -6,6 +6,8 @@ export interface Env {
   SUPABASE_URL: string
   SUPABASE_ANON_KEY: string
   ASSETS: Fetcher
+  /** KV efímero de rendezvous (opcional en dev: sin binding → solo memoria). */
+  MESH_STATE?: KVNamespace
 }
 
 const ALLOWED_ORIGINS = [
@@ -434,7 +436,7 @@ export default {
     // Mesh-first: señalización efímera (cero datos de usuario, sin persistencia).
     // Si el backend cae, los nodos siguen vía capas P2P locales.
     if (url.pathname.startsWith("/v1/mesh/")) {
-      const meshRes = await routeMesh(request, meshStores)
+      const meshRes = await routeMesh(request, meshStores, env.MESH_STATE ?? null)
       if (meshRes) {
         return json(meshRes.body, meshRes.status, { "Cache-Control": "no-store" }, request)
       }

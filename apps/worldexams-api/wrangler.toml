@@ -14,6 +14,14 @@ SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
 directory = "public"
 binding = "ASSETS"
 
+# MESH_STATE: KV E F Í M E R O para rendezvous mesh (TTL ~70s por sala).
+# Solo hashes de sala + IDs efímeros de peer. NUNCA datos de usuario.
+# Sin binding (dev local) el Worker usa memoria por isolate (best-effort).
+[[kv_namespaces]]
+binding = "MESH_STATE"
+id = "22105f2832e743fa9e202d265bf028a9"
+preview_id = "c609d8e05df34ce9b5b41424f8012fce"
+
 [[routes]]
 pattern = "api.saberparatodos.space/*"
 zone_name = "saberparatodos.space"
