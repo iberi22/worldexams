@@ -149,7 +149,9 @@ export interface MeshKV {
 }
 
 export const KV_ROOM_PREFIX = "mesh:room:";
+export const KV_INBOX_PREFIX = "mesh:inbox:";
 export const KV_ROOM_TTL_S = 75;
+export const KV_INBOX_TTL_S = 130;
 export const KV_WRITE_THROTTLE_MS = 30_000;
 
 interface KvRoomRecord {
@@ -213,6 +215,67 @@ async function kvReadRoom(stores: MeshStores, kv: MeshKV, roomHash: string): Pro
     return parseKvRoom(await kv.get(kvRoomKey(roomHash)), stores.now());
   } catch {
     return new Map();
+  }
+}
+
+function kvInboxKey(inboxHash: string): string {
+  return `${KV_INBOX_PREFIX}${inboxHash}`;
+}
+
+function parseKvInbox(raw: string | null, now: number): RelayMsg[] {
+  if (!raw) return [];
+  try {
+    const data = JSON.parse(raw) as { messages?: RelayMsg[] };
+    if (!Array.isArray(data.messages)) return [];
+    return data.messages.filter(
+      (m) => m && m.envelope && typeof m.expiresAt === "number" && m.expiresAt > now,
+    );
+  } catch {
+    return [];
+  }
+}
+
+/**
+ * Buzón KV (write-through): el relay cruza isolates. Best-effort con
+ * condiciones de carrera aceptadas (señalización efímera; el cliente
+ * reintenta y el P2P directo es el path primario).
+ */
+async function kvDepositInbox(
+  stores: MeshStores,
+  kv: MeshKV,
+  inbox: string,
+  msg: RelayMsg,
+): Promise<number> {
+  const now = stores.now();
+  let msgs: RelayMsg[] = [];
+  try {
+    msgs = parseKvInbox(await kv.get(kvInboxKey(inbox)), now);
+  } catch {
+    msgs = [];
+  }
+  msgs.push(msg);
+  msgs = msgs.filter((m) => m.expiresAt > now).slice(-MESH_MAX_MSGS_PER_INBOX);
+  try {
+    await kv.put(kvInboxKey(inbox), JSON.stringify({ messages: msgs }), { expirationTtl: KV_INBOX_TTL_S });
+  } catch {
+    /* KV caído */
+  }
+  return msgs.length;
+}
+
+async function kvDrainInbox(stores: MeshStores, kv: MeshKV, inbox: string, consume: boolean): Promise<RelayMsg[]> {
+  try {
+    const msgs = parseKvInbox(await kv.get(kvInboxKey(inbox)), stores.now());
+    if (consume && msgs.length > 0) {
+      try {
+        await kv.put(kvInboxKey(inbox), JSON.stringify({ messages: [] }), { expirationTtl: KV_INBOX_TTL_S });
+      } catch {
+        /* noop */
+      }
+    }
+    return msgs;
+  } catch {
+    return [];
   }
 }
 
@@ -405,7 +468,10 @@ export async function routeMesh(request: Request, stores: MeshStores, kv?: MeshK
     }
     if (msgs.length >= MESH_MAX_MSGS_PER_INBOX) return { status: 429, body: { error: "INBOX_FULL" } };
     msgs.push({ envelope: validated.envelope, expiresAt: stores.now() + MESH_RELAY_TTL_S * 1000 });
-    return { status: 200, body: { ok: true, queued: msgs.length } };
+    const queued = kv
+      ? Math.max(msgs.length, await kvDepositInbox(stores, kv, inbox, { envelope: validated.envelope, expiresAt: stores.now() + MESH_RELAY_TTL_S * 1000 }))
+      : msgs.length;
+    return { status: 200, body: { ok: true, queued } };
   }
 
   // GET /v1/mesh/relay?inbox=<hash>[&consume=0] — por defecto consume (borra al leer).
@@ -413,9 +479,20 @@ export async function routeMesh(request: Request, stores: MeshStores, kv?: MeshK
     const inbox = url.searchParams.get("inbox") || "";
     if (!isValidHash(inbox)) return { status: 400, body: { error: "INVALID_INBOX_HASH" } };
     const consume = url.searchParams.get("consume") !== "0";
-    const msgs = stores.inboxes.get(inbox) || [];
-    const envelopes = msgs.map((m) => m.envelope);
+    const mem = stores.inboxes.get(inbox) || [];
+    const envelopes = mem.map((m) => m.envelope);
     if (consume) stores.inboxes.delete(inbox);
+    if (kv) {
+      const kvMsgs = await kvDrainInbox(stores, kv, inbox, consume);
+      const seen = new Set(envelopes.map((e) => `${e.from}:${e.seq}`));
+      for (const m of kvMsgs) {
+        const key = `${m.envelope.from}:${m.envelope.seq}`;
+        if (!seen.has(key)) {
+          seen.add(key);
+          envelopes.push(m.envelope);
+        }
+      }
+    }
     return { status: 200, body: { ok: true, messages: envelopes, count: envelopes.length } };
   }
 
