@@ -128,11 +128,92 @@ export interface MeshStores {
   rooms: Map<string, Map<string, PeerPresence>>;
   inboxes: Map<string, RelayMsg[]>;
   rate: Map<string, { count: number; resetAt: number }>;
+  kvWriteAt: Map<string, number>;
   now: () => number;
 }
 
 export function createMeshStores(now: () => number = Date.now): MeshStores {
-  return { rooms: new Map(), inboxes: new Map(), rate: new Map(), now };
+  return { rooms: new Map(), inboxes: new Map(), rate: new Map(), kvWriteAt: new Map(), now };
+}
+
+// ─── KV efímero cross-isolate (rendezvous; relay sigue solo-memoria) ───────
+// Solo hashes de sala + IDs efímeros. TTL corto, best-effort: si KV falla,
+// la memoria por isolate responde igual. Escritura throttled por sala para
+// no quemar el tier gratuito (1 write/30s/sala max).
+
+/** Interfaz mínima (KVNamespace de Workers la cumple estructuralmente). */
+export interface MeshKV {
+  get(key: string): Promise<string | null>;
+  put(key: string, value: string, opts?: { expirationTtl?: number }): Promise<void>;
+  list(opts: { prefix: string; limit?: number }): Promise<{ keys: Array<{ name: string }> }>;
+}
+
+export const KV_ROOM_PREFIX = "mesh:room:";
+export const KV_ROOM_TTL_S = 75;
+export const KV_WRITE_THROTTLE_MS = 30_000;
+
+interface KvRoomRecord {
+  peers: PeerPresence[];
+}
+
+function kvRoomKey(roomHash: string): string {
+  return `${KV_ROOM_PREFIX}${roomHash}`;
+}
+
+function parseKvRoom(raw: string | null, now: number): Map<string, PeerPresence> {
+  const peers = new Map<string, PeerPresence>();
+  if (!raw) return peers;
+  try {
+    const data = JSON.parse(raw) as KvRoomRecord;
+    if (!Array.isArray(data.peers)) return peers;
+    for (const p of data.peers) {
+      if (typeof p?.peerId === "string" && typeof p?.seenAt === "number" && typeof p?.expiresAt === "number" && p.expiresAt > now) {
+        const prev = peers.get(p.peerId);
+        if (!prev || p.seenAt > prev.seenAt) peers.set(p.peerId, p);
+      }
+    }
+  } catch {
+    /* registro corrupto → ignorar */
+  }
+  return peers;
+}
+
+function mergePeers(a: Map<string, PeerPresence>, b: Map<string, PeerPresence>): Map<string, PeerPresence> {
+  const out = new Map(a);
+  for (const [id, p] of b) {
+    const prev = out.get(id);
+    if (!prev || p.seenAt > prev.seenAt) out.set(id, p);
+  }
+  return out;
+}
+
+async function kvPersistRoom(stores: MeshStores, kv: MeshKV, roomHash: string): Promise<void> {
+  const now = stores.now();
+  const last = stores.kvWriteAt.get(roomHash) || 0;
+  if (now - last < KV_WRITE_THROTTLE_MS) return;
+  stores.kvWriteAt.set(roomHash, now);
+  try {
+    const mem = stores.rooms.get(roomHash) || new Map<string, PeerPresence>();
+    const remote = parseKvRoom(await kv.get(kvRoomKey(roomHash)), now);
+    const merged = mergePeers(mem, remote);
+    // Poda expirados antes de escribir (KV cobra por bytes).
+    for (const [id, p] of merged) {
+      if (p.expiresAt <= now) merged.delete(id);
+    }
+    if (merged.size === 0) return;
+    const record: KvRoomRecord = { peers: [...merged.values()].slice(0, MESH_MAX_PEERS_PER_ROOM) };
+    await kv.put(kvRoomKey(roomHash), JSON.stringify(record), { expirationTtl: KV_ROOM_TTL_S });
+  } catch {
+    /* KV caído → memoria sigue valiendo */
+  }
+}
+
+async function kvReadRoom(stores: MeshStores, kv: MeshKV, roomHash: string): Promise<Map<string, PeerPresence>> {
+  try {
+    return parseKvRoom(await kv.get(kvRoomKey(roomHash)), stores.now());
+  } catch {
+    return new Map();
+  }
 }
 
 /** Limpieza oportunista en cada request (sin timers → sin costo idle). */
@@ -203,7 +284,7 @@ async function readJsonBody(request: Request, maxChars: number): Promise<{ ok: t
   }
 }
 
-export async function routeMesh(request: Request, stores: MeshStores): Promise<MeshRouteResult | null> {
+export async function routeMesh(request: Request, stores: MeshStores, kv?: MeshKV | null): Promise<MeshRouteResult | null> {
   const url = new URL(request.url);
   if (!url.pathname.startsWith("/v1/mesh/")) return null;
   sweepMeshStores(stores);
@@ -220,6 +301,7 @@ export async function routeMesh(request: Request, stores: MeshStores): Promise<M
         ok: true,
         mode: "mesh-first",
         persistence: "none-ephemeral",
+        rendezvous: kv ? "kv-ephemeral" : "memory-ephemeral",
         rendezvous_ttl_s: MESH_RENDEZVOUS_TTL_S,
         relay_ttl_s: MESH_RELAY_TTL_S,
         rate_limit_per_min: MESH_RATE_LIMIT_PER_MIN,
@@ -249,6 +331,7 @@ export async function routeMesh(request: Request, stores: MeshStores): Promise<M
       return { status: 429, body: { error: "ROOM_FULL" } };
     }
     peers.set(peerId as string, { peerId: peerId as string, seenAt: now, expiresAt: now + ttlS * 1000 });
+    if (kv) await kvPersistRoom(stores, kv, roomHash as string);
     return { status: 200, body: { ok: true, expires_in_s: ttlS } };
   }
 
@@ -258,10 +341,12 @@ export async function routeMesh(request: Request, stores: MeshStores): Promise<M
     const prefix = url.searchParams.get("prefix") || "";
     if (room) {
       if (!isValidHash(room)) return { status: 400, body: { error: "INVALID_ROOM_HASH" } };
-      const peers = stores.rooms.get(room);
-      const list = peers
-        ? [...peers.values()].map((p) => ({ peer_id: p.peerId, seen_at: p.seenAt }))
-        : [];
+      const mem = stores.rooms.get(room) || new Map<string, PeerPresence>();
+      const merged = kv ? mergePeers(mem, await kvReadRoom(stores, kv, room)) : mem;
+      const now = stores.now();
+      const list = [...merged.values()]
+        .filter((p) => p.expiresAt > now)
+        .map((p) => ({ peer_id: p.peerId, seen_at: p.seenAt }));
       return { status: 200, body: { ok: true, room_hash: room, peers: list, count: list.length } };
     }
     if (prefix.length < 4 || prefix.length > 32 || !/^[a-z0-9_-]+$/i.test(prefix)) {
@@ -269,12 +354,35 @@ export async function routeMesh(request: Request, stores: MeshStores): Promise<M
     }
     const lower = prefix.toLowerCase();
     const rooms: Array<{ room_hash: string; peers: number; last_seen: number }> = [];
+    const seenRooms = new Set<string>();
+    const pushRoom = (hash: string, peers: Map<string, PeerPresence>) => {
+      if (seenRooms.has(hash) || rooms.length >= 20) return;
+      seenRooms.add(hash);
+      let lastSeen = 0;
+      let live = 0;
+      for (const p of peers.values()) {
+        if (p.expiresAt > stores.now()) {
+          live++;
+          lastSeen = Math.max(lastSeen, p.seenAt);
+        }
+      }
+      if (live > 0) rooms.push({ room_hash: hash, peers: live, last_seen: lastSeen });
+    };
     for (const [hash, peers] of stores.rooms) {
-      if (hash.toLowerCase().startsWith(lower)) {
-        let lastSeen = 0;
-        for (const p of peers.values()) lastSeen = Math.max(lastSeen, p.seenAt);
-        rooms.push({ room_hash: hash, peers: peers.size, last_seen: lastSeen });
-        if (rooms.length >= 20) break;
+      if (hash.toLowerCase().startsWith(lower)) pushRoom(hash, peers);
+    }
+    if (kv) {
+      try {
+        const listed = await kv.list({ prefix: KV_ROOM_PREFIX, limit: 100 });
+        for (const k of listed.keys) {
+          const hash = k.name.slice(KV_ROOM_PREFIX.length);
+          if (!hash.toLowerCase().startsWith(lower) || seenRooms.has(hash)) continue;
+          if (!isValidHash(hash)) continue;
+          pushRoom(hash, await kvReadRoom(stores, kv, hash));
+          if (rooms.length >= 20) break;
+        }
+      } catch {
+        /* KV caído → solo memoria */
       }
     }
     return { status: 200, body: { ok: true, rooms, count: rooms.length } };

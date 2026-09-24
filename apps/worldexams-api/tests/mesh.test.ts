@@ -5,6 +5,7 @@ import {
   containsForbiddenKeys,
   validateEnvelope,
   type MeshStores,
+  type MeshKV,
 } from "../src/mesh";
 
 function req(path: string, init?: RequestInit): Request {
@@ -103,5 +104,74 @@ describe("mesh health + rate limit", () => {
   it("retorna null fuera de /v1/mesh/*", async () => {
     const stores = createMeshStores();
     expect(await routeMesh(req("/v1/questions"), stores)).toBeNull();
+  });
+});
+
+/** Fake KV compartido: simula el namespace entre isolates. */
+function fakeKV(shared = new Map<string, string>()): MeshKV {
+  return {
+    async get(key: string) {
+      return shared.has(key) ? shared.get(key)! : null;
+    },
+    async put(key: string, value: string) {
+      shared.set(key, value);
+    },
+    async list(opts: { prefix: string; limit?: number }) {
+      const keys = [...shared.keys()]
+        .filter((k) => k.startsWith(opts.prefix))
+        .slice(0, opts.limit ?? 100)
+        .map((name) => ({ name }));
+      return { keys };
+    },
+  };
+}
+
+describe("mesh KV efímero cross-isolate", () => {
+  it("announce en isolate A → discover en isolate B lo ve", async () => {
+    const kv = fakeKV();
+    const room = "kvroom-cross-isolate-01";
+    const storesA = createMeshStores();
+    const ann = await routeMesh(jsonReq("/v1/mesh/announce", { room_hash: room, peer_id: "p_a" }), storesA, kv);
+    expect(ann?.status).toBe(200);
+
+    const storesB = createMeshStores(); // otro isolate: memoria vacía
+    const disc = await routeMesh(req(`/v1/mesh/discover?room=${room}`), storesB, kv);
+    expect(disc?.status).toBe(200);
+    expect((disc?.body.peers as unknown[]).length).toBe(1);
+  });
+
+  it("sin KV el discover cross-isolate no ve nada (documenta best-effort)", async () => {
+    const room = "kvroom-memory-only-01";
+    const storesA = createMeshStores();
+    await routeMesh(jsonReq("/v1/mesh/announce", { room_hash: room, peer_id: "p_a" }), storesA);
+    const storesB = createMeshStores();
+    const disc = await routeMesh(req(`/v1/mesh/discover?room=${room}`), storesB);
+    expect((disc?.body.peers as unknown[]).length).toBe(0);
+  });
+
+  it("KV caído no rompe announce/discover (fallback memoria)", async () => {
+    const deadKv: MeshKV = {
+      async get() {
+        throw new Error("kv down");
+      },
+      async put() {
+        throw new Error("kv down");
+      },
+      async list() {
+        throw new Error("kv down");
+      },
+    };
+    const room = "kvroom-dead-kv-01";
+    const stores = createMeshStores();
+    const ann = await routeMesh(jsonReq("/v1/mesh/announce", { room_hash: room, peer_id: "p_a" }), stores, deadKv);
+    expect(ann?.status).toBe(200);
+    const disc = await routeMesh(req(`/v1/mesh/discover?room=${room}`), stores, deadKv);
+    expect((disc?.body.peers as unknown[]).length).toBe(1);
+  });
+
+  it("health declara rendezvous kv-ephemeral con binding", async () => {
+    const stores = createMeshStores();
+    const res = await routeMesh(req("/v1/mesh/health"), stores, fakeKV());
+    expect(res?.body.rendezvous).toBe("kv-ephemeral");
   });
 });
