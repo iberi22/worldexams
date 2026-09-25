@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-29-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-25T21:57:44.664Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v1",
+      "statement": "Cuál es el astro central del sistema solar y el responsable principal de la gravedad que mantiene a los planetas en sus órbitas?",
+      "context": "Durante una salida pedagógica al Desierto de la Tatacoa (Huila), los estudiantes del Colegio Mayor de los Andes, en Neiva, participan en una jornada nocturna de astronomía con telescopios del observatorio local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Sol.",
+          "is_correct": true,
+          "feedback": "Correcto. El Sol concentra más del 99% de la masa del sistema solar y su gravedad domina las órbitas de los planetas, asteroides y cometas."
+        },
+        {
+          "letter": "B",
+          "text": "La Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Tierra es un planeta que orbita al Sol, no el centro gravitacional del sistema."
+        },
+        {
+          "letter": "C",
+          "text": "Júpiter.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque Júpiter es el planeta más masivo, su masa es apenas una milésima de la del Sol."
+        },
+        {
+          "letter": "D",
+          "text": "La Luna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Luna es un satélite natural de la Tierra y no tiene influencia gravitacional sobre todo el sistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Sol es la estrella central del sistema solar. Por la ley de gravitación universal de Newton, todo cuerpo con masa atrae a otro con una fuerza proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia. La enorme masa del Sol hace que su gravedad sea la fuerza dominante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v2",
+      "statement": "Por qué la masa de un cuerpo no cambia cuando se traslada de un lugar a otro en la Tierra, mientras que su peso puede variar levemente con la altitud y la latitud?",
+      "context": "En una práctica de laboratorio en el Colegio San Bartolomé de La Jagua, un estudiante de Neiva registra en una balanza digital una lectura constante sin importar la posición del objeto sobre el plato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la masa es la cantidad de materia y permanece constante; el peso depende de la aceleración gravitacional local.",
+          "is_correct": true,
+          "feedback": "Correcto. La masa es una propiedad intrínseca del cuerpo y no depende del lugar; el peso es una fuerza y varía con la gravedad local."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la balanza corrige automáticamente las diferencias de gravedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La balanza solo mide; no modifica las propiedades del objeto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la materia se evapora a distintas temperaturas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pérdida de materia por evaporación es despreciable y no explica la constancia de la masa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el peso solo se mide en otros planetas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso se mide en cualquier lugar donde exista un campo gravitacional, incluyendo la Tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La masa mide la cantidad de materia de un cuerpo y es invariante en cualquier punto del universo. El peso es la fuerza con que la gravedad atrae a ese cuerpo: P = m · g. Como g varía ligeramente con la altitud y la latitud, también varía el peso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v3",
+      "statement": "Cuál de los siguientes planetas del sistema solar es conocido como el \"planeta rojo\" por el óxido de hierro presente en su superficie?",
+      "context": "Una docente del Colegio Comfenalco de Neiva muestra a sus estudiantes fotografías de los planetas tomadas durante la noche de estrellas en el Desierto de la Tatacoa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marte.",
+          "is_correct": true,
+          "feedback": "Correcto. Marte debe su color rojizo al óxido de hierro (Fe₂O₃) que cubre gran parte de su superficie."
+        },
+        {
+          "letter": "B",
+          "text": "Venus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Venus tiene una atmósfera densa de CO₂ con nubes de ácido sulfúrico que le dan un color amarillento."
+        },
+        {
+          "letter": "C",
+          "text": "Mercurio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mercurio tiene una superficie gris similar a la Luna, sin óxidos rojos notables."
+        },
+        {
+          "letter": "D",
+          "text": "Saturno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saturno es un gigante gaseoso con tonos dorados y anillos, no una superficie oxidada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Marte recibe el apodo de \"planeta rojo\" por la abundancia de óxidos de hierro en su superficie. Su atmósfera tenue y rica en CO₂ permite observar este color incluso con telescopios pequeños desde la Tierra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v4",
+      "statement": "Si la aceleración gravitacional en Marte es aproximadamente 3,71 m/s² y un astronauta tiene una masa de 80 kg, cuál será su peso aproximado en la superficie marciana?",
+      "context": "En una misión simulada en el aula, los estudiantes del Instituto Técnico Industrial de Palmira calculan el peso de un astronauta de 80 kg en distintos cuerpos del sistema solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximadamente 297 N.",
+          "is_correct": true,
+          "feedback": "Correcto. P = m · g = 80 kg · 3,71 m/s² ≈ 296,8 N, que se redondea a ~297 N."
+        },
+        {
+          "letter": "B",
+          "text": "Aproximadamente 32 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 32 N corresponde al peso en la Luna, no en Marte (g ≈ 1,62 m/s²)."
+        },
+        {
+          "letter": "C",
+          "text": "Aproximadamente 785 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 785 N es el peso aproximado del astronauta en la Tierra (g ≈ 9,81 m/s²)."
+        },
+        {
+          "letter": "D",
+          "text": "Aproximadamente 0 N porque no hay gravedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marte sí posee gravedad, solo que es cerca del 38% de la terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El peso se calcula con la expresión P = m · g. Para 80 kg en Marte (g = 3,71 m/s²), el peso es ≈ 296,8 N. En la Tierra ese mismo astronauta pesaría ≈ 785 N y en la Luna ≈ 130 N.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v5",
+      "statement": "Aproximadamente cuánto tarda la luz del Sol en recorrer la distancia hasta la Tierra, considerando que la velocidad de la luz en el vacío es 3 · 10⁵ km/s y la distancia promedio es 1,5 · 10⁸ km?",
+      "context": "En la escuela rural de Aipe (Huila), un docente proyecta en el aula la distancia entre el Sol y la Tierra explicada durante la jornada de astronomía en la Tatacoa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unos 8 minutos.",
+          "is_correct": true,
+          "feedback": "Correcto. t = d / v = 1,5 · 10⁸ km / 3 · 10⁵ km/s ≈ 500 s ≈ 8,3 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "Un segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A esa velocidad, un segundo apenas recorrería 300.000 km, mucho menos de la distancia Sol-Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Una hora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una hora la luz recorre cerca de 1.080 millones de km, más de siete veces la distancia."
+        },
+        {
+          "letter": "D",
+          "text": "Inmediatamente, sin tardar nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la luz es muy rápida, el espacio es enorme y existe un tiempo de viaje finito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La luz del Sol tarda en promedio 8 minutos y 20 segundos en llegar a la Tierra. Por eso siempre vemos al Sol como era hace más de ocho minutos: cualquier variación importante en su superficie sería invisible para nosotros durante ese lapso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v6",
+      "statement": "Si un péndulo simple se llevara a un lugar con mayor aceleración gravitacional manteniendo la misma longitud de cuerda, qué ocurriría con su período de oscilación?",
+      "context": "Los guías del observatorio de la Tatacoa explican a un grupo de Bucaramanga cómo la gravedad terrestre hace que un péndulo simple oscile con un período determinado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El período disminuiría, porque el péndulo recuperaría su posición de equilibrio más rápido.",
+          "is_correct": true,
+          "feedback": "Correcto. El período T = 2π · √(L/g) es inversamente proporcional a la raíz cuadrada de g; si g aumenta, T disminuye."
+        },
+        {
+          "letter": "B",
+          "text": "El período aumentaría considerablemente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto ocurriría si la gravedad fuera menor, no mayor."
+        },
+        {
+          "letter": "C",
+          "text": "El período permanecería exactamente igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El período depende de la gravedad, así que cambiar g implica cambiar T."
+        },
+        {
+          "letter": "D",
+          "text": "El péndulo se detendría por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún cambio razonable de gravedad detiene la oscilación de un péndulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La expresión T = 2π · √(L/g) muestra que el período depende de la longitud L y de la gravedad g. Un péndulo oscila más rápido en Júpiter y más lento en la Luna, manteniendo la misma longitud.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v7",
+      "statement": "Qué condición orbital debe cumplir un satélite para permanecer aparentemente inmóvil sobre un punto fijo del ecuador terrestre, como ocurre con los satélites geoestacionarios que usan los canales de televisión?",
+      "context": "En una charla del Planetario de Bogotá se explica a estudiantes de la Institución Educativa Distrital Gustavo Restrepo cómo ciertos satélites se mantienen sobre un mismo punto del ecuador terrestre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orbitar con un período igual al de rotación de la Tierra (≈ 24 h) y en el plano ecuatorial.",
+          "is_correct": true,
+          "feedback": "Correcto. A unos 35.786 km de altitud, en órbita ecuatorial directa, el satélite gira a la misma velocidad angular que la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Permanecer estático fuera de la atmósfera sin moverse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un satélite en órbita nunca está detenido; se mueve por inercia y es atraído por la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "Orbitar a una altura fija de 100 km sobre el ecuador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A 100 km no se mantiene órbita estable y no coincide con la rotación terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "Girar en sentido contrario al de la Tierra para equilibrarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La órbita geoestacionaria es directa, en el mismo sentido de la rotación terrestre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un satélite geoestacionario tiene un período orbital igual al período de rotación de la Tierra (un día sidéreo ≈ 23 h 56 min) y órbita en el plano ecuatorial. Esto hace que desde la superficie parezca fijo sobre un punto del ecuador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v8",
+      "statement": "Cuál es la relación más plausible entre un aumento de temperatura nocturna en el Desierto de la Tatacoa y la calidad de la observación astronómica realizada por los visitantes?",
+      "context": "Durante la temporada seca en el Desierto de la Tatacoa, una guía de turismo astronómico nota que las noches son inusualmente calurosas y la observación con telescopio resulta menos nítida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor aumenta la turbulencia atmosférica y el vapor de agua, reduciendo la nitidez de las imágenes estelares.",
+          "is_correct": true,
+          "feedback": "Correcto. La atmósfera caliente genera turbulencia y refracción variable que degradan la observación astronómica, especialmente con telescopios."
+        },
+        {
+          "letter": "B",
+          "text": "El calor hace que las estrellas se vean mucho más grandes y brillantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El brillo aparente de las estrellas no depende de la temperatura del suelo cercano."
+        },
+        {
+          "letter": "C",
+          "text": "El calor transforma la composición química de las estrellas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrellas están a años luz y no reaccionan a la temperatura terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "El calor nocturno atrae nuevas estrellas al cielo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación estelar es un proceso de millones de años, no de horas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La atmósfera terrestre es el \"lente\" natural con el que observamos. Su calentamiento desigual causa turbulencia y corrimiento de imágenes. Por eso los grandes observatorios se ubican en sitios altos, secos y estables como la Tatacoa, el Desierto de Atacama o las islas Canarias.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v9",
+      "statement": "Por qué las estaciones del año en la Tierra se deben principalmente a la inclinación del eje terrestre y no a los cambios en la distancia al Sol?",
+      "context": "Una estudiante del Colegio Tolimense de Ibagué compara las estaciones del año en Bogotá con las observadas durante un intercambio escolar en Buenos Aires.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inclinación del eje (~23,5°) cambia el ángulo con que la radiación solar incide sobre cada hemisferio a lo largo del año.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el hemisferio sur se inclina hacia el Sol recibe más energía por unidad de área; el opuesto experimenta invierno."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la Tierra se aleja mucho del Sol en invierno y se acerca en verano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el hemisferio norte el invierno coincide con el perihelio (mayor cercanía al Sol), no con el afelio."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la Luna oculta parcialmente al Sol en cada estación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los eclipses lunares y solares son eventos puntuales y no causan las estaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la precipitación anual cambia la radiación absorbida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque afecta el clima, no es el origen astronómico de las estaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inclinación axial de la Tierra (~23,5°) hace que en distintas épocas del año los rayos solares incidan más perpendicularmente sobre un hemisferio que sobre el otro, generando las estaciones. La distancia Sol-Tierra solo varía alrededor de un 3% y su efecto es secundario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v10",
+      "statement": "Si un objeto con masa de 10 kg fuera trasladado primero a la superficie de la Luna y luego a la superficie de Júpiter, cuál es la relación de los pesos registrados en cada astro?",
+      "context": "Un profesor del Gimnasio Campestre de Chía compara la aceleración gravitacional de la Luna (1,62 m/s²) con la de Júpiter (24,79 m/s²) durante una clase sobre el sistema solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El peso en Júpiter es aproximadamente 15 veces el peso en la Luna.",
+          "is_correct": true,
+          "feedback": "Correcto. Peso en Luna = 10 · 1,62 ≈ 16,2 N; peso en Júpiter = 10 · 24,79 ≈ 247,9 N. La razón 247,9 / 16,2 ≈ 15,3."
+        },
+        {
+          "letter": "B",
+          "text": "El peso en Júpiter es igual al peso en la Luna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad de Júpiter es más de quince veces mayor que la lunar."
+        },
+        {
+          "letter": "C",
+          "text": "El peso en la Luna es mayor que en Júpiter.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad lunar es la menor entre los cuerpos mencionados."
+        },
+        {
+          "letter": "D",
+          "text": "El peso depende solo de la masa y no del astro donde se mida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso es fuerza y depende de la gravedad local; la masa sí es invariante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "P = m · g. Para 10 kg, en la Luna el peso es ≈ 16,2 N y en Júpiter ≈ 247,9 N. Júpiter es un gigante gaseoso con una gravedad superficial mucho mayor que la de los cuerpos rocosos pequeños como la Luna.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v11",
+      "statement": "Un visitante afirma que \"los rayos del Sol atraen a los planetas como si fueran hilos luminosos\". Evalúe esta idea a la luz de la gravitación universal.",
+      "context": "En una feria de ciencias del Colegio Rafael Uribe Uribe en Cali, un equipo de estudiantes presenta una maqueta donde cuerdas conectan a los planetas con el Sol para representar la gravedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta; la gravedad no se propaga como un rayo luminoso, sino como una fuerza instantánea a distancia modelada por F = G · m₁ · m₂ / r².",
+          "is_correct": true,
+          "feedback": "Correcto. La gravitación newtoniana es una interacción entre masas, no un haz de luz. Además, las ondas gravitacionales descritas por Einstein tardan en propagarse."
+        },
+        {
+          "letter": "B",
+          "text": "Es totalmente correcta y reproduce exactamente la física moderna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La física actual describe la gravedad como curvatura del espacio-tiempo, no como rayos."
+        },
+        {
+          "letter": "C",
+          "text": "Solo es válida para planetas cercanos al Sol, como Mercurio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La atracción gravitacional se aplica a todos los cuerpos del sistema solar por igual."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es indemostrable y debe dejarse sin evaluar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ciencia las afirmaciones se contrastan con modelos y evidencia; siempre se pueden evaluar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza de gravedad entre dos cuerpos se calcula con F = G · m₁ · m₂ / r². No depende de la luz. En relatividad general, además, la gravedad se interpreta como curvatura del espacio-tiempo, no como un \"rayo\" emitido por el astro central.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle-v12",
+      "statement": "Qué principio físico se demuestra mejor cuando un astronauta deja caer simultáneamente un martillo y una pluma en la Luna y ambos tocan el suelo al mismo tiempo?",
+      "context": "En la sala de proyecciones del Museo de la Ciencia de Bucaramanga se proyecta el video del astronauta David Scott, quien dejó caer un martillo y una pluma en la superficie lunar durante la misión Apolo XV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En ausencia de aire (resistencia aerodinámica), todos los cuerpos caen con la misma aceleración, independientemente de su masa.",
+          "is_correct": true,
+          "feedback": "Correcto. La pluma solo \"flota\" en la Tierra por la resistencia del aire; en el vacío lunar cae igual que el martillo."
+        },
+        {
+          "letter": "B",
+          "text": "Que la Luna carece completamente de masa y de gravedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Luna sí tiene masa; por eso atrae a los astronautas y mantiene orbitando la Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Que los astronautas pueden manipular directamente la gravedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los astronautas no pueden alterar la gravedad con sus manos; el experimento funcionó por la ausencia de atmósfera."
+        },
+        {
+          "letter": "D",
+          "text": "Que el resultado fue un truco de cámara grabado en la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento está documentado con telescopios y datos transmitidos desde la Luna."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Galileo propuso que en ausencia de resistencia del aire todos los cuerpos caen con la misma aceleración gravitacional. La Luna, al no tener atmósfera significativa, ofrece un vacío casi perfecto que reproduce idealmente el experimento de Galileo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W29-sistema-solar-gravedad-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
