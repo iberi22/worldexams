@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-25T21:57:44.663Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las gónadas que producen los gametos en el hombre y en la mujer?",
+      "context": "En una clase de biología del colegio Distrital República de Panamá, en Bogotá, la profesora explica los órganos que producen los gametos humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los testículos en el hombre y los ovarios en la mujer.",
+          "is_correct": true,
+          "feedback": "Correcto. Los testículos producen espermatozoides y los ovarios producen óvulos."
+        },
+        {
+          "letter": "B",
+          "text": "El epididimo en el hombre y la uretra en la mujer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El epididimo madura espermatozoides pero no es gonada; la uretra no produce gametos."
+        },
+        {
+          "letter": "C",
+          "text": "La próstata en el hombre y el útero en la mujer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La próstata secreta líquido seminal y el útero aloja al embrión, no producen gametos."
+        },
+        {
+          "letter": "D",
+          "text": "El pene en el hombre y la vagina en la mujer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estas son vías de paso de los gametos, no glándulas productoras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las gónadas humanas son los testículos (glándulas sexuales masculinas que fabrican espermatozoides y testosterona) y los ovarios (glándulas sexuales femeninas que producen óvulos, estrógenos y progesterona). Cualquier otra estructura mencionada solo participa en el transporte, maduración o sosten del embarazo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v2",
+      "statement": "A que se deben las características sexuales secundarias que aparecen durante la pubertad?",
+      "context": "En una valoracion de crecimiento y desarrollo en la ESE Hospital Local de Bosa, el equipo de enfermeria registra cambios físicos propios de la pubertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al aumento en la producción de hormonas sexuales como estrógenos y testosterona.",
+          "is_correct": true,
+          "feedback": "Correcto. Estas hormonas inducen los cambios físicos visibles de la pubertad."
+        },
+        {
+          "letter": "B",
+          "text": "A una mayor ingesta de proteinas durante la adolescencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alimentacion aporta nutrientes, pero no induce directamente los cambios sexuales."
+        },
+        {
+          "letter": "C",
+          "text": "A la disminucion de la producción de la hormona del crecimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La GH aumenta durante la pubertad; su caída no causa los caracteres sexuales."
+        },
+        {
+          "letter": "D",
+          "text": "A una mutación genética ocurrida después del nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las características son parte del desarrollo normal programado, no una mutación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pubertad se inicia por la activacion del eje hipotalamo-hipofisario-gonadal, que eleva la producción de estrógenos en mujeres y de testosterona en hombres. Dichas hormonas estimulan el desarrollo de caracteres sexuales secundarios como el vello púbico, el crecimiento mamario, el cambio de voz y la distribución de grasa corporal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v3",
+      "statement": "Cuál es la diferencia principal entre un espermatozoide y un óvulo humano?",
+      "context": "En el Laboratorio de Biología de la Institucion Educativa Leon de Greiff, en Medellín, se observan al microscopio muestras de gametos humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espermatozoide es una célula pequeña y móvil con flagelo; el óvulo es una célula grande, inmóvil y rica en reservas.",
+          "is_correct": true,
+          "feedback": "Correcto. Tamano, movilidad y reservas nutritivas son rasgos diferenciales clave."
+        },
+        {
+          "letter": "B",
+          "text": "El espermatozoide se produce en el útero y el óvulo en los pulmones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los espermatozoides se producen en los testículos y los óvulos en los ovarios."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos gametos tienen el mismo tamano y la misma movilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poseen características morfologicas y funcionales muy distintas."
+        },
+        {
+          "letter": "D",
+          "text": "El óvulo tiene flagelo y el espermatozoide es completamente inmóvil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al reves: el espermatozoide es quien tiene flagelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espermatozoide mide cerca de 50 micrometros, posee cabeza, pieza intermedia y cola flagelada que le da movilidad. El óvulo es una de las células más grandes del cuerpo, mide unos 100 micrometros y contiene citoplasma abundante con vitelo que nutre al embrión en sus primeras divisiones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v4",
+      "statement": "Una adolescente tiene un ciclo menstrual regular de 28 días y su última menstruación inició el día 1 del mes. Según el conocimiento del ciclo, cuál sería la franja de días más fertiles?",
+      "context": "En una consulta de planificación familiar en la ESE Centro de Salud de Siloé, en Cali, se orienta a una adolescente sobre el ciclo menstrual y los días fertiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alrededor de los días 12 a 16 del ciclo, próximos a la ovulación.",
+          "is_correct": true,
+          "feedback": "Correcto. En ciclos de 28 días la ovulación suele ocurrir el día 14."
+        },
+        {
+          "letter": "B",
+          "text": "Exactamente del día 1 al día 5 del ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos días corresponden a la menstruación, no al período fértil."
+        },
+        {
+          "letter": "C",
+          "text": "Del día 25 al día 28 del ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos días corresponden a la fase lútea tardía, ya no fértil."
+        },
+        {
+          "letter": "D",
+          "text": "Cualquier día del ciclo es igualmente fértil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una ventana corta por ciclo es realmente fértil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un ciclo de 28 días, la fase folicular va del día 1 al 13, la ovulación ocurre hacia el día 14 y la fase lútea del 15 al 28. La ventana fértil incluye los cinco días previos a la ovulación y el día de la ovulación, por la supervivencia espermatica de hasta cinco días en el tracto femenino.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v5",
+      "statement": "Cuál de los siguientes métodos anticonceptivos actúa como barrera física que impide el paso de los espermatozoides hacia el útero?",
+      "context": "En una feria de salud juvenil realizada por la Secretaría de Salud de Bucaramanga, se explican distintos métodos anticonceptivos a estudiantes de colegios públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El condón masculino de látex.",
+          "is_correct": true,
+          "feedback": "Correcto. El condón es una barrera mecánica que retiene los espermatozoides."
+        },
+        {
+          "letter": "B",
+          "text": "El dispositivo intrauterino liberador de cobre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El DIU es un método intrauterino que altera la fecundacion, no es barrera física."
+        },
+        {
+          "letter": "C",
+          "text": "El implante subdermico de progestageno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El implante actúa hormonalmente, no es barrera mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "La pídora anticonceptiva oral combinada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pídora combina estrógenos y progestagenos de forma hormonal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los métodos de barrera incluyen el condón masculino, el condón femenino, el diafragma y el capuchón cervical. Los métodos hormonales (pídora, inyectable, implante) actúan suprimiendo la ovulación. Los intrauterinos (DIU) generan un ambiente hostil en el endometrio. Cada familia tiene mecanismo, eficacia y cuidados propios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v6",
+      "statement": "Cuál de las siguientes prácticas es la más efectiva para reducir el riesgo de adquirir una infección de transmisión sexual durante una relación sexual?",
+      "context": "En una charla del programa \"Salud al Colegio\" en Barranquilla, se habla a los estudiantes de noveno grado sobre infecciones de transmisión sexual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso correcto y consistente del condón desde el inicio del contacto sexual.",
+          "is_correct": true,
+          "feedback": "Correcto. El condón, bien usado, reduce significativamente el riesgo de ITS."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar un lavado vaginal profundo después de cada relación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las duchas vaginales no previenen ITS y pueden alterar la flora."
+        },
+        {
+          "letter": "C",
+          "text": "Tomar antibióticos de forma preventiva después de cada relación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso indiscriminado de antibióticos no previene ITS y genera resistencia."
+        },
+        {
+          "letter": "D",
+          "text": "Usar anticonceptivos hormonales orales como método único de protección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hormonales no protegen frente a virus ni bacterias de transmisión sexual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los métodos hormonales previenen embarazos pero no infecciones. El condón de látex, usado de principio a fin, es la principal barrera contra el VIH, hepatitis B, clamidia, gonorrea y otras ITS. La combinación de condón con método hormonal se llama doble protección y es la recomendación de salud pública.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v7",
+      "statement": "Según datos de salud pública, el embarazo en la adolescencia es un tema prioritario en Colombia principalmente porque:",
+      "context": "En una jornada de \"Generación F\" en el SENA de Medellín, se discute la tasa de embarazo adolescente reportada por el DANE en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la deserción escolar, perpetua la pobreza y eleva el riesgo de complicaciones obstetricas.",
+          "is_correct": true,
+          "feedback": "Correcto. El embarazo temprano vulnera derechos y tiene riesgos médicos."
+        },
+        {
+          "letter": "B",
+          "text": "Incrementa el ingreso economico promedio de los hogares colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El embarazo adolescente suele asociarse a menor ingreso, no a mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce por completo el riesgo de infecciones de transmisión sexual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe relación de protección frente a ITS asociada al embarazo."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuye la necesidad de programas de educación sexual en las instituciones educativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumenta la urgencia de fortalecer la educación sexual integral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia reportaba alrededor de 100.000 embarazos anuales en menores de 19 años. El fenómeno se asocia con deserción escolar, mayor mortalidad materna, complicaciones obstetricas y reproduccion intergeneracional de la pobreza. Por ello el Plan Nacional de Desarrollo incluye la prevención del embarazo adolescente como meta prioritaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v8",
+      "statement": "Una gráfica muestra la curva de estrógenos y progesterona durante 28 días. El pico de estrógenos precede en 24 horas al pico de la hormona luteinizante. Qué representa este patrón?",
+      "context": "En un taller de ciencia en el Colegio San Juan Eudes de Palmira, se muestra una gráfica con la concentracion plasmatica de hormonas durante un ciclo menstrual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La inducción de la ovulación por el pico estrogenico y la descarga de LH.",
+          "is_correct": true,
+          "feedback": "Correcto. El estradiol elevado dispara la descarga de LH que rompe el folículo."
+        },
+        {
+          "letter": "B",
+          "text": "Una falla hipofisaria que impide la fecundacion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El patrón es el esperado, no representa falla hipofisaria."
+        },
+        {
+          "letter": "C",
+          "text": "El inicio inmediato de la menstruación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La menstruación ocurre días después, no por el pico estrogenico."
+        },
+        {
+          "letter": "D",
+          "text": "La anovulacion crónica propia de la menopausia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la menopausia hay ausencia de picos, no picos coordinados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estradiol producido por el folículo de Graaf en maduración estimula la hipófisis para liberar una descarga de LH. Esa descarga desencadena la ruptura del folículo y la liberacion del óvulo unas 24 a 36 horas después. La progesterona, producida luego por el cuerpo luteo, prepara el endometrio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v9",
+      "statement": "Una adolescente de 16 años desea un método anticonceptivo de larga duración, reversible y sin intervención hormonal sistémica. Cuál es la opción más adecuada entre las siguientes?",
+      "context": "En un consultorio de la IPS Sura de Pereira, una adolescente de 16 años consulta por elección de método anticonceptivo y se le presentan opciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dispositivo intrauterino de cobre (DIU TCu380A).",
+          "is_correct": true,
+          "feedback": "Correcto. El DIU de cobre dura hasta 10 años, es reversible y no usa hormonas."
+        },
+        {
+          "letter": "B",
+          "text": "El implante subdermico de etonogestrel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es de larga duración pero si libera hormona sistémica."
+        },
+        {
+          "letter": "C",
+          "text": "La pídora anticonceptiva oral combinada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es hormonal sistémica y requiere toma diaria."
+        },
+        {
+          "letter": "D",
+          "text": "El acetato de medroxiprogesterona inyectable trimestral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es hormonal sistémica de aplicacion trimestral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El DIU TCu380A es un método no hormonal que actúa generando una reacción espermicida local por la presencia del cobre. Tiene una eficacia superior al 99 por ciento, duración de hasta 10 años y recuperacion inmediata de la fertilidad al retirarlo. Es recomendado por la OMS como método de primera linea en adolescentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v10",
+      "statement": "Cuál de las siguientes situaciones, analizadas en conjunto, explica mejor el embarazo no deseado en esta adolescente?",
+      "context": "En la Comisaria Tercera de Familia de Cali se analiza un caso de embarazo no deseado en una adolescente de 14 años del barrio Mojica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ausencia de educación sexual integral, desconocimiento de métodos y presión de pareja.",
+          "is_correct": true,
+          "feedback": "Correcto. Son factores determinantes estructural y conductualmente."
+        },
+        {
+          "letter": "B",
+          "text": "Consumo excesivo de frutas citricas y clima calido del Valle del Cauca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dieta y el clima no causan embarazos."
+        },
+        {
+          "letter": "C",
+          "text": "Predisposición genética a la hiperovulación múltiple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hiperovulación múltiple es rara y no explica el fenómeno."
+        },
+        {
+          "letter": "D",
+          "text": "Deficiencia de vitamina D por baja exposicion solar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina D no tiene relación causal con el embarazo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La interseccion de inicio sexual temprano, falta de información veraz, baja percepcion de riesgo, escasos recursos para acceder a métodos y normas sociales de género que presionan a las mujeres son los principales determinantes del embarazo adolescente. Por eso la respuesta es estructural y educativa, no biológica ni climatica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v11",
+      "statement": "Cuál es la medida más efectiva para juzgar si la campaña \"Decidir es poder\" realmente redujo el embarazo adolescente en Manizales?",
+      "context": "La Secretaría de Educacion de Manizales evalúa la campaña municipal de prevención del embarazo adolescente con el lema \"Decidir es poder\" implementada en colegios públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparar la tasa de embarazos en adolescentes antes y después de la campaña, controlando por cohorte.",
+          "is_correct": true,
+          "feedback": "Correcto. El indicador epidemiológico clave es la tasa específica de fecundidad adolescente."
+        },
+        {
+          "letter": "B",
+          "text": "Contar el número de carteleras instaladas en los colegios públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de piezas gráficas no mide el impacto real."
+        },
+        {
+          "letter": "C",
+          "text": "Medir el color de las paredes donde se pegaron los afiches.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estética no evalúa la eficacia de la intervención."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar a los profesores si les gusto la campaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La percepcion docente no es un indicador de impacto en salud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación de una intervención de salud pública requiere indicadores comparables: tasas de fecundidad adolescente por cada 1.000 mujeres de 15 a 19 años, antes y después de la campaña, idealmente con grupo control o análisis de tendencia interrumpida. Sin medir resultados en conducta y desenlace biológico, no se puede afirmar eficacia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle-v12",
+      "statement": "De las siguientes opciones, ¿cuál es la política con mayor evidencia científica internacional para reducir el embarazo adolescente y las infecciones de transmisión sexual?",
+      "context": "Un grupo de docentes de Neiva discute la política nacional de educación sexual integral y debe priorizar la estrategia con mayor evidencia de impacto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Programas escolares de educación sexual integral basada en evidencia, con perspectiva de derechos y género.",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia internacional respalda esta estrategia integral y sostenida."
+        },
+        {
+          "letter": "B",
+          "text": "Campanas de television con frases impactantes en horario prime.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las piezas de television aisladas tienen impacto limitado."
+        },
+        {
+          "letter": "C",
+          "text": "Distribucion gratuita de dulces en las puertas de los colegios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alimentacion no es una intervención de salud sexual."
+        },
+        {
+          "letter": "D",
+          "text": "Castigo público a las adolescentes embarazadas en redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estigmatizacion vulnera derechos y no reduce el problema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La OMS recomienda programas escolares de educación sexual integral, con contenidos científicos, perspectiva de género, habilidades para la vida y acceso a servicios amigables de salud. Estos programas, cuando son sostenidos, reducen tanto embarazos no deseados como ITS, mientras que las intervenciones punitivas o aisladas no tienen impacto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W26-reproduccion-humana-sexualidad-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

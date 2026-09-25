@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-30-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-25T21:57:44.665Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v1",
+      "statement": "Cuál de los siguientes ejemplos corresponde a una máquina simple utilizada tradicionalmente en las fincas cafeteras colombianas?",
+      "context": "En una finca cafetera del municipio de Montenegro (Quindío), los estudiantes del Colegio Robledo observan las herramientas que usan los recolectores durante la cosecha principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pala con la que se recoge el café maduro del suelo.",
+          "is_correct": true,
+          "feedback": "Correcto. La pala funciona como una combinación de cuña y palanca, una de las máquinas simples clásicas."
+        },
+        {
+          "letter": "B",
+          "text": "La cosechadora mecánica automatizada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cosechadora es una máquina compleja compuesta de muchas piezas, motores y mecanismos."
+        },
+        {
+          "letter": "C",
+          "text": "El tractor que mueve el café hacia el beneficiadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tractor es un vehículo con motor de combustión interna, no una máquina simple."
+        },
+        {
+          "letter": "D",
+          "text": "El motor eléctrico del despulpador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El motor eléctrico es una máquina compleja y energiza el sistema, pero no es una máquina simple."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las seis máquinas simples clásicas son: palanca, polea, plano inclinado, rueda, cuña y tornillo. La pala combina una cuña (para penetrar el suelo) con una palanca (para levantar el material), y por tanto es una máquina simple.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v2",
+      "statement": "Qué se entiende por \"ventaja mecánica\" de una máquina simple como una carretilla o una palanca usada para cargar bultos de café?",
+      "context": "En el taller de mantenimiento del Colegio Técnico Agropecuario de Caicedonia, el docente explica a los alumnos de octavo grado el concepto de ventaja mecánica de las herramientas agrícolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La razón entre la fuerza de carga levantada y la fuerza de esfuerzo aplicada por la persona.",
+          "is_correct": true,
+          "feedback": "Correcto. La ventaja mecánica (VM) compara la fuerza de salida con la de entrada y nos dice cuánto se multiplica el esfuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "La velocidad con la que se desplaza el objeto cargado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad depende del esfuerzo aplicado, no define la ventaja mecánica."
+        },
+        {
+          "letter": "C",
+          "text": "El precio comercial de la herramienta en pesos colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo económico no guarda relación directa con la ventaja mecánica."
+        },
+        {
+          "letter": "D",
+          "text": "La masa del cuerpo sobre el cual actúa la máquina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa se relaciona con la fuerza pero la VM es una comparación de fuerzas, no de masas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ventaja mecánica (VM) se calcula como: VM = fuerza de carga / fuerza de esfuerzo. Una carretilla de VM = 3 permite levantar tres veces más carga con el mismo esfuerzo, aunque recorriendo tres veces menos altura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v3",
+      "statement": "Qué tipo de polea solo cambia la dirección de la fuerza aplicada, sin reducir el esfuerzo necesario para elevar la carga?",
+      "context": "En un trapiche panelero de la vereda de Susa (Santander), el propietario describe a los visitantes cómo eleva los bultos de caña hacia la tolva del molino durante la molienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polea fija.",
+          "is_correct": true,
+          "feedback": "Correcto. La polea fija tiene VM = 1: permite tirar hacia abajo para subir la carga, pero no reduce el esfuerzo."
+        },
+        {
+          "letter": "B",
+          "text": "Polea móvil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polea móvil tiene VM = 2 y reduce el esfuerzo a la mitad, pero requiere sostener la cuerda con fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Aparejo potencial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un aparejo combina poleas fijas y móviles y reduce mucho el esfuerzo, no solo cambia la dirección."
+        },
+        {
+          "letter": "D",
+          "text": "Torno de engranajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El torno es un sistema de eje con manivela, no es propiamente una polea simple."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polea fija solo invierte el sentido de la fuerza: si tiramos hacia abajo, la carga sube, pero el peso sentido es igual al peso de la carga. La polea móvil (o un aparejo) reparte la carga y reduce el esfuerzo aplicado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v4",
+      "statement": "Si el brazo de esfuerzo mide 25 cm y el brazo de carga mide 75 cm en una palanca de primer género, cuál es su ventaja mecánica teórica despreciando la fricción?",
+      "context": "En el molino del trapiche de la Hacienda San José (Moniquirá, Boyacá), las palancas que accionan la rueda tienen el fulcro (punto de apoyo) a 25 cm de la mano del operario y a 75 cm de la muela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.",
+          "is_correct": true,
+          "feedback": "Correcto. VM = brazo de carga / brazo de esfuerzo = 75 cm / 25 cm = 3; la fuerza aplicada se multiplica por 3."
+        },
+        {
+          "letter": "B",
+          "text": "0,33.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este valor corresponde a la inversa de la ventaja mecánica, no a ella misma."
+        },
+        {
+          "letter": "C",
+          "text": "50.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el producto de los brazos, no una relación de fuerzas."
+        },
+        {
+          "letter": "D",
+          "text": "100.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equivale a sumar los dos brazos, sin relación con la ventaja mecánica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ventaja mecánica de una palanca se calcula como VM = brazo de carga (b₂) dividido entre el brazo de esfuerzo (b₁). En este caso VM = 75 / 25 = 3, es decir, con una fuerza de 100 N en la mano se obtiene 300 N en la muela del trapiche.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v5",
+      "statement": "Para subir un bulto de café al camión utilizan una rampa de 3 m de largo por 1 m de alto. Qué tipo de máquina simple están usando y por qué les facilita el trabajo?",
+      "context": "En la Cooperativa de Caficultores de Andes (Antioquia), los operarios usan una rampa de madera para subir bultos de café pergamino de 70 kg al camión que los transportará al mercado de Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plano inclinado, porque reduce la fuerza necesaria aumentando la distancia recorrida.",
+          "is_correct": true,
+          "feedback": "Correcto. La rampa es un plano inclinado: con 3 m de longitud para subir 1 m se necesita solo un tercio de la fuerza de levantamiento vertical."
+        },
+        {
+          "letter": "B",
+          "text": "Polea, porque cambia el sentido de la fuerza aplicada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una polea usa una cuerda y una rueda; no es lo que se usa aquí."
+        },
+        {
+          "letter": "C",
+          "text": "Palanca, porque el operario hace fuerza sobre un brazo largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palanca usa un punto de apoyo fijo, no una superficie inclinada."
+        },
+        {
+          "letter": "D",
+          "text": "Rueda, porque el bulto rueda sobre el camión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rueda por sí sola no carga el bulto hasta el camión sin un eje u otra máquina que la impulse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plano inclinado es una máquina simple que reduce la fuerza necesaria para subir una carga a una altura fija, a cambio de recorrer una distancia mayor. Por eso las cargas pesadas se llevan por rampas en vez de levantarse verticalmente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v6",
+      "statement": "Si la palanca del trapiche tiene una ventaja mecánica de 4 y el operario aplica una fuerza de 200 N en el extremo del brazo de esfuerzo, qué fuerza se transmite a la caña que será molida?",
+      "context": "En el área de molienda del trapiche de Barbosa (Santander), el operario empuja el extremo de una palanca con 200 N y la caña recibe una fuerza mucho mayor en la muela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "800 N.",
+          "is_correct": true,
+          "feedback": "Correcto. Fuerza de salida = VM · fuerza de entrada = 4 · 200 N = 800 N."
+        },
+        {
+          "letter": "B",
+          "text": "50 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 N sería el resultado de dividir 200 entre 4, no de multiplicar por la VM."
+        },
+        {
+          "letter": "C",
+          "text": "200 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor sería la fuerza de entrada, no la de salida amplificada."
+        },
+        {
+          "letter": "D",
+          "text": "4 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 N no corresponde a ninguna operación relevante con VM = 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fórmula simplificada es F_salida = VM · F_entrada. Con VM = 4 y F_entrada = 200 N, la fuerza resultante sobre la caña es 800 N. Esta amplificación es útil para moler la caña con menor esfuerzo muscular del operario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v7",
+      "statement": "Una polea móvil, idealmente, en qué porcentaje reduce la fuerza necesaria para elevar la carga en comparación con levantarla directamente?",
+      "context": "En una finca panelera de San Gil (Santander), un trabajador instala una polea móvil con una cuerda para subir bultos de panela de 50 kg desde el patio hasta el segundo piso del depósito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reduce a la mitad (50%), por lo que su ventaja mecánica es 2.",
+          "is_correct": true,
+          "feedback": "Correcto. En una polea móvil ideal, VM = 2 y solo se requiere la mitad de la fuerza de la carga para sostenerla."
+        },
+        {
+          "letter": "B",
+          "text": "La mantiene igual, sin reducción alguna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a la polea fija, no a la móvil."
+        },
+        {
+          "letter": "C",
+          "text": "La reduce a una cuarta parte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducir a la cuarta parte sería VM = 4, propio de aparejos con varias poleas."
+        },
+        {
+          "letter": "D",
+          "text": "La duplica, exigiendo el doble de fuerza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La polea móvil nunca aumenta el esfuerzo; lo reduce o, como mínimo, lo iguala."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polea móvil tiene VM = 2: la carga se reparte entre los dos segmentos de cuerda que la sostienen. En la práctica, hay pérdidas por fricción y peso de la polea, así que la VM real es ligeramente menor que 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v8",
+      "statement": "Por qué las tijeras de podar de mango largo permiten cortar ramas más gruesas con menor esfuerzo del operario que las tijeras cortas tradicionales?",
+      "context": "En la finca cafetera La Esperanza de Pácora (Caldas), los recolectores usan tijeras de podar de mango largo para cortar las ramas de los cafetos, mientras que sus abuelos usaban tijeras cortas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las tijeras largas son palancas de primer género con brazo de esfuerzo mayor que el brazo de carga, lo que da VM > 1.",
+          "is_correct": true,
+          "feedback": "Correcto. Al alargar el brazo donde aplica la mano y mantener corto el filo, la VM aumenta y la fuerza sobre la rama se multiplica."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las tijeras largas son más pesadas y aprovechan su peso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso extra solo añade carga al operario, no aumenta la VM."
+        },
+        {
+          "letter": "C",
+          "text": "Porque eliminan por completo la fricción del corte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción en el corte es inevitable; lo que cambia es la fuerza aplicada."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cambian el filo por una hoja más afilada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afiladura ayuda pero no explica por sí sola el cambio de esfuerzo entre tijeras largas y cortas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tijera es una palanca de primer género doble. La distancia entre la mano y el fulcro (brazo de esfuerzo) frente a la distancia del fulcro al corte (brazo de carga) determina la VM. Mangos más largos implican VM mayor y menor fuerza necesaria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v9",
+      "statement": "Qué principio físico explica por qué una rampa más larga, con menor pendiente, requiere menos fuerza para subir la misma carga a la misma altura?",
+      "context": "En un beneficiadero de café del municipio de Santuario (Risaralda), el administrador sustituye una rampa corta por una rampa más larga pero menos empinada para subir los bultos al camión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conservación del trabajo: al aumentar la distancia, la fuerza necesaria disminuye proporcionalmente.",
+          "is_correct": true,
+          "feedback": "Correcto. En ausencia de fricción, W = F · d es constante; si d crece al doble, F se reduce a la mitad."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de que las superficies largas siempre tienen menos fricción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción depende del material, no de la longitud de la rampa."
+        },
+        {
+          "letter": "C",
+          "text": "La ley de Hooke sobre resortes y gomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta ley aplica a cuerpos elásticos, no a planos inclinados."
+        },
+        {
+          "letter": "D",
+          "text": "La tercera ley de Newton aplicada a la superficie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción y reacción explica fuerzas entre cuerpos en contacto, no la relación fuerza-distancia de la rampa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un plano inclinado ideal, el trabajo total (fuerza por distancia) se conserva. Al alargar la rampa, la distancia recorrida aumenta y, en consecuencia, la fuerza necesaria para la misma elevación disminuye. La fricción introduce pérdidas adicionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v10",
+      "statement": "En ausencia de fricción, qué magnitud conservan en común los tres métodos para subir el mismo bulto a la misma altura?",
+      "context": "Un ingeniero agrónomo del Comité de Cafeteros de Caldas compara tres alternativas para subir un bulto de 60 kg al camión: levantarlo en vertical, empujarlo por una rampa o usar una polea móvil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trabajo mecánico (fuerza por distancia recorrida).",
+          "is_correct": true,
+          "feedback": "Correcto. Sin fricción, el trabajo requerido para levantar la carga a una altura fija es el mismo en los tres casos."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente la fuerza aplicada por el operario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza varía mucho entre los métodos, no se conserva."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad de elevación del bulto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad depende del ritmo del operario, no se conserva necesariamente."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de calor transferido al ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin fricción no hay calor por disipación, así que no se conserva esa magnitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio de conservación de la energía indica que, en ausencia de fricción, el trabajo W = F · d para llevar una masa a una altura h es el mismo (W = m · g · h), independientemente de la máquina simple usada. Cambian la fuerza y la distancia, pero no el producto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v11",
+      "statement": "Cuál de las siguientes propuestas aprovecha mejor los principios de las máquinas simples para reducir el esfuerzo físico de los caficultores al cargar bultos al camión?",
+      "context": "El gerente de la Cooperativa de Caficultores de Salamina (Caldas) busca una solución de bajo costo para que los asociados suban bultos de 70 kg al camión con menor esfuerzo físico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instalar una rampa de pendiente suave, con superficie lisa y barandas de seguridad en el sitio de carga.",
+          "is_correct": true,
+          "feedback": "Correcto. Una rampa suave y lisa actúa como plano inclinado eficiente: reduce la fuerza necesaria a cambio de mayor distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Contratar más jornaleros para que carguen en parejas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más personal no aplica ninguna máquina simple; solo distribuye la carga humana."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar el peso de cada bulto para usar menos viajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar el peso incrementa la fuerza necesaria, lo opuesto al objetivo."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar las rampas y exigir levantamientos verticales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto aumenta el esfuerzo y el riesgo de lesiones para los operarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El plano inclinado es la máquina simple más sencilla para reducir el esfuerzo al elevar cargas a una altura fija, siempre que se minimice la fricción. Una rampa con superficie lisa y pendiente suave es eficiente, económica y de bajo mantenimiento para fincas cafeteras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle-v12",
+      "statement": "Evalúe la propuesta de sustituir las palancas manuales por cilindros hidráulicos desde la perspectiva de las máquinas simples y los principios físicos involucrados.",
+      "context": "Un proveedor de equipos para trapiches en Barbosa (Santander) propone a los propietarios reemplazar las palancas manuales del molino por cilindros hidráulicos automatizados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es técnicamente viable porque las máquinas complejas (hidráulicas) son combinaciones de máquinas simples, pero se debe analizar el costo, el consumo energético y el mantenimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La hidráulica combina palancas, planos y cilindros como multiplicadores de fuerza, pero requiere energía externa y mantenimiento."
+        },
+        {
+          "letter": "B",
+          "text": "No es viable bajo ningún aspecto, ni técnico ni económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cilindros hidráulicos son viables técnicamente; el análisis debe considerar factores económicos y operativos."
+        },
+        {
+          "letter": "C",
+          "text": "Las palancas manuales no son verdaderas máquinas simples, así que cualquier cambio es irrelevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palancas son máquinas simples básicas, no se invalida el análisis por incluirlas."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir máquinas simples por complejas siempre reduce la eficiencia del trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las máquinas complejas pueden ser más eficientes cuando la fuerza requerida supera la capacidad humana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las máquinas complejas (como sistemas hidráulicos) son combinaciones de máquinas simples. Pueden multiplicar la fuerza mucho más allá de lo que logra una palanca, pero consumen energía externa y requieren mantenimiento. La decisión técnica debe sopesar esfuerzo, energía, costo y contexto rural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W30-maquinas-simples-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
