@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-23-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-25T21:57:44.662Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de enlace químico une a los átomos de sodio (Na) y cloro (Cl) en la sal de mesa que se extrae en Zipaquirá?",
+      "context": "En las minas de sal de Zipaquirá, Cundinamarca, los trabajadores extraen halita (cloruro de sodio, NaCl) que es la misma sal que se consume en los hogares colombianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace iónico, formado por la transferencia de un electrón del sodio al cloro.",
+          "is_correct": true,
+          "feedback": "Correcto. El sodio cede su electrón de valencia al cloro, formando los iones Na+ y Cl- que se atraen eléctricamente en un enlace iónico."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente, donde los átomos de sodio y cloro comparten un par de electrones por igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace covalente implica compartir electrones, pero el sodio y el cloro tienen electronegatividades muy distintas que favorecen la transferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace metálico, formando una estructura compacta de cationes rodeados de electrones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico ocurre entre átomos de un mismo metal o aleación, no entre un metal y un no metal como el sodio y el cloro."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace de hidrógeno, basado en la atracción entre moléculas de agua y el cristal de sal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace de hidrógeno es una fuerza intermolecular, no el enlace interno que mantiene unidos a los iones en el cristal de NaCl."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sal de mesa o cloruro de sodio (NaCl) está formada por un enlace iónico entre un metal alcalino (sodio) y un no metal (cloro). El sodio cede su único electrón de valencia al cloro, generando los iones Na+ y Cl- que se organizan en una red cristalina tridimensional. En las minas de Zipaquirá se obtiene halita natural, la cual se usa en la cocina, en la industria química y en la eliminación de hielo en vías colombianas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de enlace químico mantiene unidos a los átomos de hidrógeno y oxígeno dentro de una molécula de agua (H₂O)?",
+      "context": "En el acueducto de Bogotá se trata el agua del río Bogotá y del páramo de Sumapaz para que llegue apta al consumo humano en los hogares de la capital colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace covalente polar, en el que los electrones se comparten pero son atraídos con mayor fuerza por el oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcto. El oxígeno es más electronegativo que el hidrógeno, por lo que los electrones compartidos pasan más tiempo cerca del oxígeno, generando una molécula polar."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace iónico, en el que el hidrógeno cede electrones al oxígeno formando iones H+ y O2-.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el agua no ocurre una transferencia completa de electrones sino un compartimiento desigual, característico del enlace covalente polar."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace metálico, donde los átomos forman una red de cationes rodeados por electrones libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico solo se presenta en metales y aleaciones, no en moléculas como el agua que contienen no metales."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace de hidrógeno intermolecular, que mantiene unidos a los átomos dentro de la molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace o puente de hidrógeno es una fuerza intermolecular entre moléculas de agua, no el enlace que une los átomos dentro de la molécula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La molécula de agua (H₂O) presenta enlaces covalentes polares entre el oxígeno y cada hidrógeno. La diferencia de electronegatividad (3,44 para el oxígeno y 2,20 para el hidrógeno) hace que los electrones compartidos pasen más tiempo cerca del oxígeno, generando polos negativos y positivos. Esta polaridad es responsable de muchas propiedades del agua como su alto punto de ebullición, su capacidad disolvente y su tensión superficial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de enlace químico explica las propiedades del aluminio que permiten usarlo para fabricar ollas de cocina livianas y conductoras de calor?",
+      "context": "En las cocinas tradicionales del Valle del Cauca, las ollas más comunes para cocinar el sancocho y el arroz son las de aluminio por ser livianas y conducir bien el calor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlace metálico, donde los átomos de aluminio comparten electrones en un mar de electrones libres.",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace metálico forma una red con electrones deslocalizados que explican la conductividad eléctrica y térmica, además de la maleabilidad del aluminio."
+        },
+        {
+          "letter": "B",
+          "text": "Enlace covalente, donde los átomos de aluminio comparten pares de electrones con átomos vecinos de forma localizada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aluminio no forma enlaces covalentes localizados sino un enlace metálico con electrones libres que se mueven por toda la estructura."
+        },
+        {
+          "letter": "C",
+          "text": "Enlace iónico, donde los iones de aluminio se unen a iones negativos formando un cristal frágil y no conductor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aluminio metálico no forma enlaces iónicos internos; el óxido de aluminio sí es iónico pero es un compuesto diferente al metal."
+        },
+        {
+          "letter": "D",
+          "text": "Enlace de hidrógeno, basado en la atracción entre los átomos de aluminio y el oxígeno del aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace de hidrógeno no participa en la estructura interna del aluminio metálico, solo ocurre entre moléculas que contienen hidrógeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aluminio metálico se caracteriza por un enlace metálico en el que los átomos ceden sus electrones de valencia formando un mar de electrones deslocalizados. Estos electrones libres son responsables de que el aluminio sea un excelente conductor de calor y electricidad, sea maleable y dúctil, lo cual permite laminarlo en láminas delgadas para fabricar ollas, papel aluminio y envases. Colombia importa aluminio para producir utensilios de cocina que se comercializan en ciudades como Cali, Bogotá y Medellín.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la sal de mesa (NaCl) se disuelve fácilmente en agua formando una disolución que conduce la corriente eléctrica?",
+      "context": "En el laboratorio de química del colegio de Tocancipá, cerca de las minas de sal de Zipaquirá, los estudiantes disuelven sal común en agua y observan cómo el sólido cristalino desaparece formando una disolución transparente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua es polar y separa los iones Na+ y Cl- de la red cristalina, quedando libres para conducir la corriente.",
+          "is_correct": true,
+          "feedback": "Correcto. Las moléculas polares del agua rodean los iones y los separan de la red iónica, permitiendo que se muevan y conduzcan la electricidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la sal se evapora al contacto con el agua y sus gases conducen la corriente eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal no se evapora al disolverse en agua; se disocia en iones que permanecen en la disolución."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua destruye los enlaces iónicos y forma enlaces metálicos entre los iones disueltos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no transforma los iones en átomos metálicos; simplemente los separa del cristal y los mantiene hidratados."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sal y el agua forman una mezcla homogénea sin que ocurra ningún cambio en sus enlaces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí ocurre un cambio importante: los enlaces iónicos de la sal se rompen parcialmente para liberar iones que pueden conducir la corriente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el cloruro de sodio se disuelve en agua, los iones Na+ y Cl- son separados de la red cristalina porque las moléculas polares del agua los hidratan: el polo negativo del agua (oxígeno) rodea al Na+ y el polo positivo (hidrógeno) rodea al Cl-. Una vez libres, los iones pueden moverse y transportar carga eléctrica, por eso la disolución salina conduce la corriente. Este principio se aprovecha en pruebas de conductividad y en procesos industriales en municipios cercanos a las salinas de Zipaquirá.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué al añadir sal al agua se eleva ligeramente su punto de ebullición, dificultando que hierva más rápido?",
+      "context": "En una panadería de Barranquilla, el panadero hornea pan y observa que al añadir un poco de sal al agua de la masa, está tarda más en hervir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los iones de la sal interaccionan con las moléculas de agua, reduciendo su movilidad y aumentando la energía necesaria para vaporizarlas.",
+          "is_correct": true,
+          "feedback": "Correcto. Este fenómeno se llama elevación ebulloscópica y se debe a las interacciones entre iones disueltos y moléculas de agua."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la sal convierte al agua en una sustancia con enlace metálico que requiere más calor para romperse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua sigue siendo una sustancia con enlaces covalentes polares; la sal no cambia el tipo de enlace del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la sal elimina las burbujas de aire del agua y hace que estas no puedan liberarse al hervir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las burbujas en ebullición son vapor de agua, no aire; la sal no impide físicamente la formación de burbujas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua con sal se transforma en una sustancia orgánica que requiere mayor temperatura para hervir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua salada sigue siendo una mezcla inorgánica; no se convierte en una sustancia orgánica ni cambia su composición fundamental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elevación del punto de ebullición al añadir solutos iónicos al agua es una propiedad coligativa llamada aumento ebulloscópico. Cuando los iones de la sal (Na+ y Cl-) se disuelven, interfieren con la capacidad de las moléculas de agua para escapar hacia la fase vapor, por lo que se requiere mayor temperatura para que hierva. Este efecto es pequeño pero observable, y se utiliza en la industria alimentaria y en la cocina de panaderías costeras colombianas para controlar la temperatura del agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la olla de aluminio se calienta más rápido que la sartén de hierro, aunque ambas son metálicas y están hechas para cocinar alimentos?",
+      "context": "En una fábrica de utensilios metálicos de Manizales, los ingenieros comparan el comportamiento de una olla de aluminio y una sartén de hierro fundido al someterlas a altas temperaturas en una estufa industrial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el aluminio tiene menor masa y mayor conductividad térmica por unidad de masa, transfiriendo calor con mayor rapidez al alimento.",
+          "is_correct": true,
+          "feedback": "Correcto. El aluminio combina baja densidad con alta conductividad térmica, lo que lo hace ideal para ollas que deben calentar rápido y ser ligeras."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el aluminio y el hierro tienen enlaces iónicos, pero el aluminio tiene más iones que el hierro en su estructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos metales presentan enlace metálico, no iónico, y la cantidad de iones no determina su velocidad de calentamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el hierro tiene electrones libres que frenan la transmisión del calor en su estructura metálica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones libres en realidad favorecen la conducción del calor; el hierro simplemente conduce menos que el aluminio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la olla de aluminio es más oscura y absorbe mejor la radiación de la estufa que la sartén clara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color influye poco en la conducción térmica por contacto directo; la diferencia principal está en las propiedades intrínsecas de cada metal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conductividad térmica varía entre metales: el aluminio conduce el calor aproximadamente tres veces más rápido que el hierro, y es además mucho más ligero. Esto se debe a su estructura cristalina y a la movilidad de sus electrones libres, que transportan energía cinética a través de la red metálica. En la cocina colombiana, las ollas de aluminio son populares por su bajo costo y rapidez, mientras que las de hierro fundido se prefieren para distribuir el calor de manera uniforme.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v7",
+      "statement": "Si comparan el metano y el cloruro de sodio, ¿cuál de las siguientes predicciones es coherente con el tipo de enlace que presenta cada sustancia?",
+      "context": "En un laboratorio escolar de Medellín, los estudiantes analizan muestras de gas metano (CH₄) y de sal común (NaCl) y deben predecir sus puntos de fusión y solubilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El metano (CH₄) tiene bajo punto de fusión y se disuelve en solventes apolares; el cloruro de sodio (NaCl) tiene alto punto de fusión y se disuelve en agua.",
+          "is_correct": true,
+          "feedback": "Correcto. Las sustancias covalentes moleculares como el metano tienen bajas temperaturas de fusión, mientras que los compuestos iónicos como el NaCl requieren alta energía para fundirse."
+        },
+        {
+          "letter": "B",
+          "text": "El metano y el cloruro de sodio tienen el mismo punto de fusión porque ambos son sólidos a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ambos pueden ser sólidos a baja temperatura, sus enlaces y puntos de fusión son muy diferentes por su estructura interna."
+        },
+        {
+          "letter": "C",
+          "text": "El metano conduce la electricidad en estado sólido porque tiene electrones libres como los metales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metano es una molécula covalente sin electrones libres y no conduce la electricidad; es un gas a temperatura ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "El cloruro de sodio es soluble en aceite porque es una sustancia polar y el aceite es polar también.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aceite es apolar, así que disuelve mejor sustancias apolares como el metano, no polares como la sal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las propiedades de las sustancias dependen del tipo de enlace. El metano (CH₄) es una molécula covalente apolar con enlaces C-H; sus fuerzas intermoleculares son débiles, por lo que tiene bajo punto de fusión (-161 °C) y se disuelve en solventes apolares. El cloruro de sodio (NaCl) tiene enlace iónico con fuertes atracciones electrostáticas, lo que le da alto punto de fusión (801 °C) y solubilidad en solventes polares como el agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la Catedral de Sal construida dentro de una mina de halita presenta humedad que disuelve lentamente la sal de sus paredes, si la sal normalmente se disuelve en agua?",
+      "context": "En la Catedral de Sal de Zipaquirá, la humedad del interior hace que con el tiempo se formen pequeñas gotas de agua sobre las paredes salinas, y los ingenieros deben controlar la ventilación para proteger la estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua es polar y rompe el enlace iónico del NaCl separando los iones Na+ y Cl-, que luego son arrastrados por la corriente de aire húmedo.",
+          "is_correct": true,
+          "feedback": "Correcto. La polaridad del agua le permite romper la red iónica del cloruro de sodio, hidratando cada ion y arrastrándolo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua transforma el NaCl en un metal conductor que se evapora con la humedad del ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El NaCl no se convierte en metal; los iones se separan pero la sustancia sigue siendo sal disuelta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la sal reacciona con el nitrógeno del aire formando gases que erosionan las paredes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal no reacciona con nitrógeno molecular a condiciones ambientales; el problema principal es la humedad con el agua."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las paredes de sal tienen electrones libres que reaccionan con el oxígeno del aire produciendo corrosión metálica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal no tiene electrones libres como los metales; es un compuesto iónico que se disuelve por hidratación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sal de roca (halita) está formada por iones Na+ y Cl- en una red iónica tridimensional. Cuando entra en contacto con agua, las moléculas polares de agua orientan sus polos negativos hacia los cationes Na+ y sus polos positivos hacia los aniones Cl-, separándolos del cristal y manteniéndolos hidratados en disolución. Este proceso de disolución iónica es el mismo que erosiona lentamente las paredes de la Catedral de Sal de Zipaquirá cuando la humedad relativa es alta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v9",
+      "statement": "Un técnico encuentra dos compuestos desconocidos: el compuesto X se funde a 750 °C y conduce la electricidad en estado líquido; el compuesto Y se funde a -10 °C y no conduce la electricidad. ¿Qué tipo de enlace presenta cada uno?",
+      "context": "En la refinería de Ecopetrol en Barrancabermeja, los ingenieros deben distinguir entre compuestos iónicos y covalentes para elegir los materiales adecuados en los procesos de refinación del petróleo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El compuesto X tiene enlace iónico porque requiere alta temperatura para fundirse y conduce al estar líquido; el compuesto Y tiene enlace covalente molecular porque tiene bajo punto de fusión y no conduce.",
+          "is_correct": true,
+          "feedback": "Correcto. Los compuestos iónicos tienen altos puntos de fusión y conducen electricidad en disolución o fundidos; los moleculares covalentes tienen bajos puntos de fusión y no conducen."
+        },
+        {
+          "letter": "B",
+          "text": "El compuesto X tiene enlace metálico porque es sólido a temperatura ambiente, mientras que Y tiene enlace de hidrógeno por ser líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace metálico implica electrones libres y conductividad incluso en estado sólido, lo cual no se ajusta al comportamiento descrito."
+        },
+        {
+          "letter": "C",
+          "text": "El compuesto X y el Y tienen el mismo tipo de enlace porque ambos conducen la corriente de alguna forma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El compuesto Y no conduce la electricidad, así que su comportamiento es opuesto al de X; tienen enlaces diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "El compuesto X es orgánico y Y es inorgánico según su comportamiento físico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clasificación orgánico/inorgánico no se determina por punto de fusión ni por conductividad; depende de la presencia de carbono e hidrógeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las propiedades macroscópicas de las sustancias son consecuencia directa del tipo de enlace. Los compuestos iónicos tienen altas temperaturas de fusión porque requieren romper una fuerte red cristalina, y conducen electricidad solo cuando están fundidos o disueltos, porque los iones son móviles. Los compuestos covalentes moleculares tienen bajos puntos de fusión porque las fuerzas intermoleculares son débiles y no conducen electricidad porque no tienen cargas móviles. Esta relación estructura-propiedad es clave en la industria petroquímica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué la aplicación de cal agrícola (carbonato de calcio) cambia el pH de un suelo ácido, si el CaCO₃ es un compuesto iónico insoluble en agua pura?",
+      "context": "En una finca cafetera de Armenia, Quindío, el dueño observa que las plantas de café crecen mejor en suelos ligeramente ácidos y aplica cal agrícola (CaCO₃) para corregir el pH. El ingeniero agrónomo le explica la química involucrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el CaCO₃ reacciona con los ácidos del suelo liberando iones calcio que neutralizan los H+ en disolución, elevando el pH.",
+          "is_correct": true,
+          "feedback": "Correcto. La cal reacciona con los ácidos del suelo formando sales solubles y agua, reduciendo la acidez y elevando el pH."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el carbonato de calcio se funde en el suelo y forma una capa metálica que bloquea los ácidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CaCO₃ no se funde en el suelo ni forma capas metálicas; reacciona químicamente con los ácidos presentes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el calcio del CaCO₃ penetra en las raíces y se transforma en metal alcalino dentro de la planta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calcio se absorbe como ion Ca2+, no se transforma en un metal alcalino dentro de los tejidos vegetales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el carbonato de calcio se evapora y arrastra los ácidos del suelo hacia la atmósfera en forma de vapor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CaCO₃ no se evapora a temperaturas normales del suelo; su acción es por reacción química directa con los ácidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cal agrícola (CaCO₃) es un compuesto iónico que reacciona con los ácidos del suelo (H+ en disolución) formando agua, dióxido de carbono y sales de calcio solubles. Esta reacción de neutralización reduce la concentración de H+ libres y eleva el pH del suelo. En la zona cafetera colombiana, mantener un pH adecuado entre 5,0 y 6,0 es esencial para la absorción de nutrientes por las plantas de café arábigo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v11",
+      "statement": "Si deben elegir entre acero inoxidable, aluminio y cobre para fabricar una olla eficiente y durable, ¿cuál sería la mejor combinación de propiedades y por qué?",
+      "context": "En un concurso de proyectos científicos en Bogotá, los estudiantes deben proponer un material para fabricar utensilios de cocina combinando bajo costo, resistencia a la corrosión y buena conducción del calor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una olla con base de cobre o aluminio (por su alta conductividad térmica) y paredes de acero inoxidable (por su resistencia a la corrosión por el enlace metálico estable del cromo).",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación aprovecha la conductividad del cobre o aluminio en la base y la resistencia química del acero en las paredes."
+        },
+        {
+          "letter": "B",
+          "text": "Una olla hecha completamente de cobre porque es el metal más barato y conductor del mercado colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el cobre es excelente conductor, es caro y reacciona con alimentos ácidos formando compuestos tóxicos."
+        },
+        {
+          "letter": "C",
+          "text": "Una olla hecha completamente de aluminio porque es el único metal que no se corroe ni reacciona con ningún alimento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aluminio sí se corroe formando óxido y reacciona con ácidos y bases fuertes; debe estar protegido o aleado."
+        },
+        {
+          "letter": "D",
+          "text": "Una olla hecha completamente de acero inoxidable porque es el metal más conductor de calor disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acero inoxidable es durable pero conduce el calor mucho peor que el cobre o el aluminio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la industria de utensilios de cocina se aprovecha que diferentes metales ofrecen distintas propiedades por su tipo de enlace y aleación. El cobre y el aluminio tienen enlace metálico con electrones libres muy móviles, lo que les da alta conductividad térmica. El acero inoxidable, aleación de hierro, cromo y níquel, es resistente a la corrosión gracias a una capa pasiva de óxido de cromo. Por eso las ollas de mejor calidad combinan una base de cobre o aluminio con paredes de acero inoxidable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle-v12",
+      "statement": "Evalúe críticamente los argumentos químicos para reemplazar las bolsas de plástico por bolsas de papel, considerando los enlaces y propiedades de cada polímero.",
+      "context": "En una mesa redonda de expertos en Bogotá, se discute si conviene sustituir las bolsas de plástico por bolsas de papel en el comercio colombiano, considerando el impacto ambiental y los enlaces químicos de cada material.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos polímeros tienen enlaces covalentes carbono-carbono, pero el papel proviene de celulosa natural biodegradable mientras que el plástico sintético persiste por su estructura covalente resistente a microorganismos.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento diferencia correctamente los enlaces y la biodegradabilidad de cada material según su estructura química."
+        },
+        {
+          "letter": "B",
+          "text": "El papel tiene enlaces metálicos que lo hacen más resistente que el plástico, por lo que debería reemplazar al polietileno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El papel no tiene enlaces metálicos; está formado por celulosa con enlaces covalentes y puentes de hidrógeno entre las fibras."
+        },
+        {
+          "letter": "C",
+          "text": "El plástico se degrada rápidamente porque sus enlaces iónicos se rompen con la humedad colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plástico no tiene enlaces iónicos sino covalentes; por eso es tan resistente a la degradación natural."
+        },
+        {
+          "letter": "D",
+          "text": "El papel y el plástico son sustancias inorgánicas idénticas con diferente presentación comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El papel es de origen orgánico natural (celulosa) y el plástico es un polímero sintético orgánico; sus estructuras son diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tanto el papel como el plástico son materiales orgánicos formados por enlaces covalentes carbono-carbono y carbono-hidrógeno, pero su estructura y origen son muy distintos. El papel está hecho de celulosa, un polímero natural con grupos -OH que forma puentes de hidrógeno y es atacado por microorganismos, por lo que es biodegradable. El plástico, como el polietileno, tiene solo enlaces C-C y C-H, sin grupos funcionales atacables por enzimas comunes, lo que explica su persistencia en rellenos sanitarios y ecosistemas colombianos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W23-enlaces-quimicos-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

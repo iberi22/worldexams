@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-28-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-25T21:57:44.664Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v1",
+      "statement": "Qué caracteriza a una fuente de energía como renovable?",
+      "context": "En una clase del Colegio INEM Santiago Perez, en Cali, se introduce el tema de fuentes de energía y su renovabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se regenera a una velocidad mayor o igual a la de su consumo por el ser humano.",
+          "is_correct": true,
+          "feedback": "Correcto. La tasa de renovacion iguala o supera la tasa de extraccion."
+        },
+        {
+          "letter": "B",
+          "text": "Que produce dióxido de carbono en cantidades ilimitadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las energias renovables tienen bajas emisiones de CO2."
+        },
+        {
+          "letter": "C",
+          "text": "Que proviene exclusivamente de combustibles fósiles importados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fósiles son no renovables por definicion."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo se usa en automoviles deportivos de alta gama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las renovables se aplican en múltiples sectores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fuente de energía es renovable cuando su capacidad de regeneración natural supera la velocidad a la que es aprovechada. Ejemplos son el sol, el viento, el agua en movimiento, la biomasa sostenible y el calor interno de la tierra. Su uso reduce emisiones de gases de efecto invernadero y mejora la seguridad energética.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v2",
+      "statement": "Cuáles son algunas de las principales fuentes de energía renovable que pueden aprovecharse en Colombia?",
+      "context": "En el Museo Interactivo Maloka, en Bogotá, se exponen maquetas que muestran distintas tecnologías de captación energética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidráulica, la solar, la eólica, la geotérmica y la biomasa.",
+          "is_correct": true,
+          "feedback": "Correcto. Colombia tiene potencial en todas esas fuentes renovables."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente el carbón mineral del Cesar y La Guajira.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbón es combustible fósil no renovable."
+        },
+        {
+          "letter": "C",
+          "text": "Exclusivamente el gas natural de los Llanos Orientales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gas natural es un hidrocarburo, no es renovable."
+        },
+        {
+          "letter": "D",
+          "text": "Solo el petróleo de los campos del Meta y Putumayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El petróleo es fuente no renovable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia dispone de un potencial destacado en cinco renovables: hidroeléctrico por su hidrología andina, solar en La Guajira y el Caribe, eólico en la Sierra Nevada de Santa Marta y La Guajira, geotermia en zonas volcanicas como el Nevado del Ruiz y biomasa a partir de residuos agricoles y bagazo de caña.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v3",
+      "statement": "Cómo se caracteriza actualmente la matriz eléctrica de Colombia frente a las fuentes renovables?",
+      "context": "En la Casa de la Ciencia de Tunja, se exhibe un gráfico de torta con la composicion de la matriz eléctrica nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es mayoritariamente hidráulica, con participación creciente de solar y eólica.",
+          "is_correct": true,
+          "feedback": "Correcto. La hidroelectricidad domina, complementada por nuevas renovables."
+        },
+        {
+          "letter": "B",
+          "text": "Depende por completo del carbón importado de China.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia genera electricidad con recursos propios."
+        },
+        {
+          "letter": "C",
+          "text": "Solo usa gas natural y descarta fuentes hidraulicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidroelectricidad sigue siendo la mayor fuente."
+        },
+        {
+          "letter": "D",
+          "text": "Es 100 por ciento nuclear desde 2010.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no tiene plantas nucleares comerciales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Según XM y el Ministerio de Minas y Energía, cerca del 70 por ciento de la electricidad colombiana proviene del agua, y el resto de fuentes térmicas con gas y carbón. La transición energética busca incorporar más solar y eólica para reducir la vulnerabilidad ante fenomenos climaticos como el fenómeno de El Niño.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v4",
+      "statement": "En una hidroeléctrica, que energía se transforma para finalmente obtener electricidad?",
+      "context": "En una salida técnica a la Central Hidroeléctrica de Chivor, en Boyacá, los ingenieros explican el funcionamiento de una turbina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía potencial y cinética del agua en movimiento se transforman en energía mecánica y luego eléctrica.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia potencial/cinética -> mecánica -> eléctrica es el principio básico."
+        },
+        {
+          "letter": "B",
+          "text": "La energía lumínica del fondo del embalse acciona directamente las turbinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las turbinas no responden a luz sino al flujo de agua."
+        },
+        {
+          "letter": "C",
+          "text": "La combustión interna de petróleo mueve las aspas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay combustión en una hidroeléctrica convencional."
+        },
+        {
+          "letter": "D",
+          "text": "La radiación solar calienta el agua y produce vapor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una termosolar, no una hidroeléctrica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una hidroeléctrica el agua almacenada en el embalse cae por gravedad, adquiere velocidad y golpea las aspas de una turbina. La turbina transmite energía mecánica a un generador que, por inducción electromagnética, produce corriente eléctrica. La cantidad de electricidad depende del caudal y del salto hidraulico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v5",
+      "statement": "Por qué La Guajira es una de las regiones de Colombia con mayor potencial para instalar granjas solares?",
+      "context": "En el Parque Solar Celsia Solar, en Yumbo (Valle del Cauca), los técnicos explican como captan la radiación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque presenta altos niveles de radiación solar durante casi todo el año y pocas nubes.",
+          "is_correct": true,
+          "feedback": "Correcto. El promedio supera los 5 a 6 kWh por metro cuadrado por día en esa zona."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las temperaturas son extremadamente bajas todo el año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Guajira es una de las zonas más cálidas del país."
+        },
+        {
+          "letter": "C",
+          "text": "Porque carece totalmente de viento y agua en el subsuelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. De hecho tiene mucho viento, lo que permite granjas eólicas también."
+        },
+        {
+          "letter": "D",
+          "text": "Porque su geografia impide cualquier otra actividad economica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Guajira tiene economía diversa: pesca, minería, turismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Guajira, por su cercania al ecuador y su clima arido con baja nubosidad, recibe alta irradiancia solar. Además, el viento Alisio sopla con regularidad. Estas dos condiciones hacen de este departamento un polo estrategico para proyectos solares como Guajira I y Guajira II, asi como para el parque eólico Jepirachi.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v6",
+      "statement": "Cuál es el principio físico mediante el cual un aerogenerador convierte el viento en electricidad?",
+      "context": "En el Parque Eolico Jepirachi, ubicado en el municipio de Uribia (La Guajira), los ingenieros señalan que el viento promedio supera los 8 m/s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía cinética del viento hace girar las aspas y el movimiento mecánico induce corriente en un generador.",
+          "is_correct": true,
+          "feedback": "Correcto. La conversion mecánico-eléctrica sigue el principio de inducción electromagnética."
+        },
+        {
+          "letter": "B",
+          "text": "El viento se condensa dentro del aerogenerador y produce gas inflamable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no se condensa: es aire en movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Las aspas queman el aire para liberar energía térmica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay combustión en un aerogenerador."
+        },
+        {
+          "letter": "D",
+          "text": "El viento activa reacciones nucleares en la base de la torre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay procesos nucleares en la generación eólica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía cinética del viento incide sobre las palas con diseño aerodinámico y las hace girar. Ese movimiento rotacional se transmite por una caja multiplicadora a un generador eléctrico, donde por inducción electromagnética se transforma en corriente alterna que luego se inyecta a la red eléctrica nacional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v7",
+      "statement": "Cómo se obtiene energía eléctrica a partir de la biomasa en una central azucarera del Valle del Cauca?",
+      "context": "En un ingenio azucarero del Valle del Cauca, se discute el uso del bagazo de caña como combustible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El bagazo se quema en una caldera, el vapor mueve una turbina y se genera electricidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Es un ciclo Rankine clasico alimentado con biomasa."
+        },
+        {
+          "letter": "B",
+          "text": "El bagazo se mezcla con gasolina para alimentar automoviles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol de caña se mezcla con gasolina, pero el bagazo sólido se quema."
+        },
+        {
+          "letter": "C",
+          "text": "El bagazo se congela para producir energía por diferencia térmica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La congelacion no es el proceso industrial usado."
+        },
+        {
+          "letter": "D",
+          "text": "El bagazo se convierte directamente en paneles solares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paneles no se fabrican a partir de bagazo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La biomasa residual, como el bagazo de caña, tiene poder calorífico y puede sustituir combustibles fósiles. Al quemarla en calderas se produce vapor de agua a alta presión, el cual acciona turbinas acopladas a generadores. Colombia tiene experiencia consolidada en este modelo en ingenios como Manuelita y Mayaguez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v8",
+      "statement": "Un gráfico muestra: hidroeléctrica 12.000 MW, solar fotovoltaica 700 MW, eólica 30 MW, biomasa 200 MW. Qué conclusión técnica se puede extraer?",
+      "context": "En un foro del SENA en Dosquebradas, se analiza un gráfico con la capacidad instalada en MW por tipo de fuente renovable en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidroeléctrica sigue dominando la capacidad, pero solar y eólica aún son marginales a pesar de su crecimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura integra correctamente la magnitud de cada fuente."
+        },
+        {
+          "letter": "B",
+          "text": "La energía solar ya superó a la hidroeléctrica en capacidad instalada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidroeléctrica es cerca de 17 veces mayor."
+        },
+        {
+          "letter": "C",
+          "text": "La energía eólica no aporta absolutamente nada al sistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aporta, aunque marginalmente en comparacion con la hidro."
+        },
+        {
+          "letter": "D",
+          "text": "La biomasa es la fuente menos aprovechada por su baja disponibilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biomasa tiene potencial y ya aporta algunos cientos de MW."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpretar datos energeticos requiere comparar magnitudes y reconocer tendencias. En Colombia, la hidroelectricidad sigue siendo la columna vertebral, mientras la solar crecio rapidamente por incentivos como las subastas de contratos de largo plazo y la ley 1715 de 2014 con deducciones tributarias.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v9",
+      "statement": "Cuál es una diferencia clave entre una hidroeléctrica de embalse y un parque solar fotovoltaico en términos de gestión ambiental?",
+      "context": "En un debate en la Universidad del Norte de Barranquilla, se discuten ventajas y desventajas de fuentes renovables y no renovables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hidroeléctrica inunda grandes areas e impacta comunidades; el parque solar ocupa suelo sin desplazar poblaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. El impacto territorial y social es claramente distinto."
+        },
+        {
+          "letter": "B",
+          "text": "El parque solar emite más dióxido de carbono que la hidroeléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidroeléctrica emite muy poco CO2; el solar casi cero."
+        },
+        {
+          "letter": "C",
+          "text": "La hidroeléctrica solo opera de noche y el solar solo de día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidroeléctrica opera 24 horas; el solar solo de día."
+        },
+        {
+          "letter": "D",
+          "text": "El parque solar contamina el agua con mercurio y la hidroeléctrica no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación hídrica por mercurio está asociada a minería, no a estas renovables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una hidroeléctrica con gran embalse modifica caudales, fragmenta el ecosistema fluvial e inunda zonas de bosques o poblados, por lo que requiere estudios regionales rigurosos. En cambio, un parque solar fotovoltaico ocupa tierras secas con bajo impacto en el caudal de los ríos y permite la coexistencia con la agricultura en pequeña escala.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v10",
+      "statement": "Por qué una sequía prolongada asociada al fenómeno de El Niño puede poner en riesgo la generación hidroeléctrica de Colombia?",
+      "context": "En la Universidad de Antioquia, en Medellín, se discute el efecto del fenómeno de El Niño sobre la generación eléctrica nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque disminuye el caudal de los ríos y los embalses, reduciendo la cantidad de agua que mueve las turbinas.",
+          "is_correct": true,
+          "feedback": "Correcto. Menos caudal implica menos electricidad generada por hidroelectricas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua se evapora y se transforma en petróleo líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaporación del agua no genera petróleo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las plantas nucleares funcionan mal cuando hace calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no tiene plantas nucleares comerciales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los paneles solares se funden con el aumento de temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paneles pierden algo de eficiencia, pero no se funden por el calor tropical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Durante El Niño, las lluvias disminuyen en la región Andina y los caudales del Magdalena, Cauca, San Jorge y otros ríos bajan. Cómo la hidroelectricidad representa la mayor parte de la matriz eléctrica nacional, la capacidad de generación cae y se requiere complementar con termoelectricas, gas o importar energía de Ecuador.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v11",
+      "statement": "Cuál de las siguientes políticas es la más coherente con la transición energética y el desarrollo sostenible en Colombia?",
+      "context": "El Ministerio de Minas y Energía de Colombia debe priorizar políticas públicas para la transición energética 2026-2030.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diversificar la matriz con solar y eólica, fortalecer redes de transmisión y fomentar eficiencia energética.",
+          "is_correct": true,
+          "feedback": "Correcto. Es una estrategia integral coherente con la evidencia internacional."
+        },
+        {
+          "letter": "B",
+          "text": "Incrementar exclusivamente la explotación de carbón en La Guajira y suspender proyectos eólicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso aumenta emisiones y contradice la transición energética."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar todos los subsidios al gas y obligar a las familias a cocinar con lea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lea contamina el aire interior y no es solucion masiva."
+        },
+        {
+          "letter": "D",
+          "text": "Privatizar completamente el sistema eléctrico nacional sin regulación estatal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulación estatal es clave para estabilidad y acceso equitativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transición energética combina tres ejes: diversificar la matriz con renovables no convencionales, robustecer la red de transmisión para integrar fuentes variables y promover eficiencia en edificios, industria y transporte. La regulación estatal debe garantizar tarifas justas, calidad del servicio y participación de comunidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle-v12",
+      "statement": "Cuál es el criterio más justo para evaluar la viabilidad del nuevo parque eólico en territorio wayuu?",
+      "context": "En una audiencia pública en Riohacha, la comunidad wayuu consulta sobre un nuevo parque eólico de 200 MW en su territorio ancestral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar consulta previa libre e informada y evaluar impactos ambientales, sociales y culturales.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el estandar del Convenio 169 de la OIT y la Constitución colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Decidir unilateralmente sin consultar porque las energias renovables son urgentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La urgencia no exime del derecho a la consulta previa."
+        },
+        {
+          "letter": "C",
+          "text": "Aprobar si la empresa promete regalar molinos pequenos de bombeo a cada familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las compensaciones puntuales no sustituyen la consulta previa."
+        },
+        {
+          "letter": "D",
+          "text": "Negarse por principio a cualquier proyecto energético en La Guajira.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una postura cerrada impide beneficios verificables y participación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El derecho a la consulta previa, libre e informada está reconocido por la Constitución de Colombia y el Convenio 169 de la OIT. Cualquier proyecto energético en territorio indígena debe evaluar impactos acumulativos, acordar beneficios justos y respetar la autonomia cultural wayuu, sin sustituir ese dialogo por compensaciones aisladas ni por imposicion tecnocratica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W28-energias-renovables-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
