@@ -26,12 +26,20 @@ async function fetchSubjectScopedPool(params: {
   const { repository, grade, apiSubject, maxQuestions, period } = params;
   const maxPages = Math.max(1, Math.min(10, Math.ceil(maxQuestions / 10)));
   const out: AppQuestion[] = [];
+
   for (let page = 1; page <= maxPages; page++) {
     const batch = await repository.fetchQuestions(grade, apiSubject, page, period);
     if (!batch || batch.length === 0) break;
+
+    const preCount = dedupeById(out).length;
     out.push(...batch);
+    const postCount = dedupeById(out).length;
+
+    if (postCount === preCount) break; // no new ids added
+    if (batch.length < 20) break;      // last page
     if (out.length >= maxQuestions) break;
   }
+
   return out;
 }
 
