@@ -78,6 +78,12 @@ jobs:
         working-directory: ./apps/worldexams-api
         run: npm install
 
+      # The worker resolves packs through _manifest.json (one asset read instead of
+      # probing alias/prefix combos, which hit the subrequest limit). Regenerate it
+      # from the files being deployed so new packs are never invisible.
+      - name: 🗂️ Build pack manifest
+        run: node apps/worldexams-api/scripts/build-pack-manifest.mjs
+
       - name: 🔎 Type check API Gateway
         working-directory: ./apps/worldexams-api
         run: npm run check
