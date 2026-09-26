@@ -285,9 +285,14 @@ export async function getAllCuentosCatalog(): Promise<CuentoSummary[]> {
   if (indexPackKey && rawCuentoJsonPacks[indexPackKey]) {
     const data = rawCuentoJsonPacks[indexPackKey];
     if (Array.isArray(data)) {
-      return (data as CuentoSummary[])
+      // index.json publica la portada como `coverSvg` (relativa al cuento),
+      // no como `coverEscena`: sin este mapeo ningún consumidor del catálogo
+      // (/cuentos, /pequenos grid y estantería 3D) recibía portada.
+      return (data as Array<CuentoSummary & { coverSvg?: string }>)
         .filter((s) => CUENTOS_LISTOS.has(s.slug))
-        .map((s) => withPublicEscenas({ ...s, paginasList: [] })) as CuentoSummary[];
+        .map((s) =>
+          withPublicEscenas({ ...s, coverEscena: s.coverEscena ?? s.coverSvg, paginasList: [] }),
+        ) as CuentoSummary[];
     }
   }
 
