@@ -22,6 +22,13 @@ binding = "MESH_STATE"
 id = "22105f2832e743fa9e202d265bf028a9"
 preview_id = "c609d8e05df34ce9b5b41424f8012fce"
 
+# Ranked module (WAVE-16.09): server-authoritative ranked exams + monthly leaderboard.
+[[d1_databases]]
+binding = "RANKED_DB"
+database_name = "worldexams-ranked"
+database_id = "6ae1b0c0-0f6d-45b2-854d-cb076b14ea40"
+migrations_dir = "migrations"
+
 [[routes]]
 pattern = "api.saberparatodos.space/*"
 zone_name = "saberparatodos.space"
