@@ -36,7 +36,6 @@ async function fetchSubjectScopedPool(params: {
     const postCount = dedupeById(out).length;
 
     if (postCount === preCount) break; // no new ids added
-    if (batch.length < 20) break;      // last page
     if (out.length >= maxQuestions) break;
   }
 

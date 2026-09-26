@@ -64,7 +64,7 @@ describe('Pack Fetcher and Pool Budget', () => {
     expect(fetchCount).toBeLessThanOrEqual(24);
   });
 
-  it('fetchSubjectScopedPool with repository returning 20, 20, 7 -> 3 calls', async () => {
+  it('fetchSubjectScopedPool with repository returning 20, 20, 7, [] -> 4 calls (stops on empty page, not on short page)', async () => {
     let callCount = 0;
     const repository = {
       fetchQuestions: vi.fn().mockImplementation(async () => {
