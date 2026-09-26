@@ -330,7 +330,7 @@
       </svg>
     </button>
 
-    <!-- Paginación por Puntos (Dots Pagination) -->
+    <!-- Paginación por Puntos (Dots Pagination: role="tablist", aria-selected y aria-current="page" en el dot activo) -->
     <div class="dots-pagination" role="tablist" aria-label="Navegación de páginas">
       {#each paginas as _, idx}
         <button
