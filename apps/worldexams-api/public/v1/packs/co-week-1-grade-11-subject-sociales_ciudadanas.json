@@ -1,929 +1,929 @@
 {
   "metadata": {
     "grade": 11,
-    "subject": "sociales_y_ciudadanas",
+    "subject": "sociales_ciudadanas",
     "country": "co",
-    "pack_id": "co-week-1-grade-11-subject-sociales_y_ciudadanas",
+    "pack_id": "co-week-1-grade-11-subject-sociales_ciudadanas",
     "generated_at": "2026-08-15T03:57:08.698Z"
   },
   "questions": [
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v1",
-      "statement": "Pregunta de prueba 1 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v1",
+      "statement": "¿En qué año se llevó a cabo la Batalla de Boyacá, evento que selló de manera definitiva la independencia de la Nueva Granada?",
+      "context": "En una clase de historia en Tunja, se analiza el proceso independentista de Colombia a principios del siglo XIX.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "1810",
+          "is_correct": false,
+          "feedback": "1810 corresponde al Grito de Independencia, no a la batalla final que consolidó la emancipación militar."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "1819",
+          "is_correct": true,
+          "feedback": "El 7 de agosto de 1819, las tropas de Simón Bolívar derrotaron al ejército realista español en el Puente de Boyacá."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "1821",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "1821 fue el año del Congreso de Cúcuta, que promulgó la Constitución de la Gran Colombia."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "1492",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "1492 es el año de la llegada de Cristóbal Colón a América, no de la independencia de Colombia."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 1.",
+      "correct_answer": "B",
+      "explanation": "La Batalla de Boyacá, ocurrida el 7 de agosto de 1819, es un hito fundamental en la historia colombiana. Comandadas por Simón Bolívar y Francisco de Paula Santander, las fuerzas independentistas obtuvieron una victoria decisiva que marcó el fin del dominio español en la Nueva Granada.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v2",
-      "statement": "Pregunta de prueba 2 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v2",
+      "statement": "Según el Artículo 103 de la Constitución Política de Colombia de 1991, ¿cuál de los siguientes es un mecanismo oficial de participación del pueblo en ejercicio de su soberanía?",
+      "context": "En una junta de acción comunal en Bogotá, se discute cómo garantizar que todos los residentes tengan representación.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "El plebiscito.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "El plebiscito es uno de los mecanismos de participación ciudadana explícitamente consagrados en el Artículo 103."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "El golpe de Estado militar.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Un golpe de Estado es una ruptura del orden constitucional y democrático, no un mecanismo de participación."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "La protesta violenta y el motín.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Las acciones violentas no están reconocidas por la Constitución como formas legítimas de participación política."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "El exilio voluntario hacia otro país.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El exilio es una decisión personal o forzada por violencia, no un mecanismo democrático de decisión estatal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 2.",
+      "explanation": "El Artículo 103 de la Constitución de 1991 establece los mecanismos de participación ciudadana, que incluyen el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato, fortaleciendo el modelo de democracia participativa.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v3",
-      "statement": "Pregunta de prueba 3 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la cordillera de los Andes colombianos que se caracteriza por ser la más extensa y ancha, y en la que se encuentra la Sierra Nevada del Cocuy?",
+      "context": "Se revisa un mapa político y físico de Colombia para una feria turística internacional.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "La Cordillera Occidental.",
+          "is_correct": false,
+          "feedback": "La Occidental es la más baja de las tres cordilleras andinas en Colombia y bordea la región Pacífica."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "La Cordillera Central.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La Central es la más antigua y volcánica, pero no la más extensa en el territorio."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "La Cordillera Oriental.",
+          "is_correct": true,
+          "feedback": "La Cordillera Oriental es la más extensa, ancha y donde se ubican grandes altiplanos y la Sierra Nevada del Cocuy."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "La Sierra Nevada de Santa Marta.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La Sierra Nevada de Santa Marta es un sistema montañoso aislado, no forma parte de las tres cordilleras andinas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 3.",
+      "correct_answer": "C",
+      "explanation": "En Colombia, la cordillera de los Andes se divide en tres ramales en el Nudo de los Pastos. La Cordillera Oriental es la más larga y ancha de las tres, atravesando el país en dirección suroeste-noreste, albergando ecosistemas vitales como páramos y el nevado del Cocuy.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
       "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v4",
-      "statement": "Pregunta de prueba 4 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál fue el detonante principal que intensificó el periodo histórico bipartidista denominado \"La Violencia\" en 1948?",
+      "context": "En un debate sobre la historia del siglo XX, se discute el periodo conocido como \"La Violencia\" en Colombia.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "La firma del Frente Nacional entre conservadores y liberales.",
+          "is_correct": false,
+          "feedback": "El Frente Nacional (1958) fue el pacto político creado para intentar poner fin a La Violencia, no su detonante."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "La independencia del departamento de Panamá con apoyo estadounidense.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La separación de Panamá ocurrió mucho antes, en 1903, debido a la Guerra de los Mil Días."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El inicio de la bonanza marimbera en la costa Caribe.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La bonanza marimbera ocurrió posteriormente, en la década de 1970, y no causó la violencia bipartidista."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "El asesinato del líder político liberal Jorge Eliécer Gaitán.",
+          "is_correct": true,
+          "feedback": "El magnicidio de Gaitán el 9 de abril de 1948, conocido como el Bogotazo, recrudeció la confrontación partidista."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 4.",
+      "correct_answer": "D",
+      "explanation": "El asesinato del líder y candidato liberal Jorge Eliécer Gaitán desató una serie de disturbios masivos (\"El Bogotazo\") y aceleró la polarización extrema entre los partidos Liberal y Conservador, sumergiendo al país en una cruenta guerra civil no declarada conocida como \"La Violencia\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
+      "bloom": "Understand",
+      "icfes_type": "Multiperspectivismo",
       "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v5",
-      "statement": "Pregunta de prueba 5 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v5",
+      "statement": "Si estos ciudadanos desean revocar la medida de forma legal promoviendo la participación del pueblo, ¿qué mecanismo constitucional pueden intentar convocar sobre este tema específico de interés local?",
+      "context": "Un grupo de ciudadanos en Pereira no está de acuerdo con una decisión del Concejo Municipal sobre el cobro de un nuevo impuesto local.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Un plebiscito.",
+          "is_correct": false,
+          "feedback": "El plebiscito es convocado exclusivamente por el Presidente de la República para políticas del ejecutivo, no para normativas locales."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "La revocatoria del mandato.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Este mecanismo se usa para destituir a un alcalde o gobernador, no para anular un acuerdo o impuesto específico."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Un referendo derogatorio.",
+          "is_correct": true,
+          "feedback": "El referendo derogatorio permite que los ciudadanos voten para anular (derogar) una norma jurídica ya aprobada."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Una tutela contra el Concejo.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La acción de tutela protege derechos fundamentales, no sirve para derogar impuestos generales adoptados por un Concejo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 5.",
+      "correct_answer": "C",
+      "explanation": "La Constitución y la ley establecen el referendo derogatorio como el mecanismo de participación por medio del cual se somete a consideración del pueblo un acto legislativo, ley, ordenanza, acuerdo (como los del Concejo) o resolución local, con el fin de que los ciudadanos decidan si se deroga o no dicha norma.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Interpretacion y analisis de perspectivas",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v6",
-      "statement": "Pregunta de prueba 6 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál fue el propósito macroeconómico central de la \"Apertura Económica\" de los años noventa en Colombia?",
+      "context": "En la década de 1990, Colombia experimentó una apertura económica bajo el gobierno de César Gaviria.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "Integrar al país a los mercados internacionales reduciendo aranceles para fomentar la competitividad.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "La apertura buscó eliminar el proteccionismo, bajar aranceles y abrir el mercado interno a la competencia global."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Cerrar las fronteras a las importaciones para proteger la industria textil y agraria nacional.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Este era el modelo anterior (Sustitución de Importaciones); la apertura hizo exactamente lo contrario."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Estatizar y nacionalizar todas las empresas privadas para crear monopolios públicos.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La apertura estuvo acompañada de privatizaciones, reduciendo el tamaño del Estado en la economía, no ampliándolo."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Aumentar los impuestos a las exportaciones para financiar los subsidios sociales del gobierno.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El objetivo era liberalizar el comercio, lo que implicaba reducir barreras comerciales, no imponer altos impuestos a la exportación."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 6.",
+      "explanation": "La apertura económica fue un proceso de transición hacia el neoliberalismo, donde Colombia abandonó el proteccionismo y se insertó en la globalización. Se redujeron significativamente los aranceles y barreras a las importaciones con la promesa de modernizar la economía a través de la competencia externa, aunque esto afectó a varios sectores productivos nacionales no preparados.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento sistemico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v7",
-      "statement": "Pregunta de prueba 7 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v7",
+      "statement": "En esta situación, ¿cuáles son los dos intereses principales que se encuentran en conflicto?",
+      "context": "Un conflicto surge en una vereda porque una minera transnacional desea explotar oro, pero los campesinos argumentan que contaminará el agua de la que dependen para sus cultivos.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "El interés cultural de preservar tradiciones frente al interés militar de controlar el territorio.",
+          "is_correct": false,
+          "feedback": "No se mencionan intereses militares ni tradiciones abstractas, sino el uso productivo del agua y el suelo."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "El interés político de los campesinos por gobernar frente al interés legal del Estado.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Los campesinos están defendiendo sus recursos vitales de subsistencia, no aspirando a cargos de gobierno."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El interés ecológico de la empresa por reforestar frente al interés económico de los agricultores.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La empresa busca explotar minerales (interés económico), no está planteando una meta ecológica en la premisa."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "El interés económico y de extracción corporativa frente al interés ambiental y de subsistencia agrícola.",
+          "is_correct": true,
+          "feedback": "La minera busca el beneficio económico de extraer oro, mientras los campesinos defienden el agua necesaria para su vida y agricultura."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 7.",
+      "correct_answer": "D",
+      "explanation": "El análisis de perspectivas requiere identificar qué defiende cada actor. Las empresas extractivas priorizan la rentabilidad económica derivada de la explotación minera. Por otro lado, las comunidades locales y campesinas suelen priorizar la seguridad hídrica, la subsistencia alimentaria y la preservación ambiental de su entorno inmediato.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Interpretacion y analisis de perspectivas",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v8",
-      "statement": "Pregunta de prueba 8 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes acciones del Estado es una aplicación directa de este principio constitucional hacia las comunidades indígenas?",
+      "context": "La Constitución de 1991 reconoce y protege la diversidad étnica y cultural de la Nación colombiana.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Obligarlos a adoptar el idioma español como única lengua permitida en sus resguardos.",
+          "is_correct": false,
+          "feedback": "Esto vulneraría sus derechos culturales, ya que la Constitución protege las lenguas nativas como oficiales en sus territorios."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Exigirles que abandonen sus creencias ancestrales para integrarse a la economía nacional.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El Estado respeta la libertad de cultos y las cosmovisiones tradicionales, no fuerza la asimilación religiosa."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Reconocer y garantizar el funcionamiento de la jurisdicción especial indígena.",
+          "is_correct": true,
+          "feedback": "La Constitución permite que las autoridades indígenas ejerzan funciones jurisdiccionales dentro de su ámbito territorial."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Desmantelar las reservas y resguardos para vender las tierras a particulares.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Los territorios indígenas gozan de protección constitucional (son inalienables e imprescriptibles)."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 8.",
+      "correct_answer": "C",
+      "explanation": "Como parte del reconocimiento a la diversidad étnica y el multiculturalismo, el Estado colombiano reconoce la Jurisdicción Especial Indígena (Artículo 246), permitiendo a las comunidades administrar justicia dentro de su territorio de acuerdo con sus propias normas y procedimientos tradicionales, siempre que no contraríen la Constitución.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Multiperspectivismo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v9",
-      "statement": "Pregunta de prueba 9 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v9",
+      "statement": "Desde una perspectiva sistémica, ¿cuál es el principal riesgo ecológico de permitir la urbanización continua de los cerros orientales?",
+      "context": "La expansión urbana en los cerros orientales de Bogotá ha generado debate debido a las construcciones informales y formales en zonas de reserva.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "La disminución de los impuestos prediales recaudados por la Alcaldía.",
+          "is_correct": false,
+          "feedback": "Este sería un efecto económico (si ocurriera), pero la pregunta indaga por el riesgo ecológico directo."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "La alteración de los ciclos hídricos locales y el incremento de riesgos por deslizamientos.",
+          "is_correct": true,
+          "feedback": "Impermeabilizar los suelos de montaña altera la absorción de agua y desestabiliza laderas, afectando el ecosistema."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El encarecimiento excesivo de los materiales de construcción en el centro de la ciudad.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Es una posible consecuencia de mercado, no un riesgo ambiental derivado de construir en ecosistemas de montaña."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "La sobrepoblación exclusiva de especies nativas de flora y fauna en la ciudad.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La urbanización destruye hábitats, por lo que las especies nativas se reducen, no se sobrepueblan."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 9.",
+      "correct_answer": "B",
+      "explanation": "El pensamiento sistémico evalúa las interconexiones en el territorio. Los cerros orientales actúan como reguladores del clima y del agua en Bogotá. Su deforestación y urbanización alteran el drenaje natural de las aguas lluvias, incrementando la vulnerabilidad de la ciudad ante inundaciones y deslizamientos de tierra.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento sistemico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v10",
-      "statement": "Pregunta de prueba 10 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v10",
+      "statement": "¿Qué doctrinas económicas y políticas lideraban los dos superpoderes enfrentados durante este periodo?",
+      "context": "Tras la Segunda Guerra Mundial, el mundo se dividió en dos grandes bloques ideológicos durante la Guerra Fría, un contexto que también influyó en América Latina.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "El capitalismo democrático impulsado por Estados Unidos y el socialismo/comunismo promovido por la Unión Soviética.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "La Guerra Fría fue esencialmente un choque entre la economía de mercado estadounidense y la economía planificada soviética."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "El fascismo radical liderado por Alemania frente al liberalismo clásico británico.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Este conflicto ideológico corresponde a la Segunda Guerra Mundial, no al periodo de la Guerra Fría posterior."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El monarquismo absolutista ruso contra el anarquismo sindical de América del Norte.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El Imperio ruso cayó en 1917 y no participó en la Guerra Fría como monarquía absolutista."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "El feudalismo agrario en Europa Oriental frente a la industrialización incipiente en Asia.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El feudalismo desapareció siglos antes de la Guerra Fría, y la URSS era una potencia industrial."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 10.",
+      "explanation": "La Guerra Fría (aprox. 1947-1991) fue un enfrentamiento político, económico, social, ideológico y militar que dividió al mundo en dos bloques: el bloque Occidental (capitalista), liderado por Estados Unidos, y el bloque del Este (socialista o comunista), liderado por la Unión Soviética. Este choque moldeó las políticas de intervención en Colombia y América Latina.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v11",
-      "statement": "Pregunta de prueba 11 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la principal falencia desde la perspectiva de los derechos humanos y la política social frente a esta propuesta?",
+      "context": "Un candidato propone solucionar la criminalidad imponiendo penas de cadena perpetua para todos los delitos, argumentando que \"solo el miedo al castigo extremo evitará que la gente robe por hambre\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Que construir nuevas cárceles de máxima seguridad generará mucho empleo pero será demasiado costoso.",
+          "is_correct": false,
+          "feedback": "El argumento económico es secundario; la principal falla es ignorar las causas sociales del delito y la proporcionalidad penal."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Que las personas ya no sentirán miedo de la policía si las penas son administradas únicamente por jueces.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El miedo policial no es el objetivo de un sistema de justicia democrático; la disuasión se basa en certeza, no solo en severidad."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Que el miedo es el único sentimiento humano capaz de modificar la conducta colectiva en una sociedad moderna.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Los defensores de DD.HH. y las ciencias sociales sostienen lo contrario: la educación y la igualdad previenen mejor el delito."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Ignora el principio de proporcionalidad de las penas y desatiende las causas estructurales (como la pobreza y el hambre).",
+          "is_correct": true,
+          "feedback": "Imponer la máxima pena a delitos menores viola los derechos humanos y no resuelve el origen social del problema (el hambre)."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 11.",
+      "correct_answer": "D",
+      "explanation": "En el análisis crítico de perspectivas, las políticas de \"mano dura\" extremas suelen ser criticadas porque atentan contra los derechos humanos (falta de proporcionalidad de la pena al castigar robos menores con cadena perpetua) y porque abordan el síntoma (el delito) sin intervenir en la causa raíz estructural (desigualdad, hambre, exclusión social).",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretacion y analisis de perspectivas",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v12",
-      "statement": "Pregunta de prueba 12 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v12",
+      "statement": "¿Qué conjunto de factores estructurales explica mejor este éxodo campesino hacia ciudades como Bogotá, Medellín y Cali?",
+      "context": "La migración rural-urbana masiva en Colombia durante el siglo XX transformó demográficamente al país, pasando de ser mayoritariamente rural a eminentemente urbano.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "El exceso de tierras cultivables en el campo que obligó a los campesinos a buscar nuevos oficios urbanos.",
+          "is_correct": false,
+          "feedback": "Históricamente en Colombia hay concentración de tierras (latifundios), no exceso de tierra disponible para los campesinos."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "La concentración de la propiedad agraria, la violencia bipartidista en el campo y la incipiente industrialización urbana.",
+          "is_correct": true,
+          "feedback": "Estos factores sistémicos (\"push and pull\") forzaron la salida por miedo y pobreza, atrayendo población a la industria urbana."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Las políticas gubernamentales de los años 50 que prohibieron explícitamente el cultivo de café en parcelas pequeñas.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El café ha sido tradicionalmente cultivado por minifundistas; nunca hubo una política de prohibición estatal de este tipo."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "El deseo exclusivo de los campesinos por acceder a la televisión y a las nuevas tecnologías de comunicación.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Aunque la modernidad atrae, las causas profundas fueron la violencia y la falta de oportunidades económicas agrarias."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 12.",
+      "correct_answer": "B",
+      "explanation": "El análisis sistémico de la urbanización colombiana muestra que fue un proceso impulsado por factores de expulsión (la violencia en los campos, la pobreza, la desigualdad en la tenencia de tierras) y factores de atracción (la búsqueda de empleo en la naciente industria manufacturera de las ciudades, así como un mejor acceso a salud y educación).",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento sistemico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v13",
-      "statement": "Pregunta de prueba 13 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v13",
+      "statement": "De acuerdo con las lógicas argumentativas de los actores involucrados, ¿qué prioriza cada sector en esta discusión política?",
+      "context": "En el Congreso se debate una reforma pensional. Los sindicatos exigen mantener las edades de jubilación actuales, mientras los gremios económicos piden aumentarlas por el envejecimiento demográfico.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Los sindicatos priorizan la sostenibilidad financiera del Estado; los gremios priorizan el descanso de los trabajadores.",
+          "is_correct": false,
+          "feedback": "Las posturas están invertidas. Los gremios suelen preocuparse por la caja fiscal/empresarial y los sindicatos por el bienestar del obrero."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Los sindicatos defienden los derechos laborales adquiridos; los gremios priorizan la viabilidad financiera del sistema a largo plazo.",
+          "is_correct": true,
+          "feedback": "Los trabajadores buscan proteger las condiciones logradas (no trabajar más años), mientras que las empresas/economistas ven el déficit fiscal."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Ambos sectores buscan que el gobierno nacional privatice completamente el sistema de salud.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El debate es sobre pensiones, no sobre salud, y los sindicatos rara vez apoyan privatizaciones totales."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Los gremios defienden una reducción de impuestos corporativos, y los sindicatos buscan que los ancianos sigan trabajando más años.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Los sindicatos buscan exactamente lo contrario: no aumentar la edad para permitir el retiro oportuno."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 13.",
+      "correct_answer": "B",
+      "explanation": "Comprender el multiperspectivismo exige analizar los intereses de clase o de grupo. Los sindicatos representan a los trabajadores y buscan mantener o mejorar sus condiciones de bienestar social (derechos adquiridos). Los gremios empresariales y analistas económicos suelen enfocar sus argumentos en la estabilidad macroeconómica y el equilibrio fiscal frente a los cambios demográficos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Interpretacion y analisis de perspectivas",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v14",
-      "statement": "Pregunta de prueba 14 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál es la función principal de la rama legislativa y qué institución la ejerce a nivel nacional en Colombia?",
+      "context": "Un estudiante lee sobre la \"Separación de poderes\" propuesta por Montesquieu y su aplicación en Colombia.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Juzgar a los ciudadanos que violan la ley; la ejerce la Corte Suprema de Justicia.",
+          "is_correct": false,
+          "feedback": "Juzgar y administrar justicia es función exclusiva de la rama judicial."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Administrar el Estado y ejecutar las políticas públicas; la ejerce el Presidente de la República.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La administración y ejecución de políticas recae sobre la rama ejecutiva."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Controlar las finanzas y vigilar a los funcionarios públicos; la ejerce la Procuraduría.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La Procuraduría hace parte de los órganos de control, no de la rama legislativa."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Formular las leyes, ejercer control político y reformar la Constitución; la ejerce el Congreso de la República.",
+          "is_correct": true,
+          "feedback": "El Congreso (Senado y Cámara) es el órgano legislativo por excelencia, encargado de hacer las leyes y el control político."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 14.",
+      "correct_answer": "D",
+      "explanation": "El Estado colombiana se divide en tres ramas del poder público. La Rama Legislativa, representada por el Congreso de la República (bicameral), tiene la función de elaborar y expedir las leyes, modificar la Constitución Nacional y ejercer un control político riguroso sobre el gobierno y la administración (la Rama Ejecutiva).",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v15",
-      "statement": "Pregunta de prueba 15 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v15",
+      "statement": "Al analizar el conflicto entre el manual de convivencia y los derechos del estudiante a la luz de la jurisprudencia constitucional colombiana, ¿qué prima usualmente?",
+      "context": "En un colegio se aprueba una regla que prohíbe el uso de rastas, trenzas o cabellos teñidos. Un estudiante afrodescendiente afirma que esta norma viola su identidad cultural.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "El manual de convivencia, porque los reglamentos escolares privados están por encima de la Constitución.",
+          "is_correct": false,
+          "feedback": "Ningún reglamento privado o público está por encima de la Constitución Nacional de 1991."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "El libre desarrollo de la personalidad y la identidad cultural del estudiante, pues son derechos fundamentales.",
+          "is_correct": true,
+          "feedback": "La Corte Constitucional ha reiterado que los manuales no pueden prohibir expresiones estéticas ligadas a la identidad cultural."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El derecho del colegio a la homogeneidad estética para mantener una buena imagen comercial ante los padres.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La imagen comercial no es un derecho que pueda suprimir derechos fundamentales de los menores."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "La opinión exclusiva de los profesores, porque ellos son la autoridad disciplinaria máxima de la Nación.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La autoridad disciplinaria debe operar dentro del marco de respeto a los derechos constitucionales."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 15.",
+      "correct_answer": "B",
+      "explanation": "En Colombia, la Corte Constitucional ha establecido a través de múltiples fallos de tutela que el derecho al libre desarrollo de la personalidad (Art. 16) y la identidad cultural priman sobre normas estéticas estrictas en los manuales de convivencia de los colegios, protegiendo peinados, tatuajes o tintes como expresiones válidas de la individualidad.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Multiperspectivismo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v16",
-      "statement": "Pregunta de prueba 16 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v16",
+      "statement": "Desde una dimensión económica y social sistémica, ¿cuál es un riesgo asociado para ciertos sectores productivos nacionales al implementarse un TLC?",
+      "context": "Se observa en los últimos años un aumento en la firma de Tratados de Libre Comercio (TLC) por parte de Colombia con otros países.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Que los productos nacionales se vendan a precios exorbitantes en el extranjero, causando inflación local.",
+          "is_correct": false,
+          "feedback": "Las exportaciones no generan inflación local directa por su precio externo; el riesgo principal es en las importaciones."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "El aumento de los aranceles, que encarece los productos tecnológicos importados para los ciudadanos.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El objetivo de un TLC es exactamente el opuesto: disminuir o eliminar los aranceles de importación."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Que el Estado prohíba inmediatamente la producción agrícola interna para comprarle todo a otros países.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Los Estados no prohíben su producción; pero los sectores pueden quebrar por falta de competitividad."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Que sectores tradicionales (como el agropecuario) quiebren al no poder competir con importaciones subsidiadas del extranjero.",
+          "is_correct": true,
+          "feedback": "Los agricultores locales de pequeña escala frecuentemente no pueden competir en precio contra productos extranjeros subsidiados por potencias."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 16.",
+      "correct_answer": "D",
+      "explanation": "Los Tratados de Libre Comercio abren las fronteras para el intercambio sin barreras. Si bien benefician a consumidores (bienes más baratos) y a industrias exportadoras robustas, generan un fuerte impacto negativo en sectores nacionales menos tecnificados o que deben competir contra productos extranjeros que reciben grandes subsidios estatales en sus países de origen (como el agro en EE. UU. o Europa).",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento sistemico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v17",
-      "statement": "Pregunta de prueba 17 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v17",
+      "statement": "¿Qué paradigma de conservación de la naturaleza subyace en la exigencia de los donantes europeos frente a la postura de los indígenas?",
+      "context": "Un programa de reforestación en la Amazonía recibe fondos internacionales. Los donantes europeos exigen que no haya presencia humana en la selva, mientras que los indígenas amazónicos sostienen que ellos son los guardianes naturales del ecosistema.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "El paradigma de la conservación estricta \"sin humanos\", contrastado con el manejo sostenible y la ocupación ancestral indígena.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "Los europeos asumen que lo \"natural\" excluye al hombre (parques intocables), mientras los indígenas proponen una relación simbiótica."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "El paradigma del extractivismo extremo europeo frente a la industrialización rápida que buscan las comunidades indígenas.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Los europeos están financiando reforestación (no extractivismo), y los indígenas buscan preservar su territorio, no industrializarlo."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El paradigma de la agricultura intensiva por parte de ambos grupos, solo diferenciados por el tipo de cultivos a sembrar.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El debate trata sobre habitar y conservar el bosque, no sobre técnicas de agricultura comercial."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "El paradigma que asume que las poblaciones indígenas son los principales causantes de la deforestación amazónica actual.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La deforestación es causada por ganadería, minería y maderas; los europeos no los acusan de esto, simplemente asumen un modelo de \"santuario ecológico vacío\"."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 17.",
+      "explanation": "Este escenario evidencia un choque epistemológico. El modelo occidental clásico de conservación a menudo percibe a la naturaleza como un entorno prístino que debe estar aislado de la intervención humana. Por el contrario, los pueblos originarios tienen un paradigma integrado donde su cultura, subsistencia y prácticas tradicionales son parte integral del equilibrio ecológico del bosque amazónico.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretacion y analisis de perspectivas",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v18",
-      "statement": "Pregunta de prueba 18 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál fue el cambio estructural más significativo que introdujo la Constitución de 1991 respecto a la relación entre la Iglesia Católica y el Estado colombiano?",
+      "context": "En la historia política de Colombia, la Constitución de 1886 estableció un modelo de Estado centralista y confesional.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Se impuso una religión oficial diferente, estableciendo a Colombia como un país confesional protestante.",
+          "is_correct": false,
+          "feedback": "El Estado no adoptó una nueva religión oficial; declaró la neutralidad religiosa (Estado laico)."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Se obligó a las instituciones religiosas a pagar impuestos sobre todas sus actividades espirituales de manera retroactiva.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La tributación de iglesias es un tema de leyes posteriores, pero el gran cambio constitucional fue la separación política."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Se consolidó la separación Iglesia-Estado y se garantizó la libertad e igualdad de cultos para todas las confesiones religiosas.",
+          "is_correct": true,
+          "feedback": "La Constitución del 91 pasó de un modelo confesional a un Estado laico y pluralista, garantizando libertad religiosa."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Se delegó completamente la administración de la educación pública rural y urbana a la jerarquía católica.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Esto ocurrió con el Concordato bajo la Constitución del 86, pero en 1991 se revertió otorgando al Estado el monopolio de la educación oficial."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 18.",
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1886, de corte conservador o \"Regeneración\", declaraba a la religión Católica como la oficial de la Nación. El gran salto moderno de la Constitución de 1991 fue declarar el carácter laico del Estado, reconociendo el pluralismo y otorgando las mismas garantías constitucionales (Libertad de Cultos, Art. 19) a todas las religiones y denominaciones.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.4,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v19",
-      "statement": "Pregunta de prueba 19 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v19",
+      "statement": "Desde una óptica territorial y económica, ¿qué efecto colateral ha tenido el desplazamiento masivo en las estructuras urbanas del país?",
+      "context": "El desplazamiento forzado interno en Colombia es un fenómeno multicausal que ha afectado a millones de campesinos a lo largo de décadas.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "El decrecimiento de la población en ciudades como Bogotá y Medellín debido al alto costo de vida para los desplazados.",
+          "is_correct": false,
+          "feedback": "Las ciudades principales han crecido exponencialmente en población, no han decrecido."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Una distribución equitativa y planificada de viviendas de interés social en los centros financieros urbanos.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La llegada repentina masiva generó ocupaciones irregulares en la periferia, no una planeación ordenada en centros financieros."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El fortalecimiento de la producción agrícola en las zonas periféricas de las grandes capitales para el mercado de exportación.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Los campesinos desplazados suelen insertarse en la economía informal urbana, no en agroindustria de exportación en la ciudad."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "La conformación de extensos cinturones de pobreza periféricos y la expansión de la urbanización informal sin servicios básicos.",
+          "is_correct": true,
+          "feedback": "La llegada sin recursos al entorno urbano obliga a asentamientos subnormales en los bordes de la ciudad."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 19.",
+      "correct_answer": "D",
+      "explanation": "El conflicto armado obligó a millones de campesinos a abandonar sus tierras de manera abrupta, migrando hacia las grandes urbes en busca de seguridad. Dado que las ciudades no estaban planificadas para este choque demográfico, se propició la aparición de asentamientos informales en zonas de alto riesgo (laderas, rondas de ríos), caracterizados por la exclusión social, desempleo y falta de servicios públicos.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento sistemico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     },
     {
-      "id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle-v20",
-      "statement": "Pregunta de prueba 20 para sociales_y_ciudadanas",
-      "context": "Escenario de prueba.",
+      "id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v20",
+      "statement": "Frente a esta postura, ¿cuál sería el argumento constitucional más sólido para defender el uso amplio y directo de la Acción de Tutela por parte de los ciudadanos?",
+      "context": "Un analista político argumenta que la \"tutelaitis\" (el uso excesivo de la acción de tutela) está congestionando la rama judicial y debería restringirse severamente para hacer eficiente a la justicia.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Que los jueces necesitan resolver muchos casos rápidos para justificar los altos salarios del sistema judicial colombiano.",
+          "is_correct": false,
+          "feedback": "La eficiencia institucional no es la razón de ser de los derechos humanos ni de la tutela."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Que es el mecanismo más efectivo y expedito con el que cuentan las personas vulnerables para proteger sus derechos fundamentales.",
+          "is_correct": true,
+          "feedback": "La tutela (Art. 86) fue diseñada precisamente para dar acceso rápido y eficaz a la justicia frente a vulneraciones inminentes."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Que restringe la libertad de las grandes empresas para operar libremente en el mercado sin intervención estatal continua.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Este es un argumento de quienes podrían estar en contra de la tutela en el ámbito corporativo, no de quienes la defienden."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Que la tutela permite a los ciudadanos dictar y redactar nuevas leyes directamente sin la necesidad de pasar por el Congreso.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La tutela protege derechos individuales en casos concretos, no es un mecanismo legislativo para redactar leyes."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 20.",
+      "correct_answer": "B",
+      "explanation": "La Acción de Tutela, instituida en 1991, democratizó el acceso a la justicia. Aunque genera carga laboral judicial, su gran valor radica en que brinda un remedio legal rápido (máximo 10 días) y desformalizado (no requiere abogado) a cualquier ciudadano cuyos derechos constitucionales fundamentales estén siendo vulnerados o amenazados, siendo un pilar insustituible del Estado Social de Derecho.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-SOC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Multiperspectivismo",
+      "expected_success": 0.35,
+      "bundle_id": "CO-SOC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "sociales_y_ciudadanas",
+      "subject": "sociales_ciudadanas",
       "grade": 11,
       "country": "co"
     }

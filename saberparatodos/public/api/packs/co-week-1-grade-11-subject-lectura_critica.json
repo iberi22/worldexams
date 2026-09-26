@@ -8,44 +8,44 @@
   },
   "questions": [
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v1",
-      "statement": "Pregunta de prueba 1 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v1",
+      "statement": "Según el relato, ¿dónde estaba ubicado específicamente el reloj averiado?",
+      "context": "Un estudiante de Popayán lee un cuento corto de Gabriel García Márquez sobre un reloj averiado en el centro del pueblo.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "En el centro del pueblo.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "El texto explícitamente menciona que el reloj averiado se encontraba en el centro del pueblo."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "En la casa del alcalde.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La información literal indica que estaba en el centro, no en una residencia privada."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "En la estación de tren abandonada.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El contexto dado no hace referencia a ninguna estación de tren."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "En las afueras del municipio.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Esto contradice directamente la información que lo ubica en el centro."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 1.",
+      "explanation": "La lectura literal implica identificar y recuperar información explícita presente en el texto. En este caso, el lugar exacto del objeto está declarado de manera directa en la premisa.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "icfes_type": "Lectura literal",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -54,44 +54,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v2",
-      "statement": "Pregunta de prueba 2 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v2",
+      "statement": "De acuerdo con el autor del artículo, ¿cuál es la causa principal del problema de tráfico en la ciudad?",
+      "context": "Se lee un artículo de opinión publicado en un periódico nacional sobre el tráfico en Bogotá. El autor afirma que \"el problema no es la falta de vías, sino el exceso de automóviles particulares\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "La falta de vías de gran capacidad.",
+          "is_correct": false,
+          "feedback": "El autor dice explícitamente que \"el problema no es la falta de vías\"."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "El exceso de automóviles particulares.",
+          "is_correct": true,
+          "feedback": "El texto enuncia literalmente que el exceso de carros es la causa principal."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "La mala calidad del transporte público masivo.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Aunque sea una causa real, el autor no la menciona en la cita proporcionada."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "El crecimiento desmedido de la población urbana.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Esta no es la causa indicada de manera explícita por el autor en la oración citada."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 2.",
+      "correct_answer": "B",
+      "explanation": "En la competencia de lectura literal (nivel 1 de Saber 11), el lector debe extraer el contenido local del texto sin añadir inferencias externas. El fragmento descarta la falta de vías y señala el exceso de autos particulares como la causa.",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lectura literal",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v3",
+      "statement": "¿Qué figura retórica se emplea en la expresión \"Llega volando\"?",
+      "context": "En una valla publicitaria en Medellín se lee: \"Tu tiempo vale oro. Llega volando con el Metro\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": "No se están otorgando cualidades humanas a objetos inanimados en esa frase."
+        },
+        {
+          "letter": "B",
+          "text": "Símil",
+          "is_correct": false,
+          "feedback": "Un símil requiere un conector comparativo explícito (como, cual), que no está presente."
+        },
+        {
+          "letter": "C",
+          "text": "Metáfora / Hipérbole",
+          "is_correct": true,
+          "feedback": "Se usa en sentido figurado y exagerado para indicar extrema rapidez en el desplazamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Paradoja",
+          "is_correct": false,
+          "feedback": "No existe una contradicción lógica aparente en la frase que forme una paradoja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Llegar volando\" es una expresión figurada (metáfora por asociación a la rapidez de vuelo) e hiperbólica (exageración evidente) para referirse a llegar muy rápido a un destino utilizando el sistema de transporte, sin que el tren literalmente vuele.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
+      "bloom": "Understand",
+      "icfes_type": "Lectura inferencial",
       "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -100,44 +146,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v3",
-      "statement": "Pregunta de prueba 3 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v4",
+      "statement": "Si un estudiante llega a la institución a las 7:15 a.m., según el manual, ¿qué tipo de falta ha cometido?",
+      "context": "Un manual de convivencia escolar en Cali establece: \"El ingreso después de las 7:00 a.m. se considerará falta leve de impuntualidad\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Falta grave",
+          "is_correct": false,
+          "feedback": "El texto tipifica la llegada tardía explícitamente como leve."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Falta leve de impuntualidad",
+          "is_correct": true,
+          "feedback": "Según la lectura literal de la norma, llegar después de las 7:00 a.m. es una falta leve."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Falta gravísima",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "No hay información textual que califique esta acción como gravísima."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Ninguna falta",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El manual indica claramente que existe una falta (leve) después de la hora indicada."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 3.",
+      "correct_answer": "B",
+      "explanation": "Este ejercicio evalúa la capacidad de comprender el sentido local de un texto normativo y aplicarlo a un caso concreto y simple de manera literal. Llegar a las 7:15 a.m. cumple la condición \"después de las 7:00 a.m.\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
+      "bloom": "Understand",
+      "icfes_type": "Lectura literal",
       "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -146,90 +192,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v4",
-      "statement": "Pregunta de prueba 4 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la intención comunicativa de la personificación en el fragmento anterior?",
+      "context": "Un texto poético describe: \"El sol, agotado de brillar, se esconde perezoso tras la montaña andina\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "Transmitir la sensación de lentitud y ocaso al final de la tarde.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "Atribuir cansancio (\"agotado\") y lentitud (\"perezoso\") evoca un atardecer apacible."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Informar objetivamente sobre el movimiento de rotación terrestre.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El lenguaje poético no tiene como fin la información científica objetiva."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Describir un amanecer muy frío en la región andina.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Si el sol \"se esconde agotado\", se refiere al final del día, no al inicio."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Demostrar que el sol tiene características humanas reales.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La personificación es una figura literaria, no busca afirmar una realidad biológica."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 4.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 11,
-      "country": "co"
-    },
-    {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v5",
-      "statement": "Pregunta de prueba 5 para lectura_critica",
-      "context": "Escenario de prueba.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
-        },
-        {
-          "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
-        },
-        {
-          "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
-        },
-        {
-          "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 5.",
+      "explanation": "La lectura inferencial requiere interpretar el uso del lenguaje figurado. Al describir al sol como \"agotado\" y \"perezoso\" que \"se esconde\", el autor sugiere emotivamente la caída de la tarde (atardecer/ocaso) y el ritmo lento de la transición hacia la noche.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -238,44 +238,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v6",
-      "statement": "Pregunta de prueba 6 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v6",
+      "statement": "¿Qué idea implícita sugiere la diferencia de tamaño entre los personajes de la caricatura?",
+      "context": "En una caricatura política colombiana, un ciudadano minúsculo sostiene sobre su espalda una enorme bolsa de dinero que entrega a un funcionario gigante vestido de traje.",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Que los funcionarios públicos son literalmente más altos que los ciudadanos comunes.",
+          "is_correct": false,
+          "feedback": "La caricatura usa los tamaños de forma simbólica, no literal."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "La desigualdad de poder y la carga desproporcionada sobre el ciudadano frente al Estado.",
+          "is_correct": true,
+          "feedback": "En lenguaje visual, el tamaño mayor denota poder y el menor denota sumisión o carga pesada (impuestos)."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Que el ciudadano disfruta haciendo aportes económicos al país.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La enorme bolsa sobre su espalda sugiere una carga pesada, no disfrute."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Que el Estado no recauda suficientes fondos de la ciudadanía.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El tamaño de la bolsa de dinero desmiente que la recaudación sea pequeña."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 6.",
+      "correct_answer": "B",
+      "explanation": "Los textos discontinuos (como las caricaturas) usan elementos visuales para transmitir mensajes inferenciales. La asimetría de tamaño simboliza relaciones de poder desiguales, y la pesada bolsa representa la carga tributaria o económica que soporta la población civil.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -284,44 +284,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v7",
-      "statement": "Pregunta de prueba 7 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v7",
+      "statement": "¿Qué recomendación implícita ofrece este refrán sobre la responsabilidad personal?",
+      "context": "Lee el siguiente refrán popular en la región del Tolima: \"El que tiene tienda que la atienda, o si no que la venda\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Que el comercio es la única forma válida de ganar dinero.",
+          "is_correct": false,
+          "feedback": "El refrán no limita las opciones económicas, solo habla de la responsabilidad de los propios negocios."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Que es preferible vender los negocios antes de tratar de administrarlos.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Vender se plantea como la consecuencia si no se asume la responsabilidad inicial de atender."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Que cada persona debe hacerse cargo de sus propios asuntos y negocios diligentemente.",
+          "is_correct": true,
+          "feedback": "El sentido figurado es que quien asume una responsabilidad debe cumplirla directamente."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Que los tenderos del Tolima no saben administrar sus locales.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Es un refrán universal hispano, no una crítica específica a los habitantes de una región."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 7.",
+      "correct_answer": "C",
+      "explanation": "El nivel inferencial permite extraer el mensaje moral o el sentido figurado de los refranes. Este dicho enseña que la propiedad o el liderazgo de un proyecto exige compromiso y presencia personal, de lo contrario, es mejor cederlo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -330,44 +330,90 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v8",
-      "statement": "Pregunta de prueba 8 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la premisa o postura fundamental que asume el autor en la oración anterior?",
+      "context": "Un ensayista escribe: \"La deforestación en la Amazonía es un progreso necesario para el desarrollo agroindustrial y económico del país\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "Justifica el daño ambiental en favor del crecimiento económico.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "El autor equipara la deforestación (\"daño\") con un \"progreso necesario\" por motivos económicos."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Critica fuertemente a la agroindustria por destruir la selva.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Todo lo contrario, el autor defiende la agroindustria argumentando que la deforestación es necesaria para ella."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Advierte sobre los peligros del cambio climático en Colombia.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La frase no menciona el cambio climático ni muestra una postura de advertencia ecológica."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Propone alternativas sostenibles para la agricultura moderna.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "No hay propuesta de sostenibilidad, sino una aceptación de la deforestación como medio."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 8.",
+      "explanation": "La lectura crítica (nivel 3) requiere identificar la posición del autor, su ideología o los argumentos subyacentes. Aquí, el autor revela una postura desarrollista que subordina la conservación ambiental (Amazonía) a los intereses agroindustriales.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lectura critica",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v9",
+      "statement": "A partir de la descripción física, ¿qué emoción se puede inferir que experimentaba Juan?",
+      "context": "En una novela, el narrador describe: \"Juan apretó los puños hasta que sus nudillos se tornaron blancos, bajó la mirada y salió de la habitación sin pronunciar palabra\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegría inmensa.",
+          "is_correct": false,
+          "feedback": "Apretarse los puños y salir en silencio no son signos convencionales de alegría."
+        },
+        {
+          "letter": "B",
+          "text": "Cansancio extremo.",
+          "is_correct": false,
+          "feedback": "El cansancio suele manifestarse con relajación muscular o pesadez, no tensión en los puños."
+        },
+        {
+          "letter": "C",
+          "text": "Ira o frustración contenida.",
+          "is_correct": true,
+          "feedback": "La tensión en los puños (\"nudillos blancos\") y el mutismo son indicadores clásicos de rabia reprimida."
+        },
+        {
+          "letter": "D",
+          "text": "Aburrimiento profundo.",
+          "is_correct": false,
+          "feedback": "El aburrimiento causaría bostezos o desinterés, no una tensión física tan marcada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto no menciona explícitamente el sentimiento, pero las acciones físicas (apretar puños, palidez en nudillos por tensión, silencio abrupto) son indicios que el lector debe interpretar inferencialmente como signos de una fuerte tensión emocional, rabia o frustración.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -376,44 +422,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v9",
-      "statement": "Pregunta de prueba 9 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el porcentaje de personas de la ciudad que SÍ se lava las manos antes de comer, según la deducción matemática directa del texto?",
+      "context": "En un artículo sobre salud pública dice: \"A pesar de las campañas, el 40% de la población de la ciudad aún no se lava las manos antes de comer\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "El 40%",
+          "is_correct": false,
+          "feedback": "El 40% corresponde a los que no se lavan las manos, según el texto explícito."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "El 60%",
+          "is_correct": true,
+          "feedback": "Si el total es 100% y el 40% no lo hace, entonces el 60% restante sí lo hace."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El 100%",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Es incorrecto porque ya sabemos que hay una fracción que no cumple la norma."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "El 0%",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Falso, existe una porción de la población que no se ajusta al 40% mencionado."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 9.",
+      "correct_answer": "B",
+      "explanation": "Aunque involucra una resta simple, pertenece al nivel local de comprensión semántica (literalidad extendida). Si una parte (40%) presenta una condición excluyente, la parte restante (100% - 40% = 60%) presenta la condición opuesta.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Apply",
+      "icfes_type": "Lectura literal",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -422,90 +468,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v10",
-      "statement": "Pregunta de prueba 10 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v11",
+      "statement": "¿Qué tipo de relación lógica establece el conector \"sin embargo\" entre las dos ideas del texto?",
+      "context": "Lee el siguiente fragmento: \"Por un lado, las redes sociales acercan a los que están lejos; sin embargo, paradójicamente, alejan a los que están sentados en la misma mesa\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Causalidad",
+          "is_correct": false,
+          "feedback": "No indica que la primera idea sea la causa directa de la segunda."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Secuencia temporal",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "No indican un orden de sucesos en el tiempo (como \"luego\", \"después\")."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Adición de información",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Conectores de adición serían \"además\" o \"y\", no marcan ruptura como \"sin embargo\"."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 10.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lectura_critica",
-      "grade": 11,
-      "country": "co"
-    },
-    {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v11",
-      "statement": "Pregunta de prueba 11 para lectura_critica",
-      "context": "Escenario de prueba.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "Contraste u oposición",
           "is_correct": true,
-          "feedback": "Es correcta."
-        },
-        {
-          "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
-        },
-        {
-          "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
-        },
-        {
-          "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Opone la ventaja de acercar a lo lejos, con la desventaja de alejar a lo cercano."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 11.",
+      "correct_answer": "D",
+      "explanation": "Identificar la función de los conectores lógicos es vital para la comprensión de lectura (competencia sintáctico-semántica). \"Sin embargo\" es un conector adversativo que introduce una objeción, contraste u oposición frente a la afirmación inmediatamente anterior.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -514,44 +514,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v12",
-      "statement": "Pregunta de prueba 12 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es el principal recurso argumentativo falaz o cuestionable que utiliza el anuncio para persuadir al lector?",
+      "context": "Un anuncio comercial afirma: \"Ocho de cada diez expertos recomiendan nuestra marca de crema dental porque es la única que de verdad protege tus dientes\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Utiliza datos estadísticos falsos sin que se note.",
+          "is_correct": false,
+          "feedback": "No sabemos si el dato es falso; el problema es cómo se usa para sustentar la conclusión absoluta (\"la única\")."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Apela a los sentimientos de tristeza del consumidor.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El texto no intenta conmover ni apela a la tristeza."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Promueve un mensaje en contra de la competencia directa mediante insultos.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "No insulta a la competencia, simplemente la ignora al afirmar ser \"la única\"."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Apela a una autoridad genérica (\"expertos\") y hace una afirmación absoluta no demostrada (\"la única\").",
+          "is_correct": true,
+          "feedback": "Usa la falacia de autoridad (\"expertos\" no identificados) y generaliza sin evidencia."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 12.",
+      "correct_answer": "D",
+      "explanation": "La lectura crítica evalúa la validez de los argumentos. El texto comercial emplea una falacia de \"apelación a la autoridad\" vaga (¿quiénes son los expertos?) y hace una afirmación categórica excluyente (\"la única que de verdad protege\") que carece de sustento objetivo en el texto.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura critica",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -560,44 +560,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v13",
-      "statement": "Pregunta de prueba 13 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v13",
+      "statement": "¿Qué sentido tiene la frase \"creando una sinfonía metálica\" en el contexto del relato?",
+      "context": "El texto dice: \"La llovizna caía mansa sobre los techos de zinc del barrio popular, creando una sinfonía metálica que arrullaba a los durmientes\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Que una orquesta real tocaba instrumentos de metal bajo la lluvia.",
+          "is_correct": false,
+          "feedback": "La interpretación literal destruye el sentido poético del texto."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Que los techos estaban en mal estado y hacían ruidos insoportables.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Si el ruido arrullaba a los durmientes, no podía ser insoportable."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Que los habitantes del barrio son expertos en música clásica.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El texto no habla de las habilidades musicales de las personas."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Representar el sonido rítmico y armónico de las gotas de agua al golpear el techo.",
+          "is_correct": true,
+          "feedback": "Es una metáfora sensorial que compara el repiqueteo del agua en el zinc con una pieza musical relajante."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 13.",
+      "correct_answer": "D",
+      "explanation": "A nivel inferencial, se debe comprender el lenguaje literario figurado. \"Sinfonía metálica\" es una imagen auditiva que embellece la descripción del ruido de la lluvia contra las placas de zinc, sugiriendo un ritmo musical que produce calma (\"arrullaba\").",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -606,44 +606,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v14",
-      "statement": "Pregunta de prueba 14 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v14",
+      "statement": "De acuerdo con el texto, ¿qué consecuencia principal tuvieron las guerras civiles del siglo XIX para Colombia?",
+      "context": "En un texto sobre historia de Colombia se afirma: \"Durante el siglo XIX, las guerras partidistas sangraron la nación, postergando la consolidación de un Estado moderno\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Impulsaron el rápido crecimiento económico del país.",
+          "is_correct": false,
+          "feedback": "El texto dice lo contrario, que \"sangraron\" y \"postergaron\" el desarrollo."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Lograron la modernización inmediata de las instituciones políticas.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El fragmento indica que la modernización fue \"postergada\", es decir, retrasada."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Retrasaron la formación y fortalecimiento de un Estado nacional moderno.",
+          "is_correct": true,
+          "feedback": "\"Postergando la consolidación de un Estado moderno\" es sinónimo de retrasar su formación."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Unificaron a los partidos políticos en un solo movimiento pacífico.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El texto menciona \"guerras partidistas\", lo que evidencia profunda división, no unidad."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 14.",
+      "correct_answer": "C",
+      "explanation": "Esta pregunta mide la capacidad de parafrasear y comprender consecuencias a partir de vocabulario avanzado. \"Postergar\" significa retrasar. Por tanto, las guerras retrasaron el establecimiento de un Estado moderno y organizado.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -652,44 +652,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v15",
-      "statement": "Pregunta de prueba 15 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál de las siguientes afirmaciones describe mejor una debilidad en el argumento del autor?",
+      "context": "Un texto argumenta: \"La tecnología en las aulas solo distrae a los estudiantes. Mis alumnos sacaron peores notas el año en que permití las tabletas, por tanto, la tecnología arruina la educación\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
+          "text": "Generaliza a partir de una experiencia personal limitada y confunde correlación con causalidad.",
           "is_correct": true,
-          "feedback": "Es correcta."
+          "feedback": "Asume que porque dos cosas pasaron a la vez (tabletas y malas notas) una causó la otra irremediablemente."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Carece de emociones para conectar con el lector en un tema tan sensible.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La validez de un argumento lógico no depende de su emotividad."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Utiliza lenguaje demasiado técnico que confunde el mensaje principal.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El lenguaje del fragmento es coloquial y sencillo de entender."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Defiende la tecnología de forma irresponsable sin considerar los riesgos.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El autor hace exactamente lo opuesto: ataca la tecnología."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 15.",
+      "explanation": "El análisis crítico requiere identificar errores argumentativos. Aquí, el autor comete una falacia de generalización apresurada (sus alumnos = toda la educación) y de falsa causa (post hoc ergo propter hoc), asumiendo sin más prueba que las tabletas causaron el bajo rendimiento.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura critica",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -698,44 +698,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v16",
-      "statement": "Pregunta de prueba 16 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v16",
+      "statement": "¿Qué significa que los requisitos sean \"excluyentes\" según la estructura del instructivo?",
+      "context": "Un instructivo para solicitar un crédito educativo indica: \"Requisitos excluyentes: ser ciudadano colombiano de nacimiento, tener entre 16 y 25 años, y no estar reportado en centrales de riesgo\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Que cumplir con uno solo de los requisitos es suficiente para aplicar.",
+          "is_correct": false,
+          "feedback": "Si fueran opciones alternativas, usaría \"o\", pero usa \"y\" como conjunción sumatoria."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "Que las personas que cumplan los requisitos serán excluidas del crédito.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Es una contradicción lógica, los requisitos son para acceder, no para ser negado."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Que la falta de cumplimiento de cualquiera de ellos anula la posibilidad de acceder al crédito.",
+          "is_correct": true,
+          "feedback": "\"Excluyentes\" en normas legales significa que su incumplimiento excluye automáticamente al aspirante."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Que solo aplican para estudiantes de universidades públicas.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El texto no menciona restricciones respecto a instituciones públicas o privadas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 16.",
+      "correct_answer": "C",
+      "explanation": "Competencia semántica: \"Requisitos excluyentes\" indica que son condiciones sine qua non (obligatorias). Si falta alguna de las características listadas, el sujeto queda inmediatamente fuera del proceso de selección.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Lectura literal",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -744,44 +744,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v17",
-      "statement": "Pregunta de prueba 17 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v17",
+      "statement": "A partir del texto, ¿qué actitud humana es la principal responsable de esa \"incapacidad\" según la perspectiva del autor?",
+      "context": "Texto filosófico (adaptación de Kant): \"La ilustración es la liberación del hombre de su culpable incapacidad. La incapacidad significa la imposibilidad de servirse de su inteligencia sin la guía de otro.\"",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "La falta de oportunidades educativas brindadas por el Estado.",
+          "is_correct": false,
+          "feedback": "El texto culpa al propio hombre (\"culpable incapacidad\"), no a condiciones externas materiales."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "La inferioridad biológica o mental inherente a ciertos seres humanos.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Kant asume que los hombres tienen inteligencia, pero no se \"sirven\" de ella."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "El exceso de información que confunde a la sociedad moderna.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El texto original clásico no refiere a los problemas de la era de la información."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "La cobardía o pereza intelectual de depender siempre del pensamiento ajeno.",
+          "is_correct": true,
+          "feedback": "\"No servirse de su inteligencia sin guía de otro\" apunta a la falta de autonomía y valor para pensar por sí mismo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 17.",
+      "correct_answer": "D",
+      "explanation": "A nivel de lectura crítica de textos filosóficos, se debe inferir la tesis del autor. Al calificar la incapacidad como \"culpable\", Kant responsabiliza a la propia persona, asumiendo que el humano posee raciocinio pero elige la comodidad moral e intelectual de ser guiado (\"heteronomía\") en lugar del pensamiento autónomo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura critica",
+      "expected_success": 0.4,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -790,44 +790,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v18",
-      "statement": "Pregunta de prueba 18 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la función principal de la analogía utilizada por el autor en este texto?",
+      "context": "Columna de opinión: \"Exigir que todos los textos clásicos sean reescritos para no ofender sensibilidades contemporáneas es como borrar la historia de la medicina porque los cirujanos del pasado no usaban anestesia\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Defender los métodos médicos antiguos frente a la tecnología moderna.",
+          "is_correct": false,
+          "feedback": "La medicina es solo el vehículo de la comparación, no el tema central del texto."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Ilustrar lo absurdo e irracional que resulta intentar borrar o alterar los errores del pasado en lugar de aprender de ellos.",
+          "is_correct": true,
+          "feedback": "Compara el revisionismo literario con un acto ridículo (borrar la historia médica) para deslegitimarlo."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Exigir que los libros de medicina también sean censurados por crueldad.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El autor está en contra de la censura, no promoviendo censurar más textos."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Demostrar que la literatura y la ciencia siguen metodologías idénticas.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "No busca igualar metodologías, sino evidenciar un paralelismo lógico sobre la preservación histórica."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 18.",
+      "correct_answer": "B",
+      "explanation": "La lectura crítica exige identificar recursos retóricos y su propósito. El autor usa una analogía (comparación) reductio ad absurdum para desacreditar la censura de textos literarios clásicos, mostrando que el contexto histórico, aunque hoy parezca inaceptable o crudo, debe preservarse como testimonio y no eliminarse retroactivamente.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura critica",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -836,44 +836,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v19",
-      "statement": "Pregunta de prueba 19 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v19",
+      "statement": "¿Por qué el texto utiliza el término \"provisionalmente\" en su conclusión científica?",
+      "context": "Un texto científico divulgativo concluye: \"Dado que el experimento P produjo el resultado X en 999 de cada 1000 intentos, la hipótesis H es provisionalmente aceptada\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "Porque los científicos desconfían de sus propios resultados y asumen que hicieron mal el experimento.",
+          "is_correct": false,
+          "feedback": "La tasa de éxito es del 99.9%, no hay indicios de mala praxis."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Porque en el método científico ninguna verdad empírica es absoluta y está sujeta a refutación futura.",
+          "is_correct": true,
+          "feedback": "Reconoce el principio de falsabilidad; el conocimiento científico siempre es perfectible y condicional."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
+          "text": "Porque no alcanzaron los 1000 intentos perfectos y por ende la teoría fracasó.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "999 de 1000 es un éxito altísimo; no fracasó, simplemente la ciencia no opera con verdades dogmáticas."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Porque carecen del presupuesto necesario para hacer el experimento definitivo.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "El texto no menciona problemas presupuestales ni económicos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 19.",
+      "correct_answer": "B",
+      "explanation": "La comprensión profunda de textos académicos requiere manejar saberes epistemológicos. El adverbio \"provisionalmente\" refleja la naturaleza no dogmática de las ciencias empíricas: una hipótesis se acepta como la mejor explicación disponible hasta que nueva evidencia demuestre lo contrario o la matice.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "icfes_type": "Lectura inferencial",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -882,44 +882,44 @@
       "country": "co"
     },
     {
-      "id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle-v20",
-      "statement": "Pregunta de prueba 20 para lectura_critica",
-      "context": "Escenario de prueba.",
+      "id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle-v20",
+      "statement": "Al relacionar ambos textos desde una perspectiva crítica, se puede afirmar que:",
+      "context": "Dos fragmentos se contrastan:\nTexto 1: \"La globalización ha democratizado la información, permitiendo a los ciudadanos empoderarse políticamente\".\nTexto 2: \"La globalización de las telecomunicaciones ha concentrado el poder narrativo en tres o cuatro megacorporaciones mundiales, silenciando lo local\".",
       "options": [
         {
           "letter": "A",
-          "text": "Respuesta correcta",
-          "is_correct": true,
-          "feedback": "Es correcta."
+          "text": "El texto 1 y el texto 2 describen exactamente el mismo fenómeno sin ninguna contradicción evidente.",
+          "is_correct": false,
+          "feedback": "Presentan posturas radicalmente opuestas sobre las consecuencias del fenómeno."
         },
         {
           "letter": "B",
-          "text": "Incorrecta 1",
+          "text": "El texto 1 es una verdad absoluta, por lo que el texto 2 es simplemente una falsedad propagandística.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "La lectura crítica no decreta dogmas; evalúa cómo se construyen posturas divergentes sobre realidades complejas."
         },
         {
           "letter": "C",
-          "text": "Incorrecta 2",
-          "is_correct": false,
-          "feedback": "Es incorrecta."
+          "text": "Presentan visiones antagónicas sobre las consecuencias de un mismo proceso social y tecnológico.",
+          "is_correct": true,
+          "feedback": "Uno ve democratización (poder distribuido) y el otro ve monopolización (poder concentrado) frente a la globalización."
         },
         {
           "letter": "D",
-          "text": "Incorrecta 3",
+          "text": "Ambos textos ignoran por completo el papel de la tecnología en la sociedad actual.",
           "is_correct": false,
-          "feedback": "Es incorrecta."
+          "feedback": "Ambos textos basan su argumento implícitamente en el desarrollo tecnológico (información y telecomunicaciones)."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Explicación detallada de la pregunta 20.",
+      "correct_answer": "C",
+      "explanation": "La lectura crítica (nivel superior en ICFES) incluye la capacidad de evaluar intertextualidad (relación entre múltiples textos). Al analizar las tesis, se identifica un antagonismo dialéctico: mientras un autor asume una perspectiva optimista (democratización), el otro denuncia un efecto de concentración de poder (monopolio mediático).",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "General",
-      "expected_success": 0.8,
-      "bundle_id": "CO-LEC-11-2026-W01-test-001-MASTERY-bundle",
+      "bloom": "Evaluate",
+      "icfes_type": "Lectura critica",
+      "expected_success": 0.35,
+      "bundle_id": "CO-LC-11-2026-W01-diagnostico-saber11-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
