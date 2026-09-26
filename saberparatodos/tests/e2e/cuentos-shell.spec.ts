@@ -172,7 +172,7 @@ test.describe('Cuentos Night Shell & HUD E2E Suite (Ola C7.01)', () => {
     expect(networkRequests, `No network calls should occur from HUD interactions`).toEqual([]);
 
     // 13. Emulate reduced motion and verify star dust animation override
-    await page.emulateMedia({ reduceMotion: 'reduce' });
+    await page.emulateMedia({ reducedMotion: 'reduce' });
     const starDust = page.locator('.cuento-star-dust').first();
     await expect(starDust).toBeVisible();
 

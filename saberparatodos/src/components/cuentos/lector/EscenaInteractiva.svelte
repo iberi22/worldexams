@@ -2,8 +2,9 @@
 <script lang="ts">
   import '../arte/tokens.css';
   import EscenaSVG, { type PiezaInstancia, type EscenaPlanos } from '../arte/EscenaSVG.svelte';
-  import EscenaParallax, { type EscenaCapas } from '../arte/EscenaParallax.svelte';
-  import { getTanaLayeredPlanes, hasLayeredScene } from '../arte/escenas-capas/tana';
+  import EscenaParallax from '../arte/EscenaParallax.svelte';
+  import type { EscenaCapas } from '../../../lib/cuentos/escenas-capas';
+  import { blip } from '../../../lib/cuentos/sonidos';
 
   export interface Hotspot {
     id: string;
@@ -18,8 +19,10 @@
     hotspots?: Hotspot[];
     piezas?: PiezaInstancia[];
     escena?: EscenaPlanos;
+    /** Solo informativo (data-attrs/tests). Las capas llegan resueltas en `escenaCapas`. */
     cuentoSlug?: string;
     paginaNumero?: number;
+    /** Capas 2.5D de la página (desde escenas-capas/{slug}/p{N}.svg, resueltas en build). */
     escenaCapas?: EscenaCapas;
     tituloAccesible?: string;
     descripcionAccesible?: string;
@@ -43,16 +46,11 @@
   let activeHotspotId = $state<string | null>(null);
   let activeReaction = $state<string | null>(null);
 
-  // Determine whether layered planes exist for this page or prop
-  const activeLayeredPlanes = $derived.by(() => {
-    if (escenaCapas && escenaCapas.fondo && escenaCapas.medio && escenaCapas.frente) {
-      return escenaCapas;
-    }
-    if (cuentoSlug && paginaNumero && hasLayeredScene(cuentoSlug, paginaNumero)) {
-      return getTanaLayeredPlanes(paginaNumero);
-    }
-    return null;
-  });
+  // Capas 2.5D disponibles para esta página (motor genérico: cualquier cuento
+  // con arte en escenas-capas/{slug}/). Sin capas → escena plana de siempre.
+  const activeLayeredPlanes = $derived(
+    escenaCapas && (escenaCapas.fondo || escenaCapas.medio || escenaCapas.frente) ? escenaCapas : null
+  );
 
   /**
    * Generates a WebAudio blip sound with zero audio files or external network requests.
@@ -63,31 +61,11 @@
     const isReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (isReduced) return;
 
-    try {
-      const AudioCtx = window.AudioContext || (window as any).webkitAudioContext;
-      if (!AudioCtx) return;
-      const ctx = new AudioCtx();
-      if (ctx.state === 'suspended') {
-        ctx.resume().catch(() => {});
-      }
-      const osc = ctx.createOscillator();
-      const gain = ctx.createGain();
-
-      osc.type = 'sine';
-      osc.frequency.setValueAtTime(frequency, ctx.currentTime);
-      osc.frequency.exponentialRampToValueAtTime(frequency * 1.5, ctx.currentTime + 0.12);
-
-      gain.gain.setValueAtTime(0.15, ctx.currentTime);
-      gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.12);
-
-      osc.connect(gain);
-      gain.connect(ctx.destination);
-
-      osc.start();
-      osc.stop(ctx.currentTime + 0.12);
-    } catch {
-      // Silently handle if WebAudio policy or browser audio context is unavailable
-    }
+    // AudioContext compartido (sonidos.ts). Antes se creaba un contexto NUEVO
+    // por toque y nunca se cerraba: tras unos pocos toques el navegador
+    // (iOS Safari en particular) dejaba la escena muda. blip() ya es seguro
+    // sin WebAudio.
+    blip(frequency, 'sine');
   }
 
   function getReactionClass(accion?: string): string {
@@ -118,16 +96,24 @@
   }
 </script>
 
-<div class="cuento-escena-interactiva {className}">
+<div
+  class="cuento-escena-interactiva {className}"
+  data-escena-modo={activeLayeredPlanes ? 'capas' : 'plana'}
+  data-cuento={cuentoSlug}
+  data-pagina={paginaNumero}
+>
   {#if activeLayeredPlanes}
-    <!-- 2.5D Parallax Scene Path (Pilot cuentos e.g. Tana) -->
-    <EscenaParallax
-      escenaCapas={activeLayeredPlanes}
-      {hotspots}
-      {tituloAccesible}
-      {descripcionAccesible}
-      {onHotspotTrigger}
-    />
+    <!-- 2.5D Parallax Scene Path (motor genérico escenas-capas/{slug}) -->
+    <!-- {#key}: zoom, conteo y globos se reinician al cambiar de página -->
+    {#key activeLayeredPlanes}
+      <EscenaParallax
+        escenaCapas={activeLayeredPlanes}
+        {hotspots}
+        {tituloAccesible}
+        {descripcionAccesible}
+        {onHotspotTrigger}
+      />
+    {/key}
   {:else}
     <!-- Flat Scene SVG Path (Fallback for non-pilot cuentos) -->
     <div class="cuento-escena-wrapper">

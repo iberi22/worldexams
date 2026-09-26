@@ -52,7 +52,7 @@ test.describe('Cuentos Infantil Lector & Quiz E2E Suite (Wave C2.06)', () => {
     });
 
     // 3. Emulate prefers-reduced-motion for accessibility compliance
-    await page.emulateMedia({ reduceMotion: 'reduce' });
+    await page.emulateMedia({ reducedMotion: 'reduce' });
 
     // Hide hero overlay if present
     await page.addInitScript(() => {

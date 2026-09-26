@@ -51,9 +51,15 @@ describe('EscenaInteractiva.svelte Component Suite (Wave C2.04)', () => {
   it('implementa reacciones mediante CSS (salto/giro) y WebAudio OscillatorNode sin archivos de audio externos', () => {
     const content = fs.readFileSync(componentPath, 'utf8');
 
-    // WebAudio sintetizado
-    expect(content).toContain('createOscillator()');
-    expect(content).toContain('createGain()');
+    // WebAudio sintetizado vía el AudioContext COMPARTIDO de sonidos.ts
+    // (osciladores, cero archivos). El componente no debe crear contextos
+    // propios: uno por toque dejaba la escena muda tras unos pocos toques.
+    expect(content).toContain("from '../../../lib/cuentos/sonidos'");
+    expect(content).toMatch(/\bblip\(/);
+    expect(content).not.toMatch(/new\s+(?:AudioCtx|AudioContext|\(window as any\)\.webkitAudioContext)\b/);
+    const sonidos = fs.readFileSync(path.resolve(__dirname, '../../../lib/cuentos/sonidos.ts'), 'utf8');
+    expect(sonidos).toContain('createOscillator()');
+    expect(sonidos).toContain('createGain()');
 
     // Clases CSS de reacción
     expect(content).toContain('cuento-hotspot-jump');
