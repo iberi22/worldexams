@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-38-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-26T02:29:03.507Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v1",
+      "statement": "Cuál es la definición correcta de amenaza en el contexto de la gestión del riesgo de desastres en Colombia?",
+      "context": "En la Institución Educativa Distrital San José (Bogotá), la docente de Ciencias Naturales explica a los estudiantes la diferencia entre amenaza, vulnerabilidad y riesgo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un fenómeno, sustancia o actividad humana potencialmente peligrosa que puede causar daño a personas, bienes o al ambiente.",
+          "is_correct": true,
+          "feedback": "Correcto. En gestión del riesgo, amenaza es el factor externo potencialmente dañino, mientras vulnerabilidad es la predisposición interna a sufrir daño."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de dinero que cuesta reconstruir una ciudad después de un terremoto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo de reconstrucción es una pérdida económica, no la definición de amenaza."
+        },
+        {
+          "letter": "C",
+          "text": "El número de personas heridas durante una emergencia ocurrida en el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras de afectados corresponden al impacto del desastre, no a la amenaza en sí misma."
+        },
+        {
+          "letter": "D",
+          "text": "La capacidad de una comunidad para olvidar rápidamente los eventos catastróficos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidar un evento no es una variable técnica reconocida en la gestión del riesgo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La UNGRD define amenaza como el peligro latente de que un evento físico de origen natural o antropogénico se presente con una intensidad capaz de afectar a la población. Combinada con la vulnerabilidad, da como resultado el riesgo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v2",
+      "statement": "Por qué se considera que Colombia es un país con alta vulnerabilidad sísmica en comparación con otros países de Suramérica?",
+      "context": "En el Colegio Mayor de San Bartolomé (Bogotá), los estudiantes analizan el mapa de amenazas de la localidad de Chapinero elaborado por la SIDE.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no existen normas de construcción resistentes en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia cuenta con la NSR-10 que regula las construcciones sismo resistentes en todo el territorio nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Porque está ubicada en una zona de interacción de varias placas tectónicas, lo que favorece la ocurrencia de sismos.",
+          "is_correct": true,
+          "feedback": "Correcto. Colombia se sitúa sobre la convergencia de las placas Nazca, Sudamericana, Caribe y Cocos, además de fallas geológicas activas."
+        },
+        {
+          "letter": "C",
+          "text": "Por el bajo nivel educativo promedio de la población colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación es importante para la respuesta, pero la vulnerabilidad sísmica depende principalmente de factores geológicos y constructivos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la mayoría de los colombianos vive a más de 3.000 metros sobre el nivel del mar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altitud no es un factor determinante del riesgo sísmico; el relieve puede incluso reducirlo en ciertos casos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Colombia forma parte del Cinturón de Fuego del Pacífico y se ubica en la convergencia de varias placas tectónicas. Esto, sumado a fallas geológicas activas, explica por qué ciudades como Bogotá, Cali o Armenia han registrado sismos de gran magnitud en su historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v3",
+      "statement": "Cuál es el papel del Servicio Geológico Colombiano (SGC) en la gestión del riesgo volcánico en un municipio cercano a un volcán activo?",
+      "context": "En la Institución Educativa San Sebastián de Manizales, los docentes del Proyecto Ondas explican a los estudiantes cómo se activa la alerta temprana ante una posible avalancha en el Nevado del Ruiz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monitorear la actividad sísmica, los gases y la deformación del volcán para informar oportunamente a las autoridades y a la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El SGC opera las redes de vigilancia volcánica y emite boletines que activan los protocolos de las autoridades locales."
+        },
+        {
+          "letter": "B",
+          "text": "Construir muros de contención alrededor del cráter para detener las erupciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detener erupciones es físicamente imposible; la gestión se centra en monitoreo, prevención y evacuación."
+        },
+        {
+          "letter": "C",
+          "text": "Cobrar una prima mensual a las familias que habitan en zonas volcánicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El SGC es una entidad pública que no cobra primas; otras entidades como las aseguradoras manejan pólizas."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir de forma permanente la agricultura y la vivienda en cualquier zona montañosa del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gestión del riesgo no prohíbe toda actividad; ordena el uso del suelo según el nivel de amenaza identificado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El Servicio Geológico Colombiano vigila permanentemente los volcanes activos del país, como el Nevado del Ruiz, el Galeras o el Puracé. Esa información permite a la UNGRD y a los comités locales declarar alertas naranja o roja y coordinar evacuaciones preventivas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v4",
+      "statement": "Cuál es la conducta correcta de un estudiante de grado octavo durante un sismo fuerte si se encuentra dentro del aula de clase?",
+      "context": "En un simulacro distrital en el Colegio Agustín Nieto Caballero (Bogotá), los estudiantes practican la ruta de evacuación ante un sismo de gran intensidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salir corriendo hacia las escaleras sin orden ni precaución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salir corriendo puede causar caídas y atropellamientos; lo indicado es protegerse primero y evacuar cuando termine el movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Esconderse debajo del escritorio más cercano, protegerse la cabeza y esperar a que termine el movimiento antes de evacuar.",
+          "is_correct": true,
+          "feedback": "Correcto. Agacharse, cubrirse y sujetarse (método \"Agáchese, cúbrase y agárrese\") reduce el riesgo de lesiones por caída de objetos."
+        },
+        {
+          "letter": "C",
+          "text": "Llamar de inmediato a sus familiares aunque la línea esté congestionada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saturar las líneas telefónicas dificulta la atención de emergencias reales; primero debe protegerse y luego ayudar a otros."
+        },
+        {
+          "letter": "D",
+          "text": "Quedarse de pie junto a la ventana para ver qué pasa afuera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ventanas pueden romperse durante un sismo y los vidrios representan un peligro grave."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El protocolo internacional \"Agáchese, cúbrase y agárrese\" (Drop, Cover, Hold On) recomienda buscar un mueble resistente, cubrirse la cabeza y esperar el fin del movimiento antes de evacuar ordenadamente por las rutas previamente señalizadas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v5",
+      "statement": "Cuáles de los siguientes elementos deberían incluirse prioritariamente en una mochila de emergencia de 72 horas para una familia colombiana en zona de alta amenaza sísmica?",
+      "context": "El cuerpo de Bomberos Voluntarios de Armenia (Quindío) visita el Colegio San Luis Gonzaga y enseña a los estudiantes cómo funciona la mochila de emergencia familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua potable embotellada, linterna con baterías, botiquín básico, radio portátil y documentos de identidad protegidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Agua, linterna, botiquín, radio y documentos son los cinco grupos básicos recomendados por la UNGRD y la Cruz Roja Colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Computador portátil, ropa de fiesta, jugos en caja y videojuegos portátiles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos elementos no son prioritarios en una emergencia; la mochila debe priorizar supervivencia y comunicación básica."
+        },
+        {
+          "letter": "C",
+          "text": "Útiles escolares adicionales como cuadernos y colores para mantener la rutina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los útiles escolares pueden ser útiles después, pero no son prioridad durante las primeras 72 horas."
+        },
+        {
+          "letter": "D",
+          "text": "Sólo el documento de identidad del cabeza de familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la familia debe tener documentos protegidos y la mochila debe ser útil para todos sus integrantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mochila de emergencia de 72 horas es una herramienta clave en zonas de alto riesgo colombiano. Debe contener lo necesario para sobrevivir y comunicarse mientras llegan los organismos de socorro, lo cual se resume en agua, alimento no perecedero, linterna, radio y documentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v6",
+      "statement": "Si durante un evento eruptivo del Nevado del Ruiz se genera un lahar que desciende por el río Lagunilla, cuál sería la acción comunitaria más adecuada en el municipio de Armero para proteger a la población?",
+      "context": "En la Institución Educativa Atanasio Girardot de Ibagué (Tolima), los estudiantes reciben una charla del CREPAD departamental sobre lahares y avalanchas en el Nevado del Ruiz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activar la ruta de evacuación hacia las zonas altas previamente definidas, después de escuchar la alerta oficial de la UNGRD o el SGC.",
+          "is_correct": true,
+          "feedback": "Correcto. La única defensa eficaz contra un lahar es evacuar a tiempo hacia zonas altas fuera del cauce, según las alertas oficiales."
+        },
+        {
+          "letter": "B",
+          "text": "Subir al techo de las casas y esperar a que el lodo se seque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un lahar puede sepultar techos enteros; lo correcto es alejarse del cauce por completo."
+        },
+        {
+          "letter": "C",
+          "text": "Construir muros de tierra en el lecho del río con retroexcavadoras del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad y volumen del lahar supera cualquier obra improvisada; la prioridad es evacuar."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que las aguas se aclaren por sí solas antes de abandonar las viviendas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La espera aumenta el riesgo de pérdida de vidas; se debe evacuar con la primera alerta naranja o roja."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tragedia de Armero (1985) demostró que un lahar puede recorrer decenas de kilómetros en minutos. Por eso la UNGRD trabaja con simulacros, sirenas comunitarias y mapas de evacuación para que la población reaccione con rapidez ante las alertas oficiales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v7",
+      "statement": "En un municipio colombiano de ladera con fuertes lluvias y antecedentes de deslizamientos, cuál es la combinación correcta de medidas preventivas para reducir el riesgo?",
+      "context": "En el Colegio Público Rural de Purnio (Tolima), los docentes explican a los estudiantes cómo diferenciar las amenazas que más afectan a su municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Talar árboles en la parte alta de la montaña para ampliar potreros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tala en zonas de ladera reduce la cohesión del suelo y aumenta el riesgo de deslizamientos."
+        },
+        {
+          "letter": "B",
+          "text": "Construir viviendas informales en la base de los taludes para aprovechar el terreno plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las laderas y la base de los taludes son zonas de alto riesgo; allí no se debe construir sin estudios técnicos."
+        },
+        {
+          "letter": "C",
+          "text": "Pintar las fachadas de las casas con colores vivos como alerta visual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color de las fachadas no reduce el riesgo físico ni la probabilidad de deslizamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Reforestar las cuencas, construir canales de drenaje y reubicar viviendas en zonas seguras según estudios de suelo.",
+          "is_correct": true,
+          "feedback": "Correcto. Reforestación, drenaje adecuado y reubicación basada en estudios de suelo son las medidas estructurales y no estructurales recomendadas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La gestión del riesgo combina medidas estructurales (muros, canales, drenajes) con no estructurales (planes de evacuación, reubicaciones, educación). En laderas colombianas, reforestar las cuencas y no construir en zonas de riesgo es esencial para salvar vidas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v8",
+      "statement": "Por qué el aumento de la frecuencia de inundaciones en el Valle de Aburrá no se explica solamente por el cambio climático, sino también por factores locales de ordenamiento territorial?",
+      "context": "En el Colegio de la Universidad Pontificia Bolivariana (Medellín), un equipo de investigación analiza la frecuencia de inundaciones en el Valle de Aburrá durante los últimos 30 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la urbanización acelerada selló los suelos, redujo la infiltración y aumentó la escorrentía hacia los cauces del río Medellín y sus quebradas.",
+          "is_correct": true,
+          "feedback": "Correcto. El concreto y el asfalto impiden la absorción del agua, incrementando el caudal pico y la velocidad de las crecientes."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los ingenieros olvidaron instalar hidrantes contra incendios en el centro de Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hidrantes contra incendios no tienen relación con el control de inundaciones urbanas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gente dejó de comprar vehículos particulares en el valle.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parque automotor no es un factor que controle las inundaciones urbanas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se construyeron demasiados parques infantiles en las laderas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los parques infantiles no afectan significativamente el drenaje de aguas lluvias en una ciudad grande."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las inundaciones urbanas suelen ser el resultado combinado de lluvias intensas, cambio climático y mala planificación. Sellar los suelos con pavimento y construir en rondas hídricas aumenta el riesgo, como se observa en el Valle de Aburrá y en Soacha.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v9",
+      "statement": "Cuál es la relación correcta entre los enjambres sísmicos localizados bajo el Volcán Galeras y la posible erupción volcánica?",
+      "context": "En el Observatorio Vulcanológico de Pasto, los investigadores comparan los registros de sismicidad del Volcán Galeras durante las últimas dos décadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los enjambres sísmicos indican siempre que habrá una erupción inmediata en cuestión de horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enjambres pueden presentarse sin que ocurra erupción; requieren análisis multidisciplinario para interpretarlos."
+        },
+        {
+          "letter": "B",
+          "text": "Los enjambres son producidos únicamente por el ganado que pasta en las faldas del volcán.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enjambres sísmicos tienen origen geológico, no biológico ni ganadero."
+        },
+        {
+          "letter": "C",
+          "text": "Los enjambres muestran movimiento de magma o fluidos que, combinados con deformación y gases, permiten subir o bajar el nivel de alerta.",
+          "is_correct": true,
+          "feedback": "Correcto. La integración de sismicidad, deformación y química de gases define el nivel de alerta del volcán."
+        },
+        {
+          "letter": "D",
+          "text": "Los enjambres no aportan información útil para los sistemas de alerta temprana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enjambres son justamente una de las señales más valiosas para los sistemas de alerta volcánica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El monitoreo volcánico moderno es multidisciplinario: combina sismómetros, GPS, inclinómetros, cámaras y análisis de gases. Ninguna señal por sí sola confirma una erupción, pero su análisis conjunto permite tomar decisiones oportunas y salvar vidas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v10",
+      "statement": "Por qué el terremoto del Páez (1994, Cauca) y el de Armenia (1999, Quindío) tuvieron efectos tan graves a pesar de contar con diferente magnitud en la escala de Richter, considerando la profundidad del hipocentro, la calidad de las construcciones y la densidad poblacional de cada zona?",
+      "context": "En el Colegio Colombo Japonés (Bogotá), los estudiantes reciben una conferencia del equipo PAZ (Preparación y Atención Zonal) sobre la historia sísmica del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la vulnerabilidad de las construcciones y la densidad poblacional de las zonas afectadas amplificaron el impacto social, más allá del valor energético del sismo.",
+          "is_correct": true,
+          "feedback": "Correcto. El riesgo es la combinación de amenaza y vulnerabilidad; un sismo moderado en zona mal construida causa muchos más daños que un sismo fuerte en zona preparada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los terremotos sucedidos en Colombia son siempre iguales en su poder destructivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada terremoto tiene características propias de magnitud, profundidad, epicentro y tipo de suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el Estado colombiano entregó indemnizaciones idénticas en ambos eventos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las indemnizaciones fueron diferentes; los montos dependen de las pérdidas y de los seguros contratados."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la población rural del Cauca tenía mayor educación sísmica que la de Armenia en 1999.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La situación fue la opuesta: Armenia tenía más construcciones vulnerables en laderas y suelos blandos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Riesgo es igual a amenaza multiplicada por vulnerabilidad. Por eso un sismo moderado en una zona con edificaciones antiguas o en laderas inestables puede causar más víctimas y daños que un evento más fuerte en una ciudad con códigos de construcción modernos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v11",
+      "statement": "Evalúe la propuesta de autorizar edificaciones en la ronda hídrica del río Guatiquía bajo el argumento de que la frecuencia de crecientes ha disminuido en los últimos años.",
+      "context": "En el Consejo Municipal de Gestión del Riesgo de Villavicencio (Meta), debaten una propuesta para autorizar nuevas construcciones en la ronda del río Guatiquía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inadecuada: la baja frecuencia reciente no elimina la amenaza; el cambio climático puede generar eventos extremos que desbordarían las nuevas construcciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Confiar en una serie corta de años sin inundaciones es un error estadístico grave; la ronda debe protegerse por ley."
+        },
+        {
+          "letter": "B",
+          "text": "Es excelente, porque la disminución de lluvias asegura que ya no habrá creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variabilidad climática siempre puede producir eventos extremos; no se debe construir sobre rondas hídricas."
+        },
+        {
+          "letter": "C",
+          "text": "Solo afecta visualmente el paisaje urbano sin consecuencias reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las consecuencias son materiales, económicas y de pérdida de vidas humanas, no estéticas."
+        },
+        {
+          "letter": "D",
+          "text": "Es viable siempre que los propietarios firmen un documento notarial de aceptación del riesgo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Firmar un documento no reduce el riesgo ni exonera al Estado de su responsabilidad con la protección de la vida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las rondas hídricas son zonas de protección ambiental y de riesgo. Construir en ellas expone a la población a pérdidas materiales y humanas. Las estadísticas de pocos años no anulan la memoria histórica de desastres en la zona ni el efecto del cambio climático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle-v12",
+      "statement": "Evalúe la estrategia de invertir la totalidad del presupuesto de gestión del riesgo de un municipio en una sola obra de infraestructura, comparándola con una estrategia integral basada en prevención, educación y monitoreo.",
+      "context": "En el foro ambiental de la Universidad del Valle (Cali), una propuesta plantea invertir todo el presupuesto municipal de gestión del riesgo en un solo muro de contención contra inundaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es insuficiente: una sola obra rígida no reduce la vulnerabilidad social, educativa ni ecosistémica que también genera desastres.",
+          "is_correct": true,
+          "feedback": "Correcto. La gestión del riesgo debe ser integral: obras estructurales, prevención social, educación, monitoreo y ordenamiento territorial."
+        },
+        {
+          "letter": "B",
+          "text": "Es perfecta porque un muro de contención protege toda la ciudad de cualquier amenaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los muros solo mitigan una amenaza puntual (inundación de un cauce) y no protegen contra sismos, deslizamientos o epidemias."
+        },
+        {
+          "letter": "C",
+          "text": "Solo depende del color con que se pinte el muro para ser efectivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pintura no tiene relación alguna con la capacidad hidráulica ni sísmica de una obra."
+        },
+        {
+          "letter": "D",
+          "text": "Es innecesaria porque los desastres naturales han dejado de ocurrir en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia sigue registrando eventos sísmicos, volcánicos, hidrometeorológicos y deslizamientos cada año."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gestión integral del riesgo combina obras de ingeniería, planificación territorial, educación comunitaria, sistemas de alerta temprana y recuperación posdesastre. Apostar todo a una sola obra rígida es un error técnico y presupuestal que deja a la población igualmente expuesta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W38-riesgo-desastres-naturales-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

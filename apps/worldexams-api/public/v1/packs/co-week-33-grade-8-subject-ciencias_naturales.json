@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-33-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-26T02:29:03.505Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v1",
+      "statement": "Cuál es el gas más abundante en la atmósfera terrestre seca?",
+      "context": "En una clase de química ambiental del Colegio Distrital Rafael Núñez (Bogotá), la profesora explica la composición del aire que respiran los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno, con cerca del 21 por ciento del volumen total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno es el segundo gas más abundante, pero no el principal."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de carbono, con cerca del 0.04 por ciento del volumen total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El CO2 es un gas traza muy importante para el efecto invernadero, pero minoritario."
+        },
+        {
+          "letter": "C",
+          "text": "Nitrógeno, con cerca del 78 por ciento del volumen total.",
+          "is_correct": true,
+          "feedback": "Correcto. El nitrógeno molecular N2 es el gas dominante en la atmósfera terrestre."
+        },
+        {
+          "letter": "D",
+          "text": "Argón, con cerca del 1 por ciento del volumen total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argón es el tercer gas más abundante, pero solo alcanza alrededor del 1 por ciento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La atmósfera está compuesta mayoritariamente por nitrógeno (78%) y oxígeno (21%). El 1% restante incluye argón, vapor de agua, dióxido de carbono y otros gases traza que regulan el clima y la vida en el planeta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v2",
+      "statement": "Qué función cumple la capa de ozono ubicada en la estratósfera terrestre?",
+      "context": "En una estación de monitoreo del IDEAM, un funcionario explica a estudiantes de Popayán la importancia de la estratósfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absorber la mayor parte de la radiación ultravioleta UV-B y UV-C procedente del Sol.",
+          "is_correct": true,
+          "feedback": "Correcto. El ozono estratosférico filtra la radiación ultravioleta dañina para los seres vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Producir todo el oxígeno que respiran los seres humanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno respirable proviene de la fotosíntesis, principalmente en la superficie."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener constante la lluvia sobre los Andes colombianos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia depende de la dinámica de la tropósfera, no del ozono estratosférico."
+        },
+        {
+          "letter": "D",
+          "text": "Generar los vientos alisios que cruzan el Caribe colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vientos alisios se generan por diferencias de presión entre zonas tropicales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La capa de ozono, ubicada entre los 15 y los 35 km de altitud, absorbe la mayor parte de la radiación ultravioleta dañina. Su protección, mediante el Protocolo de Montreal, ha sido clave para reducir el riesgo de cáncer de piel y daños a los ecosistemas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v3",
+      "statement": "Cuál de las siguientes NO es una fuente natural de contaminación atmosférica?",
+      "context": "En una feria ambiental del Colegio San José de Medellín, los estudiantes comparan fuentes naturales y humanas de contaminación del aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las erupciones volcánicas que emiten azufre y partículas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los volcanes son fuentes naturales de aerosoles y gases como el SO2."
+        },
+        {
+          "letter": "B",
+          "text": "Los incendios forestales espontáneos generados por descargas eléctricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los rayos pueden iniciar incendios naturales que emiten monóxido de carbono y partículas."
+        },
+        {
+          "letter": "C",
+          "text": "El polvo del desierto del Sahara transportado por el viento hasta Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polvo sahariano llega cada año al norte de Colombia como una fuente natural."
+        },
+        {
+          "letter": "D",
+          "text": "La quema de combustibles fósiles en vehículos y fábricas.",
+          "is_correct": true,
+          "feedback": "Correcto. La quema de combustibles fósiles es una fuente antropogénica, no natural."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La contaminación atmosférica tiene fuentes naturales (volcanes, incendios, polvo, océanos) y fuentes antropogénicas (vehículos, industria, quemas). Distinguirlas es esencial para diseñar políticas públicas de calidad del aire eficientes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v4",
+      "statement": "Qué medidas preventivas debería activar la autoridad ambiental al registrar un ICA de 180 en Bogotá?",
+      "context": "En una tarde de martes en el centro de Bogotá, la Secretaría de Ambiente reporta un índice ICA de calidad del aire de 180 en la estación de monitoreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convocar una gran fiesta al aire libre para celebrar el reporte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ICA de 180 indica aire dañino y debe activar medidas de protección, no de celebración."
+        },
+        {
+          "letter": "B",
+          "text": "Activar alerta amarilla, recomendar uso de tapabocas N95 y restringir la circulación de vehículos más contaminantes.",
+          "is_correct": true,
+          "feedback": "Correcto. Un ICA de 180 está en el rango de daño a la salud y exige medidas de mitigación inmediatas."
+        },
+        {
+          "letter": "C",
+          "text": "Cerrar todas las escuelas de la ciudad por un año entero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre prolongado no es proporcional; se recomiendan medidas graduales y focalizadas."
+        },
+        {
+          "letter": "D",
+          "text": "Abrir más vías para descongestionar y permitir mayor circulación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más vías atraen más vehículos y tienden a empeorar la contaminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ICA colombiano clasifica la calidad del aire en seis categorías, de buena a peligrosa. A partir de valores dañinos para grupos sensibles, las ciudades deben activar alertas, restringir fuentes móviles y promover el uso de transporte limpio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v5",
+      "statement": "Cuál es la técnica más adecuada para medir la concentración de material particulado PM2.5 en el aire de una ciudad colombiana?",
+      "context": "En el Laboratorio de Calidad del Aire del Área Metropolitana del Valle de Aburrá, técnicos explican a estudiantes de Medellín cómo se miden las partículas finas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Captar aire en filtros especiales durante 24 horas y pesar el material retenido con balanza analítica.",
+          "is_correct": true,
+          "feedback": "Correcto. El método gravimétrico de referencia consiste en filtrar aire y pesar el material recolectado."
+        },
+        {
+          "letter": "B",
+          "text": "Observar el color del cielo a simple vista y estimar la contaminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La observación visual es subjetiva y no permite cuantificar las PM2.5."
+        },
+        {
+          "letter": "C",
+          "text": "Medir la temperatura ambiente con un termómetro de mercurio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no es un indicador directo de la concentración de partículas finas."
+        },
+        {
+          "letter": "D",
+          "text": "Contar la cantidad de pájaros presentes en los parques cercanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fauna urbana no es un instrumento válido de medición de PM2.5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los métodos gravimétricos y los analizadores automáticos basados en atenuación de luz beta son los más usados para PM2.5. Combinan muestreos de 24 horas y lecturas continuas que alimentan los sistemas de alerta de calidad del aire.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v6",
+      "statement": "Por qué en un día con fuerte inversión térmica en Medellín y su valle la calidad del aire del centro empeora notablemente?",
+      "context": "En una estación meteorológica del Valle de Aburrá, los técnicos explican a los habitantes cómo la altitud y la geografía montañosa afectan la calidad del aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en días nublados la lluvia aumenta y limpia todo el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversión térmica impide el ascenso del aire, así haya lluvia localizada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los vehículos eléctricos dejan de funcionar durante el fenómeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversión térmica no afecta el funcionamiento mecánico de los vehículos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el viento aumenta de manera excesiva en las horas siguientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Durante la inversión, los vientos tienden a ser débiles y la mezcla vertical se reduce."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los contaminantes quedan atrapados cerca del suelo al no haber mezcla vertical con la atmósfera superior.",
+          "is_correct": true,
+          "feedback": "Correcto. La inversión térmica actúa como tapa e impide la dispersión de los contaminantes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En ciudades como Medellín, Bogotá o Bucaramanga, encerradas entre montañas, las inversiones térmicas atrapan los contaminantes. Este fenómeno es responsable de muchas alertas ambientales en horas de la mañana y al final de la tarde.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v7",
+      "statement": "Por qué las emisiones de óxidos de azufre de una termoeléctrica pueden afectar el rendimiento de un cultivo de flores en Cundinamarca?",
+      "context": "En la Sabana de Bogotá, floricultores de Mosquera y Funza observan manchas en los pétalos de rosas luego de la operación de una termoeléctrica cercana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los óxidos de azufre vuelven las flores más aromáticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los SOx no mejoran el aroma; más bien dañan los tejidos vegetales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque elevan la temperatura global de manera uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque contribuyen al efecto invernadero, su efecto local en las flores no es térmico inmediato."
+        },
+        {
+          "letter": "C",
+          "text": "Porque generan lluvia ácida y deposición seca que dañan pétalos y acidifican el suelo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los SOx se oxidan a ácido sulfúrico, dañando tejidos vegetales y acidificando suelos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los óxidos de azufre son completamente inertes en la atmósfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los SOx son químicamente muy activos y forman ácidos fuertes en presencia de agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lluvia ácida se forma cuando óxidos de azufre y de nitrógeno reaccionan con vapor de agua y forman ácidos sulfúrico y nítrico. Afecta cultivos, bosques, lagos y edificaciones, y deteriora tanto el suelo como la calidad del agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v8",
+      "statement": "Cuál sería la interpretación correcta si Bogotá registra emisiones de CO2 per cápita más altas que Tokio en el mismo año?",
+      "context": "En la Universidad de los Andes, un equipo de investigación compara las emisiones de CO2 per cápita entre Bogotá, Tokio y Estocolmo para el año 2024.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la metodología empleada siempre es errónea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Antes de descartar la metodología se deben revisar fuentes, alcance y calidad de los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el análisis debe considerar la matriz energética, el tamaño del parque automotor y la altitud de cada ciudad.",
+          "is_correct": true,
+          "feedback": "Correcto. Las emisiones per cápita se entienden solo al contrastarlas con la estructura productiva y urbana."
+        },
+        {
+          "letter": "C",
+          "text": "Que es irrelevante porque toda emisión de CO2 es igualmente grave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer el origen de las emisiones es clave para diseñar políticas efectivas."
+        },
+        {
+          "letter": "D",
+          "text": "Que las tres ciudades contaminan exactamente lo mismo en términos absolutos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El análisis per cápita puede variar mucho respecto al total agregado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar emisiones entre ciudades exige considerar la matriz eléctrica, la dependencia del carbón, el tamaño del parque automotor, la eficiencia del transporte masivo y la altitud. Una comparación incompleta puede llevar a conclusiones injustas o equivocadas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v9",
+      "statement": "Por qué la quema de llantas y residuos plásticos genera dioxinas y furanos especialmente peligrosos para la salud humana?",
+      "context": "En un operativo ambiental en Mosquera (Cundinamarca), la CAR documenta quemas clandestinas de llantas y residuos plásticos a cielo abierto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la combustión incompleta en presencia de cloro orgánico produce compuestos persistentes que se bioacumulan en la cadena alimentaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dioxinas son subproductos de combustiones cloradas y se acumulan en tejidos grasos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las llantas refrescan la atmósfera donde se queman.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las llantas generan calor y gases tóxicos durante su quema; no enfrían nada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el fuego consume todo y no deja ningún residuo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las quemas liberan gases y partículas muy tóxicas que permanecen mucho tiempo en el ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las dioxinas son vitaminas beneficiosas para el cuerpo humano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dioxinas son altamente tóxicas, cancerígenas y disruptores endocrinos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dioxinas y furanos son compuestos orgánicos persistentes que se generan en combustiones incompletas con presencia de cloro. Por su estabilidad química y afinidad lipídica se bioacumulan en tejidos animales, afectando la salud humana a través de la dieta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v10",
+      "statement": "Por qué Medellín ha logrado reducir sus niveles de PM2.5 en los últimos 15 años mientras Bucaramanga mantiene niveles altos y recurrentes?",
+      "context": "En el Comité Ambiental del Área Metropolitana del Valle de Aburrá se contrastan las trayectorias de calidad del aire de Medellín y de Bucaramanga durante los últimos 15 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque Medellín eliminó por completo su parque automotor particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se eliminó todo el parque; se transformó con renovación tecnológica y transporte masivo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en Medellín no existen industrias ni fuentes fijas de emisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medellín tiene industria, pero se ha regulado y modernizado progresivamente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el clima de Bucaramanga es idéntico al de Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las condiciones climáticas de las dos ciudades son distintas y explican parte del reto."
+        },
+        {
+          "letter": "D",
+          "text": "Por la combinación del Metro, el cable aéreo, la regulación de fuentes industriales y los planes de descontaminación del Valle de Aburrá.",
+          "is_correct": true,
+          "feedback": "Correcto. La mejora responde a un conjunto articulado de políticas públicas de largo plazo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La reducción sostenida de PM2.5 en Medellín se debe a políticas integrales: Metro, tranvía, cable aéreo, renovación del transporte público, regulación de fuentes industriales y planes de descontaminación. Es un ejemplo de gestión ambiental urbana de largo plazo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v11",
+      "statement": "Evalúe la propuesta de ampliar la Avenida Simón Bolívar en Cali como solución principal a la congestión vehicular.",
+      "context": "En la Alcaldía de Cali, el Concejo discute un proyecto para ampliar la Avenida Simón Bolívar con el fin de descongestionar el tráfico vehicular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es excelente porque no tiene ningún impacto sobre la calidad del aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ampliar vías altera los flujos de tráfico y, usualmente, las emisiones atmosféricas."
+        },
+        {
+          "letter": "B",
+          "text": "No afecta la calidad del aire porque solo cambia la velocidad de los carros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más capacidad vial suele atraer más vehículos y más emisiones totales."
+        },
+        {
+          "letter": "C",
+          "text": "Es contradictoria con la calidad del aire: más vías incentivan más vehículos, por lo que debe priorizarse transporte masivo y ciclorrutas.",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia muestra que ampliar vías induce demanda; el transporte masivo es mejor política."
+        },
+        {
+          "letter": "D",
+          "text": "Solo beneficia a los peatones y a los ciclistas de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ampliación prioriza el tráfico motorizado particular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La política de oferta de vías induce mayor demanda vehicular. Para reducir emisiones en ciudades como Cali es más efectivo fortalecer el transporte masivo, los sistemas de bicicletas, los vehículos eléctricos y los Planes Integrales de Movilidad Sostenible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle-v12",
+      "statement": "Evalúe el plan Caribe Verde 2030, que combina energías renovables, restauración de manglares y movilidad eléctrica, frente a un plan centrado únicamente en la compra de buses diésel adicionales.",
+      "context": "En el Comité Regional de Cambio Climático de Cartagena, expertos contrastan dos estrategias para enfrentar el cambio climático en el Caribe colombiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plan basado solo en buses diésel es siempre más económico y efectivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los buses diésel generan emisiones, ruido y costos operativos crecientes en el largo plazo."
+        },
+        {
+          "letter": "B",
+          "text": "El plan integral combina mitigación y adaptación, haciéndolo más resiliente ante el cambio climático.",
+          "is_correct": true,
+          "feedback": "Correcto. Combinar renovables, manglares y movilidad eléctrica reduce emisiones y protege la costa."
+        },
+        {
+          "letter": "C",
+          "text": "Los manglares no cumplen ninguna función frente al cambio climático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los manglares almacenan carbono y protegen la línea costera contra la erosión y las crecidas."
+        },
+        {
+          "letter": "D",
+          "text": "El plan integral solo es viable en países europeos con altos ingresos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos países tropicales ya implementan este tipo de planes con éxito demostrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mitigación busca reducir emisiones, mientras la adaptación se prepara para los efectos ya inevitables del cambio climático. Combinar ambas estrategias, como propone Caribe Verde 2030, es la vía más sólida para regiones costeras vulnerables como el Caribe colombiano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W33-aire-atmosfera-contaminacion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-36-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-26T02:29:03.506Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son los principales órganos que componen el sistema respiratorio humano en orden de conducción del aire?",
+      "context": "En la clase de biología del Colegio Distrital República de Colombia (Bogotá), la docente proyecta un esquema del cuerpo humano para identificar los órganos del sistema respiratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fosas nasales, faringe, laringe, tráquea, bronquios y pulmones.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la secuencia anatómica que recorre el aire desde la nariz hasta los alvéolos."
+        },
+        {
+          "letter": "B",
+          "text": "Estómago, intestinos, hígado y páncreas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos órganos pertenecen al sistema digestivo, no al respiratorio."
+        },
+        {
+          "letter": "C",
+          "text": "Cerebro, cerebelo, médula espinal y nervios periféricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos son órganos del sistema nervioso, no del sistema respiratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Riñones, vejiga, uréteres y uretra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos órganos pertenecen al sistema urinario, no al respiratorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema respiratorio se divide en vías respiratorias superiores (fosas nasales, faringe, laringe) e inferiores (tráquea, bronquios, bronquiolos y alvéolos). Su función es conducir el aire, humidificarlo, calentarlo y realizar el intercambio gaseoso en los alvéolos pulmonares.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la función principal de los pulmones dentro del sistema respiratorio humano?",
+      "context": "Durante una clase práctica en el Laboratorio de Biología del Colegio Mayor de San Bartolomé (Bogotá), los estudiantes observan un modelo a escala del sistema respiratorio humano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombear sangre oxigenada a todos los tejidos del cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función corresponde al corazón y al sistema circulatorio."
+        },
+        {
+          "letter": "B",
+          "text": "Realizar el intercambio gaseoso entre el aire inspirado y la sangre, incorporando oxígeno y eliminando dióxido de carbono.",
+          "is_correct": true,
+          "feedback": "Correcto. Los alvéolos pulmonares son el sitio especializado del intercambio gaseoso."
+        },
+        {
+          "letter": "C",
+          "text": "Producir glóbulos rojos para el sistema sanguíneo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción de glóbulos rojos se realiza en la médula ósea roja."
+        },
+        {
+          "letter": "D",
+          "text": "Filtrar los desechos nitrogenados presentes en la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La filtración de desechos nitrogenados es función del sistema urinario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los pulmones albergan aproximadamente 300 millones de alvéolos rodeados de capilares sanguíneos. En ellos se realiza la hematosis: el oxígeno pasa a la sangre y el dióxido de carbono se libera al aire exhalado, manteniendo la homeostasis respiratoria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v3",
+      "statement": "Por qué es importante que las vías respiratorias estén recubiertas internamente por una mucosa con cilios vibrátiles?",
+      "context": "En el Colegio INEM Santiago Pérez de Tunja, los estudiantes observan al microscopio cortes de tráquea y bronquios para identificar los tejidos que recubren las vías respiratorias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque esa mucosa es la responsable del color rosado de la nariz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color rosado se debe a la irrigación, no a la función de la mucosa ciliada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque produce los sonidos necesarios para hablar y cantar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fonación se genera en las cuerdas vocales de la laringe, no en la mucosa ciliada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque retiene polvo y microorganismos, humedece el aire y los cilios los desplazan hacia la faringe para ser expulsados o deglutidos.",
+          "is_correct": true,
+          "feedback": "Correcto. El sistema mucociliar es la primera línea de defensa mecánica del aparato respiratorio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque fabrica glóbulos blancos adicionales para defender al cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los glóbulos blancos se producen en médula ósea y ganglios, no en la mucosa respiratoria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El epitelio ciliado y las células caliciformes secretoras de moco forman el sistema mucociliar. Este atrapa partículas y patógenos inhalados, y los cilios los desplazan hacia la faringe, protegiendo los alvéolos de la contaminación y las infecciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v4",
+      "statement": "Durante el ejercicio aeróbico, los estudiantes sienten que su corazón late más rápido y respiran de forma agitada. Cuál es la explicación fisiológica más adecuada?",
+      "context": "En el Parque El Virrey de Bogotá, estudiantes de la Institución Educativa Distrital Aulas Colombianas realizan una sesión de educación física con trote suave de veinte minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El corazón late más rápido porque se está agotando y podría detenerse en cualquier momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento de la frecuencia cardíaca durante el ejercicio es una respuesta adaptativa saludable."
+        },
+        {
+          "letter": "B",
+          "text": "El corazón late más rápido porque los músculos activos necesitan menos oxígeno y nutrientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los músculos activos requieren más oxígeno y nutrientes, no menos."
+        },
+        {
+          "letter": "C",
+          "text": "El corazón late más rápido porque el cuerpo entra en hipotermia severa por el sudor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejercicio moderado no causa hipotermia; más bien eleva ligeramente la temperatura corporal."
+        },
+        {
+          "letter": "D",
+          "text": "El corazón late más rápido porque los músculos activos requieren más oxígeno y nutrientes, y el sistema circulatorio aumenta el gasto cardíaco para satisfacer esa demanda.",
+          "is_correct": true,
+          "feedback": "Correcto. El aumento del gasto cardíaco aporta más sangre oxigenada a los músculos en actividad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Durante el ejercicio, el sistema nervioso simpático aumenta la frecuencia cardíaca y la profundidad respiratoria. Esto incrementa el gasto cardíaco y la ventilación pulmonar, garantizando el suministro de oxígeno y la retirada de dióxido de carbono de los tejidos activos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v5",
+      "statement": "Si un paciente adulto presenta una presión arterial registrada como 120/80 mmHg, cómo debe interpretarse correctamente esta lectura?",
+      "context": "En una jornada de salud cardiovascular en la Fundación Cardiovascular de Colombia (Bucaramanga), un cardiólogo mide la presión arterial a los asistentes y explica cómo interpretar los valores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presión sistólica es de 120 mmHg y la diastólica de 80 mmHg, valores considerados normales en un adulto sano.",
+          "is_correct": true,
+          "feedback": "Correcto. La presión sistólica se registra cuando el corazón se contrae y la diastólica cuando se relaja."
+        },
+        {
+          "letter": "B",
+          "text": "El paciente tiene hipertensión grave y debe ser hospitalizado de inmediato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 120/80 mmHg está dentro del rango normal, no corresponde a una urgencia hipertensiva."
+        },
+        {
+          "letter": "C",
+          "text": "El paciente presenta hipotensión severa con riesgo de shock.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 120/80 mmHg no indica hipotensión; es un valor óptimo para un adulto."
+        },
+        {
+          "letter": "D",
+          "text": "El valor de 80 corresponde a la presión sistólica y el de 120 a la presión diastólica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer número corresponde siempre a la presión sistólica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión arterial se expresa como sistólica/diastólica. La sistólica (cuando el ventrículo se contrae) suele ser mayor; la diastólica (cuando el corazón se relaja) es menor. Valores sostenidos por encima de 140/90 mmHg ya se consideran hipertensión según la OMS.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v6",
+      "statement": "Cuál es la diferencia funcional entre la circulación pulmonar (menor) y la circulación sistémica (mayor) en el cuerpo humano?",
+      "context": "En la Institución Educativa Técnico Industrial de Tocancipá, los estudiantes analizan un esquema del corazón y las dos circulaciones que recorren el cuerpo humano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No existe ninguna diferencia porque ambas llevan sangre oxigenada a todos los tejidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos circulaciones llevan sangre con composiciones gaseosas distintas en distintos tramos."
+        },
+        {
+          "letter": "B",
+          "text": "La circulación pulmonar lleva sangre del corazón a los pulmones y la retorna oxigenada; la circulación sistémica lleva sangre oxigenada a todo el cuerpo y la retorna con dióxido de carbono.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada circuito cumple una función específica y complementaria en el transporte de gases."
+        },
+        {
+          "letter": "C",
+          "text": "La circulación pulmonar solo ocurre en adultos mayores con problemas cardíacos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La circulación pulmonar funciona durante toda la vida, desde la etapa fetal."
+        },
+        {
+          "letter": "D",
+          "text": "La circulación sistémica transporta únicamente sangre desoxigenada por las arterias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sangre que sale por la aorta hacia los tejidos es sangre oxigenada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El circuito pulmonar conecta el corazón con los pulmones para oxigenar la sangre, mientras que el circuito sistémico distribuye esa sangre oxigenada al resto del cuerpo y la regresa al corazón. Ambas circulaciones funcionan en serie y de manera coordinada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v7",
+      "statement": "Cuál es la causa fisiológica más probable de la cianosis (color azulado en labios y dedos) y la disnea (dificultad para respirar) que presenta el paciente?",
+      "context": "En el Hospital Regional de Sogamoso, una enfermera atiende a un paciente adulto mayor que llega con labios morados, dedos azulados y sensación de falta de aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paciente tiene exceso de glóbulos blancos a causa de una infección viral reciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La leucocitosis no produce directamente color azulado en labios ni disnea."
+        },
+        {
+          "letter": "B",
+          "text": "El paciente presenta bajo nivel de glucosa en sangre por ayuno prolongado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipoglucemia causa debilidad y sudoración, no cianosis ni disnea típicamente."
+        },
+        {
+          "letter": "C",
+          "text": "El paciente presenta oxigenación insuficiente de la sangre, posiblemente por alteración en el intercambio gaseoso pulmonar o en el transporte de oxígeno por la hemoglobina.",
+          "is_correct": true,
+          "feedback": "Correcto. La cianosis y la disnea indican que los tejidos no están recibiendo suficiente oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "El paciente tiene exceso de vitamina C por una dieta rica en cítricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exceso de vitamina C no produce cianosis ni dificultad respiratoria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cianosis aparece cuando la hemoglobina desoxigenada supera los 5 g/dL en la sangre capilar. Puede tener causa respiratoria (neumonía, EPOC), cardíaca (insuficiencia cardiaca) o circulatoria (shock). Identificar la causa requiere valoración clínica inmediata.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v8",
+      "statement": "Una persona fuma cigarrillos de forma habitual durante varios años. Qué efectos combinados tiene el tabaco sobre los sistemas respiratorio y circulatorio?",
+      "context": "En la Secretaría de Salud de Medellín, un grupo de profesionales analiza los efectos del consumo de cigarrillo sobre la salud pública en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cigarrillo solo afecta el sistema digestivo y no produce daños respiratorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El humo del cigarrillo afecta directamente los pulmones y todo el sistema cardiovascular."
+        },
+        {
+          "letter": "B",
+          "text": "El cigarrillo aumenta la capacidad pulmonar y mejora la circulación coronaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fumar reduce la capacidad pulmonar y deteriora la circulación, no la mejora."
+        },
+        {
+          "letter": "C",
+          "text": "El cigarrillo disminuye la frecuencia cardíaca y reduce la presión arterial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nicotina estimula el sistema simpático y eleva la frecuencia cardíaca y la presión arterial."
+        },
+        {
+          "letter": "D",
+          "text": "El cigarrillo daña los alvéolos pulmonares, reduce la capacidad respiratoria, favorece el endurecimiento de las arterias y aumenta el riesgo de infartos y cáncer de pulmón.",
+          "is_correct": true,
+          "feedback": "Correcto. El tabaquismo es factor de riesgo para EPOC, hipertensión, aterosclerosis y cáncer pulmonar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El humo del cigarrillo contiene más de 7.000 sustancias químicas, varias cancerígenas. Produce enfisema, bronquitis crónica, endurecimiento arterial y aumento de la probabilidad de infarto agudo de miocardio. Dejar de fumar reduce el riesgo desde las primeras semanas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v9",
+      "statement": "Por qué la hemoglobina presente en los glóbulos rojos es esencial para el funcionamiento del sistema circulatorio y del cuerpo en general?",
+      "context": "En el Colegio San José de Barranquilla, los estudiantes investigan la composición de la sangre y el papel de los diferentes tipos celulares en la fisiología humana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se une al oxígeno en los pulmones y lo transporta a los tejidos, regresando con dióxido de carbono hacia los pulmones para ser exhalado.",
+          "is_correct": true,
+          "feedback": "Correcto. La hemoglobina es la proteína transportadora de oxígeno y de parte del CO2 en la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "Porque produce energía química directamente a partir de la luz solar en la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hemoglobina no realiza fotosíntesis ni captura luz; su función es exclusivamente de transporte gaseoso."
+        },
+        {
+          "letter": "C",
+          "text": "Porque transporta únicamente dióxido de carbono desde los pulmones hasta los tejidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función principal es transportar oxígeno desde los pulmones a los tejidos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque forma parte estructural del sistema nervioso central y transmite impulsos eléctricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hemoglobina está en los glóbulos rojos, no en neuronas ni en el sistema nervioso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hemoglobina es una proteína con un grupo hemo que contiene hierro. Cada molécula puede unir hasta cuatro moléculas de oxígeno, formando la oxihemoglobina. Este mecanismo permite que cada eritrocito transporte cerca de mil millones de moléculas de O2 hacia los tejidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v10",
+      "statement": "El informe muestra que en ciudades como Bogotá y Medellín los adultos jóvenes expuestos a altos niveles de contaminación atmosférica tienen mayor riesgo de infarto. Cuál es la relación más plausible entre contaminación y enfermedad cardiovascular?",
+      "context": "En el Colegio Mayor de San Bartolomé (Bogotá), los estudiantes analizan un informe del Ministerio de Salud sobre la relación entre contaminación atmosférica e infarto agudo de miocardio en adultos jóvenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contaminación del aire mejora la circulación coronaria y reduce el riesgo de infarto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación deteriora la circulación coronaria; no la mejora en ningún sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Las partículas finas y los óxidos de nitrógeno inhalados favorecen la inflamación crónica y la formación de placas en las arterias coronarias, aumentando el riesgo de infarto.",
+          "is_correct": true,
+          "feedback": "Correcto. La contaminación crónica acelera la aterosclerosis y los eventos cardiovasculares agudos."
+        },
+        {
+          "letter": "C",
+          "text": "La contaminación del aire reduce directamente la producción de glóbulos rojos en la médula ósea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto predominante sobre el sistema circulatorio es inflamatorio y aterogénico, no sobre la eritropoyesis."
+        },
+        {
+          "letter": "D",
+          "text": "La contaminación del aire solo afecta a niños pequeños y no tiene impacto en adultos jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación atmosférica deteriora la salud cardiovascular de toda la población expuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El material particulado PM2,5 penetra profundamente en los pulmones y desencadena estrés oxidativo e inflamación sistémica. Estos procesos favorecen la formación de placas de ateroma en las arterias coronarias y predisponen a eventos cardiovasculares agudos como el infarto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v11",
+      "statement": "Evalúe la propuesta: implementar pausas activas de cinco minutos cada dos horas, con ejercicios de respiración profunda y estiramientos, para mejorar la capacidad pulmonar y reducir el estrés cardiovascular en estudiantes del Colegio Distrital República de Colombia.",
+      "context": "En un foro de salud pública organizado por la Universidad Nacional (Bogotá), se discute una propuesta para promover pausas activas en los colegios oficiales del Distrito Capital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inútil porque el ejercicio físico no tiene relación con la salud cardiovascular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evidencia científica demuestra que la actividad física protege el corazón y los pulmones."
+        },
+        {
+          "letter": "B",
+          "text": "Es riesgosa porque los estiramientos dañan directamente los pulmones de los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estiramientos bien guiados son seguros y beneficiosos para el sistema musculoesquelético."
+        },
+        {
+          "letter": "C",
+          "text": "Es adecuada y bien fundamentada: la actividad física regular mejora la eficiencia del intercambio gaseoso, fortalece el corazón y disminuye factores de riesgo cardiovascular en adolescentes.",
+          "is_correct": true,
+          "feedback": "Correcto. Combinar respiración profunda y movimiento mejora la aptitud cardiorrespiratoria general."
+        },
+        {
+          "letter": "D",
+          "text": "Solo sirve para adultos mayores con enfermedades crónicas diagnosticadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La promoción de la actividad física es beneficiosa en todas las edades, incluida la adolescencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Organización Mundial de la Salud recomienda que adolescentes acumulen al menos 60 minutos diarios de actividad física moderada. Las pausas activas en clase complementan esa meta y mejoran la atención, la postura y el bienestar emocional del estudiante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle-v12",
+      "statement": "Evalúe la afirmación: \"En Bogotá, mientras mejoremos el sistema de transporte masivo TransMilenio, automáticamente bajarán los casos de enfermedad cardiovascular en la ciudad\".",
+      "context": "En el foro ambiental de la Universidad de los Andes (Bogotá), expertos en salud pública debaten cómo reducir las enfermedades cardiovasculares asociadas a la contaminación del aire en la capital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente correcta y no requiere ninguna otra acción para mejorar la salud cardiovascular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mejorar el transporte ayuda, pero no es suficiente por sí solo."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta porque TransMilenio solo transporta personas y no tiene relación alguna con la salud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema de transporte masivo sí impacta la calidad del aire y la salud pública."
+        },
+        {
+          "letter": "C",
+          "text": "Solo aplica en zonas rurales donde no hay vehículos motorizados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medida tiene sentido precisamente en grandes ciudades con alto tráfico vehicular."
+        },
+        {
+          "letter": "D",
+          "text": "Es parcialmente cierta: mejorar el transporte masivo reduce la contaminación al sacar vehículos particulares de circulación, lo que a largo plazo disminuye la incidencia de enfermedades cardiovasculares y respiratorias, siempre que se combine con alimentación saludable, ejercicio y control médico.",
+          "is_correct": true,
+          "feedback": "Correcto. La medida aporta, pero la salud cardiovascular requiere también hábitos individuales y políticas complementarias."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La salud cardiovascular depende de múltiples factores: calidad del aire, alimentación, actividad física, control del estrés y atención médica. Una política de transporte masivo limpio aporta un beneficio poblacional importante, pero debe articularse con educación en hábitos saludables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
