@@ -103,7 +103,7 @@
     "svelte": "^5.55.9",
     "tailwindcss": "^4.2.2",
     "trystero": "^0.23.1",
-    "wrangler": "^4.102.0",
+    "wrangler": "^4.141.0",
     "yjs": "^13.6.32"
   },
   "devDependencies": {
@@ -121,19 +121,19 @@
     "fake-indexeddb": "^6.2.5",
     "gray-matter": "^4.0.3",
     "husky": "^9.1.7",
-    "js-yaml": "5.4.1",
+    "js-yaml": "5.4.2",
     "jsdom": "^29.0.1",
     "lint-staged": "^16.4.0",
     "pagefind": "^1.4.0",
     "pdf-lib": "^1.17.1",
-    "sharp": "0.35.3",
+    "sharp": "0.35.4",
     "typescript": "^5.9.3",
     "vite": "^8.2.1",
-    "vitest": "^4.0.16"
+    "vitest": "^5.0.2"
   },
   "overrides": {
-    "js-yaml": "5.4.1",
-    "sharp": "0.35.3",
+    "js-yaml": "5.4.2",
+    "sharp": "0.35.4",
     "miniflare": {
       "sharp": "0.35.3"
     },
