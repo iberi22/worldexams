@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 test.describe('Cuentos 2.5D Parallax & Motion Hygiene E2E Suite (Wave C7.06)', () => {
-  test('verifies Tana 3-layer parallax, tap reaction, reduced motion, and flat fallback', async ({ page }, testInfo) => {
+  test('verifies Tana 3-layer parallax, tap reaction, reduced motion, and flat fallback', async ({ page, baseURL }, testInfo) => {
     const consoleErrors: string[] = [];
     const pageErrors: Error[] = [];
     const disallowedRequests: string[] = [];
@@ -20,17 +20,19 @@ test.describe('Cuentos 2.5D Parallax & Motion Hygiene E2E Suite (Wave C7.06)', (
     });
 
     // 2. Network interception: allow local assets and static files
+    // (siteOrigin cubre localhost en dev Y el origin real de un preview deploy)
+    const siteOrigin = new URL(baseURL || 'http://localhost').origin;
     await page.route('**/*', (route) => {
       const url = route.request().url();
 
       const isStaticAllowed =
         url.startsWith('data:') ||
         url.startsWith('blob:') ||
-        url.includes('localhost') ||
-        url.includes('127.0.0.1') ||
+        url.startsWith(siteOrigin) ||
         url.includes('/cuentos') ||
         url.includes('/v1/cuentos/') ||
         url.includes('/_astro/') ||
+        url.includes('/favicon') ||
         url.includes('/@fs/') ||
         url.includes('/@vite/') ||
         url.includes('fonts.googleapis.com') ||
@@ -73,7 +75,7 @@ test.describe('Cuentos 2.5D Parallax & Motion Hygiene E2E Suite (Wave C7.06)', (
     await page.screenshot({ path: mobilePath, fullPage: true });
 
     // 5. Reduced motion test
-    await page.emulateMedia({ reduceMotion: 'reduce' });
+    await page.emulateMedia({ reducedMotion: 'reduce' });
     await page.reload();
 
     const reducedPath = path.join(targetDir, 'parallax-reduced-motion.png');
