@@ -164,7 +164,9 @@ check_period_matrix() {
 try:
     d = json.load(sys.stdin)
     q_len = len(d.get("questions", []) or [])
-    tot = int(d.get("meta", {}).get("total_available", -1))
+    m = d.get("meta", {}) or {}
+    # page mode exposes total_available; sample mode (WAVE-16.16) exposes period_pool_size
+    tot = int(m.get("total_available", m.get("period_pool_size", -1)))
     print(f"{q_len},{tot}")
 except Exception:
     print("-1,-1")' 2>/dev/null)
