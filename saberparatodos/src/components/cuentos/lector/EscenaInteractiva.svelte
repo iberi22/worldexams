@@ -2,8 +2,8 @@
 <script lang="ts">
   import '../arte/tokens.css';
   import EscenaSVG, { type PiezaInstancia, type EscenaPlanos } from '../arte/EscenaSVG.svelte';
-  import EscenaParallax, { type EscenaCapas } from '../arte/EscenaParallax.svelte';
-  import { getTanaLayeredPlanes, hasLayeredScene } from '../arte/escenas-capas/tana';
+  import EscenaParallax from '../arte/EscenaParallax.svelte';
+  import type { EscenaCapas } from '../../../lib/cuentos/escenas-capas';
 
   export interface Hotspot {
     id: string;
@@ -18,8 +18,10 @@
     hotspots?: Hotspot[];
     piezas?: PiezaInstancia[];
     escena?: EscenaPlanos;
+    /** Solo informativo (data-attrs/tests). Las capas llegan resueltas en `escenaCapas`. */
     cuentoSlug?: string;
     paginaNumero?: number;
+    /** Capas 2.5D de la página (desde escenas-capas/{slug}/p{N}.svg, resueltas en build). */
     escenaCapas?: EscenaCapas;
     tituloAccesible?: string;
     descripcionAccesible?: string;
@@ -43,16 +45,11 @@
   let activeHotspotId = $state<string | null>(null);
   let activeReaction = $state<string | null>(null);
 
-  // Determine whether layered planes exist for this page or prop
-  const activeLayeredPlanes = $derived.by(() => {
-    if (escenaCapas && escenaCapas.fondo && escenaCapas.medio && escenaCapas.frente) {
-      return escenaCapas;
-    }
-    if (cuentoSlug && paginaNumero && hasLayeredScene(cuentoSlug, paginaNumero)) {
-      return getTanaLayeredPlanes(paginaNumero);
-    }
-    return null;
-  });
+  // Capas 2.5D disponibles para esta página (motor genérico: cualquier cuento
+  // con arte en escenas-capas/{slug}/). Sin capas → escena plana de siempre.
+  const activeLayeredPlanes = $derived(
+    escenaCapas && (escenaCapas.fondo || escenaCapas.medio || escenaCapas.frente) ? escenaCapas : null
+  );
 
   /**
    * Generates a WebAudio blip sound with zero audio files or external network requests.
@@ -118,16 +115,24 @@
   }
 </script>
 
-<div class="cuento-escena-interactiva {className}">
+<div
+  class="cuento-escena-interactiva {className}"
+  data-escena-modo={activeLayeredPlanes ? 'capas' : 'plana'}
+  data-cuento={cuentoSlug}
+  data-pagina={paginaNumero}
+>
   {#if activeLayeredPlanes}
-    <!-- 2.5D Parallax Scene Path (Pilot cuentos e.g. Tana) -->
-    <EscenaParallax
-      escenaCapas={activeLayeredPlanes}
-      {hotspots}
-      {tituloAccesible}
-      {descripcionAccesible}
-      {onHotspotTrigger}
-    />
+    <!-- 2.5D Parallax Scene Path (motor genérico escenas-capas/{slug}) -->
+    <!-- {#key}: zoom, conteo y globos se reinician al cambiar de página -->
+    {#key activeLayeredPlanes}
+      <EscenaParallax
+        escenaCapas={activeLayeredPlanes}
+        {hotspots}
+        {tituloAccesible}
+        {descripcionAccesible}
+        {onHotspotTrigger}
+      />
+    {/key}
   {:else}
     <!-- Flat Scene SVG Path (Fallback for non-pilot cuentos) -->
     <div class="cuento-escena-wrapper">
