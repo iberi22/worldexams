@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v1",
-      "statement": "¿Cuál es la suma total de las probabilidades $sum P(X = x_i)$ para cualquier distribución de probabilidad válida?",
+      "statement": "¿Cuál es la suma total de las probabilidades $\\sum P(X = x_i)$ para cualquier distribución de probabilidad válida?",
       "context": "En una variable aleatoria discreta $X$, la suma de las probabilidades de todos los valores posibles debe cumplir con la propiedad fundamental de las distribuciones.",
       "options": [
         {
@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Toda función de probabilidad cumple $sum_{i} P(X = x_i) = 1$, lo que garantiza que la probabilidad del espacio muestral completo sea del 100% (o 1 en escala unitaria).",
+      "explanation": "Toda función de probabilidad cumple $\\sum_{i} P(X = x_i) = 1$, lo que garantiza que la probabilidad del espacio muestral completo sea del 100% (o 1 en escala unitaria).",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -84,7 +84,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "\"Al menos 1\" abarca $X=1$ y $X=2$. Sumando sus probabilidades: $P(X ge 1) = 0.3 + 0.2 = 0.5$.",
+      "explanation": "\"Al menos 1\" abarca $X=1$ y $X=2$. Sumando sus probabilidades: $P(X \\ge 1) = 0.3 + 0.2 = 0.5$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,8 +101,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v3",
-      "statement": "¿Alrededor de qué porcentaje de estudiantes tiene una estatura comprendida entre 160 cm y 170 cm ($mu pm 1sigma$)?",
-      "context": "La estatura de los estudiantes de grado 11 de un colegio en Medellín sigue una distribución normal con media $mu = 165$ cm y desviación estándar $sigma = 5$ cm.",
+      "statement": "¿Alrededor de qué porcentaje de estudiantes tiene una estatura comprendida entre 160 cm y 170 cm ($mu \\pm 1\\sigma$)?",
+      "context": "La estatura de los estudiantes de grado 11 de un colegio en Medellín sigue una distribución normal con media $\\mu = 165$ cm y desviación estándar $\\sigma = 5$ cm.",
       "options": [
         {
           "letter": "A",
@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "En la regla empírica (o 68-95-99.7) de una distribución normal, el $68.27%$ de la población se encuentra dentro de $pm 1$ desviación estándar alrededor de la media.",
+      "explanation": "En la regla empírica (o 68-95-99.7) de una distribución normal, el $68.27%$ de la población se encuentra dentro de $\\pm 1$ desviación estándar alrededor de la media.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -152,31 +152,31 @@
       "options": [
         {
           "letter": "A",
-          "text": "$mu = n cdot p$",
+          "text": "$\\mu = n \\cdot p$",
           "is_correct": true,
           "feedback": "En una distribución binomial B(n, p), la media o valor esperado es mu = n * p = 10 * 0.4 = 4."
         },
         {
           "letter": "B",
-          "text": "$mu = n cdot p cdot (1-p)$",
+          "text": "$\\mu = n \\cdot p \\cdot (1-p)$",
           "is_correct": false,
           "feedback": "Esta fórmula corresponde a la varianza sigma^2 de la distribución binomial."
         },
         {
           "letter": "C",
-          "text": "$mu = sqrt{n cdot p cdot (1-p)}$",
+          "text": "$\\mu = \\sqrt{n \\cdot p \\cdot (1-p)}$",
           "is_correct": false,
           "feedback": "Esta fórmula corresponde a la desviación estándar sigma de la distribución binomial."
         },
         {
           "letter": "D",
-          "text": "$mu = \\frac{p}{n}$",
+          "text": "$\\mu = \\frac{p}{n}$",
           "is_correct": false,
           "feedback": "Es una razón sin significado probabilístico en el modelo binomial."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para una variable aleatoria binomial $X sim B(n,p)$, el valor esperado se calcula mediante la multiplicación del número de ensayos por la probabilidad de éxito en cada ensayo: $E[X] = n cdot p$.",
+      "explanation": "Para una variable aleatoria binomial $X sim B(n,p)$, el valor esperado se calcula mediante la multiplicación del número de ensayos por la probabilidad de éxito en cada ensayo: $E[X] = n \\cdot p$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -268,7 +268,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Usando la fórmula binomial $P(X=k) = \\binom{n}{k} p^k (1-p)^{n-k}$ con $n=5, k=4, p=0.5$:\n$P(X=4) = 5 cdot (0.5)^4 cdot (0.5)^1 = \\frac{5}{32}$.",
+      "explanation": "Usando la fórmula binomial $P(X=k) = \\binom{n}{k} p^k (1-p)^{n-k}$ con $n=5, k=4, p=0.5$:\n$P(X=4) = 5 \\cdot (0.5)^4 \\cdot (0.5)^1 = \\frac{5}{32}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,8 +285,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v7",
-      "statement": "¿Qué porcentaje aproximado de estudiantes obtuvo un puntaje entre 220 y 380 ($mu pm 2sigma$)?",
-      "context": "Los puntajes de un simulacro PreICFES en Barranquilla siguen una distribución normal con media $mu = 300$ y desviación estándar $sigma = 40$.",
+      "statement": "¿Qué porcentaje aproximado de estudiantes obtuvo un puntaje entre 220 y 380 ($mu \\pm 2\\sigma$)?",
+      "context": "Los puntajes de un simulacro PreICFES en Barranquilla siguen una distribución normal con media $\\mu = 300$ y desviación estándar $\\sigma = 40$.",
       "options": [
         {
           "letter": "A",
@@ -331,7 +331,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es la desviación estándar $sigma$ de esta distribución?",
+      "statement": "¿Cuál es la desviación estándar $\\sigma$ de esta distribución?",
       "context": "En una distribución binomial con $n = 100$ ensayos y probabilidad de éxito $p = 0.2$.",
       "options": [
         {
@@ -360,7 +360,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La varianza binomial es $sigma^2 = n p (1-p) = 100(0.2)(0.8) = 16$. Por ende, la desviación estándar es $sigma = sqrt{16} = 4$.",
+      "explanation": "La varianza binomial es $\\sigma^2 = n p (1-p) = 100(0.2)(0.8) = 16$. Por ende, la desviación estándar es $\\sigma = \\sqrt{16} = 4$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -470,7 +470,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v11",
       "statement": "¿Cuál es la puntuación Z (puntaje estandarizado) correspondiente a la estatura de este estudiante?",
-      "context": "Las estaturas de una población en Pereira se distribuyen normalmente con $mu = 170$ cm y $sigma = 10$ cm. Un estudiante tiene una estatura de 185 cm.",
+      "context": "Las estaturas de una población en Pereira se distribuyen normalmente con $\\mu = 170$ cm y $\\sigma = 10$ cm. Un estudiante tiene una estatura de 185 cm.",
       "options": [
         {
           "letter": "A",
@@ -562,7 +562,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la probabilidad de que $Z$ se encuentre entre -1 y 1 ($P(-1 < Z < 1)$)?",
-      "context": "En una distribución normal estándar $Z sim N(0,1)$, se sabe que $P(Z < 1) approx 0.8413$.",
+      "context": "En una distribución normal estándar $Z sim N(0,1)$, se sabe que $P(Z < 1) \\approx 0.8413$.",
       "options": [
         {
           "letter": "A",
@@ -654,7 +654,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el porcentaje de componentes que se espera que duren MÁS de 1200 horas?",
-      "context": "La duración en horas de un componente electrónico fabricado en Manizales tiene distribución normal con $mu = 1000$ h y $sigma = 100$ h.",
+      "context": "La duración en horas de un componente electrónico fabricado en Manizales tiene distribución normal con $\\mu = 1000$ h y $\\sigma = 100$ h.",
       "options": [
         {
           "letter": "A",
@@ -682,7 +682,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$Z = \\frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) approx 95%$, el área en las colas fuera del intervalo es $100% - 95% = 5%$. Por simetría, la cola superior $P(Z > 2) = \\frac{5%}{2} = 2.5%$.",
+      "explanation": "$Z = \\frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) \\approx 95%$, el área en las colas fuera del intervalo es $100\\% - 95\\% = 5\\%$. Por simetría, la cola superior $P(Z > 2) = \\frac{5\\%}{2} = 2.5\\%$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -700,7 +700,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v16",
       "statement": "¿Cuál debe ser el valor constante de $k$ para que sea una función de probabilidad válida?",
-      "context": "En una distribución de probabilidad discreta dada por $P(X = x) = k cdot x$ para $x in {1, 2, 3, 4}$.",
+      "context": "En una distribución de probabilidad discreta dada por $P(X = x) = k \\cdot x$ para $x in {1, 2, 3, 4}$.",
       "options": [
         {
           "letter": "A",
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Condición de normalización: $sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 10k = 1 Rightarrow k = \\frac{1}{10}$.",
+      "explanation": "Condición de normalización: $\\sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 10k = 1 Rightarrow k = \\frac{1}{10}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -792,7 +792,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v18",
       "statement": "Si un usuario es atendido en la taquilla, ¿cuál es la probabilidad de que su atención demore ENTRE 4.5 y 7.5 minutos?",
-      "context": "El tiempo de atención en una taquilla de banco en Armenia se aproxima a una distribución normal con $mu = 6$ minutos y $sigma = 1.5$ minutos.",
+      "context": "El tiempo de atención en una taquilla de banco en Armenia se aproxima a una distribución normal con $\\mu = 6$ minutos y $\\sigma = 1.5$ minutos.",
       "options": [
         {
           "letter": "A",
@@ -838,7 +838,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v19",
       "statement": "¿Cuáles son los valores del número de ensayos $n$ y la probabilidad de éxito $p$?",
-      "context": "Una variable aleatoria binomial $X$ tiene una media $mu = 12$ y una varianza $sigma^2 = 3$.",
+      "context": "Una variable aleatoria binomial $X$ tiene una media $\\mu = 12$ y una varianza $\\sigma^2 = 3$.",
       "options": [
         {
           "letter": "A",
@@ -866,7 +866,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustituyendo $mu = n p = 12$ en $sigma^2 = n p (1-p) = 3$:\n$12(1-p) = 3 Rightarrow 1-p = \\frac{3}{12} = 0.25 Rightarrow p = 0.75$.\nPor ende, $n = \\frac{12}{0.75} = 16$.",
+      "explanation": "Sustituyendo $\\mu = n p = 12$ en $\\sigma^2 = n p (1-p) = 3$:\n$12(1-p) = 3 Rightarrow 1-p = \\frac{3}{12} = 0.25 Rightarrow p = 0.75$.\nPor ende, $n = \\frac{12}{0.75} = 16$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,7 +883,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la varianza $sigma^2$ de la distribución de esta variable aleatoria $X$?",
+      "statement": "¿Cuál es la varianza $\\sigma^2$ de la distribución de esta variable aleatoria $X$?",
       "context": "Se analiza el número de caras obtenidas al lanzar 4 monedas equilibradas. La variable aleatoria $X$ representa el número de caras.",
       "options": [
         {
@@ -912,7 +912,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para la variable binomial $X sim B(4, 0.5)$, la varianza viene dada por $sigma^2 = n p q = 4(0.5)(0.5) = 1.0$.",
+      "explanation": "Para la variable binomial $X sim B(4, 0.5)$, la varianza viene dada por $\\sigma^2 = n p q = 4(0.5)(0.5) = 1.0$.",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -198,7 +198,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "$70 000, porque 20 % + 10 % = 30 % y $100 000 − $30 000 = $70 000",
+          "text": "$70 000, porque 20 \\% + 10 \\% = 30 \\% y $100 000 − $30 000 = $70 000",
           "is_correct": false,
           "feedback": "Incorrecto. Los porcentajes sucesivos no se suman: el segundo se aplica sobre $80 000."
         },

@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Dado que $v = d/t$, la potencia mecánica puede expresarse como $P = F cdot v$.",
+      "explanation": "Dado que $v = d/t$, la potencia mecánica puede expresarse como $P = F \\cdot v$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -222,7 +222,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$P = mgh / t = (500 \times 9.8 \times 12) / 10 = 5880 \text{ W}$.",
+      "explanation": "$P = mgh / t = (500 \\times 9.8 \\times 12) / 10 = 5880 \\text{ W}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -246,7 +246,7 @@
           "letter": "A",
           "text": "Eficiencia del 75% y disipa $2.5 \\text{ kW}$.",
           "is_correct": true,
-          "feedback": "Correcto. $eta = (7.5 / 10) \times 100% = 75%$. La potencia perdida es $10 - 7.5 = 2.5 \text{ kW}$."
+          "feedback": "Correcto. $eta = (7.5 / 10) \\times 100\\% = 75\\%$. La potencia perdida es $10 - 7.5 = 2.5 \\text{ kW}$."
         },
         {
           "letter": "B",
@@ -268,7 +268,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Rendimiento $eta = 7.5/10 = 75%$. Pérdida disipada $= 10 - 7.5 = 2.5 \text{ kW}$.",
+      "explanation": "Rendimiento $eta = 7.5/10 = 75\\%$. Pérdida disipada $= 10 - 7.5 = 2.5 \\text{ kW}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -314,7 +314,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$P = F cdot v = 4000 \times 15 = 60,000 \text{ W} = 60 \text{ kW}$.",
+      "explanation": "$P = F \\cdot v = 4000 \\times 15 = 60,000 \\text{ W} = 60 \\text{ kW}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -360,7 +360,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El LED requiere $10 \text{ W}$ para la misma luz que el incandescente de $60 \text{ W}$, disipando mucho menos calor.",
+      "explanation": "El LED requiere $10 \\text{ W}$ para la misma luz que el incandescente de $60 \\text{ W}$, disipando mucho menos calor.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Potencia $= (m/t) cdot g cdot h = 50 \times 10 \times 20 = 10,000 \text{ W} = 10 \text{ kW}$.",
+      "explanation": "Potencia $= (m/t) \\cdot g \\cdot h = 50 \\times 10 \\times 20 = 10,000 \\text{ W} = 10 \\text{ kW}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -452,7 +452,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Potencia recibida $= 2000 \text{ W}$. Eficiencia $= 400 / 2000 = 0.20 = 20%$.",
+      "explanation": "Potencia recibida $= 2000 \\text{ W}$. Eficiencia $= 400 / 2000 = 0.20 = 20\\%$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -494,11 +494,11 @@
           "letter": "D",
           "text": "100%.",
           "is_correct": false,
-          "feedback": "Incorrecto. Para alcanzar 100% el sumidero frío debería estar al cero absoluto ($0 \text{ K}$)."
+          "feedback": "Incorrecto. Para alcanzar 100% el sumidero frío debería estar al cero absoluto ($0 \\text{ K}$)."
         }
       ],
       "correct_answer": "A",
-      "explanation": "En el ciclo de Carnot $eta = 1 - T_C/T_H = 1 - 300/500 = 0.40 = 40%$. Las temperaturas deben estar obligatoriamente en Kelvin.",
+      "explanation": "En el ciclo de Carnot $eta = 1 - T_C/T_H = 1 - 300/500 = 0.40 = 40\\%$. Las temperaturas deben estar obligatoriamente en Kelvin.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Trabajo útil $= 100 \text{ J}$. Trabajo aplicado $= 150 \text{ J}$. Eficiencia $= 100/150 = 66.7%$.",
+      "explanation": "Trabajo útil $= 100 \\text{ J}$. Trabajo aplicado $= 150 \\text{ J}$. Eficiencia $= 100/150 = 66.7\\%$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -590,7 +590,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Motor A: Trabajo útil $= 100 - 60 = 40 \text{ kJ} Rightarrow 40%$. Motor B: $25%$. El motor A es superior.",
+      "explanation": "Motor A: Trabajo útil $= 100 - 60 = 40 \\text{ kJ} Rightarrow 40\\%$. Motor B: $25%$. El motor A es superior.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -636,7 +636,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "En sistemas en serie las eficiencias se multiplican: $eta_{total} = 0.90 \times 0.95 = 0.855$. Potencia $= 50 \times 0.855 = 42.75 \text{ MW}$.",
+      "explanation": "En sistemas en serie las eficiencias se multiplican: $eta_{total} = 0.90 \\times 0.95 = 0.855$. Potencia $= 50 \\times 0.855 = 42.75 \\text{ MW}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -682,7 +682,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$W = P cdot t = 350 \text{ W} \times 1200 \text{ s} = 420,000 \text{ J} = 420 \text{ kJ}$.",
+      "explanation": "$W = P \\cdot t = 350 \\text{ W} \\times 1200 \\text{ s} = 420,000 \\text{ J} = 420 \\text{ kJ}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$eta_{Carnot} = 38.05%$. La relación real/teórica $= 25 / 38.05 = 65.7%$.",
+      "explanation": "$eta_{Carnot} = 38.05\\%$. La relación real/teórica $= 25 / 38.05 = 65.7\\%$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
