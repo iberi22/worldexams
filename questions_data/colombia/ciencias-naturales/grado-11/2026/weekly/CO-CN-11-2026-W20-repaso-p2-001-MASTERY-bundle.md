@@ -131,12 +131,12 @@ La desnaturalización desorganiza las estructuras superior mantenidas por fuerza
 - [ ] B) El lanzamiento consume energía atómica y el agua energía magnética.
   <!-- feedback: Incorrecto. Son manifestaciones de energía mecánica y térmica estándar. -->
 - [ ] C) El calor del agua no se puede medir en Julios.
-  <!-- feedback: Incorrecto. El experimento de Joule demostró la equivalencia mecánica del calor ($1 	ext{ cal} = 4.184 	ext{ J}$). -->
+  <!-- feedback: Incorrecto. El experimento de Joule demostró la equivalencia mecánica del calor ($1 \text{ cal} = 4.184 \text{ J}$). -->
 - [ ] D) La masa del agua se destruyó al absorber calor.
   <!-- feedback: Incorrecto. El calentamiento modifica la energía térmica sin alterar la masa. -->
 
 ### Explicacion Pedagogica
-La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibles de energía ($1 	ext{ cal} = 4.184 	ext{ J}$).
+La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibles de energía ($1 \text{ cal} = 4.184 \text{ J}$).
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v6
@@ -159,7 +159,7 @@ La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibl
   <!-- feedback: Incorrecto. La escala de pH es logarítmica inversa: menor pH implica mayor $[H^+]$. -->
 
 ### Explicacion Pedagogica
-El pH mide la $[H^+]$ libre. $pH = 1 Rightarrow [H^+] = 10^{-1} 	ext{ M}$; $pH = 3 Rightarrow [H^+] = 10^{-3} 	ext{ M}$.
+El pH mide la $[H^+]$ libre. $pH = 1 Rightarrow [H^+] = 10^{-1} \text{ M}$; $pH = 3 Rightarrow [H^+] = 10^{-3} \text{ M}$.
 
 ## Question 7 [D5-D6]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v7
@@ -182,7 +182,7 @@ El pH mide la $[H^+]$ libre. $pH = 1 Rightarrow [H^+] = 10^{-1} 	ext{ M}$; $pH =
   <!-- feedback: Incorrecto. Dividió potencia entre masa sin usar el peso. -->
 
 ### Explicacion Pedagogica
-$F = mg = 1000 	ext{ N}$. $P = F cdot v Rightarrow v = P/F = 1000/1000 = 1.0 	ext{ m/s}$.
+$F = mg = 1000 \text{ N}$. $P = F \cdot v Rightarrow v = P/F = 1000/1000 = 1.0 \text{ m/s}$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v8
@@ -197,12 +197,12 @@ $F = mg = 1000 	ext{ N}$. $P = F cdot v Rightarrow v = P/F = 1000/1000 = 1.0 	ex
 ### Opciones
 - [x] A) A $0^\circ\text{C}$ la enzima está inactiva por falta de energía cinética pero no desnaturalizada; a $90^\circ\text{C}$ está desnaturalizada e inactiva de forma irreversible.
   <!-- feedback: Correcto. El frío reduce la colisión sustrato-enzima de forma reversible; el calor extremo rompe la conformación nativa. -->
-- [ ] B) A $90^circ	ext{C}$ la enzima es 100 veces más rápida.
-  <!-- feedback: Incorrecto. A $90^circ	ext{C}$ se desnaturaliza perdiendo su actividad. -->
-- [ ] C) A $0^circ	ext{C}$ se destruyen los enlaces peptídicos.
+- [ ] B) A $90^\circ\text{C}$ la enzima es 100 veces más rápida.
+  <!-- feedback: Incorrecto. A $90^\circ\text{C}$ se desnaturaliza perdiendo su actividad. -->
+- [ ] C) A $0^\circ\text{C}$ se destruyen los enlaces peptídicos.
   <!-- feedback: Incorrecto. El frío no rompe enlaces peptídicos. -->
-- [ ] D) En ambos tubos la velocidad de reacción es idéntica a $37^circ	ext{C}$.
-  <!-- feedback: Incorrecto. $37^circ	ext{C}$ es la temperatura óptima fisiológica. -->
+- [ ] D) En ambos tubos la velocidad de reacción es idéntica a $37^\circ\text{C}$.
+  <!-- feedback: Incorrecto. $37^\circ\text{C}$ es la temperatura óptima fisiológica. -->
 
 ### Explicacion Pedagogica
 El frío lentifica la cinética sin destruir la enzima; el calor alto destruye la estructura terciaria irreversiblemente.
@@ -223,12 +223,12 @@ El frío lentifica la cinética sin destruir la enzima; el calor alto destruye l
 - [ ] B) Aumentar la temperatura y aumentar la presión.
   <!-- feedback: Incorrecto. Aumentar T desplaza a reactivos en reacciones exotérmicas. -->
 - [ ] C) Aumentar la presión para favorecer los productos.
-  <!-- feedback: Incorrecto. Como $Delta n = 0$, la presión no modifica el equilibrio. -->
+  <!-- feedback: Incorrecto. Como $\Delta n = 0$, la presión no modifica el equilibrio. -->
 - [ ] D) Añadir un catalizador para cambiar la constante $K_c$.
   <!-- feedback: Incorrecto. El catalizador no modifica $K_c$ ni la posición final. -->
 
 ### Explicacion Pedagogica
-En reacciones exotérmicas, bajar T desplaza a productos. Como $Delta n_{gases} = 0$, los cambios de P no tienen efecto.
+En reacciones exotérmicas, bajar T desplaza a productos. Como $\Delta n_{gases} = 0$, los cambios de P no tienen efecto.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v10
@@ -243,7 +243,7 @@ En reacciones exotérmicas, bajar T desplaza a productos. Como $Delta n_{gases} 
 ### Opciones
 - [x] A) Es un proceso exotérmico ($\Delta H < 0$), porque libera calor al entorno incrementando la temperatura.
   <!-- feedback: Correcto. La liberación de energía reticular y de hidratación incrementa la temperatura de la solución. -->
-- [ ] B) Es un proceso endotérmico ($Delta H > 0$).
+- [ ] B) Es un proceso endotérmico ($\Delta H > 0$).
   <!-- feedback: Incorrecto. Los procesos endotérmicos absorben calor y enfrían el medio. -->
 - [ ] C) La entalpía de disolución es exactamente cero.
   <!-- feedback: Incorrecto. Si fuera cero, la temperatura no cambiaría. -->
@@ -251,7 +251,7 @@ En reacciones exotérmicas, bajar T desplaza a productos. Como $Delta n_{gases} 
   <!-- feedback: Incorrecto. La masa del vaso y solución se mantiene. -->
 
 ### Explicacion Pedagogica
-El aumento de temperatura del medio indica que la reacción o proceso fisicoquímico es exotérmico ($Delta H < 0$).
+El aumento de temperatura del medio indica que la reacción o proceso fisicoquímico es exotérmico ($\Delta H < 0$).
 
 ## Question 11 [D7-D8]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v11
@@ -267,14 +267,14 @@ Si la reacción sin enzima tarda 10 años y con enzima tarda 2 segundos, ¿qué 
 - [x] A) Disminuyó la energía de activación ($E_a$) ofreciendo una ruta alternativa más rápida sin modificar $\Delta G$.
   <!-- feedback: Correcto. Las enzimas aceleran la velocidad de reacción reduciendo la barrera de energía de activación. -->
 - [ ] B) Hizo que la reacción pasara de endotérmica a exotérmica.
-  <!-- feedback: Incorrecto. Las enzimas no alteran la entalpía inicial ni final ($Delta H$). -->
+  <!-- feedback: Incorrecto. Las enzimas no alteran la entalpía inicial ni final ($\Delta H$). -->
 - [ ] C) Aumentó la constante de equilibrio $K_c$ en un millón de veces.
   <!-- feedback: Incorrecto. Las enzimas no alteran el equilibrio termodinámico final. -->
 - [ ] D) Aumentó la energía libre de los reactivos.
   <!-- feedback: Incorrecto. No modifica la energía libre del estado fundamental de reactivos. -->
 
 ### Explicacion Pedagogica
-Los catalizadores biológicos disminuyen la energía de activación ($E_a$) acelerando la velocidad sin cambiar $Delta G$ ni $K_{eq}$.
+Los catalizadores biológicos disminuyen la energía de activación ($E_a$) acelerando la velocidad sin cambiar $\Delta G$ ni $K_{eq}$.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v12
@@ -292,12 +292,12 @@ Los catalizadores biológicos disminuyen la energía de activación ($E_a$) acel
 - [ ] B) $200 \text{ Vatios}$.
   <!-- feedback: Incorrecto. Es el trabajo total en Julios, no la potencia en Vatios. -->
 - [ ] C) $80 \text{ Vatios}$.
-  <!-- feedback: Incorrecto. Error al no multiplicar por $rac{1}{2}$ en la energía cinética. -->
+  <!-- feedback: Incorrecto. Error al no multiplicar por $\frac{1}{2}$ en la energía cinética. -->
 - [ ] D) $8 \text{ Vatios}$.
   <!-- feedback: Incorrecto. Dividió la velocidad entre el tiempo. -->
 
 ### Explicacion Pedagogica
-$Delta E_k = rac{1}{2}(4)(100) = 200 	ext{ J}$. Potencia $= 200 	ext{ J} / 5 	ext{ s} = 40 	ext{ W}$.
+$\Delta E_k = \frac{1}{2}(4)(100) = 200 \text{ J}$. Potencia $= 200 \text{ J} / 5 \text{ s} = 40 \text{ W}$.
 
 ## Question 13 [D7-D8]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v13
@@ -320,7 +320,7 @@ $Delta E_k = rac{1}{2}(4)(100) = 200 	ext{ J}$. Potencia $= 200 	ext{ J} / 5 	e
   <!-- feedback: Incorrecto. Errores en la conversión de atmósferas. -->
 
 ### Explicacion Pedagogica
-Molaridad $= Pi / RT = 0.001 	ext{ M}$. Moles en $0.1 	ext{ L} = 10^{-4} 	ext{ mol}$. $MM = 2 	ext{ g} / 10^{-4} 	ext{ mol} = 20,000 	ext{ g/mol}$.
+Molaridad $= Pi / RT = 0.001 \text{ M}$. Moles en $0.1 \text{ L} = 10^{-4} \text{ mol}$. $MM = 2 \text{ g} / 10^{-4} \text{ mol} = 20,000 \text{ g/mol}$.
 
 ## Question 14 [D7-D8]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v14
@@ -337,13 +337,13 @@ Molaridad $= Pi / RT = 0.001 	ext{ M}$. Moles en $0.1 	ext{ L} = 10^{-4} 	ext{ m
   <!-- feedback: Correcto. Al enfriar el agua, el equilibrio de solubilidad del gas se desplaza hacia la fase acuosa disuelta. -->
 - [ ] B) El frío destruye las moléculas de nitrógeno liberando oxígeno.
   <!-- feedback: Incorrecto. La disolución de gases es un proceso de solvatación física. -->
-- [ ] C) El agua a $40^circ	ext{C}$ reacciona químicamente convirtiendo el $O_2$ en sales.
+- [ ] C) El agua a $40^\circ\text{C}$ reacciona químicamente convirtiendo el $O_2$ en sales.
   <!-- feedback: Incorrecto. El oxígeno no reacciona con el agua neutra pura. -->
 - [ ] D) A mayor temperatura la presión atmosférica se duplica.
   <!-- feedback: Incorrecto. La solubilidad del gas depende de la temperatura y Henry. -->
 
 ### Explicacion Pedagogica
-La disolución de un gas libera calor ($Delta H_{sol} < 0$). Bajar la temperatura favorece la disolución del gas en agua.
+La disolución de un gas libera calor ($\Delta H_{sol} < 0$). Bajar la temperatura favorece la disolución del gas en agua.
 
 ## Question 15 [D7-D8]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v15
@@ -359,14 +359,14 @@ La disolución de un gas libera calor ($Delta H_{sol} < 0$). Bajar la temperatur
 - [x] A) $250 \text{ Julios}$.
   <!-- feedback: Correcto. $W = F \cdot d \cdot \cos(\theta) = 50 \text{ N} \times 10 \text{ m} \times 0.5 = 250 \text{ J}$. -->
 - [ ] B) $500 \text{ Julios}$.
-  <!-- feedback: Incorrecto. Olvidó multiplicar por el coseno del ángulo de $60^circ$. -->
+  <!-- feedback: Incorrecto. Olvidó multiplicar por el coseno del ángulo de $60^\circ$. -->
 - [ ] C) $433 \text{ Julios}$.
-  <!-- feedback: Incorrecto. Usó el seno de $60^circ$ en lugar del coseno. -->
+  <!-- feedback: Incorrecto. Usó el seno de $60^\circ$ en lugar del coseno. -->
 - [ ] D) $100 \text{ Julios}$.
   <!-- feedback: Incorrecto. Dividió la fuerza entre el coseno. -->
 
 ### Explicacion Pedagogica
-$W = F cdot d cdot cos 60^circ = 50 	imes 10 	imes 0.5 = 250 	ext{ J}$.
+$W = F \cdot d \cdot \cos 60^\circ = 50 \times 10 \times 0.5 = 250 \text{ J}$.
 
 ## Question 16 [D7-D8]
 **ID:** CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v16
@@ -465,7 +465,7 @@ Las celulasas despolimerizan la celulosa a glucosas sencillas que las levaduras 
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.25
-**Contexto:** Se evalúa la seguridad de tanques industriales de amoníaco en Cartagena considerando el equilibrio de evaporación $NH_{3(l)} \rightleftharpoons NH_{3(g)}$ ($Delta H_{vap} = +23.3 \text{ kJ/mol}$).
+**Contexto:** Se evalúa la seguridad de tanques industriales de amoníaco en Cartagena considerando el equilibrio de evaporación $NH_{3(l)} \rightleftharpoons NH_{3(g)}$ ($\Delta H_{vap} = +23.3 \text{ kJ/mol}$).
 
 ### Enunciado
 Si ocurre una fuga y el amoníaco líquido se evapora rápidamente a la atmósfera, ¿por qué el tanque sufre un enfriamiento criogénico severo?

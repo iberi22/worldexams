@@ -404,7 +404,7 @@ Si la sensibilidad climática de equilibrio (ECS) estimada es de $3{,}0^\circ\te
 - [x] A) $\Delta T \approx 6{,}89^\circ\text{C}$ ($\Delta T = 3{,}0 \times \frac{8{,}5}{3{,}7} = 3{,}0 \times 2{,}297 = 6{,}89^\circ\text{C}$).
   <!-- feedback: Correcto. Aplicando la fórmula: $\Delta T = 3{,}0 \times (8{,}5 / 3{,}7) = 3{,}0 \times 2{,}297 = 6{,}89^\circ\text{C}$ de calentamiento masivo catástrofe. -->
 - [ ] B) $\Delta T \approx 1{,}50^\circ\text{C}$; el clima se autorregula sin importar el forzamiento.
-  <!-- feedback: Incorrecto. $1{,}5^\circ	ext{C}$ corresponde a escenarios de mitigación ambiciosa como SSP1-1.9. -->
+  <!-- feedback: Incorrecto. $1{,}5^\circ\text{C}$ corresponde a escenarios de mitigación ambiciosa como SSP1-1.9. -->
 - [ ] C) $\Delta T \approx 25{,}5^\circ\text{C}$; por multiplicación directa de $3{,}0 \times 8{,}5$.
   <!-- feedback: Incorrecto. Se debe normalizar la relación respecto al forzamiento de duplicación $3{,}7\text{ W/m}^2$. -->
 - [ ] D) $\Delta T \approx 0{,}85^\circ\text{C}$; enfriamiento severo por albedo.

@@ -74,23 +74,23 @@ Un intervalo de confianza al $95%$ garantiza que el método utilizado genera int
 **Bloom:** Understand
 **ICFES:** Aleatorio
 **Expected_Success:** 0.80
-**Contexto:** En un estudio sobre el rendimiento en matemáticas en Cali, se toma una muestra aleatoria de tamaño $n$ de una población con desviación estándar $sigma$.
+**Contexto:** En un estudio sobre el rendimiento en matemáticas en Cali, se toma una muestra aleatoria de tamaño $n$ de una población con desviación estándar $\sigma$.
 
 ### Enunciado
-¿Cómo se calcula el error estándar de la media muestral ($sigma_{\bar{x}}$)?
+¿Cómo se calcula el error estándar de la media muestral ($\sigma_{\bar{x}}$)?
 
 ### Opciones
-- [x] A) $sigma_{\bar{x}} = \frac{sigma}{sqrt{n}}$
+- [x] A) $\sigma_{\bar{x}} = \frac{sigma}{\sqrt{n}}$
   <!-- feedback: El error estándar de la media disminuye de forma inversamente proporcional a la raíz cuadrada del tamaño de la muestra. -->
-- [ ] B) $sigma_{\bar{x}} = \frac{sigma}{n}$
+- [ ] B) $\sigma_{\bar{x}} = \frac{sigma}{n}$
   <!-- feedback: Le falta elevar n a la raíz cuadrada. -->
-- [ ] C) $sigma_{\bar{x}} = sigma cdot sqrt{n}$
+- [ ] C) $\sigma_{\bar{x}} = \sigma \cdot \sqrt{n}$
   <!-- feedback: Multiplica en lugar de dividir por la raíz de n. -->
-- [ ] D) $sigma_{\bar{x}} = \frac{n}{sigma}$
+- [ ] D) $\sigma_{\bar{x}} = \frac{n}{sigma}$
   <!-- feedback: Invierte los términos de la fracción. -->
 
 ### Explicacion Pedagogica
-Por el Teorema del Límite Central, la desviación estándar de la distribución muestral de la media (error estándar) es $sigma_{\bar{x}} = \frac{sigma}{sqrt{n}}$.
+Por el Teorema del Límite Central, la desviación estándar de la distribución muestral de la media (error estándar) es $\sigma_{\bar{x}} = \frac{sigma}{\sqrt{n}}$.
 
 ## Question 4 [D3-D4]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v4
@@ -113,14 +113,14 @@ Por el Teorema del Límite Central, la desviación estándar de la distribución
   <!-- feedback: El tamaño de la muestra influye directamente en la precisión del intervalo. -->
 
 ### Explicacion Pedagogica
-Al cuadruplicar el tamaño muestral $n$, el factor $sqrt{n}$ se duplica en el denominador del error estándar, por lo cual el margen de error se reduce exactamente a la mitad.
+Al cuadruplicar el tamaño muestral $n$, el factor $\sqrt{n}$ se duplica en el denominador del error estándar, por lo cual el margen de error se reduce exactamente a la mitad.
 
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Aleatorio
 **Expected_Success:** 0.75
-**Contexto:** La media muestral de masa corporal en un grupo de 100 estudiantes de Cartagena es $\bar{x} = 65$ kg, con una desviación estándar conocida de la población $sigma = 10$ kg. Para un nivel de confianza del 95%, $Z_{0.025} = 1.96$.
+**Contexto:** La media muestral de masa corporal en un grupo de 100 estudiantes de Cartagena es $\bar{x} = 65$ kg, con una desviación estándar conocida de la población $\sigma = 10$ kg. Para un nivel de confianza del 95%, $Z_{0.025} = 1.96$.
 
 ### Enunciado
 ¿Cuál es el margen de error $E$ para la estimación de la media poblacional?
@@ -136,7 +136,7 @@ Al cuadruplicar el tamaño muestral $n$, el factor $sqrt{n}$ se duplica en el de
   <!-- feedback: Corresponde al ancho total del intervalo de confianza (2 * E) en lugar del margen de error. -->
 
 ### Explicacion Pedagogica
-El margen de error es $E = Z_{alpha/2} \frac{sigma}{sqrt{n}} = 1.96 cdot \frac{10}{sqrt{100}} = 1.96 cdot 1 = 1.96$ kg.
+El margen de error es $E = Z_{alpha/2} \frac{sigma}{\sqrt{n}} = 1.96 \cdot \frac{10}{\sqrt{100}} = 1.96 \cdot 1 = 1.96$ kg.
 
 ## Question 6 [D5-D6]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v6
@@ -169,7 +169,7 @@ El centro del intervalo equidistante es la media muestral $\bar{x} = \frac{L_{in
 **Contexto:** En una encuesta a 400 ciudadanos de Pereira, 240 afirmaron utilizar bicicleta los fines de semana.
 
 ### Enunciado
-¿Cuál es el valor del estimador puntual de la proporción poblacional $hat{p}$?
+¿Cuál es el valor del estimador puntual de la proporción poblacional $\hat{p}$?
 
 ### Opciones
 - [x] A) 0.60
@@ -182,7 +182,7 @@ El centro del intervalo equidistante es la media muestral $\bar{x} = \frac{L_{in
   <!-- feedback: Se dividió el total entre los casos favorables (400/240). -->
 
 ### Explicacion Pedagogica
-La proporción muestral $hat{p}$ se obtiene mediante la razón entre el número de éxitos $x$ y el tamaño total de la muestra $n$: $hat{p} = \frac{240}{400} = 0.60$.
+La proporción muestral $\hat{p}$ se obtiene mediante la razón entre el número de éxitos $x$ y el tamaño total de la muestra $n$: $\hat{p} = \frac{240}{400} = 0.60$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v8
@@ -195,11 +195,11 @@ La proporción muestral $hat{p}$ se obtiene mediante la razón entre el número 
 ¿Cómo se deben plantear las hipótesis nula ($H_0$) y alternativa ($H_a$)?
 
 ### Opciones
-- [x] A) $H_0: mu le 50$ cm vs $H_a: mu > 50$ cm
+- [x] A) $H_0: \mu \le 50$ cm vs $H_a: \mu > 50$ cm
   <!-- feedback: La hipótesis nula contiene la igualdad o la afirmación por defecto, mientras que la alternativa refleja la sospecha o prueba del investigador (mu > 50). -->
-- [ ] B) $H_0: mu > 50$ cm vs $H_a: mu le 50$ cm
+- [ ] B) $H_0: \mu > 50$ cm vs $H_a: \mu \le 50$ cm
   <!-- feedback: Intercambió los roles de las hipótesis nula y alternativa. -->
-- [ ] C) $H_0: mu = 50$ cm vs $H_a: mu < 50$ cm
+- [ ] C) $H_0: \mu = 50$ cm vs $H_a: \mu < 50$ cm
   <!-- feedback: La alternativa apunta en sentido opuesto a la sospecha planteada en el enunciado. -->
 - [ ] D) $H_0: \bar{x} = 50$ cm vs $H_a: \bar{x} > 50$ cm
   <!-- feedback: Las hipótesis se plantean sobre los parámetros poblacionales (mu), nunca sobre los estadísticos muestrales (x_bar). -->
@@ -212,13 +212,13 @@ La hipótesis alternativa $H_a$ expresa la condición que el investigador desea 
 **Bloom:** Apply
 **ICFES:** Aleatorio
 **Expected_Success:** 0.70
-**Contexto:** En un estudio con nivel de significancia $alpha = 0.05$, un investigador obtiene un $p$-valor igual a 0.02 tras analizar los datos.
+**Contexto:** En un estudio con nivel de significancia $\alpha = 0.05$, un investigador obtiene un $p$-valor igual a 0.02 tras analizar los datos.
 
 ### Enunciado
 ¿Cuál es la conclusión estadística correcta respecto a la hipótesis nula $H_0$?
 
 ### Opciones
-- [x] A) Se rechaza la hipótesis nula $H_0$ porque el $p$-valor es menor que el nivel de significancia $alpha$.
+- [x] A) Se rechaza la hipótesis nula $H_0$ porque el $p$-valor es menor que el nivel de significancia $\alpha$.
   <!-- feedback: Como p-valor (0.02) < alpha (0.05), existe suficiente evidencia estadística para rechazar H0. -->
 - [ ] B) No se rechaza la hipótesis nula $H_0$ porque el $p$-valor es mayor que cero.
   <!-- feedback: La regla de decisión compara el p-valor con alpha, no con cero. -->
@@ -228,17 +228,17 @@ La hipótesis alternativa $H_a$ expresa la condición que el investigador desea 
   <!-- feedback: Un p-valor menor a alpha es completamente válido y concluyente para rechazar H0. -->
 
 ### Explicacion Pedagogica
-La regla de decisión estipula que si $p	ext{-valor} le alpha$, se rechaza $H_0$ debido a que los datos observados son altamente improbables bajo la suposición de que $H_0$ sea cierta.
+La regla de decisión estipula que si $p\text{-valor} \le \alpha$, se rechaza $H_0$ debido a que los datos observados son altamente improbables bajo la suposición de que $H_0$ sea cierta.
 
 ## Question 10 [D5-D6]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **ICFES:** Aleatorio
 **Expected_Success:** 0.70
-**Contexto:** Se calcula el error estándar de la proporción muestral en un sondeo con $hat{p} = 0.5$ y $n = 100$.
+**Contexto:** Se calcula el error estándar de la proporción muestral en un sondeo con $\hat{p} = 0.5$ y $n = 100$.
 
 ### Enunciado
-¿Cuál es el valor del error estándar $sigma_{hat{p}} = sqrt{\frac{hat{p}(1-hat{p})}{n}}$?
+¿Cuál es el valor del error estándar $\sigma_{\hat{p}} = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$?
 
 ### Opciones
 - [x] A) 0.05
@@ -251,14 +251,14 @@ La regla de decisión estipula que si $p	ext{-valor} le alpha$, se rechaza $H_0$
   <!-- feedback: Olvidó extraer la raíz cuadrada final al resultado de la varianza. -->
 
 ### Explicacion Pedagogica
-Sustituyendo en la fórmula: $sigma_{hat{p}} = sqrt{\frac{0.5   imes 0.5}{100}} = sqrt{\frac{0.25}{100}} = sqrt{0.0025} = 0.05$.
+Sustituyendo en la fórmula: $\sigma_{\hat{p}} = \sqrt{\frac{0.5   imes 0.5}{100}} = \sqrt{\frac{0.25}{100}} = \sqrt{0.0025} = 0.05$.
 
 ## Question 11 [D7-D8]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.65
-**Contexto:** Un fabricante de empaques en Manizales desea estimar la masa media de sus productos con un margen de error máximo de 2 gramos y un nivel de confianza del 95% ($Z = 2$). Se sabe que la desviación estándar poblacional es $sigma = 10$ gramos.
+**Contexto:** Un fabricante de empaques en Manizales desea estimar la masa media de sus productos con un margen de error máximo de 2 gramos y un nivel de confianza del 95% ($Z = 2$). Se sabe que la desviación estándar poblacional es $\sigma = 10$ gramos.
 
 ### Enunciado
 ¿Cuál es el tamaño de muestra mínimo $n$ requerido para cumplir con esta precisión?
@@ -274,7 +274,7 @@ Sustituyendo en la fórmula: $sigma_{hat{p}} = sqrt{\frac{0.5   imes 0.5}{100}} 
   <!-- feedback: Calculó solo Z * sigma / E sin elevar al cuadrado. -->
 
 ### Explicacion Pedagogica
-Despejando $n$ de la fórmula del margen de error $E = Z \frac{sigma}{sqrt{n}}$ se obtiene $n = left(\frac{Z cdot sigma}{E}
+Despejando $n$ de la fórmula del margen de error $E = Z \frac{sigma}{\sqrt{n}}$ se obtiene $n = left(\frac{Z cdot sigma}{E}
 ight)^2 = left(\frac{2   imes 10}{2}
 ight)^2 = 10^2 = 100$.
 
@@ -286,10 +286,10 @@ ight)^2 = 10^2 = 100$.
 **Contexto:** En una prueba de hipótesis, el Error Tipo I consiste en rechazar la hipótesis nula $H_0$ cuando esta es realmente verdadera, mientras que el Error Tipo II consiste en no rechazar $H_0$ cuando es falsa.
 
 ### Enunciado
-Si un investigador reduce el nivel de significancia $alpha$ de 0.05 a 0.01, ¿qué ocurre con las probabilidades de cometer ambos errores?
+Si un investigador reduce el nivel de significancia $\alpha$ de 0.05 a 0.01, ¿qué ocurre con las probabilidades de cometer ambos errores?
 
 ### Opciones
-- [x] A) Disminuye la probabilidad del Error Tipo I ($alpha$) y aumenta la probabilidad del Error Tipo II ($\beta$).
+- [x] A) Disminuye la probabilidad del Error Tipo I ($\alpha$) y aumenta la probabilidad del Error Tipo II ($\beta$).
   <!-- feedback: Al hacer la prueba más exigente para rechazar H0 (disminuyendo alpha), es menos probable rechazarla cuando es verdadera, pero aumenta el riesgo de no rechazarla cuando es falsa. -->
 - [ ] B) Aumenta la probabilidad de ambos errores simultáneamente.
   <!-- feedback: La relación entre ambos errores bajo tamaño muestral fijo es opuesta. -->
@@ -299,7 +299,7 @@ Si un investigador reduce el nivel de significancia $alpha$ de 0.05 a 0.01, ¿qu
   <!-- feedback: Para reducir ambos errores simultáneamente es indispensable aumentar el tamaño de la muestra n. -->
 
 ### Explicacion Pedagogica
-Manteniendo el tamaño de muestra constante, existe un compromiso recíproco entre los errores: al reducir la probabilidad $alpha$ (Error Tipo I), se dificulta el rechazo de $H_0$, lo que incrementa $\beta$ (Error Tipo II).
+Manteniendo el tamaño de muestra constante, existe un compromiso recíproco entre los errores: al reducir la probabilidad $\alpha$ (Error Tipo I), se dificulta el rechazo de $H_0$, lo que incrementa $\beta$ (Error Tipo II).
 
 ## Question 13 [D7-D8]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v13
@@ -331,10 +331,10 @@ Para la misma muestra, a mayor amplitud del intervalo de confianza corresponde u
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.60
-**Contexto:** Para evaluar si un nuevo método pedagógico mejora el puntaje en lectura en un colegio de Tunja, se aplica una prueba Z de una cola. El valor Z calculado a partir de los datos es $Z_{calc} = 2.33$, mientras que el valor crítico para $alpha = 0.01$ es $Z_{crit} = 2.33$.
+**Contexto:** Para evaluar si un nuevo método pedagógico mejora el puntaje en lectura en un colegio de Tunja, se aplica una prueba Z de una cola. El valor Z calculado a partir de los datos es $Z_{calc} = 2.33$, mientras que el valor crítico para $\alpha = 0.01$ es $Z_{crit} = 2.33$.
 
 ### Enunciado
-¿Qué decisión se debe tomar a un nivel de significancia del 1% ($alpha = 0.01$)?
+¿Qué decisión se debe tomar a un nivel de significancia del 1% ($\alpha = 0.01$)?
 
 ### Opciones
 - [x] A) Rechazar $H_0$, ya que el estadístico cae exactamente sobre el límite de la región de rechazo.
@@ -347,14 +347,14 @@ Para la misma muestra, a mayor amplitud del intervalo de confianza corresponde u
   <!-- feedback: Se puede decidir directamente con el valor crítico del 1%. -->
 
 ### Explicacion Pedagogica
-Dado que $Z_{calc} = 2.33 ge Z_{crit} = 2.33$, el estadístico de prueba entra en la región crítica, permitiendo rechazar la hipótesis nula $H_0$ al nivel $alpha = 0.01$.
+Dado que $Z_{calc} = 2.33 \ge Z_{crit} = 2.33$, el estadístico de prueba entra en la región crítica, permitiendo rechazar la hipótesis nula $H_0$ al nivel $\alpha = 0.01$.
 
 ## Question 15 [D7-D8]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.60
-**Contexto:** Un estudio estima que la proporción de estudiantes que practican deporte en Armenia es $hat{p} = 0.40$ con un margen de error del $5%$ ($E = 0.05$) al $95%$ de confianza.
+**Contexto:** Un estudio estima que la proporción de estudiantes que practican deporte en Armenia es $\hat{p} = 0.40$ con un margen de error del $5%$ ($E = 0.05$) al $95%$ de confianza.
 
 ### Enunciado
 ¿Cuál es el intervalo de confianza del 95% para la proporción poblacional de deportistas?
@@ -370,7 +370,7 @@ Dado que $Z_{calc} = 2.33 ge Z_{crit} = 2.33$, el estadístico de prueba entra e
   <!-- feedback: Confundió la proporción muestral con el nivel de confianza. -->
 
 ### Explicacion Pedagogica
-El intervalo de confianza se construye como $hat{p} pm E = 0.40 pm 0.05 = [0.35, 0.45]$, o en porcentaje $[35%, 45%]$.
+El intervalo de confianza se construye como $\hat{p} \pm E = 0.40 \pm 0.05 = [0.35, 0.45]$, o en porcentaje $[35%, 45%]$.
 
 ## Question 16 [D7-D8]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v16
@@ -380,7 +380,7 @@ El intervalo de confianza se construye como $hat{p} pm E = 0.40 pm 0.05 = [0.35,
 **Contexto:** Se prueba una moneda para verificar si está sesgada hacia la cara. Se lanza 100 veces y se obtienen 60 caras.
 
 ### Enunciado
-¿Cuál es el valor del estadístico de prueba $Z = \frac{hat{p} - p_0}{sqrt{\frac{p_0(1-p_0)}{n}}}$ bajo la hipótesis nula de moneda justa ($p_0 = 0.5$)?
+¿Cuál es el valor del estadístico de prueba $Z = \frac{\hat{p} - p_0}{\sqrt{\frac{p_0(1-p_0)}{n}}}$ bajo la hipótesis nula de moneda justa ($p_0 = 0.5$)?
 
 ### Opciones
 - [x] A) 2.0
@@ -393,8 +393,8 @@ El intervalo de confianza se construye como $hat{p} pm E = 0.40 pm 0.05 = [0.35,
   <!-- feedback: Se multiplicó 0.1 por 2 en lugar de dividir entre el error estándar. -->
 
 ### Explicacion Pedagogica
-$hat{p} = 0.60, p_0 = 0.50, n = 100$.
-Error estándar $= sqrt{\frac{0.5   imes 0.5}{100}} = 0.05$.
+$\hat{p} = 0.60, p_0 = 0.50, n = 100$.
+Error estándar $= \sqrt{\frac{0.5   imes 0.5}{100}} = 0.05$.
 $Z = \frac{0.60 - 0.50}{0.05} = \frac{0.10}{0.05} = 2.0$.
 
 ## Question 17 [D9-D10]
@@ -402,10 +402,10 @@ $Z = \frac{0.60 - 0.50}{0.05} = \frac{0.10}{0.05} = 2.0$.
 **Bloom:** Evaluate
 **ICFES:** Aleatorio
 **Expected_Success:** 0.50
-**Contexto:** Un laboratorio farmacéutico en Bogotá afirma que un nuevo analgésico reduce el tiempo de alivio a menos de 20 minutos en promedio. Una muestra de 36 pacientes arrojó una media de $\bar{x} = 18$ minutos con desviación estándar poblacional $sigma = 6$ minutos.
+**Contexto:** Un laboratorio farmacéutico en Bogotá afirma que un nuevo analgésico reduce el tiempo de alivio a menos de 20 minutos en promedio. Una muestra de 36 pacientes arrojó una media de $\bar{x} = 18$ minutos con desviación estándar poblacional $\sigma = 6$ minutos.
 
 ### Enunciado
-¿Cuál es el valor de $Z_{calc}$ y la conclusión adecuada con $alpha = 0.05$ ($Z_{crit} = -1.645$)?
+¿Cuál es el valor de $Z_{calc}$ y la conclusión adecuada con $\alpha = 0.05$ ($Z_{crit} = -1.645$)?
 
 ### Opciones
 - [x] A) $Z_{calc} = -2.00$; se RECHAZA $H_0$, respaldando la afirmación del laboratorio.
@@ -418,8 +418,8 @@ $Z = \frac{0.60 - 0.50}{0.05} = \frac{0.10}{0.05} = 2.0$.
   <!-- feedback: Calculó incorrectamente el error estándar dividiendo 6 entre 5. -->
 
 ### Explicacion Pedagogica
-$H_0: mu ge 20$ vs $H_a: mu < 20$.
-$Z_{calc} = \frac{18 - 20}{6/sqrt{36}} = \frac{-2}{1} = -2.00$.
+$H_0: \mu \ge 20$ vs $H_a: \mu < 20$.
+$Z_{calc} = \frac{18 - 20}{6/\sqrt{36}} = \frac{-2}{1} = -2.00$.
 Dado que $-2.00 < -1.645$, se rechaza $H_0$ a un nivel de significancia del 5%, concluyendo que el tiempo de alivio es significativamente menor a 20 minutos.
 
 ## Question 18 [D9-D10]
@@ -444,7 +444,7 @@ Dado que $-2.00 < -1.645$, se rechaza $H_0$ a un nivel de significancia del 5%, 
 
 ### Explicacion Pedagogica
 En ausencia de información previa, se asume $p = 0.5$ para obtener el tamaño muestral máximo de seguridad:
-$n = \frac{Z^2 cdot p(1-p)}{E^2} = \frac{(1.96)^2 cdot (0.5)(0.5)}{(0.03)^2} = \frac{3.8416 cdot 0.25}{0.0009} approx 1067.11$.
+$n = \frac{Z^2 \cdot p(1-p)}{E^2} = \frac{(1.96)^2 \cdot (0.5)(0.5)}{(0.03)^2} = \frac{3.8416 \cdot 0.25}{0.0009} \approx 1067.11$.
 Se redondea siempre al siguiente entero superior: $n = 1068$.
 
 ## Question 19 [D9-D10]
@@ -453,34 +453,34 @@ Se redondea siempre al siguiente entero superior: $n = 1068$.
 **ICFES:** Aleatorio
 **Expected_Success:** 0.45
 **Contexto:** Dos firmas encuestadoras miden el porcentaje de aprobación de una obra de infraestructura en Cali:
-Firmas A: $n_A = 100$, $hat{p}_A = 0.60$
-Firmas B: $n_B = 400$, $hat{p}_B = 0.60$
+Firmas A: $n_A = 100$, $\hat{p}_A = 0.60$
+Firmas B: $n_B = 400$, $\hat{p}_B = 0.60$
 
 ### Enunciado
 ¿Cómo se comparan los márgenes de error $E_A$ y $E_B$ de ambas firmas al mismo nivel de confianza?
 
 ### Opciones
-- [x] A) $E_A = 2 cdot E_B$
+- [x] A) $E_A = 2 \cdot E_B$
   <!-- feedback: Como E es proporcional a 1/sqrt(n), E_A / E_B = sqrt(400) / sqrt(100) = 20 / 10 = 2. El margen de la firma A es el doble que el de B. -->
-- [ ] B) $E_A = 4 cdot E_B$
+- [ ] B) $E_A = 4 \cdot E_B$
   <!-- feedback: No aplicó la raíz cuadrada a la razón entre los tamaños muestrales (400/100 = 4). -->
 - [ ] C) $E_A = E_B$
   <!-- feedback: Asumió erróneamente que tener la misma proporción muestral p_hat implica igual margen de error. -->
-- [ ] D) $E_A = 0.5 cdot E_B$
+- [ ] D) $E_A = 0.5 \cdot E_B$
   <!-- feedback: Invirtió la relación; la muestra más pequeña (A) produce un margen de error mayor. -->
 
 ### Explicacion Pedagogica
-Dado que $E propto \frac{1}{sqrt{n}}$, se cumple $\frac{E_A}{E_B} = sqrt{\frac{n_B}{n_A}} = sqrt{\frac{400}{100}} = sqrt{4} = 2$. Así, $E_A = 2 E_B$.
+Dado que $E propto \frac{1}{\sqrt{n}}$, se cumple $\frac{E_A}{E_B} = \sqrt{\frac{n_B}{n_A}} = \sqrt{\frac{400}{100}} = \sqrt{4} = 2$. Así, $E_A = 2 E_B$.
 
 ## Question 20 [D9-D10]
 **ID:** CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **ICFES:** Aleatorio
 **Expected_Success:** 0.45
-**Contexto:** Un auditor evalúa si el saldo promedio de cuentas por cobrar en un banco de Cartagena difiere de 5,000,000 COP ($H_0: mu = 5,000,000$). Tras analizar una muestra, construye un intervalo de confianza del 95%: $[5,100,000; 5,800,000]$ COP.
+**Contexto:** Un auditor evalúa si el saldo promedio de cuentas por cobrar en un banco de Cartagena difiere de 5,000,000 COP ($H_0: \mu = 5,000,000$). Tras analizar una muestra, construye un intervalo de confianza del 95%: $[5,100,000; 5,800,000]$ COP.
 
 ### Enunciado
-¿Cuál es la conclusión de la prueba de hipótesis bilateral equivalente a un nivel de significancia $alpha = 0.05$?
+¿Cuál es la conclusión de la prueba de hipótesis bilateral equivalente a un nivel de significancia $\alpha = 0.05$?
 
 ### Opciones
 - [x] A) Se RECHAZA $H_0$, porque el valor nulo de 5,000,000 COP no se encuentra contenido dentro del intervalo de confianza del 95%.
@@ -493,5 +493,5 @@ Dado que $E propto \frac{1}{sqrt{n}}$, se cumple $\frac{E_A}{E_B} = sqrt{\frac{n
   <!-- feedback: Existe una equivalencia lógica completa entre intervalos de confianza y pruebas bilaterales. -->
 
 ### Explicacion Pedagogica
-Cualquier valor hipotético $mu_0$ que quede fuera del intervalo de confianza del $(1-alpha)%$ será rechazado por una prueba de hipótesis bilateral al nivel de significancia $alpha$. Como $5,000,000
+Cualquier valor hipotético $\mu_0$ que quede fuera del intervalo de confianza del $(1-alpha)%$ será rechazado por una prueba de hipótesis bilateral al nivel de significancia $\alpha$. Como $5,000,000
 otin [5,100,000; 5,800,000]$, se rechaza $H_0$.
