@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v1",
-      "statement": "Â¿CuÃ¡l es la razÃ³n de cambio (diferencia comÃºn $d$) de esta sucesiÃ³n aritmÃ©tica de depÃ³sitos?",
-      "context": "Un plan de ahorro en un banco de BogotÃ¡ establece que una persona deposita 10,000 COP la primera semana, 15,000 COP la segunda, 20,000 COP la tercera y asÃ­ sucesivamente.",
+      "statement": "¿Cuál es la razón de cambio (diferencia común $d$) de esta sucesión aritmética de depósitos?",
+      "context": "Un plan de ahorro en un banco de Bogotá establece que una persona deposita 10,000 COP la primera semana, 15,000 COP la segunda, 20,000 COP la tercera y así sucesivamente.",
       "options": [
         {
           "letter": "A",
           "text": "5,000 COP",
           "is_correct": true,
-          "feedback": "La diferencia comÃºn d = 15000 - 10000 = 20000 - 15000 = 5000 COP."
+          "feedback": "La diferencia común d = 15000 - 10000 = 20000 - 15000 = 5000 COP."
         },
         {
           "letter": "B",
           "text": "10,000 COP",
           "is_correct": false,
-          "feedback": "Corresponde al primer tÃ©rmino a_1 de la sucesiÃ³n."
+          "feedback": "Corresponde al primer término a_1 de la sucesión."
         },
         {
           "letter": "C",
           "text": "15,000 COP",
           "is_correct": false,
-          "feedback": "Corresponde al segundo tÃ©rmino a_2 de la sucesiÃ³n."
+          "feedback": "Corresponde al segundo término a_2 de la sucesión."
         },
         {
           "letter": "D",
           "text": "2,500 COP",
           "is_correct": false,
-          "feedback": "DividiÃ³ la diferencia entre 2 por error."
+          "feedback": "Dividió la diferencia entre 2 por error."
         }
       ],
       "correct_answer": "A",
-      "explanation": "En una sucesiÃ³n aritmÃ©tica, la diferencia comÃºn $d$ es la resta entre cualquier tÃ©rmino y su predecesor inmediato: $d = a_n - a_{n-1} = 15,000 - 10,000 = 5,000$ COP.",
+      "explanation": "En una sucesión aritmética, la diferencia común $d$ es la resta entre cualquier término y su predecesor inmediato: $d = a_n - a_{n-1} = 15,000 - 10,000 = 5,000$ COP.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -55,8 +55,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v2",
-      "statement": "Â¿CuÃ¡l es la razÃ³n comÃºn $r$ de esta sucesiÃ³n geomÃ©trica?",
-      "context": "Un cultivo de microorganismos en MedellÃ­n duplica su poblaciÃ³n cada hora, comenzando con 3 bacterias en la hora cero.",
+      "statement": "¿Cuál es la razón común $r$ de esta sucesión geométrica?",
+      "context": "Un cultivo de microorganismos en Medellín duplica su población cada hora, comenzando con 3 bacterias en la hora cero.",
       "options": [
         {
           "letter": "A",
@@ -74,17 +74,17 @@
           "letter": "C",
           "text": "6",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ el tÃ©rmino inicial por la razÃ³n."
+          "feedback": "Multiplicó el término inicial por la razón."
         },
         {
           "letter": "D",
           "text": "0.5",
           "is_correct": false,
-          "feedback": "Corresponde al recÃ­proco de la razÃ³n de crecimiento."
+          "feedback": "Corresponde al recíproco de la razón de crecimiento."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Una sucesiÃ³n geomÃ©trica tiene la forma $a_n = a_0 cdot r^n$. Dado que el nÃºmero de bacterias se duplica a cada paso, la razÃ³n multiplicativa es $r = 2$.",
+      "explanation": "Una sucesión geométrica tiene la forma $a_n = a_0 cdot r^n$. Dado que el número de bacterias se duplica a cada paso, la razón multiplicativa es $r = 2$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,8 +101,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v3",
-      "statement": "Â¿CuÃ¡les son los primeros cuatro tÃ©rminos de esta sucesiÃ³n?",
-      "context": "Se define la sucesiÃ³n $a_n = 3n - 2$ para $n ge 1$.",
+      "statement": "¿Cuáles son los primeros cuatro términos de esta sucesión?",
+      "context": "Se define la sucesión $a_n = 3n - 2$ para $n ge 1$.",
       "options": [
         {
           "letter": "A",
@@ -114,23 +114,23 @@
           "letter": "B",
           "text": "3, 6, 9, 12",
           "is_correct": false,
-          "feedback": "EvaluÃ³ 3n ignorando la resta de 2 en la fÃ³rmula."
+          "feedback": "Evaluó 3n ignorando la resta de 2 en la fórmula."
         },
         {
           "letter": "C",
           "text": "1, 3, 5, 7",
           "is_correct": false,
-          "feedback": "UsÃ³ una diferencia comÃºn d = 2 en lugar de d = 3."
+          "feedback": "Usó una diferencia común d = 2 en lugar de d = 3."
         },
         {
           "letter": "D",
           "text": "2, 5, 8, 11",
           "is_correct": false,
-          "feedback": "SumÃ³ 2 en lugar de restar 2 en el tÃ©rmino general."
+          "feedback": "Sumó 2 en lugar de restar 2 en el término general."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustituyendo los valores de $n in {1, 2, 3, 4}$ en la expresiÃ³n general $a_n = 3n - 2$:\n$a_1 = 1, a_2 = 4, a_3 = 7, a_4 = 10$.",
+      "explanation": "Sustituyendo los valores de $n in {1, 2, 3, 4}$ en la expresión general $a_n = 3n - 2$:\n$a_1 = 1, a_2 = 4, a_3 = 7, a_4 = 10$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -147,8 +147,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v4",
-      "statement": "Â¿CuÃ¡ntos puntos tiene la quinta figura ($T_5$)?",
-      "context": "En una secuencia de figuras geomÃ©tricas en Cali, el nÃºmero de puntos formados viene dado por la fÃ³rmula de nÃºmeros triangulares $T_n = \\frac{n(n+1)}{2}$.",
+      "statement": "¿Cuántos puntos tiene la quinta figura ($T_5$)?",
+      "context": "En una secuencia de figuras geométricas en Cali, el número de puntos formados viene dado por la fórmula de números triangulares $T_n = \\frac{n(n+1)}{2}$.",
       "options": [
         {
           "letter": "A",
@@ -166,17 +166,17 @@
           "letter": "C",
           "text": "25",
           "is_correct": false,
-          "feedback": "CalculÃ³ 5^2 (nÃºmero cuadrado) en lugar del nÃºmero triangular."
+          "feedback": "Calculó 5^2 (número cuadrado) en lugar del número triangular."
         },
         {
           "letter": "D",
           "text": "30",
           "is_correct": false,
-          "feedback": "OlvidÃ³ dividir entre 2 la multiplicaciÃ³n n*(n+1)."
+          "feedback": "Olvidó dividir entre 2 la multiplicación n*(n+1)."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Sustituyendo $n=5$ en la fÃ³rmula de los nÃºmeros triangulares: $T_5 = \\frac{5   imes 6}{2} = 15$.",
+      "explanation": "Sustituyendo $n=5$ en la fórmula de los números triangulares: $T_5 = \\frac{5   imes 6}{2} = 15$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -193,8 +193,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v5",
-      "statement": "Â¿CuÃ¡l es el tÃ©rmino vigÃ©simo ($a_{20}$) de esta progresiÃ³n?",
-      "context": "Una progresiÃ³n aritmÃ©tica en Barranquilla comienza con $a_1 = 4$ y tiene una diferencia comÃºn $d = 3$.",
+      "statement": "¿Cuál es el término vigésimo ($a_{20}$) de esta progresión?",
+      "context": "Una progresión aritmética en Barranquilla comienza con $a_1 = 4$ y tiene una diferencia común $d = 3$.",
       "options": [
         {
           "letter": "A",
@@ -206,23 +206,23 @@
           "letter": "B",
           "text": "64",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 20 * 3 + 4 ignorando que el tÃ©rmino a_1 ya cuenta como el primero (usÃ³ n en lugar de n-1)."
+          "feedback": "Multiplicó 20 * 3 + 4 ignorando que el término a_1 ya cuenta como el primero (usó n en lugar de n-1)."
         },
         {
           "letter": "C",
           "text": "60",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 20 * 3."
+          "feedback": "Multiplicó 20 * 3."
         },
         {
           "letter": "D",
           "text": "57",
           "is_correct": false,
-          "feedback": "Corresponde solo al producto 19 * 3 sin sumar el primer tÃ©rmino a_1 = 4."
+          "feedback": "Corresponde solo al producto 19 * 3 sin sumar el primer término a_1 = 4."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La fÃ³rmula del tÃ©rmino $n$-Ã©simo de una progresiÃ³n aritmÃ©tica es $a_n = a_1 + (n-1)d$.\nPara $n=20$: $a_{20} = 4 + (19)(3) = 4 + 57 = 61$.",
+      "explanation": "La fórmula del término $n$-ésimo de una progresión aritmética es $a_n = a_1 + (n-1)d$.\nPara $n=20$: $a_{20} = 4 + (19)(3) = 4 + 57 = 61$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,7 +239,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v6",
-      "statement": "Â¿CuÃ¡l es la suma total acumulada ahorrada al cabo de los 5 meses ($S_5$)?",
+      "statement": "¿Cuál es la suma total acumulada ahorrada al cabo de los 5 meses ($S_5$)?",
       "context": "Una persona ahorra 100,000 COP el primer mes y duplica la cantidad ahorrada cada mes consecutivo durante 5 meses.",
       "options": [
         {
@@ -252,23 +252,23 @@
           "letter": "B",
           "text": "1,600,000 COP",
           "is_correct": false,
-          "feedback": "Corresponde Ãºnicamente al ahorro realizado en el quinto mes a_5 = 100000 * 16."
+          "feedback": "Corresponde únicamente al ahorro realizado en el quinto mes a_5 = 100000 * 16."
         },
         {
           "letter": "C",
           "text": "3,200,000 COP",
           "is_correct": false,
-          "feedback": "CalculÃ³ 100000 * 2^5 sin restar 1 en la fÃ³rmula de la serie geomÃ©trica."
+          "feedback": "Calculó 100000 * 2^5 sin restar 1 en la fórmula de la serie geométrica."
         },
         {
           "letter": "D",
           "text": "1,500,000 COP",
           "is_correct": false,
-          "feedback": "RealizÃ³ una suma aritmÃ©tica incorrecta."
+          "feedback": "Realizó una suma aritmética incorrecta."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La suma de una serie geomÃ©trica finita es $S_n = a_1 \\frac{r^n - 1}{r - 1}$.\nPara $a_1 = 100,000, r = 2, n = 5$: $S_5 = 100,000 \\frac{32 - 1}{1} = 3,100,000$ COP.",
+      "explanation": "La suma de una serie geométrica finita es $S_n = a_1 \\frac{r^n - 1}{r - 1}$.\nPara $a_1 = 100,000, r = 2, n = 5$: $S_5 = 100,000 \\frac{32 - 1}{1} = 3,100,000$ COP.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,8 +285,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v7",
-      "statement": "Â¿CuÃ¡l es el valor de la suma $1 + 2 + 3 + dots + 50$?",
-      "context": "La suma de los primeros $n$ nÃºmeros enteros positivos viene dada por $S_n = \\frac{n(n+1)}{2}$.",
+      "statement": "¿Cuál es el valor de la suma $1 + 2 + 3 + dots + 50$?",
+      "context": "La suma de los primeros $n$ números enteros positivos viene dada por $S_n = \\frac{n(n+1)}{2}$.",
       "options": [
         {
           "letter": "A",
@@ -298,23 +298,23 @@
           "letter": "B",
           "text": "2550",
           "is_correct": false,
-          "feedback": "OlvidÃ³ dividir entre 2 la multiplicaciÃ³n 50 * 51."
+          "feedback": "Olvidó dividir entre 2 la multiplicación 50 * 51."
         },
         {
           "letter": "C",
           "text": "1250",
           "is_correct": false,
-          "feedback": "CalculÃ³ 50 * 25."
+          "feedback": "Calculó 50 * 25."
         },
         {
           "letter": "D",
           "text": "1300",
           "is_correct": false,
-          "feedback": "CalculÃ³ 50 * 26."
+          "feedback": "Calculó 50 * 26."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicando la fÃ³rmula de la suma de Gauss para $n=50$:\n$S_{50} = \\frac{50   imes 51}{2} = 25   imes 51 = 1275$.",
+      "explanation": "Aplicando la fórmula de la suma de Gauss para $n=50$:\n$S_{50} = \\frac{50   imes 51}{2} = 25   imes 51 = 1275$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,8 +331,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v8",
-      "statement": "Â¿CuÃ¡ntos asientos en total tiene la tribuna ($S_{15}$)?",
-      "context": "En un estadio de fÃºtbol en Bucaramanga, la primera fila tiene 20 asientos y cada fila posterior tiene 2 asientos mÃ¡s que la anterior. Hay 15 filas en total.",
+      "statement": "¿Cuántos asientos en total tiene la tribuna ($S_{15}$)?",
+      "context": "En un estadio de fútbol en Bucaramanga, la primera fila tiene 20 asientos y cada fila posterior tiene 2 asientos más que la anterior. Hay 15 filas en total.",
       "options": [
         {
           "letter": "A",
@@ -344,19 +344,19 @@
           "letter": "B",
           "text": "480",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 15 * 32 (tomando la capacidad media de forma errÃ³nea)."
+          "feedback": "Multiplicó 15 * 32 (tomando la capacidad media de forma errónea)."
         },
         {
           "letter": "C",
           "text": "300",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 15 por la cantidad de asientos de la primera fila."
+          "feedback": "Multiplicó 15 por la cantidad de asientos de la primera fila."
         },
         {
           "letter": "D",
           "text": "720",
           "is_correct": false,
-          "feedback": "CalculÃ³ 15 * 48 sin aplicar la divisiÃ³n entre 2."
+          "feedback": "Calculó 15 * 48 sin aplicar la división entre 2."
         }
       ],
       "correct_answer": "A",
@@ -377,8 +377,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v9",
-      "statement": "Â¿CuÃ¡l es la suma infinita de todos los tÃ©rminos de esta sucesiÃ³n ($S_infty$)?",
-      "context": "Considere la sucesiÃ³n geomÃ©trica infinita $16, 8, 4, 2, 1, \\frac{1}{2}, dots$",
+      "statement": "¿Cuál es la suma infinita de todos los términos de esta sucesión ($S_infty$)?",
+      "context": "Considere la sucesión geométrica infinita $16, 8, 4, 2, 1, \\frac{1}{2}, dots$",
       "options": [
         {
           "letter": "A",
@@ -390,23 +390,23 @@
           "letter": "B",
           "text": "64",
           "is_correct": false,
-          "feedback": "DividiÃ³ 16 entre 0.25 por error."
+          "feedback": "Dividió 16 entre 0.25 por error."
         },
         {
           "letter": "C",
           "text": "31",
           "is_correct": false,
-          "feedback": "SumÃ³ los primeros 5 tÃ©rminos enteros ignorando la suma infinita de los fraccionarios."
+          "feedback": "Sumó los primeros 5 términos enteros ignorando la suma infinita de los fraccionarios."
         },
         {
           "letter": "D",
           "text": "La suma diverge a infinito",
           "is_correct": false,
-          "feedback": "Como |r| = 0.5 < 1, la serie geomÃ©trica converge a un valor finito."
+          "feedback": "Como |r| = 0.5 < 1, la serie geométrica converge a un valor finito."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para una serie geomÃ©trica convergente ($|r| < 1$), la suma infinita se calcula como $S_infty = \\frac{a_1}{1 - r}$.\nAquÃ­ $a_1 = 16$ y $r = 0.5$: $S_infty = \\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.",
+      "explanation": "Para una serie geométrica convergente ($|r| < 1$), la suma infinita se calcula como $S_infty = \\frac{a_1}{1 - r}$.\nAquí $a_1 = 16$ y $r = 0.5$: $S_infty = \\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,7 +423,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v10",
-      "statement": "Â¿QuÃ© altura alcanza la pelota despuÃ©s del tercer rebote?",
+      "statement": "¿Qué altura alcanza la pelota después del tercer rebote?",
       "context": "Una pelota se deja caer en Cartagena desde una altura de 10 metros. En cada rebote alcanza $\\frac{3}{4}$ de la altura anterior.",
       "options": [
         {
@@ -448,7 +448,7 @@
           "letter": "D",
           "text": "3.162 metros",
           "is_correct": false,
-          "feedback": "CalculÃ³ una potencia incorrecta."
+          "feedback": "Calculó una potencia incorrecta."
         }
       ],
       "correct_answer": "A",
@@ -469,8 +469,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v11",
-      "statement": "Â¿CuÃ¡l es el valor del primer tÃ©rmino $a_1$ y la diferencia comÃºn $d$?",
-      "context": "En una sucesiÃ³n aritmÃ©tica en Manizales, el tercer tÃ©rmino es $a_3 = 11$ y el sÃ©ptimo tÃ©rmino es $a_7 = 27$.",
+      "statement": "¿Cuál es el valor del primer término $a_1$ y la diferencia común $d$?",
+      "context": "En una sucesión aritmética en Manizales, el tercer término es $a_3 = 11$ y el séptimo término es $a_7 = 27$.",
       "options": [
         {
           "letter": "A",
@@ -482,19 +482,19 @@
           "letter": "B",
           "text": "$a_1 = 4, d = 3$",
           "is_correct": false,
-          "feedback": "IntercambiÃ³ los valores del primer tÃ©rmino y la diferencia."
+          "feedback": "Intercambió los valores del primer término y la diferencia."
         },
         {
           "letter": "C",
           "text": "$a_1 = 1, d = 5$",
           "is_correct": false,
-          "feedback": "Si d=5, a_3 serÃ­a 1 + 10 = 11 pero a_7 serÃ­a 1 + 30 = 31 (no 27)."
+          "feedback": "Si d=5, a_3 sería 1 + 10 = 11 pero a_7 sería 1 + 30 = 31 (no 27)."
         },
         {
           "letter": "D",
           "text": "$a_1 = 2, d = 4$",
           "is_correct": false,
-          "feedback": "Si a_1 = 2 y d = 4, a_3 serÃ­a 10 (no 11)."
+          "feedback": "Si a_1 = 2 y d = 4, a_3 sería 10 (no 11)."
         }
       ],
       "correct_answer": "A",
@@ -515,8 +515,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v12",
-      "statement": "Â¿CuÃ¡l es el valor del octavo tÃ©rmino ($F_8$) de la sucesiÃ³n de Fibonacci?",
-      "context": "La famosa SucesiÃ³n de Fibonacci se define recursivamente como $F_1 = 1, F_2 = 1, F_n = F_{n-1} + F_{n-2}$ para $n ge 3$.",
+      "statement": "¿Cuál es el valor del octavo término ($F_8$) de la sucesión de Fibonacci?",
+      "context": "La famosa Sucesión de Fibonacci se define recursivamente como $F_1 = 1, F_2 = 1, F_n = F_{n-1} + F_{n-2}$ para $n ge 3$.",
       "options": [
         {
           "letter": "A",
@@ -528,23 +528,23 @@
           "letter": "B",
           "text": "13",
           "is_correct": false,
-          "feedback": "Corresponde al sÃ©ptimo tÃ©rmino F_7."
+          "feedback": "Corresponde al séptimo término F_7."
         },
         {
           "letter": "C",
           "text": "34",
           "is_correct": false,
-          "feedback": "Corresponde al noveno tÃ©rmino F_9."
+          "feedback": "Corresponde al noveno término F_9."
         },
         {
           "letter": "D",
           "text": "18",
           "is_correct": false,
-          "feedback": "SumÃ³ 8 + 10 errÃ³neamente."
+          "feedback": "Sumó 8 + 10 erróneamente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Calculando tÃ©rmino a tÃ©rmino mediante la relaciÃ³n de recurrencia:\n$1, 1, 2, 3, 5, 8, 13, 21$. Por lo tanto, $F_8 = 21$.",
+      "explanation": "Calculando término a término mediante la relación de recurrencia:\n$1, 1, 2, 3, 5, 8, 13, 21$. Por lo tanto, $F_8 = 21$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -561,8 +561,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v13",
-      "statement": "Â¿A quÃ© expresiÃ³n simplificada equivale la suma de los primeros $n$ nÃºmeros impares?",
-      "context": "Se quiere calcular la suma de los primeros $n$ tÃ©rminos de la serie $sum_{k=1}^n (2k - 1)$, que representa la suma de los primeros nÃºmeros impares.",
+      "statement": "¿A qué expresión simplificada equivale la suma de los primeros $n$ números impares?",
+      "context": "Se quiere calcular la suma de los primeros $n$ términos de la serie $sum_{k=1}^n (2k - 1)$, que representa la suma de los primeros números impares.",
       "options": [
         {
           "letter": "A",
@@ -574,23 +574,23 @@
           "letter": "B",
           "text": "$n(n+1)$",
           "is_correct": false,
-          "feedback": "Corresponde a la suma de los primeros n nÃºmeros PARES (2 + 4 + ... + 2n)."
+          "feedback": "Corresponde a la suma de los primeros n números PARES (2 + 4 + ... + 2n)."
         },
         {
           "letter": "C",
           "text": "$2n^2 - 1$",
           "is_correct": false,
-          "feedback": "ExpresiÃ³n algebraica errÃ³nea."
+          "feedback": "Expresión algebraica errónea."
         },
         {
           "letter": "D",
           "text": "$\\frac{n^2}{2}$",
           "is_correct": false,
-          "feedback": "DividiÃ³ entre 2 el resultado real."
+          "feedback": "Dividió entre 2 el resultado real."
         }
       ],
       "correct_answer": "A",
-      "explanation": "DemostraciÃ³n por inducciÃ³n o mediante suma telescÃ³pica: $sum_{k=1}^n (2k - 1) = 2 sum k - sum 1 = 2 \\frac{n(n+1)}{2} - n = n^2 + n - n = n^2$.",
+      "explanation": "Demostración por inducción o mediante suma telescópica: $sum_{k=1}^n (2k - 1) = 2 sum k - sum 1 = 2 \\frac{n(n+1)}{2} - n = n^2 + n - n = n^2$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v14",
-      "statement": "Â¿CuÃ¡l es la funciÃ³n $V(t)$ que representa el valor de la mÃ¡quina al cabo de $t$ aÃ±os?",
-      "context": "Una maquinaria en Pereira pierde el $10%$ de su valor comercial cada aÃ±o transcurrido (depreciaciÃ³n geomÃ©trica). El costo original fue de 50,000,000 COP.",
+      "statement": "¿Cuál es la función $V(t)$ que representa el valor de la máquina al cabo de $t$ años?",
+      "context": "Una maquinaria en Pereira pierde el $10%$ de su valor comercial cada año transcurrido (depreciación geométrica). El costo original fue de 50,000,000 COP.",
       "options": [
         {
           "letter": "A",
           "text": "$V(t) = 50,000,000 cdot (0.90)^t$",
           "is_correct": true,
-          "feedback": "Al perder el 10% cada aÃ±o, conserva el 90% (0.90) de su valor del aÃ±o anterior: V(t) = V_0 * (0.90)^t."
+          "feedback": "Al perder el 10% cada año, conserva el 90% (0.90) de su valor del año anterior: V(t) = V_0 * (0.90)^t."
         },
         {
           "letter": "B",
           "text": "$V(t) = 50,000,000 cdot (0.10)^t$",
           "is_correct": false,
-          "feedback": "UsÃ³ el porcentaje de depreciaciÃ³n en lugar del valor retenido (0.90)."
+          "feedback": "Usó el porcentaje de depreciación en lugar del valor retenido (0.90)."
         },
         {
           "letter": "C",
           "text": "$V(t) = 50,000,000 - 5,000,000 t$",
           "is_correct": false,
-          "feedback": "AsumiÃ³ una depreciaciÃ³n lineal constante en lugar de una tasa porcentual geomÃ©trica."
+          "feedback": "Asumió una depreciación lineal constante en lugar de una tasa porcentual geométrica."
         },
         {
           "letter": "D",
           "text": "$V(t) = 50,000,000 cdot (1.10)^t$",
           "is_correct": false,
-          "feedback": "CalculÃ³ apreciaciÃ³n (ganancia del 10%) en lugar de depreciaciÃ³n."
+          "feedback": "Calculó apreciación (ganancia del 10%) en lugar de depreciación."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Una tasa de depreciaciÃ³n anual del $10%$ implica que el factor retenido anual es $1 - 0.10 = 0.90$. La funciÃ³n geomÃ©trica del valor es $V(t) = V_0(0.90)^t$.",
+      "explanation": "Una tasa de depreciación anual del $10%$ implica que el factor retenido anual es $1 - 0.10 = 0.90$. La función geométrica del valor es $V(t) = V_0(0.90)^t$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -653,36 +653,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v15",
-      "statement": "Â¿CuÃ¡l es el lÃ­mite de la suma de esta serie cuando $n$ tiende a infinito?",
-      "context": "Dada la serie telescÃ³pica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1} \right)$.",
+      "statement": "¿Cuál es el límite de la suma de esta serie cuando $n$ tiende a infinito?",
+      "context": "Dada la serie telescópica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1} \night)$.",
       "options": [
         {
           "letter": "A",
           "text": "1",
           "is_correct": true,
-          "feedback": "La suma parcial Sn se cancela telescÃ³picamente: Sn = (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1). Cuando n -> inf, 1/(n+1) -> 0, luego la suma es 1."
+          "feedback": "La suma parcial Sn se cancela telescópicamente: Sn = (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1). Cuando n -> inf, 1/(n+1) -> 0, luego la suma es 1."
         },
         {
           "letter": "B",
           "text": "0",
           "is_correct": false,
-          "feedback": "Corresponde al lÃ­mite del tÃ©rmino 1/(n+1), no a la suma total de la serie."
+          "feedback": "Corresponde al límite del término 1/(n+1), no a la suma total de la serie."
         },
         {
           "letter": "C",
           "text": "$infty$",
           "is_correct": false,
-          "feedback": "AsumiÃ³ divergencia sin aplicar la propiedad telescÃ³pica."
+          "feedback": "Asumió divergencia sin aplicar la propiedad telescópica."
         },
         {
           "letter": "D",
           "text": "0.5",
           "is_correct": false,
-          "feedback": "EstimÃ³ el valor del segundo tÃ©rmino de la resta."
+          "feedback": "Estimó el valor del segundo término de la resta."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Al desplegar los tÃ©rminos de la serie telescÃ³pica, los tÃ©rminos intermedios se anulan mutuamente:\n$S_n = 1 - \\frac{1}{n+1}$. Calculando el lÃ­mite: $lim_{n   o infty} left(1 - \\frac{1}{n+1}\right) = 1 - 0 = 1$.",
+      "explanation": "Al desplegar los términos de la serie telescópica, los términos intermedios se anulan mutuamente:\n$S_n = 1 - \\frac{1}{n+1}$. Calculando el límite: $lim_{n   o infty} left(1 - \\frac{1}{n+1}\night) = 1 - 0 = 1$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v16",
-      "statement": "Â¿Al cabo de cuÃ¡ntos aÃ±os el capital acumulado superarÃ¡ por primera vez los 1,200,000 COP? (Utilice $log(1.20) approx 0.07918$ y $log(1.05) approx 0.02119$).",
-      "context": "Una persona deposita 1,000,000 COP a una tasa de interÃ©s compuesto del $5%$ anual en un fondo de inversiÃ³n en Armenia.",
+      "statement": "¿Al cabo de cuántos años el capital acumulado superará por primera vez los 1,200,000 COP? (Utilice $log(1.20) approx 0.07918$ y $log(1.05) approx 0.02119$).",
+      "context": "Una persona deposita 1,000,000 COP a una tasa de interés compuesto del $5%$ anual en un fondo de inversión en Armenia.",
       "options": [
         {
           "letter": "A",
-          "text": "4 aÃ±os",
+          "text": "4 años",
           "is_correct": true,
-          "feedback": "1000000 * (1.05)^t = 1200000 -> (1.05)^t = 1.20 -> t = log(1.20) / log(1.05) = 0.07918 / 0.02119 = 3.736 aÃ±os. Por lo tanto, al cabo de 4 aÃ±os se supera por primera vez."
+          "feedback": "1000000 * (1.05)^t = 1200000 -> (1.05)^t = 1.20 -> t = log(1.20) / log(1.05) = 0.07918 / 0.02119 = 3.736 años. Por lo tanto, al cabo de 4 años se supera por primera vez."
         },
         {
           "letter": "B",
-          "text": "3 aÃ±os",
+          "text": "3 años",
           "is_correct": false,
-          "feedback": "A los 3 aÃ±os el capital es 1000000 * (1.05)^3 = 1157625 COP, aÃºn no alcanza los 1.200.000 COP."
+          "feedback": "A los 3 años el capital es 1000000 * (1.05)^3 = 1157625 COP, aún no alcanza los 1.200.000 COP."
         },
         {
           "letter": "C",
-          "text": "5 aÃ±os",
+          "text": "5 años",
           "is_correct": false,
-          "feedback": "A los 5 aÃ±os ya se superÃ³ previamente en el aÃ±o 4."
+          "feedback": "A los 5 años ya se superó previamente en el año 4."
         },
         {
           "letter": "D",
-          "text": "2 aÃ±os",
+          "text": "2 años",
           "is_correct": false,
-          "feedback": "A los 2 aÃ±os el capital es solo 1102500 COP."
+          "feedback": "A los 2 años el capital es solo 1102500 COP."
         }
       ],
       "correct_answer": "A",
-      "explanation": "$1,000,000(1.05)^t = 1,200,000 Rightarrow (1.05)^t = 1.20$.\nTomando logaritmos: $t = \\frac{log(1.20)}{log(1.05)} approx \\frac{0.07918}{0.02119} approx 3.74$ aÃ±os.\nRedondeando al entero superior en aÃ±os completos: 4 aÃ±os.",
+      "explanation": "$1,000,000(1.05)^t = 1,200,000 Rightarrow (1.05)^t = 1.20$.\nTomando logaritmos: $t = \\frac{log(1.20)}{log(1.05)} approx \\frac{0.07918}{0.02119} approx 3.74$ años.\nRedondeando al entero superior en años completos: 4 años.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -745,8 +745,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v17",
-      "statement": "Â¿CuÃ¡l es la distancia total recorrida acumulada durante los primeros 10 dÃ­as de entrenamiento? (Utilice $(1.10)^{10} approx 2.5937$).",
-      "context": "Un atleta en BogotÃ¡ entrena para un maratÃ³n. El primer dÃ­a corre 5 km y cada dÃ­a siguiente aumenta la distancia en un $10%$ respecto al dÃ­a anterior.",
+      "statement": "¿Cuál es la distancia total recorrida acumulada durante los primeros 10 días de entrenamiento? (Utilice $(1.10)^{10} approx 2.5937$).",
+      "context": "Un atleta en Bogotá entrena para un maratón. El primer día corre 5 km y cada día siguiente aumenta la distancia en un $10%$ respecto al día anterior.",
       "options": [
         {
           "letter": "A",
@@ -758,23 +758,23 @@
           "letter": "B",
           "text": "12.96 km",
           "is_correct": false,
-          "feedback": "Corresponde Ãºnicamente a la distancia recorrida el dÃ©cimo dÃ­a a_10 = 5 * (1.10)^9."
+          "feedback": "Corresponde únicamente a la distancia recorrida el décimo día a_10 = 5 * (1.10)^9."
         },
         {
           "letter": "C",
           "text": "50.00 km",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 5 * 10 de manera lineal ignorando el incremento del 10%."
+          "feedback": "Multiplicó 5 * 10 de manera lineal ignorando el incremento del 10%."
         },
         {
           "letter": "D",
           "text": "129.68 km",
           "is_correct": false,
-          "feedback": "ErrÃ³ en la divisiÃ³n entre r - 1."
+          "feedback": "Erró en la división entre r - 1."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Es la suma de una serie geomÃ©trica con $a_1 = 5, r = 1.10, n = 10$:\n$S_{10} = 5 \\frac{(1.10)^{10} - 1}{1.10 - 1} = 5 \\frac{2.5937 - 1}{0.10} = 5   imes 15.937 = 79.685$ km.",
+      "explanation": "Es la suma de una serie geométrica con $a_1 = 5, r = 1.10, n = 10$:\n$S_{10} = 5 \\frac{(1.10)^{10} - 1}{1.10 - 1} = 5 \\frac{2.5937 - 1}{0.10} = 5   imes 15.937 = 79.685$ km.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,14 +791,14 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v18",
-      "statement": "Â¿CuÃ¡les son los valores de los coeficientes $A, B$ y $C$?",
-      "context": "Se quiere encontrar la fÃ³rmula cuadrÃ¡tica del tÃ©rmino general $a_n = A n^2 + B n + C$ para la sucesiÃ³n $3, 8, 15, 24, 35, dots$",
+      "statement": "¿Cuáles son los valores de los coeficientes $A, B$ y $C$?",
+      "context": "Se quiere encontrar la fórmula cuadrática del término general $a_n = A n^2 + B n + C$ para la sucesión $3, 8, 15, 24, 35, dots$",
       "options": [
         {
           "letter": "A",
           "text": "$A = 1, B = 2, C = 0$",
           "is_correct": true,
-          "feedback": "a_n = n^2 + 2n. Para n=1: 1+2=3; n=2: 4+4=8; n=3: 9+6=15; n=4: 16+8=24. Satisface perfectamente la sucesiÃ³n."
+          "feedback": "a_n = n^2 + 2n. Para n=1: 1+2=3; n=2: 4+4=8; n=3: 9+6=15; n=4: 16+8=24. Satisface perfectamente la sucesión."
         },
         {
           "letter": "B",
@@ -820,7 +820,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Analizando las primeras diferencias de $3, 8, 15, 24$: son $5, 7, 9$.\nLas segundas diferencias son $2, 2$.\nPor tanto, $2A = 2 Rightarrow A = 1$.\n$3A + B = 5 Rightarrow 3(1) + B = 5 Rightarrow B = 2$.\n$A + B + C = 3 Rightarrow 1 + 2 + C = 3 Rightarrow C = 0$. La fÃ³rmula es $a_n = n^2 + 2n$.",
+      "explanation": "Analizando las primeras diferencias de $3, 8, 15, 24$: son $5, 7, 9$.\nLas segundas diferencias son $2, 2$.\nPor tanto, $2A = 2 Rightarrow A = 1$.\n$3A + B = 5 Rightarrow 3(1) + B = 5 Rightarrow B = 2$.\n$A + B + C = 3 Rightarrow 1 + 2 + C = 3 Rightarrow C = 0$. La fórmula es $a_n = n^2 + 2n$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -837,7 +837,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v19",
-      "statement": "Â¿CuÃ¡l es el valor exacto de la suma de esta serie aritmÃ©tico-geomÃ©trica?",
+      "statement": "¿Cuál es el valor exacto de la suma de esta serie aritmético-geométrica?",
       "context": "Se define la suma infinita de cuadrados $S = 1 + \\frac{2}{2} + \\frac{3}{4} + \\frac{4}{8} + \\frac{5}{16} + dots + \\frac{n}{2^{n-1}} + dots$",
       "options": [
         {
@@ -850,23 +850,23 @@
           "letter": "B",
           "text": "2",
           "is_correct": false,
-          "feedback": "Corresponde a la suma S/2 o a la serie geomÃ©trica simple."
+          "feedback": "Corresponde a la suma S/2 o a la serie geométrica simple."
         },
         {
           "letter": "C",
           "text": "3",
           "is_correct": false,
-          "feedback": "ErrÃ³ en el proceso de resta telescÃ³pica."
+          "feedback": "Erró en el proceso de resta telescópica."
         },
         {
           "letter": "D",
           "text": "La serie es divergente",
           "is_correct": false,
-          "feedback": "Como el tÃ©rmino general n/2^(n-1) tiende a 0 rÃ¡pidamente, la serie es convergente."
+          "feedback": "Como el término general n/2^(n-1) tiende a 0 rápidamente, la serie es convergente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Multiplicamos la serie $S$ por la razÃ³n $\\frac{1}{2}$:\n$\\frac{1}{2}S = \\frac{1}{2} + \\frac{2}{4} + \\frac{3}{8} + dots$\nRestando $S - \\frac{1}{2}S = 1 + left(\\frac{2}{2} - \\frac{1}{2}\right) + left(\\frac{3}{4} - \\frac{2}{4}\right) + dots$\n$\\frac{1}{2}S = 1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + dots = \\frac{1}{1 - 0.5} = 2$.\nPor ende, $S = 4$.",
+      "explanation": "Multiplicamos la serie $S$ por la razón $\\frac{1}{2}$:\n$\\frac{1}{2}S = \\frac{1}{2} + \\frac{2}{4} + \\frac{3}{8} + dots$\nRestando $S - \\frac{1}{2}S = 1 + left(\\frac{2}{2} - \\frac{1}{2}\night) + left(\\frac{3}{4} - \\frac{2}{4}\night) + dots$\n$\\frac{1}{2}S = 1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + dots = \\frac{1}{1 - 0.5} = 2$.\nPor ende, $S = 4$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -883,36 +883,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v20",
-      "statement": "Si el perÃ­metro inicial del triÃ¡ngulo equilÃ¡tero original es $P_0 = 3$ metros, Â¿cuÃ¡l es el perÃ­metro $P_n$ de la figura tras $n$ iteraciones?",
+      "statement": "Si el perímetro inicial del triángulo equilátero original es $P_0 = 3$ metros, ¿cuál es el perímetro $P_n$ de la figura tras $n$ iteraciones?",
       "context": "En un fractal tipo Copo de Nieve de Koch en Tunja, en cada paso se reemplaza cada segmento de longitud $L$ por 4 segmentos de longitud $\\frac{L}{3}$.",
       "options": [
         {
           "letter": "A",
-          "text": "$P_n = 3 cdot left(\\frac{4}{3}\right)^n$",
+          "text": "$P_n = 3 cdot left(\\frac{4}{3}\night)^n$",
           "is_correct": true,
-          "feedback": "En cada paso el nÃºmero de lados se multiplica por 4 y la longitud de cada lado se multiplica por 1/3, por lo que el perÃ­metro total se multiplica por (4/3): P_n = P_0 * (4/3)^n."
+          "feedback": "En cada paso el número de lados se multiplica por 4 y la longitud de cada lado se multiplica por 1/3, por lo que el perímetro total se multiplica por (4/3): P_n = P_0 * (4/3)^n."
         },
         {
           "letter": "B",
-          "text": "$P_n = 3 cdot left(\\frac{3}{4}\right)^n$",
+          "text": "$P_n = 3 cdot left(\\frac{3}{4}\night)^n$",
           "is_correct": false,
-          "feedback": "InvirtiÃ³ la razÃ³n de crecimiento, lo que indicarÃ­a que el perÃ­metro disminuye en lugar de aumentar."
+          "feedback": "Invirtió la razón de crecimiento, lo que indicaría que el perímetro disminuye en lugar de aumentar."
         },
         {
           "letter": "C",
           "text": "$P_n = 3 + 4n$",
           "is_correct": false,
-          "feedback": "AsumiÃ³ un crecimiento lineal en lugar de geomÃ©trico."
+          "feedback": "Asumió un crecimiento lineal en lugar de geométrico."
         },
         {
           "letter": "D",
           "text": "$P_n = 3$ para todo $n$",
           "is_correct": false,
-          "feedback": "AsumiÃ³ errÃ³neamente que el perÃ­metro se mantiene constante como en la conservaciÃ³n de Ã¡rea."
+          "feedback": "Asumió erróneamente que el perímetro se mantiene constante como en la conservación de área."
         }
       ],
       "correct_answer": "A",
-      "explanation": "En cada iteraciÃ³n del fractal de Koch, cada lado de longitud $l$ se transforma en 4 lados de longitud $l/3$. Por consiguiente, la longitud total del perÃ­metro aumenta por un factor constante de $\\frac{4}{3}$ en cada paso: $P_n = 3 left(\\frac{4}{3}\right)^n$. Conforme $n   o infty$, el perÃ­metro tiende a infinito.",
+      "explanation": "En cada iteración del fractal de Koch, cada lado de longitud $l$ se transforma en 4 lados de longitud $l/3$. Por consiguiente, la longitud total del perímetro aumenta por un factor constante de $\\frac{4}{3}$ en cada paso: $P_n = 3 left(\\frac{4}{3}\night)^n$. Conforme $n   o infty$, el perímetro tiende a infinito.",
       "difficulty": "10",
       "images": [],
       "tags": [],
