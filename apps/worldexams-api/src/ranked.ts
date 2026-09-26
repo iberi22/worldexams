@@ -423,7 +423,7 @@ export async function routeRanked(
       score: row.score,
       correct: row.correct,
       answered: row.answered,
-      createdAt: row.created_at,
+      createdAt: Number.isFinite(Number(row.created_at)) ? new Date(Number(row.created_at) * 1000).toISOString() : null,
     }));
 
     return json(

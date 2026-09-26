@@ -379,7 +379,9 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const periodRaw = url.searchParams.get("period")
   const period = periodRaw ? parseInt(periodRaw, 10) : undefined
 
-  const defaultMode = period ? "sample" : "page"
+  // Legacy pagination stays the default until the client migrates (WAVE-16.17);
+  // sampling is opt-in with mode=sample.
+  const defaultMode = "page"
   const mode = url.searchParams.get("mode") || defaultMode
 
   const seedParam = url.searchParams.get("seed")
@@ -460,7 +462,7 @@ async function fetchPublicQuestions(request: Request, env: Env) {
           returned: questions.length,
         },
       }, 200, {
-        "Cache-Control": "public, max-age=3600, s-maxage=3600",
+        "Cache-Control": seedParam ? "public, max-age=3600, s-maxage=3600" : "no-store",
         "X-Guest-Mode": "true",
       }, request)
     } else {
@@ -571,7 +573,8 @@ export default {
     }
 
     if (url.pathname.startsWith("/v1/packs/")) {
-      if (url.pathname === "/v1/packs/metadata.json") {
+      // Internal indexes are not public (the worker reads _manifest.json via env.ASSETS directly).
+      if (url.pathname === "/v1/packs/metadata.json" || url.pathname === "/v1/packs/_manifest.json") {
         return json({ error: "NOT_FOUND" }, 404, {}, request)
       }
 

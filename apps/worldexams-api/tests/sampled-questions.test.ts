@@ -1,8 +1,10 @@
-import { describe, it, expect, vi } from "vitest"
-import worker from "../src/index"
+import { describe, it, expect, vi, beforeEach } from "vitest"
+import worker, { __resetPackCaches } from "../src/index"
 import type { Env } from "../src/index"
 
 describe("Sampled Questions and Security Gates", () => {
+  beforeEach(() => __resetPackCaches())
+
   const mockEnv = (assetsMap: Record<string, Response>, over: Partial<Env> = {}): Env => ({
     SUPABASE_URL: "https://mock.supabase.co",
     SUPABASE_ANON_KEY: "mock-key",
@@ -36,7 +38,7 @@ describe("Sampled Questions and Security Gates", () => {
       "/v1/packs/co-week-11-grade-11-subject-matematicas.json": new Response(JSON.stringify(createBigPack(50)), { status: 200 }),
     })
 
-    let req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=2", { method: "GET" })
+    let req = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=2", { method: "GET" })
     let res = await worker.fetch(req, env)
     expect(res.status).toBe(200)
     let data = (await res.json()) as any
@@ -45,7 +47,7 @@ describe("Sampled Questions and Security Gates", () => {
     expect(data.meta.period_pool_size).toBe(50)
     expect(data.meta.period_cap).toBe(100)
 
-    req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=2&limit=50", { method: "GET" })
+    req = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=2&limit=50", { method: "GET" })
     res = await worker.fetch(req, env)
     data = (await res.json()) as any
     expect(data.questions.length).toBe(25) // capped at 25
@@ -56,11 +58,11 @@ describe("Sampled Questions and Security Gates", () => {
       "/v1/packs/co-week-1-grade-11-subject-matematicas.json": new Response(JSON.stringify(createBigPack(30)), { status: 200 }),
     })
 
-    const req1 = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&seed=123", { method: "GET" })
+    const req1 = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=1&seed=123", { method: "GET" })
     const res1 = await worker.fetch(req1, env)
     const data1 = (await res1.json()) as any
 
-    const req2 = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&seed=123", { method: "GET" })
+    const req2 = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=1&seed=123", { method: "GET" })
     const res2 = await worker.fetch(req2, env)
     const data2 = (await res2.json()) as any
 
@@ -74,11 +76,11 @@ describe("Sampled Questions and Security Gates", () => {
       "/v1/packs/co-week-1-grade-11-subject-matematicas.json": new Response(JSON.stringify(createBigPack(30)), { status: 200 }),
     })
 
-    const req1 = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&seed=123", { method: "GET" })
+    const req1 = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=1&seed=123", { method: "GET" })
     const res1 = await worker.fetch(req1, env)
     const data1 = (await res1.json()) as any
 
-    const req2 = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&seed=456", { method: "GET" })
+    const req2 = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=1&seed=456", { method: "GET" })
     const res2 = await worker.fetch(req2, env)
     const data2 = (await res2.json()) as any
 
@@ -92,14 +94,14 @@ describe("Sampled Questions and Security Gates", () => {
       "/v1/packs/co-week-1-grade-11-subject-matematicas.json": new Response(JSON.stringify(createBigPack(240)), { status: 200 }),
     })
 
-    const req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&limit=25&seed=999", { method: "GET" })
+    const req = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=1&limit=25&seed=999", { method: "GET" })
     const res = await worker.fetch(req, env)
     const data = (await res.json()) as any
 
     expect(data.meta.period_pool_size).toBe(240)
     // with 240 questions, cap is 100, so any returned question id must be in the first 100 of the capped deterministic shuffle
     // Since cap shuffle is deterministic for period=1, if we fetch limit=100 we can get all of them.
-    const req100 = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&limit=200&seed=999", { method: "GET" })
+    const req100 = new Request("http://localhost/v1/questions?mode=sample&country=co&grade=11&subject=matematicas&period=1&limit=200&seed=999", { method: "GET" })
     const res100 = await worker.fetch(req100, env)
     const data100 = (await res100.json()) as any
     expect(data100.questions.length).toBe(25) // Still limited to 25!
