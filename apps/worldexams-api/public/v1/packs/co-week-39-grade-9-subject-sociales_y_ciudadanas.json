@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_y_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-39-grade-9-subject-sociales_y_ciudadanas",
+    "generated_at": "2026-09-26T06:47:10.372Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes mecanismos de participación ciudadana en Colombia permite revocar el mandato de un alcalde o gobernador incumplido?",
+      "context": "La Constitución Política de Colombia de 1991 consagró a Colombia como un Estado Social de Derecho y estableció diversos mecanismos para la democracia participativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La revocatoria del mandato.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es un derecho político previsto en el artículo 103 de la Constitución para dar por terminado el mandato de un mandatario local o departamental."
+        },
+        {
+          "letter": "B",
+          "text": "La acción de tutela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de tutela protege derechos fundamentales, no revoca mandatarios."
+        },
+        {
+          "letter": "C",
+          "text": "El plebiscito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plebiscito es convocado por el Presidente para someter una decisión del Ejecutivo a la ciudadanía."
+        },
+        {
+          "letter": "D",
+          "text": "El habeas corpus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El habeas corpus protege el derecho a la libertad personal en detenciones arbitrarias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación básica de la tipología de mecanismos institucionales de participación democrática consagrados en la Constitución de 1991.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué acción constitucional es la más adecuada para proteger los derechos colectivos al medio ambiente sano y a la salud pública de esa comunidad?",
+      "context": "Un grupo de vecinos de un municipio colombiano observa que un río local está siendo contaminado por desechos tóxicos de una fábrica, amenazando la salud pública de la comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acción popular.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La acción popular (Artículo 88) es el mecanismo constitucional diseñado para defender derechos e intereses colectivos como el medio ambiente sano."
+        },
+        {
+          "letter": "B",
+          "text": "El plebiscito municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plebiscito es una consulta política convocada por el ejecutivo, no una acción de protección judicial."
+        },
+        {
+          "letter": "C",
+          "text": "La revocatoria del mandato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de remover a un gobernante de su cargo sino de frenar una vulneración ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "El juicio político.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juicio político corresponde al Congreso frente a altos dignatarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciación de herramientas jurídicas de protección: las acciones populares defienden derechos colectivos (medio ambiente, espacio público).\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la Acción de Tutela es el mecanismo idóneo para proteger el derecho del estudiante?",
+      "context": "El derecho a la educación de un estudiante de noveno grado está siendo vulnerado porque la secretaría de educación le niega el cupo escolar sin justificación legal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la tutela es un mecanismo preferente y sumario que protege de forma inmediata los derechos fundamentales amenazados o vulnerados.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La educación de un menor es un derecho fundamental tutelable de respuesta rápida (10 días)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la tutela requiere reunir la firma del 10% del censo electoral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tutela no requiere recolección masiva de firmas ni respaldos electorales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque con la tutela se aprueban nuevas leyes en el Congreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tutela es un mecanismo judicial de amparo individual, no legislativo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la tutela solo la pueden presentar los alcaldes municipales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier persona puede interponer una tutela por sí misma o mediante apoderado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión de las características de la Acción de Tutela (artículo 86) como garantía inmediata de los derechos fundamentales.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pensamiento social",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v4",
+      "statement": "¿A qué mecanismo de participación democrática se refiere esta acción constitucional?",
+      "context": "El Presidente de la República consulta a la ciudadanía si apoya o rechaza una decisión del Poder Ejecutivo de vital importancia nacional que no requiere aprobación previa del Congreso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plebiscito.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El plebiscito es el pronunciamiento del pueblo convocado por el Presidente para apoyar o rechazar una decisión del Ejecutivo."
+        },
+        {
+          "letter": "B",
+          "text": "Referendo aprobatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referendo se utiliza para someter un texto normativo o proyecto de ley a aprobación o derogación."
+        },
+        {
+          "letter": "C",
+          "text": "Cabildo abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo abierto es una reunión pública de los concejos municipales o juntas administradoras locales con los vecinos."
+        },
+        {
+          "letter": "D",
+          "text": "Iniciativa popular legislativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la facultad de un grupo de ciudadanos de presentar proyectos de ley ante el Congreso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación técnica de los mecanismos de participación popular y sus autoridades convocantes según la Ley 134 de 1994 / Ley 1757 de 2015.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Interpretación y análisis de perspectivas",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué mecanismo democrático consagra la ley para que la comunidad del municipio decida directamente en las urnas si acepta o rechaza la actividad minera en su territorio?",
+      "context": "En un municipio andino se proyecta la instalación de un mega-proyecto minero. Los campesinos locales temen perder sus fuentes de agua, mientras que los inversionistas destacan la creación de empleos y regalías para la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consulta popular municipal.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La consulta popular permite someter a votación del pueblo una pregunta de trascendencia local o nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Habeas Data.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Habeas Data protege la privacidad y actualización de información en bases de datos."
+        },
+        {
+          "letter": "C",
+          "text": "Derecho de petición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho de petición solicita información a autoridades, no somete a voto proyectos territoriales."
+        },
+        {
+          "letter": "D",
+          "text": "Acción de cumplimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de cumplimiento exige que se acate una ley o acto administrativo existente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de la consulta popular como instrumento de democracia participativa ante conflictos socioambientales territoriales.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Multiperspectivismo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué nombre recibe esta forma de participación política ciudadana?",
+      "context": "Un grupo organizado de ciudadanos reúne las firmas requeridas por ley y presenta directamente ante el Congreso de la República un proyecto de ley para proteger los páramos de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Iniciativa popular legislativa.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el derecho político de un grupo de ciudadanos de presentar proyectos de acto legislativo y de ley ante el Congreso."
+        },
+        {
+          "letter": "B",
+          "text": "Referendo derogatorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referendo derogatorio busca eliminar una ley ya aprobada."
+        },
+        {
+          "letter": "C",
+          "text": "Bloque de constitucionalidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un concepto jurídico sobre tratados internacionales de derechos humanos, no un mecanismo."
+        },
+        {
+          "letter": "D",
+          "text": "Estado de excepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una facultad del Ejecutivo ante situaciones de emergencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del rol activo de la ciudadanía en la producción normativa mediante la iniciativa popular legislativa.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pensamiento reflexivo y analítico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ventaja ofrece el Cabildo Abierto frente a una reunión técnica cerrada?",
+      "context": "En la discusión sobre una obra pública vial que atravesaría un parque urbano, los vecinos solicitan realizar un Cabildo Abierto ante el Concejo Municipal. El alcalde opina que las audiencias técnicas con ingenieros son suficientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite que los habitantes del municipio participen directamente en el debate público institucional exponiendo sus inquietudes ante los concejales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cabildo abierto es la reunión pública de los concejos o JAL donde los residentes pueden discutir asuntos de interés comunitario."
+        },
+        {
+          "letter": "B",
+          "text": "Otorga poder al alcalde para aprobar presupuestos sin pasar por el Concejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo no concentra poder en el alcalde, promueve la deliberación ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Anula la Constitución Política en el territorio municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo es una figura plenamente enmarcada en la Constitución."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a los ingenieros a renunciar a sus salarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene ninguna relación con los contratos laborales de los ingenieros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis comparativo de la deliberación democrática participativa (Cabildo Abierto) frente a procesos tecnocráticos cerrados.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Multiperspectivismo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia fundamental entre la democracia representativa y la democracia participativa?",
+      "context": "La Constitución Política de 1991 pasó de un modelo de democracia puramente representativa (Constitución de 1886) a un modelo que combina democracia representativa y participativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la representativa el ciudadano se limita a elegir gobernantes en las urnas; en la participativa interviene activamente en las decisiones que lo afectan.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La democracia participativa otorga herramientas constantes (tutela, consultas, cabildos) más allá del voto periódico electoral."
+        },
+        {
+          "letter": "B",
+          "text": "En la representativa no hay elecciones y en la participativa gobierna la fuerza militar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas formas democráticas repudian el gobierno militar y exigen elecciones."
+        },
+        {
+          "letter": "C",
+          "text": "En la participativa solo votan los senadores y en la representativa solo los presidentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación abarca el conjunto del censo ciudadano."
+        },
+        {
+          "letter": "D",
+          "text": "No existe ninguna diferencia, son términos exactamente sinónimos en derecho constitucional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Representan dos paradigmas diferenciados de la relación Estado-Ciudadanía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la evolución histórica y conceptual del modelo constitucional de la democracia en Colombia (1886 vs. 1991).\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pensamiento reflexivo y analítico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué acción constitucional o jurídica procede para que un juez ordene a la entidad responder y proteger la salud de la ciudadana?",
+      "context": "Una entidad pública de salud lleva 6 meses sin responder la solicitud escrita de una ciudadana sobre la entrega de sus medicamentos esenciales, violando el derecho fundamental de petición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acción de Tutela por vulneración del Derecho de Petición en conexión con la Salud.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La jurisprudencia constitucional tutela la falta de respuesta a peticiones cuando vulnera derechos fundamentales."
+        },
+        {
+          "letter": "B",
+          "text": "Convocatoria a una huelga general de estudiantes de noveno grado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La huelga escolar no es el mecanismo jurídico para ordenar a una entidad de salud responder peticiones."
+        },
+        {
+          "letter": "C",
+          "text": "Iniciar una revocatoria del mandato al Presidente de la República.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La revocatoria no aplica para la Presidencia ni resuelve una petición particular."
+        },
+        {
+          "letter": "D",
+          "text": "Solicitar un referendo constitucional para cambiar el idioma oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tiene pertinencia con la pretensión de amparo individual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Articulación pragmática de las garantías constitucionales ante la ineficiencia o mora de las autoridades administrativas.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación y análisis de perspectivas",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué tensión constitucional entre principios del Estado colombiano evidencia este choque de posturas?",
+      "context": "Analiza las siguientes posiciones contrapuestas sobre el uso de la Consulta Popular en proyectos extractivos:\n- **Posición A:** \"La consulta popular defiende la soberanía ambiental del municipio sobre sus suelos\".\n- **Posición B:** \"Las decisiones del subsuelo corresponden al Estado central según la Constitución, y frenar proyectos afecta los recursos fiscales de todo el país\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tensión entre la autonomía de las entidades territoriales y la centralización política de la Nación (Estado unitario).",
+          "is_correct": true,
+          "feedback": "¡Excelente! Corresponde al debate de fondo resuelto por la Corte Constitucional sobre la coordinación entre municipios y el nivel nacional."
+        },
+        {
+          "letter": "B",
+          "text": "La tensión entre declarar la guerra a países vecinos o firmar tratados comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto abordado es interno e institucional (municipio vs. nación)."
+        },
+        {
+          "letter": "C",
+          "text": "La tensión entre usar uniforme escolar o ropa particular en colegios privados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no atañe a las competencias constitucionales extractivas del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "La incompatibilidad absoluta entre la democracia y el cobro de impuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La democracia fiscal es un pilar del Estado constitucional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación crítica de dilemas constitucionales estructurales: Autonomía territorial (Art. 287) vs. Principio unitario (Art. 1).\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Multiperspectivismo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa críticamente el impacto del abstencionismo elevado en la legitimidad democrática?",
+      "context": "La baja participación ciudadana en elecciones y votaciones de mecanismos de participación (abstencionismo) es un desafío constante en Colombia. Muchos abstencionistas afirman que \"votar no cambia nada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El abstencionismo debilita la representatividad de las decisiones públicas y permite que minorías organizadas decidan sobre el destino de toda la colectividad.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La falta de participación ciudadana socava la base de legitimidad de las políticas e instituciones democráticas."
+        },
+        {
+          "letter": "B",
+          "text": "El abstencionismo es ideal porque le ahorra dinero al presupuesto del Estado en impresiones de tarjetones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Considerar la apatía democrática como algo positivo contradice el espíritu de la Constitución."
+        },
+        {
+          "letter": "C",
+          "text": "El abstencionismo demuestra que la ciudadanía no necesita leyes ni normas de convivencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la desafección electoral con la inexistencia de normas sociales."
+        },
+        {
+          "letter": "D",
+          "text": "El abstencionismo garantiza automáticas transformaciones sociales sin necesidad de consensos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La no participación deja las decisiones en manos de otros actores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de las consecuencias sociopolíticas del abstencionismo sobre la calidad institucional y la cultura ciudadana en Colombia.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pensamiento reflexivo y analítico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle-v12",
+      "statement": "Desde la perspectiva de los derechos constitucionales en conflicto, ¿cuál es la ponderación más adecuada conforme a la Carta Política de 1991?",
+      "context": "Durante una protesta pacífica estudiantil en una vía pública, algunos comerciantes protestan porque el cierre de calles afecta sus ventas del día, mientras los estudiantes reclaman mayor presupuesto para la universidad pública.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se debe garantizar el derecho a la protesta social pacífica regulando la movilidad sin prohibir la manifestación, buscando un equilibrio entre reunión y libertad de comercio.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La democracia pondera derechos sin anular el núcleo esencial del derecho a la protesta ni la actividad económica."
+        },
+        {
+          "letter": "B",
+          "text": "Se debe encarcelar inmediatamente a todos los manifestantes para proteger las ventas comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Criminalizar la protesta pacífica viola derechos fundamentales."
+        },
+        {
+          "letter": "C",
+          "text": "Se debe prohibir el comercio en toda la ciudad de forma indefinida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anula arbitrariamente la libertad de empresa y trabajo de los comerciantes."
+        },
+        {
+          "letter": "D",
+          "text": "La Constitución prohíbe las manifestaciones sociales en cualquier lugar del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo 37 de la Carta Política garantiza el derecho a reunirse y manifestarse públicamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ponderación crítica de derechos constitucionales en conflicto (protesta social pacífica vs. movilidad y libertad económica) en un marco democrático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Multiperspectivismo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W39-constitucion-1991-mecanismos-participacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_y_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-39-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-09-26T06:47:09.737Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v1",
+      "statement": "¿En qué estado de la materia se encuentra el cubo de hielo?",
+      "context": "Andrés observa tres recipientes en la cocina de su casa: uno contiene un cubo de hielo, otro un vaso con agua dulce y otro aire dentro de un globo inflado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estado sólido.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El hielo es agua en estado sólido porque tiene forma y volumen definidos."
+        },
+        {
+          "letter": "B",
+          "text": "Estado líquido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado líquido corresponde al agua en el vaso, no al hielo."
+        },
+        {
+          "letter": "C",
+          "text": "Estado gaseoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado gaseoso corresponde al aire del globo o al vapor."
+        },
+        {
+          "letter": "D",
+          "text": "Estado plasma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plasma no se presenta en el hielo de la cocina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los sólidos tienen forma y volumen definidos. El hielo mantiene su forma estable a menos que cambie la temperatura del ambiente.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué el jugo cambia de forma al pasarlo de la jarra a los vasos?",
+      "context": "Sofía sirve jugo de mora en una jarra redonda y luego en vasos cilíndricos. Ella nota que el jugo cambia de forma según el recipiente donde se sirva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los líquidos no tienen forma propia y se adaptan a la forma del recipiente.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los líquidos tienen volumen fijo pero adoptan la forma del contenedor que los alberga."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el jugo se convirtió en un gas al servirlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jugo sigue siendo un líquido, no un gas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los sólidos cambian de forma fácilmente al ser trasvasados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jugo no es un sólido."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el volumen del jugo aumentó al cambiar de recipiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen del líquido se mantiene igual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las sustancias en estado líquido se caracterizan por fluir y adaptarse a la geometría del recipiente que las contiene, manteniendo un volumen constante.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se llama el cambio de estado que sufrió el helado al calentarse con el sol?",
+      "context": "Un estudiante coloca un palito de helado al sol durante 20 minutos. Después de este tiempo, nota que el helado se derritió y se volvió líquido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fusión.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La fusión es el paso del estado sólido al estado líquido por aumento de temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Solidificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solidificación es el paso inverso, de líquido a sólido al enfriarse."
+        },
+        {
+          "letter": "C",
+          "text": "Condensación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condensación es el paso de gas a líquido."
+        },
+        {
+          "letter": "D",
+          "text": "Evaporación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaporación ocurre cuando un líquido pasa a gas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al aumentar la temperatura de un cuerpo sólido, la energía térmica hace que sus partículas se muevan más libremente, pasando al estado líquido. Este proceso se denomina fusión.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v4",
+      "statement": "¿Qué cambio de estado ocurrió con el agua líquida que se hirvió en la olla?",
+      "context": "En la cocina se pone a hervir agua en una olla. Al cabo de unos minutos, se observa que sale vapor de la olla y que el nivel del agua líquida ha disminuido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación (o vaporización).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua líquida absorbe calor y se transforma en vapor de agua (gas)."
+        },
+        {
+          "letter": "B",
+          "text": "Congelación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La congelación ocurre cuando el agua se enfría hasta hacerse hielo."
+        },
+        {
+          "letter": "C",
+          "text": "Fusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fusión es cuando un sólido pasa a líquido."
+        },
+        {
+          "letter": "D",
+          "text": "Sublimación inversa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurre cuando un gas pasa directamente a sólido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaporación es el cambio de estado de líquido a gas producido por el calentamiento de la sustancia.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la explicación científica de por qué se formaron esas gotas de agua en la tapa?",
+      "context": "Lucas tapa una olla hirviendo con una tapa metálica fría. Unos segundos después, retira la tapa y observa pequeñas gotas de agua líquida en la parte inferior de la tapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vapor de agua caliente tocó la tapa fría, perdió calor y se condensó en gotas de agua.",
+          "is_correct": true,
+          "feedback": "¡Excelente! El enfriamiento del vapor de agua causa su condensación a estado líquido."
+        },
+        {
+          "letter": "B",
+          "text": "El metal de la tapa se derritió y formó gotas de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metal no se derrite a esa temperatura y no es agua."
+        },
+        {
+          "letter": "C",
+          "text": "El agua de la olla saltó mágicamente hasta la tapa sin tocar el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las gotas se forman a partir del vapor de agua ascendente."
+        },
+        {
+          "letter": "D",
+          "text": "El aire caliente dentro de la olla se congeló al tocar la tapa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor no se congeló, sino que pasó a estado líquido (condensación)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La condensación es el cambio del estado gaseoso al estado líquido producido por una disminución de la temperatura (pérdida de energía térmica).\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué el agua del congelador cambió de estado mientras que la de la mesa siguió líquida?",
+      "context": "Un grupo de niños llena dos recipientes idénticos con la misma cantidad de agua. Uno lo colocan dentro del congelador y el otro sobre la mesa del salón. Al día siguiente, el agua del congelador se convirtió en hielo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque dentro del congelador la temperatura bajó lo suficiente para que ocurriera la solidificación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La solidificación requiere una disminución drástica de temperatura (enfriamiento)."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la luz del salón evitó que el agua de la mesa sufriera cambios de estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor determinante en la congelación es la temperatura, no la luz."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el recipiente del salón estaba destapado y el del congelador no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solidificación no depende de si el recipiente está tapado o no."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua del congelador absorbió más calor que el agua del salón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el congelador el agua pierde calor, no lo absorbe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua cambia de estado líquido a sólido (solidificación) cuando cede calor al entorno helado del congelador, alcanzando su punto de congelación (0 °C).\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v7",
+      "statement": "¿Qué secuencia de cambios de estado explica correctamente la formación de nubes y la posterior lluvia?",
+      "context": "En el ciclo del agua en la naturaleza, el agua del mar se calienta con el sol y sube a la atmósfera, forma las nubes y luego cae en forma de lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación del agua del mar y luego condensación en la atmósfera.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El agua líquida se evapora con el sol y luego se condensa en pequeñas gotas formando las nubes y la lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "Fusión del agua del mar y luego congelación en la atmósfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua de mar no está sólida para sufrir fusión."
+        },
+        {
+          "letter": "C",
+          "text": "Condensación del agua del mar y luego evaporación en las nubes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden es inverso: primero se evapora y luego se condensa."
+        },
+        {
+          "letter": "D",
+          "text": "Solidificación del agua del mar y luego sublimación en lluvia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia líquida proviene de la condensación del vapor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ciclo del agua combina cambios de estado físicos accionados por la radiación solar (evaporación) y las bajas temperaturas en la alta atmósfera (condensación).\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle-v8",
+      "statement": "¿Esta afirmación es verdadera o falsa, y por qué?",
+      "context": "Un científico afirma: \"En todos los cambios de estado del agua (fusión, evaporación, condensación, solidificación), el agua sigue siendo la misma sustancia quimica (H2O)\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verdadera, porque los cambios de estado son cambios físicos donde la sustancia no cambia su composición.",
+          "is_correct": true,
+          "feedback": "¡Excelente! En los cambios físicos la forma o estado cambia, pero la molécula de agua sigue siendo agua."
+        },
+        {
+          "letter": "B",
+          "text": "Falsa, porque al convertirse en hielo el agua se transforma en una sustancia completamente nueva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hielo sigue siendo agua en estado sólido."
+        },
+        {
+          "letter": "C",
+          "text": "Falsa, porque el vapor de agua ya no es agua sino aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor es agua gaseosa, no aire."
+        },
+        {
+          "letter": "D",
+          "text": "Verdadera, pero solo si el agua hirviendo contiene sal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua pura mantiene su composición en todos los estados físicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cambios de estado de la materia son transformaciones puramente físicas. Las moléculas de la sustancia no cambian su identidad química, únicamente varía su ordenamiento y energía cinética.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W39-estados-materia-cambios-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

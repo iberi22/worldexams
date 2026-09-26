@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-39-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-26T06:47:09.891Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia principal en la localización de los electrones entre el modelo atómico de Bohr y el modelo mecano-cuántico actual?",
+      "context": "La comprensión de la estructura atómica ha evolucionado desde los modelos de Thomson y Rutherford hasta el modelo mecano-cuántico actual propuesto por Schrödinger y Heisenberg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bohr propone órbitas circulares definidas; el modelo cuántico habla de orbitales o zonas de alta probabilidad electrónica.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El modelo cuántico reemplaza las órbitas fijas por orbitales atómicos basados en probabilidades de la función de onda."
+        },
+        {
+          "letter": "B",
+          "text": "Bohr ubica los electrones en el núcleo; el modelo cuántico los coloca fuera del átomo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bohr nunca ubicó los electrones dentro del núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "El modelo cuántico afirma que los electrones son partículas estáticas sin movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones poseen comportamiento dinámico y dual partícula-onda."
+        },
+        {
+          "letter": "D",
+          "text": "Bohr descubrió los neutrones y el modelo cuántico descubrió los protones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Chadwick descubrió el neutrón y Rutherford identificó el protón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diferenciación conceptual entre órbita determinista (Bohr) y orbital probabilístico (modelo mecano-cuántico).\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la configuración electrónica correcta del átomo de Sodio ($Z=11$)?",
+      "context": "La configuración electrónica de un átomo neutro de Sodio ($Z = 11$) en su estado fundamental describe la distribución de sus 11 electrones en los niveles y subniveles de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1s^2\\ 2s^2\\ 2p^6\\ 3s^1$",
+          "is_correct": true,
+          "feedback": "¡Correcto! Suma exactamente 11 electrones siguiendo el principio de Aufbau (2 + 2 + 6 + 1 = 11)."
+        },
+        {
+          "letter": "B",
+          "text": "$1s^2\\ 2s^2\\ 2p^5\\ 3s^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subnivel 2p se llena con 6 electrones antes de pasar al nivel 3s."
+        },
+        {
+          "letter": "C",
+          "text": "$1s^2\\ 2s^6\\ 3s^3$",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subnivel s solo puede albergar un máximo de 2 electrones."
+        },
+        {
+          "letter": "D",
+          "text": "$1s^5\\ 2s^5\\ 3s^1$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Viola la capacidad máxima de los subniveles s (máximo 2 electrones)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación directa de las reglas de configuración electrónica (diagrama de Moeller / principio de Aufbau) para identificar la estructura atómica.\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué establece fundamentalmente el Principio de Incertidumbre de Heisenberg con respecto al electrón?",
+      "context": "El Principio de Incertidumbre de Heisenberg es uno de los pilares de la física cuántica moderna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es imposible determinar simultáneamente y con precisión absoluta la posición y el momento (velocidad) de un electrón.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es la formulación matemática básica del principio cuántico de Heisenberg ($\\Delta x \\cdot \\Delta p \\ge \\frac{\\hbar}{2}$)."
+        },
+        {
+          "letter": "B",
+          "text": "Los electrones pueden convertirse en protones si aumentan su velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las partículas subatómicas conservan sus números cuánticos y cargas fundamentales en condiciones normales."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los átomos de la tabla periódica tienen la misma masa y volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa varía según la cantidad de nucleones."
+        },
+        {
+          "letter": "D",
+          "text": "Los electrones no poseen carga eléctrica en estado gaseoso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El electrón siempre posee carga negativa de $-1.6 \\times 10^{-19}\\text{ C}$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión teórica del Principio de Incertidumbre de Heisenberg y sus implicaciones para el modelo probabilístico del átomo.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v4",
+      "statement": "¿Qué nombre recibe esta propiedad fundamental de la materia según la teoría cuántica?",
+      "context": "Louis de Broglie postuló que si las ondas electromagnéticas (luz) se comportan como partículas (fotones), la materia en movimiento (como los electrones) también posee propiedades ondulatorias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dualidad onda-partícula.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La dualidad onda-partícula establece que las partículas subatómicas exhiben comportamiento tanto ondulatorio como corpuscular."
+        },
+        {
+          "letter": "B",
+          "text": "Fusión nuclear.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fusión es la unión de núcleos atómicos ligeros para formar uno más pesado."
+        },
+        {
+          "letter": "C",
+          "text": "Principio de exclusión de Pauli.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio de Pauli establece que dos fermiones no pueden compartir los mismos cuatro números cuánticos."
+        },
+        {
+          "letter": "D",
+          "text": "Efecto Doppler térmico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto Doppler se refiere al cambio de frecuencia percibido en ondas en movimiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del concepto de dualidad onda-partícula postulado por De Broglie para comprender la naturaleza cuántica del electrón.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo explica el modelo atómico de Bohr la emisión de luz de colores en los fuegos artificiales?",
+      "context": "Los fuegos artificiales producen colores intensos (rojo, verde, azul) cuando se calientan sales metálicas como estroncio, bario o cobre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los electrones absorben energía térmica y saltan a niveles superiores; al regresar a su estado fundamental, liberan esa energía en forma de fotones de luz.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Es el fenómeno de emisión cuántica de fotones por transición de electrones excitados a niveles de menor energía."
+        },
+        {
+          "letter": "B",
+          "text": "El núcleo del átomo se rompe liberando protones de colores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No ocurren reacciones nucleares en los fuegos artificiales domésticos."
+        },
+        {
+          "letter": "C",
+          "text": "Los electrones se destruyen por completo al entrar en contacto con el fuego.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones no se destruyen en las reacciones químicas ordinarias."
+        },
+        {
+          "letter": "D",
+          "text": "La sal metálica se transforma en oxígeno puro cambiando de color.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores son espectros de emisión característicos de las transiciones electrónicas de cada elemento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicación del espectro de emisión espectral mediante transiciones cuánticas y saltos energéticos de los electrones.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v6",
+      "statement": "Si el número cuántico principal de un electrón es $n = 3$, ¿cuáles son los valores posibles para el número cuántico secundario o azimutal ($l$)?",
+      "context": "Los números cuánticos ($n, l, m_l, m_s$) permiten identificar la dirección, forma, orientación orbital y el giro (spin) de un electrón en el átomo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$l = 0, 1, 2$ (correspondientes a los subniveles $s, p, d$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Para un nivel $n$, el número $l$ toma valores enteros desde $0$ hasta $n - 1$ ($0, 1, 2$)."
+        },
+        {
+          "letter": "B",
+          "text": "$l = 1, 2, 3, 4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. $l$ no puede ser igual a $n$, llega máximo hasta $n - 1$."
+        },
+        {
+          "letter": "C",
+          "text": "$l = -1, 0, +1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores corresponden al número cuántico magnético $m_l$ cuando $l = 1$."
+        },
+        {
+          "letter": "D",
+          "text": "$l = +\\frac{1}{2}, -\\frac{1}{2}$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son los únicos dos valores posibles para el número cuántico de spin $m_s$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cálculo y determinación de los números cuánticos permitidos según los principios del modelo mecano-cuántico.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v7",
+      "statement": "¿En qué se diferencian la configuración electrónica y la carga eléctrica entre el átomo neutro de Flúor ($\\text{F}$) y el ion Fluoruro ($\\text{F}^-$)?",
+      "context": "Un laboratorio de química analiza dos especies químicas: el átomo neutro de Flúor ($Z = 9$) y el anión Fluoruro ($\\text{F}^-$).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El $\\text{F}^-$ ganó 1 electrón, completando 10 electrones y alcanzando la configuración del gas noble Neón ($1s^2\\ 2s^2\\ 2p^6$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El anión $\\text{F}^-$ posee 10 electrones ($9 + 1 = 10$), adquiriendo un octeto completo muy estable."
+        },
+        {
+          "letter": "B",
+          "text": "El $\\text{F}^-$ perdió 1 protón, cambiando su número atómico $Z$ a 8.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de iones no altera el número de protones ($Z$) en el núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas especies tienen exactamente la misma cantidad de electrones y neutrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anión difiere en el número de electrones con respecto al átomo neutro."
+        },
+        {
+          "letter": "D",
+          "text": "El $\\text{F}^-$ es un catión con carga positiva $+1$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo negativo indica que es un anión que ganó electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis de la formación de iones y estabilidad por octeto electrónico a partir de la reconfiguración de capas de valencia.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v8",
+      "statement": "Para el átomo de Nitrógeno ($Z = 7$), con configuración $1s^2\\ 2s^2\\ 2p^3$, ¿cómo se distribuyen los 3 electrones del subnivel $2p$ según la Regla de Hund?",
+      "context": "La Regla de Hund establece que en subniveles degenerados (como los tres orbitales $p$: $p_x, p_y, p_z$), los electrones entran ocupando cada orbital individualmente con spins paralelos antes de aparearse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un electrón desapareado en cada uno de los tres orbitales $p$ ($2p_x^1\\ 2p_y^1\\ 2p_z^1$).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Ocupan el máximo número de orbitales posibles antes de aparearse para minimizar la repulsión electrónica."
+        },
+        {
+          "letter": "B",
+          "text": "Dos electrones apareados en $2p_x^2$ y un electrón en $2p_y^1$, dejando $2p_z^0$ vacío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Viola la regla de Hund al aparear antes de llenar de forma desapareada todos los orbitales disponibles."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres electrones juntos en el primer orbital $2p_x^3$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un orbital atómico solo puede albergar máximo 2 electrones (Principio de Pauli)."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los electrones bajan al subnivel $1s$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El subnivel $1s$ ya se encuentra lleno con 2 electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del llenado de orbitales de igual energía según la Regla de la Máxima Multiplicidad de Hund.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v9",
+      "statement": "¿A qué se debe la similitud en el comportamiento químico de los elementos del mismo grupo?",
+      "context": "Un estudiante examina la tabla periódica y observa que los elementos de una misma columna o grupo (por ejemplo, los metales alcalinos: Li, Na, K) presentan propiedades químicas muy semejantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que poseen la misma cantidad de electrones en su último nivel de energía (electrones de valencia).",
+          "is_correct": true,
+          "feedback": "¡Correcto! Las propiedades químicas dependen fundamentalmente de la configuración de los electrones de valencia."
+        },
+        {
+          "letter": "B",
+          "text": "A que tienen exactamente el mismo número atómico $Z$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada elemento tiene un $Z$ único y creciente."
+        },
+        {
+          "letter": "C",
+          "text": "A que todos son gases nobles a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metales alcalinos son sólidos altamente reactivos, no gases nobles."
+        },
+        {
+          "letter": "D",
+          "text": "A que poseen la misma cantidad de neutrones en el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de neutrones varía y no determina las propiedades químicas periódicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relación entre la configuración electrónica externa (electrones de valencia) y la periodicidad de las propiedades químicas.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v10",
+      "statement": "¿Es correcta la afirmación del investigador, y por qué?",
+      "context": "Un investigador afirma haber obtenido la siguiente configuración electrónica para un átomo de Calcio ($Z = 20$) en estado fundamental:\n$$1s^2\\ 2s^2\\ 2p^6\\ 3s^2\\ 3p^6\\ 3d^2$$",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque el subnivel $4s$ tiene menor energía que el $3d$, por lo que la configuración correcta es $1s^2\\ 2s^2\\ 2p^6\\ 3s^2\\ 3p^6\\ 4s^2$.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Según la regla $n + l$ (diagrama de Moeller), el subnivel $4s$ ($n+l = 4+0 = 4$) se llena antes que el $3d$ ($n+l = 3+2 = 5$)."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque el nivel $n=3$ siempre se debe llenar por completo antes de abrir el nivel $n=4$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de llenado depende de la energía orbital ($n+l$), no únicamente del nivel principal $n$."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque el Calcio tiene $Z = 10$, no $Z = 20$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número atómico del Calcio es efectivamente $Z = 20$."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque los subniveles $d$ se llenan siempre primero que los subniveles $s$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los subniveles $s$ de niveles superiores suelen tener menor energía relativa que los $d$ del nivel anterior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación crítica de la estabilidad energética orbital a partir del principio de mínimo gasto energético (Regla $n + l$).\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v11",
+      "statement": "¿En qué principio de la mecánica cuántica se fundamenta el funcionamiento del microscopio electrónico?",
+      "context": "Los microscopios ópticos convencionales usan luz visible y no pueden resolver estructuras tan pequeñas como los átomos debido a la longitud de onda de la luz. En su lugar, la tecnología moderna utiliza **microscopios electrónicos de transmisión**.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la dualidad onda-partícula de De Broglie, acelerando electrones para obtener longitudes de onda muchísimo más cortas que las de la luz visible.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Al acelerar electrones a alta velocidad, su longitud de onda asociada disminuye, permitiendo ver detalles a escala atómica."
+        },
+        {
+          "letter": "B",
+          "text": "En el principio de exclusión de Pauli, que destruye las muestras biológicas al tocarlas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El microscopio electrónico no destruye la materia por exclusión de Pauli."
+        },
+        {
+          "letter": "C",
+          "text": "En la ley de la gravitación universal aplicada a la masa del electrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad no rige la resolución microscópica cuántica."
+        },
+        {
+          "letter": "D",
+          "text": "En la fusión fría de los electrones dentro de la lente magnética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las lentes magnéticas enfocan el haz de electrones mediante electromagnetismo, no por fusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de aplicaciones tecnológicas contemporáneas derivadas de los principios fundamentales de la física cuántica.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué la física cuántica resolvió la contradicción del Postulado 1 permitiendo explicar la estabilidad de la materia?",
+      "context": "Dos postulados científicos sobre el átomo entran en aparente contradicción:\n- **Postulado 1 (Física Clásica):** Una carga eléctrica acelerada (como el electrón girando) debe emitir radiación continuamente y colapsar contra el núcleo en fracciones de segundo.\n- **Postulado 2 (Física Cuántica de Bohr/Schrödinger):** El electrón no emite energía mientras permanezca en su estado cuántico estacionario de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque demostró que en el mundo subatómico la energía está cuantizada y los electrones existen en estados estacionarios donde no rige la electrodinámica clásica.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La cuantización de la energía impidió el colapso atómico predicho por las leyes clásicas de Maxwell."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se descubrió que los electrones flotan fuera del átomo sin tocar la materia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los electrones forman parte integral de la estructura del átomo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el Postulado 1 era una mentira inventada para desacreditar la ciencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Postulado 1 era la aplicación rigurosa de las leyes de la física clásica pre-cuántica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en los átomos no existen fuerzas eléctricas ni atracción culombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La atracción electrostática entre el núcleo positivo y los electrones negativos es real y fundamental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de la ruptura epistemológica entre la física clásica de la radiación y la teoría cuántica de estados estacionarios cuantizados.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W39-mecanica-cuantica-modelo-atomico-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
