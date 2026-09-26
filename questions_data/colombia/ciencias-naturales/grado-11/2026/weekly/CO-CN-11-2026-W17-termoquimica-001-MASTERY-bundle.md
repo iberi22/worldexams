@@ -35,16 +35,16 @@ Este bundle contiene 20 preguntas sobre **Termoquímica y Entalpía de Reacción
 
 ### Opciones
 - [x] A) Variación de entalpía ($\Delta H$).
-  <!-- feedback: Correcto. Por definición termodinámica, $Delta H = q_p$ a presión constante. -->
-- [ ] B) Energía libre de Helmholtz ($Delta A$).
+  <!-- feedback: Correcto. Por definición termodinámica, $\Delta H = q_p$ a presión constante. -->
+- [ ] B) Energía libre de Helmholtz ($\Delta A$).
   <!-- feedback: Incorrecto. Representa el trabajo a volumen y temperatura constantes. -->
 - [ ] C) Trabajo eléctrico no expansivo.
   <!-- feedback: Incorrecto. $q_p$ es transferencia de calor térmico. -->
-- [ ] D) Entropía molar estándar ($S^circ$).
+- [ ] D) Entropía molar estándar ($S^\circ$).
   <!-- feedback: Incorrecto. La entropía mide la dispersión de energía, no la transferencia de calor. -->
 
 ### Explicacion Pedagogica
-En condiciones de presión constante, la cantidad de calor absorbido o liberado por una reacción química es igual al cambio de entalpía ($Delta H$).
+En condiciones de presión constante, la cantidad de calor absorbido o liberado por una reacción química es igual al cambio de entalpía ($\Delta H$).
 
 ## Question 2 [D3-D4]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v2
@@ -58,16 +58,16 @@ En condiciones de presión constante, la cantidad de calor absorbido o liberado 
 
 ### Opciones
 - [x] A) Reacción endotérmica.
-  <!-- feedback: Correcto. Las reacciones endotérmicas absorben calor ($Delta H > 0$), reduciendo la temperatura del entorno. -->
+  <!-- feedback: Correcto. Las reacciones endotérmicas absorben calor ($\Delta H > 0$), reduciendo la temperatura del entorno. -->
 - [ ] B) Reacción exotérmica.
-  <!-- feedback: Incorrecto. Las reacciones exotérmicas liberan calor ($Delta H < 0$). -->
+  <!-- feedback: Incorrecto. Las reacciones exotérmicas liberan calor ($\Delta H < 0$). -->
 - [ ] C) Reacción isocórica inerte.
   <!-- feedback: Incorrecto. Término no relacionado con la absorción o liberación de calor. -->
 - [ ] D) Reacción adiafánica.
   <!-- feedback: Incorrecto. No existe esa clasificación en termoquímica. -->
 
 ### Explicacion Pedagogica
-Si la entalpía de los productos es mayor que la de los reactivos ($Delta H > 0$), el proceso es endotérmico.
+Si la entalpía de los productos es mayor que la de los reactivos ($\Delta H > 0$), el proceso es endotérmico.
 
 ## Question 3 [D3-D4]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v3
@@ -90,7 +90,7 @@ Si la entalpía de los productos es mayor que la de los reactivos ($Delta H > 0$
   <!-- feedback: Incorrecto. Relaciona la electrólisis con la carga eléctrica. -->
 
 ### Explicacion Pedagogica
-La Ley de Hess se basa en que la entalpía es una función de estado; por ende, $Delta H$ depende solo de estados inicial y final.
+La Ley de Hess se basa en que la entalpía es una función de estado; por ende, $\Delta H$ depende solo de estados inicial y final.
 
 ## Question 4 [D3-D4]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v4
@@ -104,7 +104,7 @@ La Ley de Hess se basa en que la entalpía es una función de estado; por ende, 
 
 ### Opciones
 - [x] A) $0 \text{ kJ/mol}$.
-  <!-- feedback: Correcto. Por convención termoquímica internacional, $Delta H_f^circ = 0$ para elementos puros en su estado estándar. -->
+  <!-- feedback: Correcto. Por convención termoquímica internacional, $\Delta H_f^\circ = 0$ para elementos puros en su estado estándar. -->
 - [ ] B) $100 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. No se le asigna un valor positivo arbitrario. -->
 - [ ] C) $-285.8 \text{ kJ/mol}$.
@@ -123,11 +123,11 @@ La entalpía de formación de un elemento puro en su estado termodinámico está
 **Contexto:** Un estudiante en Bucaramanga calcula la entalpía de combustión del metano ($CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O$) usando entalpías de formación: $\Delta H_f^\circ(CH_4) = -74.8 \text{ kJ/mol}$, $\Delta H_f^\circ(CO_2) = -393.5 \text{ kJ/mol}$, $\Delta H_f^\circ(H_2O_{(l)}) = -285.8 \text{ kJ/mol}$.
 
 ### Enunciado
-¿Cuál es la entalpía estándar de combustión ($Delta H_{rxn}^circ$) de un mol de metano?
+¿Cuál es la entalpía estándar de combustión ($\Delta H_{rxn}^\circ$) de un mol de metano?
 
 ### Opciones
 - [x] A) $-890.3 \text{ kJ/mol}$.
-  <!-- feedback: Correcto. $Delta H_{rxn} = [-393.5 + 2(-285.8)] - [-74.8 + 0] = [-393.5 - 571.6] + 74.8 = -965.1 + 74.8 = -890.3 	ext{ kJ/mol}$. -->
+  <!-- feedback: Correcto. $\Delta H_{rxn} = [-393.5 + 2(-285.8)] - [-74.8 + 0] = [-393.5 - 571.6] + 74.8 = -965.1 + 74.8 = -890.3 \text{ kJ/mol}$. -->
 - [ ] B) $+890.3 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Las combustiones son exotérmicas y tienen signo negativo. -->
 - [ ] C) $-604.5 \text{ kJ/mol}$.
@@ -136,7 +136,7 @@ La entalpía de formación de un elemento puro en su estado termodinámico está
   <!-- feedback: Incorrecto. No restó la entalpía de formación del reactivo $CH_4$. -->
 
 ### Explicacion Pedagogica
-$Delta H_{rxn} = sum n Delta H_f^circ(	ext{productos}) - sum m Delta H_f^circ(	ext{reactivos}) = -890.3 	ext{ kJ/mol}$.
+$\Delta H_{rxn} = \sum n \Delta H_f^\circ(\text{productos}) - \sum m \Delta H_f^\circ(\text{reactivos}) = -890.3 \text{ kJ/mol}$.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v6
@@ -150,7 +150,7 @@ $Delta H_{rxn} = sum n Delta H_f^circ(	ext{productos}) - sum m Delta H_f^circ(	e
 
 ### Opciones
 - [x] A) $-2200 \text{ kJ/mol}$.
-  <!-- feedback: Correcto. Moles de propano $= 4/44 = 0.0909 \text{ mol}$. $Delta H = -200 \text{ kJ} / 0.0909 \text{ mol} = -2200 \text{ kJ/mol}$. -->
+  <!-- feedback: Correcto. Moles de propano $= 4/44 = 0.0909 \text{ mol}$. $\Delta H = -200 \text{ kJ} / 0.0909 \text{ mol} = -2200 \text{ kJ/mol}$. -->
 - [ ] B) $-880 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Multiplicó 200 por 4.4 en lugar de dividir adecuadamente. -->
 - [ ] C) $-50 \text{ kJ/mol}$.
@@ -159,7 +159,7 @@ $Delta H_{rxn} = sum n Delta H_f^circ(	ext{productos}) - sum m Delta H_f^circ(	e
   <!-- feedback: Incorrecto. Error de factor 2 en el cálculo molar. -->
 
 ### Explicacion Pedagogica
-Moles $= 4/44 = 0.0909 	ext{ mol}$. Entalpía molar $= -200 / 0.0909 = -2200 	ext{ kJ/mol}$.
+Moles $= 4/44 = 0.0909 \text{ mol}$. Entalpía molar $= -200 / 0.0909 = -2200 \text{ kJ/mol}$.
 
 ## Question 7 [D5-D6]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v7
@@ -173,16 +173,16 @@ Moles $= 4/44 = 0.0909 	ext{ mol}$. Entalpía molar $= -200 / 0.0909 = -2200 	ex
 
 ### Opciones
 - [x] A) $0 \text{ kJ/mol}$ (estado de equilibrio de fase).
-  <!-- feedback: Correcto. En el punto de cambio de fase ($100^circ	ext{C}$), las fases líquida y vapor están en equilibrio, por lo que $Delta G = 0$. -->
+  <!-- feedback: Correcto. En el punto de cambio de fase ($100^\circ\text{C}$), las fases líquida y vapor están en equilibrio, por lo que $\Delta G = 0$. -->
 - [ ] B) $-40.7 \text{ kJ/mol}$.
-  <!-- feedback: Incorrecto. $Delta G$ no es igual a $-Delta H$. -->
+  <!-- feedback: Incorrecto. $\Delta G$ no es igual a $-\Delta H$. -->
 - [ ] C) $+40.7 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. En el punto de ebullición el proceso no es imposible ni espontáneo en una sola dirección. -->
 - [ ] D) $-40660 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Error al no convertir Julios a kilojulios. -->
 
 ### Explicacion Pedagogica
-En el punto de ebullición la transición de fase es reversible y está en equilibrio, de modo que $Delta G = Delta H - TDelta S = 0$.
+En el punto de ebullición la transición de fase es reversible y está en equilibrio, de modo que $\Delta G = \Delta H - TDelta S = 0$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v8
@@ -196,16 +196,16 @@ En el punto de ebullición la transición de fase es reversible y está en equil
 
 ### Opciones
 - [x] A) A temperaturas inferiores a $500 \text{ K}$ ($227^\circ\text{C}$).
-  <!-- feedback: Correcto. $Delta G = -50,000 - T(-100) < 0 Rightarrow 100 T < 50,000 Rightarrow T < 500 	ext{ K}$. -->
+  <!-- feedback: Correcto. $\Delta G = -50,000 - T(-100) < 0 Rightarrow 100 T < 50,000 Rightarrow T < 500 \text{ K}$. -->
 - [ ] B) A cualquier temperatura superior a $500 \text{ K}$.
-  <!-- feedback: Incorrecto. A alta temperatura el término $-TDelta S$ se vuelve positivo y domina, haciendo $Delta G > 0$. -->
+  <!-- feedback: Incorrecto. A alta temperatura el término $-TDelta S$ se vuelve positivo y domina, haciendo $\Delta G > 0$. -->
 - [ ] C) A ninguna temperatura la reacción puede ser espontánea.
-  <!-- feedback: Incorrecto. Al ser exotérmica ($Delta H < 0$), es espontánea a bajas temperaturas. -->
-- [ ] D) Únicamente al cero absoluto ($0 	ext{ K}$).
+  <!-- feedback: Incorrecto. Al ser exotérmica ($\Delta H < 0$), es espontánea a bajas temperaturas. -->
+- [ ] D) Únicamente al cero absoluto ($0 \text{ K}$).
   <!-- feedback: Incorrecto. Es espontánea en todo el rango de 0 K a 500 K. -->
 
 ### Explicacion Pedagogica
-Para $Delta H < 0$ y $Delta S < 0$, la reacción es espontánea solo por debajo de la temperatura crítica $T = Delta H / Delta S = 500 	ext{ K}$.
+Para $\Delta H < 0$ y $\Delta S < 0$, la reacción es espontánea solo por debajo de la temperatura crítica $T = \Delta H / \Delta S = 500 \text{ K}$.
 
 ## Question 9 [D5-D6]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v9
@@ -219,7 +219,7 @@ Para $Delta H < 0$ y $Delta S < 0$, la reacción es espontánea solo por debajo 
 
 ### Opciones
 - [x] A) $415 \text{ kJ/mol}$.
-  <!-- feedback: Correcto. La molécula de metano posee 4 enlaces equivalentes C-H: $1660 / 4 = 415 	ext{ kJ/mol}$. -->
+  <!-- feedback: Correcto. La molécula de metano posee 4 enlaces equivalentes C-H: $1660 / 4 = 415 \text{ kJ/mol}$. -->
 - [ ] B) $1660 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Es la energía requerida para romper los 4 enlaces de la molécula. -->
 - [ ] C) $830 \text{ kJ/mol}$.
@@ -228,7 +228,7 @@ Para $Delta H < 0$ y $Delta S < 0$, la reacción es espontánea solo por debajo 
   <!-- feedback: Incorrecto. Dividió entre 5. -->
 
 ### Explicacion Pedagogica
-Energía de enlace C-H $= 1660 	ext{ kJ/mol} / 4 	ext{ enlaces} = 415 	ext{ kJ/mol}$.
+Energía de enlace C-H $= 1660 \text{ kJ/mol} / 4 \text{ enlaces} = 415 \text{ kJ/mol}$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v10
@@ -238,20 +238,20 @@ Energía de enlace C-H $= 1660 	ext{ kJ/mol} / 4 	ext{ enlaces} = 415 	ext{ kJ/m
 **Contexto:** En Cartagena se disuelven 10 gramos de hidróxido de sodio ($NaOH$) en 100 gramos de agua dentro de un calorímetro de vasos de icopor, registrando un aumento de temperatura de $20^\circ\text{C}$ a $42^\circ\text{C}$.
 
 ### Enunciado
-¿Qué cantidad de calor liberó la disolución de $NaOH$? (Tome capacidad calorífica del agua $c = 4.18 \text{ J/(g }^circ	ext{C)}$ y masa de solución $110 \text{ g}$).
+¿Qué cantidad de calor liberó la disolución de $NaOH$? (Tome capacidad calorífica del agua $c = 4.18 \text{ J/(g }^\circ\text{C)}$ y masa de solución $110 \text{ g}$).
 
 ### Opciones
 - [x] A) $10,115.6 \text{ Julios} (10.11 \text{ kJ})$.
-  <!-- feedback: Correcto. $q = m \cdot c \cdot \Delta T = 110 \text{ g} \times 4.18 \text{ J/(g }^circ\text{C)} \times 22^\circ\text{C} = 10,115.6 \text{ J}$. -->
+  <!-- feedback: Correcto. $q = m \cdot c \cdot \Delta T = 110 \text{ g} \times 4.18 \text{ J/(g }^\circ\text{C)} \times 22^\circ\text{C} = 10,115.6 \text{ J}$. -->
 - [ ] B) $9,196.0 \text{ Julios}$.
   <!-- feedback: Incorrecto. Usó únicamente la masa de agua (100 g) sin sumar el soluto (110 g). -->
 - [ ] C) $4,598.0 \text{ Julios}$.
-  <!-- feedback: Incorrecto. Usó un incremento de temperatura de $11^circ	ext{C}$. -->
+  <!-- feedback: Incorrecto. Usó un incremento de temperatura de $11^\circ\text{C}$. -->
 - [ ] D) $220.0 \text{ Julios}$.
   <!-- feedback: Incorrecto. Multiplicó masa por variación de temperatura sin la capacidad calorífica. -->
 
 ### Explicacion Pedagogica
-$q = m_{solución} cdot c cdot Delta T = 110 	imes 4.18 	imes 22 = 10,115.6 	ext{ J} = 10.11 	ext{ kJ}$.
+$q = m_{solución} \cdot c \cdot \Delta T = 110 \times 4.18 \times 22 = 10,115.6 \text{ J} = 10.11 \text{ kJ}$.
 
 ## Question 11 [D7-D8]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v11
@@ -274,30 +274,30 @@ $q = m_{solución} cdot c cdot Delta T = 110 	imes 4.18 	imes 22 = 10,115.6 	ext
   <!-- feedback: Incorrecto. Corresponde a la Primera Ley de la Termodinámica. -->
 
 ### Explicacion Pedagogica
-La Tercera Ley fija el punto de referencia nulo de la entropía: $S = 0$ a $T = 0 	ext{ K}$ para cristales perfectos.
+La Tercera Ley fija el punto de referencia nulo de la entropía: $S = 0$ a $T = 0 \text{ K}$ para cristales perfectos.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.51
-**Contexto:** En Cali se analiza la reacción endotérmica de descomposición de carbonato de calcio ($CaCO_{3(s)} \rightarrow CaO_{(s)} + CO_{2(g)}$) con $\Delta H^circ = +178 \text{ kJ/mol}$ y $\Delta S^circ = +160 \text{ J/(mol K)}$.
+**Contexto:** En Cali se analiza la reacción endotérmica de descomposición de carbonato de calcio ($CaCO_{3(s)} \rightarrow CaO_{(s)} + CO_{2(g)}$) con $\Delta H^\circ = +178 \text{ kJ/mol}$ y $\Delta S^\circ = +160 \text{ J/(mol K)}$.
 
 ### Enunciado
 ¿A partir de qué temperatura mínima aproximada se vuelve espontánea la descomposición industrial del $CaCO_3$?
 
 ### Opciones
 - [x] A) $1112.5 \text{ K} (839.35^\circ\text{C})$.
-  <!-- feedback: Correcto. $Delta G = Delta H - TDelta S = 0 Rightarrow T = rac{Delta H}{Delta S} = rac{178,000 	ext{ J}}{160 	ext{ J/K}} = 1112.5 	ext{ K}$. -->
+  <!-- feedback: Correcto. $\Delta G = \Delta H - TDelta S = 0 Rightarrow T = \frac{\Delta H}{\Delta S} = \frac{178,000 \text{ J}}{160 \text{ J/K}} = 1112.5 \text{ K}$. -->
 - [ ] B) $298.15 \text{ K} (25^\circ\text{C})$.
-  <!-- feedback: Incorrecto. A temperatura ambiente $Delta G > 0$ y el carbonato es estable. -->
+  <!-- feedback: Incorrecto. A temperatura ambiente $\Delta G > 0$ y el carbonato es estable. -->
 - [ ] C) $500.0 \text{ K}$.
-  <!-- feedback: Incorrecto. A 500 K $Delta G = 178 - 500(0.16) = +98 	ext{ kJ/mol} > 0$. -->
+  <!-- feedback: Incorrecto. A 500 K $\Delta G = 178 - 500(0.16) = +98 \text{ kJ/mol} > 0$. -->
 - [ ] D) $2000.0 \text{ K}$.
   <!-- feedback: Incorrecto. La reacción se vuelve espontánea mucho antes, a 1112.5 K. -->
 
 ### Explicacion Pedagogica
-Temperatura de equilibrio $T = Delta H / Delta S = 178,000 / 160 = 1112.5 	ext{ K}$.
+Temperatura de equilibrio $T = \Delta H / \Delta S = 178,000 / 160 = 1112.5 \text{ K}$.
 
 ## Question 13 [D7-D8]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v13
@@ -320,7 +320,7 @@ Temperatura de equilibrio $T = Delta H / Delta S = 178,000 / 160 = 1112.5 	ext{ 
   <!-- feedback: Incorrecto. El acetato de sodio es una sal acuosa estable. -->
 
 ### Explicacion Pedagogica
-El ácido débil requiere energía de disociación ($Delta H_{disociación} > 0$), reduciendo el calor neto liberado.
+El ácido débil requiere energía de disociación ($\Delta H_{disociación} > 0$), reduciendo el calor neto liberado.
 
 ## Question 14 [D7-D8]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v14
@@ -334,17 +334,17 @@ El ácido débil requiere energía de disociación ($Delta H_{disociación} > 0$
 Si la pendiente de la recta $\ln K$ vs $1/T$ es negativa, ¿qué se concluye sobre la entalpía de la reacción?
 
 ### Opciones
-- [x] A) La reacción es endotérmica ($\Delta H^circ > 0$).
-  <!-- feedback: Correcto. Como la pendiente es $-Delta H^circ / R$, una pendiente negativa implica $-Delta H^circ < 0 Rightarrow Delta H^circ > 0$. -->
-- [ ] B) La reacción es exotérmica ($\Delta H^circ < 0$).
-  <!-- feedback: Incorrecto. Para una reacción exotérmica la pendiente $-Delta H^circ / R$ sería positiva. -->
+- [x] A) La reacción es endotérmica ($\Delta H^\circ > 0$).
+  <!-- feedback: Correcto. Como la pendiente es $-\Delta H^\circ / R$, una pendiente negativa implica $-\Delta H^\circ < 0 Rightarrow \Delta H^\circ > 0$. -->
+- [ ] B) La reacción es exotérmica ($\Delta H^\circ < 0$).
+  <!-- feedback: Incorrecto. Para una reacción exotérmica la pendiente $-\Delta H^\circ / R$ sería positiva. -->
 - [ ] C) La reacción no altera la concentración de reactivos.
   <!-- feedback: Incorrecto. La constante $K$ cambia con la temperatura según van 't Hoff. -->
 - [ ] D) La entalpía es exactamente cero.
-  <!-- feedback: Incorrecto. Si $Delta H^circ = 0$, la pendiente sería totalmente horizontal. -->
+  <!-- feedback: Incorrecto. Si $\Delta H^\circ = 0$, la pendiente sería totalmente horizontal. -->
 
 ### Explicacion Pedagogica
-De la ecuación de van 't Hoff, Pendiente $= -Delta H^circ / R$. Una pendiente negativa indica $Delta H^circ > 0$ (endotérmica).
+De la ecuación de van 't Hoff, Pendiente $= -\Delta H^\circ / R$. Una pendiente negativa indica $\Delta H^\circ > 0$ (endotérmica).
 
 ## Question 15 [D7-D8]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v15
@@ -374,14 +374,14 @@ El estado gaseoso presenta un número mucho mayor de microestados y desorden esp
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.39
-**Contexto:** En un experimento en Bucaramanga se mide el calor de combustión del grafito y del diamante a $25^\circ\text{C}$ y 1 atm: $C_{(	ext{grafito})} + O_2 \rightarrow CO_2$, $\Delta H_1 = -393.5 \text{ kJ/mol}$; $C_{(	ext{diamante})} + O_2 \rightarrow CO_2$, $\Delta H_2 = -395.41 \text{ kJ/mol}$.
+**Contexto:** En un experimento en Bucaramanga se mide el calor de combustión del grafito y del diamante a $25^\circ\text{C}$ y 1 atm: $C_{(\text{grafito})} + O_2 \rightarrow CO_2$, $\Delta H_1 = -393.5 \text{ kJ/mol}$; $C_{(\text{diamante})} + O_2 \rightarrow CO_2$, $\Delta H_2 = -395.41 \text{ kJ/mol}$.
 
 ### Enunciado
-Usando la Ley de Hess, ¿cuál es el cambio de entalpía para la transición alótropa $C_{(	ext{grafito})} \rightarrow C_{(	ext{diamante})}$?
+Usando la Ley de Hess, ¿cuál es el cambio de entalpía para la transición alótropa $C_{(\text{grafito})} \rightarrow C_{(\text{diamante})}$?
 
 ### Opciones
 - [x] A) $+1.91 \text{ kJ/mol}$.
-  <!-- feedback: Correcto. Restando las ecuaciones: $Delta H = Delta H_1 - Delta H_2 = -393.51 - (-395.41) = +1.91 	ext{ kJ/mol}$. -->
+  <!-- feedback: Correcto. Restando las ecuaciones: $\Delta H = \Delta H_1 - \Delta H_2 = -393.51 - (-395.41) = +1.91 \text{ kJ/mol}$. -->
 - [ ] B) $-788.92 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Sumó ambas combustiones sin invertir la segunda reacción. -->
 - [ ] C) $-1.91 \text{ kJ/mol}$.
@@ -390,14 +390,14 @@ Usando la Ley de Hess, ¿cuál es el cambio de entalpía para la transición al�
   <!-- feedback: Incorrecto. El grafito y el diamante tienen diferente contenido entálpico. -->
 
 ### Explicacion Pedagogica
-$Delta H_{transición} = -393.51 - (-395.41) = +1.91 	ext{ kJ/mol}$. El grafito es termodinámicamente más estable a 298 K.
+$\Delta H_{transición} = -393.51 - (-395.41) = +1.91 \text{ kJ/mol}$. El grafito es termodinámicamente más estable a 298 K.
 
 ## Question 17 [D9-D10]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **ICFES:** Indagación
 **Expected_Success:** 0.35
-**Contexto:** Un grupo de ingenieros químicos en Bogotá evalúa la síntesis industrial del amoníaco ($N_{2(g)} + 3H_{2(g)} \rightleftharpoons 2NH_{3(g)}$, $\Delta H^circ = -92.2 \text{ kJ/mol}$).
+**Contexto:** Un grupo de ingenieros químicos en Bogotá evalúa la síntesis industrial del amoníaco ($N_{2(g)} + 3H_{2(g)} \rightleftharpoons 2NH_{3(g)}$, $\Delta H^\circ = -92.2 \text{ kJ/mol}$).
 
 ### Enunciado
 Dado que la reacción es exotérmica, aumentar la temperatura reduce el rendimiento de equilibrio ($K_p$ menor). ¿Por qué en la industria se opera a una alta temperatura de $450^\circ\text{C}$ en lugar de temperatura ambiente?
@@ -405,15 +405,15 @@ Dado que la reacción es exotérmica, aumentar la temperatura reduce el rendimie
 ### Opciones
 - [x] A) Para lograr una velocidad de reacción cinéticamente viable impulsada por la energía de activación, usando un catalizador de hierro.
   <!-- feedback: Correcto. A temperatura ambiente la velocidad es impracticable lenta. Se sacrifica rendimiento de equilibrio para obtener alta velocidad cinética. -->
-- [ ] B) Porque a $450^circ	ext{C}$ la reacción se vuelve 100% irreversible.
+- [ ] B) Porque a $450^\circ\text{C}$ la reacción se vuelve 100% irreversible.
   <!-- feedback: Incorrecto. El equilibrio sigue existiendo. -->
 - [ ] C) Porque el nitrógeno se convierte en helio a esa temperatura.
   <!-- feedback: Incorrecto. No hay reacciones nucleares en catálisis de Haber-Bosch. -->
 - [ ] D) Porque la entalpía cambia de signo a positiva.
-  <!-- feedback: Incorrecto. $Delta H^circ$ se mantiene negativa. -->
+  <!-- feedback: Incorrecto. $\Delta H^\circ$ se mantiene negativa. -->
 
 ### Explicacion Pedagogica
-El proceso Haber-Bosch es un compromiso entre cinética (alta velocidad a $450^circ	ext{C}$) y termodinámica (equilibrio desplaza a reactivos).
+El proceso Haber-Bosch es un compromiso entre cinética (alta velocidad a $450^\circ\text{C}$) y termodinámica (equilibrio desplaza a reactivos).
 
 ## Question 18 [D9-D10]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v18
@@ -423,11 +423,11 @@ El proceso Haber-Bosch es un compromiso entre cinética (alta velocidad a $450^c
 **Contexto:** Se investiga la eficiencia energética de celdas de combustible de hidrógeno ($H_2 + \frac{1}{2}O_2 \rightarrow H_2O_{(l)}$) en Medellín.
 
 ### Enunciado
-Si el límite teórico de trabajo eléctrico útil de la celda está dado por la variación de energía libre de Gibbs ($\Delta G^circ = -237.1 \text{ kJ/mol}$) y no por la entalpía total ($\Delta H^circ = -285.8 \text{ kJ/mol}$), ¿cuál es el rendimiento termodinámico teórico máximo de esta celda?
+Si el límite teórico de trabajo eléctrico útil de la celda está dado por la variación de energía libre de Gibbs ($\Delta G^\circ = -237.1 \text{ kJ/mol}$) y no por la entalpía total ($\Delta H^\circ = -285.8 \text{ kJ/mol}$), ¿cuál es el rendimiento termodinámico teórico máximo de esta celda?
 
 ### Opciones
 - [x] A) 83.0%.
-  <!-- feedback: Correcto. Rendimiento máximo $= (Delta G^circ / Delta H^circ) 	imes 100% = (237.1 / 285.8) 	imes 100% = 82.96% approx 83.0%$. -->
+  <!-- feedback: Correcto. Rendimiento máximo $= (\Delta G^\circ / \Delta H^circ) \times 100\% = (237.1 / 285.8) \times 100\% = 82.96\% \approx 83.0\%$. -->
 - [ ] B) 100.0%.
   <!-- feedback: Incorrecto. El término $TDelta S$ disipado impide alcanzar el 100%. -->
 - [ ] C) 40.0%.
@@ -436,7 +436,7 @@ Si el límite teórico de trabajo eléctrico útil de la celda está dado por la
   <!-- feedback: Incorrecto. Error en la división de los parámetros termodinámicos. -->
 
 ### Explicacion Pedagogica
-La máxima fracción de calor de combustión convertible en trabajo eléctrico útil es $eta = Delta G^circ / Delta H^circ = 83.0%$.
+La máxima fracción de calor de combustión convertible en trabajo eléctrico útil es $eta = \Delta G^\circ / \Delta H^\circ = 83.0\%$.
 
 ## Question 19 [D9-D10]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v19
@@ -450,16 +450,16 @@ Al evaluar la estabilidad relativa de los polimorfos A y B a $37^\circ\text{C}$ 
 
 ### Opciones
 - [x] A) El polimorfo B es el estado termodinámicamente estable a $37^\circ\text{C}$ impulsado por un aumento de entropía ($\Delta S > 0$).
-  <!-- feedback: Correcto. Como $Delta G < 0$, la transición A $ightarrow$ B es espontánea, a pesar de ser endotérmica ($Delta H > 0$), dirigida por entropía. -->
+  <!-- feedback: Correcto. Como $\Delta G < 0$, la transición A $\rightarrow$ B es espontánea, a pesar de ser endotérmica ($\Delta H > 0$), dirigida por entropía. -->
 - [ ] B) El polimorfo A es infinitamente más estable y no se transforma.
-  <!-- feedback: Incorrecto. $Delta G < 0$ indica que B es más estable que A. -->
+  <!-- feedback: Incorrecto. $\Delta G < 0$ indica que B es más estable que A. -->
 - [ ] C) La muestra se evapora instantáneamente.
   <!-- feedback: Incorrecto. Es un cambio de fase sólido-sólido. -->
 - [ ] D) La temperatura corporal destruye los enlaces de carbono.
   <!-- feedback: Incorrecto. La estructura molecular del analgésico no se destruye. -->
 
 ### Explicacion Pedagogica
-Un $Delta G < 0$ con $Delta H > 0$ exige que $TDelta S > Delta H$, siendo un proceso impulsado por entropía hacia la forma B.
+Un $\Delta G < 0$ con $\Delta H > 0$ exige que $TDelta S > \Delta H$, siendo un proceso impulsado por entropía hacia la forma B.
 
 ## Question 20 [D9-D10]
 **ID:** CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v20
@@ -473,7 +473,7 @@ La descomposición explosiva $2NH_4NO_{3(s)} \rightarrow 2N_{2(g)} + O_{2(g)} + 
 
 ### Opciones
 - [x] A) Origina un $\Delta G$ masivamente negativo a toda temperatura y una enorme expansión por gas y calor liberado.
-  <!-- feedback: Correcto. Liberar gran calor ($Delta H < 0$) y aumentar abruptamente los moles de gas ($Delta S > 0$) genera una explosión espontánea devastadora. -->
+  <!-- feedback: Correcto. Liberar gran calor ($\Delta H < 0$) y aumentar abruptamente los moles de gas ($\Delta S > 0$) genera una explosión espontánea devastadora. -->
 - [ ] B) Porque absorbe todo el oxígeno del planeta enfriando el tanque.
   <!-- feedback: Incorrecto. La reacción libera oxígeno gaseoso y genera elevadísimas temperaturas. -->
 - [ ] C) Porque convierte el nitrógeno en hierro sólido.
@@ -482,4 +482,4 @@ La descomposición explosiva $2NH_4NO_{3(s)} \rightarrow 2N_{2(g)} + O_{2(g)} + 
   <!-- feedback: Incorrecto. La reacción es autofinanciada termodinámicamente. -->
 
 ### Explicacion Pedagogica
-$Delta H < 0$ y $Delta S > 0$ garantizan $Delta G < 0$ extremante negativo a cualquier temperatura con violenta liberación de gases.
+$\Delta H < 0$ y $\Delta S > 0$ garantizan $\Delta G < 0$ extremante negativo a cualquier temperatura con violenta liberación de gases.

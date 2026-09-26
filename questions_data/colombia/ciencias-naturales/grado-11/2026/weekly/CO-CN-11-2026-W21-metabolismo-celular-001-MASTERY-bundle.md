@@ -228,7 +228,7 @@ Los desacopladores destruyen el gradiente quimiosmótico de protones; el transpo
   <!-- feedback: Incorrecto. El nitrógeno es inerte en estos procesos bioenergéticos. -->
 
 ### Explicacion Pedagogica
-Fotosíntesis: $H_2O ightarrow O_2 + 2H^+ + 2e^-$. Respiración: $rac{1}{2}O_2 + 2H^+ + 2e^- ightarrow H_2O$. Son procesos inversos.
+Fotosíntesis: $H_2O \rightarrow O_2 + 2H^+ + 2e^-$. Respiración: $\frac{1}{2}O_2 + 2H^+ + 2e^- \rightarrow H_2O$. Son procesos inversos.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v10
@@ -317,7 +317,7 @@ La oxidación completa de glucosa genera ~30-32 ATP (considerando el costo de tr
 - [ ] C) 16 ciclos de beta-oxidación.
   <!-- feedback: Incorrecto. Se remueven pares de carbonos, no carbonos individuales. -->
 - [ ] D) 4 ciclos de beta-oxidación.
-  <!-- feedback: Incorrecto. $4 	imes 2 = 8$ carbonos, la mitad del palmitato. -->
+  <!-- feedback: Incorrecto. $4 \times 2 = 8$ carbonos, la mitad del palmitato. -->
 
 ### Explicacion Pedagogica
 Número de ciclos $= (n/2) - 1 = (16/2) - 1 = 7$ ciclos. Genera 8 Acetil-CoA, 7 NADH y 7 FADH2.
@@ -403,7 +403,7 @@ El glucagón actúa vía receptor acoplado a proteína Gs, elevando AMPc y PKA p
 
 ### Opciones
 - [x] A) Un gradiente de concentración de protones ($\Delta pH$) y un potencial eléctrico ($\Delta \Psi$) con el espacio intermembrana más ácido y positivo que la matriz.
-  <!-- feedback: Correcto. La fuerza protón-motriz ($Delta p = Delta Psi - ZDelta pH$) es indispensable para mover la ATP sintasa. -->
+  <!-- feedback: Correcto. La fuerza protón-motriz ($\Delta p = \Delta Psi - ZDelta pH$) es indispensable para mover la ATP sintasa. -->
 - [ ] B) Presión hidrostática de 100 atmósferas en el interior.
   <!-- feedback: Incorrecto. Rompería la estructura vesicular liposómica. -->
 - [ ] C) Ausencia total de moléculas de agua en el lumen.
@@ -435,7 +435,7 @@ La síntesis de ATP exige conservar la fuerza protón-motriz integrada por la di
   <!-- feedback: Incorrecto. La glucosuria provoca diuresis osmótica. -->
 
 ### Explicacion Pedagogica
-El déficit de oxaloacetato desvía el excedente de Acetil-CoA hepático hacia la cetogénesis, liberando acetoacetato y $eta$-hidroxibutirato al plasma.
+El déficit de oxaloacetato desvía el excedente de Acetil-CoA hepático hacia la cetogénesis, liberando acetoacetato y $\beta$-hidroxibutirato al plasma.
 
 ## Question 19 [D9-D10]
 **ID:** CO-CN-11-2026-W21-metabolismo-celular-001-MASTERY-bundle-v19

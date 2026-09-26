@@ -57,17 +57,17 @@ El precio con descuento es $P = P_0 (1 - d) = 80,000 (1 - 0.20) = 80,000 (0.80) 
 ¿Cuál es el área total del parque en metros cuadrados?
 
 ### Opciones
-- [x] A) $1500	ext{ m}^2$
+- [x] A) $1500\text{ m}^2$
   <!-- feedback: Área de un rectángulo = largo * ancho = 50 m * 30 m = 1500 m^2. -->
-- [ ] B) $160	ext{ m}^2$
+- [ ] B) $160\text{ m}^2$
   <!-- feedback: Corresponde al perímetro del parque P = 2*(50 + 30) = 160 m. -->
-- [ ] C) $800	ext{ m}^2$
+- [ ] C) $800\text{ m}^2$
   <!-- feedback: Sumó 500 + 300 por error. -->
-- [ ] D) $3000	ext{ m}^2$
+- [ ] D) $3000\text{ m}^2$
   <!-- feedback: Multiplicó 1500 por 2. -->
 
 ### Explicacion Pedagogica
-El área de una región rectangular viene dada por el producto de sus dos dimensiones perpendiculares: $A =	ext{base}   imes	ext{altura} = 50   imes 30 = 1500	ext{ m}^2$.
+El área de una región rectangular viene dada por el producto de sus dos dimensiones perpendiculares: $A =\text{base}   imes\text{altura} = 50   imes 30 = 1500\text{ m}^2$.
 
 ## Question 3 [D3-D4]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v3
@@ -126,17 +126,17 @@ En un modelo de costo lineal $C(x) = mx + b$, $b$ es el costo fijo (término con
 ¿Cuál es el volumen del tanque en metros cúbicos en términos de $pi$?
 
 ### Opciones
-- [x] A) $45pi	ext{ m}^3$
+- [x] A) $45\pi\text{ m}^3$
   <!-- feedback: V = pi * r^2 * h = pi * (3)^2 * 5 = pi * 9 * 5 = 45 pi. -->
-- [ ] B) $15pi	ext{ m}^3$
+- [ ] B) $15\pi\text{ m}^3$
   <!-- feedback: Multiplicó r * h sin elevar el radio al cuadrado (pi * 3 * 5). -->
-- [ ] C) $30pi	ext{ m}^3$
+- [ ] C) $30\pi\text{ m}^3$
   <!-- feedback: Calculó 2 * pi * r * h (área lateral). -->
-- [ ] D) $90pi	ext{ m}^3$
+- [ ] D) $90\pi\text{ m}^3$
   <!-- feedback: Multiplicó por 2 el volumen real. -->
 
 ### Explicacion Pedagogica
-El volumen de un cilindro circular recto se calcula con la fórmula $V = pi r^2 h = pi (3)^2 (5) = 45pi	ext{ m}^3$.
+El volumen de un cilindro circular recto se calcula con la fórmula $V = \pi r^2 h = \pi (3)^2 (5) = 45\pi\text{ m}^3$.
 
 ## Question 6 [D5-D6]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v6
@@ -159,7 +159,7 @@ El volumen de un cilindro circular recto se calcula con la fórmula $V = pi r^2 
   <!-- feedback: Dividió 80 entre 1.5 en lugar de multiplicar. -->
 
 ### Explicacion Pedagogica
-Bajo movimiento rectilíneo uniforme, la distancia es el producto de la velocidad por el tiempo transcurrido: $d = v cdot t = 80   imes 1.5 = 120$ km.
+Bajo movimiento rectilíneo uniforme, la distancia es el producto de la velocidad por el tiempo transcurrido: $d = v \cdot t = 80   imes 1.5 = 120$ km.
 
 ## Question 7 [D5-D6]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v7
@@ -224,12 +224,12 @@ Factorizando el trinomio de la forma $x^2 + bx + c$: se buscan dos números que 
   <!-- feedback: Calculó la mitad de la hipotenusa de forma errónea. -->
 - [ ] C) 16 metros
   <!-- feedback: No extrajo la raíz cuadrada de 64. -->
-- [ ] D) $sqrt{136}$ metros
+- [ ] D) $\sqrt{136}$ metros
   <!-- feedback: Sumó los cuadrados en lugar de restar 100 - 36. -->
 
 ### Explicacion Pedagogica
 Aplicando el Teorema de Pitágoras $a^2 + b^2 = c^2$:
-$6^2 + b^2 = 10^2 Rightarrow 36 + b^2 = 100 Rightarrow b^2 = 64 Rightarrow b = sqrt{64} = 8$ metros.
+$6^2 + b^2 = 10^2 Rightarrow 36 + b^2 = 100 Rightarrow b^2 = 64 Rightarrow b = \sqrt{64} = 8$ metros.
 
 ## Question 10 [D5-D6]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v10
@@ -300,7 +300,7 @@ $lim_{x   o 2} \frac{(x-2)(x+2)}{x-2} = lim_{x   o 2} (x+2) = 2 + 2 = 4$.
 
 ### Explicacion Pedagogica
 Por semejanza de triángulos rectángulos formados por la luz del sol:
-$\frac{	ext{Altura del poste}}{	ext{Altura persona}} = \frac{	ext{Sombra del poste}}{	ext{Sombra persona}} Rightarrow \frac{H}{1.80} = \frac{8.00}{2.40} Rightarrow H = 1.80   imes \frac{10}{3} = 6.00$ metros.
+$\frac{\text{Altura del poste}}{\text{Altura persona}} = \frac{\text{Sombra del poste}}{\text{Sombra persona}} Rightarrow \frac{H}{1.80} = \frac{8.00}{2.40} Rightarrow H = 1.80   imes \frac{10}{3} = 6.00$ metros.
 
 ## Question 13 [D7-D8]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v13
@@ -330,10 +330,10 @@ La altura máxima ocurre cuando la velocidad instantánea es nula: $v(t) = s'(t)
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.60
-**Contexto:** En una distribución normal de puntajes del ICFES con media $mu = 250$ y desviación estándar $sigma = 50$.
+**Contexto:** En una distribución normal de puntajes del ICFES con media $\mu = 250$ y desviación estándar $\sigma = 50$.
 
 ### Enunciado
-¿Qué porcentaje de estudiantes obtiene un puntaje SUPERIOR a 350 puntos ($mu + 2sigma$)?
+¿Qué porcentaje de estudiantes obtiene un puntaje SUPERIOR a 350 puntos ($mu + 2\sigma$)?
 
 ### Opciones
 - [x] A) 2.5%
@@ -346,37 +346,37 @@ La altura máxima ocurre cuando la velocidad instantánea es nula: $v(t) = s'(t)
   <!-- feedback: Corresponde al porcentaje acumulado P(X < 350) en lugar del porcentaje superior. -->
 
 ### Explicacion Pedagogica
-$Z = \frac{350 - 250}{50} = 2$. Por regla empírica, el intervalo $[-2, 2]$ cubre el $95%$ de los datos. La cola superior extrema $P(Z > 2) = \frac{100% - 95%}{2} = 2.5%$.
+$Z = \frac{350 - 250}{50} = 2$. Por regla empírica, el intervalo $[-2, 2]$ cubre el $95%$ de los datos. La cola superior extrema $P(Z > 2) = \frac{100\% - 95\%}{2} = 2.5\%$.
 
 ## Question 15 [D7-D8]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **ICFES:** Geometrico
 **Expected_Success:** 0.60
-**Contexto:** Un sector circular de un parque en Villavicencio tiene un radio $r = 6$ metros y un ángulo central $  heta = 60^circ$.
+**Contexto:** Un sector circular de un parque en Villavicencio tiene un radio $r = 6$ metros y un ángulo central $  heta = 60^\circ$.
 
 ### Enunciado
 ¿Cuál es el área de este sector circular en metros cuadrados en términos de $pi$?
 
 ### Opciones
-- [x] A) $6pi	ext{ m}^2$
+- [x] A) $6\pi\text{ m}^2$
   <!-- feedback: Área sector = (theta / 360) * pi * r^2 = (60 / 360) * pi * 36 = (1/6) * 36 pi = 6 pi m^2. -->
-- [ ] B) $36pi	ext{ m}^2$
+- [ ] B) $36\pi\text{ m}^2$
   <!-- feedback: Corresponde al área del círculo completo sin aplicar la fracción del ángulo. -->
-- [ ] C) $12pi	ext{ m}^2$
+- [ ] C) $12\pi\text{ m}^2$
   <!-- feedback: Calculó (1/3) * 36 pi por error de ángulo. -->
-- [ ] D) $3pi	ext{ m}^2$
+- [ ] D) $3\pi\text{ m}^2$
   <!-- feedback: Dividió 6 pi entre 2 por error. -->
 
 ### Explicacion Pedagogica
-El área de un sector circular es $A = \frac{  heta}{360^circ} pi r^2 = \frac{60^circ}{360^circ} pi (6)^2 = \frac{1}{6} (36pi) = 6pi	ext{ m}^2$.
+El área de un sector circular es $A = \frac{  heta}{360^circ} \pi r^2 = \frac{60^circ}{360^circ} \pi (6)^2 = \frac{1}{6} (36pi) = 6\pi\text{ m}^2$.
 
 ## Question 16 [D7-D8]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **ICFES:** Numerico
 **Expected_Success:** 0.60
-**Contexto:** Se modela el número de bacterias en función del tiempo mediante la función exponencial $N(t) = 500 cdot 2^{t/4}$, donde $t$ está en horas.
+**Contexto:** Se modela el número de bacterias en función del tiempo mediante la función exponencial $N(t) = 500 \cdot 2^{t/4}$, donde $t$ está en horas.
 
 ### Enunciado
 ¿Cuántas horas deben transcurrir para que la población inicial de 500 se transforme en 4,000 bacterias?
@@ -418,7 +418,7 @@ $\frac{N(t)}{500} = \frac{4000}{500} Rightarrow 2^{t/4} = 8 Rightarrow 2^{t/4} =
 $2x + y = 120 Rightarrow y = 120 - 2x$.
 Área $A(x) = x(120 - 2x) = 120x - 2x^2$.
 Derivando para optimizar: $A'(x) = 120 - 4x = 0 Rightarrow x = 30$ metros.
-$y = 120 - 2(30) = 60$ metros. El área máxima es $1,800	ext{ m}^2$.
+$y = 120 - 2(30) = 60$ metros. El área máxima es $1,800\text{ m}^2$.
 
 ## Question 18 [D9-D10]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v18
@@ -441,7 +441,7 @@ $y = 120 - 2(30) = 60$ metros. El área máxima es $1,800	ext{ m}^2$.
   <!-- feedback: Asumió erróneamente que igual base e igual altura implican volúmenes iguales. -->
 
 ### Explicacion Pedagogica
-Las fórmulas geométricas establecen $V_{cilindro} = pi r^2 h$ y $V_{cono} = \frac{1}{3} pi r^2 h$. Por consiguiente, $V_{cono} = \frac{1}{3} V_{cilindro}$.
+Las fórmulas geométricas establecen $V_{cilindro} = \pi r^2 h$ y $V_{cono} = \frac{1}{3} \pi r^2 h$. Por consiguiente, $V_{cono} = \frac{1}{3} V_{cilindro}$.
 
 ## Question 19 [D9-D10]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v19
@@ -464,7 +464,7 @@ Las fórmulas geométricas establecen $V_{cilindro} = pi r^2 h$ y $V_{cono} = \f
   <!-- feedback: R^2 mide ajuste del modelo, no error de digitación o recolección de campo. -->
 
 ### Explicacion Pedagogica
-El coeficiente de determinación $R^2$ cuantifica el porcentaje de la varianza total de la variable respuesta $Y$ que queda explicada por la recta de regresión lineal en función de $X$. $R^2 = 0.81 Rightarrow 81%$.
+El coeficiente de determinación $R^2$ cuantifica el porcentaje de la varianza total de la variable respuesta $Y$ que queda explicada por la recta de regresión lineal en función de $X$. $R^2 = 0.81 Rightarrow 81\%$.
 
 ## Question 20 [D9-D10]
 **ID:** CO-MAT-11-2026-W39-simulacro-preicfes-001-MASTERY-bundle-v20

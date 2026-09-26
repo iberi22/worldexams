@@ -182,7 +182,7 @@ Al ganar un electrón para formar un anión, la carga nuclear ($Z=+17$) se manti
   <!-- feedback: Incorrecto. La ionización química afecta a la nube electrónica, nunca a la cantidad de protones. -->
 
 ### Explicacion Pedagogica
-Al perder un electrón para formar un catión ($Na ightarrow Na^+ + e^-$), se vacía el nivel principal exterior ($n=3$). Los 10 electrones restantes ($n=2$) son atraídos por los 11 protones del núcleo sin apantallamiento externo, reduciendo el radio: $r(Na^+) < r(Na)$.
+Al perder un electrón para formar un catión ($Na \rightarrow Na^+ + e^-$), se vacía el nivel principal exterior ($n=3$). Los 10 electrones restantes ($n=2$) son atraídos por los 11 protones del núcleo sin apantallamiento externo, reduciendo el radio: $r(Na^+) < r(Na)$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v8
@@ -219,7 +219,7 @@ El carácter metálico mide la facilidad con que un átomo pierde electrones. Au
 
 ### Opciones
 - [x] A) Es el cambio de energía producido cuando un átomo gaseoso neutro en estado fundamental captura un electrón para formar un anión con carga $-1$.
-  <!-- feedback: Correcto. Definición estándar de afinidad electrónica: $X_{(g)} + e^- ightarrow X^-_{(g)} + Delta E$. -->
+  <!-- feedback: Correcto. Definición estándar de afinidad electrónica: $X_{(g)} + e^- \rightarrow X^-_{(g)} + \Delta E$. -->
 - [ ] B) Es la energía requerida para arrancar el electrón de valencia más débilmente unido.
   <!-- feedback: Incorrecto. Esa es la definición de la energía de ionización. -->
 - [ ] C) Es la capacidad de formar enlaces covalentes dobles con el carbono.
@@ -228,7 +228,7 @@ El carácter metálico mide la facilidad con que un átomo pierde electrones. Au
   <!-- feedback: Incorrecto. Corresponde a la entalpía de fusión. -->
 
 ### Explicacion Pedagogica
-La afinidad electrónica ($AE$) es la variación energética ($Delta E$) asociada al proceso en que un átomo neutro en estado gaseoso acepta un electrón libre para convertirse en un ion negativo (anión): $X_{(g)} + e^- ightarrow X^-_{(g)}$.
+La afinidad electrónica ($AE$) es la variación energética ($\Delta E$) asociada al proceso en que un átomo neutro en estado gaseoso acepta un electrón libre para convertirse en un ion negativo (anión): $X_{(g)} + e^- \rightarrow X^-_{(g)}$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v10
@@ -238,7 +238,7 @@ La afinidad electrónica ($AE$) es la variación energética ($Delta E$) asociad
 **Contexto:** Se comparan las segundas energías de ionización ($E_{I2}$) del Sodio ($Z=11$) y del Magnesio ($Z=12$).
 
 ### Enunciado
-¿Por qué la SEGUNDA energía de ionización del Sodio ($Na ightarrow Na^{2+} + e^-$) es astronómicamente mayor que la del Magnesio ($Mg ightarrow Mg^{2+} + e^-$)?
+¿Por qué la SEGUNDA energía de ionización del Sodio ($Na \rightarrow Na^{2+} + e^-$) es astronómicamente mayor que la del Magnesio ($Mg \rightarrow Mg^{2+} + e^-$)?
 
 ### Opciones
 - [x] A) Porque la segunda ionización del $Na$ requiere arrancar un electrón de un nivel principal interno ($n=2$) con configuración de gas noble cerrada, mientras en el $Mg$ se arranca el segundo electrón de valencia del subnivel $3s$.
@@ -327,7 +327,7 @@ Configuraciones: $N = [He] 2s^2 2p_x^1 2p_y^1 2p_z^1$ (semilleno, estable). $O =
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.48
-**Contexto:** En un estudio sobre afinidades electrónicas, se observa que los gases nobles (Grupo 18) poseen afinidades electrónicas endotérmicas o no favorables ($Delta E > 0$).
+**Contexto:** En un estudio sobre afinidades electrónicas, se observa que los gases nobles (Grupo 18) poseen afinidades electrónicas endotérmicas o no favorables ($\Delta E > 0$).
 
 ### Enunciado
 ¿Cuál es la causa cuántica de la resistencia de los gases nobles a aceptar un electrón adicional?
@@ -373,33 +373,33 @@ A medida que se llena el subnivel $4f$ a lo largo de los lantánidos (14 element
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.42
-**Contexto:** Se consulta la tabla de electronegatividades de Pauling para predecir el tipo de enlace entre pares de átomos: $K-Cl$ ($Delta EN = 2.2$), $C-O$ ($Delta EN = 1.0$) y $C-H$ ($Delta EN = 0.4$).
+**Contexto:** Se consulta la tabla de electronegatividades de Pauling para predecir el tipo de enlace entre pares de átomos: $K-Cl$ ($\Delta EN = 2.2$), $C-O$ ($\Delta EN = 1.0$) y $C-H$ ($\Delta EN = 0.4$).
 
 ### Enunciado
 ¿Cuál es la clasificación correcta del carácter del enlace para cada uno de estos tres pares?
 
 ### Opciones
 - [x] A) $K-Cl$: Iónico; $C-O$: Covalente polar; $C-H$: Covalente apolar (o débilmente polar).
-  <!-- feedback: Correcto. $Delta EN ge 1.7 \implies$ iónico ($K-Cl$). $0.5 le Delta EN < 1.7 \implies$ covalente polar ($C-O$). $Delta EN < 0.5 \implies$ covalente apolar ($C-H$). -->
+  <!-- feedback: Correcto. $\Delta EN \ge 1.7 \implies$ iónico ($K-Cl$). $0.5 \le \Delta EN < 1.7 \implies$ covalente polar ($C-O$). $\Delta EN < 0.5 \implies$ covalente apolar ($C-H$). -->
 - [ ] B) $K-Cl$: Covalente apolar; $C-O$: Iónico; $C-H$: Metálico.
   <!-- feedback: Incorrecto. Clasificación inversa del carácter del enlace según la diferencia de electronegatividades. -->
 - [ ] C) Los tres enlaces son estrictamente iónicos.
   <!-- feedback: Incorrecto. Solo $K-Cl$ involucra una transferencia neta de electrones por gran diferencia de electronegatividad. -->
 - [ ] D) Los tres enlaces son covalentes puros no polares.
-  <!-- feedback: Incorrecto. La polaridad depende del valor de $Delta EN$. -->
+  <!-- feedback: Incorrecto. La polaridad depende del valor de $\Delta EN$. -->
 
 ### Explicacion Pedagogica
 Regla de Pauling:
-1) $Delta EN > 1.7 \implies$ Predominio iónico ($K-Cl = 2.2$).
-2) $0.4 < Delta EN < 1.7 \implies$ Covalente polar ($C-O = 1.0$).
-3) $Delta EN le 0.4 \implies$ Covalente no polar ($C-H = 0.4$).
+1) $\Delta EN > 1.7 \implies$ Predominio iónico ($K-Cl = 2.2$).
+2) $0.4 < \Delta EN < 1.7 \implies$ Covalente polar ($C-O = 1.0$).
+3) $\Delta EN \le 0.4 \implies$ Covalente no polar ($C-H = 0.4$).
 
 ## Question 17 [D9-D10]
 **ID:** CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **ICFES:** Indagación
 **Expected_Success:** 0.38
-**Contexto:** Se analizan los valores de las sucesivas energías de ionización ($E_I$ en $	ext{kJ/mol}$) de un elemento desconocido $X$ del Periodo 3:
+**Contexto:** Se analizan los valores de las sucesivas energías de ionización ($E_I$ en $\text{kJ/mol}$) de un elemento desconocido $X$ del Periodo 3:
 $E_{I1} = 738$, $E_{I2} = 1450$, $E_{I3} = 7730$, $E_{I4} = 10540$.
 
 ### Enunciado
@@ -416,7 +416,7 @@ $E_{I1} = 738$, $E_{I2} = 1450$, $E_{I3} = 7730$, $E_{I4} = 10540$.
   <!-- feedback: Incorrecto. Posee 7 electrones de valencia. -->
 
 ### Explicacion Pedagogica
-Un incremento masivo e abrupto entre dos energías de ionización consecutivas señala que se ha comenzado a remover electrones de la capa interna de gas noble. Como el salto se produce tras la segunda ionización ($E_{I2} ightarrow E_{I3}$), el elemento posee 2 electrones de valencia (Grupo 2, $Mg$).
+Un incremento masivo e abrupto entre dos energías de ionización consecutivas señala que se ha comenzado a remover electrones de la capa interna de gas noble. Como el salto se produce tras la segunda ionización ($E_{I2} \rightarrow E_{I3}$), el elemento posee 2 electrones de valencia (Grupo 2, $Mg$).
 
 ## Question 18 [D9-D10]
 **ID:** CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v18

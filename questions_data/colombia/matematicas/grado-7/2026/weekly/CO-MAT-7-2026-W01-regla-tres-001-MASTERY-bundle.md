@@ -41,7 +41,7 @@ Este bundle contiene 10 preguntas sobre **regla-tres** para grado 7, alineadas c
 - [ ] D) $9$ galones
   <!-- feedback: Incorrecto. Sobreestimaste la cantidad de galones. -->
 ### Explicacion Pedagogica
-$rac{3}{120} = rac{x}{280} \implies 120x = 840 \implies x = 7$ galones.
+$\frac{3}{120} = \frac{x}{280} \implies 120x = 840 \implies x = 7$ galones.
 
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle-v2
@@ -53,7 +53,7 @@ $rac{3}{120} = rac{x}{280} \implies 120x = 840 \implies x = 7$ galones.
 ¿Cuántos minutos tardarán $2$ impresoras de las mismas características en imprimir el mismo lote?
 ### Opciones
 - [x] A) $25$ minutos
-  <!-- feedback: Correcto. Regla de tres inversa: $5 	imes 10 = 2 	imes x \implies x = 25$ minutos. -->
+  <!-- feedback: Correcto. Regla de tres inversa: $5 \times 10 = 2 \times x \implies x = 25$ minutos. -->
 - [ ] B) $4$ minutos
   <!-- feedback: Incorrecto. Aplicaste regla de tres directa cuando menos impresoras requieren más tiempo. -->
 - [ ] C) $15$ minutos
@@ -73,7 +73,7 @@ A menos impresoras, más tiempo (inversa): $5 \cdot 10 = 2 \cdot x \implies 50 =
 ¿Cuántos metros pavimentarán $12$ obreros en el mismo tiempo?
 ### Opciones
 - [x] A) $90\text{ metros}$
-  <!-- feedback: Correcto. $60 / 8 = 7.5\text{ m/obrero}$; $12 	imes 7.5 = 90\text{ metros}$. -->
+  <!-- feedback: Correcto. $60 / 8 = 7.5\text{ m/obrero}$; $12 \times 7.5 = 90\text{ metros}$. -->
 - [ ] B) $80\text{ metros}$
   <!-- feedback: Incorrecto. Sumaste obreros sin mantener la proporción. -->
 - [ ] C) $120\text{ metros}$

@@ -201,7 +201,7 @@ Desigualdad triangular: la medida del tercer lado debe ser mayor que la diferenc
 - [ ] D) $540^\circ$
   <!-- feedback: Incorrecto. Es la suma de un pentágono. -->
 ### Explicacion Pedagogica
-Todo cuadrilátero se compone de $2$ triángulos, por lo que la suma de sus ángulos internos es $2 	imes 180^\circ = 360^\circ$.
+Todo cuadrilátero se compone de $2$ triángulos, por lo que la suma de sus ángulos internos es $2 \times 180^\circ = 360^\circ$.
 
 ## Question 10 [D9-D10]
 **ID:** CO-MAT-7-2026-W02-angulos-triangulos-001-MASTERY-bundle-v10

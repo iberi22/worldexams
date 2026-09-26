@@ -106,7 +106,7 @@ La hibridación $sp^3$ combina un orbital $s$ y tres orbitales $p$, originando 4
 - [x] A) Hibridación $sp^2$.
   <!-- feedback: Correcto. Los carbonos con enlace doble presentan tres orbitales híbridos $sp^2$ y un orbital $p$ puro no hibridado. -->
 - [ ] B) Hibridación $sp^3$.
-  <!-- feedback: Incorrecto. $sp^3$ es propia de carbonos con 4 enlaces sencillos $sigma$. -->
+  <!-- feedback: Incorrecto. $sp^3$ es propia de carbonos con 4 enlaces sencillos $\sigma$. -->
 - [ ] C) Hibridación $sp$.
   <!-- feedback: Incorrecto. $sp$ es propia de carbonos con enlace triple o enlaces dobles acumulados. -->
 - [ ] D) Hibridación $d^2sp^3$.
@@ -123,20 +123,20 @@ En el eteno ($H_2C=CH_2$), cada carbono está unido a tres átomos (dos hidróge
 **Contexto:** En la industria petroquímica en Barrancabermeja, se analiza la reactividad del etino o acetileno ($HC \equiv CH$).
 
 ### Enunciado
-¿Cuántos enlaces de tipo sigma ($sigma$) y pi ($pi$) existen en la molécula de etino ($HC \equiv CH$)?
+¿Cuántos enlaces de tipo sigma ($\sigma$) y pi ($pi$) existen en la molécula de etino ($HC \equiv CH$)?
 
 ### Opciones
-- [x] A) 3 enlaces $sigma$ y 2 enlaces $pi$.
+- [x] A) 3 enlaces $\sigma$ y 2 enlaces $pi$.
   <!-- feedback: Correcto. Cada enlace C-H es $1\sigma$ (total 2). El enlace triple C$equiv$C contiene $1\sigma$ y $2\pi$. Total: $3\sigma$ y $2\pi$. -->
-- [ ] B) 2 enlaces $sigma$ y 3 enlaces $pi$.
+- [ ] B) 2 enlaces $\sigma$ y 3 enlaces $pi$.
   <!-- feedback: Incorrecto. Conteo invertido de la naturaleza de los enlaces en el triple enlace. -->
-- [ ] C) 5 enlaces $sigma$ y 0 enlaces $pi$.
+- [ ] C) 5 enlaces $\sigma$ y 0 enlaces $pi$.
   <!-- feedback: Incorrecto. Corresponde a una molécula con solo enlaces sencillos. -->
-- [ ] D) 1 enlace $sigma$ y 4 enlaces $pi$.
+- [ ] D) 1 enlace $\sigma$ y 4 enlaces $pi$.
   <!-- feedback: Incorrecto. Los enlaces simples C-H son necesariamente de tipo $\sigma$. -->
 
 ### Explicacion Pedagogica
-El etino ($H-C \equiv C-H$) contiene: 2 enlaces sencillos $C-H$ ($sigma$), 1 enlace triple $C \equiv C$ (compuesto por $1\sigma$ y $2\pi$). En total hay $3$ enlaces $sigma$ y $2$ enlaces $pi$.
+El etino ($H-C \equiv C-H$) contiene: 2 enlaces sencillos $C-H$ ($\sigma$), 1 enlace triple $C \equiv C$ (compuesto por $1\sigma$ y $2\pi$). En total hay $3$ enlaces $\sigma$ y $2$ enlaces $pi$.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v6
@@ -195,7 +195,7 @@ Los alcanos acíclicos son hidrocarburos saturados con fórmula empírica genera
 ¿Por qué el grafito es un excelente conductor de la electricidad mientras que el diamante es un aislante eléctrico perfecto?
 
 ### Opciones
-- [x] A) El grafito posee hibridación $sp^2$ con electrones $pi$ deslocalizados entre sus capas, mientras el diamante presenta hibridación $sp^3$ con todos sus electrones localizados en enlaces $sigma$.
+- [x] A) El grafito posee hibridación $sp^2$ con electrones $pi$ deslocalizados entre sus capas, mientras el diamante presenta hibridación $sp^3$ con todos sus electrones localizados en enlaces $\sigma$.
   <!-- feedback: Correcto. Los electrones deslocalizados en los orbitales $p$ no hibridados del grafito permiten el flujo eléctrico. En el diamante todos los electrones están fijos en enlaces covalentes $\sigma$. -->
 - [ ] B) El grafito contiene impurezas metálicas de hierro y cobre en su estructura.
   <!-- feedback: Incorrecto. El grafito es una forma alotrópica pura del carbono elemental. -->
@@ -205,7 +205,7 @@ Los alcanos acíclicos son hidrocarburos saturados con fórmula empírica genera
   <!-- feedback: Incorrecto. El grafito es un sólido cristalino estratificado. -->
 
 ### Explicacion Pedagogica
-En el grafito, el carbono presenta hibridación $sp^2$, dejando un orbital $p$ deslocalizado por átomo que forma una nube de electrones $pi$ móviles que conducen la electricidad. En el diamante ($sp^3$), la red tridimensional rígida confina todos los electrones en enlaces $sigma$ fijos.
+En el grafito, el carbono presenta hibridación $sp^2$, dejando un orbital $p$ deslocalizado por átomo que forma una nube de electrones $pi$ móviles que conducen la electricidad. En el diamante ($sp^3$), la red tridimensional rígida confina todos los electrones en enlaces $\sigma$ fijos.
 
 ## Question 9 [D5-D6]
 **ID:** CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v9
@@ -264,7 +264,7 @@ Un carbono quiral (estereocentro) es un átomo de carbono con hibridación $sp^3
 Aunque los enlaces $C-H$ y $C-Cl$ son polares debido a diferencias de electronegatividad, ¿por qué el $CH_4$ es apolar y el $CH_3Cl$ es polar?
 
 ### Opciones
-- [x] A) Por la simetría tetraédrica regular del $CH_4$, donde la suma vectorial de los momentos dipolares se anula ($mu = 0$), a diferencia del $CH_3Cl$ asimétrico ($mu
+- [x] A) Por la simetría tetraédrica regular del $CH_4$, donde la suma vectorial de los momentos dipolares se anula ($\mu = 0$), a diferencia del $CH_3Cl$ asimétrico ($mu
 eq 0$).
   <!-- feedback: Correcto. En el $CH_4$ la geometría tetraédrica perfecta cancela los dipolos. En el $CH_3Cl$ la presencia del cloro rompe la simetría vectorial. -->
 - [ ] B) Porque el $CH_4$ no posee electrones de valencia en sus enlaces.
@@ -288,9 +288,9 @@ La polaridad molecular depende de la geometría espacial de los vectores de mome
 ¿Cuál es la tendencia correcta de los ángulos de enlace al pasar de la hibridación $sp^3$ a $sp^2$ y luego a $sp$?
 
 ### Opciones
-- [x] A) Los ángulos aumentan progresivamente: $109.5^\circ ightarrow 120^\circ ightarrow 180^\circ$.
+- [x] A) Los ángulos aumentan progresivamente: $109.5^\circ \rightarrow 120^\circ \rightarrow 180^\circ$.
   <!-- feedback: Correcto. $sp^3$ (tetraédrico, $109.5^\circ$), $sp^2$ (trigonal plano, $120^\circ$) y $sp$ (lineal, $180^\circ$). -->
-- [ ] B) Los ángulos disminuyen: $180^\circ ightarrow 120^\circ ightarrow 109.5^\circ$.
+- [ ] B) Los ángulos disminuyen: $180^\circ \rightarrow 120^\circ \rightarrow 109.5^\circ$.
   <!-- feedback: Incorrecto. Secuencia invertida. -->
 - [ ] C) Permanece constante en $90^\circ$ en los tres compuestos.
   <!-- feedback: Incorrecto. Los orbitales híbridos repelen al máximo sus dominios electrónicos en 3D. -->
@@ -298,7 +298,7 @@ La polaridad molecular depende de la geometría espacial de los vectores de mome
   <!-- feedback: Incorrecto. La teoría de repulsión de pares de electrones de valencia (VSEPR) predice ángulos fijos según la hibridación. -->
 
 ### Explicacion Pedagogica
-A medida que aumenta el carácter $s$ del híbrido ($sp^3: 25\%s$, $sp^2: 33\%s$, $sp: 50\%s$), la repulsión electrónica distribuye los orbitales a mayores ángulos espaciales: $109.5^\circ ightarrow 120^\circ ightarrow 180^\circ$.
+A medida que aumenta el carácter $s$ del híbrido ($sp^3: 25\%s$, $sp^2: 33\%s$, $sp: 50\%s$), la repulsión electrónica distribuye los orbitales a mayores ángulos espaciales: $109.5^\circ \rightarrow 120^\circ \rightarrow 180^\circ$.
 
 ## Question 13 [D7-D8]
 **ID:** CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v13
@@ -361,7 +361,7 @@ Los isómeros más ramificados adoptan formas más esféricas. Esto disminuye el
   <!-- feedback: Correcto. En la conformación alternada los enlaces C-H están a la máxima distancia angular posible ($60^\circ$), minimizando la repulsión estérica y torsional. -->
 - [ ] B) Porque la conformación alternada forma puentes de hidrógeno intracadena.
   <!-- feedback: Incorrecto. En alcanos apolares no existen puentes de hidrógeno. -->
-- [ ] C) Porque la conformación eclipsada destruye los enlaces $sigma$.
+- [ ] C) Porque la conformación eclipsada destruye los enlaces $\sigma$.
   <!-- feedback: Incorrecto. Los enlaces $\sigma$ permanecen intactos durante las rotaciones conformacionales. -->
 - [ ] D) Porque el etano se convierte en eteno en la postura eclipsada.
   <!-- feedback: Incorrecto. Son posturas rotacionales de la misma molécula de etano. -->
@@ -459,7 +459,7 @@ La regla de Hückel establece que un sistema monocíclico plano conjugado es aro
   <!-- feedback: Incorrecto. Los valores de $pK_a$ varían drásticamente: etino ($sim 25$), eteno ($sim 44$), etano ($sim 50$). -->
 
 ### Explicacion Pedagogica
-A mayor porcentaje de carácter $s$ en el orbital híbrido del carbono ($sp = 50\%s > sp^2 = 33\%s > sp^3 = 25\%s$), mayor es la electronegatividad efectiva del átomo de carbono. Esto estabiliza mejor al par solitario de la base conjugada (anión acetiluro), haciendo al etino notablemente más ácido ($pK_a approx 25$).
+A mayor porcentaje de carácter $s$ en el orbital híbrido del carbono ($sp = 50\%s > sp^2 = 33\%s > sp^3 = 25\%s$), mayor es la electronegatividad efectiva del átomo de carbono. Esto estabiliza mejor al par solitario de la base conjugada (anión acetiluro), haciendo al etino notablemente más ácido ($pK_a \approx 25$).
 
 ## Question 20 [D9-D10]
 **ID:** CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v20
