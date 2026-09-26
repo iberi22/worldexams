@@ -378,7 +378,8 @@ export async function routeRanked(
       {
         sessionId,
         seed,
-        expiresAt,
+        // ISO-8601 string (the client contract); DB keeps unix seconds.
+        expiresAt: new Date(expiresAt * 1000).toISOString(),
         questions: clientQuestions,
         meta: { area_counts: areaCounts },
       },
