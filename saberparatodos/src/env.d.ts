@@ -1,6 +1,11 @@
 /// <reference path="../.astro/types.d.ts" />
 /// <reference types="astro/client" />
 
+// DEV-only test surface exposed by src/pages/juego/harness.astro (gated by import.meta.env.DEV).
+interface Window {
+  __wxJuego?: Record<string, unknown>;
+}
+
 declare namespace App {
   interface Locals {
     country?: any;
