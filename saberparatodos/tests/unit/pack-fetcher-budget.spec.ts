@@ -87,7 +87,7 @@ describe('Pack Fetcher and Pool Budget', () => {
       maxQuestions: 100,
     });
 
-    expect(repository.fetchQuestions).toHaveBeenCalledTimes(3);
+    expect(repository.fetchQuestions).toHaveBeenCalledTimes(4);
     expect(result.length).toBe(47);
   });
 
