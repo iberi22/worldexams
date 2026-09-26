@@ -54,7 +54,7 @@ Los pares acción-reacción actúan sobre cuerpos distintos y son de la misma na
 **Contexto:** Un camión de carga de $5000\text{ kg}$ arrastra un remolque en una carretera llana cerca de Ibagué.
 
 ### Enunciado
-Si la fuerza neta resultante sobre el sistema es nula ($sum F = 0$), ¿cuál es el estado de movimiento del camión?
+Si la fuerza neta resultante sobre el sistema es nula ($\sum F = 0$), ¿cuál es el estado de movimiento del camión?
 
 ### Opciones
 - [x] A) Permanece en reposo o se mueve en línea recta a velocidad constante.
@@ -350,7 +350,7 @@ La aceleración global del sistema es $a = \frac{F}{m_A + m_B} = \frac{15}{5} = 
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.45
-**Contexto:** En un día de lluvia en Bogotá, un vehículo frena en una curva de radio $r$. El coeficiente de fricción estática entre llantas y asfalto húmedo disminuye a la mitad ($mu_s' = mu_s / 2$).
+**Contexto:** En un día de lluvia en Bogotá, un vehículo frena en una curva de radio $r$. El coeficiente de fricción estática entre llantas y asfalto húmedo disminuye a la mitad ($\mu_s' = \mu_s / 2$).
 
 ### Enunciado
 ¿Cómo cambia la rapidez máxima de derrape seguro $v_{max}$ en la curva sin peralte?
@@ -402,7 +402,7 @@ La velocidad terminal se define cuando la fuerza de resistencia del aire iguala 
 Al liberar el sistema desde el reposo, ¿qué ocurre con el centro de masa del sistema combinado (bloque + cuña) en la dirección horizontal?
 
 ### Opciones
-- [x] A) El centro de masa no se acelera horizontalmente ($sum F_{x,ext} = 0$), por lo que su posición horizontal permanece constante.
+- [x] A) El centro de masa no se acelera horizontalmente ($\sum F_{x,ext} = 0$), por lo que su posición horizontal permanece constante.
   <!-- feedback: Correcto. Al no existir fuerzas externas horizontales actuando sobre el conjunto, el momento lineal horizontal se conserva. -->
 - [ ] B) El centro de masa acelera horizontalmente hacia la derecha con fuerza $m g \sin\theta$.
   <!-- feedback: Incorrecto. No hay fuerzas externas horizontales; las fuerzas entre el bloque y la cuña son internas. -->
@@ -426,7 +426,7 @@ A partir de la aceleración centrípeta generada por la fuerza de gravedad de Ne
 
 ### Opciones
 - [x] A) El cuadrado del período es proporcional al cubo del radio ($T^2 \propto r^3$).
-  <!-- feedback: Correcto. $G \frac{M}{r^2} = \\left(\frac{2\pi}{T}\r\right)^2 r \implies T^2 = \frac{4\pi^2}{GM} r^3$, demostrando la tercera ley de Kepler. -->
+  <!-- feedback: Correcto. $G \frac{M}{r^2} = \left(\frac{2\pi}{T}\right)^2 r \implies T^2 = \frac{4\pi^2}{GM} r^3$, demostrando la tercera ley de Kepler. -->
 - [ ] B) El período es inversamente proporcional al cuadrado del radio ($T \propto 1/r^2$).
   <!-- feedback: Incorrecto. Deducción equivocada de la velocidad angular. -->
 - [ ] C) El período es directamente proporcional al radio ($T \propto r$).
@@ -435,7 +435,7 @@ A partir de la aceleración centrípeta generada por la fuerza de gravedad de Ne
   <!-- feedback: Incorrecto. Inversión de los exponentes de la tercera ley de Kepler. -->
 
 ### Explicacion Pedagogica
-Igualando la atracción gravitacional $F_g = \frac{G M m}{r^2}$ a la fuerza centrípeta $m \omega^2 r = m \\left(\frac{2\pi}{T}\r\right)^2 r$, despejamos $T^2 = \\left(\frac{4\pi^2}{G M}\r\right) r^3$. Esto demuestra analíticamente la tercera ley de Kepler ($T^2 \propto r^3$).
+Igualando la atracción gravitacional $F_g = \frac{G M m}{r^2}$ a la fuerza centrípeta $m \omega^2 r = m \left(\frac{2\pi}{T}\right)^2 r$, despejamos $T^2 = \left(\frac{4\pi^2}{G M}\right) r^3$. Esto demuestra analíticamente la tercera ley de Kepler ($T^2 \propto r^3$).
 
 ## Question 19 [D9-D10]
 **ID:** CO-CN-11-2026-W03-dinamica-001-MASTERY-bundle-v19
@@ -468,7 +468,7 @@ Usando la identidad cinemática $a = v \frac{dv}{dx}$: $v dv = -c x dx$. Integra
 **Contexto:** Se diseña una curva con peralte de ángulo $\theta$ en una autopista de montaña cerca de Tunja de radio $R$. Se busca que los vehículos puedan tomar la curva a velocidad $v_0$ sin depender de la fricción ($mu=0$).
 
 ### Enunciado
-¿Cuál es la fórmula para el ángulo de peralte óptimo $	heta$ en función de $v_0$, $R$ y $g$?
+¿Cuál es la fórmula para el ángulo de peralte óptimo $\theta$ en función de $v_0$, $R$ y $g$?
 
 ### Opciones
 - [x] A) $\tan\theta = \frac{v_0^2}{R g}$

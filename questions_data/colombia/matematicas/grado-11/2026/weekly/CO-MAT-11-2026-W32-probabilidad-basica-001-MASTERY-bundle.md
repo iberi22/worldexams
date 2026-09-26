@@ -44,7 +44,7 @@ Si se saca una bola al azar, ¿cuál es la probabilidad de que sea de color azul
   <!-- feedback: Se asumió que la probabilidad era del 50% sin contar el número real de elementos. -->
 
 ### Explicacion Pedagogica
-La probabilidad de un evento simple en un espacio muestral equiprobable se calcula como el número de casos favorables dividido entre el número de casos posibles: $P(E) = \frac{	ext{casos favorables}}{	ext{casos posibles}} = \frac{3}{10}$.
+La probabilidad de un evento simple en un espacio muestral equiprobable se calcula como el número de casos favorables dividido entre el número de casos posibles: $P(E) = \frac{\text{casos favorables}}{\text{casos posibles}} = \frac{3}{10}$.
 
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v2
@@ -67,7 +67,7 @@ La probabilidad de un evento simple en un espacio muestral equiprobable se calcu
   <!-- feedback: Se contaron los números impares en lugar de los números pares. -->
 
 ### Explicacion Pedagogica
-Los pares entre 1 y 12 son 6 números. Por tanto, la probabilidad es $P(	ext{par}) = \frac{6}{12} = \frac{1}{2} = 0.5$.
+Los pares entre 1 y 12 son 6 números. Por tanto, la probabilidad es $P(\text{par}) = \frac{6}{12} = \frac{1}{2} = 0.5$.
 
 ## Question 3 [D3-D4]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v3
@@ -182,7 +182,7 @@ El espacio muestral de dos dados consta de $6   imes 6 = 36$ resultados. Las com
   <!-- feedback: Corresponde a la probabilidad de sacar solo una galleta de chocolate en el primer intento. -->
 
 ### Explicacion Pedagogica
-Para eventos dependientes sin reemplazo, $P(A cap B) = P(A) cdot P(B|A) = \frac{4}{10} cdot \frac{3}{9} = \frac{12}{90} = \frac{2}{15}$.
+Para eventos dependientes sin reemplazo, $P(A cap B) = P(A) \cdot P(B|A) = \frac{4}{10} \cdot \frac{3}{9} = \frac{12}{90} = \frac{2}{15}$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v8
@@ -205,7 +205,7 @@ Para eventos dependientes sin reemplazo, $P(A cap B) = P(A) cdot P(B|A) = \frac{
   <!-- feedback: Se calculó la probabilidad de extraer específicamente el As de Corazones (intersección en lugar de unión). -->
 
 ### Explicacion Pedagogica
-Aplicando el principio de inclusión-exclusión: $P(	ext{As} cup	ext{Corazón}) = \frac{4}{52} + \frac{13}{52} - \frac{1}{52} = \frac{16}{52} = \frac{4}{13}$.
+Aplicando el principio de inclusión-exclusión: $P(\text{As} cup\text{Corazón}) = \frac{4}{52} + \frac{13}{52} - \frac{1}{52} = \frac{16}{52} = \frac{4}{13}$.
 
 ## Question 9 [D5-D6]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v9
@@ -228,7 +228,7 @@ Aplicando el principio de inclusión-exclusión: $P(	ext{As} cup	ext{Corazón}) 
   <!-- feedback: Corresponde a la probabilidad de obtener exactamente 3 caras (C,C,C). -->
 
 ### Explicacion Pedagogica
-Con $n=3$ lanzamientos independientes de monedas, la probabilidad de obtener $k=2$ caras es $\binom{3}{2} (1/2)^3 = 3 cdot \frac{1}{8} = \frac{3}{8}$.
+Con $n=3$ lanzamientos independientes de monedas, la probabilidad de obtener $k=2$ caras es $\binom{3}{2} (1/2)^3 = 3 \cdot \frac{1}{8} = \frac{3}{8}$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v10
@@ -274,7 +274,7 @@ Si se elige un empleado al azar y se sabe que habla inglés, ¿cuál es la proba
   <!-- feedback: Se tomó solo la probabilidad conjunta P(Inglés n Francés) = 20% sin aplicar la condición. -->
 
 ### Explicacion Pedagogica
-La probabilidad condicional se define como $P(A|B) = \frac{P(A cap B)}{P(B)}$. Aquí $P(	ext{Francés}|	ext{Inglés}) = \frac{0.20}{0.70} = \frac{2}{7}$.
+La probabilidad condicional se define como $P(A|B) = \frac{P(A cap B)}{P(B)}$. Aquí $P(\text{Francés}|\text{Inglés}) = \frac{0.20}{0.70} = \frac{2}{7}$.
 
 ## Question 12 [D7-D8]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v12
@@ -320,7 +320,7 @@ Si se toma una persona al azar de la población, ¿cuál es la probabilidad de q
   <!-- feedback: Se tomó solo la prevalencia de la enfermedad ignorando la sensibilidad de la prueba. -->
 
 ### Explicacion Pedagogica
-La probabilidad de la intersección se obtiene mediante el producto $P(E cap T) = P(E) cdot P(T|E) = 0.02   imes 0.95 = 0.019$.
+La probabilidad de la intersección se obtiene mediante el producto $P(E cap T) = P(E) \cdot P(T|E) = 0.02   imes 0.95 = 0.019$.
 
 ## Question 14 [D7-D8]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v14
@@ -471,7 +471,7 @@ ight)^3 left(\frac{3}{4}
 ight) = 4 cdot \frac{3}{256} = \frac{12}{256}$.
 $P(X=4) = left(\frac{1}{4}
 ight)^4 = \frac{1}{256}$.
-$P(X ge 3) = \frac{12}{256} + \frac{1}{256} = \frac{13}{256}$.
+$P(X \ge 3) = \frac{12}{256} + \frac{1}{256} = \frac{13}{256}$.
 
 ## Question 20 [D9-D10]
 **ID:** CO-MAT-11-2026-W32-probabilidad-basica-001-MASTERY-bundle-v20
@@ -496,5 +496,5 @@ Sabiendo que la bola extraída resultó ser blanca, ¿cuál es la probabilidad d
 ### Explicacion Pedagogica
 $P(U_1) = \frac{1}{2}, P(U_2) = \frac{1}{2}$.
 $P(B|U_1) = \frac{3}{5}, P(B|U_2) = \frac{2}{6} = \frac{1}{3}$.
-$P(B) = \frac{1}{2} cdot \frac{3}{5} + \frac{1}{2} cdot \frac{1}{3} = \frac{3}{10} + \frac{1}{6} = \frac{9+5}{30} = \frac{14}{30}$.
+$P(B) = \frac{1}{2} \cdot \frac{3}{5} + \frac{1}{2} \cdot \frac{1}{3} = \frac{3}{10} + \frac{1}{6} = \frac{9+5}{30} = \frac{14}{30}$.
 $P(U_1|B) = \frac{P(B|U_1)P(U_1)}{P(B)} = \frac{3/10}{14/30} = \frac{9}{14}$.

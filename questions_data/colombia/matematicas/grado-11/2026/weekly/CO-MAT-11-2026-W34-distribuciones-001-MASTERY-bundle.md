@@ -31,7 +31,7 @@ Este bundle contiene 20 preguntas sobre **distribuciones discreta, binomial, nor
 **Contexto:** En una variable aleatoria discreta $X$, la suma de las probabilidades de todos los valores posibles debe cumplir con la propiedad fundamental de las distribuciones.
 
 ### Enunciado
-¿Cuál es la suma total de las probabilidades $sum P(X = x_i)$ para cualquier distribución de probabilidad válida?
+¿Cuál es la suma total de las probabilidades $\sum P(X = x_i)$ para cualquier distribución de probabilidad válida?
 
 ### Opciones
 - [x] A) 1
@@ -44,7 +44,7 @@ Este bundle contiene 20 preguntas sobre **distribuciones discreta, binomial, nor
   <!-- feedback: La suma es siempre 1 independientemente de la variable aleatoria. -->
 
 ### Explicacion Pedagogica
-Toda función de probabilidad cumple $sum_{i} P(X = x_i) = 1$, lo que garantiza que la probabilidad del espacio muestral completo sea del 100% (o 1 en escala unitaria).
+Toda función de probabilidad cumple $\sum_{i} P(X = x_i) = 1$, lo que garantiza que la probabilidad del espacio muestral completo sea del 100% (o 1 en escala unitaria).
 
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v2
@@ -68,17 +68,17 @@ $X = 0 Rightarrow P = 0.5$, $X = 1 Rightarrow P = 0.3$, $X = 2 Rightarrow P = 0.
   <!-- feedback: Se sumó P(X=0) + P(X=1) = 0.8. -->
 
 ### Explicacion Pedagogica
-"Al menos 1" abarca $X=1$ y $X=2$. Sumando sus probabilidades: $P(X ge 1) = 0.3 + 0.2 = 0.5$.
+"Al menos 1" abarca $X=1$ y $X=2$. Sumando sus probabilidades: $P(X \ge 1) = 0.3 + 0.2 = 0.5$.
 
 ## Question 3 [D3-D4]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Aleatorio
 **Expected_Success:** 0.80
-**Contexto:** La estatura de los estudiantes de grado 11 de un colegio en Medellín sigue una distribución normal con media $mu = 165$ cm y desviación estándar $sigma = 5$ cm.
+**Contexto:** La estatura de los estudiantes de grado 11 de un colegio en Medellín sigue una distribución normal con media $\mu = 165$ cm y desviación estándar $\sigma = 5$ cm.
 
 ### Enunciado
-¿Alrededor de qué porcentaje de estudiantes tiene una estatura comprendida entre 160 cm y 170 cm ($mu pm 1sigma$)?
+¿Alrededor de qué porcentaje de estudiantes tiene una estatura comprendida entre 160 cm y 170 cm ($mu \pm 1\sigma$)?
 
 ### Opciones
 - [x] A) 68%
@@ -91,7 +91,7 @@ $X = 0 Rightarrow P = 0.5$, $X = 1 Rightarrow P = 0.3$, $X = 2 Rightarrow P = 0.
   <!-- feedback: Representa el área a un solo lado de la media en una distribución simétrica. -->
 
 ### Explicacion Pedagogica
-En la regla empírica (o 68-95-99.7) de una distribución normal, el $68.27%$ de la población se encuentra dentro de $pm 1$ desviación estándar alrededor de la media.
+En la regla empírica (o 68-95-99.7) de una distribución normal, el $68.27%$ de la población se encuentra dentro de $\pm 1$ desviación estándar alrededor de la media.
 
 ## Question 4 [D3-D4]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v4
@@ -104,17 +104,17 @@ En la regla empírica (o 68-95-99.7) de una distribución normal, el $68.27%$ de
 ¿Cuál es la fórmula para calcular el valor esperado (o media) $mu$ de esta distribución binomial?
 
 ### Opciones
-- [x] A) $mu = n cdot p$
+- [x] A) $\mu = n \cdot p$
   <!-- feedback: En una distribución binomial B(n, p), la media o valor esperado es mu = n * p = 10 * 0.4 = 4. -->
-- [ ] B) $mu = n cdot p cdot (1-p)$
+- [ ] B) $\mu = n \cdot p \cdot (1-p)$
   <!-- feedback: Esta fórmula corresponde a la varianza sigma^2 de la distribución binomial. -->
-- [ ] C) $mu = sqrt{n cdot p cdot (1-p)}$
+- [ ] C) $\mu = \sqrt{n \cdot p \cdot (1-p)}$
   <!-- feedback: Esta fórmula corresponde a la desviación estándar sigma de la distribución binomial. -->
-- [ ] D) $mu = \frac{p}{n}$
+- [ ] D) $\mu = \frac{p}{n}$
   <!-- feedback: Es una razón sin significado probabilístico en el modelo binomial. -->
 
 ### Explicacion Pedagogica
-Para una variable aleatoria binomial $X sim B(n,p)$, el valor esperado se calcula mediante la multiplicación del número de ensayos por la probabilidad de éxito en cada ensayo: $E[X] = n cdot p$.
+Para una variable aleatoria binomial $X sim B(n,p)$, el valor esperado se calcula mediante la multiplicación del número de ensayos por la probabilidad de éxito en cada ensayo: $E[X] = n \cdot p$.
 
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v5
@@ -161,17 +161,17 @@ El valor esperado de la ganancia neta es $E[X] = (95,000)(0.02) + (-5,000)(0.98)
 
 ### Explicacion Pedagogica
 Usando la fórmula binomial $P(X=k) = \binom{n}{k} p^k (1-p)^{n-k}$ con $n=5, k=4, p=0.5$:
-$P(X=4) = 5 cdot (0.5)^4 cdot (0.5)^1 = \frac{5}{32}$.
+$P(X=4) = 5 \cdot (0.5)^4 \cdot (0.5)^1 = \frac{5}{32}$.
 
 ## Question 7 [D5-D6]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **ICFES:** Aleatorio
 **Expected_Success:** 0.75
-**Contexto:** Los puntajes de un simulacro PreICFES en Barranquilla siguen una distribución normal con media $mu = 300$ y desviación estándar $sigma = 40$.
+**Contexto:** Los puntajes de un simulacro PreICFES en Barranquilla siguen una distribución normal con media $\mu = 300$ y desviación estándar $\sigma = 40$.
 
 ### Enunciado
-¿Qué porcentaje aproximado de estudiantes obtuvo un puntaje entre 220 y 380 ($mu pm 2sigma$)?
+¿Qué porcentaje aproximado de estudiantes obtuvo un puntaje entre 220 y 380 ($mu \pm 2\sigma$)?
 
 ### Opciones
 - [x] A) 95%
@@ -194,7 +194,7 @@ El intervalo $[300 - 2(40), 300 + 2(40)] = [220, 380]$ representa 2 desviaciones
 **Contexto:** En una distribución binomial con $n = 100$ ensayos y probabilidad de éxito $p = 0.2$.
 
 ### Enunciado
-¿Cuál es la desviación estándar $sigma$ de esta distribución?
+¿Cuál es la desviación estándar $\sigma$ de esta distribución?
 
 ### Opciones
 - [x] A) 4
@@ -207,7 +207,7 @@ El intervalo $[300 - 2(40), 300 + 2(40)] = [220, 380]$ representa 2 desviaciones
   <!-- feedback: Se dividió 4 entre 2 sin justificación probabilística. -->
 
 ### Explicacion Pedagogica
-La varianza binomial es $sigma^2 = n p (1-p) = 100(0.2)(0.8) = 16$. Por ende, la desviación estándar es $sigma = sqrt{16} = 4$.
+La varianza binomial es $\sigma^2 = n p (1-p) = 100(0.2)(0.8) = 16$. Por ende, la desviación estándar es $\sigma = \sqrt{16} = 4$.
 
 ## Question 9 [D5-D6]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v9
@@ -261,7 +261,7 @@ Al ser elecciones independientes, la probabilidad de que los 3 salgan sin imperf
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.65
-**Contexto:** Las estaturas de una población en Pereira se distribuyen normalmente con $mu = 170$ cm y $sigma = 10$ cm. Un estudiante tiene una estatura de 185 cm.
+**Contexto:** Las estaturas de una población en Pereira se distribuyen normalmente con $\mu = 170$ cm y $\sigma = 10$ cm. Un estudiante tiene una estatura de 185 cm.
 
 ### Enunciado
 ¿Cuál es la puntuación Z (puntaje estandarizado) correspondiente a la estatura de este estudiante?
@@ -307,7 +307,7 @@ La varianza se define computacionalmente como $Var(X) = E[X^2] - (E[X])^2$. Sust
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.60
-**Contexto:** En una distribución normal estándar $Z sim N(0,1)$, se sabe que $P(Z < 1) approx 0.8413$.
+**Contexto:** En una distribución normal estándar $Z sim N(0,1)$, se sabe que $P(Z < 1) \approx 0.8413$.
 
 ### Enunciado
 ¿Cuál es la probabilidad de que $Z$ se encuentre entre -1 y 1 ($P(-1 < Z < 1)$)?
@@ -354,7 +354,7 @@ ight)^4 = 1 - \frac{81}{256} = \frac{175}{256}$.
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.60
-**Contexto:** La duración en horas de un componente electrónico fabricado en Manizales tiene distribución normal con $mu = 1000$ h y $sigma = 100$ h.
+**Contexto:** La duración en horas de un componente electrónico fabricado en Manizales tiene distribución normal con $\mu = 1000$ h y $\sigma = 100$ h.
 
 ### Enunciado
 ¿Cuál es el porcentaje de componentes que se espera que duren MÁS de 1200 horas?
@@ -370,14 +370,14 @@ ight)^4 = 1 - \frac{81}{256} = \frac{175}{256}$.
   <!-- feedback: Corresponde a la probabilidad acumulada P(X < 1200) en lugar de la cola superior. -->
 
 ### Explicacion Pedagogica
-$Z = \frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) approx 95%$, el área en las colas fuera del intervalo es $100% - 95% = 5%$. Por simetría, la cola superior $P(Z > 2) = \frac{5%}{2} = 2.5%$.
+$Z = \frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) \approx 95%$, el área en las colas fuera del intervalo es $100\% - 95\% = 5\%$. Por simetría, la cola superior $P(Z > 2) = \frac{5\%}{2} = 2.5\%$.
 
 ## Question 16 [D7-D8]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.60
-**Contexto:** En una distribución de probabilidad discreta dada por $P(X = x) = k cdot x$ para $x in {1, 2, 3, 4}$.
+**Contexto:** En una distribución de probabilidad discreta dada por $P(X = x) = k \cdot x$ para $x in {1, 2, 3, 4}$.
 
 ### Enunciado
 ¿Cuál debe ser el valor constante de $k$ para que sea una función de probabilidad válida?
@@ -393,7 +393,7 @@ $Z = \frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) approx 95%$, el área
   <!-- feedback: Se asumió k=1 ignorando que la suma de probabilidades superaría ampliamente 1. -->
 
 ### Explicacion Pedagogica
-Condición de normalización: $sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 10k = 1 Rightarrow k = \frac{1}{10}$.
+Condición de normalización: $\sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 10k = 1 Rightarrow k = \frac{1}{10}$.
 
 ## Question 17 [D9-D10]
 **ID:** CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v17
@@ -423,7 +423,7 @@ $E[X] = 50(0.4) + 10(0.4) + (-30)(0.2) = 20 + 4 - 6 = 18$ millones COP. Como el 
 **Bloom:** Evaluate
 **ICFES:** Aleatorio
 **Expected_Success:** 0.50
-**Contexto:** El tiempo de atención en una taquilla de banco en Armenia se aproxima a una distribución normal con $mu = 6$ minutos y $sigma = 1.5$ minutos.
+**Contexto:** El tiempo de atención en una taquilla de banco en Armenia se aproxima a una distribución normal con $\mu = 6$ minutos y $\sigma = 1.5$ minutos.
 
 ### Enunciado
 Si un usuario es atendido en la taquilla, ¿cuál es la probabilidad de que su atención demore ENTRE 4.5 y 7.5 minutos?
@@ -446,7 +446,7 @@ Estandarizando la variable: $Z_1 = \frac{4.5 - 6}{1.5} = -1.0$ y $Z_2 = \frac{7.
 **Bloom:** Evaluate
 **ICFES:** Aleatorio
 **Expected_Success:** 0.45
-**Contexto:** Una variable aleatoria binomial $X$ tiene una media $mu = 12$ y una varianza $sigma^2 = 3$.
+**Contexto:** Una variable aleatoria binomial $X$ tiene una media $\mu = 12$ y una varianza $\sigma^2 = 3$.
 
 ### Enunciado
 ¿Cuáles son los valores del número de ensayos $n$ y la probabilidad de éxito $p$?
@@ -462,7 +462,7 @@ Estandarizando la variable: $Z_1 = \frac{4.5 - 6}{1.5} = -1.0$ y $Z_2 = \frac{7.
   <!-- feedback: Si n=20 y p=0.6, la media sería 12 pero la varianza sería 20*0.6*0.4 = 4.8. -->
 
 ### Explicacion Pedagogica
-Sustituyendo $mu = n p = 12$ en $sigma^2 = n p (1-p) = 3$:
+Sustituyendo $\mu = n p = 12$ en $\sigma^2 = n p (1-p) = 3$:
 $12(1-p) = 3 Rightarrow 1-p = \frac{3}{12} = 0.25 Rightarrow p = 0.75$.
 Por ende, $n = \frac{12}{0.75} = 16$.
 
@@ -474,7 +474,7 @@ Por ende, $n = \frac{12}{0.75} = 16$.
 **Contexto:** Se analiza el número de caras obtenidas al lanzar 4 monedas equilibradas. La variable aleatoria $X$ representa el número de caras.
 
 ### Enunciado
-¿Cuál es la varianza $sigma^2$ de la distribución de esta variable aleatoria $X$?
+¿Cuál es la varianza $\sigma^2$ de la distribución de esta variable aleatoria $X$?
 
 ### Opciones
 - [x] A) 1.0
@@ -487,4 +487,4 @@ Por ende, $n = \frac{12}{0.75} = 16$.
   <!-- feedback: Corresponde al número total de ensayos n. -->
 
 ### Explicacion Pedagogica
-Para la variable binomial $X sim B(4, 0.5)$, la varianza viene dada por $sigma^2 = n p q = 4(0.5)(0.5) = 1.0$.
+Para la variable binomial $X sim B(4, 0.5)$, la varianza viene dada por $\sigma^2 = n p q = 4(0.5)(0.5) = 1.0$.

@@ -22,7 +22,7 @@
           "letter": "B",
           "text": "Enlace covalente apolar.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ocurre cuando $Delta EN approx 0$."
+          "feedback": "Incorrecto. Ocurre cuando $\\Delta EN \\approx 0$."
         },
         {
           "letter": "C",
@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Una alta diferencia de electronegatividad ($Delta EN > 1.7$) favorece la transferencia de electrones y la formación de un enlace iónico.",
+      "explanation": "Una alta diferencia de electronegatividad ($\\Delta EN > 1.7$) favorece la transferencia de electrones y la formación de un enlace iónico.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -176,7 +176,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Con 4 pares de electrones enlazantes sin pares libres, la geometría óptima por VSEPR es tetraédrica ($109.5^circ$).",
+      "explanation": "Con 4 pares de electrones enlazantes sin pares libres, la geometría óptima por VSEPR es tetraédrica ($109.5^\\circ$).",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -522,7 +522,7 @@
           "letter": "A",
           "text": "La presencia de dos electrones desapareados en los orbitales antienlazantes degénerados $\\pi^*_{2p}$.",
           "is_correct": true,
-          "feedback": "Correcto. La regla de Hund llena orbitales $pi^*_{2p}$ con dos electrones desapariados, explicando el paramagnetismo."
+          "feedback": "Correcto. La regla de Hund llena orbitales $\\pi^*_{2p}$ con dos electrones desapariados, explicando el paramagnetismo."
         },
         {
           "letter": "B",
@@ -540,11 +540,11 @@
           "letter": "D",
           "text": "La ruptura espontánea del enlace sigma.",
           "is_correct": false,
-          "feedback": "Incorrecto. El enlace $sigma_{2p}$ permanece totalmente ocupado."
+          "feedback": "Incorrecto. El enlace $\\sigma_{2p}$ permanece totalmente ocupado."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La TOM demuestra que el $O_2$ posee 2 electrones desapariados en los orbitales $pi^*_{2p}$, originando su paramagnetismo.",
+      "explanation": "La TOM demuestra que el $O_2$ posee 2 electrones desapariados en los orbitales $\\pi^*_{2p}$, originando su paramagnetismo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -820,7 +820,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La atracción electrostática es directamente proporcional al producto de las cargas $q_1 cdot q_2$. Para $Mg^{2+}O^{2-}$ es $2 \times 2 = 4$, frente a $1 \times 1 = 1$ de $Na^+F^-$.",
+      "explanation": "La atracción electrostática es directamente proporcional al producto de las cargas $q_1 \\cdot q_2$. Para $Mg^{2+}O^{2-}$ es $2 \\times 2 = 4$, frente a $1 \\times 1 = 1$ de $Na^+F^-$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -844,7 +844,7 @@
           "letter": "A",
           "text": "Se fortalecen significativamente porque la menor constante dieléctrica reduce el blindaje del solvente entre las cargas.",
           "is_correct": true,
-          "feedback": "Correcto. La fuerza de Coulomb $F = \\frac{q_1 q_2}{4\\pi \\epsilon r^2}$ aumenta al disminuir $epsilon$, intensificando la atracción entre cargas opuestas."
+          "feedback": "Correcto. La fuerza de Coulomb $F = \\frac{q_1 q_2}{4\\pi \\epsilon r^2}$ aumenta al disminuir $\\epsilon$, intensificando la atracción entre cargas opuestas."
         },
         {
           "letter": "B",
@@ -866,7 +866,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Según la ley de Coulomb en medios continuos, $F propto 1/epsilon$. Un solvente con menor $epsilon$ incrementa las interacciones electrostáticas.",
+      "explanation": "Según la ley de Coulomb en medios continuos, $F propto 1/\\epsilon$. Un solvente con menor $\\epsilon$ incrementa las interacciones electrostáticas.",
       "difficulty": "10",
       "images": [],
       "tags": [],

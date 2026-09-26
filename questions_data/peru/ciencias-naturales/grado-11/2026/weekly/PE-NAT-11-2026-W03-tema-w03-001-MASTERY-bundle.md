@@ -152,7 +152,7 @@ AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma.
 **Contexto:** Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.
 
 ### Enunciado
-Si se cruzan dos plantas heterocigotas para la altura ($Tt 	imes Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?
+Si se cruzan dos plantas heterocigotas para la altura ($Tt \times Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?
 
 ### Opciones
 - [x] A) 25% (1/4)
@@ -402,7 +402,7 @@ AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma.
 **Contexto:** Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.
 
 ### Enunciado
-Si se cruzan dos plantas heterocigotas para la altura ($Tt 	imes Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?
+Si se cruzan dos plantas heterocigotas para la altura ($Tt \times Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?
 
 ### Opciones
 - [x] A) 25% (1/4)

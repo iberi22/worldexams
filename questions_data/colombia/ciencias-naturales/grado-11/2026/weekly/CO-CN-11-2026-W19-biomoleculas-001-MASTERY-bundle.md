@@ -152,7 +152,7 @@ Los codos generados por insaturaciones *cis* reducen el empaquetamiento hidrocar
 - [x] A) Puentes de hidrógeno entre las bases nitrogenadas complementarias (A=T y C$equiv$G).
   <!-- feedback: Correcto. El calor altera las interacciones débiles por puentes de H entre bases sin romper los enlaces fosfodiéster. -->
 - [ ] B) Enlaces fosfodiéster del esqueleto azúcar-fosfato.
-  <!-- feedback: Incorrecto. Los enlaces fosfodiéster son covalentes fuertes y resisten $95^circ	ext{C}$ brevemente. -->
+  <!-- feedback: Incorrecto. Los enlaces fosfodiéster son covalentes fuertes y resisten $95^\circ\text{C}$ brevemente. -->
 - [ ] C) Enlaces glucosídicos N-C con la desoxirribosa.
   <!-- feedback: Incorrecto. La base permanece unida covalentemente a su desoxirribosa. -->
 - [ ] D) Enlaces metálicos de los iones magnesio.
@@ -450,7 +450,7 @@ Los ácidos grasos poliinsaturados en las LDL son atacados por radicales libres 
 ### Opciones
 - [x] A) Sintetizar ADN complementario (cADN) utilizando la enzima transcriptasa inversa (retrotranscriptasa).
   <!-- feedback: Correcto. La Taq polimerasa requiere una plantilla de ADN; la transcriptasa inversa convierte el ARN viral en cADN. -->
-- [ ] B) Incinerar la muestra a $500^circ	ext{C}$ para purificar el ARN.
+- [ ] B) Incinerar la muestra a $500^\circ\text{C}$ para purificar el ARN.
   <!-- feedback: Incorrecto. La incineración destruiría todas las biomoléculas. -->
 - [ ] C) Adicionar insulina recombinante para duplicar los virus.
   <!-- feedback: Incorrecto. La insulina es una hormona metabólica sin rol en la qPCR. -->
