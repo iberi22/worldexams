@@ -174,10 +174,24 @@
     </defs>
 
     <!-- Canvas de fondo -->
-    <rect width="800" height="450" fill={escena?.fondo || '#FDF6EC'} rx="12" />
+    <rect width="800" height="450" fill="#FDF6EC" rx="12" />
+
+    <!--
+      Cada plano (fondo/medio/frente) admite dos fuentes de contenido, no
+      mutuamente excluyentes: piezas procedurales (<use> sobre la
+      biblioteca de <defs>) y/o una escena pre-dibujada completa (un SVG
+      propio del cuento, referenciado por URL en `escena.{plano}` y
+      embebido con <image>). Antes `escena?.{plano}` se pasaba como
+      `fill` del <g> — un string de URL no es un paint value válido, así
+      que los 9 cuentos "planos" (todo salvo el piloto de capas) nunca
+      mostraban su ilustración: el grupo quedaba vacío y sin pintar.
+    -->
 
     <!-- Plano 1: Fondo -->
-    <g id="plano-fondo" fill={escena?.fondo}>
+    <g id="plano-fondo">
+      {#if escena?.fondo}
+        <image href={escena.fondo} x="0" y="0" width="800" height="450" preserveAspectRatio="xMidYMid slice" />
+      {/if}
       {#each piezasFondo as p (p.id || `${p.tipo}-${p.x}-${p.y}`)}
         <g
           transform={getTransform(p)}
@@ -190,7 +204,10 @@
     </g>
 
     <!-- Plano 2: Medio (por defecto) -->
-    <g id="plano-medio" fill={escena?.medio}>
+    <g id="plano-medio">
+      {#if escena?.medio}
+        <image href={escena.medio} x="0" y="0" width="800" height="450" preserveAspectRatio="xMidYMid slice" />
+      {/if}
       {#each piezasMedio as p (p.id || `${p.tipo}-${p.x}-${p.y}`)}
         <g
           transform={getTransform(p)}
@@ -202,8 +219,11 @@
       {/each}
     </g>
 
-    <!-- Plano 3: Frente -->
-    <g id="plano-frente" fill={escena?.frente}>
+    <!-- Plano 3: Frente (el único que usan hoy los 9 cuentos "planos": una escena completa por página) -->
+    <g id="plano-frente">
+      {#if escena?.frente}
+        <image href={escena.frente} x="0" y="0" width="800" height="450" preserveAspectRatio="xMidYMid slice" />
+      {/if}
       {#each piezasFrente as p (p.id || `${p.tipo}-${p.x}-${p.y}`)}
         <g
           transform={getTransform(p)}

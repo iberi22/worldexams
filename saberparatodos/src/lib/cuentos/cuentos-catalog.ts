@@ -263,15 +263,31 @@ function withPublicEscenas<
   };
 }
 
+/**
+ * Gate de publicación: solo estos cuentos aparecen en /cuentos, /pequenos
+ * y sus rutas de lectura (getStaticPaths() de [slug]/leer/ y [slug].astro
+ * se construyen a partir de este catálogo, así que filtrar aquí basta —
+ * las rutas de los demás ni siquiera se generan, no es solo "ocultar de
+ * un listado").
+ *
+ * "Listo" hoy = tiene el motor de capas 2.5D + hotspots táctiles + idle +
+ * zoom (el tratamiento de tana-tucan-comparte). Los otros 9 cuentos tienen
+ * contenido y lector funcionales (arte estático, quiz, audio) pero no ese
+ * nivel de interacción — se van agregando a esta lista según se les aplique
+ * el mismo tratamiento. Ver docs/SWAL o memoria de Xavier
+ * (namespace app/worldexams) para el plan de las 9 restantes.
+ */
+const CUENTOS_LISTOS = new Set(['tana-tucan-comparte']);
+
 export async function getAllCuentosCatalog(): Promise<CuentoSummary[]> {
   // 1. Check if public/v1/cuentos index.json pack is present
   const indexPackKey = Object.keys(rawCuentoJsonPacks).find((k) => k.endsWith('index.json'));
   if (indexPackKey && rawCuentoJsonPacks[indexPackKey]) {
     const data = rawCuentoJsonPacks[indexPackKey];
     if (Array.isArray(data)) {
-      return (data as CuentoSummary[]).map((s) =>
-        withPublicEscenas({ ...s, paginasList: [] }),
-      ) as CuentoSummary[];
+      return (data as CuentoSummary[])
+        .filter((s) => CUENTOS_LISTOS.has(s.slug))
+        .map((s) => withPublicEscenas({ ...s, paginasList: [] })) as CuentoSummary[];
     }
   }
 
@@ -282,7 +298,7 @@ export async function getAllCuentosCatalog(): Promise<CuentoSummary[]> {
     if (typeof rawContent === 'string' && rawContent.trim()) {
       try {
         const detail = parseCuentoMarkdown(rawContent);
-        if (detail.slug) {
+        if (detail.slug && CUENTOS_LISTOS.has(detail.slug)) {
           const { paginasList, quiz, ...summary } = withPublicEscenas(detail);
           results.push(summary);
         }
