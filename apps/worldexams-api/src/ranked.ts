@@ -4,13 +4,17 @@ import {
   getCountryPackPrefixes,
   getSubjectPackAliases,
   normalizePackQuestion,
+  getPackManifest,
+  loadPackQuestions,
+  resolveWeekPackNames,
+  __resetPackCaches,
 } from "./index";
 
 const MIN_ANSWERED = 31;
 const MIN_SECONDS_PER_ANSWER = 4;
-// Per-isolate cache of validated area pools (packs are static between deploys).
-const POOL_CACHE_TTL_MS = 10 * 60 * 1000;
-const poolCache = new Map<string, { at: number; questions: any[] }>();
+// Ranked sampling budget: packs loaded per area (each is one subrequest).
+const RANKED_PACKS_PER_AREA = 3;
+const RANKED_MIN_POOL_PER_AREA = 24;
 
 const PLACEHOLDER_RE = /Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta/i;
 const RANKED_SESSION_TTL_S = 90 * 60; // 90 min
@@ -41,7 +45,7 @@ async function sha256(message: string) {
 
 /** Test helper: clears the per-isolate pool cache. */
 export function __clearRankedPoolCache() {
-  poolCache.clear();
+  __resetPackCaches();
 }
 
 export async function routeRanked(
@@ -261,53 +265,34 @@ export async function routeRanked(
     let allCandidates: any[] = [];
     const areaPools: Record<string, any[]> = {};
 
+    // Manifest-based sampling: pick a few random weeks per area and load only those
+    // packs (every asset read is a subrequest; loading all 40 weeks × 5 areas
+    // exceeded the Workers subrequest limit and left areas empty in production).
+    const manifest = await getPackManifest(env, url.origin);
     const weeks = Array.from({ length: 40 }, (_, i) => i + 1);
 
     for (const area of areas) {
       areaPools[area] = [];
       const aliases = getSubjectPackAliases(area);
       const prefixes = getCountryPackPrefixes(country);
+      const weekPacks = weeks
+        .map((week) => resolveWeekPackNames(manifest, prefixes, aliases, grade, week)[0])
+        .filter((name): name is string => Boolean(name) && (!manifest || manifest.has(name)));
+      shuffle(weekPacks, prng);
 
-      const cacheKey = `${country}|${grade}|${area}`;
-      const cached = poolCache.get(cacheKey);
-      if (cached && Date.now() - cached.at < POOL_CACHE_TTL_MS) {
-        areaPools[area] = [...cached.questions];
-        shuffle(areaPools[area], prng);
-        continue;
-      }
       const seenIds = new Set<string>();
-      for (const week of weeks) {
-        // Alias packs (ing/english/ingles, ...) are byte-identical copies: take the
-        // FIRST existing pack per week (canonical alias + ISO prefix first).
-        const weekCandidates: string[] = [];
-        for (const subjectAlias of aliases) {
-          for (const prefix of prefixes) {
-            weekCandidates.push(`/v1/packs/${prefix}-week-${week}-grade-${grade}-subject-${subjectAlias}.json`);
-          }
+      for (const name of weekPacks.slice(0, RANKED_PACKS_PER_AREA)) {
+        for (const q of await loadPackQuestions(env, url.origin, name)) {
+          const id = String(q?.id || "");
+          if (!id || seenIds.has(id)) continue;
+          const correctCount = (q.options || []).filter((o: any) => o?.is_correct).length;
+          const text = `${q.statement || ""} ${q.explanation || ""}`;
+          if ((q.options || []).length !== 4 || correctCount !== 1 || PLACEHOLDER_RE.test(text)) continue;
+          seenIds.add(id);
+          areaPools[area].push({ ...q, subject: area });
         }
-        for (const path of weekCandidates) {
-          try {
-            const res = await env.ASSETS.fetch(new Request(new URL(path, request.url).toString(), { method: "GET" }));
-            if (!res.ok) continue;
-            const pack = await res.json<any>();
-            if (!Array.isArray(pack?.questions) || pack.questions.length === 0) continue;
-            for (const q of pack.questions) {
-              const id = String(q?.id || "");
-              if (!id || seenIds.has(id)) continue;
-              const correctCount = (q.options || []).filter((o: any) => o?.is_correct).length;
-              const text = `${q.statement || ""} ${q.explanation || ""}`;
-              if ((q.options || []).length !== 4 || correctCount !== 1 || PLACEHOLDER_RE.test(text)) continue;
-              seenIds.add(id);
-              areaPools[area].push({ ...q, subject: area });
-            }
-            break;
-          } catch {
-            continue;
-          }
-        }
+        if (areaPools[area].length >= RANKED_MIN_POOL_PER_AREA) break;
       }
-
-      poolCache.set(cacheKey, { at: Date.now(), questions: [...areaPools[area]] });
       shuffle(areaPools[area], prng);
     }
 
@@ -393,7 +378,8 @@ export async function routeRanked(
       {
         sessionId,
         seed,
-        expiresAt,
+        // ISO-8601 string (the client contract); DB keeps unix seconds.
+        expiresAt: new Date(expiresAt * 1000).toISOString(),
         questions: clientQuestions,
         meta: { area_counts: areaCounts },
       },

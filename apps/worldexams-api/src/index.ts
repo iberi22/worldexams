@@ -170,6 +170,78 @@ export function getSubjectPackAliases(subject: string) {
   return [normalized]
 }
 
+// ---------------------------------------------------------------------------
+// Pack resolution via manifest.
+// Every env.ASSETS.fetch counts as a subrequest; probing alias × prefix × week
+// combinations hit the Workers subrequest limit and silently truncated period
+// pools in production (2026-09-26). The manifest (public/v1/packs/_manifest.json,
+// built by scripts/build-pack-manifest.mjs) lists existing packs, so the worker
+// reads it once per isolate and only fetches packs that exist.
+// ---------------------------------------------------------------------------
+const PACK_CACHE_TTL_MS = 10 * 60 * 1000
+const PACK_CACHE_MAX = 300
+let packManifestCache: { at: number; files: Set<string> } | null = null
+const packCache = new Map<string, { at: number; questions: any[] }>()
+
+export async function getPackManifest(env: Env, origin: string): Promise<Set<string> | null> {
+  if (packManifestCache && Date.now() - packManifestCache.at < PACK_CACHE_TTL_MS) return packManifestCache.files
+  try {
+    const res = await env.ASSETS.fetch(new Request(new URL("/v1/packs/_manifest.json", origin).toString(), { method: "GET" }))
+    if (!res.ok) return null
+    const data = await res.json<any>()
+    if (!Array.isArray(data?.files)) return null
+    packManifestCache = { at: Date.now(), files: new Set<string>(data.files) }
+    return packManifestCache.files
+  } catch {
+    return null
+  }
+}
+
+/** Loads a pack's questions (per-isolate cache). Returns [] when missing. */
+export async function loadPackQuestions(env: Env, origin: string, name: string): Promise<any[]> {
+  const cached = packCache.get(name)
+  if (cached && Date.now() - cached.at < PACK_CACHE_TTL_MS) return cached.questions
+  try {
+    const res = await env.ASSETS.fetch(new Request(new URL(`/v1/packs/${name}.json`, origin).toString(), { method: "GET" }))
+    if (!res.ok) return []
+    const pack = await res.json<any>()
+    const questions = Array.isArray(pack?.questions) ? pack.questions : []
+    if (packCache.size >= PACK_CACHE_MAX) packCache.delete(packCache.keys().next().value as string)
+    packCache.set(name, { at: Date.now(), questions })
+    return questions
+  } catch {
+    return []
+  }
+}
+
+/**
+ * First existing pack name for (country, grade, subject, week), by priority:
+ * canonical subject alias first, ISO prefix first, then the unprefixed legacy name.
+ * Without a manifest, returns every candidate (legacy probing behaviour).
+ */
+export function resolveWeekPackNames(
+  manifest: Set<string> | null,
+  countryPrefixes: string[],
+  subjectAliases: string[],
+  grade: string | number,
+  week: number,
+): string[] {
+  const names: string[] = []
+  for (const alias of subjectAliases) {
+    for (const prefix of countryPrefixes) names.push(`${prefix}-week-${week}-grade-${grade}-subject-${alias}`)
+    names.push(`week-${week}-grade-${grade}-subject-${alias}`)
+  }
+  if (!manifest) return names
+  const hit = names.find((n) => manifest.has(n))
+  return hit ? [hit] : []
+}
+
+/** Test helper. */
+export function __resetPackCaches() {
+  packManifestCache = null
+  packCache.clear()
+}
+
 function getCurrentWeek() {
   const elapsed = Math.max(0, Date.now() - ANCHOR_DATE_MS)
   const week = Math.ceil(elapsed / ONE_WEEK_MS)
@@ -330,38 +402,19 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     weekCandidates = Array.from(new Set([...periodWeeks, getCurrentWeek(), 1]))
   }
 
-  const candidates: string[] = []
-  for (const week of weekCandidates) {
-    for (const subjectAlias of subjectAliases) {
-      for (const prefix of countryPrefixes) {
-        candidates.push(`/v1/packs/${prefix}-week-${week}-grade-${grade}-subject-${subjectAlias}.json`)
-      }
-      candidates.push(`/v1/packs/week-${week}-grade-${grade}-subject-${subjectAlias}.json`)
-    }
-  }
-
+  const manifest = await getPackManifest(env, url.origin)
   const fetchedQuestions: any[] = []
   const loadedPaths: string[] = []
 
-  for (const path of candidates) {
-    try {
-      const assetResponse = await env.ASSETS.fetch(new Request(new URL(path, url.origin).toString(), {
-        method: "GET",
-        headers: request.headers,
-      }))
-      if (!assetResponse.ok) continue
-
-      const pack = await assetResponse.json<any>()
-      const packQuestions = Array.isArray(pack?.questions) ? pack.questions : []
-      if (packQuestions.length > 0) {
-        fetchedQuestions.push(...packQuestions)
-        loadedPaths.push(path)
-        if (!period) {
-          break
-        }
-      }
-    } catch {
-      continue
+  weekLoop: for (const week of weekCandidates) {
+    // One pack per week: alias packs are identical copies of the canonical one.
+    for (const name of resolveWeekPackNames(manifest, countryPrefixes, subjectAliases, grade, week)) {
+      const packQuestions = await loadPackQuestions(env, url.origin, name)
+      if (packQuestions.length === 0) continue
+      fetchedQuestions.push(...packQuestions)
+      loadedPaths.push(`/v1/packs/${name}.json`)
+      if (!period) break weekLoop
+      break
     }
   }
 
