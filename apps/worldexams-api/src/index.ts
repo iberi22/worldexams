@@ -16,6 +16,8 @@ const ALLOWED_ORIGINS = [
   "https://api.saberparatodos.space",
   "https://worldexams.com",
   "https://www.worldexams.com",
+  "https://worldexam.swal.network",
+  "https://www.worldexam.swal.network",
   "http://localhost:4321",
   "http://127.0.0.1:4321",
 ]
@@ -64,8 +66,16 @@ function buildUpstreamUrl(env: Env, requestUrl: URL, upstreamPath: string) {
 const ANCHOR_DATE_MS = Date.parse("2025-01-01T00:00:00Z")
 const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000
 
+const SUBJECT_PACK_ALIASES: Record<string, string[]> = {
+  matematicas: ["matematicas", "matematica"],
+  lectura_critica: ["lectura_critica", "lengua", "lenguaje", "espanol"],
+  sociales_ciudadanas: ["sociales_ciudadanas", "sociales_y_ciudadanas", "sociales"],
+  ciencias_naturales: ["ciencias_naturales", "ciencias"],
+  ingles: ["ingles", "english", "ing"],
+}
+
 function normalizeSubjectKey(subject: string) {
-  const normalized = String(subject || "")
+  let normalized = String(subject || "")
     .trim()
     .toLowerCase()
     .normalize("NFD")
@@ -74,71 +84,69 @@ function normalizeSubjectKey(subject: string) {
     .replace(/[^a-z0-9_]/g, "")
     .replace(/^_+|_+$/g, "")
 
-  const aliasMap: Record<string, string> = {
-    socialesyciudadanas: "sociales_y_ciudadanas",
-    sociales_ciudadanas: "sociales_y_ciudadanas",
-    sociales_y_ciudadanas: "sociales_y_ciudadanas",
-    sociales: "sociales",
-    cienciasnaturales: "ciencias_naturales",
-    ciencias_naturales: "ciencias_naturales",
-    ciencias: "ciencias_naturales",
-    lectura_critica: "lectura_critica",
-    lecturacritica: "lectura_critica",
-    lenguaje: "lectura_critica",
-    tecnologiaeinformatica: "tecnologia_informatica",
-    tecnologiainformatica: "tecnologia_informatica",
-    english: "ingles",
-    matematica: "matematicas",
+  if (normalized === "tecnologiaeinformatica" || normalized === "tecnologiainformatica") {
+    return "tecnologia_informatica"
   }
 
-  return aliasMap[normalized] || normalized
+  // Handle some common missing underscores from legacy code
+  if (normalized === "socialesyciudadanas") normalized = "sociales_y_ciudadanas"
+  if (normalized === "cienciasnaturales") normalized = "ciencias_naturales"
+  if (normalized === "lecturacritica") normalized = "lectura_critica"
+
+  for (const [canonical, aliases] of Object.entries(SUBJECT_PACK_ALIASES)) {
+    if (aliases.includes(normalized) || canonical === normalized) {
+      return canonical
+    }
+  }
+
+  return normalized
 }
 
 function getCountryPackPrefixes(country: string) {
   const normalized = String(country || "").trim().toLowerCase()
   const aliases: Record<string, string[]> = {
-    co: ["co"],
-    colombia: ["co"],
-    mx: ["mx"],
-    mexico: ["mx"],
-    ar: ["ar"],
-    argentina: ["ar"],
-    br: ["br"],
-    brasil: ["br"],
-    brazil: ["br"],
-    cl: ["cl"],
+    co: ["co", "colombia"],
+    colombia: ["co", "colombia"],
+    mx: ["mx", "mexico"],
+    mexico: ["mx", "mexico"],
+    ar: ["ar", "argentina"],
+    argentina: ["ar", "argentina"],
+    br: ["br", "brasil", "brazil"],
+    brasil: ["br", "brasil", "brazil"],
+    brazil: ["br", "brasil", "brazil"],
+    cl: ["cl", "chile"],
     chile: ["cl", "chile"],
     pe: ["pe", "peru"],
     peru: ["pe", "peru"],
-    ec: ["ec"],
-    ecuador: ["ec"],
-    pa: ["panama"],
-    panama: ["panama"],
-    cr: ["costa-rica"],
-    "costa-rica": ["costa-rica"],
-    gt: ["guatemala"],
-    guatemala: ["guatemala"],
-    do: ["dominican_republic"],
-    "dominican-republic": ["dominican_republic"],
-    dominican_republic: ["dominican_republic"],
-    sv: ["el-salvador"],
-    "el-salvador": ["el-salvador"],
-    hn: ["honduras"],
-    honduras: ["honduras"],
-    ni: ["nicaragua"],
-    nicaragua: ["nicaragua"],
-    es: ["spain"],
-    spain: ["spain"],
-    pr: ["puerto-rico"],
-    "puerto-rico": ["puerto-rico"],
-    gq: ["guinea-ecuatorial"],
-    "guinea-ecuatorial": ["guinea-ecuatorial"],
-    uy: ["uruguay"],
-    uruguay: ["uruguay"],
-    py: ["paraguay"],
-    paraguay: ["paraguay"],
-    bo: ["bolivia"],
-    bolivia: ["bolivia"],
+    ec: ["ec", "ecuador"],
+    ecuador: ["ec", "ecuador"],
+    pa: ["pa", "panama"],
+    panama: ["pa", "panama"],
+    cr: ["cr", "costa-rica"],
+    "costa-rica": ["cr", "costa-rica"],
+    gt: ["gt", "guatemala"],
+    guatemala: ["gt", "guatemala"],
+    do: ["do", "dominican_republic", "dominican-republic"],
+    "dominican-republic": ["do", "dominican_republic", "dominican-republic"],
+    dominican_republic: ["do", "dominican_republic", "dominican-republic"],
+    sv: ["sv", "el-salvador"],
+    "el-salvador": ["sv", "el-salvador"],
+    hn: ["hn", "honduras"],
+    honduras: ["hn", "honduras"],
+    ni: ["ni", "nicaragua"],
+    nicaragua: ["ni", "nicaragua"],
+    es: ["es", "spain"],
+    spain: ["es", "spain"],
+    pr: ["pr", "puerto-rico"],
+    "puerto-rico": ["pr", "puerto-rico"],
+    gq: ["gq", "guinea-ecuatorial"],
+    "guinea-ecuatorial": ["gq", "guinea-ecuatorial"],
+    uy: ["uy", "uruguay"],
+    uruguay: ["uy", "uruguay"],
+    py: ["py", "paraguay"],
+    paraguay: ["py", "paraguay"],
+    bo: ["bo", "bolivia"],
+    bolivia: ["bo", "bolivia"],
   }
 
   return aliases[normalized] || (normalized ? [normalized] : [])
@@ -146,23 +154,13 @@ function getCountryPackPrefixes(country: string) {
 
 function getSubjectPackAliases(subject: string) {
   const normalized = normalizeSubjectKey(subject)
-  const aliases = new Set([normalized])
 
-  if (normalized === "matematicas") {
-    aliases.add("matematica")
-  }
-  if (normalized === "matematica") {
-    aliases.add("matematicas")
-  }
-  if (normalized === "lectura_critica") {
-    aliases.add("lengua")
-    aliases.add("lenguaje")
-  }
-  if (normalized === "lengua" || normalized === "lenguaje") {
-    aliases.add("lectura_critica")
+  if (SUBJECT_PACK_ALIASES[normalized]) {
+    // Return canonical first, then unique aliases
+    return Array.from(new Set([normalized, ...SUBJECT_PACK_ALIASES[normalized]]))
   }
 
-  return Array.from(aliases).filter(Boolean)
+  return [normalized]
 }
 
 function getCurrentWeek() {
@@ -297,7 +295,8 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const exam = (url.searchParams.get("exam") || "icfes").toLowerCase()
   const subject = normalizeSubjectKey(url.searchParams.get("subject") || "matematicas")
   const page = Math.max(1, parseInt(url.searchParams.get("page") || "1", 10) || 1)
-  const pageSize = 20
+  const limitParam = parseInt(url.searchParams.get("limit") || "20", 10)
+  const pageSize = isNaN(limitParam) ? 20 : Math.max(1, Math.min(20, limitParam))
   const periodRaw = url.searchParams.get("period")
   const period = periodRaw ? parseInt(periodRaw, 10) : undefined
 
@@ -353,8 +352,14 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   if (fetchedQuestions.length > 0) {
     const normalizedQuestions = fetchedQuestions.map(normalizePackQuestion)
     const deduped = dedupeQuestions(normalizedQuestions)
+
+    const total_available = deduped.questions.length
+    const total_pages = Math.ceil(total_available / pageSize)
+    const out_of_range = page > total_pages && total_pages > 0
+    const has_more = page < total_pages
+
     const startIndex = (page - 1) * pageSize
-    const questions = deduped.questions.slice(startIndex, startIndex + pageSize)
+    const questions = out_of_range ? [] : deduped.questions.slice(startIndex, startIndex + pageSize)
 
     return json({
       success: true,
@@ -368,11 +373,16 @@ async function fetchPublicQuestions(request: Request, env: Env) {
       page,
       meta: {
         available_questions: fetchedQuestions.length,
-        deduplicated_questions: deduped.questions.length,
+        deduplicated_questions: total_available,
         duplicate_filtered: deduped.duplicateCount,
         filtered_out: deduped.duplicateCount,
         source: "worker-assets",
         pack_path: loadedPaths.join(", "),
+        total_available,
+        page_size: pageSize,
+        total_pages,
+        has_more,
+        ...(out_of_range ? { out_of_range: true } : {}),
       },
     }, 200, {
       "Cache-Control": "public, max-age=3600, s-maxage=3600",
@@ -387,6 +397,13 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     exam,
     grade: parseInt(grade, 10),
     subject,
+    meta: {
+      total_available: 0,
+      page_size: pageSize,
+      total_pages: 0,
+      has_more: false,
+      out_of_range: true,
+    }
   }, 404, {}, request)
 }
 
