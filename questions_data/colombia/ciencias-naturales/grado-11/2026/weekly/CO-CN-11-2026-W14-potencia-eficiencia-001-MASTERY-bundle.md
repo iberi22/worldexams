@@ -91,7 +91,7 @@ La eficiencia energética es el porcentaje de energía o potencia suministrada q
   <!-- feedback: Incorrecto. La potencia es lineal con respecto a la fuerza y la velocidad. -->
 
 ### Explicacion Pedagogica
-Dado que $v = d/t$, la potencia mecánica puede expresarse como $P = F cdot v$.
+Dado que $v = d/t$, la potencia mecánica puede expresarse como $P = F \cdot v$.
 
 ## Question 4 [D3-D4]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v4
@@ -137,7 +137,7 @@ El teorema de Carnot demuestra que ninguna máquina térmica puede ser más efic
   <!-- feedback: Incorrecto. Usó un valor incorrecto de altura o gravedad. -->
 
 ### Explicacion Pedagogica
-$P = mgh / t = (500 	imes 9.8 	imes 12) / 10 = 5880 	ext{ W}$.
+$P = mgh / t = (500 \times 9.8 \times 12) / 10 = 5880 \text{ W}$.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v6
@@ -151,7 +151,7 @@ $P = mgh / t = (500 	imes 9.8 	imes 12) / 10 = 5880 	ext{ W}$.
 
 ### Opciones
 - [x] A) Eficiencia del 75% y disipa $2.5 \text{ kW}$.
-  <!-- feedback: Correcto. $eta = (7.5 / 10) 	imes 100% = 75%$. La potencia perdida es $10 - 7.5 = 2.5 	ext{ kW}$. -->
+  <!-- feedback: Correcto. $eta = (7.5 / 10) \times 100\% = 75\%$. La potencia perdida es $10 - 7.5 = 2.5 \text{ kW}$. -->
 - [ ] B) Eficiencia del 25% y disipa $7.5 \text{ kW}$.
   <!-- feedback: Incorrecto. Invirtió la potencia útil con la disipada. -->
 - [ ] C) Eficiencia del 100% sin disipación térmica.
@@ -160,7 +160,7 @@ $P = mgh / t = (500 	imes 9.8 	imes 12) / 10 = 5880 	ext{ W}$.
   <!-- feedback: Incorrecto. Error en la división $7.5 / 10$. -->
 
 ### Explicacion Pedagogica
-Rendimiento $eta = 7.5/10 = 75%$. Pérdida disipada $= 10 - 7.5 = 2.5 	ext{ kW}$.
+Rendimiento $eta = 7.5/10 = 75\%$. Pérdida disipada $= 10 - 7.5 = 2.5 \text{ kW}$.
 
 ## Question 7 [D5-D6]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v7
@@ -183,7 +183,7 @@ Rendimiento $eta = 7.5/10 = 75%$. Pérdida disipada $= 10 - 7.5 = 2.5 	ext{ kW}$
   <!-- feedback: Incorrecto. Agregó un cero adicional por error multiplicativo. -->
 
 ### Explicacion Pedagogica
-$P = F cdot v = 4000 	imes 15 = 60,000 	ext{ W} = 60 	ext{ kW}$.
+$P = F \cdot v = 4000 \times 15 = 60,000 \text{ W} = 60 \text{ kW}$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v8
@@ -206,7 +206,7 @@ $P = F cdot v = 4000 	imes 15 = 60,000 	ext{ W} = 60 	ext{ kW}$.
   <!-- feedback: Incorrecto. Opera con corriente eléctrica estándar. -->
 
 ### Explicacion Pedagogica
-El LED requiere $10 	ext{ W}$ para la misma luz que el incandescente de $60 	ext{ W}$, disipando mucho menos calor.
+El LED requiere $10 \text{ W}$ para la misma luz que el incandescente de $60 \text{ W}$, disipando mucho menos calor.
 
 ## Question 9 [D5-D6]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v9
@@ -229,7 +229,7 @@ El LED requiere $10 	ext{ W}$ para la misma luz que el incandescente de $60 	ext
   <!-- feedback: Incorrecto. Error en los factores de escala. -->
 
 ### Explicacion Pedagogica
-Potencia $= (m/t) cdot g cdot h = 50 	imes 10 	imes 20 = 10,000 	ext{ W} = 10 	ext{ kW}$.
+Potencia $= (m/t) \cdot g \cdot h = 50 \times 10 \times 20 = 10,000 \text{ W} = 10 \text{ kW}$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v10
@@ -252,7 +252,7 @@ Potencia $= (m/t) cdot g cdot h = 50 	imes 10 	imes 20 = 10,000 	ext{ W} = 10 	e
   <!-- feedback: Incorrecto. Error en la división $400 / 2000$. -->
 
 ### Explicacion Pedagogica
-Potencia recibida $= 2000 	ext{ W}$. Eficiencia $= 400 / 2000 = 0.20 = 20%$.
+Potencia recibida $= 2000 \text{ W}$. Eficiencia $= 400 / 2000 = 0.20 = 20\%$.
 
 ## Question 11 [D7-D8]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v11
@@ -273,10 +273,10 @@ e_{Carnot}$) que puede alcanzar esta máquina?
 - [ ] C) 88.1%.
   <!-- feedback: Incorrecto. Usó las temperaturas en grados Celsius ($27/227$) en lugar de la escala absoluta en Kelvin. -->
 - [ ] D) 100%.
-  <!-- feedback: Incorrecto. Para alcanzar 100% el sumidero frío debería estar al cero absoluto ($0 	ext{ K}$). -->
+  <!-- feedback: Incorrecto. Para alcanzar 100% el sumidero frío debería estar al cero absoluto ($0 \text{ K}$). -->
 
 ### Explicacion Pedagogica
-En el ciclo de Carnot $eta = 1 - T_C/T_H = 1 - 300/500 = 0.40 = 40%$. Las temperaturas deben estar obligatoriamente en Kelvin.
+En el ciclo de Carnot $eta = 1 - T_C/T_H = 1 - 300/500 = 0.40 = 40\%$. Las temperaturas deben estar obligatoriamente en Kelvin.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v12
@@ -299,7 +299,7 @@ En el ciclo de Carnot $eta = 1 - T_C/T_H = 1 - 300/500 = 0.40 = 40%$. Las temper
   <!-- feedback: Incorrecto. Errores en la relación entre trabajo útil y trabajo suministrado. -->
 
 ### Explicacion Pedagogica
-Trabajo útil $= 100 	ext{ J}$. Trabajo aplicado $= 150 	ext{ J}$. Eficiencia $= 100/150 = 66.7%$.
+Trabajo útil $= 100 \text{ J}$. Trabajo aplicado $= 150 \text{ J}$. Eficiencia $= 100/150 = 66.7\%$.
 
 ## Question 13 [D7-D8]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v13
@@ -322,7 +322,7 @@ Trabajo útil $= 100 	ext{ J}$. Trabajo aplicado $= 150 	ext{ J}$. Eficiencia $=
   <!-- feedback: Incorrecto. 60% es la fracción disipada como calor residual. -->
 
 ### Explicacion Pedagogica
-Motor A: Trabajo útil $= 100 - 60 = 40 	ext{ kJ} Rightarrow 40%$. Motor B: $25%$. El motor A es superior.
+Motor A: Trabajo útil $= 100 - 60 = 40 \text{ kJ} Rightarrow 40\%$. Motor B: $25%$. El motor A es superior.
 
 ## Question 14 [D7-D8]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v14
@@ -345,7 +345,7 @@ Motor A: Trabajo útil $= 100 - 60 = 40 	ext{ kJ} Rightarrow 40%$. Motor B: $25%
   <!-- feedback: Incorrecto. Asumió 100% de rendimiento en ambas etapas acopladas. -->
 
 ### Explicacion Pedagogica
-En sistemas en serie las eficiencias se multiplican: $eta_{total} = 0.90 	imes 0.95 = 0.855$. Potencia $= 50 	imes 0.855 = 42.75 	ext{ MW}$.
+En sistemas en serie las eficiencias se multiplican: $eta_{total} = 0.90 \times 0.95 = 0.855$. Potencia $= 50 \times 0.855 = 42.75 \text{ MW}$.
 
 ## Question 15 [D7-D8]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v15
@@ -368,7 +368,7 @@ En sistemas en serie las eficiencias se multiplican: $eta_{total} = 0.90 	imes 0
   <!-- feedback: Incorrecto. Multiplicó el peso del ciclista por el tiempo. -->
 
 ### Explicacion Pedagogica
-$W = P cdot t = 350 	ext{ W} 	imes 1200 	ext{ s} = 420,000 	ext{ J} = 420 	ext{ kJ}$.
+$W = P \cdot t = 350 \text{ W} \times 1200 \text{ s} = 420,000 \text{ J} = 420 \text{ kJ}$.
 
 ## Question 16 [D7-D8]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v16
@@ -391,7 +391,7 @@ $W = P cdot t = 350 	ext{ W} 	imes 1200 	ext{ s} = 420,000 	ext{ J} = 420 	ext{ 
   <!-- feedback: Incorrecto. Ninguna planta real opera al 100% del límite de Carnot. -->
 
 ### Explicacion Pedagogica
-$eta_{Carnot} = 38.05%$. La relación real/teórica $= 25 / 38.05 = 65.7%$.
+$eta_{Carnot} = 38.05\%$. La relación real/teórica $= 25 / 38.05 = 65.7\%$.
 
 ## Question 17 [D9-D10]
 **ID:** CO-CN-11-2026-W14-potencia-eficiencia-001-MASTERY-bundle-v17

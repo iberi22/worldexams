@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-22-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-26T21:58:41.016Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v1",
+      "statement": "¿Qué establece la Primera Ley de Newton (Principio de Inercia) sobre un cuerpo sobre el cual la fuerza neta resultante es cero?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 1.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Física\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permanece en reposo o continúa moviéndose en línea recta a velocidad constante.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin fuerza neta, no hay aceleración ($a = 0$), por lo que mantiene su estado de reposo o MRU."
+        },
+        {
+          "letter": "B",
+          "text": "Acelera progresivamente en la dirección del movimiento original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se requiere una fuerza neta no nula para generar aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "Se detiene inmediatamente debido a la falta de fuerza impulsora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un mito clásico Aristotélico; la inercia mantiene el movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Comienza a describir una trayectoria circular uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento circular requiere una fuerza centrípeta no nula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Primera Ley de Newton indica que todo cuerpo conserva su estado de reposo o de movimiento rectilíneo uniforme a menos que sea obligado a cambiar dicho estado por fuerzas netas ejercidas sobre él.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v2",
+      "statement": "Un bloque de $10\\text{ kg}$ se desliza sobre una superficie horizontal sin rozamiento en Córdoba impulsado por una fuerza horizontal neta de $30\\text{ N}$. ¿Cuál es su aceleración?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 2.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Física\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m/s².",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la Segunda Ley: $a = \\frac{F}{m} = \\frac{30\\text{ N}}{10\\text{ kg}} = 3\\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "300 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la fuerza por la masa."
+        },
+        {
+          "letter": "C",
+          "text": "0,3 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la masa por la fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "30 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir por la masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Segunda Ley de Newton ($F_{\\text{neta}} = m \\cdot a$) establece que la aceleración es directamente proporcional a la fuerza e inversamente proporcional a la masa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la diferencia fundamental entre el coeficiente de rozamiento estático ($\\mu_e$) y el dinámico ($\\mu_d$) para un mismo par de superficies?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 3.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Física\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "μ_e es generalmente mayor que μ_d, requiriendo más fuerza para iniciar el movimiento que para mantenerlo.",
+          "is_correct": true,
+          "feedback": "Correcto. La traba microscópica inicial es mayor que durante el deslizamiento."
+        },
+        {
+          "letter": "B",
+          "text": "μ_d es siempre mayor que μ_e debido a la velocidad del cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rozamiento dinámico es menor que el estático máximo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos coeficientes son exactamente iguales e independientes del estado de movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son cuantitativamente diferentes para las mismas superficies."
+        },
+        {
+          "letter": "D",
+          "text": "μ_e sólo depende de la velocidad inicial del objeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rozamiento estático depende de la fuerza aplicada antes del despegue."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El rozamiento estático impide el inicio del movimiento y su valor máximo suele ser superior al rozamiento dinámico que actúa durante el deslizamiento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v4",
+      "statement": "Una persona empuja una caja pesada sobre el piso pero la caja no se mueve. ¿Cómo se compara la fuerza de rozamiento estático con la fuerza ejercida por la persona?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 4.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Física\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es igual en módulo y de sentido contrario a la fuerza aplicada.",
+          "is_correct": true,
+          "feedback": "Correcto. Para mantener el equilibrio estático (fuerza neta cero), la fuerza de rozamiento se equipara a la fuerza aplicada."
+        },
+        {
+          "letter": "B",
+          "text": "Es mayor que la fuerza aplicada por la persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera mayor, la caja se movería hacia la persona."
+        },
+        {
+          "letter": "C",
+          "text": "Es igual a cero porque la caja no está en movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay fuerza de rozamiento estático opuesta al intento de deslizamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Es igual al peso total de la caja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso es vertical y la fuerza de empuje es horizontal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En reposo, la fuerza de rozamiento estático reacciona aumentando linealmente con la fuerza aplicada hasta alcanzar su valor límite $f_{e,\\text{máx}} = \\mu_e N$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v5",
+      "statement": "Un cuerpo de $5\\text{ kg}$ se apoya sobre una mesa horizontal. Si la fuerza normal ejercida por la mesa es de $50\\text{ N}$ ($g = 10\\text{ m/s}^2$) y $\\mu_d = 0,2$, ¿cuál es el módulo de la fuerza de rozamiento dinámico?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 5.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Física\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 N.",
+          "is_correct": true,
+          "feedback": "Correcto. $f_d = \\mu_d \\cdot N = 0,2 \\cdot 50\\text{ N} = 10\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "25 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la normal por 2."
+        },
+        {
+          "letter": "C",
+          "text": "100 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la normal por la masa."
+        },
+        {
+          "letter": "D",
+          "text": "2 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la normal por la masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza de rozamiento dinámico se calcula como el producto del coeficiente de rozamiento dinámico por la fuerza normal: $f_d = \\mu_d \\cdot N$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v6",
+      "statement": "Un ascensor de $500\\text{ kg}$ sube con una aceleración hacia arriba de $2\\text{ m/s}^2$. Tomando $g = 10\\text{ m/s}^2$, ¿cuál es la tensión del cable que sostiene el ascensor?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 6.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6000 N.",
+          "is_correct": true,
+          "feedback": "Correcto. $T - P = m \\cdot a \\Rightarrow T = m(g + a) = 500(10 + 2) = 6000\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "5000 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sería el peso en reposo."
+        },
+        {
+          "letter": "C",
+          "text": "4000 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó la aceleración en lugar de sumarla."
+        },
+        {
+          "letter": "D",
+          "text": "1000 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó sólo la fuerza neta sin sumar el peso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el ascensor acelera hacia arriba, la tensión debe vencer tanto a la fuerza de gravedad (peso) como proveer la aceleración neta: $T = m(g + a)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v7",
+      "statement": "Dos bloques A ($3\\text{ kg}$) y B ($2\\text{ kg}$) están en contacto sobre una mesa sin rozamiento. Se aplica una fuerza horizontal de $15\\text{ N}$ sobre A. ¿Cuál es la fuerza de contacto que A ejerce sobre B?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 7.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 N.",
+          "is_correct": true,
+          "feedback": "Correcto. Aceleración conjunta $a = \\frac{15}{3+2} = 3\\text{ m/s}^2$. La fuerza sobre B es $F_{AB} = m_B \\cdot a = 2 \\cdot 3 = 6\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "15 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fuerza total aplicada al sistema."
+        },
+        {
+          "letter": "C",
+          "text": "9 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fuerza neta requerida sólo para acelerar el bloque A."
+        },
+        {
+          "letter": "D",
+          "text": "3 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la fuerza por el número de bloques sin considerar las masas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se determina la aceleración del sistema combinado ($a = F / (m_A + m_B)$) y luego se aplica la segunda ley al bloque B para hallar la fuerza de contacto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v8",
+      "statement": "Un plano inclinado forma un ángulo $\\theta$ con la horizontal tal que $\\sin(\\theta) = 0,6$ y $\\cos(\\theta) = 0,8$. Sin rozamiento, ¿cuál es la aceleración de un bloque que desliza hacia abajo ($g = 10\\text{ m/s}^2$)?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 8.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 m/s².",
+          "is_correct": true,
+          "feedback": "Correcto. La componente paralela del peso es $P_x = m g \\sin(\\theta)$. Luego $a = g \\sin(\\theta) = 10 \\cdot 0,6 = 6\\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "8 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utilizó el coseno del ángulo."
+        },
+        {
+          "letter": "C",
+          "text": "10 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la aceleración en caída libre vertical."
+        },
+        {
+          "letter": "D",
+          "text": "4,8 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicaron seno y coseno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un plano inclinado sin rozamiento, la aceleración de bajada depende únicamente de la componente del peso paralela al plano: $a = g \\sin(\\theta)$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v9",
+      "statement": "Se tira de un bloque de $4\\text{ kg}$ con una cuerda formando un ángulo de $37^\\circ$ con la horizontal ($\\\\cos 37^\\circ = 0,8$). Si la tensión es de $20\\text{ N}$ y se mueve a velocidad constante, ¿cuál es la fuerza de rozamiento?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 9.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 N.",
+          "is_correct": true,
+          "feedback": "Correcto. Velocidad constante significa aceleración cero, por lo que $f_r = F_x = T \\cos(37^\\circ) = 20 \\cdot 0,8 = 16\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "20 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se proyectó la tensión en el eje horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "12 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utilizó el seno del ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "40 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por la masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al moverse a velocidad constante, las fuerzas horizontales están en equilibrio: la componente horizontal de la tensión equipara exactamente a la fuerza de rozamiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v10",
+      "statement": "¿Qué establece la Tercera Ley de Newton (Acción y Reacción) respecto al par de fuerzas interactuantes entre la Tierra y la Luna?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 10.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Tierra atrae a la Luna con una fuerza de igual módulo y sentido opuesto a la fuerza con que la Luna atrae a la Tierra.",
+          "is_correct": true,
+          "feedback": "Correcto. Forman un par de acción y reacción actuando sobre cuerpos distintos."
+        },
+        {
+          "letter": "B",
+          "text": "La Tierra atrae a la Luna con una fuerza mayor porque la masa de la Tierra es mucho más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El módulo de las fuerzas es idéntico según la ley de gravedad y la 3ra ley."
+        },
+        {
+          "letter": "C",
+          "text": "La Luna no ejerce ninguna fuerza sobre la Tierra debido a su menor tamaño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las interacciones de masas generan fuerzas mutuas simétricas."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos fuerzas se anulan mutuamente sobre la Luna impidiendo su órbita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Actúan sobre cuerpos distintos (una en la Luna, otra en la Tierra), por lo que no se anulan entre sí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fuerzas de acción y reacción son siempre iguales en módulo, opuestas en sentido y actúan sobre cuerpos diferentes, por lo que jamás se anulan entre sí sobre un mismo objeto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v11",
+      "statement": "Un bloque de $2\\text{ kg}$ lanzado sobre una mesa rugosa a $10\\text{ m/s}$ se detiene tras recorrer $25\\text{ m}$. ¿Cuál es el coeficiente de rozamiento dinámico $\\mu_d$ ($g = 10\\text{ m/s}^2$)?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 11.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,2.",
+          "is_correct": true,
+          "feedback": "Correcto. $v^2 = v_0^2 - 2ad \\Rightarrow 0 = 100 - 50a \\Rightarrow a = 2\\text{ m/s}^2$. Como $a = \\mu_d g \\Rightarrow 2 = \\mu_d (10) \\Rightarrow \\mu_d = 0,2$."
+        },
+        {
+          "letter": "B",
+          "text": "0,4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir por 2 al hallar la aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "0,1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se utilizó una distancia de 50 m."
+        },
+        {
+          "letter": "D",
+          "text": "0,5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la velocidad directamente por la masa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con Torricelli se halla la desaceleración ($a = v_0^2 / 2d$) y luego igualando la fuerza de rozamiento a la fuerza neta ($f_d = m a \\Rightarrow \\mu_d m g = m a$) se despeja $\\mu_d = a / g$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v12",
+      "statement": "Una persona de $70\\text{ kg}$ se encuentra de pie sobre una balanza dentro de un ascensor que desacelera hacia abajo a razón de $3\\text{ m/s}^2$. ¿Qué valor marca la balanza ($g = 10\\text{ m/s}^2$)?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 12.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "910 N (o equivalente a 91 kg).",
+          "is_correct": true,
+          "feedback": "Correcto. Desacelerar hacia abajo implica aceleración hacia arriba ($a = +3\\text{ m/s}^2$). $N = m(g + a) = 70(10 + 3) = 910\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "490 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restó la aceleración en lugar de sumarla."
+        },
+        {
+          "letter": "C",
+          "text": "700 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el peso normal en reposo."
+        },
+        {
+          "letter": "D",
+          "text": "210 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó sólo el exceso de fuerza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Desacelerar mientras se desciende significa que la aceleración neta apunta hacia arriba, aumentando la fuerza normal registrada por la balanza.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v13",
+      "statement": "Un plano inclinado $30^\\circ$ ($\\\\sin 30^\\circ = 0,5, \\\\cos 30^\\circ = 0,866$) tiene un coeficiente de rozamiento estático $\\mu_e = 0,4$. Evaluá si un bloque colocado en reposo comenzará a deslizar.",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 13.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, comenzará a deslizar porque tan(30°) ≈ 0,577 es mayor que μ_e = 0,4.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza que empuja hacia abajo ($mg \\sin 30^\\circ = 0,5 mg$) supera el rozamiento estático máximo ($\\mu_e mg \\cos 30^\\circ = 0,4 \\cdot 0,866 mg = 0,346 mg$)."
+        },
+        {
+          "letter": "B",
+          "text": "No, se mantendrá estático porque 0,4 es mayor que sin(30°).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se debe comparar con la tangente del ángulo o calcular las componentes de fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Depende de la masa del bloque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición de deslizamiento en plano inclinado es independiente de la masa ($\\tan \\theta > \\mu_e$)."
+        },
+        {
+          "letter": "D",
+          "text": "Se moverá hacia arriba por reacción normal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas no actúan empujando hacia arriba en el plano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cuerpo desliza en un plano inclinado si la pendiente $\\tan(\\theta)$ supera el coeficiente de rozamiento estático $\\mu_e$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v14",
+      "statement": "Un helicóptero de $1000\\text{ kg}$ sostiene una carga de $500\\text{ kg}$ mediante un cable inextensible mientras sube a velocidad constante de $5\\text{ m/s}$. ¿Cuál es la tensión del cable que une la carga al helicóptero ($g = 10\\text{ m/s}^2$)?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 14.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5000 N.",
+          "is_correct": true,
+          "feedback": "Correcto. A velocidad constante la aceleración es cero. La tensión equilibra sólo el peso de la carga: $T = m_{\\text{carga}} \\cdot g = 500 \\cdot 10 = 5000\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "15000 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumó la masa del helicóptero."
+        },
+        {
+          "letter": "C",
+          "text": "7500 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se incluyó la velocidad en la fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "2500 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió el peso de la carga por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A velocidad constante, la aceleración es nula ($a = 0$), por lo que la tensión del cable es igual al peso de la carga colgada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v15",
+      "statement": "Un dinamómetro sostiene un bloque de $4\\text{ kg}$ en el techo de un auto que frena horizontalmente a $3\\text{ m/s}^2$. Evaluá el ángulo de inclinación $\\theta$ respecto a la vertical que adopta la cuerda ($g = 10\\text{ m/s}^2$).",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 15.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tan(θ) = 0,3 (aprox 16,7°).",
+          "is_correct": true,
+          "feedback": "Correcto. $\\tan(\\theta) = \\frac{F_{\\text{inercial}}}{P} = \\frac{m a}{m g} = \\frac{a}{g} = \\frac{3}{10} = 0,3$."
+        },
+        {
+          "letter": "B",
+          "text": "tan(θ) = 3,33.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la gravedad por la aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "tan(θ) = 1,2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por la masa."
+        },
+        {
+          "letter": "D",
+          "text": "θ = 45°.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocurriría sólo si la aceleración fuera igual a $10\\text{ m/s}^2$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La inclinación de un péndulo dentro de un vehículo acelerado cumple $\\tan(\\theta) = a / g$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v16",
+      "statement": "Un bloque sobre una mesa horizontal está conectado mediante una cuerda que pasa por una polea a una masa colgante de igual valor $m$. Si no hay rozamiento, ¿cuál es la aceleración del sistema?",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 16.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "g / 2 (es decir, 5 m/s² si g = 10 m/s²).",
+          "is_correct": true,
+          "feedback": "Correcto. Fuerza motora $= m g$. Masa total movida $= 2m$. $a = \\frac{m g}{2m} = \\frac{g}{2}$."
+        },
+        {
+          "letter": "B",
+          "text": "g (es decir, 10 m/s²).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se ignoró la inercia de la masa apoyada sobre la mesa."
+        },
+        {
+          "letter": "C",
+          "text": "g / 4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió por 4m."
+        },
+        {
+          "letter": "D",
+          "text": "0 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema acelera debido al peso colgante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la máquina de Atwood modificada, el peso colgante debe acelerar a ambas masas sumadas, reduciendo la aceleración a la mitad de $g$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v17",
+      "statement": "Un automóvil ingresa a una curva plana sin peralte de $50\\text{ m}$ de radio. Si el coeficiente de rozamiento estático entre neumáticos y asfalto es $\\mu_e = 0,5$, evaluá la velocidad máxima de giro sin derrapar ($g = 10\\text{ m/s}^2$).",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 17.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15,8 m/s (aprox 16 m/s o 57 km/h).",
+          "is_correct": true,
+          "feedback": "Correcto. $f_{e,\\text{máx}} = \\frac{m v^2}{R} \\Rightarrow \\mu_e m g = \\frac{m v^2}{R} \\Rightarrow v = \\sqrt{\\mu_e g R} = \\sqrt{0,5 \\cdot 10 \\cdot 50} = \\sqrt{250} \\approx 15,8\\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "25 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "10 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió el radio por el coeficiente."
+        },
+        {
+          "letter": "D",
+          "text": "50 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó el radio por la gravedad sin rozamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuerza centrípeta necesaria para curvar proviene enteramente de la fuerza de rozamiento estático: $v_{\\text{máx}} = \\sqrt{\\mu_e g R}$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v18",
+      "statement": "Se aplican dos fuerzas perpendiculares de $6\\text{ N}$ y $8\\text{ N}$ sobre un objeto de $2\\text{ kg}$ en un plano horizontal sin rozamiento. Evaluá la aceleración resultante del objeto.",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 18.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 m/s².",
+          "is_correct": true,
+          "feedback": "Correcto. Fuerza neta vectorial $F = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = 10\\text{ N}$. Aceleración $a = \\frac{10}{2} = 5\\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "7 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las fuerzas algebraicamente (14 N) en vez de vectorialmente."
+        },
+        {
+          "letter": "C",
+          "text": "1 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se restaron las fuerzas."
+        },
+        {
+          "letter": "D",
+          "text": "10 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fuerza neta, no la aceleración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al ser fuerzas perpendiculares, la resultante se calcula mediante el teorema de Pitágoras y luego se aplica $a = F / m$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v19",
+      "statement": "Un bloque desciende por una pared vertical apretado contra ella por una fuerza horizontal $F$. Si la masa es $2\\text{ kg}$, $g = 10\\text{ m/s}^2$ y $\\mu_d = 0,4$, evaluá el valor de $F$ para que caiga a velocidad constante.",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 19.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 N.",
+          "is_correct": true,
+          "feedback": "Correcto. Peso $P = 20\\text{ N}$. Normal $N = F$. Fuerza de rozamiento $f_d = \\mu_d F = 0,4 F$. Para velocidad constante: $0,4 F = 20 \\Rightarrow F = 50\\text{ N}$."
+        },
+        {
+          "letter": "B",
+          "text": "20 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Igualaría la normal al peso directamente."
+        },
+        {
+          "letter": "C",
+          "text": "8 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó el peso por el coeficiente."
+        },
+        {
+          "letter": "D",
+          "text": "100 N.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por un factor de 2 erróneo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para caer a velocidad constante, la fuerza de rozamiento vertical debe igualar exactamente al peso del objeto ($f_d = P \\Rightarrow \\mu_d F = m g$).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v20",
+      "statement": "Evaluá la veracidad de la siguiente afirmación: 'La fuerza de reacción al peso de un libro apoyado en una mesa es la fuerza normal que la mesa ejerce sobre el libro'.",
+      "context": "Leyes de Newton y Fuerzas de Rozamiento - Caso N° 20.\n**ID:** AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falsa, la reacción al peso del libro es la fuerza gravitatoria ejercida por el libro sobre el centro de la Tierra.",
+          "is_correct": true,
+          "feedback": "Correcto. El peso es la atracción Tierra->Libro, su reacción es Libro->Tierra. La normal es el par de interacción Mesa<->Libro."
+        },
+        {
+          "letter": "B",
+          "text": "Verdadera, porque la normal y el peso tienen igual módulo y sentido opuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener igual módulo y sentidos opuestos no las convierte en un par de acción-reacción, ya que actúan sobre el mismo cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "Verdadera, de lo contrario el libro caería a través de la mesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equilibrio de fuerzas no significa que sean un par de Newton."
+        },
+        {
+          "letter": "D",
+          "text": "Falsa, la fuerza de reacción al peso es la fuerza de rozamiento estático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rozamiento es una fuerza de contacto paralela a la superficie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fuerzas de acción y reacción actúan en cuerpos distintos. El peso es ejercido por la Tierra sobre el libro, por ende su reacción es ejercida por el libro sobre la Tierra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W22-tema-w22-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}

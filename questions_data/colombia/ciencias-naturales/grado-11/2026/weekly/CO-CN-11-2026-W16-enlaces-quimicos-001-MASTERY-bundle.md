@@ -37,14 +37,14 @@ Este bundle contiene 20 preguntas sobre **Enlaces Químicos e Interacciones Inte
 - [x] A) Enlace iónico.
   <!-- feedback: Correcto. Una diferencia de electronegatividad superior a 1.7 indica la transferencia de electrones formando cationes y aniones. -->
 - [ ] B) Enlace covalente apolar.
-  <!-- feedback: Incorrecto. Ocurre cuando $Delta EN approx 0$. -->
+  <!-- feedback: Incorrecto. Ocurre cuando $\Delta EN \approx 0$. -->
 - [ ] C) Enlace de puente de hidrógeno.
   <!-- feedback: Incorrecto. Es una atracción intermolecular entre dipolos permanentes. -->
 - [ ] D) Enlace metálico.
   <!-- feedback: Incorrecto. Ocurre entre átomos de baja electronegatividad en un mar de electrones. -->
 
 ### Explicacion Pedagogica
-Una alta diferencia de electronegatividad ($Delta EN > 1.7$) favorece la transferencia de electrones y la formación de un enlace iónico.
+Una alta diferencia de electronegatividad ($\Delta EN > 1.7$) favorece la transferencia de electrones y la formación de un enlace iónico.
 
 ## Question 2 [D3-D4]
 **ID:** CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v2
@@ -113,7 +113,7 @@ Según la Teoría de Repulsión de Pares de Electrones de la Capa de Valencia (V
   <!-- feedback: Incorrecto. Corresponde a 2 pares enlazantes y 2 pares libres (ej. $H_2O$). -->
 
 ### Explicacion Pedagogica
-Con 4 pares de electrones enlazantes sin pares libres, la geometría óptima por VSEPR es tetraédrica ($109.5^circ$).
+Con 4 pares de electrones enlazantes sin pares libres, la geometría óptima por VSEPR es tetraédrica ($109.5^\circ$).
 
 ## Question 5 [D5-D6]
 **ID:** CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v5
@@ -288,16 +288,16 @@ En el $NF_3$ la atracción del flúor tira en dirección contraria a la densidad
 
 ### Opciones
 - [x] A) La presencia de dos electrones desapareados en los orbitales antienlazantes degénerados $\pi^*_{2p}$.
-  <!-- feedback: Correcto. La regla de Hund llena orbitales $pi^*_{2p}$ con dos electrones desapariados, explicando el paramagnetismo. -->
+  <!-- feedback: Correcto. La regla de Hund llena orbitales $\pi^*_{2p}$ con dos electrones desapariados, explicando el paramagnetismo. -->
 - [ ] B) La existencia de una carga iónica neta $+2$ en la molécula.
   <!-- feedback: Incorrecto. $O_2$ es una molécula neutra. -->
 - [ ] C) El llenado completo de todos los orbitales sin electrones impares.
   <!-- feedback: Incorrecto. El llenado completo produciría diamagnetismo (repulsión magnética). -->
 - [ ] D) La ruptura espontánea del enlace sigma.
-  <!-- feedback: Incorrecto. El enlace $sigma_{2p}$ permanece totalmente ocupado. -->
+  <!-- feedback: Incorrecto. El enlace $\sigma_{2p}$ permanece totalmente ocupado. -->
 
 ### Explicacion Pedagogica
-La TOM demuestra que el $O_2$ posee 2 electrones desapariados en los orbitales $pi^*_{2p}$, originando su paramagnetismo.
+La TOM demuestra que el $O_2$ posee 2 electrones desapariados en los orbitales $\pi^*_{2p}$, originando su paramagnetismo.
 
 ## Question 13 [D7-D8]
 **ID:** CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v13
@@ -435,7 +435,7 @@ Ambos compuestos poseen distancias interiónicas similares. ¿Por qué la energ�
   <!-- feedback: Incorrecto. El $Mg^{2+}$ perdió 2 electrones alcanzando configuración de gas noble. -->
 
 ### Explicacion Pedagogica
-La atracción electrostática es directamente proporcional al producto de las cargas $q_1 cdot q_2$. Para $Mg^{2+}O^{2-}$ es $2 	imes 2 = 4$, frente a $1 	imes 1 = 1$ de $Na^+F^-$.
+La atracción electrostática es directamente proporcional al producto de las cargas $q_1 \cdot q_2$. Para $Mg^{2+}O^{2-}$ es $2 \times 2 = 4$, frente a $1 \times 1 = 1$ de $Na^+F^-$.
 
 ## Question 19 [D9-D10]
 **ID:** CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v19
@@ -449,7 +449,7 @@ La atracción electrostática es directamente proporcional al producto de las ca
 
 ### Opciones
 - [x] A) Se fortalecen significativamente porque la menor constante dieléctrica reduce el blindaje del solvente entre las cargas.
-  <!-- feedback: Correcto. La fuerza de Coulomb $F = \frac{q_1 q_2}{4\pi \epsilon r^2}$ aumenta al disminuir $epsilon$, intensificando la atracción entre cargas opuestas. -->
+  <!-- feedback: Correcto. La fuerza de Coulomb $F = \frac{q_1 q_2}{4\pi \epsilon r^2}$ aumenta al disminuir $\epsilon$, intensificando la atracción entre cargas opuestas. -->
 - [ ] B) Se anulan totalmente convirtiéndose en enlaces metálicos.
   <!-- feedback: Incorrecto. Las cargas iónicas no mutan a enlaces metálicos. -->
 - [ ] C) Se debilitan por evaporación de los protones.
@@ -458,7 +458,7 @@ La atracción electrostática es directamente proporcional al producto de las ca
   <!-- feedback: Incorrecto. La constante dieléctrica del medio modula la atenuación de la fuerza electrostática. -->
 
 ### Explicacion Pedagogica
-Según la ley de Coulomb en medios continuos, $F propto 1/epsilon$. Un solvente con menor $epsilon$ incrementa las interacciones electrostáticas.
+Según la ley de Coulomb en medios continuos, $F propto 1/\epsilon$. Un solvente con menor $\epsilon$ incrementa las interacciones electrostáticas.
 
 ## Question 20 [D9-D10]
 **ID:** CO-CN-11-2026-W16-enlaces-quimicos-001-MASTERY-bundle-v20

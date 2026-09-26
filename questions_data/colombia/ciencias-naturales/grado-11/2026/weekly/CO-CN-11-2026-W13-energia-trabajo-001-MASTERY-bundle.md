@@ -136,7 +136,7 @@ Si no hay desplazamiento ($d = 0$), el trabajo mecánico realizado sobre la masa
   <!-- feedback: Incorrecto. Existió un cambio en la energía cinética desde 200 kJ hasta 0. -->
 
 ### Explicacion Pedagogica
-Por el Teorema del Trabajo y la Energía Cinética: $W = 0 - rac{1}{2} (1000)(400) = -200,000 	ext{ J}$.
+Por el Teorema del Trabajo y la Energía Cinética: $W = 0 - \frac{1}{2} (1000)(400) = -200,000 \text{ J}$.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v6
@@ -159,7 +159,7 @@ Por el Teorema del Trabajo y la Energía Cinética: $W = 0 - rac{1}{2} (1000)(4
   <!-- feedback: Incorrecto. Multiplicó $g \cdot h$ sin multiplicar por 2 ni extraer raíz. -->
 
 ### Explicacion Pedagogica
-Por conservación de energía mecánica: $E_p = E_k Rightarrow v = sqrt{2 cdot 9.8 cdot 20} approx 19.8 	ext{ m/s}$.
+Por conservación de energía mecánica: $E_p = E_k Rightarrow v = \sqrt{2 \cdot 9.8 \cdot 20} \approx 19.8 \text{ m/s}$.
 
 ## Question 7 [D5-D6]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v7
@@ -182,7 +182,7 @@ Por conservación de energía mecánica: $E_p = E_k Rightarrow v = sqrt{2 cdot 9
   <!-- feedback: Incorrecto. Error de cálculo en el manejo de decimales. -->
 
 ### Explicacion Pedagogica
-La energía potencial elástica almacenada en un resorte ideal es $E_p = rac{1}{2} k x^2 = rac{1}{2}(400)(0.01) = 2 	ext{ J}$.
+La energía potencial elástica almacenada en un resorte ideal es $E_p = \frac{1}{2} k x^2 = \frac{1}{2}(400)(0.01) = 2 \text{ J}$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v8
@@ -198,14 +198,14 @@ La energía potencial elástica almacenada en un resorte ideal es $E_p = rac{1}
 - [x] A) $-60 \text{ Julios}$.
   <!-- feedback: Correcto. $W_{friccion} = F_r \cdot d \cdot \cos(180^\circ) = 15 \cdot 4 \cdot (-1) = -60 \text{ J}$. -->
 - [ ] B) $+60 \text{ Julios}$.
-  <!-- feedback: Incorrecto. La fricción se opone al movimiento, produciendo un ángulo de $180^circ$ y trabajo negativo. -->
+  <!-- feedback: Incorrecto. La fricción se opone al movimiento, produciendo un ángulo de $180^\circ$ y trabajo negativo. -->
 - [ ] C) $-120 \text{ Julios}$.
   <!-- feedback: Incorrecto. Multiplicó erróneamente por el seno del ángulo de inclinación. -->
 - [ ] D) $0 \text{ Julios}$.
   <!-- feedback: Incorrecto. La fuerza de fricción no es perpendicular al movimiento. -->
 
 ### Explicacion Pedagogica
-El trabajo de la fricción es disipativo ($W = F_r cdot d cdot cos 180^circ = -60 	ext{ J}$).
+El trabajo de la fricción es disipativo ($W = F_r \cdot d \cdot \cos 180^\circ = -60 \text{ J}$).
 
 ## Question 9 [D5-D6]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v9
@@ -221,14 +221,14 @@ El trabajo de la fricción es disipativo ($W = F_r cdot d cdot cos 180^circ = -6
 - [x] A) $2500 \text{ Julios}$.
   <!-- feedback: Correcto. $E_k = \frac{1}{2} m v^2 = \frac{1}{2} (0.02)(500)^2 = 0.01 \times 250,000 = 2500 \text{ J}$. -->
 - [ ] B) $5000 \text{ Julios}$.
-  <!-- feedback: Incorrecto. Olvidó multiplicar por el factor $rac{1}{2}$. -->
+  <!-- feedback: Incorrecto. Olvidó multiplicar por el factor $\frac{1}{2}$. -->
 - [ ] C) $50 \text{ Julios}$.
   <!-- feedback: Incorrecto. Multiplicó masa por velocidad sin elevar la velocidad al cuadrado. -->
 - [ ] D) $250 \text{ Julios}$.
   <!-- feedback: Incorrecto. Error de orden de magnitud al elevar 500 al cuadrado. -->
 
 ### Explicacion Pedagogica
-$E_k = rac{1}{2} m v^2 = rac{1}{2}(0.02)(250,000) = 2500 	ext{ J}$.
+$E_k = \frac{1}{2} m v^2 = \frac{1}{2}(0.02)(250,000) = 2500 \text{ J}$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v10
@@ -274,7 +274,7 @@ En un péndulo la energía mecánica se conserva transformando energía potencia
   <!-- feedback: Incorrecto. Restó 200 J en lugar de los 100 J de energía disipada. -->
 
 ### Explicacion Pedagogica
-Energía final $mgh = E_{ki} - W_{disipado} = 900 - 100 = 800 	ext{ J}$. Luego $h = 800 / (2 	imes 10) = 40 	ext{ m}$.
+Energía final $mgh = E_{ki} - W_{disipado} = 900 - 100 = 800 \text{ J}$. Luego $h = 800 / (2 \times 10) = 40 \text{ m}$.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v12
@@ -297,7 +297,7 @@ Energía final $mgh = E_{ki} - W_{disipado} = 900 - 100 = 800 	ext{ J}$. Luego $
   <!-- feedback: Incorrecto. Dividió la altura entre la base. -->
 
 ### Explicacion Pedagogica
-El trabajo de una fuerza variable es el área bajo la curva $F(x)$. Para un triángulo, $W = (6 	imes 20)/2 = 60 	ext{ J}$.
+El trabajo de una fuerza variable es el área bajo la curva $F(x)$. Para un triángulo, $W = (6 \times 20)/2 = 60 \text{ J}$.
 
 ## Question 13 [D7-D8]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v13
@@ -320,7 +320,7 @@ Si la energía cinética en A es de 150 J y la fuerza de fricción en la zona ru
   <!-- feedback: Incorrecto. Restó únicamente la fuerza de 40 N a los 150 J. -->
 
 ### Explicacion Pedagogica
-El trabajo no conservativo disminuye la energía mecánica: $E_{kB} = 150 - (40 	imes 2) = 70 	ext{ J}$.
+El trabajo no conservativo disminuye la energía mecánica: $E_{kB} = 150 - (40 \times 2) = 70 \text{ J}$.
 
 ## Question 14 [D7-D8]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v14
@@ -336,14 +336,14 @@ Si en el punto de máxima deformación la energía potencial es de 4 J, ¿cuál 
 - [x] A) $2.83 \text{ m/s}$.
   <!-- feedback: Correcto. Toda la energía potencial se convierte en cinética en $x=0$: $4 \text{ J} = \frac{1}{2}(1)v^2 \Rightarrow v^2 = 8 \Rightarrow v = \sqrt{8} \approx 2.83 \text{ m/s}$. -->
 - [ ] B) $4.0 \text{ m/s}$.
-  <!-- feedback: Incorrecto. Olvidó dividir entre $rac{1}{2}$ antes de extraer la raíz. -->
+  <!-- feedback: Incorrecto. Olvidó dividir entre $\frac{1}{2}$ antes de extraer la raíz. -->
 - [ ] C) $8.0 \text{ m/s}$.
   <!-- feedback: Incorrecto. Calculó $v^2$ sin extraer la raíz cuadrada. -->
 - [ ] D) $2.0 \text{ m/s}$.
-  <!-- feedback: Incorrecto. Extrajo la raíz cuadrada de 4 directamente sin considerar el factor $rac{1}{2}$. -->
+  <!-- feedback: Incorrecto. Extrajo la raíz cuadrada de 4 directamente sin considerar el factor $\frac{1}{2}$. -->
 
 ### Explicacion Pedagogica
-Por conservación de energía: $E_p = E_k Rightarrow 4 = rac{1}{2}(1)v^2 Rightarrow v = sqrt{8} approx 2.83 	ext{ m/s}$.
+Por conservación de energía: $E_p = E_k Rightarrow 4 = \frac{1}{2}(1)v^2 Rightarrow v = \sqrt{8} \approx 2.83 \text{ m/s}$.
 
 ## Question 15 [D7-D8]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v15
@@ -389,7 +389,7 @@ En ausencia de fricción o fuerzas no conservativas externas, la energía mecán
   <!-- feedback: Incorrecto. La velocidad real es menor a la teórica sin fricción, demostrando pérdida energética. -->
 
 ### Explicacion Pedagogica
-Pérdida energética $= E_{mA} - E_{mB} = 17,640 - 12,630 = 5010 	ext{ J}$.
+Pérdida energética $= E_{mA} - E_{mB} = 17,640 - 12,630 = 5010 \text{ J}$.
 
 ## Question 17 [D9-D10]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v17
@@ -412,7 +412,7 @@ Si un tranvía de $20,000 \text{ kg}$ frena de $15 \text{ m/s}$ a $5 \text{ m/s}
   <!-- feedback: Incorrecto. Calculó la energía basándose únicamente en la velocidad final. -->
 
 ### Explicacion Pedagogica
-Trabajo de frenado $= Delta E_k = 2.0 	ext{ MJ}$. Con 70% de eficiencia, se recargan $1.4 	ext{ MJ}$.
+Trabajo de frenado $= \Delta E_k = 2.0 \text{ MJ}$. Con 70% de eficiencia, se recargan $1.4 \text{ MJ}$.
 
 ## Question 18 [D9-D10]
 **ID:** CO-CN-11-2026-W13-energia-trabajo-001-MASTERY-bundle-v18
@@ -481,4 +481,4 @@ La luz transporta momento lineal $p = E/c$. La reflexión fotónica genera una f
   <!-- feedback: Incorrecto. En choques perfectamente inelásticos la energía cinética no se conserva. -->
 
 ### Explicacion Pedagogica
-Por conservación de momento lineal $v_f = 2 	ext{ m/s}$. $E_{ki} = 40 	ext{ kJ}$, $E_{kf} = 20 	ext{ kJ}$, perdiéndose el 50% en deformación y calor.
+Por conservación de momento lineal $v_f = 2 \text{ m/s}$. $E_{ki} = 40 \text{ kJ}$, $E_{kf} = 20 \text{ kJ}$, perdiéndose el 50% en deformación y calor.

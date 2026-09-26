@@ -49,6 +49,13 @@ jobs:
       - name: 🧪 Run Grade Pack Unit Tests
         run: node --test tests/scripts/build-full-grade-packs.test.mjs
 
+      - name: 🧪 Vitest — API worker + question pipeline
+        run: npx vitest run apps/worldexams-api/tests saberparatodos/src/lib
+
+      - name: 🧪 Vitest — app unit suite
+        working-directory: saberparatodos
+        run: npx vitest run tests/unit --retry=2
+
   # =========================================================================
   # Phase 2: Deploy Cloudflare API Gateway Worker (api.saberparatodos.space)
   # =========================================================================
@@ -70,6 +77,12 @@ jobs:
       - name: 📦 Install API dependencies
         working-directory: ./apps/worldexams-api
         run: npm install
+
+      # The worker resolves packs through _manifest.json (one asset read instead of
+      # probing alias/prefix combos, which hit the subrequest limit). Regenerate it
+      # from the files being deployed so new packs are never invisible.
+      - name: 🗂️ Build pack manifest
+        run: node apps/worldexams-api/scripts/build-pack-manifest.mjs
 
       - name: 🔎 Type check API Gateway
         working-directory: ./apps/worldexams-api

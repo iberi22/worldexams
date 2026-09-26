@@ -1,4 +1,5 @@
 import { routeMesh, createMeshStores, type MeshStores } from "./mesh";
+import { routeRanked } from "./ranked";
 
 const meshStores: MeshStores = createMeshStores();
 
@@ -8,6 +9,7 @@ export interface Env {
   ASSETS: Fetcher
   /** KV efímero de rendezvous (opcional en dev: sin binding → solo memoria). */
   MESH_STATE?: KVNamespace
+  RANKED_DB?: D1Database
 }
 
 const ALLOWED_ORIGINS = [
@@ -16,6 +18,8 @@ const ALLOWED_ORIGINS = [
   "https://api.saberparatodos.space",
   "https://worldexams.com",
   "https://www.worldexams.com",
+  "https://worldexam.swal.network",
+  "https://www.worldexam.swal.network",
   "http://localhost:4321",
   "http://127.0.0.1:4321",
 ]
@@ -34,7 +38,7 @@ function corsHeadersFor(request?: Request): Record<string, string> {
   return base
 }
 
-function json(body: Record<string, unknown>, status = 200, headers: HeadersInit = {}, request?: Request) {
+export function json(body: Record<string, unknown>, status = 200, headers: HeadersInit = {}, request?: Request) {
   return new Response(JSON.stringify(body), {
     status,
     headers: {
@@ -45,7 +49,7 @@ function json(body: Record<string, unknown>, status = 200, headers: HeadersInit 
   })
 }
 
-function withCors(response: Response, request?: Request) {
+export function withCors(response: Response, request?: Request) {
   const headers = new Headers(response.headers)
   Object.entries(corsHeadersFor(request)).forEach(([key, value]) => headers.set(key, value))
   return new Response(response.body, {
@@ -64,8 +68,16 @@ function buildUpstreamUrl(env: Env, requestUrl: URL, upstreamPath: string) {
 const ANCHOR_DATE_MS = Date.parse("2025-01-01T00:00:00Z")
 const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000
 
+const SUBJECT_PACK_ALIASES: Record<string, string[]> = {
+  matematicas: ["matematicas", "matematica"],
+  lectura_critica: ["lectura_critica", "lengua", "lenguaje", "espanol"],
+  sociales_ciudadanas: ["sociales_ciudadanas", "sociales_y_ciudadanas", "sociales"],
+  ciencias_naturales: ["ciencias_naturales", "ciencias"],
+  ingles: ["ingles", "english", "ing"],
+}
+
 function normalizeSubjectKey(subject: string) {
-  const normalized = String(subject || "")
+  let normalized = String(subject || "")
     .trim()
     .toLowerCase()
     .normalize("NFD")
@@ -74,95 +86,155 @@ function normalizeSubjectKey(subject: string) {
     .replace(/[^a-z0-9_]/g, "")
     .replace(/^_+|_+$/g, "")
 
-  const aliasMap: Record<string, string> = {
-    socialesyciudadanas: "sociales_y_ciudadanas",
-    sociales_ciudadanas: "sociales_y_ciudadanas",
-    sociales_y_ciudadanas: "sociales_y_ciudadanas",
-    sociales: "sociales",
-    cienciasnaturales: "ciencias_naturales",
-    ciencias_naturales: "ciencias_naturales",
-    ciencias: "ciencias_naturales",
-    lectura_critica: "lectura_critica",
-    lecturacritica: "lectura_critica",
-    lenguaje: "lectura_critica",
-    tecnologiaeinformatica: "tecnologia_informatica",
-    tecnologiainformatica: "tecnologia_informatica",
-    english: "ingles",
-    matematica: "matematicas",
+  if (normalized === "tecnologiaeinformatica" || normalized === "tecnologiainformatica") {
+    return "tecnologia_informatica"
   }
 
-  return aliasMap[normalized] || normalized
+  // Handle some common missing underscores from legacy code
+  if (normalized === "socialesyciudadanas") normalized = "sociales_y_ciudadanas"
+  if (normalized === "cienciasnaturales") normalized = "ciencias_naturales"
+  if (normalized === "lecturacritica") normalized = "lectura_critica"
+
+  for (const [canonical, aliases] of Object.entries(SUBJECT_PACK_ALIASES)) {
+    if (aliases.includes(normalized) || canonical === normalized) {
+      return canonical
+    }
+  }
+
+  return normalized
 }
 
-function getCountryPackPrefixes(country: string) {
+export function getCountryPackPrefixes(country: string) {
   const normalized = String(country || "").trim().toLowerCase()
   const aliases: Record<string, string[]> = {
-    co: ["co"],
-    colombia: ["co"],
-    mx: ["mx"],
-    mexico: ["mx"],
-    ar: ["ar"],
-    argentina: ["ar"],
-    br: ["br"],
-    brasil: ["br"],
-    brazil: ["br"],
-    cl: ["cl"],
+    co: ["co", "colombia"],
+    colombia: ["co", "colombia"],
+    mx: ["mx", "mexico"],
+    mexico: ["mx", "mexico"],
+    ar: ["ar", "argentina"],
+    argentina: ["ar", "argentina"],
+    br: ["br", "brasil", "brazil"],
+    brasil: ["br", "brasil", "brazil"],
+    brazil: ["br", "brasil", "brazil"],
+    cl: ["cl", "chile"],
     chile: ["cl", "chile"],
     pe: ["pe", "peru"],
     peru: ["pe", "peru"],
-    ec: ["ec"],
-    ecuador: ["ec"],
-    pa: ["panama"],
-    panama: ["panama"],
-    cr: ["costa-rica"],
-    "costa-rica": ["costa-rica"],
-    gt: ["guatemala"],
-    guatemala: ["guatemala"],
-    do: ["dominican_republic"],
-    "dominican-republic": ["dominican_republic"],
-    dominican_republic: ["dominican_republic"],
-    sv: ["el-salvador"],
-    "el-salvador": ["el-salvador"],
-    hn: ["honduras"],
-    honduras: ["honduras"],
-    ni: ["nicaragua"],
-    nicaragua: ["nicaragua"],
-    es: ["spain"],
-    spain: ["spain"],
-    pr: ["puerto-rico"],
-    "puerto-rico": ["puerto-rico"],
-    gq: ["guinea-ecuatorial"],
-    "guinea-ecuatorial": ["guinea-ecuatorial"],
-    uy: ["uruguay"],
-    uruguay: ["uruguay"],
-    py: ["paraguay"],
-    paraguay: ["paraguay"],
-    bo: ["bolivia"],
-    bolivia: ["bolivia"],
+    ec: ["ec", "ecuador"],
+    ecuador: ["ec", "ecuador"],
+    pa: ["pa", "panama"],
+    panama: ["pa", "panama"],
+    cr: ["cr", "costa-rica"],
+    "costa-rica": ["cr", "costa-rica"],
+    gt: ["gt", "guatemala"],
+    guatemala: ["gt", "guatemala"],
+    do: ["do", "dominican_republic", "dominican-republic"],
+    "dominican-republic": ["do", "dominican_republic", "dominican-republic"],
+    dominican_republic: ["do", "dominican_republic", "dominican-republic"],
+    sv: ["sv", "el-salvador"],
+    "el-salvador": ["sv", "el-salvador"],
+    hn: ["hn", "honduras"],
+    honduras: ["hn", "honduras"],
+    ni: ["ni", "nicaragua"],
+    nicaragua: ["ni", "nicaragua"],
+    es: ["es", "spain"],
+    spain: ["es", "spain"],
+    pr: ["pr", "puerto-rico"],
+    "puerto-rico": ["pr", "puerto-rico"],
+    gq: ["gq", "guinea-ecuatorial"],
+    "guinea-ecuatorial": ["gq", "guinea-ecuatorial"],
+    uy: ["uy", "uruguay"],
+    uruguay: ["uy", "uruguay"],
+    py: ["py", "paraguay"],
+    paraguay: ["py", "paraguay"],
+    bo: ["bo", "bolivia"],
+    bolivia: ["bo", "bolivia"],
   }
 
   return aliases[normalized] || (normalized ? [normalized] : [])
 }
 
-function getSubjectPackAliases(subject: string) {
+export function getSubjectPackAliases(subject: string) {
   const normalized = normalizeSubjectKey(subject)
-  const aliases = new Set([normalized])
 
-  if (normalized === "matematicas") {
-    aliases.add("matematica")
-  }
-  if (normalized === "matematica") {
-    aliases.add("matematicas")
-  }
-  if (normalized === "lectura_critica") {
-    aliases.add("lengua")
-    aliases.add("lenguaje")
-  }
-  if (normalized === "lengua" || normalized === "lenguaje") {
-    aliases.add("lectura_critica")
+  if (SUBJECT_PACK_ALIASES[normalized]) {
+    // Return canonical first, then unique aliases
+    return Array.from(new Set([normalized, ...SUBJECT_PACK_ALIASES[normalized]]))
   }
 
-  return Array.from(aliases).filter(Boolean)
+  return [normalized]
+}
+
+// ---------------------------------------------------------------------------
+// Pack resolution via manifest.
+// Every env.ASSETS.fetch counts as a subrequest; probing alias × prefix × week
+// combinations hit the Workers subrequest limit and silently truncated period
+// pools in production (2026-09-26). The manifest (public/v1/packs/_manifest.json,
+// built by scripts/build-pack-manifest.mjs) lists existing packs, so the worker
+// reads it once per isolate and only fetches packs that exist.
+// ---------------------------------------------------------------------------
+const PACK_CACHE_TTL_MS = 10 * 60 * 1000
+const PACK_CACHE_MAX = 300
+let packManifestCache: { at: number; files: Set<string> } | null = null
+const packCache = new Map<string, { at: number; questions: any[] }>()
+
+export async function getPackManifest(env: Env, origin: string): Promise<Set<string> | null> {
+  if (packManifestCache && Date.now() - packManifestCache.at < PACK_CACHE_TTL_MS) return packManifestCache.files
+  try {
+    const res = await env.ASSETS.fetch(new Request(new URL("/v1/packs/_manifest.json", origin).toString(), { method: "GET" }))
+    if (!res.ok) return null
+    const data = await res.json<any>()
+    if (!Array.isArray(data?.files)) return null
+    packManifestCache = { at: Date.now(), files: new Set<string>(data.files) }
+    return packManifestCache.files
+  } catch {
+    return null
+  }
+}
+
+/** Loads a pack's questions (per-isolate cache). Returns [] when missing. */
+export async function loadPackQuestions(env: Env, origin: string, name: string): Promise<any[]> {
+  const cached = packCache.get(name)
+  if (cached && Date.now() - cached.at < PACK_CACHE_TTL_MS) return cached.questions
+  try {
+    const res = await env.ASSETS.fetch(new Request(new URL(`/v1/packs/${name}.json`, origin).toString(), { method: "GET" }))
+    if (!res.ok) return []
+    const pack = await res.json<any>()
+    const questions = Array.isArray(pack?.questions) ? pack.questions : []
+    if (packCache.size >= PACK_CACHE_MAX) packCache.delete(packCache.keys().next().value as string)
+    packCache.set(name, { at: Date.now(), questions })
+    return questions
+  } catch {
+    return []
+  }
+}
+
+/**
+ * First existing pack name for (country, grade, subject, week), by priority:
+ * canonical subject alias first, ISO prefix first, then the unprefixed legacy name.
+ * Without a manifest, returns every candidate (legacy probing behaviour).
+ */
+export function resolveWeekPackNames(
+  manifest: Set<string> | null,
+  countryPrefixes: string[],
+  subjectAliases: string[],
+  grade: string | number,
+  week: number,
+): string[] {
+  const names: string[] = []
+  for (const alias of subjectAliases) {
+    for (const prefix of countryPrefixes) names.push(`${prefix}-week-${week}-grade-${grade}-subject-${alias}`)
+    names.push(`week-${week}-grade-${grade}-subject-${alias}`)
+  }
+  if (!manifest) return names
+  const hit = names.find((n) => manifest.has(n))
+  return hit ? [hit] : []
+}
+
+/** Test helper. */
+export function __resetPackCaches() {
+  packManifestCache = null
+  packCache.clear()
 }
 
 function getCurrentWeek() {
@@ -181,7 +253,7 @@ function normalizePackOption(option: any) {
   }
 }
 
-function normalizePackQuestion(question: any) {
+export function normalizePackQuestion(question: any) {
   if (Array.isArray(question?.options) && question.options.length >= 2) {
     return {
       ...question,
@@ -297,7 +369,8 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const exam = (url.searchParams.get("exam") || "icfes").toLowerCase()
   const subject = normalizeSubjectKey(url.searchParams.get("subject") || "matematicas")
   const page = Math.max(1, parseInt(url.searchParams.get("page") || "1", 10) || 1)
-  const pageSize = 20
+  const limitParam = parseInt(url.searchParams.get("limit") || "20", 10)
+  const pageSize = isNaN(limitParam) ? 20 : Math.max(1, Math.min(20, limitParam))
   const periodRaw = url.searchParams.get("period")
   const period = periodRaw ? parseInt(periodRaw, 10) : undefined
 
@@ -315,46 +388,33 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     weekCandidates = Array.from(new Set([...periodWeeks, getCurrentWeek(), 1]))
   }
 
-  const candidates: string[] = []
-  for (const week of weekCandidates) {
-    for (const subjectAlias of subjectAliases) {
-      for (const prefix of countryPrefixes) {
-        candidates.push(`/v1/packs/${prefix}-week-${week}-grade-${grade}-subject-${subjectAlias}.json`)
-      }
-      candidates.push(`/v1/packs/week-${week}-grade-${grade}-subject-${subjectAlias}.json`)
-    }
-  }
-
+  const manifest = await getPackManifest(env, url.origin)
   const fetchedQuestions: any[] = []
   const loadedPaths: string[] = []
 
-  for (const path of candidates) {
-    try {
-      const assetResponse = await env.ASSETS.fetch(new Request(new URL(path, url.origin).toString(), {
-        method: "GET",
-        headers: request.headers,
-      }))
-      if (!assetResponse.ok) continue
-
-      const pack = await assetResponse.json<any>()
-      const packQuestions = Array.isArray(pack?.questions) ? pack.questions : []
-      if (packQuestions.length > 0) {
-        fetchedQuestions.push(...packQuestions)
-        loadedPaths.push(path)
-        if (!period) {
-          break
-        }
-      }
-    } catch {
-      continue
+  weekLoop: for (const week of weekCandidates) {
+    // One pack per week: alias packs are identical copies of the canonical one.
+    for (const name of resolveWeekPackNames(manifest, countryPrefixes, subjectAliases, grade, week)) {
+      const packQuestions = await loadPackQuestions(env, url.origin, name)
+      if (packQuestions.length === 0) continue
+      fetchedQuestions.push(...packQuestions)
+      loadedPaths.push(`/v1/packs/${name}.json`)
+      if (!period) break weekLoop
+      break
     }
   }
 
   if (fetchedQuestions.length > 0) {
     const normalizedQuestions = fetchedQuestions.map(normalizePackQuestion)
     const deduped = dedupeQuestions(normalizedQuestions)
+
+    const total_available = deduped.questions.length
+    const total_pages = Math.ceil(total_available / pageSize)
+    const out_of_range = page > total_pages && total_pages > 0
+    const has_more = page < total_pages
+
     const startIndex = (page - 1) * pageSize
-    const questions = deduped.questions.slice(startIndex, startIndex + pageSize)
+    const questions = out_of_range ? [] : deduped.questions.slice(startIndex, startIndex + pageSize)
 
     return json({
       success: true,
@@ -368,11 +428,16 @@ async function fetchPublicQuestions(request: Request, env: Env) {
       page,
       meta: {
         available_questions: fetchedQuestions.length,
-        deduplicated_questions: deduped.questions.length,
+        deduplicated_questions: total_available,
         duplicate_filtered: deduped.duplicateCount,
         filtered_out: deduped.duplicateCount,
         source: "worker-assets",
         pack_path: loadedPaths.join(", "),
+        total_available,
+        page_size: pageSize,
+        total_pages,
+        has_more,
+        ...(out_of_range ? { out_of_range: true } : {}),
       },
     }, 200, {
       "Cache-Control": "public, max-age=3600, s-maxage=3600",
@@ -387,6 +452,13 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     exam,
     grade: parseInt(grade, 10),
     subject,
+    meta: {
+      total_available: 0,
+      page_size: pageSize,
+      total_pages: 0,
+      has_more: false,
+      out_of_range: true,
+    }
   }, 404, {}, request)
 }
 
@@ -503,6 +575,9 @@ export default {
         request
       )
     }
+
+    const r = await routeRanked(request, env);
+    if (r) return withCors(r, request);
 
     if (url.pathname === "/health") {
       return json({

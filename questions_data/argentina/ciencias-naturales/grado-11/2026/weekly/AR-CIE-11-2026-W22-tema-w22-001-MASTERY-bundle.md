@@ -289,7 +289,7 @@ Un plano inclinado $30^\circ$ ($\\sin 30^\circ = 0,5, \\cos 30^\circ = 0,866$) t
 ### Opciones
 - [x] A) Sí, comenzará a deslizar porque tan(30°) ≈ 0,577 es mayor que μ_e = 0,4. <!-- feedback: Correcto. La fuerza que empuja hacia abajo ($mg \sin 30^\circ = 0,5 mg$) supera el rozamiento estático máximo ($\mu_e mg \cos 30^\circ = 0,4 \cdot 0,866 mg = 0,346 mg$). -->
 - [ ] B) No, se mantendrá estático porque 0,4 es mayor que sin(30°). <!-- feedback: Incorrecto. Se debe comparar con la tangente del ángulo o calcular las componentes de fuerza. -->
-- [ ] C) Depende de la masa del bloque. <!-- feedback: Incorrecto. La condición de deslizamiento en plano inclinado es independiente de la masa ($tan \theta > \mu_e$). -->
+- [ ] C) Depende de la masa del bloque. <!-- feedback: Incorrecto. La condición de deslizamiento en plano inclinado es independiente de la masa ($\tan \theta > \mu_e$). -->
 - [ ] D) Se moverá hacia arriba por reacción normal. <!-- feedback: Incorrecto. Las fuerzas no actúan empujando hacia arriba en el plano. -->
 
 ### Explicacion Pedagogica

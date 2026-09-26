@@ -298,7 +298,7 @@ El muestreo por bola de nieve (o en cadena) aprovecha las redes sociales de los 
   <!-- feedback: La propiedad matemática de la estratificación aplica independientemente de la magnitud de N. -->
 
 ### Explicacion Pedagogica
-La varianza del estimador estratificado depende de la variabilidad interna de los estratos. Si la varianza intra-estrato es pequeña ($sigma_h^2 < sigma^2$), el error estándar disminuye respecto al aleatorio simple.
+La varianza del estimador estratificado depende de la variabilidad interna de los estratos. Si la varianza intra-estrato es pequeña ($\sigma_h^2 < \sigma^2$), el error estándar disminuye respecto al aleatorio simple.
 
 ## Question 13 [D7-D8]
 **ID:** CO-MAT-11-2026-W36-azar-muestreo-001-MASTERY-bundle-v13
@@ -378,7 +378,7 @@ La potencia fundamental del TLC radica en que la distribución muestral de la me
 **Contexto:** Un analista realiza dos estudios: en la ciudad A ($N_A = 100,000$) toma una muestra aleatoria de $n = 1,000$. En la ciudad B ($N_B = 1,000,000$) toma una muestra aleatoria de $n = 1,000$.
 
 ### Enunciado
-¿Cómo se comparan las precisiones (errores estándar) de los dos estudios si ambas poblaciones tienen la misma varianza $sigma^2$?
+¿Cómo se comparan las precisiones (errores estándar) de los dos estudios si ambas poblaciones tienen la misma varianza $\sigma^2$?
 
 ### Opciones
 - [x] A) Tienen prácticamente la MISMA precisión, pues el error estándar depende fundamentalmente del tamaño muestral $n$, no del tamaño poblacional $N$.
@@ -391,7 +391,7 @@ La potencia fundamental del TLC radica en que la distribución muestral de la me
   <!-- feedback: En poblaciones grandes, muestras de 1,000 ofrecen alta precisión independientemente de N. -->
 
 ### Explicacion Pedagogica
-El error estándar de la media es $sigma_{\bar{x}} = \frac{sigma}{sqrt{n}}$. Como en ambos estudios $n=1,000$ y $sigma$ es idéntica, la precisión es prácticamente idéntica sin importar la diferencia entre $N_A$ y $N_B$.
+El error estándar de la media es $\sigma_{\bar{x}} = \frac{sigma}{\sqrt{n}}$. Como en ambos estudios $n=1,000$ y $\sigma$ es idéntica, la precisión es prácticamente idéntica sin importar la diferencia entre $N_A$ y $N_B$.
 
 ## Question 17 [D9-D10]
 **ID:** CO-MAT-11-2026-W36-azar-muestreo-001-MASTERY-bundle-v17
@@ -429,7 +429,7 @@ La validez inferencial exige un diseño probabilístico sobre la población obje
 ¿Cuál es la probabilidad de que la muestra contenga EXACTAMENTE una pieza defectuosa?
 
 ### Opciones
-- [x] A) $20 cdot (0.05) cdot (0.95)^{19} approx 0.377$
+- [x] A) $20 \cdot (0.05) \cdot (0.95)^{19} \approx 0.377$
   <!-- feedback: P(X=1) = C(20,1) * (0.05)^1 * (0.95)^19 = 20 * 0.05 * (0.95)^19 = 1 * (0.377) = 0.377. -->
 - [ ] B) $(0.05)^{20}$
   <!-- feedback: Corresponde a la probabilidad de que TODAS las 20 piezas sean defectuosas. -->
@@ -440,7 +440,7 @@ La validez inferencial exige un diseño probabilístico sobre la población obje
 
 ### Explicacion Pedagogica
 Bajo muestreo con reemplazo, la variable sigue una distribución binomial $B(n=20, p=0.05)$:
-$P(X=1) = \binom{20}{1} (0.05)^1 (0.95)^{19} = 20   imes 0.05   imes (0.95)^{19} approx 0.377$.
+$P(X=1) = \binom{20}{1} (0.05)^1 (0.95)^{19} = 20   imes 0.05   imes (0.95)^{19} \approx 0.377$.
 
 ## Question 19 [D9-D10]
 **ID:** CO-MAT-11-2026-W36-azar-muestreo-001-MASTERY-bundle-v19
@@ -463,14 +463,14 @@ Si un lote tiene en realidad un $1%$ de unidades defectuosas, ¿cuál es el valo
   <!-- feedback: Para muestras pequeñas respecto a N, el valor esperado depende de n * p. -->
 
 ### Explicacion Pedagogica
-$E[X] = n cdot p = 50   imes 0.01 = 0.5$ piezas defectuosas. Aunque la media esperada es baja, la variabilidad de la distribución muestral genera una probabilidad positiva $P(X ge 2) = 1 - P(0) - P(1) approx 0.09$, lo que representa el riesgo de rechazo erróneo (riesgo del productor).
+$E[X] = n \cdot p = 50   imes 0.01 = 0.5$ piezas defectuosas. Aunque la media esperada es baja, la variabilidad de la distribución muestral genera una probabilidad positiva $P(X \ge 2) = 1 - P(0) - P(1) \approx 0.09$, lo que representa el riesgo de rechazo erróneo (riesgo del productor).
 
 ## Question 20 [D9-D10]
 **ID:** CO-MAT-11-2026-W36-azar-muestreo-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **ICFES:** Aleatorio
 **Expected_Success:** 0.45
-**Contexto:** Se evalúa la propiedad de insesgadez de un estimador. Se demuestra que para cualquier muestra aleatoria simple de tamaño $n$ extraída de una población con media $mu$, la esperanza de la media muestral cumple $E[\bar{X}] = mu$.
+**Contexto:** Se evalúa la propiedad de insesgadez de un estimador. Se demuestra que para cualquier muestra aleatoria simple de tamaño $n$ extraída de una población con media $mu$, la esperanza de la media muestral cumple $E[\bar{X}] = \mu$.
 
 ### Enunciado
 ¿Cuál es la consecuencia teórica directa de este resultado para el muestreo en estudios de mercado?
@@ -486,4 +486,4 @@ $E[X] = n cdot p = 50   imes 0.01 = 0.5$ piezas defectuosas. Aunque la media esp
   <!-- feedback: La insesgadez solo se demuestra y sostiene bajo esquemas de muestreo probabilístico. -->
 
 ### Explicacion Pedagogica
-Un estimador es insesgado si su valor esperado matemático es igual al parámetro poblacional $E[\bar{X}] = mu$. Esto asegura la ausencia de desviaciones sistemáticas a lo largo de repetidos procesos de muestreo.
+Un estimador es insesgado si su valor esperado matemático es igual al parámetro poblacional $E[\bar{X}] = \mu$. Esto asegura la ausencia de desviaciones sistemáticas a lo largo de repetidos procesos de muestreo.

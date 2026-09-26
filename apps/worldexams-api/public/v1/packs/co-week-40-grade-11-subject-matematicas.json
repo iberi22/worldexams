@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La mediana de un número impar de datos ordenados de menor a mayor es la observación que ocupa exactamente la posición central $\\frac{n+1}{2} = \\frac{5+1}{2} = 3^{\text{er}}$ dato, el cual es 8.",
+      "explanation": "La mediana de un número impar de datos ordenados de menor a mayor es la observación que ocupa exactamente la posición central $\\frac{n+1}{2} = \\frac{5+1}{2} = 3^{\\text{er}}$ dato, el cual es 8.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -84,7 +84,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$P(\text{Azul}) = \\frac{\text{fichas azules}}{\text{fichas totales}} = \\frac{4}{6 + 4} = \\frac{4}{10} = \\frac{2}{5} = 0.40$.",
+      "explanation": "$P(\\text{Azul}) = \\frac{\\text{fichas azules}}{\\text{fichas totales}} = \\frac{4}{6 + 4} = \\frac{4}{10} = \\frac{2}{5} = 0.40$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -176,7 +176,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Es una progresión geométrica con $a_1 = 2$ y $r = \\frac{6}{2} = 3$.\nEl quinto término es $a_5 = a_4 cdot r = 54   imes 3 = 162$.",
+      "explanation": "Es una progresión geométrica con $a_1 = 2$ y $r = \\frac{6}{2} = 3$.\nEl quinto término es $a_5 = a_4 \\cdot r = 54   imes 3 = 162$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -222,7 +222,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por inclusión y exclusión: $|\text{Fútbol} cup\text{Voleibol}| = 25 + 20 - 10 = 35$.\n$P = \\frac{35}{40} = \\frac{7}{8} = 0.875$.",
+      "explanation": "Por inclusión y exclusión: $|\\text{Fútbol} cup\\text{Voleibol}| = 25 + 20 - 10 = 35$.\n$P = \\frac{35}{40} = \\frac{7}{8} = 0.875$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v9",
-      "statement": "¿Cuál es la proporción muestral $hat{p}$ y el margen de error $E$?",
+      "statement": "¿Cuál es la proporción muestral $\\hat{p}$ y el margen de error $E$?",
       "context": "Un intervalo de confianza del 95% para la proporción de ciudadanos que reciclan en Cartagena es $[0.42; 0.58]$.",
       "options": [
         {
           "letter": "A",
-          "text": "$hat{p} = 0.50$ y $E = 0.08$",
+          "text": "$\\hat{p} = 0.50$ y $E = 0.08$",
           "is_correct": true,
           "feedback": "p_hat = (0.42 + 0.58)/2 = 0.50. E = (0.58 - 0.42)/2 = 0.08."
         },
         {
           "letter": "B",
-          "text": "$hat{p} = 0.50$ y $E = 0.16$",
+          "text": "$\\hat{p} = 0.50$ y $E = 0.16$",
           "is_correct": false,
           "feedback": "Tomó la amplitud total del intervalo (0.16) como el margen de error."
         },
         {
           "letter": "C",
-          "text": "$hat{p} = 0.42$ y $E = 0.08$",
+          "text": "$\\hat{p} = 0.42$ y $E = 0.08$",
           "is_correct": false,
           "feedback": "Tomó el límite inferior como la proporción muestral."
         },
         {
           "letter": "D",
-          "text": "$hat{p} = 0.58$ y $E = 0.08$",
+          "text": "$\\hat{p} = 0.58$ y $E = 0.08$",
           "is_correct": false,
           "feedback": "Tomó el límite superior como la proporción muestral."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El estimador es el punto medio $hat{p} = \\frac{0.42 + 0.58}{2} = 0.50$, y el margen de error es la semiamplitud $E = \\frac{0.58 - 0.42}{2} = 0.08$.",
+      "explanation": "El estimador es el punto medio $\\hat{p} = \\frac{0.42 + 0.58}{2} = 0.50$, y el margen de error es la semiamplitud $E = \\frac{0.58 - 0.42}{2} = 0.08$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Término con $y^2$: $\\binom{5}{2} (2x)^{5-2} y^2 = 10 cdot (2x)^3 y^2 = 10 cdot 8x^3 y^2 = 80x^3 y^2$.",
+      "explanation": "Término con $y^2$: $\\binom{5}{2} (2x)^{5-2} y^2 = 10 \\cdot (2x)^3 y^2 = 10 \\cdot 8x^3 y^2 = 80x^3 y^2$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -562,7 +562,7 @@
     {
       "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la conclusión estadística a un nivel de significancia del 5%?",
-      "context": "Para evaluar si un tratamiento reduce la presión arterial en Cundinamarca, se plantea $H_0: mu ge 130$ vs $H_a: mu < 130$. El estadístico calculado es $Z_{calc} = -2.15$ y el valor crítico al 5% es $Z_{crit} = -1.645$.",
+      "context": "Para evaluar si un tratamiento reduce la presión arterial en Cundinamarca, se plantea $H_0: \\mu \\ge 130$ vs $H_a: \\mu < 130$. El estadístico calculado es $Z_{calc} = -2.15$ y el valor crítico al 5% es $Z_{crit} = -1.645$.",
       "options": [
         {
           "letter": "A",
@@ -608,7 +608,7 @@
     {
       "id": "CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la razón común $r$ de esta serie geométrica?",
-      "context": "La suma infinita de una serie geométrica es $S_infty = 20$ y su primer término es $a_1 = 5$.",
+      "context": "La suma infinita de una serie geométrica es $S_\\infty = 20$ y su primer término es $a_1 = 5$.",
       "options": [
         {
           "letter": "A",
@@ -636,7 +636,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$S_infty = \\frac{a_1}{1 - r} Rightarrow 20 = \\frac{5}{1 - r} Rightarrow 1 - r = \\frac{5}{20} = 0.25 Rightarrow r = 0.75$.",
+      "explanation": "$S_\\infty = \\frac{a_1}{1 - r} Rightarrow 20 = \\frac{5}{1 - r} Rightarrow 1 - r = \\frac{5}{20} = 0.25 Rightarrow r = 0.75$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por el complemento: $P(\text{al menos 1 cara}) = 1 - P(\text{ninguna cara}) = 1 - left(\\frac{1}{2}\night)^4 = 1 - \\frac{1}{16} = \\frac{15}{16}$.",
+      "explanation": "Por el complemento: $P(\\text{al menos 1 cara}) = 1 - P(\\text{ninguna cara}) = 1 - left(\\frac{1}{2}\night)^4 = 1 - \\frac{1}{16} = \\frac{15}{16}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -820,7 +820,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$n = \\frac{Z^2 cdot p(1-p)}{E^2} = \\frac{(1.96)^2 (0.25)}{(0.02)^2} = \\frac{0.9604}{0.0004} = 2401$.",
+      "explanation": "$n = \\frac{Z^2 \\cdot p(1-p)}{E^2} = \\frac{(1.96)^2 (0.25)}{(0.02)^2} = \\frac{0.9604}{0.0004} = 2401$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -912,7 +912,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Derivando término a término la serie geométrica $\\frac{1}{1-x} = sum_{n=0}^infty x^n$:\n$\\frac{d}{dx} left( \\frac{1}{1-x} \night) = \\frac{1}{(1-x)^2} = sum_{n=1}^infty n x^{n-1} = 1 + 2x + 3x^2 + 4x^3 + dots$",
+      "explanation": "Derivando término a término la serie geométrica $\\frac{1}{1-x} = \\sum_{n=0}^\\infty x^n$:\n$\\frac{d}{dx} left( \\frac{1}{1-x}\night) = \\frac{1}{(1-x)^2} = sum_{n=1}^infty n x^{n-1} = 1 + 2x + 3x^2 + 4x^3 + dots$",
       "difficulty": "10",
       "images": [],
       "tags": [],

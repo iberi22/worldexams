@@ -77,7 +77,7 @@ En un alcohol alifático, el grupo $-OH$ se enlaza a un carbono saturado con hib
 **Contexto:** En una planta licorera en Cali, se analiza el proceso de fermentación del etanol y sus propiedades físicas.
 
 ### Enunciado
-¿Por qué el etanol ($CH_3-CH_2-OH$) tiene un punto de ebullición ($78^circ	ext{C}$) mucho más alto que el del etano ($CH_3-CH_3$, $-88^circ	ext{C}$)?
+¿Por qué el etanol ($CH_3-CH_2-OH$) tiene un punto de ebullición ($78^\circ\text{C}$) mucho más alto que el del etano ($CH_3-CH_3$, $-88^\circ\text{C}$)?
 
 ### Opciones
 - [x] A) Debido a la formación de puentes de hidrógeno intermoleculares entre las moléculas de etanol.
@@ -113,7 +113,7 @@ El enlace $O-H$ highly polar del grupo hidroxilo en los alcoholes permite la atr
   <!-- feedback: Incorrecto. El 2-propanol es un alcohol alifático, no un compuesto aromático. -->
 
 ### Explicacion Pedagogica
-Un alcohol se clasifica como primario, secundario o terciario según el tipo de carbono que soporta al grupo hidroxilo. En el $CH_3-CH(OH)-CH_3$, el carbono 2 está unido a dos carbonos, por lo que es un alcohol secundario ($2^circ$).
+Un alcohol se clasifica como primario, secundario o terciario según el tipo de carbono que soporta al grupo hidroxilo. En el $CH_3-CH(OH)-CH_3$, el carbono 2 está unido a dos carbonos, por lo que es un alcohol secundario ($2^\circ$).
 
 ## Question 5 [D5-D6]
 **ID:** CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v5
@@ -136,7 +136,7 @@ Un alcohol se clasifica como primario, secundario o terciario según el tipo de 
   <!-- feedback: Incorrecto. La síntesis de éteres es una sustitución intermolecular por deshidratación. -->
 
 ### Explicacion Pedagogica
-La oxidación de alcoholes primarios ($R-CH_2OH$) elimina los dos átomos de hidrógeno (uno del $-OH$ y otro del $C_alpha$), formando un grupo carbonilo terminal ($R-CHO$), es decir, un aldehído. Si la oxidación prosigue, se convierte en ácido carboxílico.
+La oxidación de alcoholes primarios ($R-CH_2OH$) elimina los dos átomos de hidrógeno (uno del $-OH$ y otro del $C_\alpha$), formando un grupo carbonilo terminal ($R-CHO$), es decir, un aldehído. Si la oxidación prosigue, se convierte en ácido carboxílico.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v6
@@ -159,7 +159,7 @@ La oxidación de alcoholes primarios ($R-CH_2OH$) elimina los dos átomos de hid
   <!-- feedback: Incorrecto. Los alcoholes secundarios se oxidan fácilmente a cetonas. -->
 
 ### Explicacion Pedagogica
-Los alcoholes secundarios ($R_1-CH(OH)-R_2$) poseen un hidrógeno en el carbono $alpha$. Al oxidarse pierden este hidrógeno y el del $-OH$, formando un grupo carbonilo interno ($R_1-CO-R_2$), que corresponde a una cetona.
+Los alcoholes secundarios ($R_1-CH(OH)-R_2$) poseen un hidrógeno en el carbono $\alpha$. Al oxidarse pierden este hidrógeno y el del $-OH$, formando un grupo carbonilo interno ($R_1-CO-R_2$), que corresponde a una cetona.
 
 ## Question 7 [D5-D6]
 **ID:** CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v7
@@ -173,7 +173,7 @@ Los alcoholes secundarios ($R_1-CH(OH)-R_2$) poseen un hidrógeno en el carbono 
 
 ### Opciones
 - [x] A) Porque el carbono que porta el grupo $-OH$ carece de átomos de hidrógeno disponibles ($C_alpha-H$) para ser removidos.
-  <!-- feedback: Correcto. Para formar el doble enlace $C=O$ sin romper la cadena $C-C$, se requiere un hidrógeno en el carbono $alpha$, del cual carecen los alcoholes $3^circ$. -->
+  <!-- feedback: Correcto. Para formar el doble enlace $C=O$ sin romper la cadena $C-C$, se requiere un hidrógeno en el carbono $\alpha$, del cual carecen los alcoholes $3^\circ$. -->
 - [ ] B) Porque no son solubles en agua.
   <!-- feedback: Incorrecto. La solubilidad no impide las reacciones redox si se usa solvente adecuado. -->
 - [ ] C) Porque el grupo $-OH$ de los alcoholes terciarios es un gas inerte.
@@ -189,7 +189,7 @@ La oxidación suave de alcoholes implica la abstracción del hidrógeno unido al
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.68
-**Contexto:** En una síntesis industrial en Cartagena, se calienta etanol en presencia de ácido sulfúrico concentrado ($H_2SO_4$) a $180^circ	ext{C}$.
+**Contexto:** En una síntesis industrial en Cartagena, se calienta etanol en presencia de ácido sulfúrico concentrado ($H_2SO_4$) a $180^\circ\text{C}$.
 
 ### Enunciado
 ¿Qué tipo de reacción ocurre y qué producto principal se obtiene?
@@ -205,14 +205,14 @@ La oxidación suave de alcoholes implica la abstracción del hidrógeno unido al
   <!-- feedback: Incorrecto. La saponificación es la hidrólisis básica de ésteres o grasas. -->
 
 ### Explicacion Pedagogica
-La deshidratación de alcoholes catalizada por ácido sulfúrico es una reacción de eliminación ($E1$ o $E2$). A temperaturas elevadas ($sim 180^circ	ext{C}$), se elimina una molécula de agua de la propia molécula de alcohol (deshidratación intramolecular), originando un doble enlace $C=C$ (eteno).
+La deshidratación de alcoholes catalizada por ácido sulfúrico es una reacción de eliminación ($E1$ o $E2$). A temperaturas elevadas ($sim 180^\circ\text{C}$), se elimina una molécula de agua de la propia molécula de alcohol (deshidratación intramolecular), originando un doble enlace $C=C$ (eteno).
 
 ## Question 9 [D5-D6]
 **ID:** CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **ICFES:** Indagación
 **Expected_Success:** 0.65
-**Contexto:** En el laboratorio de la Universidad Nacional en Bogotá, se mide el $pK_a$ del fenol ($C_6H_5OH, pK_a approx 10$) y se compara con el del etanol ($CH_3CH_2OH, pK_a approx 16$).
+**Contexto:** En el laboratorio de la Universidad Nacional en Bogotá, se mide el $pK_a$ del fenol ($C_6H_5OH, pK_a \approx 10$) y se compara con el del etanol ($CH_3CH_2OH, pK_a \approx 16$).
 
 ### Enunciado
 ¿Por qué el fenol es aproximadamente un millón de veces más ácido ($pK_a = 10$) que el etanol ($pK_a = 16$)?
@@ -221,7 +221,7 @@ La deshidratación de alcoholes catalizada por ácido sulfúrico es una reacció
 - [x] A) Porque la base conjugada del fenol (ion fenóxido) estabiliza la carga negativa por resonancia deslocalizándola sobre el anillo aromático.
   <!-- feedback: Correcto. El ion fenóxido ($C_6H_5O^-$) deslocaliza la carga negativa en el sistema $pi$ del benceno, desplazando el equilibrio hacia la ionización ácida. -->
 - [ ] B) Porque el etanol posee mayor masa molecular que el fenol.
-  <!-- feedback: Incorrecto. El fenol ($94	ext{ g/mol}$) es más pesado que el etanol ($46	ext{ g/mol}$). -->
+  <!-- feedback: Incorrecto. El fenol ($94\text{ g/mol}$) es más pesado que el etanol ($46\text{ g/mol}$). -->
 - [ ] C) Porque el fenol no posee átomos de oxígeno en su estructura.
   <!-- feedback: Incorrecto. El fenol posee un grupo $-OH$ enlazado al anillo bencénico. -->
 - [ ] D) Porque el etanol reacciona con el dióxido de carbono del aire formando un ácido fuerte.
@@ -264,9 +264,9 @@ Los éteres son compuestos orgánicos de fórmula general $R_1-O-R_2$ (donde $R_
 ¿Cuál es la velocidad relativa de reacción con el reactivo de Lucas (observada por la turbidez inmediata del cloruro de alquilo insoluble)?
 
 ### Opciones
-- [x] A) Alcohol terciario ($3^circ$) > Alcohol secundario ($2^circ$) > Alcohol primario ($1^circ$).
-  <!-- feedback: Correcto. La reacción de Lucas sigue un mecanismo $S_N1$ vía carbocatión. Los alcoholes $3^circ$ forman el carbocatión más estable reaccionando instantáneamente. -->
-- [ ] B) Alcohol primario ($1^circ$) > Alcohol secundario ($2^circ$) > Alcohol terciario ($3^circ$).
+- [x] A) Alcohol terciario ($3^\circ$) > Alcohol secundario ($2^\circ$) > Alcohol primario ($1^\circ$).
+  <!-- feedback: Correcto. La reacción de Lucas sigue un mecanismo $S_N1$ vía carbocatión. Los alcoholes $3^\circ$ forman el carbocatión más estable reaccionando instantáneamente. -->
+- [ ] B) Alcohol primario ($1^\circ$) > Alcohol secundario ($2^\circ$) > Alcohol terciario ($3^\circ$).
   <!-- feedback: Incorrecto. Secuencia invertida. Los alcoholes primarios no reaccionan a temperatura ambiente. -->
 - [ ] C) Los tres alcoholes reaccionan a la misma velocidad sin turbidez.
   <!-- feedback: Incorrecto. La prueba de Lucas sirve para diferenciar las tres clases por su tiempo de reacción. -->
@@ -274,7 +274,7 @@ Los éteres son compuestos orgánicos de fórmula general $R_1-O-R_2$ (donde $R_
   <!-- feedback: Incorrecto. Los primarios requieren horas o calentamiento intenso. -->
 
 ### Explicacion Pedagogica
-La prueba de Lucas evalúa la sustitución nucleofílica $S_N1$ para formar haluros de alquilo insolubles. Puesto que la estabilidad de los carbocationes es $3^circ > 2^circ > 1^circ$, los alcoholes terciarios reaccionan de inmediato (< 1 min), los secundarios tardan 5-10 min, y los primarios no muestran reacción aparente a temperatura ambiente.
+La prueba de Lucas evalúa la sustitución nucleofílica $S_N1$ para formar haluros de alquilo insolubles. Puesto que la estabilidad de los carbocationes es $3^\circ > 2^\circ > 1^\circ$, los alcoholes terciarios reaccionan de inmediato (< 1 min), los secundarios tardan 5-10 min, y los primarios no muestran reacción aparente a temperatura ambiente.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v12
@@ -330,7 +330,7 @@ La síntesis de Williamson es una reacción $S_N2$ donde un alkóxido (nucleófi
 **Contexto:** Se compara la acidez del fenol ($C_6H_5OH$) con la del *p*-nitrofenol ($O_2N-C_6H_4OH$).
 
 ### Enunciado
-¿Por qué el *p*-nitrofenol ($pK_a approx 7.15$) es sustancialmente MÁS ÁCIDO que el fenol no sustituido ($pK_a approx 10.0$)?
+¿Por qué el *p*-nitrofenol ($pK_a \approx 7.15$) es sustancialmente MÁS ÁCIDO que el fenol no sustituido ($pK_a \approx 10.0$)?
 
 ### Opciones
 - [x] A) Porque el grupo nitro ($-NO_2$) es un grupo fuertemente extractor de electrones por efectos inductivo y resonante, aumentando la estabilidad del anión nitrofenóxido.
@@ -373,7 +373,7 @@ El ion férrico ($Fe^{3+}$) reacciona selectivamente con compuestos que contiene
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.42
-**Contexto:** Se compara el punto de ebullición del etoxietano ($CH_3CH_2-O-CH_2CH_3$, $34.5^circ	ext{C}$) con el del 1-butanol ($CH_3CH_2CH_2CH_2OH$, $117^circ	ext{C}$), ambos isómeros funcionales de fórmula $C_4H_{10}O$.
+**Contexto:** Se compara el punto de ebullición del etoxietano ($CH_3CH_2-O-CH_2CH_3$, $34.5^\circ\text{C}$) con el del 1-butanol ($CH_3CH_2CH_2CH_2OH$, $117^\circ\text{C}$), ambos isómeros funcionales de fórmula $C_4H_{10}O$.
 
 ### Enunciado
 ¿A qué se debe la enorme diferencia de puntos de ebullición entre estos dos isómeros de idéntica masa molar?
@@ -384,7 +384,7 @@ El ion férrico ($Fe^{3+}$) reacciona selectivamente con compuestos que contiene
 - [ ] B) El etoxietano es una molécula iónica de alta densidad.
   <!-- feedback: Incorrecto. Es un líquido volátil apolar/débilmente polar. -->
 - [ ] C) El 1-butanol posee menor masa molecular que el etoxietano.
-  <!-- feedback: Incorrecto. Tienen idéntica masa molecular ($74	ext{ g/mol}$) por ser isómeros. -->
+  <!-- feedback: Incorrecto. Tienen idéntica masa molecular ($74\text{ g/mol}$) por ser isómeros. -->
 - [ ] D) El etoxietano se descompone espontáneamente en aire libre.
   <!-- feedback: Incorrecto. No justifica la diferencia de temperaturas de cambio de fase física. -->
 
@@ -403,7 +403,7 @@ A pesar de poseer idéntica fórmula molecular ($C_4H_{10}O$) y masa atómica, e
 
 ### Opciones
 - [x] A) *tert*-butóxido de potasio ($(CH_3)_3C-O^- K^+$) + Yodometano ($CH_3I$).
-  <!-- feedback: Correcto. Usar un nucleófilo impedido con un haluro de metilo ($CH_3I$, no impedido sin hidrógenos $eta$) obliga al mecanismo $S_N2$ impidiendo la eliminación. -->
+  <!-- feedback: Correcto. Usar un nucleófilo impedido con un haluro de metilo ($CH_3I$, no impedido sin hidrógenos $\beta$) obliga al mecanismo $S_N2$ impidiendo la eliminación. -->
 - [ ] B) Metóxido de sodio ($CH_3O^- Na^+$) + cloruro de *tert*-butilo ($(CH_3)_3C-Cl$).
   <!-- feedback: Incorrecto. El haluro terciario con una base fuerte sufrirá eliminación $E2$ exclusiva formando isobuteno en lugar del éter. -->
 - [ ] C) Metanol destilado + *tert*-butanol en medio alcalino suave.
@@ -459,9 +459,9 @@ En el *o*-nitrofenol, los grupos $-OH$ y $-NO_2$ están adyacentes y forman un e
 
 ### Explicacion Pedagogica
 Mecanismo de ruptura ácida de éteres con $HI$ concentrado en caliente:
-1) $R-O-R + HI ightarrow R-OH + R-I$
-2) El alcohol $R-OH$ generado reacciona con la segunda molécula de $HI$: $R-OH + HI ightarrow R-I + H_2O$.
-Resultado global: $R-O-R + 2 HI ightarrow 2 R-I + H_2O$.
+1) $R-O-R + HI \rightarrow R-OH + R-I$
+2) El alcohol $R-OH$ generado reacciona con la segunda molécula de $HI$: $R-OH + HI \rightarrow R-I + H_2O$.
+Resultado global: $R-O-R + 2 HI \rightarrow 2 R-I + H_2O$.
 
 ## Question 20 [D9-D10]
 **ID:** CO-CN-11-2026-W11-alcoholes-fenoles-001-MASTERY-bundle-v20

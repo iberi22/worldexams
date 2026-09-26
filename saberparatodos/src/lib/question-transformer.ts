@@ -10,6 +10,18 @@ import { filterQuarantinedQuestions } from './questions/quarantine-registry';
 /**
  * Normalize a subject string to a canonical key format
  */
+/**
+ * Helper to get the first non-empty string from a list of values
+ */
+export function firstNonEmpty(...values: unknown[]): string | undefined {
+  for (const v of values) {
+    if (typeof v === 'string' && v.trim() !== '') {
+      return v.trim();
+    }
+  }
+  return undefined;
+}
+
 export function normalizeSubjectKey(subject: string): string {
   const normalized = String(subject || '')
     .trim()
@@ -71,7 +83,6 @@ export function normalizeSubjectKey(subject: string): string {
     english: 'ingles',
     ingles: 'ingles',
     ing: 'ingles',
-    frances: 'ingles',
 
     // Tecnología
     tecnologiaeinformatica: 'tecnologia_informatica',
@@ -228,8 +239,7 @@ export function getPackSubjectAliases(subject: string): string[] {
       return [
         'ingles',
         'ing',
-        'english',
-        'frances'
+        'english'
       ];
     case 'tecnologia_informatica':
       return [
@@ -310,7 +320,7 @@ export function transformQuestion(apiQuestion: any, grade: number, subject: stri
     return {
       id,
       text: parsedOption.text,
-      feedback: parsedOption.feedback
+      feedback: firstNonEmpty(opt.feedback, opt.retroalimentacion, opt.rationale, parsedOption.feedback)
     };
   });
 

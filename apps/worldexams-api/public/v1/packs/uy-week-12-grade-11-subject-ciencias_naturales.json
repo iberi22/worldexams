@@ -748,7 +748,7 @@
           "letter": "C",
           "text": "$\\text{NEP} = +600\\text{ g C/m}^2\\text{/año}$; equivale únicamente a la PPN omitiendo $R_h$.",
           "is_correct": false,
-          "feedback": "Incorrecto. $600$ es la PPN ($\text{PPB} - R_a$), pero la NEP deduce también la respiración heterótrofa $R_h$."
+          "feedback": "Incorrecto. $600$ es la PPN ($\\text{PPB} - R_a$), pero la NEP deduce también la respiración heterótrofa $R_h$."
         },
         {
           "letter": "D",

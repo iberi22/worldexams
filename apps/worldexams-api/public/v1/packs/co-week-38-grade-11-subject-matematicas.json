@@ -84,7 +84,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Una sucesión geométrica tiene la forma $a_n = a_0 cdot r^n$. Dado que el número de bacterias se duplica a cada paso, la razón multiplicativa es $r = 2$.",
+      "explanation": "Una sucesión geométrica tiene la forma $a_n = a_0 \\cdot r^n$. Dado que el número de bacterias se duplica a cada paso, la razón multiplicativa es $r = 2$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -377,7 +377,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v9",
-      "statement": "¿Cuál es la suma infinita de todos los términos de esta sucesión ($S_infty$)?",
+      "statement": "¿Cuál es la suma infinita de todos los términos de esta sucesión ($S_\\infty$)?",
       "context": "Considere la sucesión geométrica infinita $16, 8, 4, 2, 1, \\frac{1}{2}, dots$",
       "options": [
         {
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para una serie geométrica convergente ($|r| < 1$), la suma infinita se calcula como $S_infty = \\frac{a_1}{1 - r}$.\nAquí $a_1 = 16$ y $r = 0.5$: $S_infty = \\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.",
+      "explanation": "Para una serie geométrica convergente ($|r| < 1$), la suma infinita se calcula como $S_\\infty = \\frac{a_1}{1 - r}$.\nAquí $a_1 = 16$ y $r = 0.5$: $S_\\infty = \\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -452,7 +452,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La altura tras $n$ rebotes es $h_n = h_0 cdot r^n$. Para $n=3, h_0 = 10, r = 0.75$:\n$h_3 = 10   imes (0.75)^3 = 10   imes 0.421875 = 4.21875$ metros.",
+      "explanation": "La altura tras $n$ rebotes es $h_n = h_0 \\cdot r^n$. Para $n=3, h_0 = 10, r = 0.75$:\n$h_3 = 10   imes (0.75)^3 = 10   imes 0.421875 = 4.21875$ metros.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -562,7 +562,7 @@
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v13",
       "statement": "¿A qué expresión simplificada equivale la suma de los primeros $n$ números impares?",
-      "context": "Se quiere calcular la suma de los primeros $n$ términos de la serie $sum_{k=1}^n (2k - 1)$, que representa la suma de los primeros números impares.",
+      "context": "Se quiere calcular la suma de los primeros $n$ términos de la serie $\\sum_{k=1}^n (2k - 1)$, que representa la suma de los primeros números impares.",
       "options": [
         {
           "letter": "A",
@@ -590,7 +590,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Demostración por inducción o mediante suma telescópica: $sum_{k=1}^n (2k - 1) = 2 sum k - sum 1 = 2 \\frac{n(n+1)}{2} - n = n^2 + n - n = n^2$.",
+      "explanation": "Demostración por inducción o mediante suma telescópica: $\\sum_{k=1}^n (2k - 1) = 2 \\sum k - \\sum 1 = 2 \\frac{n(n+1)}{2} - n = n^2 + n - n = n^2$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -612,13 +612,13 @@
       "options": [
         {
           "letter": "A",
-          "text": "$V(t) = 50,000,000 cdot (0.90)^t$",
+          "text": "$V(t) = 50,000,000 \\cdot (0.90)^t$",
           "is_correct": true,
           "feedback": "Al perder el 10% cada año, conserva el 90% (0.90) de su valor del año anterior: V(t) = V_0 * (0.90)^t."
         },
         {
           "letter": "B",
-          "text": "$V(t) = 50,000,000 cdot (0.10)^t$",
+          "text": "$V(t) = 50,000,000 \\cdot (0.10)^t$",
           "is_correct": false,
           "feedback": "Usó el porcentaje de depreciación en lugar del valor retenido (0.90)."
         },
@@ -630,7 +630,7 @@
         },
         {
           "letter": "D",
-          "text": "$V(t) = 50,000,000 cdot (1.10)^t$",
+          "text": "$V(t) = 50,000,000 \\cdot (1.10)^t$",
           "is_correct": false,
           "feedback": "Calculó apreciación (ganancia del 10%) en lugar de depreciación."
         }
@@ -654,7 +654,7 @@
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el límite de la suma de esta serie cuando $n$ tiende a infinito?",
-      "context": "Dada la serie telescópica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1} \night)$.",
+      "context": "Dada la serie telescópica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1}\night)$.",
       "options": [
         {
           "letter": "A",
@@ -670,7 +670,7 @@
         },
         {
           "letter": "C",
-          "text": "$infty$",
+          "text": "$\\infty$",
           "is_correct": false,
           "feedback": "Asumió divergencia sin aplicar la propiedad telescópica."
         },
@@ -699,7 +699,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v16",
-      "statement": "¿Al cabo de cuántos años el capital acumulado superará por primera vez los 1,200,000 COP? (Utilice $log(1.20) approx 0.07918$ y $log(1.05) approx 0.02119$).",
+      "statement": "¿Al cabo de cuántos años el capital acumulado superará por primera vez los 1,200,000 COP? (Utilice $log(1.20) \\approx 0.07918$ y $log(1.05) \\approx 0.02119$).",
       "context": "Una persona deposita 1,000,000 COP a una tasa de interés compuesto del $5%$ anual en un fondo de inversión en Armenia.",
       "options": [
         {
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$1,000,000(1.05)^t = 1,200,000 Rightarrow (1.05)^t = 1.20$.\nTomando logaritmos: $t = \\frac{log(1.20)}{log(1.05)} approx \\frac{0.07918}{0.02119} approx 3.74$ años.\nRedondeando al entero superior en años completos: 4 años.",
+      "explanation": "$1,000,000(1.05)^t = 1,200,000 Rightarrow (1.05)^t = 1.20$.\nTomando logaritmos: $t = \\frac{\\log(1.20)}{\\log(1.05)} \\approx \\frac{0.07918}{0.02119} \\approx 3.74$ años.\nRedondeando al entero superior en años completos: 4 años.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -745,7 +745,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v17",
-      "statement": "¿Cuál es la distancia total recorrida acumulada durante los primeros 10 días de entrenamiento? (Utilice $(1.10)^{10} approx 2.5937$).",
+      "statement": "¿Cuál es la distancia total recorrida acumulada durante los primeros 10 días de entrenamiento? (Utilice $(1.10)^{10} \\approx 2.5937$).",
       "context": "Un atleta en Bogotá entrena para un maratón. El primer día corre 5 km y cada día siguiente aumenta la distancia en un $10%$ respecto al día anterior.",
       "options": [
         {

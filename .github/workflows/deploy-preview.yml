@@ -24,6 +24,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -43,6 +45,29 @@ jobs:
       - name: Unit tests
         run: npm test
 
+      # Gates added after the 2026-09-26 exam-delivery incident
+      # (docs/DIAGNOSTICO_EXAMENES_2026-09-26.md): nothing validated bundles or
+      # ran vitest in CI, so broken LaTeX, placeholder bundles and a transformer
+      # that dropped option feedback reached production.
+      - name: Validate changed bundles (protocol v5.2)
+        run: |
+          git fetch --no-tags --depth=200 origin main
+          BASE=$(git merge-base origin/main HEAD || echo origin/main)
+          mapfile -t FILES < <(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'questions_data/**/*.md' | grep -- '-MASTERY-bundle\.md$' || true)
+          if [ "${#FILES[@]}" -eq 0 ]; then echo "No changed bundles."; exit 0; fi
+          echo "Validating ${#FILES[@]} bundle(s)"
+          node scripts/validate-bundles-v52.mjs "${FILES[@]}"
+
+      - name: Pack manifest freshness (warning only; deploy regenerates it)
+        run: node apps/worldexams-api/scripts/build-pack-manifest.mjs --check || echo "::warning::apps/worldexams-api/public/v1/packs/_manifest.json is stale — production deploy regenerates it; run the script to update the committed copy."
+
+      - name: Vitest — API worker + question pipeline
+        run: npx vitest run apps/worldexams-api/tests saberparatodos/src/lib
+
+      - name: Vitest — app unit suite
+        working-directory: saberparatodos
+        run: npx vitest run tests/unit --retry=2
+
       # Nombre de rama -> fragmento valido para nombre de Worker / etiqueta DNS
       # de *.workers.dev: solo [a-z0-9-], sin guiones en los extremos y con
       # longitud acotada (etiqueta DNS <= 63; los prefijos
@@ -54,9 +79,11 @@ jobs:
         id: refname
         run: |
           SAFE=$(printf '%s' "$GITHUB_REF_NAME" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9-]+/-/g; s/-+/-/g; s/^-+//; s/-+$//')
-          if [ "${#SAFE}" -gt 40 ]; then
+          # Cloudflare: script names with previews enabled must be <= 54 chars
+          # (error 100315). Prefix "saberparatodos-preview-" is 23 -> SAFE <= 31.
+          if [ "${#SAFE}" -gt 31 ]; then
             HASH=$(printf '%s' "$GITHUB_REF_NAME" | sha1sum | cut -c1-6)
-            SAFE="$(printf '%s' "$SAFE" | cut -c1-33 | sed -E 's/-+$//')-${HASH}"
+            SAFE="$(printf '%s' "$SAFE" | cut -c1-24 | sed -E 's/-+$//')-${HASH}"
           fi
           [ -n "$SAFE" ] || { echo "::error::No se pudo derivar un nombre seguro de '$GITHUB_REF_NAME'"; exit 1; }
           echo "safe=$SAFE" >> "$GITHUB_OUTPUT"
@@ -154,7 +181,12 @@ jobs:
         # este PR). Ahora el job queda marcado como fallido en la UI, y
         # continue-on-error evita que bloquee el workflow.
         run: |
-          npx wrangler deploy --name="worldexams-api-preview-${SAFE_REF}" || {
+          # The production wrangler.toml binds [[routes]] api.saberparatodos.space/*,
+          # which a preview script can't claim ("routes assigned to another worker").
+          # Deploy previews from a copy without the routes block (workers.dev only).
+          python3 -c "import re;s=open('wrangler.toml').read();open('wrangler.preview.toml','w').write(re.sub(r'(?ms)^\[\[routes\]\].*?(?=^\[|\Z)','',s))"
+          ! grep -q '^\[\[routes\]\]' wrangler.preview.toml
+          npx wrangler deploy --config wrangler.preview.toml --name="worldexams-api-preview-${SAFE_REF}" || {
             echo "::warning::API preview deploy falló. Revisar logs (ya no debería ser el bug del '/' en el nombre)."
             exit 1
           }

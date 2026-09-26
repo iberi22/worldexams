@@ -54,20 +54,20 @@ Una magnitud escalar queda completamente definida por un número y una unidad de
 **Contexto:** En un taller de repaso en Medellín, se revisa la clasificación de la materia y los tipos de carbono.
 
 ### Enunciado
-¿Qué hibridación presenta un átomo de carbono que forma cuatro enlaces sencillos de tipo sigma ($sigma$)?
+¿Qué hibridación presenta un átomo de carbono que forma cuatro enlaces sencillos de tipo sigma ($\sigma$)?
 
 ### Opciones
 - [x] A) Hibridación $sp^3$
-  <!-- feedback: Correcto. La hibridación $sp^3$ forma 4 enlaces $sigma$ dirigidos tetraédricamente ($109.5^circ$). -->
+  <!-- feedback: Correcto. La hibridación $sp^3$ forma 4 enlaces $\sigma$ dirigidos tetraédricamente ($109.5^\circ$). -->
 - [ ] B) Hibridación $sp^2$
-  <!-- feedback: Incorrecto. Característica de carbonos con un enlace doble y tres enlaces $sigma$. -->
+  <!-- feedback: Incorrecto. Característica de carbonos con un enlace doble y tres enlaces $\sigma$. -->
 - [ ] C) Hibridación $sp$
   <!-- feedback: Incorrecto. Característica de carbonos con un enlace triple o dos enlaces dobles acumulados. -->
 - [ ] D) Hibridación $d^2sp^3$
   <!-- feedback: Incorrecto. Imposible para el carbono por falta de orbitales $d$ de valencia. -->
 
 ### Explicacion Pedagogica
-Un carbono con 4 enlaces sencillos de tipo $sigma$ distribuidos tetraédricamente posee hibridación $sp^3$.
+Un carbono con 4 enlaces sencillos de tipo $\sigma$ distribuidos tetraédricamente posee hibridación $sp^3$.
 
 ## Question 3 [D3-D4]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v3
@@ -103,13 +103,13 @@ Bajo la acción exclusiva de fuerzas conservativas como la gravedad, la energía
 ¿Cuál es el orden correcto de llenado de los subniveles atómicos $3s$, $3p$, $4s$ y $3d$?
 
 ### Opciones
-- [x] A) $3s ightarrow 3p ightarrow 4s ightarrow 3d$
+- [x] A) $3s \rightarrow 3p \rightarrow 4s \rightarrow 3d$
   <!-- feedback: Correcto. Según la regla de $(n+l)$, el subnivel $4s$ ($n+l = 4+0 = 4$) se llena antes que el $3d$ ($n+l = 3+2 = 5$). -->
-- [ ] B) $3s ightarrow 3p ightarrow 3d ightarrow 4s$
+- [ ] B) $3s \rightarrow 3p \rightarrow 3d \rightarrow 4s$
   <!-- feedback: Incorrecto. Secuencia numérica engañosa que ignora la regla de energía $(n+l)$. -->
-- [ ] C) $4s ightarrow 3s ightarrow 3p ightarrow 3d$
+- [ ] C) $4s \rightarrow 3s \rightarrow 3p \rightarrow 3d$
   <!-- feedback: Incorrecto. Los niveles inferiores $n=3$ se llenan antes que $n=4$. -->
-- [ ] D) $3d ightarrow 4s ightarrow 3p ightarrow 3s$
+- [ ] D) $3d \rightarrow 4s \rightarrow 3p \rightarrow 3s$
   <!-- feedback: Incorrecto. Llenado inverso a la energía de subnivel. -->
 
 ### Explicacion Pedagogica
@@ -120,46 +120,46 @@ El Principio de Auf-bau establece que los orbitales se llenan en orden creciente
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.75
-**Contexto:** Un proyectil es lanzado con una velocidad de $20	ext{ m/s}$ y un ángulo de $30^circ$ sobre la horizontal en Ibagué. Considere $g = 10	ext{ m/s}^2$ y $sin(30^circ) = 0.5$.
+**Contexto:** Un proyectil es lanzado con una velocidad de $20\text{ m/s}$ y un ángulo de $30^\circ$ sobre la horizontal en Ibagué. Considere $g = 10\text{ m/s}^2$ y $\sin(30^circ) = 0.5$.
 
 ### Enunciado
 ¿Cuál es la altura máxima alcanzada por el proyectil?
 
 ### Opciones
-- [x] A) $5	ext{ metros}$
-  <!-- feedback: Correcto. $v_{y0} = 20 sin(30^circ) = 10	ext{ m/s}$. $h_{max} = \frac{v_{y0}^2}{2g} = \frac{100}{20} = 5	ext{ m}$. -->
-- [ ] B) $10	ext{ metros}$
+- [x] A) $5\text{ metros}$
+  <!-- feedback: Correcto. $v_{y0} = 20 \sin(30^circ) = 10\text{ m/s}$. $h_{max} = \frac{v_{y0}^2}{2g} = \frac{100}{20} = 5\text{ m}$. -->
+- [ ] B) $10\text{ metros}$
   <!-- feedback: Incorrecto. Se omitió dividir entre 2 la constante $g$. -->
-- [ ] C) $20	ext{ metros}$
+- [ ] C) $20\text{ metros}$
   <!-- feedback: Incorrecto. Se calculó usando la velocidad total inicial en lugar de la componente vertical. -->
-- [ ] D) $2.5	ext{ metros}$
+- [ ] D) $2.5\text{ metros}$
   <!-- feedback: Incorrecto. Error de escala al dividir entre 40. -->
 
 ### Explicacion Pedagogica
-La componente vertical inicial de la velocidad es $v_{y0} = v_0 sin	heta = 20 	imes 0.5 = 10	ext{ m/s}$. La altura máxima alcanzada se obtiene con $h_{max} = \frac{v_{y0}^2}{2g} = \frac{100}{20} = 5	ext{ m}$.
+La componente vertical inicial de la velocidad es $v_{y0} = v_0 \sin\theta = 20 \times 0.5 = 10\text{ m/s}$. La altura máxima alcanzada se obtiene con $h_{max} = \frac{v_{y0}^2}{2g} = \frac{100}{20} = 5\text{ m}$.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.72
-**Contexto:** Un bloque de $10	ext{ kg}$ se acelera sobre un piso horizontal a $2	ext{ m/s}^2$ mediante una fuerza horizontal $F$. Si la fuerza de fricción cinemática es $f_k = 5	ext{ N}$, ¿cuál es el valor de la fuerza $F$?
+**Contexto:** Un bloque de $10\text{ kg}$ se acelera sobre un piso horizontal a $2\text{ m/s}^2$ mediante una fuerza horizontal $F$. Si la fuerza de fricción cinemática es $f_k = 5\text{ N}$, ¿cuál es el valor de la fuerza $F$?
 
 ### Enunciado
 ¿Cuál es la magnitud de la fuerza aplada $F$?
 
 ### Opciones
-- [x] A) $25	ext{ N}$
-  <!-- feedback: Correcto. Segunda ley de Newton: $F - f_k = m a \implies F - 5 = 10 	imes 2 \implies F = 20 + 5 = 25	ext{ N}$. -->
-- [ ] B) $20	ext{ N}$
-  <!-- feedback: Incorrecto. $20	ext{ N}$ es la fuerza neta $m cdot a$ sin compensar la fricción. -->
-- [ ] C) $15	ext{ N}$
+- [x] A) $25\text{ N}$
+  <!-- feedback: Correcto. Segunda ley de Newton: $F - f_k = m a \implies F - 5 = 10 \times 2 \implies F = 20 + 5 = 25\text{ N}$. -->
+- [ ] B) $20\text{ N}$
+  <!-- feedback: Incorrecto. $20\text{ N}$ es la fuerza neta $m \cdot a$ sin compensar la fricción. -->
+- [ ] C) $15\text{ N}$
   <!-- feedback: Incorrecto. Resta errónea de la fricción en lugar de sumarla. -->
-- [ ] D) $50	ext{ N}$
+- [ ] D) $50\text{ N}$
   <!-- feedback: Incorrecto. Multiplicación errónea de masa por fricción. -->
 
 ### Explicacion Pedagogica
-Aplicando la segunda ley de Newton $F_{neta} = F - f_k = m cdot a$. Despejando la fuerza aplicada: $F = m cdot a + f_k = (10	ext{ kg} 	imes 2	ext{ m/s}^2) + 5	ext{ N} = 20 + 5 = 25	ext{ N}$.
+Aplicando la segunda ley de Newton $F_{neta} = F - f_k = m \cdot a$. Despejando la fuerza aplicada: $F = m \cdot a + f_k = (10\text{ kg} \times 2\text{ m/s}^2) + 5\text{ N} = 20 + 5 = 25\text{ N}$.
 
 ## Question 7 [D5-D6]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v7
@@ -169,20 +169,20 @@ Aplicando la segunda ley de Newton $F_{neta} = F - f_k = m cdot a$. Despejando l
 **Contexto:** Se determina la masa molecular y estructura del 2-penteno ($C_5H_{10}$) en Neiva.
 
 ### Enunciado
-¿Cuántos enlaces sigma ($sigma$) y enlaces pi ($pi$) posee la molécula acíclica de 2-penteno ($CH_3-CH=CH-CH_2-CH_3$)?
+¿Cuántos enlaces sigma ($\sigma$) y enlaces pi ($pi$) posee la molécula acíclica de 2-penteno ($CH_3-CH=CH-CH_2-CH_3$)?
 
 ### Opciones
-- [x] A) 14 enlaces $sigma$ y 1 enlace $pi$.
-  <!-- feedback: Correcto. Hay 4 enlaces $C-C$ simples/doble ($3sigma + 1sigma + 1pi$) y 10 enlaces $C-H$ ($sigma$). Total: $14sigma$ y $1pi$. -->
-- [ ] B) 15 enlaces $sigma$ y 0 enlaces $pi$.
+- [x] A) 14 enlaces $\sigma$ y 1 enlace $pi$.
+  <!-- feedback: Correcto. Hay 4 enlaces $C-C$ simples/doble ($3\sigma + 1\sigma + 1pi$) y 10 enlaces $C-H$ ($\sigma$). Total: $14\sigma$ y $1pi$. -->
+- [ ] B) 15 enlaces $\sigma$ y 0 enlaces $pi$.
   <!-- feedback: Incorrecto. El doble enlace contiene necesariamente $1pi$. -->
-- [ ] C) 12 enlaces $sigma$ y 2 enlaces $pi$.
-  <!-- feedback: Incorrecto. Los enlaces dobles aislados consisten en $1sigma$ y $1pi$. -->
-- [ ] D) 10 enlaces $sigma$ y 4 enlaces $pi$.
+- [ ] C) 12 enlaces $\sigma$ y 2 enlaces $pi$.
+  <!-- feedback: Incorrecto. Los enlaces dobles aislados consisten en $1\sigma$ y $1pi$. -->
+- [ ] D) 10 enlaces $\sigma$ y 4 enlaces $pi$.
   <!-- feedback: Incorrecto. Conteo equivocado de los enlaces hidrógeno-carbono. -->
 
 ### Explicacion Pedagogica
-En la molécula de $C_5H_{10}$: Hay 10 enlaces sencillos $C-H$ ($sigma$), 3 enlaces $C-C$ sencillos ($sigma$), y 1 enlace doble $C=C$ ($1sigma + 1pi$). Suma total: $14$ enlaces $sigma$ y $1$ enlace $pi$.
+En la molécula de $C_5H_{10}$: Hay 10 enlaces sencillos $C-H$ ($\sigma$), 3 enlaces $C-C$ sencillos ($\sigma$), y 1 enlace doble $C=C$ ($1\sigma + 1pi$). Suma total: $14$ enlaces $\sigma$ y $1$ enlace $pi$.
 
 ## Question 8 [D5-D6]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v8
@@ -212,23 +212,23 @@ Al comparar especies isoelectrónicas con 18 electrones ($S^{2-}$ y $Ca^{2+}$), 
 **Bloom:** Apply
 **ICFES:** Indagación
 **Expected_Success:** 0.65
-**Contexto:** Una grúa eleva un contenedor de $500	ext{ kg}$ a una altura de $12	ext{ m}$ en $10	ext{ segundos}$ a velocidad constante en el puerto de Buenaventura. Considere $g = 10	ext{ m/s}^2$.
+**Contexto:** Una grúa eleva un contenedor de $500\text{ kg}$ a una altura de $12\text{ m}$ en $10\text{ segundos}$ a velocidad constante en el puerto de Buenaventura. Considere $g = 10\text{ m/s}^2$.
 
 ### Enunciado
 ¿Cuál es la potencia media desarrollada por la grúa durante el izaje?
 
 ### Opciones
-- [x] A) $6000	ext{ Watts}$ ($6	ext{ kW}$)
-  <!-- feedback: Correcto. Trabajo $W = m g h = 500 	imes 10 	imes 12 = 60000	ext{ J}$. Potencia $P = \frac{W}{t} = \frac{60000}{10} = 6000	ext{ W}$. -->
-- [ ] B) $600	ext{ Watts}$
+- [x] A) $6000\text{ Watts}$ ($6\text{ kW}$)
+  <!-- feedback: Correcto. Trabajo $W = m g h = 500 \times 10 \times 12 = 60000\text{ J}$. Potencia $P = \frac{W}{t} = \frac{60000}{10} = 6000\text{ W}$. -->
+- [ ] B) $600\text{ Watts}$
   <!-- feedback: Incorrecto. Se omitió multiplicar por la constante de gravedad $g$. -->
-- [ ] C) $60000	ext{ Watts}$
+- [ ] C) $60000\text{ Watts}$
   <!-- feedback: Incorrecto. Es el trabajo total realizado en Joules, no la potencia por segundo. -->
-- [ ] D) $1200	ext{ Watts}$
+- [ ] D) $1200\text{ Watts}$
   <!-- feedback: Incorrecto. División errónea de la masa por el tiempo. -->
 
 ### Explicacion Pedagogica
-La potencia mecánica es la tasa de realización de trabajo: $P = \frac{W}{Delta t} = \frac{m cdot g cdot h}{Delta t} = \frac{500	ext{ kg} 	imes 10	ext{ m/s}^2 	imes 12	ext{ m}}{10	ext{ s}} = 6000	ext{ W} = 6	ext{ kW}$.
+La potencia mecánica es la tasa de realización de trabajo: $P = \frac{W}{\Delta t} = \frac{m \cdot g \cdot h}{\Delta t} = \frac{500\text{ kg} \times 10\text{ m/s}^2 \times 12\text{ m}}{10\text{ s}} = 6000\text{ W} = 6\text{ kW}$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v10
@@ -258,23 +258,23 @@ El electrón diferenciador del Sodio ($Z=11$) ocupa el orbital $3s^1$. Por tanto
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.58
-**Contexto:** Dos esferas idénticas de $1	ext{ kg}$ se desplazan sobre una pista recta en Pasto. La esfera A viaja a $6	ext{ m/s}$ hacia la derecha y choca elásticamente contra la esfera B que viaja a $2	ext{ m/s}$ hacia la izquierda.
+**Contexto:** Dos esferas idénticas de $1\text{ kg}$ se desplazan sobre una pista recta en Pasto. La esfera A viaja a $6\text{ m/s}$ hacia la derecha y choca elásticamente contra la esfera B que viaja a $2\text{ m/s}$ hacia la izquierda.
 
 ### Enunciado
 ¿Cuáles son las velocidades de las esferas A y B tras el choque elástico entre masas idénticas?
 
 ### Opciones
-- [x] A) Esfera A = $2	ext{ m/s}$ hacia la izquierda; Esfera B = $6	ext{ m/s}$ hacia la derecha.
-  <!-- feedback: Correcto. En una colisión elástica unidimensional entre masas iguales, los cuerpos intercambian sus velocidades vectoriales completas ($v_{Af} = -2	ext{ m/s}$, $v_{Bf} = +6	ext{ m/s}$). -->
-- [ ] B) Esfera A = $6	ext{ m/s}$ hacia la izquierda; Esfera B = $2	ext{ m/s}$ hacia la derecha.
+- [x] A) Esfera A = $2\text{ m/s}$ hacia la izquierda; Esfera B = $6\text{ m/s}$ hacia la derecha.
+  <!-- feedback: Correcto. En una colisión elástica unidimensional entre masas iguales, los cuerpos intercambian sus velocidades vectoriales completas ($v_{Af} = -2\text{ m/s}$, $v_{Bf} = +6\text{ m/s}$). -->
+- [ ] B) Esfera A = $6\text{ m/s}$ hacia la izquierda; Esfera B = $2\text{ m/s}$ hacia la derecha.
   <!-- feedback: Incorrecto. Simplemente invierte los signos sin intercambiar los valores entre masas. -->
 - [ ] C) Ambas esferas quedan en reposo.
   <!-- feedback: Incorrecto. Ocurriría solo si chocaran inelásticamente con velocidades opuestas e iguales. -->
-- [ ] D) Ambas avanzan juntas a $2	ext{ m/s}$ hacia la derecha.
+- [ ] D) Ambas avanzan juntas a $2\text{ m/s}$ hacia la derecha.
   <!-- feedback: Incorrecto. Eso caracterizaría a un choque perfectamente inelástico. -->
 
 ### Explicacion Pedagogica
-En colisiones frontales perfectamente elásticas entre dos masas exactamente iguales ($m_1 = m_2$), las partículas intercambian por completo sus vectores de velocidad. Por tanto: $v_{Af} = v_{Bi} = -2	ext{ m/s}$ y $v_{Bf} = v_{Ai} = +6	ext{ m/s}$.
+En colisiones frontales perfectamente elásticas entre dos masas exactamente iguales ($m_1 = m_2$), las partículas intercambian por completo sus vectores de velocidad. Por tanto: $v_{Af} = v_{Bi} = -2\text{ m/s}$ y $v_{Bf} = v_{Ai} = +6\text{ m/s}$.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v12
@@ -304,23 +304,23 @@ Al aumentar la longitud de la cadena lineal en alcanos, la masa molecular y la s
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.52
-**Contexto:** Un bloque de $5	ext{ kg}$ parte del reposo y se desliza desde la cima de un plano inclinado de $4	ext{ m}$ de altura en Bogotá. Al llegar a la base, su velocidad medida es de $6	ext{ m/s}$. Considere $g = 10	ext{ m/s}^2$.
+**Contexto:** Un bloque de $5\text{ kg}$ parte del reposo y se desliza desde la cima de un plano inclinado de $4\text{ m}$ de altura en Bogotá. Al llegar a la base, su velocidad medida es de $6\text{ m/s}$. Considere $g = 10\text{ m/s}^2$.
 
 ### Enunciado
 ¿Cuánto trabajo en Joules realizó la fuerza de fricción durante el descenso del bloque?
 
 ### Opciones
-- [x] A) $-110	ext{ Joules}$
-  <!-- feedback: Correcto. $E_{pi} = m g h = 5 	imes 10 	imes 4 = 200	ext{ J}$. $E_{kf} = \frac{1}{2} m v^2 = \frac{1}{2}(5)(36) = 90	ext{ J}$. Trabajo de fricción $W_{friccion} = E_{kf} - E_{pi} = 90 - 200 = -110	ext{ J}$. -->
-- [ ] B) $-200	ext{ Joules}$
+- [x] A) $-110\text{ Joules}$
+  <!-- feedback: Correcto. $E_{pi} = m g h = 5 \times 10 \times 4 = 200\text{ J}$. $E_{kf} = \frac{1}{2} m v^2 = \frac{1}{2}(5)(36) = 90\text{ J}$. Trabajo de fricción $W_{friccion} = E_{kf} - E_{pi} = 90 - 200 = -110\text{ J}$. -->
+- [ ] B) $-200\text{ Joules}$
   <!-- feedback: Incorrecto. Es la energía potencial inicial total disipada hipotéticamente. -->
-- [ ] C) $-90	ext{ Joules}$
+- [ ] C) $-90\text{ Joules}$
   <!-- feedback: Incorrecto. Es la energía cinética final adquirida por el cuerpo. -->
-- [ ] D) $0	ext{ Joules}$
-  <!-- feedback: Incorrecto. Si no hubiera fricción la velocidad final habría sido $sqrt{80} approx 8.94	ext{ m/s}$. -->
+- [ ] D) $0\text{ Joules}$
+  <!-- feedback: Incorrecto. Si no hubiera fricción la velocidad final habría sido $\sqrt{80} \approx 8.94\text{ m/s}$. -->
 
 ### Explicacion Pedagogica
-Por el Teorema Trabajo-Energía no conservativo: $W_{friccion} = Delta E_m = E_{m,f} - E_{m,i} = \frac{1}{2} m v_f^2 - m g h_i = 90	ext{ J} - 200	ext{ J} = -110	ext{ J}$.
+Por el Teorema Trabajo-Energía no conservativo: $W_{friccion} = \Delta E_m = E_{m,f} - E_{m,i} = \frac{1}{2} m v_f^2 - m g h_i = 90\text{ J} - 200\text{ J} = -110\text{ J}$.
 
 ## Question 14 [D7-D8]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v14
@@ -328,8 +328,8 @@ Por el Teorema Trabajo-Energía no conservativo: $W_{friccion} = Delta E_m = E_{
 **ICFES:** Indagación
 **Expected_Success:** 0.48
 **Contexto:** Se mide la frecuencia de fotones emitidos por dos fuentes atómicas: Fuente A ($
-u_A = 6 	imes 10^{14}	ext{ Hz}$) y Fuente B ($
-u_B = 3 	imes 10^{14}	ext{ Hz}$).
+u_A = 6 \times 10^{14}\text{ Hz}$) y Fuente B ($
+u_B = 3 \times 10^{14}\text{ Hz}$).
 
 ### Enunciado
 ¿Cuál es la relación entre la energía del fotón A ($E_A$) y la energía del fotón B ($E_B$)?
@@ -376,7 +376,7 @@ eq 0$) y el isómero *trans* es apolar ($mu = 0$).
   <!-- feedback: Incorrecto. La simetría del isómero *trans* anula el dipolo. -->
 
 ### Explicacion Pedagogica
-En el *trans*-1,2-dicloroeteno, los dos enlaces polares $C-Cl$ están orientados simétricamente a $180^circ$ uno del otro respecto al eje central, cancelando los dipolos ($\vec{mu}_{trans} = 0$). En el *cis*, los dos cloros están del mismo lado, sumando sus dipolos ($\vec{mu}_{cis}
+En el *trans*-1,2-dicloroeteno, los dos enlaces polares $C-Cl$ están orientados simétricamente a $180^\circ$ uno del otro respecto al eje central, cancelando los dipolos ($\vec{mu}_{trans} = 0$). En el *cis*, los dos cloros están del mismo lado, sumando sus dipolos ($\vec{mu}_{cis}
 eq 0$).
 
 ## Question 16 [D7-D8]
@@ -384,23 +384,23 @@ eq 0$).
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.42
-**Contexto:** Un péndulo simple oscila con un período de $2.0	ext{ s}$ en Bogotá. Si se quadruplica la longitud de la cuerda ($L' = 4L$), ¿cuál será el nuevo período $T'$?
+**Contexto:** Un péndulo simple oscila con un período de $2.0\text{ s}$ en Bogotá. Si se quadruplica la longitud de la cuerda ($L' = 4L$), ¿cuál será el nuevo período $T'$?
 
 ### Enunciado
 ¿Cuál es el nuevo período de oscilación del péndulo alargado?
 
 ### Opciones
-- [x] A) $4.0	ext{ segundos}$
-  <!-- feedback: Correcto. Como $T propto sqrt{L}$, al quadruplicar la longitud $L ightarrow 4L$, el período se multiplica por $sqrt{4} = 2$. $T' = 2 	imes 2.0 = 4.0	ext{ s}$. -->
-- [ ] B) $8.0	ext{ segundos}$
+- [x] A) $4.0\text{ segundos}$
+  <!-- feedback: Correcto. Como $T propto \sqrt{L}$, al quadruplicar la longitud $L \rightarrow 4L$, el período se multiplica por $\sqrt{4} = 2$. $T' = 2 \times 2.0 = 4.0\text{ s}$. -->
+- [ ] B) $8.0\text{ segundos}$
   <!-- feedback: Incorrecto. Asume una relación de proporcionalidad directa sin raíz cuadrada. -->
-- [ ] C) $1.0	ext{ segundo}$
+- [ ] C) $1.0\text{ segundo}$
   <!-- feedback: Incorrecto. El período aumenta al alargar la cuerda, no disminuye. -->
-- [ ] D) $2.0	ext{ segundos}$
+- [ ] D) $2.0\text{ segundos}$
   <!-- feedback: Incorrecto. El período es sensible a la longitud de la cuerda. -->
 
 ### Explicacion Pedagogica
-El período de un péndulo es $T = 2pi sqrt{\frac{L}{g}}$. Si la longitud cambia a $L' = 4L$, el nuevo período es $T' = 2pi sqrt{\frac{4L}{g}} = 2 \left(2pi sqrt{\frac{L}{g}}\right) = 2 T = 2(2.0) = 4.0	ext{ s}$.
+El período de un péndulo es $T = 2\pi \sqrt{\frac{L}{g}}$. Si la longitud cambia a $L' = 4L$, el nuevo período es $T' = 2\pi \sqrt{\frac{4L}{g}} = 2 \left(2\pi \sqrt{\frac{L}{g}}\right) = 2 T = 2(2.0) = 4.0\text{ s}$.
 
 ## Question 17 [D9-D10]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v17
@@ -432,23 +432,23 @@ u$ por la molécula de halógeno ($Cl_2$), provocando la escisión homolítica d
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.35
-**Contexto:** Un sistema físico de tres masas $m_1=1	ext{ kg}$, $m_2=2	ext{ kg}$ y $m_3=3	ext{ kg}$ se ubica sobre el eje $x$ en las posiciones $x_1=0	ext{ m}$, $x_2=3	ext{ m}$ y $x_3=6	ext{ m}$ respectivamente en Bogotá.
+**Contexto:** Un sistema físico de tres masas $m_1=1\text{ kg}$, $m_2=2\text{ kg}$ y $m_3=3\text{ kg}$ se ubica sobre el eje $x$ en las posiciones $x_1=0\text{ m}$, $x_2=3\text{ m}$ y $x_3=6\text{ m}$ respectivamente en Bogotá.
 
 ### Enunciado
 ¿En qué posición $x_{CM}$ se localiza el centro de masa del sistema?
 
 ### Opciones
-- [x] A) $x_{CM} = 4.0	ext{ metros}$
-  <!-- feedback: Correcto. $x_{CM} = \frac{m_1 x_1 + m_2 x_2 + m_3 x_3}{m_1 + m_2 + m_3} = \frac{(1 	imes 0) + (2 	imes 3) + (3 	imes 6)}{1 + 2 + 3} = \frac{0 + 6 + 18}{6} = \frac{24}{6} = 4.0	ext{ m}$. -->
-- [ ] B) $x_{CM} = 3.0	ext{ metros}$
+- [x] A) $x_{CM} = 4.0\text{ metros}$
+  <!-- feedback: Correcto. $x_{CM} = \frac{m_1 x_1 + m_2 x_2 + m_3 x_3}{m_1 + m_2 + m_3} = \frac{(1 \times 0) + (2 \times 3) + (3 \times 6)}{1 + 2 + 3} = \frac{0 + 6 + 18}{6} = \frac{24}{6} = 4.0\text{ m}$. -->
+- [ ] B) $x_{CM} = 3.0\text{ metros}$
   <!-- feedback: Incorrecto. Promedio aritmético simple de las posiciones sin ponderar por la masa. -->
-- [ ] C) $x_{CM} = 4.5	ext{ metros}$
+- [ ] C) $x_{CM} = 4.5\text{ metros}$
   <!-- feedback: Incorrecto. Error de cálculo en el numerador. -->
-- [ ] D) $x_{CM} = 2.0	ext{ metros}$
+- [ ] D) $x_{CM} = 2.0\text{ metros}$
   <!-- feedback: Incorrecto. Desplazamiento erróneo hacia la masa menor. -->
 
 ### Explicacion Pedagogica
-La coordenada del centro de masa para una distribución discreta de masas unidimensional es $x_{CM} = \frac{sum m_i x_i}{sum m_i} = \frac{(1 cdot 0) + (2 cdot 3) + (3 cdot 6)}{1 + 2 + 3} = \frac{24}{6} = 4.0	ext{ m}$.
+La coordenada del centro de masa para una distribución discreta de masas unidimensional es $x_{CM} = \frac{\sum m_i x_i}{\sum m_i} = \frac{(1 \cdot 0) + (2 \cdot 3) + (3 \cdot 6)}{1 + 2 + 3} = \frac{24}{6} = 4.0\text{ m}$.
 
 ## Question 19 [D9-D10]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v19
@@ -471,28 +471,28 @@ La coordenada del centro de masa para una distribución discreta de masas unidim
   <!-- feedback: Incorrecto. Corresponde a múltiples decaimientos sucesivos. -->
 
 ### Explicacion Pedagogica
-Una partícula alfa es un núcleo de Helio ($^4_2He$). Por conservación del número de masa y número atómico: $^{238}_{92}U ightarrow ^{234}_{90}Th + ^4_2He$. El elemento producido con $Z=90$ es el Torio.
+Una partícula alfa es un núcleo de Helio ($^4_2He$). Por conservación del número de masa y número atómico: $^{238}_{92}U \rightarrow ^{234}_{90}Th + ^4_2He$. El elemento producido con $Z=90$ es el Torio.
 
 ## Question 20 [D9-D10]
 **ID:** CO-CN-11-2026-W10-repaso-p1-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.28
-**Contexto:** Una cuerda lisa fija en ambos extremos de longitud $L = 1.2	ext{ m}$ vibra en su tercer armónico ($n=3$) a una frecuencia de $150	ext{ Hz}$ en un experimento de acústica en la Universidad Nacional.
+**Contexto:** Una cuerda lisa fija en ambos extremos de longitud $L = 1.2\text{ m}$ vibra en su tercer armónico ($n=3$) a una frecuencia de $150\text{ Hz}$ en un experimento de acústica en la Universidad Nacional.
 
 ### Enunciado
 ¿Cuál es la velocidad de propagación de las ondas en la cuerda?
 
 ### Opciones
-- [x] A) $120	ext{ m/s}$
-  <!-- feedback: Correcto. Longitud de onda para el tercer armónico: $lambda_3 = \frac{2L}{3} = \frac{2(1.2)}{3} = 0.8	ext{ m}$. Velocidad de la onda: $v = lambda f = 0.8 	imes 150 = 120	ext{ m/s}$. -->
-- [ ] B) $360	ext{ m/s}$
+- [x] A) $120\text{ m/s}$
+  <!-- feedback: Correcto. Longitud de onda para el tercer armónico: $\lambda_3 = \frac{2L}{3} = \frac{2(1.2)}{3} = 0.8\text{ m}$. Velocidad de la onda: $v = \lambda f = 0.8 \times 150 = 120\text{ m/s}$. -->
+- [ ] B) $360\text{ m/s}$
   <!-- feedback: Incorrecto. Se omitió dividir entre el número del armónico $n=3$. -->
-- [ ] C) $180	ext{ m/s}$
+- [ ] C) $180\text{ m/s}$
   <!-- feedback: Incorrecto. Cálculo erróneo usando el armónico fundamental. -->
-- [ ] D) $90	ext{ m/s}$
+- [ ] D) $90\text{ m/s}$
   <!-- feedback: Incorrecto. Error de escala en la longitud de onda. -->
 
 ### Explicacion Pedagogica
-1) Para ondas estacionarias en una cuerda con extremos fijos, $lambda_n = \frac{2L}{n}$. Para $n=3$, $lambda_3 = \frac{2(1.2)}{3} = 0.8	ext{ m}$.
-2) La velocidad de la onda es $v = lambda cdot f = 0.8	ext{ m} 	imes 150	ext{ Hz} = 120	ext{ m/s}$.
+1) Para ondas estacionarias en una cuerda con extremos fijos, $\lambda_n = \frac{2L}{n}$. Para $n=3$, $\lambda_3 = \frac{2(1.2)}{3} = 0.8\text{ m}$.
+2) La velocidad de la onda es $v = \lambda \cdot f = 0.8\text{ m} \times 150\text{ Hz} = 120\text{ m/s}$.
