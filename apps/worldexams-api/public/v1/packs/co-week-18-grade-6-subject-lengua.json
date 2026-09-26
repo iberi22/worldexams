@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.502Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una oración?",
+      "context": "En el tablero de una escuela en Cali, la profesora escribe: «Los pájaros cantan al amanecer».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista de palabras sin sentido completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una oración transmite una idea completa."
+        },
+        {
+          "letter": "B",
+          "text": "Un conjunto de letras escritas una tras otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las letras forman palabras, no oraciones necesariamente."
+        },
+        {
+          "letter": "C",
+          "text": "Un conjunto de palabras que expresa una idea completa y tiene sentido por sí sola.",
+          "is_correct": true,
+          "feedback": "Correcto. La oración comunica algo y termina con punto, signo de interrogación o de exclamación."
+        },
+        {
+          "letter": "D",
+          "text": "Una sola palabra con terminación verbal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una oración necesita varias palabras organizadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una oración es una unidad de sentido que tiene autonomía: el lector la entiende aunque esté sola. Toda oración tiene al menos un sujeto y un predicado, y siempre termina con un signo de puntuación final.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántas oraciones hay en el texto y qué las separa?",
+      "context": "Una alumna de Tunja escribe: «Mi hermano estudia mucho. Mis padres trabajan en Bogotá. Mis abuelos viven en Boyacá».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay una sola oración larga separada por comas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puntos dividen tres oraciones distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Hay tres oraciones separadas por punto seguido.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada punto seguido marca el final de una oración."
+        },
+        {
+          "letter": "C",
+          "text": "Hay dos oraciones separadas por un punto y aparte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tres frases terminan con punto seguido."
+        },
+        {
+          "letter": "D",
+          "text": "No hay oraciones, son solo enunciados sueltos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada frase es una oración con sentido propio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto seguido une oraciones dentro de un mismo párrafo; el punto y aparte separa párrafos. Reconocer estas pausas ayuda a leer en voz alta con la entonación correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipos de oraciones aparecen según la intención del hablante?",
+      "context": "Una cartelera de Medellín dice: «¿Quién trajo el libro? ¡Por fin lo encontré! Vendrá mañana a la escuela».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todas son enunciativas porque solo informan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay al menos una pregunta y una exclamación."
+        },
+        {
+          "letter": "B",
+          "text": "Solo hay una oración interrogativa; las demás son exclamativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tercera es enunciativa."
+        },
+        {
+          "letter": "C",
+          "text": "Interrogativa (pregunta), exclamativa (emoción) y enunciativa (información).",
+          "is_correct": true,
+          "feedback": "Correcto. Cada intención usa una estructura y un signo distinto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo hay oraciones imperativas porque dan instrucciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de dar órdenes en este cartel."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Tipos de oración según la intención: enunciativa (informa), interrogativa (pregunta), exclamativa (emoción), imperativa (orden), desiderativa (deseo) y dubitativa (duda). Cada una usa una entonación y un signo final propios.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v4",
+      "statement": "¿Qué modalidad expresiva tiene cada oración?",
+      "context": "Un alumno de Pereira escribe tres líneas: «La ventana está abierta. La ventana no está abierta. ¿Está abierta la ventana?».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres son afirmativas porque no niegan nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda es claramente negativa."
+        },
+        {
+          "letter": "B",
+          "text": "Afirmativa, negativa e interrogativa.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada modalidad refleja una actitud distinta del hablante."
+        },
+        {
+          "letter": "C",
+          "text": "Negativa, afirmativa y exclamativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden y la última modalidad están equivocados."
+        },
+        {
+          "letter": "D",
+          "text": "Exclamativa, interrogativa y afirmativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera no expresa emoción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modalidades de la oración: afirmativa (dice sí), negativa (dice no), interrogativa (pregunta), exclamativa (emociona). Una misma idea se puede expresar de cuatro formas, cada una con su efecto sobre el lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas oraciones componen el enunciado y cómo se identifican?",
+      "context": "Un niño de Pasto narra: «Mis amigos vinieron a la casa, trajeron helado y jugamos toda la tarde».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una sola oración porque tiene un solo verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay tres verbos conjugados: vinieron, trajeron, jugamos."
+        },
+        {
+          "letter": "B",
+          "text": "Son tres oraciones unidas por comas y una conjunción.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada verbo marca una acción distinta y, por tanto, una oración."
+        },
+        {
+          "letter": "C",
+          "text": "Son dos oraciones separadas por la conjunción «y».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay tres acciones, no dos."
+        },
+        {
+          "letter": "D",
+          "text": "Es una oración compuesta pero no se puede segmentar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier oración se puede segmentar por sus verbos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para contar las oraciones de un texto, busca los verbos conjugados. Cada verbo marca una acción distinta y, salvo excepciones, cada acción corresponde a una oración propia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia de intención hay entre las tres oraciones a pesar de compartir las mismas palabras?",
+      "context": "En un manual de Bucaramanga se lee: «Cierra la puerta. No la cierres. ¿Cierro la puerta?».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres dicen exactamente lo mismo, solo cambia el orden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada una transmite una intención distinta."
+        },
+        {
+          "letter": "B",
+          "text": "La primera da una orden, la segunda la prohíbe y la tercera pide consejo.",
+          "is_correct": true,
+          "feedback": "Correcto. El hablante asume un rol distinto en cada caso."
+        },
+        {
+          "letter": "C",
+          "text": "Solo cambia la persona gramatical del verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio va mucho más allá de la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Solo cambia el signo de puntuación final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puntuación refleja la intención, pero no la agota."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intención del hablante define la fuerza de la oración. La misma acción se vuelve orden, prohibición o duda según la modalidad. Reconocerlo es esencial para interpretar instrucciones y consignes.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v7",
+      "statement": "¿Qué modalidades expresan las tres oraciones del cartel?",
+      "context": "Un cartel en Barranquilla propone: «Ojalá llueva pronto. Tal vez llueva el viernes. Quizás no llueva nunca».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las tres son enunciativas porque hablan del clima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada una tiene una intención distinta."
+        },
+        {
+          "letter": "B",
+          "text": "Desiderativa (deseo), dubitativa (posibilidad) y dubitativa-negativa (probabilidad de que no).",
+          "is_correct": true,
+          "feedback": "Correcto. Cada conector aporta una intención diferente."
+        },
+        {
+          "letter": "C",
+          "text": "Imperativa, interrogativa y exclamativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna da orden, pregunta o exclamación."
+        },
+        {
+          "letter": "D",
+          "text": "Exclamativa, afirmativa y negativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera no usa signo de exclamación; las demás no niegan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "«Ojalá» y «ojalá que» expresan deseo. «Tal vez», «quizás», «acaso» expresan duda o probabilidad. Distinguir estas modalidades ayuda a leer mejor noticias, prospectos del clima y argumentos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se relacionan las cuatro oraciones del texto y qué efecto produce la repetición?",
+      "context": "Un cuento infantil de Manizales dice: «El sol salió. Los pájaros cantaron. Las flores se abrieron. Todo estaba listo para el día».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las oraciones son incoherentes y no se entienden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto tiene una secuencia lógica y rítmica."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la última oración tiene sentido propio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada una aporta información importante."
+        },
+        {
+          "letter": "C",
+          "text": "Son oraciones simples que, ordenadas, crean una imagen progresiva del amanecer.",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición de estructuras cortas genera ritmo."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es una sola oración separada por puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada punto señala una oración distinta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los narradores suelen usar oraciones simples y breves para describir acciones sucesivas. La repetición del esquema sujeto-verbo crea ritmo, claridad y belleza en los textos descriptivos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v9",
+      "statement": "¿Qué problema tiene esta oración y cómo se mejora?",
+      "context": "Una alumna de Neiva escribe: «Estudiamos mucho pero no aprobamos el examen aunque nos esforzamos igual».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración es correcta y no necesita cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumula dos adversativos que debilitan la idea."
+        },
+        {
+          "letter": "B",
+          "text": "Faltan comas para separar los miembros.",
+          "is_correct": true,
+          "feedback": "Correcto. Además, conviene usar un solo conector adversativo."
+        },
+        {
+          "letter": "C",
+          "text": "El verbo debería ir en pasado simple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pretérito perfecto es adecuado para acciones terminadas."
+        },
+        {
+          "letter": "D",
+          "text": "La oración mezcla dos modalidades y debe elegirse una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay mezcla de modalidades: todo es enunciativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Encadenar muchos conectores adversativos («pero», «aunque», «sin embargo») embota el texto. Mejor elegir uno solo y separar con comas los miembros para que el lector descanse y comprenda.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v10",
+      "statement": "¿Qué efecto comunicativo logra el aviso al repetir la estructura condicional?",
+      "context": "Un aviso escolar en Cartagena dice: «Si traes el cuaderno, podrás entrar al salón. Si no traes el cuaderno, te quedarás afuera».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aviso resulta confuso porque repite lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición refuerza la norma y deja clara la consecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la segunda oración informa, la primera sobra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son necesarias para entender la condición."
+        },
+        {
+          "letter": "C",
+          "text": "La estructura paralela deja muy claras la condición y la consecuencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El paralelismo hace la norma fácil de recordar."
+        },
+        {
+          "letter": "D",
+          "text": "El aviso intimida a los estudiantes y debería suavizarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intención es informar con claridad, no amenazar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura condicional «si + condición, consecuencia» es una herramienta poderosa en avisos y normas. Repetir el esquema con paralelismo ayuda a que el mensaje quede claro para todos los lectores.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

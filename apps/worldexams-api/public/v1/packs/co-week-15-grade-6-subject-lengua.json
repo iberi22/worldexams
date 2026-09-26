@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-15-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.498Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un adverbio?",
+      "context": "En clase de lengua en Tunja, la profesora escribe en el tablero: «Los estudiantes llegan temprano y estudian mucho».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra que nombra a las personas, animales o cosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra que describe cómo es el sustantivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del adjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra que modifica el verbo, el adjetivo u otro adverbio.",
+          "is_correct": true,
+          "feedback": "Correcto. El adverbio precisa cómo, cuándo, dónde o cuánto ocurre la acción."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra que reemplaza al sustantivo en la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del pronombre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El adverbio es una palabra invariable que modifica al verbo (llega temprano), al adjetivo (muy alto) o a otro adverbio (muy bien). Aporta información de tiempo, lugar, modo, cantidad, afirmación, negación o duda.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles palabras del relato son adverbios?",
+      "context": "Una niña de Pereira cuenta: «Ayer fui al parque, hojeé un libro allá y volví contenta a casa».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parque, libro y casa, porque son los lugares más importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son sustantivos, no adverbios."
+        },
+        {
+          "letter": "B",
+          "text": "Content, porque describe el ánimo de la niña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa palabra es un adjetivo, no un adverbio."
+        },
+        {
+          "letter": "C",
+          "text": "Ayer y allá, porque expresan cuándo y dónde ocurrió la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. Los adverbios «ayer» (tiempo) y «allá» (lugar) complementan al verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Volví, porque cuenta lo que hizo la niña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Volví» es un verbo conjugado, no un adverbio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los adverbios de tiempo (ayer, hoy, mañana, pronto, tarde) responden a ¿cuándo? Los de lugar (aquí, allá, cerca, lejos) responden a ¿dónde? Identificarlos mejora la comprensión lectora.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v3",
+      "statement": "Clasifica los adverbios «muy», «recién», «aquí» y «siempre» según su significado.",
+      "context": "En el mercado de Manizales, un vendedor dice: «Estas fresas cuestan muy barato, están recién traídas, aquí las conseguirá siempre».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos son adverbios de lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo «aquí» indica lugar; los demás no."
+        },
+        {
+          "letter": "B",
+          "text": "Todos son adverbios de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo «siempre» indica tiempo; los demás no."
+        },
+        {
+          "letter": "C",
+          "text": "«Muy» es de cantidad, «recién» de tiempo, «aquí» de lugar y «siempre» de tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada adverbio se identifica por la pregunta que responde: cuánto, cuándo, dónde, cuándo."
+        },
+        {
+          "letter": "D",
+          "text": "«Muy» es de modo, «recién» de lugar, «aquí» de cantidad y «siempre» de modo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clasificación por tipo está equivocada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Adverbios de cantidad (muy, poco, mucho, demasiado) responden a ¿cuánto? Adverbios de tiempo (hoy, ayer, recién, siempre, nunca) responden a ¿cuándo? Adverbios de lugar (aquí, allá, cerca) responden a ¿dónde?\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v4",
+      "statement": "¿Qué adverbios de modo aparecen en las oraciones y cómo modifican al verbo?",
+      "context": "Un niño de Cartagena escribe en su cuaderno: «Mi hermano canta bien, dibuja mal, pero cocina rápido y nada muy lento».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi y muy, porque son palabras que acompañan al verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son pronombre y adverbio de cantidad, no de modo."
+        },
+        {
+          "letter": "B",
+          "text": "Bien, mal, rápido y muy lento, porque precisan cómo se realiza la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. Los adverbios de modo indican la manera en que ocurre el verbo."
+        },
+        {
+          "letter": "C",
+          "text": "Hermano, dibuja y cocina, porque son acciones del niño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son sustantivo y verbos conjugados."
+        },
+        {
+          "letter": "D",
+          "text": "Pero, porque enlaza las oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Pero» es una conjunción, no un adverbio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adverbios de modo responden a ¿cómo? y suelen formarse a partir de adjetivos con el sufijo -mente (rápida-mente, lenta-mente). Algunos son simples: bien, mal, despacio, rápido, así.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v5",
+      "statement": "¿Qué adverbio de cantidad reemplaza mejor el espacio en blanco?",
+      "context": "Un profesor de Neiva pide a sus alumnos completar esta frase: «Los alumnos estudiaron (____) porque el examen era difícil».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerca, porque indica un lugar de estudio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Cerca» es adverbio de lugar y no tiene sentido aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Nunca, porque indica que no estudiaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase pide intensidad del estudio, no su ausencia."
+        },
+        {
+          "letter": "C",
+          "text": "Allí, porque indica el sitio donde estudiaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Allí» es adverbio de lugar, no encaja con la causa."
+        },
+        {
+          "letter": "D",
+          "text": "Mucho, porque señala que el estudio fue muy intenso.",
+          "is_correct": true,
+          "feedback": "Correcto. «Mucho» es adverbio de cantidad y encaja con el motivo de la oración."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La elección del adverbio depende de la pregunta que responde el verbo: cómo (modo), cuándo (tiempo), dónde (lugar), cuánto (cantidad), sí/no (afirmación-negación). Pensar la pregunta correcta evita errores de selección.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tienen en común los adverbios «dulcemente», «fijamente» y «abiertamente»?",
+      "context": "En un cuento de Bucaramanga se lee: «Ella hablaba dulcemente, miraba fijamente y sonreía abiertamente».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terminan en -mente y son adverbios de lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí terminan en -mente, pero son de modo, no de lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Terminan en -mente, derivan de adjetivos y son adverbios de modo.",
+          "is_correct": true,
+          "feedback": "Correcto. El sufijo -mente forma adverbios de modo a partir del adjetivo femenino."
+        },
+        {
+          "letter": "C",
+          "text": "Son adverbios de tiempo porque cuentan cuándo habla, mira y sonríe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indican cómo se realizan las acciones, no cuándo."
+        },
+        {
+          "letter": "D",
+          "text": "Son sustantivos con preposición, no adverbios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son adverbios de modo derivados de adjetivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sufijo -mente se agrega al adjetivo en femenino para formar adverbios de modo: dulce → dulcemente, fija → fijamente, abierta → abiertamente. Es una regla muy útil para enriquecer textos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v7",
+      "statement": "¿Qué información aportan los adverbios «lentamente» y «suavemente» a la receta?",
+      "context": "Una receta familiar de Barranquilla dice: «Calienta el aceite, agrega la cebolla, sofríe lentamente, añade sal y revuelve suavemente».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indican el orden de los pasos en la preparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden lo marcan los verbos, no los adverbios."
+        },
+        {
+          "letter": "B",
+          "text": "Señalan el tiempo exacto que dura cada paso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No expresan tiempo cronológico sino manera."
+        },
+        {
+          "letter": "C",
+          "text": "Indican el lugar donde ocurre la preparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No responden a dónde ocurre la cocción."
+        },
+        {
+          "letter": "D",
+          "text": "Precisan la manera de sofreír y revolver, indicando cuidado y paciencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Son adverbios de modo y transmiten el ritmo del cocinero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En textos instructivos, los adverbios de modo son clave: dicen cómo ejecutar cada paso con la técnica correcta. Sin ellos, la receta podría malinterpretarse y arruinar el plato.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumplen «nunca», «antes», «tan rápidamente» y «tanto» en la noticia?",
+      "context": "Un periódico de Medellín titula: «Nunca antes la ciudad había crecido tan rápidamente ni había llovido tanto».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos son adverbios de lugar porque hablan de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar la ciudad no convierte las palabras en adverbios de lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Son sustantivos porque reemplazan a la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No reemplazan a ningún nombre."
+        },
+        {
+          "letter": "C",
+          "text": "Son adjetivos porque describen a la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describir el sustantivo es tarea del adjetivo, no del adverbio."
+        },
+        {
+          "letter": "D",
+          "text": "«Nunca» y «antes» son de tiempo, «tan rápidamente» y «tanto» son de cantidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada adverbio cumple una función distinta y modifica al verbo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Detectar adverbios en un texto informativo ayuda a precisar la información: el cuándo (tiempo), el cuánto (cantidad) y el cómo (modo) son las preguntas básicas que un lector debe responderse.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error hay en la cartelera y cómo se corrige?",
+      "context": "En una cartelera de Cali se lee: «Los alumnos llegarán pronto y estudiarán aquí para el examen».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Pronto» está mal y debe reemplazarse por «temprano».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Pronto» es adverbio de tiempo válido; el error está en otro lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Falta un sustantivo que reemplace a «los alumnos».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pronombres no son obligatorios y la frase funciona."
+        },
+        {
+          "letter": "C",
+          "text": "«Aquí» no es el adverbio adecuado porque no sabemos el lugar del examen.",
+          "is_correct": true,
+          "feedback": "Correcto. En una cartelera general, conviene usar «allá» o un lugar concreto."
+        },
+        {
+          "letter": "D",
+          "text": "No hay error, la cartelera está bien escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imprecisión del adverbio de lugar debilita el mensaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir el adverbio adecuado es una decisión de precisión: «aquí» solo sirve si el lugar es el mismo donde se lee el cartel. Para textos públicos, conviene un adverbio más neutro o un nombre propio del sitio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle-v10",
+      "statement": "¿Qué critica el narrador al elegir esos adverbios y por qué?",
+      "context": "Un narrador de Pasto describe una fiesta: «Los músicos tocaron muy bien, los bailadores bailaron muy mal, y el público aplaudió muchísimo».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay crítica, solo describe la fiesta con neutralidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adverbios «bien», «mal» y «muchísimo» emiten juicios de valor."
+        },
+        {
+          "letter": "B",
+          "text": "Solo elogia a los músicos porque usa adverbios positivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. También critica a los bailadores con el adverbio «mal»."
+        },
+        {
+          "letter": "C",
+          "text": "Contrasta el trabajo de músicos y bailadores y exagera la reacción del público con «muchísimo».",
+          "is_correct": true,
+          "feedback": "Correcto. La elección de adverbios revela la postura crítica del narrador."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se fija en el público, los demás no importan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción cubre las tres partes de la fiesta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los adverbios no solo modifican al verbo: también expresan la voz del autor. Un buen lector detecta cuándo el adverbio informa y cuándo opina. Esa diferencia es clave para pensar críticamente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W15-el-adverbio-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

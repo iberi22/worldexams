@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-14-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.498Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el verbo?",
+      "context": "En clase de lengua en Pasto, la profesora escribe: «Los niños juegan fútbol en el patio del colegio».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra que nombra a las personas y las cosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra que describe cómo es el sustantivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del adjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra que expresa acciones, estados o procesos.",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo dice lo que pasa: juegan (acción), están (estado), crecen (proceso)."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra que reemplaza al nombre de la persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del pronombre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El verbo es el corazón de la oración: sin verbo no hay oración. Expresa lo que el sujeto hace (juegan), cómo está (están cansados) o lo que le sucede (crecen, florecen).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles palabras del relato son verbos en presente?",
+      "context": "Un niño de Barranquilla cuenta su día: «Me levanto temprano, desayuno arepa y camino al colegio con mi hermano».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temprano, arepa y colegio, porque son lo más importante del día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras nombran cosas o indican circunstancias, no acciones."
+        },
+        {
+          "letter": "B",
+          "text": "Levanto, desayuno y camino, porque expresan las acciones que realiza el niño.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres verbos están conjugados en primera persona del presente."
+        },
+        {
+          "letter": "C",
+          "text": "Mi y con, porque acompañan a las demás palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras acompañan o enlazan, no expresan acciones."
+        },
+        {
+          "letter": "D",
+          "text": "Día, hermano y mañana, porque ubican el relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son sustantivos que nombran realidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El infinitivo es el nombre del verbo (levantarse, desayunar, caminar). Cuando el verbo se conjuga, cambia según quién realiza la acción y cuándo ocurre: yo me levanto (ahora), él se levanta (ahora).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v3",
+      "statement": "¿A qué conjugación pertenece cada uno de los verbos en infinitivo?",
+      "context": "En la feria de Bucaramanga hay tres avisos: «cantar», «beber chicha» y «escribir coplas».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres son de la primera conjugación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los terminados en -ar son de la primera."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres son de la segunda conjugación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los terminados en -er son de la segunda."
+        },
+        {
+          "letter": "C",
+          "text": "Cantar es primera, beber es segunda y escribir es tercera.",
+          "is_correct": true,
+          "feedback": "Correcto. La conjugación se reconoce por la terminación del infinitivo: -ar, -er, -ir."
+        },
+        {
+          "letter": "D",
+          "text": "Cantar es tercera, beber es primera y escribir es segunda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de las conjugaciones está invertido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hay tres conjugaciones: primera (-ar: cantar, jugar), segunda (-er: beber, comer) y tercera (-ir: escribir, vivir). Saber la conjugación es clave para conjugar bien cada tiempo verbal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v4",
+      "statement": "¿En qué tiempo verbal están «visité», «jugamos» y «reímos»?",
+      "context": "Una niña de Cali escribe en su diario: «Ayer visité a mi abuela, jugamos parqués y reímos mucho».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En pretérito (pasado), porque narran hechos ya terminados.",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra «ayer» confirma que son acciones completadas en el pasado."
+        },
+        {
+          "letter": "B",
+          "text": "En presente, porque la niña los recuerda ahora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recordar ahora no convierte la acción en presente."
+        },
+        {
+          "letter": "C",
+          "text": "En futuro, porque piensa repetir la visita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en la frase anuncia hechos que vendrán."
+        },
+        {
+          "letter": "D",
+          "text": "En infinitivo, porque terminan igual que el diccionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Están conjugados con persona y tiempo definidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pretérito cuenta lo que ya terminó (ayer visité). El presente cuenta lo que ocurre ahora (hoy visito). El futuro anuncia lo que vendrá (mañana visitaré). Los marcadores de tiempo (ayer, hoy, mañana) son grandes pistas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v5",
+      "statement": "¿En qué tiempo están «compraré» y «compartiré» y cómo se reconoce?",
+      "context": "Un niño de Medellín promete: «Mañana compraré un helado de 4.000 COP y lo compartiré con mi hermana».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En presente, porque el niño lo dice ahora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decirlo ahora no significa que la acción ocurra ahora."
+        },
+        {
+          "letter": "B",
+          "text": "En pasado, porque ya decidió qué va a hacer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decidir algo no es lo mismo que ya haberlo hecho."
+        },
+        {
+          "letter": "C",
+          "text": "En futuro, porque anuncian acciones que aún no ocurren y terminan en -é.",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra «mañana» y la terminación -é marcan el futuro."
+        },
+        {
+          "letter": "D",
+          "text": "En infinitivo, porque expresan un deseo general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Están conjugados en primera persona del singular del futuro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El futuro anuncia planes y promesas: mañana compraré, el domingo viajaremos. En los verbos regulares se forma agregando las terminaciones -é, -ás, -á, -emos, -án al infinitivo completo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambia en el verbo «jugar» en cada persona gramatical?",
+      "context": "En un colegio de Bogotá, el tablero dice: «Yo juego, tú juegas, él juega, nosotros jugamos».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia la raíz jug- según la persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz jug- se mantiene igual en todas las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia la terminación (-o, -as, -a, -amos) según la persona y el número.",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz aporta el significado y la terminación indica persona, número y tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia la conjugación a la que pertenece.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar siempre es de la primera conjugación (-ar)."
+        },
+        {
+          "letter": "D",
+          "text": "No cambia nada, todas las formas son iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada persona tiene su propia terminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todo verbo conjugado tiene raíz (significado: jug-) y terminación (persona, número, tiempo: -o, -as, -a, -amos). Separar raíz y terminación es el secreto para conjugar sin errores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v7",
+      "statement": "Clasifica los verbos «estudio», «perdí» y «ganaré» según el tiempo.",
+      "context": "Una carta de un niño en Pasto dice: «Querido papá: ahora estudio mucho, el año pasado perdí dos materias, pero este año ganaré todas».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres están en presente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo «estudio» ocurre ahora."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres están en pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo «perdí» es un hecho terminado."
+        },
+        {
+          "letter": "C",
+          "text": "Estudio es futuro, perdí es presente y ganaré es pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de los tiempos está completamente invertido."
+        },
+        {
+          "letter": "D",
+          "text": "Estudio es presente, perdí es pretérito y ganaré es futuro.",
+          "is_correct": true,
+          "feedback": "Correcto. Los marcadores ahora, el año pasado y este año confirman cada tiempo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen lector detecta el tiempo de cada verbo y reconstruye la línea de la historia: lo que ya pasó, lo que pasa ahora y lo que se espera. Los adverbios de tiempo son tus mejores aliados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia hay entre «corran» y «corren»?",
+      "context": "En el equipo de fútbol de Cali, el entrenador grita: «¡Corran más rápido!» y los niños corren con todas sus fuerzas.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corran es una orden y corren describe la acción que realizan.",
+          "is_correct": true,
+          "feedback": "Correcto. Una forma da la orden (imperativo) y la otra informa lo que sucede (indicativo)."
+        },
+        {
+          "letter": "B",
+          "text": "Son el mismo verbo en el mismo tiempo y modo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una forma ordena y la otra describe."
+        },
+        {
+          "letter": "C",
+          "text": "Corran está en pasado y corren está en futuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La orden es ahora y la descripción también es ahora."
+        },
+        {
+          "letter": "D",
+          "text": "Corran es singular y corren es plural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas formas se dirigen a varios niños, son plurales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El modo imperativo sirve para dar órdenes, pedir favores o dar consejos (corran, dime, estudia). El modo indicativo sirve para informar hechos reales (corren, dices, estudias). El contexto revela la intención.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error hay en la frase de la cartelera y cómo se corrige?",
+      "context": "En una cartelera de Barranquilla se lee: «Los estudiantes prestó atención a la explicación del profesor».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sustantivo está mal y debe decir «El estudiante».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto en plural está bien, el problema está en el verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Falta un adjetivo que describa a los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no necesita adjetivos para ser correcta."
+        },
+        {
+          "letter": "C",
+          "text": "El verbo no concuerda con el sujeto y debe decir «prestaron».",
+          "is_correct": true,
+          "feedback": "Correcto. El sujeto plural exige verbo en plural: los estudiantes prestaron."
+        },
+        {
+          "letter": "D",
+          "text": "No hay error, la frase está bien escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay un error de concordancia entre sujeto y verbo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concordancia verbal es obligatoria: el verbo debe ir en la misma persona y número que el sujeto. Truco: pregunta «¿quién?» antes del verbo (¿quién prestó? Los estudiantes → ellos → prestaron).\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la conjugación correcta del verbo «partir» para completar el cuento?",
+      "context": "Una estudiante de Bucaramanga escribe un cuento con estas opciones para el inicio: «Mañana los viajeros (partir) al amanecer».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Partieron, porque el viaje ya ocurrió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «mañana» indica que el viaje aún no ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "Partirán, porque es un hecho futuro en tercera persona del plural.",
+          "is_correct": true,
+          "feedback": "Correcto. El sujeto «los viajeros» (ellos) exige la forma partirán."
+        },
+        {
+          "letter": "C",
+          "text": "Partimos, porque incluye a quien narra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada indica que la narradora viaje con ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Partir, porque el infinitivo sirve para cualquier tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El infinitivo no expresa persona ni tiempo definidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para conjugar bien sigue tres pasos: 1) ubica el tiempo con los marcadores (mañana = futuro); 2) identifica la persona del sujeto (los viajeros = ellos); 3) aplica la terminación correcta (partir + án = partirán).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
