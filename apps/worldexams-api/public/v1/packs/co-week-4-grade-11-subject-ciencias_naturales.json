@@ -160,7 +160,7 @@
           "letter": "B",
           "text": "Hibridación $sp^3$.",
           "is_correct": false,
-          "feedback": "Incorrecto. $sp^3$ es propia de carbonos con 4 enlaces sencillos $sigma$."
+          "feedback": "Incorrecto. $sp^3$ es propia de carbonos con 4 enlaces sencillos $\\sigma$."
         },
         {
           "letter": "C",
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-CN-11-2026-W04-quimica-carbono-001-MASTERY-bundle-v5",
-      "statement": "¿Cuántos enlaces de tipo sigma ($sigma$) y pi ($pi$) existen en la molécula de etino ($HC \\equiv CH$)?",
+      "statement": "¿Cuántos enlaces de tipo sigma ($\\sigma$) y pi ($pi$) existen en la molécula de etino ($HC \\equiv CH$)?",
       "context": "En la industria petroquímica en Barrancabermeja, se analiza la reactividad del etino o acetileno ($HC \\equiv CH$).",
       "options": [
         {
           "letter": "A",
-          "text": "3 enlaces $sigma$ y 2 enlaces $pi$.",
+          "text": "3 enlaces $\\sigma$ y 2 enlaces $pi$.",
           "is_correct": true,
           "feedback": "Correcto. Cada enlace C-H es $1\\sigma$ (total 2). El enlace triple C$equiv$C contiene $1\\sigma$ y $2\\pi$. Total: $3\\sigma$ y $2\\pi$."
         },
         {
           "letter": "B",
-          "text": "2 enlaces $sigma$ y 3 enlaces $pi$.",
+          "text": "2 enlaces $\\sigma$ y 3 enlaces $pi$.",
           "is_correct": false,
           "feedback": "Incorrecto. Conteo invertido de la naturaleza de los enlaces en el triple enlace."
         },
         {
           "letter": "C",
-          "text": "5 enlaces $sigma$ y 0 enlaces $pi$.",
+          "text": "5 enlaces $\\sigma$ y 0 enlaces $pi$.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una molécula con solo enlaces sencillos."
         },
         {
           "letter": "D",
-          "text": "1 enlace $sigma$ y 4 enlaces $pi$.",
+          "text": "1 enlace $\\sigma$ y 4 enlaces $pi$.",
           "is_correct": false,
           "feedback": "Incorrecto. Los enlaces simples C-H son necesariamente de tipo $\\sigma$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El etino ($H-C \\equiv C-H$) contiene: 2 enlaces sencillos $C-H$ ($sigma$), 1 enlace triple $C \\equiv C$ (compuesto por $1\\sigma$ y $2\\pi$). En total hay $3$ enlaces $sigma$ y $2$ enlaces $pi$.",
+      "explanation": "El etino ($H-C \\equiv C-H$) contiene: 2 enlaces sencillos $C-H$ ($\\sigma$), 1 enlace triple $C \\equiv C$ (compuesto por $1\\sigma$ y $2\\pi$). En total hay $3$ enlaces $\\sigma$ y $2$ enlaces $pi$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -336,7 +336,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "El grafito posee hibridación $sp^2$ con electrones $pi$ deslocalizados entre sus capas, mientras el diamante presenta hibridación $sp^3$ con todos sus electrones localizados en enlaces $sigma$.",
+          "text": "El grafito posee hibridación $sp^2$ con electrones $pi$ deslocalizados entre sus capas, mientras el diamante presenta hibridación $sp^3$ con todos sus electrones localizados en enlaces $\\sigma$.",
           "is_correct": true,
           "feedback": "Correcto. Los electrones deslocalizados en los orbitales $p$ no hibridados del grafito permiten el flujo eléctrico. En el diamante todos los electrones están fijos en enlaces covalentes $\\sigma$."
         },
@@ -360,7 +360,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "En el grafito, el carbono presenta hibridación $sp^2$, dejando un orbital $p$ deslocalizado por átomo que forma una nube de electrones $pi$ móviles que conducen la electricidad. En el diamante ($sp^3$), la red tridimensional rígida confina todos los electrones en enlaces $sigma$ fijos.",
+      "explanation": "En el grafito, el carbono presenta hibridación $sp^2$, dejando un orbital $p$ deslocalizado por átomo que forma una nube de electrones $pi$ móviles que conducen la electricidad. En el diamante ($sp^3$), la red tridimensional rígida confina todos los electrones en enlaces $\\sigma$ fijos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -474,7 +474,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Por la simetría tetraédrica regular del $CH_4$, donde la suma vectorial de los momentos dipolares se anula ($mu = 0$), a diferencia del $CH_3Cl$ asimétrico ($mu\neq 0$).",
+          "text": "Por la simetría tetraédrica regular del $CH_4$, donde la suma vectorial de los momentos dipolares se anula ($\\mu = 0$), a diferencia del $CH_3Cl$ asimétrico ($mu\neq 0$).",
           "is_correct": true,
           "feedback": "Correcto. En el $CH_4$ la geometría tetraédrica perfecta cancela los dipolos. En el $CH_3Cl$ la presencia del cloro rompe la simetría vectorial."
         },
@@ -520,13 +520,13 @@
       "options": [
         {
           "letter": "A",
-          "text": "Los ángulos aumentan progresivamente: $109.5^\\circ \rightarrow 120^\\circ \rightarrow 180^\\circ$.",
+          "text": "Los ángulos aumentan progresivamente: $109.5^\\circ \\rightarrow 120^\\circ \\rightarrow 180^\\circ$.",
           "is_correct": true,
           "feedback": "Correcto. $sp^3$ (tetraédrico, $109.5^\\circ$), $sp^2$ (trigonal plano, $120^\\circ$) y $sp$ (lineal, $180^\\circ$)."
         },
         {
           "letter": "B",
-          "text": "Los ángulos disminuyen: $180^\\circ \rightarrow 120^\\circ \rightarrow 109.5^\\circ$.",
+          "text": "Los ángulos disminuyen: $180^\\circ \\rightarrow 120^\\circ \\rightarrow 109.5^\\circ$.",
           "is_correct": false,
           "feedback": "Incorrecto. Secuencia invertida."
         },
@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "A medida que aumenta el carácter $s$ del híbrido ($sp^3: 25\\%s$, $sp^2: 33\\%s$, $sp: 50\\%s$), la repulsión electrónica distribuye los orbitales a mayores ángulos espaciales: $109.5^\\circ \rightarrow 120^\\circ \rightarrow 180^\\circ$.",
+      "explanation": "A medida que aumenta el carácter $s$ del híbrido ($sp^3: 25\\%s$, $sp^2: 33\\%s$, $sp: 50\\%s$), la repulsión electrónica distribuye los orbitales a mayores ángulos espaciales: $109.5^\\circ \\rightarrow 120^\\circ \\rightarrow 180^\\circ$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -670,7 +670,7 @@
         },
         {
           "letter": "C",
-          "text": "Porque la conformación eclipsada destruye los enlaces $sigma$.",
+          "text": "Porque la conformación eclipsada destruye los enlaces $\\sigma$.",
           "is_correct": false,
           "feedback": "Incorrecto. Los enlaces $\\sigma$ permanecen intactos durante las rotaciones conformacionales."
         },
@@ -866,7 +866,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "A mayor porcentaje de carácter $s$ en el orbital híbrido del carbono ($sp = 50\\%s > sp^2 = 33\\%s > sp^3 = 25\\%s$), mayor es la electronegatividad efectiva del átomo de carbono. Esto estabiliza mejor al par solitario de la base conjugada (anión acetiluro), haciendo al etino notablemente más ácido ($pK_a approx 25$).",
+      "explanation": "A mayor porcentaje de carácter $s$ en el orbital híbrido del carbono ($sp = 50\\%s > sp^2 = 33\\%s > sp^3 = 25\\%s$), mayor es la electronegatividad efectiva del átomo de carbono. Esto estabiliza mejor al par solitario de la base conjugada (anión acetiluro), haciendo al etino notablemente más ácido ($pK_a \\approx 25$).",
       "difficulty": "10",
       "images": [],
       "tags": [],
