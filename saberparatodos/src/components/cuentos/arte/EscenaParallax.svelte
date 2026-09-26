@@ -243,8 +243,22 @@
   }
 
   function salirZoom() {
+    const id = zoom?.id;
+    // El botón "salir" se desmonta al cerrar el zoom: si tenía el foco, el
+    // foco de teclado caía a <body> y el usuario perdía su lugar. Devolverlo
+    // al elemento que se estaba mirando de cerca.
+    const focoEnSalir =
+      typeof document !== 'undefined' &&
+      document.activeElement instanceof Element &&
+      document.activeElement.closest('.escena-salir-zoom') !== null;
     zoom = null;
     anuncio = 'Escena completa.';
+    if (focoEnSalir && id && containerEl) {
+      const origen = Array.from(containerEl.querySelectorAll('[data-hotspot]')).find(
+        (el) => el.getAttribute('data-hotspot') === id
+      ) as (HTMLElement | SVGElement) | undefined;
+      (origen ?? containerEl).focus?.();
+    }
   }
 
   function contar(el: Element) {

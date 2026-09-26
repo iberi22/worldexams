@@ -97,8 +97,17 @@ function attr(tag: string, name: string): string | undefined {
   return m ? m[2] : undefined;
 }
 
+/**
+ * `v` viene de un atributo del SVG fuente, así que ya está codificado como
+ * XML (`&amp;`, `&#233;`…). Solo se escapan los `&` sueltos: re-escapar las
+ * entidades existentes producía `aria-label="Tana &amp;amp; amigos"` y el
+ * lector de pantalla leía literalmente "amp;".
+ */
 function escapeAttr(v: string): string {
-  return v.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+  return v
+    .replace(/&(?!(?:[a-z][a-z0-9]*|#\d+|#x[0-9a-f]+);)/gi, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;');
 }
 
 /**

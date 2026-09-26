@@ -34,9 +34,16 @@ describe('escenas-capas: parser genérico', () => {
     const out = anotarAccesibilidad(
       '<g data-hotspot="tana" data-etiqueta="Tana &amp; amigos"><g data-contable data-etiqueta="Un mango"/><g data-hotspot="x" role="img" tabindex="-1" aria-label="ya"></g></g>'
     );
-    expect(out).toContain('<g data-hotspot="tana" data-etiqueta="Tana &amp; amigos" role="button" tabindex="0" aria-label="Tana &amp;amp; amigos">');
+    // La entidad ya codificada del fuente se conserva tal cual (sin doble escape
+    // "&amp;amp;", que el lector de pantalla leería como "amp;").
+    expect(out).toContain('<g data-hotspot="tana" data-etiqueta="Tana &amp; amigos" role="button" tabindex="0" aria-label="Tana &amp; amigos">');
     expect(out).toContain('<g data-contable data-etiqueta="Un mango" role="button" tabindex="0" aria-label="Un mango"/>');
     expect(out).toContain('<g data-hotspot="x" role="img" tabindex="-1" aria-label="ya">');
+  });
+
+  it('escapa & sueltos y comillas de una etiqueta con comillas simples', () => {
+    const out = anotarAccesibilidad(`<g data-hotspot="a" data-etiqueta='Sol & "luna"'/>`);
+    expect(out).toContain('aria-label="Sol &amp; &quot;luna&quot;"');
   });
 
   it('indexa módulos por slug y número de página', () => {
