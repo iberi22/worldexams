@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La varianza del estimador estratificado depende de la variabilidad interna de los estratos. Si la varianza intra-estrato es pequeña ($sigma_h^2 < sigma^2$), el error estándar disminuye respecto al aleatorio simple.",
+      "explanation": "La varianza del estimador estratificado depende de la variabilidad interna de los estratos. Si la varianza intra-estrato es pequeña ($\\sigma_h^2 < \\sigma^2$), el error estándar disminuye respecto al aleatorio simple.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,7 +699,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W36-azar-muestreo-001-MASTERY-bundle-v16",
-      "statement": "¿Cómo se comparan las precisiones (errores estándar) de los dos estudios si ambas poblaciones tienen la misma varianza $sigma^2$?",
+      "statement": "¿Cómo se comparan las precisiones (errores estándar) de los dos estudios si ambas poblaciones tienen la misma varianza $\\sigma^2$?",
       "context": "Un analista realiza dos estudios: en la ciudad A ($N_A = 100,000$) toma una muestra aleatoria de $n = 1,000$. En la ciudad B ($N_B = 1,000,000$) toma una muestra aleatoria de $n = 1,000$.",
       "options": [
         {
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El error estándar de la media es $sigma_{\\bar{x}} = \\frac{sigma}{sqrt{n}}$. Como en ambos estudios $n=1,000$ y $sigma$ es idéntica, la precisión es prácticamente idéntica sin importar la diferencia entre $N_A$ y $N_B$.",
+      "explanation": "El error estándar de la media es $\\sigma_{\\bar{x}} = \\frac{sigma}{\\sqrt{n}}$. Como en ambos estudios $n=1,000$ y $\\sigma$ es idéntica, la precisión es prácticamente idéntica sin importar la diferencia entre $N_A$ y $N_B$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -796,7 +796,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "$20 cdot (0.05) cdot (0.95)^{19} approx 0.377$",
+          "text": "$20 \\cdot (0.05) \\cdot (0.95)^{19} \\approx 0.377$",
           "is_correct": true,
           "feedback": "P(X=1) = C(20,1) * (0.05)^1 * (0.95)^19 = 20 * 0.05 * (0.95)^19 = 1 * (0.377) = 0.377."
         },
@@ -820,7 +820,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Bajo muestreo con reemplazo, la variable sigue una distribución binomial $B(n=20, p=0.05)$:\n$P(X=1) = \\binom{20}{1} (0.05)^1 (0.95)^{19} = 20   imes 0.05   imes (0.95)^{19} approx 0.377$.",
+      "explanation": "Bajo muestreo con reemplazo, la variable sigue una distribución binomial $B(n=20, p=0.05)$:\n$P(X=1) = \\binom{20}{1} (0.05)^1 (0.95)^{19} = 20   imes 0.05   imes (0.95)^{19} \\approx 0.377$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -866,7 +866,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$E[X] = n cdot p = 50   imes 0.01 = 0.5$ piezas defectuosas. Aunque la media esperada es baja, la variabilidad de la distribución muestral genera una probabilidad positiva $P(X ge 2) = 1 - P(0) - P(1) approx 0.09$, lo que representa el riesgo de rechazo erróneo (riesgo del productor).",
+      "explanation": "$E[X] = n \\cdot p = 50   imes 0.01 = 0.5$ piezas defectuosas. Aunque la media esperada es baja, la variabilidad de la distribución muestral genera una probabilidad positiva $P(X \\ge 2) = 1 - P(0) - P(1) \\approx 0.09$, lo que representa el riesgo de rechazo erróneo (riesgo del productor).",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -884,7 +884,7 @@
     {
       "id": "CO-MAT-11-2026-W36-azar-muestreo-001-MASTERY-bundle-v20",
       "statement": "¿Cuál es la consecuencia teórica directa de este resultado para el muestreo en estudios de mercado?",
-      "context": "Se evalúa la propiedad de insesgadez de un estimador. Se demuestra que para cualquier muestra aleatoria simple de tamaño $n$ extraída de una población con media $mu$, la esperanza de la media muestral cumple $E[\\bar{X}] = mu$.",
+      "context": "Se evalúa la propiedad de insesgadez de un estimador. Se demuestra que para cualquier muestra aleatoria simple de tamaño $n$ extraída de una población con media $mu$, la esperanza de la media muestral cumple $E[\\bar{X}] = \\mu$.",
       "options": [
         {
           "letter": "A",
@@ -912,7 +912,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Un estimador es insesgado si su valor esperado matemático es igual al parámetro poblacional $E[\\bar{X}] = mu$. Esto asegura la ausencia de desviaciones sistemáticas a lo largo de repetidos procesos de muestreo.",
+      "explanation": "Un estimador es insesgado si su valor esperado matemático es igual al parámetro poblacional $E[\\bar{X}] = \\mu$. Esto asegura la ausencia de desviaciones sistemáticas a lo largo de repetidos procesos de muestreo.",
       "difficulty": "10",
       "images": [],
       "tags": [],

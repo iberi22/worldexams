@@ -314,7 +314,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Al perder un electrón para formar un catión ($Na \rightarrow Na^+ + e^-$), se vacía el nivel principal exterior ($n=3$). Los 10 electrones restantes ($n=2$) son atraídos por los 11 protones del núcleo sin apantallamiento externo, reduciendo el radio: $r(Na^+) < r(Na)$.",
+      "explanation": "Al perder un electrón para formar un catión ($Na \\rightarrow Na^+ + e^-$), se vacía el nivel principal exterior ($n=3$). Los 10 electrones restantes ($n=2$) son atraídos por los 11 protones del núcleo sin apantallamiento externo, reduciendo el radio: $r(Na^+) < r(Na)$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -384,7 +384,7 @@
           "letter": "A",
           "text": "Es el cambio de energía producido cuando un átomo gaseoso neutro en estado fundamental captura un electrón para formar un anión con carga $-1$.",
           "is_correct": true,
-          "feedback": "Correcto. Definición estándar de afinidad electrónica: $X_{(g)} + e^- \rightarrow X^-_{(g)} + Delta E$."
+          "feedback": "Correcto. Definición estándar de afinidad electrónica: $X_{(g)} + e^- \\rightarrow X^-_{(g)} + \\Delta E$."
         },
         {
           "letter": "B",
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La afinidad electrónica ($AE$) es la variación energética ($Delta E$) asociada al proceso en que un átomo neutro en estado gaseoso acepta un electrón libre para convertirse en un ion negativo (anión): $X_{(g)} + e^- \rightarrow X^-_{(g)}$.",
+      "explanation": "La afinidad electrónica ($AE$) es la variación energética ($\\Delta E$) asociada al proceso en que un átomo neutro en estado gaseoso acepta un electrón libre para convertirse en un ion negativo (anión): $X_{(g)} + e^- \\rightarrow X^-_{(g)}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,7 +423,7 @@
     },
     {
       "id": "CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v10",
-      "statement": "¿Por qué la SEGUNDA energía de ionización del Sodio ($Na \rightarrow Na^{2+} + e^-$) es astronómicamente mayor que la del Magnesio ($Mg \rightarrow Mg^{2+} + e^-$)?",
+      "statement": "¿Por qué la SEGUNDA energía de ionización del Sodio ($Na \\rightarrow Na^{2+} + e^-$) es astronómicamente mayor que la del Magnesio ($Mg \\rightarrow Mg^{2+} + e^-$)?",
       "context": "Se comparan las segundas energías de ionización ($E_{I2}$) del Sodio ($Z=11$) y del Magnesio ($Z=12$).",
       "options": [
         {
@@ -608,7 +608,7 @@
     {
       "id": "CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v14",
       "statement": "¿Cuál es la causa cuántica de la resistencia de los gases nobles a aceptar un electrón adicional?",
-      "context": "En un estudio sobre afinidades electrónicas, se observa que los gases nobles (Grupo 18) poseen afinidades electrónicas endotérmicas o no favorables ($Delta E > 0$).",
+      "context": "En un estudio sobre afinidades electrónicas, se observa que los gases nobles (Grupo 18) poseen afinidades electrónicas endotérmicas o no favorables ($\\Delta E > 0$).",
       "options": [
         {
           "letter": "A",
@@ -700,13 +700,13 @@
     {
       "id": "CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la clasificación correcta del carácter del enlace para cada uno de estos tres pares?",
-      "context": "Se consulta la tabla de electronegatividades de Pauling para predecir el tipo de enlace entre pares de átomos: $K-Cl$ ($Delta EN = 2.2$), $C-O$ ($Delta EN = 1.0$) y $C-H$ ($Delta EN = 0.4$).",
+      "context": "Se consulta la tabla de electronegatividades de Pauling para predecir el tipo de enlace entre pares de átomos: $K-Cl$ ($\\Delta EN = 2.2$), $C-O$ ($\\Delta EN = 1.0$) y $C-H$ ($\\Delta EN = 0.4$).",
       "options": [
         {
           "letter": "A",
           "text": "$K-Cl$: Iónico; $C-O$: Covalente polar; $C-H$: Covalente apolar (o débilmente polar).",
           "is_correct": true,
-          "feedback": "Correcto. $Delta EN ge 1.7 \\implies$ iónico ($K-Cl$). $0.5 le Delta EN < 1.7 \\implies$ covalente polar ($C-O$). $Delta EN < 0.5 \\implies$ covalente apolar ($C-H$)."
+          "feedback": "Correcto. $\\Delta EN \\ge 1.7 \\implies$ iónico ($K-Cl$). $0.5 \\le \\Delta EN < 1.7 \\implies$ covalente polar ($C-O$). $\\Delta EN < 0.5 \\implies$ covalente apolar ($C-H$)."
         },
         {
           "letter": "B",
@@ -724,11 +724,11 @@
           "letter": "D",
           "text": "Los tres enlaces son covalentes puros no polares.",
           "is_correct": false,
-          "feedback": "Incorrecto. La polaridad depende del valor de $Delta EN$."
+          "feedback": "Incorrecto. La polaridad depende del valor de $\\Delta EN$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Regla de Pauling:\n1) $Delta EN > 1.7 \\implies$ Predominio iónico ($K-Cl = 2.2$).\n2) $0.4 < Delta EN < 1.7 \\implies$ Covalente polar ($C-O = 1.0$).\n3) $Delta EN le 0.4 \\implies$ Covalente no polar ($C-H = 0.4$).",
+      "explanation": "Regla de Pauling:\n1) $\\Delta EN > 1.7 \\implies$ Predominio iónico ($K-Cl = 2.2$).\n2) $0.4 < \\Delta EN < 1.7 \\implies$ Covalente polar ($C-O = 1.0$).\n3) $\\Delta EN \\le 0.4 \\implies$ Covalente no polar ($C-H = 0.4$).",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -746,7 +746,7 @@
     {
       "id": "CO-CN-11-2026-W09-tabla-periodica-001-MASTERY-bundle-v17",
       "statement": "¿A qué grupo de la tabla periódica pertenece el elemento $X$ y cuál es su identidad química?",
-      "context": "Se analizan los valores de las sucesivas energías de ionización ($E_I$ en $\text{kJ/mol}$) de un elemento desconocido $X$ del Periodo 3:\n$E_{I1} = 738$, $E_{I2} = 1450$, $E_{I3} = 7730$, $E_{I4} = 10540$.",
+      "context": "Se analizan los valores de las sucesivas energías de ionización ($E_I$ en $\\text{kJ/mol}$) de un elemento desconocido $X$ del Periodo 3:\n$E_{I1} = 738$, $E_{I2} = 1450$, $E_{I3} = 7730$, $E_{I4} = 10540$.",
       "options": [
         {
           "letter": "A",
@@ -774,7 +774,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Un incremento masivo e abrupto entre dos energías de ionización consecutivas señala que se ha comenzado a remover electrones de la capa interna de gas noble. Como el salto se produce tras la segunda ionización ($E_{I2} \rightarrow E_{I3}$), el elemento posee 2 electrones de valencia (Grupo 2, $Mg$).",
+      "explanation": "Un incremento masivo e abrupto entre dos energías de ionización consecutivas señala que se ha comenzado a remover electrones de la capa interna de gas noble. Como el salto se produce tras la segunda ionización ($E_{I2} \\rightarrow E_{I3}$), el elemento posee 2 electrones de valencia (Grupo 2, $Mg$).",
       "difficulty": "10",
       "images": [],
       "tags": [],

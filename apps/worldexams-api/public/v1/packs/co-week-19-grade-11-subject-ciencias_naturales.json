@@ -252,7 +252,7 @@
           "letter": "B",
           "text": "Enlaces fosfodiéster del esqueleto azúcar-fosfato.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los enlaces fosfodiéster son covalentes fuertes y resisten $95^circ\text{C}$ brevemente."
+          "feedback": "Incorrecto. Los enlaces fosfodiéster son covalentes fuertes y resisten $95^\\circ\\text{C}$ brevemente."
         },
         {
           "letter": "C",
@@ -848,7 +848,7 @@
         },
         {
           "letter": "B",
-          "text": "Incinerar la muestra a $500^circ\text{C}$ para purificar el ARN.",
+          "text": "Incinerar la muestra a $500^\\circ\\text{C}$ para purificar el ARN.",
           "is_correct": false,
           "feedback": "Incorrecto. La incineración destruiría todas las biomoléculas."
         },

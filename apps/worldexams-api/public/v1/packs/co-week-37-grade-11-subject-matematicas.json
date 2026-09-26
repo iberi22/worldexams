@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El desarrollo $(a+b)^n = sum_{k=0}^n \\binom{n}{k} a^{n-k} b^k$ abarca los índices desde $k=0$ hasta $k=n$, sumando un total de $n+1$ términos.",
+      "explanation": "El desarrollo $(a+b)^n = \\sum_{k=0}^n \\binom{n}{k} a^{n-k} b^k$ abarca los índices desde $k=0$ hasta $k=n$, sumando un total de $n+1$ términos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -84,7 +84,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Evaluando $(1+1)^n = sum_{k=0}^n \\binom{n}{k}$, la suma de la fila $n$ del Triángulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.",
+      "explanation": "Evaluando $(1+1)^n = \\sum_{k=0}^n \\binom{n}{k}$, la suma de la fila $n$ del Triángulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -176,7 +176,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Con $n=13$ personas y $k=12$ meses en un año, al aplicar el principio de Dirichlet o de Palomar ($lceil 13/12 \nceil = 2$), se garantiza que al menos 2 personas cumplen con haber nacido en el mismo mes.",
+      "explanation": "Con $n=13$ personas y $k=12$ meses en un año, al aplicar el principio de Dirichlet o de Palomar ($lceil 13/12\nceil = 2$), se garantiza que al menos 2 personas cumplen con haber nacido en el mismo mes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El último término del binomio $(2x - 1)^4$ ocurre para $k=4$: $\\binom{4}{4} (2x)^0 (-1)^4 = 1 cdot 1 cdot 1 = 1$.",
+      "explanation": "El último término del binomio $(2x - 1)^4$ ocurre para $k=4$: $\\binom{4}{4} (2x)^0 (-1)^4 = 1 \\cdot 1 \\cdot 1 = 1$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -516,7 +516,7 @@
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v12",
       "statement": "¿Cuántos desarreglos $D_4$ existen para un grupo de 4 elementos ${1, 2, 3, 4}$?",
-      "context": "Se define un desarreglo (o permutación caótica) $D_n$ como una permutación de $n$ elementos donde ningún elemento aparece en su posición original. La fórmula es $D_n = n! sum_{k=0}^n \\frac{(-1)^k}{k!}$.",
+      "context": "Se define un desarreglo (o permutación caótica) $D_n$ como una permutación de $n$ elementos donde ningún elemento aparece en su posición original. La fórmula es $D_n = n! \\sum_{k=0}^n \\frac{(-1)^k}{k!}$.",
       "options": [
         {
           "letter": "A",
@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicando la fórmula de desarreglos para $n=4$:\n$D_4 = 4! left( \\frac{1}{0!} - \\frac{1}{1!} + \\frac{1}{2!} - \\frac{1}{3!} + \\frac{1}{4!} \night) = 24 left( 1 - 1 + \\frac{1}{2} - \\frac{1}{6} + \\frac{1}{24} \night) = 12 - 4 + 1 = 9$.",
+      "explanation": "Aplicando la fórmula de desarreglos para $n=4$:\n$D_4 = 4! left( \\frac{1}{0!} - \\frac{1}{1!} + \\frac{1}{2!} - \\frac{1}{3!} + \\frac{1}{4!}\night) = 24 left( 1 - 1 + \\frac{1}{2} - \\frac{1}{6} + \\frac{1}{24}\night) = 12 - 4 + 1 = 9$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -746,7 +746,7 @@
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v17",
       "statement": "¿Cuántas soluciones enteras positivas existen para esta ecuación?",
-      "context": "Se busca determinar el número de soluciones enteras estrictamente POSITIVAS ($x_i ge 1$) a la ecuación $x_1 + x_2 + x_3 + x_4 = 12$.",
+      "context": "Se busca determinar el número de soluciones enteras estrictamente POSITIVAS ($x_i \\ge 1$) a la ecuación $x_1 + x_2 + x_3 + x_4 = 12$.",
       "options": [
         {
           "letter": "A",
@@ -838,7 +838,7 @@
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v19",
       "statement": "Para $n = 3$, verifique la suma de los cuadrados de la fila 3 del Triángulo de Pascal e identifique el valor equivalente $\\binom{6}{3}$.",
-      "context": "Evaluando la identidad combinatoria $sum_{k=0}^n \\binom{n}{k}^2 = \\binom{2n}{n}$.",
+      "context": "Evaluando la identidad combinatoria $\\sum_{k=0}^n \\binom{n}{k}^2 = \\binom{2n}{n}$.",
       "options": [
         {
           "letter": "A",
@@ -912,7 +912,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Número de casos favorables (desarreglos $D_4$) $= 9$. Número de casos posibles ($4!$) $= 24$.\n$P(\text{ninguna correcta}) = \\frac{9}{24} = \\frac{3}{8} = 0.375$.",
+      "explanation": "Número de casos favorables (desarreglos $D_4$) $= 9$. Número de casos posibles ($4!$) $= 24$.\n$P(\\text{ninguna correcta}) = \\frac{9}{24} = \\frac{3}{8} = 0.375$.",
       "difficulty": "10",
       "images": [],
       "tags": [],

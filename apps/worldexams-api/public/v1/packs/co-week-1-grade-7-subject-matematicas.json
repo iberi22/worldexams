@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$\frac{3}{120} = \frac{x}{280} \\implies 120x = 840 \\implies x = 7$ galones.",
+      "explanation": "$\\frac{3}{120} = \\frac{x}{280} \\implies 120x = 840 \\implies x = 7$ galones.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -62,7 +62,7 @@
           "letter": "A",
           "text": "$25$ minutos",
           "is_correct": true,
-          "feedback": "Correcto. Regla de tres inversa: $5 \times 10 = 2 \times x \\implies x = 25$ minutos."
+          "feedback": "Correcto. Regla de tres inversa: $5 \\times 10 = 2 \\times x \\implies x = 25$ minutos."
         },
         {
           "letter": "B",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "$90\\text{ metros}$",
           "is_correct": true,
-          "feedback": "Correcto. $60 / 8 = 7.5\\text{ m/obrero}$; $12 \times 7.5 = 90\\text{ metros}$."
+          "feedback": "Correcto. $60 / 8 = 7.5\\text{ m/obrero}$; $12 \\times 7.5 = 90\\text{ metros}$."
         },
         {
           "letter": "B",
