@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-20-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.505Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipos de punto aparecen en el texto y qué función cumple cada uno?",
+      "context": "Una alumna de Cali escribe en su cuaderno: «Compramos pan. Después visitamos a la abuela. Volvimos cansados pero contentos».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo hay un punto final porque todo es una sola oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay tres oraciones distintas separadas por puntos."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los puntos son puntos finales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los primeros son puntos seguidos."
+        },
+        {
+          "letter": "C",
+          "text": "Hay punto seguido entre oraciones y punto final al cerrar el texto.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada función corresponde a un tipo de punto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo hay punto y aparte porque cambia el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las tres oraciones tratan el mismo día."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Punto seguido une oraciones dentro del mismo párrafo. Punto y aparte separa párrafos. Punto final cierra el texto. Usarlos bien ayuda a respirar entre ideas y a organizar la lectura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumple la coma después de «Estimados padres»?",
+      "context": "Un aviso de Medellín dice: «Estimados padres, los esperamos el viernes 26 a las 5 p.m. en el auditorio».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierra el aviso como signo final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Para cerrar se usa el punto."
+        },
+        {
+          "letter": "B",
+          "text": "Separa el vocativo (a quién se dirige) del resto de la oración.",
+          "is_correct": true,
+          "feedback": "Correcto. La coma aísla el saludo o llamado de atención."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la oración no ha terminado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función la cumple el punto y coma, no la coma."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituye al verbo y da agilidad al texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coma no reemplaza verbos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma se usa para: 1) aislar el vocativo (Juan, ven aquí); 2) enumerar elementos (traigo pan, leche y queso); 3) marcar aposiciones; 4) separar complementos largos. No se usa para separar sujeto de verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué signo de puntuación se usa en la lista de ingredientes y por qué?",
+      "context": "Una receta de Pereira lleva como ingredientes: «tomates, cebolla, ajo, cilantro y aceite de oliva».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto y coma, porque cada ingrediente es una oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son oraciones, son sustantivos."
+        },
+        {
+          "letter": "B",
+          "text": "Los puntos suspensivos, porque la lista podría seguir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puntos suspensivos sugieren continuación indefinida."
+        },
+        {
+          "letter": "C",
+          "text": "La coma, porque separa elementos en una enumeración.",
+          "is_correct": true,
+          "feedback": "Correcto. Antes del último elemento se coloca «y» en lugar de otra coma."
+        },
+        {
+          "letter": "D",
+          "text": "El punto final, porque cada ingrediente es independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto no separa elementos dentro de una misma oración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al enumerar elementos dentro de una oración, se separan con coma y antes del último se usa la conjunción «y» (o «o», si son opciones). Esta regla da ritmo y claridad a la lista.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué uso correcto tienen los signos de interrogación en español?",
+      "context": "Un alumno de Bucaramanga escribe: «¿Cuándo empieza la clase? ¿Quién es el profesor nuevo? ¿A qué hora salimos?».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo se coloca el signo al final de la pregunta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En español se usan dos signos: uno de apertura y otro de cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Se coloca el signo de apertura invertido (¿) al inicio y el de cierre (?) al final.",
+          "is_correct": true,
+          "feedback": "Correcto. La doble marca es una particularidad del español."
+        },
+        {
+          "letter": "C",
+          "text": "Se usa el signo de cierre (?) al inicio y al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso produciría una frase ininteligible."
+        },
+        {
+          "letter": "D",
+          "text": "Solo se usa el signo de apertura (¿).",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin signo de cierre la pregunta queda abierta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El español usa la doble marca de interrogación (¿?) y exclamación (¡!). Esta convención indica al lector, desde la primera palabra, que viene una pregunta o una exclamación y evita ambigüedades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función tienen los dos puntos después de «Querido diario»?",
+      "context": "Una alumna de Tunja dicta a su compañera: «Querido diario: hoy aprendí algo nuevo. Estoy muy contenta».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierran la carta como un punto final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos puntos no cierran el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Introducen lo que se va a decir después del saludo.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos puntos encabezan una enumeración, una cita o un texto."
+        },
+        {
+          "letter": "C",
+          "text": "Marcan una pregunta porque el saludo es interrogativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay pregunta, solo saludo inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituyen una coma y separan al destinatario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa función es de la coma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos puntos se usan para: 1) introducir una enumeración; 2) iniciar una cita textual; 3) encabezar cartas y diálogos; 4) dar paso a una explicación. Siempre van antes del contenido que desarrollan.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función cumple el punto y coma en este titular?",
+      "context": "Un periódico de Barranquilla titula: «El gobernador anunció medidas; los comerciantes, sin embargo, criticaron la decisión».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierra el titular como un punto final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto y coma no marca el final del enunciado."
+        },
+        {
+          "letter": "B",
+          "text": "Separa dos oraciones relacionadas pero con cierta autonomía.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada parte mantiene independencia gramatical."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye una coma y no aporta información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto y coma marca una pausa más larga que la coma."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la frase es una pregunta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay pregunta en el titular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto y coma une oraciones que están estrechamente relacionadas y separa los elementos de una enumeración compleja. Su uso correcto evita que el texto resulte confuso o demasiado cortado por comas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué combinación de signos aparece y cómo se justifica?",
+      "context": "Una alumna de Manizales escribe: «Mi profesora dijo: mañana habrá evaluación sorpresa ¡y todos se asustaron!».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo hay admiración al final porque basta con un signo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En español la exclamación lleva doble signo."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos puntos sobran y deberían ser comas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos puntos son correctos antes de la cita."
+        },
+        {
+          "letter": "C",
+          "text": "Dos puntos para introducir la cita, signos dobles de exclamación por la intensidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada signo cumple una función precisa."
+        },
+        {
+          "letter": "D",
+          "text": "El punto final debería ir después de los signos de exclamación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo de cierre ya cierra la oración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Combinar signos es válido: los dos puntos pueden anteceder exclamaciones, citas, enumeraciones y preguntas. Lo importante es que cada signo tenga una razón y no se acumulen por costumbre.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función tienen las rayas y los puntos suspensivos en la frase?",
+      "context": "Un cuento de Neiva dice: «Entonces el abuelo murmuró — bajito, bajito — que guardáramos el secreto...».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las rayas son signos finales y los puntos suspensivos una coma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada signo cumple funciones distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Las rayas enmarcan un inciso y los puntos suspensivos dejan abierto el sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada marca aporta ritmo y misterio al relato."
+        },
+        {
+          "letter": "C",
+          "text": "Las rayas indican pregunta y los puntos suspensivos una respuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí no hay pregunta ni respuesta explícita."
+        },
+        {
+          "letter": "D",
+          "text": "Solo las rayas son signos válidos, los puntos suspensivos sobran.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada signo tiene su uso apropiado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las rayas (—) enmarcan incisos y diálogos. Los puntos suspensivos (...) sugieren continuidad, duda o un final abierto. Ambos signos dan expresividad al texto cuando se usan con intención.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error de puntuación tiene la frase y cómo se corrige?",
+      "context": "Un alumno de Pasto escribe: «Mi mamá me dijo, que si estudio mucho me regalará una bicicleta de 800.000 COP».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La coma es correcta porque separa dos verbos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una coma no debe separar sujeto de verbo."
+        },
+        {
+          "letter": "B",
+          "text": "La coma sobra y debe eliminarse antes de «que».",
+          "is_correct": true,
+          "feedback": "Correcto. La conjunción «que» no se aísla con coma salvo en casos especiales."
+        },
+        {
+          "letter": "C",
+          "text": "Falta una coma después de «estudio».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa coma no aporta claridad y rompería la oración."
+        },
+        {
+          "letter": "D",
+          "text": "La frase necesita dos puntos en lugar de coma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay enumeración ni cita, solo subordinación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una regla clave: la coma no debe separar el verbo de su complemento directo ni al sujeto del verbo. Su uso incorrecto fragmenta la oración y dificulta la comprensión.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué problemas de puntuación tiene el texto y cómo se corrige?",
+      "context": "Una alumna de Cartagena escribe: «Mis primos vinieron de vacaciones. ¡trajeron un regalo para mí. yo estaba muy feliz ¿Qué más podía pedir?».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es correcto y solo necesita un punto final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los signos están mal empleados."
+        },
+        {
+          "letter": "B",
+          "text": "Faltan mayúsculas tras los signos y los signos de exclamación e interrogación deben ir dobles.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada error afecta la presentación y la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Solo hay que añadir comas para separar palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comas no resuelven los errores señalados."
+        },
+        {
+          "letter": "D",
+          "text": "Falta un título y no importa la puntuación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puntuación es fundamental para la claridad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Después de punto, signo de exclamación o de interrogación se empieza con mayúscula. Los signos dobles (¡!, ¿?) son obligatorios en español. Cuidarlos refleja respeto por el lector y por la lengua.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
