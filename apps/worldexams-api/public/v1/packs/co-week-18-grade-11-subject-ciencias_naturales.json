@@ -384,13 +384,13 @@
           "letter": "A",
           "text": "$K_p = K_c$, porque $\\Delta n_{gases} = 2 - (1+1) = 0$.",
           "is_correct": true,
-          "feedback": "Correcto. Como $Delta n = 0$, $R T^0 = 1$, por ende $K_p = K_c$."
+          "feedback": "Correcto. Como $\\Delta n = 0$, $R T^0 = 1$, por ende $K_p = K_c$."
         },
         {
           "letter": "B",
           "text": "$K_p = K_c \\cdot (RT)$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Aplica cuando $Delta n = 1$."
+          "feedback": "Incorrecto. Aplica cuando $\\Delta n = 1$."
         },
         {
           "letter": "C",
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "De $K_p = K_c (RT)^{Delta n}$, al ser $Delta n = 0$, se cumple $K_p = K_c$.",
+      "explanation": "De $K_p = K_c (RT)^{\\Delta n}$, al ser $\\Delta n = 0$, se cumple $K_p = K_c$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -476,7 +476,7 @@
           "letter": "A",
           "text": "$0.75 \\text{ M}$.",
           "is_correct": true,
-          "feedback": "Correcto. $K_c = [4x^2]/(2-x) = 0.5 Rightarrow 4x^2 + 0.5x - 1 = 0 Rightarrow x approx 0.44 \text{ M} Rightarrow [B] = 2x approx 0.75 \text{ M}$."
+          "feedback": "Correcto. $K_c = [4x^2]/(2-x) = 0.5 Rightarrow 4x^2 + 0.5x - 1 = 0 Rightarrow x \\approx 0.44 \\text{ M} Rightarrow [B] = 2x \\approx 0.75 \\text{ M}$."
         },
         {
           "letter": "B",
@@ -498,7 +498,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x approx 0.75 \text{ M}$.",
+      "explanation": "Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x \\approx 0.75 \\text{ M}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para una sal 1:1, $K_{sp} = s^2 Rightarrow s = sqrt{K_{sp}} = 1.34 \times 10^{-5} \text{ M}$.",
+      "explanation": "Para una sal 1:1, $K_{sp} = s^2 Rightarrow s = \\sqrt{K_{sp}} = 1.34 \\times 10^{-5} \\text{ M}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,26 +607,26 @@
     },
     {
       "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v14",
-      "statement": "Si a $298 \\text{ K}$ una reacción presenta $K_c = 1.0 \\times 10^5$, ¿qué se concluye sobre $\\Delta G^circ$ y la composición en equilibrio?",
-      "context": "En Pasto se analiza la relación $\\Delta G^circ = -RT \\ln K$.",
+      "statement": "Si a $298 \\text{ K}$ una reacción presenta $K_c = 1.0 \\times 10^5$, ¿qué se concluye sobre $\\Delta G^\\circ$ y la composición en equilibrio?",
+      "context": "En Pasto se analiza la relación $\\Delta G^\\circ = -RT \\ln K$.",
       "options": [
         {
           "letter": "A",
-          "text": "$\\Delta G^circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.",
+          "text": "$\\Delta G^\\circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.",
           "is_correct": true,
-          "feedback": "Correcto. Como $K > 1$, $ln K > 0 Rightarrow Delta G^circ < 0$, favoreciendo productos."
+          "feedback": "Correcto. Como $K > 1$, $ln K > 0 Rightarrow \\Delta G^\\circ < 0$, favoreciendo productos."
         },
         {
           "letter": "B",
-          "text": "$\\Delta G^circ > 0$ y predominan reactivos.",
+          "text": "$\\Delta G^\\circ > 0$ y predominan reactivos.",
           "is_correct": false,
-          "feedback": "Incorrecto. $K > 1$ implica $Delta G^circ < 0$."
+          "feedback": "Incorrecto. $K > 1$ implica $\\Delta G^\\circ < 0$."
         },
         {
           "letter": "C",
-          "text": "$\\Delta G^circ = 0$ y no hay productos.",
+          "text": "$\\Delta G^\\circ = 0$ y no hay productos.",
           "is_correct": false,
-          "feedback": "Incorrecto. $Delta G^circ = 0$ ocurre solo cuando $K = 1$."
+          "feedback": "Incorrecto. $\\Delta G^\\circ = 0$ ocurre solo cuando $K = 1$."
         },
         {
           "letter": "D",
@@ -636,7 +636,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Un valor $K gg 1$ genera $Delta G^circ < 0$, indicando un equilibrio que favorece ampliamente la formación de productos.",
+      "explanation": "Un valor $K gg 1$ genera $\\Delta G^\\circ < 0$, indicando un equilibrio que favorece ampliamente la formación de productos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$[H^+] = 10^{-3} \text{ M}$. $K_a = (10^{-3})^2 / 0.1 = 10^{-5}$.",
+      "explanation": "$[H^+] = 10^{-3} \\text{ M}$. $K_a = (10^{-3})^2 / 0.1 = 10^{-5}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -746,7 +746,7 @@
     {
       "id": "CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v17",
       "statement": "¿Qué combinación de presión y temperatura maximiza el rendimiento termodinámico en el equilibrio?",
-      "context": "En una planta química en Barranquilla se evalúa optimizar la síntesis del metanol: $CO_{(g)} + 2H_{2(g)} \\rightleftharpoons CH_3OH_{(g)}$ ($Delta H < 0$).",
+      "context": "En una planta química en Barranquilla se evalúa optimizar la síntesis del metanol: $CO_{(g)} + 2H_{2(g)} \\rightleftharpoons CH_3OH_{(g)}$ ($\\Delta H < 0$).",
       "options": [
         {
           "letter": "A",

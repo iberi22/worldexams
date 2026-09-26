@@ -44,7 +44,7 @@ Este bundle contiene 20 preguntas sobre **combinatoria avanzada, teorema del bin
   <!-- feedback: Calculó 2^6 en lugar del número de términos de la suma polinomial. -->
 
 ### Explicacion Pedagogica
-El desarrollo $(a+b)^n = sum_{k=0}^n \binom{n}{k} a^{n-k} b^k$ abarca los índices desde $k=0$ hasta $k=n$, sumando un total de $n+1$ términos.
+El desarrollo $(a+b)^n = \sum_{k=0}^n \binom{n}{k} a^{n-k} b^k$ abarca los índices desde $k=0$ hasta $k=n$, sumando un total de $n+1$ términos.
 
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v2
@@ -67,7 +67,7 @@ El desarrollo $(a+b)^n = sum_{k=0}^n \binom{n}{k} a^{n-k} b^k$ abarca los índic
   <!-- feedback: Calculó 2^5 en lugar de 2^4. -->
 
 ### Explicacion Pedagogica
-Evaluando $(1+1)^n = sum_{k=0}^n \binom{n}{k}$, la suma de la fila $n$ del Triángulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.
+Evaluando $(1+1)^n = \sum_{k=0}^n \binom{n}{k}$, la suma de la fila $n$ del Triángulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.
 
 ## Question 3 [D3-D4]
 **ID:** CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v3
@@ -231,7 +231,7 @@ Permutaciones separadas $= 5040 - 1440 = 3600$.
   <!-- feedback: Calculó 4 * (-1). -->
 
 ### Explicacion Pedagogica
-El último término del binomio $(2x - 1)^4$ ocurre para $k=4$: $\binom{4}{4} (2x)^0 (-1)^4 = 1 cdot 1 cdot 1 = 1$.
+El último término del binomio $(2x - 1)^4$ ocurre para $k=4$: $\binom{4}{4} (2x)^0 (-1)^4 = 1 \cdot 1 \cdot 1 = 1$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v10
@@ -286,7 +286,7 @@ $= (100 + 80 + 70) - (30 + 25 + 20) + 10 = 250 - 75 + 10 = 185$.
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.65
-**Contexto:** Se define un desarreglo (o permutación caótica) $D_n$ como una permutación de $n$ elementos donde ningún elemento aparece en su posición original. La fórmula es $D_n = n! sum_{k=0}^n \frac{(-1)^k}{k!}$.
+**Contexto:** Se define un desarreglo (o permutación caótica) $D_n$ como una permutación de $n$ elementos donde ningún elemento aparece en su posición original. La fórmula es $D_n = n! \sum_{k=0}^n \frac{(-1)^k}{k!}$.
 
 ### Enunciado
 ¿Cuántos desarreglos $D_4$ existen para un grupo de 4 elementos ${1, 2, 3, 4}$?
@@ -406,7 +406,7 @@ $\binom{n}{2} = \frac{n(n-1)}{2} = 66 Rightarrow n(n-1) = 132$. Resolviendo la e
 **Bloom:** Evaluate
 **ICFES:** Aleatorio
 **Expected_Success:** 0.50
-**Contexto:** Se busca determinar el número de soluciones enteras estrictamente POSITIVAS ($x_i ge 1$) a la ecuación $x_1 + x_2 + x_3 + x_4 = 12$.
+**Contexto:** Se busca determinar el número de soluciones enteras estrictamente POSITIVAS ($x_i \ge 1$) a la ecuación $x_1 + x_2 + x_3 + x_4 = 12$.
 
 ### Enunciado
 ¿Cuántas soluciones enteras positivas existen para esta ecuación?
@@ -452,7 +452,7 @@ Para no tener parejas completas al elegir 4 cartas de 4 parejas, debemos selecci
 **Bloom:** Evaluate
 **ICFES:** Aleatorio
 **Expected_Success:** 0.45
-**Contexto:** Evaluando la identidad combinatoria $sum_{k=0}^n \binom{n}{k}^2 = \binom{2n}{n}$.
+**Contexto:** Evaluando la identidad combinatoria $\sum_{k=0}^n \binom{n}{k}^2 = \binom{2n}{n}$.
 
 ### Enunciado
 Para $n = 3$, verifique la suma de los cuadrados de la fila 3 del Triángulo de Pascal e identifique el valor equivalente $\binom{6}{3}$.
@@ -493,4 +493,4 @@ Por el otro lado: $\binom{2(3)}{3} = \binom{6}{3} = \frac{6   imes 5   imes 4}{3
 
 ### Explicacion Pedagogica
 Número de casos favorables (desarreglos $D_4$) $= 9$. Número de casos posibles ($4!$) $= 24$.
-$P(	ext{ninguna correcta}) = \frac{9}{24} = \frac{3}{8} = 0.375$.
+$P(\text{ninguna correcta}) = \frac{9}{24} = \frac{3}{8} = 0.375$.
