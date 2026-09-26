@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { countJsChunks, checkAssetGuard } from './lib/asset-guard.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.join(__dirname, '..');
@@ -183,6 +184,14 @@ async function main() {
   } else {
     failures.count += 1;
   }
+
+  const astroDir = path.join(repoRoot, 'dist', 'client', '_astro');
+  const jsChunkCount = await countJsChunks(astroDir);
+  const assetResult = checkAssetGuard(jsChunkCount);
+  if (assetResult.warning) {
+    console.warn(`WARN ${assetResult.message}`);
+  }
+  ensure(assetResult.ok, assetResult.message, failures);
 
   const guideTestPath = path.join(repoRoot, '..', 'tests', 'guide-country-isolation.prod.test.ts');
   const apiTestPath = path.join(repoRoot, '..', 'tests', 'api-gateway-public-regression.test.ts');
