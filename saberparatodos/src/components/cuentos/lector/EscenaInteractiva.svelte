@@ -4,6 +4,7 @@
   import EscenaSVG, { type PiezaInstancia, type EscenaPlanos } from '../arte/EscenaSVG.svelte';
   import EscenaParallax from '../arte/EscenaParallax.svelte';
   import type { EscenaCapas } from '../../../lib/cuentos/escenas-capas';
+  import { blip } from '../../../lib/cuentos/sonidos';
 
   export interface Hotspot {
     id: string;
@@ -60,31 +61,11 @@
     const isReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (isReduced) return;
 
-    try {
-      const AudioCtx = window.AudioContext || (window as any).webkitAudioContext;
-      if (!AudioCtx) return;
-      const ctx = new AudioCtx();
-      if (ctx.state === 'suspended') {
-        ctx.resume().catch(() => {});
-      }
-      const osc = ctx.createOscillator();
-      const gain = ctx.createGain();
-
-      osc.type = 'sine';
-      osc.frequency.setValueAtTime(frequency, ctx.currentTime);
-      osc.frequency.exponentialRampToValueAtTime(frequency * 1.5, ctx.currentTime + 0.12);
-
-      gain.gain.setValueAtTime(0.15, ctx.currentTime);
-      gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.12);
-
-      osc.connect(gain);
-      gain.connect(ctx.destination);
-
-      osc.start();
-      osc.stop(ctx.currentTime + 0.12);
-    } catch {
-      // Silently handle if WebAudio policy or browser audio context is unavailable
-    }
+    // AudioContext compartido (sonidos.ts). Antes se creaba un contexto NUEVO
+    // por toque y nunca se cerraba: tras unos pocos toques el navegador
+    // (iOS Safari en particular) dejaba la escena muda. blip() ya es seguro
+    // sin WebAudio.
+    blip(frequency, 'sine');
   }
 
   function getReactionClass(accion?: string): string {
