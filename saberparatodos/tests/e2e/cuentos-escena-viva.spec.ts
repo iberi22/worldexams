@@ -8,9 +8,12 @@ import { test, expect, type Page } from '@playwright/test';
  * (Playwright nunca ve estables a los personajes que respiran: es lo buscado).
  */
 
-async function prepararPagina(page: Page) {
+async function prepararPagina(page: Page, baseURL?: string) {
   const errores: string[] = [];
   const noPermitidas: string[] = [];
+  // Comparado contra el origin real (no un localhost hardcodeado), para que
+  // siga siendo válido corriendo contra un preview deploy real, no solo dev local.
+  const siteOrigin = new URL(baseURL || 'http://localhost').origin;
   page.on('console', (m) => m.type() === 'error' && errores.push(m.text()));
   page.on('pageerror', (e) => errores.push(e.message));
   await page.route('**/*', (route) => {
@@ -18,8 +21,7 @@ async function prepararPagina(page: Page) {
     const ok =
       url.startsWith('data:') ||
       url.startsWith('blob:') ||
-      url.includes('localhost') ||
-      url.includes('127.0.0.1') ||
+      url.startsWith(siteOrigin) ||
       url.includes('fonts.googleapis.com') ||
       url.includes('fonts.gstatic.com');
     if (!ok) noPermitidas.push(url);
@@ -43,8 +45,8 @@ async function esperarHidratacion(page: Page) {
 }
 
 test.describe('Cuentos · escena viva (parallax + hotspots + idle + zoom + conteo)', () => {
-  test('tana: capas reales, reacciones, mirar de cerca y contar mangos', async ({ page }) => {
-    const { errores, noPermitidas } = await prepararPagina(page);
+  test('tana: capas reales, reacciones, mirar de cerca y contar mangos', async ({ page, baseURL }) => {
+    const { errores, noPermitidas } = await prepararPagina(page, baseURL);
     await page.goto('/cuentos/tana-tucan-comparte/leer/');
     await esperarHidratacion(page);
 
@@ -103,8 +105,8 @@ test.describe('Cuentos · escena viva (parallax + hotspots + idle + zoom + conte
     expect(noPermitidas, noPermitidas.join('\n')).toEqual([]);
   });
 
-  test('prefers-reduced-motion: escena estática (sin idle ni parallax) pero tocable', async ({ page }) => {
-    const { errores } = await prepararPagina(page);
+  test('prefers-reduced-motion: escena estática (sin idle ni parallax) pero tocable', async ({ page, baseURL }) => {
+    const { errores } = await prepararPagina(page, baseURL);
     // OJO: la opción es `reducedMotion` (con "d"); `reduceMotion` se ignora en silencio.
     await page.emulateMedia({ reducedMotion: 'reduce' });
     await page.goto('/cuentos/tana-tucan-comparte/leer/');
@@ -119,8 +121,8 @@ test.describe('Cuentos · escena viva (parallax + hotspots + idle + zoom + conte
     expect(errores, errores.join('\n')).toEqual([]);
   });
 
-  test('cuento sin arte por capas mantiene la escena plana', async ({ page }) => {
-    const { errores } = await prepararPagina(page);
+  test('cuento sin arte por capas mantiene la escena plana', async ({ page, baseURL }) => {
+    const { errores } = await prepararPagina(page, baseURL);
     await page.goto('/cuentos/bruno-zorro-paciencia/leer/');
     await esperarHidratacion(page);
     await expect(page.locator('.cuento-escena-interactiva')).toHaveAttribute('data-escena-modo', 'plana');
