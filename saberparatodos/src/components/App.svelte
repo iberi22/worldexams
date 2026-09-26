@@ -67,7 +67,11 @@
     questions = [],
     universalPool = null,
     countryCode = defaultCountryConfig.code,
-    runtimeCountry = defaultCountryConfig
+    runtimeCountry = defaultCountryConfig,
+    // Recibido desde src/pages/index.astro (isExperimentalSurface). Aún sin consumir:
+    // el gate de superficies en maduración (Preuniversitario, Revisar, Comunidad,
+    // Correcciones) se implementa en la wave de producto.
+    experimentalSurface = false
   } = $props();
 
   // Internal state that can be updated
