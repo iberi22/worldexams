@@ -30,6 +30,7 @@
 | SRS-FUN-019 | Lector de cuentos: resaltado + audio gratuito + quiz oral + progreso por perfil | Alta | 📋 Planificado |
 | SRS-FUN-020 | Packs JSON estáticos offline por cuento | Media | 📋 Planificado |
 | SRS-FUN-021 | Pins/logros locales sin telemetría (extensión BR-03 a flujos de niños) | Media | 📋 Planificado |
+| SRS-FUN-022 | Sección Pequeños: portal 3D de entrada a Cuentos con estantería interactiva y fallback grid 2D accesible | Alta | 🔄 Desarrollo |
 
 ---
 
