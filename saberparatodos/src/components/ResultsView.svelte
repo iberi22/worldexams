@@ -7,6 +7,7 @@
   import ScoreDisplay from './ScoreDisplay.svelte';
   import MathRenderer from './MathRenderer.svelte';
   import ExamRoomResultsView from './ExamRoomResultsView.svelte';
+  import QuestionExplanation from './results/QuestionExplanation.svelte';
   import SharedContextLayout from './SharedContextLayout.svelte';
   import {
     groupQuestionsByContext,
@@ -253,6 +254,10 @@
     return Array.isArray(q?.options) && q.options.some((option: any) =>
       typeof option?.feedback === 'string' && option.feedback.trim().length > 0
     );
+  }
+
+  function hasExplanation(q: any): boolean {
+    return typeof q?.explanation === 'string' && q.explanation.trim().length > 0;
   }
 
   function normalizeQuestionId(questionId: string): string {
@@ -767,6 +772,10 @@
                     {/each}
                   </div>
                 </div>
+              {/if}
+
+              {#if hasExplanation(q)}
+                <QuestionExplanation explanation={q.explanation} isCorrect={isCorrect} />
               {/if}
 
               {#if runtimeCountry.features?.mathVideos}
