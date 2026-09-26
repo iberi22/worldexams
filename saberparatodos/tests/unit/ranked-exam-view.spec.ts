@@ -8,6 +8,10 @@ vi.mock('../../src/lib/ranked/ranked-client', () => ({
   submitRanked: vi.fn(),
   RANKED_MIN_ANSWERED: 31,
   RANKED_TOTAL_QUESTIONS: 40,
+  RANKED_DURATION_S: 3600,
+  // real implementation (pure helper) so timer math matches production
+  expiresAtMs: (v: string | number) =>
+    typeof v === 'number' || /^\d+$/.test(String(v)) ? (Number(v) < 1e12 ? Number(v) * 1000 : Number(v)) : new Date(v).getTime(),
   loadActiveRankedSession: vi.fn(),
   clearActiveRankedSession: vi.fn(),
   saveActiveRankedSession: vi.fn()

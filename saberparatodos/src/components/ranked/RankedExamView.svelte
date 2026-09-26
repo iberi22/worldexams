@@ -2,7 +2,7 @@
   import { onMount, onDestroy } from 'svelte';
   import MathRenderer from '../MathRenderer.svelte';
   import FlashlightCard from '../FlashlightCard.svelte';
-  import { startRanked, submitRanked, RANKED_MIN_ANSWERED, RANKED_TOTAL_QUESTIONS, loadActiveRankedSession, clearActiveRankedSession, saveActiveRankedSession, type RankedQuestion, type ActiveRankedSession, type RankedAnswer, type RankedSubmitResponse, type IntegritySummary } from '../../lib/ranked/ranked-client';
+  import { startRanked, submitRanked, RANKED_MIN_ANSWERED, RANKED_TOTAL_QUESTIONS, RANKED_DURATION_S, expiresAtMs, loadActiveRankedSession, clearActiveRankedSession, saveActiveRankedSession, type RankedQuestion, type ActiveRankedSession, type RankedAnswer, type RankedSubmitResponse, type IntegritySummary } from '../../lib/ranked/ranked-client';
   import { BehaviorAnalyzer } from '../../lib/anti-cheat/behavior-analysis';
   import { createFocusTracker, type FocusTracker } from '../../lib/focus-tracker';
 
@@ -94,17 +94,17 @@
            answers[a.questionId] = a;
         });
 
-        const expiresAt = new Date(session.expiresAt).getTime();
+        const expiresAt = expiresAtMs(session.expiresAt);
         const now = Date.now();
-        timeLeft = Math.max(0, Math.floor((expiresAt - now) / 1000));
+        timeLeft = Math.max(0, Math.min(RANKED_DURATION_S, Math.floor((expiresAt - now) / 1000)));
       } else {
         const startRes = await startRanked(nickname);
         questions = startRes.questions;
         sessionId = startRes.sessionId;
 
-        const expiresAt = new Date(startRes.expiresAt).getTime();
+        const expiresAt = expiresAtMs(startRes.expiresAt);
         const now = Date.now();
-        timeLeft = Math.max(0, Math.floor((expiresAt - now) / 1000));
+        timeLeft = Math.max(0, Math.min(RANKED_DURATION_S, Math.floor((expiresAt - now) / 1000)));
 
         saveActiveRankedSession({
            sessionId: startRes.sessionId,
