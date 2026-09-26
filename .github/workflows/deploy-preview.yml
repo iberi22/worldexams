@@ -24,6 +24,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -42,6 +44,26 @@ jobs:
 
       - name: Unit tests
         run: npm test
+
+      # Gates added after the 2026-09-26 exam-delivery incident
+      # (docs/DIAGNOSTICO_EXAMENES_2026-09-26.md): nothing validated bundles or
+      # ran vitest in CI, so broken LaTeX, placeholder bundles and a transformer
+      # that dropped option feedback reached production.
+      - name: Validate changed bundles (protocol v5.2)
+        run: |
+          git fetch --no-tags --depth=200 origin main
+          BASE=$(git merge-base origin/main HEAD || echo origin/main)
+          mapfile -t FILES < <(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'questions_data/**/*.md' | grep -- '-MASTERY-bundle\.md$' || true)
+          if [ "${#FILES[@]}" -eq 0 ]; then echo "No changed bundles."; exit 0; fi
+          echo "Validating ${#FILES[@]} bundle(s)"
+          node scripts/validate-bundles-v52.mjs "${FILES[@]}"
+
+      - name: Vitest — API worker + question pipeline
+        run: npx vitest run apps/worldexams-api/tests saberparatodos/src/lib
+
+      - name: Vitest — app unit suite
+        working-directory: saberparatodos
+        run: npx vitest run tests/unit --retry=2
 
       # Nombre de rama -> fragmento valido para nombre de Worker / etiqueta DNS
       # de *.workers.dev: solo [a-z0-9-], sin guiones en los extremos y con
