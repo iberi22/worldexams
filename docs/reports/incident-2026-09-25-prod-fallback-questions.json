@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-09-25T21:45:00-05:00",
+  "kind": "incident_report",
+  "status": "open",
+  "severity": "high",
+  "title": "Production served placeholder questions during client demo (saberparatodos.space / WorldExams)",
+  "summary": "During a live client demo the exam-room flow rendered fallback placeholder questions ('(Respaldo) Pregunta de Práctica N' with options 'Opción A/B/C/D') instead of real ICFES content. The fallback is a hard-coded, environment-ungated branch in the exam-room state store that triggers whenever the question pool resolves to zero items or any fetch throws. Two independent defects were confirmed in production: (1) the placeholder branch is shipped in the production bundle, (2) 7 of the 20 grade+subject combinations offered by the production 'Crear Sala' form resolve to zero questions in the production questions API. An additional content defect was found: the production API serves UTF-8 text that has been double-encoded (mojibake), corrupting every accented character.",
+  "entities": {
+    "app": "saberparatodos",
+    "product": "worldexams",
+    "repo_path": "saberparatodos (package root)",
+    "app_version": "0.15.2",
+    "error_code": "N/A",
+    "components": ["exam-room", "roomState store", "pack-fetcher", "static packs proxy", "questions API worker"],
+    "refs": {
+      "handoff_review": "2026-09-12 worldexams context review (local doc, not tracked in this repo)",
+      "deploy_protocol": "saberparatodos/PROTOCOLO_DEPLOY_CLI.md"
+    }
+  },
+  "root_cause_chain": [
+    {
+      "step": 1,
+      "finding": "Hidden fallback branch generates synthetic questions",
+      "file": "src/modules/exam-room/stores/roomState.svelte.ts",
+      "lines": "175-192 (stop mode), 226-242 (standard mode)",
+      "detail": "catch blocks build N fake questions: id 'q-fallback-{i}', text '(Respaldo) Pregunta de Práctica {i}' / '(Respaldo) Pregunta {i} de {subject}', options 'Opción A..D', correctOptionId always 'A'. Standard mode also throws when the filtered pool is empty, so a content gap produces the same branch."
+    },
+    {
+      "step": 2,
+      "finding": "No environment gate, no user-visible warning, no telemetry",
+      "detail": "The branch runs whenever an exception or an empty pool occurs, regardless of build mode (no import.meta.env.DEV guard, no feature flag, no explicit DEMO banner). Only console.warn/console.error is emitted; nothing reaches the operator and the student sees fake questions as if they were real content."
+    },
+    {
+      "step": 3,
+      "finding": "Content gaps for grade+subject combos the UI itself offers",
+      "detail": "The production 'Crear Sala' form offers grades 3/5/9/11 x subjects Matematicas, Lectura Critica, Ciencias Naturales, Sociales, Ingles. 7 of these 20 combinations return zero questions from the questions API, so the empty pool triggers the placeholder branch."
+    },
+    {
+      "step": 4,
+      "finding": "Missing content is reported as HTTP 404 and swallowed by design in the data layer",
+      "file": "src/lib/pack-fetcher.ts",
+      "lines": "188-245, 295-302",
+      "detail": "The questions API answers 404 QUESTIONS_NOT_FOUND when a grade+subject has no content. The client only checks apiResponse.ok, so that 404 is treated like a transient failure and the code falls through API -> static packs proxy -> IndexedDB -> bundled pool, returning [] (also 'return []' on fatal error). The caller cannot distinguish 'no content exists' from 'network failure'."
+    },
+    {
+      "step": 5,
+      "finding": "Subject filtering requires exact normalized match",
+      "file": "src/lib/question-transformer.ts",
+      "lines": "247-250 (filterSubject), 13-40 (normalizeSubjectKey alias map)",
+      "detail": "filterSubject keeps only questions whose category matches the normalized subject, so a grade that has questions for other subjects but none for the requested one still yields an empty pool."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E1",
+      "type": "production_bundle",
+      "command": "curl https://saberparatodos.space/_astro/ExamRoomLobby.CuCYjQNs.js",
+      "result": "HTTP 200, 385149 bytes; chunk contains literal strings: \"(Respaldo) Pregunta de Práctica ${t+1}\", \"(Respaldo) Pregunta ${t+1} de ${r}\", \"q-fallback-${t+1}\", \"text:`Opción A`\"",
+      "conclusion": "The placeholder code path is deployed in production, not only in source."
+    },
+    {
+      "id": "E2",
+      "type": "api_matrix",
+      "command": "GET https://api.saberparatodos.space/v1/questions?country=co&exam=icfes&grade=<G>&subject=<S>&limit=50",
+      "result": "20 UI-offered combinations: 7 answer HTTP 404 with body {\"error\":\"QUESTIONS_NOT_FOUND\"} (G3 matematicas/lectura_critica/ciencias_naturales/sociales, G5 sociales, G9 lectura_critica, G9 sociales). Non-empty baseline: G11 answers HTTP 200 with 20/20/20/20/12 questions.",
+      "conclusion": "35% of the combinations a teacher can pick return no content, and they fail with 404 rather than an empty 200 payload."
+    },
+    {
+      "id": "E2b",
+      "type": "error_handling_gap",
+      "file": "src/lib/pack-fetcher.ts",
+      "lines": "188-245",
+      "command": "GET .../v1/questions?grade=9&subject=sociales_y_ciudadanas (HTTP 404, error QUESTIONS_NOT_FOUND)",
+      "result": "The caller only inspects apiResponse.ok; a 404 (content genuinely missing) is handled exactly like a network failure and silently falls through to the next layer, ending in an empty array.",
+      "conclusion": "The service cannot distinguish 'this combination has no content' from 'the request failed', which is why the room ends up with zero questions instead of an explicit error."
+    },
+    {
+      "id": "E3",
+      "type": "production_ui",
+      "command": "Playwright on https://saberparatodos.space/sala-examenes -> click 'Crear Sala'",
+      "result": "Grade select: [3°,5°,9°,11°]; Subject select: [Matemáticas, Lectura Crítica, Ciencias Naturales, Sociales, Inglés]; no availability warning rendered anywhere in the modal.",
+      "conclusion": "The UI offers the empty combinations and gives no signal to the teacher before or after creating the room."
+    },
+    {
+      "id": "E4",
+      "type": "encoding_defect",
+      "command": "curl https://api.saberparatodos.space/v1/questions?... | hexdump of statement field",
+      "result": "statement begins with bytes \\xc3\\x82\\xc2\\xbf = 'Â¿' and \\xc3\\x83\\xc2\\xa1 = 'Ã¡'; decoded text: 'Â¿CuÃ¡l es el valor final en pesos colombianos...'",
+      "conclusion": "Double-encoded UTF-8 (mojibake) in production content; every accented character, '¿' and 'ñ' in question text is corrupted."
+    },
+    {
+      "id": "E5",
+      "type": "local_source_check",
+      "command": "grep -n 'q-fallback' src/modules/exam-room/stores/roomState.svelte.ts",
+      "result": "2 matches (lines 179 and 229) in the current working tree — one on the stop-mode branch, one on the standard-mode branch.",
+      "conclusion": "The placeholder generator exists in the current source revision, not only in the shipped bundle, so no local fix is pending deployment."
+    },
+    {
+      "id": "E6",
+      "type": "static_pack_proxy",
+      "command": "curl https://saberparatodos.space/api/packs/co-week-<W>-grade-11-subject-matematicas.json",
+      "result": "week-1 -> HTTP 200; week-39 and week-40 -> HTTP 404, while the worker serves those same packs with HTTP 200",
+      "conclusion": "The app-origin static pack mirror lags behind the worker, so the 'static pack' fallback layer contributes nothing for current weeks."
+    }
+  ],
+  "local_verification": {
+    "date": "2026-09-25",
+    "repo_state": "clean except docs/reports/incident-2026-09-25-prod-fallback-questions.json (untracked, documentation only)",
+    "checks": [
+      { "command": "npx tsc --noEmit", "result": "PASS", "exit": 0, "detail": "One-line log (exit code only): no type errors reported by tsc." },
+      { "command": "npx astro check", "result": "FAIL", "exit": 1, "detail": "598 files: 4 errors, 0 warnings, 119 hints. Because the lint script is 'astro check && tsc --noEmit', npm run lint fails." },
+      { "command": "npx vitest run", "result": "PARTIAL", "exit": 1, "detail": "146/147 files, 1072/1080 tests. Only failure: tests/unit/p2p-edge-mesh.unit.test.ts (8 tests) with 'Error al iniciar mesh: indexedDB is not defined' — vitest.config.ts sets environment jsdom but no setupFiles, and fake-indexeddb (installed, ^6.2.5) is never registered." },
+      { "command": "npx astro build", "result": "PASS", "exit": 0, "detail": "First attempt hung (CPU time frozen at 00:00:18 across 33 minutes, 61 idle threads) while a game held ~370% CPU and was killed with SIGKILL; that first attempt left dist/ inconsistent and is documented in dist_state. Clean re-run after the game closed: '[build] Server built in 39.51s' + '[build] Complete!', exit 0, 105 JS chunks and 97 HTML files written, and scripts/pre-deploy-check.js reports 'Pre-deploy checks passed.'" },
+      { "command": "grep -rn docs/reports src scripts astro.config.mjs content.config.ts", "result": "PASS", "detail": "0 references: the documentation artifact cannot affect the build or the test suite." }
+    ],
+    "astro_check_errors": [
+      { "file": "src/pages/index.astro", "line": "128:4", "code": "ts(2769)", "message": "No overload matches this call — Property 'experimentalSurface' does not exist on the component props type", "last_touched": "b6521bd933 2026-09-04" },
+      { "file": "src/pages/juego/harness.astro", "line": "91:12", "code": "ts(2339)", "message": "Property '__wxJuego' does not exist on type 'Window & typeof globalThis'", "last_touched": "32aeaabb0 2026-09-23" },
+      { "file": "src/pages/juego/harness.astro", "line": "110:27", "code": "ts(7006)", "message": "Parameter 'opts' implicitly has an 'any' type", "last_touched": "32aeaabb0 2026-09-23" },
+      { "file": "src/pages/juego/harness.astro", "line": "111:27", "code": "ts(7006)", "message": "Parameter 'opts' implicitly has an 'any' type", "last_touched": "32aeaabb0 2026-09-23" }
+    ],
+    "deploy_pipeline_impact": "predeploy = 'npm run lint && npm run test:unit && npm run test && npm run build && node scripts/...', and astro check returns 1, so the canonical chain cannot reach build. This explains why production serves an older bundle than the local dist (prod chunk ExamRoomLobby.CuCYjQNs.js vs local ExamRoomLobby.BFURuhfw.js) and why any placeholder fix has not shipped to production.",
+    "harness_exposure_check": {
+      "endpoint": "https://saberparatodos.space/juego/harness",
+      "result": "HTTP 302 and 0 occurrences of '__wxJuego' in the served HTML",
+      "conclusion": "The DEV-only test harness is correctly gated behind import.meta.env.DEV and is not reachable in production — reviewed and dismissed as a leak."
+    },
+    "dist_state": {
+      "status": "RESOLVED — REBUILT AND DEPLOYABLE",
+      "incident": "An interrupted 'npx astro build' (SIGKILL after a hang caused by CPU contention) had left dist/ inconsistent: dist/server/wrangler.json rewritten and dist/client/_astro with 0 JS chunks. Because 'npm run deploy' uploads straight from dist/server/wrangler.json, an incomplete dist could have reached production; it was flagged with dist/DEPLOY_BLOQUEADO_LEEME.txt as an interim safeguard.",
+      "resolution": "Clean rebuild completed (exit 0, 'Server built in 39.51s'): 105 JS chunks, 97 HTML files, dist/client/api/packs with 13772 files. The interim flag file was removed by the build itself and is no longer needed.",
+      "verification": "scripts/pre-deploy-check.js prints 'Pre-deploy checks passed.'",
+      "residual_risk": "pre-deploy-check.js still does not assert that dist/client/_astro contains JS assets, so a future incomplete dist could pass those checks."
+    }
+  },
+  "impact": {
+    "user_facing": "Fake questions shown to a client during a live demo; exam appears functional while testing nothing.",
+    "scope_pct": 35,
+    "scope_detail": "7 of 20 UI-offered grade+subject combinations in production",
+    "affected_flow": "Exam room (Crear Sala / stop mode and standard mode), plus study mode which has a second synthetic generator (estudio.astro mockQuestionsFromRAG, 'Pregunta N sobre <tema> ... ¿Cuál afirmación es correcta?') when the local LLM is unavailable",
+    "silent": true,
+    "data_loss": false,
+    "client_impact": "reputational, demonstrated on a live call"
+  },
+  "contributing_factors": [
+    "Fallback prioritises 'keep the demo alive' over 'fail honestly'.",
+    "No content-availability precheck between the room config UI and the question source.",
+    "Static pack mirror on the app origin is not synchronised with the worker packs.",
+    "No monitoring/alerting on empty question pools (console-only logging).",
+    "The canonical deploy chain is blocked by astro check (4 pre-existing type errors), so production keeps serving an older bundle and fixes cannot ship through the normal path.",
+    "Placeholder text is indistinguishable from real content for a non-technical observer."
+  ],
+  "recommendations": [
+    { "id": "R1", "priority": "P0", "action": "Disable the synthetic fallback in production: on empty pool, block room creation and show an explicit 'sin preguntas para esta combinación' message with a suggested available combination." },
+    { "id": "R2", "priority": "P0", "action": "Add a content-availability precheck in the Crear Sala form (query the API for count per grade+subject) and disable/mark combinations with zero questions before the teacher clicks." },
+    { "id": "R3", "priority": "P0", "action": "Fix the double-encoded UTF-8 in the pack/API pipeline (mojibake) and add an encoding assertion to the pack validator." },
+    { "id": "R4", "priority": "P1", "action": "Generate the missing content: Sociales for G5-G10, Lectura Crítica for G9-G10, and full G3 coverage (only Inglés exists today)." },
+    { "id": "R5", "priority": "P1", "action": "Re-sync the static packs mirror (/api/packs/*) with the worker packs for the current week, or remove the layer." },
+    { "id": "R6", "priority": "P1", "action": "Emit an explicit demo/fallback telemetry event (counters + alert) whenever a synthetic question set is generated." },
+    { "id": "R7", "priority": "P2", "action": "Ensure any future placeholder behaviour is visibly labelled in the UI ('modo demo') and never used in the exam-room flow." },
+    { "id": "R8", "priority": "P0", "action": "Fix the 4 pre-existing astro check errors (src/pages/index.astro:128 ts(2769) 'experimentalSurface'; src/pages/juego/harness.astro:91 ts(2339) '__wxJuego' on Window; :110 and :111 ts(7006) implicit any 'opts') so npm run lint — and therefore predeploy — can pass and the placeholder fix can actually ship." },
+    { "id": "R9", "priority": "P2", "action": "Teach pre-deploy-check.js to assert that dist/client/_astro contains JS assets: an incomplete dist currently passes its checks and 'npm run deploy' uploads straight from dist/server/wrangler.json. (The incomplete dist from this review was already rebuilt and verified.)" }
+  ],
+  "verification_commands": [
+    "curl -s 'https://api.saberparatodos.space/v1/questions?country=co&exam=icfes&grade=3&subject=matematicas&limit=50' | grep -c '\"id\"'",
+    "curl -s 'https://api.saberparatodos.space/v1/questions?country=co&exam=icfes&grade=11&subject=matematicas&limit=50' | grep -c '\"id\"'",
+    "curl -s https://saberparatodos.space/_astro/ExamRoomLobby.CuCYjQNs.js | grep -o 'Pregunta de Práctica'",
+    "node /tmp/arriendo-cali/qa_matriz.mjs"
+  ],
+  "artifacts": {
+    "matrix_json": "/tmp/arriendo-cali/qa_saberparatodos_matriz.json",
+    "prod_modal_screenshot": "/tmp/arriendo-cali/shots/qa_sala_prod.png",
+    "prod_chunk_sample": "/tmp/prod_lobby.js"
+  },
+  "limitations": [
+    "The exact grade+subject the client selected was not recovered (no server-side log of room creation was available during the review).",
+    "No room was created in production during this review; the reproduction is based on the deployed bundle, the production API responses and the production form options.",
+    "The worker serves a double-encoded payload; the mojibake was verified from raw bytes, but the upstream encoder was not identified."
+  ]
+}
