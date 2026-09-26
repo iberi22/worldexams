@@ -2,7 +2,7 @@
 import { test, expect } from '@playwright/test';
 
 test.describe('Módulo Cuentos - Tipografías Locales (Andika & Fredoka)', () => {
-  test('Verifica tipografías cargadas, estilos computados y cero peticiones CDN externas', async ({ page }, testInfo) => {
+  test('Verifica tipografías cargadas, estilos computados y cero peticiones CDN externas', async ({ page, baseURL }, testInfo) => {
     const isMobile = testInfo.project.name.includes('mobile');
     const screenshotName = isMobile ? 'fuentes-mobile.png' : 'fuentes-desktop.png';
 
@@ -21,12 +21,13 @@ test.describe('Módulo Cuentos - Tipografías Locales (Andika & Fredoka)', () =>
       pageErrors.push(err);
     });
 
-    // Listener de red: detectar cualquier intento de llamada a CDN de fuentes para Andika o Fredoka o fontsource externo
+    // Listener de red: detectar cualquier intento de llamada a CDN de fuentes para Andika o Fredoka o fontsource externo.
+    // Comparado contra el origin real de baseURL (no un localhost hardcodeado), para que
+    // siga siendo válido corriendo contra un preview deploy real, no solo dev local.
+    const siteOrigin = new URL(baseURL || 'http://localhost').origin;
     page.on('request', (request) => {
       const url = request.url();
-      if (
-        /andika|fredoka/i.test(url) && /https?:\/\//i.test(url) && !url.startsWith('http://localhost') && !url.startsWith('http://127.0.0.1')
-      ) {
+      if (/andika|fredoka/i.test(url) && /https?:\/\//i.test(url) && !url.startsWith(siteOrigin)) {
         cuentosFontCdnRequests.push(url);
       }
     });
