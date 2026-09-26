@@ -3,6 +3,8 @@
   import { AppView } from '../types';
   import { fade, fly } from 'svelte/transition';
   import ExamView from './ExamView.svelte';
+  import RankedExamView from './ranked/RankedExamView.svelte';
+  import { validateNickname, loadActiveRankedSession } from '../lib/ranked/ranked-client.ts';
 
   import LeaderboardView from './LeaderboardView.svelte';
   import IdentityRegistration from './IdentityRegistration.svelte';
@@ -125,6 +127,10 @@
   let userAnswers = $state({});
   let showAllLandingGrades = $state(false); // 🆕 Control for landing grid expansion
 
+  // Ranked mode state
+  let showRankedNicknameModal = $state(false);
+  let rankedNicknameInput = $state('');
+
   const preuEnabled = isPreuRuntimeEnabled(countryCode);
   let tenantExperience = $derived(getTenantExperience(runtimeCountry));
   let supportsEnglishDiagnostic = $derived(
@@ -202,6 +208,31 @@
 
   function enterExamView() {
     setView(AppView.EXAM);
+  }
+
+  function handleRankedClick() {
+    const session = loadActiveRankedSession();
+    if (session) {
+      setView(AppView.RANKED);
+    } else {
+      if (typeof window !== 'undefined') {
+        const saved = localStorage.getItem('worldexams_ranked_nickname');
+        if (saved) {
+          rankedNicknameInput = saved;
+        }
+      }
+      showRankedNicknameModal = true;
+    }
+  }
+
+  function handleRankedNicknameSubmit() {
+    if (validateNickname(rankedNicknameInput)) {
+      if (typeof window !== 'undefined') {
+        localStorage.setItem('worldexams_ranked_nickname', rankedNicknameInput.trim());
+      }
+      showRankedNicknameModal = false;
+      setView(AppView.RANKED);
+    }
   }
 
   // 🔄 Notify other components about view changes (e.g. to hide global buttons)
@@ -937,6 +968,48 @@
     <OfflineProfile onClose={() => showOfflineProfile = false} />
   {/if}
 
+  <!-- Ranked Nickname Modal -->
+  {#if showRankedNicknameModal}
+    <div class="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-[#121212]/90 backdrop-blur-sm" in:fade={{duration: 200}} out:fade={{duration: 200}}>
+      <div class="bg-gradient-to-br from-[#1A1A1A] to-[#121212] border border-amber-500/30 rounded-2xl w-full max-w-sm p-6 shadow-2xl shadow-amber-950/20">
+        <h3 class="text-xl font-bold text-amber-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+          <span class="text-2xl">🏆</span> Modo Competitivo
+        </h3>
+        <p class="text-xs text-white/60 mb-6 leading-relaxed">
+          Ingresa un apodo (3-20 caracteres, sin símbolos raros) para aparecer en el leaderboard público.
+        </p>
+
+        <form onsubmit={(e) => { e.preventDefault(); handleRankedNicknameSubmit(); }}>
+          <input
+            type="text"
+            bind:value={rankedNicknameInput}
+            placeholder="Tu apodo..."
+            maxlength="20"
+            class="w-full bg-[#121212] border border-white/10 rounded-xl px-4 py-3 text-white placeholder-white/30 focus:outline-none focus:border-amber-500/50 transition-colors mb-6 font-mono text-sm"
+            autocomplete="off"
+          />
+
+          <div class="flex gap-3">
+            <button
+              type="button"
+              onclick={() => showRankedNicknameModal = false}
+              class="flex-1 py-3 px-4 rounded-xl text-xs font-bold uppercase tracking-widest bg-white/5 text-white/60 hover:bg-white/10 transition-colors"
+            >
+              Cancelar
+            </button>
+            <button
+              type="submit"
+              disabled={!validateNickname(rankedNicknameInput)}
+              class="flex-1 py-3 px-4 rounded-xl text-xs font-bold uppercase tracking-widest transition-colors shadow-lg {validateNickname(rankedNicknameInput) ? 'bg-amber-500 text-slate-950 shadow-amber-500/20 hover:bg-amber-400' : 'bg-white/5 text-white/20 cursor-not-allowed'}"
+            >
+              Entrar
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  {/if}
+
   <!-- Noise Overlay -->
   <div class="bg-noise"></div>
 
@@ -1146,6 +1219,7 @@
             supportsEnglishDiagnostic={supportsEnglishDiagnostic}
             preuEnabled={preuEnabled}
             tenantExperience={tenantExperience}
+            onStartRanked={countryCode === 'co' ? handleRankedClick : undefined}
             onSelectGrade={(grade) => {
               selectedGrade = grade;
               showExamConfigModal = true;
@@ -1281,6 +1355,14 @@
       <div in:fly={{ x: -50, duration: 500 }} out:fade={{ duration: 200 }}>
         <LeaderboardView
           onBack={() => setView(AppView.LANDING)}
+        />
+      </div>
+    {:else if view === AppView.RANKED}
+      <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
+        <RankedExamView
+          nickname={typeof window !== 'undefined' ? localStorage.getItem('worldexams_ranked_nickname') || 'Estudiante' : 'Estudiante'}
+          onExit={() => setView(AppView.LANDING)}
+          onOpenLeaderboard={() => setView(AppView.LEADERBOARD)}
         />
       </div>
     {:else if view === AppView.RESULTS}
