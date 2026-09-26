@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { parseArgs } from 'node:util';
 
 const ROOT = process.cwd();
 const QUESTION_COUNTS = new Map([
@@ -32,6 +33,75 @@ export function detectMojibakeLines(content) {
     }
   }
   return results;
+}
+
+export function detectControlChars(content) {
+  const lines = content.split(/\r?\n/);
+  const results = [];
+  for (let i = 0; i < lines.length; i++) {
+    const match = lines[i].match(/[\x00-\x08\x0B\x0C\x0E-\x1F]/);
+    if (match) results.push({ line: i + 1, char: match[0] });
+  }
+  return results;
+}
+
+export function detectPlaceholder(content, fm, base) {
+  if (/Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta|Distractor \d|Opci[oó]n correcta\b/i.test(content)) return true;
+  if (fm && typeof fm.tema === 'string' && fm.tema.toLowerCase().includes('test')) return true;
+  if (base && base.toLowerCase().includes('-test-')) return true;
+  return false;
+}
+
+export function detectAllNoneOfAbove(optionText) {
+  return /\b(todas|ninguna) (de )?las (opciones )?anteriores\b|\b(all|none) of the above\b|^[A-D] y [A-D]\b/i.test(optionText);
+}
+
+export function checkExplanation(explanationBody) {
+  const trimmed = (explanationBody || '').trim();
+  if (trimmed.length < 40) return { error: 'explanation-empty' };
+  if (trimmed.length < 80) return { warning: 'explanation-short' };
+  return null;
+}
+
+export function checkFeedbackTrivial(feedbackText) {
+  const trivialList = [
+    "incorrect", "incorrect.", "no", "no.", "correct!",
+    "correcto.", "incorrecto.", "es correcta.", "es incorrecta.",
+    "correct! well done."
+  ];
+  const f = (feedbackText || '').trim();
+  if (f.length < 25 || trivialList.includes(f.toLowerCase())) return true;
+  return false;
+}
+
+export function checkExplanationTemplate(explanations) {
+  const counts = new Map();
+  for (const exp of explanations) {
+    const norm = exp.trim().toLowerCase().replace(/\s+/g, ' ');
+    counts.set(norm, (counts.get(norm) || 0) + 1);
+  }
+  for (const count of counts.values()) {
+    if (count >= 3) return true;
+  }
+  return false;
+}
+
+export function checkAnswerLetterBias(correctLetters, totalQuestions) {
+  if (totalQuestions < 8) return null;
+
+  const counts = { A: 0, B: 0, C: 0, D: 0 };
+  for (const l of correctLetters) if (counts[l] !== undefined) counts[l]++;
+
+  for (const c of Object.values(counts)) {
+    if (c > totalQuestions * 0.5) return 'bias-over-50';
+  }
+
+  if (totalQuestions >= 12) {
+    for (const c of Object.values(counts)) {
+      if (c === 0) return 'bias-zero';
+    }
+  }
+  return null;
 }
 
 function walk(dir, out = []) {
@@ -100,14 +170,20 @@ function rel(file) {
   return path.relative(ROOT, file).replace(/\\/g, '/');
 }
 
-export function validateFile(file) {
+export function validateFile(file, opts = { strictQuality: false }) {
+  const warnings = [];
   const errors = [];
   if (!fs.existsSync(file)) {
-    return { file: rel(file), errors: ['File does not exist'] };
+    return { file: rel(file), errors: ['File does not exist'], warnings: [] };
   }
   const content = fs.readFileSync(file, 'utf8');
   const relative = rel(file);
   const base = path.basename(file);
+
+  const controlCharLines = detectControlChars(content);
+  for (const c of controlCharLines) {
+    errors.push(`ERROR [control-chars] ${relative}:${c.line} contiene caracter de control ASCII`);
+  }
 
   const mojibakeLines = detectMojibakeLines(content);
   for (const m of mojibakeLines) {
@@ -118,7 +194,10 @@ export function validateFile(file) {
 
   if (!relative.startsWith('questions_data/')) errors.push('File is outside questions_data/');
   if (!/-001-MASTERY-bundle\.md$/.test(base)) errors.push('Filename must end with -001-MASTERY-bundle.md');
-  if (!fm) return { file: relative, errors };
+  if (!fm) {
+    errors.push('ERROR [frontmatter] Missing YAML frontmatter');
+    return { file: relative, errors, warnings };
+  }
 
   const required = [
     'id',
@@ -152,10 +231,7 @@ export function validateFile(file) {
   if (fm.tier !== 'legacy') errors.push('tier must be legacy');
   if (fm.creador !== 'Jules-Agent') errors.push('creador must be Jules-Agent');
 
-  if (/\bOpcion [B-D]\b/i.test(content)) errors.push('Placeholder "Opcion B/C/D" detected');
-  if (/\bDistractor [1-3]\b/i.test(content)) errors.push('Placeholder "Distractor 1/2/3" detected');
-  if (/\bOpcion correcta\b/i.test(content)) errors.push('Placeholder "Opcion correcta" detected');
-  if (/Pregunta sobre\s+[\w\s-]+- Grado/i.test(content)) errors.push('Placeholder "Pregunta sobre..." detected');
+  if (detectPlaceholder(content, fm, base)) errors.push('ERROR [placeholder] Placeholder content or test topic detected');
 
   const expected = expectedCount(file, fm);
   if (!expected) errors.push(`Unsupported grade for question count: ${fm.grado}`);
@@ -163,9 +239,7 @@ export function validateFile(file) {
   if (expected && fm.bundle_size !== expected) errors.push(`bundle_size must be ${expected}`);
 
   if (/<think>|<process>|```yaml|```markdown/i.test(content)) errors.push('AI leakage or markdown fence detected');
-  if (/todas las anteriores|ninguna de las anteriores|all of the above|none of the above|a y b son correctas/i.test(content)) {
-    errors.push('Forbidden all/none/multiple-combination option detected');
-  }
+
 
   const cc = countryCodeOf(file, fm);
   const isCO = cc === 'CO';
@@ -175,6 +249,10 @@ export function validateFile(file) {
 
   const questions = questionBlocks(content);
   if (expected && questions.length !== expected) errors.push(`Expected ${expected} questions, found ${questions.length}`);
+
+
+  const correctAnswers = [];
+  const allExplanations = [];
 
   questions.forEach((q, index) => {
     const prefix = `Question ${index + 1}`;
@@ -197,34 +275,122 @@ export function validateFile(file) {
     if (!/###\s+Opciones/.test(q.text)) errors.push(`${prefix}: missing ### Opciones`);
     if (!/###\s+Explicaci[oó]n Pedag[oó]gica/.test(q.text)) errors.push(`${prefix}: missing ### Explicacion Pedagogica`);
 
+    const explMatch = q.text.match(/###\s+Explicaci[oó]n Pedag[oó]gica\s*([\s\S]*?)$/i);
+    const explBody = explMatch ? explMatch[1] : '';
+    allExplanations.push(explBody);
+
+    const explCheck = checkExplanation(explBody);
+    if (explCheck) {
+      if (explCheck.error) errors.push(`ERROR [${explCheck.error}] ${prefix}: ${explCheck.error}`);
+      if (explCheck.warning) {
+        if (opts.strictQuality) errors.push(`ERROR [${explCheck.warning}] ${prefix}: ${explCheck.warning}`);
+        else warnings.push(`WARNING [${explCheck.warning}] ${prefix}: ${explCheck.warning}`);
+      }
+    }
+
     const options = optionRows(q.text);
     if (options.length !== 4) errors.push(`${prefix}: expected 4 options, found ${options.length}`);
-    const correct = (q.text.match(/^- \[[xX]\]\s*[A-D]\)/gm) || []).length;
+    const correctMatches = [...q.text.matchAll(/^- \[[xX]\]\s*([A-D])\)/gm)];
+    const correct = correctMatches.length;
     if (correct !== 1) errors.push(`${prefix}: expected exactly one correct option, found ${correct}`);
+    else correctAnswers.push(correctMatches[0][1]);
+
     if (options.some((option) => !option.feedback)) errors.push(`${prefix}: every option needs feedback`);
     if (new Set(options.map((option) => option.text)).size !== options.length) errors.push(`${prefix}: duplicate option text`);
+
+    options.forEach(opt => {
+      if (detectAllNoneOfAbove(opt.text)) errors.push(`ERROR [all-none-of-above] ${prefix}: Forbidden all/none option`);
+      if (checkFeedbackTrivial(opt.feedback)) {
+        if (opts.strictQuality) errors.push(`ERROR [feedback-trivial] ${prefix}: Trivial feedback detected`);
+        else warnings.push(`WARNING [feedback-trivial] ${prefix}: Trivial feedback detected`);
+      }
+    });
   });
 
-  return { file: relative, errors };
+  if (checkExplanationTemplate(allExplanations)) {
+    if (opts.strictQuality) errors.push(`ERROR [explanation-template] Explanation template reused 3+ times`);
+    else warnings.push(`WARNING [explanation-template] Explanation template reused 3+ times`);
+  }
+
+  const biasCheck = checkAnswerLetterBias(correctAnswers, expected || questions.length);
+  if (biasCheck) {
+    if (opts.strictQuality) errors.push(`ERROR [answer-letter-bias] ${biasCheck}`);
+    else warnings.push(`WARNING [answer-letter-bias] ${biasCheck}`);
+  }
+
+  return { file: relative, errors, warnings };
 }
 
 const isMainModule = process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
 
+
+
 if (isMainModule) {
-  const args = process.argv.slice(2);
-  const files = args.length
-    ? args.map((arg) => path.resolve(ROOT, arg))
+  const { values, positionals } = parseArgs({
+    args: process.argv.slice(2),
+    options: {
+      'strict-quality': { type: 'boolean', default: false },
+      'json': { type: 'boolean', default: false },
+    },
+    allowPositionals: true
+  });
+
+  const files = positionals.length
+    ? positionals.map((arg) => path.resolve(ROOT, arg))
     : walk(path.join(ROOT, 'questions_data'));
 
-  const targetFiles = args.length ? files : files.filter((file) => file.endsWith('-MASTERY-bundle.md'));
-  const results = targetFiles.map(validateFile);
-  const failed = results.filter((result) => result.errors.length);
+  const targetFiles = positionals.length ? files : files.filter((file) => file.endsWith('-MASTERY-bundle.md'));
 
-  for (const result of failed) {
-    console.error(`\n${result.file}`);
-    for (const error of result.errors) console.error(`  - ${error}`);
+  const results = targetFiles.map(f => validateFile(f, { strictQuality: values['strict-quality'] }));
+
+  if (values.json) {
+    console.log(JSON.stringify(results, null, 2));
+    const hasAnyError = results.some(r => r.errors && r.errors.length > 0);
+    process.exit(hasAnyError ? 1 : 0);
+  } else {
+    const failed = results.filter((result) => result.errors && result.errors.length > 0);
+    const warned = results.filter((result) => result.warnings && result.warnings.length > 0);
+
+    let totalErrors = 0;
+    let totalWarnings = 0;
+    const ruleCounts = new Map();
+
+    for (const result of failed) {
+      console.error(`\n${result.file}`);
+      for (const error of result.errors) {
+        console.error(`  - ${error}`);
+        totalErrors++;
+        const match = error.match(/\b([a-z-]+(?:-[a-z]+)*)\b/);
+        if (match && error.includes('ERROR [')) {
+            const rule = error.match(/ERROR \[(.*?)\]/);
+            if (rule) {
+               ruleCounts.set(rule[1], (ruleCounts.get(rule[1]) || 0) + 1);
+            }
+        }
+      }
+    }
+
+    for (const result of warned) {
+      if (!failed.includes(result)) {
+         console.error(`\n${result.file}`);
+      }
+      for (const warning of result.warnings) {
+        console.error(`  - ${warning}`);
+        totalWarnings++;
+        const match = warning.match(/WARNING \[(.*?)\]/);
+        if (match) {
+           ruleCounts.set(match[1], (ruleCounts.get(match[1]) || 0) + 1);
+        }
+      }
+    }
+
+    const ruleStrs = [];
+    for (const [r, c] of ruleCounts.entries()) {
+      ruleStrs.push(`${r}: ${c}`);
+    }
+
+    console.log(`\nquality: ${totalErrors} errors, ${totalWarnings} warnings (rule counts: ${ruleStrs.join(', ')})`);
+    console.log(`Validated ${results.length} bundle file(s). Failures: ${failed.length}.`);
+    process.exit(failed.length ? 1 : 0);
   }
-
-  console.log(`\nValidated ${results.length} bundle file(s). Failures: ${failed.length}.`);
-  process.exit(failed.length ? 1 : 0);
 }
