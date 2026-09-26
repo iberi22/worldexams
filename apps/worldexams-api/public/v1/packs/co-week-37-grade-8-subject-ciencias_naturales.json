@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-37-grade-8-subject-ciencias_naturales",
+    "generated_at": "2026-09-26T02:29:03.507Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las categorías principales en las que se clasifican los residuos sólidos urbanos según su composición?",
+      "context": "En la clase de ciencias naturales del Colegio Distrital República de Colombia (Bogotá), la docente proyecta un esquema con los tipos de residuos que se generan en un hogar colombiano promedio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Residuos orgánicos (restos de comida, cáscaras), inorgánicos reciclables (plástico, vidrio, papel, cartón) y residuos peligrosos (pilas, baterías, medicamentos vencidos).",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la clasificación oficial más usada por empresas de aseo y autoridades ambientales."
+        },
+        {
+          "letter": "B",
+          "text": "Únicamente residuos biodegradables y residuos nucleares de alta radiación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los residuos nucleares son una categoría especializada ajena a la gestión urbana ordinaria."
+        },
+        {
+          "letter": "C",
+          "text": "Solo residuos electrónicos y residuos industriales a gran escala.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gestión urbana incluye también residuos orgánicos, papel, plástico y vidrio."
+        },
+        {
+          "letter": "D",
+          "text": "Residuos blancos y residuos negros según su coloración externa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clasificación por color del receptáculo es operativa, no una categoría de composición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En Colombia, el Ministerio de Ambiente define tres grandes categorías de residuos: orgánicos aprovechables (biodegradables), inorgánicos reciclables (papel, cartón, vidrio, plástico, metal) y residuos peligrosos domésticos (pilas, medicamentos, aceites, luminarias). Conocerlas permite separarlos correctamente desde la fuente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la diferencia entre reciclar y reutilizar un residuo en el contexto de la gestión ambiental?",
+      "context": "Durante una visita pedagógica a la Planta de Aprovechamiento de Residuos de la ciudad, ingenieros explican a estudiantes del Colegio Mayor de San Bartolomé (Bogotá) cómo se procesa la basura reciclable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son exactamente la misma acción y producen los mismos beneficios ambientales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ambas reducen residuos, son acciones distintas con procesos diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Reciclar implica transformar un residuo en un nuevo producto mediante procesos industriales; reutilizar consiste en volver a usar el mismo producto o darle una nueva función sin transformarlo industrialmente.",
+          "is_correct": true,
+          "feedback": "Correcto. El reciclaje usa procesos industriales; la reutilización es más artesanal y directa."
+        },
+        {
+          "letter": "C",
+          "text": "Reciclar significa botar la basura al río y reutilizar significa enterrarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas son prácticas ambientalmente inadecuadas y no corresponden a la gestión responsable."
+        },
+        {
+          "letter": "D",
+          "text": "Reutilizar es una acción exclusiva de residuos peligrosos como pilas y baterías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reutilización aplica a muchos tipos de residuos, no solo a los peligrosos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reutilización alarga la vida útil de un objeto sin transformarlo, por ejemplo, usar frascos de vidrio como contenedores. El reciclaje sí transforma el material para obtener uno nuevo, por ejemplo, fundir botellas de plástico para fabricar fibras textiles o nuevo packaging.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v3",
+      "statement": "Qué significan las conocidas \"3R\" promovidas por el Ministerio de Ambiente de Colombia como estrategia base de la gestión de residuos?",
+      "context": "En el Colegio Gimnasio Campestre de Bogotá, los estudiantes revisan el material del Ministerio de Ambiente sobre la estrategia nacional para reducir la generación de residuos en el país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rodar, Romper y Recortar, aplicadas a la reducción del papel en la oficina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas acciones no forman parte de la jerarquía ambiental oficial."
+        },
+        {
+          "letter": "B",
+          "text": "Registrar, Recortar y Rendir cuentas a la administración ambiental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos verbos no corresponden a las tres erres de la sostenibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Reducir, Reutilizar y Reciclar, en ese orden de prioridad según la jerarquía ambiental.",
+          "is_correct": true,
+          "feedback": "Correcto. Reducir es la acción prioritaria; luego reutilizar y por último reciclar."
+        },
+        {
+          "letter": "D",
+          "text": "Renovar, Reabrir y Retirar productos de los hogares y las tiendas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas acciones no hacen parte del marco de gestión de residuos sólidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La jerarquía de las 3R ordena las acciones por impacto ambiental: primero reducir el consumo, luego reutilizar lo que ya tenemos y, como última opción, reciclar materiales. Algunos marcos amplían a 4R (incluyendo rechazar) o 5R (sumando reparar).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v4",
+      "statement": "Cuál de las siguientes acciones implementa correctamente la estrategia de \"reducir\" en el hogar?",
+      "context": "Una familia del barrio La Floresta en Medellín decide aplicar la estrategia de las 3R para reducir el volumen de basura que entrega semanalmente al servicio de recolección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar más productos empacados en plástico para tener mayor variedad de marcas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa acción aumenta la generación de residuos en lugar de reducirlos."
+        },
+        {
+          "letter": "B",
+          "text": "Quemar la basura orgánica en el patio trasero cada fin de semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar residuos contamina el aire y está prohibido en zonas urbanas."
+        },
+        {
+          "letter": "C",
+          "text": "Arrojar los residuos al cauce del río Medellín para que la corriente los arrastre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta práctica contamina gravemente las fuentes de agua de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Comprar al por mayor productos con menos empaque, llevar bolsas de tela al mercado y preferir bebidas en botella retornable.",
+          "is_correct": true,
+          "feedback": "Correcto. Disminuir el consumo de empaques y envases reduce directamente la generación de residuos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reducir implica consumir de manera más consciente: elegir productos con menos empaque, rechazar bolsas y pitillos innecesarios, comprar a granel y preferir envases retornables. Cada decisión de compra impacta directamente el volumen de residuos generados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v5",
+      "statement": "Qué técnica ambiental están aplicando los estudiantes al transformar los restos de comida del comedor en abono natural?",
+      "context": "En la huerta escolar del Colegio Mayor de los Andes (Bogotá), los estudiantes convierten los restos de comida del comedor en un fertilizante natural para los cultivos del huerto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compostaje, un proceso de descomposición aeróbica que transforma residuos orgánicos en un fertilizante natural rico en nutrientes.",
+          "is_correct": true,
+          "feedback": "Correcto. El compostaje acelera la descomposición aeróbica y produce compost aprovechable como abono."
+        },
+        {
+          "letter": "B",
+          "text": "Incineración controlada de residuos en un horno industrial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La incineración destruye residuos por calor; no produce compost ni fertilizante."
+        },
+        {
+          "letter": "C",
+          "text": "Reciclaje de vidrio en hornos artesanales para producir nuevas botellas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje de vidrio aplica a residuos inorgánicos, no a restos de comida."
+        },
+        {
+          "letter": "D",
+          "text": "Quema de basura en fosas abiertas para reducir el volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar residuos a cielo abierto contamina el aire y el suelo, y está prohibido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El compostaje doméstico e institucional permite aprovechar hasta el 40% de los residuos generados en hogares y colegios. Mediante la acción de bacterias aeróbicas y lombrices, los restos orgánicos se transforman en compost, un abono natural que mejora la fertilidad del suelo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v6",
+      "statement": "Cuáles residuos deben entregarse en puntos de recolección especiales o \"puntos limpios\" en lugar de mezclarlos con la basura doméstica común?",
+      "context": "En la Secretaría de Ambiente de Cali, los técnicos orientan a la ciudadanía sobre los puntos limpios habilitados en las comunas de la ciudad para residuos especiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restos de comida, cáscaras de frutas y verduras de la cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos residuos orgánicos van a compostaje o ruta de orgánicos, no a puntos limpios."
+        },
+        {
+          "letter": "B",
+          "text": "Pilas, baterías usadas, medicamentos vencidos, aceites de cocina usados y aparatos electrónicos en desuso.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos residuos contienen contaminantes y requieren manejo diferenciado."
+        },
+        {
+          "letter": "C",
+          "text": "Papel y cartón limpios provenientes de la oficina o el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Papel y cartón van a la ruta de reciclaje convencional de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Botellas plásticas vacías de bebidas y envases de productos de aseo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estos envases van al recipiente de reciclables del servicio ordinario de aseo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los residuos peligrosos domésticos contienen metales pesados, compuestos químicos o elementos tóxicos. Si se mezclan con la basura común, contaminan el suelo y el agua en los rellenos sanitarios. Por eso se deben entregar en programas de posconsumo o puntos limpios autorizados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v7",
+      "statement": "Por qué enterrar o quemar basuras a cielo abierto, práctica aún común en algunas zonas rurales de Colombia, genera graves problemas ambientales y de salud pública?",
+      "context": "En el Colegio Técnico Agropecuario de Buga (Valle del Cauca), se analiza el impacto de las prácticas inadecuadas de disposición de residuos aún presentes en zonas rurales colombianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las basuras enterradas producen espontáneamente oxígeno puro que daña los cultivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los residuos enterrados no producen oxígeno; por el contrario, generan metano y lixiviados."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la quema de basuras mejora la fertilidad del suelo a largo plazo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La quema destruye materia orgánica y microorganismos beneficiosos del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se contamina el suelo y las aguas subterráneas con lixiviados y la quema libera dioxinas y gases tóxicos que afectan la salud respiratoria de las comunidades vecinas.",
+          "is_correct": true,
+          "feedback": "Correcto. Quema y enterramiento sin control son las dos fuentes más graves de contaminación difusa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las basuras enterradas fertilizan automáticamente los cultivos sin ningún riesgo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lixiviados contaminan el suelo agrícola y pueden afectar los alimentos cultivados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La disposición inadecuada de residuos genera lixiviados que contaminan acuíferos y quema a cielo abierto que emite dioxinas, furanos y material particulado. La Resolución 754 de 2014 del Ministerio de Vivienda promueve la separación en la fuente como base para superar estas prácticas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v8",
+      "statement": "Cuáles son los principales impactos ambientales asociados a la operación del relleno sanitario Doña Juana de Bogotá?",
+      "context": "En la Universidad del Valle (Cali), estudiantes de ingeniería ambiental analizan los impactos del relleno sanitario Doña Juana, principal destino de los residuos de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producción de energía limpia sin ningún impacto ambiental negativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede aprovecharse el biogás, persisten impactos sobre el suelo, el agua y el aire."
+        },
+        {
+          "letter": "B",
+          "text": "Mejora automática de la calidad del aire en la ciudad por la concentración de residuos en un solo punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concentrar residuos no mejora la calidad del aire; incluso la puede afectar durante su operación."
+        },
+        {
+          "letter": "C",
+          "text": "Aumento de la biodiversidad local en la zona del relleno por la presencia de aves y mamíferos carroñeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biodiversidad tiende a reducirse y aparecen especies oportunistas asociadas a la contaminación."
+        },
+        {
+          "letter": "D",
+          "text": "Generación de lixiviados que contaminan aguas subterráneas, emisión de biogás con metano y CO2 que contribuye al cambio climático, y afectación de ecosistemas cercanos al sitio de disposición.",
+          "is_correct": true,
+          "feedback": "Correcto. Lixiviados, biogás y pérdida de biodiversidad son impactos característicos de un relleno sanitario."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un relleno sanitario bien operado controla los impactos mediante sistemas de recolección de lixiviados, captura de biogás y cobertura diaria. Aun así, el impacto residual exige trabajar simultáneamente en la reducción de residuos generados en la ciudad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v9",
+      "statement": "Por qué el plástico representa uno de los residuos más problemáticos para los ecosistemas marinos y costeros del Caribe y Pacífico colombianos?",
+      "context": "En el Colegio San José de Barranquilla, los estudiantes analizan informes sobre la contaminación por plástico en las playas del Caribe colombiano y la afectación a fauna marina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tarda cientos de años en degradarse, se fragmenta en microplásticos y es ingerido por tortugas, peces y aves marinas, afectando la cadena alimentaria.",
+          "is_correct": true,
+          "feedback": "Correcto. La persistencia del plástico y su fragmentación hacen que se acumule en los ecosistemas marinos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el plástico se disuelve rápidamente en el agua de mar y desaparece sin causar daño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plástico no se disuelve; se fragmenta en piezas cada vez más pequeñas que persisten por siglos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los animales marinos lo prefieren como alimento principal sobre las algas y el plancton.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los animales lo ingieren por confusión, no por preferencia; además, les causa daño."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el plástico mejora la calidad del agua marina al retener nutrientes en su superficie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plástico libera aditivos tóxicos y atrapa fauna, no mejora la calidad del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia produce más de 1,2 millones de toneladas de plástico al año, y un porcentaje importante llega a ríos y mares. Los microplásticos ya se han detectado en peces, moluscos y sal de mesa, lo que convierte a este residuo en un reto prioritario de política ambiental.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v10",
+      "statement": "Medellín logró reducir un 30% la cantidad de residuos enviados al relleno sanitario tras implementar programas de separación en la fuente y recolección selectiva. Cuál es la mejor explicación de este logro?",
+      "context": "En la Universidad de Antioquia (Medellín), un grupo de investigación presenta los resultados de un estudio sobre los efectos del programa de separación en la fuente en la ciudad durante los últimos cinco años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los habitantes dejaron completamente de generar basura en sus hogares y comercios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La población continúa generando residuos, solo que una parte importante deja de ir al relleno."
+        },
+        {
+          "letter": "B",
+          "text": "La separación en la fuente permitió que grandes volúmenes de reciclables como papel, plástico, vidrio y metal fueran recuperados por recicladores de oficio e industrias, disminuyendo la cantidad de residuos que llegan al relleno.",
+          "is_correct": true,
+          "feedback": "Correcto. Recuperar reciclables en la fuente reduce los residuos que se entierran al final del ciclo."
+        },
+        {
+          "letter": "C",
+          "text": "Toda la basura que se genera ahora se transporta a otros países sin ningún tipo de tratamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no exporta la totalidad de sus residuos sólidos urbanos al extranjero."
+        },
+        {
+          "letter": "D",
+          "text": "Se prohibió la producción de empaques a nivel nacional y por eso se redujo la basura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prohibición total de empaques no ocurrió; lo que cambió fue su separación y aprovechamiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La separación en la fuente es la estrategia más efectiva para aumentar las tasas de reciclaje. En Medellín, el trabajo articulado con las cooperativas de recicladores ha permitido formalizar el oficio y valorizar materiales que antes terminaban enterrados en el relleno de San Sebastián.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v11",
+      "statement": "Evalúe la siguiente propuesta: \"Prohibir el uso de pitillos, bolsas plásticas y vasos desechables en todos los establecimientos comerciales de Bogotá para resolver el problema de los residuos plásticos\".",
+      "context": "En el foro ambiental de la Universidad de los Andes (Bogotá), concejales y expertos debaten un proyecto de acuerdo para reducir el uso de plásticos de un solo uso en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inadecuada porque los pitillos no contaminan en absoluto el ambiente marino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque pequeños, los pitillos sí generan contaminación plástica y afectan fauna marina."
+        },
+        {
+          "letter": "B",
+          "text": "Es excelente y por sí sola eliminará toda la contaminación por plástico en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una prohibición puntual no resuelve todo el problema del plástico de un solo uso."
+        },
+        {
+          "letter": "C",
+          "text": "Es un avance importante pero insuficiente: debe complementarse con educación ambiental, incentivos a empaques compostables, sistemas de retorno de envases y metas de reducción industrial.",
+          "is_correct": true,
+          "feedback": "Correcto. La prohibición necesita medidas complementarias para ser verdaderamente efectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Solo aplica en pueblos pequeños donde no hay industria plástica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las grandes ciudades, por su volumen de consumo, son escenario prioritario de este tipo de medidas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ley 2232 de 2022 en Colombia prohíbe gradualmente los plásticos de un solo uso. Su éxito depende de alternativas accesibles, campañas pedagógicas, instrumentos económicos como impuestos a empaques no reciclables y estrategias de economía circular en la industria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle-v12",
+      "statement": "Evalúe la afirmación: \"La solución definitiva al problema de la basura en Colombia depende exclusivamente de que cada ciudadano recicle más en su casa\".",
+      "context": "En el foro ambiental de la Universidad de los Andes (Bogotá), académicos y líderes comunitarios debaten sobre quién es responsable del problema de la basura en las ciudades colombianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente cierta porque el problema es únicamente individual y no requiere políticas públicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gestión de residuos es un problema sistémico que excede el ámbito individual."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa porque reciclar es totalmente inútil en cualquier contexto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reciclar es una acción valiosa dentro de un sistema de gestión más amplio."
+        },
+        {
+          "letter": "C",
+          "text": "Solo aplica en zonas rurales y no tiene relevancia en las grandes ciudades colombianas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje es relevante tanto en zonas urbanas como rurales."
+        },
+        {
+          "letter": "D",
+          "text": "Es parcialmente cierta: reciclar desde el hogar es fundamental, pero el problema requiere además políticas públicas de reducción, responsabilidad extendida del productor, formalización de recicladores y mejoras en recolección y disposición final.",
+          "is_correct": true,
+          "feedback": "Correcto. La solución integral combina acción ciudadana, política pública y responsabilidad empresarial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La gestión de residuos es responsabilidad compartida. Las ciudades colombianas avanzan cuando articulan la separación en la fuente de los hogares, la formalización y dignificación del trabajo de los recicladores, la responsabilidad extendida del productor y sistemas eficientes de recolección y disposición final.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
