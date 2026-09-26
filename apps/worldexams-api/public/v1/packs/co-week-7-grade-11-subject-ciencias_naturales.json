@@ -16,7 +16,7 @@
           "letter": "A",
           "text": "Conservación de la cantidad de movimiento angular ($L$).",
           "is_correct": true,
-          "feedback": "Correcto. Al reducir el momento de inercia ($I$) al acercar los brazos, la velocidad angular ($omega$) aumenta para mantener $L = I omega$ constante."
+          "feedback": "Correcto. Al reducir el momento de inercia ($I$) al acercar los brazos, la velocidad angular ($\\omega$) aumenta para mantener $L = I \\omega$ constante."
         },
         {
           "letter": "B",
@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "En ausencia de torcas externas netas ($sum \tau_{ext} = 0$), el momento angular del sistema se conserva ($L = I omega = \text{constante}$). Al encoger los brazos disminuye la inercia rotacional $I$, forzando un incremento en la velocidad angular $omega$.",
+      "explanation": "En ausencia de torcas externas netas ($\\sum \\tau_{ext} = 0$), el momento angular del sistema se conserva ($L = I \\omega = \\text{constante}$). Al encoger los brazos disminuye la inercia rotacional $I$, forzando un incremento en la velocidad angular $\\omega$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -84,7 +84,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El Teorema Trabajo-Energía para fuerzas no conservativas establece que $W_{nc} = Delta E_{mecanica}$. La resistencia del aire realiza trabajo negativo, provocando una disminución de la energía mecánica total disipada como calor.",
+      "explanation": "El Teorema Trabajo-Energía para fuerzas no conservativas establece que $W_{nc} = \\Delta E_{mecanica}$. La resistencia del aire realiza trabajo negativo, provocando una disminución de la energía mecánica total disipada como calor.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "Porque la fuerza gravitacional es perpendicular en todo instante al vector desplazamiento instantáneo del satélite.",
           "is_correct": true,
-          "feedback": "Correcto. Como $W = F cdot d cdot cos(90^circ) = 0$, la fuerza gravitacional no realiza trabajo en órbitas circulares."
+          "feedback": "Correcto. Como $W = F \\cdot d \\cdot \\cos(90^circ) = 0$, la fuerza gravitacional no realiza trabajo en órbitas circulares."
         },
         {
           "letter": "B",
@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El trabajo es $W = \\vec{F} cdot \\vec{d} = F d cos\theta$. En un movimiento circular uniforme, la fuerza gravitacional actúa hacia el centro y el desplazamiento es tangencial ($\theta = 90^circ$). Como $cos(90^circ) = 0$, el trabajo es nulo.",
+      "explanation": "El trabajo es $W = \\vec{F} \\cdot \\vec{d} = F d \\cos\\theta$. En un movimiento circular uniforme, la fuerza gravitacional actúa hacia el centro y el desplazamiento es tangencial ($\\theta = 90^\\circ$). Como $\\cos(90^circ) = 0$, el trabajo es nulo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -176,7 +176,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por definición, una colisión elástica en un sistema aislado es aquella en la que se conservan tanto la cantidad de movimiento lineal total ($sum \\vec{p}_i = sum \\vec{p}_f$) como la energía cinética total del sistema ($sum E_{ki} = sum E_{kf}$).",
+      "explanation": "Por definición, una colisión elástica en un sistema aislado es aquella en la que se conservan tanto la cantidad de movimiento lineal total ($\\sum \\vec{p}_i = \\sum \\vec{p}_f$) como la energía cinética total del sistema ($\\sum E_{ki} = \\sum E_{kf}$).",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la rapidez del vagón cuando pasa por un punto $B$ situado a $5\text{ m}$ de altura sobre el piso?",
-      "context": "Un carro de montaña rusa de $200\text{ kg}$ parte del reposo desde una altura $h_A = 20\text{ m}$ sobre el piso en un parque de atracciones de Bogotá. Se desprecia la fricción. Considere $g = 10\text{ m/s}^2$.",
+      "statement": "¿Cuál es la rapidez del vagón cuando pasa por un punto $B$ situado a $5\\text{ m}$ de altura sobre el piso?",
+      "context": "Un carro de montaña rusa de $200\\text{ kg}$ parte del reposo desde una altura $h_A = 20\\text{ m}$ sobre el piso en un parque de atracciones de Bogotá. Se desprecia la fricción. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
           "letter": "A",
-          "text": "$17.32\text{ m/s}$ ($sqrt{300}\text{ m/s}$)",
+          "text": "$17.32\\text{ m/s}$ ($\\sqrt{300}\\text{ m/s}$)",
           "is_correct": true,
-          "feedback": "Correcto. Conservación de energía: $m g h_A = m g h_B + \\frac{1}{2}m v_B^2 \\implies g(h_A - h_B) = \\frac{1}{2} v_B^2 \\implies v_B = sqrt{2 g (20 - 5)} = sqrt{2(10)(15)} = sqrt{300} approx 17.32\text{ m/s}$."
+          "feedback": "Correcto. Conservación de energía: $m g h_A = m g h_B + \\frac{1}{2}m v_B^2 \\implies g(h_A - h_B) = \\frac{1}{2} v_B^2 \\implies v_B = \\sqrt{2 g (20 - 5)} = \\sqrt{2(10)(15)} = \\sqrt{300} \\approx 17.32\\text{ m/s}$."
         },
         {
           "letter": "B",
-          "text": "$20.00\text{ m/s}$",
+          "text": "$20.00\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la velocidad al llegar al piso ($h=0$)."
         },
         {
           "letter": "C",
-          "text": "$10.00\text{ m/s}$",
+          "text": "$10.00\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Cálculo erróneo usando solo la diferencia de altura sin multiplicar por 2."
         },
         {
           "letter": "D",
-          "text": "$14.14\text{ m/s}$",
+          "text": "$14.14\\text{ m/s}$",
           "is_correct": false,
-          "feedback": "Incorrecto. Corresponde al cálculo evaluado únicamente a $10\text{ m}$ de caída."
+          "feedback": "Incorrecto. Corresponde al cálculo evaluado únicamente a $10\\text{ m}$ de caída."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por conservación de la energía mecánica total en ausencia de fricción: $E_A = E_B \\implies m g h_A = m g h_B + \\frac{1}{2} m v_B^2 \\implies v_B = sqrt{2 g (h_A - h_B)} = sqrt{2(10)(15)} = sqrt{300} approx 17.32\text{ m/s}$.",
+      "explanation": "Por conservación de la energía mecánica total en ausencia de fricción: $E_A = E_B \\implies m g h_A = m g h_B + \\frac{1}{2} m v_B^2 \\implies v_B = \\sqrt{2 g (h_A - h_B)} = \\sqrt{2(10)(15)} = \\sqrt{300} \\approx 17.32\\text{ m/s}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -240,35 +240,35 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v6",
       "statement": "¿Cuál es la energía cinética rotacional acumulada en el disco?",
-      "context": "Un disco macizo de $4\text{ kg}$ y radio $0.5\text{ m}$ gira alrededor de su eje central a una velocidad angular de $10\text{ rad/s}$ en Medellín. El momento de inercia del disco es $I = \\frac{1}{2} m R^2$.",
+      "context": "Un disco macizo de $4\\text{ kg}$ y radio $0.5\\text{ m}$ gira alrededor de su eje central a una velocidad angular de $10\\text{ rad/s}$ en Medellín. El momento de inercia del disco es $I = \\frac{1}{2} m R^2$.",
       "options": [
         {
           "letter": "A",
-          "text": "$25\text{ Joules}$",
+          "text": "$25\\text{ Joules}$",
           "is_correct": true,
-          "feedback": "Correcto. $I = \\frac{1}{2}(4)(0.5^2) = 2(0.25) = 0.5\text{ kg}cdot\text{m}^2$. $E_{k,rot} = \\frac{1}{2} I omega^2 = \\frac{1}{2}(0.5)(10^2) = 0.25 \times 100 = 25\text{ J}$."
+          "feedback": "Correcto. $I = \\frac{1}{2}(4)(0.5^2) = 2(0.25) = 0.5\\text{ kg}\\cdot\\text{m}^2$. $E_{k,rot} = \\frac{1}{2} I \\omega^2 = \\frac{1}{2}(0.5)(10^2) = 0.25 \\times 100 = 25\\text{ J}$."
         },
         {
           "letter": "B",
-          "text": "$50\text{ Joules}$",
+          "text": "$50\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre si se olvida dividir entre 2 la fórmula de la energía cinética rotacional."
         },
         {
           "letter": "C",
-          "text": "$100\text{ Joules}$",
+          "text": "$100\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre si se olvida el factor de la masa o el radio."
         },
         {
           "letter": "D",
-          "text": "$12.5\text{ Joules}$",
+          "text": "$12.5\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. División adicional por 2 sin justificación."
         }
       ],
       "correct_answer": "A",
-      "explanation": "1) Momento de inercia del disco: $I = \\frac{1}{2} m R^2 = \\frac{1}{2}(4)(0.25) = 0.5\text{ kg}cdot\text{m}^2$.\n2) Energía cinética de rotación: $E_{k,rot} = \\frac{1}{2} I omega^2 = \\frac{1}{2}(0.5)(10)^2 = 25\text{ J}$.",
+      "explanation": "1) Momento de inercia del disco: $I = \\frac{1}{2} m R^2 = \\frac{1}{2}(4)(0.25) = 0.5\\text{ kg}\\cdot\\text{m}^2$.\n2) Energía cinética de rotación: $E_{k,rot} = \\frac{1}{2} I \\omega^2 = \\frac{1}{2}(0.5)(10)^2 = 25\\text{ J}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -286,35 +286,35 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la velocidad de retroceso del cañón tras el disparo?",
-      "context": "Un cañón de $800\text{ kg}$ montado sobre ruedas en una plataforma lisa en Cartagena dispara un proyectil de $20\text{ kg}$ a una velocidad de $400\text{ m/s}$ hacia la derecha.",
+      "context": "Un cañón de $800\\text{ kg}$ montado sobre ruedas en una plataforma lisa en Cartagena dispara un proyectil de $20\\text{ kg}$ a una velocidad de $400\\text{ m/s}$ hacia la derecha.",
       "options": [
         {
           "letter": "A",
-          "text": "$10\text{ m/s}$ hacia la izquierda.",
+          "text": "$10\\text{ m/s}$ hacia la izquierda.",
           "is_correct": true,
-          "feedback": "Correcto. Conservación del momento lineal: $0 = m_c v_c + m_p v_p \\implies v_c = -\\frac{20 \times 400}{800} = -\\frac{8000}{800} = -10\text{ m/s}$."
+          "feedback": "Correcto. Conservación del momento lineal: $0 = m_c v_c + m_p v_p \\implies v_c = -\\frac{20 \\times 400}{800} = -\\frac{8000}{800} = -10\\text{ m/s}$."
         },
         {
           "letter": "B",
-          "text": "$20\text{ m/s}$ hacia la izquierda.",
+          "text": "$20\\text{ m/s}$ hacia la izquierda.",
           "is_correct": false,
           "feedback": "Incorrecto. División errónea de la masa del cañón entre 2."
         },
         {
           "letter": "C",
-          "text": "$5\text{ m/s}$ hacia la izquierda.",
+          "text": "$5\\text{ m/s}$ hacia la izquierda.",
           "is_correct": false,
           "feedback": "Incorrecto. Sobredimensionamiento de la masa del cañón."
         },
         {
           "letter": "D",
-          "text": "$400\text{ m/s}$ hacia la izquierda.",
+          "text": "$400\\text{ m/s}$ hacia la izquierda.",
           "is_correct": false,
           "feedback": "Incorrecto. Asume que el cañón retrocede con la misma velocidad que el proyectil."
         }
       ],
       "correct_answer": "A",
-      "explanation": "En ausencia de fuerzas externas horizontales, la cantidad de movimiento total se conserva ($Delta p = 0$). Como el sistema parte del reposo ($p_i = 0$): $0 = m_{cañón} v_{cañón} + m_{proyectil} v_{proyectil} \\implies v_{cañón} = -\\frac{20 \times 400}{800} = -10\text{ m/s}$.",
+      "explanation": "En ausencia de fuerzas externas horizontales, la cantidad de movimiento total se conserva ($\\Delta p = 0$). Como el sistema parte del reposo ($p_i = 0$): $0 = m_{cañón} v_{cañón} + m_{proyectil} v_{proyectil} \\implies v_{cañón} = -\\frac{20 \\times 400}{800} = -10\\text{ m/s}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es la torca o momento de fuerza $\tau$ generado sobre la rueda respecto a su centro?",
-      "context": "Una fuerza constante de $40\text{ N}$ actúa tangencialmente sobre la periferia de una rueda de $0.4\text{ m}$ de radio en una fábrica en Bucaramanga.",
+      "statement": "¿Cuál es la torca o momento de fuerza $\\tau$ generado sobre la rueda respecto a su centro?",
+      "context": "Una fuerza constante de $40\\text{ N}$ actúa tangencialmente sobre la periferia de una rueda de $0.4\\text{ m}$ de radio en una fábrica en Bucaramanga.",
       "options": [
         {
           "letter": "A",
-          "text": "$16\text{ N}cdot\text{m}$",
+          "text": "$16\\text{ N}\\cdot\\text{m}$",
           "is_correct": true,
-          "feedback": "Correcto. La torca es $\tau = F cdot r cdot sin(90^circ) = 40 \times 0.4 \times 1 = 16\text{ N}cdot\text{m}$."
+          "feedback": "Correcto. La torca es $\\tau = F \\cdot r \\cdot \\sin(90^circ) = 40 \\times 0.4 \\times 1 = 16\\text{ N}\\cdot\\text{m}$."
         },
         {
           "letter": "B",
-          "text": "$100\text{ N}cdot\text{m}$",
+          "text": "$100\\text{ N}\\cdot\\text{m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a dividir la fuerza entre el radio."
         },
         {
           "letter": "C",
-          "text": "$160\text{ N}cdot\text{m}$",
+          "text": "$160\\text{ N}\\cdot\\text{m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de escala decimal en la multiplicación."
         },
         {
           "letter": "D",
-          "text": "$4\text{ N}cdot\text{m}$",
+          "text": "$4\\text{ N}\\cdot\\text{m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicación errónea de 40 por 0.1."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El momento de fuerza o torca mide la eficacia de una fuerza para producir rotación: $\tau = F cdot r sin\theta$. Para una fuerza tangencial ($\theta = 90^circ$): $\tau = 40\text{ N} \times 0.4\text{ m} = 16\text{ N}cdot\text{m}$.",
+      "explanation": "El momento de fuerza o torca mide la eficacia de una fuerza para producir rotación: $\\tau = F \\cdot r \\sin\\theta$. Para una fuerza tangencial ($\\theta = 90^\\circ$): $\\tau = 40\\text{ N} \\times 0.4\\text{ m} = 16\\text{ N}\\cdot\\text{m}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -378,35 +378,35 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la distancia máxima que se comprime el resorte hasta detener temporalmente la bola?",
-      "context": "Una bola de $1\text{ kg}$ se mueve a $8\text{ m/s}$ y choca frontalmente contra un resorte de constante $k = 400\text{ N/m}$ montado horizontalmente en Neiva.",
+      "context": "Una bola de $1\\text{ kg}$ se mueve a $8\\text{ m/s}$ y choca frontalmente contra un resorte de constante $k = 400\\text{ N/m}$ montado horizontalmente en Neiva.",
       "options": [
         {
           "letter": "A",
-          "text": "$0.4\text{ metros}$",
+          "text": "$0.4\\text{ metros}$",
           "is_correct": true,
-          "feedback": "Correcto. Conservación de energía: $\\frac{1}{2}m v^2 = \\frac{1}{2}k x^2 \\implies x = v sqrt{\\frac{m}{k}} = 8 sqrt{\\frac{1}{400}} = 8 \times \\frac{1}{20} = \\frac{8}{20} = 0.4\text{ m}$."
+          "feedback": "Correcto. Conservación de energía: $\\frac{1}{2}m v^2 = \\frac{1}{2}k x^2 \\implies x = v \\sqrt{\\frac{m}{k}} = 8 \\sqrt{\\frac{1}{400}} = 8 \\times \\frac{1}{20} = \\frac{8}{20} = 0.4\\text{ m}$."
         },
         {
           "letter": "B",
-          "text": "$0.2\text{ metros}$",
+          "text": "$0.2\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la velocidad de la bola en la raíz."
         },
         {
           "letter": "C",
-          "text": "$0.8\text{ metros}$",
+          "text": "$0.8\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicación errónea de la constante por 2."
         },
         {
           "letter": "D",
-          "text": "$1.6\text{ metros}$",
+          "text": "$1.6\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la simplificación de la fracción."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Toda la energía cinética de la masa se transforma en energía potencial elástica del resorte en el punto de máxima compresión: $\\frac{1}{2} m v^2 = \\frac{1}{2} k x^2 \\implies x = v sqrt{\\frac{m}{k}} = 8 sqrt{\\frac{1}{400}} = \\frac{8}{20} = 0.4\text{ m}$.",
+      "explanation": "Toda la energía cinética de la masa se transforma en energía potencial elástica del resorte en el punto de máxima compresión: $\\frac{1}{2} m v^2 = \\frac{1}{2} k x^2 \\implies x = v \\sqrt{\\frac{m}{k}} = 8 \\sqrt{\\frac{1}{400}} = \\frac{8}{20} = 0.4\\text{ m}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -424,35 +424,35 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el período $T$ de pequeñas oscilaciones del péndulo?",
-      "context": "Un péndulo simple de longitud $L = 1\text{ m}$ oscila en la ciudad de Manizales. Considere $g = 10\text{ m/s}^2$ y $pi approx 3.14$.",
+      "context": "Un péndulo simple de longitud $L = 1\\text{ m}$ oscila en la ciudad de Manizales. Considere $g = 10\\text{ m/s}^2$ y $pi \\approx 3.14$.",
       "options": [
         {
           "letter": "A",
-          "text": "$1.98\text{ segundos}$ (aproximadamente $2\text{ s}$)",
+          "text": "$1.98\\text{ segundos}$ (aproximadamente $2\\text{ s}$)",
           "is_correct": true,
-          "feedback": "Correcto. $T = 2pi sqrt{\\frac{L}{g}} = 2(3.14) sqrt{\\frac{1}{10}} = 6.28 \times 0.316 = 1.98\text{ s} approx 2.0\text{ s}$."
+          "feedback": "Correcto. $T = 2\\pi \\sqrt{\\frac{L}{g}} = 2(3.14) \\sqrt{\\frac{1}{10}} = 6.28 \\times 0.316 = 1.98\\text{ s} \\approx 2.0\\text{ s}$."
         },
         {
           "letter": "B",
-          "text": "$6.28\text{ segundos}$",
+          "text": "$6.28\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la raíz cuadrada de la fracción $L/g$."
         },
         {
           "letter": "C",
-          "text": "$0.31\text{ segundos}$",
+          "text": "$0.31\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde solo a la raíz cuadrada de $1/10$ sin multiplicar por $2pi$."
         },
         {
           "letter": "D",
-          "text": "$3.14\text{ segundos}$",
+          "text": "$3.14\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió $2pi$ entre 2."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El período de un péndulo simple para pequeñas amplitudes viene dado por $T = 2pi sqrt{\\frac{L}{g}}$. Sustituyendo $L = 1\text{ m}$ y $g = 10\text{ m/s}^2$: $T = 2 pi sqrt{0.1} approx 6.28 \times 0.316 approx 1.98\text{ s}$.",
+      "explanation": "El período de un péndulo simple para pequeñas amplitudes viene dado por $T = 2\\pi \\sqrt{\\frac{L}{g}}$. Sustituyendo $L = 1\\text{ m}$ y $g = 10\\text{ m/s}^2$: $T = 2 \\pi \\sqrt{0.1} \\approx 6.28 \\times 0.316 \\approx 1.98\\text{ s}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -498,7 +498,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para un cuerpo que rueda sin deslizar, $a = \\frac{g sin\theta}{1 + \\frac{I}{m R^2}}$. Como $I_{maciza} = 0.4 m R^2$ es menor que $I_{hueca} = 0.67 m R^2$, el denominador es menor para la esfera maciza, dándole una mayor aceleración lineal $a$ y haciéndola llegar primero.",
+      "explanation": "Para un cuerpo que rueda sin deslizar, $a = \\frac{g \\sin\\theta}{1 + \\frac{I}{m R^2}}$. Como $I_{maciza} = 0.4 m R^2$ es menor que $I_{hueca} = 0.67 m R^2$, el denominador es menor para la esfera maciza, dándole una mayor aceleración lineal $a$ y haciéndola llegar primero.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -515,36 +515,36 @@
     },
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v12",
-      "statement": "¿Cuál es la velocidad del bloque de $1\text{ kg}$ tras el choque y qué tipo de colisión ocurrió?",
-      "context": "Un bloque de $4\text{ kg}$ se mueve sobre una superficie horizontal lisa a $5\text{ m/s}$ y choca contra otro bloque de $1\text{ kg}$ en reposo. Tras el choque, el bloque de $4\text{ kg}$ continúa moviéndose a $3\text{ m/s}$ en la misma dirección.",
+      "statement": "¿Cuál es la velocidad del bloque de $1\\text{ kg}$ tras el choque y qué tipo de colisión ocurrió?",
+      "context": "Un bloque de $4\\text{ kg}$ se mueve sobre una superficie horizontal lisa a $5\\text{ m/s}$ y choca contra otro bloque de $1\\text{ kg}$ en reposo. Tras el choque, el bloque de $4\\text{ kg}$ continúa moviéndose a $3\\text{ m/s}$ en la misma dirección.",
       "options": [
         {
           "letter": "A",
-          "text": "Velocidad = $8\text{ m/s}$, Colisión elástica.",
+          "text": "Velocidad = $8\\text{ m/s}$, Colisión elástica.",
           "is_correct": true,
-          "feedback": "Correcto. Momento: $4(5) = 4(3) + 1(v_2) \\implies 20 = 12 + v_2 \\implies v_2 = 8\text{ m/s}$. Energía cinética inicial $= \\frac{1}{2}(4)(25) = 50\text{ J}$. Energía cinética final $= \\frac{1}{2}(4)(9) + \\frac{1}{2}(1)(64) = 18 + 32 = 50\text{ J}$. Es totalmente elástica."
+          "feedback": "Correcto. Momento: $4(5) = 4(3) + 1(v_2) \\implies 20 = 12 + v_2 \\implies v_2 = 8\\text{ m/s}$. Energía cinética inicial $= \\frac{1}{2}(4)(25) = 50\\text{ J}$. Energía cinética final $= \\frac{1}{2}(4)(9) + \\frac{1}{2}(1)(64) = 18 + 32 = 50\\text{ J}$. Es totalmente elástica."
         },
         {
           "letter": "B",
-          "text": "Velocidad = $5\text{ m/s}$, Colisión inelástica.",
+          "text": "Velocidad = $5\\text{ m/s}$, Colisión inelástica.",
           "is_correct": false,
-          "feedback": "Incorrecto. $v_2 = 5\text{ m/s}$ violaría la conservación del momento lineal."
+          "feedback": "Incorrecto. $v_2 = 5\\text{ m/s}$ violaría la conservación del momento lineal."
         },
         {
           "letter": "C",
-          "text": "Velocidad = $8\text{ m/s}$, Colisión inelástica.",
+          "text": "Velocidad = $8\\text{ m/s}$, Colisión inelástica.",
           "is_correct": false,
-          "feedback": "Incorrecto. La energía cinética se conserva perfectamente ($50\text{ J} = 50\text{ J}$), luego no es inelástica."
+          "feedback": "Incorrecto. La energía cinética se conserva perfectamente ($50\\text{ J} = 50\\text{ J}$), luego no es inelástica."
         },
         {
           "letter": "D",
-          "text": "Velocidad = $2\text{ m/s}$, Colisión elástica.",
+          "text": "Velocidad = $2\\text{ m/s}$, Colisión elástica.",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el balance de momento lineal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "1) Balance de momento lineal: $m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f} \\implies 4(5) + 0 = 4(3) + 1(v_{2f}) \\implies 20 = 12 + v_{2f} \\implies v_{2f} = 8\text{ m/s}$.\n2) Verificación de energía cinética: $E_{ki} = \\frac{1}{2}(4)(25) = 50\text{ J}$; $E_{kf} = \\frac{1}{2}(4)(9) + \\frac{1}{2}(1)(64) = 18 + 32 = 50\text{ J}$. Como $E_{ki} = E_{kf}$, la colisión es perfectamente elástica.",
+      "explanation": "1) Balance de momento lineal: $m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f} \\implies 4(5) + 0 = 4(3) + 1(v_{2f}) \\implies 20 = 12 + v_{2f} \\implies v_{2f} = 8\\text{ m/s}$.\n2) Verificación de energía cinética: $E_{ki} = \\frac{1}{2}(4)(25) = 50\\text{ J}$; $E_{kf} = \\frac{1}{2}(4)(9) + \\frac{1}{2}(1)(64) = 18 + 32 = 50\\text{ J}$. Como $E_{ki} = E_{kf}$, la colisión es perfectamente elástica.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -562,13 +562,13 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v13",
       "statement": "¿Cómo varía el período de oscilación $T$ del sistema masa-resorte al cambiar la altitud entre estas dos ciudades?",
-      "context": "Se mide el período de oscilación $T$ de un sistema masa-resorte vertical en Bogotá ($2600\text{ msnm}$) y luego en Cartagena ($0\text{ msnm}$).",
+      "context": "Se mide el período de oscilación $T$ de un sistema masa-resorte vertical en Bogotá ($2600\\text{ msnm}$) y luego en Cartagena ($0\\text{ msnm}$).",
       "options": [
         {
           "letter": "A",
           "text": "El período $T$ permanece exactamente constante en ambas ciudades.",
           "is_correct": true,
-          "feedback": "Correcto. El período de un oscilador masa-resorte ($T = 2pi sqrt{m/k}$) depende solo de la masa y la constante elástica, no de la gravedad $g$."
+          "feedback": "Correcto. El período de un oscilador masa-resorte ($T = 2\\pi \\sqrt{m/k}$) depende solo de la masa y la constante elástica, no de la gravedad $g$."
         },
         {
           "letter": "B",
@@ -590,7 +590,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El período de un sistema masa-resorte armónico ideal es $T = 2pi sqrt{\\frac{m}{k}}$. A diferencia del péndulo simple, no depende de la aceleración de la gravedad $g$, por lo que es idéntico en Bogotá y Cartagena.",
+      "explanation": "El período de un sistema masa-resorte armónico ideal es $T = 2\\pi \\sqrt{\\frac{m}{k}}$. A diferencia del péndulo simple, no depende de la aceleración de la gravedad $g$, por lo que es idéntico en Bogotá y Cartagena.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -608,35 +608,35 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v14",
       "statement": "¿Cuánto tiempo tarda el volante en detenerse por completo?",
-      "context": "Un volante de inercia cilíndrico de $I = 2\text{ kg}cdot\text{m}^2$ gira a $30\text{ rad/s}$ en un taller en Ibagué. Se le aplica una torca de frenado constante $\tau = -6\text{ N}cdot\text{m}$.",
+      "context": "Un volante de inercia cilíndrico de $I = 2\\text{ kg}\\cdot\\text{m}^2$ gira a $30\\text{ rad/s}$ en un taller en Ibagué. Se le aplica una torca de frenado constante $\\tau = -6\\text{ N}\\cdot\\text{m}$.",
       "options": [
         {
           "letter": "A",
-          "text": "$10\text{ segundos}$",
+          "text": "$10\\text{ segundos}$",
           "is_correct": true,
-          "feedback": "Correcto. Aceleración angular $alpha = \\frac{\tau}{I} = \\frac{-6}{2} = -3\text{ rad/s}^2$. Tiempo $Delta t = \\frac{omega_f - omega_i}{alpha} = \\frac{0 - 30}{-3} = 10\text{ s}$."
+          "feedback": "Correcto. Aceleración angular $\\alpha = \\frac{\\tau}{I} = \\frac{-6}{2} = -3\\text{ rad/s}^2$. Tiempo $\\Delta t = \\frac{\\omega_f - \\omega_i}{alpha} = \\frac{0 - 30}{-3} = 10\\text{ s}$."
         },
         {
           "letter": "B",
-          "text": "$5\text{ segundos}$",
+          "text": "$5\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. División errónea de la velocidad entre la torca directamente."
         },
         {
           "letter": "C",
-          "text": "$15\text{ segundos}$",
+          "text": "$15\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Cálculo equivocado en la aceleración angular."
         },
         {
           "letter": "D",
-          "text": "$20\text{ segundos}$",
+          "text": "$20\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sobredimensionamiento del tiempo de desaceleración."
         }
       ],
       "correct_answer": "A",
-      "explanation": "1) Aceleración angular: $alpha = \\frac{sum \tau}{I} = \\frac{-6\text{ N}cdot\text{m}}{2\text{ kg}cdot\text{m}^2} = -3\text{ rad/s}^2$.\n2) Cinemática rotacional: $omega(t) = omega_0 + alpha t \\implies 0 = 30 - 3 t \\implies t = \\frac{30}{3} = 10\text{ s}$.",
+      "explanation": "1) Aceleración angular: $\\alpha = \\frac{\\sum \\tau}{I} = \\frac{-6\\text{ N}\\cdot\\text{m}}{2\\text{ kg}\\cdot\\text{m}^2} = -3\\text{ rad/s}^2$.\n2) Cinemática rotacional: $\\omega(t) = \\omega_0 + \\alpha t \\implies 0 = 30 - 3 t \\implies t = \\frac{30}{3} = 10\\text{ s}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -654,17 +654,17 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v15",
       "statement": "¿En qué posición $x$ del trayecto la energía cinética del sistema es idéntica a su energía potencial elástica?",
-      "context": "Una masa $m$ realiza un movimiento armónico simple (MAS) de amplitud $A$ y frecuencia angular $omega$.",
+      "context": "Una masa $m$ realiza un movimiento armónico simple (MAS) de amplitud $A$ y frecuencia angular $\\omega$.",
       "options": [
         {
           "letter": "A",
-          "text": "$x = pm \\frac{A}{sqrt{2}} approx pm 0.707 A$",
+          "text": "$x = \\pm \\frac{A}{\\sqrt{2}} \\approx \\pm 0.707 A$",
           "is_correct": true,
-          "feedback": "Correcto. $E_p = \\frac{1}{2} k x^2 = \\frac{1}{2} E_{total} = \\frac{1}{4} k A^2 \\implies x^2 = \\frac{A^2}{2} \\implies x = pm \\frac{A}{sqrt{2}}$."
+          "feedback": "Correcto. $E_p = \\frac{1}{2} k x^2 = \\frac{1}{2} E_{total} = \\frac{1}{4} k A^2 \\implies x^2 = \\frac{A^2}{2} \\implies x = \\pm \\frac{A}{\\sqrt{2}}$."
         },
         {
           "letter": "B",
-          "text": "$x = pm \\frac{A}{2}$",
+          "text": "$x = \\pm \\frac{A}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. En $x = A/2$, la energía potencial es solo el $25%$ de la total."
         },
@@ -676,13 +676,13 @@
         },
         {
           "letter": "D",
-          "text": "$x = pm A$",
+          "text": "$x = \\pm A$",
           "is_correct": false,
           "feedback": "Incorrecto. En los extremos la energía cinética es cero."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La energía total es $E = \\frac{1}{2} k A^2$. Si $E_k = E_p$, entonces $E_p = \\frac{1}{2} E \\implies \\frac{1}{2} k x^2 = \\frac{1}{2} \\left(\\frac{1}{2} k A^2\r\\right) \\implies x^2 = \\frac{A^2}{2} \\implies x = pm \\frac{A}{sqrt{2}}$.",
+      "explanation": "La energía total es $E = \\frac{1}{2} k A^2$. Si $E_k = E_p$, entonces $E_p = \\frac{1}{2} E \\implies \\frac{1}{2} k x^2 = \\frac{1}{2} \\left(\\frac{1}{2} k A^2\\right) \\implies x^2 = \\frac{A^2}{2} \\implies x = \\pm \\frac{A}{\\sqrt{2}}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -700,35 +700,35 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v16",
       "statement": "¿Cuál es la aceleración lineal de su centro de masa a lo largo de la rampa? (Dato: $I = \\frac{1}{2} M R^2$).",
-      "context": "Un cilindro macizo uniforme de masa $M$ y radio $R$ rueda sin deslizar colina abajo por una rampa inclinada un ángulo $\theta$ en Armenia.",
+      "context": "Un cilindro macizo uniforme de masa $M$ y radio $R$ rueda sin deslizar colina abajo por una rampa inclinada un ángulo $\\theta$ en Armenia.",
       "options": [
         {
           "letter": "A",
-          "text": "$a = \\frac{2}{3} g sin\theta$",
+          "text": "$a = \\frac{2}{3} g \\sin\\theta$",
           "is_correct": true,
-          "feedback": "Correcto. $a = \\frac{g sin\theta}{1 + I/(M R^2)} = \\frac{g sin\theta}{1 + 1/2} = \\frac{g sin\theta}{3/2} = \\frac{2}{3} g sin\theta$."
+          "feedback": "Correcto. $a = \\frac{g \\sin\\theta}{1 + I/(M R^2)} = \\frac{g \\sin\\theta}{1 + 1/2} = \\frac{g \\sin\\theta}{3/2} = \\frac{2}{3} g \\sin\\theta$."
         },
         {
           "letter": "B",
-          "text": "$a = g sin\theta$",
+          "text": "$a = g \\sin\\theta$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la aceleración de un bloque deslizante sin fricción."
         },
         {
           "letter": "C",
-          "text": "$a = \\frac{1}{2} g sin\theta$",
+          "text": "$a = \\frac{1}{2} g \\sin\\theta$",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimación de la componente de aceleración traslacional."
         },
         {
           "letter": "D",
-          "text": "$a = \\frac{5}{7} g sin\theta$",
+          "text": "$a = \\frac{5}{7} g \\sin\\theta$",
           "is_correct": false,
           "feedback": "Incorrecto. Aceleración correspondiente a una esfera maciza."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Fuerzas en el cilindro que rueda: $M g sin\theta - f_s = M a$ y $\tau = f_s R = I alpha = \\left(\\frac{1}{2} M R^2\r\\right)\\left(\\frac{a}{R}\r\\right) \\implies f_s = \\frac{1}{2} M a$. Sustituyendo: $M g sin\theta - \\frac{1}{2} M a = M a \\implies M g sin\theta = \\frac{3}{2} M a \\implies a = \\frac{2}{3} g sin\theta$.",
+      "explanation": "Fuerzas en el cilindro que rueda: $M g \\sin\\theta - f_s = M a$ y $\\tau = f_s R = I \\alpha = \\left(\\frac{1}{2} M R^2\\right)\\left(\\frac{a}{R}\\right) \\implies f_s = \\frac{1}{2} M a$. Sustituyendo: $M g \\sin\\theta - \\frac{1}{2} M a = M a \\implies M g \\sin\\theta = \\frac{3}{2} M a \\implies a = \\frac{2}{3} g \\sin\\theta$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -750,19 +750,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "$v_a = v_p \\left(\\frac{r_p}{r_a}\r\\right)$",
+          "text": "$v_a = v_p \\left(\\frac{r_p}{r_a}\\right)$",
           "is_correct": true,
-          "feedback": "Correcto. Por conservación del momento angular en campos centrales: $L = m r_p v_p = m r_a v_a \\implies v_a = v_p \\left(\\frac{r_p}{r_a}\r\\right)$."
+          "feedback": "Correcto. Por conservación del momento angular en campos centrales: $L = m r_p v_p = m r_a v_a \\implies v_a = v_p \\left(\\frac{r_p}{r_a}\\right)$."
         },
         {
           "letter": "B",
-          "text": "$v_a = v_p \\left(\\frac{r_a}{r_p}\r\\right)$",
+          "text": "$v_a = v_p \\left(\\frac{r_a}{r_p}\\right)$",
           "is_correct": false,
           "feedback": "Incorrecto. Implicaría mayor velocidad en el punto más distante."
         },
         {
           "letter": "C",
-          "text": "$v_a = v_p \\left(\\frac{r_p}{r_a}\r\\right)^2$",
+          "text": "$v_a = v_p \\left(\\frac{r_p}{r_a}\\right)^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Relación cuadrática errónea."
         },
@@ -774,7 +774,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Como la fuerza gravitacional es central, la torca neta sobre el planeta respecto al Sol es cero, por lo que el momento angular se conserva ($L = \\vec{r} \times \\vec{p} = \text{constante}$). En el perihelio y afelio el vector posición y velocidad son perpendiculares: $m r_p v_p = m r_a v_a \\implies v_a = v_p \\left(\\frac{r_p}{r_a}\r\\right)$.",
+      "explanation": "Como la fuerza gravitacional es central, la torca neta sobre el planeta respecto al Sol es cero, por lo que el momento angular se conserva ($L = \\vec{r} \\times \\vec{p} = \\text{constante}$). En el perihelio y afelio el vector posición y velocidad son perpendiculares: $m r_p v_p = m r_a v_a \\implies v_a = v_p \\left(\\frac{r_p}{r_a}\\right)$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -791,36 +791,36 @@
     },
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es la frecuencia angular $omega$ de pequeñas oscilaciones de este péndulo físico?",
+      "statement": "¿Cuál es la frecuencia angular $\\omega$ de pequeñas oscilaciones de este péndulo físico?",
       "context": "Un péndulo físico consta de una varilla delgada uniforme de masa $M$ y longitud $L$ pivotada libremente por uno de sus extremos en el laboratorio de la Universidad Nacional en Bogotá. (Dato: $I_{extremo} = \\frac{1}{3} M L^2$).",
       "options": [
         {
           "letter": "A",
-          "text": "$omega = sqrt{\\frac{3 g}{2 L}}$",
+          "text": "$\\omega = \\sqrt{\\frac{3 g}{2 L}}$",
           "is_correct": true,
-          "feedback": "Correcto. Para un péndulo físico $omega = sqrt{\\frac{M g d}{I}}$. El centro de masa está en $d = L/2$. $omega = sqrt{\\frac{M g (L/2)}{(1/3) M L^2}} = sqrt{\\frac{3 g}{2 L}}$."
+          "feedback": "Correcto. Para un péndulo físico $\\omega = \\sqrt{\\frac{M g d}{I}}$. El centro de masa está en $d = L/2$. $\\omega = \\sqrt{\\frac{M g (L/2)}{(1/3) M L^2}} = \\sqrt{\\frac{3 g}{2 L}}$."
         },
         {
           "letter": "B",
-          "text": "$omega = sqrt{\\frac{g}{L}}$",
+          "text": "$\\omega = \\sqrt{\\frac{g}{L}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a un péndulo simple con toda la masa concentrada en el extremo."
         },
         {
           "letter": "C",
-          "text": "$omega = sqrt{\\frac{2 g}{3 L}}$",
+          "text": "$\\omega = \\sqrt{\\frac{2 g}{3 L}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Inversión del factor numérico."
         },
         {
           "letter": "D",
-          "text": "$omega = sqrt{\\frac{3 g}{L}}$",
+          "text": "$\\omega = \\sqrt{\\frac{3 g}{L}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la distancia al centro de masa $L/2$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La ecuación para pequeñas oscilaciones de un péndulo físico es $omega = sqrt{\\frac{M g d}{I_{pivot}}}$. La distancia del pivote al centro de masa de la varilla es $d = \\frac{L}{2}$. Sustituyendo $I = \\frac{1}{3} M L^2$: $omega = sqrt{\\frac{M g (L/2)}{(1/3) M L^2}} = sqrt{\\frac{3 g}{2 L}}$.",
+      "explanation": "La ecuación para pequeñas oscilaciones de un péndulo físico es $\\omega = \\sqrt{\\frac{M g d}{I_{pivot}}}$. La distancia del pivote al centro de masa de la varilla es $d = \\frac{L}{2}$. Sustituyendo $I = \\frac{1}{3} M L^2$: $\\omega = \\sqrt{\\frac{M g (L/2)}{(1/3) M L^2}} = \\sqrt{\\frac{3 g}{2 L}}$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -860,13 +860,13 @@
         },
         {
           "letter": "D",
-          "text": "$x_0 = sqrt{\\frac{a}{b}}$",
+          "text": "$x_0 = \\sqrt{\\frac{a}{b}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Álgebra equivocada en la igualación a cero."
         }
       ],
       "correct_answer": "A",
-      "explanation": "1) Condición de equilibrio: $F(x) = -\\frac{dU}{dx} = 0$.\nDerivando $U(x) = a x^{-2} - b x^{-1} \\implies \\frac{dU}{dx} = -2a x^{-3} + b x^{-2}$.\nIgualando a cero: $\\frac{2a}{x^3} = \\frac{b}{x^2} \\implies x_0 = \\frac{2a}{b}$.\n2) Derivada segunda $\\frac{d^2U}{dx^2}\big|_{x_0} = \\frac{6a}{x^4} - \\frac{2b}{x^3} = \\frac{b^4}{8a^3} > 0$, confirmando un mínimo de energía (equilibrio estable).",
+      "explanation": "1) Condición de equilibrio: $F(x) = -\\frac{dU}{dx} = 0$.\nDerivando $U(x) = a x^{-2} - b x^{-1} \\implies \\frac{dU}{dx} = -2a x^{-3} + b x^{-2}$.\nIgualando a cero: $\\frac{2a}{x^3} = \\frac{b}{x^2} \\implies x_0 = \\frac{2a}{b}$.\n2) Derivada segunda $\\frac{d^2U}{dx^2}\\big|_{x_0} = \\frac{6a}{x^4} - \\frac{2b}{x^3} = \\frac{b^4}{8a^3} > 0$, confirmando un mínimo de energía (equilibrio estable).",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -884,13 +884,13 @@
     {
       "id": "CO-CN-11-2026-W07-mecanica-clasica-001-MASTERY-bundle-v20",
       "statement": "¿Qué altura máxima $h_{max}$ alcanzará el centro de masa del cilindro sobre el plano inclinado?",
-      "context": "Un cilindro macizo de masa $m$ y radio $R$ rueda sin deslizar sobre una superficie horizontal con velocidad $v_0$ y asciende por un plano inclinado de ángulo $\theta$.",
+      "context": "Un cilindro macizo de masa $m$ y radio $R$ rueda sin deslizar sobre una superficie horizontal con velocidad $v_0$ y asciende por un plano inclinado de ángulo $\\theta$.",
       "options": [
         {
           "letter": "A",
           "text": "$h_{max} = \\frac{3 v_0^2}{4 g}$",
           "is_correct": true,
-          "feedback": "Correcto. Energía inicial $E_i = \\frac{1}{2}m v_0^2 + \\frac{1}{2}I omega^2 = \\frac{1}{2}m v_0^2 + \\frac{1}{4}m v_0^2 = \\frac{3}{4}m v_0^2$. Igualando a la energía potencial final $m g h_{max} = \\frac{3}{4}m v_0^2 \\implies h_{max} = \\frac{3 v_0^2}{4 g}$."
+          "feedback": "Correcto. Energía inicial $E_i = \\frac{1}{2}m v_0^2 + \\frac{1}{2}I \\omega^2 = \\frac{1}{2}m v_0^2 + \\frac{1}{4}m v_0^2 = \\frac{3}{4}m v_0^2$. Igualando a la energía potencial final $m g h_{max} = \\frac{3}{4}m v_0^2 \\implies h_{max} = \\frac{3 v_0^2}{4 g}$."
         },
         {
           "letter": "B",
@@ -912,7 +912,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Energía mecánica inicial del cilindro rodante:\n$E_{total} = E_{k,trans} + E_{k,rot} = \\frac{1}{2}m v_0^2 + \\frac{1}{2}\\left(\\frac{1}{2}m R^2\r\\right)\\left(\\frac{v_0}{R}\r\\right)^2 = \\frac{3}{4} m v_0^2$.\nAl detenerse en el punto más alto, toda esta energía se convierte en potencial gravitacional:\n$m g h_{max} = \\frac{3}{4} m v_0^2 \\implies h_{max} = \\frac{3 v_0^2}{4 g}$.",
+      "explanation": "Energía mecánica inicial del cilindro rodante:\n$E_{total} = E_{k,trans} + E_{k,rot} = \\frac{1}{2}m v_0^2 + \\frac{1}{2}\\left(\\frac{1}{2}m R^2\\right)\\left(\\frac{v_0}{R}\\right)^2 = \\frac{3}{4} m v_0^2$.\nAl detenerse en el punto más alto, toda esta energía se convierte en potencial gravitacional:\n$m g h_{max} = \\frac{3}{4} m v_0^2 \\implies h_{max} = \\frac{3 v_0^2}{4 g}$.",
       "difficulty": "10",
       "images": [],
       "tags": [],

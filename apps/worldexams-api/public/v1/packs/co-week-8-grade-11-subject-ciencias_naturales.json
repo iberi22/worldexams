@@ -378,35 +378,35 @@
     {
       "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la frecuencia $\nu$ de esta radiación luminosa?",
-      "context": "Un fotón de luz violeta emitido por una lámpara de hidrógeno en Bucaramanga tiene una longitud de onda $lambda = 400\text{ nm}$ ($4 \times 10^{-7}\text{ m}$). Datos: $c = 3 \times 10^8\text{ m/s}$, $h = 6.63 \times 10^{-34}\text{ J}cdot\text{s}$.",
+      "context": "Un fotón de luz violeta emitido por una lámpara de hidrógeno en Bucaramanga tiene una longitud de onda $\\lambda = 400\\text{ nm}$ ($4 \\times 10^{-7}\\text{ m}$). Datos: $c = 3 \\times 10^8\\text{ m/s}$, $h = 6.63 \\times 10^{-34}\\text{ J}\\cdot\\text{s}$.",
       "options": [
         {
           "letter": "A",
-          "text": "$7.5 \times 10^{14}\text{ Hz}$",
+          "text": "$7.5 \\times 10^{14}\\text{ Hz}$",
           "is_correct": true,
-          "feedback": "Correcto. De c = lambda\nu \\implies\nu = c / lambda = (3 \times 10^8) / (4 \times 10^{-7}) = 7.5 \times 10^{14}\text{ Hz}."
+          "feedback": "Correcto. De c = lambda\nu \\implies\nu = c / lambda = (3 \\times 10^8) / (4 \\times 10^{-7}) = 7.5 \\times 10^{14}\\text{ Hz}."
         },
         {
           "letter": "B",
-          "text": "$1.2 \times 10^{15}\text{ Hz}$",
+          "text": "$1.2 \\times 10^{15}\\text{ Hz}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicación errónea de la velocidad por la longitud de onda."
         },
         {
           "letter": "C",
-          "text": "$7.5 \times 10^{10}\text{ Hz}$",
+          "text": "$7.5 \\times 10^{10}\\text{ Hz}$",
           "is_correct": false,
           "feedback": "Incorrecto. Conversión decimal errónea de nanómetros a metros."
         },
         {
           "letter": "D",
-          "text": "$3.0 \times 10^{8}\text{ Hz}$",
+          "text": "$3.0 \\times 10^{8}\\text{ Hz}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confunde la frecuencia con la velocidad de la luz c."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La relación entre velocidad, frecuencia y longitud de onda para la radiación electromagnética en el vacío es $c = lambda cdot\nu$. Despejando la frecuencia: $\nu = \\frac{c}{lambda} = \\frac{3 \times 10^8\text{ m/s}}{4 \times 10^{-7}\text{ m}} = 7.5 \times 10^{14}\text{ Hz}$.",
+      "explanation": "La relación entre velocidad, frecuencia y longitud de onda para la radiación electromagnética en el vacío es $c = lambda cdot\nu$. Despejando la frecuencia: $\nu = \\frac{c}{lambda} = \\frac{3 \\times 10^8\\text{ m/s}}{4 \\times 10^{-7}\\text{ m}} = 7.5 \\times 10^{14}\\text{ Hz}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -474,7 +474,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Es imposible conocer simultáneamente y con precisión absoluta la posición ($Delta x$) y el momento lineal ($Delta p$) de un electrón.",
+          "text": "Es imposible conocer simultáneamente y con precisión absoluta la posición ($\\Delta x$) y el momento lineal ($\\Delta p$) de un electrón.",
           "is_correct": true,
           "feedback": "Correcto. La naturaleza dual de la materia impone un límite intrínseco al conocimiento simultáneo de posición y momento."
         },
@@ -498,7 +498,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El Principio de Incertidumbre de Heisenberg establece que el producto de las incertidumbres en la posición y en el momento lineal de una partícula tiene un límite inferior fundamental ($Delta x cdot Delta p ge \\frac{h}{4pi}$). Esto reemplaza la noción clásica de trayectorias exactas por orbitales de probabilidad.",
+      "explanation": "El Principio de Incertidumbre de Heisenberg establece que el producto de las incertidumbres en la posición y en el momento lineal de una partícula tiene un límite inferior fundamental ($\\Delta x \\cdot \\Delta p \\ge \\frac{h}{4pi}$). Esto reemplaza la noción clásica de trayectorias exactas por orbitales de probabilidad.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -516,7 +516,7 @@
     {
       "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v12",
       "statement": "¿Por qué en un mismo orbital atómico no pueden existir más de dos electrones y qué condición deben cumplir sus números cuánticos?",
-      "context": "Se analiza el número cuántico de espín ($m_s = pm 1/2$) y el Principio de Exclusión de Pauli para el llenado del orbital $1s$.",
+      "context": "Se analiza el número cuántico de espín ($m_s = \\pm 1/2$) y el Principio de Exclusión de Pauli para el llenado del orbital $1s$.",
       "options": [
         {
           "letter": "A",
@@ -562,35 +562,35 @@
     {
       "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v13",
       "statement": "¿Cuál es la longitud de onda asociada a la naturaleza ondulatoria del electrón?",
-      "context": "Se calcula la longitud de onda de de Broglie para un electrón de masa $m_e = 9.1 \times 10^{-31}\text{ kg}$ que viaja a $2 \times 10^6\text{ m/s}$ en un tubo de rayos catódicos. Dato: $h = 6.63 \times 10^{-34}\text{ J}cdot\text{s}$.",
+      "context": "Se calcula la longitud de onda de de Broglie para un electrón de masa $m_e = 9.1 \\times 10^{-31}\\text{ kg}$ que viaja a $2 \\times 10^6\\text{ m/s}$ en un tubo de rayos catódicos. Dato: $h = 6.63 \\times 10^{-34}\\text{ J}\\cdot\\text{s}$.",
       "options": [
         {
           "letter": "A",
-          "text": "$3.64 \times 10^{-10}\text{ metros}$ ($0.364\text{ nm}$)",
+          "text": "$3.64 \\times 10^{-10}\\text{ metros}$ ($0.364\\text{ nm}$)",
           "is_correct": true,
-          "feedback": "Correcto. lambda = h / (m v) = 6.63 \times 10^{-34} / (9.1 \times 10^{-31} \times 2 \times 10^6) = 3.64 \times 10^{-10}\text{ m}."
+          "feedback": "Correcto. lambda = h / (m v) = 6.63 \\times 10^{-34} / (9.1 \\times 10^{-31} \\times 2 \\times 10^6) = 3.64 \\times 10^{-10}\\text{ m}."
         },
         {
           "letter": "B",
-          "text": "$1.20 \times 10^{-6}\text{ metros}$",
+          "text": "$1.20 \\times 10^{-6}\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Divisor mal multiplicado en el momento lineal."
         },
         {
           "letter": "C",
-          "text": "$5.50 \times 10^{-15}\text{ metros}$",
+          "text": "$5.50 \\times 10^{-15}\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la masa en el denominador."
         },
         {
           "letter": "D",
-          "text": "$6.63 \times 10^{-34}\text{ metros}$",
+          "text": "$6.63 \\times 10^{-34}\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confunde la constante de Planck con la longitud de onda."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La hipótesis de Louis de Broglie asigna una dualidad onda-partícula a toda materia en movimiento: $lambda = \\frac{h}{p} = \\frac{h}{m v}$. Evaluando: $lambda = \\frac{6.63 \times 10^{-34}}{(9.1 \times 10^{-31})(2 \times 10^6)} = 3.64 \times 10^{-10}\text{ m}$.",
+      "explanation": "La hipótesis de Louis de Broglie asigna una dualidad onda-partícula a toda materia en movimiento: $\\lambda = \\frac{h}{p} = \\frac{h}{m v}$. Evaluando: $\\lambda = \\frac{6.63 \\times 10^{-34}}{(9.1 \\times 10^{-31})(2 \\times 10^6)} = 3.64 \\times 10^{-10}\\text{ m}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v16",
-      "statement": "¿Cuál es la longitud de onda $lambda$ del fotón emitido en esta transición electrónica?",
-      "context": "Un electrón en el átomo de Hidrógeno desciende desde el nivel $n=4$ hasta el nivel $n=2$ (Serie de Balmer). Se consulta la constante de Rydberg $R_H = 1.097 \times 10^7\text{ m}^{-1}$.",
+      "statement": "¿Cuál es la longitud de onda $\\lambda$ del fotón emitido en esta transición electrónica?",
+      "context": "Un electrón en el átomo de Hidrógeno desciende desde el nivel $n=4$ hasta el nivel $n=2$ (Serie de Balmer). Se consulta la constante de Rydberg $R_H = 1.097 \\times 10^7\\text{ m}^{-1}$.",
       "options": [
         {
           "letter": "A",
-          "text": "$486\text{ nm}$ ($4.86 \times 10^{-7}\text{ m}$)",
+          "text": "$486\\text{ nm}$ ($4.86 \\times 10^{-7}\\text{ m}$)",
           "is_correct": true,
-          "feedback": "Correcto. Ecuación de Rydberg: 1/lambda = R_H (1/2^2 - 1/4^2) = R_H (3/16) \\implies lambda = 4.86 \times 10^{-7}\text{ m} = 486\text{ nm}."
+          "feedback": "Correcto. Ecuación de Rydberg: 1/lambda = R_H (1/2^2 - 1/4^2) = R_H (3/16) \\implies lambda = 4.86 \\times 10^{-7}\\text{ m} = 486\\text{ nm}."
         },
         {
           "letter": "B",
-          "text": "$656\text{ nm}$",
+          "text": "$656\\text{ nm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la transición de n=3 a n=2 (línea H-alfa)."
         },
         {
           "letter": "C",
-          "text": "$121\text{ nm}$",
+          "text": "$121\\text{ nm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la serie de Lyman (n=2 a n=1) en la zona ultravioleta."
         },
         {
           "letter": "D",
-          "text": "$912\text{ nm}$",
+          "text": "$912\\text{ nm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al límite de la serie de Lyman."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicando la fórmula de Rydberg para el hidrógeno: $\\frac{1}{lambda} = R_H \\left(\\frac{1}{n_1^2} - \\frac{1}{n_2^2}\r\\right)$. Para la línea Balmer $n_1=2, n_2=4$: $\\frac{1}{lambda} = 1.097 \times 10^7 \times \\left(\\frac{3}{16}\r\\right) = 2.056 \times 10^6\text{ m}^{-1} \\implies lambda approx 4.86 \times 10^{-7}\text{ m} = 486\text{ nm}$ (luz verde-azulada).",
+      "explanation": "Aplicando la fórmula de Rydberg para el hidrógeno: $\\frac{1}{lambda} = R_H \\left(\\frac{1}{n_1^2} - \\frac{1}{n_2^2}\\right)$. Para la línea Balmer $n_1=2, n_2=4$: $\\frac{1}{lambda} = 1.097 \\times 10^7 \\times \\left(\\frac{3}{16}\\right) = 2.056 \\times 10^6\\text{ m}^{-1} \\implies \\lambda \\approx 4.86 \\times 10^{-7}\\text{ m} = 486\\text{ nm}$ (luz verde-azulada).",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -820,7 +820,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Reglas de restricción cuántica:\n1) $n = 1, 2, 3...$\n2) $l = 0, 1... (n-1)$\n3) $m_l = -l ... +l$\n4) $m_s = pm 1/2$\nPara $n=2$, el valor máximo permitido para $l$ es $2-1 = 1$. Un juego con $n=2, l=2$ violaría la regla fundamental de subniveles ($2d$ no existe).",
+      "explanation": "Reglas de restricción cuántica:\n1) $n = 1, 2, 3...$\n2) $l = 0, 1... (n-1)$\n3) $m_l = -l ... +l$\n4) $m_s = \\pm 1/2$\nPara $n=2$, el valor máximo permitido para $l$ es $2-1 = 1$. Un juego con $n=2, l=2$ violaría la regla fundamental de subniveles ($2d$ no existe).",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -884,7 +884,7 @@
     {
       "id": "CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v20",
       "statement": "¿Por qué la segunda energía de ionización del Helio es más del doble de la primera energía de ionización?",
-      "context": "Se evalúa la energía de ionización del átomo de Helio ($He, Z=2$). La primera energía de ionización es $24.6\text{ eV}$, mientras que la segunda energía de ionización es $54.4\text{ eV}$.",
+      "context": "Se evalúa la energía de ionización del átomo de Helio ($He, Z=2$). La primera energía de ionización es $24.6\\text{ eV}$, mientras que la segunda energía de ionización es $54.4\\text{ eV}$.",
       "options": [
         {
           "letter": "A",
@@ -912,7 +912,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "En el $He$ neutro ($1s^2$), cada electrón ejerce cierto apantallamiento sobre el otro reduciendo la carga nuclear efectiva $Z_{efectiva} < 2$. Tras remover el primer electrón, el electrón residual en el $He^+$ experimenta la carga completa $Z=+2$ sin ningún tipo de repulsión entre electrones, requiriendo $54.4\text{ eV}$ (cuatro veces la del Hidrógeno: $13.6 \times 2^2 = 54.4\text{ eV}$).",
+      "explanation": "En el $He$ neutro ($1s^2$), cada electrón ejerce cierto apantallamiento sobre el otro reduciendo la carga nuclear efectiva $Z_{efectiva} < 2$. Tras remover el primer electrón, el electrón residual en el $He^+$ experimenta la carga completa $Z=+2$ sin ningún tipo de repulsión entre electrones, requiriendo $54.4\\text{ eV}$ (cuatro veces la del Hidrógeno: $13.6 \\times 2^2 = 54.4\\text{ eV}$).",
       "difficulty": "10",
       "images": [],
       "tags": [],

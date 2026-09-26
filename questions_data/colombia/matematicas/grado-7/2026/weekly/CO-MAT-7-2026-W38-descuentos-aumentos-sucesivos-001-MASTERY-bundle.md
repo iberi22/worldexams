@@ -112,7 +112,7 @@ Aumentar un 10 % es pagar el 110 % del valor: $200 000 × 1,10 = $220 000. El au
 ### Enunciado
 ¿Cuál es el precio final de los tenis?
 ### Opciones
-- [ ] A) $70 000, porque 20 % + 10 % = 30 % y $100 000 − $30 000 = $70 000
+- [ ] A) $70 000, porque 20 \% + 10 \% = 30 \% y $100 000 − $30 000 = $70 000
   <!-- feedback: Incorrecto. Los porcentajes sucesivos no se suman: el segundo se aplica sobre $80 000. -->
 - [ ] B) $80 000, porque solo vale el primer descuento
   <!-- feedback: Incorrecto. Falta aplicar el 10 % adicional sobre los $80 000. -->

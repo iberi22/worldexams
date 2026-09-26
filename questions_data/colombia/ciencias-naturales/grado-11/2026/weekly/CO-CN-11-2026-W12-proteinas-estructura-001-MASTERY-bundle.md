@@ -402,7 +402,7 @@ A pH superior a su punto isoeléctrico las proteínas poseen carga neta negativa
 El modelo A predice el 98% de la estructura de cristalografía. ¿Por qué el principio de minimización de $\Delta G$ es el más acertado?
 
 ### Opciones
-- [x] A) Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($Delta G$).
+- [x] A) Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($\Delta G$).
   <!-- feedback: Correcto. Según el principio de Anfinsen, el estado nativo es termodinámicamente el de menor energía libre. -->
 - [ ] B) Porque los puentes salinos consumen ATP para formarse.
   <!-- feedback: Incorrecto. Los puentes salinos se forman espontáneamente por atracción electrostática. -->
@@ -412,7 +412,7 @@ El modelo A predice el 98% de la estructura de cristalografía. ¿Por qué el pr
   <!-- feedback: Incorrecto. Presentan flexibilidad dinámica necesaria para su función. -->
 
 ### Explicacion Pedagogica
-El estado nativo funcional es el estado termodinámicamente más estable, alcanzado al minimizar la energía libre de Gibbs ($Delta G$).
+El estado nativo funcional es el estado termodinámicamente más estable, alcanzado al minimizar la energía libre de Gibbs ($\Delta G$).
 
 ## Question 18 [D9-D10]
 **ID:** CO-CN-11-2026-W12-proteinas-estructura-001-MASTERY-bundle-v18

@@ -222,7 +222,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por el Teorema del Trabajo y la Energía Cinética: $W = 0 - \frac{1}{2} (1000)(400) = -200,000 \text{ J}$.",
+      "explanation": "Por el Teorema del Trabajo y la Energía Cinética: $W = 0 - \\frac{1}{2} (1000)(400) = -200,000 \\text{ J}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -268,7 +268,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por conservación de energía mecánica: $E_p = E_k Rightarrow v = sqrt{2 cdot 9.8 cdot 20} approx 19.8 \text{ m/s}$.",
+      "explanation": "Por conservación de energía mecánica: $E_p = E_k Rightarrow v = \\sqrt{2 \\cdot 9.8 \\cdot 20} \\approx 19.8 \\text{ m/s}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -314,7 +314,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La energía potencial elástica almacenada en un resorte ideal es $E_p = \frac{1}{2} k x^2 = \frac{1}{2}(400)(0.01) = 2 \text{ J}$.",
+      "explanation": "La energía potencial elástica almacenada en un resorte ideal es $E_p = \\frac{1}{2} k x^2 = \\frac{1}{2}(400)(0.01) = 2 \\text{ J}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -344,7 +344,7 @@
           "letter": "B",
           "text": "$+60 \\text{ Julios}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. La fricción se opone al movimiento, produciendo un ángulo de $180^circ$ y trabajo negativo."
+          "feedback": "Incorrecto. La fricción se opone al movimiento, produciendo un ángulo de $180^\\circ$ y trabajo negativo."
         },
         {
           "letter": "C",
@@ -360,7 +360,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El trabajo de la fricción es disipativo ($W = F_r cdot d cdot cos 180^circ = -60 \text{ J}$).",
+      "explanation": "El trabajo de la fricción es disipativo ($W = F_r \\cdot d \\cdot \\cos 180^\\circ = -60 \\text{ J}$).",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -390,7 +390,7 @@
           "letter": "B",
           "text": "$5000 \\text{ Julios}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Olvidó multiplicar por el factor $\frac{1}{2}$."
+          "feedback": "Incorrecto. Olvidó multiplicar por el factor $\\frac{1}{2}$."
         },
         {
           "letter": "C",
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$E_k = \frac{1}{2} m v^2 = \frac{1}{2}(0.02)(250,000) = 2500 \text{ J}$.",
+      "explanation": "$E_k = \\frac{1}{2} m v^2 = \\frac{1}{2}(0.02)(250,000) = 2500 \\text{ J}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -498,7 +498,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Energía final $mgh = E_{ki} - W_{disipado} = 900 - 100 = 800 \text{ J}$. Luego $h = 800 / (2 \times 10) = 40 \text{ m}$.",
+      "explanation": "Energía final $mgh = E_{ki} - W_{disipado} = 900 - 100 = 800 \\text{ J}$. Luego $h = 800 / (2 \\times 10) = 40 \\text{ m}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El trabajo de una fuerza variable es el área bajo la curva $F(x)$. Para un triángulo, $W = (6 \times 20)/2 = 60 \text{ J}$.",
+      "explanation": "El trabajo de una fuerza variable es el área bajo la curva $F(x)$. Para un triángulo, $W = (6 \\times 20)/2 = 60 \\text{ J}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -590,7 +590,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El trabajo no conservativo disminuye la energía mecánica: $E_{kB} = 150 - (40 \times 2) = 70 \text{ J}$.",
+      "explanation": "El trabajo no conservativo disminuye la energía mecánica: $E_{kB} = 150 - (40 \\times 2) = 70 \\text{ J}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -620,7 +620,7 @@
           "letter": "B",
           "text": "$4.0 \\text{ m/s}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Olvidó dividir entre $\frac{1}{2}$ antes de extraer la raíz."
+          "feedback": "Incorrecto. Olvidó dividir entre $\\frac{1}{2}$ antes de extraer la raíz."
         },
         {
           "letter": "C",
@@ -632,11 +632,11 @@
           "letter": "D",
           "text": "$2.0 \\text{ m/s}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Extrajo la raíz cuadrada de 4 directamente sin considerar el factor $\frac{1}{2}$."
+          "feedback": "Incorrecto. Extrajo la raíz cuadrada de 4 directamente sin considerar el factor $\\frac{1}{2}$."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por conservación de energía: $E_p = E_k Rightarrow 4 = \frac{1}{2}(1)v^2 Rightarrow v = sqrt{8} approx 2.83 \text{ m/s}$.",
+      "explanation": "Por conservación de energía: $E_p = E_k Rightarrow 4 = \\frac{1}{2}(1)v^2 Rightarrow v = \\sqrt{8} \\approx 2.83 \\text{ m/s}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,7 +728,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Pérdida energética $= E_{mA} - E_{mB} = 17,640 - 12,630 = 5010 \text{ J}$.",
+      "explanation": "Pérdida energética $= E_{mA} - E_{mB} = 17,640 - 12,630 = 5010 \\text{ J}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -774,7 +774,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Trabajo de frenado $= Delta E_k = 2.0 \text{ MJ}$. Con 70% de eficiencia, se recargan $1.4 \text{ MJ}$.",
+      "explanation": "Trabajo de frenado $= \\Delta E_k = 2.0 \\text{ MJ}$. Con 70% de eficiencia, se recargan $1.4 \\text{ MJ}$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -912,7 +912,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por conservación de momento lineal $v_f = 2 \text{ m/s}$. $E_{ki} = 40 \text{ kJ}$, $E_{kf} = 20 \text{ kJ}$, perdiéndose el 50% en deformación y calor.",
+      "explanation": "Por conservación de momento lineal $v_f = 2 \\text{ m/s}$. $E_{ki} = 40 \\text{ kJ}$, $E_{kf} = 20 \\text{ kJ}$, perdiéndose el 50% en deformación y calor.",
       "difficulty": "10",
       "images": [],
       "tags": [],

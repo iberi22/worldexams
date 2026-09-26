@@ -44,7 +44,7 @@ Este bundle contiene 20 preguntas de **repaso integrador del Periodo 4** (probab
   <!-- feedback: Calculó el promedio aritmético (40/5 = 8) pero lo confundió con 9 por un error de adición. -->
 
 ### Explicacion Pedagogica
-La mediana de un número impar de datos ordenados de menor a mayor es la observación que ocupa exactamente la posición central $\frac{n+1}{2} = \frac{5+1}{2} = 3^{	ext{er}}$ dato, el cual es 8.
+La mediana de un número impar de datos ordenados de menor a mayor es la observación que ocupa exactamente la posición central $\frac{n+1}{2} = \frac{5+1}{2} = 3^{\text{er}}$ dato, el cual es 8.
 
 ## Question 2 [D3-D4]
 **ID:** CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v2
@@ -67,7 +67,7 @@ Si se extrae una ficha al azar, ¿cuál es la probabilidad de que sea de color a
   <!-- feedback: Dividió las fichas azules entre las rojas en lugar del total. -->
 
 ### Explicacion Pedagogica
-$P(	ext{Azul}) = \frac{	ext{fichas azules}}{	ext{fichas totales}} = \frac{4}{6 + 4} = \frac{4}{10} = \frac{2}{5} = 0.40$.
+$P(\text{Azul}) = \frac{\text{fichas azules}}{\text{fichas totales}} = \frac{4}{6 + 4} = \frac{4}{10} = \frac{2}{5} = 0.40$.
 
 ## Question 3 [D3-D4]
 **ID:** CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v3
@@ -114,7 +114,7 @@ Como el orden no importa en una delegación sin cargos, se usan combinaciones si
 
 ### Explicacion Pedagogica
 Es una progresión geométrica con $a_1 = 2$ y $r = \frac{6}{2} = 3$.
-El quinto término es $a_5 = a_4 cdot r = 54   imes 3 = 162$.
+El quinto término es $a_5 = a_4 \cdot r = 54   imes 3 = 162$.
 
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v5
@@ -137,7 +137,7 @@ Si se elige un estudiante al azar, ¿cuál es la probabilidad de que juegue al m
   <!-- feedback: Calculó solo la probabilidad de la intersección (10/40 = 1/4). -->
 
 ### Explicacion Pedagogica
-Por inclusión y exclusión: $|	ext{Fútbol} cup	ext{Voleibol}| = 25 + 20 - 10 = 35$.
+Por inclusión y exclusión: $|\text{Fútbol} cup\text{Voleibol}| = 25 + 20 - 10 = 35$.
 $P = \frac{35}{40} = \frac{7}{8} = 0.875$.
 
 ## Question 6 [D5-D6]
@@ -218,20 +218,20 @@ $a_{10} = a_1 + 9d Rightarrow 41 = 5 + 9d Rightarrow 36 = 9d Rightarrow d = 4$.
 **Contexto:** Un intervalo de confianza del 95% para la proporción de ciudadanos que reciclan en Cartagena es $[0.42; 0.58]$.
 
 ### Enunciado
-¿Cuál es la proporción muestral $hat{p}$ y el margen de error $E$?
+¿Cuál es la proporción muestral $\hat{p}$ y el margen de error $E$?
 
 ### Opciones
-- [x] A) $hat{p} = 0.50$ y $E = 0.08$
+- [x] A) $\hat{p} = 0.50$ y $E = 0.08$
   <!-- feedback: p_hat = (0.42 + 0.58)/2 = 0.50. E = (0.58 - 0.42)/2 = 0.08. -->
-- [ ] B) $hat{p} = 0.50$ y $E = 0.16$
+- [ ] B) $\hat{p} = 0.50$ y $E = 0.16$
   <!-- feedback: Tomó la amplitud total del intervalo (0.16) como el margen de error. -->
-- [ ] C) $hat{p} = 0.42$ y $E = 0.08$
+- [ ] C) $\hat{p} = 0.42$ y $E = 0.08$
   <!-- feedback: Tomó el límite inferior como la proporción muestral. -->
-- [ ] D) $hat{p} = 0.58$ y $E = 0.08$
+- [ ] D) $\hat{p} = 0.58$ y $E = 0.08$
   <!-- feedback: Tomó el límite superior como la proporción muestral. -->
 
 ### Explicacion Pedagogica
-El estimador es el punto medio $hat{p} = \frac{0.42 + 0.58}{2} = 0.50$, y el margen de error es la semiamplitud $E = \frac{0.58 - 0.42}{2} = 0.08$.
+El estimador es el punto medio $\hat{p} = \frac{0.42 + 0.58}{2} = 0.50$, y el margen de error es la semiamplitud $E = \frac{0.58 - 0.42}{2} = 0.08$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v10
@@ -300,14 +300,14 @@ Teorema de Bayes: $P(B|D) = \frac{(0.05)(0.40)}{(0.02)(0.60) + (0.05)(0.40)} = \
   <!-- feedback: Multiplicó por 16 por error. -->
 
 ### Explicacion Pedagogica
-Término con $y^2$: $\binom{5}{2} (2x)^{5-2} y^2 = 10 cdot (2x)^3 y^2 = 10 cdot 8x^3 y^2 = 80x^3 y^2$.
+Término con $y^2$: $\binom{5}{2} (2x)^{5-2} y^2 = 10 \cdot (2x)^3 y^2 = 10 \cdot 8x^3 y^2 = 80x^3 y^2$.
 
 ## Question 13 [D7-D8]
 **ID:** CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **ICFES:** Aleatorio
 **Expected_Success:** 0.60
-**Contexto:** Para evaluar si un tratamiento reduce la presión arterial en Cundinamarca, se plantea $H_0: mu ge 130$ vs $H_a: mu < 130$. El estadístico calculado es $Z_{calc} = -2.15$ y el valor crítico al 5% es $Z_{crit} = -1.645$.
+**Contexto:** Para evaluar si un tratamiento reduce la presión arterial en Cundinamarca, se plantea $H_0: \mu \ge 130$ vs $H_a: \mu < 130$. El estadístico calculado es $Z_{calc} = -2.15$ y el valor crítico al 5% es $Z_{crit} = -1.645$.
 
 ### Enunciado
 ¿Cuál es la conclusión estadística a un nivel de significancia del 5%?
@@ -330,7 +330,7 @@ Dado que $Z_{calc} = -2.15 < Z_{crit} = -1.645$, el valor se sitúa en la regió
 **Bloom:** Analyze
 **ICFES:** Numerico
 **Expected_Success:** 0.60
-**Contexto:** La suma infinita de una serie geométrica es $S_infty = 20$ y su primer término es $a_1 = 5$.
+**Contexto:** La suma infinita de una serie geométrica es $S_\infty = 20$ y su primer término es $a_1 = 5$.
 
 ### Enunciado
 ¿Cuál es la razón común $r$ de esta serie geométrica?
@@ -346,7 +346,7 @@ Dado que $Z_{calc} = -2.15 < Z_{crit} = -1.645$, el valor se sitúa en la regió
   <!-- feedback: Calculó 16 / 20 de forma errónea. -->
 
 ### Explicacion Pedagogica
-$S_infty = \frac{a_1}{1 - r} Rightarrow 20 = \frac{5}{1 - r} Rightarrow 1 - r = \frac{5}{20} = 0.25 Rightarrow r = 0.75$.
+$S_\infty = \frac{a_1}{1 - r} Rightarrow 20 = \frac{5}{1 - r} Rightarrow 1 - r = \frac{5}{20} = 0.25 Rightarrow r = 0.75$.
 
 ## Question 15 [D7-D8]
 **ID:** CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v15
@@ -392,7 +392,7 @@ $PC_n = (n-1)! Rightarrow PC_6 = (6-1)! = 5! = 120$.
   <!-- feedback: Calculó 1 - 1/4 por error. -->
 
 ### Explicacion Pedagogica
-Por el complemento: $P(	ext{al menos 1 cara}) = 1 - P(	ext{ninguna cara}) = 1 - left(\frac{1}{2}
+Por el complemento: $P(\text{al menos 1 cara}) = 1 - P(\text{ninguna cara}) = 1 - left(\frac{1}{2}
 ight)^4 = 1 - \frac{1}{16} = \frac{15}{16}$.
 
 ## Question 17 [D9-D10]
@@ -439,7 +439,7 @@ Barras y estrellas: $\binom{n+k-1}{n} = \binom{6+4-1}{6} = \binom{9}{6} = \binom
   <!-- feedback: Valor asignado sin cálculo cuadrático. -->
 
 ### Explicacion Pedagogica
-$n = \frac{Z^2 cdot p(1-p)}{E^2} = \frac{(1.96)^2 (0.25)}{(0.02)^2} = \frac{0.9604}{0.0004} = 2401$.
+$n = \frac{Z^2 \cdot p(1-p)}{E^2} = \frac{(1.96)^2 (0.25)}{(0.02)^2} = \frac{0.9604}{0.0004} = 2401$.
 
 ## Question 19 [D9-D10]
 **ID:** CO-MAT-11-2026-W40-repaso-p4-integrador-001-MASTERY-bundle-v19
@@ -488,6 +488,6 @@ ight) = \frac{25}{36}   imes \frac{1}{6} = \frac{25}{216}$.
   <!-- feedback: Corresponde a 1 + x^2 + x^4 + ... -->
 
 ### Explicacion Pedagogica
-Derivando término a término la serie geométrica $\frac{1}{1-x} = sum_{n=0}^infty x^n$:
+Derivando término a término la serie geométrica $\frac{1}{1-x} = \sum_{n=0}^\infty x^n$:
 $\frac{d}{dx} left( \frac{1}{1-x}
 ight) = \frac{1}{(1-x)^2} = sum_{n=1}^infty n x^{n-1} = 1 + 2x + 3x^2 + 4x^3 + dots$

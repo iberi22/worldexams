@@ -220,16 +220,16 @@ El efecto del ion común desplaza el equilibrio de solubilidad hacia la formaci�
 
 ### Opciones
 - [x] A) $K_p = K_c$, porque $\Delta n_{gases} = 2 - (1+1) = 0$.
-  <!-- feedback: Correcto. Como $Delta n = 0$, $R T^0 = 1$, por ende $K_p = K_c$. -->
+  <!-- feedback: Correcto. Como $\Delta n = 0$, $R T^0 = 1$, por ende $K_p = K_c$. -->
 - [ ] B) $K_p = K_c \cdot (RT)$.
-  <!-- feedback: Incorrecto. Aplica cuando $Delta n = 1$. -->
+  <!-- feedback: Incorrecto. Aplica cuando $\Delta n = 1$. -->
 - [ ] C) $K_p = K_c / (RT)^2$.
   <!-- feedback: Incorrecto. No hay variación en moles de gas. -->
 - [ ] D) $K_p$ no se puede medir en gases.
   <!-- feedback: Incorrecto. $K_p$ mide presiones parciales. -->
 
 ### Explicacion Pedagogica
-De $K_p = K_c (RT)^{Delta n}$, al ser $Delta n = 0$, se cumple $K_p = K_c$.
+De $K_p = K_c (RT)^{\Delta n}$, al ser $\Delta n = 0$, se cumple $K_p = K_c$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v10
@@ -266,7 +266,7 @@ La remoción de $CO_2/H_2CO_3$ consume $H^+$, elevando el pH sanguíneo (alcalos
 
 ### Opciones
 - [x] A) $0.75 \text{ M}$.
-  <!-- feedback: Correcto. $K_c = [4x^2]/(2-x) = 0.5 Rightarrow 4x^2 + 0.5x - 1 = 0 Rightarrow x approx 0.44 	ext{ M} Rightarrow [B] = 2x approx 0.75 	ext{ M}$. -->
+  <!-- feedback: Correcto. $K_c = [4x^2]/(2-x) = 0.5 Rightarrow 4x^2 + 0.5x - 1 = 0 Rightarrow x \approx 0.44 \text{ M} Rightarrow [B] = 2x \approx 0.75 \text{ M}$. -->
 - [ ] B) $2.00 \text{ M}$.
   <!-- feedback: Incorrecto. Asumió conversión completa. -->
 - [ ] C) $1.00 \text{ M}$.
@@ -275,7 +275,7 @@ La remoción de $CO_2/H_2CO_3$ consume $H^+$, elevando el pH sanguíneo (alcalos
   <!-- feedback: Incorrecto. Olvidó multiplicar $x$ por 2 para el compuesto B. -->
 
 ### Explicacion Pedagogica
-Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x approx 0.75 	ext{ M}$.
+Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x \approx 0.75 \text{ M}$.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v12
@@ -298,7 +298,7 @@ Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x approx 0
   <!-- feedback: Incorrecto. Dividió $K_{sp}$ entre 2. -->
 
 ### Explicacion Pedagogica
-Para una sal 1:1, $K_{sp} = s^2 Rightarrow s = sqrt{K_{sp}} = 1.34 	imes 10^{-5} 	ext{ M}$.
+Para una sal 1:1, $K_{sp} = s^2 Rightarrow s = \sqrt{K_{sp}} = 1.34 \times 10^{-5} \text{ M}$.
 
 ## Question 13 [D7-D8]
 **ID:** CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v13
@@ -328,23 +328,23 @@ Las concentraciones de sólidos puros se consideran constantes y no forman parte
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.45
-**Contexto:** En Pasto se analiza la relación $\Delta G^circ = -RT \ln K$.
+**Contexto:** En Pasto se analiza la relación $\Delta G^\circ = -RT \ln K$.
 
 ### Enunciado
-Si a $298 \text{ K}$ una reacción presenta $K_c = 1.0 \times 10^5$, ¿qué se concluye sobre $\Delta G^circ$ y la composición en equilibrio?
+Si a $298 \text{ K}$ una reacción presenta $K_c = 1.0 \times 10^5$, ¿qué se concluye sobre $\Delta G^\circ$ y la composición en equilibrio?
 
 ### Opciones
-- [x] A) $\Delta G^circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.
-  <!-- feedback: Correcto. Como $K > 1$, $ln K > 0 Rightarrow Delta G^circ < 0$, favoreciendo productos. -->
-- [ ] B) $\Delta G^circ > 0$ y predominan reactivos.
-  <!-- feedback: Incorrecto. $K > 1$ implica $Delta G^circ < 0$. -->
-- [ ] C) $\Delta G^circ = 0$ y no hay productos.
-  <!-- feedback: Incorrecto. $Delta G^circ = 0$ ocurre solo cuando $K = 1$. -->
+- [x] A) $\Delta G^\circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.
+  <!-- feedback: Correcto. Como $K > 1$, $ln K > 0 Rightarrow \Delta G^\circ < 0$, favoreciendo productos. -->
+- [ ] B) $\Delta G^\circ > 0$ y predominan reactivos.
+  <!-- feedback: Incorrecto. $K > 1$ implica $\Delta G^\circ < 0$. -->
+- [ ] C) $\Delta G^\circ = 0$ y no hay productos.
+  <!-- feedback: Incorrecto. $\Delta G^\circ = 0$ ocurre solo cuando $K = 1$. -->
 - [ ] D) La reacción no puede ocurrir.
   <!-- feedback: Incorrecto. Es altamente espontánea en estado estándar. -->
 
 ### Explicacion Pedagogica
-Un valor $K gg 1$ genera $Delta G^circ < 0$, indicando un equilibrio que favorece ampliamente la formación de productos.
+Un valor $K gg 1$ genera $\Delta G^\circ < 0$, indicando un equilibrio que favorece ampliamente la formación de productos.
 
 ## Question 15 [D7-D8]
 **ID:** CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v15
@@ -390,14 +390,14 @@ El equilibrio químico/físico requiere un sistema cerrado para evitar la pérdi
   <!-- feedback: Incorrecto. Usó el valor de pH directamente. -->
 
 ### Explicacion Pedagogica
-$[H^+] = 10^{-3} 	ext{ M}$. $K_a = (10^{-3})^2 / 0.1 = 10^{-5}$.
+$[H^+] = 10^{-3} \text{ M}$. $K_a = (10^{-3})^2 / 0.1 = 10^{-5}$.
 
 ## Question 17 [D9-D10]
 **ID:** CO-CN-11-2026-W18-equilibrio-quimico-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **ICFES:** Indagación
 **Expected_Success:** 0.35
-**Contexto:** En una planta química en Barranquilla se evalúa optimizar la síntesis del metanol: $CO_{(g)} + 2H_{2(g)} \rightleftharpoons CH_3OH_{(g)}$ ($Delta H < 0$).
+**Contexto:** En una planta química en Barranquilla se evalúa optimizar la síntesis del metanol: $CO_{(g)} + 2H_{2(g)} \rightleftharpoons CH_3OH_{(g)}$ ($\Delta H < 0$).
 
 ### Enunciado
 ¿Qué combinación de presión y temperatura maximiza el rendimiento termodinámico en el equilibrio?

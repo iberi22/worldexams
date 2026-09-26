@@ -750,7 +750,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($Delta G$).",
+          "text": "Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($\\Delta G$).",
           "is_correct": true,
           "feedback": "Correcto. Según el principio de Anfinsen, el estado nativo es termodinámicamente el de menor energía libre."
         },
@@ -774,7 +774,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El estado nativo funcional es el estado termodinámicamente más estable, alcanzado al minimizar la energía libre de Gibbs ($Delta G$).",
+      "explanation": "El estado nativo funcional es el estado termodinámicamente más estable, alcanzado al minimizar la energía libre de Gibbs ($\\Delta G$).",
       "difficulty": "10",
       "images": [],
       "tags": [],

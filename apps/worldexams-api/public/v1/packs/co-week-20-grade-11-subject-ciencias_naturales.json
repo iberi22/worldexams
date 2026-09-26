@@ -212,7 +212,7 @@
           "letter": "C",
           "text": "El calor del agua no se puede medir en Julios.",
           "is_correct": false,
-          "feedback": "Incorrecto. El experimento de Joule demostró la equivalencia mecánica del calor ($1 \text{ cal} = 4.184 \text{ J}$)."
+          "feedback": "Incorrecto. El experimento de Joule demostró la equivalencia mecánica del calor ($1 \\text{ cal} = 4.184 \\text{ J}$)."
         },
         {
           "letter": "D",
@@ -222,7 +222,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibles de energía ($1 \text{ cal} = 4.184 \text{ J}$).",
+      "explanation": "La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibles de energía ($1 \\text{ cal} = 4.184 \\text{ J}$).",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -268,7 +268,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El pH mide la $[H^+]$ libre. $pH = 1 Rightarrow [H^+] = 10^{-1} \text{ M}$; $pH = 3 Rightarrow [H^+] = 10^{-3} \text{ M}$.",
+      "explanation": "El pH mide la $[H^+]$ libre. $pH = 1 Rightarrow [H^+] = 10^{-1} \\text{ M}$; $pH = 3 Rightarrow [H^+] = 10^{-3} \\text{ M}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -314,7 +314,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$F = mg = 1000 \text{ N}$. $P = F cdot v Rightarrow v = P/F = 1000/1000 = 1.0 \text{ m/s}$.",
+      "explanation": "$F = mg = 1000 \\text{ N}$. $P = F \\cdot v Rightarrow v = P/F = 1000/1000 = 1.0 \\text{ m/s}$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -342,21 +342,21 @@
         },
         {
           "letter": "B",
-          "text": "A $90^circ\text{C}$ la enzima es 100 veces más rápida.",
+          "text": "A $90^\\circ\\text{C}$ la enzima es 100 veces más rápida.",
           "is_correct": false,
-          "feedback": "Incorrecto. A $90^circ\text{C}$ se desnaturaliza perdiendo su actividad."
+          "feedback": "Incorrecto. A $90^\\circ\\text{C}$ se desnaturaliza perdiendo su actividad."
         },
         {
           "letter": "C",
-          "text": "A $0^circ\text{C}$ se destruyen los enlaces peptídicos.",
+          "text": "A $0^\\circ\\text{C}$ se destruyen los enlaces peptídicos.",
           "is_correct": false,
           "feedback": "Incorrecto. El frío no rompe enlaces peptídicos."
         },
         {
           "letter": "D",
-          "text": "En ambos tubos la velocidad de reacción es idéntica a $37^circ\text{C}$.",
+          "text": "En ambos tubos la velocidad de reacción es idéntica a $37^\\circ\\text{C}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. $37^circ\text{C}$ es la temperatura óptima fisiológica."
+          "feedback": "Incorrecto. $37^\\circ\\text{C}$ es la temperatura óptima fisiológica."
         }
       ],
       "correct_answer": "A",
@@ -396,7 +396,7 @@
           "letter": "C",
           "text": "Aumentar la presión para favorecer los productos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Como $Delta n = 0$, la presión no modifica el equilibrio."
+          "feedback": "Incorrecto. Como $\\Delta n = 0$, la presión no modifica el equilibrio."
         },
         {
           "letter": "D",
@@ -406,7 +406,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "En reacciones exotérmicas, bajar T desplaza a productos. Como $Delta n_{gases} = 0$, los cambios de P no tienen efecto.",
+      "explanation": "En reacciones exotérmicas, bajar T desplaza a productos. Como $\\Delta n_{gases} = 0$, los cambios de P no tienen efecto.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -434,7 +434,7 @@
         },
         {
           "letter": "B",
-          "text": "Es un proceso endotérmico ($Delta H > 0$).",
+          "text": "Es un proceso endotérmico ($\\Delta H > 0$).",
           "is_correct": false,
           "feedback": "Incorrecto. Los procesos endotérmicos absorben calor y enfrían el medio."
         },
@@ -452,7 +452,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El aumento de temperatura del medio indica que la reacción o proceso fisicoquímico es exotérmico ($Delta H < 0$).",
+      "explanation": "El aumento de temperatura del medio indica que la reacción o proceso fisicoquímico es exotérmico ($\\Delta H < 0$).",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -482,7 +482,7 @@
           "letter": "B",
           "text": "Hizo que la reacción pasara de endotérmica a exotérmica.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las enzimas no alteran la entalpía inicial ni final ($Delta H$)."
+          "feedback": "Incorrecto. Las enzimas no alteran la entalpía inicial ni final ($\\Delta H$)."
         },
         {
           "letter": "C",
@@ -498,7 +498,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Los catalizadores biológicos disminuyen la energía de activación ($E_a$) acelerando la velocidad sin cambiar $Delta G$ ni $K_{eq}$.",
+      "explanation": "Los catalizadores biológicos disminuyen la energía de activación ($E_a$) acelerando la velocidad sin cambiar $\\Delta G$ ni $K_{eq}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -534,7 +534,7 @@
           "letter": "C",
           "text": "$80 \\text{ Vatios}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al no multiplicar por $\frac{1}{2}$ en la energía cinética."
+          "feedback": "Incorrecto. Error al no multiplicar por $\\frac{1}{2}$ en la energía cinética."
         },
         {
           "letter": "D",
@@ -544,7 +544,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$Delta E_k = \frac{1}{2}(4)(100) = 200 \text{ J}$. Potencia $= 200 \text{ J} / 5 \text{ s} = 40 \text{ W}$.",
+      "explanation": "$\\Delta E_k = \\frac{1}{2}(4)(100) = 200 \\text{ J}$. Potencia $= 200 \\text{ J} / 5 \\text{ s} = 40 \\text{ W}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -590,7 +590,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Molaridad $= Pi / RT = 0.001 \text{ M}$. Moles en $0.1 \text{ L} = 10^{-4} \text{ mol}$. $MM = 2 \text{ g} / 10^{-4} \text{ mol} = 20,000 \text{ g/mol}$.",
+      "explanation": "Molaridad $= Pi / RT = 0.001 \\text{ M}$. Moles en $0.1 \\text{ L} = 10^{-4} \\text{ mol}$. $MM = 2 \\text{ g} / 10^{-4} \\text{ mol} = 20,000 \\text{ g/mol}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -624,7 +624,7 @@
         },
         {
           "letter": "C",
-          "text": "El agua a $40^circ\text{C}$ reacciona químicamente convirtiendo el $O_2$ en sales.",
+          "text": "El agua a $40^\\circ\\text{C}$ reacciona químicamente convirtiendo el $O_2$ en sales.",
           "is_correct": false,
           "feedback": "Incorrecto. El oxígeno no reacciona con el agua neutra pura."
         },
@@ -636,7 +636,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La disolución de un gas libera calor ($Delta H_{sol} < 0$). Bajar la temperatura favorece la disolución del gas en agua.",
+      "explanation": "La disolución de un gas libera calor ($\\Delta H_{sol} < 0$). Bajar la temperatura favorece la disolución del gas en agua.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -666,13 +666,13 @@
           "letter": "B",
           "text": "$500 \\text{ Julios}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Olvidó multiplicar por el coseno del ángulo de $60^circ$."
+          "feedback": "Incorrecto. Olvidó multiplicar por el coseno del ángulo de $60^\\circ$."
         },
         {
           "letter": "C",
           "text": "$433 \\text{ Julios}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Usó el seno de $60^circ$ en lugar del coseno."
+          "feedback": "Incorrecto. Usó el seno de $60^\\circ$ en lugar del coseno."
         },
         {
           "letter": "D",
@@ -682,7 +682,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "$W = F cdot d cdot cos 60^circ = 50 \times 10 \times 0.5 = 250 \text{ J}$.",
+      "explanation": "$W = F \\cdot d \\cdot \\cos 60^\\circ = 50 \\times 10 \\times 0.5 = 250 \\text{ J}$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -884,7 +884,7 @@
     {
       "id": "CO-CN-11-2026-W20-repaso-p2-001-MASTERY-bundle-v20",
       "statement": "Si ocurre una fuga y el amoníaco líquido se evapora rápidamente a la atmósfera, ¿por qué el tanque sufre un enfriamiento criogénico severo?",
-      "context": "Se evalúa la seguridad de tanques industriales de amoníaco en Cartagena considerando el equilibrio de evaporación $NH_{3(l)} \\rightleftharpoons NH_{3(g)}$ ($Delta H_{vap} = +23.3 \\text{ kJ/mol}$).",
+      "context": "Se evalúa la seguridad de tanques industriales de amoníaco en Cartagena considerando el equilibrio de evaporación $NH_{3(l)} \\rightleftharpoons NH_{3(g)}$ ($\\Delta H_{vap} = +23.3 \\text{ kJ/mol}$).",
       "options": [
         {
           "letter": "A",

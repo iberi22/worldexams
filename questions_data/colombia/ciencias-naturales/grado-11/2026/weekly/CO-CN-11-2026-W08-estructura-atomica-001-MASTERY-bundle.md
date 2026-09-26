@@ -212,28 +212,28 @@ La Regla de Hund establece que la distribución electrónica más estable en orb
 **Bloom:** Apply
 **ICFES:** Indagación
 **Expected_Success:** 0.65
-**Contexto:** Un fotón de luz violeta emitido por una lámpara de hidrógeno en Bucaramanga tiene una longitud de onda $lambda = 400	ext{ nm}$ ($4 	imes 10^{-7}	ext{ m}$). Datos: $c = 3 	imes 10^8	ext{ m/s}$, $h = 6.63 	imes 10^{-34}	ext{ J}cdot	ext{s}$.
+**Contexto:** Un fotón de luz violeta emitido por una lámpara de hidrógeno en Bucaramanga tiene una longitud de onda $\lambda = 400\text{ nm}$ ($4 \times 10^{-7}\text{ m}$). Datos: $c = 3 \times 10^8\text{ m/s}$, $h = 6.63 \times 10^{-34}\text{ J}\cdot\text{s}$.
 
 ### Enunciado
 ¿Cuál es la frecuencia $
 u$ de esta radiación luminosa?
 
 ### Opciones
-- [x] A) $7.5 	imes 10^{14}	ext{ Hz}$
+- [x] A) $7.5 \times 10^{14}\text{ Hz}$
   <!-- feedback: Correcto. De c = lambda
 u \implies
-u = c / lambda = (3 	imes 10^8) / (4 	imes 10^{-7}) = 7.5 	imes 10^{14}	ext{ Hz}. -->
-- [ ] B) $1.2 	imes 10^{15}	ext{ Hz}$
+u = c / lambda = (3 \times 10^8) / (4 \times 10^{-7}) = 7.5 \times 10^{14}\text{ Hz}. -->
+- [ ] B) $1.2 \times 10^{15}\text{ Hz}$
   <!-- feedback: Incorrecto. Multiplicación errónea de la velocidad por la longitud de onda. -->
-- [ ] C) $7.5 	imes 10^{10}	ext{ Hz}$
+- [ ] C) $7.5 \times 10^{10}\text{ Hz}$
   <!-- feedback: Incorrecto. Conversión decimal errónea de nanómetros a metros. -->
-- [ ] D) $3.0 	imes 10^{8}	ext{ Hz}$
+- [ ] D) $3.0 \times 10^{8}\text{ Hz}$
   <!-- feedback: Incorrecto. Confunde la frecuencia con la velocidad de la luz c. -->
 
 ### Explicacion Pedagogica
 La relación entre velocidad, frecuencia y longitud de onda para la radiación electromagnética en el vacío es $c = lambda cdot
 u$. Despejando la frecuencia: $
-u = \frac{c}{lambda} = \frac{3 	imes 10^8	ext{ m/s}}{4 	imes 10^{-7}	ext{ m}} = 7.5 	imes 10^{14}	ext{ Hz}$.
+u = \frac{c}{lambda} = \frac{3 \times 10^8\text{ m/s}}{4 \times 10^{-7}\text{ m}} = 7.5 \times 10^{14}\text{ Hz}$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v10
@@ -269,7 +269,7 @@ Dos especies son isoelectrónicas cuando poseen exactamente el mismo número de 
 ¿Cuál es la implicación fundamental del Principio de Incertidumbre de Heisenberg?
 
 ### Opciones
-- [x] A) Es imposible conocer simultáneamente y con precisión absoluta la posición ($Delta x$) y el momento lineal ($Delta p$) de un electrón.
+- [x] A) Es imposible conocer simultáneamente y con precisión absoluta la posición ($\Delta x$) y el momento lineal ($\Delta p$) de un electrón.
   <!-- feedback: Correcto. La naturaleza dual de la materia impone un límite intrínseco al conocimiento simultáneo de posición y momento. -->
 - [ ] B) El electrón se mueve en órbitas circulares planas perfectamente definidas alrededor del núcleo.
   <!-- feedback: Incorrecto. Esta idea determinista pertenece al modelo clásico de Bohr superado por la mecánica cuántica. -->
@@ -279,14 +279,14 @@ Dos especies son isoelectrónicas cuando poseen exactamente el mismo número de 
   <!-- feedback: Incorrecto. El principio no establece transmutación de masa en fotones por medición. -->
 
 ### Explicacion Pedagogica
-El Principio de Incertidumbre de Heisenberg establece que el producto de las incertidumbres en la posición y en el momento lineal de una partícula tiene un límite inferior fundamental ($Delta x cdot Delta p ge \frac{h}{4pi}$). Esto reemplaza la noción clásica de trayectorias exactas por orbitales de probabilidad.
+El Principio de Incertidumbre de Heisenberg establece que el producto de las incertidumbres en la posición y en el momento lineal de una partícula tiene un límite inferior fundamental ($\Delta x \cdot \Delta p \ge \frac{h}{4pi}$). Esto reemplaza la noción clásica de trayectorias exactas por orbitales de probabilidad.
 
 ## Question 12 [D7-D8]
 **ID:** CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.55
-**Contexto:** Se analiza el número cuántico de espín ($m_s = pm 1/2$) y el Principio de Exclusión de Pauli para el llenado del orbital $1s$.
+**Contexto:** Se analiza el número cuántico de espín ($m_s = \pm 1/2$) y el Principio de Exclusión de Pauli para el llenado del orbital $1s$.
 
 ### Enunciado
 ¿Por qué en un mismo orbital atómico no pueden existir más de dos electrones y qué condición deben cumplir sus números cuánticos?
@@ -309,23 +309,23 @@ El Principio de Exclusión de Pauli afirma que dos fermiones (como los electrone
 **Bloom:** Analyze
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.52
-**Contexto:** Se calcula la longitud de onda de de Broglie para un electrón de masa $m_e = 9.1 	imes 10^{-31}	ext{ kg}$ que viaja a $2 	imes 10^6	ext{ m/s}$ en un tubo de rayos catódicos. Dato: $h = 6.63 	imes 10^{-34}	ext{ J}cdot	ext{s}$.
+**Contexto:** Se calcula la longitud de onda de de Broglie para un electrón de masa $m_e = 9.1 \times 10^{-31}\text{ kg}$ que viaja a $2 \times 10^6\text{ m/s}$ en un tubo de rayos catódicos. Dato: $h = 6.63 \times 10^{-34}\text{ J}\cdot\text{s}$.
 
 ### Enunciado
 ¿Cuál es la longitud de onda asociada a la naturaleza ondulatoria del electrón?
 
 ### Opciones
-- [x] A) $3.64 	imes 10^{-10}	ext{ metros}$ ($0.364	ext{ nm}$)
-  <!-- feedback: Correcto. lambda = h / (m v) = 6.63 	imes 10^{-34} / (9.1 	imes 10^{-31} 	imes 2 	imes 10^6) = 3.64 	imes 10^{-10}	ext{ m}. -->
-- [ ] B) $1.20 	imes 10^{-6}	ext{ metros}$
+- [x] A) $3.64 \times 10^{-10}\text{ metros}$ ($0.364\text{ nm}$)
+  <!-- feedback: Correcto. lambda = h / (m v) = 6.63 \times 10^{-34} / (9.1 \times 10^{-31} \times 2 \times 10^6) = 3.64 \times 10^{-10}\text{ m}. -->
+- [ ] B) $1.20 \times 10^{-6}\text{ metros}$
   <!-- feedback: Incorrecto. Divisor mal multiplicado en el momento lineal. -->
-- [ ] C) $5.50 	imes 10^{-15}	ext{ metros}$
+- [ ] C) $5.50 \times 10^{-15}\text{ metros}$
   <!-- feedback: Incorrecto. Se omitió la masa en el denominador. -->
-- [ ] D) $6.63 	imes 10^{-34}	ext{ metros}$
+- [ ] D) $6.63 \times 10^{-34}\text{ metros}$
   <!-- feedback: Incorrecto. Confunde la constante de Planck con la longitud de onda. -->
 
 ### Explicacion Pedagogica
-La hipótesis de Louis de Broglie asigna una dualidad onda-partícula a toda materia en movimiento: $lambda = \frac{h}{p} = \frac{h}{m v}$. Evaluando: $lambda = \frac{6.63 	imes 10^{-34}}{(9.1 	imes 10^{-31})(2 	imes 10^6)} = 3.64 	imes 10^{-10}	ext{ m}$.
+La hipótesis de Louis de Broglie asigna una dualidad onda-partícula a toda materia en movimiento: $\lambda = \frac{h}{p} = \frac{h}{m v}$. Evaluando: $\lambda = \frac{6.63 \times 10^{-34}}{(9.1 \times 10^{-31})(2 \times 10^6)} = 3.64 \times 10^{-10}\text{ m}$.
 
 ## Question 14 [D7-D8]
 **ID:** CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v14
@@ -380,23 +380,23 @@ u$. Aumentar la intensidad incrementa la masa de fotones incidentes por segundo 
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.48
-**Contexto:** Un electrón en el átomo de Hidrógeno desciende desde el nivel $n=4$ hasta el nivel $n=2$ (Serie de Balmer). Se consulta la constante de Rydberg $R_H = 1.097 	imes 10^7	ext{ m}^{-1}$.
+**Contexto:** Un electrón en el átomo de Hidrógeno desciende desde el nivel $n=4$ hasta el nivel $n=2$ (Serie de Balmer). Se consulta la constante de Rydberg $R_H = 1.097 \times 10^7\text{ m}^{-1}$.
 
 ### Enunciado
-¿Cuál es la longitud de onda $lambda$ del fotón emitido en esta transición electrónica?
+¿Cuál es la longitud de onda $\lambda$ del fotón emitido en esta transición electrónica?
 
 ### Opciones
-- [x] A) $486	ext{ nm}$ ($4.86 	imes 10^{-7}	ext{ m}$)
-  <!-- feedback: Correcto. Ecuación de Rydberg: 1/lambda = R_H (1/2^2 - 1/4^2) = R_H (3/16) \implies lambda = 4.86 	imes 10^{-7}	ext{ m} = 486	ext{ nm}. -->
-- [ ] B) $656	ext{ nm}$
+- [x] A) $486\text{ nm}$ ($4.86 \times 10^{-7}\text{ m}$)
+  <!-- feedback: Correcto. Ecuación de Rydberg: 1/lambda = R_H (1/2^2 - 1/4^2) = R_H (3/16) \implies lambda = 4.86 \times 10^{-7}\text{ m} = 486\text{ nm}. -->
+- [ ] B) $656\text{ nm}$
   <!-- feedback: Incorrecto. Corresponde a la transición de n=3 a n=2 (línea H-alfa). -->
-- [ ] C) $121	ext{ nm}$
+- [ ] C) $121\text{ nm}$
   <!-- feedback: Incorrecto. Corresponde a la serie de Lyman (n=2 a n=1) en la zona ultravioleta. -->
-- [ ] D) $912	ext{ nm}$
+- [ ] D) $912\text{ nm}$
   <!-- feedback: Incorrecto. Corresponde al límite de la serie de Lyman. -->
 
 ### Explicacion Pedagogica
-Aplicando la fórmula de Rydberg para el hidrógeno: $\frac{1}{lambda} = R_H \left(\frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$. Para la línea Balmer $n_1=2, n_2=4$: $\frac{1}{lambda} = 1.097 	imes 10^7 	imes \left(\frac{3}{16}\right) = 2.056 	imes 10^6	ext{ m}^{-1} \implies lambda approx 4.86 	imes 10^{-7}	ext{ m} = 486	ext{ nm}$ (luz verde-azulada).
+Aplicando la fórmula de Rydberg para el hidrógeno: $\frac{1}{lambda} = R_H \left(\frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$. Para la línea Balmer $n_1=2, n_2=4$: $\frac{1}{lambda} = 1.097 \times 10^7 \times \left(\frac{3}{16}\right) = 2.056 \times 10^6\text{ m}^{-1} \implies \lambda \approx 4.86 \times 10^{-7}\text{ m} = 486\text{ nm}$ (luz verde-azulada).
 
 ## Question 17 [D9-D10]
 **ID:** CO-CN-11-2026-W08-estructura-atomica-001-MASTERY-bundle-v17
@@ -446,7 +446,7 @@ Reglas de restricción cuántica:
 1) $n = 1, 2, 3...$
 2) $l = 0, 1... (n-1)$
 3) $m_l = -l ... +l$
-4) $m_s = pm 1/2$
+4) $m_s = \pm 1/2$
 Para $n=2$, el valor máximo permitido para $l$ es $2-1 = 1$. Un juego con $n=2, l=2$ violaría la regla fundamental de subniveles ($2d$ no existe).
 
 ## Question 19 [D9-D10]
@@ -477,7 +477,7 @@ En ausencia de campo magnético, los $2l+1$ orbitales de un subnivel son degener
 **Bloom:** Evaluate
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.28
-**Contexto:** Se evalúa la energía de ionización del átomo de Helio ($He, Z=2$). La primera energía de ionización es $24.6	ext{ eV}$, mientras que la segunda energía de ionización es $54.4	ext{ eV}$.
+**Contexto:** Se evalúa la energía de ionización del átomo de Helio ($He, Z=2$). La primera energía de ionización es $24.6\text{ eV}$, mientras que la segunda energía de ionización es $54.4\text{ eV}$.
 
 ### Enunciado
 ¿Por qué la segunda energía de ionización del Helio es más del doble de la primera energía de ionización?
@@ -493,4 +493,4 @@ En ausencia de campo magnético, los $2l+1$ orbitales de un subnivel son degener
   <!-- feedback: Incorrecto. Las constantes universales no varían con el estado de ionización atómica. -->
 
 ### Explicacion Pedagogica
-En el $He$ neutro ($1s^2$), cada electrón ejerce cierto apantallamiento sobre el otro reduciendo la carga nuclear efectiva $Z_{efectiva} < 2$. Tras remover el primer electrón, el electrón residual en el $He^+$ experimenta la carga completa $Z=+2$ sin ningún tipo de repulsión entre electrones, requiriendo $54.4	ext{ eV}$ (cuatro veces la del Hidrógeno: $13.6 	imes 2^2 = 54.4	ext{ eV}$).
+En el $He$ neutro ($1s^2$), cada electrón ejerce cierto apantallamiento sobre el otro reduciendo la carga nuclear efectiva $Z_{efectiva} < 2$. Tras remover el primer electrón, el electrón residual en el $He^+$ experimenta la carga completa $Z=+2$ sin ningún tipo de repulsión entre electrones, requiriendo $54.4\text{ eV}$ (cuatro veces la del Hidrógeno: $13.6 \times 2^2 = 54.4\text{ eV}$).
