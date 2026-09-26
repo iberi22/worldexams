@@ -76,6 +76,14 @@ function getPeriodTopics(subject: string | null, grade: number, period: number):
   return periodConfig?.topics || [];
 }
 
+export function weekFromId(id: string | undefined | null): number | null {
+  const match = String(id ?? "").match(/-W(\d{2})-/);
+  if (match) {
+    return parseInt(match[1], 10);
+  }
+  return null;
+}
+
 export function filterByPeriod(
   questions: AppQuestion[],
   config: { examMode?: 'simulacro' | 'period'; period?: number; subject: string | null; grade: number }
@@ -85,17 +93,25 @@ export function filterByPeriod(
   const periodTopics = getPeriodTopics(config.subject, config.grade, config.period);
 
   return questions.filter((q) => {
-    if (q.periodo !== undefined && q.periodo !== null) {
-      // PACKS SEMANALES: el campo `periodo` de los bundles v5.2 transporta la
-      // semana curricular interna (W01–W40), NO el periodo académico (1–4).
-      // Mapeo: period = ceil(week / 10). Valores 1–4 se tratan como periodo explícito.
-      const raw = Number(q.periodo);
-      if (raw >= 1 && raw <= 4) return raw === Number(config.period);
-      if (raw > 4) {
-        const mappedPeriod = Math.min(4, Math.max(1, Math.ceil(raw / 10)));
-        return mappedPeriod === Number(config.period);
-      }
-      return false;
+    const parsedWeek = weekFromId(q.id);
+    let week: number | null = null;
+    if (parsedWeek !== null) {
+      week = parsedWeek;
+    } else if (q.periodo !== undefined && q.periodo !== null) {
+      week = Number(q.periodo);
+    }
+
+    if (week !== null) {
+      const raw = week;
+      const isExplicitPeriod = parsedWeek === null && raw >= 1 && raw <= 4;
+      if (isExplicitPeriod) return raw === Number(config.period);
+      
+      const mappedPeriod = Math.min(4, Math.max(1, Math.ceil(raw / 10)));
+      return mappedPeriod === Number(config.period);
+    }
+
+    if ('period' in q && typeof q.period === 'number' && q.period >= 1 && q.period <= 4) {
+       return q.period === Number(config.period);
     }
 
     if (periodTopics.length === 0) {
