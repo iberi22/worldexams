@@ -64,6 +64,8 @@ class RoomState {
   results = $state<RoomResults | null>(null);
   questions = $state<any[]>([]);
   publicRooms = $state<any[]>([]);
+  poolStatus = $state<'idle' | 'loading' | 'ready' | 'empty'>('idle');
+  poolEmptyReason = $state<string | null>(null);
 
   // Derived state
   get isHost() { return this.role === 'host'; }
@@ -155,6 +157,9 @@ class RoomState {
     this.players = [this.currentPlayer];
 
     // Generate questions
+    this.poolStatus = 'loading';
+    this.poolEmptyReason = null;
+
     if (this.config && this.config.mode === 'stop' && this.config.stopConfig) {
       // --- STOP MODE LOGIC ---
       try {
@@ -168,28 +173,16 @@ class RoomState {
 
           if (selected.length > 0) {
             this.questions = selected;
+            this.poolStatus = 'ready';
             console.log(`[Room] Generated ${this.questions.length} questions for Stop Mode`);
           } else {
             throw new Error('No questions found in pool');
           }
       } catch (err) {
-          console.error('[Room] Error fetching questions for Stop Mode, using placeholders:', err);
-          // Fallback to placeholders if fetch fails
-          this.questions = Array.from({ length: this.config.totalQuestions || 10 }, (_, i) => ({
-            id: `q-fallback-${i + 1}`,
-            text: `(Respaldo) Pregunta de Práctica ${i + 1}`,
-            options: [
-              { id: 'A', text: 'Opción A' },
-              { id: 'B', text: 'Opción B' },
-              { id: 'C', text: 'Opción C' },
-              { id: 'D', text: 'Opción D' },
-            ],
-            correctOptionId: 'A',
-            grade: 11,
-            category: 'General',
-            difficulty: 3,
-            explanation: 'Pregunta de respaldo cargada debido a un error de conexión con el banco de preguntas.',
-          }));
+          console.error('[Room] Error fetching questions for Stop Mode:', err);
+          this.questions = [];
+          this.poolStatus = 'empty';
+          this.poolEmptyReason = err instanceof Error ? err.message : 'No se encontraron preguntas para Stop Mode.';
       }
     } else {
       // --- STANDARD MODE (real questions from the validated pack pool) ---
@@ -222,24 +215,13 @@ class RoomState {
         }
 
         this.questions = selected;
+        this.poolStatus = 'ready';
         console.log(`[Room] Loaded ${selected.length} real questions for Standard Mode`);
       } catch (err) {
-        console.warn('[Room] Standard Mode pool unavailable, using placeholders:', err);
-        this.questions = Array.from({ length: this.config.totalQuestions }, (_, i) => ({
-          id: `q-fallback-${i + 1}`,
-          text: `(Respaldo) Pregunta ${i + 1} de ${asignatura}`,
-          options: [
-            { id: 'A', text: 'Opción A' },
-            { id: 'B', text: 'Opción B' },
-            { id: 'C', text: 'Opción C' },
-            { id: 'D', text: 'Opción D' },
-          ],
-          correctOptionId: 'A',
-          grade: grado,
-          category: asignatura,
-          difficulty: 3,
-          explanation: 'Pregunta de respaldo: no se encontraron packs validados para este grado y asignatura.',
-        }));
+        console.warn('[Room] Standard Mode pool unavailable:', err);
+        this.questions = [];
+        this.poolStatus = 'empty';
+        this.poolEmptyReason = err instanceof Error ? err.message : `No se encontraron preguntas para ${asignatura} grado ${grado}.`;
       }
     }
 
@@ -406,6 +388,8 @@ class RoomState {
     this.players = [];
     this.gameState = { status: 'waiting', currentQuestionIndex: 0, timeRemaining: 0 };
     this.connectionStatus = 'disconnected';
+    this.poolStatus = 'idle';
+    this.poolEmptyReason = null;
 
     console.log('[Room] Sala abandonada');
   }
@@ -438,6 +422,14 @@ class RoomState {
       difficulty: Number(String(q.difficulty).replace(/\D/g, '')) || 5,
       meta: { creador: 'local-llm', mode: result.mode },
     }));
+
+    if (this.questions.length > 0) {
+      this.poolStatus = 'ready';
+      this.poolEmptyReason = null;
+    } else {
+      this.poolStatus = 'empty';
+      this.poolEmptyReason = 'IA no generó preguntas válidas';
+    }
 
     if (result.mode === 'pool-assembled' && result.warning) {
       console.warn('[Room] AI generator fallback:', result.warning);
@@ -678,6 +670,13 @@ class RoomState {
         this.gameState.status = 'active';
         this.gameState.startedAt = message.startedAt ? new Date(message.startedAt) : new Date();
         this.questions = message.questions || [];
+        if (this.questions.length > 0) {
+          this.poolStatus = 'ready';
+          this.poolEmptyReason = null;
+        } else {
+          this.poolStatus = 'empty';
+          this.poolEmptyReason = 'El juego inició sin preguntas en la lista.';
+        }
         // Set initial time remaining based on config
         if (this.config) {
             this.gameState.timeRemaining = this.config.timePerQuestion;
