@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v1",
-      "statement": "Â¿CuÃ¡ntos tÃ©rminos tiene el desarrollo completo del binomio $(a + b)^6$?",
-      "context": "En la expansiÃ³n del binomio de Newton $(a + b)^n$, el nÃºmero total de tÃ©rminos resultantes sigue una regla algebraica directa.",
+      "statement": "¿Cuántos términos tiene el desarrollo completo del binomio $(a + b)^6$?",
+      "context": "En la expansión del binomio de Newton $(a + b)^n$, el número total de términos resultantes sigue una regla algebraica directa.",
       "options": [
         {
           "letter": "A",
           "text": "7",
           "is_correct": true,
-          "feedback": "La expansiÃ³n de un binomio de grado n contiene exactamente n + 1 tÃ©rminos. Para n = 6, hay 6 + 1 = 7 tÃ©rminos."
+          "feedback": "La expansión de un binomio de grado n contiene exactamente n + 1 términos. Para n = 6, hay 6 + 1 = 7 términos."
         },
         {
           "letter": "B",
           "text": "6",
           "is_correct": false,
-          "feedback": "ConfundiÃ³ el nÃºmero de tÃ©rminos con el exponente n del binomio."
+          "feedback": "Confundió el número de términos con el exponente n del binomio."
         },
         {
           "letter": "C",
           "text": "12",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ el exponente 6 por 2."
+          "feedback": "Multiplicó el exponente 6 por 2."
         },
         {
           "letter": "D",
           "text": "64",
           "is_correct": false,
-          "feedback": "CalculÃ³ 2^6 en lugar del nÃºmero de tÃ©rminos de la suma polinomial."
+          "feedback": "Calculó 2^6 en lugar del número de términos de la suma polinomial."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El desarrollo $(a+b)^n = sum_{k=0}^n \\binom{n}{k} a^{n-k} b^k$ abarca los Ã­ndices desde $k=0$ hasta $k=n$, sumando un total de $n+1$ tÃ©rminos.",
+      "explanation": "El desarrollo $(a+b)^n = sum_{k=0}^n \\binom{n}{k} a^{n-k} b^k$ abarca los índices desde $k=0$ hasta $k=n$, sumando un total de $n+1$ términos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v2",
-      "statement": "Â¿CuÃ¡l es la suma de todos los coeficientes de esta fila del TriÃ¡ngulo de Pascal?",
-      "context": "En la fila nÃºmero 4 del TriÃ¡ngulo de Pascal (comenzando desde la fila 0 con valor 1), los coeficientes binomiales son 1, 4, 6, 4, 1.",
+      "statement": "¿Cuál es la suma de todos los coeficientes de esta fila del Triángulo de Pascal?",
+      "context": "En la fila número 4 del Triángulo de Pascal (comenzando desde la fila 0 con valor 1), los coeficientes binomiales son 1, 4, 6, 4, 1.",
       "options": [
         {
           "letter": "A",
           "text": "16",
           "is_correct": true,
-          "feedback": "La suma de los coeficientes binomiales de la n-Ã©sima fila es 2^n. Para n = 4, 2^4 = 16."
+          "feedback": "La suma de los coeficientes binomiales de la n-ésima fila es 2^n. Para n = 4, 2^4 = 16."
         },
         {
           "letter": "B",
           "text": "12",
           "is_correct": false,
-          "feedback": "SumÃ³ incorrectamente los tÃ©rminos centrales."
+          "feedback": "Sumó incorrectamente los términos centrales."
         },
         {
           "letter": "C",
           "text": "8",
           "is_correct": false,
-          "feedback": "CalculÃ³ 2^3 en lugar de 2^4."
+          "feedback": "Calculó 2^3 en lugar de 2^4."
         },
         {
           "letter": "D",
           "text": "32",
           "is_correct": false,
-          "feedback": "CalculÃ³ 2^5 en lugar de 2^4."
+          "feedback": "Calculó 2^5 en lugar de 2^4."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Evaluando $(1+1)^n = sum_{k=0}^n \\binom{n}{k}$, la suma de la fila $n$ del TriÃ¡ngulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.",
+      "explanation": "Evaluando $(1+1)^n = sum_{k=0}^n \\binom{n}{k}$, la suma de la fila $n$ del Triángulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,14 +101,14 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v3",
-      "statement": "Â¿QuÃ© coeficiente binomial $\\binom{n}{k}$ corresponde a este tÃ©rmino en el desarrollo?",
-      "context": "Se analiza el coeficiente del tÃ©rmino $x^3 y^2$ en el desarrollo de $(x + y)^5$ en BogotÃ¡.",
+      "statement": "¿Qué coeficiente binomial $\\binom{n}{k}$ corresponde a este término en el desarrollo?",
+      "context": "Se analiza el coeficiente del término $x^3 y^2$ en el desarrollo de $(x + y)^5$ en Bogotá.",
       "options": [
         {
           "letter": "A",
           "text": "$\\binom{5}{2} = 10$",
           "is_correct": true,
-          "feedback": "El coeficiente del tÃ©rmino x^(5-2) y^2 es C(5,2) = 10 (igual a C(5,3) por simetrÃ­a)."
+          "feedback": "El coeficiente del término x^(5-2) y^2 es C(5,2) = 10 (igual a C(5,3) por simetría)."
         },
         {
           "letter": "B",
@@ -120,17 +120,17 @@
           "letter": "C",
           "text": "$\\binom{5}{0} = 1$",
           "is_correct": false,
-          "feedback": "Corresponde al primer tÃ©rmino x^5."
+          "feedback": "Corresponde al primer término x^5."
         },
         {
           "letter": "D",
           "text": "$\\binom{5}{4} = 5$",
           "is_correct": false,
-          "feedback": "Corresponde al tÃ©rmino x^1 y^4."
+          "feedback": "Corresponde al término x^1 y^4."
         }
       ],
       "correct_answer": "A",
-      "explanation": "En el Teorema del Binomio, el tÃ©rmino general es $\\binom{n}{k} x^{n-k} y^k$. Para $x^3 y^2$, tenemos $n=5$ y $k=2$, por lo que el coeficiente es $\\binom{5}{2} = \\frac{5   imes 4}{2} = 10$.",
+      "explanation": "En el Teorema del Binomio, el término general es $\\binom{n}{k} x^{n-k} y^k$. Para $x^3 y^2$, tenemos $n=5$ y $k=2$, por lo que el coeficiente es $\\binom{5}{2} = \\frac{5   imes 4}{2} = 10$.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -147,12 +147,12 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v4",
-      "statement": "En un grupo de 13 personas en MedellÃ­n, Â¿cuÃ¡l es la conclusiÃ³n garantizada por el principio de Palomar respecto a sus meses de nacimiento?",
-      "context": "El principio de Palomar (Pigeonhole Principle) establece que si se distribuyen $n$ objetos en $k$ recipientes y $n > k$, al menos un recipiente contendrÃ¡ mÃ¡s de un objeto.",
+      "statement": "En un grupo de 13 personas en Medellín, ¿cuál es la conclusión garantizada por el principio de Palomar respecto a sus meses de nacimiento?",
+      "context": "El principio de Palomar (Pigeonhole Principle) establece que si se distribuyen $n$ objetos en $k$ recipientes y $n > k$, al menos un recipiente contendrá más de un objeto.",
       "options": [
         {
           "letter": "A",
-          "text": "Al menos dos personas nacieron en el mismo mes del aÃ±o.",
+          "text": "Al menos dos personas nacieron en el mismo mes del año.",
           "is_correct": true,
           "feedback": "Hay 13 personas (objetos) y 12 meses (recipientes). Como 13 > 12, obligatoriamente al menos 2 comparten mes de nacimiento."
         },
@@ -166,17 +166,17 @@
           "letter": "C",
           "text": "Exactamente tres personas nacieron en el mes de enero.",
           "is_correct": false,
-          "feedback": "El principio garantiza al menos 2 en algÃºn mes, no especifica quÃ© mes ni que sean 3."
+          "feedback": "El principio garantiza al menos 2 en algún mes, no especifica qué mes ni que sean 3."
         },
         {
           "letter": "D",
-          "text": "Ninguna persona naciÃ³ en diciembre.",
+          "text": "Ninguna persona nació en diciembre.",
           "is_correct": false,
-          "feedback": "El principio no excluye meses del aÃ±o."
+          "feedback": "El principio no excluye meses del año."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Con $n=13$ personas y $k=12$ meses en un aÃ±o, al aplicar el principio de Dirichlet o de Palomar ($lceil 13/12 \rceil = 2$), se garantiza que al menos 2 personas cumplen con haber nacido en el mismo mes.",
+      "explanation": "Con $n=13$ personas y $k=12$ meses en un año, al aplicar el principio de Dirichlet o de Palomar ($lceil 13/12 \nceil = 2$), se garantiza que al menos 2 personas cumplen con haber nacido en el mismo mes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -193,36 +193,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v5",
-      "statement": "Â¿CuÃ¡ntos empleados practican AL MENOS uno de los dos deportes?",
-      "context": "En una empresa en Cali, 50 empleados juegan fÃºtbol, 40 juegan baloncesto y 15 practican ambos deportes.",
+      "statement": "¿Cuántos empleados practican AL MENOS uno de los dos deportes?",
+      "context": "En una empresa en Cali, 50 empleados juegan fútbol, 40 juegan baloncesto y 15 practican ambos deportes.",
       "options": [
         {
           "letter": "A",
           "text": "75",
           "is_correct": true,
-          "feedback": "Aplicando inclusiÃ³n-exclusiÃ³n: N(F U B) = N(F) + N(B) - N(F n B) = 50 + 40 - 15 = 75."
+          "feedback": "Aplicando inclusión-exclusión: N(F U B) = N(F) + N(B) - N(F n B) = 50 + 40 - 15 = 75."
         },
         {
           "letter": "B",
           "text": "90",
           "is_correct": false,
-          "feedback": "SumÃ³ las dos categorÃ­as sin restar los empleados que practican ambos deportes."
+          "feedback": "Sumó las dos categorías sin restar los empleados que practican ambos deportes."
         },
         {
           "letter": "C",
           "text": "65",
           "is_correct": false,
-          "feedback": "RestÃ³ dos veces el grupo de la intersecciÃ³n."
+          "feedback": "Restó dos veces el grupo de la intersección."
         },
         {
           "letter": "D",
           "text": "35",
           "is_correct": false,
-          "feedback": "RestÃ³ 50 - 15 Ãºnicamente."
+          "feedback": "Restó 50 - 15 únicamente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por el principio de inclusiÃ³n-exclusiÃ³n para dos conjuntos: $|A cup B| = |A| + |B| - |A cap B| = 50 + 40 - 15 = 75$.",
+      "explanation": "Por el principio de inclusión-exclusión para dos conjuntos: $|A cup B| = |A| + |B| - |A cap B| = 50 + 40 - 15 = 75$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -239,36 +239,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v6",
-      "statement": "Considere las tÃ©cnicas de combinaciÃ³n con repeticiÃ³n (barras y estrellas).",
-      "context": "Â¿De cuÃ¡ntas maneras se pueden repartir 8 dulces idÃ©nticos entre 4 niÃ±os en Barranquilla de modo que CADA NIÃO reciba AL MENOS 1 dulce?",
+      "statement": "Considere las técnicas de combinación con repetición (barras y estrellas).",
+      "context": "¿De cuántas maneras se pueden repartir 8 dulces idénticos entre 4 niños en Barranquilla de modo que CADA NIÑO reciba AL MENOS 1 dulce?",
       "options": [
         {
           "letter": "A",
           "text": "35",
           "is_correct": true,
-          "feedback": "Damos 1 dulce a cada uno de los 4 niÃ±os (se usan 4 dulces). Quedan 4 dulces idÃ©nticos para repartir libremente entre 4 niÃ±os: C(4+4-1, 4) = C(7,4) = 35."
+          "feedback": "Damos 1 dulce a cada uno de los 4 niños (se usan 4 dulces). Quedan 4 dulces idénticos para repartir libremente entre 4 niños: C(4+4-1, 4) = C(7,4) = 35."
         },
         {
           "letter": "B",
           "text": "165",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(4+8-1, 8) = C(11,8) sin asegurar que cada niÃ±o recibiera al menos un dulce."
+          "feedback": "Calculó C(4+8-1, 8) = C(11,8) sin asegurar que cada niño recibiera al menos un dulce."
         },
         {
           "letter": "C",
           "text": "70",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(8,4) por error."
+          "feedback": "Calculó C(8,4) por error."
         },
         {
           "letter": "D",
           "text": "24",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 4! en lugar de usar combinaciones de objetos indistinguibles."
+          "feedback": "Multiplicó 4! en lugar de usar combinaciones de objetos indistinguibles."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Al entregar primero 1 dulce a cada uno de los $k=4$ niÃ±os, restan $n' = 8 - 4 = 4$ dulces para distribuir sin restricciones: $\\binom{n' + k - 1}{n'} = \\binom{4 + 4 - 1}{4} = \\binom{7}{4} = \\frac{7   imes 6   imes 5}{6} = 35$.",
+      "explanation": "Al entregar primero 1 dulce a cada uno de los $k=4$ niños, restan $n' = 8 - 4 = 4$ dulces para distribuir sin restricciones: $\\binom{n' + k - 1}{n'} = \\binom{4 + 4 - 1}{4} = \\binom{7}{4} = \\frac{7   imes 6   imes 5}{6} = 35$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -285,7 +285,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v7",
-      "statement": "Â¿CuÃ¡ntas claves contienen la letra 'A' al menos una vez?",
+      "statement": "¿Cuántas claves contienen la letra 'A' al menos una vez?",
       "context": "Se quiere formar una clave de 5 letras utilizando las letras del conjunto {A, B, C, D, E} donde se permite repetir letras.",
       "options": [
         {
@@ -304,17 +304,17 @@
           "letter": "C",
           "text": "3125",
           "is_correct": false,
-          "feedback": "Corresponde al total de claves sin descontar la restricciÃ³n."
+          "feedback": "Corresponde al total de claves sin descontar la restricción."
         },
         {
           "letter": "D",
           "text": "625",
           "is_correct": false,
-          "feedback": "CalculÃ³ 5^4 asumiendo que la 'A' estÃ¡ fija en la primera posiciÃ³n Ãºnicamente."
+          "feedback": "Calculó 5^4 asumiendo que la 'A' está fija en la primera posición únicamente."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Por el complemento: Total de claves con repeticiÃ³n $= 5^5 = 3125$. Claves formadas solo con las otras 4 letras $= 4^5 = 1024$. Claves con al menos una 'A' $= 3125 - 1024 = 2097$.",
+      "explanation": "Por el complemento: Total de claves con repetición $= 5^5 = 3125$. Claves formadas solo con las otras 4 letras $= 4^5 = 1024$. Claves con al menos una 'A' $= 3125 - 1024 = 2097$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v8",
-      "statement": "Calcule el nÃºmero total de arreglos posibles bajo esta restricciÃ³n.",
-      "context": "Â¿De cuÃ¡ntas formas se pueden organizar 7 personas en una fila si dos personas en particular, Juan y MarÃ­a, NO pueden estar juntas?",
+      "statement": "Calcule el número total de arreglos posibles bajo esta restricción.",
+      "context": "¿De cuántas formas se pueden organizar 7 personas en una fila si dos personas en particular, Juan y María, NO pueden estar juntas?",
       "options": [
         {
           "letter": "A",
           "text": "3600",
           "is_correct": true,
-          "feedback": "Total sin restricciÃ³n: 7! = 5040. Arreglos con Juan y MarÃ­a juntos: 6! * 2! = 720 * 2 = 1440. Arreglos no juntos: 5040 - 1440 = 3600."
+          "feedback": "Total sin restricción: 7! = 5040. Arreglos con Juan y María juntos: 6! * 2! = 720 * 2 = 1440. Arreglos no juntos: 5040 - 1440 = 3600."
         },
         {
           "letter": "B",
           "text": "1440",
           "is_correct": false,
-          "feedback": "Corresponde al nÃºmero de arreglos en que Juan y MarÃ­a SÃ estÃ¡n juntos."
+          "feedback": "Corresponde al número de arreglos en que Juan y María SÍ están juntos."
         },
         {
           "letter": "C",
           "text": "5040",
           "is_correct": false,
-          "feedback": "Es el total de permutaciones 7! sin aplicar ninguna restricciÃ³n."
+          "feedback": "Es el total de permutaciones 7! sin aplicar ninguna restricción."
         },
         {
           "letter": "D",
           "text": "2520",
           "is_correct": false,
-          "feedback": "DividiÃ³ 5040 entre 2 por error."
+          "feedback": "Dividió 5040 entre 2 por error."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Total de permutaciones de 7 personas $= 7! = 5040$.\nPermutaciones con Juan y MarÃ­a juntos $= 6!   imes 2! = 1440$.\nPermutaciones separadas $= 5040 - 1440 = 3600$.",
+      "explanation": "Total de permutaciones de 7 personas $= 7! = 5040$.\nPermutaciones con Juan y María juntos $= 6!   imes 2! = 1440$.\nPermutaciones separadas $= 5040 - 1440 = 3600$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -377,36 +377,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v9",
-      "statement": "Â¿CuÃ¡l es el tÃ©rmino independiente (constante sin la variable $x$) de esta expansiÃ³n?",
+      "statement": "¿Cuál es el término independiente (constante sin la variable $x$) de esta expansión?",
       "context": "En el desarrollo del binomio $(2x - 1)^4$.",
       "options": [
         {
           "letter": "A",
           "text": "1",
           "is_correct": true,
-          "feedback": "El tÃ©rmino independiente es (-1)^4 = 1."
+          "feedback": "El término independiente es (-1)^4 = 1."
         },
         {
           "letter": "B",
           "text": "-1",
           "is_correct": false,
-          "feedback": "OlvidÃ³ que la potencia par (-1)^4 resulta positiva."
+          "feedback": "Olvidó que la potencia par (-1)^4 resulta positiva."
         },
         {
           "letter": "C",
           "text": "16",
           "is_correct": false,
-          "feedback": "Corresponde al coeficiente del primer tÃ©rmino (2x)^4 = 16x^4."
+          "feedback": "Corresponde al coeficiente del primer término (2x)^4 = 16x^4."
         },
         {
           "letter": "D",
           "text": "-4",
           "is_correct": false,
-          "feedback": "CalculÃ³ 4 * (-1)."
+          "feedback": "Calculó 4 * (-1)."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El Ãºltimo tÃ©rmino del binomio $(2x - 1)^4$ ocurre para $k=4$: $\\binom{4}{4} (2x)^0 (-1)^4 = 1 cdot 1 cdot 1 = 1$.",
+      "explanation": "El último término del binomio $(2x - 1)^4$ ocurre para $k=4$: $\\binom{4}{4} (2x)^0 (-1)^4 = 1 cdot 1 cdot 1 = 1$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -423,36 +423,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v10",
-      "statement": "Â¿CuÃ¡ntos caminos de longitud mÃ­nima distintos puede elegir el peatÃ³n?",
-      "context": "Una cuadrÃ­cula de 4 calles por 3 carreras en el centro de Bucaramanga. Un peatÃ³n camina desde la esquina (0,0) hasta la esquina (4,3) desplazÃ¡ndose Ãºnicamente hacia el Este (E) o hacia el Norte (N).",
+      "statement": "¿Cuántos caminos de longitud mínima distintos puede elegir el peatón?",
+      "context": "Una cuadrícula de 4 calles por 3 carreras en el centro de Bucaramanga. Un peatón camina desde la esquina (0,0) hasta la esquina (4,3) desplazándose únicamente hacia el Este (E) o hacia el Norte (N).",
       "options": [
         {
           "letter": "A",
           "text": "35",
           "is_correct": true,
-          "feedback": "Requiere 4 pasos E y 3 pasos N (total 7 pasos). El nÃºmero de caminos es C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35."
+          "feedback": "Requiere 4 pasos E y 3 pasos N (total 7 pasos). El número de caminos es C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35."
         },
         {
           "letter": "B",
           "text": "12",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 4 * 3."
+          "feedback": "Multiplicó 4 * 3."
         },
         {
           "letter": "C",
           "text": "24",
           "is_correct": false,
-          "feedback": "CalculÃ³ 4! por error."
+          "feedback": "Calculó 4! por error."
         },
         {
           "letter": "D",
           "text": "70",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 35 por 2."
+          "feedback": "Multiplicó 35 por 2."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Cualquier trayecto consta de $4+3=7$ pasos en total. La cantidad de ordenamientos Ãºnicos de 4 pasos al Este y 3 al Norte es $\\binom{7}{4} = \\frac{7   imes 6   imes 5}{3   imes 2   imes 1} = 35$.",
+      "explanation": "Cualquier trayecto consta de $4+3=7$ pasos en total. La cantidad de ordenamientos únicos de 4 pasos al Este y 3 al Norte es $\\binom{7}{4} = \\frac{7   imes 6   imes 5}{3   imes 2   imes 1} = 35$.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -469,36 +469,36 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v11",
-      "statement": "Â¿CuÃ¡l es el nÃºmero total de estudiantes distintos que participan en la competencia?",
-      "context": "Tres colegios A, B y C de Cartagena participan en una competencia cultural. Hay 100 estudiantes que participan en A, 80 en B y 70 en C. 30 estÃ¡n en A y B, 25 en B y C, 20 en A y C, y 10 participan en los tres colegios simultÃ¡neamente.",
+      "statement": "¿Cuál es el número total de estudiantes distintos que participan en la competencia?",
+      "context": "Tres colegios A, B y C de Cartagena participan en una competencia cultural. Hay 100 estudiantes que participan en A, 80 en B y 70 en C. 30 están en A y B, 25 en B y C, 20 en A y C, y 10 participan en los tres colegios simultáneamente.",
       "options": [
         {
           "letter": "A",
           "text": "185",
           "is_correct": true,
-          "feedback": "Por inclusiÃ³n-exclusiÃ³n de 3 conjuntos: |A U B U C| = (100+80+70) - (30+25+20) + 10 = 250 - 75 + 10 = 185."
+          "feedback": "Por inclusión-exclusión de 3 conjuntos: |A U B U C| = (100+80+70) - (30+25+20) + 10 = 250 - 75 + 10 = 185."
         },
         {
           "letter": "B",
           "text": "250",
           "is_correct": false,
-          "feedback": "SumÃ³ las listas simples sin descontar las intersecciones dobles y triples."
+          "feedback": "Sumó las listas simples sin descontar las intersecciones dobles y triples."
         },
         {
           "letter": "C",
           "text": "175",
           "is_correct": false,
-          "feedback": "RestÃ³ la triple intersecciÃ³n en lugar de sumarla al final."
+          "feedback": "Restó la triple intersección en lugar de sumarla al final."
         },
         {
           "letter": "D",
           "text": "200",
           "is_correct": false,
-          "feedback": "CalculÃ³ mal la suma de las intersecciones dobles."
+          "feedback": "Calculó mal la suma de las intersecciones dobles."
         }
       ],
       "correct_answer": "A",
-      "explanation": "FÃ³rmula de inclusiÃ³n-exclusiÃ³n para 3 conjuntos:\n$|A cup B cup C| = (|A|+|B|+|C|) - (|Acap B|+|Bcap C|+|Acap C|) + |Acap Bcap C|$\n$= (100 + 80 + 70) - (30 + 25 + 20) + 10 = 250 - 75 + 10 = 185$.",
+      "explanation": "Fórmula de inclusión-exclusión para 3 conjuntos:\n$|A cup B cup C| = (|A|+|B|+|C|) - (|Acap B|+|Bcap C|+|Acap C|) + |Acap Bcap C|$\n$= (100 + 80 + 70) - (30 + 25 + 20) + 10 = 250 - 75 + 10 = 185$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -515,8 +515,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v12",
-      "statement": "Â¿CuÃ¡ntos desarreglos $D_4$ existen para un grupo de 4 elementos ${1, 2, 3, 4}$?",
-      "context": "Se define un desarreglo (o permutaciÃ³n caÃ³tica) $D_n$ como una permutaciÃ³n de $n$ elementos donde ningÃºn elemento aparece en su posiciÃ³n original. La fÃ³rmula es $D_n = n! sum_{k=0}^n \\frac{(-1)^k}{k!}$.",
+      "statement": "¿Cuántos desarreglos $D_4$ existen para un grupo de 4 elementos ${1, 2, 3, 4}$?",
+      "context": "Se define un desarreglo (o permutación caótica) $D_n$ como una permutación de $n$ elementos donde ningún elemento aparece en su posición original. La fórmula es $D_n = n! sum_{k=0}^n \\frac{(-1)^k}{k!}$.",
       "options": [
         {
           "letter": "A",
@@ -528,23 +528,23 @@
           "letter": "B",
           "text": "24",
           "is_correct": false,
-          "feedback": "Corresponde al total de permutaciones 4! sin restricciÃ³n."
+          "feedback": "Corresponde al total de permutaciones 4! sin restricción."
         },
         {
           "letter": "C",
           "text": "12",
           "is_correct": false,
-          "feedback": "DividiÃ³ 24 entre 2."
+          "feedback": "Dividió 24 entre 2."
         },
         {
           "letter": "D",
           "text": "6",
           "is_correct": false,
-          "feedback": "ConfundiÃ³ D4 con D3 = 2 o calculÃ³ 3!."
+          "feedback": "Confundió D4 con D3 = 2 o calculó 3!."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Aplicando la fÃ³rmula de desarreglos para $n=4$:\n$D_4 = 4! left( \\frac{1}{0!} - \\frac{1}{1!} + \\frac{1}{2!} - \\frac{1}{3!} + \\frac{1}{4!} \right) = 24 left( 1 - 1 + \\frac{1}{2} - \\frac{1}{6} + \\frac{1}{24} \right) = 12 - 4 + 1 = 9$.",
+      "explanation": "Aplicando la fórmula de desarreglos para $n=4$:\n$D_4 = 4! left( \\frac{1}{0!} - \\frac{1}{1!} + \\frac{1}{2!} - \\frac{1}{3!} + \\frac{1}{4!} \night) = 24 left( 1 - 1 + \\frac{1}{2} - \\frac{1}{6} + \\frac{1}{24} \night) = 12 - 4 + 1 = 9$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -561,8 +561,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v13",
-      "statement": "Aplique el concepto de combinaciones con repeticiÃ³n.",
-      "context": "Â¿CuÃ¡ntas soluciones compuestas por enteros NO NEGATIVOS $(x_1, x_2, x_3)$ satisfacen la ecuaciÃ³n $x_1 + x_2 + x_3 = 10$?",
+      "statement": "Aplique el concepto de combinaciones con repetición.",
+      "context": "¿Cuántas soluciones compuestas por enteros NO NEGATIVOS $(x_1, x_2, x_3)$ satisfacen la ecuación $x_1 + x_2 + x_3 = 10$?",
       "options": [
         {
           "letter": "A",
@@ -574,23 +574,23 @@
           "letter": "B",
           "text": "36",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(10, 2) por error."
+          "feedback": "Calculó C(10, 2) por error."
         },
         {
           "letter": "C",
           "text": "120",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(10, 3) sin aplicar la fÃ³rmula de barras y estrellas."
+          "feedback": "Calculó C(10, 3) sin aplicar la fórmula de barras y estrellas."
         },
         {
           "letter": "D",
           "text": "30",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 10 * 3."
+          "feedback": "Multiplicó 10 * 3."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El nÃºmero de soluciones en enteros no negativos a $x_1 + x_2 + dots + x_k = n$ es $\\binom{n+k-1}{n}$. Para $n=10, k=3$: $\\binom{10+3-1}{10} = \\binom{12}{2} = \\frac{12   imes 11}{2} = 66$.",
+      "explanation": "El número de soluciones en enteros no negativos a $x_1 + x_2 + dots + x_k = n$ es $\\binom{n+k-1}{n}$. Para $n=10, k=3$: $\\binom{10+3-1}{10} = \\binom{12}{2} = \\frac{12   imes 11}{2} = 66$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,14 +607,14 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v14",
-      "statement": "Â¿CuÃ¡l es el tÃ©rmino independiente (el tÃ©rmino que no contiene a la variable $x$)?",
-      "context": "En la expansiÃ³n de $left(x^2 + \\frac{1}{x}\right)^9$.",
+      "statement": "¿Cuál es el término independiente (el término que no contiene a la variable $x$)?",
+      "context": "En la expansión de $left(x^2 + \\frac{1}{x}\night)^9$.",
       "options": [
         {
           "letter": "A",
           "text": "84",
           "is_correct": true,
-          "feedback": "TÃ©rmino general: C(9,k) * (x^2)^(9-k) * (x^(-1))^k = C(9,k) * x^(18 - 3k). Para tÃ©rmino independiente: 18 - 3k = 0 -> k = 6. C(9,6) = C(9,3) = (9*8*7)/6 = 84."
+          "feedback": "Término general: C(9,k) * (x^2)^(9-k) * (x^(-1))^k = C(9,k) * x^(18 - 3k). Para término independiente: 18 - 3k = 0 -> k = 6. C(9,6) = C(9,3) = (9*8*7)/6 = 84."
         },
         {
           "letter": "B",
@@ -636,7 +636,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El exponente de $x$ en el $k$-Ã©simo tÃ©rmino es $2(9-k) - k = 18 - 3k$. Igualando a cero para hallar el tÃ©rmino constante: $18 - 3k = 0 Rightarrow k = 6$.\nEl coeficiente es $\\binom{9}{6} = \\binom{9}{3} = \\frac{9   imes 8   imes 7}{3   imes 2   imes 1} = 84$.",
+      "explanation": "El exponente de $x$ en el $k$-ésimo término es $2(9-k) - k = 18 - 3k$. Igualando a cero para hallar el término constante: $18 - 3k = 0 Rightarrow k = 6$.\nEl coeficiente es $\\binom{9}{6} = \\binom{9}{3} = \\frac{9   imes 8   imes 7}{3   imes 2   imes 1} = 84$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -653,8 +653,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v15",
-      "statement": "Â¿De cuÃ¡ntas maneras se puede realizar esta particiÃ³n del conjunto (NÃºmero de Stirling de segunda especie $S(6,2)$)?",
-      "context": "Se quiere distribuir un conjunto de 6 estudiantes en 2 grupos no vacÃ­os e indistinguibles para un taller en Manizales.",
+      "statement": "¿De cuántas maneras se puede realizar esta partición del conjunto (Número de Stirling de segunda especie $S(6,2)$)?",
+      "context": "Se quiere distribuir un conjunto de 6 estudiantes en 2 grupos no vacíos e indistinguibles para un taller en Manizales.",
       "options": [
         {
           "letter": "A",
@@ -666,13 +666,13 @@
           "letter": "B",
           "text": "64",
           "is_correct": false,
-          "feedback": "CalculÃ³ 2^6 sin descontar los grupos vacÃ­os ni la indistinguibilidad."
+          "feedback": "Calculó 2^6 sin descontar los grupos vacíos ni la indistinguibilidad."
         },
         {
           "letter": "C",
           "text": "32",
           "is_correct": false,
-          "feedback": "OlvidÃ³ restar el caso de grupo vacÃ­o antes de dividir entre 2."
+          "feedback": "Olvidó restar el caso de grupo vacío antes de dividir entre 2."
         },
         {
           "letter": "D",
@@ -682,7 +682,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Particionar un conjunto de $n$ elementos en 2 grupos no vacÃ­os viene dado por $S(n,2) = \\frac{2^n - 2}{2} = 2^{n-1} - 1$. Para $n=6$: $2^5 - 1 = 32 - 1 = 31$.",
+      "explanation": "Particionar un conjunto de $n$ elementos en 2 grupos no vacíos viene dado por $S(n,2) = \\frac{2^n - 2}{2} = 2^{n-1} - 1$. Para $n=6$: $2^5 - 1 = 32 - 1 = 31$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,8 +699,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v16",
-      "statement": "Â¿CuÃ¡ntos jugadores $n$ estÃ¡n inscritos en el torneo?",
-      "context": "En un torneo de ajedrez con $n$ participantes en Armenia, cada jugador enfrenta a todos los demÃ¡s exactamente una vez. Se disputan en total 66 partidas.",
+      "statement": "¿Cuántos jugadores $n$ están inscritos en el torneo?",
+      "context": "En un torneo de ajedrez con $n$ participantes en Armenia, cada jugador enfrenta a todos los demás exactamente una vez. Se disputan en total 66 partidas.",
       "options": [
         {
           "letter": "A",
@@ -724,11 +724,11 @@
           "letter": "D",
           "text": "66",
           "is_correct": false,
-          "feedback": "ConfundiÃ³ el nÃºmero de partidas con el nÃºmero de jugadores."
+          "feedback": "Confundió el número de partidas con el número de jugadores."
         }
       ],
       "correct_answer": "A",
-      "explanation": "$\\binom{n}{2} = \\frac{n(n-1)}{2} = 66 Rightarrow n(n-1) = 132$. Resolviendo la ecuaciÃ³n cuadrÃ¡tica $n^2 - n - 132 = 0 Rightarrow (n-12)(n+11) = 0 Rightarrow n = 12$.",
+      "explanation": "$\\binom{n}{2} = \\frac{n(n-1)}{2} = 66 Rightarrow n(n-1) = 132$. Resolviendo la ecuación cuadrática $n^2 - n - 132 = 0 Rightarrow (n-12)(n+11) = 0 Rightarrow n = 12$.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -745,32 +745,32 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v17",
-      "statement": "Â¿CuÃ¡ntas soluciones enteras positivas existen para esta ecuaciÃ³n?",
-      "context": "Se busca determinar el nÃºmero de soluciones enteras estrictamente POSITIVAS ($x_i ge 1$) a la ecuaciÃ³n $x_1 + x_2 + x_3 + x_4 = 12$.",
+      "statement": "¿Cuántas soluciones enteras positivas existen para esta ecuación?",
+      "context": "Se busca determinar el número de soluciones enteras estrictamente POSITIVAS ($x_i ge 1$) a la ecuación $x_1 + x_2 + x_3 + x_4 = 12$.",
       "options": [
         {
           "letter": "A",
           "text": "165",
           "is_correct": true,
-          "feedback": "Hacemos y_i = x_i - 1 >= 0. La ecuaciÃ³n queda y_1 + y_2 + y_3 + y_4 = 12 - 4 = 8. C(8 + 4 - 1, 8) = C(11, 8) = C(11, 3) = (11 * 10 * 9) / 6 = 165."
+          "feedback": "Hacemos y_i = x_i - 1 >= 0. La ecuación queda y_1 + y_2 + y_3 + y_4 = 12 - 4 = 8. C(8 + 4 - 1, 8) = C(11, 8) = C(11, 3) = (11 * 10 * 9) / 6 = 165."
         },
         {
           "letter": "B",
           "text": "455",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(12+4-1, 12) = C(15,3) para enteros no negativos sin exigir x_i >= 1."
+          "feedback": "Calculó C(12+4-1, 12) = C(15,3) para enteros no negativos sin exigir x_i >= 1."
         },
         {
           "letter": "C",
           "text": "220",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(12, 3) por error."
+          "feedback": "Calculó C(12, 3) por error."
         },
         {
           "letter": "D",
           "text": "84",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(9, 3) por error."
+          "feedback": "Calculó C(9, 3) por error."
         }
       ],
       "correct_answer": "A",
@@ -791,7 +791,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v18",
-      "statement": "Â¿De cuÃ¡ntas maneras se pueden seleccionar 4 cartas de modo que NO HAYA NINGUNA PAREJA completa en la selecciÃ³n?",
+      "statement": "¿De cuántas maneras se pueden seleccionar 4 cartas de modo que NO HAYA NINGUNA PAREJA completa en la selección?",
       "context": "Un grupo de 4 parejas de cartas numeradas del 1 al 4 (total 8 cartas) se mezclan en una mesa.",
       "options": [
         {
@@ -810,13 +810,13 @@
           "letter": "C",
           "text": "48",
           "is_correct": false,
-          "feedback": "CalculÃ³ C(4,1) * C(4,3) * 2 por error."
+          "feedback": "Calculó C(4,1) * C(4,3) * 2 por error."
         },
         {
           "letter": "D",
           "text": "32",
           "is_correct": false,
-          "feedback": "MultiplicÃ³ 16 por 2."
+          "feedback": "Multiplicó 16 por 2."
         }
       ],
       "correct_answer": "A",
@@ -837,7 +837,7 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v19",
-      "statement": "Para $n = 3$, verifique la suma de los cuadrados de la fila 3 del TriÃ¡ngulo de Pascal e identifique el valor equivalente $\\binom{6}{3}$.",
+      "statement": "Para $n = 3$, verifique la suma de los cuadrados de la fila 3 del Triángulo de Pascal e identifique el valor equivalente $\\binom{6}{3}$.",
       "context": "Evaluando la identidad combinatoria $sum_{k=0}^n \\binom{n}{k}^2 = \\binom{2n}{n}$.",
       "options": [
         {
@@ -850,19 +850,19 @@
           "letter": "B",
           "text": "$1^2 + 3^2 + 3^2 + 1^2 = 18$, diferente de $\\binom{6}{3} = 20$.",
           "is_correct": false,
-          "feedback": "ErrÃ³ en la suma de 1 + 9 + 9 + 1."
+          "feedback": "Erró en la suma de 1 + 9 + 9 + 1."
         },
         {
           "letter": "C",
           "text": "$1 + 3 + 3 + 1 = 8$, que es igual a $2^3$.",
           "is_correct": false,
-          "feedback": "SumÃ³ los coeficientes simples sin elevarlos al cuadrado."
+          "feedback": "Sumó los coeficientes simples sin elevarlos al cuadrado."
         },
         {
           "letter": "D",
           "text": "$1^2 + 3^2 + 3^2 + 1^2 = 36$, que es igual a $6^2$.",
           "is_correct": false,
-          "feedback": "ErrÃ³ gravemente en la elevaciÃ³n de los tÃ©rminos."
+          "feedback": "Erró gravemente en la elevación de los términos."
         }
       ],
       "correct_answer": "A",
@@ -883,8 +883,8 @@
     },
     {
       "id": "CO-MAT-11-2026-W37-combinatoria-avanzada-001-MASTERY-bundle-v20",
-      "statement": "Â¿CuÃ¡l es la probabilidad de que NINGUNA carta llegue a su destinatario correcto (desarreglo completo $D_4$)?",
-      "context": "Cuatro secretarias en una oficina de BogotÃ¡ escriben 4 cartas distintas y preparan 4 sobres con las direcciones correspondientes. Si las cartas se colocan en los sobres al azar.",
+      "statement": "¿Cuál es la probabilidad de que NINGUNA carta llegue a su destinatario correcto (desarreglo completo $D_4$)?",
+      "context": "Cuatro secretarias en una oficina de Bogotá escriben 4 cartas distintas y preparan 4 sobres con las direcciones correspondientes. Si las cartas se colocan en los sobres al azar.",
       "options": [
         {
           "letter": "A",
@@ -902,17 +902,17 @@
           "letter": "C",
           "text": "$\\frac{1}{4}$",
           "is_correct": false,
-          "feedback": "EstimÃ³ 1/4 por intuiciÃ³n simple."
+          "feedback": "Estimó 1/4 por intuición simple."
         },
         {
           "letter": "D",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
-          "feedback": "AsumiÃ³ un 50% de probabilidad sin calcular los desarreglos."
+          "feedback": "Asumió un 50% de probabilidad sin calcular los desarreglos."
         }
       ],
       "correct_answer": "A",
-      "explanation": "NÃºmero de casos favorables (desarreglos $D_4$) $= 9$. NÃºmero de casos posibles ($4!$) $= 24$.\n$P(\text{ninguna correcta}) = \\frac{9}{24} = \\frac{3}{8} = 0.375$.",
+      "explanation": "Número de casos favorables (desarreglos $D_4$) $= 9$. Número de casos posibles ($4!$) $= 24$.\n$P(\text{ninguna correcta}) = \\frac{9}{24} = \\frac{3}{8} = 0.375$.",
       "difficulty": "10",
       "images": [],
       "tags": [],
