@@ -113,7 +113,7 @@ La celulosa es el biopolímero estructural más abundante en la naturaleza, cons
   <!-- feedback: Incorrecto. La ribosa es una pentosa del ARN. -->
 
 ### Explicacion Pedagogica
-La lactosa es el disacárido compuesto por galactosa y glucosa unidas por enlace $eta(1ightarrow 4)$.
+La lactosa es el disacárido compuesto por galactosa y glucosa unidas por enlace $\beta(1\rightarrow 4)$.
 
 ## Question 5 [D5-D6]
 **ID:** CO-CN-11-2026-W15-carbohidratos-001-MASTERY-bundle-v5
@@ -159,7 +159,7 @@ Los monosacáridos reductores poseen carbonilos libres que reducen los cationes 
   <!-- feedback: Incorrecto. La celulosa no contiene azufre ni puentes disulfuro. -->
 
 ### Explicacion Pedagogica
-La especificidad enzimática impide a las amilasas humanas romper el enlace $eta(1ightarrow 4)$ glucosídico.
+La especificidad enzimática impide a las amilasas humanas romper el enlace $\beta(1\rightarrow 4)$ glucosídico.
 
 ## Question 7 [D5-D6]
 **ID:** CO-CN-11-2026-W15-carbohidratos-001-MASTERY-bundle-v7
@@ -251,7 +251,7 @@ La fibra alimentaria retrasa la digestión y difusión iónica de carbohidratos,
   <!-- feedback: Incorrecto. La mutarrotación no altera la fórmula molecular. -->
 
 ### Explicacion Pedagogica
-La mutarrotación refleja el equilibrio entre anómeros $alpha$ y $eta$ de la glucosa en fase acuosa.
+La mutarrotación refleja el equilibrio entre anómeros $\alpha$ y $\beta$ de la glucosa en fase acuosa.
 
 ## Question 11 [D7-D8]
 **ID:** CO-CN-11-2026-W15-carbohidratos-001-MASTERY-bundle-v11

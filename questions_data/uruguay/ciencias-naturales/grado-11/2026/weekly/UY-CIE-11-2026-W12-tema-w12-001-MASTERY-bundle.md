@@ -406,7 +406,7 @@ La respiración anaeróbica del sulfato por bacterias reductoras de azufre en se
 - [ ] B) $\text{NEP} = -150\text{ g C/m}^2\text{/año}$; el ecosistema actúa como una fuente neta de $CO_2$.
   <!-- feedback: Incorrecto. La suma $R_a + R_h = 1050$, menor a 1200, por lo que el balance es positivo. -->
 - [ ] C) $\text{NEP} = +600\text{ g C/m}^2\text{/año}$; equivale únicamente a la PPN omitiendo $R_h$.
-  <!-- feedback: Incorrecto. $600$ es la PPN ($	ext{PPB} - R_a$), pero la NEP deduce también la respiración heterótrofa $R_h$. -->
+  <!-- feedback: Incorrecto. $600$ es la PPN ($\text{PPB} - R_a$), pero la NEP deduce también la respiración heterótrofa $R_h$. -->
 - [ ] D) $\text{NEP} = 0\text{ g C/m}^2\text{/año}$; el ecosistema está en equilibrio termodinámico estricto.
   <!-- feedback: Incorrecto. La diferencia matemática da $+150$, indicando acumulación neta de carbono. -->
 

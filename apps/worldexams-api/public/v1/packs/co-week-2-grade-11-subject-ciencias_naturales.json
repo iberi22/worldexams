@@ -561,7 +561,7 @@
     },
     {
       "id": "CO-CN-11-2026-W02-cinematica-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es la velocidad angular $\\omega$ de las aspas del ventilador expresada en radianes por segundo ($\text{rad/s}$)?",
+      "statement": "¿Cuál es la velocidad angular $\\omega$ de las aspas del ventilador expresada en radianes por segundo ($\\text{rad/s}$)?",
       "context": "Un ventilador industrial en una planta de alimentos en Cali gira a $1200\\text{ rpm}$ (revoluciones por minuto).",
       "options": [
         {
@@ -866,7 +866,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "La ecuación diferencial $\\frac{dv}{dt} = -k v$ es separable. Su integración conduce a $\\ln\\\\left(\\frac{v}{v_0}\\r\\right) = -kt$, lo cual al despejar nos entrega la solución exponencial $v(t) = v_0 e^{-kt}$.",
+      "explanation": "La ecuación diferencial $\\frac{dv}{dt} = -k v$ es separable. Su integración conduce a $\\ln\\left(\\frac{v}{v_0}\\right) = -kt$, lo cual al despejar nos entrega la solución exponencial $v(t) = v_0 e^{-kt}$.",
       "difficulty": "10",
       "images": [],
       "tags": [],

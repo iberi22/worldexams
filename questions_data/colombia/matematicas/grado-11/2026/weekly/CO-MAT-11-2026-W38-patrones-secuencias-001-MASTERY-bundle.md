@@ -67,7 +67,7 @@ En una sucesión aritmética, la diferencia común $d$ es la resta entre cualqui
   <!-- feedback: Corresponde al recíproco de la razón de crecimiento. -->
 
 ### Explicacion Pedagogica
-Una sucesión geométrica tiene la forma $a_n = a_0 cdot r^n$. Dado que el número de bacterias se duplica a cada paso, la razón multiplicativa es $r = 2$.
+Una sucesión geométrica tiene la forma $a_n = a_0 \cdot r^n$. Dado que el número de bacterias se duplica a cada paso, la razón multiplicativa es $r = 2$.
 
 ## Question 3 [D3-D4]
 **ID:** CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v3
@@ -220,7 +220,7 @@ Suma total $S_{15} = \frac{n}{2}(a_1 + a_{15}) = \frac{15}{2}(20 + 48) = 7.5   i
 **Contexto:** Considere la sucesión geométrica infinita $16, 8, 4, 2, 1, \frac{1}{2}, dots$
 
 ### Enunciado
-¿Cuál es la suma infinita de todos los términos de esta sucesión ($S_infty$)?
+¿Cuál es la suma infinita de todos los términos de esta sucesión ($S_\infty$)?
 
 ### Opciones
 - [x] A) 32
@@ -233,8 +233,8 @@ Suma total $S_{15} = \frac{n}{2}(a_1 + a_{15}) = \frac{15}{2}(20 + 48) = 7.5   i
   <!-- feedback: Como |r| = 0.5 < 1, la serie geométrica converge a un valor finito. -->
 
 ### Explicacion Pedagogica
-Para una serie geométrica convergente ($|r| < 1$), la suma infinita se calcula como $S_infty = \frac{a_1}{1 - r}$.
-Aquí $a_1 = 16$ y $r = 0.5$: $S_infty = \frac{16}{1 - 0.5} = \frac{16}{0.5} = 32$.
+Para una serie geométrica convergente ($|r| < 1$), la suma infinita se calcula como $S_\infty = \frac{a_1}{1 - r}$.
+Aquí $a_1 = 16$ y $r = 0.5$: $S_\infty = \frac{16}{1 - 0.5} = \frac{16}{0.5} = 32$.
 
 ## Question 10 [D5-D6]
 **ID:** CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v10
@@ -257,7 +257,7 @@ Aquí $a_1 = 16$ y $r = 0.5$: $S_infty = \frac{16}{1 - 0.5} = \frac{16}{0.5} = 3
   <!-- feedback: Calculó una potencia incorrecta. -->
 
 ### Explicacion Pedagogica
-La altura tras $n$ rebotes es $h_n = h_0 cdot r^n$. Para $n=3, h_0 = 10, r = 0.75$:
+La altura tras $n$ rebotes es $h_n = h_0 \cdot r^n$. Para $n=3, h_0 = 10, r = 0.75$:
 $h_3 = 10   imes (0.75)^3 = 10   imes 0.421875 = 4.21875$ metros.
 
 ## Question 11 [D7-D8]
@@ -313,7 +313,7 @@ $1, 1, 2, 3, 5, 8, 13, 21$. Por lo tanto, $F_8 = 21$.
 **Bloom:** Analyze
 **ICFES:** Numerico
 **Expected_Success:** 0.60
-**Contexto:** Se quiere calcular la suma de los primeros $n$ términos de la serie $sum_{k=1}^n (2k - 1)$, que representa la suma de los primeros números impares.
+**Contexto:** Se quiere calcular la suma de los primeros $n$ términos de la serie $\sum_{k=1}^n (2k - 1)$, que representa la suma de los primeros números impares.
 
 ### Enunciado
 ¿A qué expresión simplificada equivale la suma de los primeros $n$ números impares?
@@ -329,7 +329,7 @@ $1, 1, 2, 3, 5, 8, 13, 21$. Por lo tanto, $F_8 = 21$.
   <!-- feedback: Dividió entre 2 el resultado real. -->
 
 ### Explicacion Pedagogica
-Demostración por inducción o mediante suma telescópica: $sum_{k=1}^n (2k - 1) = 2 sum k - sum 1 = 2 \frac{n(n+1)}{2} - n = n^2 + n - n = n^2$.
+Demostración por inducción o mediante suma telescópica: $\sum_{k=1}^n (2k - 1) = 2 \sum k - \sum 1 = 2 \frac{n(n+1)}{2} - n = n^2 + n - n = n^2$.
 
 ## Question 14 [D7-D8]
 **ID:** CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v14
@@ -342,13 +342,13 @@ Demostración por inducción o mediante suma telescópica: $sum_{k=1}^n (2k - 1)
 ¿Cuál es la función $V(t)$ que representa el valor de la máquina al cabo de $t$ años?
 
 ### Opciones
-- [x] A) $V(t) = 50,000,000 cdot (0.90)^t$
+- [x] A) $V(t) = 50,000,000 \cdot (0.90)^t$
   <!-- feedback: Al perder el 10% cada año, conserva el 90% (0.90) de su valor del año anterior: V(t) = V_0 * (0.90)^t. -->
-- [ ] B) $V(t) = 50,000,000 cdot (0.10)^t$
+- [ ] B) $V(t) = 50,000,000 \cdot (0.10)^t$
   <!-- feedback: Usó el porcentaje de depreciación en lugar del valor retenido (0.90). -->
 - [ ] C) $V(t) = 50,000,000 - 5,000,000 t$
   <!-- feedback: Asumió una depreciación lineal constante en lugar de una tasa porcentual geométrica. -->
-- [ ] D) $V(t) = 50,000,000 cdot (1.10)^t$
+- [ ] D) $V(t) = 50,000,000 \cdot (1.10)^t$
   <!-- feedback: Calculó apreciación (ganancia del 10%) en lugar de depreciación. -->
 
 ### Explicacion Pedagogica
@@ -370,7 +370,7 @@ ight)$.
   <!-- feedback: La suma parcial Sn se cancela telescópicamente: Sn = (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1). Cuando n -> inf, 1/(n+1) -> 0, luego la suma es 1. -->
 - [ ] B) 0
   <!-- feedback: Corresponde al límite del término 1/(n+1), no a la suma total de la serie. -->
-- [ ] C) $infty$
+- [ ] C) $\infty$
   <!-- feedback: Asumió divergencia sin aplicar la propiedad telescópica. -->
 - [ ] D) 0.5
   <!-- feedback: Estimó el valor del segundo término de la resta. -->
@@ -388,7 +388,7 @@ ight) = 1 - 0 = 1$.
 **Contexto:** Una persona deposita 1,000,000 COP a una tasa de interés compuesto del $5%$ anual en un fondo de inversión en Armenia.
 
 ### Enunciado
-¿Al cabo de cuántos años el capital acumulado superará por primera vez los 1,200,000 COP? (Utilice $log(1.20) approx 0.07918$ y $log(1.05) approx 0.02119$).
+¿Al cabo de cuántos años el capital acumulado superará por primera vez los 1,200,000 COP? (Utilice $log(1.20) \approx 0.07918$ y $log(1.05) \approx 0.02119$).
 
 ### Opciones
 - [x] A) 4 años
@@ -402,7 +402,7 @@ ight) = 1 - 0 = 1$.
 
 ### Explicacion Pedagogica
 $1,000,000(1.05)^t = 1,200,000 Rightarrow (1.05)^t = 1.20$.
-Tomando logaritmos: $t = \frac{log(1.20)}{log(1.05)} approx \frac{0.07918}{0.02119} approx 3.74$ años.
+Tomando logaritmos: $t = \frac{\log(1.20)}{\log(1.05)} \approx \frac{0.07918}{0.02119} \approx 3.74$ años.
 Redondeando al entero superior en años completos: 4 años.
 
 ## Question 17 [D9-D10]
@@ -413,7 +413,7 @@ Redondeando al entero superior en años completos: 4 años.
 **Contexto:** Un atleta en Bogotá entrena para un maratón. El primer día corre 5 km y cada día siguiente aumenta la distancia en un $10%$ respecto al día anterior.
 
 ### Enunciado
-¿Cuál es la distancia total recorrida acumulada durante los primeros 10 días de entrenamiento? (Utilice $(1.10)^{10} approx 2.5937$).
+¿Cuál es la distancia total recorrida acumulada durante los primeros 10 días de entrenamiento? (Utilice $(1.10)^{10} \approx 2.5937$).
 
 ### Opciones
 - [x] A) 79.68 km

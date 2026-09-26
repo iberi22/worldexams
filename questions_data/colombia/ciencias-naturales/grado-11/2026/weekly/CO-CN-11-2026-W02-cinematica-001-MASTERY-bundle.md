@@ -307,7 +307,7 @@ El alcance horizontal es $R = \frac{v_0^2 \sin(2\theta)}{g}$. Para ángulos comp
 **Contexto:** Un ventilador industrial en una planta de alimentos en Cali gira a $1200\text{ rpm}$ (revoluciones por minuto).
 
 ### Enunciado
-¿Cuál es la velocidad angular $\omega$ de las aspas del ventilador expresada en radianes por segundo ($	ext{rad/s}$)?
+¿Cuál es la velocidad angular $\omega$ de las aspas del ventilador expresada en radianes por segundo ($\text{rad/s}$)?
 
 ### Opciones
 - [x] A) $40\pi\text{ rad/s}$
@@ -458,7 +458,7 @@ La aceleración centrípeta es proporcional al cuadrado de la rapidez tangencial
   <!-- feedback: Incorrecto. Al existir desaceleración no nula, la velocidad debe variar con el tiempo. -->
 
 ### Explicacion Pedagogica
-La ecuación diferencial $\frac{dv}{dt} = -k v$ es separable. Su integración conduce a $\ln\\left(\frac{v}{v_0}\r\right) = -kt$, lo cual al despejar nos entrega la solución exponencial $v(t) = v_0 e^{-kt}$.
+La ecuación diferencial $\frac{dv}{dt} = -k v$ es separable. Su integración conduce a $\ln\left(\frac{v}{v_0}\right) = -kt$, lo cual al despejar nos entrega la solución exponencial $v(t) = v_0 e^{-kt}$.
 
 ## Question 20 [D9-D10]
 **ID:** CO-CN-11-2026-W02-cinematica-001-MASTERY-bundle-v20
