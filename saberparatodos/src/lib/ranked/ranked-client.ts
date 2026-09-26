@@ -127,6 +127,8 @@ export async function submitRanked(
     if (!response.ok) {
       if (response.status === 409) {
         throw new RankedError('Already submitted', 'ALREADY_SUBMITTED');
+      } else if (response.status === 503) {
+        throw new RankedError('Ranked module unavailable', 'UNAVAILABLE');
       }
       throw new RankedError(`HTTP error! status: ${response.status}`, 'UNKNOWN');
     }
@@ -153,6 +155,9 @@ export async function fetchLeaderboard(season?: string): Promise<LeaderboardResp
     });
 
     if (!response.ok) {
+      if (response.status === 503) {
+        throw new RankedError('Ranked module unavailable', 'UNAVAILABLE');
+      }
       throw new RankedError(`HTTP error! status: ${response.status}`, 'UNKNOWN');
     }
 
