@@ -7,6 +7,12 @@ import {
 } from "./index";
 
 const MIN_ANSWERED = 31;
+const MIN_SECONDS_PER_ANSWER = 4;
+// Per-isolate cache of validated area pools (packs are static between deploys).
+const POOL_CACHE_TTL_MS = 10 * 60 * 1000;
+const poolCache = new Map<string, { at: number; questions: any[] }>();
+
+const PLACEHOLDER_RE = /Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta/i;
 const RANKED_SESSION_TTL_S = 90 * 60; // 90 min
 
 // Mulberry32 PRNG
@@ -31,6 +37,11 @@ async function sha256(message: string) {
   const hashBuffer = await crypto.subtle.digest("SHA-256", msgBuffer);
   const hashArray = Array.from(new Uint8Array(hashBuffer));
   return hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+/** Test helper: clears the per-isolate pool cache. */
+export function __clearRankedPoolCache() {
+  poolCache.clear();
 }
 
 export async function routeRanked(
@@ -90,8 +101,11 @@ export async function routeRanked(
     const review: any[] = [];
     const processedQuestionIds = new Set<string>();
 
+    const sessionQuestionIds = new Set<string>(questionIds);
     for (const answer of answers) {
-      if (!answer.letter || processedQuestionIds.has(answer.questionId)) continue;
+      // Only answers to THIS session's questions count (prevents padding with fake ids).
+      if (!answer || typeof answer.letter !== "string" || !answer.letter) continue;
+      if (!sessionQuestionIds.has(answer.questionId) || processedQuestionIds.has(answer.questionId)) continue;
       processedQuestionIds.add(answer.questionId);
 
       answered++;
@@ -126,7 +140,9 @@ export async function routeRanked(
       } else {
         msArray.sort((a, b) => a - b);
         const medianMs = msArray.length > 0 ? (msArray.length % 2 !== 0 ? msArray[Math.floor(msArray.length / 2)] : (msArray[msArray.length / 2 - 1] + msArray[msArray.length / 2]) / 2) : 0;
-        if (medianMs < 4000) {
+        // Server-side wall clock: client-reported ms can be forged.
+        const elapsedS = now - Number(sessionRes.created_at);
+        if (medianMs < 4000 || elapsedS < answered * MIN_SECONDS_PER_ANSWER) {
           status = "flagged";
         }
       }
@@ -191,7 +207,7 @@ export async function routeRanked(
     }
     if (
       typeof nickname !== "string" ||
-      !/^[A-Za-z0-9 _-]{3,20}$/.test(nickname)
+      !/^[\p{L}\p{N} _-]{3,20}$/u.test(nickname.trim())
     ) {
       return json({ error: "INVALID_NICKNAME" }, 400, {}, request);
     }
@@ -252,35 +268,46 @@ export async function routeRanked(
       const aliases = getSubjectPackAliases(area);
       const prefixes = getCountryPackPrefixes(country);
 
-      const candidates: string[] = [];
+      const cacheKey = `${country}|${grade}|${area}`;
+      const cached = poolCache.get(cacheKey);
+      if (cached && Date.now() - cached.at < POOL_CACHE_TTL_MS) {
+        areaPools[area] = [...cached.questions];
+        shuffle(areaPools[area], prng);
+        continue;
+      }
+      const seenIds = new Set<string>();
       for (const week of weeks) {
+        // Alias packs (ing/english/ingles, ...) are byte-identical copies: take the
+        // FIRST existing pack per week (canonical alias + ISO prefix first).
+        const weekCandidates: string[] = [];
         for (const subjectAlias of aliases) {
           for (const prefix of prefixes) {
-            candidates.push(`/v1/packs/${prefix}-week-${week}-grade-${grade}-subject-${subjectAlias}.json`);
+            weekCandidates.push(`/v1/packs/${prefix}-week-${week}-grade-${grade}-subject-${subjectAlias}.json`);
           }
-          candidates.push(`/v1/packs/week-${week}-grade-${grade}-subject-${subjectAlias}.json`);
         }
-      }
-
-      for (const path of candidates) {
-        try {
-          const res = await env.ASSETS.fetch(new Request(new URL(path, request.url).toString(), {
-            method: "GET",
-            headers: request.headers,
-          }));
-          if (res.ok) {
+        for (const path of weekCandidates) {
+          try {
+            const res = await env.ASSETS.fetch(new Request(new URL(path, request.url).toString(), { method: "GET" }));
+            if (!res.ok) continue;
             const pack = await res.json<any>();
-            if (Array.isArray(pack?.questions)) {
-              for (const q of pack.questions) {
-                areaPools[area].push({ ...q, subject: area });
-              }
+            if (!Array.isArray(pack?.questions) || pack.questions.length === 0) continue;
+            for (const q of pack.questions) {
+              const id = String(q?.id || "");
+              if (!id || seenIds.has(id)) continue;
+              const correctCount = (q.options || []).filter((o: any) => o?.is_correct).length;
+              const text = `${q.statement || ""} ${q.explanation || ""}`;
+              if ((q.options || []).length !== 4 || correctCount !== 1 || PLACEHOLDER_RE.test(text)) continue;
+              seenIds.add(id);
+              areaPools[area].push({ ...q, subject: area });
             }
+            break;
+          } catch {
+            continue;
           }
-        } catch {
-          continue;
         }
       }
 
+      poolCache.set(cacheKey, { at: Date.now(), questions: [...areaPools[area]] });
       shuffle(areaPools[area], prng);
     }
 
@@ -331,15 +358,6 @@ export async function routeRanked(
         return { letter, text: opt.text };
       });
 
-      // No answerKey pushed if no correct option? (edge case, assume always 1 correct)
-      if (!answerKey.find((a) => a.questionId === norm.id)) {
-          answerKey.push({
-            questionId: norm.id,
-            correctLetter: "A",
-            feedback: "",
-            explanation: norm.explanation || "",
-          });
-      }
 
       return {
         id: norm.id,

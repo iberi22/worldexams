@@ -1,6 +1,7 @@
-import { describe, it, expect, vi, beforeEach } from "vitest";
+import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
 import worker from "../src/index";
 import type { Env } from "../src/index";
+import { __clearRankedPoolCache } from "../src/ranked";
 
 class FakeD1 {
   tables: Record<string, any[]> = {
@@ -95,20 +96,54 @@ describe("Ranked Module", () => {
   let mockEnv: Env;
 
   beforeEach(() => {
+    __clearRankedPoolCache();
     db = new FakeD1();
     mockEnv = {
       SUPABASE_URL: "https://mock.supabase.co",
       SUPABASE_ANON_KEY: "mock-key",
       ASSETS: {
         fetch: vi.fn(async (request: Request | string) => {
-          const q = { id: `q${Math.random()}`, statement: "Q", options: [{ text: "O1", is_correct: true }, { text: "O2" }], explanation: "Exp" };
-          const pack = { questions: Array(20).fill(q) };
-          return new Response(JSON.stringify(pack), { status: 200 });
+          // Unique, well-formed 4-option questions per pack path.
+          const url = typeof request === "string" ? request : request.url;
+          const slug = new URL(url).pathname.split("/").pop();
+          const questions = Array.from({ length: 20 }, (_, i) => ({
+            id: `${slug}-q${i}`,
+            statement: `Q ${i}`,
+            options: [
+              { text: "Right", is_correct: true, feedback: "Because right." },
+              { text: "W1", feedback: "no" },
+              { text: "W2", feedback: "no" },
+              { text: "W3", feedback: "no" },
+            ],
+            explanation: "Explanation text.",
+          }));
+          return new Response(JSON.stringify({ questions }), { status: 200 });
         }),
       } as unknown as Fetcher,
       RANKED_DB: db as any,
     };
   });
+
+  afterEach(() => {
+    vi.restoreAllMocks();
+  });
+
+  async function startSession(nickname = "tester") {
+    const res = await worker.fetch(new Request("http://localhost/v1/ranked/start", {
+      method: "POST",
+      body: JSON.stringify({ deviceId: "dev123456", nickname }),
+    }), mockEnv);
+    return { res, data: (await res.json()) as any };
+  }
+
+  function answersFor(data: any, n: number, letter = "A") {
+    return data.questions.slice(0, n).map((q: any) => ({ questionId: q.id, letter, ms: 5000 }));
+  }
+
+  function advanceSeconds(sec: number) {
+    const real = Date.now();
+    vi.spyOn(Date, "now").mockReturnValue(real + sec * 1000);
+  }
 
   it("returns 503 if RANKED_DB is missing", async () => {
     const envNoDb = { ...mockEnv, RANKED_DB: undefined };
@@ -149,7 +184,8 @@ describe("Ranked Module", () => {
     const dataStart = await resStart.json() as any;
 
     // 2. Submit 30 answers
-    const answers = Array.from({ length: 30 }, (_, i) => ({ questionId: `q${i}`, letter: "A", ms: 5000 }));
+    const answers = answersFor(dataStart, 30);
+    advanceSeconds(600);
     const reqSub = new Request("http://localhost/v1/ranked/submit", {
       method: "POST",
       body: JSON.stringify({
@@ -171,7 +207,8 @@ describe("Ranked Module", () => {
     const resStart = await worker.fetch(reqStart, mockEnv);
     const dataStart = await resStart.json() as any;
 
-    const answers = Array.from({ length: 31 }, (_, i) => ({ questionId: `q${i}`, letter: "A", ms: 5000 }));
+    const answers = answersFor(dataStart, 31);
+    advanceSeconds(600);
     const reqSub = new Request("http://localhost/v1/ranked/submit", {
       method: "POST",
       body: JSON.stringify({
@@ -194,7 +231,8 @@ describe("Ranked Module", () => {
     const resStart = await worker.fetch(reqStart, mockEnv);
     const dataStart = await resStart.json() as any;
 
-    const answers = Array.from({ length: 31 }, (_, i) => ({ questionId: `q${i}`, letter: "A", ms: 5000 }));
+    const answers = answersFor(dataStart, 31);
+    advanceSeconds(600);
     const reqSub = new Request("http://localhost/v1/ranked/submit", {
       method: "POST",
       body: JSON.stringify({
@@ -220,13 +258,66 @@ describe("Ranked Module", () => {
       method: "POST",
       body: JSON.stringify({
         sessionId: dataStart.sessionId,
-        answers: Array.from({ length: 31 }, (_, i) => ({ questionId: `q${i}`, letter: "A", ms: 5000 })),
+        answers: answersFor(dataStart, 31),
         integrity: {}
       }),
     });
     await worker.fetch(reqSub.clone(), mockEnv);
     const resSub2 = await worker.fetch(reqSub, mockEnv);
     expect(resSub2.status).toBe(409);
+  });
+
+  it("answers with question ids outside the session are not counted", async () => {
+    const { data } = await startSession();
+    const fake = Array.from({ length: 40 }, (_, i) => ({ questionId: `fake-${i}`, letter: "A", ms: 5000 }));
+    advanceSeconds(600);
+    const res = await worker.fetch(new Request("http://localhost/v1/ranked/submit", {
+      method: "POST",
+      body: JSON.stringify({ sessionId: data.sessionId, answers: fake, integrity: {} }),
+    }), mockEnv);
+    const out = (await res.json()) as any;
+    expect(out.answered).toBe(0);
+    expect(out.status).toBe("not_eligible_min_questions");
+  });
+
+  it("submitting faster than the server-side minimum time is flagged", async () => {
+    const { data } = await startSession();
+    advanceSeconds(30); // 31 answers need >= 124 s
+    const res = await worker.fetch(new Request("http://localhost/v1/ranked/submit", {
+      method: "POST",
+      body: JSON.stringify({ sessionId: data.sessionId, answers: answersFor(data, 31), integrity: {} }),
+    }), mockEnv);
+    expect(((await res.json()) as any).status).toBe("flagged");
+  });
+
+  it("scores against the server answer key", async () => {
+    const { data } = await startSession();
+    // Pick the letter of the option whose text is "Right" for each question.
+    const answers = data.questions.slice(0, 35).map((q: any) => ({
+      questionId: q.id,
+      letter: q.options.find((o: any) => o.text === "Right").letter,
+      ms: 5000,
+    }));
+    advanceSeconds(600);
+    const res = await worker.fetch(new Request("http://localhost/v1/ranked/submit", {
+      method: "POST",
+      body: JSON.stringify({ sessionId: data.sessionId, answers, integrity: {} }),
+    }), mockEnv);
+    const out = (await res.json()) as any;
+    expect(out.status).toBe("valid");
+    expect(out.correct).toBe(35);
+    expect(out.score).toBe(875);
+  });
+
+  it("accepts unicode nicknames and rejects invalid ones", async () => {
+    expect((await startSession("José Ñoño")).res.status).toBe(200);
+    expect((await startSession("<script>")).res.status).toBe(400);
+  });
+
+  it("does not sample duplicate questions from alias packs", async () => {
+    const { data } = await startSession();
+    const ids = data.questions.map((q: any) => q.id);
+    expect(new Set(ids).size).toBe(ids.length);
   });
 
   it("leaderboard excludes below average and best per device", async () => {
