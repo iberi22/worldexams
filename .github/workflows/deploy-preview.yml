@@ -87,6 +87,7 @@ jobs:
         id: deploy
         working-directory: ./saberparatodos
         run: |
+          set -o pipefail
           npx wrangler deploy --config dist/server/wrangler.json --name="saberparatodos-preview-${{ github.ref_name }}" | tee wrangler-preview.log
           PREVIEW_URL=$(grep -oE 'https://[a-z0-9.-]+\.workers\.dev' wrangler-preview.log | head -1 || true)
           echo "preview_url=$PREVIEW_URL" >> "$GITHUB_OUTPUT"
@@ -94,11 +95,8 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
-  # NOTE 2026-09-03: `continue-on-error: true` agregado. El token
-  # CLOUDFLARE_API_TOKEN actual no tiene permisos para subir assets estáticos
-  # (assets-upload-session [code: 10405]). El deploy del Worker principal
-  # funciona; el del API falla. No debe BLOQUEAR merges — solo warn.
-  # Cuando se actualicen los permisos del token, remover continue-on-error.
+  # NOTE: `continue-on-error: true` en deploy-api-preview para que eventuales
+  # fallos en la API de preview no bloqueen el merge de PRs.
   deploy-api-preview:
     needs: validate-and-build
     runs-on: ubuntu-latest
@@ -120,7 +118,7 @@ jobs:
 
       - name: Deploy API Worker (Preview)
         working-directory: ./apps/worldexams-api
-        run: npx wrangler deploy --name="worldexams-api-preview-${{ github.ref_name }}" || echo "::warning::API preview deploy falló por permisos del token CF (code 10405). No bloquea merge."
+        run: npx wrangler deploy --name="worldexams-api-preview-${{ github.ref_name }}"
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
