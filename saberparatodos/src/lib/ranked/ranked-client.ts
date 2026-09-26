@@ -23,7 +23,7 @@ export interface RankedQuestion {
 export interface RankedStartResponse {
   sessionId: string;
   seed: number;
-  expiresAt: string;
+  expiresAt: string | number;
   questions: RankedQuestion[];
 }
 
@@ -72,6 +72,19 @@ export interface LeaderboardResponse {
 }
 
 export const RANKED_MIN_ANSWERED = 31;
+export const RANKED_DURATION_S = 60 * 60;
+
+/**
+ * Normalizes the server `expiresAt` to epoch milliseconds. Accepts an ISO string
+ * (current contract) or unix seconds / milliseconds (early API responses).
+ */
+export function expiresAtMs(value: string | number): number {
+  if (typeof value === 'number' || /^\d+$/.test(String(value))) {
+    const n = Number(value);
+    return n < 1e12 ? n * 1000 : n;
+  }
+  return new Date(value).getTime();
+}
 export const RANKED_TOTAL_QUESTIONS = 40;
 
 export function getRankedApiBase(): string {
@@ -172,7 +185,7 @@ export async function fetchLeaderboard(season?: string): Promise<LeaderboardResp
 
 export interface ActiveRankedSession {
   sessionId: string;
-  expiresAt: string;
+  expiresAt: string | number;
   questions: RankedQuestion[];
   answers: RankedAnswer[];
 }
@@ -193,7 +206,7 @@ export function loadActiveRankedSession(): ActiveRankedSession | null {
     if (!raw) return null;
 
     const session = JSON.parse(raw) as ActiveRankedSession;
-    const expiresAt = new Date(session.expiresAt).getTime();
+    const expiresAt = expiresAtMs(session.expiresAt);
     const now = Date.now();
 
     if (now > expiresAt) {
