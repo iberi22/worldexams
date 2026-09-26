@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { fetchLeaderboard, RankedError, type LeaderboardResponse } from '../../lib/ranked/ranked-client';
+  import { expiresAtMs, fetchLeaderboard, RankedError, type LeaderboardResponse } from '../../lib/ranked/ranked-client';
 
   let { hasRankedData = $bindable(false) } = $props<{ hasRankedData?: boolean }>();
 
@@ -66,9 +66,10 @@
     }
   }
 
-  function formatDate(isoString: string): string {
+  function formatDate(isoString: string | number): string {
     try {
-      const d = new Date(isoString);
+      // API may send unix seconds; normalize like expiresAt.
+      const d = new Date(expiresAtMs(isoString));
       return new Intl.DateTimeFormat('es-CO', { day: '2-digit', month: 'short' }).format(d);
     } catch {
       return '';
