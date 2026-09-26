@@ -107,8 +107,8 @@ const narrativa = narrar(nodos);
         buildTorneoSet,
       },
       mesh: {
-        createTransport: (opts) => new MeshTransport(opts),
-        createDirectory: (opts) => new SalonDirectory(opts),
+        createTransport: (opts: ConstructorParameters<typeof MeshTransport>[0]) => new MeshTransport(opts),
+        createDirectory: (opts: ConstructorParameters<typeof SalonDirectory>[0]) => new SalonDirectory(opts),
       },
       store: { loadState, saveState },
     };
