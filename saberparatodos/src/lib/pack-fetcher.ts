@@ -104,6 +104,8 @@ export async function fetchQuestionsFromPacks(
       baseOrigin ||
       (typeof window !== 'undefined' ? window.location.origin : 'https://saberparatodos.space');
 
+    const MAX_STATIC_PACK_REQUESTS = 24;
+
     const fetchStaticPackCandidates = async (): Promise<AppQuestion[]> => {
       const subjectCandidatePaths: string[] = [];
       const countryCode =
@@ -129,36 +131,65 @@ export async function fetchQuestionsFromPacks(
       }
       legacyCandidatePaths.push(`${staticOrigin}/api/packs/${countryCode}-grado-${grade}-full.json`);
 
-      const allCandidatePaths = [...subjectCandidatePaths, ...legacyCandidatePaths];
       if (!canUseRelativeFetch) return [];
 
-      const accumulatedQuestions: AppQuestion[] = [];
-      const loadedWeeks = new Set<string>();
-
-      for (const path of allCandidatePaths) {
+      const uniqueUrls = new Set<string>();
+      for (const path of [...subjectCandidatePaths, ...legacyCandidatePaths]) {
         try {
-          const url = path.startsWith('http') ? path : resolvePackUrl(path);
-          const getResponse = await fetch(url);
-          if (getResponse.ok) {
-            const packData = await getResponse.json();
-            if (Array.isArray(packData?.questions) && packData.questions.length > 0) {
-              const packSubject = packData.subject || packData.metadata?.subject || subject || 'unknown';
-              const questions: AppQuestion[] = packData.questions.map((q: any) => {
-                const qSubject = normalizeSubjectKey(q.subject || packSubject);
-                if (q.options?.length && !q.options[0].id) {
-                  q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A', 'B', 'C', 'D', 'E'][i] || String(i) }));
-                }
-                return transformQuestion(q, grade, qSubject);
-              });
-              accumulatedQuestions.push(...questions);
+          const urlStr = path.startsWith('http') ? path : resolvePackUrl(path);
+          uniqueUrls.add(urlStr);
+        } catch {
+          // Ignore parse errors
+        }
+      }
 
-              if (!period) {
-                break;
+      const dedupedUrls = Array.from(uniqueUrls);
+
+      const accumulatedQuestions: AppQuestion[] = [];
+      let requestCount = 0;
+
+      const chunkArray = <T>(arr: T[], size: number): T[][] => {
+        return Array.from({ length: Math.ceil(arr.length / size) }, (v, i) =>
+          arr.slice(i * size, i * size + size)
+        );
+      };
+
+      const chunks = chunkArray(dedupedUrls, 6);
+
+      for (const chunk of chunks) {
+        if (requestCount >= MAX_STATIC_PACK_REQUESTS) break;
+
+        const urlsToFetch = chunk.slice(0, MAX_STATIC_PACK_REQUESTS - requestCount);
+        requestCount += urlsToFetch.length;
+
+        const results = await Promise.allSettled(urlsToFetch.map(url => fetch(url)));
+
+        let chunkYielded = false;
+
+        for (const result of results) {
+          if (result.status === 'fulfilled' && result.value.ok) {
+            try {
+              const packData = await result.value.json();
+              if (Array.isArray(packData?.questions) && packData.questions.length > 0) {
+                const packSubject = packData.subject || packData.metadata?.subject || subject || 'unknown';
+                const questions: AppQuestion[] = packData.questions.map((q: any) => {
+                  const qSubject = normalizeSubjectKey(q.subject || packSubject);
+                  if (q.options?.length && !q.options[0].id) {
+                    q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A', 'B', 'C', 'D', 'E'][i] || String(i) }));
+                  }
+                  return transformQuestion(q, grade, qSubject);
+                });
+                accumulatedQuestions.push(...questions);
+                chunkYielded = true;
               }
+            } catch {
+              // Ignore JSON parse errors
             }
           }
-        } catch {
-          // Continue trying next candidate
+        }
+
+        if (chunkYielded && !period) {
+          break;
         }
       }
 
@@ -216,8 +247,10 @@ export async function fetchQuestionsFromPacks(
           }
 
           if (normalizedSubject) {
+            const countryCode = (runtimeApiConfig.countryCode || getExplicitProductCountryCode() || 'co').toLowerCase();
+            const defaultPackId = `api-${countryCode}-g${grade}-${normalizedSubject}-p${period ?? 0}-pg${page}`;
             savePack({
-              packId: String(payload?.meta?.pack_id || payload?.meta?.packId || `api-week-${currentWeek}`),
+              packId: String(payload?.meta?.pack_id || payload?.meta?.packId || defaultPackId),
               grade,
               subject: normalizedSubject,
               country: runtimeApiConfig.countryCode || 'co',
@@ -237,11 +270,16 @@ export async function fetchQuestionsFromPacks(
 
           return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
         } else if (payload?.questions && payload.questions.length === 0) {
-          console.warn(`[API] Returned 0 questions — trying static packs`);
+          console.info(`[API] Returned 0 questions`);
+          return [];
         }
       }
     } catch (apiError) {
       console.warn('Falling back to local packs:', apiError);
+    }
+
+    if (page > 1) {
+      return [];
     }
 
     if (!canUseRelativeFetch) {
