@@ -1,4 +1,5 @@
 import { routeMesh, createMeshStores, type MeshStores } from "./mesh";
+import { routeRanked } from "./ranked";
 
 const meshStores: MeshStores = createMeshStores();
 
@@ -8,6 +9,7 @@ export interface Env {
   ASSETS: Fetcher
   /** KV efímero de rendezvous (opcional en dev: sin binding → solo memoria). */
   MESH_STATE?: KVNamespace
+  RANKED_DB?: D1Database
 }
 
 const ALLOWED_ORIGINS = [
@@ -36,7 +38,7 @@ function corsHeadersFor(request?: Request): Record<string, string> {
   return base
 }
 
-function json(body: Record<string, unknown>, status = 200, headers: HeadersInit = {}, request?: Request) {
+export function json(body: Record<string, unknown>, status = 200, headers: HeadersInit = {}, request?: Request) {
   return new Response(JSON.stringify(body), {
     status,
     headers: {
@@ -47,7 +49,7 @@ function json(body: Record<string, unknown>, status = 200, headers: HeadersInit 
   })
 }
 
-function withCors(response: Response, request?: Request) {
+export function withCors(response: Response, request?: Request) {
   const headers = new Headers(response.headers)
   Object.entries(corsHeadersFor(request)).forEach(([key, value]) => headers.set(key, value))
   return new Response(response.body, {
@@ -102,7 +104,7 @@ function normalizeSubjectKey(subject: string) {
   return normalized
 }
 
-function getCountryPackPrefixes(country: string) {
+export function getCountryPackPrefixes(country: string) {
   const normalized = String(country || "").trim().toLowerCase()
   const aliases: Record<string, string[]> = {
     co: ["co", "colombia"],
@@ -152,7 +154,7 @@ function getCountryPackPrefixes(country: string) {
   return aliases[normalized] || (normalized ? [normalized] : [])
 }
 
-function getSubjectPackAliases(subject: string) {
+export function getSubjectPackAliases(subject: string) {
   const normalized = normalizeSubjectKey(subject)
 
   if (SUBJECT_PACK_ALIASES[normalized]) {
@@ -179,7 +181,7 @@ function normalizePackOption(option: any) {
   }
 }
 
-function normalizePackQuestion(question: any) {
+export function normalizePackQuestion(question: any) {
   if (Array.isArray(question?.options) && question.options.length >= 2) {
     return {
       ...question,
@@ -520,6 +522,9 @@ export default {
         request
       )
     }
+
+    const r = await routeRanked(request, env);
+    if (r) return withCors(r, request);
 
     if (url.pathname === "/health") {
       return json({

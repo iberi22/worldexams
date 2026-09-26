@@ -22,6 +22,12 @@ binding = "MESH_STATE"
 id = "22105f2832e743fa9e202d265bf028a9"
 preview_id = "c609d8e05df34ce9b5b41424f8012fce"
 
+# [[d1_databases]]
+# binding = "RANKED_DB"
+# database_name = "worldexams-ranked"
+# database_id = "REPLACE_ME"
+# migrations_dir = "migrations"
+
 [[routes]]
 pattern = "api.saberparatodos.space/*"
 zone_name = "saberparatodos.space"
