@@ -41,11 +41,15 @@ jobs:
       - name: Unit tests
         run: npm test
 
+      - name: Resolve safe ref name
+        id: refname
+        run: echo "safe=${GITHUB_REF_NAME//\//-}" >> "$GITHUB_OUTPUT"
+
       - name: Build Application
         run: npm run build:workspaces
         env:
           NODE_ENV: production
-          PUBLIC_SITE_URL: https://${{ github.ref_name }}.saberparatodos.pages.dev
+          PUBLIC_SITE_URL: https://${{ steps.refname.outputs.safe }}.saberparatodos.pages.dev
           PUBLIC_API_BASE_URL: https://api.saberparatodos.space/v1
 
       - name: Pre-deploy check
@@ -87,18 +91,26 @@ jobs:
         id: deploy
         working-directory: ./saberparatodos
         run: |
-          npx wrangler deploy --config dist/server/wrangler.json --name="saberparatodos-preview-${{ github.ref_name }}" | tee wrangler-preview.log
+          set -o pipefail
+          # Worker script names can't contain "/" — branch names like
+          # "feat/foo" do. An unsanitized name silently breaks the Cloudflare
+          # assets-upload-session route and manifests as a confusing
+          # "Method not allowed for this authentication scheme" [10405]
+          # error that looks like a token/permission problem but isn't.
+          SAFE_REF="${GITHUB_REF_NAME//\//-}"
+          npx wrangler deploy --config dist/server/wrangler.json --name="saberparatodos-preview-${SAFE_REF}" | tee wrangler-preview.log
           PREVIEW_URL=$(grep -oE 'https://[a-z0-9.-]+\.workers\.dev' wrangler-preview.log | head -1 || true)
           echo "preview_url=$PREVIEW_URL" >> "$GITHUB_OUTPUT"
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
-  # NOTE 2026-09-03: `continue-on-error: true` agregado. El token
-  # CLOUDFLARE_API_TOKEN actual no tiene permisos para subir assets estáticos
-  # (assets-upload-session [code: 10405]). El deploy del Worker principal
-  # funciona; el del API falla. No debe BLOQUEAR merges — solo warn.
-  # Cuando se actualicen los permisos del token, remover continue-on-error.
+  # NOTE 2026-09-26: la causa real del 10405 en ambos deploys (Worker
+  # principal y API) NO era el token — era el nombre del worker con un "/"
+  # literal del nombre de rama (p. ej. "feat/foo"), que rompe la ruta de
+  # assets-upload-session. Ya sanitizado en ambos jobs (ver "Resolve safe
+  # ref name" arriba y SAFE_REF abajo). continue-on-error se deja de todos
+  # modos como red de seguridad ante fallos reales de Cloudflare.
   deploy-api-preview:
     needs: validate-and-build
     runs-on: ubuntu-latest
@@ -120,7 +132,9 @@ jobs:
 
       - name: Deploy API Worker (Preview)
         working-directory: ./apps/worldexams-api
-        run: npx wrangler deploy --name="worldexams-api-preview-${{ github.ref_name }}" || echo "::warning::API preview deploy falló por permisos del token CF (code 10405). No bloquea merge."
+        run: |
+          SAFE_REF="${GITHUB_REF_NAME//\//-}"
+          npx wrangler deploy --name="worldexams-api-preview-${SAFE_REF}" || echo "::warning::API preview deploy falló. Revisar logs (ya no debería ser el bug del '/' en el nombre)."
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
