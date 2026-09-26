@@ -18,14 +18,14 @@ const {
       yjsAdapter: {},
     },
     mockSalonesManagerInstance: {
-      crearSalon: vi.fn().mockResolvedValue({
+      crearSalon: vi.fn().mockImplementation(async (nombre) => ({
         id: 'MOCK-SALON-ID',
-        obtenerInfo: vi.fn().mockReturnValue({ creador: 'host', participantes: ['host'] }),
-      }),
-      unirsePorCodigo: vi.fn().mockResolvedValue({
-        id: 'JOINED-SALON-ID',
+        obtenerInfo: vi.fn().mockReturnValue({ creador: 'host', nombre, participantes: ['host'] }),
+      })),
+      unirseSalon: vi.fn().mockImplementation(async (codigo) => ({
+        id: codigo,
         obtenerInfo: vi.fn().mockReturnValue({ creador: 'host', nombre: 'Test Room', participantes: ['host', 'player'] }),
-      }),
+      })),
       abandonarSalon: vi.fn().mockResolvedValue(undefined),
     },
     mockSalonRegistryInstance: {
@@ -50,7 +50,7 @@ const {
   };
 });
 
-vi.mock('edge-mesh', () => {
+vi.mock('../../src/lib/vendor/edge-mesh/dist/edge-mesh.js', () => {
   class MockEdgeMesh {
     iniciar = mockEdgeMeshInstance.iniciar;
     detener = mockEdgeMeshInstance.detener;
@@ -58,20 +58,27 @@ vi.mock('edge-mesh', () => {
     off = mockEdgeMeshInstance.off;
     yjsAdapter = mockEdgeMeshInstance.yjsAdapter;
   }
+  return {
+    EdgeMesh: MockEdgeMesh,
+  };
+});
 
+vi.mock('../../src/lib/vendor/edge-mesh/dist/salones/manager.js', () => {
   class MockSalonesManager {
     crearSalon = mockSalonesManagerInstance.crearSalon;
-    unirsePorCodigo = mockSalonesManagerInstance.unirsePorCodigo;
+    unirseSalon = mockSalonesManagerInstance.unirseSalon;
     abandonarSalon = mockSalonesManagerInstance.abandonarSalon;
     usarRegistry = vi.fn();
   }
+  return {
+    SalonesManager: MockSalonesManager,
+    TIPO_SALON: {
+      EXAMEN: 'EXAMEN',
+    },
+  };
+});
 
-  class MockSalonRegistry {
-    anunciar = mockSalonRegistryInstance.anunciar;
-    listar = mockSalonRegistryInstance.listar;
-    dispose = mockSalonRegistryInstance.dispose;
-  }
-
+vi.mock('../../src/lib/vendor/edge-mesh/dist/chat/index.js', () => {
   class MockExamenCompartido {
     addEventListener = mockExamenCompartidoInstance.addEventListener;
     cargarPreguntas = mockExamenCompartidoInstance.cargarPreguntas;
@@ -84,21 +91,29 @@ vi.mock('edge-mesh', () => {
     obtenerRespuestasDeEstudiante = mockExamenCompartidoInstance.obtenerRespuestasDeEstudiante;
     obtenerEstado = mockExamenCompartidoInstance.obtenerEstado;
   }
-
   return {
-    EdgeMesh: MockEdgeMesh,
-    SalonesManager: MockSalonesManager,
-    SalonRegistry: MockSalonRegistry,
     ExamenCompartido: MockExamenCompartido,
-    TIPO_SALON: {
-      EXAMEN: 'EXAMEN',
-    },
     TIPO_PREGUNTA: {
       OPCION_MULTIPLE: 'opcion_multiple',
       VERDADERO_FALSO: 'verdadero_falso',
       RESPUESTA_CORTA: 'respuesta_corta',
       ENSAYO: 'ensayo',
     },
+  };
+});
+
+vi.mock('../../src/lib/mesh/salon-directory', () => {
+  class MockSalonDirectory {
+    host = mockSalonRegistryInstance.anunciar;
+    listar = mockSalonRegistryInstance.listar;
+    listen = vi.fn();
+    unhost = vi.fn();
+    dispose = mockSalonRegistryInstance.dispose;
+    buscar = vi.fn();
+    refresh = vi.fn().mockResolvedValue([]);
+  }
+  return {
+    SalonDirectory: MockSalonDirectory,
   };
 });
 
@@ -161,8 +176,7 @@ describe('P2PEdgeMesh Rooms and Exams Sync', () => {
     expect(mockSalonesManagerInstance.crearSalon).toHaveBeenCalledWith(
       'Examen Matematicas',
       'EXAMEN',
-      40,
-      { region: 'ES' }
+      40
     );
 
     const activeSalon = get(estadoSalon);
@@ -175,7 +189,7 @@ describe('P2PEdgeMesh Rooms and Exams Sync', () => {
   it('should join an existing salon and update state', async () => {
     await p2p.unirseSalonExamen('SALA-123');
 
-    expect(mockSalonesManagerInstance.unirsePorCodigo).toHaveBeenCalledWith('SALA-123');
+    expect(mockSalonesManagerInstance.unirseSalon).toHaveBeenCalledWith('SALA-123');
     const activeSalon = get(estadoSalon);
     expect(activeSalon?.id).toBe('SALA-123');
     expect(activeSalon?.nombre).toBe('Test Room');
@@ -185,7 +199,7 @@ describe('P2PEdgeMesh Rooms and Exams Sync', () => {
     await p2p.unirseSalonExamen('SALA-123');
     await p2p.salirSalonExamen();
 
-    expect(mockSalonesManagerInstance.abandonarSalon).toHaveBeenCalledWith('JOINED-SALON-ID');
+    expect(mockSalonesManagerInstance.abandonarSalon).toHaveBeenCalledWith('SALA-123');
     expect(get(estadoSalon)).toBeNull();
   });
 
@@ -195,9 +209,9 @@ describe('P2PEdgeMesh Rooms and Exams Sync', () => {
     expect(list).toHaveLength(1);
     expect(list[0].codigo).toBe('ROOM-1');
 
-    p2p.anunciarSalon({ id: 'MY-SALON', nombre: 'My Salon' } as any);
+    p2p.anunciarSalon({ codigo: 'MY-SALON', nombre: 'My Salon' } as any);
     expect(mockSalonRegistryInstance.anunciar).toHaveBeenCalledWith(
-      expect.objectContaining({ id: 'MY-SALON', nombre: 'My Salon' })
+      expect.objectContaining({ codigo: 'MY-SALON', nombre: 'My Salon' })
     );
   });
 
