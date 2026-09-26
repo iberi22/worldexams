@@ -58,6 +58,9 @@ jobs:
           echo "Validating ${#FILES[@]} bundle(s)"
           node scripts/validate-bundles-v52.mjs "${FILES[@]}"
 
+      - name: Pack manifest freshness (warning only; deploy regenerates it)
+        run: node apps/worldexams-api/scripts/build-pack-manifest.mjs --check || echo "::warning::apps/worldexams-api/public/v1/packs/_manifest.json is stale — production deploy regenerates it; run the script to update the committed copy."
+
       - name: Vitest — API worker + question pipeline
         run: npx vitest run apps/worldexams-api/tests saberparatodos/src/lib
 
