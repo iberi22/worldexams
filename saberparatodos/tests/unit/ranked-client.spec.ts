@@ -200,3 +200,15 @@ describe('ranked-client', () => {
     });
   });
 });
+
+describe('expiresAtMs', () => {
+  it('normalizes ISO strings, unix seconds and milliseconds', async () => {
+    const { expiresAtMs } = await import('../../src/lib/ranked/ranked-client');
+    const iso = '2026-09-27T00:00:00.000Z';
+    const ms = Date.parse(iso);
+    expect(expiresAtMs(iso)).toBe(ms);
+    expect(expiresAtMs(ms / 1000)).toBe(ms);
+    expect(expiresAtMs(ms)).toBe(ms);
+    expect(expiresAtMs(String(ms / 1000))).toBe(ms);
+  });
+});
