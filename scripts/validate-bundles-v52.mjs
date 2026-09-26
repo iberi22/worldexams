@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const ROOT = process.cwd();
 const QUESTION_COUNTS = new Map([
@@ -13,6 +14,25 @@ const QUESTION_COUNTS = new Map([
   [10, 12],
   [11, 20],
 ]);
+
+const MOJIBAKE_REGEX = /Â[¿°]|Ã[¡©ó±­ÚÍÁÑ]|â€/;
+
+export function hasMojibake(text) {
+  const match = text.match(MOJIBAKE_REGEX);
+  return match ? match[0] : null;
+}
+
+export function detectMojibakeLines(content) {
+  const lines = content.split(/\r?\n/);
+  const results = [];
+  for (let i = 0; i < lines.length; i++) {
+    const seq = hasMojibake(lines[i]);
+    if (seq) {
+      results.push({ line: i + 1, sequence: seq, text: lines[i] });
+    }
+  }
+  return results;
+}
 
 function walk(dir, out = []) {
   if (!fs.existsSync(dir)) return out;
@@ -80,7 +100,7 @@ function rel(file) {
   return path.relative(ROOT, file).replace(/\\/g, '/');
 }
 
-function validateFile(file) {
+export function validateFile(file) {
   const errors = [];
   if (!fs.existsSync(file)) {
     return { file: rel(file), errors: ['File does not exist'] };
@@ -88,11 +108,17 @@ function validateFile(file) {
   const content = fs.readFileSync(file, 'utf8');
   const relative = rel(file);
   const base = path.basename(file);
+
+  const mojibakeLines = detectMojibakeLines(content);
+  for (const m of mojibakeLines) {
+    errors.push(`ERROR [encoding] ${relative}:${m.line} contiene mojibake ("${m.sequence}"); repara a UTF-8 antes de publicar.`);
+  }
+
   const fm = parseFrontmatter(content);
 
   if (!relative.startsWith('questions_data/')) errors.push('File is outside questions_data/');
   if (!/-001-MASTERY-bundle\.md$/.test(base)) errors.push('Filename must end with -001-MASTERY-bundle.md');
-  if (!fm) return { file: relative, errors: ['Missing YAML frontmatter'] };
+  if (!fm) return { file: relative, errors };
 
   const required = [
     'id',
@@ -182,18 +208,23 @@ function validateFile(file) {
   return { file: relative, errors };
 }
 
-const args = process.argv.slice(2);
-const files = args.length
-  ? args.map((arg) => path.resolve(ROOT, arg))
-  : walk(path.join(ROOT, 'questions_data'));
+const isMainModule = process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
 
-const results = files.filter((file) => file.endsWith('-MASTERY-bundle.md')).map(validateFile);
-const failed = results.filter((result) => result.errors.length);
+if (isMainModule) {
+  const args = process.argv.slice(2);
+  const files = args.length
+    ? args.map((arg) => path.resolve(ROOT, arg))
+    : walk(path.join(ROOT, 'questions_data'));
 
-for (const result of failed) {
-  console.error(`\n${result.file}`);
-  for (const error of result.errors) console.error(`  - ${error}`);
+  const targetFiles = args.length ? files : files.filter((file) => file.endsWith('-MASTERY-bundle.md'));
+  const results = targetFiles.map(validateFile);
+  const failed = results.filter((result) => result.errors.length);
+
+  for (const result of failed) {
+    console.error(`\n${result.file}`);
+    for (const error of result.errors) console.error(`  - ${error}`);
+  }
+
+  console.log(`\nValidated ${results.length} bundle file(s). Failures: ${failed.length}.`);
+  process.exit(failed.length ? 1 : 0);
 }
-
-console.log(`\nValidated ${results.length} bundle file(s). Failures: ${failed.length}.`);
-process.exit(failed.length ? 1 : 0);
