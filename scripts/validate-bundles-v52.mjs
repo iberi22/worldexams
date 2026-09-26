@@ -46,8 +46,12 @@ export function detectControlChars(content) {
 }
 
 export function detectPlaceholder(content, fm, base) {
-  if (/Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta|Distractor \d|Opci[oó]n correcta\b/i.test(content)) return true;
-  if (fm && typeof fm.tema === 'string' && fm.tema.toLowerCase().includes('test')) return true;
+  if (/Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta|Pregunta sobre\s+[\w\s-]+- Grado/i.test(content)) return true;
+  // Option-text placeholders only when the WHOLE option text is the placeholder
+  // (real feedback often says "la opción correcta es..." or "la opción B...").
+  if (/^- \[[ xX]\]\s*[A-D]\)\s*(Opci[oó]n correcta|Opci[oó]n [A-D]|Distractor \d)\s*$/im.test(content)) return true;
+  // Exact "test" topic only — real topics like "textos-testimoniales" must not match.
+  if (fm && typeof fm.tema === 'string' && /^(test|prueba)$/i.test(fm.tema.trim())) return true;
   if (base && base.toLowerCase().includes('-test-')) return true;
   return false;
 }
@@ -335,8 +339,14 @@ if (isMainModule) {
     allowPositionals: true
   });
 
+  // Positional args may be files or directories (directories are walked for bundles).
   const files = positionals.length
-    ? positionals.map((arg) => path.resolve(ROOT, arg))
+    ? positionals.flatMap((arg) => {
+        const abs = path.resolve(ROOT, arg);
+        return fs.existsSync(abs) && fs.statSync(abs).isDirectory()
+          ? walk(abs).filter((file) => file.endsWith('-MASTERY-bundle.md'))
+          : [abs];
+      })
     : walk(path.join(ROOT, 'questions_data'));
 
   const targetFiles = positionals.length ? files : files.filter((file) => file.endsWith('-MASTERY-bundle.md'));

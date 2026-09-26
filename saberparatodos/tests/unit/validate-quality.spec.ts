@@ -30,14 +30,18 @@ describe('Quality Gates Detector Functions', () => {
   it('detectPlaceholder detects placeholder text', () => {
     expect(detectPlaceholder('Pregunta de prueba 1', null, '')).toBe(true);
     expect(detectPlaceholder('Explicación detallada de la pregunta', null, '')).toBe(true);
-    expect(detectPlaceholder('Distractor 2', null, '')).toBe(true);
-    expect(detectPlaceholder('Opción correcta', null, '')).toBe(true);
+    expect(detectPlaceholder('- [ ] B) Distractor 2', null, '')).toBe(true);
+    expect(detectPlaceholder('- [x] A) Opción correcta', null, '')).toBe(true);
     expect(detectPlaceholder('Normal text', { tema: 'test' }, '')).toBe(true);
     expect(detectPlaceholder('Normal text', { tema: 'math' }, 'bundle-test-01')).toBe(true);
   });
 
   it('detectPlaceholder ignores valid content', () => {
     expect(detectPlaceholder('Pregunta normal sobre biología', { tema: 'Biología' }, 'bundle-01')).toBe(false);
+    // Real feedback mentioning "la opción correcta" / "la opción B" is not a placeholder
+    expect(detectPlaceholder('  <!-- feedback: Esta es la opción correcta porque... -->\nLa opción B confunde masa y peso.', null, '')).toBe(false);
+    // Topics that merely contain "test" are valid
+    expect(detectPlaceholder('Normal text', { tema: 'textos-testimoniales' }, 'bundle-01')).toBe(false);
   });
 
   it('detectAllNoneOfAbove detects forbidden options', () => {
