@@ -3,6 +3,9 @@ import { routeRanked } from "./ranked";
 
 const meshStores: MeshStores = createMeshStores();
 
+import type { RateLimit } from "@cloudflare/workers-types";
+import { mulberry32, shuffle } from "./ranked";
+
 export interface Env {
   SUPABASE_URL: string
   SUPABASE_ANON_KEY: string
@@ -10,6 +13,8 @@ export interface Env {
   /** KV efímero de rendezvous (opcional en dev: sin binding → solo memoria). */
   MESH_STATE?: KVNamespace
   RANKED_DB?: D1Database
+  PACKS_RATE_LIMITER?: RateLimit
+  BULK_API_KEY?: string
 }
 
 const ALLOWED_ORIGINS = [
@@ -302,6 +307,15 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const periodRaw = url.searchParams.get("period")
   const period = periodRaw ? parseInt(periodRaw, 10) : undefined
 
+  const defaultMode = period ? "sample" : "page"
+  const mode = url.searchParams.get("mode") || defaultMode
+
+  const seedParam = url.searchParams.get("seed")
+  const seed = seedParam ? parseInt(seedParam, 10) : Math.floor(Math.random() * 2147483647)
+
+  const sampleLimitParam = parseInt(url.searchParams.get("limit") || "10", 10)
+  const sampleLimit = isNaN(sampleLimitParam) ? 10 : Math.max(1, Math.min(25, sampleLimitParam))
+
   const subjectAliases = getSubjectPackAliases(subject)
   const countryPrefixes = getCountryPackPrefixes(country)
 
@@ -356,40 +370,82 @@ async function fetchPublicQuestions(request: Request, env: Env) {
     const deduped = dedupeQuestions(normalizedQuestions)
 
     const total_available = deduped.questions.length
-    const total_pages = Math.ceil(total_available / pageSize)
-    const out_of_range = page > total_pages && total_pages > 0
-    const has_more = page < total_pages
 
-    const startIndex = (page - 1) * pageSize
-    const questions = out_of_range ? [] : deduped.questions.slice(startIndex, startIndex + pageSize)
+    if (mode === "sample") {
+      let pool = deduped.questions.slice()
+      pool.sort((a: any, b: any) => (a.id || "").localeCompare(b.id || ""))
 
-    return json({
-      success: true,
-      questions,
-      total_questions: questions.length,
-      is_guest: true,
-      country,
-      exam_type: exam,
-      grade: parseInt(grade, 10),
-      subject,
-      page,
-      meta: {
-        available_questions: fetchedQuestions.length,
-        deduplicated_questions: total_available,
-        duplicate_filtered: deduped.duplicateCount,
-        filtered_out: deduped.duplicateCount,
-        source: "worker-assets",
-        pack_path: loadedPaths.join(", "),
-        total_available,
-        page_size: pageSize,
-        total_pages,
-        has_more,
-        ...(out_of_range ? { out_of_range: true } : {}),
-      },
-    }, 200, {
-      "Cache-Control": "public, max-age=3600, s-maxage=3600",
-      "X-Guest-Mode": "true",
-    }, request)
+      const capSeed = period ? period * 1000 : 999
+      shuffle(pool, mulberry32(capSeed))
+
+      pool = pool.slice(0, 100)
+
+      shuffle(pool, mulberry32(seed))
+
+      const questions = pool.slice(0, sampleLimit)
+
+      return json({
+        success: true,
+        questions,
+        total_questions: questions.length,
+        is_guest: true,
+        country,
+        exam_type: exam,
+        grade: parseInt(grade, 10),
+        subject,
+        meta: {
+          available_questions: fetchedQuestions.length,
+          deduplicated_questions: total_available,
+          duplicate_filtered: deduped.duplicateCount,
+          filtered_out: deduped.duplicateCount,
+          source: "worker-assets",
+          pack_path: loadedPaths.join(", "),
+          mode: "sample",
+          period_pool_size: total_available,
+          period_cap: 100,
+          seed,
+          returned: questions.length,
+        },
+      }, 200, {
+        "Cache-Control": "public, max-age=3600, s-maxage=3600",
+        "X-Guest-Mode": "true",
+      }, request)
+    } else {
+      const total_pages = Math.ceil(total_available / pageSize)
+      const out_of_range = page > total_pages && total_pages > 0
+      const has_more = page < total_pages
+
+      const startIndex = (page - 1) * pageSize
+      const questions = out_of_range ? [] : deduped.questions.slice(startIndex, startIndex + pageSize)
+
+      return json({
+        success: true,
+        questions,
+        total_questions: questions.length,
+        is_guest: true,
+        country,
+        exam_type: exam,
+        grade: parseInt(grade, 10),
+        subject,
+        page,
+        meta: {
+          available_questions: fetchedQuestions.length,
+          deduplicated_questions: total_available,
+          duplicate_filtered: deduped.duplicateCount,
+          filtered_out: deduped.duplicateCount,
+          source: "worker-assets",
+          pack_path: loadedPaths.join(", "),
+          total_available,
+          page_size: pageSize,
+          total_pages,
+          has_more,
+          ...(out_of_range ? { out_of_range: true } : {}),
+        },
+      }, 200, {
+        "Cache-Control": "public, max-age=3600, s-maxage=3600",
+        "X-Guest-Mode": "true",
+      }, request)
+    }
   }
 
   return json({
@@ -462,7 +518,29 @@ export default {
     }
 
     if (url.pathname.startsWith("/v1/packs/")) {
+      if (url.pathname === "/v1/packs/metadata.json") {
+        return json({ error: "NOT_FOUND" }, 404, {}, request)
+      }
+
+      if (env.PACKS_RATE_LIMITER) {
+        const ipAddress = request.headers.get("cf-connecting-ip") || "unknown"
+        const limitRes = await env.PACKS_RATE_LIMITER.limit({ key: ipAddress })
+        if (!limitRes.success) {
+          return json({ error: "RATE_LIMITED", message: "Too many requests" }, 429, {}, request)
+        }
+      }
+
       const assetResponse = await env.ASSETS.fetch(request)
+      if (assetResponse.ok) {
+        const headers = new Headers(assetResponse.headers)
+        headers.set("Cache-Control", "public, max-age=3600")
+        const respWithHeaders = new Response(assetResponse.body, {
+          status: assetResponse.status,
+          headers
+        })
+        return withCors(respWithHeaders, request)
+      }
+
       return withCors(assetResponse, request)
     }
 
@@ -486,6 +564,11 @@ export default {
 
     const gradeBundleMatch = url.pathname.match(/^\/v1\/grades\/([^\/]+)\/([^\/]+)\/bundle$/i)
     if (gradeBundleMatch) {
+      const apiKey = request.headers.get("x-api-key")
+      if (!env.BULK_API_KEY || apiKey !== env.BULK_API_KEY) {
+        return json({ error: "BULK_DISABLED" }, 403, {}, request)
+      }
+
       const country = gradeBundleMatch[1].toLowerCase()
       const grade = gradeBundleMatch[2].toLowerCase()
       const assetPath = `/v1/grades/${country}-grado-${grade}-full.json`
