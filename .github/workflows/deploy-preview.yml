@@ -76,9 +76,11 @@ jobs:
         id: refname
         run: |
           SAFE=$(printf '%s' "$GITHUB_REF_NAME" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9-]+/-/g; s/-+/-/g; s/^-+//; s/-+$//')
-          if [ "${#SAFE}" -gt 40 ]; then
+          # Cloudflare: script names with previews enabled must be <= 54 chars
+          # (error 100315). Prefix "saberparatodos-preview-" is 23 -> SAFE <= 31.
+          if [ "${#SAFE}" -gt 31 ]; then
             HASH=$(printf '%s' "$GITHUB_REF_NAME" | sha1sum | cut -c1-6)
-            SAFE="$(printf '%s' "$SAFE" | cut -c1-33 | sed -E 's/-+$//')-${HASH}"
+            SAFE="$(printf '%s' "$SAFE" | cut -c1-24 | sed -E 's/-+$//')-${HASH}"
           fi
           [ -n "$SAFE" ] || { echo "::error::No se pudo derivar un nombre seguro de '$GITHUB_REF_NAME'"; exit 1; }
           echo "safe=$SAFE" >> "$GITHUB_OUTPUT"
@@ -176,7 +178,12 @@ jobs:
         # este PR). Ahora el job queda marcado como fallido en la UI, y
         # continue-on-error evita que bloquee el workflow.
         run: |
-          npx wrangler deploy --name="worldexams-api-preview-${SAFE_REF}" || {
+          # The production wrangler.toml binds [[routes]] api.saberparatodos.space/*,
+          # which a preview script can't claim ("routes assigned to another worker").
+          # Deploy previews from a copy without the routes block (workers.dev only).
+          python3 -c "import re;s=open('wrangler.toml').read();open('wrangler.preview.toml','w').write(re.sub(r'(?ms)^\[\[routes\]\].*?(?=^\[|\Z)','',s))"
+          ! grep -q '^\[\[routes\]\]' wrangler.preview.toml
+          npx wrangler deploy --config wrangler.preview.toml --name="worldexams-api-preview-${SAFE_REF}" || {
             echo "::warning::API preview deploy falló. Revisar logs (ya no debería ser el bug del '/' en el nombre)."
             exit 1
           }
