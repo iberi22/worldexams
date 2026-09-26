@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-26T06:47:10.112Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v1",
+      "statement": "Según el autor del texto, ¿qué elemento tecnológico está diseñado utilizando principios de la psicología conductista?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El infinito desplazamiento ('infinite scroll') y los algoritmos de recomendación.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto menciona explícitamente estas herramientas como mecanismos para maximizar el tiempo de permanencia."
+        },
+        {
+          "letter": "B",
+          "text": "Los teclados físicos y las pantallas de alta resolución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto se enfoca en las dinámicas del software e interacción digital."
+        },
+        {
+          "letter": "C",
+          "text": "Los cables de fibra óptica e infraestructura de internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La infraestructura no es objeto del argumento del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Los libros digitales y enciclopedias en línea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no menciona libros digitales en el extracto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación explícita de datos en un texto argumentativo periodístico o de opinión.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué entidades deben promover la alfabetización crítica según la propuesta del autor?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las instituciones educativas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto propone expresamente que las instituciones educativas promuevan la alfabetización crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Las multinacionales de software.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor les pide regulación a los Estados, no alfabetización educativa."
+        },
+        {
+          "letter": "C",
+          "text": "Las tiendas de aplicaciones móviles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una entidad mencionada en la solución educativa propuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Los fabricantes de teléfonos inteligentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto cita a las escuelas e institutos como responsables de la educación crítica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Extracción de afirmaciones directas sobre los agentes de cambio señalados en el ensayo de opinión.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la tesis central que defiende el autor en este artículo de opinión?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La adicción a las pantallas en jóvenes requiere tanto regulación estatal como alfabetización crítica educativa, superando la culpa individual.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sintetiza la postura integral del autor frente a las causas sistémicas e intervenciones requeridas."
+        },
+        {
+          "letter": "B",
+          "text": "Las redes sociales deben ser prohibidas definitivamente para cualquier persona menor de 18 años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor habla de regulación y educación, no de prohibición absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "La responsabilidad de la adicción digital recae exclusivamente en los padres de familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto refuta el enfoque puramente individual o moral."
+        },
+        {
+          "letter": "D",
+          "text": "La tecnología no genera ningún impacto negativo en la psicología de los jóvenes contemporáneos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor señala claramente el 'secuestro de la atención humana'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Determinar la tesis principal en un artículo de opinión implica articular la hipótesis argumentativa rectora de la lectura.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué sentido tiene la expresión \"secuestrar la atención humana\" en el contexto del texto?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retener e hiperestimular la concentración del usuario mediante diseño adictivo para evitar que abandone la plataforma.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Corresponde a una metáfora para describir cómo la atención es capturada de forma no del todo consciente."
+        },
+        {
+          "letter": "B",
+          "text": "Cometer un delito de rapto físico a las personas que usan computadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de un uso figurado en el ámbito de la psicología del consumidor."
+        },
+        {
+          "letter": "C",
+          "text": "Bloquear el acceso a internet en ciudades enteras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase alude al plano individual de la atención mental."
+        },
+        {
+          "letter": "D",
+          "text": "Obligar a los usuarios a pagar rescates de dinero para usar redes sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se refiere a un cobro económico explícito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprensión del lenguaje figurado y metafórico en artículos de opinión y debate público.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de conector lógico cumple la función de la palabra **\"Sin embargo\"** en el desarrollo del argumento?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conector adversativo o de oposición, que introduce un matiz limitativo a la responsabilidad de las empresas tecnológicas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! 'Sin embargo' conecta la crítica a las Big Tech con la necesidad de no responsabilizarlas únicamente a ellas."
+        },
+        {
+          "letter": "B",
+          "text": "Conector causal, que explica el motivo técnico por el cual funcionan los algoritmos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores causales son 'porque', 'debido a que', etc."
+        },
+        {
+          "letter": "C",
+          "text": "Conector temporal, que marca una secuencia cronológica de eventos pasados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No señala secuencia en el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Conector ilustrativo, que introduce un ejemplo concreto de aplicación móvil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Sin embargo' no introduce ejemplos sino contrastes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Análisis del papel semántico de los conectores lógicos argumentativos en la estructuración discursiva.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v6",
+      "statement": "Si una persona afirma: \"La adicción al teléfono es simplemente una falta de voluntad de los adolescentes\", ¿cómo respondería el autor del texto usando sus propios argumentos?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentaría que existen mecanismos tecnológicos sofisticados diseñados deliberadamente para manipular la conducta y dificultar el autocontrol.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El autor rechaza la explicación del 'fallo moral individual' mostrando las causas estructurales."
+        },
+        {
+          "letter": "B",
+          "text": "Estaría totalmente de acuerdo con esa persona y pediría castigar a los jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto afirma explícitamente lo contrario desde la primera línea."
+        },
+        {
+          "letter": "C",
+          "text": "Diría que los teléfonos no producen ninguna clase de adicción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto reconoce la existencia real de la adicción."
+        },
+        {
+          "letter": "D",
+          "text": "Afirmaría que el problema es que los jóvenes leen demasiados libros físicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta premisa no tiene ningún sustento en el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicación de las premisas de un argumento para refutar posturas contradictorias en un debate.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes estrategias de argumentación predomina en el texto analizado?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentación causal y de propuesta de solución (diagnóstico del problema tecnológico + corresponsabilidad estatal y educativa).",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto articula las causas del fenómeno y plantea la respuesta institucional coordinada."
+        },
+        {
+          "letter": "B",
+          "text": "Argumentación por anécdota personal narrativa sin datos ni conceptos generales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no narra ninguna historia personal."
+        },
+        {
+          "letter": "C",
+          "text": "Argumentación por apelación a la emoción estética de la poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es analítico, persuasivo y sociopolítico, no poético."
+        },
+        {
+          "letter": "D",
+          "text": "Argumentación basada en datos estadísticos porcentuales de encuestas en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No presenta cifras ni gráficos de encuestas puntuales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Identificación de la estructura argumentativa y tipología de razonamiento empleada por el emisor.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la intención comunicativa predominante en este artículo de opinión?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Persuadir al lector sobre la necesidad de asumir una postura crítica frente al diseño adictivo de las tecnologías y exigir respuestas regulatorias.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Los artículos de opinión buscan convencer e incitar a la reflexión y acción ciudadana."
+        },
+        {
+          "letter": "B",
+          "text": "Describir detalladamente los pasos técnicos para programar una aplicación móvil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un manual de programación."
+        },
+        {
+          "letter": "C",
+          "text": "Entretener con una ficción fantástica sobre robots del futuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto aborda una problemática social y actual."
+        },
+        {
+          "letter": "D",
+          "text": "Vender al público una nueva marca de teléfonos celulares sin pantallas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un texto publicitario ni comercial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocimiento del propósito pragmático e intencionalidad del género discursivo del artículo de opinión.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué presupuesto o supuesto implícito subyace a la frase *\"devuelva al ciudadano el control sobre su tiempo y su mente\"*?",
+      "context": "Con base en el Texto Base sobre la adicción a las pantallas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que actualmente la soberanía del tiempo y la capacidad de atención individual están comprometidas por las plataformas digitales.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si hay que 'devolver' el control, es porque se asume que se ha perdido parcialmente."
+        },
+        {
+          "letter": "B",
+          "text": "Que las personas nunca han tenido capacidad de elegir qué hacer con su tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo 'devolver' supone que antes existía esa autonomía."
+        },
+        {
+          "letter": "C",
+          "text": "Que el tiempo dedicado a las pantallas es siempre más valioso que el tiempo libre sin tecnología.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor cuestiona el sesgo del diseño adictivo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la mente humana funciona de la misma manera que un procesador de computadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El supuesto es la pérdida de la autonomía de la atención."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Explicitación de presupuestos o premisas implícitas detrás de afirmaciones concluyentes en la lectura crítica.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v10",
+      "statement": "¿Hasta qué punto es válida o inválida esta crítica frente al contenido real del texto?",
+      "context": "Un crítico sostiene: \"El autor cae en un determinismo tecnológico al quitarle toda la responsabilidad a los jóvenes y tratar a la tecnología como una fuerza irresistible\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es parcialmente inválida, porque el autor no le quita toda la responsabilidad a la sociedad, sino que propone capacitar a los jóvenes mediante alfabetización crítica para ejercer autonomía.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La inclusión de la 'alfabetización crítica' demuestra que el autor cree en la capacidad de formación y autonomía de los jóvenes."
+        },
+        {
+          "letter": "B",
+          "text": "Es completamente válida, porque el autor afirma que la tecnología es un monstruo imposible de combatir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor plantea soluciones concretas (regulación y educación)."
+        },
+        {
+          "letter": "C",
+          "text": "Es válida, porque el texto recomienda que los jóvenes dejen de estudiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor defiende el rol fundamental de la escuela."
+        },
+        {
+          "letter": "D",
+          "text": "Es inválida, porque el texto fue escrito por un programa informático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La validez de la crítica depende del contenido lógico del texto, no de especulaciones sobre la autoría."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluación de la validez de contraargumentos externos mediante el cotejo riguroso de las premisas textuales.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cómo se alinea esta medida legislativa colombiana con las tesis del artículo de opinión?",
+      "context": "Imagina que el Congreso de la República de Colombia aprueba una ley que prohíbe el uso de algoritmos de recomendación adictivos en aplicaciones dirigidas a menores de edad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se alinea plenamente con la exigencia de que los Estados regulen la arquitectura digital de las plataformas.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Representa la aplicación concreta del argumento sobre el deber de regulación pública del Estado."
+        },
+        {
+          "letter": "B",
+          "text": "Contradice abiertamente lo propuesto en el texto sobre la educación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulación estatal y la educación son medidas complementarias en el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que las empresas tecnológicas no tienen ninguna influencia en los jóvenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se prohíben por ley esos algoritmos es justamente porque se reconoce su poder manipulador."
+        },
+        {
+          "letter": "D",
+          "text": "Resulta irrelevante porque el texto sostiene que la ley no sirve para nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto exige expresamente \"que los Estados regulen\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Transferencia intertextual y evaluación del grado de convergencia entre posicionamientos argumentativos y políticas públicas reales.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la diferencia sustancial en la concepción de la tecnología entre la Visión A y la Visión B?",
+      "context": "Considera estas dos visiones sobre la cultura digital contemporánea:\n- **Visión A (Texto base):** \"Las plataformas digitales usan psicología conductista para secuestrar la atención y requieren regulación estatal y educación crítica\".\n- **Visión B:** \"Las plataformas digitales son herramientas neutrales; el uso que se les dé depende 100% de la disciplina y los valores morales de cada usuario\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Visión A reconoce que la tecnología tiene una carga de diseño intencionada que condiciona la conducta, mientras la Visión B asume erróneamente la tecnología como un objeto neutral.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Muestra el contraste crítico entre la neutralidad tecnológica ingenua y el análisis del diseño orientado a la persuasión."
+        },
+        {
+          "letter": "B",
+          "text": "La Visión A apoya el monopolio de las empresas tecnológicas y la Visión B quiere destruirlas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos posturas propone la destrucción física de empresas."
+        },
+        {
+          "letter": "C",
+          "text": "La Visión A considera que la educación no sirve y la Visión B apoya la educación obligatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Visión A defiende la alfabetización crítica explícitamente."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas visiones dicen exactamente lo mismo con palabras diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen puntos de partida éticos y sociológicos opuestos sobre la neutralidad de la técnica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Juicio crítico comparativo sobre los modelos epistemológicos detrás de la evaluación de tecnologías digitales contemporáneas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W39-articulo-opinion-argumentacion-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
