@@ -1,0 +1,287 @@
+---
+// © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados.
+import Layout from '../../layouts/Layout.astro';
+import { getAllCuentosCatalog, type CuentoSummary } from '../../lib/cuentos/cuentos-catalog';
+import EstanteriaCuentos from '../../components/pequenos/EstanteriaCuentos.svelte';
+
+export const prerender = true;
+
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400'
+);
+
+const catalog: CuentoSummary[] = await getAllCuentosCatalog();
+
+const siteUrl = (
+  import.meta.env.PUBLIC_SITE_URL ||
+  Astro.site?.toString() ||
+  'https://saberparatodos.space'
+).replace(/\/$/, '');
+
+const canonicalURL = `${siteUrl}/pequenos`;
+const pageTitle = 'Pequeños | Cuentos Infantiles Interactivos (3-6 años) | SaberParaTodos';
+const pageDescription = 'Portal Pequeños: cuentos infantiles interactivos ilustrados para primera infancia (3 a 6 años). Lectura enriquecida con valores y comprensión temprana en familia.';
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  image="/og-image.svg"
+  type="website"
+>
+  <link slot="head" rel="canonical" href={canonicalURL} />
+
+  <div class="pequenos-portal min-h-screen">
+    <!-- Star dust ambient background (Cuentos night shell visual) -->
+    <div class="pequenos-stars" aria-hidden="true"></div>
+
+    <div class="pequenos-content-container relative z-10 max-w-6xl mx-auto px-4 py-8 sm:py-12 md:py-16">
+      <!-- Breadcrumb Navigation -->
+      <nav aria-label="Ruta de navegación" class="mb-6 sm:mb-8">
+        <ol class="flex items-center gap-2 text-xs sm:text-sm text-[#FFF9DC]/75 font-medium">
+          <li>
+            <a href="/" class="hover:text-[#FF9F43] transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#D4A94E] rounded px-1 py-0.5">
+              Inicio
+            </a>
+          </li>
+          <li aria-hidden="true" class="text-[#D4A94E]/60">/</li>
+          <li class="text-[#FF9F43] font-bold" aria-current="page">
+            Pequeños
+          </li>
+        </ol>
+      </nav>
+
+      <!-- Hero Section -->
+      <header class="pequenos-hero text-center max-w-3xl mx-auto mb-10 sm:mb-14">
+        <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#FF9F43]/15 border border-[#D4A94E]/40 text-[#FFF9DC] text-xs font-bold uppercase tracking-wider mb-4 sm:mb-5 shadow-sm">
+          <span aria-hidden="true">✨</span>
+          <span>Primera Infancia • 3 a 6 Años</span>
+          <span aria-hidden="true">🌙</span>
+        </div>
+
+        <h1 class="text-3xl sm:text-4xl md:text-5xl font-black text-[#FFF9DC] mb-4 sm:mb-5 tracking-tight font-display drop-shadow-sm">
+          Zona Pequeños: Cuentos para Imaginar y Aprender
+        </h1>
+
+        <p class="text-base sm:text-lg text-[#FFF9DC]/85 leading-relaxed font-body max-w-2xl mx-auto">
+          Relatos ilustrados creados con cariño para escuchar, leer en familia y conversar. Historias mágicas con valores, naturaleza y preguntas interactivas sin publicidad.
+        </p>
+
+        <div class="mt-6 flex flex-wrap justify-center items-center gap-3 text-xs text-[#FFF9DC]/80 font-medium">
+          <span class="inline-flex items-center gap-1.5 bg-[#FFF9DC]/10 px-3 py-1 rounded-full border border-[#FFF9DC]/10">
+            <span aria-hidden="true">🌱</span> Valores y empatía
+          </span>
+          <span class="inline-flex items-center gap-1.5 bg-[#FFF9DC]/10 px-3 py-1 rounded-full border border-[#FFF9DC]/10">
+            <span aria-hidden="true">🎨</span> Ilustraciones originales
+          </span>
+          <span class="inline-flex items-center gap-1.5 bg-[#FFF9DC]/10 px-3 py-1 rounded-full border border-[#FFF9DC]/10">
+            <span aria-hidden="true">💡</span> Comprensión lectora
+          </span>
+        </div>
+      </header>
+
+      <!-- Estantería 3D Interactiva -->
+      <div class="pequenos-3d-mount mb-8">
+        <EstanteriaCuentos cuentos={catalog} client:only="svelte" />
+      </div>
+
+      <!-- Grid of Story Cards (Fallback accesible) -->
+      <section aria-label="Colección de cuentos interactivos" class="mb-12" data-pequenos-fallback>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
+          {catalog.map((cuento: CuentoSummary) => (
+            <article class="pequenos-card flex flex-col justify-between rounded-2xl overflow-hidden bg-[#1D2544]/90 border border-[#D4A94E]/30 shadow-lg hover:border-[#FF9F43] transition-colors focus-within:ring-2 focus-within:ring-[#D4A94E] focus-within:ring-offset-2 focus-within:ring-offset-[#121832]">
+              <div>
+                <!-- Scene / Cover Box -->
+                <a
+                  href={`/cuentos/${cuento.slug}/leer/`}
+                  class="pequenos-cover-link block relative aspect-[4/3] bg-[#161D38] border-b border-[#D4A94E]/20 overflow-hidden text-center focus-visible:outline-none"
+                  tabindex="-1"
+                  aria-hidden="true"
+                >
+                  {cuento.coverEscena ? (
+                    <img
+                      src={cuento.coverEscena}
+                      alt=""
+                      class="w-full h-full object-contain p-3 transition-transform duration-300 pequenos-cover-img"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  ) : (
+                    <div class="w-full h-full flex flex-col items-center justify-center text-4xl text-[#D4A94E]">
+                      <span aria-hidden="true">📖</span>
+                    </div>
+                  )}
+                  <div class="pequenos-badge-overlay absolute top-3 right-3">
+                    <span class="bg-[#121832]/85 text-[#FFF9DC] text-xs font-bold px-2.5 py-1 rounded-full border border-[#D4A94E]/40 backdrop-blur-xs">
+                      {cuento.edad} años
+                    </span>
+                  </div>
+                </a>
+
+                <!-- Details Content -->
+                <div class="p-5 sm:p-6">
+                  <!-- Badges / Metadata -->
+                  <div class="flex flex-wrap items-center gap-1.5 mb-3 text-xs">
+                    <span class="bg-[#FF9F43]/20 text-[#FF9F43] font-bold px-2.5 py-0.5 rounded-full border border-[#FF9F43]/30">
+                      Edad: {cuento.edad} años
+                    </span>
+                    {cuento.valor && (
+                      <span class="bg-[#4FB6A3]/20 text-[#71cfbe] font-medium px-2.5 py-0.5 rounded-full border border-[#4FB6A3]/30">
+                        {cuento.valor}
+                      </span>
+                    )}
+                    {cuento.habitat && (
+                      <span class="bg-[#5B6FD6]/20 text-[#A6B2F5] font-medium px-2.5 py-0.5 rounded-full border border-[#5B6FD6]/30">
+                        {cuento.habitat}
+                      </span>
+                    )}
+                  </div>
+
+                  <!-- Title -->
+                  <h2 class="text-xl sm:text-2xl font-bold text-[#FFF9DC] mb-2 font-display leading-tight">
+                    <a
+                      href={`/cuentos/${cuento.slug}/leer/`}
+                      class="hover:text-[#FF9F43] transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#D4A94E] rounded"
+                    >
+                      {cuento.titulo}
+                    </a>
+                  </h2>
+
+                  <!-- Characters / Pages info -->
+                  {cuento.personajes && cuento.personajes.length > 0 && (
+                    <p class="text-xs text-[#FFF9DC]/70 mb-2 leading-relaxed">
+                      <span class="font-medium text-[#FFF9DC]/90">Personajes:</span> {cuento.personajes.join(', ')}
+                    </p>
+                  )}
+
+                  <p class="text-xs text-[#D4A94E]/80 font-medium">
+                    📖 {cuento.paginas} páginas interactivas con actividades
+                  </p>
+                </div>
+              </div>
+
+              <!-- Action Card Bottom -->
+              <div class="p-5 sm:p-6 pt-0">
+                <a
+                  href={`/cuentos/${cuento.slug}/leer/`}
+                  class="pequenos-btn-toy w-full inline-flex items-center justify-center gap-2 py-3 px-5 rounded-xl font-display font-bold text-base transition-transform active:translate-y-0.5"
+                  aria-label={`Leer cuento: ${cuento.titulo}, recomendado para ${cuento.edad} años`}
+                >
+                  <span aria-hidden="true">✨</span>
+                  <span>Leer cuento</span>
+                  <span aria-hidden="true" class="arrow-icon">→</span>
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <!-- Educational Context Footnote -->
+      <footer class="text-center pt-8 border-t border-[#D4A94E]/20 text-xs sm:text-sm text-[#FFF9DC]/65 max-w-xl mx-auto space-y-2">
+        <p>
+          Las historias de Pequeños fortalecen la escucha activa, el vocabulario infantil y el diálogo en familia.
+        </p>
+        <p class="text-[11px] text-[#D4A94E]/70">
+          Compatible con lectores de pantalla y navegación por teclado en cualquier dispositivo.
+        </p>
+      </footer>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  /* Local Cuentos night & warm palette tokens */
+  .pequenos-portal {
+    --cuento-noche: #121832;
+    --cuento-crema: #FFF9DC;
+    --cuento-dorado: #D4A94E;
+    --cuento-mango: #FF9F43;
+    --cuento-agua: #4FB6A3;
+    --cuento-madera-borde: #8B5A2B;
+    --cuento-madera-cara: #FFF9DC;
+    --cuento-texto-oscuro: #2A1F1B;
+
+    background-color: var(--cuento-noche);
+    color: var(--cuento-crema);
+    position: relative;
+    overflow-x: hidden;
+  }
+
+  .font-display {
+    font-family: 'Fredoka', 'Baloo 2', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  .font-body {
+    font-family: 'Andika', 'Atkinson Hyperlegible', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  /* Star dust background pattern matching Cuentos visual language */
+  .pequenos-stars {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background-image:
+      radial-gradient(1.5px 1.5px at 12% 18%, rgba(255, 249, 220, 0.8), transparent),
+      radial-gradient(2px 2px at 28% 55%, rgba(212, 169, 78, 0.7), transparent),
+      radial-gradient(1.2px 1.2px at 52% 12%, rgba(255, 255, 255, 0.9), transparent),
+      radial-gradient(2px 2px at 74% 75%, rgba(255, 249, 220, 0.6), transparent),
+      radial-gradient(1.5px 1.5px at 88% 30%, rgba(212, 169, 78, 0.8), transparent),
+      radial-gradient(1.2px 1.2px at 92% 70%, rgba(255, 255, 255, 0.7), transparent),
+      radial-gradient(2px 2px at 18% 88%, rgba(212, 169, 78, 0.5), transparent),
+      radial-gradient(1.5px 1.5px at 62% 48%, rgba(255, 249, 220, 0.7), transparent);
+    background-size: 100% 100%;
+    opacity: 0.85;
+    z-index: 0;
+  }
+
+  /* Toy-style accessible button */
+  .pequenos-btn-toy {
+    background-color: var(--cuento-mango);
+    color: #20140A;
+    border: 2px solid #D97E25;
+    box-shadow: 0 4px 0 #A85A10, 0 6px 12px rgba(0, 0, 0, 0.3);
+    text-decoration: none;
+    user-select: none;
+    outline-offset: 3px;
+  }
+
+  .pequenos-btn-toy:hover {
+    background-color: #FFAE5D;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 0 #A85A10, 0 8px 16px rgba(0, 0, 0, 0.35);
+  }
+
+  .pequenos-btn-toy:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 0 #A85A10, 0 3px 6px rgba(0, 0, 0, 0.25);
+  }
+
+  .pequenos-btn-toy:focus-visible {
+    outline: 3px solid var(--cuento-dorado);
+  }
+
+  .pequenos-card:hover .pequenos-cover-img {
+    transform: scale(1.05);
+  }
+
+  .pequenos-btn-toy:hover .arrow-icon {
+    transform: translateX(3px);
+  }
+
+  .arrow-icon {
+    transition: transform 0.2s ease;
+  }
+
+  /* Accessibility: Prefers reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .pequenos-card:hover .pequenos-cover-img,
+    .pequenos-btn-toy:hover,
+    .pequenos-btn-toy:active,
+    .pequenos-btn-toy:hover .arrow-icon {
+      transform: none !important;
+      transition: none !important;
+    }
+  }
+</style>
