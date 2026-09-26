@@ -85,7 +85,29 @@ describe('EscenaParallax.svelte Component & Parallax Motion Suite', () => {
   it('contains tap reaction class for frente plane and WebAudio oscillator feedback', () => {
     const code = fs.readFileSync(componentPath, 'utf-8');
     expect(code).toContain('cuento-frente-bounce');
-    expect(code).toContain('createOscillator');
     expect(code).toContain('triggerSceneTapReaction');
+    // El sonido vive en el sintetizador compartido (un solo AudioContext).
+    expect(code).toContain("from '../../../lib/cuentos/sonidos'");
+    const synth = fs.readFileSync(path.resolve(__dirname, '../../../lib/cuentos/sonidos.ts'), 'utf-8');
+    expect(synth).toContain('createOscillator');
+  });
+
+  it('delegates declarative interactivity (data-hotspot / data-contable / zoom) and keeps idle CSS reduced-motion safe', () => {
+    const code = fs.readFileSync(componentPath, 'utf-8');
+    expect(code).toContain("closest('[data-hotspot]')");
+    expect(code).toContain("closest('[data-contable]')");
+    expect(code).toContain('entrarZoom');
+    expect(code).toContain("e.key === 'Escape'");
+    // Defs del SVG fuente (gradientes) se conservan
+    expect(code).toContain('{@html rawDefs}');
+
+    const css = fs.readFileSync(path.resolve(__dirname, 'escena-viva.css'), 'utf-8');
+    expect(css).toContain("[data-idle='respira']");
+    expect(css).toMatch(/@media \(prefers-reduced-motion: reduce\)[\s\S]*\[data-idle\][\s\S]*animation: none !important/);
+    // Solo transform/opacity en keyframes (sin propiedades de layout)
+    const keyframes = css.match(/@keyframes[\s\S]*?\n}\n/g) ?? [];
+    for (const kf of keyframes) {
+      expect(kf).not.toMatch(/\b(left|top|width|height|filter)\s*:/);
+    }
   });
 });

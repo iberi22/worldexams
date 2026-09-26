@@ -53,7 +53,7 @@ test.describe('Immersive Spread Reader (/cuentos/[slug]/leer/) E2E Suite (Wave C
     });
 
     // 3. Emulate prefers-reduced-motion
-    await page.emulateMedia({ reduceMotion: 'reduce' });
+    await page.emulateMedia({ reducedMotion: 'reduce' });
 
     // Hide hero or site overlays & astro-dev-toolbar
     await page.addInitScript(() => {

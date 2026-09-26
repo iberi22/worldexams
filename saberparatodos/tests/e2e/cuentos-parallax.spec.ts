@@ -73,7 +73,7 @@ test.describe('Cuentos 2.5D Parallax & Motion Hygiene E2E Suite (Wave C7.06)', (
     await page.screenshot({ path: mobilePath, fullPage: true });
 
     // 5. Reduced motion test
-    await page.emulateMedia({ reduceMotion: 'reduce' });
+    await page.emulateMedia({ reducedMotion: 'reduce' });
     await page.reload();
 
     const reducedPath = path.join(targetDir, 'parallax-reduced-motion.png');

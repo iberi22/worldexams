@@ -8,15 +8,18 @@
   import EscenaInteractiva from './EscenaInteractiva.svelte';
   import QuizCuento from './QuizCuento.svelte';
   import AudioCuento from './AudioCuento.svelte';
+  import type { EscenaCapas } from '../../../lib/cuentos/escenas-capas';
   import '../arte/tokens.css';
 
   export interface Props {
     cuento: any;
+    /** Capas 2.5D por número de página (motor escenas-capas; resuelto en build). */
+    escenasCapas?: Record<number, EscenaCapas>;
     onComplete?: () => void;
     className?: string;
   }
 
-  let { cuento, onComplete, className = '' }: Props = $props();
+  let { cuento, escenasCapas = {}, onComplete, className = '' }: Props = $props();
 
   let currentPageIndex = $state(0);
   let showQuiz = $state(false);
@@ -35,6 +38,9 @@
 
   const totalPaginas = $derived(paginas.length);
   const currentPage = $derived(paginas[currentPageIndex] || null);
+  const currentPageNumero = $derived(
+    Number(currentPage?.n ?? currentPage?.numero ?? currentPageIndex + 1)
+  );
   const isFirstPage = $derived(currentPageIndex <= 0);
   const isLastPage = $derived(currentPageIndex >= totalPaginas - 1);
 
@@ -254,8 +260,11 @@
       {#if !showQuiz && currentPage}
         <!-- Escena Ilustrada -->
         <div class="scene-container">
-          {#if currentPage.escena || currentPage.imagen}
+          {#if escenasCapas[currentPageNumero] || currentPage.escena || currentPage.imagen}
             <EscenaInteractiva
+              cuentoSlug={cuento.slug}
+              paginaNumero={currentPageNumero}
+              escenaCapas={escenasCapas[currentPageNumero]}
               escena={{
                 frente: resolveScenePath(cuento.slug, currentPage.escena || currentPage.imagen)
               }}
@@ -485,6 +494,10 @@
 
   .scene-container {
     width: 100%;
+    /* 16:9 completo sin recorte: limitar el ANCHO (380px de alto × 16/9) en vez
+       de cortar la parte inferior de la escena con max-height + overflow. */
+    max-width: calc(380px * 16 / 9);
+    margin-inline: auto;
     max-height: 380px;
     border-radius: 1.25rem;
     overflow: hidden;
