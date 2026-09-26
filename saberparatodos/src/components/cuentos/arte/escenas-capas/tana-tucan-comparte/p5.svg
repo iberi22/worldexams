@@ -1,0 +1,64 @@
+<!-- © 2026 SaberParaTodos / WorldExams. Todos los derechos reservados. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Dos mangos ruedan de las alas de Tana hacia el río">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EBF5EE"/>
+      <stop offset="100%" stop-color="#FDF6EC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Plano 1: Fondo (Cielo nublado y colinas lejanas) -->
+  <g id="plano-fondo" data-plane="fondo">
+    <rect width="800" height="450" fill="url(#bg5)" rx="12"/>
+    <g data-idle="flota">
+      <path d="M 100 80 Q 200 60 300 90 Q 400 70 500 80 Z" fill="#D2E3D8" opacity="0.7"/>
+    </g>
+  </g>
+
+  <!-- Plano 2: Medio (Barranco y Tana asustada) -->
+  <g id="plano-medio" data-plane="medio">
+    <path d="M 0 320 Q 300 280 500 330 L 0 350 Z" fill="#4FB6A3"/>
+
+    <!-- Tana asustada/llorando -->
+    <g data-hotspot="tana" data-etiqueta="Tana, triste por sus mangos" data-accion="meneo" data-sonido="tucan" data-dice="¡Mis mangos!">
+      <g data-idle="respira">
+        <g transform="translate(120, 130)">
+          <ellipse cx="100" cy="126" rx="52" ry="60" fill="#2F3A45"/>
+          <circle cx="100" cy="62" r="40" fill="#2F3A45"/>
+          <ellipse cx="100" cy="140" rx="29" ry="35" fill="#FFF6E8"/>
+          <!-- alas temblando abiertas -->
+          <path d="M 40 100 Q 10 70 30 130 Z" fill="#232D36"/>
+          <path d="M 160 100 Q 190 70 170 130 Z" fill="#232D36"/>
+          <!-- pico abriéndose con lamento -->
+          <path d="M100 50 L162 60 L100 70 Z" fill="#FF9F43"/>
+          <!-- ojos asustados -->
+          <circle cx="84" cy="52" r="12" fill="#FFFFFF"/>
+          <circle cx="85" cy="52" r="6" fill="#232D36"/>
+          <circle cx="114" cy="52" r="12" fill="#FFFFFF"/>
+          <circle cx="115" cy="52" r="6" fill="#232D36"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Plano 3: Frente (Río turbulento en movimiento con olas y mangos flotando) -->
+  <g id="plano-frente" data-plane="frente">
+    <path d="M 0 340 Q 200 310 400 350 Q 600 390 800 340 L 800 450 L 0 450 Z" fill="#5B7FA6"/>
+    <!-- Olas del río -->
+    <g data-idle="flota">
+      <path d="M 50 370 Q 100 360 150 370" stroke="#EBF5EE" stroke-width="4" stroke-linecap="round" fill="none"/>
+      <path d="M 350 390 Q 400 380 450 390" stroke="#EBF5EE" stroke-width="4" stroke-linecap="round" fill="none"/>
+      <path d="M 600 360 Q 650 350 700 360" stroke="#EBF5EE" stroke-width="4" stroke-linecap="round" fill="none"/>
+    </g>
+
+    <!-- 2 mangos cayendo/flotando en el río en primer plano -->
+    <g data-hotspot="mangos-rio" data-etiqueta="Dos mangos flotando en el río" data-accion="salto" data-sonido="agua" data-dice="¡Plin, plan!">
+      <g data-idle="flota">
+        <g transform="translate(420, 350)">
+          <ellipse cx="0" cy="0" rx="14" ry="20" fill="#FF9F43" transform="rotate(35)"/>
+          <ellipse cx="80" cy="20" rx="14" ry="20" fill="#FF9F43" transform="rotate(-25 80 20)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
