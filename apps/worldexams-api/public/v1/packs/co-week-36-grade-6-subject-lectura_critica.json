@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-36-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T23:35:19.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de esos cuatro textos pertenece al género explicativo?",
+      "context": "En la biblioteca de Bucaramanga, un grupo de sexto grado recibe cuatro textos breves y debe ubicar cuál de ellos es explicativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El que narra un viaje de un comerciante de Bogotá a Bucaramanga vendiendo café.",
+          "is_correct": false,
+          "feedback": "Narrar un viaje con experiencias ordenadas corresponde al relato de viajes, y no a una explicación de un funcionamiento."
+        },
+        {
+          "letter": "B",
+          "text": "El que defiende con razones que el agua de la ciudad debe ahorrarse más.",
+          "is_correct": false,
+          "feedback": "Defender una postura con razones pertenece al texto argumentativo, y no al texto explicativo."
+        },
+        {
+          "letter": "C",
+          "text": "El que describe paso a paso cómo se arma y se limpia un filtro de agua casero.",
+          "is_correct": true,
+          "feedback": "Describir paso a paso cómo funciona un artefacto cotidiano es exactamente la finalidad del texto explicativo."
+        },
+        {
+          "letter": "D",
+          "text": "El que enumera los precios de los productos de la plaza de mercado del lunes.",
+          "is_correct": false,
+          "feedback": "Una lista de precios informa datos y no explica el funcionamiento de un proceso ni de un objeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto explicativo se reconoce por su finalidad: hacer comprensible cómo funciona un proceso o un artefacto cotidiano, y por eso ordena los pasos del funcionamiento. Un relato de viajes narra experiencias, un texto argumentativo defiende una postura y una lista de precios solo informa datos. Cuando una lectura ordena un proceso paso a paso, el género es explicativo aunque use frases sencillas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v2",
+      "statement": "¿Qué indica esa primera oración sobre el orden en que el texto va a explicar el proceso?",
+      "context": "En el salón de Bogotá, un texto de la semana explica el funcionamiento de un termostato y su primera oración dice: \"El termostato mide la temperatura del ambiente y la compara con la que fue programada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que comienza por el paso inicial, que es medir la temperatura.",
+          "is_correct": true,
+          "feedback": "Las explicaciones siguen el orden real del proceso, y por eso abren con el primer paso y luego avanzan."
+        },
+        {
+          "letter": "B",
+          "text": "Que abre con la conclusión para que el lector ya conozca el resultado.",
+          "is_correct": false,
+          "feedback": "La conclusión de una explicación va al final, y no al principio, porque el lector la deduce de los pasos anteriores."
+        },
+        {
+          "letter": "C",
+          "text": "Que repite el título para recordar de qué trata el texto.",
+          "is_correct": false,
+          "feedback": "Repetir el título no es la función de esa oración, y el texto avanza de inmediato con el primer paso."
+        },
+        {
+          "letter": "D",
+          "text": "Que enumera todas las partes del aparato antes de describirlas.",
+          "is_correct": false,
+          "feedback": "Esa oración no enumera partes, y ya describe la primera acción que realiza el termostato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las explicaciones se construyen siguiendo el orden real del proceso, y por eso la primera oración corresponde al primer paso. Cuando el texto abre con el resultado, el lector pierde la posibilidad de deducirlo y la explicación se vuelve menos clara. Reconocer que la secuencia va del primer paso al último ayuda a controlar la lectura y a detectar errores en el orden.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v3",
+      "statement": "¿Qué relación establece la expresión \"por lo tanto\" en ese fragmento?",
+      "context": "En el taller de lectura de Medellín, un texto sobre el funcionamiento de una cisterna dice: \"La flotación sube cuando el nivel del agua aumenta; por lo tanto, la llave se cierra sola\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrasta dos explicaciones opuestas sobre el mismo mecanismo.",
+          "is_correct": false,
+          "feedback": "La expresión no contrapone ninguna explicación, y solo saca una consecuencia de lo que ya se había dicho."
+        },
+        {
+          "letter": "B",
+          "text": "Abre una duda que el texto deja pendiente para el final.",
+          "is_correct": false,
+          "feedback": "El texto no está dudando, y la expresión cierra un razonamiento en vez de abrir una pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "Repite el dato anterior para reforzar su importancia.",
+          "is_correct": false,
+          "feedback": "Repetir no es la función de esa expresión, porque su trabajo es mostrar el vínculo entre causa y efecto."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte lo que ocurre dentro del tanque en la consecuencia que se observa en la llave.",
+          "is_correct": true,
+          "feedback": "La expresión marca la consecuencia que se deduce de lo descrito antes, y ese es el nexo típico de la explicación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una explicación cada paso se apoya en lo que se acaba de decir, y las expresiones de consecuencia son las que marcan ese apoyo. Términos como \"por lo tanto\" o \"en consecuencia\" conectan la causa descrita con el efecto que se deduce. Reconocerlos permite seguir el razonamiento del texto y distinguirlo de una narración, que solo relata lo que ocurrió sin deducir nada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué esa oración se considera impersonal?",
+      "context": "En una cartilla del municipio de Pereira sobre el funcionamiento de un calentador aparece la oración: \"Se purga la válvula cuando la llama se apaga\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque une dos segmentos de información mediante la conjunción \"cuando\".",
+          "is_correct": false,
+          "feedback": "La conjunción \"cuando\" relaciona dos partes de una misma oración, y no determina si esta es impersonal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque enuncia una costumbre sin nombrar a la persona que la realiza.",
+          "is_correct": true,
+          "feedback": "El pronombre \"se\" permite enunciar el procedimiento sin identificar a nadie, y por eso la oración es impersonal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque termina con un punto y afirma un hecho comprobado.",
+          "is_correct": false,
+          "feedback": "La puntuación final no define el tipo de oración, y eso depende de cómo está construido el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el verbo aparece dirigido a un grupo de varias personas.",
+          "is_correct": false,
+          "feedback": "La oración citada no se dirige a nadie en particular, y por eso no es una oración con tratamiento directo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las oraciones impersonales sirven para enunciar una costumbre o un procedimiento sin señalar a quien lo ejecuta. En los textos explicativos son muy frecuentes porque describen lo que se debe hacer en general, no lo que hizo una persona concreta. Por eso una cartilla puede escribir \"se purga la válvula\" y seguir siendo clara para cualquier lector que la aplique.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v5",
+      "statement": "¿Qué elemento del texto revela que su propósito no es solamente informar?",
+      "context": "En Cali, la administración de un conjunto residencial entrega a cada familia un texto que explica cómo leer la factura del agua y qué hacer si el consumo sube mucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de datos que aparecen detallados en la factura.",
+          "is_correct": false,
+          "feedback": "Incluir más datos amplía la información, y no cambia la conducta que el texto espera del lector."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre de la empresa que administra el conjunto residencial.",
+          "is_correct": false,
+          "feedback": "Nombrar a la empresa da crédito al documento, y no indica que se pretenda modificar una conducta."
+        },
+        {
+          "letter": "C",
+          "text": "La indicación de pasos concretos, como medir el tanque y avisar al administrador.",
+          "is_correct": true,
+          "feedback": "Indicar qué hacer convierte la información en una conducta esperada, y eso es lo que induce el texto."
+        },
+        {
+          "letter": "D",
+          "text": "El tamaño de la letra con que está impreso cada apartado.",
+          "is_correct": false,
+          "feedback": "Un formato más grande facilita la lectura, y no expresa por sí mismo una intención de conducta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todo texto se escribe para alguien y con una intención definida. Cuando un documento administrativo señala pasos concretos, como medir el tanque y avisar al administrador, no se limita a informar: propone una conducta que el lector debe seguir. Reconocer ese propósito es lo que permite entender por qué un texto se escribe y qué se espera de quien lo lee.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v6",
+      "statement": "¿Qué falla en ese texto al organizar el proceso?",
+      "context": "En el cuaderno de lectura de Barranquilla, una alumna termina su texto explicativo con esta secuencia: \"Primero se abre la tapa; luego se limpia el filtro; a continuación se vuelve a abrir la tapa; después se limpia el filtro otra vez\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La secuencia se repite, porque el paso de limpiar el filtro aparece dos veces.",
+          "is_correct": true,
+          "feedback": "Un orden de pasos avanza sin retroceder, y repetir una etapa rompe la secuencia que el lector intenta seguir."
+        },
+        {
+          "letter": "B",
+          "text": "Faltan imágenes, porque un texto explicativo sin dibujos no puede entenderse.",
+          "is_correct": false,
+          "feedback": "La falta de imágenes no es un problema de organización, porque un proceso se puede explicar solo con palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Las oraciones son demasiado largas para leerse de un vistazo.",
+          "is_correct": false,
+          "feedback": "La longitud de las oraciones no es lo que falla aquí, y el problema está en el orden en que aparecen los pasos."
+        },
+        {
+          "letter": "D",
+          "text": "No hay título, porque todo texto explicativo necesita un encabezado en mayúsculas.",
+          "is_correct": false,
+          "feedback": "El enunciado no señala que falte un título, y además un texto explicativo no está obligado a llevar encabezado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La organización de un texto explicativo sigue el orden real del proceso, y cada etapa aparece una sola vez. Cuando un paso se repite, el lector pierde de vista en qué momento estaba y no logra reconstruir la secuencia. La coherencia se construye con un avance sin retrocesos, y no con oraciones más largas, con imágenes o con títulos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v7",
+      "statement": "¿Qué explica que los dos textos sobre el molino no sean intercambiables?",
+      "context": "En un museo de Bogotá hay una etiqueta que explica en cinco líneas cómo funciona un molino de viento, y en un aula de sexto grado hay un texto que explica el mismo molino en ocho pasos numerados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos narran hechos en el tiempo, porque ambos empiezan en un molino antiguo.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos narra hechos en el tiempo, y los dos describen cómo funciona el objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos defienden la restauración del molino, porque mencionan la fecha en que se construyó.",
+          "is_correct": false,
+          "feedback": "Nombrar una fecha es un dato de la explicación, y no una postura que el texto intente defender."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos usan el mismo vocabulario técnico, y por eso dicen exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Un vocabulario parecido no vuelve idénticos a los textos, y cada uno resuelve una necesidad de lectura distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Cada uno ajusta el nivel de detalle a la audiencia a la que escribe.",
+          "is_correct": true,
+          "feedback": "La función de explicar es la misma, pero el resumen del museo y el desarrollo del aula se dirigen a lectores distintos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos que explican lo mismo permite ver que la función del género no cambia, pero sí cambia el nivel de detalle. Una etiqueta de museo resume para el visitante que pasa por el lugar, mientras que un texto de aula desarrolla cada paso para quien va a estudiarlo. Reconocer la audiencia de cada texto explica por qué dos explicaciones del mismo objeto pueden ser distintas y aun así correctas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce el verbo \"convierte\" en esa oración?",
+      "context": "En un texto de Cartagena sobre cómo trabaja un panel solar se lee: \"El panel convierte la luz del sol en corriente eléctrica que viaja por el cable hasta la lámpara\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta a una persona que realiza la transformación a mano.",
+          "is_correct": false,
+          "feedback": "En la oración no aparece ninguna persona, y la transformación ocurre por el funcionamiento mismo del panel."
+        },
+        {
+          "letter": "B",
+          "text": "Hace visible una transformación que el lector no puede ver.",
+          "is_correct": true,
+          "feedback": "Nombrar el cambio de la luz en corriente muestra un proceso que ocurre sin que el ojo pueda seguirlo."
+        },
+        {
+          "letter": "C",
+          "text": "Expresa una opinión sobre la calidad del equipo instalado en la casa.",
+          "is_correct": false,
+          "feedback": "El verbo describe un proceso, y no emite ningún juicio sobre la calidad del equipo."
+        },
+        {
+          "letter": "D",
+          "text": "Repite lo que el párrafo anterior ya había explicado con detalle.",
+          "is_correct": false,
+          "feedback": "La oración añade el paso de la transformación, y no repite un dato que ya se hubiera dado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos explicativos necesitan nombrar con precisión aquello que el lector no puede ver a simple vista. El verbo \"convierte\" vuelve visible una transformación que ocurre dentro de un artefacto y por eso ayuda al lector a imaginársela. Cuando esa palabra desaparece y queda solo una descripción vaga, la explicación pierde precisión y el proceso deja de ser entendible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de estas preguntas evalúa mejor si esa explicación es completa?",
+      "context": "Un texto de la alcaldía de Villavicencio afirma que las calles se inundan cada vez que llueve fuerte y atribuye el problema a la falta de limpieza de los canales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿El texto usa palabras técnicas como \"obstrucción\" y \"caudal\"?",
+          "is_correct": false,
+          "feedback": "Contar palabras técnicas mide el vocabulario empleado, y no revela si la explicación está bien sustentada."
+        },
+        {
+          "letter": "B",
+          "text": "¿El texto tiene cuatro párrafos y un título centrado en la página?",
+          "is_correct": false,
+          "feedback": "La forma del texto no dice nada sobre la calidad de la explicación de la causa de la inundación."
+        },
+        {
+          "letter": "C",
+          "text": "¿El texto nombra lo que se obstruye en los canales y apoya con datos que eso causa la inundación?",
+          "is_correct": true,
+          "feedback": "La pregunta revisa las dos condiciones de una explicación completa: nombrar el mecanismo y probarlo con evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "¿El texto menciona el nombre del río que atraviesa la ciudad?",
+          "is_correct": false,
+          "feedback": "Nombrar el río es un dato del contexto, y no evalúa si la explicación causal está sostenida con pruebas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una explicación consiste en preguntar si nombra el mecanismo y si lo apoya con pruebas verificables. En el caso de las calles inundadas, una explicación completa señala lo que se obstruye y demuestra con datos que esa obstrucción produce la inundación. Contar palabras técnicas, párrafos o nombres propios mide la forma del texto, y no la solidez de su razonamiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evidencia demostraría mejor que el equipo comprendió el texto explicativo?",
+      "context": "En el cierre del periodo, un equipo de Pereira entrega tres textos sobre el mismo artefacto: un texto explicativo de cuatro páginas, un aviso de seis líneas y una crónica de un párrafo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que explica qué hace cada texto y por qué el texto explicativo era el género adecuado para mostrar el funcionamiento.",
+          "is_correct": true,
+          "feedback": "Justificar la función de cada texto y la elección del género demuestra comprensión de la intención, y no solo de la forma."
+        },
+        {
+          "letter": "B",
+          "text": "Que los tres textos tienen la misma cantidad de páginas.",
+          "is_correct": false,
+          "feedback": "La igualdad de extensión muestra uniformidad en el trabajo, y no que el equipo sepa para qué sirve cada género."
+        },
+        {
+          "letter": "C",
+          "text": "Que los tres textos mencionan la misma marca del artefacto explicado.",
+          "is_correct": false,
+          "feedback": "Repartir el mismo nombre de marca es un detalle de contenido, y no prueba que se haya entendido el género."
+        },
+        {
+          "letter": "D",
+          "text": "Que los tres textos fueron revisados por la profesora en la misma fecha.",
+          "is_correct": false,
+          "feedback": "La fecha de revisión informa la organización del trabajo, y no revela comprensión del género explicativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un trabajo demuestra comprensión del género cuando el estudiante sabe qué hace cada texto y por qué lo eligió. Si el equipo explica que el aviso informa, que la crónica narra y que el texto explicativo describe el funcionamiento, y además justifica esa elección, entonces evidencia dominio del género. La extensión, el contenido repetido o la fecha de entrega son datos formales, y no pruebas de comprensión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
