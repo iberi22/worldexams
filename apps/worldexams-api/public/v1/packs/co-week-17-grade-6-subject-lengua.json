@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-17-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.502Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son las preposiciones?",
+      "context": "En una cartilla de Medellín se lee: «Vamos al parque con los amigos, pero antes pasaremos por la casa».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palabras que expresan acciones o estados del sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Palabras que reemplazan al sustantivo para evitar repeticiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del pronombre."
+        },
+        {
+          "letter": "C",
+          "text": "Palabras invariables que enlazan un sustantivo con otra palabra de la oración.",
+          "is_correct": true,
+          "feedback": "Correcto. Las preposiciones relacionan términos dentro de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "Palabras que unen dos oraciones independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de la conjunción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preposiciones más usadas en español son: a, ante, bajo, con, contra, de, desde, en, entre, hacia, hasta, para, por, según, sin, sobre, tras. Son palabras invariables: no cambian de forma.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué preposiciones aparecen y qué términos enlazan?",
+      "context": "Una alumna de Pereira escribe: «Mi profesora de ciencias llegó sin cuaderno, y nosotros le compartimos las hojas».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi, de y las, porque acompañan a los sustantivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son pronombre, preposición y artículo."
+        },
+        {
+          "letter": "B",
+          "text": "«Sin» enlaza «cuaderno» y «de» enlaza «ciencias» con «profesora».",
+          "is_correct": true,
+          "feedback": "Correcto. Cada preposición cumple una función distinta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo «con» es preposición, las demás son adverbios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Sin» y «de» también son preposiciones."
+        },
+        {
+          "letter": "D",
+          "text": "Llegó y compartimos son preposiciones porque son acciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son verbos conjugados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La preposición siempre forma una unidad con la palabra o palabras que la siguen (sin cuaderno, de ciencias). Esa unidad se llama complemento preposicional y aporta información clave al verbo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué información aporta cada preposición del cartel?",
+      "context": "Un cartel de Cali anuncia: «Vuelos desde Bogotá hacia Pasto por solo 180.000 COP».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Desde» indica destino, «hacia» indica origen y «por» indica modo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las funciones están invertidas."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres preposiciones son sinónimas y no aportan diferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada una tiene un matiz distinto."
+        },
+        {
+          "letter": "C",
+          "text": "«Desde» marca origen, «hacia» marca dirección y «por» indica el precio.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada preposición precisa un dato distinto del viaje."
+        },
+        {
+          "letter": "D",
+          "text": "Solo «por» funciona, las demás están de más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas son necesarias para entender el anuncio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "«Desde» y «hacia» marcan trayectos; «por» se usa para medios, precios y causas. Conocer el matiz de cada preposición evita confusiones, sobre todo en textos informativos como avisos y noticias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué conjunciones aparecen y cuándo se usa «y» o «e»?",
+      "context": "Un niño de Barranquilla escribe en su diario: «Hoy visité a mi abuela, y mi primo, e Iván».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Y» y «e» son iguales y se pueden intercambiar siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección depende de la palabra siguiente."
+        },
+        {
+          "letter": "B",
+          "text": "«Y» une palabras u oraciones; «e» se usa antes de palabra que empieza con i-.",
+          "is_correct": true,
+          "feedback": "Correcto. La regla evita la cacofonía: y ... Iván suena raro, mejor e Iván."
+        },
+        {
+          "letter": "C",
+          "text": "«E» solo se usa al final de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usa antes de palabras con i-, sin importar el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Solo «y» es conjunción; «e» es un adverbio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos son conjunciones coordinantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conjunciones coordinantes más usadas: y, e, ni, o, u, pero, sino. «E» sustituye a «y» antes de palabras con i- (e Iván); «u» sustituye a «o» antes de palabras con o- (uno u otro). Esta regla mejora la lectura en voz alta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué conjunciones aparecen y qué relación expresan?",
+      "context": "Una receta de Bucaramanga dice: «Fríe la cebolla con ajo, pero no la quemes; si se pega, agrega agua».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con y no son conjunciones, son adverbios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Con» es preposición y «no» es adverbio de negación."
+        },
+        {
+          "letter": "B",
+          "text": "«Pero» introduce un aviso, «si» plantea una condición y «no» es adverbio.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada palabra cumple un papel distinto en la receta."
+        },
+        {
+          "letter": "C",
+          "text": "Solo «si» es conjunción; las demás son verbos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Pero» y «si» son conjunciones; «no» es adverbio."
+        },
+        {
+          "letter": "D",
+          "text": "Todas son pronombres porque se refieren a la cebolla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna reemplaza al sustantivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las conjunciones se dividen en coordinantes (unen elementos del mismo nivel: y, o, pero, sino) y subordinantes (introducen una dependencia: que, si, porque, aunque). Elegir la adecuada mantiene la lógica del texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia hay entre la preposición «con» en «con propuestas» y la de «por la tarde»?",
+      "context": "Un cartel en Pasto lee: «Los candidatos a la alcaldía, con propuestas, debatirán el viernes por la tarde».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas significan lo mismo y son intercambiables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada una cumple una función distinta."
+        },
+        {
+          "letter": "B",
+          "text": "«Con» indica acompañamiento y «por» indica tiempo aproximado.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada preposición aporta un matiz informativo."
+        },
+        {
+          "letter": "C",
+          "text": "«Por» siempre significa causa, nunca tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Por» puede señalar tiempo (por la mañana) y otras nociones."
+        },
+        {
+          "letter": "D",
+          "text": "«Con» y «por» son adverbios en este cartel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son preposiciones, no adverbios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "«Con» introduce compañía, instrumento o modo. «Por» puede indicar tiempo (por la tarde), lugar (por la calle), medio o causa. Un buen lector distingue estos matices según la pregunta que responde la preposición.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué conjunciones y locuciones aparecen y qué relación lógica expresan?",
+      "context": "En un foro de Neiva, una profesora dice: «Leemos para aprender, porque leer es esencial, aunque cueste».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para y porque son adverbios porque completan al verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Para» es preposición y «porque» es conjunción causal."
+        },
+        {
+          "letter": "B",
+          "text": "«Para» introduce finalidad, «porque» expresa causa y «aunque» marca oposición.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada conector muestra un tipo de relación lógica."
+        },
+        {
+          "letter": "C",
+          "text": "«Aunque» solo se usa para hablar del pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Puede aparecer en distintos tiempos y modos."
+        },
+        {
+          "letter": "D",
+          "text": "«Leer» y «esencial» son las conjunciones más importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son verbo y adjetivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conjunciones causales (porque, ya que), finales (para que, a fin de que) y adversativas (aunque, a pesar de que) organizan las ideas del texto. Reconocerlas mejora la argumentación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué funciones cumplen las preposiciones y las conjunciones en este relato?",
+      "context": "Un alumno de Manizales escribe: «Estudié entre las 4 y las 6, luego jugué hasta las 8, después vi tele».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre, hasta y luego son sustantivos porque nombran acciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son preposición, preposición y adverbio."
+        },
+        {
+          "letter": "B",
+          "text": "«Entre» y «hasta» precisan tiempo, «y» une horas y «luego» ordena la narración.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada palabra organiza el orden temporal."
+        },
+        {
+          "letter": "C",
+          "text": "Las preposiciones no tienen función en este texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marcan los límites temporales del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Solo «y» es conjunción; las demás son adverbios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Entre» y «hasta» son preposiciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una narración, las preposiciones de tiempo (entre, hasta, desde, a) y las conjunciones (y, luego, después) crean una línea temporal clara. Dominarlas permite escribir relatos ordenados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué función cumple cada conector del aviso y cómo se evalúa su precisión?",
+      "context": "Un aviso en Tunja dice: «Los estudiantes, con sus profesores, harán un paseo hacia el páramo sin descuidar las normas».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aviso es confuso y debe reescribirse por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto es claro; solo se puede mejorar algún matiz."
+        },
+        {
+          "letter": "B",
+          "text": "«Con» precisa compañía, «hacia» marca dirección y «sin» advierte de una condición.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada conector organiza un aspecto distinto del plan."
+        },
+        {
+          "letter": "C",
+          "text": "«Hacia» está mal y debe cambiarse por «hasta».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Hacia» señala dirección sin precisar el destino exacto."
+        },
+        {
+          "letter": "D",
+          "text": "Solo «sin» es preposición; las demás son adverbios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Con» y «hacia» también son preposiciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen aviso depende de conectores precisos: «hacia» para indicar dirección general, «hasta» para destino exacto, «sin» para negar un riesgo. Cada conector comunica una intención clara.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué problema tiene la elección de «sino» en la frase y cómo se corrige?",
+      "context": "Una alumna de Cartagena escribe: «Iré al museo si me dejan, sino iré al parque, o por último me quedaré leyendo en casa».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase es correcta y no necesita cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay un error en el uso de «sino»."
+        },
+        {
+          "letter": "B",
+          "text": "«Si no» debería ir separado y «sino» aparece mal combinado.",
+          "is_correct": true,
+          "feedback": "Correcto. La alumna fusionó dos estructuras distintas: «si no» (condición) y «sino» (contraste)."
+        },
+        {
+          "letter": "C",
+          "text": "Solo «o» es correcto; «sino» sobra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «O» une alternativas, pero «sino» no está mal elegido en sí."
+        },
+        {
+          "letter": "D",
+          "text": "El verbo «iré» se debe cambiar por «voy».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El futuro es correcto para anunciar planes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "«Si no» (separado) equivale a «en caso de que no» (condicional). «Sino» (junto) equivale a «pero» o «en lugar de» (contrastante). Confundirlos es un error frecuente que conviene revisar en las redacciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
