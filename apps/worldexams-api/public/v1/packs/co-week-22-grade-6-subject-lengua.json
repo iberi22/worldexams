@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-22-grade-6-subject-lengua",
+    "generated_at": "2026-09-27T17:03:46.522Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v1",
+      "statement": "¿Cuáles son las tres partes estructurales de un cuento?",
+      "context": "En una biblioteca escolar de Bogotá, una alumna de sexto lee un cuento corto y anota en su cuaderno las partes que reconoce.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio, nudo y desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto. El cuento clásico se organiza en una presentación, un conflicto y una solución."
+        },
+        {
+          "letter": "B",
+          "text": "Título, autor e índice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son datos de portada, no partes narrativas."
+        },
+        {
+          "letter": "C",
+          "text": "Introducción, bibliografía y conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bibliografía no aparece dentro del cuento."
+        },
+        {
+          "letter": "D",
+          "text": "Personajes, escenarios y diálogo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son elementos del cuento, no su estructura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todo cuento se organiza en inicio (se presentan personajes y lugar), nudo (aparece el conflicto que mueve la historia) y desenlace (se resuelve el conflicto). Reconocerlas ayuda a entender cualquier relato corto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia existe entre el personaje principal y los personajes secundarios de un cuento?",
+      "context": "En clase de lengua en Medellín, el profesor pregunta qué personajes suelen aparecer en los cuentos que leen los estudiantes.\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principal es el malo y los secundarios los buenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moralidad no define el rol protagónico."
+        },
+        {
+          "letter": "B",
+          "text": "El principal protagoniza la historia y los secundarios lo acompañan o ayudan.",
+          "is_correct": true,
+          "feedback": "Correcto. La trama gira alrededor del personaje principal."
+        },
+        {
+          "letter": "C",
+          "text": "Los secundarios aparecen solo al final del cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden intervenir en cualquier parte."
+        },
+        {
+          "letter": "D",
+          "text": "No existe diferencia: todos cumplen el mismo papel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada personaje cumple una función narrativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El personaje principal (o protagonista) impulsa la acción y enfrenta el conflicto. Los secundarios (antagonista, ayudante, testigo) enriquecen la historia y permiten que avance la trama.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v3",
+      "statement": "¿Qué elementos del cuento aparecen en este fragmento?",
+      "context": "Una alumna de Cali escribe el inicio de su cuento: «María salió de su casa en el barrio San Antonio, caminó hasta la plaza y encontró un perro desconocido».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nudo y el desenlace, porque ya hay acción terminada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí no se ha desarrollado ni resuelto el conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "El inicio con la presentación de la protagonista, el lugar y el detonante.",
+          "is_correct": true,
+          "feedback": "Correcto. Se reconocen personaje, espacio y situación inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el desenlace porque el encuentro con el perro es el final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El encuentro es solo el comienzo del conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente el espacio narrativo, sin personaje ni acción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay personaje, espacio y acción inicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el inicio el autor presenta quién cuenta (narrador), quién actúa (personaje), dónde (espacio) y cuándo (tiempo). Este fragmento cumple con esos cuatro elementos básicos del arranque narrativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recurso narrativo predomina en esta acción?",
+      "context": "Un alumno de Barranquilla lee: «Andrés escuchó un ruido extraño detrás de la puerta. Sudoroso, decidió abrir muy despacio».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una descripción detallada del paisaje sonoro del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descripción amplia, solo una acción concreta."
+        },
+        {
+          "letter": "B",
+          "text": "La acción del personaje que enfrenta una situación de tensión.",
+          "is_correct": true,
+          "feedback": "Correcto. Predomina el movimiento y la decisión ante el conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "Un diálogo entre varios personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo aparece un personaje en acción."
+        },
+        {
+          "letter": "D",
+          "text": "Una explicación científica sobre el ruido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no aporta datos técnicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuento combina narración, descripción y diálogo. Cuando predominan los verbos de acción y las decisiones del personaje, el relato avanza con ritmo y mantiene la atención del lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v5",
+      "statement": "¿Qué información no puede faltar en una reseña corta de un cuento?",
+      "context": "Una alumna de Pereira debe recomendar un cuento a su hermano menor y prepara una breve reseña escrita.\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el título y el autor, sin mencionar la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una reseña necesita resumir la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Título, autor, tema central y opinión personal.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos elementos orientan a quien va a leer."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de todos los personajes con sus edades reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las edades exactas no siempre son relevantes."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente una crítica negativa para ser objetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reseña equilibra aciertos y limitaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La reseña combina datos del libro, resumen breve del conflicto y un juicio sobre el texto. Una buena reseña invita a leer sin revelar el desenlace.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de narrador se identifica en este fragmento?",
+      "context": "Un alumno de Bucaramanga lee: «El viejo relojero miró el reloj roto, suspiró y murmuró: el tiempo perdido no se devuelve».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un narrador personaje porque relata en primera persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparece un «yo» que cuente su propia historia."
+        },
+        {
+          "letter": "B",
+          "text": "Un narrador omnisciente que conoce los pensamientos del relojero.",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador accede al susurro interno del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Un narrador testigo limitado a lo que ve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera testigo no sabría lo murmurado."
+        },
+        {
+          "letter": "D",
+          "text": "Un narrador en segunda persona dirigido al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay fórmulas como «tú observas»."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador omnisciente cuenta desde fuera pero conoce lo que sienten y piensan los personajes. Aquí se nota al saber lo que el relojero «murmuró», algo que un testigo no podría conocer con certeza.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cumple el espacio (el salón vacío) en este fragmento?",
+      "context": "Una alumna de Cartagena lee: «Lucía entró al salón vacío, encendió la luz y vio que alguien había escrito AYUDA en el tablero con marcador rojo».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, porque solo describe un lugar físico sin relación con la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio ayuda a construir el ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Genera un ambiente de tensión que anticipa el conflicto.",
+          "is_correct": true,
+          "feedback": "Correcto. El salón vacío y el mensaje misterioso crean intriga."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye al personaje principal en la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El personaje sigue siendo Lucía, no el espacio."
+        },
+        {
+          "letter": "D",
+          "text": "Sirve únicamente para indicar la hora del relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay marcas temporales explícitas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el cuento, el espacio no es solo decorado: puede anticipar conflictos, reflejar emociones del personaje o crear climas de misterio. Por eso se describe con detalle.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cambia cuando un autor reescribe un cuento tradicional?",
+      "context": "En un taller literario en Popayán, los estudiantes comparan dos versiones del mismo cuento popular colombiano.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo cambia la portada y el título, la historia se mantiene intacta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reescribir implica modificar la historia."
+        },
+        {
+          "letter": "B",
+          "text": "El autor transforma el lenguaje, los detalles y la visión del mundo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada versión aporta una mirada nueva."
+        },
+        {
+          "letter": "C",
+          "text": "Se eliminan obligatoriamente los personajes originales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pueden mantenerse o evolucionar."
+        },
+        {
+          "letter": "D",
+          "text": "Se prohíbe añadir nuevos espacios a la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nuevos espacios enriquecen la versión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reescribir un cuento tradicional implica volver a narrarlo con voz propia: actualizar el lenguaje, incluir otros detalles, dar un enfoque distinto y, a veces, cambiar el final según la intención del nuevo autor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mejor razón para que un autor elija un final abierto en un cuento?",
+      "context": "Una alumna de Manizales termina de leer un cuento y le pregunta a su profesora por qué el autor dejó el final abierto.\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no supo cómo terminar la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La decisión suele ser intencional y planeada."
+        },
+        {
+          "letter": "B",
+          "text": "Para invitar al lector a construir su propio desenlace.",
+          "is_correct": true,
+          "feedback": "Correcto. El cierre abierto promueve la reflexión."
+        },
+        {
+          "letter": "C",
+          "text": "Para evitar dar una moraleja clara al relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja puede estar implícita incluso con final abierto."
+        },
+        {
+          "letter": "D",
+          "text": "Para reducir la extensión total del cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no depende del tipo de cierre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un final abierto deja una pregunta sin respuesta definitiva y confía en la inteligencia del lector. Esta técnica se usa en literatura contemporánea para generar reflexión y prolongar la lectura más allá del texto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle-v10",
+      "statement": "¿Qué concepto literario está criticando el alumno en su comentario?",
+      "context": "Un alumno de Neiva leyó un cuento y opina: «No me gustó porque el personaje no cambia al final y todo termina igual que al principio».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La extensión del cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no implica transformación del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "La ausencia de transformación del personaje principal a lo largo de la trama.",
+          "is_correct": true,
+          "feedback": "Correcto. Critica que no haya arco ni aprendizaje."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de un narrador en tercera persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tipo de narrador no define el cambio interno."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de un final cerrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el cierre sino la evolución interna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el personaje principal no aprende, no cambia ni resuelve su conflicto, el cuento pierde fuerza. La transformación interna es una de las claves de la narrativa breve bien lograda.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W22-el-cuento-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

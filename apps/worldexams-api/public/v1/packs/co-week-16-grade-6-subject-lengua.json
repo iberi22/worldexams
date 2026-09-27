@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-16-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.501Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un pronombre?",
+      "context": "En el kiosco de la escuela en Bucaramanga, un niño dice: «Yo quiero una empanada, mi hermano quiere una y mi primo también quiere».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra que nombra personas, animales o cosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra que reemplaza al sustantivo para evitar repeticiones.",
+          "is_correct": true,
+          "feedback": "Correcto. El pronombre sustituye al nombre sin perder el sentido."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra que describe cómo es el sustantivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del adjetivo."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra que expresa acciones o estados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del verbo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pronombre es una palabra variable que sustituye al sustantivo (llamado antecedente). Ejemplos: yo, tú, él, nosotros, ellos, mi, tu, su, este, ese, aquel, alguien, nadie, que, quien.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v2",
+      "statement": "¿Qué pronombres aparecen en el relato y a qué sustituyen?",
+      "context": "Una niña de Manizales cuenta: «Mi gata Luna es muy juguetona. Ella duerme en la alfombra y yo la cuido todos los días».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gata, Luna y días, porque son las palabras más importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son sustantivos, no pronombres."
+        },
+        {
+          "letter": "B",
+          "text": "«Ella» sustituye a Luna y «yo» y «la» se refieren a la niña y a la gata.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada pronombre evita repetir el sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "Muy, todos y días, porque acompañan al verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son adverbio, adjetivo y sustantivo."
+        },
+        {
+          "letter": "D",
+          "text": "Duerme y cuido, porque son las acciones principales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son verbos conjugados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pronombre mantiene el texto ágil: en vez de repetir «Luna» una y otra vez, se usa «ella». Para identificarlo, busca qué sustantivo ya apareció antes en el texto: ese es su antecedente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de pronombre es «ustedes» y qué función cumple en el cartel?",
+      "context": "Un cartel de Neiva anuncia: «Vendemos arepas. Ustedes pueden probarlas a partir de las 7 a.m.».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pronombre posesivo porque indica pertenencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los posesivos son mi, tu, su, nuestro; «ustedes» no encaja."
+        },
+        {
+          "letter": "B",
+          "text": "Es pronombre demostrativo porque señala algo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los demostrativos son este, ese, aquel; «ustedes» no encaja."
+        },
+        {
+          "letter": "C",
+          "text": "Es pronombre personal porque se dirige a los clientes en segunda persona.",
+          "is_correct": true,
+          "feedback": "Correcto. «Ustedes» es la forma de cortesía para hablar a varias personas en Latinoamérica."
+        },
+        {
+          "letter": "D",
+          "text": "Es pronombre indefinido porque no especifica a quién.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dirige claramente a un grupo de clientes presentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los pronombres personales indican persona gramatical: yo (1.ª), tú, usted, ustedes (2.ª), él, ella, ellos, ellas (3.ª). En Latinoamérica, «ustedes» reemplaza al «vosotros» español para hablar a un grupo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v4",
+      "statement": "¿Qué pronombres demostrativos aparecen y qué distancia expresan?",
+      "context": "Una alumna de Barranquilla escribe: «Este es mi cuaderno, ese es el tuyo y aquel es el de Juan».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi, el y Juan, porque identifican al cuaderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son posesivo, artículo y sustantivo propio."
+        },
+        {
+          "letter": "B",
+          "text": "Tuyo y Juan, porque muestran posesión y nombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tuyo es posesivo y Juan es sustantivo propio."
+        },
+        {
+          "letter": "C",
+          "text": "«Este» señala lo cercano, «ese» lo intermedio y «aquel» lo lejano.",
+          "is_correct": true,
+          "feedback": "Correcto. Los demostrativos ubican al objeto respecto al hablante."
+        },
+        {
+          "letter": "D",
+          "text": "Solo «aquel» es demostrativo; los demás son pronombres personales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres son demostrativos con distancias distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este, esta, estos, estas → cerca del hablante. Ese, esa, esos, esas → distancia media. Aquel, aquella, aquellos, aquellas → lejos del hablante. Esta escala de distancia ayuda a precisar descripciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v5",
+      "statement": "¿Qué pronombres indefinidos aparecen y qué información generalizan?",
+      "context": "Una profesora de Pereira dicta: «Nadie llegó tarde hoy. Todos trajeron el cuaderno. Algunos olvidaron el libro».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hoy, trajeron y olvidaron, porque son acciones de los alumnos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son adverbio y verbos conjugados."
+        },
+        {
+          "letter": "B",
+          "text": "«Nadie» niega a todos, «todos» los incluye y «algunos» precisa a una parte.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada pronombre tiene un alcance distinto sobre el grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Cuaderno, libro y alumnos, porque son lo más importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son sustantivos, no pronombres."
+        },
+        {
+          "letter": "D",
+          "text": "Solo «todos» es indefinido; los demás son sustantivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Nadie» y «algunos» también son pronombres indefinidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pronombres indefinidos: alguien, nadie, algo, nada, todos, varios, algunos, ninguno, cualquiera. Expresan cantidades o identidades vagas y permiten generalizar sin nombrar a nadie en particular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v6",
+      "statement": "¿Qué pronombres aparecen y cómo se evita la repetición del sustantivo «casa»?",
+      "context": "En un cuento de Cartagena se lee: «El caracol llevaba su casa, que era grande y bonita. Ella se la construyó con paciencia».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su es sustantivo, que es verbo y ella es adjetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres son pronombres, pero de distinto tipo."
+        },
+        {
+          "letter": "B",
+          "text": "«Su» posesivo, «que» relativo y «ella» y «la» personales.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada pronombre cumple un papel distinto para evitar repeticiones."
+        },
+        {
+          "letter": "C",
+          "text": "Casa es pronombre, grande es adverbio y bonita es verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las clasificaciones están invertidas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo «que» es pronombre porque enlaza oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Su», «ella» y «la» también son pronombres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tipos de pronombres: personales (yo, él), posesivos (mi, su), demostrativos (este, aquel), indefinidos (alguien, nadie), relativos (que, quien, donde). Cada tipo aporta economía y claridad al texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v7",
+      "statement": "¿Cómo contribuyen los pronombres relativos y personales a la cohesión del texto?",
+      "context": "Un periódico de Medellín informa: «Los maestros, quienes trabajan duro, recibirán un bono de 600.000 COP. Ellos lo merecen».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los pronombres no aportan cohesión, solo adornan el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin ellos habría que repetir sustantivos constantemente."
+        },
+        {
+          "letter": "B",
+          "text": "Solo los pronombres personales cohesionan el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los relativos también cumplen esa función."
+        },
+        {
+          "letter": "C",
+          "text": "«Quienes» conecta a «los maestros» con la idea siguiente y «ellos» los retoma al final.",
+          "is_correct": true,
+          "feedback": "Correcto. La cadena pronominal mantiene la referencia clara."
+        },
+        {
+          "letter": "D",
+          "text": "Los relativos confunden al lector y deben evitarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bien usados, los relativos hacen los textos más fluidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cohesión textual se logra cuando el lector identifica sin esfuerzo a qué se refiere cada pronombre. La clave está en que el antecedente sea claro y esté cerca del pronombre.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v8",
+      "statement": "¿Qué pronombres aparecen y a qué sustantivo se refieren?",
+      "context": "Una receta de Cali dice: «Agrega el cilantro. Ponlo al final. Si no te gusta, omítelo».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agrega y Pon son pronombres porque son verbos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son verbos en imperativo, no pronombres."
+        },
+        {
+          "letter": "B",
+          "text": "«Lo» y «te» se refieren al cilantro y al cocinero que prepara.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada pronombre evita repetir el sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "Final y gusta son pronombres porque complementan al verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son sustantivo y verbo conjugado."
+        },
+        {
+          "letter": "D",
+          "text": "No hay pronombres, solo verbos y sustantivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Lo» y «te» son claramente pronombres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "«Lo» y «la» sustituyen al objeto directo; «le» sustituye al objeto indirecto; «te», «me», «nos» son pronombres que se refieren a las personas involucradas. La cocina es un gran laboratorio para reconocerlos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v9",
+      "statement": "¿Qué problema tiene el afiche y cómo se mejora?",
+      "context": "Un afiche de Tunja dice: «Los jóvenes, que estudian poco, deberían leer más. Ellos mismos lo saben».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El afiche es perfecto y no necesita cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronombre «ellos» tiene un antecedente dudoso."
+        },
+        {
+          "letter": "B",
+          "text": "El verbo «estudian» debería cambiarse por «leemos».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo es correcto; el problema es de referencia."
+        },
+        {
+          "letter": "C",
+          "text": "«Ellos mismos» es ambiguo porque podría referirse a los jóvenes o a otros.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin contexto claro, la referencia pronominal se pierde."
+        },
+        {
+          "letter": "D",
+          "text": "Solo falta una imagen, no hay problema de texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema es gramatical y de claridad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una referencia pronominal ambigua rompe la comprensión. Para evitarla, el pronombre debe tener un antecedente claro y único. Reescribir usando el sustantivo preciso mejora la comunicación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle-v10",
+      "statement": "¿Qué críticas se le pueden hacer al uso de los pronombres y por qué?",
+      "context": "Una alumna de Pasto escribe: «Mis amigas y yo fuimos al museo. Nosotras nos divertimos mucho. Después nosotras merendamos en la plaza».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La alumna escribió correctamente y no hay nada que mejorar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay repeticiones que se pueden corregir."
+        },
+        {
+          "letter": "B",
+          "text": "El verbo «divertimos» está mal conjugado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conjugación es correcta."
+        },
+        {
+          "letter": "C",
+          "text": "«Nosotras» se repite de forma innecesaria y puede sustituirse por «también».",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición del pronombre hace el texto pesado."
+        },
+        {
+          "letter": "D",
+          "text": "El sustantivo «amigas» debería ir antes del pronombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden no afecta la corrección."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Escribir bien incluye evitar repeticiones. Sustituir pronombres por adverbios (también, además), por sinónimos o por elidir el pronombre cuando se sobreentiende mejora la fluidez del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W16-el-pronombre-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-19-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.504Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el sujeto en una oración?",
+      "context": "Una profesora de Barranquilla escribe en el tablero: «Los estudiantes del grado 6 leen cuentos colombianos».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parte que dice lo que hace o le ocurre al ser nombrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del predicado."
+        },
+        {
+          "letter": "B",
+          "text": "La parte de la oración que indica quién realiza la acción o de quien se dice algo.",
+          "is_correct": true,
+          "feedback": "Correcto. El sujeto nombra al protagonista de la acción."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra que conecta dos partes de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del nexo o conector."
+        },
+        {
+          "letter": "D",
+          "text": "El signo de puntuación que cierra la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto es una parte del contenido, no de la forma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sujeto y el predicado son las dos partes básicas de toda oración. El sujeto responde a ¿quién? o ¿qué? antes del verbo. El predicado responde a ¿qué hace? o ¿qué le ocurre? al sujeto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el sujeto y cuál el predicado en la primera oración?",
+      "context": "Un niño de Pasto narra: «Mi perro corre por el parque todos los días. Ladra cuando ve a otros perros».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto: «corre»; predicado: «Mi perro».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas funciones están invertidas."
+        },
+        {
+          "letter": "B",
+          "text": "Sujeto: «por el parque»; predicado: «Mi perro corre».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase preposicional no es el sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "Sujeto: «Mi perro»; predicado: «corre por el parque todos los días».",
+          "is_correct": true,
+          "feedback": "Correcto. El perro hace la acción de correr."
+        },
+        {
+          "letter": "D",
+          "text": "Sujeto: «todos los días»; predicado: «Mi perro corre por el parque».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El complemento de tiempo no es el sujeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar el sujeto, hazte la pregunta «¿quién?» antes del verbo. Si la respuesta es una palabra o grupo de palabras, ese será el sujeto. Lo demás pertenece al predicado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la segunda oración no tiene sujeto visible y qué tipo de sujeto tiene?",
+      "context": "Una alumna de Medellín escribe: «Compramos pan en la panadería de la esquina. Está calientico».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque no tiene sujeto: es una oración mal escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda oración tiene sujeto, aunque no aparezca."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el sujeto está al final: «calientico».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Calientico» es un adjetivo, no el sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tiene sujeto tácito: «(Está calientico)» referido al pan.",
+          "is_correct": true,
+          "feedback": "Correcto. El sujeto se sobreentiende por el contexto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el verbo «está» exige siempre un sujeto visible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los verbos permiten sujeto omitido cuando se entiende por contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sujeto tácito (omitido, elíptico) se deduce del verbo y del contexto. Aparece con frecuencia en diálogos y narraciones para evitar repeticiones: «(yo) Compramos pan» es válido por la concordancia verbal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v4",
+      "statement": "¿Qué núcleo tiene el sujeto y con qué verbo concuerda?",
+      "context": "Un cartel de Bucaramanga dice: «Los atletas olímpicos colombianos entrenan duro todos los días».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El núcleo es «duro» y concuerda con «entrenan».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Duro» es un adverbio, no el núcleo del sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "El núcleo es «todos» y concuerda con «días».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Todos los días» es un complemento de tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "El núcleo es «atletas» y concuerda con «entrenan» en plural.",
+          "is_correct": true,
+          "feedback": "Correcto. El núcleo es el sustantivo principal del sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "El núcleo es «olímpicos» y concuerda con «colombianos».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos no son núcleo del sujeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El núcleo del sujeto es el sustantivo (o pronombre) principal. Los adjetivos y complementos que lo rodean amplían su significado, pero no desplazan su función de núcleo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v5",
+      "statement": "¿Cómo es el sujeto y qué tipo de predicado tiene la oración?",
+      "context": "Un periódico de Cali informa: «Las maestras rurales celebraron su día con un almuerzo de 25.000 COP por persona».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto simple y predicado nominal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto es compuesto (incluye a varias maestras) y el predicado es verbal."
+        },
+        {
+          "letter": "B",
+          "text": "Sujeto simple plural y predicado verbal.",
+          "is_correct": true,
+          "feedback": "Correcto. «Las maestras rurales» designa un grupo y el verbo «celebraron» es de acción."
+        },
+        {
+          "letter": "C",
+          "text": "Sujeto tácito y predicado verbal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto aparece explícito: «las maestras rurales»."
+        },
+        {
+          "letter": "D",
+          "text": "Sujeto individual y predicado nominal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay verbo copulativo ni atributo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El predicado verbal tiene un verbo de acción (celebrar, correr, leer). El predicado nominal incluye un verbo copulativo (ser, estar, parecer) más un atributo. La diferencia cambia la estructura de la oración.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la frase tiene un error de concordancia y cómo se corrige?",
+      "context": "Una alumna de Tunja escribe: «Mi hermana Valentina y yo estudiaremos en la universidad de Boyacá».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay error, la concordancia es correcta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto es plural y exige verbo en plural."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el sujeto es «mi hermana» y debe ir en singular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto incluye también a «yo»."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sujeto compuesto exige «estudiaremos» en plural, no «estudiaremos» en primera del plural.",
+          "is_correct": true,
+          "feedback": "Correcto. La alumna se incluyó y la forma debe ser plural."
+        },
+        {
+          "letter": "D",
+          "text": "Porque debería decir «estudiarán» en tercera persona del plural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al incluirse con «yo», el verbo va en primera persona del plural."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando el sujeto está formado por varias personas gramaticales (1.ª + 3.ª), el verbo va en 1.ª persona del plural. Cuando es 2.ª + 3.ª, va en 2.ª del plural. Esta regla de «persona jerárquica» evita errores de concordancia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de sujeto tiene cada oración y cómo se evita la repetición?",
+      "context": "Un afiche de Pereira anuncia: «Las entradas para el teatro están rebajadas. Solo cuestan 12.000 COP».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas tienen sujeto tácito porque no se ve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera tiene sujeto explícito y la segunda tácito."
+        },
+        {
+          "letter": "B",
+          "text": "La primera tiene sujeto explícito («Las entradas») y la segunda sujeto tácito (las entradas).",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición se evita gracias al sujeto sobreentendido."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen sujeto simple y visible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la primera muestra el sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son enunciados sueltos sin sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda oración tiene sujeto, aunque sea tácito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sujeto tácito evita redundancias en textos informativos. Es común en instrucciones, recetas y avisos: la segunda oración retoma el sujeto anterior sin repetirlo para ganar fluidez.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se divide la oración en sujeto y predicado y qué tipo de predicado tiene?",
+      "context": "Un alumno de Neiva escribe: «Los pájaros del jardín son muy alegres porque cantan al amanecer».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto: «porque cantan al amanecer»; predicado: «Los pájaros del jardín son muy alegres».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nexo causal no puede ser el sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "Sujeto: «Los pájaros del jardín»; predicado: «son muy alegres porque cantan al amanecer».",
+          "is_correct": true,
+          "feedback": "Correcto. El sujeto aparece al inicio y el predicado incluye la causa."
+        },
+        {
+          "letter": "C",
+          "text": "Sujeto: «Los pájaros»; predicado: «del jardín son muy alegres».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Del jardín» es complemento del nombre, no predicado."
+        },
+        {
+          "letter": "D",
+          "text": "Sujeto: «cantan»; predicado: «Los pájaros del jardín son muy alegres».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Cantan» es un verbo del predicado, no el sujeto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oración compuesta puede tener un predicado que engloba varias ideas. La causa introducida por «porque» forma parte del predicado y no debe confundirse con el sujeto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de sujeto tiene la oración del cartel y qué efecto comunica?",
+      "context": "Un cartel en Manizales dice: «Se prohíbe el ingreso de alimentos al salón de clase».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sujeto explícito: «alimentos».",
+          "is_correct": false,
+          "feedback": "Incorrecto. «Alimentos» forma parte del complemento preposicional."
+        },
+        {
+          "letter": "B",
+          "text": "No hay sujeto, es una oración impersonal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración tiene sujeto tácito: «usted» o «las personas»."
+        },
+        {
+          "letter": "C",
+          "text": "Sujeto tácito (se entiende «ustedes») que implica a todos los visitantes.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura impersonal generaliza la prohibición."
+        },
+        {
+          "letter": "D",
+          "text": "Sujeto plural explícito: «todos los alumnos».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel no menciona a nadie en particular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En avisos y normas, es frecuente usar sujetos tácitos para incluir a todos sin señalar a nadie: «se prohíbe», «se recomienda», «se solicita». El verbo en tercera persona y la ausencia de sujeto explícito generalizan la orden.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle-v10",
+      "statement": "¿Qué observa el lector sobre la estructura del sujeto y qué crítica merece?",
+      "context": "Una alumna de Cartagena escribe: «Los compañeros y la profesora organizaron la fiesta, y luego ellos limpiaron todo el salón».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La alumna escribió de forma impecable y no hay nada que mejorar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto de la segunda oración es ambiguo."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda oración debería decir «los compañeros y la profesora».",
+          "is_correct": true,
+          "feedback": "Correcto. El sujeto tácito «ellos» se entiende, pero conviene ser explícita para evitar confusión."
+        },
+        {
+          "letter": "C",
+          "text": "El verbo «organizaron» debería estar en singular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto es plural y el verbo concuerda."
+        },
+        {
+          "letter": "D",
+          "text": "Falta el sujeto en ambas oraciones y debe añadirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera oración tiene sujeto explícito claro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque el sujeto tácito es válido, en textos académicos conviene ser explícito para evitar ambigüedades. Cuando un pronombre como «ellos» pueda referirse a varios grupos, mejor repetir el sustantivo para mayor claridad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W19-el-sujeto-y-el-predicado-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

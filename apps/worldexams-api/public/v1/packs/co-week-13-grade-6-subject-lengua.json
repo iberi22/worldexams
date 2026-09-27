@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-13-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.495Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el adjetivo calificativo?",
+      "context": "En clase de lengua en Barranquilla, el profesor escribe en el tablero: «El mar Caribe es inmenso y azul».\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra que nombra a las personas, los animales y las cosas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sustantivo."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra que expresa cualidades o características del sustantivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El adjetivo dice cómo es el sustantivo: inmenso, azul, alegre."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra que expresa la acción que realiza el sujeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acciones las expresan los verbos."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra que reemplaza al sustantivo en la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del pronombre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El adjetivo calificativo acompaña al sustantivo y nos dice cómo es: su tamaño, su color, su carácter. Sin adjetivos, nuestras descripciones serían pobres y aburridas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuáles palabras de la postal son adjetivos calificativos?",
+      "context": "Una postal de Cartagena dice: «Las murallas antiguas protegen la ciudad colonial y hermosa».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Murallas y ciudad, porque nombran lugares de Cartagena.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras nombran seres, son sustantivos."
+        },
+        {
+          "letter": "B",
+          "text": "Antiguas, colonial y hermosa, porque describen cómo son las murallas y la ciudad.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada adjetivo indica una cualidad del sustantivo al que acompaña."
+        },
+        {
+          "letter": "C",
+          "text": "Protegen y dice, porque indican lo que ocurre en la postal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras expresan acciones, son verbos."
+        },
+        {
+          "letter": "D",
+          "text": "Las y la, porque acompañan a los nombres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son artículos, no expresan cualidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar el adjetivo pregunta «¿cómo es?» al sustantivo: ¿cómo son las murallas? Antiguas. ¿Cómo es la ciudad? Colonial y hermosa. Lo que responda a esa pregunta es el adjetivo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué palabras del anuncio son adjetivos demostrativos?",
+      "context": "En el mercado de Pasto, un vendedor anuncia: «Esta ruana es gruesa y abrigada; esa cobija es liviana».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gruesa y liviana, porque describen las prendas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son cualidades, es decir, adjetivos calificativos."
+        },
+        {
+          "letter": "B",
+          "text": "Ruana y cobija, porque nombran los productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras nombran objetos, son sustantivos."
+        },
+        {
+          "letter": "C",
+          "text": "Esta y esa, porque señalan la distancia de los objetos respecto al vendedor.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta señala lo cercano y esa lo lejano; los demostrativos indican cercanía o lejanía."
+        },
+        {
+          "letter": "D",
+          "text": "Es y son, porque unen las palabras del anuncio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras expresan el verbo ser."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los adjetivos demostrativos señalan la distancia: este/esta (cerca de mí), ese/esa (cerca de ti o lejos de mí), aquel/aquella (lejos de ambos). Siempre acompañan a un sustantivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué palabras de la discusión son adjetivos posesivos?",
+      "context": "En un colegio de Cali, dos hermanos discuten: «Mi cuaderno es nuevo, pero tu mochila está rota y sus colores se borraron».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi, tu y sus, porque indican a quién pertenece cada objeto.",
+          "is_correct": true,
+          "feedback": "Correcto. Los posesivos expresan pertenencia: mi (mío), tu (tuyo), sus (de ellos)."
+        },
+        {
+          "letter": "B",
+          "text": "Nuevo y rota, porque describen el estado de los objetos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son cualidades, es decir, adjetivos calificativos."
+        },
+        {
+          "letter": "C",
+          "text": "Cuaderno y mochila, porque son los objetos de la discusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras nombran objetos, son sustantivos."
+        },
+        {
+          "letter": "D",
+          "text": "Pero y está, porque conectan las ideas de los hermanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una es conjunción y la otra es verbo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los adjetivos posesivos indican posesión o pertenencia: mi, tu, su, nuestro, vuestro, con sus plurales. Van antes del sustantivo y concuerdan con lo poseído, no con el dueño: «sus colores».\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v5",
+      "statement": "¿En qué género y número están los adjetivos «pintoresco» y «colorido»?",
+      "context": "Una guía de turismo en Medellín describe: «El Pueblito Paisa es un barrio pintoresco y colorido».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Femenino plural, porque terminan en o.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La terminación en o indica masculino, no femenino."
+        },
+        {
+          "letter": "B",
+          "text": "Femenino singular, porque acompañan a barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Barrio es masculino, así que sus adjetivos también lo son."
+        },
+        {
+          "letter": "C",
+          "text": "Masculino singular, porque concuerdan con el sustantivo barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. El adjetivo copia el género y el número del sustantivo al que acompaña."
+        },
+        {
+          "letter": "D",
+          "text": "Masculino plural, porque describen muchas casas del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Están en singular porque el sustantivo barrio está en singular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concordancia es la regla de oro: el adjetivo debe coincidir en género (masculino/femenino) y número (singular/plural) con su sustantivo. Si el sustantivo cambia, el adjetivo cambia con él.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v6",
+      "statement": "Analiza la concordancia: ¿por qué «fantásticas» y «curiosos» tienen formas diferentes?",
+      "context": "En la feria del libro de Bogotá, un cartel dice: «Las historias fantásticas atraen a los lectores curiosos».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los adjetivos nunca concuerdan con los sustantivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concordancia es obligatoria en español."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada adjetivo concuerda con su propio sustantivo en género y número.",
+          "is_correct": true,
+          "feedback": "Correcto. Fantásticas concuerda con historias (femenino plural) y curiosos con lectores (masculino plural)."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los adjetivos terminados en s no cambian nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos sí cambian según el sustantivo que acompañan."
+        },
+        {
+          "letter": "D",
+          "text": "Porque uno es demostrativo y el otro es posesivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son adjetivos calificativos que expresan cualidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada adjetivo mira solo a su sustantivo. Cuando hay varios sustantivos con varios adjetivos, debes emparejarlos uno por uno para verificar que cada pareja concuerde en género y número.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué diferencia hay entre «aquel» y «este» en la frase del niño?",
+      "context": "Un niño de Bucaramanga escribe: «Aquel perro grande es bravo, pero este cachorro pequeño es juguetón».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aquel es posesivo y este es calificativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son demostrativos, no indican posesión ni cualidad."
+        },
+        {
+          "letter": "B",
+          "text": "No hay diferencia, se pueden intercambiar sin cambiar el sentido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada uno señala una distancia distinta."
+        },
+        {
+          "letter": "C",
+          "text": "Aquel señala lo cercano y este señala lo lejano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: este indica cercanía y aquel lejanía."
+        },
+        {
+          "letter": "D",
+          "text": "Aquel señala un perro lejano y este señala un cachorro cercano.",
+          "is_correct": true,
+          "feedback": "Correcto. Este = cerca de quien habla; aquel = lejos de quien habla y de quien escucha."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los tres grados de distancia son: este (aquí, cerca de mí), ese (ahí, cerca de ti), aquel (allá, lejos de los dos). Elegir bien el demostrativo ayuda al lector a ubicar cada objeto en el espacio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué pareja sustantivo-adjetivo presenta un error de concordancia?",
+      "context": "En un restaurante de Cali sirven «un sancocho espeso por 12.000 COP y unas empanadas doradas por 8.000 COP».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay error: todas las parejas concuerdan correctamente.",
+          "is_correct": true,
+          "feedback": "Correcto. Sancocho-espeso (masculino singular) y empanadas-doradas (femenino plural) concuerdan bien."
+        },
+        {
+          "letter": "B",
+          "text": "Sancocho espeso, porque espeso debería ser espesa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sancocho es masculino, así que espeso está bien."
+        },
+        {
+          "letter": "C",
+          "text": "Empanadas doradas, porque doradas debería ser dorados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empanadas es femenino plural, así que doradas está bien."
+        },
+        {
+          "letter": "D",
+          "text": "Un sancocho, porque el artículo un no concuerda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un es masculino singular y concuerda con sancocho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para revisar la concordancia, tapa el resto de la frase y lee solo la pareja: «sancocho espeso», «empanadas doradas». Si ambas palabras comparten género y número, la concordancia es correcta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué errores de concordancia hay en el aviso del mural?",
+      "context": "En el mural de un colegio en Pasto se lee: «Los niñas juiciosos ganaron el concurso de lectura».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el artículo está mal y debe decir «Las niñas».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay más de un error: también el adjetivo es incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el adjetivo está mal y debe decir «juiciosas».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo también es incorrecto."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo y el adjetivo están mal: debe decir «Las niñas juiciosas».",
+          "is_correct": true,
+          "feedback": "Correcto. Niñas es femenino plural, así que el artículo y el adjetivo deben ser femeninos plurales."
+        },
+        {
+          "letter": "D",
+          "text": "No hay errores, la frase está bien escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay dos errores de concordancia que se deben corregir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sustantivo manda y los demás obedecen: si el sustantivo es femenino plural, el artículo y el adjetivo deben ser femeninos plurales. Un solo sustantivo puede exigir cambios en varias palabras a la vez.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el mejor análisis del uso de los adjetivos en la postal?",
+      "context": "Una estudiante de Medellín escribe una postal y duda entre estas versiones: «Querida abuela: te envío esta carta larga desde aquella ciudad lejana».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Querida sobra porque las abuelas no necesitan cariño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Querida expresa afecto y es adecuado en una carta familiar."
+        },
+        {
+          "letter": "B",
+          "text": "El uso es correcto: querida y larga son calificativos, esta es demostrativo de cercanía y aquella de lejanía.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada adjetivo cumple su función: describir y ubicar en el espacio con precisión."
+        },
+        {
+          "letter": "C",
+          "text": "Esta y aquella son posesivos que indican que la carta es de la abuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta y aquella señalan distancia, no pertenencia."
+        },
+        {
+          "letter": "D",
+          "text": "Larga y lejana son verbos que indican la acción de escribir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas expresan cualidades, no acciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen escritor combina las clases de adjetivos: los calificativos pintan con detalle (querida, larga, lejana) y los demostrativos ubican al lector (esta carta que tengo, aquella ciudad donde estoy). Juntos dan claridad y belleza al texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W13-el-adjetivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
