@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-24-grade-6-subject-lengua",
+    "generated_at": "2026-09-27T17:03:46.522Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un mito?",
+      "context": "En una clase de lengua en Bogotá, el profesor pregunta a los estudiantes qué saben sobre los relatos que explican el origen del mundo.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un relato tradicional que explica el origen del mundo o de los fenómenos naturales.",
+          "is_correct": true,
+          "feedback": "Correcto. El mito da respuestas simbólicas a grandes preguntas."
+        },
+        {
+          "letter": "B",
+          "text": "Una noticia publicada en un periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia informa hechos verificables."
+        },
+        {
+          "letter": "C",
+          "text": "Una receta de cocina tradicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La receta indica pasos para preparar alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Un cuento de hadas europeo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento de hadas pertenece a otra tradición narrativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El mito es un relato tradicional que explica el origen del universo, de los dioses o de los fenómenos naturales. Su función es dar sentido simbólico a la realidad en una cultura determinada.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v2",
+      "statement": "¿Qué personajes suelen protagonizar los mitos?",
+      "context": "Una alumna de Medellín lee un libro de mitos muiscas para su clase de lengua.\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Principalmente astronautas y científicos modernos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mitos son relatos tradicionales antiguos."
+        },
+        {
+          "letter": "B",
+          "text": "Dioses, semidioses, héroes y seres sobrenaturales.",
+          "is_correct": true,
+          "feedback": "Correcto. Los personajes míticos tienen poderes extraordinarios."
+        },
+        {
+          "letter": "C",
+          "text": "Animales de granja sin ninguna cualidad humana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los animales de los mitos suelen estar personificados."
+        },
+        {
+          "letter": "D",
+          "text": "Solo los antepasados más ancianos de cada pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protagonistas son figuras míticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En los mitos aparecen dioses creadores, héroes civilizadores y seres con poderes extraordinarios. Estos personajes representan fuerzas de la naturaleza o valores espirituales de su cultura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v3",
+      "statement": "¿Qué rasgo distingue a una leyenda de un mito?",
+      "context": "En clase de Cali, los estudiantes leen la leyenda del Mohan, personaje que habita cerca del río Cauca.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La leyenda ocurre en otros planetas, el mito en la Tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas tradiciones se ambientan en nuestro mundo."
+        },
+        {
+          "letter": "B",
+          "text": "La leyenda narra hechos humanos en lugares reales con elementos fantásticos.",
+          "is_correct": true,
+          "feedback": "Correcto. Mezcla historia local con imaginación."
+        },
+        {
+          "letter": "C",
+          "text": "La leyenda nunca menciona lugares geográficos reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La leyenda suele situarse en lugares reconocibles."
+        },
+        {
+          "letter": "D",
+          "text": "La leyenda solo se transmite por escrito, no oralmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Predomina la tradición oral en su difusión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La leyenda es un relato tradicional que mezcla hechos reales con elementos fantásticos. Se ubica en lugares y épocas reconocibles, como pueblos, montañas o ríos de la geografía colombiana.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de texto es este fragmento y por qué?",
+      "context": "Una alumna de Pereira lee: «Dicen que en la laguna de Guatavita, ciertas noches, se ve una figura dorada que camina sobre el agua».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mito, porque narra la creación del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No explica el origen del universo, solo un fenómeno local."
+        },
+        {
+          "letter": "B",
+          "text": "Una leyenda, porque sitúa un hecho misterioso en un lugar real de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. Guatavita existe y la historia mezcla realidad con misterio."
+        },
+        {
+          "letter": "C",
+          "text": "Un cuento infantil, porque aparece un personaje fantástico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un cuento inventado por un autor moderno."
+        },
+        {
+          "letter": "D",
+          "text": "Una noticia, porque informa algo que ocurrió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia exige verificación periodística."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este fragmento es una leyenda porque combina un lugar real (la laguna de Guatavita) con un elemento misterioso (la figura dorada). Esa mezcla entre lo cotidiano y lo sobrenatural es propia de la leyenda.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v5",
+      "statement": "¿Qué explica el mito muisca de Bachué?",
+      "context": "Un alumno de Bucaramanga debe explicar a su familia por qué el mito de Bachué es importante para los muiscas.\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La derrota militar de los muiscas frente a los españoles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mito de Bachué no se refiere a la conquista."
+        },
+        {
+          "letter": "B",
+          "text": "El origen del pueblo muisca a partir de una pareja sagrada.",
+          "is_correct": true,
+          "feedback": "Correcto. Bachué emerge de la laguna y da inicio a la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "La fundación de la ciudad de Bogotá en 1538.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fundación de Bogotá es un hecho histórico posterior."
+        },
+        {
+          "letter": "D",
+          "text": "La llegada de los animales a la cordillera Oriental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mito se centra en la humanidad, no en la fauna."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Bachué es la madre mítica de los muiscas. El relato cuenta cómo salió de una laguna con un niño, pobló la tierra y, al final, regresó al agua con su hijo ya anciano. Es un mito de origen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tienen en común estos dos relatos?",
+      "context": "Una alumna de Barranquilla compara el mito griego de Perséfone con la leyenda wayúu de Majayura.\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos explican cómo se inventó la escritura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno se refiere a la escritura."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos explican el cambio de las estaciones con un rapto sagrado.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos historias explican el ciclo de la naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos ocurren en la antigua Roma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Grecia y la Guajira son lugares diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos presentan a Perséfone como protagonista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Majayura es la protagonista en la versión wayúu."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Perséfone y Majayura comparten el tema del descenso al mundo subterráneo y el regreso cíclico. Cada cultura explica así el invierno y la estación seca desde su propia visión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cultural cumple esta leyenda en la región?",
+      "context": "Un alumno de Cartagena analiza por qué la leyenda del Silbón se cuenta con tanto detalle en los Llanos Orientales.\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñar a silbar en diferentes tonos musicales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La leyenda no es un manual de técnica vocal."
+        },
+        {
+          "letter": "B",
+          "text": "Advertir a los viajeros sobre los peligros de la carretera llanera.",
+          "is_correct": true,
+          "feedback": "Correcto. El relato funciona como advertencia cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Promover el turismo internacional en los llanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La leyenda es anterior al turismo moderno."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar a cazar animales en la sabana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no describe técnicas de caza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La leyenda del Silbón transmite un mensaje de prudencia: recorrer de noche la carretera entre Tame y La Candelaria puede ser peligroso. La tradición oral refuerza esa advertencia generación tras generación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué la oralidad es tan importante en la conservación de los mitos?",
+      "context": "Una alumna de Manizales investiga cómo se transmiten los mitos en las comunidades indígenas colombianas.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los mitos son inventados cada vez que se cuentan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mitos conservan un núcleo estable."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la voz del narrador mantiene vivos los símbolos y la memoria del pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto. La oralidad preserva lengua, ritmo y tradición."
+        },
+        {
+          "letter": "C",
+          "text": "Porque escribir un mito lo convierte automáticamente en leyenda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mito sigue siendo mito al ser escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la escritura indígena no existía antes del siglo XX.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Varias civilizaciones indígenas tuvieron sistemas de escritura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tradición oral permite adaptar el relato al oyente sin perder su esencia. Gracias a los mayores, los mitos viajan de generación en generación junto con su música, su lengua y su cosmovisión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mejor refutación para esta afirmación?",
+      "context": "Un alumno de Neiva afirma: «Los mitos son solo supersticiones inútiles en la actualidad».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón, los mitos ya no se cuentan en ninguna parte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mitos siguen vivos en muchas culturas."
+        },
+        {
+          "letter": "B",
+          "text": "Los mitos siguen vigentes porque transmiten valores, identidad y explicaciones culturales.",
+          "is_correct": true,
+          "feedback": "Correcto. Aportan sentido y cohesionan comunidades."
+        },
+        {
+          "letter": "C",
+          "text": "Solo interesan a los científicos de la NASA.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su importancia es cultural, no tecnológica."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente se usan en la publicidad comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función original es simbólica y social."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mitos siguen siendo claves para comprender la identidad de los pueblos, sus valores y su relación con la naturaleza. Su vigencia se observa en la literatura, el cine y las tradiciones vivas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle-v10",
+      "statement": "¿Qué diferencia clave impide confundir la noticia con un mito?",
+      "context": "Una alumna de Popayán sostiene que una noticia sobre un hallazgo arqueológico cerca de Sonsón debería contarse como mito.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia siempre es falsa, mientras el mito es verdadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden contener verdades o simbolismos."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia se basa en hechos verificables y el mito en relatos simbólicos tradicionales.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada uno responde a una lógica distinta."
+        },
+        {
+          "letter": "C",
+          "text": "El mito aparece solo en textos escritos, la noticia solo en radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos circulan en múltiples soportes."
+        },
+        {
+          "letter": "D",
+          "text": "La noticia explica el origen del universo, el mito informa hallazgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es justo al revés."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La noticia periodística se sostiene en datos, fuentes y verificación. El mito, en cambio, transmite explicaciones simbólicas heredadas. Mezclar ambos géneros empobrece el análisis crítico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W24-el-mito-y-la-leyenda-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

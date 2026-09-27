@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-25-grade-6-subject-lengua",
+    "generated_at": "2026-09-27T17:03:46.522Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un poema?",
+      "context": "En una clase de lengua en Bogotá, el profesor presenta varios poemas de autores colombianos como ejemplo de poesía.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto escrito en verso que expresa emociones, ideas o imágenes con ritmo.",
+          "is_correct": true,
+          "feedback": "Correcto. El poema combina forma versificada y sensibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto informativo con datos y estadísticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a un texto expositivo."
+        },
+        {
+          "letter": "C",
+          "text": "Un relato largo sobre hechos históricos verificados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema no narra hechos verificables."
+        },
+        {
+          "letter": "D",
+          "text": "Una receta de cocina escrita paso a paso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La receta indica instrucciones, no emociones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El poema es un texto literario que se organiza en versos y estrofas. A través de imágenes, ritmo y musicalidad, expresa emociones y reflexiones del autor.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es un verso en un poema?",
+      "context": "Una alumna de Medellín lee un poema en el cuaderno y nota que cada línea termina de manera especial al recitarlo.\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una página completa del libro de poesía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verso es más breve que una página."
+        },
+        {
+          "letter": "B",
+          "text": "Cada línea del poema, considerada de manera individual.",
+          "is_correct": true,
+          "feedback": "Correcto. El verso es la unidad rítmica del poema."
+        },
+        {
+          "letter": "C",
+          "text": "El título que aparece antes del poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título no forma parte de los versos."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de páginas del poemario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión se mide en hojas, no en versos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verso es cada línea del poema. Varios versos forman una estrofa y la combinación de estrofas compone el poema completo. Los versos tienen ritmo y, a menudo, rima.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos versos y cuántas estrofas tiene este fragmento?",
+      "context": "Un alumno de Cali recita: «Vuela la mariposa / sobre el patio de mi casa / mientras la abuela tiende / la ropa bajo la brisa».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres versos en una sola estrofa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay cuatro líneas separadas por la diagonal."
+        },
+        {
+          "letter": "B",
+          "text": "Dos estrofas de tres versos cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura visible es de cuatro versos en un solo bloque."
+        },
+        {
+          "letter": "C",
+          "text": "Cuatro versos que forman una sola estrofa.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada línea es un verso y juntos componen una estrofa."
+        },
+        {
+          "letter": "D",
+          "text": "Un solo verso muy largo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diagonal marca cuatro líneas distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estrofa es el conjunto de versos agrupados. En este ejemplo, los cuatro versos aparecen juntos como un solo bloque, por lo tanto hay una sola estrofa con cuatro versos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recurso poético predomina en estos versos?",
+      "context": "Una alumna de Pereira lee: «El río canta y llora / y en su lamento va / contando viejas historias / que el monte le confiará».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La personificación, porque el río canta, llora y cuenta historias.",
+          "is_correct": true,
+          "feedback": "Correcto. Se atribuyen acciones humanas al río."
+        },
+        {
+          "letter": "B",
+          "text": "La comparación numérica entre dos cantidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cifras comparadas en el fragmento."
+        },
+        {
+          "letter": "C",
+          "text": "La enumeración de objetos concretos sin cualidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí se describen acciones, no se enumeran objetos."
+        },
+        {
+          "letter": "D",
+          "text": "El diálogo entre dos personajes humanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparecen hablantes diferenciados."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La personificación atribuir cualidades humanas a elementos naturales es frecuente en la poesía. El río se vuelve protagonista al cantar, llorar y narrar, como si fuera una persona.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v5",
+      "statement": "¿Qué decisión ayuda a lograr la rima en un poema?",
+      "context": "Un alumno de Barranquilla debe escribir un poema corto para el mural del colegio en homenaje a la ciudad.\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir todos los versos con el mismo número exacto de letras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima depende de los sonidos finales, no del conteo de letras."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir palabras que terminen con sonidos similares al final de cada verso.",
+          "is_correct": true,
+          "feedback": "Correcto. La rima es identidad sonora."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir el poema sin puntuación ni saltos de línea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los versos deben separarse en líneas distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el idioma del poema en cada estrofa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mezcla de idiomas rompe la musicalidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para conseguir rima, el poeta escoge palabras cuyos sonidos finales coincidan parcial o totalmente entre dos o más versos. Esa coincidencia le da musicalidad al poema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v6",
+      "statement": "¿Qué figura retórica aparece en el primer verso?",
+      "context": "Una alumna de Tunja lee: «Sus ojos son dos luceros / y su risa, un manantial / cuando llega al corregimiento / se alegra todo el vecindario».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una hipérbole que exagera una cantidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se exagera un número sino una comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Una enumeración de objetos concretos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se menciona un elemento en el verso."
+        },
+        {
+          "letter": "C",
+          "text": "Una comparación implícita entre los ojos y dos luceros.",
+          "is_correct": true,
+          "feedback": "Correcto. El símil se sobreentiende con el verbo «son»."
+        },
+        {
+          "letter": "D",
+          "text": "Una personificación del vecindario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La personificación aparece en el último verso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El símil compara dos elementos usando un nexo como «como» o el verbo «ser». «Sus ojos son dos luceros» plantea una comparación que enriquece la imagen poética.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v7",
+      "statement": "¿Qué mide la métrica en un verso?",
+      "context": "Un alumno de Santa Marta analiza la métrica de un poema de José Asunción Silva.\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rima entre los versos pares e impares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima es identidad de sonidos finales, no de medida."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de estrofas del poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrofas son bloques, no unidades métricas."
+        },
+        {
+          "letter": "C",
+          "text": "El número de sílabas poéticas que contiene cada verso.",
+          "is_correct": true,
+          "feedback": "Correcto. La métrica cuenta sílabas según reglas de acentuación."
+        },
+        {
+          "letter": "D",
+          "text": "El número total de palabras del poema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conteo de palabras no define el verso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La métrica es el conjunto de reglas que cuentan las sílabas de cada verso. Gracias a la métrica, los poemas tienen ritmo regular: arte menor (hasta ocho sílabas) y arte mayor (nueve o más).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia formal principal existe entre el poema y el párrafo narrativo?",
+      "context": "Una alumna de Ibagué compara un poema de Rubén Darío con un párrafo de una novela colombiana.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El poema no tiene sujeto y la novela tampoco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden tener sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "El poema se organiza en versos y el párrafo en oraciones en prosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma versificada distingue al poema."
+        },
+        {
+          "letter": "C",
+          "text": "El poema siempre se imprime en hojas de color y la novela en blanco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no define al género."
+        },
+        {
+          "letter": "D",
+          "text": "La novela usa metáforas y el poema no las admite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las metáforas son comunes en poesía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La poesía se escribe en verso, es decir, en líneas cortas con ritmo. La prosa narrativa, en cambio, se presenta en oraciones continuas dentro de párrafos, sin la fragmentación del verso.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mejor refutación para esta opinión?",
+      "context": "Un alumno de Pasto afirma: «La poesía es aburrida porque no dice las cosas directamente».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón, los poemas deberían ser claros como una noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lenguaje poético busca otro tipo de comunicación."
+        },
+        {
+          "letter": "B",
+          "text": "La poesía comunica a través de imágenes y emociones, no por statements directos.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es su riqueza estética."
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirve para decorar tarjetas de cumpleaños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su valor va mucho más allá de lo decorativo."
+        },
+        {
+          "letter": "D",
+          "text": "Únicamente la entienden los adultos mayores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier lector atento puede disfrutarla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje poético sugiere, evoca y crea imágenes. Esa indirección es precisamente lo que permite múltiples lecturas y despierta la sensibilidad del lector.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle-v10",
+      "statement": "¿Qué se debe evaluar primero para decidir si el poema logra coherencia estética?",
+      "context": "Una alumna de Armenia escribe un poema donde mezcla verso libre y verso rimado en la misma estrofa.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad exacta de palabras por verso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de palabras no garantiza coherencia."
+        },
+        {
+          "letter": "B",
+          "text": "La unidad temática, el ritmo y la intención comunicativa del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos tres ejes sostienen al poema."
+        },
+        {
+          "letter": "C",
+          "text": "El color de la tinta con que se escribió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El soporte es ajeno al contenido estético."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión de un único compañero de clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crítica requiere varias voces argumentadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para juzgar la coherencia de un poema se considera la unidad de sentido, el ritmo que producen los versos y la intención del autor. La mezcla de formas es válida si esos ejes se sostienen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W25-la-poesia-y-el-verso-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
