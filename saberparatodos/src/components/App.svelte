@@ -66,6 +66,14 @@
   } from '../modules/exam-room/services/authPersistence';
   import { p2pService } from '../lib/p2p-service'; // Moved to top
   import { getActiveExam, setActiveExam, clearActiveExam } from '../lib/active-exam'; // 🆕 Persistence
+  // Canonical subject keys (emitted by IcfesExamHub) -> ExamConfigModal display names.
+  const HUB_SUBJECT_LABELS = {
+    matematicas: 'Matemáticas',
+    lectura_critica: 'Lectura Crítica',
+    sociales_ciudadanas: 'Sociales y Ciudadanas',
+    ciencias_naturales: 'Ciencias Naturales',
+    ingles: 'Inglés',
+  };
 
   let {
     questions = [],
@@ -1329,13 +1337,6 @@
           grade={selectedGrade}
           onStartArea={(subject) => {
             // Hub emits canonical keys; ExamConfigModal works with display names.
-            const HUB_SUBJECT_LABELS: Record<string, string> = {
-              matematicas: 'Matemáticas',
-              lectura_critica: 'Lectura Crítica',
-              sociales_ciudadanas: 'Sociales y Ciudadanas',
-              ciencias_naturales: 'Ciencias Naturales',
-              ingles: 'Inglés',
-            };
             selectedSubject = HUB_SUBJECT_LABELS[subject] ?? subject;
             showExamConfigModal = true;
           }}
