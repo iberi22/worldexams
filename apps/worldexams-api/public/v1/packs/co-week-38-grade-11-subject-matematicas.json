@@ -654,7 +654,7 @@
     {
       "id": "CO-MAT-11-2026-W38-patrones-secuencias-001-MASTERY-bundle-v15",
       "statement": "¿Cuál es el límite de la suma de esta serie cuando $n$ tiende a infinito?",
-      "context": "Dada la serie telescópica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1}\night)$.",
+      "context": "Dada la serie telescópica $sum_{k=1}^n left( \\frac{1}{k} - \\frac{1}{k+1}\n\night)$.",
       "options": [
         {
           "letter": "A",

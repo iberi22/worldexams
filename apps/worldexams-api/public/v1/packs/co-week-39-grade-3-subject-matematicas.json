@@ -286,7 +286,7 @@
     {
       "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v7",
       "statement": "¿Cuál de los dos estudiantes tiene la razón?",
-      "context": "Dos estudiantes analizan la secuencia: 4, 8, 12, 16, 20.\n- Mateo dice: \"La regla es sumar 4 al número anterior\".\n- Sofía dice: \"Cada término es el resultado de multiplicar 4 por la posición del término (1.º, 2.º, 3.º...)\".",
+      "context": "Dos estudiantes analizan la secuencia: 4, 8, 12, 16, 20.\n\n- Mateo dice: \"La regla es sumar 4 al número anterior\".\n\n- Sofía dice: \"Cada término es el resultado de multiplicar 4 por la posición del término (1.º, 2.º, 3.º...)\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v8",
       "statement": "Siguiendo la regla del juego, ¿cuál es el término que completa la secuencia después del 2?",
-      "context": "En un juego de mesa, para avanzar casilla se aplica esta regla: \"Si el número actual es par, se divide entre 2. Si es impar, se le suma 1\". Observa la secuencia iniciada en 12:\n12 ➔ 6 ➔ 3 ➔ 4 ➔ 2 ➔ __.",
+      "context": "En un juego de mesa, para avanzar casilla se aplica esta regla: \"Si el número actual es par, se divide entre 2. Si es impar, se le suma 1\". Observa la secuencia iniciada en 12:\n\n12 ➔ 6 ➔ 3 ➔ 4 ➔ 2 ➔ __.",
       "options": [
         {
           "letter": "A",

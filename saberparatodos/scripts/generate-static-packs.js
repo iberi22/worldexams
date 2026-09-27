@@ -197,11 +197,23 @@ function parseQuestions(body) {
     const contextInlineMatch = section.match(
       /\*\*(?:Contexto|Context):\*\*\s*([\s\S]*?)(?=\r?\n###\s+(?:Enunciado|Statement|Question|Opciones)|\r?\n\s*(?:-\s*)?\[|$)/i,
     );
+    // QA metadata lines (**Expected_Success:** etc.) can sit on the line right
+    // after **Contexto:**. They are calibration data, not student-facing prose,
+    // so they must never be baked into the pack's `context` field.
+    const stripQaLines = (raw) =>
+      raw
+        .replace(/\r?\n\s*\*\*(?:ID|Expected_Success|Expected Success|Bloom|ICFES|EJE):\*\*[^\n]*/gi, "")
+        .replace(/\*\*(?:Contexto|Context):\*\*/gi, "")
+        .split(/\r?\n/)
+        .map((line) => line.trim())
+        .filter(Boolean)
+        .join("\n\n")
+        .trim();
     const context = contextHeadingMatch
-      ? contextHeadingMatch[1].trim()
+      ? stripQaLines(contextHeadingMatch[1])
       : contextInlineMatch
-        ? contextInlineMatch[1].trim()
-        : (textoBaseForQuestion[i] ? textoBaseForQuestion[i] : "");
+        ? stripQaLines(contextInlineMatch[1])
+        : (textoBaseForQuestion[i] ? stripQaLines(textoBaseForQuestion[i]) : "");
 
     // Extract QA metadata fields (bloom, icfes, expected_success) for quality control
     const bloomMatch = section.match(/\*\*Bloom:\*\*\s*([^\n]+)/i);

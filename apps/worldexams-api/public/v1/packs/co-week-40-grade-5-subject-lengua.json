@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de estas palabras está escrita correctamente con c?",
-      "context": "En Bogotá, la profesora explica que algunas palabras se escriben con c, otras con s y otras con z.\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, la profesora explica que algunas palabras se escriben con c, otras con s y otras con z.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es el plural correcto de la palabra \"pez\"?",
-      "context": "En Medellín, la maestra recuerda que el plural de \"lápiz\" se escribe \"lápices\" con c.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, la maestra recuerda que el plural de \"lápiz\" se escribe \"lápices\" con c.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v3",
       "statement": "¿Cuál palabra está escrita correctamente?",
-      "context": "En Cali, el periódico escolar publica un artículo sobre la educación en el barrio.\n**Expected_Success:** 0.84",
+      "context": "En Cali, el periódico escolar publica un artículo sobre la educación en el barrio.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v4",
       "statement": "¿Cuál palabra terminada en \"-oso\" está bien escrita?",
-      "context": "En Cartagena, un amigo describe a su vecino con palabras que terminan en \"-oso\".\n**Expected_Success:** 0.80",
+      "context": "En Cartagena, un amigo describe a su vecino con palabras que terminan en \"-oso\".",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v5",
       "statement": "¿Cuál palabra terminada en \"-eza\" está bien escrita?",
-      "context": "En Barranquilla, el cuento dice que \"la tristeza pasó\" después de una buena noticia familiar.\n**Expected_Success:** 0.76",
+      "context": "En Barranquilla, el cuento dice que \"la tristeza pasó\" después de una buena noticia familiar.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v6",
       "statement": "Al analizar las opciones, ¿cuál oración está escrita correctamente?",
-      "context": "En Bucaramanga, los estudiantes corrigen el aviso del festival escolar antes de imprimirlo.\n**Expected_Success:** 0.70",
+      "context": "En Bucaramanga, los estudiantes corrigen el aviso del festival escolar antes de imprimirlo.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v7",
       "statement": "¿Por qué se corrigió la palabra \"roza\" en esa oración?",
-      "context": "En Pereira, Juan escribió \"La princesa llevó una roza al concurso\" y la profesora corrigió la palabra.\n**Expected_Success:** 0.63",
+      "context": "En Pereira, Juan escribió \"La princesa llevó una roza al concurso\" y la profesora corrigió la palabra.",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W40-normas-ortograficas-c-s-z-001-MASTERY-bundle-v8",
       "statement": "¿Cuál texto está mejor escrito?",
-      "context": "En Cartagena, el mural del colegio llevará un texto sobre el cuidado del agua y el curso elige la mejor versión.\n**Expected_Success:** 0.56",
+      "context": "En Cartagena, el mural del colegio llevará un texto sobre el cuidado del agua y el curso elige la mejor versión.",
       "options": [
         {
           "letter": "A",

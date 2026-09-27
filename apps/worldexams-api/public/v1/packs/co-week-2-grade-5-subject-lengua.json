@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v1",
       "statement": "Lee el inicio: \"Había una vez un niño llamado Santiago que vivía en una finca cerca de Manizales\". Según el inicio, ¿quién es el personaje y dónde vive?",
-      "context": "En un salón de Bogotá, Valentina lee en voz alta el inicio de un cuento sobre un niño campesino.\n**Expected_Success:** 0.90",
+      "context": "En un salón de Bogotá, Valentina lee en voz alta el inicio de un cuento sobre un niño campesino.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v2",
       "statement": "El profesor escribe: \"Inicio: se presentan los personajes. Nudo: aparece un problema. Desenlace: se resuelve el problema\". ¿Qué se entiende de esta explicación?",
-      "context": "En Medellín, el profesor explica las tres partes del cuento con un ejemplo en el tablero.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, el profesor explica las tres partes del cuento con un ejemplo en el tablero.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v3",
       "statement": "Lee estos hechos desordenados: 1. Juan recupera la cometa con ayuda de Mariana. 2. El viento se lleva la cometa a un árbol alto. 3. Juan y Mariana elevan la cometa en el parque. ¿Cuál es el orden correcto de la historia?",
-      "context": "En Cali, Juan escribe un cuento corto para la clase de lengua sobre una cometa perdida.\n**Expected_Success:** 0.85",
+      "context": "En Cali, Juan escribe un cuento corto para la clase de lengua sobre una cometa perdida.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v4",
       "statement": "Lee el fragmento: \"Mariana buscó bajo los puestos de frutas y preguntó a los vendedores, con el corazón acelerado\". ¿A qué parte del cuento pertenece este fragmento?",
-      "context": "En Cartagena, Mariana lee un cuento donde una niña pierde su mochila en el mercado.\n**Expected_Success:** 0.83",
+      "context": "En Cartagena, Mariana lee un cuento donde una niña pierde su mochila en el mercado.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v5",
       "statement": "Lee el final: \"Santiago encontró sus colores bajo la cama, terminó el dibujo y se lo regaló a su mamá\". ¿Qué se deduce de este desenlace?",
-      "context": "En Pereira, Santiago compró colores por 4000 pesos para ilustrar su cuento y le quedaron 1000 pesos de un billete de 5000 pesos.\n**Expected_Success:** 0.80",
+      "context": "En Pereira, Santiago compró colores por 4000 pesos para ilustrar su cuento y le quedaron 1000 pesos de un billete de 5000 pesos.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v6",
       "statement": "Cuento: \"Valentina cuidaba una planta de café que se estaba marchitando\". Final 1: \"Y de pronto apareció un mago que la arregló con magia\". Final 2: \"Valentina consultó al abuelo, cambió la planta de lugar y la regó cada mañana hasta que revivió\". ¿Qué diferencia hay entre los finales?",
-      "context": "En Manizales, dos finales compiten en el concurso de cuento del colegio.\n**Expected_Success:** 0.75",
+      "context": "En Manizales, dos finales compiten en el concurso de cuento del colegio.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v7",
       "statement": "Inicio 1: \"Había una vez un niño\". Inicio 2: \"En vacaciones, Santiago viajó con su familia de Bogotá a Cartagena y descubrió una playa llena de pelícanos\". ¿Cuál inicio funciona mejor y por qué?",
-      "context": "En Bogotá, el curso quinto compara dos inicios para el mismo cuento de un viaje a la playa.\n**Expected_Success:** 0.72",
+      "context": "En Bogotá, el curso quinto compara dos inicios para el mismo cuento de un viaje a la playa.",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle-v8",
       "statement": "Hechos: Santiago perdió el balón en el recreo, lo buscó con sus amigos y lo encontró detrás del arco. ¿Cuál versión cuenta mejor la anécdota?",
-      "context": "En Cali, Juan debe elegir el mejor orden para contar su anécdota en el periódico escolar.\n**Expected_Success:** 0.65",
+      "context": "En Cali, Juan debe elegir el mejor orden para contar su anécdota en el periódico escolar.",
       "options": [
         {
           "letter": "A",

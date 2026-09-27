@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v1",
       "statement": "¿Qué tipos de punto aparecen en el texto y qué función cumple cada uno?",
-      "context": "Una alumna de Cali escribe en su cuaderno: «Compramos pan. Después visitamos a la abuela. Volvimos cansados pero contentos».\n**Expected_Success:** 0.90",
+      "context": "Una alumna de Cali escribe en su cuaderno: «Compramos pan. Después visitamos a la abuela. Volvimos cansados pero contentos».",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v2",
       "statement": "¿Qué función cumple la coma después de «Estimados padres»?",
-      "context": "Un aviso de Medellín dice: «Estimados padres, los esperamos el viernes 26 a las 5 p.m. en el auditorio».\n**Expected_Success:** 0.87",
+      "context": "Un aviso de Medellín dice: «Estimados padres, los esperamos el viernes 26 a las 5 p.m. en el auditorio».",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v3",
       "statement": "¿Qué signo de puntuación se usa en la lista de ingredientes y por qué?",
-      "context": "Una receta de Pereira lleva como ingredientes: «tomates, cebolla, ajo, cilantro y aceite de oliva».\n**Expected_Success:** 0.83",
+      "context": "Una receta de Pereira lleva como ingredientes: «tomates, cebolla, ajo, cilantro y aceite de oliva».",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v4",
       "statement": "¿Qué uso correcto tienen los signos de interrogación en español?",
-      "context": "Un alumno de Bucaramanga escribe: «¿Cuándo empieza la clase? ¿Quién es el profesor nuevo? ¿A qué hora salimos?».\n**Expected_Success:** 0.80",
+      "context": "Un alumno de Bucaramanga escribe: «¿Cuándo empieza la clase? ¿Quién es el profesor nuevo? ¿A qué hora salimos?».",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v5",
       "statement": "¿Qué función tienen los dos puntos después de «Querido diario»?",
-      "context": "Una alumna de Tunja dicta a su compañera: «Querido diario: hoy aprendí algo nuevo. Estoy muy contenta».\n**Expected_Success:** 0.77",
+      "context": "Una alumna de Tunja dicta a su compañera: «Querido diario: hoy aprendí algo nuevo. Estoy muy contenta».",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v6",
       "statement": "¿Qué función cumple el punto y coma en este titular?",
-      "context": "Un periódico de Barranquilla titula: «El gobernador anunció medidas; los comerciantes, sin embargo, criticaron la decisión».\n**Expected_Success:** 0.73",
+      "context": "Un periódico de Barranquilla titula: «El gobernador anunció medidas; los comerciantes, sin embargo, criticaron la decisión».",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v7",
       "statement": "¿Qué combinación de signos aparece y cómo se justifica?",
-      "context": "Una alumna de Manizales escribe: «Mi profesora dijo: mañana habrá evaluación sorpresa ¡y todos se asustaron!».\n**Expected_Success:** 0.69",
+      "context": "Una alumna de Manizales escribe: «Mi profesora dijo: mañana habrá evaluación sorpresa ¡y todos se asustaron!».",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v8",
       "statement": "¿Qué función tienen las rayas y los puntos suspensivos en la frase?",
-      "context": "Un cuento de Neiva dice: «Entonces el abuelo murmuró — bajito, bajito — que guardáramos el secreto...».\n**Expected_Success:** 0.65",
+      "context": "Un cuento de Neiva dice: «Entonces el abuelo murmuró — bajito, bajito — que guardáramos el secreto...».",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v9",
       "statement": "¿Qué error de puntuación tiene la frase y cómo se corrige?",
-      "context": "Un alumno de Pasto escribe: «Mi mamá me dijo, que si estudio mucho me regalará una bicicleta de 800.000 COP».\n**Expected_Success:** 0.60",
+      "context": "Un alumno de Pasto escribe: «Mi mamá me dijo, que si estudio mucho me regalará una bicicleta de 800.000 COP».",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W20-los-signos-de-puntuacion-001-MASTERY-bundle-v10",
       "statement": "¿Qué problemas de puntuación tiene el texto y cómo se corrige?",
-      "context": "Una alumna de Cartagena escribe: «Mis primos vinieron de vacaciones. ¡trajeron un regalo para mí. yo estaba muy feliz ¿Qué más podía pedir?».\n**Expected_Success:** 0.55",
+      "context": "Una alumna de Cartagena escribe: «Mis primos vinieron de vacaciones. ¡trajeron un regalo para mí. yo estaba muy feliz ¿Qué más podía pedir?».",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v1",
       "statement": "¿Qué es el verbo?",
-      "context": "En clase de lengua en Pasto, la profesora escribe: «Los niños juegan fútbol en el patio del colegio».\n**Expected_Success:** 0.90",
+      "context": "En clase de lengua en Pasto, la profesora escribe: «Los niños juegan fútbol en el patio del colegio».",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v2",
       "statement": "¿Cuáles palabras del relato son verbos en presente?",
-      "context": "Un niño de Barranquilla cuenta su día: «Me levanto temprano, desayuno arepa y camino al colegio con mi hermano».\n**Expected_Success:** 0.87",
+      "context": "Un niño de Barranquilla cuenta su día: «Me levanto temprano, desayuno arepa y camino al colegio con mi hermano».",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v3",
       "statement": "¿A qué conjugación pertenece cada uno de los verbos en infinitivo?",
-      "context": "En la feria de Bucaramanga hay tres avisos: «cantar», «beber chicha» y «escribir coplas».\n**Expected_Success:** 0.83",
+      "context": "En la feria de Bucaramanga hay tres avisos: «cantar», «beber chicha» y «escribir coplas».",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v4",
       "statement": "¿En qué tiempo verbal están «visité», «jugamos» y «reímos»?",
-      "context": "Una niña de Cali escribe en su diario: «Ayer visité a mi abuela, jugamos parqués y reímos mucho».\n**Expected_Success:** 0.80",
+      "context": "Una niña de Cali escribe en su diario: «Ayer visité a mi abuela, jugamos parqués y reímos mucho».",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v5",
       "statement": "¿En qué tiempo están «compraré» y «compartiré» y cómo se reconoce?",
-      "context": "Un niño de Medellín promete: «Mañana compraré un helado de 4.000 COP y lo compartiré con mi hermana».\n**Expected_Success:** 0.77",
+      "context": "Un niño de Medellín promete: «Mañana compraré un helado de 4.000 COP y lo compartiré con mi hermana».",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v6",
       "statement": "¿Qué cambia en el verbo «jugar» en cada persona gramatical?",
-      "context": "En un colegio de Bogotá, el tablero dice: «Yo juego, tú juegas, él juega, nosotros jugamos».\n**Expected_Success:** 0.73",
+      "context": "En un colegio de Bogotá, el tablero dice: «Yo juego, tú juegas, él juega, nosotros jugamos».",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v7",
       "statement": "Clasifica los verbos «estudio», «perdí» y «ganaré» según el tiempo.",
-      "context": "Una carta de un niño en Pasto dice: «Querido papá: ahora estudio mucho, el año pasado perdí dos materias, pero este año ganaré todas».\n**Expected_Success:** 0.69",
+      "context": "Una carta de un niño en Pasto dice: «Querido papá: ahora estudio mucho, el año pasado perdí dos materias, pero este año ganaré todas».",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v8",
       "statement": "¿Qué diferencia hay entre «corran» y «corren»?",
-      "context": "En el equipo de fútbol de Cali, el entrenador grita: «¡Corran más rápido!» y los niños corren con todas sus fuerzas.\n**Expected_Success:** 0.65",
+      "context": "En el equipo de fútbol de Cali, el entrenador grita: «¡Corran más rápido!» y los niños corren con todas sus fuerzas.",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v9",
       "statement": "¿Qué error hay en la frase de la cartelera y cómo se corrige?",
-      "context": "En una cartelera de Barranquilla se lee: «Los estudiantes prestó atención a la explicación del profesor».\n**Expected_Success:** 0.60",
+      "context": "En una cartelera de Barranquilla se lee: «Los estudiantes prestó atención a la explicación del profesor».",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W14-el-verbo-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la conjugación correcta del verbo «partir» para completar el cuento?",
-      "context": "Una estudiante de Bucaramanga escribe un cuento con estas opciones para el inicio: «Mañana los viajeros (partir) al amanecer».\n**Expected_Success:** 0.55",
+      "context": "Una estudiante de Bucaramanga escribe un cuento con estas opciones para el inicio: «Mañana los viajeros (partir) al amanecer».",
       "options": [
         {
           "letter": "A",

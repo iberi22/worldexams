@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v1",
       "statement": "Lee el aviso: \"La biblioteca prestará libros de cuentos los lunes y miércoles de 9 a 11 de la mañana\". Según el aviso, ¿qué días se prestan los libros?",
-      "context": "En un colegio de Bogotá, la profesora pegó un aviso en la cartelera para organizar el préstamo de libros.\n**Expected_Success:** 0.90",
+      "context": "En un colegio de Bogotá, la profesora pegó un aviso en la cartelera para organizar el préstamo de libros.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v2",
       "statement": "Lee la nota: \"Mi gata Luna toma leche en la mañana y duerme en una caja azul junto a mi cama\". ¿Qué se entiende de manera directa de la nota?",
-      "context": "En Medellín, Mariana escribió una nota corta para contar cómo cuida a su gata en casa.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, Mariana escribió una nota corta para contar cómo cuida a su gata en casa.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v3",
       "statement": "Lee el fragmento: \"Santiago guardó la sombrilla en el morral y se puso las botas de caucho antes de salir\". ¿Qué se puede deducir de lo que hace Santiago?",
-      "context": "En Cali, Santiago se prepara para salir al colegio mientras su mamá lo observa desde la puerta.\n**Expected_Success:** 0.85",
+      "context": "En Cali, Santiago se prepara para salir al colegio mientras su mamá lo observa desde la puerta.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v4",
       "statement": "Lee el fragmento: \"El puesto de don Pedro tenía fila larga, mientras los otros puestos estaban vacíos\". ¿Qué se puede concluir del puesto de don Pedro?",
-      "context": "En Cartagena, Juan acompaña a su papá al mercado de pescado en la mañana.\n**Expected_Success:** 0.83",
+      "context": "En Cartagena, Juan acompaña a su papá al mercado de pescado en la mañana.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v5",
       "statement": "Lee el fragmento: \"Valentina pagó con un billete de 5000 pesos y el tendero le devolvió 2500 pesos junto con el jugo\". ¿Qué se deduce de la situación?",
-      "context": "En una tienda escolar de Pereira, Valentina compra un jugo de 2500 pesos y paga con un billete de 5000 pesos.\n**Expected_Success:** 0.80",
+      "context": "En una tienda escolar de Pereira, Valentina compra un jugo de 2500 pesos y paga con un billete de 5000 pesos.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v6",
       "statement": "Lee las opiniones: \"Juan dice: perdimos por el árbitro. Mariana dice: perdimos porque no entrenamos ni nos pasamos el balón\". ¿Cuál es la diferencia principal entre las dos opiniones?",
-      "context": "En Manizales, dos estudiantes opinan sobre el mismo partido de fútbol del colegio.\n**Expected_Success:** 0.75",
+      "context": "En Manizales, dos estudiantes opinan sobre el mismo partido de fútbol del colegio.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es la intención principal del cartel del colegio?",
-      "context": "En Bogotá, un cartel del colegio dice: \"Cuida el agua: cierra la llave mientras te enjabonas las manos\".\n**Expected_Success:** 0.72",
+      "context": "En Bogotá, un cartel del colegio dice: \"Cuida el agua: cierra la llave mientras te enjabonas las manos\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W01-comprension-lectora-literal-001-MASTERY-bundle-v8",
       "statement": "Texto: \"La plaza de mercado de Cali abre a las cinco de la mañana. Allí se venden frutas, verduras y jugos. Los campesinos llegan temprano y los vecinos compran productos frescos\". ¿Cuál es el mejor resumen del texto?",
-      "context": "En Cali, el curso quinto debe elegir el mejor resumen de un texto sobre la plaza de mercado.\n**Expected_Success:** 0.65",
+      "context": "En Cali, el curso quinto debe elegir el mejor resumen de un texto sobre la plaza de mercado.",
       "options": [
         {
           "letter": "A",

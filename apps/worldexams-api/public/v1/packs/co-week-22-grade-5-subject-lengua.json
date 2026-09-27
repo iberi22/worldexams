@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v1",
       "statement": "¿Qué son las preposiciones?",
-      "context": "En Pereira, el profesor escribe en el tablero: a, de, en, con, para, por, sin, sobre.\n**Expected_Success:** 0.90",
+      "context": "En Pereira, el profesor escribe en el tablero: a, de, en, con, para, por, sin, sobre.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v2",
       "statement": "¿Qué preposiciones completan bien los espacios?",
-      "context": "En Cartagena, Andrés lee: \"El barco llegó ___ la bahía ___ la mañana ___ muchos turistas\".\n**Expected_Success:** 0.85",
+      "context": "En Cartagena, Andrés lee: \"El barco llegó ___ la bahía ___ la mañana ___ muchos turistas\".",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v3",
       "statement": "¿Qué preposiciones completan correctamente la carta?",
-      "context": "En Manizales, Sofía escribe una carta: \"Viajo ___ Manizales ___ visitar a mi abuela ___ bus\".\n**Expected_Success:** 0.80",
+      "context": "En Manizales, Sofía escribe una carta: \"Viajo ___ Manizales ___ visitar a mi abuela ___ bus\".",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v4",
       "statement": "¿Qué par de preposiciones completa bien el aviso?",
-      "context": "En Tunja, el aviso de la tienda dice: \"Vendo ruana de lana ___ tres mil pesos ___ abrigar del frío\".\n**Expected_Success:** 0.78",
+      "context": "En Tunja, el aviso de la tienda dice: \"Vendo ruana de lana ___ tres mil pesos ___ abrigar del frío\".",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v5",
       "statement": "¿Qué preposiciones necesita la oración de Mateo?",
-      "context": "En Cúcuta, Mateo escribe: \"Juego fútbol ___ mis amigos ___ el parque ___ las tardes\".\n**Expected_Success:** 0.75",
+      "context": "En Cúcuta, Mateo escribe: \"Juego fútbol ___ mis amigos ___ el parque ___ las tardes\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v6",
       "statement": "Al analizar las notas, ¿qué diferencia hay entre ellas?",
-      "context": "En Montería, Felipe lee dos notas: \"Salió de la casa en la mañana\" y \"Salió desde la casa por la mañana\".\n**Expected_Success:** 0.70",
+      "context": "En Montería, Felipe lee dos notas: \"Salió de la casa en la mañana\" y \"Salió desde la casa por la mañana\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v7",
       "statement": "Al analizar el sentido, ¿cuál es la opción correcta y por qué?",
-      "context": "En Neiva, Gabriela corrige: \"El regalo es ___ ti\" y duda entre \"para ti\" y \"por ti\".\n**Expected_Success:** 0.68",
+      "context": "En Neiva, Gabriela corrige: \"El regalo es ___ ti\" y duda entre \"para ti\" y \"por ti\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W22-preposiciones-uso-basico-001-MASTERY-bundle-v8",
       "statement": "¿Cuál combinación evalúa mejor el cartel completo?",
-      "context": "En Leticia, el curso evalúa el cartel del paseo: \"Salida ___ las seis ___ el puerto ___ canoa ___ visitar a los abuelos\".\n**Expected_Success:** 0.60",
+      "context": "En Leticia, el curso evalúa el cartel del paseo: \"Salida ___ las seis ___ el puerto ___ canoa ___ visitar a los abuelos\".",
       "options": [
         {
           "letter": "A",

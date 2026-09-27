@@ -562,7 +562,7 @@
     {
       "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v13",
       "statement": "¿Cuál de las siguientes afirmaciones sobre los niveles de confianza de los dos intervalos es correcta?",
-      "context": "Un informe estadístico presenta dos intervalos de confianza construidos sobre los mismos datos muestrales de salarios en Neiva:\nIntervalo A: $[1,200,000; 1,800,000]$ COP\nIntervalo B: $[1,300,000; 1,700,000]$ COP",
+      "context": "Un informe estadístico presenta dos intervalos de confianza construidos sobre los mismos datos muestrales de salarios en Neiva:\n\nIntervalo A: $[1,200,000; 1,800,000]$ COP\n\nIntervalo B: $[1,300,000; 1,700,000]$ COP",
       "options": [
         {
           "letter": "A",
@@ -838,7 +838,7 @@
     {
       "id": "CO-MAT-11-2026-W35-inferencia-estadistica-001-MASTERY-bundle-v19",
       "statement": "¿Cómo se comparan los márgenes de error $E_A$ y $E_B$ de ambas firmas al mismo nivel de confianza?",
-      "context": "Dos firmas encuestadoras miden el porcentaje de aprobación de una obra de infraestructura en Cali:\nFirmas A: $n_A = 100$, $\\hat{p}_A = 0.60$\nFirmas B: $n_B = 400$, $\\hat{p}_B = 0.60$",
+      "context": "Dos firmas encuestadoras miden el porcentaje de aprobación de una obra de infraestructura en Cali:\n\nFirmas A: $n_A = 100$, $\\hat{p}_A = 0.60$\n\nFirmas B: $n_B = 400$, $\\hat{p}_B = 0.60$",
       "options": [
         {
           "letter": "A",

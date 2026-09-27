@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v1",
       "statement": "¿Qué es el sustantivo?",
-      "context": "En la biblioteca del colegio en Bucaramanga, la profesora pide a los estudiantes de grado sexto repasar qué clase de palabra nombra a las personas, los animales y las cosas.\n**Expected_Success:** 0.90",
+      "context": "En la biblioteca del colegio en Bucaramanga, la profesora pide a los estudiantes de grado sexto repasar qué clase de palabra nombra a las personas, los animales y las cosas.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v2",
       "statement": "En la frase anterior, ¿cuáles palabras son sustantivos propios?",
-      "context": "Una niña de Medellín escribe en su diario: «Mi prima Valeria vive en Medellín y tiene un gato llamado Michi».\n**Expected_Success:** 0.87",
+      "context": "Una niña de Medellín escribe en su diario: «Mi prima Valeria vive en Medellín y tiene un gato llamado Michi».",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v3",
       "statement": "¿Cuáles de las siguientes palabras del aviso son sustantivos concretos?",
-      "context": "En la plaza de mercado de Cali, don Ernesto vende frutas: «El kilo de mango cuesta 5.000 COP y la libra de lulo cuesta 3.000 COP».\n**Expected_Success:** 0.83",
+      "context": "En la plaza de mercado de Cali, don Ernesto vende frutas: «El kilo de mango cuesta 5.000 COP y la libra de lulo cuesta 3.000 COP».",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v4",
       "statement": "¿Cuáles palabras de la crónica son sustantivos abstractos?",
-      "context": "Durante el Carnaval de Barranquilla, un cronista escribe: «La libertad y la alegría se sintieron en cada comparsa del desfile».\n**Expected_Success:** 0.80",
+      "context": "Durante el Carnaval de Barranquilla, un cronista escribe: «La libertad y la alegría se sintieron en cada comparsa del desfile».",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v5",
       "statement": "La palabra «bandada» es un sustantivo colectivo porque:",
-      "context": "Un estudiante de Bogotá observa el cielo en el humedal y anota: «La bandada de patos cruzó el cielo al atardecer».\n**Expected_Success:** 0.77",
+      "context": "Un estudiante de Bogotá observa el cielo en el humedal y anota: «La bandada de patos cruzó el cielo al atardecer».",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v6",
       "statement": "¿Por qué se dice «el agua» si la palabra «agua» es de género femenino?",
-      "context": "En una salida al páramo cerca de Bogotá, la guía dice: «El agua cristalina de este páramo abastece a toda la ciudad».\n**Expected_Success:** 0.73",
+      "context": "En una salida al páramo cerca de Bogotá, la guía dice: «El agua cristalina de este páramo abastece a toda la ciudad».",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el plural correcto de las palabras «lápiz» y «cuaderno»?",
-      "context": "En una papelería de Pasto, una lista de útiles dice: «lápiz, cuaderno, colores, tijeras y borrador».\n**Expected_Success:** 0.69",
+      "context": "En una papelería de Pasto, una lista de útiles dice: «lápiz, cuaderno, colores, tijeras y borrador».",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v8",
       "statement": "Según su significado, ¿cómo se clasifican «leche» y «panes» por su posibilidad de contarse?",
-      "context": "En una tienda de Bucaramanga, doña Marta anota: «Compró dos litros de leche y tres panes para el desayuno».\n**Expected_Success:** 0.65",
+      "context": "En una tienda de Bucaramanga, doña Marta anota: «Compró dos litros de leche y tres panes para el desayuno».",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v9",
       "statement": "¿Qué error presenta el aviso y cómo se corrige?",
-      "context": "En el periódico mural de un colegio de Medellín apareció este aviso: «Las problemas del barrio se resolvieron gracias a la comunidad».\n**Expected_Success:** 0.60",
+      "context": "En el periódico mural de un colegio de Medellín apareció este aviso: «Las problemas del barrio se resolvieron gracias a la comunidad».",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es la versión correctamente escrita del texto?",
-      "context": "Un estudiante de Cali debe pasar a limpio este texto para la cartelera: «mi amigo santiago y yo visitamos el rio cali en diciembre».\n**Expected_Success:** 0.55",
+      "context": "Un estudiante de Cali debe pasar a limpio este texto para la cartelera: «mi amigo santiago y yo visitamos el rio cali en diciembre».",
       "options": [
         {
           "letter": "A",

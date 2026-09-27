@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W32-modals-advice-006-v1",
       "statement": "What is Abby's advice for making friends?",
-      "context": "A letter to an advice columnist.\n\"Dear Abby, I am very shy and I want to make new friends. What should I do? Abby's answer: You should join a school club and you shouldn't be afraid to say hello first.\"",
+      "context": "A letter to an advice columnist.\n\n\"Dear Abby, I am very shy and I want to make new friends. What should I do? Abby's answer: You should join a school club and you shouldn't be afraid to say hello first.\"",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-ING-7-2026-W32-modals-advice-009-v1",
       "statement": "Who provides the most professional and likely the best long-term advice?",
-      "context": "Analyzing conflicting advice.\n\"Patient: I am tired. Friend A: You should sleep more. Friend B: You should drink more coffee. Doctor: You should eat more iron-rich foods.\"",
+      "context": "Analyzing conflicting advice.\n\n\"Patient: I am tired. Friend A: You should sleep more. Friend B: You should drink more coffee. Doctor: You should eat more iron-rich foods.\"",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-ING-7-2026-W32-modals-advice-010-v1",
       "statement": "What is the core recommendation of this text?",
-      "context": "Evaluating a moral recommendation.\n\"We should treat everyone with respect, regardless of where they come from. A better world starts with how we behave towards others every day.\"",
+      "context": "Evaluating a moral recommendation.\n\n\"We should treat everyone with respect, regardless of where they come from. A better world starts with how we behave towards others every day.\"",
       "options": [
         {
           "letter": "A",
