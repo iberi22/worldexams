@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-18-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T19:47:40.369Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes características define mejor a un cuento corto?",
+      "context": "En la clase de lectura de un colegio de Bogotá, la profesora lee un relato de una sola página y pregunta a sus alumnos de sexto grado por qué ese texto no puede clasificarse como noticia ni como crónica periodística.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narra hechos que ocurren en un tiempo y un lugar precisos, concentrados alrededor de un conflicto",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cuento corto narra hechos delimitados en un tiempo y un lugar, y esa precisión sostiene la acción del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Informa sobre un suceso real, indica cuándo ocurrió y responde a fuentes oficiales",
+          "is_correct": false,
+          "feedback": "Esas son las características de la noticia, que informa hechos comprobables y siempre cita las fuentes de la información."
+        },
+        {
+          "letter": "C",
+          "text": "Expone una tesis personal apoyada en datos y ejemplos tomados de la realidad",
+          "is_correct": false,
+          "feedback": "Ese es el objetivo del artículo de opinión, que defiende una postura con argumentos y nunca narra hechos con personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Entrega instrucciones ordenadas para realizar una tarea paso a paso",
+          "is_correct": false,
+          "feedback": "Un texto instructivo organiza con verbos de acción una secuencia práctica, mientras el relato de un cuento no busca hacer nada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuento corto es un género narrativo, es decir, cuenta hechos en lugar de dar instrucciones o exponer una tesis. Sus hechos ocurren dentro de un tiempo y un lugar delimitados, lo que permite concentrarlos alrededor de un conflicto y llegar con rapidez a un desenlace. Comparar esas características con las de la noticia y las del texto instructivo ayuda a los estudiantes de sexto grado a clasificar un escrito por su función, y no solo por su apariencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v2",
+      "statement": "Según el fragmento, ¿quién narra los hechos y desde qué persona lo hace?",
+      "context": "Una alumna de Bucaramanga lee en voz alta este fragmento de un cuento: Aquella mañana, cuando mi abuela abrió la puerta, la calle estaba vacía y el perro ya no estaba en el patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un narrador externo, en tercera persona, porque todo lo que ocurre se observa desde lejos",
+          "is_correct": false,
+          "feedback": "Un narrador externo nombraría a los personajes con nombres propios, mientras este fragmento emplea una expresión propia de la primera persona."
+        },
+        {
+          "letter": "B",
+          "text": "La abuela de la narradora, porque es la dueña del relato y aparece en la primera oración",
+          "is_correct": false,
+          "feedback": "La abuela es un personaje de la escena, pero quien narra es la persona que dice mi, porque es la que cuenta lo que vio al abrir."
+        },
+        {
+          "letter": "C",
+          "text": "Quien participa en la historia, en primera persona, porque nombra a su abuela y se incluye en el relato",
+          "is_correct": true,
+          "feedback": "Es correcta porque la expresión mi abuela sitúa un narrador que participa en la escena y que cuenta lo que él mismo vio."
+        },
+        {
+          "letter": "D",
+          "text": "Un narrador que anticipa hechos futuros, porque la escena solo funciona como preludio",
+          "is_correct": false,
+          "feedback": "Nada en el fragmento anuncia hechos posteriores, y el narrador se limita a presentar lo que vio esa mañana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer quién narra es el primer paso para comprender un relato, porque la persona del narrador cambia lo que el lector puede saber. Cuando el texto dice mi abuela o me asomé, la narración va en primera persona y el narrador participa en la historia. En cambio, un narrador externo cuenta lo que sus personajes hacen y dicen, pero no comparte lo que él mismo hizo ni lo que pensó. Identificar la voz del narrador evita atribuir a un personaje hechos que hizo el propio narrador.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v3",
+      "statement": "¿Qué efecto produce en la lectura ese cambio de tiempo verbal?",
+      "context": "En un taller de escritura de Medellín, la profesora propone cambiar una oración de un cuento infantil de los alumnos: en lugar de Tomó el bus y llegó tarde a la escuela, ellos escriben Toma el bus y llega tarde a la escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El presente acerca la acción al lector y hace que los hechos aparezcan como si sucedieran ahora",
+          "is_correct": true,
+          "feedback": "Es correcta porque el presente narrativo vuelve más vívida la escena y acerca los hechos al momento en que se leen."
+        },
+        {
+          "letter": "B",
+          "text": "El presente confirma que la acción ocurrió hace mucho tiempo y permite fijar la fecha",
+          "is_correct": false,
+          "feedback": "El presente no fija ninguna fecha, y un relato en pasado es el que permite ubicar los hechos en un momento anterior."
+        },
+        {
+          "letter": "C",
+          "text": "El presente elimina al personaje de la escena y deja solo el lugar donde transcurrió la acción",
+          "is_correct": false,
+          "feedback": "El tiempo verbal no borra a los personajes, porque el relato sigue contando quién actúa y qué hace dentro de la escena descrita."
+        },
+        {
+          "letter": "D",
+          "text": "El presente muestra que el narrador escribe sin conocer el final de su propia historia",
+          "is_correct": false,
+          "feedback": "Ese comentario se refiere al tipo de narrador, y el cambio de pasado a presente nada dice sobre lo que el narrador sabe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo verbal construye la distancia del lector frente a los hechos. Un relato contado en pasado señala que la historia ya terminó y que el narrador la cuenta desde fuera, mientras el presente narrativo hace que la escena parezca ocurrir mientras el lector avanza. Comparar las dos formas dentro de un mismo cuento muestra que el tiempo verbal es una decisión del narrador y no un dato de la historia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el conflicto central de este fragmento?",
+      "context": "En un cuento escrito por estudiantes de Cali aparece este fragmento: Diego llegó a la plaza y vio que la cuerda del cometa ya estaba partida. Sintió rabia y decepción, guardó el cometa en la mochila y se fue a casa sin jugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de Diego en la plaza, porque el fragmento no dice quién llega al lugar",
+          "is_correct": false,
+          "feedback": "El fragmento sí indica que Diego llega a la plaza, y lo que rompe su ilusión es el estado en que encuentra el cometa."
+        },
+        {
+          "letter": "B",
+          "text": "La destrucción de la ilusión de jugar, producida por la cuerda partida del cometa",
+          "is_correct": true,
+          "feedback": "Es correcta porque ese problema concreto provoca la reacción de rabia de Diego y su decisión de irse a casa."
+        },
+        {
+          "letter": "C",
+          "text": "El ruido de la plaza, que impide que los niños escuchen las indicaciones del profesor",
+          "is_correct": false,
+          "feedback": "El ruido de la plaza no aparece en el fragmento, de modo que esa dificultad nunca se relaciona con la reacción del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "La llegada tardía de Diego, que le impidió comprar un cometa en la tienda",
+          "is_correct": false,
+          "feedback": "El texto muestra que Diego ya tenía el cometa y que llegó a la plaza, sin mencionar ninguna compra ni demora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto central es aquello que se opone al deseo del personaje y obliga a la historia a avanzar. En este fragmento, Diego quiere jugar con su cometa y ese deseo se rompe cuando encuentra la cuerda partida, por eso reacciona con rabia y se retira del lugar. Reconocer el conflicto a partir de las acciones y los sentimientos del personaje evita inventar problemas que el relato nunca menciona.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el personaje protagonista de este fragmento y qué evidencia lo demuestra?",
+      "context": "Un cuento escrito por estudiantes de Barranquilla comienza así: Mariana empujó la puerta de la tienda. Don Emilio le entregó un paquete pequeño. Pedro, que esperaba en la acera, la llamó a toda voz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Don Emilio, porque es el único personaje que aparece con un tratamiento formal",
+          "is_correct": false,
+          "feedback": "El tratamiento formal del nombre indica respeto y no relevancia narrativa, y el fragmento apenas le asigna una acción breve."
+        },
+        {
+          "letter": "B",
+          "text": "Pedro, porque es el único que llama a otro personaje por su nombre",
+          "is_correct": false,
+          "feedback": "Esa acción ocurre al final del fragmento y es secundaria, mientras la escena se organiza alrededor de la llegada de Mariana."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres por igual, porque el fragmento no declara ningún personaje protagonista",
+          "is_correct": false,
+          "feedback": "Un relato nunca necesita declarar al protagonista, y aquí se deduce del hecho de que la narración se organiza en torno a Mariana."
+        },
+        {
+          "letter": "D",
+          "text": "Mariana, porque sus acciones abren el relato y concentran la narración",
+          "is_correct": true,
+          "feedback": "Es correcta porque Mariana inicia la escena y sus decisiones estructuran el relato, lo que la convierte en la protagonista."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El protagonista no siempre aparece anunciado con su nombre, y en un fragmento breve se deduce de la posición que ocupa dentro de la escena. Mariana abre la puerta, entra y recibe el paquete, mientras los otros personajes ejecutan acciones secundarias. Ese reparto de papeles es el que permite distinguir al protagonista de los personajes de apoyo dentro de un relato breve.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambia en la comprensión del relato cuando el narrador conoce los pensamientos de todos los personajes?",
+      "context": "En un taller de lectura de Bogotá se comparan dos versiones de la misma escena. En la primera, el narrador dice que Camila quería pedir permiso, pero no se atrevía, y que en cambio guardó el secreto toda la noche. En la segunda, el narrador cuenta además lo que pensaba el profesor durante esa misma clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lector pierde casi toda la información, porque el narrador ya no dice nada",
+          "is_correct": false,
+          "feedback": "Un narrador que conoce los pensamientos de todos los personajes amplía la información y nunca se limita a callar lo que sabe."
+        },
+        {
+          "letter": "B",
+          "text": "La narración se vuelve objetiva, porque el narrador desaparece de la historia",
+          "is_correct": false,
+          "feedback": "El narrador no desaparece por conocer los pensamientos de los personajes, y esa libertad de voz vuelve el relato más personal."
+        },
+        {
+          "letter": "C",
+          "text": "El lector conoce también la vida interior de los demás y puede comparar sus motivaciones",
+          "is_correct": true,
+          "feedback": "Es correcta porque ese acceso permite entender el miedo de Camila y comparar la intención del profesor con la de ella."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo verbal cambia al presente, porque ahora se conocen los objetivos de cada personaje",
+          "is_correct": false,
+          "feedback": "Saber los pensamientos de los personajes es una cuestión de punto de vista y nunca un cambio del tiempo verbal del relato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tipo de narrador determina qué puede saber el lector. Cuando el narrador conoce los pensamientos de todos los personajes, el relato gana en profundidad y permite comparar las motivaciones de cada uno, por ejemplo el deseo de Camila frente a su miedo. Cuando el narrador solo conoce lo que un personaje piensa, la información se estrecha y el misterio aumenta dentro de la misma escena.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes situaciones representa un conflicto interno?",
+      "context": "Un cuento de grado sexto de Medellín presenta a un niño que camina dos horas bajo la lluvia para llegar al colegio, y a otro niño que, en la misma situación, siente miedo de hablar en clase y se queda callado frente al profesor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un niño que camina dos horas bajo la lluvia para llegar al colegio",
+          "is_correct": false,
+          "feedback": "Esa dificultad es externa, porque depende del clima y del camino recorrido, y no de los sentimientos del propio personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Un personaje que quiere pedir permiso para salir, pero siente miedo y nunca se atreve",
+          "is_correct": true,
+          "feedback": "Es correcta porque el obstáculo es el miedo que siente el propio personaje, que está dentro de él y no en el mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Una madre que prepara el almuerzo mientras su hijo llega del colegio",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos acciones está en oposición con un deseo, de modo que ahí no se produce ningún conflicto en el relato."
+        },
+        {
+          "letter": "D",
+          "text": "Dos personajes que discuten por un balón hasta que uno de ellos lo cede",
+          "is_correct": false,
+          "feedback": "La discusión es externa porque ocurre entre dos personas, y el fragmento de apoyo no menciona ningún balón en la escena."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto interno nace dentro del personaje, entre lo que desea y lo que siente, mientras el externo se produce entre el personaje y las personas o las circunstancias que lo rodean. Distinguirlos permite entender por qué un personaje puede quedarse quieto aunque nada externo se lo impida. Un buen ejercicio de lectura consiste en preguntar si el obstáculo está en el mundo o en la cabeza del personaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce en el lector ese tipo de desenlace?",
+      "context": "En el desenlace de un cuento de Pereira el problema central se resuelve porque de pronto llega un camión de obras que repara el camino. Nadie del pueblo había anunciado esa llegada ni había solicitado ese servicio público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desenlace resulta más verosímil, porque el género admite cualquier final",
+          "is_correct": false,
+          "feedback": "El cuento corto sí tiene reglas de verosimilitud, de modo que un final cualquiera no queda aceptado por el género narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "El desenlace es legítimo, porque los cuentos siempre aceptan una solución inesperada",
+          "is_correct": false,
+          "feedback": "Un final inesperado no es legítimo por sí solo, y el género pide que la solución se apoye en elementos presentes en la historia."
+        },
+        {
+          "letter": "C",
+          "text": "El desenlace resulta poco creíble, porque la solución no se apoya en nada de lo ocurrido antes",
+          "is_correct": true,
+          "feedback": "Es correcta porque la llegada del camión no se anuncia ni se prepara, y por eso el lector la percibe como un recurso fácil."
+        },
+        {
+          "letter": "D",
+          "text": "El desenlace no existe, porque el problema del relato nunca queda resuelto",
+          "is_correct": false,
+          "feedback": "El fragmento muestra que el problema sí recibe una solución, y lo que se discute aquí es la calidad de esa solución."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen desenlace no aparece por casualidad: se apoya en elementos que el relato preparó desde el principio, como una pista, una promesa o una conversación anterior. Cuando la solución llega sin ningún apoyo en lo narrado antes, el lector percibe que el relato se resolvió con facilidad y no con la lógica de la historia que venía leyendo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál decisión está mejor justificada por lo que el relato cuenta?",
+      "context": "En un cuento de sexto grado de Sincelejo Andrés rompe el vaso de su abuela y duda entre confesarlo, esconderse en su cuarto o esperar a que ella lo descubra. El relato aclara que Andrés ya había mentido dos veces por lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esconderse en su cuarto, porque nadie lo ve y el problema desaparece",
+          "is_correct": false,
+          "feedback": "Esconderse evita la certeza de ser descubierto, pero deja el problema abierto y agrega la culpa de la mentira."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que su abuela lo descubra, porque así el castigo será menos duro",
+          "is_correct": false,
+          "feedback": "Esperar no es una decisión sino una pasividad, y el relato ya recuerda que Andrés mentía antes."
+        },
+        {
+          "letter": "C",
+          "text": "Reparar el vaso con una parte de su ahorro, porque el problema es de tipo material",
+          "is_correct": false,
+          "feedback": "Reparar el daño material no restituye la confianza rota, y el relato trata justamente de la mentira repetida."
+        },
+        {
+          "letter": "D",
+          "text": "Contarle la verdad, porque el relato muestra que las mentiras anteriores ya le costaron caro",
+          "is_correct": true,
+          "feedback": "Es correcta porque la decisión resuelve el conflicto interno y es coherente con la información que el texto da sobre Andrés."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una decisión de un personaje exige relacionar la opción propuesta con los datos que el relato ya entregó. En este caso, saber que Andrés mintió antes convierte la confesión en la elección más coherente, porque cierra el conflicto entre lo que el personaje quiere y lo que su conciencia le permite hacer. Elegir bien exige que el criterio se apoye en el relato y no en una preferencia personal del lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál justificación clasifica mejor ese texto como cuento y no como noticia?",
+      "context": "En clase de lenguaje de Tunja se lee un texto de dos páginas: un campesino de la Sierra Nevada de Santa Marta encuentra una laguna verde y, siguiendo indicaciones antiguas, parte en busca de la riqueza que anuncia el mito del Dorado. Los estudiantes recuerdan la leyenda que estudiaron en quinto grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque presenta personajes, un conflicto y un desenlace, aunque el lugar y el mito sean reales",
+          "is_correct": true,
+          "feedback": "Es correcta porque esas estructuras narrativas convierten el texto en relato, y no en informe ni en crónica de un hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Porque menciona el nombre de un municipio, lo que demuestra que el texto es narrativo",
+          "is_correct": false,
+          "feedback": "Un nombre de lugar también puede aparecer en una noticia, de modo que ese dato nunca define la pertenencia a un género."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el texto menciona un mito, y todo texto que cita un mito es ficción narrativa",
+          "is_correct": false,
+          "feedback": "Un mito puede citarse en un artículo o en una clase de historia, y esa referencia por sí sola nunca convierte el texto en cuento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el texto no indica fuentes, y todo escrito sin fuentes pertenece al género narrativo",
+          "is_correct": false,
+          "feedback": "La ausencia de fuentes no crea un género, y los cuentos y las noticias se distinguen por su estructura y no por ese dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos géneros que comparten información real ayuda a separar lo narrativo de lo informativo. El texto sobre la laguna de la Sierra Nevada se apoya en el mito del Dorado, pero funciona como cuento porque presenta personajes, un conflicto entre el deseo de riqueza y el camino recorrido, y un desenlace. Esa estructura, y no el tema ni la veracidad del lugar, es lo que permite clasificarlo y defender la respuesta con argumentos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-6-2026-W18-el-cuento-corto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

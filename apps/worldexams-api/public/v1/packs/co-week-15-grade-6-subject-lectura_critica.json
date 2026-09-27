@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-15-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T19:47:40.368Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elementos convierten el texto entregado en una entrevista y no en otro género periodístico?",
+      "context": "En el taller de lectura de un colegio de Medellín, la profesora entrega a sus estudiantes de sexto grado la transcripción de una entrevista publicada por el periódico municipal y les pide que marquen los elementos que convierten ese texto periodístico en una entrevista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título, el nombre del medio, la fecha de publicación y la firma del fotógrafo",
+          "is_correct": false,
+          "feedback": "Son datos del diseño de la página y pueden aparecer en cualquier género, incluso en una publicidad."
+        },
+        {
+          "letter": "B",
+          "text": "Las preguntas que hace quien entrevista y las respuestas que da la persona entrevistada",
+          "is_correct": true,
+          "feedback": "Es correcta porque el intercambio de preguntas y respuestas es el esqueleto propio de este género."
+        },
+        {
+          "letter": "C",
+          "text": "Los datos de quien entrevista, su cargo en el medio y los premios que ha recibido",
+          "is_correct": false,
+          "feedback": "Esa información presenta al periodista, no la conversación, y suele aparecer en una nota aparte."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de libros que publicó la persona entrevistada y su biografía completa",
+          "is_correct": false,
+          "feedback": "Es un retrato del entrevistado que no incluye preguntas ni respuestas, así que no define el género."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La entrevista se reconoce por su estructura conversacional: alguien formula una pregunta y otra persona responde. Ese intercambio, transcrito con fidelidad, es lo que distingue el género de una noticia, donde el periodista informa sin diálogo y de un reportaje, donde el autor narra con sus propias palabras. Reconocer estos elementos permite identificar desde el primer párrafo qué género estamos leyendo y con qué propósito se produjo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia hay entre la pregunta «¿Qué es lo que más le gusta de su barrio?» y la pregunta «¿Vive usted en el barrio San Javier»?",
+      "context": "En la transcripción leída por la profesora aparecen dos preguntas seguidas: una sobre lo que más le gusta del barrio a la persona invitada y otra que solo pide confirmar en qué calle vive. El grupo debe explicar por qué el resultado de la entrevista cambia con cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera pide una descripción o una opinión y deja espacio para ampliar, mientras la segunda solo pide confirmar un dato",
+          "is_correct": true,
+          "feedback": "Es correcta porque la primera abre el tema de la vida cotidiana y la segunda se limita a cerrar o abrir el dato."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos preguntas son cerradas porque las dos terminan con el signo de interrogación",
+          "is_correct": false,
+          "feedback": "El signo de interrogación no define el tipo de pregunta; lo que importa es si deja o no espacio para responder."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es abierta porque la formuló una persona, y la segunda es cerrada porque la formuló un medio de comunicación",
+          "is_correct": false,
+          "feedback": "El tipo de pregunta no depende de quién la formule, sino de lo que pide: describir, explicar o confirmar."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos preguntas son abiertas porque invitan a la persona entrevistada a hablar durante varios minutos",
+          "is_correct": false,
+          "feedback": "Solo la primera permite un desarrollo largo; la otra se responde con un dato puntual y se agota en seguida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una pregunta abierta invita a describir, a explicar o a justificar, y por eso produce respuestas largas y con ejemplos. Una pregunta cerrada solo pide confirmar un dato. Saber cuál de los dos tipos se usó ayuda a anticipar lo que dirá la persona entrevistada y a valorar si el medio obtuvo información de fondo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v3",
+      "statement": "Si la periodista busca una explicación y no un dato de sí o no, ¿qué respuesta espera obtener de la persona entrevistada?",
+      "context": "En Bucaramanga, una periodista visita un comercio de barrio y le pregunta a su propietario: «¿Por qué cree que los jóvenes del sector han dejado de jugar en la cancha del parque?». La alumnosa del colegio debe anticipar la respuesta que esa persona puede dar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ejemplo breve que confirme que la cancha existe y sigue abierta",
+          "is_correct": false,
+          "feedback": "Ese tipo de contestación solo comprueba un hecho y no explica las causas que la pregunta pide."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre completo del administrador del parque y el horario en que abre la cancha",
+          "is_correct": false,
+          "feedback": "Son datos de identificación, propios de una nota informativa, y no responden al porqué de la pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "Una explicación con las razones que esa persona considera válidas y que expliquen su punto de vista",
+          "is_correct": true,
+          "feedback": "Es correcta porque la pregunta con «por qué» busca causas expresadas desde la experiencia de quien habla."
+        },
+        {
+          "letter": "D",
+          "text": "Una respuesta de una sola palabra, en tono airado, que repita la pregunta sin añadir nada",
+          "is_correct": false,
+          "feedback": "Una palabra aislada no desarrolla una explicación y además daña la relación de confianza con el entrevistado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la intención de una pregunta es clave para anticipar la respuesta que merece. La pregunta con «por qué» busca causas explicadas desde la experiencia de quien habla, no datos de identificación. Reconocer esa diferencia ayuda a detectar cuándo una entrevista se queda en la superficie.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes textos reproduce el sentido de la respuesta de la persona entrevistada sin alterarlo?",
+      "context": "En la transcripción publicada por el periódico de Barranquilla, la persona entrevistada declara: «Yo no vi nada, yo estaba en mi casa». El profesor pide a sus estudiantes que reescriban el sentido de esa frase sin modificarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mujer afirmó que presenció el hecho desde la puerta de su casa",
+          "is_correct": false,
+          "feedback": "La transcripción dice que ella estaba dentro y que no vio nada, de modo que esta versión inventa un dato."
+        },
+        {
+          "letter": "B",
+          "text": "La mujer reconoció que nadie pudo verla durante toda la tarde",
+          "is_correct": false,
+          "feedback": "Esa afirmación agrega una información sobre la tarde que en ningún momento aparece en la respuesta transcrita."
+        },
+        {
+          "letter": "C",
+          "text": "La mujer explicó que el hecho ocurrió después de que ella hubiera salido del barrio",
+          "is_correct": false,
+          "feedback": "La transcripción no menciona salidas del barrio, y además contradice que ella estaba en su casa."
+        },
+        {
+          "letter": "D",
+          "text": "La mujer declaró que se encontraba en su casa y que no alcanzó a observar el hecho",
+          "is_correct": true,
+          "feedback": "Es correcta porque recoge las dos ideas de la frase: el lugar donde estaba y la ausencia de visión directa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Resumir una respuesta transcrita exige conservar el núcleo del sentido original y no añadir nada. En este caso ese núcleo tiene dos partes: el lugar donde estaba la persona y el hecho de que no vio el incidente. Cualquier versión que cambie una de las dos ya no es fiel a la fuente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ventaja tiene para el lector que se conserve el orden original de preguntas y respuestas?",
+      "context": "Un medio departamental publica la entrevista sin cambiar el orden de la charla y lo explica así: «Decidimos publicar las preguntas completas para que el lector pueda ver por dónde empezó y por dónde terminó cada respuesta».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite ver cómo avanza la conversación y por qué una respuesta dio lugar a la pregunta siguiente",
+          "is_correct": true,
+          "feedback": "Es correcta porque el orden de los turnos revela el hilo de la charla y las motivaciones del entrevistador."
+        },
+        {
+          "letter": "B",
+          "text": "Permite llegar de inmediato a la parte final de la charla y conocer la conclusión antes de empezar",
+          "is_correct": false,
+          "feedback": "Mantener el orden impide ese atajo: el lector recorre la entrevista completa, turno por turno, como en una charla."
+        },
+        {
+          "letter": "C",
+          "text": "Evita que el lector tenga que leer las preguntas para entender lo que respondió la persona entrevistada",
+          "is_correct": false,
+          "feedback": "El orden no elimina las preguntas; por el contrario, son ellas las que explican y ordenan cada respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el tamaño del texto, porque la entrevista puede publicarse sin la mitad de los turnos",
+          "is_correct": false,
+          "feedback": "Quitar turnos no es una ventaja de mantener el orden, es una pérdida de información para quien lee."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El orden de los turnos funciona como la columna vertebral del género. Cuando una pregunta abre un tema nuevo se ve el cambio de asunto, y cuando se insiste se percibe la presión del entrevistador. Ese encadenamiento permite valorar la conversación completa y no solo fragmentos sueltos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v6",
+      "statement": "¿Qué problema tiene la forma en que está formulada esa pregunta?",
+      "context": "En una publicación local, quien entrevista formula esta pregunta a un funcionario municipal: «¿No será que el parque está tan descuidado por culpa de la administración?». La profesora pide examinar la redacción de la pregunta antes de evaluar la respuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es neutra, porque toda pregunta periodística puede usar la palabra «no» sin cambiar su sentido",
+          "is_correct": false,
+          "feedback": "La palabra «no» convierte aquí la pregunta en una afirmación disfrazada que empuja hacia una respuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Sugiere desde el comienzo que la respuesta esperada es «sí», y de ese modo condiciona lo que dice el entrevistado",
+          "is_correct": true,
+          "feedback": "Es correcta porque presupone la conclusión y lleva a la persona a defenderla en vez de explicar con libertad."
+        },
+        {
+          "letter": "C",
+          "text": "Es inválida, porque las preguntas de un entrevista deben formularse siempre con el verbo «pensar»",
+          "is_correct": false,
+          "feedback": "No existe una obligación de usar ese verbo; lo que importa es que la pregunta no imponga su propia respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Sirve, porque obliga a la persona entrevistada a mencionar tres argumentos distintos en un solo turno",
+          "is_correct": false,
+          "feedback": "Una pregunta cargada no garantiza argumentos: suele producir una defensa breve y defensiva de la persona."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la redacción de una pregunta es el primer paso para valorar una entrevista. Una pregunta que ya trae la respuesta dentro presupone la conclusión y empuja a la persona a defenderla. El buen entrevista formula preguntas que dejan espacio para responder con libertad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v7",
+      "statement": "Según las palabras de la vecina, ¿qué posición sostiene frente a la seguridad de su barrio?",
+      "context": "En la transcripción de la entrevista publicada en Cali, una vecina del barrio El Tequendama afirma: «Yo no vi, pero a las siete de la noche ya nadie sale a la calle. Uno aprende a quedarse en la casa». La profesora pide inferir la postura que esas palabras expresan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el barrio mejoró y que ahora la gente recorre sus calles con libertad durante la noche",
+          "is_correct": false,
+          "feedback": "La frase dice lo contrario: a las siete de la noche la gente se queda en la casa por seguridad."
+        },
+        {
+          "letter": "B",
+          "text": "Que la entrevista carece de datos suficientes para afirmar cuál es la situación real del barrio",
+          "is_correct": false,
+          "feedback": "Esa es una valoracion de la entrevista, no la postura de la vecina, que se refiere a su propia vida."
+        },
+        {
+          "letter": "C",
+          "text": "Que la percepción de inseguridad ya forma parte de las rutinas de los habitantes del sector",
+          "is_correct": true,
+          "feedback": "Es correcta porque la expresión «uno aprende» muestra un cambio de costumbre y no una queja aislada."
+        },
+        {
+          "letter": "D",
+          "text": "Que ella no recuerda qué ocurría en esa calle durante las horas de la noche",
+          "is_correct": false,
+          "feedback": "La frase no expresa olvido, sino un aprendizaje permanente sobre cómo moverse de noche en el barrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir es deducir una idea que el texto sostiene, aunque no la escriba con esas palabras. La expresión «uno aprende a quedarse en la casa» muestra un hábito consolidado por el temor. El lector atento usa esas pistas para deducir la postura de la vecina sin que nadie la nombre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v8",
+      "statement": "Frente al reportaje que informa de la inversión en iluminación, ¿qué aporta el testimonio de la vecina y qué habría que verificar?",
+      "context": "Un reportaje del mismo periódico afirma que la administración invirtió en la iluminación del parque de El Tequendama la semana anterior. La profesora entrega ambos textos y pide comparar qué información aporta cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta el dato exacto de la inversión en iluminación, que es el que le faltaba al reportaje",
+          "is_correct": false,
+          "feedback": "Ese dato pertenece al reportaje; el testimonio no incluye cifras de inversión sino una experiencia cotidiana."
+        },
+        {
+          "letter": "B",
+          "text": "No aporta información nueva, porque el testimonio se limita a repetir el contenido del reportaje",
+          "is_correct": false,
+          "feedback": "Los dos textos son distintos: uno da cifras de inversión y el otro describe cómo viven los habitantes el sector."
+        },
+        {
+          "letter": "C",
+          "text": "Aporta la experiencia vivida y la percepción de la gente, que deben contrastarse con los datos oficiales",
+          "is_correct": true,
+          "feedback": "Es correcta porque une el testimonio con la verificación de los datos, que es lo que exige una lectura crítica."
+        },
+        {
+          "letter": "D",
+          "text": "Aporta una opinión sobre la administración que vuelve innecesaria cualquier comprobación posterior",
+          "is_correct": false,
+          "feedback": "Un testimonio experiencia no reemplaza los datos: debe leerse junto a ellos y no en su contra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Contrastar dos textos del mismo tema permite ver qué aporta cada género. El reportaje informa sobre la inversión con datos y fuentes; la entrevista recoge la vivencia de quien habita el lugar. Ninguno de los dos basta por sí solo: la experiencia personal necesita datos que la confirmen y los datos necesitan voces que los expliquen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el principal problema que tiene esa publicación como trabajo periodístico?",
+      "context": "Un medio digital publica una entrevista a un funcionario municipal sobre el aumento del costo del transporte escolar, pero no incluye la reacción de los padres de familia ni explica cómo se recogieron esos datos. La profesora pide aplicar criterios de calidad al texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa un lenguaje coloquial, poco frecuente en el periodismo escrito y desconocido por los lectores",
+          "is_correct": false,
+          "feedback": "El registro coloquial no invalida un trabajo periodístico; el defecto real está en el tratamiento de las fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Le falta equilibrio, porque se presenta una sola versión y no se da espacio a las personas afectadas",
+          "is_correct": true,
+          "feedback": "Es correcta porque la publicación incluye la voz de quien administra, pero no la de quienes viven el aumento."
+        },
+        {
+          "letter": "C",
+          "text": "No incluye una fotografía del funcionario, que es un requisito previo para publicar una entrevista",
+          "is_correct": false,
+          "feedback": "La fotografía es un recurso gráfico opcional; el criterio de equilibrio pesa mucho más que la imagen."
+        },
+        {
+          "letter": "D",
+          "text": "Es demasiado corta, porque ninguna entrevista puede publicarse en menos de dos páginas",
+          "is_correct": false,
+          "feedback": "La extensión no invalida el trabajo: una entrevista breve puede estar muy bien construida si hay pluralidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un género periodístico supone aplicar criterios comprobables. En una entrevista, el equilibrio exige abrirle espacio a las personas afectadas por la noticia y no solo a las autoridades que la atienden.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle-v10",
+      "statement": "¿Qué revisión le daría mayor confianza en que la entrevista se publicó de manera honesta y completa?",
+      "context": "Un estudiante de sexto grado de Bogotá va a citar en un trabajo de clase una entrevista publicada por un medio digital. Antes de escribir, decide revisar con qué datos puede contar para saber si el material fue publicado con honestidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la publicación incluya los datos del medio, la fecha, la identidad de quien entrevista y las preguntas completas",
+          "is_correct": true,
+          "feedback": "Es correcta porque esos datos permiten rastrear el origen y saber qué se preguntó, es decir, verificar la transcripción."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto tenga un lenguaje muy cuidado y un título que llame la atención del lector",
+          "is_correct": false,
+          "feedback": "La forma del texto no garantiza nada sobre el trabajo de campo: un título llamativo puede preceder una entrevista floja."
+        },
+        {
+          "letter": "C",
+          "text": "Que la persona entrevistada sea una figura conocida del barrio, porque la fama garantiza su sinceridad",
+          "is_correct": false,
+          "feedback": "La popularidad de una persona no acredita la veracidad de lo que dice, y menos aún de la transcripción."
+        },
+        {
+          "letter": "D",
+          "text": "Que la entrevista aparezca en el primer resultado del buscador, porque la posición web demuestra que es verdadera",
+          "is_correct": false,
+          "feedback": "El orden en que aparecen los resultados depende de los criterios del buscador, no de la calidad periodística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Antes de citar un material de prensa conviene comprobar quién lo produjo, cuándo, a quién preguntó y con qué palabras. Esa revisión de procedencia evita citar como hechos las opiniones de una sola persona.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W15-la-entrevista-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-14-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T19:47:40.368Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué rasgos definen a una crónica?",
+      "context": "En la clase de lectura de Bogotá, la profesora repartió dos textos: una nota que informa el número de vendedores de la plaza y una crónica que relata la mañana de ese mercado. Luego pregunta cuál de los dos textos pertenece al género que se estudia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narra una experiencia vivida, con detalle, con orden en el tiempo y con la voz de quien la cuenta",
+          "is_correct": true,
+          "feedback": "Es correcta porque el relato de experiencia, el detalle, el tiempo y la voz personal forman la estructura del género."
+        },
+        {
+          "letter": "B",
+          "text": "Publica el hecho el mismo día, con datos verificados y sin ninguna voz personal",
+          "is_correct": false,
+          "feedback": "La publicación inmediata y la ausencia de voz personal corresponden a la noticia, no a la crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Recoge varias entrevistas y las ordena según la importancia política de cada persona",
+          "is_correct": false,
+          "feedback": "La pluralidad de entrevistas es propia del reportaje; la crónica se sostiene en una sola experiencia narrada."
+        },
+        {
+          "letter": "D",
+          "text": "Comenta un libro, una película o una obra de teatro con argumentos y referencias",
+          "is_correct": false,
+          "feedback": "Ese comentario corresponde al género de opinión, que valora una obra y no experiencia una vivencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica es un género periodístico de experiencia: su autor cuenta lo que vivió, lo vio o lo oyó, y esa condición explica su manera de narrar. El relato avanza con un orden en el tiempo, se apoya en detalles concretos y deja ver la mirada del cronista, sin que esa mirada convierta el relato en un artículo de opinión. Reconocer estos rasgos permite distinguirla de la noticia, del reportaje y del artículo de opinión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v2",
+      "statement": "En la frase de la profesora, ¿qué significa la palabra \"testigo\"?",
+      "context": "La profesora de lectura de Bucaramanga explica que el cronista escribe desde la propia experiencia. Para que el grupo entienda la palabra, escribe en el tablero: \"El cronista no llega como observador distante, sino como testigo de su tiempo\". Luego pregunta qué significa \"testigo\" en esa frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una persona que declara ante un juez en un juicio, con voz legal dentro de un proceso",
+          "is_correct": false,
+          "feedback": "Ese es el sentido jurídico de la palabra, pero la frase del tablero está hablando del cronista, no de un juicio."
+        },
+        {
+          "letter": "B",
+          "text": "Una persona que firma un documento para que quede constancia oficial de un acuerdo",
+          "is_correct": false,
+          "feedback": "La firma da constancia legal de un acuerdo: no es lo que significa la palabra cuando se aplica al cronista."
+        },
+        {
+          "letter": "C",
+          "text": "Alguien que da cuenta de lo que vio y de lo que oyó, desde su propia mirada",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cronista cuenta su experiencia y por eso da testimonio de lo que ocurrió allí."
+        },
+        {
+          "letter": "D",
+          "text": "Alguien que repite de memoria una información que oyó contar a otras personas",
+          "is_correct": false,
+          "feedback": "Repetir lo que otros dijeron no es dar testimonio: el testigo da cuenta de una experiencia directa, no de segunda mano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una palabra conserva un núcleo de sentido y se precisa según la situación en que aparece. En lenguaje periodístico, testigo designa a quien da cuenta de lo que vio, oyó o vivió, y esa cuenta incluye su mirada y no es una simple copia. Comprender el término en su uso específico ayuda a explicar por qué la crónica tiene un valor de testimonio vivo y por qué su autor no puede quedar por fuera de lo que cuenta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las dos versiones convierte mejor el tema en una crónica?",
+      "context": "En el taller de lectura de Cali, los estudiantes comparan dos versiones sobre la plaza de mercado. Una dice que allí llegan ochenta vendedores; la otra describe la mañana tal como la vivió el autor. La profesora pide que elijan cuál de las dos funciona como crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que empieza con la cifra exacta de vendedores y termina con la opinión sobre el efecto",
+          "is_correct": false,
+          "feedback": "Una cifra y una opinión combinan un dato con un juicio: esa mezcla corresponde a otro género, no a una crónica."
+        },
+        {
+          "letter": "B",
+          "text": "La que narra la mañana con la presencia del autor, la hora, el lugar y las músicas del mercado",
+          "is_correct": true,
+          "feedback": "Es correcta porque la experiencia narrada en primera persona, con hora y detalle, es la marca de la crónica."
+        },
+        {
+          "letter": "C",
+          "text": "La que resume el problema del mercado en cuatro párrafos y cita a tres funcionarios",
+          "is_correct": false,
+          "feedback": "El resumen y las varias fuentes responden al reportaje, mientras la crónica se cuenta en primera persona."
+        },
+        {
+          "letter": "D",
+          "text": "La que termina con una lista de precios de los productos y el horario de atención",
+          "is_correct": false,
+          "feedback": "La lista de datos es útil, pero pertenece a la información práctica y no construye una experiencia vivida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Convertir un tema en crónica exige narrar la experiencia con la presencia del autor: alguien que estuvo allí, en un lugar y en un momento precisos, y que describe lo que percibió con sus propios sentidos. La versión correcta combina primera persona, hora, lugar y detalle sensorial, mientras que las otras opciones se quedan en la cifra, en el resumen o en la lista de datos, que pertenecen a otros géneros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué orden respeta la secuencia cronológica de los hechos narrados?",
+      "context": "Un cronista de Barranquilla escribió su crónica en tres párrafos. La profesora pide al grupo que ordene los momentos de la historia antes de pegar la lectura en el mural del aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La llegada al mercado, el recuerdo de la infancia en el mismo lugar y la despedida del vendedor",
+          "is_correct": false,
+          "feedback": "En esa secuencia el recuerdo queda en medio y rompe la línea de los hechos de ese día que narran los tres párrafos."
+        },
+        {
+          "letter": "B",
+          "text": "El recuerdo de la infancia, la despedida del vendedor y la llegada al mercado de ese día",
+          "is_correct": false,
+          "feedback": "Colocar la despedida antes de la llegada rompe la continuidad de la experiencia narrada ese mismo día."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada al mercado, la despedida del vendedor y el recuerdo de la infancia en el barrio",
+          "is_correct": false,
+          "feedback": "El recuerdo corta la línea del día: inserta el pasado entre la llegada y la despedida, que son del mismo momento."
+        },
+        {
+          "letter": "D",
+          "text": "El recuerdo de la infancia en el barrio, la llegada al mercado y la despedida del vendedor",
+          "is_correct": true,
+          "feedback": "Es correcta porque respeta el pasado lejano, el presente del relato y el desenlace de ese día, en ese orden."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La crónica ordena su relato con marcas de tiempo, de modo que el lector sepa siempre en qué momento ocurre lo que se cuenta. En este caso, el recuerdo de la infancia pertenece a un pasado lejano, la llegada al mercado ocurre ese mismo día y la despedida cierra la experiencia. Reconocer el valor de cada marca temporal y ordenar con ellas los acontecimientos es una habilidad que sirve para cualquier narrativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v5",
+      "statement": "¿Para qué sirve el cierre reflexivo de una crónica?",
+      "context": "Un estudiante de Medellín leyó el último párrafo de una crónica del río, que termina con una pregunta dirigida al lector. La profesora le pregunta qué busca ese cierre en su comunicación con quien lee.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para dejar en el lector una pregunta sobre lo que la experiencia dejó en quien la vivió",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cierre no cierra la experiencia, sino que invita a seguir pensando más allá de la última línea."
+        },
+        {
+          "letter": "B",
+          "text": "Para repetir los datos del mercado, como el número de vendedores y el total de la venta del día",
+          "is_correct": false,
+          "feedback": "Repetir cifras ya entregadas alarga el texto sin aportar nada nuevo y acerca la crónica a la noticia."
+        },
+        {
+          "letter": "C",
+          "text": "Para mencionar la biografía completa del cronista, que el lector no conoce y necesita",
+          "is_correct": false,
+          "feedback": "La biografía es un dato exterior al relato y no es la función del cierre reflexivo de este género."
+        },
+        {
+          "letter": "D",
+          "text": "Para felicitar a las instituciones que resolvieron el problema y cerrar el relato con un final feliz",
+          "is_correct": false,
+          "feedback": "El final feliz no es una obligación del género y además convierte la experiencia narrada en relato publicitario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cierre define la intención que el género deja en el lector. En la crónica, ese cierre suele devolver la experiencia de quien la vivió, con una imagen o una pregunta que continúa sonando después de la última línea. Reconocer esta función ayuda a explicar por qué una crónica no termina con un resumen de datos ni con un llamado a la acción, y por qué su última palabra es una puerta abierta a la reflexión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué gana y qué pierde el relato con ese cambio de expresión?",
+      "context": "En una crónica de una inundación en el municipio de Pitalito, el autor pasa de \"había ochenta personas en el corredor del colegio\" a \"el olor me llegó hasta la garganta y no podía respirar bien\". La profesora pide al grupo que analice ese cambio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gana en precisión numérica y pierde capacidad emotiva, porque la cifra es un dato comprobable",
+          "is_correct": false,
+          "feedback": "La sustitución ocurre en sentido contrario: se pierde la precisión de la cifra y se gana la vivencia del cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Gana y pierde exactamente lo mismo, porque las dos expresiones dicen lo mismo con otras palabras",
+          "is_correct": false,
+          "feedback": "Las dos expresiones no son equivalentes: una informa una cantidad y la otra describe una sensación corporal."
+        },
+        {
+          "letter": "C",
+          "text": "Gana inmediatez y sensibilidad, y pierde la precisión sobre la cantidad exacta de personas",
+          "is_correct": true,
+          "feedback": "Es correcta porque la sensación hace vivir al lector la escena, pero ya no permite saber cuántas personas había."
+        },
+        {
+          "letter": "D",
+          "text": "Gana en objetividad y pierde en empatía, porque la sensación del autor es una opinión personal",
+          "is_correct": false,
+          "feedback": "La sensación no es una opinión que se pueda quitar sin romper la escena: es parte de la experiencia que el género narra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la crónica, el dato y la sensación cumplen funciones distintas y a veces se reemplazan. La cifra informa una cantidad y permite comparar, mientras que la sensación acerca al lector al cuerpo de quien narra. Cuando el autor cambia una por otra, el relato gana inmediatez y pierde precisión, de modo que el lector comprende cómo se sintió la escena aunque ya no sepa cuántas personas había allí.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué revela el uso de esos adjetivos en el relato?",
+      "context": "En una crónica sobre un río que atraviesa un municipio del Tolima, el cronista escribe que el río \"camina lento, silencioso y cansado\". La profesora pregunta cómo funciona esa elección de palabras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el cronista busca presentar el río como un ser vivo con intenciones y voluntad propia",
+          "is_correct": false,
+          "feedback": "La personificación es un recurso, pero no es lo que esos adjetivos hacen: ellos valoran, no animan al río."
+        },
+        {
+          "letter": "B",
+          "text": "Que la mirada del cronista tiñe la descripción y deja ver su valoración de lo que relata",
+          "is_correct": true,
+          "feedback": "Es correcta porque esas palabras valoran la escena y muestran la mirada subjetiva del autor sobre el río."
+        },
+        {
+          "letter": "C",
+          "text": "Que el relato busca medir el río con datos exactos de longitud, caudal y profundidad",
+          "is_correct": false,
+          "feedback": "Ninguno de esos tres datos aparece en el texto: la frase expresa una valoración, no una medición."
+        },
+        {
+          "letter": "D",
+          "text": "Que la descripción pretende ser neutra y por eso usa adjetivos de uso común y corriente",
+          "is_correct": false,
+          "feedback": "Las palabras lento, cansado y silencioso no son neutras: cada una carga con una valoración del cronista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los adjetivos de una descripción no son decorativos: ordenan la mirada de quien narra. Cuando el cronista dice que el río camina lento, silencioso y cansado, esas palabras valoran la escena y comunican una impresión personal que el lector no puede verificar con una cifra. Analizar esta carga valorativa ayuda a entender cómo se filtra la opinión en el relato cronístico sin que el texto se convierta en un artículo de opinión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v8",
+      "statement": "¿Qué función cumple ese detalle dentro de la crónica?",
+      "context": "En una crónica de un mercado de Bogotá, el autor escribe que la suela del zapato del vendedor todavía traía barro del camino de herradura. La profesora pide un análisis del detalle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar un dato estadístico sobre el camino que usan los vendedores para llegar a la plaza",
+          "is_correct": false,
+          "feedback": "El detalle es una imagen concreta, no un dato estadístico: nada en él permite calcular distancias ni porcentajes."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar que el vendedor vive cerca del mercado y por eso llega caminando a diario",
+          "is_correct": false,
+          "feedback": "El barro solo indica un trayecto, no una distancia ni una costumbre: la conclusión excede lo que el detalle dice."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar el clima de la ciudad durante las semanas más lluviosas del año",
+          "is_correct": false,
+          "feedback": "El detalle no informa sobre el clima general: describe el estado de un zapato en un momento y en un lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Anclar la escena en algo concreto y tangible, y mostrar la cercanía del cronista con lo que narra",
+          "is_correct": true,
+          "feedback": "Es correcta porque ese objeto da materialidad a la escena y delata la mirada atenta del autor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El detalle concreto es el instrumento principal de la crónica: un objeto, un gesto o un olor bastan para situar al lector en una escena real. La suela con barro no solo describe al vendedor, sino que muestra que el cronista estuvo lo bastante cerca para observar ese detalle mínimo. Por eso el detalle cumple dos tareas a la vez: da materialidad a la escena y revela la calidad de la mirada del cronista.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el riesgo principal de incluir la denuncia dentro de la crónica?",
+      "context": "Un cronista de Bucaramanga narra en primera persona la feria de su municipio y denuncia, en el mismo texto, que el cobro de la entrada se hace sin recibo. La profesora de lectura pide al grupo que valore el alcance de esa denuncia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la voz del cronista se confunda con una prueba verificada y su relato se tome como un informe",
+          "is_correct": true,
+          "feedback": "Es correcta porque el relato es una experiencia vivida y no un peritaje, aunque parezca igual de riguroso."
+        },
+        {
+          "letter": "B",
+          "text": "Que el uso de un lenguaje coloquial impida entender al lector, ya que no todos hablan igual",
+          "is_correct": false,
+          "feedback": "El lenguaje coloquial bien usado se entiende y acerca la escena: no es un problema para el género."
+        },
+        {
+          "letter": "C",
+          "text": "Que la ausencia de datos numéricos deje el relato sin ninguna base seria para sostenerse",
+          "is_correct": false,
+          "feedback": "La crónica no se sostiene con cifras, sino con experiencia y detalle: su base es otra, y es válida."
+        },
+        {
+          "letter": "D",
+          "text": "Que el cronista aparezca demasiado en la narración y le quite protagonismo a los demás personajes",
+          "is_correct": false,
+          "feedback": "La presencia del autor es la condición del género: no es un defecto que el cronista narre en primera persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un género exige identificar su límite de validez. La crónica es un relato de experiencia, no un peritaje ni un informe técnico, de modo que su palabra tiene un valor testimonial que no equivale a comprobación documental. Juzgar bien esa diferencia evita dos errores: tomar la narración por una prueba y descartar el texto por no traer datos. Reconocer el alcance del género sostiene una lectura crítica y equilibrada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué juicio sobre los dos textos es el más preciso?",
+      "context": "En clase de lectura de Cartagena, el grupo compara una noticia y una crónica sobre el mismo aguacero que inundó tres calles de su barrio. Deben elegir el criterio más preciso para valorar cada texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La crónica sirve más, porque como está escrita en primera persona garantiza que los hechos sean ciertos",
+          "is_correct": false,
+          "feedback": "La primera persona no garantiza la verdad de los hechos: la experiencia vivida y la comprobación son cosas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia sirve más, porque fija datos comprobados mientras que la crónica depende de lo que recuerda una sola persona",
+          "is_correct": false,
+          "feedback": "La noticia sí da respaldo documental, pero el relato de experiencia responde a otra pregunta y no queda por debajo."
+        },
+        {
+          "letter": "C",
+          "text": "La crónica explica el significado humano del hecho y la noticia fija los datos y el momento",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada género responde a una pregunta distinta y, leídos juntos, completan la comprensión del caso."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos sirven igual, porque con los dos se obtiene exactamente la misma información sobre lo ocurrido",
+          "is_correct": false,
+          "feedback": "Los dos textos no ofrecen la misma información: uno documenta y el otro experimenta, y esa diferencia es su valor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Poner dos textos en relación permite ver que cada género responde a una pregunta distinta sobre un mismo hecho. La noticia fija el cuándo, el dónde y los datos verificados; la crónica explica cómo se vivió ese hecho y qué dejó en la experiencia. En lugar de escoger uno y descartar el otro, el lector crítico usa la noticia como respaldo y la crónica como comprensión, y esa combinación amplía lo que el lector puede comprender.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-6-2026-W14-la-cronica-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
