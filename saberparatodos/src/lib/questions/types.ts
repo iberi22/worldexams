@@ -32,6 +32,7 @@ export interface QuestionRepository {
   fetchQuestions(grade: number, subject: string, page?: number, period?: number): Promise<AppQuestion[]>;
   fetchBulkQuestions(grades: number[], limit?: number): Promise<AppQuestion[]>;
   fetchEnglishQuestionsAllGrades(limit?: number, balanced?: boolean, cefrLevelNum?: number): Promise<AppQuestion[]>;
+  fetchSample?(grade: number, subject: string | null, options: { period?: number; limit?: number; seed?: string }): Promise<{ questions: AppQuestion[]; meta: any }>;
 }
 
 export interface QuestionSelectionDeps {
