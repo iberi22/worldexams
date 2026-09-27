@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-39-grade-3-subject-matematicas",
+    "generated_at": "2026-09-26T06:47:10.222Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el número que completa la secuencia de canicas de Camilo?",
+      "context": "Camilo organiza sus canicas formando filas donde aumenta la misma cantidad de canicas en cada paso. Su secuencia es: 3, 6, 9, 12, __.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "¡Correcto! La secuencia avanza sumando 3 a cada número (3 + 3 = 6, 6 + 3 = 9, 9 + 3 = 12, 12 + 3 = 15)."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recuerda revisar la regla de sumar 3 en cada paso."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar 1 a 12 no sigue el patrón de la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la suma: 12 + 3 es igual a 15, no a 16."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para identificar el número faltante en una secuencia aditiva, se debe determinar el patrón o regla de cambio entre términos consecutivos. En este caso, la regla es sumar 3 en cada término.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el número que sigue en la secuencia de saltos de Mariana?",
+      "context": "Mariana cuenta los pasos que da al saltar en una golosa numérica: 20, 18, 16, 14, __.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "¡Correcto! La secuencia decrece restando 2 en cada paso (14 - 2 = 12)."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar solo 1 no cumple la regla de la secuencia."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restar 4 es un salto muy grande para el patrón de restar 2."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia va disminuyendo, por lo que el número debe ser menor que 14."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las secuencias numéricas también pueden ser decrecientes. En este problema, la regla es restar 2 a cada número para obtener el siguiente término.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la regla o patrón que sigue la recolección de huevos del granjero?",
+      "context": "Un granjero recoge huevos cada día de la semana según un patrón: el lunes recoge 5, el martes 10, el miércoles 20 y el jueves 40.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Multiplicar el número anterior por 2.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Cada día se duplica la cantidad de huevos recolectados el día anterior (5x2=10, 10x2=20, 20x2=40)."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar 5 al número anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar 5 solo funciona de lunes a martes, pero no para los días siguientes."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar 10 al número anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar 10 no explica la relación entre 5 y 10 ni entre 20 y 40."
+        },
+        {
+          "letter": "D",
+          "text": "Multiplicar el número anterior por 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 multiplicado por 3 daría 15, no 10."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las secuencias multiplicativas, cada término se obtiene multiplicando el término anterior por una constante fija (en este caso, la regla es duplicar o multiplicar por 2).\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de problemas",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué código de libro falta en la secuencia de la estantería?",
+      "context": "En una biblioteca, los libros de una estantería están organizados según sus códigos: 105, 110, 115, __, 125, 130.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": true,
+          "feedback": "¡Correcto! La secuencia avanza de 5 en 5 (115 + 5 = 120, y 120 + 5 = 125)."
+        },
+        {
+          "letter": "B",
+          "text": "116",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar 1 no mantiene la distancia entre los números anteriores."
+        },
+        {
+          "letter": "C",
+          "text": "121",
+          "is_correct": false,
+          "feedback": "Incorrecto. 115 + 5 es igual a 120."
+        },
+        {
+          "letter": "D",
+          "text": "122",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa el patrón de contar de 5 en 5."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar un término faltante en medio de una secuencia, se comprueba la diferencia constante entre términos conocidos (110 - 105 = 5; 115 - 110 = 5) y se aplica al término anterior.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Solución de problemas",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v5",
+      "statement": "Si Laura mantiene la misma regla geométrica para agregar bloques en cada fila, ¿cuántos bloques tendrá la quinta fila?",
+      "context": "Laura creó una torre de bloques. La primera fila tiene 1 bloque, la segunda tiene 3, la tercera tiene 6, y la cuarta tiene 10 bloques.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "¡Correcto! El aumento entre filas es de +2, +3, +4... Por lo tanto, para la quinta fila el aumento será de +5 bloques (10 + 5 = 15)."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fíjate en cómo la diferencia entre filas va aumentando en 1 cada vez (+2, +3, +4, +5)."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar 4 daría la cuarta fila de nuevo, la quinta requiere sumar 5."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicar 10 no corresponde al patrón numérico de la torre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En secuencias numéricas no constantes (números triangulares), las diferencias entre términos forman una secuencia aritmética (+2, +3, +4, +5...).\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la posición del robot al finalizar su turno número 7?",
+      "context": "Un robot camina sobre una recta numérica realizando movimientos combinados: avanza 4 pasos y retrocede 1 paso en cada turno. Sus posiciones finales en cada turno son: 3, 6, 9, 12, 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21",
+          "is_correct": true,
+          "feedback": "¡Correcto! La posición final avanza de 3 en 3 (+3 por turno). En el turno 6 será 18 y en el turno 7 será 21."
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. 18 es la posición en el turno 6."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. 24 correspondería al turno 8."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa la regla de sumar 3 a la posición anterior por cada turno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el efecto neto de un patrón combinado (+4 y -1 = +3 neto) permite proyectar la secuencia a términos posteriores con precisión.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de los dos estudiantes tiene la razón?",
+      "context": "Dos estudiantes analizan la secuencia: 4, 8, 12, 16, 20.\n- Mateo dice: \"La regla es sumar 4 al número anterior\".\n- Sofía dice: \"Cada término es el resultado de multiplicar 4 por la posición del término (1.º, 2.º, 3.º...)\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos tienen la razón, porque ambas reglas generan exactamente la misma secuencia.",
+          "is_correct": true,
+          "feedback": "¡Excelente! Sumar 4 sucesivamente genera los múltiplos de 4, lo cual coincide con multiplicar 4 por la posición del término."
+        },
+        {
+          "letter": "B",
+          "text": "Solo Mateo, porque las secuencias numéricas solo pueden definirse sumando.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las secuencias también pueden expresarse mediante la posición del término."
+        },
+        {
+          "letter": "C",
+          "text": "Solo Sofía, porque multiplicar es la única forma válida de construir patrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla recursiva de Mateo (sumar 4) es totalmente válida."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno tiene la razón, la secuencia no sigue ningún patrón numérico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia es claramente el conjunto de los primeros múltiplos de 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una misma secuencia de números (en este caso la tabla del 4) puede describirse mediante una regla recursiva (sumar 4 al anterior) o una regla explícita basada en la posición ($4 \\times n$).\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Solución de problemas",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle-v8",
+      "statement": "Siguiendo la regla del juego, ¿cuál es el término que completa la secuencia después del 2?",
+      "context": "En un juego de mesa, para avanzar casilla se aplica esta regla: \"Si el número actual es par, se divide entre 2. Si es impar, se le suma 1\". Observa la secuencia iniciada en 12:\n12 ➔ 6 ➔ 3 ➔ 4 ➔ 2 ➔ __.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "¡Correcto! Como 2 es un número par, la regla indica dividirlo entre 2 (2 ÷ 2 = 1)."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se le sumaría 1 solo si el número fuera impar, pero 2 es par."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 dividido entre 2 da 1, no 0."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revisa las condiciones: para números pares se divide entre 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las secuencias con reglas condicionales requieren evaluar las propiedades del número actual (par/impar) antes de decidir la operación a aplicar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Solución de problemas",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W39-patrones-secuencias-numericas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
