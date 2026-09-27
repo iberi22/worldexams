@@ -3,7 +3,7 @@ id: "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura_critica"
-tema: "aviso_cartel"
+tema: "aviso-cartel"
 periodo: "weekly"
 week: "W06"
 year: 2026
