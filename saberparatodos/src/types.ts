@@ -48,6 +48,7 @@ export interface Score {
 }
 
 export enum AppView {
+  EXAM_HUB = 'EXAM_HUB',
   LANDING = 'LANDING',
   GRADE_SELECTION = 'GRADE_SELECTION',
   SUBJECT_SELECTION = 'SUBJECT_SELECTION',
