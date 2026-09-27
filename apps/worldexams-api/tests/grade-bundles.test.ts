@@ -6,6 +6,7 @@ describe("GET /v1/grades/:country/:grade/bundle worker handler", () => {
   const mockEnv = (assetsMap: Record<string, Response>): Env => ({
     SUPABASE_URL: "https://mock.supabase.co",
     SUPABASE_ANON_KEY: "mock-key",
+    BULK_API_KEY: "test-secret-key",
     ASSETS: {
       fetch: vi.fn(async (request: Request | string) => {
         const urlStr = typeof request === "string" ? request : request.url
@@ -36,7 +37,7 @@ describe("GET /v1/grades/:country/:grade/bundle worker handler", () => {
 
     const req = new Request("http://localhost/v1/grades/co/11/bundle", {
       method: "GET",
-      headers: { Origin: "https://saberparatodos.space" },
+      headers: { Origin: "https://saberparatodos.space", "x-api-key": "test-secret-key" },
     })
 
     const res = await worker.fetch(req, env)
@@ -55,6 +56,9 @@ describe("GET /v1/grades/:country/:grade/bundle worker handler", () => {
 
     const req = new Request("http://localhost/v1/grades/co/99/bundle", {
       method: "GET",
+      headers: {
+        "x-api-key": "test-secret-key"
+      }
     })
 
     const res = await worker.fetch(req, env)
@@ -78,7 +82,7 @@ describe("GET /v1/grades/:country/:grade/bundle worker handler", () => {
 
     const req = new Request("http://localhost/v1/grades/co/11/bundle", {
       method: "GET",
-      headers: { Origin: "https://untrusted-site.com" },
+      headers: { Origin: "https://untrusted-site.com", "x-api-key": "test-secret-key" },
     })
 
     const res = await worker.fetch(req, env)
