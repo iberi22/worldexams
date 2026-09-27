@@ -108,10 +108,10 @@ test.describe('Immersive Spread Reader (/cuentos/[slug]/leer/) E2E Suite (Wave C
     await expect(dots.first()).toHaveAttribute('aria-current', 'page');
 
     // 7. Click dot 5 -> moves to page 5
-    await dots.nth(4).click({ force: true });
+    await dots.nth(4).click();
     await expect(dots.nth(4)).toHaveAttribute('aria-current', 'page');
 
-    // Dismiss achievement unlock modal if triggered
+    // Dismiss achievement unlock modal if triggered (requires force: true due to endless CSS pulse animation 'cuento-respira')
     const logroBtn = page.locator('button:has-text("Genial"), .celebracion-logro-overlay button');
     if (await logroBtn.isVisible()) {
       await logroBtn.click({ force: true });
@@ -121,10 +121,10 @@ test.describe('Immersive Spread Reader (/cuentos/[slug]/leer/) E2E Suite (Wave C
     const prevBtn = page.locator('.prev-arrow-btn');
     const nextBtn = page.locator('.next-arrow-btn');
 
-    await prevBtn.click({ force: true });
+    await prevBtn.click();
     await expect(dots.nth(3)).toHaveAttribute('aria-current', 'page');
 
-    await nextBtn.click({ force: true });
+    await nextBtn.click();
     await expect(dots.nth(4)).toHaveAttribute('aria-current', 'page');
 
     // 9. Keyboard arrows navigation (ArrowRight / ArrowLeft)
