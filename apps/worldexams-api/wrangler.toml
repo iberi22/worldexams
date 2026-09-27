@@ -13,6 +13,10 @@ SUPABASE_ANON_KEY = "your_supabase_anon_key_here"
 [assets]
 directory = "public"
 binding = "ASSETS"
+# Assets are served before the worker by default, which bypassed the worker's
+# /v1/packs guards (internal indexes 404, pack rate limit, CORS). Route packs and
+# grade bundles through the worker first; it reads the files via env.ASSETS.
+run_worker_first = ["/v1/packs/*", "/v1/grades/*"]
 
 # MESH_STATE: KV E F Í M E R O para rendezvous mesh (TTL ~70s por sala).
 # Solo hashes de sala + IDs efímeros de peer. NUNCA datos de usuario.
