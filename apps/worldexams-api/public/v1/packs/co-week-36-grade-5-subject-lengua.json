@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v1",
       "statement": "¿Cuál de estos verbos cambia su forma al conjugarse y por eso es irregular?",
-      "context": "En Medellín, la profesora escribe en el tablero: \"yo voy, tú vas, él va\" y pide recordar qué verbo es.\n**Expected_Success:** 0.90",
+      "context": "En Medellín, la profesora escribe en el tablero: \"yo voy, tú vas, él va\" y pide recordar qué verbo es.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v2",
       "statement": "¿Por qué la forma \"voy\" pertenece a un verbo irregular?",
-      "context": "En Bogotá, Santiago dice en voz alta: \"Yo voy a la tienda de la esquina a comprar pan\".\n**Expected_Success:** 0.88",
+      "context": "En Bogotá, Santiago dice en voz alta: \"Yo voy a la tienda de la esquina a comprar pan\".",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v3",
       "statement": "Completa con la forma correcta del verbo ir en pasado: \"Ayer yo ______ al parque con mi familia\".",
-      "context": "En Cali, Mariana escribe en su diario lo que hizo el domingo con su familia.\n**Expected_Success:** 0.84",
+      "context": "En Cali, Mariana escribe en su diario lo que hizo el domingo con su familia.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v4",
       "statement": "Completa con la forma correcta del verbo hacer en presente: \"Yo ______ la tarea antes de salir a jugar\".",
-      "context": "En Cartagena, Valentina ayuda en la casa y anota sus tareas del día en una lista.\n**Expected_Success:** 0.80",
+      "context": "En Cartagena, Valentina ayuda en la casa y anota sus tareas del día en una lista.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v5",
       "statement": "Completa con la forma correcta del verbo decir en presente: \"Los estudiantes ______ la verdad ante el profesor\".",
-      "context": "En Bucaramanga, los estudiantes conversan sobre decir siempre la verdad durante la clase.\n**Expected_Success:** 0.76",
+      "context": "En Bucaramanga, los estudiantes conversan sobre decir siempre la verdad durante la clase.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v6",
       "statement": "Al analizar la oración de Juan, ¿qué error hay en el uso del verbo?",
-      "context": "En Pereira, Juan escribió en su cuaderno: \"Yo sabo la respuesta de la pregunta\".\n**Expected_Success:** 0.70",
+      "context": "En Pereira, Juan escribió en su cuaderno: \"Yo sabo la respuesta de la pregunta\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v7",
       "statement": "¿Cuál texto usa correctamente el verbo poner en pasado?",
-      "context": "En Barranquilla, dos estudiantes escriben sobre el almuerzo. Texto 1: \"Ayer mi mamá ponió la sopa en la mesa\". Texto 2: \"Ayer mi mamá puso la sopa en la mesa\".\n**Expected_Success:** 0.63",
+      "context": "En Barranquilla, dos estudiantes escriben sobre el almuerzo. Texto 1: \"Ayer mi mamá ponió la sopa en la mesa\". Texto 2: \"Ayer mi mamá puso la sopa en la mesa\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W36-verbos-irregulares-uso-cotidiano-001-MASTERY-bundle-v8",
       "statement": "¿Cuál oración usa mejor los verbos irregulares?",
-      "context": "En Santa Marta, el periódico escolar publicará una noticia sobre una salida familiar y el equipo elige la oración mejor escrita.\n**Expected_Success:** 0.56",
+      "context": "En Santa Marta, el periódico escolar publicará una noticia sobre una salida familiar y el equipo elige la oración mejor escrita.",
       "options": [
         {
           "letter": "A",

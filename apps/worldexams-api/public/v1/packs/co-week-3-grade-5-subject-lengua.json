@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v1",
       "statement": "Lee el dato: \"La hormiga guardaba granos de maíz y la cigarra cantaba todo el día\". Según el texto, ¿quiénes son los personajes y qué hace cada uno?",
-      "context": "En una escuela de Bogotá, Santiago lee una fábula donde una hormiga y una cigarra son las protagonistas.\n**Expected_Success:** 0.90",
+      "context": "En una escuela de Bogotá, Santiago lee una fábula donde una hormiga y una cigarra son las protagonistas.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v2",
       "statement": "¿Qué se entiende de manera directa de esa moraleja?",
-      "context": "En Cali, Valentina lee la moraleja escrita al final de una fábula: \"La constancia vence las dificultades\".\n**Expected_Success:** 0.88",
+      "context": "En Cali, Valentina lee la moraleja escrita al final de una fábula: \"La constancia vence las dificultades\".",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v3",
       "statement": "Lee el fragmento: \"La liebre corrió rápido, se acostó a dormir a mitad del camino y la tortuga siguió caminando sin detenerse\". ¿Qué enseñanza se deduce de estos hechos?",
-      "context": "En Manizales, Juan lee una fábula donde una liebre se burla de una tortuga y la reta a una carrera.\n**Expected_Success:** 0.85",
+      "context": "En Manizales, Juan lee una fábula donde una liebre se burla de una tortuga y la reta a una carrera.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v4",
       "statement": "Lee el fragmento: \"El zorro saltó tres veces, no alcanzó las uvas y se alejó diciendo que estaban verdes\". ¿Qué se deduce de la actitud del zorro?",
-      "context": "En Medellín, Mariana lee una fábula donde un zorro no alcanza unas uvas altas y dice que están verdes.\n**Expected_Success:** 0.83",
+      "context": "En Medellín, Mariana lee una fábula donde un zorro no alcanza unas uvas altas y dice que están verdes.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v5",
       "statement": "Lee la fábula breve: \"Dos amigos hallaron una bolsa con monedas y uno quiso guardarla solo. El otro propuso avisar para devolverla y al final la devolvieron\". ¿Qué moraleja se aplica a esta historia?",
-      "context": "En Cartagena, un grupo de quinto vende manillas de 3000 pesos para comprar libros de fábulas para el salón.\n**Expected_Success:** 0.80",
+      "context": "En Cartagena, un grupo de quinto vende manillas de 3000 pesos para comprar libros de fábulas para el salón.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v6",
       "statement": "Versión 1: el niño miente por diversión y nadie le cree cuando pide ayuda de verdad. Versión 2: el niño avisa con la verdad y los vecinos llegan a tiempo. ¿Qué analiza mejor el cambio entre versiones?",
-      "context": "En Pereira, el curso compara dos versiones de la fábula del pastorcito mentiroso.\n**Expected_Success:** 0.75",
+      "context": "En Pereira, el curso compara dos versiones de la fábula del pastorcito mentiroso.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v7",
       "statement": "¿Por qué los autores de fábulas ponen a hablar a los animales?",
-      "context": "En Bogotá, Santiago debe explicar por qué en las fábulas hablan los animales.\n**Expected_Success:** 0.72",
+      "context": "En Bogotá, Santiago debe explicar por qué en las fábulas hablan los animales.",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W03-fabula-moraleja-001-MASTERY-bundle-v8",
       "statement": "Historia: \"Dos palomas guardaron semillas juntas y en invierno las repartieron en partes iguales, así las dos sobrevivieron\". ¿Cuál es la mejor moraleja?",
-      "context": "En Cali, el curso quinto debe elegir la mejor moraleja para una fábula sobre dos palomas que comparten su comida en invierno.\n**Expected_Success:** 0.65",
+      "context": "En Cali, el curso quinto debe elegir la mejor moraleja para una fábula sobre dos palomas que comparten su comida en invierno.",
       "options": [
         {
           "letter": "A",

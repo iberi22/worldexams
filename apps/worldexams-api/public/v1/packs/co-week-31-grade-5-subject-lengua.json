@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v1",
       "statement": "La palabra \"árbol\" se separa en sílabas así: ár - bol. ¿Cuál de sus sílabas se pronuncia con mayor fuerza de voz?",
-      "context": "En un colegio de Bogotá, la profesora escribe la palabra \"árbol\" en el tablero y pide escuchar con atención dónde suena más fuerte la voz.\n**Expected_Success:** 0.90",
+      "context": "En un colegio de Bogotá, la profesora escribe la palabra \"árbol\" en el tablero y pide escuchar con atención dónde suena más fuerte la voz.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v2",
       "statement": "La palabra \"café\" se separa en sílabas como ca - fé. ¿Qué se entiende sobre su sílaba tónica y su tilde?",
-      "context": "En Medellín, Andrés lee en voz alta la palabra \"café\" en un aviso de la tienda y su hermana le pregunta por qué lleva tilde.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, Andrés lee en voz alta la palabra \"café\" en un aviso de la tienda y su hermana le pregunta por qué lleva tilde.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v3",
       "statement": "¿Cuál de las tres palabras es aguda, es decir, tiene la fuerza de voz en la última sílaba?",
-      "context": "En Cali, el profesor de quinto dicta tres palabras para clasificarlas según su sílaba tónica: \"violín\", \"lápiz\" y \"música\".\n**Expected_Success:** 0.85",
+      "context": "En Cali, el profesor de quinto dicta tres palabras para clasificarlas según su sílaba tónica: \"violín\", \"lápiz\" y \"música\".",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v4",
       "statement": "La palabra \"árbol\" es grave porque su fuerza de voz está en la penúltima sílaba. Según esa información, ¿cómo debe escribirse correctamente?",
-      "context": "En Barranquilla, una estudiante escribió \"arbol\" sin tilde en su cuaderno y la maestra le pidió corregir la palabra.\n**Expected_Success:** 0.83",
+      "context": "En Barranquilla, una estudiante escribió \"arbol\" sin tilde en su cuaderno y la maestra le pidió corregir la palabra.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v5",
       "statement": "¿Qué ocurre con las tildes de las tres palabras de la lista?",
-      "context": "En Pereira, Mateo y su mamá escriben la lista del mercado y anotan las palabras \"papá\", \"mamá\" y \"sábado\" para repasar tildes.\n**Expected_Success:** 0.80",
+      "context": "En Pereira, Mateo y su mamá escriben la lista del mercado y anotan las palabras \"papá\", \"mamá\" y \"sábado\" para repasar tildes.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v6",
       "statement": "Ana dice: \"examen se escribe sin tilde\". Luis dice: \"examen debe llevar tilde porque suena fuerte al final\". ¿Quién tiene razón y por qué?",
-      "context": "En Bucaramanga, dos estudiantes discuten sobre la forma correcta de escribir la palabra \"examen\" en la cartelera del salón.\n**Expected_Success:** 0.75",
+      "context": "En Bucaramanga, dos estudiantes discuten sobre la forma correcta de escribir la palabra \"examen\" en la cartelera del salón.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v7",
       "statement": "¿Qué se puede concluir sobre las tildes de las palabras \"café\" y \"más\" en el cartel?",
-      "context": "En Cartagena, un cartel del colegio dice: \"El café de la tienda es el más rico de la ciudad\".\n**Expected_Success:** 0.72",
+      "context": "En Cartagena, un cartel del colegio dice: \"El café de la tienda es el más rico de la ciudad\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W31-silabas-tonicas-acentuacion-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de las oraciones está escrita correctamente según las reglas de acentuación?",
-      "context": "En Bogotá, la profesora pide elegir la oración mejor escrita en cuanto a las tildes para publicarla en el periódico mural del curso.\n**Expected_Success:** 0.60",
+      "context": "En Bogotá, la profesora pide elegir la oración mejor escrita en cuanto a las tildes para publicarla en el periódico mural del curso.",
       "options": [
         {
           "letter": "A",

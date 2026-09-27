@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v1",
       "statement": "¿Qué es una oración?",
-      "context": "En el tablero de una escuela en Cali, la profesora escribe: «Los pájaros cantan al amanecer».\n**Expected_Success:** 0.90",
+      "context": "En el tablero de una escuela en Cali, la profesora escribe: «Los pájaros cantan al amanecer».",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v2",
       "statement": "¿Cuántas oraciones hay en el texto y qué las separa?",
-      "context": "Una alumna de Tunja escribe: «Mi hermano estudia mucho. Mis padres trabajan en Bogotá. Mis abuelos viven en Boyacá».\n**Expected_Success:** 0.87",
+      "context": "Una alumna de Tunja escribe: «Mi hermano estudia mucho. Mis padres trabajan en Bogotá. Mis abuelos viven en Boyacá».",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v3",
       "statement": "¿Qué tipos de oraciones aparecen según la intención del hablante?",
-      "context": "Una cartelera de Medellín dice: «¿Quién trajo el libro? ¡Por fin lo encontré! Vendrá mañana a la escuela».\n**Expected_Success:** 0.83",
+      "context": "Una cartelera de Medellín dice: «¿Quién trajo el libro? ¡Por fin lo encontré! Vendrá mañana a la escuela».",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v4",
       "statement": "¿Qué modalidad expresiva tiene cada oración?",
-      "context": "Un alumno de Pereira escribe tres líneas: «La ventana está abierta. La ventana no está abierta. ¿Está abierta la ventana?».\n**Expected_Success:** 0.80",
+      "context": "Un alumno de Pereira escribe tres líneas: «La ventana está abierta. La ventana no está abierta. ¿Está abierta la ventana?».",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v5",
       "statement": "¿Cuántas oraciones componen el enunciado y cómo se identifican?",
-      "context": "Un niño de Pasto narra: «Mis amigos vinieron a la casa, trajeron helado y jugamos toda la tarde».\n**Expected_Success:** 0.77",
+      "context": "Un niño de Pasto narra: «Mis amigos vinieron a la casa, trajeron helado y jugamos toda la tarde».",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v6",
       "statement": "¿Qué diferencia de intención hay entre las tres oraciones a pesar de compartir las mismas palabras?",
-      "context": "En un manual de Bucaramanga se lee: «Cierra la puerta. No la cierres. ¿Cierro la puerta?».\n**Expected_Success:** 0.73",
+      "context": "En un manual de Bucaramanga se lee: «Cierra la puerta. No la cierres. ¿Cierro la puerta?».",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v7",
       "statement": "¿Qué modalidades expresan las tres oraciones del cartel?",
-      "context": "Un cartel en Barranquilla propone: «Ojalá llueva pronto. Tal vez llueva el viernes. Quizás no llueva nunca».\n**Expected_Success:** 0.69",
+      "context": "Un cartel en Barranquilla propone: «Ojalá llueva pronto. Tal vez llueva el viernes. Quizás no llueva nunca».",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se relacionan las cuatro oraciones del texto y qué efecto produce la repetición?",
-      "context": "Un cuento infantil de Manizales dice: «El sol salió. Los pájaros cantaron. Las flores se abrieron. Todo estaba listo para el día».\n**Expected_Success:** 0.65",
+      "context": "Un cuento infantil de Manizales dice: «El sol salió. Los pájaros cantaron. Las flores se abrieron. Todo estaba listo para el día».",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v9",
       "statement": "¿Qué problema tiene esta oración y cómo se mejora?",
-      "context": "Una alumna de Neiva escribe: «Estudiamos mucho pero no aprobamos el examen aunque nos esforzamos igual».\n**Expected_Success:** 0.60",
+      "context": "Una alumna de Neiva escribe: «Estudiamos mucho pero no aprobamos el examen aunque nos esforzamos igual».",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W18-la-oracion-y-sus-partes-001-MASTERY-bundle-v10",
       "statement": "¿Qué efecto comunicativo logra el aviso al repetir la estructura condicional?",
-      "context": "Un aviso escolar en Cartagena dice: «Si traes el cuaderno, podrás entrar al salón. Si no traes el cuaderno, te quedarás afuera».\n**Expected_Success:** 0.55",
+      "context": "Un aviso escolar en Cartagena dice: «Si traes el cuaderno, podrás entrar al salón. Si no traes el cuaderno, te quedarás afuera».",
       "options": [
         {
           "letter": "A",

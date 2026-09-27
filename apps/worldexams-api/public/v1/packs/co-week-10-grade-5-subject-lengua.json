@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v1",
       "statement": "En una noticia, ¿qué es el titular?",
-      "context": "En Bogotá, el periódico escolar anuncia: \"Colegio siembra cien árboles en el humedal\".\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, el periódico escolar anuncia: \"Colegio siembra cien árboles en el humedal\".",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v2",
       "statement": "Lee la entrada: \"Ayer, los estudiantes de quinto de la escuela El Pinar ganaron el concurso de lectura en la biblioteca\". ¿Qué información entrega la entrada?",
-      "context": "En Medellín, una noticia cuenta que los estudiantes de quinto ganaron un concurso de lectura en la biblioteca del barrio.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, una noticia cuenta que los estudiantes de quinto ganaron un concurso de lectura en la biblioteca del barrio.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v3",
       "statement": "Según la entrada, ¿qué hecho ocurrió?",
-      "context": "En Cali, Santiago lee esta noticia sobre la jornada de limpieza del río: \"Cuarenta vecinos recogieron dos toneladas de residuos el sábado en el malecón\".\n**Expected_Success:** 0.85",
+      "context": "En Cali, Santiago lee esta noticia sobre la jornada de limpieza del río: \"Cuarenta vecinos recogieron dos toneladas de residuos el sábado en el malecón\".",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v4",
       "statement": "¿Qué función cumple el cuerpo de la noticia?",
-      "context": "En Cartagena, Mariana lee el cuerpo de una noticia sobre la feria del libro: detalles de los invitados, los horarios y los talleres para niños.\n**Expected_Success:** 0.83",
+      "context": "En Cartagena, Mariana lee el cuerpo de una noticia sobre la feria del libro: detalles de los invitados, los horarios y los talleres para niños.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v5",
       "statement": "¿Qué comunica el cierre de esta noticia?",
-      "context": "En Pereira, Juan lee el cierre de una noticia sobre la final de fútbol escolar: \"El próximo sábado el equipo viajará a Manizales para la semifinal regional\".\n**Expected_Success:** 0.80",
+      "context": "En Pereira, Juan lee el cierre de una noticia sobre la final de fútbol escolar: \"El próximo sábado el equipo viajará a Manizales para la semifinal regional\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v6",
       "statement": "Al comparar los textos, ¿cuál es una noticia y por qué?",
-      "context": "Valentina recortó dos textos de Manizales. Texto 1: \"Había una vez un dragón que volaba sobre el nevado y hablaba con los niños\". Texto 2: \"Ayer los bomberos controlaron un incendio en el mercado y no hubo heridos\".\n**Expected_Success:** 0.75",
+      "context": "Valentina recortó dos textos de Manizales. Texto 1: \"Había una vez un dragón que volaba sobre el nevado y hablaba con los niños\". Texto 2: \"Ayer los bomberos controlaron un incendio en el mercado y no hubo heridos\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el orden correcto de las partes de la noticia?",
-      "context": "Santiago mezcló las partes de una noticia de Bogotá sobre la ciclovía dominical: \"Los talleres inician a las nueve\" / \"Ciclovía dominical llega a tres barrios\" / \"Ayer la alcaldía confirmó la ruta y los horarios\".\n**Expected_Success:** 0.72",
+      "context": "Santiago mezcló las partes de una noticia de Bogotá sobre la ciclovía dominical: \"Los talleres inician a las nueve\" / \"Ciclovía dominical llega a tres barrios\" / \"Ayer la alcaldía confirmó la ruta y los horarios\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W10-noticia-estructura-001-MASTERY-bundle-v8",
       "statement": "¿Cuál noticia está mejor construida?",
-      "context": "Mariana debe elegir la mejor noticia para el periódico escolar de Cali sobre la huerta del colegio.\n**Expected_Success:** 0.65",
+      "context": "Mariana debe elegir la mejor noticia para el periódico escolar de Cali sobre la huerta del colegio.",
       "options": [
         {
           "letter": "A",

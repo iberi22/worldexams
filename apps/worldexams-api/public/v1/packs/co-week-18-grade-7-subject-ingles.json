@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W18-connectors-sequence-006-v1",
       "statement": "What did the student do immediately after meeting friends?",
-      "context": "A student describing their Saturday.\n\"First, I went to the park. Next, I met my friends at the mall. After that, we watched a movie. Finally, I returned home at 9:00 PM.\"",
+      "context": "A student describing their Saturday.\n\n\"First, I went to the park. Next, I met my friends at the mall. After that, we watched a movie. Finally, I returned home at 9:00 PM.\"",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-ING-7-2026-W18-connectors-sequence-008-v1",
       "statement": "What is the correct logical order for these sentences?",
-      "context": "Reconstructing a scrambled sequence.\n1. Finally, we ate the cake.\n2. First, my mom bought the ingredients.\n3. Then, she mixed everything and baked it.",
+      "context": "Reconstructing a scrambled sequence.\n\n1. Finally, we ate the cake.\n\n2. First, my mom bought the ingredients.\n\n3. Then, she mixed everything and baked it.",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-ING-7-2026-W18-connectors-sequence-010-v1",
       "statement": "If we add the connector \"Finally\" to these instructions, which step should it belong to?",
-      "context": "Evaluating a set of instructions.\n\"To use the computer: 1. Plug it in. 2. Press the power button. 3. Enter your password. 4. Start your work.\"",
+      "context": "Evaluating a set of instructions.\n\n\"To use the computer: 1. Plug it in. 2. Press the power button. 3. Enter your password. 4. Start your work.\"",
       "options": [
         {
           "letter": "A",

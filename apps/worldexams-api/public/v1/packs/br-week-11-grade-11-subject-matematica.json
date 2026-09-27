@@ -10,7 +10,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q01",
       "statement": "Seja f(x) = 3x - 5. Qual e o valor de f(4)?",
-      "context": "Preparacao ENEM: funcao afim linear.\n**Expected_Success:** 0.85",
+      "context": "Preparacao ENEM: funcao afim linear.",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q02",
       "statement": "Se f(x)=2x+3 e g(x)=x-1, f(2)+g(5)?",
-      "context": "Aula sobre funcoes afins praticas.\n**Expected_Success:** 0.78",
+      "context": "Aula sobre funcoes afins praticas.",
       "options": [
         {
           "letter": "A",
@@ -100,7 +100,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q03",
       "statement": "Grafico de f(x) = -3x + 9 intersecta eixo x em:",
-      "context": "Simulado ENEM: graficos lineares.\n**Expected_Success:** 0.75",
+      "context": "Simulado ENEM: graficos lineares.",
       "options": [
         {
           "letter": "A",
@@ -145,7 +145,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q04",
       "statement": "Raiz de f(x) = 5x - 15:",
-      "context": "Laboratorio: modelagem com funcoes.\n**Expected_Success:** 0.82",
+      "context": "Laboratorio: modelagem com funcoes.",
       "options": [
         {
           "letter": "D",
@@ -190,7 +190,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q05",
       "statement": "Se f(x)=x/4+3, f(8)?",
-      "context": "Revisao vestibular: graficos.\n**Expected_Success:** 0.8",
+      "context": "Revisao vestibular: graficos.",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q06",
       "statement": "Para que k a funcao f(x)=(k-4)x+7 e decrescente?",
-      "context": "Aula avancada: crescimento.\n**Expected_Success:** 0.7",
+      "context": "Aula avancada: crescimento.",
       "options": [
         {
           "letter": "C",
@@ -280,7 +280,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q07",
       "statement": "f(x)=4x-3, g(x)=2x+1. f(3)-g(2)?",
-      "context": "Preparacao ENEM: operacoes.\n**Expected_Success:** 0.76",
+      "context": "Preparacao ENEM: operacoes.",
       "options": [
         {
           "letter": "A",
@@ -325,7 +325,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q08",
       "statement": "Reta por (0,-2) e (3,7). a+b?",
-      "context": "Simulado ENEM: interpretacao.\n**Expected_Success:** 0.68",
+      "context": "Simulado ENEM: interpretacao.",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q09",
       "statement": "f(x)=6x+1. f(0)+f(1)+f(2)?",
-      "context": "Laboratorio: problemas numericos.\n**Expected_Success:** 0.77",
+      "context": "Laboratorio: problemas numericos.",
       "options": [
         {
           "letter": "B",
@@ -415,7 +415,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q10",
       "statement": "Taxi: bandeirada R$4,50 + R$3,00/km. Expressao C(x)?",
-      "context": "Problema contextualizado custos.\n**Expected_Success:** 0.65",
+      "context": "Problema contextualizado custos.",
       "options": [
         {
           "letter": "C",
@@ -460,7 +460,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q11",
       "statement": "Coeficiente angular de f(x)=7x-2?",
-      "context": "Revisao conceitos fundamentais.\n**Expected_Success:** 0.86",
+      "context": "Revisao conceitos fundamentais.",
       "options": [
         {
           "letter": "B",
@@ -505,7 +505,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q12",
       "statement": "f(x)=-x+5. f(3)?",
-      "context": "Avaliacao de funcoes.\n**Expected_Success:** 0.74",
+      "context": "Avaliacao de funcoes.",
       "options": [
         {
           "letter": "D",
@@ -550,7 +550,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q13",
       "statement": "f(x)=8x-24. x para f(x)=0?",
-      "context": "Determinacao de raiz.\n**Expected_Success:** 0.79",
+      "context": "Determinacao de raiz.",
       "options": [
         {
           "letter": "A",
@@ -595,7 +595,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q14",
       "statement": "k tal que f(x)=(3k-6)x+2 e constante?",
-      "context": "Parametros que afetam funcao.\n**Expected_Success:** 0.67",
+      "context": "Parametros que afetam funcao.",
       "options": [
         {
           "letter": "C",
@@ -640,7 +640,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q15",
       "statement": "Reta f(x)=2x+4 passa por quais pontos?",
-      "context": "Pontos notaveis da reta.\n**Expected_Success:** 0.75",
+      "context": "Pontos notaveis da reta.",
       "options": [
         {
           "letter": "A",
@@ -685,7 +685,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q16",
       "statement": "f(x)=3x+1 e g(x)=-2x+6 se igualam em x=?",
-      "context": "Comparacao entre funcoes.\n**Expected_Success:** 0.6",
+      "context": "Comparacao entre funcoes.",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q17",
       "statement": "Intercepto y de f(x)=(2/3)x-4?",
-      "context": "Interceptos da funcao.\n**Expected_Success:** 0.65",
+      "context": "Interceptos da funcao.",
       "options": [
         {
           "letter": "D",
@@ -775,7 +775,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q18",
       "statement": "f(x)=10x-5. f(1/2)?",
-      "context": "Fracionario.\n**Expected_Success:** 0.8",
+      "context": "Fracionario.",
       "options": [
         {
           "letter": "C",
@@ -820,7 +820,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q19",
       "statement": "f(1)=5, f(3)=11. f(0)?",
-      "context": "Funcao por dois pontos.\n**Expected_Success:** 0.62",
+      "context": "Funcao por dois pontos.",
       "options": [
         {
           "letter": "B",
@@ -865,7 +865,7 @@
     {
       "id": "BR-MAT-3EM-2026-W11-funcao-afim-linear-001-MASTERY-q20",
       "statement": "Resolva 3x-7 > 2x+1.",
-      "context": "Inequacao linear.\n**Expected_Success:** 0.58",
+      "context": "Inequacao linear.",
       "options": [
         {
           "letter": "D",

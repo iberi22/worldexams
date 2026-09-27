@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v1",
       "statement": "¿Cómo están ordenadas las palabras en un diccionario?",
-      "context": "En Bogotá, la profesora abre el diccionario del salón y muestra cómo están organizadas las palabras.\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, la profesora abre el diccionario del salón y muestra cómo están organizadas las palabras.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v2",
       "statement": "¿Para qué sirve el diccionario?",
-      "context": "En Medellín, Santiago quiere saber qué significa la palabra \"abeja\" y busca ayuda en su salón.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, Santiago quiere saber qué significa la palabra \"abeja\" y busca ayuda en su salón.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v3",
       "statement": "¿Cuál de estas palabras aparece primero en orden alfabético?",
-      "context": "En Cali, Mariana copia cuatro palabras del tablero y debe ordenarlas como aparecerían en el diccionario.\n**Expected_Success:** 0.84",
+      "context": "En Cali, Mariana copia cuatro palabras del tablero y debe ordenarlas como aparecerían en el diccionario.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v4",
       "statement": "¿Encuentra la palabra \"tortuga\" en esa página?",
-      "context": "En Cartagena, Juan busca \"tortuga\" y abre el diccionario en una página cuyas palabras guía son \"tomate\" y \"tren\".\n**Expected_Success:** 0.80",
+      "context": "En Cartagena, Juan busca \"tortuga\" y abre el diccionario en una página cuyas palabras guía son \"tomate\" y \"tren\".",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v5",
       "statement": "Según esa entrada del diccionario, ¿qué es la brisa?",
-      "context": "En Barranquilla, el diccionario del colegio dice: \"brisa: viento suave que sopla en la costa\".\n**Expected_Success:** 0.76",
+      "context": "En Barranquilla, el diccionario del colegio dice: \"brisa: viento suave que sopla en la costa\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v6",
       "statement": "Al analizar el orden, ¿cuál de estas palabras NO aparecería en esa página?",
-      "context": "En Bucaramanga, las palabras guía de una página del diccionario son \"gato\" y \"girasol\".\n**Expected_Success:** 0.70",
+      "context": "En Bucaramanga, las palabras guía de una página del diccionario son \"gato\" y \"girasol\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v7",
       "statement": "¿Cuál es el orden alfabético correcto de las tres palabras?",
-      "context": "En Pereira, los estudiantes comparan tres palabras que empiezan igual: \"casa\", \"cama\" y \"caza\".\n**Expected_Success:** 0.63",
+      "context": "En Pereira, los estudiantes comparan tres palabras que empiezan igual: \"casa\", \"cama\" y \"caza\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W39-diccionario-orden-alfabetico-001-MASTERY-bundle-v8",
       "statement": "¿Cuál estrategia es la mejor para encontrar la palabra rápidamente?",
-      "context": "En Bogotá, en el concurso del diccionario deben hallar la palabra \"mariposa\" en el menor tiempo posible.\n**Expected_Success:** 0.56",
+      "context": "En Bogotá, en el concurso del diccionario deben hallar la palabra \"mariposa\" en el menor tiempo posible.",
       "options": [
         {
           "letter": "A",
