@@ -608,7 +608,7 @@
     {
       "id": "CO-CN-11-2026-W17-termoquimica-001-MASTERY-bundle-v14",
       "statement": "Si la pendiente de la recta $\\ln K$ vs $1/T$ es negativa, ¿qué se concluye sobre la entalpía de la reacción?",
-      "context": "Se grafica la variación de la constante de equilibrio $K_{eq}$ en función de la temperatura ($1/T$) mediante la ecuación de van 't Hoff ($\n \\frac{d \\ln K}{d(1/T)} = -\\frac{\\Delta H^circ}{R}$).",
+      "context": "Se grafica la variación de la constante de equilibrio $K_{eq}$ en función de la temperatura ($1/T$) mediante la ecuación de van 't Hoff ($\n\n\\frac{d \\ln K}{d(1/T)} = -\\frac{\\Delta H^circ}{R}$).",
       "options": [
         {
           "letter": "A",

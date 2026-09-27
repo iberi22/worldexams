@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v1",
       "statement": "¿Qué es la idea principal de un texto?",
-      "context": "En Bogotá, la profesora explica que todo párrafo tiene una idea más importante que las demás.\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, la profesora explica que todo párrafo tiene una idea más importante que las demás.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la idea principal del texto sobre el cóndor?",
-      "context": "En Medellín, los niños leen: \"El cóndor de los Andes es un ave grande que cuida sus polluelos en los riscos. Come animales muertos y vuela muy alto\".\n**Expected_Success:** 0.85",
+      "context": "En Medellín, los niños leen: \"El cóndor de los Andes es un ave grande que cuida sus polluelos en los riscos. Come animales muertos y vuela muy alto\".",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v3",
       "statement": "En el texto de la huerta, ¿cuál es una idea secundaria?",
-      "context": "En Cali, Santiago lee: \"La huerta escolar produce tomate y lechuga. Los estudiantes riegan cada mañana. La cosecha se vende en la feria por dos mil pesos la bolsa\".\n**Expected_Success:** 0.80",
+      "context": "En Cali, Santiago lee: \"La huerta escolar produce tomate y lechuga. Los estudiantes riegan cada mañana. La cosecha se vende en la feria por dos mil pesos la bolsa\".",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el mejor resumen del texto sobre el agua?",
-      "context": "En Cartagena, Mariana lee: \"El agua es vida. Debemos cerrar la llave al cepillarnos. En casa recogemos agua lluvia para las plantas\".\n**Expected_Success:** 0.78",
+      "context": "En Cartagena, Mariana lee: \"El agua es vida. Debemos cerrar la llave al cepillarnos. En casa recogemos agua lluvia para las plantas\".",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v5",
       "statement": "¿Qué oración NO debe ir en el resumen del texto del café?",
-      "context": "En Pereira, Juan lee: \"El café de nuestras montañas es famoso. Los cafeteros recogen el grano rojo. Luego lo secan al sol y lo venden a la cooperativa\".\n**Expected_Success:** 0.75",
+      "context": "En Pereira, Juan lee: \"El café de nuestras montañas es famoso. Los cafeteros recogen el grano rojo. Luego lo secan al sol y lo venden a la cooperativa\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v6",
       "statement": "Al analizar el texto, ¿qué relación hay entre sus ideas?",
-      "context": "En Manizales, Valentina lee: \"La lectura diaria mejora la comprensión. Quienes leen veinte minutos comprenden mejor las instrucciones. Por eso la biblioteca presta libros gratis\".\n**Expected_Success:** 0.70",
+      "context": "En Manizales, Valentina lee: \"La lectura diaria mejora la comprensión. Quienes leen veinte minutos comprenden mejor las instrucciones. Por eso la biblioteca presta libros gratis\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v7",
       "statement": "Al comparar los resúmenes, ¿cuál es fiel al texto y por qué?",
-      "context": "En Bucaramanga, dos estudiantes resumen el mismo texto sobre el Chicamocha. Sara escribe: \"El cañón del Chicamocha es un lugar turístico que debemos cuidar\". Diego escribe: \"El Chicamocha queda en Santander y me gusta el helado\".\n**Expected_Success:** 0.68",
+      "context": "En Bucaramanga, dos estudiantes resumen el mismo texto sobre el Chicamocha. Sara escribe: \"El cañón del Chicamocha es un lugar turístico que debemos cuidar\". Diego escribe: \"El Chicamocha queda en Santander y me gusta el helado\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle-v8",
       "statement": "¿Cuál título resume mejor el texto de la ruana?",
-      "context": "En Tunja, el curso debe elegir el mejor título-resumen para un texto sobre la ruana boyacense: \"La ruana nos abriga del frío. Las abuelas la tejen con lana de oveja. Usarla mantiene viva nuestra tradición\".\n**Expected_Success:** 0.60",
+      "context": "En Tunja, el curso debe elegir el mejor título-resumen para un texto sobre la ruana boyacense: \"La ruana nos abriga del frío. Las abuelas la tejen con lana de oveja. Usarla mantiene viva nuestra tradición\".",
       "options": [
         {
           "letter": "A",

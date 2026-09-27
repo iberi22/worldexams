@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v1",
       "statement": "La palabra es \"contento\". ¿Cuál es un sinónimo de \"contento\"?",
-      "context": "En un colegio de Bogotá, la profesora pide buscar una palabra parecida a contento en el diccionario.\n**Expected_Success:** 0.90",
+      "context": "En un colegio de Bogotá, la profesora pide buscar una palabra parecida a contento en el diccionario.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v2",
       "statement": "La palabra es \"grande\". ¿Cuál es un antónimo de \"grande\"?",
-      "context": "En Medellín, Santiago juega a decir lo contrario de las palabras que dice Mariana.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, Santiago juega a decir lo contrario de las palabras que dice Mariana.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v3",
       "statement": "Lee la frase: \"El parque es bonito y también es hermoso por sus flores\". ¿Qué palabra puede reemplazar a \"bonito\" sin cambiar el sentido?",
-      "context": "En Cali, Valentina escribe una carta y quiere evitar repetir la palabra \"bonito\".\n**Expected_Success:** 0.85",
+      "context": "En Cali, Valentina escribe una carta y quiere evitar repetir la palabra \"bonito\".",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v4",
       "statement": "Lee la frase: \"El mar estaba tranquilo, sin olas fuertes\". ¿Cuál es un antónimo adecuado para \"tranquilo\" en este contexto?",
-      "context": "En Cartagena, Juan describe el mar en su cuaderno de viaje.\n**Expected_Success:** 0.83",
+      "context": "En Cartagena, Juan describe el mar en su cuaderno de viaje.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v5",
       "statement": "Lee la frase: \"Mariana compró dos lápices baratos y recibió 1000 pesos de devuelta\". ¿Qué palabra es sinónima de \"baratos\" en la frase?",
-      "context": "En una tienda de Manizales, Mariana compra lápices por 2000 pesos cada uno y lleva dos con un billete de 5000 pesos.\n**Expected_Success:** 0.80",
+      "context": "En una tienda de Manizales, Mariana compra lápices por 2000 pesos cada uno y lleva dos con un billete de 5000 pesos.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v6",
       "statement": "Frase 1: \"El niño es delgado\". Frase 2: \"El niño es flaco y se ve enfermo\". ¿Qué diferencia hay entre \"delgado\" y \"flaco\" aquí?",
-      "context": "En Pereira, el curso analiza dos frases que parecen iguales pero no lo son.\n**Expected_Success:** 0.75",
+      "context": "En Pereira, el curso analiza dos frases que parecen iguales pero no lo son.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v7",
       "statement": "Lee el texto: \"La profesora nos ___ que también debemos cuidar la ortografía\". ¿Qué sinónimo completa mejor la frase?",
-      "context": "En Bogotá, Santiago debe completar un texto sin repetir la palabra \"decir\".\n**Expected_Success:** 0.72",
+      "context": "En Bogotá, Santiago debe completar un texto sin repetir la palabra \"decir\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W05-sinonimos-antonimos-001-MASTERY-bundle-v8",
       "statement": "El cartel dice: \"Cuida el agua hoy para tener un mañana mejor\". ¿Qué par de antónimos resume mejor el mensaje del cartel?",
-      "context": "En Cali, Mariana debe elegir el mejor par de antónimos para un cartel sobre el cuidado del agua.\n**Expected_Success:** 0.65",
+      "context": "En Cali, Mariana debe elegir el mejor par de antónimos para un cartel sobre el cuidado del agua.",
       "options": [
         {
           "letter": "A",

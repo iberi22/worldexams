@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v1",
       "statement": "Lee la descripción: \"Mi abuela es bajita, de cabello blanco recogido y ojos alegres\". Según el texto, ¿cómo es la abuela?",
-      "context": "En Bogotá, Mariana describe a su abuela para una tarea del colegio.\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, Mariana describe a su abuela para una tarea del colegio.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v2",
       "statement": "Lee la descripción: \"El patio es amplio, con árboles grandes, bancas de colores y una cancha pintada de blanco\". ¿Qué se entiende del patio?",
-      "context": "En Medellín, Santiago describe el patio de su colegio en una carta para su primo.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, Santiago describe el patio de su colegio en una carta para su primo.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v3",
       "statement": "Lee el fragmento: \"Santiago llega corriendo a ayudar, comparte sus colores y anima a todos cuando están tristes\". ¿Qué cualidad se deduce de Santiago?",
-      "context": "En Cali, Juan lee sobre un niño que ayuda a sus vecinos después del colegio.\n**Expected_Success:** 0.85",
+      "context": "En Cali, Juan lee sobre un niño que ayuda a sus vecinos después del colegio.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v4",
       "statement": "Lee el fragmento: \"El cielo se puso naranja, la brisa era fresca y las olas sonaban suaves\". ¿Qué ambiente se deduce del fragmento?",
-      "context": "En Cartagena, Valentina describe la playa al atardecer en su diario de vacaciones.\n**Expected_Success:** 0.83",
+      "context": "En Cartagena, Valentina describe la playa al atardecer en su diario de vacaciones.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v5",
       "statement": "Lee el fragmento: \"La vendedora, una señora paciente de voz dulce, le explicó con calma que la devuelta era de 4000 pesos\". ¿Qué se deduce de la vendedora y de la cuenta?",
-      "context": "En una papelería de Pereira, Mariana compra un cuaderno de 6000 pesos y paga con un billete de 10000 pesos.\n**Expected_Success:** 0.80",
+      "context": "En una papelería de Pereira, Mariana compra un cuaderno de 6000 pesos y paga con un billete de 10000 pesos.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v6",
       "statement": "Descripción 1: \"Juan es alto\". Descripción 2: \"Juan es alto como un guadual joven, corre rápido y también ayuda a sus amigos\". ¿Por qué la segunda descripción es mejor?",
-      "context": "En Manizales, el curso analiza dos descripciones del mismo niño.\n**Expected_Success:** 0.75",
+      "context": "En Manizales, el curso analiza dos descripciones del mismo niño.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v7",
       "statement": "Ana dice: \"El salón es frío y oscuro, con pupitres rotos\". Luis dice: \"El salón es luminoso y ordenado, con carteleras de colores\". ¿Qué se analiza de estas descripciones?",
-      "context": "En Bogotá, dos estudiantes describen el mismo salón de clase.\n**Expected_Success:** 0.72",
+      "context": "En Bogotá, dos estudiantes describen el mismo salón de clase.",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W04-descripcion-personajes-ambientes-001-MASTERY-bundle-v8",
       "statement": "¿Cuál descripción invita mejor a visitar la plaza?",
-      "context": "En Cali, el periódico escolar debe elegir la mejor descripción de la plaza de mercado para invitar a visitarla.\n**Expected_Success:** 0.65",
+      "context": "En Cali, el periódico escolar debe elegir la mejor descripción de la plaza de mercado para invitar a visitarla.",
       "options": [
         {
           "letter": "A",

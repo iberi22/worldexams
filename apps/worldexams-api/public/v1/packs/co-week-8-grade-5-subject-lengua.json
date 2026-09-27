@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v1",
       "statement": "En la oración \"Valentina desayuna arepa con queso\", ¿cuál palabra es el verbo?",
-      "context": "En Medellín, Santiago cuenta lo que hace su familia cada mañana antes de salir hacia la escuela.\n**Expected_Success:** 0.90",
+      "context": "En Medellín, Santiago cuenta lo que hace su familia cada mañana antes de salir hacia la escuela.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v2",
       "statement": "Lee la oración: \"Ayer jugamos fútbol en el parque\". ¿En qué tiempo está el verbo \"jugamos\"?",
-      "context": "Juan escribe en su diario en Bogotá lo que hizo ayer en el parque Simón Bolívar con sus primos.\n**Expected_Success:** 0.88",
+      "context": "Juan escribe en su diario en Bogotá lo que hizo ayer en el parque Simón Bolívar con sus primos.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v3",
       "statement": "¿Cuál oración está escrita en tiempo futuro?",
-      "context": "En Cali, Mariana promete a su mamá que ordenará su cuarto después del almuerzo.\n**Expected_Success:** 0.85",
+      "context": "En Cali, Mariana promete a su mamá que ordenará su cuarto después del almuerzo.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v4",
       "statement": "Completa la oración en pasado: \"Nosotros ______ a la quebrada el domingo\".",
-      "context": "En Manizales, los estudiantes narran cada lunes lo que hicieron el fin de semana en la vereda.\n**Expected_Success:** 0.83",
+      "context": "En Manizales, los estudiantes narran cada lunes lo que hicieron el fin de semana en la vereda.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v5",
       "statement": "Si Valentina habla de varias compañeras, ¿cuál es la forma correcta del verbo en presente?",
-      "context": "En Cartagena, Valentina describe su rutina con cinco mil pesos para las onces: \"Yo compro jugo y pan\".\n**Expected_Success:** 0.80",
+      "context": "En Cartagena, Valentina describe su rutina con cinco mil pesos para las onces: \"Yo compro jugo y pan\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v6",
       "statement": "Al analizar la oración de Santiago, ¿qué error hay en el uso del verbo?",
-      "context": "Santiago escribió en Pereira: \"Mañana fuimos a la biblioteca a leer cuentos\".\n**Expected_Success:** 0.75",
+      "context": "Santiago escribió en Pereira: \"Mañana fuimos a la biblioteca a leer cuentos\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v7",
       "statement": "¿Cuál texto mantiene la coherencia en el uso de los tiempos verbales?",
-      "context": "Dos estudiantes de Bogotá escriben sobre el partido. Texto 1: \"Ayer el equipo juega muy bien y gana el torneo\". Texto 2: \"Ayer el equipo jugó muy bien y ganó el torneo\".\n**Expected_Success:** 0.72",
+      "context": "Dos estudiantes de Bogotá escriben sobre el partido. Texto 1: \"Ayer el equipo juega muy bien y gana el torneo\". Texto 2: \"Ayer el equipo jugó muy bien y ganó el torneo\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W08-verbo-tiempos-basicos-001-MASTERY-bundle-v8",
       "statement": "¿Cuál párrafo usa mejor los verbos en pasado?",
-      "context": "Mariana debe elegir el mejor párrafo en pasado para el periódico escolar de Cali sobre la jornada deportiva.\n**Expected_Success:** 0.65",
+      "context": "Mariana debe elegir el mejor párrafo en pasado para el periódico escolar de Cali sobre la jornada deportiva.",
       "options": [
         {
           "letter": "A",

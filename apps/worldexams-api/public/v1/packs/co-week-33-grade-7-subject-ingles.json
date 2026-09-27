@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W33-directions-city-006-v1",
       "statement": "Where is the Library located?",
-      "context": "A simple map description.\n\"You are at the Bank. Go straight and turn left on Main Street. The Library is on the corner, across from the park.\"",
+      "context": "A simple map description.\n\n\"You are at the Bank. Go straight and turn left on Main Street. The Library is on the corner, across from the park.\"",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-ING-7-2026-W33-directions-city-009-v1",
       "statement": "What two places are located together?",
-      "context": "Analyzing a dialogue for destination identification.\nStranger: \"Is there a bakery near here?\"\nYou: \"Yes, go straight for one block and it's on your right, next to the post office.\"",
+      "context": "Analyzing a dialogue for destination identification.\n\nStranger: \"Is there a bakery near here?\"\n\nYou: \"Yes, go straight for one block and it's on your right, next to the post office.\"",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-ING-7-2026-W33-directions-city-010-v1",
       "statement": "Why are these directions NOT good?",
-      "context": "Evaluating the clarity of directions.\n\"To get to the museum, just walk until you see a big tree and then turn somewhere near the red house.\"",
+      "context": "Evaluating the clarity of directions.\n\n\"To get to the museum, just walk until you see a big tree and then turn somewhere near the red house.\"",
       "options": [
         {
           "letter": "A",
