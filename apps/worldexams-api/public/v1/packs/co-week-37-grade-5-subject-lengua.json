@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v1",
       "statement": "¿Qué caracteriza a un cuento de misterio?",
-      "context": "En Bogotá, la profesora lee en clase un cuento donde desaparece una lonchera y todos buscan qué pasó.\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, la profesora lee en clase un cuento donde desaparece una lonchera y todos buscan qué pasó.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v2",
       "statement": "¿Para qué sirve una pista dentro de un cuento de misterio?",
-      "context": "En el cuento, Ana encuentra una huella de barro junto a su pupitre y la señala al grupo.\n**Expected_Success:** 0.88",
+      "context": "En el cuento, Ana encuentra una huella de barro junto a su pupitre y la señala al grupo.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v3",
       "statement": "¿Qué pista señala directamente al responsable?",
-      "context": "En Medellín, el cuento dice: \"Después del aguacero, solo Nicolás tenía las botas llenas de barro\".\n**Expected_Success:** 0.84",
+      "context": "En Medellín, el cuento dice: \"Después del aguacero, solo Nicolás tenía las botas llenas de barro\".",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es el orden correcto de los hechos del cuento?",
-      "context": "En Cali, el cuento narra así: primero desaparece la lonchera, luego Ana ve una huella y al final la lonchera aparece en el patio.\n**Expected_Success:** 0.80",
+      "context": "En Cali, el cuento narra así: primero desaparece la lonchera, luego Ana ve una huella y al final la lonchera aparece en el patio.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v5",
       "statement": "¿Qué pudo causar la caída del cuaderno?",
-      "context": "En Cartagena, el narrador escribe: \"El viento movió la cortina y el cuaderno cayó al piso\".\n**Expected_Success:** 0.76",
+      "context": "En Cartagena, el narrador escribe: \"El viento movió la cortina y el cuaderno cayó al piso\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v6",
       "statement": "Al analizar los dos argumentos, ¿cuál es más confiable en un misterio?",
-      "context": "En Barranquilla, dos amigos investigan. Sofía dice que fue Pedro \"porque lo vio raro\", y Andrés dice que fue Pedro porque halló su nombre firmado en la lonchera.\n**Expected_Success:** 0.70",
+      "context": "En Barranquilla, dos amigos investigan. Sofía dice que fue Pedro \"porque lo vio raro\", y Andrés dice que fue Pedro porque halló su nombre firmado en la lonchera.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v7",
       "statement": "¿Qué debes hacer al analizar esa contradicción?",
-      "context": "En Bucaramanga, el cuento dice que la puerta siempre está cerrada, pero un testigo afirma que vio a alguien salir por ella.\n**Expected_Success:** 0.63",
+      "context": "En Bucaramanga, el cuento dice que la puerta siempre está cerrada, pero un testigo afirma que vio a alguien salir por ella.",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W37-cuento-misterio-pistas-escolares-001-MASTERY-bundle-v8",
       "statement": "¿Cuál final resuelve mejor el enigma con las pistas dadas?",
-      "context": "En Pereira, el club de lectura elige el mejor final para el misterio de la lonchera, usando las pistas que aparecieron en el cuento.\n**Expected_Success:** 0.56",
+      "context": "En Pereira, el club de lectura elige el mejor final para el misterio de la lonchera, usando las pistas que aparecieron en el cuento.",
       "options": [
         {
           "letter": "A",
