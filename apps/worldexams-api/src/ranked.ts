@@ -20,7 +20,7 @@ const PLACEHOLDER_RE = /Pregunta de prueba \d+|Explicaci[oó]n detallada de la p
 const RANKED_SESSION_TTL_S = 90 * 60; // 90 min
 
 // Mulberry32 PRNG
-function mulberry32(a: number) {
+export function mulberry32(a: number) {
   return function () {
     let t = (a += 0x6d2b79f5);
     t = Math.imul(t ^ (t >>> 15), t | 1);
@@ -29,7 +29,7 @@ function mulberry32(a: number) {
   };
 }
 
-function shuffle<T>(array: T[], prng: () => number) {
+export function shuffle<T>(array: T[], prng: () => number) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(prng() * (i + 1));
     [array[i], array[j]] = [array[j], array[i]];
@@ -423,7 +423,7 @@ export async function routeRanked(
       score: row.score,
       correct: row.correct,
       answered: row.answered,
-      createdAt: row.created_at,
+      createdAt: Number.isFinite(Number(row.created_at)) ? new Date(Number(row.created_at) * 1000).toISOString() : null,
     }));
 
     return json(
