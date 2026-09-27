@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T20:44:36.561Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un diario personal?",
+      "context": "En el colegio de Bucaramanga, la profesora de sexto grado muestra unas páginas donde alguien escribió: «Hoy llovió toda la mañana y me mojé los zapatos al llegar al colegio».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto en el que una persona cuenta con su propia voz lo que vive cada día",
+          "is_correct": true,
+          "feedback": "Es correcta porque el diario personal presenta la experiencia del autor desde una voz cercana y propia."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que cuenta hechos que le ocurrieron a otras personas hace muchos años",
+          "is_correct": false,
+          "feedback": "El diario registra la experiencia de quien escribe, no la vida de otras personas."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto breve que declara los principios que guían a un grupo de personas",
+          "is_correct": false,
+          "feedback": "La declaración de principios pertenece al manifiesto, no al registro de lo que se vive a diario."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que informa hechos de interés público sin dar ninguna opinión",
+          "is_correct": false,
+          "feedback": "La información sin valoración corresponde a la noticia; el diario personal expresa lo que vivió su autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diario personal es un género autobiográfico que registra lo que su autor vive, piensa y siente en cada momento. Se escribe con una voz cercana, con marcas del tiempo y con una mirada propia, y por eso permite conocer a la persona que escribe desde adentro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v2",
+      "statement": "¿Qué se entiende en esa entrada del diario sobre lo que sintió la estudiante?",
+      "context": "En Medellín, una estudiante de sexto grado escribe en su diario: «Mamá llegó tarde y no pudo llevarme al recital; me molesté y no le dije nada».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la estudiante quedó tranquila porque el recital no era importante para ella",
+          "is_correct": false,
+          "feedback": "La frase indica fastidio y no calma, porque la estudiante se molestó y decidió callar."
+        },
+        {
+          "letter": "B",
+          "text": "Que la estudiante se molestó, aunque decidió no decírselo a su madre",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto dice que se molestó y que no contó nada, lo que revela una reacción de fastidio contenido."
+        },
+        {
+          "letter": "C",
+          "text": "Que la estudiante entendió que su madre no tuvo tiempo por el trabajo",
+          "is_correct": false,
+          "feedback": "El diario no menciona el trabajo ni explica las razones de la demora, así que esa conclusión no aparece en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que la estudiante le pidió ayuda a su madre y las dos resolvieron el asunto del recital",
+          "is_correct": false,
+          "feedback": "El diario afirma lo contrario: la estudiante no le contó nada a su madre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender un diario personal exige reparar en la distancia entre lo que se dice y lo que se calla. En esta entrada el fastidio aparece en una acción concreta, y el silencio con la madre muestra que la estudiante decidió guardarlo para sí misma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v3",
+      "statement": "¿Qué género debe elegir para escribir ese registro con su propia voz?",
+      "context": "En Bogotá, un estudiante de sexto grado quiere dejar registro de cómo se siente durante una semana de exámenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia, porque informa hechos con datos comprobables",
+          "is_correct": false,
+          "feedback": "La noticia sirve para informar a otros con datos, no para escribir sobre lo que uno siente cada día."
+        },
+        {
+          "letter": "B",
+          "text": "El manifiesto, porque declara principios ante una comunidad",
+          "is_correct": false,
+          "feedback": "El manifiesto declara posiciones colectivas y no registra la experiencia íntima de un estudiante."
+        },
+        {
+          "letter": "C",
+          "text": "El diario personal, porque permite narrar lo que vivió cada día y lo que sintió",
+          "is_correct": true,
+          "feedback": "Es correcta porque el registro de lo cotidiano con lo que se siente es propio del diario personal."
+        },
+        {
+          "letter": "D",
+          "text": "La crónica, porque cuenta hechos de una ciudad con personajes anónimos",
+          "is_correct": false,
+          "feedback": "La crónica registra hechos generales y anónimos, y no sustituye un registro personal de sentimientos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El género se escoge según lo que la persona quiere hacer con el texto. Cuando el propósito es dejar constancia de lo vivido y de lo sentido en cada jornada, el diario personal reúne las condiciones necesarias, porque su voz es propia y su destino es el mismo autor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v4",
+      "statement": "¿Para qué sirve poner la fecha y el lugar al comienzo de una entrada del diario?",
+      "context": "En Cali, un grupo de sexto grado lee dos entradas de un diario personal y nota que en una aparecen la fecha y el lugar, mientras que en la otra no.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el diario se convierta en un documento oficial con valor de identidad",
+          "is_correct": false,
+          "feedback": "El diario personal no tiene valor oficial ni legal; la fecha solo ordena el registro del tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Para demostrar que la persona que escribe cumple con un reglamento escolar",
+          "is_correct": false,
+          "feedback": "No hay reglamento detrás del diario; los encabezados responden a la necesidad de ubicar cada momento."
+        },
+        {
+          "letter": "C",
+          "text": "Para ocupar más espacio y hacer que el cuaderno tenga suficientes páginas",
+          "is_correct": false,
+          "feedback": "Los encabezados no se ponen para llenar espacio; cumplen la función de organizar el registro."
+        },
+        {
+          "letter": "D",
+          "text": "Para ubicar cada anotación en un momento y un lugar concretos",
+          "is_correct": true,
+          "feedback": "Es correcta porque la fecha y el lugar sitúan la experiencia en el tiempo y en el espacio donde ocurrió."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El diario personal suele abrir cada anotación con el día y el lugar, y a veces con la hora. Ese encabezado permite volver a la experiencia tal como ocurrió, y por eso el género conserva un orden crónico de la vida de quien escribe.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v5",
+      "statement": "Según esa frase, ¿qué rasgo del diario personal se puede identificar?",
+      "context": "En Pereira, una estudiante de sexto grado escribe en su diario: «Hoy el profesor de educación física me aprobó sin preguntas y casi lloro de la alegría».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la autora relata un hecho que le contó otra persona que no estuvo presente",
+          "is_correct": false,
+          "feedback": "La frase cuenta algo que le ocurrió a la propia autora, y la reacción de alegría está expresada en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la autora anota únicamente datos de su rendimiento académico",
+          "is_correct": false,
+          "feedback": "El diario no se limita a datos; aquí la autora expresa una emoción fuerte ante lo ocurrido."
+        },
+        {
+          "letter": "C",
+          "text": "Que la autora expresa con su propia voz una emoción intensa sobre lo que le pasó",
+          "is_correct": true,
+          "feedback": "Es correcta porque la primera persona y la reacción de alegría muestran la voz propia del género."
+        },
+        {
+          "letter": "D",
+          "text": "Que la autora redacta el texto con un tono serio y muy distante del asunto",
+          "is_correct": false,
+          "feedback": "El tono de la frase es cercano y sensible, y esa cercanía de la voz es propia del diario personal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el diario personal se distinguen dos rasgos constantes: el uso de la primera persona y la expresión de las emociones del autor. Detectar esos rasgos ayuda a identificar el género y a comprender el tono con que se presenta lo vivido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia hay entre esos dos textos?",
+      "context": "En Barranquilla, un grupo de sexto grado compara una entrada de diario personal con un artículo de un periódico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diario personal es público y el artículo del periódico es privado",
+          "is_correct": false,
+          "feedback": "Es al contrario: el diario personal es de lectura íntima y el artículo del periódico es público."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos textos cuentan hechos, por lo que su diferencia está solo en la extensión",
+          "is_correct": false,
+          "feedback": "Los dos pueden narrar hechos, pero se diferencian por la voz, el propósito y el destinatario, y no por la extensión."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo del periódico expresa opiniones, mientras que el diario personal solo narra hechos",
+          "is_correct": false,
+          "feedback": "El diario personal no es solo narración de hechos: expresa lo que el autor siente y piensa."
+        },
+        {
+          "letter": "D",
+          "text": "El diario expresa lo vivido por su autor y el artículo informa para un público amplio",
+          "is_correct": true,
+          "feedback": "Es correcta porque el artículo trata de informar a muchos lectores y el diario registra la vida de quien escribe."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos permite ver cómo el género orienta el tratamiento de la información. El diario personal registra la experiencia de una persona con una voz propia y para un destinatario cercano; el artículo de un periódico informa a un público amplio, por lo que su lenguaje es más formal y su tono más distante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v7",
+      "statement": "¿Qué muestra esa valoración sobre la lectura de un diario personal antiguo?",
+      "context": "En Bogotá, un grupo de sexto grado lee un diario que una niña escribió hace treinta años en un barrio de Medellín. Varias estudiantes dicen que hoy no se harían las tareas así, pero el grupo cree que el texto sigue siendo útil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra que el texto permite comparar dos maneras de vivir y valorar los cambios",
+          "is_correct": true,
+          "feedback": "Es correcta porque la distancia con el presente invita a comparar y no simplemente a descartar el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que el diario ya no sirve, porque las costumbres de hace treinta años no se relacionan con las actuales",
+          "is_correct": false,
+          "feedback": "Las costumbres cambian con los años, y esa diferencia es justamente lo que hace valioso el registro."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que el diario solo sirve como documento histórico y no como lectura de hoy",
+          "is_correct": false,
+          "feedback": "Reducir el diario a su valor histórico descarta que también muestra formas de sentir y de reaccionar."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que el diario debe leerse solo con datos, porque las emociones no sirven para entender el pasado",
+          "is_correct": false,
+          "feedback": "Las emociones son parte del registro personal y ayudan a entender por qué las personas actuaron como lo hicieron."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto personal antiguo sigue siendo útil cuando permite comparar dos maneras de vivir. Reconocer qué cambió y qué se mantuvo ayuda a valorar el progreso y también a comprender que las personas de entonces decían lo mismo con otras palabras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce esa expresión en quien lee la entrada?",
+      "context": "En Medellín, una estudiante escribe en su diario: «Otra vez me dijiste que no era para mí; volví a guardarlo en el bolsillo».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmite cercanía, porque el relato se cuenta como algo que acaba de ocurrir",
+          "is_correct": false,
+          "feedback": "La palabra otra vez y el gesto de guardarlo muestran un hecho que se repite y no algo nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "Transmite cercanía, porque la frase usa expresiones de todos los días",
+          "is_correct": false,
+          "feedback": "El lenguaje cotidiano ayuda a la cercanía, pero es el gesto de guardarlo lo que hace evidente la reacción."
+        },
+        {
+          "letter": "C",
+          "text": "Transmite un tono de derrota, porque la persona se calla algo que deseaba mostrar",
+          "is_correct": true,
+          "feedback": "Es correcta porque el gesto de guardar lo que iba a mostrar deja ver que se calla ante una negativa."
+        },
+        {
+          "letter": "D",
+          "text": "Transmite entusiasmo, porque la persona acepta con gusto lo que le dicen",
+          "is_correct": false,
+          "feedback": "El gesto de guardar el objeto no muestra entusiasmo, sino una reacción de silencio ante una negativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el diario personal, la forma de decir a veces pesa más que lo que se dice. Expresiones como otra vez o el relato de un gesto aparentemente menor permiten al lector percibir una emoción que el autor no nombra de manera directa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v9",
+      "statement": "¿Qué muestra este comentario sobre la lectura de un diario personal?",
+      "context": "En Cali, una estudiante de sexto grado lee el diario de su madre y escribe: «Mamá solo cuenta que el día fue normal, pero entiendo que no estaba contenta».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra que el lector se equivoca siempre al interpretar lo que el autor no dice",
+          "is_correct": false,
+          "feedback": "Inferir lo que el autor calla no es un error, sino una parte habitual de la lectura de un texto personal."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que el lector puede construir un sentido a partir de lo que el autor deja sin decir",
+          "is_correct": true,
+          "feedback": "Es correcta porque los silencios del texto son parte de la información y permiten una lectura más profunda."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que el diario no sirve, porque su autora no cuenta lo que le ocurrió",
+          "is_correct": false,
+          "feedback": "El silencio de la autora no invalida el diario; al contrario, obliga a leer con más atención."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que la descripción de un día normal no aporta información sobre la vida de la autora",
+          "is_correct": false,
+          "feedback": "Describir un día aparentemente normal puede revelar el estado de ánimo de quien lo escribió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer un diario personal con criterio implica reparar en lo no dicho. Los silencios, las repeticiones y los gestos registrados son señales que permiten al lector construir un sentido más profundo sobre lo que vivió la persona que escribe.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las dos valoraciones está mejor sustentada?",
+      "context": "En Bogotá, dos estudiantes de sexto grado leen el mismo diario personal. Laura dice que le pareció aburrido, mientras Andrés dice que le pareció el más interesante que ha leído.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de Andrés, porque las emociones son lo único que importa al leer un texto",
+          "is_correct": false,
+          "feedback": "Las emociones importan, pero una valoración se sustenta mejor cuando se apoya en razones del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La de Laura, porque un diario que no divierte es un diario que no cumple su función",
+          "is_correct": false,
+          "feedback": "Que un texto no divierta no lo hace inútil, porque puede tener otro propósito dentro del trabajo de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "La de Laura, porque todas las opiniones personales tienen el mismo valor",
+          "is_correct": false,
+          "feedback": "Todas las opiniones valen como tales; al comparar dos lecturas, lo que se evalúa es el fundamento de cada una."
+        },
+        {
+          "letter": "D",
+          "text": "La de Andrés, porque sostiene su juicio en algo que encontró en el texto",
+          "is_correct": true,
+          "feedback": "Es correcta porque un juicio que se apoya en el contenido del texto puede discutirse y comprobarse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un juicio de lectura gana calidad cuando se apoya en elementos del texto que pueden comprobarse. Las dos estudiantes pueden sentir cosas distintas, pero la valoración mejor fundamentada es la que explica qué encontró en el texto y por qué eso le pareció importante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
