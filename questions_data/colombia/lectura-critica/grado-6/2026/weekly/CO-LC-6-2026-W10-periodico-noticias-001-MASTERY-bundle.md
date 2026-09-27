@@ -3,7 +3,7 @@ id: "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
 asignatura: "lectura_critica"
-tema: "periodico_noticias"
+tema: "periodico-noticias"
 periodo: "weekly"
 week: "W10"
 year: 2026
