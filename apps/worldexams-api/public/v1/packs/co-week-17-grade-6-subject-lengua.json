@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v1",
       "statement": "¿Qué son las preposiciones?",
-      "context": "En una cartilla de Medellín se lee: «Vamos al parque con los amigos, pero antes pasaremos por la casa».\n**Expected_Success:** 0.90",
+      "context": "En una cartilla de Medellín se lee: «Vamos al parque con los amigos, pero antes pasaremos por la casa».",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v2",
       "statement": "¿Qué preposiciones aparecen y qué términos enlazan?",
-      "context": "Una alumna de Pereira escribe: «Mi profesora de ciencias llegó sin cuaderno, y nosotros le compartimos las hojas».\n**Expected_Success:** 0.87",
+      "context": "Una alumna de Pereira escribe: «Mi profesora de ciencias llegó sin cuaderno, y nosotros le compartimos las hojas».",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v3",
       "statement": "¿Qué información aporta cada preposición del cartel?",
-      "context": "Un cartel de Cali anuncia: «Vuelos desde Bogotá hacia Pasto por solo 180.000 COP».\n**Expected_Success:** 0.83",
+      "context": "Un cartel de Cali anuncia: «Vuelos desde Bogotá hacia Pasto por solo 180.000 COP».",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v4",
       "statement": "¿Qué conjunciones aparecen y cuándo se usa «y» o «e»?",
-      "context": "Un niño de Barranquilla escribe en su diario: «Hoy visité a mi abuela, y mi primo, e Iván».\n**Expected_Success:** 0.80",
+      "context": "Un niño de Barranquilla escribe en su diario: «Hoy visité a mi abuela, y mi primo, e Iván».",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v5",
       "statement": "¿Qué conjunciones aparecen y qué relación expresan?",
-      "context": "Una receta de Bucaramanga dice: «Fríe la cebolla con ajo, pero no la quemes; si se pega, agrega agua».\n**Expected_Success:** 0.77",
+      "context": "Una receta de Bucaramanga dice: «Fríe la cebolla con ajo, pero no la quemes; si se pega, agrega agua».",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v6",
       "statement": "¿Qué diferencia hay entre la preposición «con» en «con propuestas» y la de «por la tarde»?",
-      "context": "Un cartel en Pasto lee: «Los candidatos a la alcaldía, con propuestas, debatirán el viernes por la tarde».\n**Expected_Success:** 0.73",
+      "context": "Un cartel en Pasto lee: «Los candidatos a la alcaldía, con propuestas, debatirán el viernes por la tarde».",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v7",
       "statement": "¿Qué conjunciones y locuciones aparecen y qué relación lógica expresan?",
-      "context": "En un foro de Neiva, una profesora dice: «Leemos para aprender, porque leer es esencial, aunque cueste».\n**Expected_Success:** 0.69",
+      "context": "En un foro de Neiva, una profesora dice: «Leemos para aprender, porque leer es esencial, aunque cueste».",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v8",
       "statement": "¿Qué funciones cumplen las preposiciones y las conjunciones en este relato?",
-      "context": "Un alumno de Manizales escribe: «Estudié entre las 4 y las 6, luego jugué hasta las 8, después vi tele».\n**Expected_Success:** 0.65",
+      "context": "Un alumno de Manizales escribe: «Estudié entre las 4 y las 6, luego jugué hasta las 8, después vi tele».",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v9",
       "statement": "¿Qué función cumple cada conector del aviso y cómo se evalúa su precisión?",
-      "context": "Un aviso en Tunja dice: «Los estudiantes, con sus profesores, harán un paseo hacia el páramo sin descuidar las normas».\n**Expected_Success:** 0.60",
+      "context": "Un aviso en Tunja dice: «Los estudiantes, con sus profesores, harán un paseo hacia el páramo sin descuidar las normas».",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W17-la-preposicion-y-la-conjuncion-001-MASTERY-bundle-v10",
       "statement": "¿Qué problema tiene la elección de «sino» en la frase y cómo se corrige?",
-      "context": "Una alumna de Cartagena escribe: «Iré al museo si me dejan, sino iré al parque, o por último me quedaré leyendo en casa».\n**Expected_Success:** 0.55",
+      "context": "Una alumna de Cartagena escribe: «Iré al museo si me dejan, sino iré al parque, o por último me quedaré leyendo en casa».",
       "options": [
         {
           "letter": "A",

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v1",
       "statement": "¿Qué es un anuncio publicitario?",
-      "context": "En Bogotá, la televisión repite un anuncio de zapatos con música alegre y niños corriendo.\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, la televisión repite un anuncio de zapatos con música alegre y niños corriendo.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v2",
       "statement": "Según el cartel, ¿qué datos buscan convencer al cliente?",
-      "context": "En Cali, el cartel del jugo dice: \"¡El más rico! ¡Pruébalo ya! Solo por dos mil pesos\".\n**Expected_Success:** 0.85",
+      "context": "En Cali, el cartel del jugo dice: \"¡El más rico! ¡Pruébalo ya! Solo por dos mil pesos\".",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v3",
       "statement": "¿Qué promesa escondida trae el comercial?",
-      "context": "En Medellín, el comercial asegura: \"Con estas galletas serás el más popular del colegio\".\n**Expected_Success:** 0.80",
+      "context": "En Medellín, el comercial asegura: \"Con estas galletas serás el más popular del colegio\".",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v4",
       "statement": "¿Qué truco usa el aviso para apurar la compra?",
-      "context": "En Barranquilla, el aviso grita: \"¡Solo hoy! ¡Últimas unidades! ¡Corre por tu televisor!\".\n**Expected_Success:** 0.78",
+      "context": "En Barranquilla, el aviso grita: \"¡Solo hoy! ¡Últimas unidades! ¡Corre por tu televisor!\".",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v5",
       "statement": "¿A quién quiere atrapar el anuncio con el campeón?",
-      "context": "En Bucaramanga, el anuncio de cereal muestra a un campeón levantando la copa y dice \"Desayuna como un campeón\".\n**Expected_Success:** 0.75",
+      "context": "En Bucaramanga, el anuncio de cereal muestra a un campeón levantando la copa y dice \"Desayuna como un campeón\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v6",
       "statement": "Al analizar las dos voces, ¿qué se concluye?",
-      "context": "En Pereira, comparan el anuncio (\"Dientes blancos en un día\") con el odontólogo (\"Ninguna crema blanquea en un día\").\n**Expected_Success:** 0.70",
+      "context": "En Pereira, comparan el anuncio (\"Dientes blancos en un día\") con el odontólogo (\"Ninguna crema blanquea en un día\").",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v7",
       "statement": "Al analizar el folleto, ¿qué esconde con las letras pequeñas?",
-      "context": "En Cartagena, el folleto del juguete trae letras enormes de \"¡Diviértete!\" y letras diminutas de \"Pilas no incluidas. Se vende por separado\".\n**Expected_Success:** 0.68",
+      "context": "En Cartagena, el folleto del juguete trae letras enormes de \"¡Diviértete!\" y letras diminutas de \"Pilas no incluidas. Se vende por separado\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W30-lectura-critica-publicidad-001-MASTERY-bundle-v8",
       "statement": "¿Cuál anuncio evalúa mejor como compra responsable?",
-      "context": "En Villavicencio, el curso evalúa tres anuncios de zapatos para elegir uno sin dejarse engañar.\n**Expected_Success:** 0.60",
+      "context": "En Villavicencio, el curso evalúa tres anuncios de zapatos para elegir uno sin dejarse engañar.",
       "options": [
         {
           "letter": "A",
