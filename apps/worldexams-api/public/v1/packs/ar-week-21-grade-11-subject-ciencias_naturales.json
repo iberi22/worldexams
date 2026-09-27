@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "ciencias-naturales",
+    "country": "ar",
+    "pack_id": "ar-week-21-grade-11-subject-ciencias_naturales",
+    "generated_at": "2026-09-27T17:40:39.311Z"
+  },
+  "questions": [
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v1",
+      "statement": "Un vehículo circula por una avenida céntrica de Mendoza a una velocidad constante de $15\\text{ m/s}$ durante $10\\text{ segundos}$. ¿Qué distancia recorre en este intervalo?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 1.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v1\n**Bloom:** Remember\n**EJE:** Física\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 metros.",
+          "is_correct": true,
+          "feedback": "Correcto. En MRU, $d = v \\cdot t = 15\\text{ m/s} \\cdot 10\\text{ s} = 150\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "15 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la velocidad por el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "1500 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por un factor de 100."
+        },
+        {
+          "letter": "D",
+          "text": "25 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron velocidad y tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un movimiento rectilíneo uniforme (MRU), la velocidad constante permite calcular el desplazamiento mediante la fórmula $d = v \\cdot t$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes magnitudes físicas en cinemática posee carácter vectorial?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 2.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v2\n**Bloom:** Remember\n**EJE:** Física\n**Expected_Success:** 0.88",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La velocidad es una magnitud vectorial pues requiere módulo, dirección y sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Masa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa es una magnitud escalar."
+        },
+        {
+          "letter": "C",
+          "text": "Tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo es una magnitud escalar."
+        },
+        {
+          "letter": "D",
+          "text": "Temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura es escalar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las magnitudes vectoriales quedan completamente definidas mediante módulo, dirección y sentido, como la velocidad o el desplazamiento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.88,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v3",
+      "statement": "Un tren que parte del reposo desde Retiro acelera uniformemente a $2\\text{ m/s}^2$. ¿Cuál será su velocidad al cabo de $5\\text{ segundos}$?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 3.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v3\n**Bloom:** Understand\n**EJE:** Física\n**Expected_Success:** 0.86",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m/s.",
+          "is_correct": true,
+          "feedback": "Correcto. En MRUV, $v = v_0 + a \\cdot t = 0 + 2 \\cdot 5 = 10\\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "2,5 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió el tiempo por la aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "20 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por el cuadrado del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "7 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron la aceleración y el tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el movimiento rectilíneo uniformemente variado (MRUV), la velocidad varía de forma lineal respecto al tiempo según $v = v_0 + a \\cdot t$.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.86,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v4",
+      "statement": "Si dejás caer una piedra desde un puente en caída libre sin rozamiento, ¿qué sucede con su velocidad a medida que desciende?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 4.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v4\n**Bloom:** Understand\n**EJE:** Física\n**Expected_Success:** 0.84",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta linealmente debido a la aceleración de la gravedad.",
+          "is_correct": true,
+          "feedback": "Correcto. En caída libre, $v = g \\cdot t$, aumentando en razón constante."
+        },
+        {
+          "letter": "B",
+          "text": "Permanece constante durante todo el trayecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto sólo ocurriría si no existiera gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye progresivamente hasta tocar el suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración de la gravedad actúa hacia abajo incrementando la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta el primer segundo y luego se estabiliza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin resistencia del aire, la aceleración se mantiene constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La caída libre es un caso de MRUV donde la aceleración constante es la gravedad ($g \\approx 9,8\\text{ m/s}^2$).\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.84,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v5",
+      "statement": "Un auto frena uniformemente desde $30\\text{ m/s}$ hasta detenerse por completo en $6\\text{ segundos}$. ¿Cuál es el módulo de su aceleración?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 5.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v5\n**Bloom:** Understand\n**EJE:** Física\n**Expected_Success:** 0.82",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 m/s².",
+          "is_correct": true,
+          "feedback": "Correcto. $a = \\frac{|v_f - v_0|}{t} = \\frac{30}{6} = 5\\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "180 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la velocidad por el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "0,2 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió el tiempo por la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "36 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se elevó el tiempo al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aceleración mide la tasa de cambio de la velocidad en el tiempo: $a = \\Delta v / \\Delta t$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.82,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v6",
+      "statement": "Facundo viaja en bicicleta a $6\\text{ m/s}$ constantes. ¿Cuánto tarda en recorrer una distancia de $180\\text{ metros}$?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 6.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v6\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 segundos.",
+          "is_correct": true,
+          "feedback": "Correcto. $t = \\frac{d}{v} = \\frac{180}{6} = 30\\text{ s}$."
+        },
+        {
+          "letter": "B",
+          "text": "1080 segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la distancia por la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "18 segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la relación exacta dividiendo por 10."
+        },
+        {
+          "letter": "D",
+          "text": "300 segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error de orden decimal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando el tiempo en la ecuación del MRU ($d = v \\cdot t$), resulta $t = d / v$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v7",
+      "statement": "Martina lanza una pelota verticalmente hacia arriba con velocidad de $20\\text{ m/s}$. Tomando $g = 10\\text{ m/s}^2$, ¿cuál es la altura máxima alcanzada?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 7.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v7\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.78",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 metros.",
+          "is_correct": true,
+          "feedback": "Correcto. $h_{\\text{máx}} = \\frac{v_0^2}{2g} = \\frac{400}{20} = 20\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "40 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió dividir por 2 en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "200 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó la velocidad al cuadrado por la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "2 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la velocidad inicial por la gravedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el punto de altura máxima, la velocidad instantánea es nula. Aplicando Torricelli: $0 = v_0^2 - 2g h_{\\text{máx}}$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.78,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v8",
+      "statement": "Un vehículo acelera desde el reposo con $2\\text{ m/s}^2$ durante $20\\text{ metros}$. ¿Qué velocidad alcanza al finalizar dicho tramo?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 8.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v8\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.76",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8,94 m/s (aproximadamente 9 m/s).",
+          "is_correct": true,
+          "feedback": "Correcto. $v^2 = v_0^2 + 2ad = 0 + 2(2)(20) = 80 \\Rightarrow v = \\sqrt{80} \\approx 8,94\\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "40 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió la raíz cuadrada."
+        },
+        {
+          "letter": "C",
+          "text": "10 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió multiplicar por la constante 2."
+        },
+        {
+          "letter": "D",
+          "text": "4 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó únicamente la aceleración por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ecuación de Torricelli ($v^2 = v_0^2 + 2ad$) relaciona velocidades, aceleración y desplazamiento independiente del tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.76,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v9",
+      "statement": "Un objeto cae libremente desde el reposo y tarda $3\\text{ segundos}$ en llegar al suelo ($g = 10\\text{ m/s}^2$). ¿Desde qué altura cayó?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 9.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v9\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.74",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 metros.",
+          "is_correct": true,
+          "feedback": "Correcto. $h = \\frac{1}{2} g t^2 = 0,5 \\cdot 10 \\cdot 3^2 = 45\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "90 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió el factor 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "30 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó $g \\cdot t$ sin elevar $t$ al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "15 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió $g \\cdot t$ por 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia recorrida en caída libre partiendo del reposo se calcula como $h = \\frac{1}{2} g t^2$.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.74,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v10",
+      "statement": "Un colectivo acelera uniformemente de $10\\text{ m/s}$ a $25\\text{ m/s}$ en $5\\text{ segundos}$. ¿Qué distancia recorre en este tramo?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 10.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v10\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.72",
+      "options": [
+        {
+          "letter": "A",
+          "text": "87,5 metros.",
+          "is_correct": true,
+          "feedback": "Correcto. $d = v_{\\text{prom}} \\cdot t = \\left(\\frac{10 + 25}{2}\\right) \\cdot 5 = 17,5 \\cdot 5 = 87,5\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "125 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó únicamente la velocidad final."
+        },
+        {
+          "letter": "C",
+          "text": "50 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se usó únicamente la velocidad inicial."
+        },
+        {
+          "letter": "D",
+          "text": "175 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sumaron las velocidades sin promediarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el MRUV, el desplazamiento también se calcula como el producto entre la velocidad media y el intervalo de tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.72,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v11",
+      "statement": "La ecuación horaria de un móvil es $x(t) = 5 + 4t + 3t^2$ (unidades MKS). ¿Cuáles son su posición inicial, velocidad inicial y aceleración?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 11.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v11\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.70",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x₀ = 5 m, v₀ = 4 m/s, a = 6 m/s².",
+          "is_correct": true,
+          "feedback": "Correcto. En $x(t) = x_0 + v_0 t + \\frac{1}{2} a t^2$, el término de $t^2$ es $\\frac{1}{2}a = 3 \\Rightarrow a = 6\\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "x₀ = 5 m, v₀ = 4 m/s, a = 3 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se tomó el coeficiente de $t^2$ como la aceleración sin multiplicar por 2."
+        },
+        {
+          "letter": "C",
+          "text": "x₀ = 0 m, v₀ = 5 m/s, a = 4 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundieron los términos de la ecuación horaria."
+        },
+        {
+          "letter": "D",
+          "text": "x₀ = 4 m, v₀ = 3 m/s, a = 5 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se desordenaron los parámetros de la fórmula."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al comparar con la fórmula estándar $x(t) = x_0 + v_0 t + \\frac{1}{2} a t^2$, el coeficiente de $t^2$ corresponde a la mitad de la aceleración.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v12",
+      "statement": "En un gráfico de velocidad vs tiempo ($v$ vs $t$), la curva es una recta horizontal a $20\\text{ m/s}$ durante $8\\text{ s}$. ¿Qué representa el área bajo la recta?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 12.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v12\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.68",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desplazamiento total (160 metros).",
+          "is_correct": true,
+          "feedback": "Correcto. El área bajo la curva $v(t)$ equivale numéricamente al desplazamiento recorrido."
+        },
+        {
+          "letter": "B",
+          "text": "La aceleración del vehículo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente de la recta representa la aceleración."
+        },
+        {
+          "letter": "C",
+          "text": "La fuerza aplicada sobre el móvil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza no se lee directamente como área en un gráfico $v(t)$."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo total de viaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo está representado en el eje horizontal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El área geométrica comprendida entre la curva de velocidad y el eje del tiempo representa el desplazamiento total en ese intervalo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.68,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v13",
+      "statement": "Un dron acelera verticalmente hacia arriba a $4\\text{ m/s}^2$ partiendo del reposo durante $5\\text{ segundos}$. ¿Qué velocidad alcanza?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 13.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v13\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.66",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m/s.",
+          "is_correct": true,
+          "feedback": "Correcto. $v = a \\cdot t = 4 \\cdot 5 = 20\\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "50 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la altura recorrida ($50\\text{ m}$) en lugar de la velocidad."
+        },
+        {
+          "letter": "C",
+          "text": "0 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dron se encuentra en movimiento ascendente."
+        },
+        {
+          "letter": "D",
+          "text": "9,8 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se confundió con la aceleración gravitatoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Partiendo del reposo, la velocidad alcanzada bajo aceleración constante es directamente $v = a \\cdot t$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.66,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v14",
+      "statement": "Dos autos A y B parten del mismo punto. A viaja con MRU a $12\\text{ m/s}$ y B acelera del reposo a $2\\text{ m/s}^2$. ¿Cuándo B alcanza a A?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 14.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v14\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.64",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los 12 segundos.",
+          "is_correct": true,
+          "feedback": "Correcto. Igualando $x_A = 12t$ y $x_B = t^2$, resulta $t^2 = 12t \\Rightarrow t = 12\\text{ s}$."
+        },
+        {
+          "letter": "B",
+          "text": "A los 6 segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la velocidad por la aceleración sin considerar la ecuación cuadrática."
+        },
+        {
+          "letter": "C",
+          "text": "A los 24 segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por un factor de 2 erróneo."
+        },
+        {
+          "letter": "D",
+          "text": "A los 18 segundos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se realizó una estimación incorrecta de las posiciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto de encuentro se determina igualando las ecuaciones horarias de posición de ambos móviles.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.64,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v15",
+      "statement": "Un proyectil se lanza verticalmente hacia arriba y tarda $3\\text{ segundos}$ en alcanzar su altura máxima ($g = 10\\text{ m/s}^2$). ¿Con qué velocidad inicial se lanzó?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 15.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v15\n**Bloom:** Apply\n**EJE:** Física\n**Expected_Success:** 0.62",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 m/s.",
+          "is_correct": true,
+          "feedback": "Correcto. En la cima $v = 0 \\Rightarrow 0 = v_0 - gt \\Rightarrow v_0 = 10 \\cdot 3 = 30\\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "15 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la velocidad por 2."
+        },
+        {
+          "letter": "C",
+          "text": "45 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se calculó la altura máxima alcanzada."
+        },
+        {
+          "letter": "D",
+          "text": "3 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se igualó la velocidad al tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el tiro vertical, la velocidad en el punto más alto se anula, permitiendo despejar la velocidad inicial como $v_0 = g \\cdot t_{\\text{subida}}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.62,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v16",
+      "statement": "Un objeto acelera uniformemente desde el reposo recorriendo $5\\text{ m}$ dentro de un tubo y sale a $100\\text{ m/s}$. ¿Cuál fue su aceleración?",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 16.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v16\n**Bloom:** Analyze\n**EJE:** Física\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1000 m/s².",
+          "is_correct": true,
+          "feedback": "Correcto. $v^2 = 2ad \\Rightarrow 100^2 = 2a(5) \\Rightarrow 10000 = 10a \\Rightarrow a = 1000\\text{ m/s}^2$."
+        },
+        {
+          "letter": "B",
+          "text": "500 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se olvidó multiplicar la distancia por 2."
+        },
+        {
+          "letter": "C",
+          "text": "2000 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se multiplicó por 2 en lugar de dividir."
+        },
+        {
+          "letter": "D",
+          "text": "100 m/s².",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la velocidad al cuadrado por 100."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Utilizando Torricelli sin tiempo: $a = \\frac{v^2 - v_0^2}{2d}$.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v17",
+      "statement": "Un auto circula a $20\\text{ m/s}$ y ve un obstáculo a $40\\text{ m}$. El conductor tarda $0,5\\text{ s}$ en reaccionar y los frenos desaceleran a $8\\text{ m/s}^2$. Evaluá si logra detenerse.",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 17.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v17\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.58",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, se detiene a los 35 metros (10 m de reacción + 25 m de frenado), antes del obstáculo.",
+          "is_correct": true,
+          "feedback": "Correcto. Reacción: $d_r = 20 \\cdot 0,5 = 10\\text{ m}$. Frenado: $d_f = \\frac{20^2}{2(8)} = 25\\text{ m}$. Total $= 35\\text{ m} < 40\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "No, choca porque la distancia requerida es de 50 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia total requerida es 35 m, menor a 40 m."
+        },
+        {
+          "letter": "C",
+          "text": "Choca a los 40 m porque no frena a tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo demuestra que frena a los 35 m."
+        },
+        {
+          "letter": "D",
+          "text": "Se detiene a los 10 metros en la fase de reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la fase de reacción no hay frenado todavía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La distancia total de detención es la suma de la distancia recorrida a velocidad constante durante el tiempo de reacción más la distancia de frenado.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.58,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v18",
+      "statement": "Un objeto en caída libre recorre $2\\text{ m}$ al pasar por una ventana en $0,2\\text{ s}$ ($g = 10\\text{ m/s}^2$). Evaluá la velocidad al entrar a la ventana.",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 18.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v18\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.56",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 m/s.",
+          "is_correct": true,
+          "feedback": "Correcto. $h = v_1 t + \\frac{1}{2}gt^2 \\Rightarrow 2 = 0,2 v_1 + 5(0,04) \\Rightarrow 2 = 0,2 v_1 + 0,2 \\Rightarrow v_1 = 9\\text{ m/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "10 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió restar la contribución de la gravedad."
+        },
+        {
+          "letter": "C",
+          "text": "5 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió la altura por el tiempo sin considerar la aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "12 m/s.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error algebraico de suma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Despejando la velocidad inicial en la fórmula de posición $h = v_1 t + \\frac{1}{2} g t^2$ se determina la velocidad al inicio del tramo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.56,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v19",
+      "statement": "Dos móviles se dirigen uno al encuentro del otro en una pista de $300\\text{ m}$ desde el reposo. M1 acelera a $2\\text{ m/s}^2$ y M2 a $4\\text{ m/s}^2$. Evaluá la posición de cruce respecto a M1.",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 19.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v19\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.54",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A 100 metros del punto de partida de M1.",
+          "is_correct": true,
+          "feedback": "Correcto. $x_1 = t^2$, $x_2 = 300 - 2t^2 \\Rightarrow t^2 = 300 - 2t^2 \\Rightarrow 3t^2 = 300 \\Rightarrow t = 10\\text{ s}$. $x_1 = 100\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "A 150 metros, justo en la mitad de la pista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tienen distintas aceleraciones, no se cruzan al medio."
+        },
+        {
+          "letter": "C",
+          "text": "A 200 metros de M1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la distancia recorrida por M2."
+        },
+        {
+          "letter": "D",
+          "text": "A 50 metros de M1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se cometió un error al plantear la suma de aceleraciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo de encuentro se obtiene igualando las posiciones relativas: $x_1(t) = x_2(t)$.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.54,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    },
+    {
+      "id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v20",
+      "statement": "Un proyectil en tiro vertical recorre una distancia $h$ en su último segundo de subida antes de detenerse. Evaluá el valor de $h$ ($g = 10\\text{ m/s}^2$).",
+      "context": "Cinemática y Movimiento en Una Dimensión (MRU y MRUV) - Caso N° 20.\n**ID:** AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle-v20\n**Bloom:** Evaluate\n**EJE:** Física\n**Expected_Success:** 0.52",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 metros.",
+          "is_correct": true,
+          "feedback": "Correcto. Por simetría, la distancia recorrida en el último segundo de subida es igual a la del primer segundo de caída partiendo del reposo: $h = \\frac{1}{2}(10)(1)^2 = 5\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "10 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se omitió multiplicar por 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "2,5 metros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se dividió adicionalmente por 2."
+        },
+        {
+          "letter": "D",
+          "text": "Depende de la velocidad de lanzamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una propiedad independiente de la velocidad inicial de disparo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Por la simetría del movimiento parabólico/vertical sin rozamiento, el tramo final de subida equivale exactamente al tramo inicial de bajada partiendo del reposo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.52,
+      "bundle_id": "AR-CIE-11-2026-W21-tema-w21-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "ar"
+    }
+  ]
+}
