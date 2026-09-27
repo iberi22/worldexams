@@ -52,6 +52,7 @@
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
   import AcademicBentoGrid from './AcademicBentoGrid.svelte';
+  import IcfesExamHub from './exam-hub/IcfesExamHub.svelte'; // 🆕 New Component
 
   import ExamRoomLobby from './ExamRoomLobby.svelte'; // 🆕 Renamed Import
   import SpeedChallengeSetup from '../modules/exam-room/components/SpeedChallengeSetup.svelte';
@@ -64,6 +65,15 @@
     maybeUpdatePartySession,
   } from '../modules/exam-room/services/authPersistence';
   import { p2pService } from '../lib/p2p-service'; // Moved to top
+  import { getActiveExam, setActiveExam, clearActiveExam } from '../lib/active-exam'; // 🆕 Persistence
+  // Canonical subject keys (emitted by IcfesExamHub) -> ExamConfigModal display names.
+  const HUB_SUBJECT_LABELS = {
+    matematicas: 'Matemáticas',
+    lectura_critica: 'Lectura Crítica',
+    sociales_ciudadanas: 'Sociales y Ciudadanas',
+    ciencias_naturales: 'Ciencias Naturales',
+    ingles: 'Inglés',
+  };
 
   let {
     questions = [],
@@ -279,6 +289,9 @@
     const onboardingComplete = urlParams.get('onboarding') === 'complete';
     const revisarId = urlParams.get('revisar') || urlParams.get('q');
 
+    // Check active exam
+    const activeExam = getActiveExam();
+
     if (joinCode) {
       initialRoomCode = joinCode;
       showExamConfigModal = true;
@@ -340,6 +353,10 @@
       } finally {
         window.history.replaceState({}, '', '/');
       }
+    } else if (activeExam && !urlParams.toString()) {
+      // If no deep links but there is an active exam, restore it
+      selectedGrade = activeExam.grade;
+      view = AppView.EXAM_HUB;
     }
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
@@ -1022,7 +1039,7 @@
     <div class="container mx-auto px-4 py-3 flex items-center justify-between relative z-10">
       <div class="flex items-center gap-3">
         <button
-          onclick={() => setView(AppView.LANDING)}
+          onclick={() => setView(getActiveExam() ? AppView.EXAM_HUB : AppView.LANDING)}
           class="text-sm font-bold uppercase tracking-widest hover:text-emerald-500 transition-colors"
         >
           {runtimeCountry.product.siteName}
@@ -1222,7 +1239,13 @@
             onStartRanked={String(countryCode).toUpperCase() === 'CO' ? handleRankedClick : undefined}
             onSelectGrade={(grade) => {
               selectedGrade = grade;
-              showExamConfigModal = true;
+              if (String(countryCode).toUpperCase() === 'CO') {
+                // ICFES hub is Colombia-only; other countries keep the direct config modal.
+                setActiveExam({ country: countryCode, examType: 'icfes', grade });
+                setView(AppView.EXAM_HUB);
+              } else {
+                showExamConfigModal = true;
+              }
             }}
             onStartEnglishDiagnostic={async () => {
               isLoadingQuestions = true;
@@ -1308,6 +1331,59 @@
           </div>
         </footer>
       </div>
+    {:else if view === AppView.EXAM_HUB}
+      <div in:fly={{ y: 20, duration: 300 }} out:fade={{ duration: 200 }}>
+        <IcfesExamHub
+          grade={selectedGrade}
+          onStartArea={(subject) => {
+            // Hub emits canonical keys; ExamConfigModal works with display names.
+            selectedSubject = HUB_SUBJECT_LABELS[subject] ?? subject;
+            showExamConfigModal = true;
+          }}
+          onStartSimulacro={() => {
+            selectedSubject = null;
+            showExamConfigModal = true;
+          }}
+          onStartEnglish={async () => {
+            isLoadingQuestions = true;
+            try {
+              console.log('🇬🇧 Loading English questions from all grades (A1-B2+)...');
+              const englishQuestions = await fetchEnglishQuestionsAllGrades(100, true);
+
+              if (englishQuestions.length === 0) {
+                console.warn('⚠️ No English questions found.');
+                alert('No se encontraron preguntas de inglés disponibles en este momento.');
+                isLoadingQuestions = false;
+                return;
+              }
+
+              selectedGrade = 0; // Special Grade 0 for Diagnostic
+              selectedSubject = 'Inglés';
+              MAX_EXAM_QUESTIONS = englishQuestions.length;
+              generatedExamQuestions = englishQuestions;
+
+              isPreparingExam = true;
+              isIntegrityCheck = true;
+              setView(AppView.EXAM);
+              setTimeout(() => {
+                isPreparingExam = false;
+              }, 2500);
+
+            } catch (error) {
+              console.error('Error fetching English questions:', error);
+              alert('Error al cargar preguntas de inglés. Por favor, intenta de nuevo.');
+            } finally {
+              isLoadingQuestions = false;
+            }
+          }}
+          onStartRanked={String(countryCode).toUpperCase() === 'CO' ? handleRankedClick : undefined}
+          onChangeExam={() => {
+            clearActiveExam();
+            setView(AppView.LANDING);
+          }}
+        />
+      </div>
+
     {:else if view === AppView.LOGIN}
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <Login
