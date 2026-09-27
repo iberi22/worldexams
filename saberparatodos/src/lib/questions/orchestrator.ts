@@ -45,15 +45,82 @@ export async function prepareSoloExamQuestions(
 
   let activation: PoolActivation | null = null;
   if (!request.englishDiagnostic) {
-    pool = await ensureBasePool({
-      repository: deps.repository,
-      loadedQuestions: pool,
-      grade: request.grade,
-      subject: isPreuMode ? null : request.subject,
-      threshold: isPreuMode ? 100 : 50,
-      maxQuestions: isPreuMode ? 300 : 200,
-      period: request.examMode === 'period' ? request.period : undefined
-    });
+    let poolSizeFromMeta: number | undefined;
+
+    if (deps.repository.fetchSample && !isPreuMode) {
+      let fetchedQuestions: AppQuestion[] = [];
+      const remainingCount = Math.max(0, request.count - pool.length);
+
+      if (remainingCount > 0) {
+        let metaSize = 0;
+        let hasSampleMode = false;
+
+        let attempts = 0;
+        const maxAttempts = Math.ceil(remainingCount / 25) + 2;
+        const seenIds = new Set<string>(pool.map(q => q.id));
+
+        while (fetchedQuestions.length < remainingCount && attempts < maxAttempts) {
+          attempts++;
+          const seed = Math.random().toString(36).substring(7);
+          const limit = Math.min(25, remainingCount - fetchedQuestions.length);
+
+          try {
+            const sampleResult = await deps.repository.fetchSample(request.grade, request.subject, {
+              period: request.examMode === 'period' ? request.period : undefined,
+              limit,
+              seed
+            });
+            if (!sampleResult) throw new Error('No result from fetchSample');
+            const { questions, meta } = sampleResult;
+
+            if (meta?.mode === 'sample') {
+              hasSampleMode = true;
+              metaSize = meta.period_pool_size || metaSize;
+
+              for (const q of questions) {
+                if (!seenIds.has(q.id)) {
+                  seenIds.add(q.id);
+                  fetchedQuestions.push(q);
+                }
+              }
+            } else {
+              // Fallback to legacy behavior if mode is not sample
+              fetchedQuestions = questions;
+              break;
+            }
+          } catch (e) {
+            console.warn('[Orchestrator] fetchSample failed, breaking loop', e);
+            break;
+          }
+        }
+
+        if (hasSampleMode) {
+          poolSizeFromMeta = metaSize;
+          pool = [...pool, ...fetchedQuestions];
+        } else {
+          // Fallback to ensureBasePool
+          pool = await ensureBasePool({
+            repository: deps.repository,
+            loadedQuestions: pool,
+            grade: request.grade,
+            subject: request.subject,
+            threshold: 50,
+            maxQuestions: 200,
+            period: request.examMode === 'period' ? request.period : undefined
+          });
+        }
+      }
+    } else {
+      pool = await ensureBasePool({
+        repository: deps.repository,
+        loadedQuestions: pool,
+        grade: request.grade,
+        subject: isPreuMode ? null : request.subject,
+        threshold: isPreuMode ? 100 : 50,
+        maxQuestions: isPreuMode ? 300 : 200,
+        period: request.examMode === 'period' ? request.period : undefined
+      });
+    }
 
     // Condicional de activación (>100 por materia+periodo): con pool sólido
     // la ruta enriquecida sigue ACTIVA; con pool en maduración la lógica se
@@ -64,6 +131,17 @@ export async function prepareSoloExamQuestions(
       subject: isPreuMode ? null : request.subject,
       period: request.examMode === 'period' ? request.period : undefined,
     });
+
+    // Override count with meta pool size if available
+    if (poolSizeFromMeta !== undefined) {
+      activation.count = poolSizeFromMeta;
+      activation.active = poolSizeFromMeta >= activation.threshold;
+      if (activation.active) {
+        activation.reason = `Activo: Pool explícito vía API (${poolSizeFromMeta} >= ${activation.threshold})`;
+      } else {
+        activation.reason = `Inactivo: Pool explícito vía API insuficiente (${poolSizeFromMeta} < ${activation.threshold})`;
+      }
+    }
     console.info('[Orchestrator] Pool activation:', activation.reason);
 
     if (request.useDiagnostic && request.grade > 3 && activation.active) {
