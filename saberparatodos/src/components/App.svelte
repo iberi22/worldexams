@@ -1231,8 +1231,13 @@
             onStartRanked={String(countryCode).toUpperCase() === 'CO' ? handleRankedClick : undefined}
             onSelectGrade={(grade) => {
               selectedGrade = grade;
-              setActiveExam({ country: countryCode, examType: 'icfes', grade });
-              setView(AppView.EXAM_HUB);
+              if (String(countryCode).toUpperCase() === 'CO') {
+                // ICFES hub is Colombia-only; other countries keep the direct config modal.
+                setActiveExam({ country: countryCode, examType: 'icfes', grade });
+                setView(AppView.EXAM_HUB);
+              } else {
+                showExamConfigModal = true;
+              }
             }}
             onStartEnglishDiagnostic={async () => {
               isLoadingQuestions = true;
@@ -1323,7 +1328,15 @@
         <IcfesExamHub
           grade={selectedGrade}
           onStartArea={(subject) => {
-            selectedSubject = subject;
+            // Hub emits canonical keys; ExamConfigModal works with display names.
+            const HUB_SUBJECT_LABELS: Record<string, string> = {
+              matematicas: 'Matemáticas',
+              lectura_critica: 'Lectura Crítica',
+              sociales_ciudadanas: 'Sociales y Ciudadanas',
+              ciencias_naturales: 'Ciencias Naturales',
+              ingles: 'Inglés',
+            };
+            selectedSubject = HUB_SUBJECT_LABELS[subject] ?? subject;
             showExamConfigModal = true;
           }}
           onStartSimulacro={() => {
