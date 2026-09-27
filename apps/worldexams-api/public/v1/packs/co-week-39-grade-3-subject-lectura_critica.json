@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-26T06:47:10.099Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v1",
+      "statement": "¿Quién ganó la carrera según la narración?",
+      "context": "Un conejo presuntuoso se burlaba siempre de una tortuga por su lentitud. Un día, la tortuga lo desafió a una carrera. El conejo aceptó confiado, se quedó dormido en el camino y la tortuga, con paso constante, ganó la carrera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tortuga.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto afirma explícitamente que la tortuga ganó la carrera con su paso constante."
+        },
+        {
+          "letter": "B",
+          "text": "El conejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conejo se quedó dormido y perdió la competencia."
+        },
+        {
+          "letter": "C",
+          "text": "El zorro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El zorro no se menciona en la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia aclara que hubo un ganador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura literal permite ubicar la información directa que responde a preguntas explícitas sobre personajes y acontecimientos en la narración.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué perdió el conejo la carrera frente a la tortuga?",
+      "context": "Un conejo presuntuoso se burlaba siempre de una tortuga por su lentitud. Un día, la tortuga lo desafió a una carrera. El conejo aceptó confiado, se quedó dormido en el camino y la tortuga, con paso constante, ganó la carrera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por confiarse en su rapidez y quedarse dormido en vez de correr.",
+          "is_correct": true,
+          "feedback": "¡Correcto! Su exceso de confianza y falta de disciplina le impidieron ganar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la tortuga era más rápida que el conejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia indica que el conejo se burlaba de la lentitud de la tortuga."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el camino estaba lleno de agua y no pudo pasar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona obstáculos de agua."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se perdió en el bosque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conejo no se perdió, simplemente se durmió en la ruta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las inferencias explicativas identifican las relaciones de causa y efecto implícitas en las acciones de los personajes.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la enseñanza principal (moraleja) que transmite la fábula de la hormiga y la cigarra?",
+      "context": "Una hormiga trabajadora juntaba provisiones durante todo el verano para tener comida en el frío invierno. Mientras tanto, una cigarra cantaba sin trabajar. Al llegar el invierno, la cigarra no tenía qué comer y le pidió auxilio a la hormiga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es importante trabajar con previsión y esfuerzo para estar preparados en momentos difíciles.",
+          "is_correct": true,
+          "feedback": "¡Correcto! El trabajo constante de la hormiga demuestra el valor de la prevención."
+        },
+        {
+          "letter": "B",
+          "text": "Es mejor cantar todo el día que perder tiempo juntando alimentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cigarra sufrió las consecuencias de no trabajar."
+        },
+        {
+          "letter": "C",
+          "text": "El invierno es la mejor época para cantar y hacer amigos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El invierno trajo hambre a quien no se preparó."
+        },
+        {
+          "letter": "D",
+          "text": "Los animales pequeños no deben salir en verano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción no refleja la lección moral del cuento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fábulas son textos narrativos breves caracterizados por dejar una lección o moraleja práctica aplicable a la vida cotidiana.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué los autores de fábulas usan animales personificados en sus historias?",
+      "context": "Las fábulas suelen utilizar animales que hablan y se comportan como seres humanos. A este recurso literario se le llama personificación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para representar virtudes y defectos humanos de forma entretenida y fácil de entender.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La personificación de animales permite al lector reconocer conductas humanas como la avaricia o la prudencia."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los animales reales saben hablar y escribir historias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un recurso de la imaginación literaria."
+        },
+        {
+          "letter": "C",
+          "text": "Para enseñar únicamente ciencias naturales sobre los hábitats de los animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fábulas buscan transmitir valores morales, no solo datos zoológicos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no existen seres humanos en la literatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los seres humanos son comunes en todos los géneros literarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el propósito del recurso estilístico de la personificación ayuda a comprender el nivel figurado y simbólico de las fábulas.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué defecto del cuervo aprovechó el zorro para quitarle el queso?",
+      "context": "Un cuervo encontró un pedazo de queso y se posó en la rama de un árbol para comerlo. Un zorro astuto, deseando el queso, le dijo: \"¡Qué plumas tan brillantes tienes, señor cuervo! Apuesto a que tu voz es igual de hermosa\". El cuervo, complacido por los halagos, abrió el pico para cantar y el queso cayó al suelo, donde el zorro lo atrapó y se fue riendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su vanidad y deseo de recibir halagos.",
+          "is_correct": true,
+          "feedback": "¡Correcto! La vanidad hizo que el cuervo buscara demostrar su voz, perdiendo su comida."
+        },
+        {
+          "letter": "B",
+          "text": "Su generosidad con los demás animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuervo no tenía intención de regalar el queso."
+        },
+        {
+          "letter": "C",
+          "text": "Su fuerza física.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El zorro usó la astucia, no la fuerza del cuervo."
+        },
+        {
+          "letter": "D",
+          "text": "Su velocidad para volar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuervo estaba posado en la rama sin volar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis de motivaciones psicológicas de los personajes revela los rasgos humanos personificados en las fábulas clásicas.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de los siguientes refranes populares resume mejor la moraleja de esta fábrica?",
+      "context": "Un cuervo encontró un pedazo de queso y se posó en la rama de un árbol para comerlo. Un zorro astuto, deseando el queso, le dijo: \"¡Qué plumas tan brillantes tienes, señor cuervo! Apuesto a que tu voz es igual de hermosa\". El cuervo, complacido por los halagos, abrió el pico para cantar y el queso cayó al suelo, donde el zorro lo atrapó y se fue riendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"No confíes en quien te alaba sin conocerte\".",
+          "is_correct": true,
+          "feedback": "¡Correcto! El halago interesado del zorro engañó al vanidoso cuervo."
+        },
+        {
+          "letter": "B",
+          "text": "\"A quien madruga, Dios le ayuda\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia no trata sobre levantarse temprano."
+        },
+        {
+          "letter": "C",
+          "text": "\"En boca cerrada no entran moscas\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque abrió la boca, el centro de la moraleja es la desconfianza ante adulaciones falsas."
+        },
+        {
+          "letter": "D",
+          "text": "\"Más vale pájaro en mano que ciento volando\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción se refiere a asegurar lo que se tiene frente a promesas dudosas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conectar moralejas de fábulas con refranes populares evidencia la capacidad de sintetizar y comparar mensajes pedagógicos universales.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las dos frases juzga adecuadamente la consecuencia moral del pastorcito mentiroso?",
+      "context": "Lee las dos frases siguientes sobre la fábula del pastorcito mentiroso, quien gritaba \"¡Viene el lobo!\" para burlarse de los campesinos hasta que un día el lobo vino de verdad y nadie le creyó:\n1. \"Mentir es divertido si nadie sale herido\".\n2. \"En boca del mentiroso, lo cierto se hace dudoso\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase 2, porque demuestra que mentir destruye la confianza de los demás cuando se dice la verdad.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La mentira recurrente invalida la credibilidad futura de una persona."
+        },
+        {
+          "letter": "B",
+          "text": "La frase 1, porque el pastorcito solo quería jugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mentira tuvo consecuencias graves para sus ovejas."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas frases son falsas porque los lobos no comen ovejas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fábulas representan lecciones morales a través de la ficción."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque el pastorcito debió seguir mentiendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promover la mentira invalida el propósito pedagógico de la lección."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar críticamente distintas posturas morales ante un relato capacita al lector para juzgar acciones y consecuencias éticas en textos narrativos.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué valor ético defiende el ratón de campo con su decisión final?",
+      "context": "Un ratón de ciudad invita a un ratón de campo a un banquete lleno de manjares finos, pero constantemente deben esconderse asustados por un gato enorme. El ratón de campo dice: \"Prefiero mis sencillas granos de trigo en paz que este banquete con tanto peligro\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tranquilidad y la paz mental por encima del lujo y la riqueza insegura.",
+          "is_correct": true,
+          "feedback": "¡Excelente! La vida sencilla y tranquila se valora más que la abundancia rodeada de peligro."
+        },
+        {
+          "letter": "B",
+          "text": "El deseo de vivir con lujos sin importar los riesgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese era el pensamiento del ratón de ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "La cobardía por no querer pelear contra el gato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es cobardía, es sabiduría para buscar una vida pacífica."
+        },
+        {
+          "letter": "D",
+          "text": "El gusto por pasar hambre en la soledad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ratón de campo tiene alimentos sencillos, no pasa hambre."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El análisis ético en la lectura crítica permite identificar la jerarquía de valores (tranquilidad vs. ostentación) presentes en las resoluciones de fábulas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W39-fabulas-ensenanzas-moralejas-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
