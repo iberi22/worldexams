@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-32-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T23:35:19.202Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v1",
+      "statement": "¿Qué información da ese primer párrafo?",
+      "context": "En la crónica de Medellín, el primer párrafo dice: \"El partido empezó a las tres de la tarde en la cancha del barrio La Salle\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión del cronista sobre el equipo visitante.",
+          "is_correct": false,
+          "feedback": "La opinión del cronista llega al final de la crónica, y no en el primer párrafo."
+        },
+        {
+          "letter": "B",
+          "text": "El resultado final del partido.",
+          "is_correct": false,
+          "feedback": "El marcador final no está en la apertura, porque el texto apenas está situando el comienzo."
+        },
+        {
+          "letter": "C",
+          "text": "La hora y el lugar donde se disputó el encuentro.",
+          "is_correct": true,
+          "feedback": "La hora y el lugar son datos del juego, y por eso abren el relato de la crónica."
+        },
+        {
+          "letter": "D",
+          "text": "El número de espectadores que entraron a la cancha.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona la entrada de espectadores, y el dato que sí se da son la hora y el lugar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La crónica deportiva abre con los datos básicos del encuentro, como la hora, el lugar y los equipos. Esos datos sirven de base para ordenar después todo lo que ocurrió en la partida. Reconocer el orden del relato evita confundir la apertura con el resultado y ayuda a seguir el texto paso a paso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v2",
+      "statement": "¿Qué dice esa frase sobre el juego del defensa?",
+      "context": "En la crónica de Cali, el cronista escribe que \"el defensa central del Local no acertó ni un solo pase en la segunda mitad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que falló todos los pases de la segunda mitad.",
+          "is_correct": true,
+          "feedback": "Decir que no acertó ni un solo pase en ese tiempo equivale a decir que los falló todos."
+        },
+        {
+          "letter": "B",
+          "text": "Que marcó un gol en la segunda mitad.",
+          "is_correct": false,
+          "feedback": "La frase habla de pases, y no de goles, así que no describe la anotación de un gol."
+        },
+        {
+          "letter": "C",
+          "text": "Que salió lesionado antes del descanso.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona ninguna lesión, y la frase se limita a hablar de los pases."
+        },
+        {
+          "letter": "D",
+          "text": "Que el árbitro le anuló un gol.",
+          "is_correct": false,
+          "feedback": "No hay anotación ni decisión del árbitro en la frase, y el problema se centra en los pases."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las frases negativas con un verbo de acción exigen un esfuerzo de lectura que conviene practicar. Cuando el texto dice que alguien no acertó ni un solo pase, está diciendo que todos esos pases fueron fallados. Interpretar bien este tipo de oraciones evita llevar una impresión contraria a la del cronista.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v3",
+      "statement": "¿Qué texto cumple mejor esa consigna?",
+      "context": "En el taller de Barranquilla, la consigna dice: \"cuente el partido de la final escolar tal como se vivió, sin inventar datos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tabla con los nombres de los jugadores y sus posiciones.",
+          "is_correct": false,
+          "feedback": "Una tabla entrega datos de la plantilla, y no cuenta el partido como se vivió."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuento donde un niño imaginario anota el gol de la final.",
+          "is_correct": false,
+          "feedback": "Un cuento agrega personajes que no participaron, y eso contradice la orden de no inventar datos."
+        },
+        {
+          "letter": "C",
+          "text": "Un análisis de las estrategias que usaron los entrenadores.",
+          "is_correct": false,
+          "feedback": "Un análisis estudia el juego desde afuera, y no narra la experiencia de quienes lo vivieron."
+        },
+        {
+          "letter": "D",
+          "text": "Una crónica con el marcador, los minutos de los goles y la voz del cronista.",
+          "is_correct": true,
+          "feedback": "El relato fiel con datos del juego y la voz del cronista es exactamente lo que pide la consigna."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La crónica deportiva combina el relato de lo ocurrido con la voz de quien lo cuenta, y esa mezcla responde a la consigna del taller. El marcador y los minutos son datos verificables, mientras la voz del cronista aporta la experiencia del partido. Un cuadro de nombres o un análisis de estrategias no reproducen esa forma de contar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estas frases resolvería la contradicción?",
+      "context": "En la edición de Pereira, una nota dice que el partido terminó dos a dos y otra de la misma página afirma que terminó tres a dos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El encuentro empezó a las tres de la tarde en la cancha del barrio.\"",
+          "is_correct": false,
+          "feedback": "Esa frase da la hora y el lugar, y no aclara cuál de los dos marcadores es el correcto."
+        },
+        {
+          "letter": "B",
+          "text": "\"El resultado corregido que se publicó después fue de dos a dos.\"",
+          "is_correct": true,
+          "feedback": "La frase que entrega la cifra correcta y remite a la versión corregida resuelve el desacuerdo."
+        },
+        {
+          "letter": "C",
+          "text": "\"La entrada a la cancha costó cinco mil pesos en la boletería.\"",
+          "is_correct": false,
+          "feedback": "El precio de la entrada es un dato ajeno al marcador, y no aclara la contradicción."
+        },
+        {
+          "letter": "D",
+          "text": "\"El defensa central no acertó ni un solo pase en el segundo tiempo.\"",
+          "is_correct": false,
+          "feedback": "Esa frase habla del juego de un jugador, y no del resultado del partido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la lectura de prensa, una contradicción se resuelve buscando la fuente que declara el dato corregido. En este caso, la nota que remite a la versión corregida ofrece la cifra que las otras contradicen. Saber qué fuente tiene la última palabra ayuda a medir la fiabilidad de un periódico y a no repetir errores en una nota propia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple la conjunción \"pero\" en esa oración?",
+      "context": "En la crónica de Bogotá aparece la oración: \"Ganó el Local, pero ganó mejor el Visitante\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce la causa que explica el resultado del partido.",
+          "is_correct": false,
+          "feedback": "La causa se marcaría con la palabra \"porque\", y esa palabra no aparece en la oración."
+        },
+        {
+          "letter": "B",
+          "text": "Enumera dos acciones en orden cronológico.",
+          "is_correct": false,
+          "feedback": "Las dos acciones no se ordenan en el tiempo, y se enuncian para contrastarlas entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Contrasta dos afirmaciones que parecen opuestas.",
+          "is_correct": true,
+          "feedback": "La conjunción \"pero\" enlaza la afirmación inicial con una que la corrige, y ese es su contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Cierra la crónica con el juicio final del cronista.",
+          "is_correct": false,
+          "feedback": "La oración está en el cuerpo del relato, y no funciona como conclusión del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La conjunción adversativa \"pero\" es la llave para entender las oraciones que contrastan dos ideas. En esta frase, la segunda parte corrige a la primera, porque ganar un partido no es lo mismo que jugar mejor. Reconocer esa función sintáctica ayuda a no perder el matiz más importante de muchas crónicas deportivas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se relacionan esos dos párrafos?",
+      "context": "En la crónica de Medellín, el primer párrafo da el marcador del primer tiempo y el último párrafo valora el arbitraje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero cuenta los hechos y el último los interpreta.",
+          "is_correct": true,
+          "feedback": "La crónica avanza del relato a la valoración, y ese recorrido da sentido a la lectura completa."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos repiten la misma información del marcador.",
+          "is_correct": false,
+          "feedback": "El marcador solo aparece en el relato, porque el último párrafo trata del arbitraje."
+        },
+        {
+          "letter": "C",
+          "text": "El primero interpreta y el último se limita a dar datos.",
+          "is_correct": false,
+          "feedback": "Las funciones están al revés, ya que los datos abren la crónica y el juicio la cierra."
+        },
+        {
+          "letter": "D",
+          "text": "No se relacionan, porque cada párrafo cuenta un partido distinto.",
+          "is_correct": false,
+          "feedback": "Los dos párrafos hablan del mismo encuentro, y esa relación construye el relato completo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica avanza en dos direcciones: primero cuenta lo que ocurrió y después lo valora. El marcador del primer tiempo abre el relato y el juicio sobre el arbitraje lo cierra, de modo que ningún tramo sobra. Reconocer esa arquitectura distingue la crónica de un simple resumen de resultados y anticipa la postura final del cronista.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v7",
+      "statement": "¿Qué rasgo comparten esas dos crónicas?",
+      "context": "En Bucaramanga, un grupo compara la crónica de un partido escolar con la crónica de un partido profesional publicadas por el mismo medio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terminan con una moraleja sobre el valor del deporte.",
+          "is_correct": false,
+          "feedback": "La crónica no cierra con una enseñanza, y el enunciado no muestra ninguna en esos textos."
+        },
+        {
+          "letter": "B",
+          "text": "Están escritas en primera persona de un jugador.",
+          "is_correct": false,
+          "feedback": "La crónica se escribe en tercera persona, y no toma la voz de un jugador como narrador."
+        },
+        {
+          "letter": "C",
+          "text": "Son anuncios publicitarios de los equipos participantes.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos busca vender un equipo, porque su función es contar y valorar el partido."
+        },
+        {
+          "letter": "D",
+          "text": "Relatan los hechos en orden e incluyen la voz del cronista.",
+          "is_correct": true,
+          "feedback": "El relato ordenado y la voz de quien cuenta son los dos rasgos que comparten, aunque los equipos sean distintos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dos crónicas de partidos muy distintos pueden compartir la misma estructura, porque el género manda más que el tema. Ambas relatan los hechos en orden cronológico y dejan ver la voz de quien cuenta, desde la cancha del colegio hasta el estadio profesional. Reconocer esos rasgos compartidos permite identificar el género más allá del escenario donde se juega.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene la palabra \"débil\" en ese texto?",
+      "context": "En la crónica de Cali, el cronista califica el arbitraje de \"débil\" después de contar dos tarjetas amarillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añade un dato nuevo sobre las tarjetas que se mostraron.",
+          "is_correct": false,
+          "feedback": "El dato de las tarjetas ya estaba contado, y la palabra agrega una valoración y no información."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta un juicio que se apoya en los hechos ya contados.",
+          "is_correct": true,
+          "feedback": "El juicio llega después del relato, y por eso se apoya en hechos que el lector ya conoce."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye el relato del partido por una opinión sin datos.",
+          "is_correct": false,
+          "feedback": "El relato se conserva completo en la crónica, y la valoración se suma a ese relato ya descrito."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la crónica en un reporte estadístico del juego.",
+          "is_correct": false,
+          "feedback": "Un adjetivo valorativo no produce cifras, y por eso no transforma el texto en un reporte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje valorativo aparece en la crónica cuando el cronista califica lo que cuenta, y su fuerza depende de los hechos previos. Calificar el arbitraje de débil después de narrar dos tarjetas amarillas hace que el juicio parezca bien fundado. Cuando la valoración llega sin relato previo, en cambio, se convierte en una opinión sin respaldo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v9",
+      "statement": "¿Qué pregunta pone a prueba la calidad de esa conclusión?",
+      "context": "En la crónica de Pereira, la última frase dice: \"El Local ganó 2 a 0, pero el mejor del partido fue el arquero del Visitante\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿La oración final comienza con mayúscula inicial?",
+          "is_correct": false,
+          "feedback": "La mayúscula inicial es una regla de ortografía, y no evalúa la solidez del razonamiento."
+        },
+        {
+          "letter": "B",
+          "text": "¿La crónica tiene al menos cinco párrafos?",
+          "is_correct": false,
+          "feedback": "Contar párrafos mide la extensión del texto, y no la calidad del juicio del cronista."
+        },
+        {
+          "letter": "C",
+          "text": "¿El relato muestra con datos por qué el arquero fue el mejor del partido?",
+          "is_correct": true,
+          "feedback": "La pregunta indaga el respaldo del juicio, que es lo que separa una crónica bien hecha de una simple opinión."
+        },
+        {
+          "letter": "D",
+          "text": "¿La palabra \"arquero\" aparece más de dos veces en la crónica?",
+          "is_correct": false,
+          "feedback": "Contar palabras mide la repetición de un término, y no el apoyo que tiene la conclusión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la calidad de una crónica implica poner a prueba su conclusión, es decir, preguntarle si el relato realmente sostiene el juicio. Si el texto afirma que el arquero fue el mejor, la evidencia debe estar en las acciones que la crónica relata. Cuando la afirmación no tiene datos que la respalden, se convierte en una preferencia personal del cronista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evidencia demostraría mejor que el grupo comprendió el género?",
+      "context": "En Cartagena, un grupo compara la crónica de un partido de fútbol con la crónica de un partido de baloncesto publicadas en la semana 32.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el grupo explica qué papel cumplen el dato del juego y la voz del cronista.",
+          "is_correct": true,
+          "feedback": "Explicar el papel de cada componente revela que entendió cómo se construye el género, y no solo que lo leyó."
+        },
+        {
+          "letter": "B",
+          "text": "Que las dos crónicas tienen el mismo número de párrafos.",
+          "is_correct": false,
+          "feedback": "La igualdad de estructura formal no demuestra comprensión, porque es un dato accidental de cada texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que las dos crónicas nombran la cancha donde se jugó.",
+          "is_correct": false,
+          "feedback": "Nombrar la cancha es un dato del relato, y no una evidencia de comprensión del género."
+        },
+        {
+          "letter": "D",
+          "text": "Que las dos crónicas se publicaron el mismo día.",
+          "is_correct": false,
+          "feedback": "La fecha de publicación es un dato externo, y no revela nada sobre el dominio del género."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Demostrar comprensión de un género implica explicar cómo se construye, y no solamente reconocer su nombre. En la crónica deportiva, esa construcción combina el dato del juego con la voz del cronista que narra y valora. Comparar dos deportes distintos revela que el género se sostiene en ese equilibrio, mucho más allá del tema que se cuenta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

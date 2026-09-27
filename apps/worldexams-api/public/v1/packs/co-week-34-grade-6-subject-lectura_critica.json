@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-34-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T23:35:19.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v1",
+      "statement": "¿Qué información da la apertura de la carta?",
+      "context": "En la sección de cartas de un diario de Medellín, la carta abre así: \"Señor director: desde hace seis meses la ruta de la mañana llega tarde a mi colegio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuánto cuesta el pasaje de la ruta escolar.",
+          "is_correct": false,
+          "feedback": "La apertura no habla de precios, y ese dato no aparece en el texto citado."
+        },
+        {
+          "letter": "B",
+          "text": "Cuántos estudiantes viajan en esa ruta.",
+          "is_correct": false,
+          "feedback": "El número de pasajeros no se menciona, porque la apertura solo ubica al destinatario."
+        },
+        {
+          "letter": "C",
+          "text": "A quién se dirige la persona que escribe.",
+          "is_correct": true,
+          "feedback": "El saludo \"Señor director\" muestra el destinatario, y esa es la información que abre la carta."
+        },
+        {
+          "letter": "D",
+          "text": "Qué día se publicó la carta en el diario.",
+          "is_correct": false,
+          "feedback": "La fecha es un dato del diario, y no lo que enuncia el saludo inicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La carta editorial se abre con un saludo que identifica de inmediato a quién se dirige quien escribe. Ese saludo es lo que convierte el texto en un mensaje dirigido y no en un artículo anónimo. Reconocer el destinatario desde la primera línea ayuda a interpretar el tono y a entender qué tipo de respuesta espera la carta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v2",
+      "statement": "¿Qué comunica esa frase sobre la posición de la lectora?",
+      "context": "En un diario de Cali, una lectora escribe: \"Agradezco que este periódico no haya publicado mi nombre completo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que valora el cuidado del diario con sus datos.",
+          "is_correct": true,
+          "feedback": "Agradecer que no se publique el nombre muestra que la lectora valora una decisión prudente."
+        },
+        {
+          "letter": "B",
+          "text": "Que ella está en desacuerdo con la publicación.",
+          "is_correct": false,
+          "feedback": "La palabra \"agradezco\" expresa un agradecimiento, y no una protesta contra el diario."
+        },
+        {
+          "letter": "C",
+          "text": "Que ella piensa publicar su nombre en otra carta.",
+          "is_correct": false,
+          "feedback": "La frase celebra que no se publicara el nombre, y no anuncia ninguna publicación personal."
+        },
+        {
+          "letter": "D",
+          "text": "Que el diario ya no publica cartas de lectoras.",
+          "is_correct": false,
+          "feedback": "El diario sí publicó la carta, y por eso la sección de cartas sigue abierta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras que expresan agradecimiento indican la posición de quien escribe frente a lo que ocurrió. Agradecer que no se publique el nombre significa que la lectora aprueba esa decisión. Reconocer ese tono positivo evita leer toda carta como un reclamo, porque la sección admite cartas de apoyo, de reclamo y de propuesta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v3",
+      "statement": "¿Qué género sirve mejor para esa consigna?",
+      "context": "En el taller de Bogotá, la consigna pide escribir al director de un periódico para proponer una parada nueva de los buses escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El editorial del medio, porque define la postura del diario.",
+          "is_correct": false,
+          "feedback": "El editorial expresa la voz del medio, y no permite pedirle a un director algo puntual."
+        },
+        {
+          "letter": "B",
+          "text": "La biografía del director, porque cuenta su trayectoria.",
+          "is_correct": false,
+          "feedback": "La biografía narra la vida de una persona, y no sirve para plantear una petición."
+        },
+        {
+          "letter": "C",
+          "text": "La crónica, porque cuenta hechos en orden cronológico.",
+          "is_correct": false,
+          "feedback": "La crónica narra lo que ocurrió, y no busca una respuesta directa de quien recibe el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La carta editorial, porque se dirige a alguien para proponer un cambio.",
+          "is_correct": true,
+          "feedback": "La carta existe para comunicarse con un destinatario concreto, y en este caso con el director."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La carta editorial se caracteriza por el trato directo y por una petición concreta. Cuando alguien escribe a un director para proponer un cambio, usa ese género porque espera una respuesta y no solo informar. La crónica, el editorial y la biografía cumplen otras funciones y no permiten esa comunicación de ida y vuelta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v4",
+      "statement": "¿Qué parte de la carta es una propuesta concreta?",
+      "context": "En una carta publicada en Pereira, la lectora escribe: \"Pido que se instale un semáforo en la entrada de mi colegio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción de la calle por donde pasan los estudiantes.",
+          "is_correct": false,
+          "feedback": "Esa descripción presenta el problema, y todavía no pide ninguna solución concreta."
+        },
+        {
+          "letter": "B",
+          "text": "La oración que pide instalar un semáforo en la entrada del colegio.",
+          "is_correct": true,
+          "feedback": "Esa oración dice qué se pide y dónde, y por eso es una propuesta clara y verificable."
+        },
+        {
+          "letter": "C",
+          "text": "La fórmula de despedida con la que se cierra el escrito.",
+          "is_correct": false,
+          "feedback": "El cierre ordena el escrito, y no contiene ninguna petición dirigida al director."
+        },
+        {
+          "letter": "D",
+          "text": "El saludo inicial que identifica al destinatario.",
+          "is_correct": false,
+          "feedback": "El saludo abre la carta, y no enuncia lo que la lectora quiere que se haga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una propuesta concreta dice qué se pide y en qué lugar. En el ejemplo, instalar un semáforo en la entrada del colegio reúne esas condiciones y se puede verificar con facilidad. Reconocer la diferencia entre el problema descrito y la solución pedida ayuda a escribir cartas claras y fáciles de atender.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple esa fórmula de cierre?",
+      "context": "En una carta de Barranquilla, el último párrafo dice: \"Quedo atentamente a la espera de una respuesta\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añade una segunda petición al director del diario.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona otra solicitud, y la fórmula solo anuncia una espera."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia el asunto tratado durante la carta.",
+          "is_correct": false,
+          "feedback": "El cierre no cambia de tema, y termina el escrito sin abrir un nuevo orden."
+        },
+        {
+          "letter": "C",
+          "text": "Cierra el escrito y deja abierta la posibilidad de una respuesta.",
+          "is_correct": true,
+          "feedback": "La fórmula termina el texto y pide de manera indirecta una contestación, y por eso funciona como cierre."
+        },
+        {
+          "letter": "D",
+          "text": "Presenta la respuesta que el diario ya le dio a la lectora.",
+          "is_correct": false,
+          "feedback": "La fórmula no trae ninguna respuesta, y solo expresa la espera por una reacción futura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fórmulas de cierre ordenan la carta en tres movimientos: apertura, cuerpo y despedida. La última deja ver que quien escribe espera una respuesta, y por eso el texto sigue siendo una conversación. Reconocer esa estructura ayuda a separar el reclamo, la petición y la despedida, que son partes de distinta función.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué es necesaria la segunda oración de esa carta?",
+      "context": "En una carta de Bogotá, la lectora escribe que la ruta llega tarde y por eso los estudiantes pierden la primera hora de clase, y luego pide un cambio de horario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque conecta el problema descrito con la petición que sigue.",
+          "is_correct": true,
+          "feedback": "La segunda oración une la dificultad vivida con la solución pedida, y sin ella la petición quedaría suelta."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cambia el asunto de la carta a otro tema.",
+          "is_correct": false,
+          "feedback": "Las dos oraciones tratan del mismo asunto, porque la segunda desarrolla la primera."
+        },
+        {
+          "letter": "C",
+          "text": "Porque presenta datos que pertenecen a otra persona.",
+          "is_correct": false,
+          "feedback": "La segunda oración expresa la consecuencia del problema y la petición de la misma lectora."
+        },
+        {
+          "letter": "D",
+          "text": "Porque repite el problema para que el texto sea más largo.",
+          "is_correct": false,
+          "feedback": "La oración no repite nada, y su función es relacionar la queja con lo que se pide."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una carta que reclama bien se organiza en dos movimientos: describe el problema y pide una solución concreta. La segunda oración cumple la función de unir ambos, porque muestra qué se pierde mientras no se atienda la petición. Reconocer ese nexo ayuda a construir cartas más eficazes, porque el destinatario entiende la razón de lo que se le pide.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v7",
+      "statement": "¿Qué diferencia entre los dos textos se puede observar?",
+      "context": "En Santa Marta, un grupo compara una carta de una lectora sobre el transporte escolar con el editorial del mismo periódico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos son noticias sobre el último partido del barrio.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos es una noticia, porque su función es expresar una posición."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos están escritos en tercera persona.",
+          "is_correct": false,
+          "feedback": "La carta se escribe en primera persona, y solo el editorial usa la voz institucional del medio."
+        },
+        {
+          "letter": "C",
+          "text": "La carta no tiene destinatario y el editorial sí.",
+          "is_correct": false,
+          "feedback": "Es al revés: la carta se dirige al director y el editorial no se dirige a nadie en particular."
+        },
+        {
+          "letter": "D",
+          "text": "La carta habla en primera persona y el editorial usa la voz del medio.",
+          "is_correct": true,
+          "feedback": "La carta escribe \"yo\" y el editorial no, porque uno habla por una persona y el otro por el diario."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La carta editorial es un mensaje individual, con una persona que escribe y pide algo concreto. El editorial del mismo periódico expresa la postura institucional del medio, sin firma personal. Saber quién habla en cada columna permite comparar sus argumentos y entender por qué pueden tener alcances distintos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v8",
+      "statement": "¿Qué tono tiene esa frase dentro de la carta?",
+      "context": "En una carta de Cali, la lectora escribe: \"Agradecería que el diario publicara el resultado de esa petición en la sección de cartas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De amenaza, porque anuncia una sanción.",
+          "is_correct": false,
+          "feedback": "La frase no menciona sanciones ni consecuencias, y por eso no puede leerse como amenaza."
+        },
+        {
+          "letter": "B",
+          "text": "De cortesía, porque pide sin exigir.",
+          "is_correct": true,
+          "feedback": "El verbo en forma condicional \"agradecería\" suaviza la petición, y por eso el tono es cortés."
+        },
+        {
+          "letter": "C",
+          "text": "De orden, porque impone una obligación al diario.",
+          "is_correct": false,
+          "feedback": "Un tono de orden usaría un imperativo, y aquí el verbo está en forma condicional."
+        },
+        {
+          "letter": "D",
+          "text": "De acusación, porque culpa al diario por la situación.",
+          "is_correct": false,
+          "feedback": "La carta no culpa a nadie, porque solo solicita que se publique un resultado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El modo condicional de \"agradecería\" atenúa una petición y la presenta como un deseo, no como una exigencia. Esa forma hace que el tono sea cortés, aunque la carta pida con firmeza. Reconocer el valor de esos verbos ayuda a medir cuánto insiste quien escribe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v9",
+      "statement": "¿Qué pregunta evalúa mejor la fuerza de esa carta?",
+      "context": "En una carta de Pereira, la lectora pide reparar la pasarela del barrio porque los estudiantes la cruzan todos los días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿La carta tiene menos de tres párrafos?",
+          "is_correct": false,
+          "feedback": "Contar párrafos mide la extensión del texto, y no la calidad de lo que se pide."
+        },
+        {
+          "letter": "B",
+          "text": "¿La carta menciona el nombre del barrio donde vive la lectora?",
+          "is_correct": false,
+          "feedback": "Nombrar el barrio da un dato de lugar, y no evalúa la solidez del reclamo."
+        },
+        {
+          "letter": "C",
+          "text": "¿La carta explica qué ocurre si no se atiende la petición?",
+          "is_correct": true,
+          "feedback": "La pregunta indaga el respaldo del reclamo, que es lo que da fuerza a una carta dirigida."
+        },
+        {
+          "letter": "D",
+          "text": "¿La carta usa coma después del saludo inicial?",
+          "is_correct": false,
+          "feedback": "La puntuación del saludo es un detalle formal, y no dice nada sobre el reclamo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la fuerza de una carta implica preguntar si el reclamo explica las consecuencias de no atenderlo. Cuando la lectora muestra qué problema trae la pasarela en mal estado, su petición queda respaldada por hechos. Una carta que solo expresa molestia pide, pero no argumenta, y por eso suele tener menos efecto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evidencia demostraría mejor que el grupo comprendió el género?",
+      "context": "En Barranquilla, un grupo compara dos cartas publicadas el mismo día: una de reclamo y una de propuesta sobre el mismo asunto del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el grupo explica qué pide cada carta y con qué tono.",
+          "is_correct": true,
+          "feedback": "Explicar la petición y el tono de cada carta muestra que entendió cómo funciona el género."
+        },
+        {
+          "letter": "B",
+          "text": "Que las dos cartas tienen la misma fecha de publicación.",
+          "is_correct": false,
+          "feedback": "La fecha es un dato externo, y no revela nada sobre el dominio del género."
+        },
+        {
+          "letter": "C",
+          "text": "Que las dos cartas ocupan el mismo espacio en la página.",
+          "is_correct": false,
+          "feedback": "El espacio ocupado es un detalle de la diagramación, y no una evidencia de comprensión."
+        },
+        {
+          "letter": "D",
+          "text": "Que las dos cartas mencionan la palabra \"director\".",
+          "is_correct": false,
+          "feedback": "Nombrar al director es el saludo de la carta, y no explica qué se pide en cada texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Demostrar comprensión de un género implica explicar cómo se construye, y no solamente reconocer su nombre. En la carta editorial, eso significa identificar el problema que se describe, la petición que se formula y el tono que se usa. Comparar un reclamo con una propuesta sobre el mismo asunto muestra que el género admite distintos grados de exigencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
