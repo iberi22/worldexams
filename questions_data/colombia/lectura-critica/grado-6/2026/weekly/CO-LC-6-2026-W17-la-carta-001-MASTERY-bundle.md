@@ -1,0 +1,254 @@
+---
+id: "CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle"
+country: "colombia"
+grado: 6
+asignatura: "lectura_critica"
+tema: "la-carta"
+periodo: "weekly"
+week: "W17"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 10
+bundle_size: 10
+alignment: "DBA MEN Colombia / Saber 6"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# La carta: quién escribe, quién recibe y con qué intención
+
+Foco de la semana 17 de 40 del año escolar 2026: en lectura crítica de sexto grado estudiamos la carta como género escrito, reconociendo al remitente, al destinatario, el motivo que explica la escritura y el registro formal o informal que se elige según la relación entre las personas.
+
+## Question 1 [D3-D4]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Pragmático
+**Expected_Success:** 0.90
+**Contexto:** En un taller de comunicación escrita de un colegio de Bogotá, la profesora entrega a sus alumnos de sexto grado una carpeta con textos breves y les pide que identifiquen el género de cada escrito. Entre los textos hay un oficio, un correo electrónico y una nota para un amigo.
+
+### Enunciado
+¿Cuál de las siguientes opciones expresa mejor el propósito comunicativo de una carta?
+
+### Opciones
+- [ ] A) Transmitir a un público amplio, sin identificar a ninguna persona, una información que todos leen por igual
+  <!-- feedback: Ese es el propósito de un aviso o de un cartel, donde el destinatario es un público general y no a una sola persona. -->
+- [x] B) Dirigirse a una persona concreta para pedirle algo, informarle o expresarle lo que siente
+  <!-- feedback: Es correcta porque la carta siempre señala un destinatario identificable y organiza un mensaje de manera directa y personal. -->
+- [ ] C) Exponer con datos y cifras una tesis propia que busca convencer al lector de que tiene razón
+  <!-- feedback: Ese es el objetivo del artículo de opinión, que se apoya en argumentos y no en el contacto personal entre quien escribe y quien lee. -->
+- [ ] D) Relatar los hechos de un día en la vida del autor para que el público conozca su experiencia
+  <!-- feedback: Esa es la labor de la crónica, que narra la experiencia vivida por el cronista y la comparte con un grupo amplio de lectores. -->
+
+### Explicacion Pedagogica
+La carta es el género escrito más unido a una relación entre dos personas: la que escribe, llamada remitente, y la que recibe, llamada destinatario. A diferencia del artículo o de la crónica, la carta no intenta hablarle a todo el público, sino a alguien que puede responder, reclamar o guardar el mensaje. Reconocer ese propósito permite entender por qué el escrito incluye lugar, fecha, saludo y firma.
+
+## Question 2 [D3-D4]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Textual
+**Expected_Success:** 0.88
+**Contexto:** Un alumno de sexto grado de Bogotá entrega esta carta a su profesora de lectura: "Bogotá, 4 de mayo de 2026. Señora Mariana Lozano. Le escribo para confirmarle la reunión del viernes en la biblioteca. Cordialmente, Julián Ospina, estudiante de sexto A".
+
+### Enunciado
+De acuerdo con la carta, ¿quién es el destinatario?
+
+### Opciones
+- [ ] A) Julián Ospina
+  <!-- feedback: Julián Ospina es quien escribe y firma el texto, es decir, el remitente, y por tanto no puede ser el destinatario. -->
+- [x] B) Mariana Lozano
+  <!-- feedback: Es correcta porque el saludo se dirige a ella de manera nominal y todo el desarrollo de la carta responde a un deber con esa profesora. -->
+- [ ] C) La persona que coloca el lugar y la fecha
+  <!-- feedback: El lugar y la fecha indican dónde y cuándo se redacta el mensaje, pero esos datos jamás señalan quién recibe la carta. -->
+- [ ] D) La profesora de otro grupo que espera en la biblioteca
+  <!-- feedback: Ese maestro no aparece mencionado dentro de la carta, y el texto solo permite identificar como destinataria a la señora Lozano. -->
+
+### Explicacion Pedagogica
+Identificar al destinatario es el primer paso para comprender una carta. El saludo nominal, escrito con el nombre completo de la persona y seguido de un tratamiento como señora, revela a quién va dirigido el mensaje. En cambio, el lugar y la fecha responden a la pregunta dónde y cuándo se redactó, y el nombre que aparece al final con la firma corresponde al remitente. Distinguir esos tres elementos evita confusiones muy frecuentes en la comprensión lectora de sexto grado.
+
+## Question 3 [D5-D6]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Pragmático
+**Expected_Success:** 0.85
+**Contexto:** Un grupo de estudiantes de sexto grado de un colegio de Medellín necesita pedir al rector el uso de la cancha los sábados por la mañana. Cada uno de los cuatro integrantes del grupo propone una forma distinta de abrir el escrito.
+
+### Enunciado
+¿Cuál de los siguientes encabezamientos emplea un registro formal adecuado para una carta dirigida al rector?
+
+### Opciones
+- [ ] A) ¡Ey, rector, súbele! Nos toca la cancha el sábado, ¿sí o sí?
+  <!-- feedback: Ese tono pertenece a una conversación entre amigos o a un chat, porque usa exclamaciones y un trato oral que no resulta apropiado para un superior. -->
+- [ ] B) Compadre, le contamos que vamos a parar la cancha el sábado porfa, ¿nos la bisa? Hágale pues.
+  <!-- feedback: El voseo y las expresiones porfa y hágale pues muestran un trato de confianza entre iguales, muy distinto de una petición institucional. -->
+- [x] C) Respetado señor rector: por medio de la presente nos permitimos solicitar el uso de la cancha el próximo sábado.
+  <!-- feedback: Es correcta porque combina el tratamiento respetuoso, la fórmula de cortesía y un verbo como nos permitimos, rasgos propios del registro formal. -->
+- [ ] D) Holaaa rector, oiga es que necesitamos la cancha el sábado, avísenos si se puede
+  <!-- feedback: El alargamiento del saludo, la falta de trato respetuoso y el pedido sin cortesía desmienten una comunicación institucional y administrativa. -->
+
+### Explicacion Pedagogica
+Elegir el registro es una decisión práctica que depende de quién recibe el mensaje. Ante una autoridad como el rector, la carta debe usar un tratamiento respetuoso, fórmulas de cortesía y un orden que exponga el motivo con claridad. En cambio, un escrito dirigido a un compañero admite el tuteo, las abreviaturas y las expresiones de la vida diaria. Saber justificar por qué un registro funciona mejor que otro es una habilidad de argumentación que se practica desde sexto grado.
+
+## Question 4 [D5-D6]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Semántico
+**Expected_Success:** 0.82
+**Contexto:** Un grupo de estudiantes de sexto grado de Barranquilla decide escribir al periódico local para pedir que se publique un aviso sobre la jornada de lectura que organizarán en el colegio el próximo mes. Ellos discuten cuál de sus varios borradores presenta realmente ese motivo.
+
+### Enunciado
+¿Cuál de los siguientes textos presenta el motivo que mejor explica por qué ellos escriben la carta?
+
+### Opciones
+- [ ] A) Un relato sobre la biografía del director del periódico para que la página la imprima completa
+  <!-- feedback: Contar la vida de un periodista corresponde a otro género, y esa biografía no justifica pedir la publicación de un aviso escolar. -->
+- [x] B) El aviso sobre la jornada de lectura, que pide que el periódico difunda un evento próximo y de interés para la comunidad
+  <!-- feedback: Es correcta porque el motivo es la razón que mueve al remitente a escribir y aquí consiste en conseguir la difusión del evento escolar. -->
+- [ ] C) El agradecimiento por los comentarios que el público dejó sobre la jornada de lectura del año anterior
+  <!-- feedback: Agradecer comentarios sería otro motivo posible, pero el texto elegido habla de una jornada futura que todavía no se ha realizado. -->
+- [ ] D) El desacuerdo con la manera en que el periódico cubrió el torneo de fútbol del municipio
+  <!-- feedback: Ese reclamo pertenece a otra carta distinta, porque se refiere al torneo de fútbol y no a la jornada de lectura que quieren anunciar. -->
+
+### Explicacion Pedagogica
+El motivo de una carta es la razón concreta que lleva al remitente a escribir, y se deduce del desarrollo del texto y no de las palabras del saludo. Una misma persona puede tener varios motivos, pero solo uno explica realmente la razón de esa escritura concreta. Por eso hay que preguntar qué pide la carta, qué agradece o qué reclama, y contrastar la respuesta con el contenido del desarrollo para evitar inventar intenciones que el escrito no expresa.
+
+## Question 5 [D5-D6]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Textual
+**Expected_Success:** 0.80
+**Contexto:** Un alumno de Bucaramanga está armando su primera carta y sigue esta secuencia: primero coloca el saludo con el nombre de la destinataria, luego escribe el desarrollo con el motivo, después añade la despedida, firma con su nombre completo y, en último lugar, ubica el lugar y la fecha.
+
+### Enunciado
+¿Cuál de las siguientes afirmaciones señala el error que cometió el alumno en el procedimiento?
+
+### Opciones
+- [x] A) El lugar y la fecha deben aparecer al comienzo de la carta, antes del saludo
+  <!-- feedback: Es correcta porque el encabezado con lugar y fecha encabeza la carta y permite conocer desde el primer renglón dónde y cuándo se escribió. -->
+- [ ] B) La despedida debe redactarse antes del desarrollo para anticipar la conclusión del asunto
+  <!-- feedback: El orden del género es lugar y fecha, saludo, desarrollo, despedida y firma, de modo que la despedida jamás se coloca antes del desarrollo. -->
+- [ ] C) La firma debe escribirse con mayúsculas pequeñas y seguida de la hora exacta de envío
+  <!-- feedback: El género escrito no exige escribir en mayúsculas pequeñas ni anotar la hora, porque esas dos cosas no forman parte de los datos de la carta. -->
+- [ ] D) El saludo nominal puede omitirse siempre que se incluyan el lugar y la fecha
+  <!-- feedback: El saludo nominal es el mecanismo que identifica al destinatario, y el lugar y la fecha no lo reemplazan por sí solos. -->
+
+### Explicacion Pedagogica
+Conocer el orden de las partes de la carta ayuda a construir documentos claros y correctos. La secuencia habitual es encabezado con lugar y fecha, saludo, desarrollo donde se explica el motivo, despedida y, por último, la firma con el nombre del remitente. Ese orden sitúa primero los datos que identifican el documento y deja la firma al final, como el cierre formal. Practicar este orden evita errores de composición y enseña a organizar la información antes de redactar.
+
+## Question 6 [D7-D8]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Pragmático
+**Expected_Success:** 0.78
+**Contexto:** Dos estudiantes de sexto grado de Cali escriben con el mismo motivo, avisar que asistirán a un paseo escolar. Uno escribe a su hermana y el otro a la coordinadora del colegio. El primero abre el texto con la frase "Mi vida" y cierra con "Chao"; el segundo abre con "Cordial saludo" y cierra con "Atentamente".
+
+### Enunciado
+¿Qué conjunto de evidencias permite afirmar que la segunda carta usa un registro formal?
+
+### Opciones
+- [x] A) El tratamiento de usted, el saludo protocolario y la despedida Atentamente
+  <!-- feedback: Es correcta porque esos tres rasgos son indicadores comprobables de cortesía institucional dentro de una carta dirigida a una autoridad. -->
+- [ ] B) La ausencia de abreviaturas y la escritura de oraciones completas y largas
+  <!-- feedback: Esas características se pueden encontrar también en un mensaje informal por teléfono, y no miden el nivel de cortesía empleado. -->
+- [ ] C) La extensión breve del texto y la eliminación de los detalles innecesarios
+  <!-- feedback: Un escrito informal suele ser más breve, y la longitud no determina por sí sola el registro utilizado en la carta. -->
+- [ ] D) El uso de palabras del habla cotidiana que los miembros del barrio reconocen con facilidad
+  <!-- feedback: Ese vocabulario pertenece al registro informal, por lo que su presencia descarta la hipótesis de un registro formal en la carta. -->
+
+### Explicacion Pedagogica
+El registro no se deduce del tema ni de la cantidad de renglones, sino de un conjunto de evidencias lingüísticas: el tratamiento de usted, la fórmula del saludo, el léxico empleado y la despedida. Quien analiza una carta debe buscar esos indicadores y no debe apoyarse en intuiciones. Reconocer que "Chao" y "Cordial saludo" construyen relaciones distintas con el lector permite entender cómo el lenguaje define la distancia entre las personas.
+
+## Question 7 [D7-D8]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Expected_Success:** 0.75
+**Contexto:** Un grupo de estudiantes de Cartagena escribe dos cartas con el mismo motivo: informar que uno de los integrantes se ausentará de una salida a la playa por motivos de salud. Una va dirigida a un amigo del grupo y la otra a la coordinadora de la institución educativa.
+
+### Enunciado
+¿Qué efecto produce en el lector el cambio de registro cuando se conserva el mismo motivo?
+
+### Opciones
+- [x] A) El destinatario del texto formal comprende que la situación es seria y que espera una respuesta oficial
+  <!-- feedback: Es correcta porque el registro formal señala una situación institucional y abre la posibilidad de que la institución responda por un conducto claro. -->
+- [ ] B) El destinatario nota que el remitente escribió con prisa y que por eso le importa poco la respuesta
+  <!-- feedback: La prisa se deduce de la falta de orden y de la ausencia de fecha, y no del hecho de que el registro sea formal o informal. -->
+- [ ] C) El texto se vuelve más convincente porque un lenguaje informal siempre garantiza la aprobación
+  <!-- feedback: Un registro informal no asegura el cumplimiento de una petición, y esa idea contradice la función comunicativa de la carta. -->
+- [ ] D) El cambio carece de importancia porque el motivo es lo único que define el tono del escrito
+  <!-- feedback: El tono lo define principalmente el registro elegido, y eso ocurre aunque el motivo se mantenga idéntico en los dos documentos. -->
+
+### Explicacion Pedagogica
+Mantener el mismo motivo y cambiar el registro es un experimento mental muy útil para entender cómo funciona la carta. El contenido solicitado es igual en ambos casos, pero la manera de presentarlo construye una relación distinta: la cercanía en el escrito informal y la distancia institucional en el formal. Analizar ese contraste enseña que el lector interpreta la intención del remitente a partir de las decisiones del registro, y no solo a partir del contenido del pedido.
+
+## Question 8 [D7-D8]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Crítico-Intertextual
+**Expected_Success:** 0.72
+**Contexto:** Una alumna de Armenia compara una carta breve que un compañero de grado le escribe al director del colegio para pedirle el prestado de un libro con otra carta dirigida a la Presidencia de la República en la que se solicita una cita. Los dos textos tienen temáticas muy diferentes.
+
+### Enunciado
+¿Qué evidencia permite afirmar que los dos textos pertenecen al mismo género, aunque difieran en tema, extensión y distancia entre las personas?
+
+### Opciones
+- [x] A) Los dos se dirigen a un destinatario identificable y organizan un mensaje para lograr un propósito determinado
+  <!-- feedback: Es correcta porque esa estructura de relación comunicativa, y no el tema tratado, es lo que define la pertenencia de los dos textos al género carta. -->
+- [ ] B) Los dos se publican en un medio de circulación amplia y por eso los lee el mismo público
+  <!-- feedback: La circulación amplia corresponde a un género para muchos lectores, mientras la carta se dirige siempre a alguien concreto e identificable. -->
+- [ ] C) Los dos usan un narrador en tercera persona que describe los hechos desde fuera de la acción
+  <!-- feedback: La carta usa la voz de quien escribe, en primera o en segunda persona, y no necesita un narrador externo que describa la escena. -->
+- [ ] D) Los dos terminan con una moraleja que resume la enseñanza del asunto tratado
+  <!-- feedback: La moraleja es propia de la fábula, porque cierra el relato con una enseñanza, y no constituye un rasgo de la carta. -->
+
+### Explicacion Pedagogica
+Comparar dos textos muy distintos permite descubrir qué rasgos son esenciales y cuáles accidentales en un género. En la carta, lo que permanece siempre es la relación entre un remitente y un destinatario identificable, la presencia de un motivo y la organización del mensaje. El tema, la extensión, la distancia y el número de firmas pueden cambiar por completo. Reconocer lo esencial evita confundir la carta con la crónica, la noticia o el artículo de opinión.
+
+## Question 9 [D9-D10]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v9
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.68
+**Contexto:** Un estudiante de sexto grado de Cali quiere postular a una beca de 900.000 pesos que ofrece una fundación de su ciudad. La fundación recibe solicitudes por correo y también atiende a los interesados en persona, y solo en ese caso, durante la tarde. El muchacho vive lejos y su tiempo es limitado.
+
+### Enunciado
+¿Cuál de las siguientes decisiones está mejor justificada por las características del género carta?
+
+### Opciones
+- [ ] A) Publicar su postulación en un periódico local, porque esa publicación garantiza que la fundación llegue a conocerla
+  <!-- feedback: Publicar en un periódico no garantiza que la fundación lea el texto, y además saca la solicitud del canal institucional que ella misma estableció. -->
+- [ ] B) Acudir en persona a la fundación, porque el contacto directo garantiza sin condiciones que le otorguen la beca
+  <!-- feedback: Estar en persona elimina el proceso de selección, y además nunca reemplaza la postulación escrita que pide la fundación. -->
+- [ ] C) Esperar a la próxima convocatoria anual, porque ninguna fundación admite solicitudes por carta durante el año
+  <!-- feedback: La convocatoria anual es solo una opción y contradice la información del texto, que afirma que la fundación sí recibe solicitudes por correo. -->
+- [x] D) Enviar la carta a la fundación, porque el texto escrito deja constancia de lo solicitado y puede reenviarse si trascurren varios días sin respuesta
+  <!-- feedback: Es correcta porque la carta conserva la evidencia escrita, permite reenviar la postulación y respeta el conducto formal de la fundación. -->
+
+### Explicacion Pedagogica
+Evaluar una estrategia comunicativa exige valorar la opción más adecuada según el género, el canal y la situación descrita. La carta ofrece la ventaja de dejar constancia escrita, permitir el reenvío y respetar el conducto oficial de la institución, tres razones que la visita personal no garantiza. Este tipo de razonamiento, donde se comparan alternativas y se escoge la mejor con argumentos, es la clase de competencia que el examen Saber exige en los talleres de lectura y escritura.
+
+## Question 10 [D9-D10]
+**ID:** CO-LC-6-2026-W17-la-carta-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Pragmático
+**Expected_Success:** 0.65
+**Contexto:** Un grupo de estudiantes de Turbo, en Antioquia, redacta una queja formal sobre el exceso de polvo en el patio de recreo. Entre sus planes aparecen enviar la carta a la autoridad educativa competente, publicar el asunto en redes sociales, contar el caso de palabra en la sala de profesores y esperar hasta el cierre del año escolar para presentar la solicitud.
+
+### Enunciado
+¿Cuál de las siguientes propuestas es la más adecuada y qué razonamiento la respalda?
+
+### Opciones
+- [ ] A) Publicar el asunto en redes sociales, porque de esa manera la comunidad conoce la molestia de inmediato
+  <!-- feedback: La publicación en redes sociales da visibilidad, pero no reemplaza la presentación formal de una queja ante la autoridad competente. -->
+- [ ] B) Contar el caso de palabra en la sala de profesores, porque el trato directo resulta siempre más eficaz
+  <!-- feedback: El relato oral puede favorecer el diálogo, pero no deja constancia escrita de la queja ni obliga a la institución a responder por escrito. -->
+- [x] C) Enviar la carta a la autoridad educativa competente, porque ese es el conducto indicado para presentar una queja y obtener respuesta oficial
+  <!-- feedback: Es correcta porque la carta permite presentar la queja por el conducto debido, dejar constancia escrita y obtener una respuesta institucional verificable. -->
+- [ ] D) Esperar hasta el cierre del año escolar, porque solo al final del año se pueden presentar solicitudes
+  <!-- feedback: La espera no aparece justificada en ningún dato del enunciado, y aplazar un asunto de convivencia durante meses es una decisión injustificable. -->
+
+### Explicacion Pedagogica
+Evaluar la mejor estrategia exige comparar opciones y sostener la elección con argumentos, sin caer en la costumbre de escoger la más ruidosa. En una queja, la carta garantiza trazabilidad: identifica al remitente, describe el motivo y obliga a la institución a dejar una respuesta verificable. Las redes sociales y el diálogo oral tienen funciones útiles, pero resuelven otros problemas. Valorar el alcance de cada género prepara a los estudiantes para situaciones reales de la vida adulta.

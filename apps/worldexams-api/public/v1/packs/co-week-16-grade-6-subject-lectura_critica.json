@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-16-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T19:47:40.368Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tres partes debe tener un artículo de opinión bien organizado?",
+      "context": "En un periódico de Bogotá, la profesora de sexto grado muestra tres textos de la sección de opinión y pide a sus estudiantes que identifiquen cuál tiene la estructura completa del género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tesis, unos argumentos que la sostienen y una conclusión que la refuerza",
+          "is_correct": true,
+          "feedback": "Es correcta porque esas tres partes aparecen en casi todo artículo de opinión, en ese orden."
+        },
+        {
+          "letter": "B",
+          "text": "Un titular, un subtítulo y una fotografía grande que ocupe media página",
+          "is_correct": false,
+          "feedback": "Son elementos del diseño de la página, no del desarrollo de las ideas del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Un resumen de tres páginas, una bibliografía y un apéndice con anexos",
+          "is_correct": false,
+          "feedback": "Esa estructura corresponde a un informe académico, no a un texto breve de opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Una entrevista al autor, una cronología del tema y una tabla de datos estadísticos",
+          "is_correct": false,
+          "feedback": "Mezcla varios géneros periodísticos y no refleja el camino que sigue una argumentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El género de la opinión se construye como un razonamiento escrito. Primero se enuncia la idea que el autor quiere defender, después se sostiene con argumentos y al final se cierra el texto respaldando esa idea. Conocer ese recorrido permite notar cuándo a un artículo le falta la tesis central.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la tesis de ese texto?",
+      "context": "En la columna que aparece en el periódico de Medellín se lee esta frase: «Leer en la casa no es un lujo, es una necesidad para que los estudiantes tengan mejores resultados».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El precio de los libros escolares en Colombia durante el último año",
+          "is_correct": false,
+          "feedback": "Es un dato económico que el texto no menciona y que, además, no sería una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "La lista de las escuelas que tienen las bibliotecas mejor dotadas",
+          "is_correct": false,
+          "feedback": "Esa lista no aparece en el fragmento y describe un hecho, no una postura del autor."
+        },
+        {
+          "letter": "C",
+          "text": "La idea que el autor defiende y que organiza todo lo demás que escribe",
+          "is_correct": true,
+          "feedback": "Es correcta porque la tesis es la postura del autor, y aquí dice que leer en casa es necesario."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción del tipo de libro que leen los estudiantes en las casas",
+          "is_correct": false,
+          "feedback": "Describe un contenido posible, pero el fragmento no informa qué libros lee cada estudiante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis es la afirmación central que el autor defiende. Se reconoce porque responde a un problema, toma posición y aparece respaldada por todo lo demás que el texto escribe. Identificarla permite entender la estructura completa de un artículo de opinión, aunque la lectura arranque por el final.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes afirmaciones es la tesis del fragmento?",
+      "context": "La profesora entrega este fragmento de un artículo de opinión: «El celular en el aula distraía a los estudiantes de Medellín, pero una experiencia con uso controlado y límites claros mejoró sus lecturas. Prohibir el aparato no resolvió el problema: lo cambió de forma. Cuando la escuela acompaña el uso de la tecnología, el resultado mejora».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El celular en el aula distraía a los estudiantes de Medellín antes de la experiencia",
+          "is_correct": false,
+          "feedback": "Esa frase aparece en el texto, pero describe una situación pasada y no la idea que el autor defiende."
+        },
+        {
+          "letter": "B",
+          "text": "El número de lecturas de los estudiantes mejoró en las escuelas con uso controlado",
+          "is_correct": false,
+          "feedback": "Es un dato favorable que apoya la tesis, pero por sí solo no expresa la postura general del autor."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición total del celular es la mejor solución para el aula",
+          "is_correct": false,
+          "feedback": "El fragmento afirma lo contrario: prohibir el aparato no resolvió el problema que quería corregir."
+        },
+        {
+          "letter": "D",
+          "text": "El acompañamiento de la escuela al uso de la tecnología mejora el resultado de los estudiantes",
+          "is_correct": true,
+          "feedback": "Es correcta porque resume la postura que el autor defiende y que el texto sostiene con datos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Encontrar la tesis exige separar la postura de los datos que la apoyan. En este fragmento, la mejora en las lecturas y el uso controlado son pruebas, mientras que la necesidad del acompañamiento escolar es la afirmación defendida. Distinguir ambas cosas evita confundir un ejemplo con la idea central.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v4",
+      "statement": "¿A qué intención responde ese cierre del artículo?",
+      "context": "En la sección de opinión de un periódico de Bogotá, el texto se dirige a los padres de familia y termina con este llamado: «Lleve a su casa un libro esta semana y converse con su hijo sobre lo que leyó. Esa conversación no cuesta dinero».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A informar sobre la venta de libros en las librerías del país",
+          "is_correct": false,
+          "feedback": "El cierre no informa cifras de venta, y esa tarea corresponde a una nota informativa."
+        },
+        {
+          "letter": "B",
+          "text": "A persuadir con un llamado a la acción concreto, dirigido a los lectores que nombra",
+          "is_correct": true,
+          "feedback": "Es correcta porque pide una conducta clara y posible, ligada a las personas a las que se dirige."
+        },
+        {
+          "letter": "C",
+          "text": "A resumir la biografía del autor y su trayectoria como escritor",
+          "is_correct": false,
+          "feedback": "La biografía del autor no aparece en el cierre y no es el propósito del texto."
+        },
+        {
+          "letter": "D",
+          "text": "A terminar con una broma para distraer y no tratar de convencer al lector",
+          "is_correct": false,
+          "feedback": "El tono del cierre es serio y directo, y busca una acción, no una distracción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La última parte de un artículo de opinión suele contener el llamado a la acción, con el que el autor busca una respuesta concreta de quien lee. Reconocer esa intención ayuda a distinguir un texto que informa de uno que persuade, y también a valorar si la propuesta resulta clara y posible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué recurso de persuasión predomina en ese fragmento?",
+      "context": "En su columna de opinión, el autor escribe: «Imagine que todas las aulas del país tuvieran el doble de libros. No sería un lujo: sería el mismo suelo firme sobre el que se construye cualquier aprendizaje».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un recurso gráfico, porque el párrafo no tiene ninguna palabra escrita",
+          "is_correct": false,
+          "feedback": "El párrafo está escrito con palabras, así que el recurso no es gráfico sino verbal."
+        },
+        {
+          "letter": "B",
+          "text": "Una comparación con una imagen, que vuelve concreto y fácil de recordar lo que propone",
+          "is_correct": true,
+          "feedback": "Es correcta porque la imagen del suelo firme convierte una idea abstracta en algo visible."
+        },
+        {
+          "letter": "C",
+          "text": "Una cita textual, porque el párrafo reproduce palabras exactas de una autoridad",
+          "is_correct": false,
+          "feedback": "No hay ninguna autoridad citada: el recurso es una imagen creada por el propio autor."
+        },
+        {
+          "letter": "D",
+          "text": "Un dato estadístico, porque el párrafo menciona cifras sobre las aulas del país",
+          "is_correct": false,
+          "feedback": "El fragmento no presenta cifras, por lo que el recurso buscado es la comparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los artículos de opinión recurren a recursos verbales para fijar una idea en la memoria del lector. Las comparaciones y las imágenes cumplen esa función, porque hacen visible lo que sería abstracto. Reconocerlas ayuda a valorar el texto y también a evitar que un dato comprobado se confused con un recurso de persuasión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué debe hacer el lector para evaluar la solidez de ese texto?",
+      "context": "Un artículo afirma: «Caminar todos los días mejora el rendimiento de cualquier estudiante». Después, el autor ofrece tres datos que hablan de la espalda, de la circulación y del sueño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprobar que los tres datos hablen de la espalda, de la circulación y del sueño",
+          "is_correct": false,
+          "feedback": "Reconocer el tema de los datos es un paso, pero no demuestra que ellos sostengan la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Notar que hay tesis, pero que los datos aportados no la respaldan",
+          "is_correct": true,
+          "feedback": "Es correcta porque esos datos hablan de salud y no de rendimiento, de modo que el apoyo falla."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar otros artículos de opinión sobre deporte para formar su propia opinión",
+          "is_correct": false,
+          "feedback": "Leer otras columnas amplía el tema, pero no revisa si los datos de este texto apoyan su tesis."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar el texto completo, porque ningún escrito puede apoyarse en la salud",
+          "is_correct": false,
+          "feedback": "Un apoyo débil no invalida todo el texto: basta con notar que la relación está incompleta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la solidez de un artículo de opinión exige comparar la tesis con lo que ofrecen los argumentos. Si los datos se refieren a un tema distinto del que la tesis anuncia, el apoyo queda incompleto. Reconocer esa distancia protege al lector de aceptar como demostrada una idea que el texto solo insinúa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué información está dejando este texto en el segundo plano?",
+      "context": "En un artículo sobre lectura, el autor escribe: «Basta con dos libros por casa y la calidad de la educación mejora». En ningún momento menciona quién compra los libros, quién tiene tiempo para leer ni cuánto cuestan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de libros de la biblioteca nacional y el número de páginas de cada volumen",
+          "is_correct": false,
+          "feedback": "Esos datos no aparecen en el texto y no son los supuestos que la afirmación necesita."
+        },
+        {
+          "letter": "B",
+          "text": "Supuestos que el texto da por ciertos: quién puede comprarlos, con qué tiempo y con qué recursos",
+          "is_correct": true,
+          "feedback": "Es correcta porque la frase solo funciona si se aceptan esas condiciones, y nunca las explica."
+        },
+        {
+          "letter": "C",
+          "text": "La biografía de los escritores que el texto menciona como ejemplo de sus ideas",
+          "is_correct": false,
+          "feedback": "Esa información personal no aparece en el fragmento y no sostiene la afirmación del autor."
+        },
+        {
+          "letter": "D",
+          "text": "El nombre del periódico donde se publicó el artículo y el día de la semana",
+          "is_correct": false,
+          "feedback": "Son datos de la publicación, no las condiciones que la afirmación necesita para sostenerse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El segundo plano está formado por todo aquello que el texto supone verdadero sin decirlo. En este caso, la afirmación solo funciona si cada familia puede comprar los libros y dispone de tiempo para leer. Detectar esos supuestos ayuda a valorar la fuerza real de la afirmación antes de aceptarla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v8",
+      "statement": "Frente a esa afirmación, lo más indicado es consultar…",
+      "context": "En un artículo de opinión, alguien afirma: «En Colombia todos los jóvenes leen todos los días». La profesora pide decidir qué fuentes permitirían valorar esa afirmación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título del artículo, porque ya resume la conclusión que el autor quiere dejar",
+          "is_correct": false,
+          "feedback": "El título anuncia el tema, pero no ofrece pruebas que permitan medir la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Solo las redes sociales, porque allí la gente cuenta su experiencia con honestidad",
+          "is_correct": false,
+          "feedback": "Las opiniones que circulan en internet no permiten medir cuántos jóvenes leen cada día."
+        },
+        {
+          "letter": "C",
+          "text": "Los datos y estudios sobre lectura, y también lo que dicen personas que viven la situación",
+          "is_correct": true,
+          "feedback": "Es correcta porque combina cifras y voces, que se necesitan para poner a prueba una idea tan general."
+        },
+        {
+          "letter": "D",
+          "text": "Las grandes citas de la época, porque los escritores opinan mejor que los estudios",
+          "is_correct": false,
+          "feedback": "Las citas expresan opiniones personales y no miden lo que afirma el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las afirmaciones absolutas, como decir que todas las personas hacen algo todos los días, requieren evidencia amplia. Un buen lector no acepta ni rechaza de inmediato: busca datos que midan lo que se afirma y voces que expliquen por qué pasa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué aspecto de ese argumento debe superar una evaluación seria?",
+      "context": "En un artículo, alguien descarta la construcción de una ciclorruta con este argumento: «Si esa ciclorruta fuera segura, no harían falta tantas medidas de protección».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ortografía del artículo, que es el primer requisito de todo texto de opinión",
+          "is_correct": false,
+          "feedback": "La ortografía importa en cualquier texto, pero no resuelve el problema central del argumento."
+        },
+        {
+          "letter": "B",
+          "text": "La extensión del texto, porque un argumento corto siempre tiene menos valor",
+          "is_correct": false,
+          "feedback": "La extensión no determina la calidad de un razonamiento ni lo hace más o menos verdadero."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de páginas, porque el autor de un texto largo demuestra más compromiso",
+          "is_correct": false,
+          "feedback": "Un escrito largo puede ser tan débil como uno corto; el compromiso se valora por sus razones."
+        },
+        {
+          "letter": "D",
+          "text": "La relación entre lo que se afirma y lo que se demuestra, porque el razonamiento no aporta datos",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto lanza una conclusión sin ninguna evidencia que la sostenga."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un argumento consiste en pedir pruebas para lo que se afirma. En este caso se concluye que la obra no será segura, y no se ofrece ningún dato que lo confirme, de modo que la conclusión queda en el aire. Reconocer esa diferencia protege al lector de aceptar una opinión como si fuera una demostración.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué debería aclararle antes de presentar ese trabajo?",
+      "context": "Un compañero de clase quiere publicar como «noticia» un texto de opinión sobre el consumo de agua en Cartagena. La profesora le pide explicar la diferencia entre los dos géneros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto de opinión expone una postura con argumentos, mientras la noticia informa hechos verificados",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa diferencia de propósito separa un texto que persuade de uno que informa."
+        },
+        {
+          "letter": "B",
+          "text": "Que los textos de opinión deben llevar el nombre del medio donde se publicaron",
+          "is_correct": false,
+          "feedback": "Publicar en un medio no convierte un texto de opinión en noticia, porque el género no cambia por eso."
+        },
+        {
+          "letter": "C",
+          "text": "Que toda noticia debe tener exactamente cuatro párrafos, sin importar el tema",
+          "is_correct": false,
+          "feedback": "No existe esa regla fija de párrafos: la estructura depende del hecho que se informa."
+        },
+        {
+          "letter": "D",
+          "text": "Que las noticias no pueden mencionar cifras, porque solo se admiten descripciones",
+          "is_correct": false,
+          "feedback": "Las noticias sí incluyen datos numéricos verificados; lo que cambia es que no defienden posturas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir el artículo de opinión de la noticia es una habilidad de lectura que también ordena la escritura propia. El primero defiende una postura y la apoya con argumentos; el segundo informa hechos comprobables y verificables. Reconocer la diferencia evita presentar como noticia lo que en realidad busca convencer al lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W16-el-articulo-de-opinion-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
