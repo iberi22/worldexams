@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-10-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T18:21:22.637Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones corresponde a la portada de un periódico?",
+      "context": "En la biblioteca de un colegio de Chía hay una mesa de periódicos. Sobre ella están la edición de un domingo de El Tiempo, la portada del Espectador y la de un diario de la Costa Caribe. Los estudiantes observan que todos los periódicos empiezan igual: el nombre del diario en la parte superior, la fecha, un titular grande y, más abajo, columnas divididas por temas como deportes, economía y política.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera página, que anuncia los temas principales del día con titulares grandes",
+          "is_correct": true,
+          "feedback": "Es correcta porque la portada muestra en una sola página los temas más importantes de la jornada, y por eso emplea titulares grandes."
+        },
+        {
+          "letter": "B",
+          "text": "La última página, donde se publican los clasificados y los avisos publicitarios",
+          "is_correct": false,
+          "feedback": "Esa página también existe, pero es la contraportada, no la portada. La portada siempre aparece al principio."
+        },
+        {
+          "letter": "C",
+          "text": "La sección de clasificados que se ubica entre las páginas ocho y nueve",
+          "is_correct": false,
+          "feedback": "Los clasificados no ocupan una posición fija dentro del periódico y no son la portada."
+        },
+        {
+          "letter": "D",
+          "text": "El anexo con los resultados de los partidos de la Selección Colombia",
+          "is_correct": false,
+          "feedback": "Ese anexo pertenece al género deportivo, no a la portada de un periódico general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La portada es la primera página del periódico y cumple la función de presentar al lector los temas más relevantes de la jornada. Para captar la atención usa titulares de gran tamaño, fotografías destacadas y un diseño con poco texto. Las secciones de deportes, economía o política aparecen después, en las páginas interiores. Reconocer la portada es el primer paso para comprender la organización gráfica del género noticioso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v2",
+      "statement": "Cuando la profesora explica qué significa \"tasa\" en el texto de economía, ¿qué relación está usando para construir el significado?",
+      "context": "En un colegio de Bogotá, la profesora de sexto grado muestra un texto de la sección de economía: \"La tasa de interés del Banco de la República subió dos puntos porcentuales\". Un estudiante dice que no entiende la palabra \"tasa\" porque en su casa la usa para el agua. La profesora explica que en ese texto la palabra tiene un sentido técnico, distinto al que tiene en una conversación de patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La relación entre dos palabras que se parecen en su escritura",
+          "is_correct": false,
+          "feedback": "Esa es la relación entre parónimos, no la relación de significado que se está explicando."
+        },
+        {
+          "letter": "B",
+          "text": "La relación entre un encabezado y el párrafo que lo acompaña",
+          "is_correct": false,
+          "feedback": "Esa relación es de organización textual del periódico, no de significado de una palabra."
+        },
+        {
+          "letter": "C",
+          "text": "La relación entre una palabra y su significado dentro del contexto del texto",
+          "is_correct": true,
+          "feedback": "Es correcta porque el ejercicio une el vocablo con el sentido que asume en ese género económico concreto."
+        },
+        {
+          "letter": "D",
+          "text": "La relación entre una oración del texto y la explicación de la profesora",
+          "is_correct": false,
+          "feedback": "Se está explicando el vínculo entre la palabra y su sentido, no entre la oración y el comentario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La relación semántica es la que une una palabra con su significado. En el género noticioso el vocabulario técnico cambia según la sección: \"tasa\" en economía, \"edición\" en deportes, \"demanda\" en política. Una misma palabra puede tomar sentidos distintos según el contexto textual, y por eso el diccionario y la lectura atenta son herramientas indispensables para comprender una noticia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v3",
+      "statement": "Si en la orilla del río Magdalena no había ninguna persona, pero sí se localizaron varios objetos arrastrados por la corriente, ¿qué opción es la más adecuada para la noticia?",
+      "context": "Un periodista de Tunja escribe una nota sobre el río Magdalena y necesita decir que un equipo halló basura en las orillas. En clase, la profesora les explica que \"hallar\", \"detectar\" y \"observar\" no son sinónimos: cada uno se usa con una intención distinta. El periodista tiene que escoger el verbo más preciso antes de enviar el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se observaron varios objetos arrastrados por la corriente",
+          "is_correct": false,
+          "feedback": "\"Observar\" se usa para percibir a alguien o algo con la vista en directo, no para reportar un hallazgo."
+        },
+        {
+          "letter": "B",
+          "text": "Se localizaron varios objetos arrastrados por la corriente",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"localizar\" se emplea para encontrar algo que se buscaba, como los objetos señalados."
+        },
+        {
+          "letter": "C",
+          "text": "Se encontraron varios objetos arrastrados por la corriente",
+          "is_correct": false,
+          "feedback": "\"Encontrar\" describe un resultado fortuito, mientras que la operación de la noticia fue deliberada."
+        },
+        {
+          "letter": "D",
+          "text": "Se notaron varios objetos arrastrados por la corriente",
+          "is_correct": false,
+          "feedback": "\"Notar\" es un término general y poco preciso; la noticia exige un verbo que indique la búsqueda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El factor pragmático tiene en cuenta cómo el uso de una palabra depende de la situación comunicativa, de quién escribe, para quién y con qué intención. En el género noticioso, el periodista escoge verbos según lo que quiere informar y el grado de certeza. Elegir el verbo adecuado no es un detalle de estilo: cambia lo que el lector entiende del hecho informado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v4",
+      "statement": "Si el periodista usa \"inflación\" en lugar de \"carestía\" dentro de la sección de economía, ¿cuál es la razón principal de esa decisión?",
+      "context": "En un periódico de Medellín, la sección de economía publica: \"La inflación anual en Colombia fue del cinco por ciento\". La profesora de sexto grado explica que el término \"inflación\" no es un sinónimo del sustantivo cotidiano \"carestía\", y que cada uno cumple una función distinta dentro del texto periodístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quiere que solo los adultos con mucha formación entiendan el texto",
+          "is_correct": false,
+          "feedback": "Los periódicos no buscan excluir a su público juvenil; buscan precisión en lo que informan."
+        },
+        {
+          "letter": "B",
+          "text": "Busca ocupar menos espacio en la columna de la sección",
+          "is_correct": false,
+          "feedback": "Sustituir una palabra por otra no reduce el tamaño del texto. Es una decisión de registro."
+        },
+        {
+          "letter": "C",
+          "text": "Quiere que sus lectores no consulten un diccionario para decodificar el término",
+          "is_correct": false,
+          "feedback": "El género noticioso asume vocabulario especializado y no evita la consulta del diccionario."
+        },
+        {
+          "letter": "D",
+          "text": "Necesita el vocabulario técnico que exige el género noticioso económico",
+          "is_correct": true,
+          "feedback": "Es correcta porque la sección económica maneja un registro especializado y así lo exige el género."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En pragmática, la decisión de usar un término técnico en vez de uno cotidiano depende de la situación comunicativa: el género noticioso, la sección de economía y la intención de informar con precisión. El periodista no escribe \"carestía\" porque \"inflación\" es el término técnico que se espera en esa sección. Reconocer esta decisión ayuda a comprender por qué los periódicos tienen secciones y por qué cada una usa un vocabulario diferente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v5",
+      "statement": "Si un periodista de Bucaramanga escribe una crónica de fútbol y llama \"selección\" al equipo nacional, ¿qué criterio pragmático está aplicando?",
+      "context": "Un diario de la Costa Caribe publica en su sección de deportes el titular: \"Selección Colombia venció 2-1 a Brasil en el estadio de Barranquilla\". La profesora les pide a los estudiantes de Popayán que escriban una oración de crónica de fútbol usando un término técnico del fútbol, y les explica que cada sección del periódico tiene su propio vocabulario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adecua su lenguaje al género y a la sección donde publica",
+          "is_correct": true,
+          "feedback": "Es correcta porque la sección de deportes exige el vocabulario especializado del fútbol."
+        },
+        {
+          "letter": "B",
+          "text": "Copia textualmente lo que dice el comentarista de la televisión",
+          "is_correct": false,
+          "feedback": "El periodista redacta con sus propias palabras y toma del comentarista solamente los datos."
+        },
+        {
+          "letter": "C",
+          "text": "Emplea palabras que los niños de sexto grado comprenden con facilidad",
+          "is_correct": false,
+          "feedback": "Cada sección del periódico tiene su propio registro y el lenguaje del género no se simplifica así."
+        },
+        {
+          "letter": "D",
+          "text": "Escribe en el dialecto de la Costa Caribe para demostrar cercanía",
+          "is_correct": false,
+          "feedback": "El género noticioso respeta la norma estándar, y la cercanía no se logra con el dialecto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia entre género, sección y vocabulario es un criterio pragmático. Un periódico divide su contenido en secciones, y cada una maneja un conjunto propio de términos técnicos: deportes usa \"selección\", \"delantero\" y \"arquero\"; economía usa \"tasa\" e \"inflación\". Un lector de sexto grado debería poder identificar en qué sección está escrito un texto solo por el vocabulario que emplea, sin necesitar leer el titular.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes opciones reproduce correctamente la secuencia de las partes de la columna periodística?",
+      "context": "Un periodista de Popayán escribe una columna sobre la lluvia en el Chocó. En el primer párrafo presenta el tema; en el segundo entrega cifras de lluvias medidas por satélite; en el tercero incluye el testimonio de un cafetalero del Chocó; en el cuarto cierra con una frase de reflexión. La profesora pide a los estudiantes de sexto grado que reconstruyan el orden del texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conclusión, entrada, desarrollo con datos y testimonios de fuentes",
+          "is_correct": false,
+          "feedback": "La conclusión no puede abrir el texto, porque la entrada es la que presenta el tema."
+        },
+        {
+          "letter": "B",
+          "text": "Entrada, desarrollo con datos, testimonios de fuentes y conclusión",
+          "is_correct": true,
+          "feedback": "Es correcta porque corresponde a la secuencia habitual de un texto argumentativo bien organizado."
+        },
+        {
+          "letter": "C",
+          "text": "Entrada, testimonios de fuentes, desarrollo con datos y conclusión",
+          "is_correct": false,
+          "feedback": "El testimonio respalda los datos, por eso aparece después de presentarlos y no antes."
+        },
+        {
+          "letter": "D",
+          "text": "Desarrollo con datos, entrada, testimonios de fuentes y conclusión",
+          "is_correct": false,
+          "feedback": "El desarrollo no puede ir antes de la entrada, que es la que anuncia el tema del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género discursivo organiza los textos siguiendo una estructura. En una columna periodística argumentativa la secuencia habitual es: entrada que presenta el tema, desarrollo con argumentos y datos, testimonios de fuentes que respaldan lo afirmado y conclusión que cierra el texto. Reconocer esta estructura permite distinguir hechos, opiniones y fuentes, y ayuda al lector crítico a evaluar la calidad de lo que lee en la prensa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v7",
+      "statement": "Según la explicación de la profesora, ¿cuál es la diferencia entre confundir una fecha y mentir?",
+      "context": "En la sección de opinión de un periódico de Cartagena, una persona afirma: \"Ese torneo de la Selección Colombia ya es de los años ochenta\". Otra persona responde: \"Eso no es cierto, ese torneo se jugó hace pocos meses\". Un estudiante de sexto grado dice que la primera persona \"mintió\", pero la profesora le explica que no necesariamente mintió: puede haber confundido la fecha del hecho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confundir es siempre deliberado, mientras que mentir es siempre un error",
+          "is_correct": false,
+          "feedback": "Es exactamente al revés de lo que explicó la profesora: la confusión no es intencional."
+        },
+        {
+          "letter": "B",
+          "text": "No existe ninguna diferencia, porque las dos expresiones significan lo mismo",
+          "is_correct": false,
+          "feedback": "Hay una diferencia importante: una cosa es un error y la otra es una intención."
+        },
+        {
+          "letter": "C",
+          "text": "Confundir es un error honesto, mientras que mentir exige la intención de engañar",
+          "is_correct": true,
+          "feedback": "Es correcta porque la profesora distingue el error involuntario del engaño deliberado."
+        },
+        {
+          "letter": "D",
+          "text": "Confundir es siempre más grave que mentir para un periodista",
+          "is_correct": false,
+          "feedback": "La profesora no hizo esa comparación de gravedad, solo distinguió error e intención."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el género noticioso la precisión de los hechos es fundamental. Confundir una fecha o un nombre es un error honesto que se corrige mediante una fe de errata. Mentir, en cambio, supone una intención deliberada de engañar al lector. Esta distinción es indispensable para que el lector crítico pueda valorar la confiabilidad de una fuente: un periódico serio rectifica sus errores, pero no los disfraza de intencionales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v8",
+      "statement": "Según la profesora, ¿qué relación existe entre el titular y el cuerpo de la noticia?",
+      "context": "En un periódico de la Costa Caribe aparece el titular: \"Los homicidios bajaron un doce por ciento en Cartagena durante 2026\". Al leer la noticia completa, los estudiantes de sexto grado descubren que el dato corresponde solo al primer semestre del año, no al año completo. La profesora resume: \"Fíjense que el titular simplifica, pero la noticia no engaña\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El titular contradice lo que afirma la noticia",
+          "is_correct": false,
+          "feedback": "La profesora dijo que el titular simplifica, no que contradice. No hay contradicción entre ambos."
+        },
+        {
+          "letter": "B",
+          "text": "El titular es más preciso que la noticia que lo acompaña",
+          "is_correct": false,
+          "feedback": "En este caso ocurre al revés: la noticia precisa el dato y el titular lo resume sin detallar."
+        },
+        {
+          "letter": "C",
+          "text": "El titular y la noticia son idénticos porque uno es copia del otro",
+          "is_correct": false,
+          "feedback": "El titular es un resumen con otra extensión, nunca una copia literal de la noticia."
+        },
+        {
+          "letter": "D",
+          "text": "El titular resume y la noticia completa y precisa los datos",
+          "is_correct": true,
+          "feedback": "Es correcta porque el titular ofrece una versión abreviada y la noticia entrega el dato completo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El titular y el cuerpo de la noticia cumplen funciones distintas dentro del género noticioso. El titular resume, llama la atención y por eso simplifica; la noticia informa con detalle, datos precisos y fuentes verificables. Un lector crítico de grado 6 debe leer siempre el cuerpo completo después del titular para comprobar la información, porque la relación entre ambos es de resumen y ampliación, no de contradicción ni de copia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v9",
+      "statement": "Si el grupo justifica su respuesta apoyándose en las fuentes y en los datos publicados, ¿qué tipo de lectura está realizando?",
+      "context": "En un colegio de Riohacha, un grupo de estudiantes de sexto grado lee dos versiones sobre el mismo hecho: la primera aparece en un periódico con datos oficiales y fuentes citadas, la segunda en un blog sin datos ni autor identificado. La profesora pregunta: \"¿Cuál de las dos versiones es más confiable y por qué?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lectura evaluativa, porque juzga la confiabilidad de la información con criterios",
+          "is_correct": true,
+          "feedback": "Es correcta porque el grupo está valorando la calidad de la fuente con criterios comprobables."
+        },
+        {
+          "letter": "B",
+          "text": "Una lectura recordativa, porque recupera de memoria los titulares leídos",
+          "is_correct": false,
+          "feedback": "La lectura recordativa solo recupera información; aquí el grupo está juzgando la calidad."
+        },
+        {
+          "letter": "C",
+          "text": "Una lectura sintáctica, porque identifica los sujetos de las oraciones",
+          "is_correct": false,
+          "feedback": "La lectura sintáctica analiza la estructura de la oración, y eso no es lo que hace el grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Una lectura semántica, porque busca el significado de las palabras técnicas",
+          "is_correct": false,
+          "feedback": "La lectura semántica busca significados, mientras que el grupo evalúa la confiabilidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura evaluativa es la que permite juzgar la calidad, la confiabilidad y los argumentos de un texto. En el género noticioso, evaluar significa preguntar quién escribió la información, si hay datos, si las fuentes son verificables y si el titular coincide con la noticia. Un lector crítico de grado 6 debe aplicar estos criterios para distinguir entre información confiable y afirmación sin respaldo documental.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle-v10",
+      "statement": "Según la profesora, ¿qué recurso permite diferenciar una columna de opinión de una noticia periodística?",
+      "context": "En el periódico de la Costa Caribe aparece una columna de opinión escrita por un periodista conocido. En el texto el autor emplea expresiones como \"yo creo\", \"a mi manera de ver\" y \"en mi opinión\". La profesora les pregunta a los estudiantes de sexto grado cómo pueden distinguir esa columna de una noticia que aparece en la misma sección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de fotografías en la página donde aparece el texto",
+          "is_correct": false,
+          "feedback": "Las fotografías no diferencian una columna de opinión de una noticia: las dos pueden tenerlas."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de marcas de la opinión del autor, como \"yo creo\" o \"en mi opinión\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque esas marcas revelan que el autor expone su postura personal sobre el tema."
+        },
+        {
+          "letter": "C",
+          "text": "El número de páginas que el texto ocupa dentro del periódico",
+          "is_correct": false,
+          "feedback": "La extensión no es un criterio válido, porque una columna puede ser larga o corta."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de un título claramente visible en el texto",
+          "is_correct": false,
+          "feedback": "Tanto las noticias como las columnas de opinión llevan título, así que eso no las diferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género noticioso en el periódico tiene dos variantes principales: la noticia, que informa hechos de manera objetiva, y la columna de opinión, que expone la postura del autor. Los recursos que distinguen la columna son las marcas de opinión, como \"yo creo\", \"en mi opinión\" y \"a mi manera de ver\", junto con el uso de la primera persona. Reconocerlos es indispensable para que un lector de sexto grado separe la información periodística de la opinión periodística y pueda evaluar con criterio lo que lee.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-6-2026-W10-periodico-noticias-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

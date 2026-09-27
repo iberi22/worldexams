@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-5-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T18:21:22.635Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un texto instructivo?",
+      "context": "En la biblioteca de una institución educativa de Chía, la profesora de lenguaje entrega a sus estudiantes de sexto grado la hoja de una receta de arepa de choclo y una página del manual de uso de una licuadora. Les pide que observen con atención cómo está organizado cada texto antes de leerlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto que indica de manera ordenada los materiales, las cantidades y los pasos que hay que seguir para lograr un resultado concreto.",
+          "is_correct": true,
+          "feedback": "Esa es la definición: informa qué hacer, con qué elementos y en qué orden, de modo que el lector pueda repetir el proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que cuenta la vida de un personaje desde su nacimiento hasta su muerte en orden cronológico.",
+          "is_correct": false,
+          "feedback": "La narración cronológica de un personaje pertenece al género narrativo, no al género instructivo."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que expone datos y cifras sobre el río Magdalena con el fin de informar al público en general.",
+          "is_correct": false,
+          "feedback": "Exponer datos para informar es propio del texto informativo; el instructivo busca que se ejecute una acción."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que expresa opiniones personales sobre un tema para convencer al lector de que está equivocado.",
+          "is_correct": false,
+          "feedback": "La opinión con fines de persuasión caracteriza el texto de opinión, no al texto instructivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto instructivo es un género cuyo fin principal es que el lector ejecute una acción: seguir una secuencia ordenada de pasos hasta obtener un resultado verificable, como una comida, un artefacto o el funcionamiento de un aparato. Se apoya en una lista de materiales o ingredientes con sus cantidades, en verbos que ordenan la acción y en conectores que marcan la secuencia. En la receta de arepa de choclo, por ejemplo, saber cuántos choclos se necesitan y en qué orden se amasa, cocina y sirve es lo que permite reproducir el plato; sin esa información el texto no sería útil.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el propósito comunicativo principal del manual de uso de la olla eléctrica?",
+      "context": "En el comedor del colegio de Cartagena, la custodial Elena reparte copias del manual de uso de la olla eléctrica que la unco compró para el salón de lecturas. Ella explica que el aparato llega con una hoja de instrucciones en español.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entretener al lector con historias verosímiles de familias que cocinan en olla lenta.",
+          "is_correct": false,
+          "feedback": "Las historias y los relatos entretienen, pero el manual no narra; su función es práctica y directa."
+        },
+        {
+          "letter": "B",
+          "text": "Persuadir al lector para que compre una olla eléctrica de otra marca más costosa.",
+          "is_correct": false,
+          "feedback": "Vender otra marca es una finalidad publicitaria; el manual describe el uso del aparato que ya se tiene."
+        },
+        {
+          "letter": "C",
+          "text": "Guiar al lector para que utilice correctamente el aparato y obtenga como resultado un plato bien cocinado y sin riesgos.",
+          "is_correct": true,
+          "feedback": "El propósito se cumple cuando el lector ejecuta los pasos, logra el plato y evita dañar el equipo o sufrir un accidente."
+        },
+        {
+          "letter": "D",
+          "text": "Describir el origen histórico de las ollas de barro de la Costa Caribe sin dar indicaciones de uso.",
+          "is_correct": false,
+          "feedback": "La descripción del origen de un objeto pertenece al texto informativo; el manual sí incluye indicaciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito comunicativo de un texto instructivo es útil e inmediato: sus palabras están organizadas para que alguien haga algo, no solo para que sepa algo. En un manual de uso, ese algo es manipular un aparato de forma correcta; en una receta, es elaborar un alimento con un resultado esperado. Este propósito doble, lograr el producto y evitar daño al usuario o al equipo, explica por qué los manuales serios incluyen advertencias de seguridad y por qué la precisión de las cantidades y de los tiempos es indispensable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple la lista de ingredientes y cantidades al comienzo de la receta del sancocho?",
+      "context": "En Popayán, un grupo de estudiantes de sexto grado va a preparar un almuerzo comunitario de sancocho de pollo en la parroquia. La receta que trae la abuela Imelda empieza con una lista de ingredientes y cantidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar al lector qué elementos necesita y en qué cantidad, para tenerlos listos antes de empezar a cocinar.",
+          "is_correct": true,
+          "feedback": "La lista anticipa los insumos y sus proporciones, que es exactamente lo que permite preparar el proceso sin improvisar."
+        },
+        {
+          "letter": "B",
+          "text": "Narrar en orden cronológico cómo la familia de la abuela Imelda aprendió a cocinar ese plato.",
+          "is_correct": false,
+          "feedback": "Un relato de aprendizaje familiar es narración cronológica y no cumple la función de la lista de ingredientes."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrecer recomendaciones médicas sobre la cantidad de sal que debe consumir una persona al día.",
+          "is_correct": false,
+          "feedback": "La lista no es un consejo nutricional; es el inventario de lo que se usa en la receta para obtener el plato."
+        },
+        {
+          "letter": "D",
+          "text": "Enumerar las herramientas que la abuela tiene en su cocina particular.",
+          "is_correct": false,
+          "feedback": "Los objetos que la autora posee en su casa no son el punto; lo relevante es lo que el lector necesita tener."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lista de ingredientes es un componente estructural del texto instructivo y cumple una función de inventario: anticipa todo lo que el lector necesita tener disponible y en qué proporción, para no detener el proceso a mitad de camino. Reconocer esta función permite distinguirla de otros párrafos del texto: una narración cronológica, un consejo de salud o una descripción del entorno doméstico pueden aparecer en un recetario, pero no reemplazan la lista, que es un bloque independiente y verificable. En el sancocho de Popayán, por ejemplo, saber la cantidad de pollo, de yuca y de arrachera sirve justamente para comprar antes de cocinar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v4",
+      "statement": "¿Qué rasgo de la oración \"Lleve a ebullición el jugo con el azúcar\" identifica su función dentro de un texto instructivo?",
+      "context": "En la cocina de la casa de campo de Tunja, la receta de mermelada de arequipe de Manizales empieza con la oración \"Lleve a ebullición el jugo con el azúcar\". Los estudiantes de sexto grado subrayan las palabras que indican la acción que debe realizar el lector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa verbos en pasado para contar lo que hizo la autora cuando elaboró la mermelada.",
+          "is_correct": false,
+          "feedback": "El pasado es propio de la narración; un instructivo no cuenta una experiencia vivida."
+        },
+        {
+          "letter": "B",
+          "text": "Usa adjetivos que describen el sabor y el color del producto terminado.",
+          "is_correct": false,
+          "feedback": "Los adjetivos de sabor y color son propios de la descripción y no organizan la acción del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Usa el verbo en forma de imperativo, que ordena al lector una acción directa y concreta.",
+          "is_correct": true,
+          "feedback": "El imperativo es la marca típica de la orden: \"Lleve\", \"Mezcle\" o \"Agregue\" le indican al lector qué hacer."
+        },
+        {
+          "letter": "D",
+          "text": "Usa la primera persona del plural para incluir a todos los lectores en la preparación.",
+          "is_correct": false,
+          "feedback": "La primera persona del plural cuenta en voz propia; el instructivo se dirige al lector, no a sí mismo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto instructivo se apoya en recursos sintácticos propios para conseguir que el lector ejecute la acción. El recurso central es el verbo en forma de imperativo, que elimina toda ambigüedad sobre quién debe hacer qué: si dice \"Mezcle la harina con el agua\", la orden va dirigida al lector y no a la narración. A esto se suman la objetivización en tercera persona de los ingredientes, el uso de conectores de secuencia y la precisión en cantidades y tiempos. Reconocer el imperativo es una herramienta práctica para que el estudiante distinga de inmediato una instrucción de un relato o de una descripción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ocurre si el practicante omite el paso de dejar reposar la masa de las empanadas?",
+      "context": "En el restaurante de Cartagena que administra la chef caleña, un practicante nuevo salta el paso de dejar reposar la masa de las empanadas porque le parece que ocupa mucho tiempo. La chef le explica por qué ese paso aparece en la lista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada ocurre en el resultado, porque el orden de los pasos es solo una costumbre estética.",
+          "is_correct": false,
+          "feedback": "Si el orden fuera irrelevante, el texto instructivo no necesitaría numerar ni conectar los pasos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo cambia la presentación en el plato, porque el sabor y la textura son idénticos en todos los casos.",
+          "is_correct": false,
+          "feedback": "La presentación es un aspecto menor; el reposo afecta directamente la consistencia de la masa."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la receta cambia, porque el tiempo modifica la denominación del plato.",
+          "is_correct": false,
+          "feedback": "Omitir un paso no altera cómo se llama el alimento, sino cómo queda hecho."
+        },
+        {
+          "letter": "D",
+          "text": "La textura y el sabor de las empanadas cambian, porque el reposo es un paso del que dependen los pasos siguientes.",
+          "is_correct": true,
+          "feedback": "El reposo modifica la masa; quitarlo rompe la cadena y el producto final no es el que anuncia la receta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El orden de los pasos en un texto instructivo no es decorativo: cada paso prepara las condiciones del siguiente. Un paso como dejar reposar una masa, enfriar un caldo o colar una mezcla cumple una función técnica concreta que se pierde si se omite, y esa pérdida se refleja en el resultado final. Por eso la secuencia y la numeración de los pasos forman parte de la información central del género. Reconocer esta dependencia lógica ayuda al lector a no tratar el texto como una lista de sugerencias, sino como un procedimiento en el que cada acción tiene una razón.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función cumplen los conectores \"luego\" y \"finalmente\" en el manual de la licuadora?",
+      "context": "En el aula de tecnología de Medellín, un grupo de sexto grado arma una licuadora nueva siguiendo el manual. El manual dice: \"Conecte la licuadora al tomacorriente. Luego agregue el jugo. Finalmente seleccione la velocidad alta por diez segundos\". Los estudiantes preguntan para qué sirven las palabras \"luego\" y \"finalmente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señalan la cantidad de ingredientes que se necesitan en cada paso.",
+          "is_correct": false,
+          "feedback": "Las cantidades se expresan con números y unidades de medida, no con estos conectores."
+        },
+        {
+          "letter": "B",
+          "text": "Marcan la secuencia temporal y la dependencia lógica entre los pasos, orientando al lector en el recorrido.",
+          "is_correct": true,
+          "feedback": "\"Luego\" y \"finalmente\" encadenan las acciones y muestran que una depende de la anterior."
+        },
+        {
+          "letter": "C",
+          "text": "Expresan la opinión del fabricante sobre la calidad del aparato.",
+          "is_correct": false,
+          "feedback": "La valoración del fabricante corresponde a un texto publicitario o de opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Introducen ejemplos de licuadoras de otras marcas para comparar opciones.",
+          "is_correct": false,
+          "feedback": "La comparación con otros productos no es la función de los conectores de secuencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia de un texto instructivo se construye, entre otros recursos, con conectores y marcadores de secuencia como \"primero\", \"luego\", \"después\", \"a continuación\" y \"finalmente\". Estos recursos tienen doble función: ordenan los pasos en el tiempo y hacen explícita la relación lógica que existe entre ellos, dejando claro que no se puede ejecutar un paso antes de cumplir el anterior. Cuando esos conectores desaparecen y el texto se convierte en una lista desordenada, el lector pierde la guía y corre el riesgo de obtener un resultado incorrecto o de dañar el aparato. Por eso reconocer los marcadores de secuencia es clave para comprender la organización de un procedimiento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v7",
+      "statement": "¿Qué problema se está tratando de evitar cuando el manual insiste en conectar el aparato antes de quitar la tapa?",
+      "context": "En una tienda de electrodomésticos de Riohacha se vendió una licuadora de vaso con tapa removible. El manual advierte: \"Conecte el aparato antes de quitar la tapa y la cuchilla\". Un empleado apurado llega a casa e interpreta esa línea al revés.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la persona exponga las cuchillas en movimiento y se provoque un corte en las manos.",
+          "is_correct": true,
+          "feedback": "El orden previene un accidente grave al acercar las manos al filo; la seguridad es la intención del aviso."
+        },
+        {
+          "letter": "B",
+          "text": "Que la bebida cambie de sabor por el contacto del plástico con el líquido caliente.",
+          "is_correct": false,
+          "feedback": "El orden del paso no altera el sabor; el sabor depende de los ingredientes y del tiempo de licuado."
+        },
+        {
+          "letter": "C",
+          "text": "Que la máquina se vuelva más ruidosa por el tiempo que permanece encendida.",
+          "is_correct": false,
+          "feedback": "El ruido es una consecuencia menor; la razón central del orden es la protección de la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Que el vaso se enfríe demasiado y no pueda usarse para la siguiente preparación.",
+          "is_correct": false,
+          "feedback": "La temperatura del vaso no es el motivo de la instrucción, que protege la integridad del usuario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los manuales de uso, el orden de los pasos responde con frecuencia a una intención de seguridad. Colocar el encendido antes del acceso a las partes movibles, retirar la tapa después, asegurar la pieza antes de ponerla en marcha o esperar a que el motor se detenga antes de abrir el aparato, son decisiones que evitan lesiones. Esta función pragmática complementaria explica por qué un texto instructivo no puede leerse como una simple lista de acciones: además de lograr el resultado, debe proteger a quien lo ejecuta, y esa protección es un criterio para evaluar la calidad de un buen manual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v8",
+      "statement": "¿Qué diferencia principal se observa entre la versión del manual dirigida a los niños y la versión dirigida a los adultos?",
+      "context": "En la casa de Cartagena donde vive la familia Álvarez hay dos copias del manual del horno eléctrico: una escrita con oraciones breves para los niños de la casa y otra con lenguaje técnico para sus padres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión para los niños cambia la función comunicativa del texto y pasa a entretener en lugar de informar.",
+          "is_correct": false,
+          "feedback": "El propósito útil se mantiene en las dos versiones; no se convierte en un relato ni en una publicidad."
+        },
+        {
+          "letter": "B",
+          "text": "La versión para los niños omite el paso de conectar el aparato, por considerarlo innecesario.",
+          "is_correct": false,
+          "feedback": "Omitir un paso peligroso no simplifica el manual, lo hace inseguro; ambas versiones deben incluirlo."
+        },
+        {
+          "letter": "C",
+          "text": "Se ajusta la longitud de las oraciones y el detalle de las cantidades al nivel lector, pero la secuencia y el propósito se conservan.",
+          "is_correct": true,
+          "feedback": "La adaptación al lector cambia la forma, no la estructura ni la intención: la secuencia y el objetivo siguen intactos."
+        },
+        {
+          "letter": "D",
+          "text": "La versión para los adultos usa un tono humorístico que facilita la lectura y la comprensión del texto.",
+          "is_correct": false,
+          "feedback": "El tono humorístico no es un rasgo de adaptación al lector adulto; lo característico es la precisión técnica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mismo texto instructivo puede adoptar distintas versiones según quién sea su lector, sin que cambie su función. La versión para niños suele usar oraciones más cortas, vocabulario cotidiano, iconos de apoyo y cantidades más simples; la versión para adultos emplea un lenguaje técnico preciso y detalle de mantenimiento. Lo que no cambia es la estructura básica: materiales listados, pasos numerados, secuencia marcada y propósito útil. Reconocer esta diferencia permite distinguir una adaptación legítima de una alteración que daña el sentido, como quitar advertencias de seguridad o desordenar los pasos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v9",
+      "statement": "¿Qué razón hace que este manual sea considerado un texto instructivo deficiente?",
+      "context": "Un cocinero de la escuela de Barranquilla quiere pegar en un mural el manual de uso de la freidora que compró. El texto que recibió del proveedor tiene solo cinco pasos, ninguna cantidad, ningún tiempo de cocción y ninguna advertencia sobre el aceite caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No incluye fotografías que ilustren cada paso del proceso.",
+          "is_correct": false,
+          "feedback": "Las imágenes ayudan, pero su ausencia no invalida un manual que sí explica el procedimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Escribe el nombre del fabricante en la primera página, algo innecesario en un texto instruccional.",
+          "is_correct": false,
+          "feedback": "Identificar el fabricante es un dato legítimo de un manual de uso y no constituye un defecto."
+        },
+        {
+          "letter": "C",
+          "text": "Le faltan cantidades, tiempos y advertencias de seguridad, sin los cuales el lector no puede ejecutar el proceso sin riesgo.",
+          "is_correct": true,
+          "feedback": "La información indispensable para realizar el procedimiento con seguridad está ausente; ahí está el defecto."
+        },
+        {
+          "letter": "D",
+          "text": "Utiliza un título muy breve que ocupa poco espacio en el mural de la cocina.",
+          "is_correct": false,
+          "feedback": "La extensión del título es una decisión estética y no afecta la utilidad del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un texto instructivo significa juzgar su eficiencia real como instrumento de acción. Un manual es deficiente cuando omite información que el lector necesita para lograr el resultado y evitar el peligro: cantidades, tiempos, modo de empleo, condiciones de seguridad y orden explícito de los pasos. Esos vacíos no son detalles menores, porque su ausencia hace que el procedimiento no pueda reproducirse con fidelidad. En cambio, elementos estéticos como las fotografías o la extensión del título son accesorios: si faltan, el texto sigue siendo utilizable, mientras que si se elimina la información práctica, el texto simplemente deja de cumplir su función.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las tres versiones es la más eficaz como texto instructivo y por qué?",
+      "context": "En el tablero del aula de sexto grado de Sincelejo se comparan tres versiones de una receta de arepa de queso rellena: una que solo da los ingredientes sin cantidades, una que repite el mismo paso tres veces y otra que presenta los pasos numerados con cantidades, tiempos y notas de seguridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que solo da los ingredientes, porque es la versión más corta y fácil de copiar.",
+          "is_correct": false,
+          "feedback": "Sin cantidades ni pasos, el lector no puede reproducir el resultado; la brevedad no es eficacia."
+        },
+        {
+          "letter": "B",
+          "text": "La que repite el mismo paso tres veces, porque la repetición garantiza que nadie se equivoque.",
+          "is_correct": false,
+          "feedback": "La repetición sin criterio es redundancia y confunde; no aporta información nueva al lector."
+        },
+        {
+          "letter": "C",
+          "text": "La que tiene pasos numerados con cantidades, tiempos y notas de seguridad, porque entrega toda la información necesaria en el orden correcto.",
+          "is_correct": true,
+          "feedback": "Reune los componentes que exige el género: materiales, secuencia clara y advertencias, y por eso cumple su función."
+        },
+        {
+          "letter": "D",
+          "text": "La que está escrita con las palabras más complicadas, porque el lenguaje complejo indica mayor calidad.",
+          "is_correct": false,
+          "feedback": "La dificultad del vocabulario no es sinónimo de calidad; puede incluso dificultar la comprensión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La evaluación de un texto instructivo se apoya en criterios verificables: presencia de materiales con sus cantidades, secuencia explícita y ordenada, precisión en tiempos y modos de empleo, y advertencias de seguridad, todo esto con un lenguaje adecuado al lector. Frente a versiones incompletas, redundantes o escritas con un lenguaje innecesariamente complejo, la versión que reúne esos elementos es la única que permite alcanzar el resultado buscado sin desperdicios ni accidentes. Argumentar una evaluación con estos criterios y no con preferencias personales es lo que convierte la opinión en un juicio razonado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-6-2026-W05-texto-instructivo-receta-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
