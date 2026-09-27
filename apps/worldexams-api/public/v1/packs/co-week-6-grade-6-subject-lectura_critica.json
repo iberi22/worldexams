@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-6-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T18:21:22.635Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v1",
+      "statement": "¿A qué hora cierra la biblioteca, según el aviso?",
+      "context": "En la biblioteca del colegio de Chía hay un aviso pegado en la puerta. El texto dice: \"Biblioteca abierta de lunes a viernes, de 7:00 a.m. a 4:00 p.m. Los préstamos se hacen por un máximo de ocho días. Para llevar un libro en préstamo se deben presentar el carné y el documento del estudiante. No se permite comer ni tomar bebidas en la sala de lectura.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A las 4:00 p.m.",
+          "is_correct": true,
+          "feedback": "El aviso dice que la biblioteca está abierta de 7:00 a.m. a 4:00 p.m., de modo que la última hora de servicio es las 4:00 p.m."
+        },
+        {
+          "letter": "B",
+          "text": "A las 7:00 a.m.",
+          "is_correct": false,
+          "feedback": "Esa es la hora de apertura, no la de cierre. El dato del cierre es las 4:00 p.m."
+        },
+        {
+          "letter": "C",
+          "text": "A las 8:00 a.m.",
+          "is_correct": false,
+          "feedback": "El aviso no menciona una hora de ocho de la mañana en ningún momento."
+        },
+        {
+          "letter": "D",
+          "text": "A las 6:00 p.m.",
+          "is_correct": false,
+          "feedback": "Esa hora no aparece en el texto. El aviso solo fija un horario de 7:00 a.m. a 4:00 p.m."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los avisos y carteles la información suele aparecer de manera explícita y ordenada. En este caso el texto presenta el horario dentro de un rango, y para encontrar la hora de cierre hay que ubicar la segunda hora del rango. Identificar datos literales es el primer paso para comprender un texto breve: cuando el enunciado pide un dato directo, la respuesta se encuentra en el propio aviso sin necesidad de interpretar. Confundir la hora de apertura con la de cierre es el error más frecuente, y se evita observando con cuidado la posición de cada dato dentro de la frase.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el propósito principal de este cartel del mercado?",
+      "context": "En el mercado de Chía hay un cartel que anuncia: \"Papelería y útiles escolares a mitad de precio este fin de semana. Válido sábado y domingo. Cada persona puede comprar un solo lapicero por 2.000 pesos. No se acumula con otras promociones.\" El cartel está pegado junto a la entrada principal del local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar paso a paso cómo se fabrica un lapicero.",
+          "is_correct": false,
+          "feedback": "El cartel no describe ningún proceso de fabricación. Se limita a un precio y a un tiempo de validez."
+        },
+        {
+          "letter": "B",
+          "text": "Contar la historia de la tienda y de su fundación.",
+          "is_correct": false,
+          "feedback": "El texto no dice dónde ni cuándo se abrió el local; solamente anuncia precios de papelería."
+        },
+        {
+          "letter": "C",
+          "text": "Informar una promoción de precios que solamente vale durante el fin de semana.",
+          "is_correct": true,
+          "feedback": "El cartel comunica un precio especial, el tiempo en que ese precio funciona y una condición de compra, por eso su propósito es informar la promoción."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar a hacer manualidades con papelería reciclada.",
+          "is_correct": false,
+          "feedback": "No hay indicaciones para elaboraciones ni se menciona material reciclado en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todo aviso o cartel responde a una intención comunicativa. En este caso la intención es comercial: dar a conocer una promoción y motivar la compra de quien lee el texto. Un texto publicitario breve se apoya en datos concretos, como el precio, los días válidos y la restricción, para persuadir con claridad. Cuando el lector identifica el propósito de un texto breve, comprende mejor por qué el autor elige ciertos datos y por qué incluye determinadas condiciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v3",
+      "statement": "Si Natalia quiere asistir a la jornada de lectura, ¿qué debe hacer y hasta cuándo puede hacerlo?",
+      "context": "En el colegio de Tunja se pegó este aviso: \"Jornada de lectura el próximo jueves en la biblioteca. Trae un cuento impreso de tu preferencia y un esfero. La actividad empieza a las 8:00 a.m. y termina a las 11:30 a.m. Inscripción en la secretaría hasta el miércoles. Cupo para 40 estudiantes.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentarse sin inscripción el jueves a las 8:00 a.m. en el patio.",
+          "is_correct": false,
+          "feedback": "El aviso exige inscripción previa, así que presentarse sin ella impide asistir."
+        },
+        {
+          "letter": "B",
+          "text": "Comprar un cuento en una librería el mismo jueves por la mañana.",
+          "is_correct": false,
+          "feedback": "El texto no pide comprar nada en una librería. Solo exige llevar un cuento impreso."
+        },
+        {
+          "letter": "C",
+          "text": "Entregar el esfero en la portería del colegio el viernes.",
+          "is_correct": false,
+          "feedback": "El aviso indica que la jornada es el jueves y no menciona la portería."
+        },
+        {
+          "letter": "D",
+          "text": "Inscribirse en la secretaría de la escuela antes de que termine el miércoles.",
+          "is_correct": true,
+          "feedback": "El aviso pide inscribirse en la secretaría hasta el miércoles, por eso esa es la conducta correcta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender un aviso exige relacionar la condición exigida con el plazo fijado. En este texto hay tres datos que se combinan: el requisito de inscripción, el lugar donde se hace y la fecha límite. El lector debe unir esos elementos para deducir la conducta correcta, en lugar de responder solamente con un dato aislado. Esta habilidad resulta muy útil en la vida real, porque los avisos combinan lo que hay que hacer, dónde y hasta cuándo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v4",
+      "statement": "¿A qué personas se reserva el puesto que anuncia el mensaje?",
+      "context": "En un bus de TransMilenio de Bogotá aparece este mensaje: \"Este puesto se reserva para personas mayores de 60 años, madres con bebés y personas con discapacidad. Por cortesía, ceda el asiento. Gracias por su colaboración.\" El mensaje está escrito en la parte superior del vehículo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solamente a las personas mayores de 60 años.",
+          "is_correct": false,
+          "feedback": "La reserva no se limita a los mayores, porque también incluye a madres con bebés y a personas con discapacidad."
+        },
+        {
+          "letter": "B",
+          "text": "A las personas mayores, a las madres con bebés y a quienes tienen discapacidad.",
+          "is_correct": true,
+          "feedback": "El mensaje nombra esos tres grupos, por eso la respuesta recoge la reserva completa del puesto."
+        },
+        {
+          "letter": "C",
+          "text": "A todas las personas que viajan con gran cantidad de maletas.",
+          "is_correct": false,
+          "feedback": "El mensaje no habla de equipaje ni de maletas, así que ese grupo no aparece en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "A los estudiantes que van sentados en la parte de adelante.",
+          "is_correct": false,
+          "feedback": "El mensaje no menciona estudiantes ni posiciones especiales en el vehículo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender el significado de un aviso significa identificar a quién se dirige y de quién trata el mensaje. La palabra \"reserva\" indica que un puesto tiene un destinatario preferente, y el texto enumera tres grupos distintos. Reconocer que una lista dentro de un aviso es una enumeración completa evita responder con un solo elemento de ella. Esta comprensión semántica ayuda al estudiante a razonar sobre el sentido del mensaje y sobre la conducta de cortesía que el texto solicita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v5",
+      "statement": "Según el aviso, ¿qué tiene que hacer un visitante que llega al parque a las 10:00 p.m.?",
+      "context": "En el Parque de los Deseos de Bucaramanga hay un aviso: \"Uso nocturno de los senderos. Por seguridad, los senderos permanecen abiertos de 6:00 a.m. a 9:00 p.m. La administración no se hace responsable de incidentes que ocurran después de esa hora. Por favor respete el horario.\" El texto está en un tablero junto al acceso principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respetar el horario y no recorrer los senderos a esa hora.",
+          "is_correct": true,
+          "feedback": "El aviso fija el uso de los senderos hasta las 9:00 p.m. y pide respetar el horario, por eso el visitante debe ajustarse a esa regla."
+        },
+        {
+          "letter": "B",
+          "text": "Recorrer los senderos con la debida precaución porque la administración responde por los accidentes.",
+          "is_correct": false,
+          "feedback": "El texto dice lo contrario: la administración no se hace responsable de los incidentes posteriores a esa hora."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar a que abra el parque y pagar una entrada de 8.000 pesos.",
+          "is_correct": false,
+          "feedback": "El aviso no menciona ninguna tarifa de entrada ni cobro adicional para los visitantes."
+        },
+        {
+          "letter": "D",
+          "text": "Pedir permiso en el tablero de acceso para permanecer hasta la medianoche.",
+          "is_correct": false,
+          "feedback": "No existe en el texto un permiso que permita quedarse más allá de las 9:00 p.m."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un aviso expreso instruye, y el lector debe deducir la conducta que espera quien lo escribe. En este caso el texto fija un límite horario, declara una responsabilidad limitada y cierra con una petición explícita de respeto. Aplicar esa información a una situación concreta, como la llegada de un visitante a las 10:00 p.m., permite comprobar si el aviso fue comprendido. Reconocer el propósito de un mensaje breve ayuda a actuar de manera adecuada y segura en situaciones reales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v6",
+      "statement": "Si Pedro leyó todo el aviso, ¿qué diferencia encuentra entre las dos rebajas que anuncia el texto?",
+      "context": "En la puerta de una tienda de Riohacha hay un aviso pegado: \"Fin de semana: rebajas de hasta el 60%. Trae tu cédula y gana una bolsa de tela. Aplican únicamente en este local. No canjeable con tarjetas. La bolsa es un regalo por compra, no un premio.\" Pedro leyó el aviso completo antes de decidir si compraba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos rebajas dependen de presentar la cédula y son un premio de la tienda.",
+          "is_correct": false,
+          "feedback": "El texto aclara que la bolsa es un regalo por compra y no un premio, por lo que esa relación es incorrecta."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos rebajas son descuentos sobre el precio de los productos.",
+          "is_correct": false,
+          "feedback": "La bolsa de tela no es un descuento de precio, sino un regalo entregado por realizar una compra."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es un regalo y la segunda es un descuento hecho al cliente más antiguo.",
+          "is_correct": false,
+          "feedback": "El aviso no menciona clientes antiguos; la bolsa se entrega a cualquier persona que compre en ese local."
+        },
+        {
+          "letter": "D",
+          "text": "La primera es un descuento en el precio de los productos, y la segunda es un regalo que se gana con una compra.",
+          "is_correct": true,
+          "feedback": "El texto ofrece rebajas en el precio y además una bolsa de tela como regalo por comprar, por eso las dos promociones son de naturaleza distinta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un aviso consiste en separar los elementos que lo componen y comparar su funcionamiento. En este texto aparecen dos ofertas: una reducción de precio y un obsequio por compra. Cada una responde a una lógica distinta, y el propio aviso refuerza esa diferencia al aclarar que la bolsa no es un premio. Comprender esta estructura discursiva evita que el lector confunda una promoción con otra y le permite evaluar cuáles le convienen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el texto de este aviso dice que el orden de llegada no garantiza la atención?",
+      "context": "En el centro de salud de Popayán hay un aviso sobre el otorgamiento de citas: \"Solicite su cita médica por teléfono o en el punto de información. No se atiende a personas sin turno asignado. El orden de llegada no garantiza atención. Traiga su cédula y la fórmula médica anterior.\" Este aviso está escrito con letra grande en la pared de la sala de espera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la atención depende de tener un turno asignado y no del orden en que llegan las personas.",
+          "is_correct": true,
+          "feedback": "El aviso afirma que no se atiende a quien no tiene turno, por eso el orden de llegada no importa para ser atendido."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las personas que llegan más tarde reciben un trato preferencial en la sala de espera.",
+          "is_correct": false,
+          "feedback": "El texto no menciona ningún trato preferencial para quienes llegan más tarde."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el centro de salud cierra sus puertas antes de terminar la fila de espera.",
+          "is_correct": false,
+          "feedback": "El aviso no habla de horarios de cierre ni de filas que queden sin atender."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se atienden consultas programadas para adultos mayores.",
+          "is_correct": false,
+          "feedback": "El texto no limita la atención a un grupo de edad ni menciona consultas programadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un texto breve significa explicar por qué el autor incluye una frase determinada. En este aviso, la frase sobre el orden de llegada funciona como aclaración: evita el malentendido de que llegar temprano garantiza la atención. La razón se apoya en otra afirmación del mismo texto, la que exige turno asignado. Reconocer la relación entre afirmaciones permite justificar respuestas con base en el texto y no en intuiciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cambio de sentido se produce cuando el aviso usa \"evita\" en lugar de \"prohíbe\"?",
+      "context": "Un aviso del parque del Café en Manizales dice: \"Zona de descanso. Por respeto a los demás visitantes, evita el ruido: todos hablan con audífonos. Prohibido el uso de parlantes. Gracias por tu compromiso con el cuidado del entorno.\" El aviso usa un lenguaje cercano y directo con la comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aviso convierte el cuidado del entorno en una tarea opcional para quien quiera cumplirla.",
+          "is_correct": false,
+          "feedback": "Aunque la palabra suena más suave, el texto mantiene el compromiso con el cuidado del entorno como una expectativa de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "El aviso deja de pedir silencio y empieza a permitir cualquier tipo de conversación.",
+          "is_correct": false,
+          "feedback": "El sentido del aviso no cambia de esa manera: sigue pidiendo evitar el ruido y usar audífonos."
+        },
+        {
+          "letter": "C",
+          "text": "El aviso pasa de una orden obligatoria a una recomendación amable, pero el cuidado del entorno sigue siendo el mismo deber.",
+          "is_correct": true,
+          "feedback": "La palabra \"evita\" presenta la conducta como un consejo, mientras que \"prohíbe\" impone una obligación; el deber de cuidado, sin embargo, permanece."
+        },
+        {
+          "letter": "D",
+          "text": "El aviso elimina la norma sobre el uso de parlantes y la sustituye por un espacio libre de descanso.",
+          "is_correct": false,
+          "feedback": "El texto conserva la prohibición de usar parlantes, así que esa norma no desaparece."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender un texto breve exige atención al valor de las palabras. En un mismo aviso, cambiar un verbo puede modificar el tono de la comunicación sin eliminar la conducta que se espera del lector. \"Prohíbe\" impone una regla firme, mientras que \"evita\" formula una recomendación. Analizar esta diferencia enseña que la forma de decir y la intención del texto están conectadas, y ayuda a reconocer el registro usado por quien escribe para una comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las dos redacciones cumple mejor la función de un aviso y por qué?",
+      "context": "La coordinación de un proyecto escolar en Cartagena necesita avisar algo a los estudiantes. Tiene dos opciones de redacción. Opción uno: \"Reunión el martes a las 7:00 a.m. en el aula 204.\" Opción dos: \"La reunión del martes a las 7:00 a.m. en el aula 204 busca acordar el cronograma de la salida a La Barra. Si no puedes asistir, avisa por correo a la coordinadora antes del lunes. Trae el carné y el permiso firmado.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos, porque cualquier dato escrito en un cartel cumple la función de aviso.",
+          "is_correct": false,
+          "feedback": "La opción uno solo da fecha, hora y lugar, de modo que no alcanza para cumplir la función de aviso."
+        },
+        {
+          "letter": "B",
+          "text": "La opción uno, porque los avisos deben ser más cortos para que se lean con facilidad.",
+          "is_correct": false,
+          "feedback": "La brevedad no basta: un aviso sin motivo ni indicaciones es insuficiente para que el lector sepa qué hacer."
+        },
+        {
+          "letter": "C",
+          "text": "La opción uno, porque usa un tono más formal y por eso resulta adecuada para la comunidad escolar.",
+          "is_correct": false,
+          "feedback": "El tono no define la función de un aviso; lo importante es el motivo y las indicaciones que faltan en la opción uno."
+        },
+        {
+          "letter": "D",
+          "text": "La opción dos, porque informa el motivo, la acción esperada, la fecha límite de aviso y lo que hay que llevar.",
+          "is_correct": true,
+          "feedback": "Un aviso completo debe permitir que el lector sepa de qué trata, qué tiene que hacer y con qué material; la opción dos reúne toda esa información."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto breve significa juzgar si cumple con la función comunicativa que se espera de él. Un aviso debe informar con claridad y pedir una conducta concreta, de modo que el lector sepa qué tiene que hacer, dónde, cuándo y con qué elementos. La opción dos reúne esos elementos y además explica el motivo de la reunión. Juzgar con criterios la calidad de un aviso enseña al estudiante a reconocer qué información es indispensable y qué datos sobran.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle-v10",
+      "statement": "¿Qué cambio introduce la nueva versión del aviso en la relación entre la acción y el sujeto que la realiza?",
+      "context": "Una administración del Chocó cambió un aviso. Antes decía: \"Se entrega el carné en la administración a partir de las 8:00 a.m.\" Ahora dice: \"A partir de las 8:00 a.m., la administración entrega el carné a la comunidad.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aviso pasa de una construcción sin sujeto explícito a una oración que tiene a la administración como sujeto.",
+          "is_correct": true,
+          "feedback": "En la primera versión el verbo aparece sin un sujeto que lo realice y en la nueva la administración es claramente quien entrega el carné."
+        },
+        {
+          "letter": "B",
+          "text": "El sujeto pasa de ser la comunidad, que entrega el carné, a ser la administración, que lo entrega.",
+          "is_correct": false,
+          "feedback": "En la primera versión la comunidad no es el sujeto, porque la acción se presenta de manera impersonal."
+        },
+        {
+          "letter": "C",
+          "text": "El sujeto cambia de la administración hacia el carné, que pasa a ser el que entrega el documento.",
+          "is_correct": false,
+          "feedback": "El carné es el objeto que se entrega en ambas versiones, nunca el sujeto de la acción."
+        },
+        {
+          "letter": "D",
+          "text": "El sujeto no cambia porque la hora de inicio sigue siendo las 8:00 a.m. en los dos textos.",
+          "is_correct": false,
+          "feedback": "La hora no es el sujeto de la oración; es un dato de tiempo que aparece en las dos versiones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la forma de un enunciado exige observar quién realiza la acción y cómo se construye la oración. En la primera versión el verbo aparece sin un sujeto explícito, por lo que la acción se presenta de manera impersonal. En la segunda, la administración es el sujeto: realiza la entrega y se vuelve responsable del mensaje. Reconocer la función del sujeto permite comprender con más claridad los avisos y evita suponer que un lugar mencionado es siempre quien ejecuta la acción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W06-aviso-cartel-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

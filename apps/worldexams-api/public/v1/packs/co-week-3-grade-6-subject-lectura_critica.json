@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-3-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T18:21:22.634Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v1",
+      "statement": "Teniendo en cuenta lo que ocurre y se dice en el cuento, ¿qué personaje ocupa el papel de protagonista?",
+      "context": "A orillas del río Magdalena, en Puerto Wilches, Santander, vive Amelia, una niña de doce años que narra el cuento \"La canoa de los viernes\". Su abuelo Donaldo cruza en canoa a los estudiantes del colegio del otro lado, y un comerciante de Cartagena llega con una oferta por la madera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amelia, la narradora de doce años que observa, decide y actúa para que el cruce del viernes salga adelante.",
+          "is_correct": true,
+          "feedback": "El protagonista es quien dirige las acciones y las decisiones del relato; Amelia es la narradora que asume esa responsabilidad cuando lariver crecida pone en riesgo el cruce."
+        },
+        {
+          "letter": "B",
+          "text": "Donaldo, el abuelo que cruza el río desde hace treinta años con la misma canoa.",
+          "is_correct": false,
+          "feedback": "Donaldo es un personaje muy importante, pero su función dentro del relato es la de adulto sabio que materniza; no dirige la trama como lo hace Amelia."
+        },
+        {
+          "letter": "C",
+          "text": "Don Justo, el comerciante de Cartagena que ofrece pagar por la madera de la canoa.",
+          "is_correct": false,
+          "feedback": "Don Justo actúa como antagonista porque su dinero pone en riesgo la tradición; un antagonista se opone al héroe, no lo reemplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Salomón, el estudiante de la otra orilla que llega tarde el viernes y necesita cruzar.",
+          "is_correct": false,
+          "feedback": "Salomón es un personaje de episode: aparece una vez, dispara el clímax y desaparece; no acompaña la historia completa como el protagonista."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un cuento breve hay que distinguir con claridad el protagonista, el antagonista y los personajes secundarios. El protagonista es aquel cuyas decisiones sostienen la acción y cuya forma de actuar revela el tema. En \"La canoa de los viernes\" ese papel le corresponde a Amelia: ella narra, observa el peligro del río, recuerda dónde está la cuerda y actúa para salvar el cruce. Donaldo funciona como protector y fuente de autoridad; Don Justo es el antagonista económico; Salomón es un personaje de episode. Reconocer estos roles evita confundir \"el más importante\" con \"el protagonista\" y ayuda a explicar por qué el desenlace se apoya en la decisión de Amelia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v2",
+      "statement": "¿Qué busca el narrador con esa descripción detailed del agua del río al comienzo del cuento?",
+      "context": "En un aula de sexto grado de Tunja, Boyacá, la profesora pide a los estudiantes que lean en voz alta el primer párrafo del cuento, donde se dice que el río bajaba terroso y turbio y que el nivel subía un palmo por hora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar la forma correcta de medir la profundidad de un río con una cuerda y una piedra atada.",
+          "is_correct": false,
+          "feedback": "Eso sería un texto instructivo o un procedimiento de campo; la descripción del párrafo no enseña a medir nada."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrar que el río Magdalena tiene siempre el mismo color durante todo el año.",
+          "is_correct": false,
+          "feedback": "Una descripción puntual del agua no demuestra un comportamiento anual; además, en el cuento el color mismo cambia con la crecida."
+        },
+        {
+          "letter": "C",
+          "text": "Advvertirle al lector, sin decírselo de forma directa, que la situación que viene es peligrosa.",
+          "is_correct": true,
+          "feedback": "La descripción carga de énfasis el color y la velocidad del agua para que el lector sienta el riesgo antes de que ocurra el nudo."
+        },
+        {
+          "letter": "D",
+          "text": "Informar sobre el comercio de vapores que baja de Barrancabermeja hasta la costa Caribe.",
+          "is_correct": false,
+          "feedback": "Ese tipo de información corresponde a un texto informativo; en este párrafo lo que se busca es generar una expectativa en el lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intención comunicativa de un fragmento no es lo que dice de forma literal, sino lo que busca provocar en quien lee. En el primer párrafo, el narrador recarga la descripción del agua del río, y esa recarga no es decorativa: prepara el clima de peligro que hace necesario el clímax más adelante. Un lector de grado 6 debe poder explicar el efecto de una descripción en la lectura completa, no solo resumirla. Por eso se distingue esta página del texto informativo, del instructivo y de la mera curiosidad por un dato: aquí la palabra trabaja para sostener la trama.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v3",
+      "statement": "Considera estos cuatro momentos del cuento: (I) El río sube y Donaldo duda si vuelve a cruzar. (II) Don Justo ofrece pagar por la madera de la canoa. (III) Amelia asegura la canoa con la cuerda y Salomón llega a la otra orilla. (IV) Donaldo rechaza la oferta y el cruce de los viernes continúa. ¿Cuál es el orden correcto?",
+      "context": "En la biblioteca pública de Chía, Cundinamarca, un grupo de estudiantes de sexto grado recibe fichas de cartón con los cuatro momentos del cuento para reconstruir la trama en orden cronológico antes de escribir su propio resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "II - I - III - IV",
+          "is_correct": true,
+          "feedback": "La oferta de Don Justo se presenta al principio como el trasfondo que amenaza la tradición, después sube el río, luego llega el salvamento y al final se rechaza el dinero."
+        },
+        {
+          "letter": "B",
+          "text": "I - II - III - IV",
+          "is_correct": false,
+          "feedback": "Este orden pone la crecida del río antes de la visita del comerciante, cuando en el relato la oferta ya está planteada cuando el agua empieza a subir."
+        },
+        {
+          "letter": "C",
+          "text": "III - II - I - IV",
+          "is_correct": false,
+          "feedback": "Colocar el salvamento en el primer momento elimina el problema: sin el nudo de la crecida no hay tensión y el desenlace pierde sentido."
+        },
+        {
+          "letter": "D",
+          "text": "I - III - II - IV",
+          "is_correct": false,
+          "feedback": "Así la oferta del comerciante llega después del rescate, cuando el cruce ya está resuelto, y el rechazo final no responde a nada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconstruir la secuencia de los hechos es la forma más directa de comprobar que un lector entendió la trama. El cuento organiza sus momentos así: primero aparece la amenaza externa (el dinero de Don Justo), luego el nudo (la crecida y la duda de Donaldo), después el clímax (Amelia resuelve con la cuerda) y por último el desenlace (el rechazo y la tradición intacta). Cuando el orden se altera, el lector ya no puede explicar las causas, y las fichas quedan con relaciones sueltas. Aplicar la secuencia cronológica es, además, la base segura para redactar un resumen correcto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v4",
+      "statement": "La oración dice: \"La canoa era vieja, pero todavía cruzaba el río como si nada\". ¿Cuál de los siguientes análisis sintácticos corresponde a esa oración?",
+      "context": "En Cali, Valle del Cauca, los estudiantes de sexto grado analizan la oración que cierra el segundo párrafo del cuento y comparan su estructura con la de otras oraciones del texto antes de escribir su propio relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un período simple con un solo sujeto y un solo verbo transitivo, sin ningún elemento de enlace entre ideas.",
+          "is_correct": false,
+          "feedback": "La oración tiene dos segmentos con verbo propio, así que no puede ser un período simple ni tener un solo verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Es un período compuesto por subordinación, porque el primer segmento depende gramaticalmente del segundo.",
+          "is_correct": false,
+          "feedback": "Aquí los dos segmentos son autónomos y se unen por coordinación; la subordinación exigiría que uno dependiera del otro."
+        },
+        {
+          "letter": "C",
+          "text": "Es una coordinación asindética, porque los dos segmentos se enlazan solo con una coma y su sentido es de suma.",
+          "is_correct": false,
+          "feedback": "La coma por sí sola no crea relación entre segmentos, y el sentido de \"pero\" no es de suma sino de contraposición."
+        },
+        {
+          "letter": "D",
+          "text": "Está formada por dos oraciones unidas por la conjunción \"pero\", que expresa contraste entre la mala condición de la canoa y su resistencia.",
+          "is_correct": true,
+          "feedback": "La conjunción adversativa \"pero\" enlaza dos segmentos con sujetos y verbos propios y marca una oposición entre lo que se dice de la canoa y lo que hace."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer cómo están unidas dos ideas es una habilidad que sirve para escribir mejor, no solo para responder preguntas. En esta oración, la coma y la conjunción adversativa \"pero\" forman un período compuesto por coordinación: los dos segmentos son independientes y se oponen. Esa oposición (es vieja / pero aguanta) resume el tema del cuento en una sola frase. Saber distinguir entre coordinación y subordinación, y entre coordinación conjuntiva y asindética, permite que el estudiante construya sus propias oraciones con la misma estructura y con el mismo efecto de contraste.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v5",
+      "statement": "Si el grupo de cuarto grado te pide una frase que explique el cruce de los viernes, ¿cuál de las siguientes es la mejor opción para esa situación?",
+      "context": "En un taller de lectura en Popayán, Cauca, un grupo de niños de cuarto grado pide a los estudiantes de sexto grado que les expliquen por qué el abuelo de la historia no vende la canoa, y la imprenta del colegio cobra 8.000 COP por cada página ilustrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La semana de la infraestructura fluvial de transporte escolar garantiza la continuidad del proceso formativo.\"",
+          "is_correct": false,
+          "feedback": "Aunque el contenido sea cierto, un niño de cuarto grado no entiende esa frase y el mensaje no le llega."
+        },
+        {
+          "letter": "B",
+          "text": "\"Cada viernes el abuelo lleva a los niños al colegio en la canoa, y por eso la clase nunca se pierde.\"",
+          "is_correct": true,
+          "feedback": "Usa palabras sencillas, conserva el significado del relato y está adaptada a la edad de quien escucha, que es lo que pide la situación."
+        },
+        {
+          "letter": "C",
+          "text": "\"Donaldo, Amelia, Salomón, el Mono, Puerto Wilches, viernes, cuerda, canoa.\"",
+          "is_correct": false,
+          "feedback": "Es una lista de nombres sin verbos: no dice quién hace qué ni explica nada, así que no cumple la función comunicativa."
+        },
+        {
+          "letter": "D",
+          "text": "\"El agua del río baja terrosa y sube un palmo por hora, según la narradora del primer párrafo.\"",
+          "is_correct": false,
+          "feedback": "Solo repite un dato de la descripción inicial y no responde qué significa para la familia el cruce semanal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La misma idea cambia de forma según quién va a recibirla. En este taller, el propósito comunicativo no es contar el cuento, sino explicar a niño pequeño por qué el cruce importa. Eso exige vocabulario sencillo, una oración corta y una idea clara, sin tecnicismos ni listas. Un lector de grado 6 puede evaluar el ajuste entre texto y destinatario: si el pequeño no entiende, el mensaje no se cumplió, por muy cierto que sea el contenido. Esta habilidad de registro es la misma que se usa al redactar un resumen escolar o una exposición en clase.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v6",
+      "statement": "El fragmento dice: \"Aunque el agua venía crecida, nadie se atrevió a decir que no. Por eso, cuando Salomón apareció en la orilla, Donaldo solo miró la cuerda.\" ¿Qué relación lógica establece la primera oración con la segunda?",
+      "context": "En Cartagena de Indias, un taller de un colegio de la Costa Caribe usa un fragmento del cuento como ejemplo de relaciones lógicas entre oraciones, comparándolo con las noticias que llegan a la ciudad sobre el nivel del río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera oración concede un obstáculo y la segunda muestra que ese obstáculo no impidió la decisión del grupo.",
+          "is_correct": true,
+          "feedback": "\"Aunque\" introduce un obstáculo aceptado, y \"Por eso\" presenta como consecuencia una decisión que se tomó pese a ese obstáculo."
+        },
+        {
+          "letter": "B",
+          "text": "La primera oración es la causa directa y la segunda es un ejemplo de lo que no ocurrió al final.",
+          "is_correct": false,
+          "feedback": "La relación no es de causa directa porque \"aunque\" no presenta un hecho favourable, sino una razón a pesar de la cual algo igual ocurre."
+        },
+        {
+          "letter": "C",
+          "text": "La segunda oración es un resumen de lo dicho en la primera con otras palabras, sin añadir información.",
+          "is_correct": false,
+          "feedback": "La segunda oración aporta información nueva (la reacción de Donaldo y la cuerda) y por eso no es repetición ni resumen."
+        },
+        {
+          "letter": "D",
+          "text": "La primera oración compara dos lugares distintos y la segunda indica el escenario donde ocurre la escena.",
+          "is_correct": false,
+          "feedback": "No hay comparación ni cambio de escenario entre las dos oraciones: ambas hablan de la misma situación frente al río."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El discurso narrativo no se sostiene solo con hechos: se sostiene con relaciones lógicas que el lector debe reconstruir. En el fragmento, el conector \"aunque\" abre una concesión y \"por eso\" marca la consecuencia que se produce a pesar de esa concesión. Esa pareja de conectores es la que explica por qué Donaldo actúa sin fearful de la crecida. Analizar estas relaciones en grado 6 permite distinguir causa, consecuencia, oposición y concesión, y entender que el orden de los hechos en el relato tiene una lógica interna, no un orden cualquiera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v7",
+      "statement": "El narrador cuenta que Donaldo nunca menciona el precio de la canoa y que cada viernes Dobla el remo por la mitad con la misma fuerza. ¿Qué se puede inferir de esos dos detalles?",
+      "context": "En Riohacha, La Guajira, la profesora de sexto grado pide a sus estudiantes que busquen en el cuento dos detalles pequeños que no se explican de manera directa, para demostrar qué se puede inferir sin que el narrador lo diga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Donaldo ya no recuerda bien para qué sirve la canoa y por eso repite siempre el mismo gesto.",
+          "is_correct": false,
+          "feedback": "Nada en esos detalles indica pérdida de memoria; al contrario, la fuerza constante del remo muestra seguridad y costumbre."
+        },
+        {
+          "letter": "B",
+          "text": "Que la canoa de Donaldo vale más que la suma que ofrece Don Justo, y por eso él no responde.",
+          "is_correct": false,
+          "feedback": "El narrador nunca compara los dos valores, así que esa conclusión sobre el dinero no se sostiene con los datos del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que para Donaldo el cruce del viernes es una costumbre valiosa, y no un trabajo que se mida en pesos.",
+          "is_correct": true,
+          "feedback": "Los dos detalles apuntan a una relación de respeto hacia la tradición, que es justo lo que contradice la oferta de dinero de Don Justo."
+        },
+        {
+          "letter": "D",
+          "text": "Yésica y Amelia están planeando sacar la canoa del río para navegar más lejos por el Magdalena.",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona ningún plan de las niñas; esa inferencia inventa información que el texto no ofrece."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir es deducir a partir de lo que el texto dice, no inventar lo que el texto calla. Los dos detalles sobre el remo y sobre el silencio respecto al precio son pequenas evidencias que apuntan a una misma idea: Donaldo valora ese trabajo por lo que significa, no por lo que paga. Un lector que solo resume dirá \"Donaldo no vendió la canoa\"; uno que infiere dirá \"por qué no la vendió\" y podrá sostenerlo con los datos del texto. Esa diferencia entre literalidad e inferencia es la que se evalúa en este nivel del ICFES.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v8",
+      "statement": "El narrador escribe que el río \"no era un camino: era una boca que abría y cerraba\". ¿Qué significado aporta esa frase al cuento?",
+      "context": "En Barranquilla, Atlántico, un círculo de lectura de sexto grado trabaja el ejemplo de metáfora con frases del cuento y las compara con las formas en que los pescadores del río describen el agua cuando cambia de nivel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Afirma que el río se secó durante esa época y que por eso la gente camina sobre su lecho.",
+          "is_correct": false,
+          "feedback": "La metáfora no habla de sequía; más bien sugiere que el río se mueve, se agranda y se cierra, no que desaparece."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta el río como algo que puede estar tranquilo o ser peligroso según su nivel, y por eso hay que respetarlo.",
+          "is_correct": true,
+          "feedback": "La imagen de la boca que abre y cierra sugiere una fuerza viva y cambiante, que es la que obliga a cuidar el cruce."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene que el agua del río se puede beber sin hervirla porque viene del mar.",
+          "is_correct": false,
+          "feedback": "La frase es una imagen sobre el comportamiento del río; no contiene ninguna afirmación sobre potabilidad o sobre su origen."
+        },
+        {
+          "letter": "D",
+          "text": "Explica que el río comunica a las canoas con la costa Caribe sin necesidad de motor.",
+          "is_correct": false,
+          "feedback": "Eso describe una ruta comercial, un dato informativo; la frase del narrador apunta al carácter del agua, no al comercio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora no decora el relato: reemplaza un nombre por una imagen que trae consigo una idea nueva. Cuando el narrador llama \"boca\" al río, está diciendo que el agua se abre, se cierra y puede atrapar a quien se descuida, que es exactamente el riesgo del clímax. Analizar qué aporta una imagen sobre el conjunto del texto ayuda a los estudiantes de grado 6 a ir más allá del resumen y a explicar el sentido con sus propias palabras, y también a entender por qué un buen escritor elige imágenes y no solo datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v9",
+      "statement": "Si el autor cambiara el final y Donaldo aceptara la oferta de Don Justo, ¿qué perdería el cuento?",
+      "context": "En Medellín, Antioquia, un grupo de sexto grado prepara una antología escolar y la imprenta les cobra 12.000 COP por cada copia. La profesora les propone cambiar el final del cuento para hacerlo más rápido de imprimir y les pide que justifiquen la decisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perdería el sentido de la tradición del viernes y el valor de la canoa como símbolo del cuidado, que son el núcleo del relato.",
+          "is_correct": true,
+          "feedback": "El desenlace es el momento donde el tema se hace explícito: sin el rechazo, la trama quedaría sin la idea que la organiza."
+        },
+        {
+          "letter": "B",
+          "text": "Perdería el único momento en que un personaje habla con frases largas, porque nadie más habla en el cuento.",
+          "is_correct": false,
+          "feedback": "La longitud de las frases no es un componente del argumento; además, el relato tiene varios momentos de diálogo."
+        },
+        {
+          "letter": "C",
+          "text": "Ganaría, porque un final con dinero resulta más realista y menos idealizado que el final original.",
+          "is_correct": false,
+          "feedback": "Que un final parezca más realista no es un criterio suficiente: aquí se evalúa la coherencia con el tema, no la verosimilitud externa."
+        },
+        {
+          "letter": "D",
+          "text": "No cambiaría nada, porque el desenlace no modifica la comprensión que el lector se lleva del cuento.",
+          "is_correct": false,
+          "feedback": "El desenlace es precisamente donde el lector entiende qué valores defiende el relato; cambiarlo sí cambia su comprensión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un cambio final exige motivo de decisión, y ese motivo tiene que salir del texto. La pregunta de fondo no es si el final \"gusta más\", sino si el relato sigue cumpliendo su función: mostrar la trama completa, sostener el conflicto entre tradición y dinero y revelar el carácter de sus personajes. Al quitar el rechazo de Donaldo, el relato pierde su nudo ideológico y el símbolo de la canoa queda vacío. Una respuesta de nivel alto, en grado 6, debe nombrar el tema, el símbolo y la consecuencia del cambio, apoyándose en elementos concretos de la obra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de estas adaptaciones respeta mejor la trama y los personajes del cuento, y por qué?",
+      "context": "En Bucaramanga, Santander, un colegio prepara una lectura dramatizada para la semana de la asignatura de castellano. Cuatro grupos proponen formas distintas de adaptar \"La canoa de los viernes\" y el jurado debe escoger la más fiel al original.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convertir el relato en un texto informativo sobre el comercio por el río Magdalena, con datos de carga y distancias.",
+          "is_correct": false,
+          "feedback": "El cambio de género elimina la trama y los personajes, que es justamente lo que se debe conservar en una adaptación."
+        },
+        {
+          "letter": "B",
+          "text": "Quitar a Amelia y contar solo los años que Donaldo lleva en el río, porque así el relato resulta más fácil de recordar.",
+          "is_correct": false,
+          "feedback": "Eliminar al protagonista del relato destruye el nudo y el clímax; la facilidad de recuerdo no compensa esa pérdida."
+        },
+        {
+          "letter": "C",
+          "text": "Añadir un final donde Donaldo recibe el dinero y compra un motor, porque es el desenlace que más gusta a los estudiantes de sexto grado.",
+          "is_correct": false,
+          "feedback": "Añadir un final contrario al tema no adapta el cuento, lo reescribe con otra intención y borra el valor de la tradición."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener el cruce del viernes como núcleo y reducir la visita de Don Justo a una frase, para que la trama no se disperse y sigan siendo centrales Amelia y Donaldo.",
+          "is_correct": true,
+          "feedback": "Respetar el núcleo del relato y sus dos personajes principales es el criterio de fidelidad; recortar un episodio secundario no la debilita."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una adaptación exige aplicar criterios y defenderlos. Los criterios que sostienen una buena versión de un cuento son tres: conservar la trama completa, conservar los personajes que sostienen esa trama y no contradecir el tema. La opción que mantiene el cruce del viernes como núcleo y deja a Amelia y Donaldo en el centro cumple los tres, mientras que las otras cambian el género, eliminan al protagonista o reescriben el desenlace. En grado 6, la respuesta de mayor nivel justifica con criterio, no solo con gusto personal, y puede señalar qué se pierde en cada alternativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-6-2026-W03-cuento-breve-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-1-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T18:21:22.632Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué define a una leyenda urbana?",
+      "context": "En el barrio La Candelaria de Bogotá, la profesora les lee a sus estudiantes de sexto grado una versión oral de la tradición sobre el Cerro de Monserrate y el origen de su nombre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un relato de tradición oral que explica el origen de un nombre, un lugar o una costumbre de una ciudad, combinando hechos reales con personajes y acciones imaginadas.",
+          "is_correct": true,
+          "feedback": "Combina un lugar verificable con la imaginación colectiva y se transmite de boca en boca; por eso es una leyenda urbana."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto informativo que presenta datos sobre un río sin narrar hechos ni personajes.",
+          "is_correct": false,
+          "feedback": "Un texto que solo expone datos sin narración ni tradición oral pertenece al género informativo, no a la leyenda."
+        },
+        {
+          "letter": "C",
+          "text": "Es un conjunto de reglas escritas que indica paso a paso cómo elaborar un alimento típico regional.",
+          "is_correct": false,
+          "feedback": "Las reglas escritas paso a paso para elaborar un alimento corresponden al texto instructivo o a una receta."
+        },
+        {
+          "letter": "D",
+          "text": "Es un poema en cuartetos que describe únicamente el paisaje natural de un departamento.",
+          "is_correct": false,
+          "feedback": "El poema en cuartetos es un género poético y su forma versada no define a la leyenda urbana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La leyenda urbana es un género narrativo de tradición oral que se construye sobre un lugar, un nombre o una costumbre real de una ciudad y que se explica mediante hechos y personajes en parte imaginados. A diferencia de la noticia, del texto informativo, del instructivo y del poema, la leyenda urbana no busca informar con datos verificados ni obedecer una forma versada: su valor está en conservar la memoria colectiva de la comunidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el propósito comunicativo principal de la leyenda urbana que la maestra usa para responder?",
+      "context": "En la plaza principal de Riohacha, unos estudiantes preguntan por qué el parque lleva ese nombre. La maestra responde contando una leyenda que escuchó de su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar la temperatura promedio de Riohacha durante los últimos diez años.",
+          "is_correct": false,
+          "feedback": "Un promedio térmico es un dato medible propio de un texto informativo, no el propósito de un relato tradicional."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar el origen de un nombre o de una costumbre de la ciudad con un relato que la comunidad reconoce como tradición.",
+          "is_correct": true,
+          "feedback": "Explica un hecho cultural local mediante un relato compartido, que es la función comunicativa central de la leyenda urbana."
+        },
+        {
+          "letter": "C",
+          "text": "Instruir a los lectores para que construyan un parque parecido en sus propias casas.",
+          "is_correct": false,
+          "feedback": "Las instrucciones para construir corresponden al texto instructivo; una leyenda no se propone como guía de obra."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer a los estudiantes de que el parque debe cerrarse por motivos de seguridad.",
+          "is_correct": false,
+          "feedback": "Un propósito persuasivo de censura o seguridad no se deduce de un relato de tradición oral sobre un topónimo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la intención comunicativa de la leyenda urbana es clave en grado 6. Cuando alguien relata una tradición para explicar por qué un lugar o una costumbre se llama de cierta manera, no está entregando información comprobable como en un texto informativo: está recurriendo a la memoria compartida del grupo. Reconocer ese propósito permite distinguir la leyenda de la noticia, de la receta y del aviso, y muestra que el relato cumple una función social dentro de la comunidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v3",
+      "statement": "En esta unidad los generos textuales son las leyendas urbanas y los cuentos breves. Al leer el texto del cuaderno, ¿a cuál de esos dos generos pertenece y por qué lo decides?",
+      "context": "En Chía, la biblioteca del colegio conserva un cuaderno escolar con un texto que empieza así: \"Hace muchos años, cuando el camino de tierra era la única vía, un arriero se perdió entre los potreros y llegó de noche a una casa grande\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A un cuento breve, porque cualquier texto que narre hechos tiene que ser clasificado como cuento breve.",
+          "is_correct": false,
+          "feedback": "Esa opción confunde la narración con el género: narrar hechos no basta, hay que revisar el origen y la función del texto."
+        },
+        {
+          "letter": "B",
+          "text": "A un cuento breve, porque el texto no nombra a ningún autor y se limita a contar la vida real de una persona.",
+          "is_correct": false,
+          "feedback": "Contar la vida real de una persona corresponde a la biografía, y la falta de autor no convierte un texto en cuento breve."
+        },
+        {
+          "letter": "C",
+          "text": "A una leyenda urbana, porque el texto no tiene autor identificado, llega por tradición oral y explica una creencia compartida por los vecinos del lugar.",
+          "is_correct": true,
+          "feedback": "La ausencia de autor, la transmisión oral y la explicación de una creencia local son los rasgos que definen la leyenda urbana."
+        },
+        {
+          "letter": "D",
+          "text": "A una leyenda urbana, porque toda tradición oral sobre el campo tiene que terminar con un final feliz.",
+          "is_correct": false,
+          "feedback": "La leyenda urbana no obliga a un final feliz; su rasgo definitorio es la tradición oral sobre un lugar real."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar los rasgos del género permite clasificar un texto concreto. Un cuento breve tiene un autor identificable, una ficción construida-artísticamente y un conflicto resuelto; una leyenda urbana llega por tradición oral, no tiene autor conocido, se apoya en un lugar verificable y explica una creencia o un nombre de la comunidad. La decisión se toma por las marcas del texto, no por la simple presencia de una narración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v4",
+      "statement": "¿Qué reescritura **elimina la ambigüedad** del pronombre \"le\" y deja claro quién habla y quién recibe la información?",
+      "context": "En Popayán, la maestra escribe en el tablero una oración de una leyenda del río: \"Cuando Diana llegó a la plaza, le contó el secreto a su hermana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Cuando Diana llegó a la plaza, le contó el secreto\".",
+          "is_correct": false,
+          "feedback": "Al borrar la frase final desaparece el complemento directo y el pronombre queda todavía más ambiguo."
+        },
+        {
+          "letter": "B",
+          "text": "\"Cuando Diana llegó a la plaza, contó a su hermana el secreto el martes\".",
+          "is_correct": false,
+          "feedback": "Cambiar el orden de los complementos no elimina la ambigüedad del pronombre \"le\", que sigue sin referente claro."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cuando Diana llegó a la plaza, le contó a su hermana que el secreto era muy importante\".",
+          "is_correct": false,
+          "feedback": "Reemplazar el secreto por una oración completiva no aclara quién recibe la información, porque el pronombre sigue igual."
+        },
+        {
+          "letter": "D",
+          "text": "\"Cuando Diana llegó a la plaza, Diana le contó el secreto a Mariana, su hermana\".",
+          "is_correct": true,
+          "feedback": "Al repetir el sujeto y nombrar a la hermana con su propio nombre, cada referencia queda unívoca y no hay ambigüedad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En este ejercicio se aplica un criterio sintáctico: la oración es ambigua porque el pronombre \"le\" puede apuntar a más de un referente posible dentro de la escena. La solución no es añadir información nueva ni cambiar el orden de los complementos, sino hacer explícitos el sujeto y el complemento directo con nombres propios. Reconstruir una oración así entrena la comprensión del texto, porque en una leyenda urbana cualquier detalle mal resuelto cambia el sentido del relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v5",
+      "statement": "¿Qué conector completa mejor el fragmento y mantiene la relación lógica entre las dos oraciones?",
+      "context": "Un texto de la biblioteca de Cartagena sobre la tradición del Cristo de la Barra dice: \"La dueña cerró con candado la entrada al terreno. ____, ningún vecino se atrevió a cruzar la puerta durante semanas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Por eso»",
+          "is_correct": true,
+          "feedback": "Introduce una consecuencia directa: el cierre con candado provoca que nadie se atreva a entrar."
+        },
+        {
+          "letter": "B",
+          "text": "«Sin embargo»",
+          "is_correct": false,
+          "feedback": "Establece contraste u oposición entre dos ideas, pero aquí las dos oraciones no se oponen entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "«En cambio»",
+          "is_correct": false,
+          "feedback": "Marca sustitución o contraste de una idea por otra, relación que no existe entre el candado y el abandono del lugar."
+        },
+        {
+          "letter": "D",
+          "text": "«A pesar de que»",
+          "is_correct": false,
+          "feedback": "Expresa concesión y exige una oración subordinada, por lo que no puede enlazar dos oraciones independientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la coherencia discursiva consiste en elegir el conector que corresponde a la relación lógica real entre dos enunciados. Cuando la segunda oración presenta una consecuencia directa de la primera, el conector adecuado es \"por eso\". Los conectores adversativos como \"sin embargo\" y \"en cambio\" introducen contraste, y las construcciones concesivas como \"a pesar de que\" necesitan una subordinada, por lo que no funcionan aquí. Leer con atención la relación entre ideas evita un texto incoherente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede inferir sobre la posición del narrador frente a lo que cuenta?",
+      "context": "En una leyenda que circula entre pescadores de la Costa Caribe, el narrador escribe: \"Una noche el agua del río se puso roja y los pescadores de la desembocadura dejaron de salir al mar durante tres meses\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el narrador apoya una explicación científica y por eso presenta el episodio como un hecho comprobado.",
+          "is_correct": false,
+          "feedback": "El narrador no aporta pruebas ni datos; su tono es de testimonio tradicional, no de comprobación científica."
+        },
+        {
+          "letter": "B",
+          "text": "Que el narrador se burla del relato y lo presenta con distancia irónica para desmentirlo.",
+          "is_correct": false,
+          "feedback": "La frase no tiene marcas de burla ni de negación del relato, así que no se puede inferir distancia irónica."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador comparte el temor de la comunidad y trata el episodio como algo que solo la tradición puede explicar.",
+          "is_correct": true,
+          "feedback": "Al narrar la reacción colectiva de los pescadores sin explicarla, el narrador adopta la misma visión de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el narrador toma partido por los pescadores y propone en el texto una prohibición de pesca.",
+          "is_correct": false,
+          "feedback": "El texto describe una reacción de la comunidad, pero no propone ninguna prohibición ni toma partido explícito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un texto narrativo implica inferir la posición del narrador a partir de sus elecciones lingüísticas. Cuando el narrador describe un fenómeno extraordinario y la reacción de miedo de los vecinos sin aportar una explicación comprobable, está asumiendo la visión del grupo y su confianza en la tradición oral. Reconocer esa posición ayuda a no tomar la leyenda como un registro factual ni como un simple cuento de hadas, sino como la voz de una comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de estas formas de organizar el texto respeta la progresión temática propia de la leyenda urbana, es decir, la costumbre actual, el hecho extraordinario y su explicación?",
+      "context": "En Cali, una alumna de sexto grado resume así una leyenda sobre el río: \"Hoy nadie lanza monedas. Antes todos lo hacían. Se cuenta que una moneda hizo aparecer el río\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empezar por la explicación de la moneda y terminar repitiendo la costumbre, sin aportar ningún dato nuevo.",
+          "is_correct": false,
+          "feedback": "Repetir sin añadir información rompe la progresión temática, porque no hay avance en el desarrollo del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Empezar por el hecho extraordinario y cerrar con una receta de pasos para lanzar monedas al río.",
+          "is_correct": false,
+          "feedback": "Una receta de pasos no pertenece al género narrativo y destruye la secuencia temática de la leyenda."
+        },
+        {
+          "letter": "C",
+          "text": "Empezar por la costumbre actual y terminar con un diálogo entre dos personajes que nunca aparecen en el texto.",
+          "is_correct": false,
+          "feedback": "Introducir un diálogo con personajes ajenos al relato es una adición incoherente que contradice el texto fuente."
+        },
+        {
+          "letter": "D",
+          "text": "Empezar por la costumbre actual, presentar el hecho extraordinario que la originó y cerrar con la explicación que acepta la comunidad.",
+          "is_correct": true,
+          "feedback": "Esa secuencia avanza de lo conocido a lo extraordinario y termina con la explicación compartida, que es la estructura típica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la organización de un texto permite distinguir una secuencia temática bien construida de una lista de afirmaciones sueltas. La leyenda urbana suele partir de una costumbre observable en el presente, narrar el acontecimiento extraordinario que se supone en su origen y cerrar con la explicación que la comunidad acepta como verdadera. Mantener ese orden garantiza que el lector comprenda la relación entre causa y consecuencia dentro del relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v8",
+      "statement": "¿Qué conjunto de elementos textuales corresponde a una leyenda urbana?",
+      "context": "Para un trabajo de clase sobre la tradición de la Cucaracha en Bucaramanga, un estudiante necesita identificar qué elementos del texto hacen que funcione como leyenda urbana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Titular con datos del hecho, tabla de cifras, gráfico de barras y pie de foto periodístico.",
+          "is_correct": false,
+          "feedback": "Ese conjunto de elementos organiza información periodística o estadística, propios de un texto informativo de prensa."
+        },
+        {
+          "letter": "B",
+          "text": "Título que anuncia el lugar del relato, narrador que cuenta la tradición y descripción verosímil del entorno urbano.",
+          "is_correct": true,
+          "feedback": "Esos tres elementos sostienen el relato: ubican al lector, narran la tradición y dan verosimilitud al espacio descrito."
+        },
+        {
+          "letter": "C",
+          "text": "Diálogo extenso entre dos personajes, acotaciones de escenario y lista de personajes con sus vestuarios.",
+          "is_correct": false,
+          "feedback": "El diálogo con acotaciones y la lista de vestuarios corresponden al género dramático o teatral, no a la leyenda."
+        },
+        {
+          "letter": "D",
+          "text": "Título de la receta, listado numerado de ingredientes, modo de preparación y tiempo de cocción.",
+          "is_correct": false,
+          "feedback": "El listado de ingredientes y el tiempo de cocción son propios del texto instructivo o de la receta de cocina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar los elementos textuales consiste en identificar las piezas que sostienen el género. En la leyenda urbana el título ubica el relato en un lugar, el narrador da la voz de la tradición y la descripción del entorno aporta verosimilitud al conjunto. Reconocer esos tres elementos frente a los propios de la prensa, del teatro o de la receta ayuda a clasificar y a comparar textos de la unidad con criterio claro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.56,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el tratamiento más respetuoso con la tradición y menos engañoso para quien lee el periódico escolar?",
+      "context": "Un colegio de Chía prepara un mural con leyendas de la región y pide a cada grupo un texto breve para publicarlo en el periódico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar el relato con detalles precisos y la frase \"esto ocurrió en 1998\", porque una fecha exacta lo vuelve más interesante.",
+          "is_correct": false,
+          "feedback": "Atribuir una fecha concreta a un relato no verificado inventa información y engaña al lector sobre su condición."
+        },
+        {
+          "letter": "B",
+          "text": "Borrar la leyenda del mural y explicar solo datos del río, porque todo lo imaginario es mentira y no merece publicarse.",
+          "is_correct": false,
+          "feedback": "Considerar la tradición como simple mentira descarta una forma válida de conocimiento cultural de la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Copiar la leyenda tal como aparece en una página de internet, sin indicar la fuente ni de quién es la versión.",
+          "is_correct": false,
+          "feedback": "Reproducir un texto sin indicar la fuente es una falta de ética editorial y no respeta a quienes contaron la tradición."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar el relato como tradición oral de la comunidad, señalar que hay varias versiones y que no es un hecho verificado.",
+          "is_correct": true,
+          "feedback": "Esa opción respeta la tradición, informa al lector sobre su condición y evita presentar la ficción como noticia comprobada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto implica juzgar su ética y sus efectos sobre el lector, no solo su corrección. Publicar una leyenda exige claridad sobre su naturaleza: indicar que pertenece a la tradición oral, reconocer que existen varias versiones y advertir que no es un hecho verificado evita confundir relato y realidad. Quitarle valor por imaginario o inventarle una fecha exacta traiciona el propósito cultural de la tradición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle-v10",
+      "statement": "¿Qué conclusión está mejor sustentada a partir de ese contraste entre las dos versiones?",
+      "context": "En Tunja, una maestra comparó dos versiones de una misma leyenda: la que cuenta su abuelo cada noche y la que transcribió un investigador en 1935.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos versiones comparten el motivo central, pero cambian en detalles porque fueron recogidas en contextos y momentos distintos, y ninguna es una copia fiel de la otra.",
+          "is_correct": true,
+          "feedback": "El contraste muestra coincidencias y diferencias explicables por el momento y la fuente de cada versión."
+        },
+        {
+          "letter": "B",
+          "text": "La versión del abuelo es la única auténtica, porque la tradición oral nunca cambia de una versión a otra.",
+          "is_correct": false,
+          "feedback": "Afirmar que la tradición oral nunca cambia contradice el contraste, que muestra variaciones entre dos versiones."
+        },
+        {
+          "letter": "C",
+          "text": "La versión escrita es la única válida, porque al quedar por escrito ya no puede modificarse nunca más.",
+          "is_correct": false,
+          "feedback": "Un texto escrito también puede reescribirse o corregirse, y fijarlo no lo convierte en la versión auténtica."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos versiones son igualmente inválidas, porque cualquier leyenda que tenga dos formas de contarse es falsa.",
+          "is_correct": false,
+          "feedback": "La existencia de varias versiones es propia de la tradición oral y no invalida el fondo del relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar dos versiones de un mismo relato exige sostener las conclusiones en la evidencia que ofrece el contraste. Cuando ambas comparten un motivo central pero difieren en detalles, la explicación más sólida es que fueron recogidas en momentos y contextos diferentes, no que una sea falsa. Reconocer la variación propia de la tradición oral enseña a comparar sin descalificar y evita confundir la versión escrita con la única versión verdadera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.46,
+      "bundle_id": "CO-LC-6-2026-W01-leyenda-urbana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

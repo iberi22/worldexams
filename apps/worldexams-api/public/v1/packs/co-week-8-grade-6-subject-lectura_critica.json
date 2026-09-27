@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-8-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T18:21:22.637Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la idea principal del texto que leyeron los estudiantes de Chía?",
+      "context": "En la clase de lectura de Chía, los estudiantes de grado 6 leen el texto «Aves viajeras», que explica que cada año estas aves llegan a la Costa Caribe colombiana, se alimentan durante unos días y luego continúan su viaje hacia el sur recorriendo miles de kilómetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Costa Caribe colombiana posee playas extensas y un clima cálido casi todo el año.",
+          "is_correct": false,
+          "feedback": "La opción describe características generales de la región y no el propósito del texto, que es contar qué hacen las aves migratorias."
+        },
+        {
+          "letter": "B",
+          "text": "Las aves migratorias recorren miles de kilómetros cada año entre el norte y el sur de Colombia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque recoge lo esencial del texto: la llegada, la alimentación y el viaje de las aves a lo largo de miles de kilómetros."
+        },
+        {
+          "letter": "C",
+          "text": "Las aves migratorias construyen sus nidos en los manglares de la Costa Caribe colombiana.",
+          "is_correct": false,
+          "feedback": "El texto no menciona nidos ni manglares, ese detalle se inventa y por eso la afirmación no puede sostenerse como idea principal."
+        },
+        {
+          "letter": "D",
+          "text": "Las aves migratorias se alimentan casi exclusivamente de pescado en las playas del Caribe.",
+          "is_correct": false,
+          "feedback": "El texto solo dice que se alimentan durante unos días, sin indicar qué comen ni si eso ocurre en la playa, por lo que la opción se pasa de la información dada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal responde a la pregunta «¿de qué trata principalmente el texto?». En este caso, el texto recorre las tres acciones que hacen las aves migratorias —llegar, alimentarse y viajar— y la opción correcta conserva esa secuencia. Las otras opciones cambian el tema (las playas, los nidos) o añaden información que nunca aparece en el texto, un error frecuente cuando se busca la idea central sin haber leído con atención.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre el esquema y el resumen de un texto?",
+      "context": "Daniela, alumna de Cartagena, tiene que estudiar para la próxima semana el texto «El páramo de Chingaza» y decide organizar lo leído en un esquema antes de escribir su resumen, para no perder de vista los subtemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El esquema ordena el contenido en un tema central, subtemas y palabras clave, mientras que el resumen lo redacta en prosa y más breve.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las dos técnicas cumplen funciones distintas: el esquema muestra la estructura del texto y el resumen cuenta la información esencial en pocas líneas."
+        },
+        {
+          "letter": "B",
+          "text": "El esquema copia el texto completo palabra por palabra para asegurar que no se pierda ningún detalle.",
+          "is_correct": false,
+          "feedback": "Copiar el texto entero es justamente lo contrario a resumir, porque no se eliminan detalles innecesarios ni se reescribe con palabras propias."
+        },
+        {
+          "letter": "C",
+          "text": "El esquema solo puede elaborarse cuando el texto ya está terminado, porque antes de terminarlo no hay nada que organizar.",
+          "is_correct": false,
+          "feedback": "El esquema sirve precisamente como guía de lectura mientras se avanza, por eso se puede construir al mismo tiempo que se comprenden las ideas."
+        },
+        {
+          "letter": "D",
+          "text": "El esquema y el resumen son lo mismo, así que sus frases deben repetir exactamente las palabras del texto original.",
+          "is_correct": false,
+          "feedback": "No son técnicas equivalentes: el esquema es visual y el resumen es un texto breve redactado, y ninguno de los dos obliga a copiar el original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender las dos técnicas es indispensable para elegir bien cuál usar. El esquema es una representación visual: coloca el tema central y distribuye los subtemas con líneas y palabras clave. El resumen es un texto corto en prosa que conserva la idea principal y los datos de apoyo con palabras del lector. Conocer esta diferencia evita el error de pensar que ambas consisten en repetir el original.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de estas opciones es el resumen más adecuado del párrafo de doña Rosa?",
+      "context": "Santiago, de Chía, leyó el siguiente párrafo: «Doña Rosa llega a la plaza de Cota a las cuatro de la mañana para preparar las arepas que vende en la escuela del barrio. Sus hijos la ayudan a levantar la leña. Aunque el frío es intenso, ella dice que ese es el momento más tranquilo del día y el único en que alcanza a pensar qué necesita cada hijo para el colegio.»",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las familias de la escuela de Cota necesitan que doña Rosa venda arepas todos los días.",
+          "is_correct": false,
+          "feedback": "Convierte una consecuencia del texto en la idea central y además afirma una necesidad de las familias que el párrafo nunca menciona."
+        },
+        {
+          "letter": "B",
+          "text": "La plaza de Cota está tan llena en la madrugada que doña Rosa no puede pensar con tranquilidad.",
+          "is_correct": false,
+          "feedback": "El párrafo no dice que la plaza esté llena, inventa un obstáculo y contradice la idea de que ese momento es tranquilo."
+        },
+        {
+          "letter": "C",
+          "text": "Doña Rosa prepara arepas de madrugada en Cota con la ayuda de sus hijos y aprovecha ese momento tranquilo para pensar en el colegio de ellos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque conserva quién es, qué hace, dónde y con ayuda de quién, y cierra con la idea de que ese momento tranquilo le sirve para pensar."
+        },
+        {
+          "letter": "D",
+          "text": "Doña Rosa considera que la madrugada es la peor hora del día por el frío intenso de Cota.",
+          "is_correct": false,
+          "feedback": "Cambia el sentido del párrafo, porque la protagonista cuenta que ese es el mejor momento del día y no el peor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resumir bien exige conservar lo esencial y quitar lo accesorio. El párrafo de doña Rosa tiene cuatro ideas: llega muy temprano, prepara arepas, la ayudan sus hijos y ese instante le sirve para pensar en la escuela de los niños. La opción correcta las reagrupa sin inventar datos. Las demás cambian el sentido, agregan información falsa o se concentran en un detalle poco importante, que es el error típico al resumir sin criterio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estos esquemas representa mejor la organización del texto sobre el Chocó?",
+      "context": "Julián, de Popayán, leyó el texto «El Chocó» de un solo párrafo: «El Chocó es una región del Pacífico colombiano. Su clima es lluvioso todo el año. Allí crecen bosques con una gran diversidad de especies. Muchas comunidades indígenas viven en el territorio y dependen del agua de los ríos.» Ahora debe convertir ese párrafo en un esquema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunidades indígenas, bosques con muchas especies, clima lluvioso todo el año y, al final, el tema central: el Chocó.",
+          "is_correct": false,
+          "feedback": "La cadena está al revés, porque parte de un detalle y termina en el tema general, cuando un esquema bien organizado empieza por el tema central."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el tema central (el Chocó) escrito en una línea, sin subtemas, porque un esquema no necesita detalles.",
+          "is_correct": false,
+          "feedback": "Elimina los tres subtemas del texto, de modo que el esquema ya no representa la organización real del contenido."
+        },
+        {
+          "letter": "C",
+          "text": "El párrafo copiado en cuatro líneas, una por idea, para no perder ninguna palabra del original.",
+          "is_correct": false,
+          "feedback": "Copiar el párrafo no es construir un esquema, porque falta la estructura jerárquica con tema central, ramas y palabras clave."
+        },
+        {
+          "letter": "D",
+          "text": "Tema central: el Chocó, con tres ramas que separan el clima lluvioso, los bosques diversos y las comunidades que dependen de los ríos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque ubica el tema general arriba y distribuye los tres subtemas en ramas, con palabras clave que resumen cada idea del párrafo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un esquema bien construido representa la jerarquía del texto: un tema central del que se desprenden los subtemas. En el párrafo sobre el Chocó, el tema general es la región y de él salen tres aspectos: el clima, los bosques y las comunidades. Colocar el tema arriba y abrir tres ramas permite ver de un vistazo cómo se organiza el contenido, que es justamente la ventaja de esta técnica frente al resumen en prosa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el procedimiento adecuado para elaborar un resumen?",
+      "context": "En el taller de lectura de Medellín, la profesora explica que los estudiantes deben resumir un texto de tres párrafos para la siguiente clase. Salma le pregunta cuál es el procedimiento correcto y por qué las notas de sus compañeros no le sirven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer el texto dos veces, identificar la idea principal, decidir qué detalles son indispensables y redactar con palabras propias.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne los cuatro pasos esenciales: comprender, seleccionar lo importante, eliminar lo accesorio y reescribir con lenguaje propio."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar el primer y el último párrafo tal como aparecen, porque allí siempre está la idea principal.",
+          "is_correct": false,
+          "feedback": "Copiar párrafos completos no resume nada, y la idea principal no está siempre en los extremos ni se ubica por la posición."
+        },
+        {
+          "letter": "C",
+          "text": "Recoger palabras sueltas del texto y unirlas en frases sin alterar el orden de las oraciones.",
+          "is_correct": false,
+          "feedback": "Juntar palabras sin comprender el texto produce un escrito incoherente, porque el resumen exige seleccionar ideas y no solo pegar vocablos."
+        },
+        {
+          "letter": "D",
+          "text": "Escribir únicamente la información más interesante para que el resumen ocupe el menor número de líneas.",
+          "is_correct": false,
+          "feedback": "La extensión no resume: si se deja fuera la idea principal o los datos de apoyo, el resumen deja de ser útil y pierde el sentido del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un buen resumen sigue un orden de trabajo: primero comprender, después seleccionar y finalmente redactar. La lectura repetida permite ubicar la idea principal; la selección descarta detalles secundarios; la reescritura con palabras propias comprueba que el estudiante entendió. Confundir «resumir» con «recortar lo interesante» es un error de propósito, porque la extensión nunca es el criterio de calidad sino la fidelidad al sentido del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de estas afirmaciones NO corresponde al contenido del texto que leyó Camilo?",
+      "context": "Camilo, de Tunja, leyeron el texto «El clima de Tunja», que dice: «Tunja está situada a 2.850 metros sobre el nivel del mar. Por esa altura, el clima de la ciudad es frío y las noches son más frías que en las ciudades vecinas del valle. Durante buena parte del año, los tulipanes de la ciudad soportan las heladas de la madrugada.»",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La altura de Tunja influye en que el clima de la ciudad sea frío.",
+          "is_correct": false,
+          "feedback": "Esa relación de causa aparece de manera explícita en el texto, así que sí podría hacer parte del resumen."
+        },
+        {
+          "letter": "B",
+          "text": "Las noches de Tunja son más frías que las de las ciudades vecinas del valle.",
+          "is_correct": false,
+          "feedback": "El texto lo afirma de manera expresa, de modo que la opción corresponde a su contenido y podría resumirse."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura de Tunja depende también de la cercanía al mar, porque la ciudad está a 2.850 metros sobre el nivel del mar.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto explica el frío por la altura y nunca menciona el mar, así que la opción introduce una causa que no está en el original."
+        },
+        {
+          "letter": "D",
+          "text": "Los tulipanes de la ciudad soportan el frío de la madrugada durante buena parte del año.",
+          "is_correct": false,
+          "feedback": "Esa idea sí aparece al final del texto, por lo que puede incluirse en el resumen sin problema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un resumen exige comparar cada afirmación con lo que el texto realmente dice y no con lo que uno sabe del tema. El texto de Tunja explica el frío por la altura y menciona los tulipanes; en ningún momento habla del mar. Reconocer que la opción C introduce una causa ajena al original es lo que permite descartar un resumen bien escrito pero falso, el error más difícil de detectar cuando el estilo convence.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v7",
+      "statement": "En el esquema de este texto, ¿cuál de estos conceptos debe quedar en una casilla secundaria porque no es indispensable para explicar la idea central?",
+      "context": "Para el trabajo de lectura, Valeria, de Cartagena, leyó el texto «El río que une al país»: «Cada año, las lluvias del Chocó hacen crecer el río Magdalena. Su caudal llega entonces a los llanos del Casanare y del Meta. Las comunidades de la Costa Caribe aprovechan esas aguas para la pesca y para el transporte de carga.» Ella debe organizar ese contenido en un esquema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento del caudal del río Magdalena cuando llegan las lluvias.",
+          "is_correct": false,
+          "feedback": "Ese concepto es parte de la cadena explicativa, porque sin él no se entiende por qué cambian las aguas del río cada año."
+        },
+        {
+          "letter": "B",
+          "text": "Las lluvias del Chocó que hacen crecer el río cada año.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las lluvias son el dato de contexto que origina todo el proceso, describirlas no es indispensable para explicar la idea central."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada de más agua a los llanos del Casanare y del Meta.",
+          "is_correct": false,
+          "feedback": "Este concepto explica la consecuencia principal del crecimiento del río, por lo que debe quedar en el centro del esquema."
+        },
+        {
+          "letter": "D",
+          "text": "La pesca y el transporte de carga de las comunidades de la Costa Caribe.",
+          "is_correct": false,
+          "feedback": "Ese concepto cierra la cadena del texto y sostiene la idea final, así que no puede relegarse a una casilla secundaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No todo dato merece el mismo lugar en un esquema. Un esquema jerárquico coloca en el centro las ideas sin las cuales la explicación se rompe, y deja en casillas secundarias los datos de apoyo. En este texto, la lluvia es el detonante, el aumento del caudal y la llegada a los llanos son el núcleo, y la pesca y el transporte son el cierre. Reconocer ese orden ayuda a no saturar el esquema de flechas sin jerarquía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas opciones conserva la relación de contraste que el texto establece entre el frío del parque y la llegada de los visitantes?",
+      "context": "Andrés, de Pereira, resumió el texto «El parque de los Nevados»: «El Parque Nacional de los Nevados, en el Eje Cafetero, tiene un clima muy frío. A pesar de esa dificultad, cada año llegan pastorales, arrieros y estudiantes, y las comunidades locales apoyan el senderismo porque de él dependen sus ingresos.»",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunque el parque es frío, cada año llegan pastorales, arrieros y estudiantes, y las comunidades locales apoyan el senderismo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el conector «aunque» mantiene la concesión del original: a pesar del frío, la llegada de visitantes y el apoyo de las comunidades sí ocurren."
+        },
+        {
+          "letter": "B",
+          "text": "El parque es muy frío, por eso cada año llegan menos visitantes que a los demás parques del país.",
+          "is_correct": false,
+          "feedback": "Convierte el contraste en causa y además añade una comparación que el texto nunca hace sobre otros parques del país."
+        },
+        {
+          "letter": "C",
+          "text": "El frío del parque y la llegada de visitantes son dos ideas sin ninguna relación entre sí.",
+          "is_correct": false,
+          "feedback": "Borra justamente la relación que el texto establece con la expresión «a pesar de», que es lo que hay que conservar al resumir."
+        },
+        {
+          "letter": "D",
+          "text": "El parque es frío y las comunidades locales desconfían de quienes llegan cada año a visitarlo.",
+          "is_correct": false,
+          "feedback": "Cambia la postura de las comunidades, porque el texto afirma que apoyan el senderismo y que de él dependen sus ingresos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las relaciones entre ideas es indispensable al resumir, porque una buena reformulación no cambia lo que el texto afirma. En este caso, la expresión «a pesar de» introduce un contraste entre la dificultad del clima y la llegada de pastorales, arrieros y estudiantes. Mantener ese contraste con «aunque» conserva el sentido original; de lo contrario, el resumen terminaría afirmando lo contrario de lo que dice el texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la valoración más precisa sobre el resumen de Daniela?",
+      "context": "En la clase de lectura de Cartagena, Daniela recibió el texto «Menos consumo, más ahorro», que dice: «Desde 2024 el consumo de energía eléctrica en los hogares de Cartagena se ha reducido un ocho por ciento, gracias al uso de bombillos LED y al aprovechamiento de la luz natural.» Su resumen dice: «En Cartagena el consumo de energía eléctrica bajó mucho por el uso del celular y de internet.»",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen de Daniela es una copia del texto, porque repite los datos numéricos.",
+          "is_correct": false,
+          "feedback": "No hay copia en ningún sentido, el resumen está redactado con otras palabras, así que el problema no está en la forma sino en el contenido."
+        },
+        {
+          "letter": "B",
+          "text": "El resumen de Daniela es mejor que el texto, porque suprime los porcentajes que no son importantes.",
+          "is_correct": false,
+          "feedback": "Un resumen no busca quedar por encima del texto, y además el porcentaje sostiene la idea central, de modo que eliminarlo debilita el resumen."
+        },
+        {
+          "letter": "C",
+          "text": "El resumen de Daniela no sirve porque es muy largo para una sola idea.",
+          "is_correct": false,
+          "feedback": "El problema del resumen no es la extensión, sino que atribuye el descenso del consumo a causas que el texto nunca menciona."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen de Daniela cambia el sentido del texto, porque atribuye el descenso a causas que el original no menciona.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto explica la reducción con bombillos LED y luz natural mientras el resumen invoca el celular e internet, de modo que falsea la causa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un resumen exige confrontarlo con el texto fuente, y el criterio principal es la fidelidad: un resumen puede estar bien escrito y aun así fallar. En este caso, Daniela cambia las causas del ahorro de energía, de modo que su resumen cuenta algo distinto de lo que dice el original. Reconocer la diferencia entre escribir bien y resumir bien es lo que permite valorar el trabajo de un compañero con criterios claros y argumentos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la valoración más completa y correcta del trabajo de Salma?",
+      "context": "En el taller de Tunja, Salma recibió la indicación de elaborar un esquema y un resumen del texto «La caficultura del Eje Cafetero». Su esquema tiene el tema central arriba, tres ramas con subtemas y palabras clave en cada rama; además escribió un resumen de tres oraciones con la idea principal y un dato de apoyo tomados del texto. La profesora pregunta si el trabajo cumple con lo solicitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trabajo está incompleto, porque el esquema solo sirve para textos de ciencias naturales.",
+          "is_correct": false,
+          "feedback": "Reduce el alcance de la técnica, porque el esquema sirve para cualquier texto informativo, narrativo o argumentativo que se lea en clase."
+        },
+        {
+          "letter": "B",
+          "text": "El trabajo cumple las dos técnicas, porque el esquema muestra la estructura del texto y el resumen conserva la idea principal y un dato de apoyo en pocas líneas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque valora las dos técnicas en conjunto: el esquema refleja la organización con jerarquía y el resumen respeta la información esencial del texto."
+        },
+        {
+          "letter": "C",
+          "text": "El trabajo tiene un error, porque el resumen debe tener tantas oraciones como ramas tiene el esquema.",
+          "is_correct": false,
+          "feedback": "Nada en la indicación lo exige, porque el número de oraciones depende de la extensión del contenido y no de la cantidad de ramas del esquema."
+        },
+        {
+          "letter": "D",
+          "text": "El trabajo es correcto, aunque un esquema y un resumen no puedan elaborarse a partir del mismo texto.",
+          "is_correct": false,
+          "feedback": "La conclusión sobre el cumplimiento es acertada, pero la razón es falsa, porque las dos técnicas sí pueden y suelen aplicarse al mismo texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Valorar un trabajo completo exige revisar técnica por técnica y con criterios claros. El esquema de Salma cumple con la jerarquía —tema central, ramas y palabras clave— y su resumen conserva la idea principal con un dato de apoyo, sin copiar el original. La evaluación también exige detectar el error en las otras opciones: dos de ellas niegan que ambas técnicas puedan usarse juntas y la tercera inventa una regla que nadie pidió.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-6-2026-W08-resumen-esquema-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
