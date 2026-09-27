@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-6-subject-lengua",
+    "generated_at": "2026-09-26T05:31:10.493Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el sustantivo?",
+      "context": "En la biblioteca del colegio en Bucaramanga, la profesora pide a los estudiantes de grado sexto repasar qué clase de palabra nombra a las personas, los animales y las cosas.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra que expresa las acciones que realizan las personas o los animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del verbo."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra que acompaña al sustantivo para indicar sus cualidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del adjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra que nombra personas, animales, cosas, lugares, sentimientos e ideas.",
+          "is_correct": true,
+          "feedback": "Correcto. El sustantivo sirve para nombrar todos los seres y realidades que nos rodean."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra que reemplaza al sustantivo para evitar repetirlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del pronombre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sustantivo es la palabra que usamos para nombrar todo lo que existe: lo que se puede tocar (mesa, perro) y lo que no (alegría, libertad). Reconocerlo es el primer paso para analizar cualquier oración.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v2",
+      "statement": "En la frase anterior, ¿cuáles palabras son sustantivos propios?",
+      "context": "Una niña de Medellín escribe en su diario: «Mi prima Valeria vive en Medellín y tiene un gato llamado Michi».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prima y gato, porque nombran a una persona y a un animal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras nombran en general, no distinguen a un ser único."
+        },
+        {
+          "letter": "B",
+          "text": "Valeria, Medellín y Michi, porque nombran seres únicos y particulares.",
+          "is_correct": true,
+          "feedback": "Correcto. Los sustantivos propios distinguen a un ser entre los demás de su clase y se escriben con mayúscula inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Vive y tiene, porque indican lo que hacen los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras expresan acciones, son verbos."
+        },
+        {
+          "letter": "D",
+          "text": "Mi y un, porque acompañan a las demás palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son palabras que acompañan al sustantivo, no sustantivos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sustantivo común nombra en general (niña, ciudad, gato) y se escribe con minúscula. El sustantivo propio nombra a un ser único (Valeria, Medellín, Michi) y siempre lleva mayúscula inicial.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v3",
+      "statement": "¿Cuáles de las siguientes palabras del aviso son sustantivos concretos?",
+      "context": "En la plaza de mercado de Cali, don Ernesto vende frutas: «El kilo de mango cuesta 5.000 COP y la libra de lulo cuesta 3.000 COP».\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuesta y vende, porque indican la actividad del mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras expresan acciones del vendedor."
+        },
+        {
+          "letter": "B",
+          "text": "El y la, porque acompañan a los nombres de las frutas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras son artículos que acompañan al sustantivo."
+        },
+        {
+          "letter": "C",
+          "text": "Dulzura y frescura, porque describen cualidades de la fruta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Además de no aparecer en el aviso, esas palabras nombran ideas abstractas."
+        },
+        {
+          "letter": "D",
+          "text": "Mango y lulo, porque nombran frutas que se pueden ver y tocar.",
+          "is_correct": true,
+          "feedback": "Correcto. Los sustantivos concretos nombran realidades que se perciben con los sentidos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los sustantivos concretos nombran lo que podemos percibir con los sentidos (mango, mesa, perro). Los abstractos nombran ideas o sentimientos que no se pueden tocar (dulzura, miedo, libertad).\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuáles palabras de la crónica son sustantivos abstractos?",
+      "context": "Durante el Carnaval de Barranquilla, un cronista escribe: «La libertad y la alegría se sintieron en cada comparsa del desfile».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libertad y alegría, porque nombran ideas y sentimientos que no se pueden tocar.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque se viven en la fiesta, la libertad y la alegría no tienen forma física."
+        },
+        {
+          "letter": "B",
+          "text": "Carnaval y desfile, porque son eventos que se pueden ver y tocar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos eventos son realidades concretas que se perciben con los sentidos."
+        },
+        {
+          "letter": "C",
+          "text": "Sintieron y comparsa, porque una es acción y la otra es concreta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sentir es una acción y la comparsa es un grupo visible de bailarines."
+        },
+        {
+          "letter": "D",
+          "text": "Cada y en, porque son palabras que organizan la frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas palabras acompañan o enlazan, no nombran realidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sustantivo abstracto nombra lo que solo existe en la mente o en el corazón: sentimientos (alegría, tristeza), valores (libertad, justicia) e ideas (paz, sabiduría). No se puede ver ni tocar directamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v5",
+      "statement": "La palabra «bandada» es un sustantivo colectivo porque:",
+      "context": "Un estudiante de Bogotá observa el cielo en el humedal y anota: «La bandada de patos cruzó el cielo al atardecer».\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nombra a un solo pato separado de los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si nombrara a un solo animal, sería individual."
+        },
+        {
+          "letter": "B",
+          "text": "Nombra un lugar donde viven muchas aves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bandada no es un lugar, es un conjunto de animales."
+        },
+        {
+          "letter": "C",
+          "text": "Siendo singular, nombra a un conjunto de seres de la misma clase.",
+          "is_correct": true,
+          "feedback": "Correcto. Los colectivos nombran en singular a un grupo: bandada, equipo, bosque, alumnado."
+        },
+        {
+          "letter": "D",
+          "text": "Nombra una cualidad especial de los patos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cualidades las expresan los adjetivos, no este sustantivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sustantivo individual nombra a un solo ser (pato, árbol, estudiante) y el colectivo nombra en singular a un conjunto de seres iguales (bandada, bosque, curso). Fíjate: el verbo va en singular porque el sustantivo está en singular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué se dice «el agua» si la palabra «agua» es de género femenino?",
+      "context": "En una salida al páramo cerca de Bogotá, la guía dice: «El agua cristalina de este páramo abastece a toda la ciudad».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la palabra agua es de género masculino y cristalina está mal escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decimos «agua cristalina», lo que demuestra que es femenina."
+        },
+        {
+          "letter": "B",
+          "text": "Porque agua es femenina, pero usa «el» por sonido para evitar el choque de dos vocales tónicas.",
+          "is_correct": true,
+          "feedback": "Correcto. Por eufonía se dice «el agua», «el águila», aunque el adjetivo confirma el femenino: cristalina."
+        },
+        {
+          "letter": "C",
+          "text": "Porque todas las palabras que empiezan por a son masculinas sin excepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay muchas palabras femeninas con a inicial: la arena, la amiga."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el género de los sustantivos no tiene reglas y cambia en cada frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género es una propiedad estable de cada sustantivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género del sustantivo se descubre con el adjetivo que lo acompaña: «el agua cristalina». Algunas palabras femeninas que empiezan por a tónica usan «el» solo por sonido, pero siguen siendo femeninas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el plural correcto de las palabras «lápiz» y «cuaderno»?",
+      "context": "En una papelería de Pasto, una lista de útiles dice: «lápiz, cuaderno, colores, tijeras y borrador».\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lápizs y cuadernos, porque basta agregar una s al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras terminadas en z cambian su final en plural."
+        },
+        {
+          "letter": "B",
+          "text": "Lápizes y cuadernes, porque se agrega es a toda palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo las terminadas en consonante agregan es, y la z cambia a c."
+        },
+        {
+          "letter": "C",
+          "text": "Lápices y cuaderno, porque cuaderno no tiene plural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuaderno sí tiene plural y la segunda parte deja la lista incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "Lápices y cuadernos, porque la z cambia a c antes de es y la vocal solo agrega s.",
+          "is_correct": true,
+          "feedback": "Correcto. Terminadas en z forman el plural en -ces; terminadas en vocal agregan -s."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reglas básicas del número: si termina en vocal, agrega -s (cuaderno-cuadernos); si termina en consonante, agrega -es (árbol-árboles); si termina en z, cambia a c y agrega -es (lápiz-lápices).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v8",
+      "statement": "Según su significado, ¿cómo se clasifican «leche» y «panes» por su posibilidad de contarse?",
+      "context": "En una tienda de Bucaramanga, doña Marta anota: «Compró dos litros de leche y tres panes para el desayuno».\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leche es no contable y panes es contable, porque la leche se mide y los panes se cuentan uno por uno.",
+          "is_correct": true,
+          "feedback": "Correcto. Los no contables se miden (litros, kilos) y los contables se enumeran (uno, dos, tres)."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas son contables, porque las dos se venden en la tienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que se vendan no significa que se puedan contar por unidades."
+        },
+        {
+          "letter": "C",
+          "text": "Leche es contable y panes es no contable, porque la leche viene en bolsas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el pan se cuenta por unidades y la leche se mide."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas son abstractas, porque nombran alimentos de la cocina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alimentos son realidades concretas que se perciben con los sentidos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los sustantivos contables se pueden enumerar (tres panes, cinco libros). Los no contables no se cuentan por unidades, sino que se miden o se pesan (dos litros de leche, un kilo de arroz).\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v9",
+      "statement": "¿Qué error presenta el aviso y cómo se corrige?",
+      "context": "En el periódico mural de un colegio de Medellín apareció este aviso: «Las problemas del barrio se resolvieron gracias a la comunidad».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El verbo está mal conjugado y debe decir «se resolvió».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo concuerda bien en plural con el sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra problemas debe ir en singular: «el problema».",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plural está bien porque habla de varios asuntos del barrio."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo no concuerda en género y debe decir «Los problemas».",
+          "is_correct": true,
+          "feedback": "Correcto. Problema es masculino aunque termina en a; el artículo debe concordar en masculino."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra barrio debe escribirse con mayúscula por ser sustantivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Barrio es sustantivo común y se escribe con minúscula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hay sustantivos masculinos terminados en -a (el problema, el mapa, el planeta) y femeninos terminados en -o (la mano, la moto). El truco es fijarse en el artículo y el adjetivo: «los problemas graves». Ante la duda, consulta el diccionario.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la versión correctamente escrita del texto?",
+      "context": "Un estudiante de Cali debe pasar a limpio este texto para la cartelera: «mi amigo santiago y yo visitamos el rio cali en diciembre».\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi amigo Santiago y yo visitamos el rio Cali en diciembre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Río es palabra aguda terminada en vocal y siempre lleva tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Mi amigo Santiago y yo visitamos el río Cali en diciembre.",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres propios (Santiago, Cali) van con mayúscula y los comunes (amigo, río, diciembre) con minúscula."
+        },
+        {
+          "letter": "C",
+          "text": "Mi amigo Santiago y yo visitamos el río Medellín en diciembre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paseo fue al río Cali, no al río Medellín."
+        },
+        {
+          "letter": "D",
+          "text": "Mis amigos Santiago y yo visitamos el río Cali en diciembre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto original habla de un solo amigo (singular), no de varios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Regla de oro del uso: sustantivo propio = mayúscula inicial (Santiago, Cali, Navidad); sustantivo común = minúscula (amigo, río, diciembre). Los meses y los días de la semana son comunes en español.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W12-el-sustantivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
