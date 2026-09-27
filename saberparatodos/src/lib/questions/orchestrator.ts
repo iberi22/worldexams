@@ -47,9 +47,13 @@ export async function prepareSoloExamQuestions(
   if (!request.englishDiagnostic) {
     let poolSizeFromMeta: number | undefined;
 
-    if (deps.repository.fetchSample && !isPreuMode) {
+    // Sampling needs a concrete subject: without one the API defaults to matematicas,
+    // so Simulacro (subject null) keeps the legacy grade-wide pool.
+    if (deps.repository.fetchSample && !isPreuMode && request.subject) {
       let fetchedQuestions: AppQuestion[] = [];
-      const remainingCount = Math.max(0, request.count - pool.length);
+      // `pool` holds every question already in memory (any subject), so it can't be
+      // subtracted from the exam size: always request a fresh sample of `count`.
+      const remainingCount = Math.max(0, request.count);
 
       if (remainingCount > 0) {
         let metaSize = 0;
@@ -61,7 +65,8 @@ export async function prepareSoloExamQuestions(
 
         while (fetchedQuestions.length < remainingCount && attempts < maxAttempts) {
           attempts++;
-          const seed = Math.random().toString(36).substring(7);
+          // Numeric seed: the API parses it as an integer.
+          const seed = String(Math.floor(Math.random() * 2147483647));
           const limit = Math.min(25, remainingCount - fetchedQuestions.length);
 
           try {

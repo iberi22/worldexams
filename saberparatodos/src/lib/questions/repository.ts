@@ -56,7 +56,7 @@ export const defaultQuestionRepository: QuestionRepository = {
     if (options.seed) query.set('seed', options.seed);
 
     try {
-      const apiResponse = await fetch(`\${apiBaseUrl}/questions?\${query.toString()}`);
+      const apiResponse = await fetch(`${apiBaseUrl}/questions?${query.toString()}`);
       if (apiResponse.ok) {
         const payload = await apiResponse.json();
         const rawQuestions = Array.isArray(payload?.questions) ? payload.questions : [];
