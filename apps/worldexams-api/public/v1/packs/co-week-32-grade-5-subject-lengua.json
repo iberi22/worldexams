@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v1",
       "statement": "Lee la lista: \"El tendero vendió manzanas, peras, mangos y bananos\". ¿Qué signo separa los elementos de la lista?",
-      "context": "En un mercado de Bogotá, la profesora escribe en el tablero la lista de frutas que vendió un tendero durante la mañana.\n**Expected_Success:** 0.90",
+      "context": "En un mercado de Bogotá, la profesora escribe en el tablero la lista de frutas que vendió un tendero durante la mañana.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v2",
       "statement": "¿Qué se entiende sobre el uso de la coma en la oración \"En mi morral llevo cuadernos, colores, regla y borrador\"?",
-      "context": "En Medellín, Camila escribe la lista de útiles que llevará al colegio y quiere que su mamá la entienda bien.\n**Expected_Success:** 0.88",
+      "context": "En Medellín, Camila escribe la lista de útiles que llevará al colegio y quiere que su mamá la entienda bien.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v3",
       "statement": "¿Cuál es la forma correcta de escribir la oración?",
-      "context": "En Cali, un estudiante escribió la oración \"Compré pan leche huevos y queso\" y la maestra le pidió corregirla.\n**Expected_Success:** 0.85",
+      "context": "En Cali, un estudiante escribió la oración \"Compré pan leche huevos y queso\" y la maestra le pidió corregirla.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v4",
       "statement": "¿Dónde debe colocarse una coma para que la lista quede bien separada?",
-      "context": "En Barranquilla, la tienda escolar anotó el pedido de un curso: \"jugos de mango agua galletas y empanadas\".\n**Expected_Success:** 0.83",
+      "context": "En Barranquilla, la tienda escolar anotó el pedido de un curso: \"jugos de mango agua galletas y empanadas\".",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v5",
       "statement": "¿Qué función cumple la coma en esa oración?",
-      "context": "En Pereira, una familia anota la cuenta del mercado: \"pagué 12000 pesos por la papa, 8000 pesos por el arroz y 5000 pesos por el pan\".\n**Expected_Success:** 0.80",
+      "context": "En Pereira, una familia anota la cuenta del mercado: \"pagué 12000 pesos por la papa, 8000 pesos por el arroz y 5000 pesos por el pan\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v6",
       "statement": "Juan escribió \"Traje lápices, borrador y regla\". Sara escribió \"Traje lápices borrador y regla\". ¿Cuál es la diferencia principal entre las dos oraciones?",
-      "context": "En Bucaramanga, dos estudiantes comparan dos formas de escribir la misma lista de útiles para la clase de arte.\n**Expected_Success:** 0.75",
+      "context": "En Bucaramanga, dos estudiantes comparan dos formas de escribir la misma lista de útiles para la clase de arte.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v7",
       "statement": "¿Para qué se usan las comas en el aviso del colegio?",
-      "context": "En Cartagena, un aviso del colegio dice: \"Trae tu cuaderno, tu lápiz, tu borrador y tu cartuchera para la actividad del viernes\".\n**Expected_Success:** 0.72",
+      "context": "En Cartagena, un aviso del colegio dice: \"Trae tu cuaderno, tu lápiz, tu borrador y tu cartuchera para la actividad del viernes\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W32-uso-de-la-coma-enumeracion-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de las oraciones está escrita correctamente con el uso de la coma?",
-      "context": "En Bogotá, el curso va a publicar una lista de normas de convivencia y la profesora revisa la escritura antes de imprimirla.\n**Expected_Success:** 0.58",
+      "context": "En Bogotá, el curso va a publicar una lista de normas de convivencia y la profesora revisa la escritura antes de imprimirla.",
       "options": [
         {
           "letter": "A",

@@ -56,7 +56,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v2",
       "statement": "¿Cuál es la probabilidad de vender al menos 1 carro en un día determinado?",
-      "context": "Se presenta una tabla de distribución de probabilidad para la cantidad de carros vendidos en un día en un concesionario de Bogotá:\n$X = 0 Rightarrow P = 0.5$, $X = 1 Rightarrow P = 0.3$, $X = 2 Rightarrow P = 0.2$.",
+      "context": "Se presenta una tabla de distribución de probabilidad para la cantidad de carros vendidos en un día en un concesionario de Bogotá:\n\n$X = 0 Rightarrow P = 0.5$, $X = 1 Rightarrow P = 0.3$, $X = 2 Rightarrow P = 0.2$.",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-MAT-11-2026-W34-distribuciones-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es el valor esperado $E[X]$ del número de fallas del equipo?",
-      "context": "Una variable aleatoria discreta $X$ representa el número de fallas en un equipo en Bucaramanga y tiene la siguiente tabla:\n$X = 0 Rightarrow 0.6$, $X = 1 Rightarrow 0.3$, $X = 2 Rightarrow 0.1$.",
+      "context": "Una variable aleatoria discreta $X$ representa el número de fallas en un equipo en Bucaramanga y tiene la siguiente tabla:\n\n$X = 0 Rightarrow 0.6$, $X = 1 Rightarrow 0.3$, $X = 2 Rightarrow 0.1$.",
       "options": [
         {
           "letter": "A",

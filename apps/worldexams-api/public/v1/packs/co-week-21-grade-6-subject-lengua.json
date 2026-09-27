@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v1",
       "statement": "¿Qué resumen presenta el cartel sobre las categorías gramaticales vistas en el periodo?",
-      "context": "En el kiosco de Medellín, una profesora pega este cartel: «El verbo dice la acción, el adverbio precisa cómo, el pronombre evita repetir».\n**Expected_Success:** 0.90",
+      "context": "En el kiosco de Medellín, una profesora pega este cartel: «El verbo dice la acción, el adverbio precisa cómo, el pronombre evita repetir».",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v2",
       "statement": "¿Qué categorías gramaticales aparecen en el resumen?",
-      "context": "Una alumna de Bucaramanga resume: «Los estudiantes (sujeto) leen libros rápidamente (predicado con adverbio) porque les gusta».\n**Expected_Success:** 0.87",
+      "context": "Una alumna de Bucaramanga resume: «Los estudiantes (sujeto) leen libros rápidamente (predicado con adverbio) porque les gusta».",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v3",
       "statement": "¿Qué categorías gramaticales y signos de puntuación intervienen en el aviso?",
-      "context": "Un aviso de Cali dice: «Los alumnos traerán su cuaderno mañana, pero si llueve no vendrán».\n**Expected_Success:** 0.83",
+      "context": "Un aviso de Cali dice: «Los alumnos traerán su cuaderno mañana, pero si llueve no vendrán».",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v4",
       "statement": "¿Qué categorías gramaticales y signos de puntuación se repasan en la frase?",
-      "context": "Un niño de Pereira escribe: «Yo estudio aquí; mi hermana, en cambio, estudia allá».\n**Expected_Success:** 0.80",
+      "context": "Un niño de Pereira escribe: «Yo estudio aquí; mi hermana, en cambio, estudia allá».",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v5",
       "statement": "¿Qué categorías y signos aparecen, y por qué la coma está bien colocada?",
-      "context": "Una alumna de Barranquilla corrige el texto: «Los profesores trabajan mucho, los estudiantes, sin embargo, descansan poco».\n**Expected_Success:** 0.77",
+      "context": "Una alumna de Barranquilla corrige el texto: «Los profesores trabajan mucho, los estudiantes, sin embargo, descansan poco».",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v6",
       "statement": "¿Qué recursos del periodo (categorías y signos) se concentran en el cartel?",
-      "context": "Un cartel de Tunja anuncia: «Queridos padres: mañana habrá reunión a las 7 p.m. ¡Los esperamos!».\n**Expected_Success:** 0.73",
+      "context": "Un cartel de Tunja anuncia: «Queridos padres: mañana habrá reunión a las 7 p.m. ¡Los esperamos!».",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v7",
       "statement": "¿Qué categorías y signos se repasan al leer la receta?",
-      "context": "Una receta de Pasto dice: «Fríe la cebolla, agrega el ajo, sofríe lentamente, añade cilantro al final. ¡Listo!».\n**Expected_Success:** 0.69",
+      "context": "Una receta de Pasto dice: «Fríe la cebolla, agrega el ajo, sofríe lentamente, añade cilantro al final. ¡Listo!».",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v8",
       "statement": "¿Qué categoría gramatical predomina para evitar repeticiones en el resumen?",
-      "context": "Un alumno de Neiva resume: «Mis tíos vinieron, ellos trajeron dulces, nosotros jugamos y todos nos reímos mucho».\n**Expected_Success:** 0.65",
+      "context": "Un alumno de Neiva resume: «Mis tíos vinieron, ellos trajeron dulces, nosotros jugamos y todos nos reímos mucho».",
       "options": [
         {
           "letter": "A",
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v9",
       "statement": "¿Qué categorías presentan error en el aviso y cómo se corrigen?",
-      "context": "Un aviso de Manizales dice: «Los estudiantes llegará tarde porque no respetó el horario».\n**Expected_Success:** 0.60",
+      "context": "Un aviso de Manizales dice: «Los estudiantes llegará tarde porque no respetó el horario».",
       "options": [
         {
           "letter": "A",
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-6-2026-W21-repaso-periodo-2-001-MASTERY-bundle-v10",
       "statement": "¿Qué problemas combina el texto y qué categoría de repaso los resolvería mejor?",
-      "context": "Una alumna de Cartagena escribe: «Los niños jugaron en el parque, ellos comieron dulces después, y luego ellos volvieron a casa.».\n**Expected_Success:** 0.55",
+      "context": "Una alumna de Cartagena escribe: «Los niños jugaron en el parque, ellos comieron dulces después, y luego ellos volvieron a casa.».",
       "options": [
         {
           "letter": "A",

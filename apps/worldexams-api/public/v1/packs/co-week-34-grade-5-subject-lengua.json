@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v1",
       "statement": "Según la descripción \"mochila azul, de tela y con dos correas\", ¿qué característica indica el material del que está hecha?",
-      "context": "En un salón de Bogotá, la profesora muestra una mochila azul de tela con dos correas y pide describirla con detalle.\n**Expected_Success:** 0.90",
+      "context": "En un salón de Bogotá, la profesora muestra una mochila azul de tela con dos correas y pide describirla con detalle.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v2",
       "statement": "¿Qué se entiende de la descripción del perro de Tomás?",
-      "context": "En Medellín, Tomás describe a su perro: \"Es pequeño, de pelo café y orejas largas; siempre mueve la cola cuando llego del colegio\".\n**Expected_Success:** 0.88",
+      "context": "En Medellín, Tomás describe a su perro: \"Es pequeño, de pelo café y orejas largas; siempre mueve la cola cuando llego del colegio\".",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v3",
       "statement": "¿Cuál descripción permite identificar mejor un borrador?",
-      "context": "En Cali, los estudiantes deben describir un objeto para que un compañero lo adivine sin verlo.\n**Expected_Success:** 0.85",
+      "context": "En Cali, los estudiantes deben describir un objeto para que un compañero lo adivine sin verlo.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v4",
       "statement": "¿Cuál característica de la descripción indica lo que el loro sabe hacer?",
-      "context": "En Barranquilla, una estudiante describe al loro de su abuela: \"Tiene plumas verdes, pico curvo y repite algunas palabras\".\n**Expected_Success:** 0.83",
+      "context": "En Barranquilla, una estudiante describe al loro de su abuela: \"Tiene plumas verdes, pico curvo y repite algunas palabras\".",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v5",
       "statement": "¿Qué datos de esa descripción ayudan a un estudiante a decidir la compra?",
-      "context": "En una papelería de Pereira, la vendedora describe un cuaderno: \"Tiene 100 hojas, pasta dura y cuesta 3500 pesos\".\n**Expected_Success:** 0.80",
+      "context": "En una papelería de Pereira, la vendedora describe un cuaderno: \"Tiene 100 hojas, pasta dura y cuesta 3500 pesos\".",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v6",
       "statement": "Ana dice: \"Es lenta y tiene caparazón duro\". Luis dice: \"Es un animal que se mueve despacio y lleva su casa encima\". ¿Cuál es la diferencia principal entre las dos descripciones?",
-      "context": "En Bucaramanga, dos compañeros describen la misma tortuga durante la clase de ciencias naturales.\n**Expected_Success:** 0.75",
+      "context": "En Bucaramanga, dos compañeros describen la misma tortuga durante la clase de ciencias naturales.",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v7",
       "statement": "¿Qué información importante falta en la descripción del aviso para que un comprador decida mejor?",
-      "context": "En Cartagena, un aviso ofrece un ventilador usado: \"Ventilador nuevo, de tres velocidades, color blanco, funciona muy bien\".\n**Expected_Success:** 0.71",
+      "context": "En Cartagena, un aviso ofrece un ventilador usado: \"Ventilador nuevo, de tres velocidades, color blanco, funciona muy bien\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W34-descripcion-objetos-animales-001-MASTERY-bundle-v8",
       "statement": "¿Cuál de las descripciones es la más completa y útil?",
-      "context": "En Bogotá, la profesora pide elegir la mejor descripción de un objeto para el mural del salón y publicarla con una imagen.\n**Expected_Success:** 0.62",
+      "context": "En Bogotá, la profesora pide elegir la mejor descripción de un objeto para el mural del salón y publicarla con una imagen.",
       "options": [
         {
           "letter": "A",

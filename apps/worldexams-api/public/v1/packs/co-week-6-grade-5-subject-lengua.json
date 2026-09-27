@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v1",
       "statement": "Lee la lista de palabras: \"cuaderno, correr, mesa, alegre\". ¿Cuál de estas palabras es un sustantivo?",
-      "context": "En una escuela de Bogotá, Juan organiza sus útiles sobre el pupitre antes de iniciar la clase de lenguaje.\n**Expected_Success:** 0.90",
+      "context": "En una escuela de Bogotá, Juan organiza sus útiles sobre el pupitre antes de iniciar la clase de lenguaje.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de los siguientes sustantivos es de género femenino?",
-      "context": "Valentina, una estudiante de Medellín, clasifica en dos cajas los nombres de animales de una finca de su familia: en una caja los masculinos y en otra los femeninos.\n**Expected_Success:** 0.88",
+      "context": "Valentina, una estudiante de Medellín, clasifica en dos cajas los nombres de animales de una finca de su familia: en una caja los masculinos y en otra los femeninos.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v3",
       "statement": "El sustantivo singular es \"árbol\". ¿Cuál es su forma correcta en plural?",
-      "context": "Santiago escribe en Cali la lista de compras de la tienda con su mamá y debe escribir varios productos en plural porque necesita comprar tres mil pesos de cada fruta.\n**Expected_Success:** 0.85",
+      "context": "Santiago escribe en Cali la lista de compras de la tienda con su mamá y debe escribir varios productos en plural porque necesita comprar tres mil pesos de cada fruta.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v4",
       "statement": "Lee la oración: \"La estudiante Mariana ganó el concurso de lectura\". Si cambiamos el sustantivo \"estudiante\" por su forma masculina referida a un niño, ¿cómo queda la oración?",
-      "context": "En Cartagena, Mariana ayuda a su profesora a marcar los cuadernos del curso con el nombre de cada estudiante.\n**Expected_Success:** 0.83",
+      "context": "En Cartagena, Mariana ayuda a su profesora a marcar los cuadernos del curso con el nombre de cada estudiante.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v5",
       "statement": "¿Cuál oración usa correctamente el género y el número del sustantivo subrayado?",
-      "context": "En Manizales, los niños del grado quinto preparan carteles para la feria del libro con los nombres de los útiles que van a vender.\n**Expected_Success:** 0.80",
+      "context": "En Manizales, los niños del grado quinto preparan carteles para la feria del libro con los nombres de los útiles que van a vender.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v6",
       "statement": "Al analizar el aviso de Juan, ¿qué error hay en el uso del sustantivo?",
-      "context": "En Pereira, Juan escribió este aviso para la cartelera: \"Se informa que el biblioteca estará cerrada el viernes por inventario de libros\".\n**Expected_Success:** 0.75",
+      "context": "En Pereira, Juan escribió este aviso para la cartelera: \"Se informa que el biblioteca estará cerrada el viernes por inventario de libros\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v7",
       "statement": "Compara las dos oraciones. ¿Cuál es correcta y por qué?",
-      "context": "Dos estudiantes de Bogotá escribieron una oración sobre los mapas del salón. Oración 1: \"Los mapa están sobre la mesa\". Oración 2: \"Los mapas están sobre la mesa\".\n**Expected_Success:** 0.72",
+      "context": "Dos estudiantes de Bogotá escribieron una oración sobre los mapas del salón. Oración 1: \"Los mapa están sobre la mesa\". Oración 2: \"Los mapas están sobre la mesa\".",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W06-sustantivo-genero-numero-001-MASTERY-bundle-v8",
       "statement": "¿Cuál párrafo usa de manera correcta el género y el número de los sustantivos?",
-      "context": "Valentina debe elegir el mejor párrafo para el periódico escolar de Medellín sobre la biblioteca del barrio.\n**Expected_Success:** 0.65",
+      "context": "Valentina debe elegir el mejor párrafo para el periódico escolar de Medellín sobre la biblioteca del barrio.",
       "options": [
         {
           "letter": "A",

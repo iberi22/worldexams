@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v1",
       "statement": "¿Cuál oración usa correctamente el punto final?",
-      "context": "En Bogotá, Juan escribe un mensaje a su profesora para avisar que llevará los libros el lunes.\n**Expected_Success:** 0.90",
+      "context": "En Bogotá, Juan escribe un mensaje a su profesora para avisar que llevará los libros el lunes.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v2",
       "statement": "Lee la oración: \"Compré mango, banano, papaya y piña\". ¿Para qué sirve la coma en esta oración?",
-      "context": "Valentina escribe en Medellín la lista de frutas que comprará con diez mil pesos para la ensalada del curso.\n**Expected_Success:** 0.88",
+      "context": "Valentina escribe en Medellín la lista de frutas que comprará con diez mil pesos para la ensalada del curso.",
       "options": [
         {
           "letter": "A",
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v3",
       "statement": "¿Cuál oración usa correctamente los signos de interrogación?",
-      "context": "En Cali, Santiago quiere preguntar a su amigo a qué hora empieza el partido en la cancha del barrio.\n**Expected_Success:** 0.85",
+      "context": "En Cali, Santiago quiere preguntar a su amigo a qué hora empieza el partido en la cancha del barrio.",
       "options": [
         {
           "letter": "A",
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v4",
       "statement": "¿Cuál oración expresa correctamente la emoción con signos de exclamación?",
-      "context": "En Cartagena, Mariana celebra con emoción que su equipo ganó el festival de lectura.\n**Expected_Success:** 0.83",
+      "context": "En Cartagena, Mariana celebra con emoción que su equipo ganó el festival de lectura.",
       "options": [
         {
           "letter": "A",
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v5",
       "statement": "Completa el aviso: \"Atención ___ traigan témperas, pinceles y cartulina\". ¿Qué signo falta después de \"Atención\"?",
-      "context": "En Manizales, la profesora escribe en el tablero los materiales de arte: témperas, pinceles y cartulina.\n**Expected_Success:** 0.80",
+      "context": "En Manizales, la profesora escribe en el tablero los materiales de arte: témperas, pinceles y cartulina.",
       "options": [
         {
           "letter": "A",
@@ -240,7 +240,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v6",
       "statement": "Al analizar el aviso, ¿qué problema hay con las comas?",
-      "context": "Juan pegó este aviso en Pereira: \"Se busca , un perro blanco , juguetón y , cariñoso\".\n**Expected_Success:** 0.75",
+      "context": "Juan pegó este aviso en Pereira: \"Se busca , un perro blanco , juguetón y , cariñoso\".",
       "options": [
         {
           "letter": "A",
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v7",
       "statement": "Compara los dos carteles. ¿Qué diferencia comunica cada puntuación?",
-      "context": "Dos carteles de Bogotá anuncian la feria. Cartel 1: \"¿Vienes a la feria del libro?\" Cartel 2: \"Vienes a la feria del libro.\"\n**Expected_Success:** 0.72",
+      "context": "Dos carteles de Bogotá anuncian la feria. Cartel 1: \"¿Vienes a la feria del libro?\" Cartel 2: \"Vienes a la feria del libro.\"",
       "options": [
         {
           "letter": "A",
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-5-2026-W09-signos-puntuacion-001-MASTERY-bundle-v8",
       "statement": "¿Cuál texto usa mejor los signos de puntuación?",
-      "context": "Valentina debe elegir el mejor texto para invitar a la feria del libro de Medellín.\n**Expected_Success:** 0.65",
+      "context": "Valentina debe elegir el mejor texto para invitar a la feria del libro de Medellín.",
       "options": [
         {
           "letter": "A",
