@@ -14,6 +14,7 @@
     onStartEnglishDiagnostic: () => void;
     onSelectPreu: () => void;
     onOpenBlog: () => void;
+    onStartRanked?: () => void;
   }
 
   let {
@@ -29,6 +30,7 @@
     onStartEnglishDiagnostic,
     onSelectPreu,
     onOpenBlog,
+    onStartRanked,
   }: Props = $props();
 
   let showAllGrades = $state(false);
@@ -96,6 +98,39 @@
         </div>
       </FlashlightCard>
     </div>
+
+    <!-- RANKED ENTRY CARD -->
+    {#if onStartRanked}
+      <div class="col-span-1 flex" data-testid="ranked-card">
+        <FlashlightCard
+          onClick={onStartRanked}
+          className="p-5 sm:p-6 flex flex-col justify-between group h-full transition-all duration-300 hover:scale-[1.01] hover:border-amber-500/50 bg-gradient-to-br from-amber-950/30 via-orange-950/15 to-[#121212] border-amber-500/30"
+        >
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-3">
+              <span class="px-2 py-0.5 bg-amber-500/20 text-amber-300 border border-amber-500/30 text-[9px] font-bold uppercase tracking-widest rounded-full">
+                Competitivo
+              </span>
+              <span class="text-2xl">🏆</span>
+            </div>
+
+            <h3 class="text-xl font-bold text-amber-400 group-hover:text-amber-300 transition-colors uppercase tracking-wider text-left">
+              Ranked ICFES
+            </h3>
+            <p class="text-xs text-white/60 mt-1 leading-relaxed text-left">
+              40 preguntas aleatorias de las 5 áreas · antitrampa activado · entra al leaderboard mensual con más de 30 respuestas
+            </p>
+          </div>
+
+          <div class="mt-4 pt-3 border-t border-white/10 flex items-center justify-between text-[10px] text-amber-400/80">
+            <span>Temporada actual</span>
+            <span class="font-bold flex items-center gap-1 group-hover:text-amber-300">
+              Jugar →
+            </span>
+          </div>
+        </FlashlightCard>
+      </div>
+    {/if}
 
     <!-- 2. CROSS-GRADE ENGLISH DIAGNOSTIC CARD (If enabled) -->
     {#if supportsEnglishDiagnostic}
