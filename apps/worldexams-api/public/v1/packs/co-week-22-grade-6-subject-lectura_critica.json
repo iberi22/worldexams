@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura-critica",
+    "country": "co",
+    "pack_id": "co-week-22-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T20:44:36.560Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una novela corta?",
+      "context": "En el colegio de Barranquilla, la profesora de sexto grado entrega a sus estudiantes un relato de cuatro capítulos sobre un niño que busca el camino de su casa después de la lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un relato de ficción con personajes, un conflicto y un final",
+          "is_correct": true,
+          "feedback": "Es correcta porque la novela cuenta una historia verosímil con personajes que quieren algo y con una situación que se resuelve."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que expone las reglas de una organización y las decisiones que ella toma",
+          "is_correct": false,
+          "feedback": "La exposición de normas y decisiones corresponde al manifiesto o al reglamento, no a un relato de ficción."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto muy breve de apenas dos páginas que cuenta una historia",
+          "is_correct": false,
+          "feedback": "La extensión no define la novela; un texto tan breve suele ser un cuento y no alcanza para varios capítulos."
+        },
+        {
+          "letter": "D",
+          "text": "Un diario personal donde el autor cuenta lo que hizo cada día",
+          "is_correct": false,
+          "feedback": "El diario personal es un género autobiográfico y no una narración de ficción con trama."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela corta es un género narrativo de ficción que se desarrolla a lo largo de varios capítulos. Se construye con las acciones de los personajes, un conflicto central y un desenlace que lo resuelve o lo deja abierto. En la iniciación a la literatura se leen relatos de este tipo para reconocer cómo se ordenan los hechos y cómo se presentan el espacio y el tiempo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v2",
+      "statement": "En ese relato, ¿qué papel cumplen los vecinos que ayudan a la niña?",
+      "context": "En Medellín, un grupo de sexto grado lee un relato en el que una niña de ocho años pierde la llanta de su bicicleta y la reconstruye con ayuda de sus vecinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son personajes que aparecen solamente al final y no cambian nada en la historia",
+          "is_correct": false,
+          "feedback": "La ayuda de los vecinos sí modifica el desenlace; no aparecen únicamente como un cierre sin efecto."
+        },
+        {
+          "letter": "B",
+          "text": "Son personajes que ayudan a la niña a resolver el problema que enfrenta",
+          "is_correct": true,
+          "feedback": "Es correcta porque el relato muestra cómo la intervención de los vecinos permite que la niña supere la dificultad."
+        },
+        {
+          "letter": "C",
+          "text": "Son personajes que sirven solo para decorar el relato con descripciones del barrio",
+          "is_correct": false,
+          "feedback": "Los vecinos tienen función en el conflicto, porque sin su ayuda la niña no resuelve la situación que enfrenta."
+        },
+        {
+          "letter": "D",
+          "text": "Son personajes que reemplazan a la niña como protagonista del relato",
+          "is_correct": false,
+          "feedback": "La protagonistía sigue siendo de la niña; la ayuda de los vecinos acompaña la trama y no la sustituye."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un relato, los personajes pueden ser principales o secundarios, y esa diferencia depende de si su acción modifica la trama. Reconocer el papel de cada personaje equivale a identificar quién tiene el conflicto y cuya intervención permite resolverlo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué razón corresponde mejor a alguien que lee una novela corta para conocer otra manera de vivir?",
+      "context": "En Bogotá, una profesora pregunta a sus estudiantes de sexto grado para qué leen novelas y qué esperan encontrar en ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leerla para memorizar las fechas y los nombres propios que aparecen en el relato",
+          "is_correct": false,
+          "feedback": "La memorización de datos pertenece al estudio de la obra, no al propósito de quien busca reconocer otra experiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Leerla para conocer las normas de uso de la biblioteca del colegio",
+          "is_correct": false,
+          "feedback": "Las normas de la biblioteca son un asunto administrativo y no una razón para leer una narración."
+        },
+        {
+          "letter": "C",
+          "text": "Leerla porque presenta personajes y situaciones que muestran otras formas de vivir",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ficción permite conocer experiencias ajenas a las del lector a través de personajes y de situaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Leerla porque todos los textos del plan de lectura están incluidos por igual",
+          "is_correct": false,
+          "feedback": "Que un texto esté en el plan no significa que todos los lectores se acerquen a él con el mismo propósito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La novela corta permite reconocer cómo se construye un relato completo en pocos capítulos y ayuda a comparar personajes y contextos. Comprender el propósito comunicativo de la ficción permite escoger la lectura más adecuada para cada necesidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el orden en que se presentan los hechos del relato?",
+      "context": "En Bucaramanga, un grupo de sexto grado tiene que ordenar los hechos de un relato que lee en clase antes de escribir un resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desenlace, presentación, conflicto y acciones, porque el lector conoce el final desde el principio",
+          "is_correct": false,
+          "feedback": "El desenlace aparece al final del relato; adelantarlo rompe la secuencia con la que el lector comprende el conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "Presentación, desenlace, conflicto y acciones, porque así el relato resulta más corto",
+          "is_correct": false,
+          "feedback": "Colocar el desenlace antes del conflicto rompe la lógica del relato y deja sin sentido el final."
+        },
+        {
+          "letter": "C",
+          "text": "Conflicto, presentación, acciones y desenlace, porque el conflicto siempre ocurre primero",
+          "is_correct": false,
+          "feedback": "El conflicto se anuncia en la presentación de los personajes; si aparece antes, el lector no sabe a quién le ocurre."
+        },
+        {
+          "letter": "D",
+          "text": "Presentación, conflicto, acciones y desenlace, porque es el recorrido típico del relato",
+          "is_correct": true,
+          "feedback": "Es correcta porque sigue la secuencia que va de la presentación a la dificultad, la búsqueda y la resolución."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El relato de ficción sigue un orden reconocible: primero presenta a los personajes y el lugar, luego plantea el conflicto, después muestra las acciones que intentan resolverlo y, por último, cierra con el desenlace. Ordenar los hechos con este esquema facilita el resumen y la comprensión del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v5",
+      "statement": "Según ese fragmento, ¿qué se puede afirmar sobre el personaje y el lugar?",
+      "context": "En Cali, una estudiante de sexto grado lee el primer capítulo de una novela y anota: «Elena abrió la puerta del apartamento y notó que nadie la esperaba».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que Elena ya había resuelto el problema que acababa de aparecer",
+          "is_correct": false,
+          "feedback": "El fragmento solo presenta la escena y no indica que el conflicto esté resuelto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la puerta se encontró abierta y que eso anuncia un peligro",
+          "is_correct": false,
+          "feedback": "El texto dice que Elena abrió la puerta; no afirma que se la encontrara abierta ni lo que eso significaría."
+        },
+        {
+          "letter": "C",
+          "text": "Que Elena es quien actúa en la escena y que la acción ocurre en una vivienda",
+          "is_correct": true,
+          "feedback": "Es correcta porque la acción del fragmento corresponde a Elena y la puerta y el apartamento sitúan la escena."
+        },
+        {
+          "letter": "D",
+          "text": "Que el relato tiene muchos personajes y que ninguno de ellos aparece en el fragmento",
+          "is_correct": false,
+          "feedback": "El fragmento presenta a Elena con una acción propia; no muestra una narración sin personajes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer el primer capítulo de una novela exige identificar quién actúa y dónde se ubica la escena. Los detalles del lugar y las acciones iniciales ofrecen las pistas que permiten comprender el conflicto que surgirá después.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia se encuentra entre el cuento de hadas y la novela en cuanto al mundo que presentan?",
+      "context": "En Barranquilla, un grupo de sexto grado compara un cuento de hadas con el primer capítulo de una novela colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuento de hadas presenta un mundo cotidiano, mientras que la novela presenta un mundo mágico",
+          "is_correct": false,
+          "feedback": "Es al contrario: el cuento de hadas lleva a un mundo mágico y la novela se apoya en un mundo verosímil."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos textos presentan un mundo mágico, porque las dos obras se escriben para niños",
+          "is_correct": false,
+          "feedback": "Que la obra se dirija a niños no obliga a que los dos textos lleven al mismo tipo de mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos textos presentan mundos idénticos, porque ninguno modifica la realidad cotidiana",
+          "is_correct": false,
+          "feedback": "El cuento de hadas se aparta de la realidad cotidiana; esa diferencia es justamente la que lo caracteriza."
+        },
+        {
+          "letter": "D",
+          "text": "El cuento de hadas se aparta del mundo cotidiano y la novela se apoya en un mundo verosímil",
+          "is_correct": true,
+          "feedback": "Es correcta porque la novela construye su historia en un mundo reconocible para el lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos obras narrativas permite observar cómo funciona cada género. El cuento de hadas acepta hechos imposibles porque propone un mundo mágico; la novela, en cambio, construye su historia sobre un mundo verosímil en el que cabe lo que les ocurre a sus personajes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de los dos comentarios está mejor fundamentado como lectura crítica?",
+      "context": "En Medellín, dos estudiantes de sexto grado leen la misma novela. Ana dice que le gustó mucho porque los personajes le parecieron reales. Pedro dice que no le gustó porque el final fue triste y ya lo sabía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Ana, porque apoya su valoración en una razón del texto y no solo en su gusto",
+          "is_correct": true,
+          "feedback": "Es correcta porque el comentario de Ana apoya su opinión en una característica de la obra y permite discutirla."
+        },
+        {
+          "letter": "B",
+          "text": "El de Pedro, porque un final triste demuestra que el relato no tiene valor",
+          "is_correct": false,
+          "feedback": "Que un final sea triste no prueba que la obra carezca de valor; el desenlace es una decisión del relato."
+        },
+        {
+          "letter": "C",
+          "text": "El de Ana, porque afirma que los personajes le parecieron reales, aunque no explique por qué",
+          "is_correct": false,
+          "feedback": "La afirmación es válida, pero le falta la explicación de qué rasgo del texto hizo que los personajes le parecieran reales."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos, porque un lector de sexto grado no está en capacidad de valorar una novela",
+          "is_correct": false,
+          "feedback": "Cualquier lector puede valorar una obra; lo que se espera es que su juicio se apoye en el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un comentario de lectura es crítico cuando apoya su valoración en elementos del texto y no solo en la impresión personal. Reconocer ese criterio ayuda a decir por qué un relato fue o no fue significativo para quien lo lee.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué permite entender una descripción detallada de un lugar dentro de un relato?",
+      "context": "En Bogotá, la profesora de sexto grado pide que sus estudiantes analicen cómo una novelista describe una casa en una zona popular de Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite conocer la dirección exacta de la casa para llegar sin ninguna otra fuente",
+          "is_correct": false,
+          "feedback": "La descripción narrativa construye la atmósfera del lugar; no es un mapa ni una dirección postal."
+        },
+        {
+          "letter": "B",
+          "text": "Permite deducir qué caminos debe tomar el autor de la obra para llegar a su vivienda",
+          "is_correct": false,
+          "feedback": "La descripción no funciona como una guía de desplazamientos; informa sobre cómo se siente el lugar y no sobre cómo llegar a él."
+        },
+        {
+          "letter": "C",
+          "text": "Permite comprender cómo es ese lugar y qué atmósfera se crea a su alrededor",
+          "is_correct": true,
+          "feedback": "Es correcta porque los detalles de un lugar en la narración construyen imágenes y ayudan a sentir el escenario."
+        },
+        {
+          "letter": "D",
+          "text": "Permite conocer los nombres de todas las personas que viven en ese barrio",
+          "is_correct": false,
+          "feedback": "El relato no registra datos de los vecinos del barrio; sus personajes aparecen por las acciones que realizan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la novela, la descripción de un lugar no solo ubica la acción: los detalles elegidos construyen el clima emocional de la escena y ayudan al lector a imaginarla. Reconocer esa función mejora la comprensión del texto narrativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué debería corregir el grupo en su resumen para que mostrara una lectura crítica completa?",
+      "context": "En Cali, un grupo de sexto grado tiene que escribir un resumen de una novela que leyeron en clase, pero el resumen cuenta solo las desgracias de los personajes y no explica qué clima tiene la obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quitar los nombres de los personajes, porque en un resumen no se mencionan personas",
+          "is_correct": false,
+          "feedback": "Los resúmenes sí nombran a los personajes principales; lo que falta en este caso es la comprensión del clima."
+        },
+        {
+          "letter": "B",
+          "text": "Explicar el clima del relato y las intenciones de los personajes",
+          "is_correct": true,
+          "feedback": "Es correcta porque una lectura crítica completa no solo cuenta los hechos, sino que explica el clima y las motivaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Agregar datos de ventas de libros en Colombia, porque esas cifras demuestran lectura crítica",
+          "is_correct": false,
+          "feedback": "Las cifras de ventas no son un requisito de la lectura crítica; lo pertinente es explicar el clima del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el final por otro, porque el desenlace del autor nunca es el adecuado",
+          "is_correct": false,
+          "feedback": "El resumen debe conservar el desenlace de la obra; cambiarlo sería reescribir la novela y no resumirla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un resumen de lectura crítica no se limita a enumerar lo que ocurrió. Además de los hechos, debe mostrar qué clima tiene la obra, qué intenciones muestran los personajes y por qué la autoría presenta la historia de esa manera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle-v10",
+      "statement": "Según lo que aporta cada obra, ¿cuál de las dos novelas elegiría y por qué?",
+      "context": "En Bogotá, dos grupos de sexto grado leen novelas diferentes: uno una novela de aventuras y otro una novela que muestra la vida de un niño en un barrio popular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de aventuras, porque los personajes muy vivos exigen menos concentración que la otra",
+          "is_correct": false,
+          "feedback": "Que los personajes sean muy vivos no reduce el esfuerzo de concentración; describe su calidad y no su dificultad."
+        },
+        {
+          "letter": "B",
+          "text": "La del barrio popular, porque trata un tema muy antiguo",
+          "is_correct": false,
+          "feedback": "La antigüedad del tema no garantiza que la obra enseñe más; no es un criterio sólido de comparación."
+        },
+        {
+          "letter": "C",
+          "text": "La de aventuras, porque tiene más páginas que la del barrio popular",
+          "is_correct": false,
+          "feedback": "El número de páginas no mide el valor de una obra; una novela corta puede ser mejor leída que una larga."
+        },
+        {
+          "letter": "D",
+          "text": "La que enseñe algo nuevo y tenga personajes bien construidos, porque eso enriquece más la lectura",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa elección combina lo que el lector aprende con la calidad de la construcción de los personajes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir una lectura entre dos opciones exige aplicar el mismo criterio a ambas: qué enseña, cómo están construidos sus personajes y cuánto comprende el lector. Un criterio claro aplicado a los dos textos convierte la elección en una valoración y no en un simple gusto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
