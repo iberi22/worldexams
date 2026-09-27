@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-24-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T22:10:34.849Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v1",
+      "statement": "Una estudiante de Medellín lee esta definición: «El ensayo es un texto en el que una persona expone su opinión sobre un tema y la sostiene con argumentos y ejemplos». ¿Cuál es la idea central de la definición?",
+      "context": "La profesora de Medellín entrega a sus estudiantes de sexto grado una hoja con la definición de ensayo y les pide que subrayen las palabras clave.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ensayo expone una opinión personal que se apoya en argumentos y ejemplos.",
+          "is_correct": true,
+          "feedback": "La definición reúne las tres piezas inseparables del género: expresar una opinión, sostenerla con argumentos y respaldarla con ejemplos."
+        },
+        {
+          "letter": "B",
+          "text": "El ensayo describe hechos de forma objetiva, como un texto informativo sin opinión.",
+          "is_correct": false,
+          "feedback": "Describir hechos sin tomar posición corresponde a otro género textual; el ensayo siempre incluye la postura del autor."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo es un texto breve que solo narrategias en orden cronológico.",
+          "is_correct": false,
+          "feedback": "La narración cronológica pertenece al relato, no al ensayo, que es de carácter argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "El ensayo es un texto poético escrito en verso para expresarUNC Ion emotions.",
+          "is_correct": false,
+          "feedback": "La poesía no es el género ensayístico; aquí lo determinante es la argumentación, no el verso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La idea central de una definición se identifica en la relación que une sus elementos, no en uno aislado. La definición de ensayo presenta tres elementos vinculados: expresar una opinión, sostenerla con argumentos y respaldarla con ejemplos. La relación entre ellos es de argumentación, porque la opinión es la tesis, los argumentos son las razones y los ejemplos son las evidencias. Por eso la opción A es la correcta: no se limita a decir que el ensayo expresa una opinión, sino que señala que esa opinión se apoya en argumentos y ejemplos, de modo que reproduce completa la definición. Las otras opciones reducen el género ensayístico a un solo género distinto: la noticia, el relato o la poesía, desconociendo su intención comunicativa básica, que es persuadir de manera ordenada. Reconocer esta estructura de tres piezas es la base para distinguir después un buen ensayo de un simple texto de opinión desordenado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v2",
+      "statement": "Cuatro textos cortos aparecen en el periódico escolar de Bucaramanga. ¿Cuál corresponde al género ensayo?",
+      "context": "En el periódico escolar de Bucaramanga, un grupo de estudiantes de sexto grado escribe reseñas de libros y también ensayos de opinión; la profesora les pide que identifiquen cuál de sus textos pertenece al género ensayístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un resumen de cinco líneas que recounts los capítulos de una novela sin opiniones.",
+          "is_correct": false,
+          "feedback": "Un resumen sin opinión es un texto informativo o referencial, no un ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que defiende que los libros de primaria deben leerse en clase, con tres razones y datos que lo sustentan.",
+          "is_correct": true,
+          "feedback": "Defender una postura con razones y datos es exactamente la estructura argumentativa del ensayo."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de libros recomendados con año de publicación y número de páginas.",
+          "is_correct": false,
+          "feedback": "Una lista de datos bibliográficos es un registro enumerativo, sin argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "Un poema que describe la lluvia en Bucaramanga con imágenes poéticas.",
+          "is_correct": false,
+          "feedback": "Un poema pertenece al género poético, no al ensayístico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer un género textual exige observar su intención comunicativa y su estructura, no solo su tema. El texto B presenta las tres marcas del ensayo: una tesis claramente asumida, razones que la sostienen y datos o ejemplos que la evidencian. En cambio, A es referencial porque solo reproduce información sin postura; C es un registro o catálogo enumerativo; D es poético porque su propósito es expresivo y se vale de recursos del lenguaje poético, no de razonamiento. Este ejercicio de clasificación desarrolla una habilidad clave en comprensión textual: comparar documentos que hablan de lo mismo y decidir cuál cumple la definición. Un error frecuente consiste en elegir el texto que trata el mismo asunto, por ejemplo el que habla de libros, creyendo que el tema define el género. Se debe recordar que lo que define el género es la manera en que se organiza la información para conseguir un propósito, no aquello de lo que trata.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v3",
+      "statement": "Camila quiere expresar su posición sobre el uso de los celulares en el salón de clases. ¿Cuál es la manera más adecuada de presentar esa posición en un ensayo dirigido a lectores que pueden estar en desacuerdo?",
+      "context": "Camila, estudiante de Cartagena, debe escribir un ensayo para una competencia escolar, pero aún no sabe cómo presentar su posición ante un público que no está de acuerdo con ella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Afirmar que quien usa celular en clase es perezoso y no merece aprender.",
+          "is_correct": false,
+          "feedback": "Atacar a las personas por sus hábitos impide el diálogo y no aporta ningún fundamento."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar su postura con datos y ejemplos, reconociendo que existen otras opiniones sobre el tema.",
+          "is_correct": true,
+          "feedback": "Argumentar, reconocer posturas ajenas y mantener un tono respetuoso es la actitud correcta en un ensayo."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar la posición como una verdad absoluta que no admite discusión ni dudas.",
+          "is_correct": false,
+          "feedback": "Pretender una verdad absoluta sin pruebas debilita el texto, porque no puede sostenerse ante el desacuerdo."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar mencionar el tema y hablar de otros asuntos para no ofender a nadie.",
+          "is_correct": false,
+          "feedback": "Cambiar de tema vacía la intención comunicativa; el ensayo debe sostener una tesis sobre lo que propone."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La competencia comunicativa de escribir un ensayo para persuadir exige tener en cuenta al destinatario y la fuerza de los argumentos. La opción B es correcta porque combina tres elementos: fundamento, con datos y ejemplos que hacen verificable la tesis; honestidad intelectual, al reconocer que existen otras opiniones; y respeto, al evitar el desprecio. Las otras tres fallan por razones distintas. La opción A usa una generalización valorativa que descalifica a las personas en lugar de fundar una idea. La opción C absolutiza sin pruebas, y un texto que se presenta como definitivo pierde credibilidad. La opción D es una evasión que anula la función comunicativa del ensayo. En el aula de Cartagena, esta pregunta aparece en prácticamente todos los ensayos: no basta con tener una idea, hay que construir una forma de decirla que resista el desacuerdo. Se recomienda pedir a los estudiantes que revisen su borrador preguntándose si pueden sostener cada afirmación con un dato, un ejemplo o una razón verificable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v4",
+      "statement": "Un párrafo tiene la frase: «Los parques de Pereira son espacios importantes para todos». ¿Qué función cumple esa frase dentro de un ensayo sobre el cuidado de los parques?",
+      "context": "En un taller de escritura en Pereira, los estudiantes de sexto grado deben construir un párrafo introductorio para un ensayo que defienda el cuidado de los parques de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta directamente la postura del autor y cierra el texto con una conclusión definitiva.",
+          "is_correct": false,
+          "feedback": "La frase es una afirmación general; no enuncia una tesis ni cierra el ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "Introduce el tema y prepara al lector antes de presentar la tesis y sus argumentos.",
+          "is_correct": true,
+          "feedback": "La frase contextualiza el asunto y funciona como antesala de la tesis que viene después."
+        },
+        {
+          "letter": "C",
+          "text": "Aporta datos estadísticos sobre el número de visitantes del parque.",
+          "is_correct": false,
+          "feedback": "La frase no contiene cifras ni porcentajes; es una valorización general."
+        },
+        {
+          "letter": "D",
+          "text": "Conecta el ensayo con la experiencia personal del autor en su barrio.",
+          "is_correct": false,
+          "feedback": "No hay marcas de primera persona ni de experiencia vivida en la frase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la organización del discurso ensayístico permite construir párrafos con una función precisa. La frase dada cumple una función anterior a la tesis: contextualiza el objeto de discusión y activa el conocimiento previo del lector, lo que en la práctica se conoce como una entrada amable o contextualización del tema. La opción B describe correctamente ese papel, porque el párrafo de introducción prepara el terreno, presenta el tema general y luego anuncia la postura que se defenderá. La opción A confunde la frase con las dos secciones que ella anuncia, porque la tesis y la conclusión son movimientos posteriores del ensayo. La opción C es incorrecta, ya que no hay ningún dato cuantitativo en el enunciado, y además una cifra sería una evidencia y no una apertura. La opción D también falla, porque la frase está escrita en un registro impersonal y no menciona experiencias propias. Este ejercicio entrena la competencia de reconocer la función de cada párrafo, clave para construir textos con secuencia lógica y no solo con afirmaciones sueltas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v5",
+      "statement": "Un equipo de Bogotá escribe un ensayo sobre el cuidado de los parques. ¿Qué necesitan consultar para que sus afirmaciones queden fundamentadas?",
+      "context": "Un equipo de estudiantes de Bogotá prepara un ensayo sobre el cuidado de los parques y decide consultar fuentes para sustentar sus afirmaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo su opinión personal, porque en un ensayo vale más lo que piensa el autor.",
+          "is_correct": false,
+          "feedback": "La opinión sola no fundamenta; el ensayo debe apoyarse en razones y pruebas."
+        },
+        {
+          "letter": "B",
+          "text": "Un solo dato sin explicar su origen, porque cualquier número sirve como prueba.",
+          "is_correct": false,
+          "feedback": "Un dato sin fuente citada no puede verificarse y debilita la credibilidad del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Datos, estadísticas y fuentes confiables, explicadas de manera clara y conectadas con cada afirmación.",
+          "is_correct": false,
+          "feedback": "La evidencia debe ser pertinente, estar explicada y conectada con la tesis; así el ensayo queda fundamentado."
+        },
+        {
+          "letter": "D",
+          "text": "Frases de otros textos copiadas sin citar, porque dar visibilidad a otros autores reemplaza los argumentos.",
+          "is_correct": true,
+          "feedback": "Copiar sin citar es plagio y no sustenta nada; la evidencia debe citarse y conectarse con la tesis."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comprensión crítico-intertextual implica saber evaluar y usar fuentes externas con honestidad. La opción C es la correcta porque reúne los tres requisitos de una evidencia bien usada: pertinencia, cuando el dato trata sobre lo que se afirma; fiabilidad, cuando proviene de una fuente confiable; y explicación, cuando el autor indica qué significa ese dato para su argumento. Las otras opciones describen prácticas defectuosas frecuentes en trabajos escolares. La opción A confunde la opinión con la prueba. La opción B usa el dato como ornamento numérico, sin contexto ni procedencia, lo que impide verificarlo. La opción D emplea plagio, es decir, presentar palabras ajenas como propias, una falta ética que además no construye un argumento propio. Este tipo de pregunta prepara a los estudiantes para la vida académica: citar bien no es un trámite, es una forma de honestidad intelectual. Como práctica, se puede pedir que revisen si cada afirmación de su ensayo tiene al menos un respaldo y si la fuente está claramente mencionada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v6",
+      "statement": "Se comparan dos versiones de un ensayo escolar sobre el cuidado de los parques. En la versión 1 todos los argumentos se enuncian seguidos, sin ejemplos ni datos. En la versión 2 cada argumento se acompaña de un dato o de un ejemplo pertinente. ¿Cuál es la diferencia más importante entre ambas versiones?",
+      "context": "En el aula de Bogotá, la profesora pide comparar cómo se construyen los argumentos en dos versiones de un mismo ensayo escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión 2 hace que los argumentos sean verificables y, por tanto, más convincentes.",
+          "is_correct": true,
+          "feedback": "El dato o el ejemplo convierte una afirmación general en una afirmación comprobable."
+        },
+        {
+          "letter": "B",
+          "text": "La versión 2 es mejor porque tiene más párrafos, sin importar su contenido.",
+          "is_correct": false,
+          "feedback": "La cantidad de párrafos no garantiza calidad; importa la evidencia que contienen."
+        },
+        {
+          "letter": "C",
+          "text": "La versión 1 es mejor porque el ensayo debe ser lo más breve posible.",
+          "is_correct": false,
+          "feedback": "La brevedad no equivale a solidez; un texto corto y sin evidencia es débil."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia real, porque las dos versiones dicen exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Sí hay diferencia: una presenta afirmaciones sin respaldo y la otra las sustenta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la diferencia entre versiones de un mismo texto permite aislar el efecto de un recurso argumentativo concreto. La versión 1 contiene afirmaciones sin respaldo, de modo que el lector no tiene manera de comprobar si son ciertas y la fuerza del texto depende solo de la autoridad del autor. La versión 2 incorpora evidencia pertinente que hace verificable cada afirmación, y por eso aumenta su capacidad de convencer sin necesidad de cambiar la tesis. La opción A es la correcta porque identifica la consecuencia lógica del recurso, que es la verificabilidad. La opción B confunde la cantidad con la calidad, un error frecuente al medir la extensión de un texto. La opción C supone que la brevedad es sinónimo de calidad, cuando un texto puede ser breve y aun así carecer de fundamento. La opción D es incorrecta porque decir lo mismo no equivale a argumentar igual: el modo en que se sostiene una afirmación es precisamente lo que distingue un texto sólido de uno débil.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v7",
+      "statement": "En un ensayo sobre el consumo de agua, un estudiante de Manizales escribe: «Todos dicen que el agua es importante, pero algunos no le dan la importancia debida». ¿Cuál es el problema de esta oración?",
+      "context": "Un estudiante de Manizales escribe un ensayo sobre el consumo de agua y usa una expresión ambigua que debe ser corregida antes de entregarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa demasiadas palabras para expresar una idea sencilla.",
+          "is_correct": false,
+          "feedback": "La oración es breve; su problema no es de extensión, sino de precisión."
+        },
+        {
+          "letter": "B",
+          "text": "Expresa una idea general, sin llegar a sostener una postura propia sobre el tema.",
+          "is_correct": false,
+          "feedback": "La oración sí muestra un contraste entre dos posturas, de modo que ese no es su defecto principal."
+        },
+        {
+          "letter": "C",
+          "text": "Es ambigua: no aclara a qué se refiere «la importancia debida» ni qué debe hacerse al respecto.",
+          "is_correct": true,
+          "feedback": "La expresión no precisa el contenido de la importancia ni la acción esperada, y por eso deja el sentido indefinido."
+        },
+        {
+          "letter": "D",
+          "text": "Contiene una afirmación que contradice directamente los datos presentados en el texto.",
+          "is_correct": false,
+          "feedback": "No hay datos en la oración, así que no puede haber contradicción con ellos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis semántico atiende al significado y a la precisión de las palabras en contexto. La oración presenta un problema de ambigüedad: la expresión «la importancia debida» no indica qué se espera de manera concreta de los lectores ni qué conducta se reclama. Una frase así puede significar cualquier cosa, desde el cuidado del grifo hasta el pago de las facturas, y esa indefinición debilita el argumento. La opción C describe con exactitud el defecto y, sobre todo, señala las dos dimensiones en que se resuelve: precisar el contenido de la importancia y precisar la acción. La opción A se equivoca al pensar que la brevedad es el problema. La opción B confunde el efecto de la ambigüedad con la ausencia de tesis, cuando el enunciado sí contrapone dos posturas. La opción D inventa una contradicción con datos que no existen en el fragmento. Este ejercicio enseña una herramienta concreta de reescritura: sustituir expresiones vagas por términos verificables, lo cual eleva simultáneamente la claridad y la fuerza del ensayo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v8",
+      "statement": "La profesora de Cartagena lee dos ensayos sobre el transporte público de la ciudad. El primero afirma su postura, pero sin aportar ninguna prueba; el segundo la sostiene con datos y ejemplos. ¿Cuál de las cuatro afirmaciones describe mejor el segundo ensayo?",
+      "context": "La profesora de Cartagena evalúa dos ensayos de sus estudiantes de sexto grado sobre el transporte público y les pide justificar su valoración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es mejor porque el autor escribe muchos más signos de puntuación.",
+          "is_correct": false,
+          "feedback": "La puntuación no determina la solidez de una argumentación."
+        },
+        {
+          "letter": "B",
+          "text": "Es mejor porque su tesis es más larga que la del primer ensayo.",
+          "is_correct": false,
+          "feedback": "El tamaño de la tesis no es un criterio de calidad argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "Es mejor porque presenta una postura clara que puede sostenerse con evidencia.",
+          "is_correct": true,
+          "feedback": "La combinación de tesis clara y evidencia comprobable es lo que hace sólida una argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "No puede evaluarse porque el tema del transporte público no permite opinar.",
+          "is_correct": false,
+          "feedback": "Un ensayo puede tratar cualquier tema; lo que se evalúa es la calidad del argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un texto requiere aplicar criterios explícitos y no percepciones. En este caso, los dos ensayos tratan el mismo tema y expresan una postura, de modo que la variable que los distingue es el sustento. La opción C es correcta porque formula el criterio de manera completa: tesis clara, es decir, se sabe qué defiende el autor, y evidencia, es decir, existe algo con que comprobar sus afirmaciones. Ese par de condiciones es justamente lo que una rúbrica de escritura considera al valorar la capacidad argumentativa. La opción A usa un criterio formal irrelevante, porque la puntuación mejora la lectura pero no garantiza la validez de un argumento. La opción B confunde la extensión de la tesis con su solidez, cuando una tesis extensa puede ser tan vaga como una breve. La opción D es incorrecta, porque no existe tema que quede fuera del género ensayístico; la libertad del ensayo está precisamente en que puede argumentar sobre cualquier asunto de interés local o público. Evaluar con estos criterios prepara a los estudiantes para la revisión entre pares y para justificar sus notas con argumentos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v9",
+      "statement": "Un equipo de Cali quiere afirmar en su ensayo que la música folklórica regional preserva la memoria de las comunidades. Antes de escribir revisan un texto de un periódico de Cali y otro de una enciclopedia. ¿Qué deben tener en cuenta?",
+      "context": "Un equipo de estudiantes de Cali prepara un ensayo y decide si puede afirmar algo que aparece en un texto ajeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el primer texto sea el más largo, porque la extensión garantiza la seriedad.",
+          "is_correct": false,
+          "feedback": "La extensión de un texto no garantiza que su información sea correcta ni verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambos textos digan lo mismo, porque la coincidencia entre fuentes es suficiente prueba.",
+          "is_correct": false,
+          "feedback": "Dos textos pueden repetir el mismo error, de modo que la coincidencia no garantiza exactitud."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto de la enciclopedia sea el único válido, porque las enciclopedias nunca se equivocan.",
+          "is_correct": false,
+          "feedback": "Ningún tipo de texto es infalible; hay que evaluar la evidencia que presenta cada fuente."
+        },
+        {
+          "letter": "D",
+          "text": "Que evaluen la evidencia de ambas fuentes y citen la que respalde su afirmación, asumiendo responsabilidad por lo que escriben.",
+          "is_correct": true,
+          "feedback": "Fundamentar con evidencia evaluada, citar la fuente y asumir la responsabilidad de la propia afirmación es lo correcto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este ítem evalúa un nivel alto porque exige combinar dos criterios: juzgar la calidad de las fuentes y, al mismo tiempo, asumir la responsabilidad de lo que se afirma. La respuesta correcta es D porque el estudiante no se limita a copiar una frase, sino que selecciona fuentes, evalúa qué evidencia aportan, cita la que realmente sostiene su afirmación y reconoce que la tesis es suya. Un lector crítico no transfiere a otro autor la responsabilidad de lo que dice. La opción A es el error del principiante que cree que la extensión equivale a calidad. La opción B es el error del razonamiento por autoridad ilegítima, porque dos textos pueden repetir un mismo dato sin que este sea cierto. La opción C es un absolutismo que convierte un tipo de fuente en infalible, un salto no válido, ya que las enciclopedias también requieren evidencia. En términos de honestidad intelectual, citar no es un adorno: es la base de una argumentación seria y responsable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante de Cartagena recibió estos comentarios sobre su ensayo: la tesis es clara, pero los argumentos repiten la misma idea y ninguno tiene datos ni ejemplos. ¿Qué debe hacer para mejorar su próximo ensayo?",
+      "context": "Al final del trimestre, los estudiantes de Cartagena reciben la retroalimentación del profesor sobre sus ensayos de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ampliar el número de páginas para llenar el espacio con más argumentos.",
+          "is_correct": false,
+          "feedback": "Más páginas sin evidencia solo repiten más veces la misma carencia."
+        },
+        {
+          "letter": "B",
+          "text": "Mantener exactamente la misma estructura, porque una tesis clara ya garantiza un buen texto.",
+          "is_correct": false,
+          "feedback": "Una tesis clara sin argumentos diversos y sustentados no garantiza un buen texto."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar de tema para evitar el problema de los argumentos.",
+          "is_correct": false,
+          "feedback": "Cambiar el tema no resuelve la dificultad argumentativa, que es el problema real."
+        },
+        {
+          "letter": "D",
+          "text": "Diversificar los argumentos y añadir datos y ejemplos distintos que los respalden.",
+          "is_correct": true,
+          "feedback": "Cada argumento debe ser distinto, verificable y estar acompañado de evidencia pertinente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La evaluación de la propia escritura parte de la identificación precisa del punto débil. En el comentario, la tesis ya funciona, por lo que el problema no está en qué se defiende, sino en cómo se defiende: los argumentos se repiten y carecen de evidencia. La opción D atiende exactamente ese vacío al pedir dos cosas simultáneas, diversificar los argumentos, de manera que cada uno aporte una razón distinta, y añadir datos o ejemplos, de manera que cada razón sea comprobable. Las otras opciones reaccionan de manera ineficaz o perjudicial. La opción A entiende que la extensión es medicina para todo, cuando aquí la solidez depende de la variedad y de la evidencia. La opción B supone que un elemento bueno, la tesis, rescata el conjunto, cuando la calidad de un ensayo depende del equilibrio entre sus partes. La opción C evita el problema en lugar de resolverlo y además descarta el trabajo ya realizado sobre el tema. Este ejercicio cierra el bundle conectando la retroalimentación del docente con una acción de escritura concreta y verificable, que es la base del aprendizaje basado en retroalimentación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-6-2026-W24-el-ensayo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

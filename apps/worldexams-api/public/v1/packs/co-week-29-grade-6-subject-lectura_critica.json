@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-29-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T22:10:34.853Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v1",
+      "statement": "¿Qué género literario corresponde a un relato breve con animales personificados que termina con una enseñanza?",
+      "context": "En la clase de literatura de Villavicencio, el profesor lee un relato en el que un cuervo se apodera de un queso y un zorro se lo pide con halagos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela.",
+          "is_correct": false,
+          "feedback": "La novela es un relato extenso y desarrollado en varios capítulos, no un relato breve con enseñanza final."
+        },
+        {
+          "letter": "B",
+          "text": "La fábula.",
+          "is_correct": true,
+          "feedback": "La fábula es un relato breve con animales o elementos personificados y cierra con una moraleja."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento de hadas.",
+          "is_correct": false,
+          "feedback": "El cuento de hadas incluye elementos mágicos, pero no exige una enseñanza explícita al final."
+        },
+        {
+          "letter": "D",
+          "text": "La crónica.",
+          "is_correct": false,
+          "feedback": "La crónica es un relato histórico basado en documentos, y no se organiza con una moraleja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fábula es el género de la historia del cuervo y el zorro, que es uno de los textos más conocidos de Esopo. Se reconoce por dos rasgos: un relato muy breve con animales que hablan y pensan como personas, y una enseñanza final que el lector debe aplicar a la vida real. Los estudiantes de sexto grado pueden apoyarse en estos dos rasgos para distinguir la fábula de la novela, el cuento de hadas y la crónica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la moraleja de una fábula?",
+      "context": "En el taller de lectura de Bucaramanga, una estudiante escribe que la moraleja de una fábula se parece a un consejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La enseñanza que se desprende del relato y que orienta la conducta.",
+          "is_correct": true,
+          "feedback": "La moraleja es la enseñanza final, y su propósito es orientar cómo deben actuar las personas."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del autor que escribió el relato años atrás.",
+          "is_correct": false,
+          "feedback": "El nombre del autor es un dato bibliográfico, no la enseñanza que transmite el relato."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de personajes que aparecen en la historia.",
+          "is_correct": false,
+          "feedback": "Los personajes son elementos del relato, mientras la moraleja es la conclusión sobre cómo actuar."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar donde se desarrolla la acción principal.",
+          "is_correct": false,
+          "feedback": "El lugar es parte del escenario narrativo, y no funciona como enseñanza sobre la conducta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palabra moraleja viene de una expresión latina que significa lección. En la fábula, la enseñanza suele aparecer al final, pero puede estar también implícita en las acciones de los personajes. Su función es orientar la conducta del lector: por ejemplo, la del cuervo y el zorro advierte sobre los halagos y la vanidad. Entender la moraleja como una orientación práctica ayuda a los estudiantes a relacionar el relato con su vida cotidiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v3",
+      "statement": "¿Qué muestra la moraleja de la fábula del león y el ratón?",
+      "context": "En una actividad de Bogotá, la clase lee la fábula del león y el ratón, donde el ratón libera al león y luego el león respeta su amistad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los leones son valientes y los ratones son temibles.",
+          "is_correct": false,
+          "feedback": "La moraleja no se centra en las características de los animales, porque eso sería una descripción y no una enseñanza."
+        },
+        {
+          "letter": "B",
+          "text": "Que es mejor permanecer oculto para evitar problemas con los demás.",
+          "is_correct": false,
+          "feedback": "La moraleja no recomienda esconderse, porque la historia muestra la ayuda mutua entre dos personajes muy distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Que los ratones son más listos que los leones.",
+          "is_correct": false,
+          "feedback": "Comparar el tamaño o el poder de los animales es una descripción, y no la enseñanza que ofrece el relato."
+        },
+        {
+          "letter": "D",
+          "text": "Que el tamaño no importa para la amistad y que hasta el más poderoso puede necesitar ayuda.",
+          "is_correct": true,
+          "feedback": "La historia enseña que hasta el más fuerte puede necesitar del más débil y que la amistad se mantiene sin mirar tamaño."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La moraleja de la fábula del león y el ratón se apoya en el contraste entre el poder del león y la humildad del ratón. Cuando el ratón libera al león y el león respeta su promesa, el relato enseña que la capacidad no está en el tamaño y que una promesa cumplida construye amistad. Reconocer esta enseñanza exige mirar la resolución de la historia y no solo los detalles de las acciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v4",
+      "statement": "En esa fábula, ¿qué personaje representa mejor el vicio de la vanidad?",
+      "context": "Un estudiante de Medellín escribe una fábula en la que un burro carga textos y un perro los vigila desde la sombra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El burro, porque carga los textos y trabaja sin pedir reconocimiento.",
+          "is_correct": false,
+          "feedback": "El burro representa el trabajo y la humildad, no la vanidad, porque no busca reconocimiento."
+        },
+        {
+          "letter": "B",
+          "text": "El dueño de los animales, porque les ordena realizar tareas.",
+          "is_correct": false,
+          "feedback": "El dueño solo da órdenes dentro del relato y no encarna ningún vicio, porque no busca reconocimiento."
+        },
+        {
+          "letter": "C",
+          "text": "El perro, porque se cree superior mientras solo observa y no colabora.",
+          "is_correct": true,
+          "feedback": "El perro se considera superior por estar cerca del dueño y no aporta trabajo, lo que representa la vanidad."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los personajes, porque la fábula no presenta vicios.",
+          "is_correct": false,
+          "feedback": "Descartar la respuesta correcta evita el análisis, porque la presencia de vicios es lo que permite interpretarla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una fábula, los defectos se personifican en animales para que el lector los reconozca con claridad. El perro que vigila sin colaborar encarna la vanidad y el orgullo, dos vicios frecuentes en la vida real. Reconocer el vicio detrás del personaje permite entender la enseñanza sin que el texto tenga que nombrar el defecto de forma directa. Esta lectura simbólica es la clave para interpretar las fábulas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ocurre con la cigarra en la fábula de la cigarra y la hormiga?",
+      "context": "En una cartelera de lectura de Pereira, un maestro proyecta la fábula de la cigarra y la hormiga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trabajó todo el verano reuniendo alimento y sobrevivió al invierno sin ayuda.",
+          "is_correct": false,
+          "feedback": "Ese es el papel de la hormiga, que representa el trabajo, y no el de la cigarra."
+        },
+        {
+          "letter": "B",
+          "text": "Cantó durante todo el verano sin trabajar y luego pasó hambre cuando llegó el invierno.",
+          "is_correct": true,
+          "feedback": "La cigarra simboliza el ocio, porque canta y se divierte sin preparar nada para el futuro."
+        },
+        {
+          "letter": "C",
+          "text": "Ayudó a la hormiga a preparar el alimento y las dos pasaron el invierno juntas.",
+          "is_correct": false,
+          "feedback": "La historia no muestra ayuda mutua entre ellas, porque la cigarra no quiso trabajar en el verano."
+        },
+        {
+          "letter": "D",
+          "text": "Robó el alimento de la hormiga y huyó antes de que llegara el invierno.",
+          "is_correct": false,
+          "feedback": "No hay robo ni huida en el relato, porque la cigarra simplemente no se preparó para el invierno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fábula de la cigarra y la hormiga opone dos formas de entender la vida: la cigarra canta y disfruta el verano sin pensar en el futuro, mientras la hormiga trabaja y almacena alimento. Cuando llega el invierno, la cigarra pasa hambre y la hormiga está preparada. El contraste entre los dos personajes es lo que hace posible la enseñanza sobre el trabajo y la previsión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v6",
+      "statement": "¿Qué explica mejor que dos grupos puedan interpretar de manera distinta la misma fábula?",
+      "context": "En una biblioteca de Cartagena, dos grupos de estudiantes leen la misma fábula de Esopo y, al terminar, formulan conclusiones opuestas sobre el zorro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fábula usa símbolos y no declara la enseñanza de forma explícita.",
+          "is_correct": true,
+          "feedback": "Como la enseñanza se deduce del comportamiento de los personajes, cada grupo puede construir su propia lectura de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Que uno de los dos grupos leyó la fábula equivocada en la biblioteca.",
+          "is_correct": false,
+          "feedback": "Leer textos diferentes explicaría conclusiones distintas, pero el enunciado dice que ambos leyeron la misma fábula."
+        },
+        {
+          "letter": "C",
+          "text": "Que la moraleja final fue borrada de la copia de uno de los grupos.",
+          "is_correct": false,
+          "feedback": "No hay datos sobre un texto dañado, y además una moraleja ausente no llevaría a conclusiones opuestas."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fábula fue escrita dos veces por autores distintos.",
+          "is_correct": false,
+          "feedback": "La existencia de dos versiones explicaría diferencias, pero el enunciado habla de un solo relato para ambos grupos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las fábulas suelen dejar la enseñanza de manera indirecta: los animales y sus acciones cargan con el significado. Como el texto no dice de forma directa qué se debe aprender, cada lector construye su interpretación a partir de lo que observa en los personajes. Por eso dos grupos pueden discrepar sin que ninguno esté equivocado, siempre que su lectura se apoye en acciones concretas del relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v7",
+      "statement": "¿Qué caracteriza a una moraleja que se declara de forma explícita al final del relato?",
+      "context": "En un texto de grado sexto de Popayán, la moraleja aparece como una frase corta al final, después de la acción principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la enseñanza está oculta y solo la entienden quienes leen con atención.",
+          "is_correct": false,
+          "feedback": "Esa descripción corresponde a una moraleja implícita, no a una que se declara al final del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Que la enseñanza se encuentra repartida a lo largo de toda la historia, sin frase final.",
+          "is_correct": false,
+          "feedback": "Repartir la enseñanza en la narración corresponde al modelo implícito, y no a una frase final declarada."
+        },
+        {
+          "letter": "C",
+          "text": "Que no existe ninguna enseñanza porque el relato termina con una pregunta.",
+          "is_correct": false,
+          "feedback": "Una pregunta final no elimina la enseñanza, y el enunciado describe una frase corta que sí la declara."
+        },
+        {
+          "letter": "D",
+          "text": "Que la enseñanza queda enunciada directamente por el autor, sin que el lector deba deducirla.",
+          "is_correct": true,
+          "feedback": "La moraleja explícita aparece enunciada por el autor, de modo que el lector no necesita interpretarla por sí mismo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las fábulas presentan la enseñanza de dos maneras. La forma explícita la enuncia el autor en una frase final, como cuando el relato termina dizendo que nunca se debe envidiar lo que otros tienen. La forma implícita deja que el lector deduzca la enseñanza a partir de las acciones de los animales. Reconocer la diferencia ayuda a los estudiantes a comprender por qué algunos relatos resultan más claros que otros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v8",
+      "statement": "¿Qué rasgo del género permite incluir fábulas de épocas y países tan distintos en un mismo libro?",
+      "context": "Un libro de lectura de Bucaramanga reúne fábulas de Esopo, de La Fontaine y de autores colombianos contemporáneos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todas las fábulas usan los mismos animales en las mismas escenas.",
+          "is_correct": false,
+          "feedback": "Las fábulas del libro varían en animales, escenas y temas, por lo que ese rasgo no las une."
+        },
+        {
+          "letter": "B",
+          "text": "Que todas las fábulas tienen la misma moraleja escrita al final.",
+          "is_correct": false,
+          "feedback": "Las moralejas son distintas y a veces implícitas, así que no es la igualdad de las enseñanzas lo que las agrupa."
+        },
+        {
+          "letter": "C",
+          "text": "Que el relato es breve y la enseñanza se apoya en un contraste entre dos personajes opuestos.",
+          "is_correct": true,
+          "feedback": "La brevedad y el contraste entre opuestos son rasgos compartidos que permiten reunir fábulas de tradiciones diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los autores escribieron en el mismo idioma y en el mismo año.",
+          "is_correct": false,
+          "feedback": "Los autores pertenecen a épocas y países diferentes, por lo que el idioma y el año no pueden ser el rasgo común."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fábula es un género que viaja con facilidad porque se apoya en recursos sencillos y universales: un relato breve, un contraste entre dos personajes que se oponen y una enseñanza comprensible. Gracias a esa estructura, las fábulas de Esopo, escritas en la Antigüedad, pueden convivir en un mismo libro con las de La Fontaine y las de autores colombianos. Reconocer estos rasgos comunes ayuda a ver el género como un patrimonio universal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v9",
+      "statement": "¿Qué razonamiento sostiene mejor la pertinencia de la fábula en la era digital?",
+      "context": "En una semana de formación docente en Manizales, se discute si el uso de la fábula es todavía pertinente en las aulas digitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fábula es el género más antiguo que existe, y por eso debe usarse.",
+          "is_correct": false,
+          "feedback": "La antigüedad no garantiza pertinencia, porque lo que importa es si la enseñanza sigue siendo útil hoy."
+        },
+        {
+          "letter": "B",
+          "text": "Que enseña con imágenes simples y resulta fácil de recordar, incluso cuando se lee en pantalla.",
+          "is_correct": true,
+          "feedback": "La simplicidad de los personajes y del conflicto favorece la comprensión y la memorización, también en formato digital."
+        },
+        {
+          "letter": "C",
+          "text": "Que la fábula ocupa pocas páginas, por lo tanto cabe en cualquier pantalla.",
+          "is_correct": false,
+          "feedback": "La extensión no garantiza por sí sola la pertinencia, porque la enseñanza es lo que hace valioso el género."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fábula no necesita imágenes, y por eso funciona mejor sin tecnología.",
+          "is_correct": false,
+          "feedback": "Esa contradicción debilita el argumento, porque las narrativas visuales también captan la atención del lector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la pertinencia de un género exige evaluar su capacidad de seguir cumpliendo su función. La fábula enseña conceptos mediante imágenes sencillas, conflictos breves y personajes reconocibles, y esas características favorecen la comprensión incluso en pantalla. Un texto digital, un video o una presentación pueden conservar esos rasgos. Por eso la razón sólida se apoya en la claridad de la enseñanza, y no en la antigüedad ni en la extensión del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la lectura más crítica frente a dos fábulas que enseñan valores diferentes?",
+      "context": "Un profesor de Bogotá compara una fábula que explica la amistad con otra fábula que explica la prudencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconocer que cada fábula responde a un problema concreto y que ambas valen como enseñanza.",
+          "is_correct": true,
+          "feedback": "Situar cada relato en su contexto evita elegir un valor por encima del otro sin un fundamento claro."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir la fábula de la amistad, porque la amistad es el valor más importante.",
+          "is_correct": false,
+          "feedback": "Declarar un valor superior no es una lectura crítica, porque se impone un criterio personal en lugar de analizar los textos."
+        },
+        {
+          "letter": "C",
+          "text": "Elegir la fábula de la prudencia, porque solo ella sirve para formar buenos estudiantes.",
+          "is_correct": false,
+          "feedback": "Reducir la fábula a una sola enseñanza posible también es un error, porque cada texto responde a una situación distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar una de las dos fábulas, porque la literatura solo puede enseñar un valor por vez.",
+          "is_correct": false,
+          "feedback": "Descartar un relato por su valor deja fuera un aprendizaje, cuando cada fábula resuelve un problema distinto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos fábulas exige reconocer que cada una responde a una situación concreta: una enseña a valorar la amistad frente a la deslealtad y otra enseña a valorar la prudencia frente a la impaciencia. La lectura crítica no jerarquiza los valores por gusto personal, sino que identifica el problema que cada relato resuelve y explica por qué su enseñanza es pertinente. Así se valora el conjunto de los textos sin descartar ninguna de las dos fábulas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W29-la-fabula-moral-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

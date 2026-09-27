@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-28-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T22:10:34.853Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v1",
+      "statement": "¿Qué género poético se caracteriza por celebrar algo con entusiasmo y usar un lenguaje elevado y rítmico?",
+      "context": "En un festival escolar de Bogotá, un grupo de sexto grado recita una oda que celebra la lluvia que llena de agua los pantanos de la Sabana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oda.",
+          "is_correct": true,
+          "feedback": "La oda es el género poético que celebra, elogia o exalta un tema con entusiasmo y con un lenguaje elevado y musical."
+        },
+        {
+          "letter": "B",
+          "text": "La elegía.",
+          "is_correct": false,
+          "feedback": "La elegía expresa el duelo y la tristeza por la muerte de alguien, y no la celebración."
+        },
+        {
+          "letter": "C",
+          "text": "La sátira.",
+          "is_correct": false,
+          "feedback": "La sátira critica vicios y defectos con humor e ironía, con una intención opuesta a la celebración."
+        },
+        {
+          "letter": "D",
+          "text": "El romance.",
+          "is_correct": false,
+          "feedback": "El romance narra hechos accesorios de un héroe y es un género narrativo, no uno de celebración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oda pertenece a la poesía lírica y se define por su intención festiva: celebrar, exaltar o alabar algo. Desde la Antigüedad se escribieron odas a las victorias, a los juegos y a los dioses; en la época moderna se han escrito odas al trabajo, al amor y a la naturaleza. Reconocer este género frente a la elegía, la sátira y el romance ajuda a los estudiantes de sexto grado a clasificar textos poéticos por su intención y no solo por su forma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v2",
+      "statement": "¿A qué se refiere el nombre \"oda\" en su origen etimológico?",
+      "context": "Un profesor de Bucaramanga pide a sus estudiantes que identifiquen el tema que cantaba la oda de Píndaro, conocida en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A una medida de peso usada por los comerciantes griegos.",
+          "is_correct": false,
+          "feedback": "La etimología no tiene relación con medidas de peso, porque el término se refiere a la acción de cantar."
+        },
+        {
+          "letter": "B",
+          "text": "A un tipo de barco que se usaba en el puerto de Atenas.",
+          "is_correct": false,
+          "feedback": "La palabra no alude a barcos, ya que su significado original se refiere al canto acompañado."
+        },
+        {
+          "letter": "C",
+          "text": "A la costumbre antigua de cantar entonando al acompañamiento de un instrumento.",
+          "is_correct": true,
+          "feedback": "La palabra viene del griego que significa cantar, y alude a la antigua costumbre de acompañar el canto con un instrumento."
+        },
+        {
+          "letter": "D",
+          "text": "A una escuela de poesía a la que solo assistían sacerdotes.",
+          "is_correct": false,
+          "feedback": "No se trata de una escuela ni de una institución, porque \"oda\" significa simplemente cantar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra oda viene del griego y significa cantar. Antiguamente, en Grecia y Roma, quien cantaba una oda lo hacía acompañado por un instrumento, como la lira. Con el tiempo el género se convirtió en una forma fija: un poema pensado inicialmente para ser cantado y que conserva, por eso, un ritmo marcado y una musicalidad especial. Conocer este origen explica por qué toda oda tiene versos y estribillos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple la invocación al inicio de una oda?",
+      "context": "En una oda a la música de vallenato que escribe un estudiante de Cartagena, la primera estrofa invoca al instrumento y le pide que suene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar de entrada la tesis principal de un texto argumentativo.",
+          "is_correct": false,
+          "feedback": "La oda no es argumentativa, por lo que no presenta una tesis que defender con pruebas."
+        },
+        {
+          "letter": "B",
+          "text": "Abrir el poema con una llamada directa al tema que se celebra, al modo de las plegarias clásicas.",
+          "is_correct": true,
+          "feedback": "La invocación dirige la palabra al tema desde el comienzo y establece el tono solemne de la oda antigua."
+        },
+        {
+          "letter": "C",
+          "text": "Describir con detalle técnico el instrumento de música que se menciona.",
+          "is_correct": false,
+          "feedback": "La invocación pide que el instrumento actúe, en lugar de describirlo técnicamente como haría un texto explicativo."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar al lector quién escribió el poema y en qué año.",
+          "is_correct": false,
+          "feedback": "La invocación abre el diálogo poético con el tema, no con datos biográficos del autor o de la fecha."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La invocación es un recurso heredado de la poesía antigua: el poeta se dirige directamente al tema que va a celebrar, como si le pidiera que se manifestara. En las odas clásicas esto aparecía con frecuencia y le daba al poema un tono casi religioso o solemne. En las odas modernas se mantiene la fórmula, y así el ejemplo de la oda al vallenato en Cartagena abre con un pedido al instrumento. Reconocer la invocación permite identificar el arranque típico del género.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v4",
+      "statement": "¿Qué figura retórica aparece en la expresión \"El río, mi ciudad, respira contigo\"?",
+      "context": "Un estudiante de Medellín escribe una oda al río Medellín y usa la frase \"El río, mi ciudad, respira contigo en cada lluvia\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hipérbole, porque agranda la importancia del río.",
+          "is_correct": false,
+          "feedback": "No hay exageración de tamaño ni de cantidad, porque el efecto se logra con la acción humana atribuida."
+        },
+        {
+          "letter": "B",
+          "text": "La metáfora, porque compara el río con un ser vivo.",
+          "is_correct": false,
+          "feedback": "Hay una atribución directa de una acción, no una comparación con un objeto o persona, por lo que no es metáfora."
+        },
+        {
+          "letter": "C",
+          "text": "El eufemismo, porque se nombra el río con delicadeza.",
+          "is_correct": false,
+          "feedback": "El eufemismo suaviza una palabra dura, y aquí el efecto no busca delicadeza sino dar vida al río."
+        },
+        {
+          "letter": "D",
+          "text": "La personificación, porque atribuye a un río la acción humana de respirar.",
+          "is_correct": true,
+          "feedback": "La personificación asigna acciones humanas a un elemento que no puede ejecutarlas, como respirar aquí."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La personificación es la atribución de rasgos o acciones humanas a seres no humanos. En la frase sobre el río Medellín, el río \"respira\", y esa acción es exclusivamente humana, por lo que se trata de personificación. Es una figura muy frecuente en la oda porque ayuda a convertir un tema en alguien con quien se puede hablar y a quien se pueden atribuir emociones. Conocerla permite distinguirla de la metáfora, que establece una comparación explícita o implícita entre dos elementos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v5",
+      "statement": "¿Qué propiedad de la oda se observa en estos ejemplos?",
+      "context": "En una oda escrita en Pereira, el autor escribe que su corazón \"late al ritmo de los tambores\" y \"canta con cada acorde de la guitarra\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La musicalidad, expresada con verbos como \"late\" y \"canta\" que imitan sonidos y movimientos rítmicos.",
+          "is_correct": true,
+          "feedback": "Los verbos que aluden a ritmo y sonido trasladan al poema la música, lo que revela la musicalidad propia de la oda."
+        },
+        {
+          "letter": "B",
+          "text": "El objetivismo, porque el poema se limita a describir hechos verificables.",
+          "is_correct": false,
+          "feedback": "La oda es subjetiva y expresiva, por lo que no busca objetividad ni limitarse a hechos verificables."
+        },
+        {
+          "letter": "C",
+          "text": "El narrativo, porque cuenta una historia completa de principio a fin.",
+          "is_correct": false,
+          "feedback": "La oda no narra una historia, sino que celebra un tema con imágenes, emociones y ritmo."
+        },
+        {
+          "letter": "D",
+          "text": "El expositivo, porque explica con precisión un tema sin valorarlo.",
+          "is_correct": false,
+          "feedback": "La oda no es expositiva, ya que su intención es expressar un entusiasmo y no informar de manera neutral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La musicalidad es una característica central de la oda. Se construye con recursos como la repetición de sonidos, la rima, el ritmo de los versos y los verbos que imitan acciones sonoras. Cuando el corazón late y canta en la oda de Pereira, el poema imita el ritmo de la música y eso refuerza su carácter de texto cantable. Reconocer esta propiedad ayuda a explicar por qué una oda se lee en voz alta con tanta fuerza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia principal entre una oda heroica y una oda lírica?",
+      "context": "Un grupo de estudiantes de Manizales compara una oda heroica a un héroe nacional con una oda lirica al paisaje de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La heroica usa lenguaje sencillo, mientras la lírica usa palabras difíciles.",
+          "is_correct": false,
+          "feedback": "Ambas pueden usar lenguaje elevado; lo que las diferencia no es la dificultad, sino el objeto y el tono de la celebración."
+        },
+        {
+          "letter": "B",
+          "text": "La heroica exalta a un héroe o una nación con un tono grandioso; la lírica expresa emociones sobre temas más personales o íntimos.",
+          "is_correct": true,
+          "feedback": "La oda heroica busca ennoblecer a un héroe o una patria, mientras la lírica explora sentimientos y metáforas."
+        },
+        {
+          "letter": "C",
+          "text": "La heroica no tiene rima, mientras la lírica se compone solo de estribillos.",
+          "is_correct": false,
+          "feedback": "Las dos formas presentan rima y estribillo en muchos casos, porque la diferencia no está en los recursos formales."
+        },
+        {
+          "letter": "D",
+          "text": "La heroica describe personajes, mientras la lírica describe lugares sin sentimiento.",
+          "is_correct": false,
+          "feedback": "La lírica también puede describir un lugar, pero lo hace cargándolo de emoción, y ese sentimiento la caracteriza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Existen dos grandes familias de odas: las heroicas, que buscan exaltar a un héroe, una hazaña o una nación con un tono grandioso y solemne, y las líricas, que expresan emociones y sentimientos sobre temas más íntimos como la naturaleza o la vida cotidiana. En Manizales, un equipo puede leer la oda heroica a un héroe nacional junto con una oda lírica al paisaje de la región y comparar cómo cambia el vocabulario y el tono en cada una. Esta comparación desarrolla la capacidad de clasificar textos poéticos por su intención.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v7",
+      "statement": "¿Qué permite concluir que la oda no es un género anticuado, sino una forma que sigue vivo?",
+      "context": "En Popayán, una estudiante compara una oda antigua que exalta la gloria de Roma con una oda moderna que celebra el trabajo de los campesinos del Cauca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sus autores siempre escriben con el mismo estilo y las mismas palabras.",
+          "is_correct": false,
+          "feedback": "La variedad de temas y estilos muestra lo contrario, porque los autores modernos no repiten exactamente la forma antigua."
+        },
+        {
+          "letter": "B",
+          "text": "Que todas las odas se escribieron en la época de la Roma antigua.",
+          "is_correct": false,
+          "feedback": "La existencia de odas modernas descarta esa afirmación, porque el género se usó también en épocas recientes."
+        },
+        {
+          "letter": "C",
+          "text": "Que mantiene su estructura y su tono festivo aunque cambie el tema que celebra.",
+          "is_correct": true,
+          "feedback": "La permanencia de la estructura y la intención festiva muestra que el género se adapta a nuevos temas sin perder su identidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que las odas anteriores son mejores que las actuales por su pureza.",
+          "is_correct": false,
+          "feedback": "Emitir juicios de superioridad no responde a la pregunta, porque la conclusión debe apoyarse en cambios de tema y permanencia de forma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un género literario no se queda muerto por cambiar de tema. La oda antigua celebraba la gloria de Roma; la oda moderna de Popayán celebra el trabajo de los campesinos del Cauca. En ambas se conservan la estructura del verso y el tono de exaltación, lo que demuestra que el género sigue vivo y se adapta. Reconocer esta continuidad ayuda a los estudiantes a valorar el género poético como un patrimonio que puede seguir creando.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v8",
+      "statement": "En esa estructura repetitiva, ¿qué función cumple el último verso de cada oda?",
+      "context": "Un poemario de Bogotá reúne cuatro odas cortas, cada una con cuatro estrofas de cuatro versos y un último verso que repite el asunto central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como conclusión lógica, porque cierra el razonamiento del poema con una prueba.",
+          "is_correct": false,
+          "feedback": "La oda no razona como un texto argumentativo, de modo que el último verso no funciona como una demostración lógica."
+        },
+        {
+          "letter": "B",
+          "text": "Funciona como descripción técnica, porque explica datos del tema sin valorarlos.",
+          "is_correct": false,
+          "feedback": "El último verso no busca explicar ni informar, porque su función es intensificar el sentimiento y no describir datos."
+        },
+        {
+          "letter": "C",
+          "text": "Funciona como título nuevo, porque da nombre a un tema que antes no tenía nombre.",
+          "is_correct": false,
+          "feedback": "El estribillo no crea un tema nuevo, sino que repite el que ya recorre toda la oda."
+        },
+        {
+          "letter": "D",
+          "text": "Funciona como estribillo, porque repite el motivo principal y refuerza el entusiasmo del poema.",
+          "is_correct": true,
+          "feedback": "La repetición del asunto central al final cumple la función del estribillo, que fija el tema y refuerza la intención festiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El estribillo es un verso o grupo de versos que se repite dentro del poema y que fija su motivo central. En las odas, con frecuencia el último verso cumple esa función: vuelve al asunto que se celebra y aumenta la intensidad del entusiasmo. En el poemario de Bogotá, esa repetición permite que el lector recuerde el tema central y le da al poema el aspecto de algo que se canta, propio de un género que nació para ser entonado en voz alta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v9",
+      "statement": "Cuando una oda usa hipérboles muy exageradas, ¿qué efecto produce en el lector?",
+      "context": "En una plaza de Bucaramanga, un poeta joven recita una oda que contiene exageraciones enormes sobre el tamaño de un árbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refuerza el entusiasmo y la sensación de grandeza del tema, aunque la imagen no sea literal.",
+          "is_correct": true,
+          "feedback": "La hipérbole amplifica la emoción y da grandeza al tema, y eso es aceptable porque la oda no busca precisión científica."
+        },
+        {
+          "letter": "B",
+          "text": "Produce un error en el texto, porque en un poema nada puede ser exagerado.",
+          "is_correct": false,
+          "feedback": "La exageración es un recurso legítimo de la poesía y no invalida el texto, porque la oda expresa sentimiento, no medición."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que el lector desconfíe del autor, porque cualquier exageración es una mentira.",
+          "is_correct": false,
+          "feedback": "La hipérbole es un recurso estilístico del género, y no una mentira, porque la oda expresa la emoción."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la oda en un texto informativo, porque reemplaza las imágenes con datos.",
+          "is_correct": false,
+          "feedback": "La exageración no cambia la finalidad del texto ni lo vuelve informativo, porque sigue siendo una celebración emotiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La hipérbole consiste en exagerar un rasgo más allá de lo real para producir un efecto de mayor intensidad. En la oda de Bucaramanga, el árbol descrito con proporciones exageradas deja de ser un dato y pasa a ser una imagen que comunica asombro y admiración. Como la oda pertenece a la poesía lírica y su fin es expresivo, ese recurso no constituye un error: refuerza el entusiasmo que el género busca provocar en quien escucha o lee.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle-v10",
+      "statement": "Frente a estas dos fuentes, ¿cuál es la lectura más crítica y equilibrada?",
+      "context": "Una estudiante de grado sexto lee en clase una oda que afirma que la ciudad \"nunca duerme\" y un texto de investigación que demuestra que el nivel de ruido de Bogotá bajó un 12% en los últimos años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creer la oda, porque las poesías expresan siempre la verdad y la realidad.",
+          "is_correct": false,
+          "feedback": "Considerar que toda poesía dice la verdad confunde la expresión de una impresión con la descripción de un hecho medible."
+        },
+        {
+          "letter": "B",
+          "text": "Reconocer que la oda expresa una impresión compartida y que el estudio ofrece un dato medible, y valorar los dos.",
+          "is_correct": true,
+          "feedback": "Valora la expresividad de la oda y la precisión del dato, sin reducir uno de los textos a la condición de inútil o falso."
+        },
+        {
+          "letter": "C",
+          "text": "Creer solo el estudio, porque los datos siempre tienen más valor que los poemas.",
+          "is_correct": false,
+          "feedback": "Despreciar la oda por no ser un dato confunde la ciencia con la poeticidad y empobrece la lectura de las dos fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar ambas, porque un poema y un estudio nunca pueden tratar el mismo tema.",
+          "is_correct": false,
+          "feedback": "Dos textos pueden tratar el mismo tema con propósitos distintos, por lo que no es correcto descartar ninguno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto poético y un texto de investigación responden a propósitos diferentes y por eso cumplen funciones distintas frente al mismo tema. La oda que dice que Bogotá \"nunca duerme\" comunica una impresión compartida y una emoción; el estudio que mide una reducción del ruido ofrece un dato comprobable. La lectura crítica no escoge uno contra otro, sino que valora cada fuente en su propio registro. Esta valoración evita dos errores: reducir la poesía a un informe y reducir la investigación a una emoción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W28-la-ode-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
