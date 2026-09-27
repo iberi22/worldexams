@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-20-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T19:47:40.369Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v1",
+      "statement": "Según el repaso del segundo periodo, ¿qué conjunto de textos se estudió en lectura crítica de sexto grado?",
+      "context": "En Medellín, la profesora de lectura de sexto grado abre la clase de repaso del segundo periodo y proyecta en el tablero el mapa de los temas de las últimas semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noticia, reportaje, crónica, entrevista, artículo de opinión, carta, cuento corto y ruta de lectura",
+          "is_correct": true,
+          "feedback": "Es correcta porque ese conjunto reúne los géneros informativos, narrativos, argumentativos y de opinión del periodo."
+        },
+        {
+          "letter": "B",
+          "text": "Diccionario, atlas, recetario, agenda, manual, novela, poemario y circular",
+          "is_correct": false,
+          "feedback": "Esos son textos de consulta o de referencia, pero no fueron los géneros estudiados en el segundo periodo."
+        },
+        {
+          "letter": "C",
+          "text": "Tesis, resumen, bibliografía, índice, portada, contraportada, código y etiqueta",
+          "is_correct": false,
+          "feedback": "Esa lista reúne partes de un libro o de un trabajo académico, no los textos que se leyeron y analizaron."
+        },
+        {
+          "letter": "D",
+          "text": "Soneto, romance, copla, décima, lied, himno, empresario y cantata",
+          "is_correct": false,
+          "feedback": "Son formas poéticas y musicales, mientras el segundo periodo se trabajó con prosa informativa y narrativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El segundo periodo organizó los textos en torno a qué se lee y para qué: informar con la noticia y el reportaje, narrar desde la experiencia con la crónica y el cuento corto, dar la voz con la entrevista, argumentar con el artículo de opinión y la carta, y elegir con la ruta de lectura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v2",
+      "statement": "Un texto informa un hecho reciente en el barrio San Antonio, con el lugar, la hora y la fuente, y no expresa una opinión personal. ¿De qué género se trata?",
+      "context": "En Cali, el profesor entrega dos textos sin título y pide a los estudiantes que infieran el género a partir del propósito de cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reportaje, porque desarrolla el hecho con varias fuentes y mucho contexto",
+          "is_correct": false,
+          "feedback": "El reportaje se distingue por la profundidad y el cruce de fuentes, ausentes en este texto breve y directo."
+        },
+        {
+          "letter": "B",
+          "text": "Crónica, porque el autor relata en primera persona lo que le ocurrió esa mañana",
+          "is_correct": false,
+          "feedback": "La crónica relata una experiencia vivida por el narrador, y aquí el texto se limita a informar sin narrar."
+        },
+        {
+          "letter": "C",
+          "text": "Noticia local, porque informa un hecho reciente con los datos esenciales y sin opinión",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne los datos del hecho, responde al interés de la comunidad y transmite una voz informativa."
+        },
+        {
+          "letter": "D",
+          "text": "Entrevista, porque recoge la voz de un vecino del barrio para que cuente su versión",
+          "is_correct": false,
+          "feedback": "La entrevista ordena preguntas y respuestas de un entrevistador y un entrevistado, y aquí no hay conversación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir un género por su propósito exige preguntar para qué se escribe: la noticia local busca informar con datos verificables, el reportaje busca profundizar con varias fuentes y la crónica busca narrar una experiencia vivida. En este caso, la ausencia de opinión y la presencia de datos esenciales señalan la noticia local.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v3",
+      "statement": "El texto relata en primera persona, con detalles del lugar y de los días, y termina con un comentario de la propia narradora. ¿De qué género se trata?",
+      "context": "En Bogotá, la profesora lee un texto en el que la narradora relata, con mucho detalle, lo que le ocurrió durante una mañana en el mercado de la plaza de Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De una entrevista, porque el texto recoge la voz de un personaje del mercado",
+          "is_correct": false,
+          "feedback": "La entrevista exige preguntas y respuestas asignadas a dos participantes, y aquí hay una sola voz narrativa."
+        },
+        {
+          "letter": "B",
+          "text": "De una crónica, porque relata una experiencia vivida y añade la opinión de quien la narra",
+          "is_correct": true,
+          "feedback": "Es correcta porque la crónica combina el relato de lo vivido con la mirada personal del cronista sobre lo ocurrido."
+        },
+        {
+          "letter": "C",
+          "text": "De un artículo de opinión, porque el autor defiende una idea con varios argumentos",
+          "is_correct": false,
+          "feedback": "El artículo de opinión construye una tesis y la defiende, mientras el texto narrativo no se organiza así."
+        },
+        {
+          "letter": "D",
+          "text": "De una carta, porque el texto va dirigido a un destinatario concreto",
+          "is_correct": false,
+          "feedback": "La carta necesita un remitente y un destinatario, condiciones que aquí no aparecen en el texto leído."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crónica se reconoce por tres rasgos juntos: narrar un hecho vivido, situarlo en un tiempo y un lugar precisos con detalles, y cerrar con la valoración del cronista. Esa combinación de relato y opinión la distingue tanto de la noticia, que solo informa, como del artículo de opinión, que no narra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v4",
+      "statement": "Si los estudiantes quieren exponer razones para convencer a ese consejo, ¿qué género de los trabajados en el periodo resulta el más adecuado y por qué?",
+      "context": "En Barranquilla, el consejo estudiantil de un colegio debe decidir si aprueba un plan de lectura para todo el año y escucha a varios estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia local, porque informa la última decisión que tomó el consejo estudiantil",
+          "is_correct": false,
+          "feedback": "La noticia informa sobre un hecho, pero no expone razones para influir en una decisión que aún no se ha tomado."
+        },
+        {
+          "letter": "B",
+          "text": "La entrevista, porque pregunta a cada miembro del consejo su voto",
+          "is_correct": false,
+          "feedback": "La entrevista recoge la voz del otro, pero aquí el propósito del grupo es defender una propia posición, no recabar."
+        },
+        {
+          "letter": "C",
+          "text": "La carta, porque el grupo escribe a un solo amigo para pedirle que lo acompañe",
+          "is_correct": false,
+          "feedback": "La carta sirve para comunicarse con un destinatario concreto, y el consejo estudiantil no es una persona que reciba una carta privada."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo de opinión, porque presenta una tesis y la defiende con argumentos para convencer a quien puede no estar de acuerdo",
+          "is_correct": true,
+          "feedback": "Es correcta porque el género argumentativo sostiene una postura con razones, algo que exige una decisión por convencer."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir género según el propósito evita los desaciertos de formato: si se busca influir en una decisión, el texto argumentativo es el adecuado, porque organiza una tesis y razones dirigidas a un lector que puede no estar de acuerdo. La noticia informa, la entrevista pregunta y la carta se dirige a un destinatario concreto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v5",
+      "statement": "Para encontrar esa información, ¿qué estrategia de lectura es la más adecuada?",
+      "context": "En el colegio de Bucaramanga, un estudiante de sexto grado debe ubicar en qué página de un cuento corto se describe la habitación del personaje principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer buscando la descripción del lugar, porque la pregunta pide un dato escrito de manera explícita",
+          "is_correct": true,
+          "feedback": "Es correcta porque la pregunta es literal: se busca en el texto la descripción de la habitación, no interpretarla."
+        },
+        {
+          "letter": "B",
+          "text": "Resumir de memoria el argumento del cuento antes de abrir el libro por primera vez",
+          "is_correct": false,
+          "feedback": "Un resumen hecho sin leer no localiza información, porque todavía no se conoce el texto que se debe consultar."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar qué opinión tiene el autor sobre la vida de los personajes del barrio",
+          "is_correct": false,
+          "feedback": "La opinion del autor es un dato inferencial, mientras lo solicitado es un dato explícito sobre la descripción del lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Leer la contraportada y decidir si el libro le interesa al estudiante",
+          "is_correct": false,
+          "feedback": "La contraportada orienta la elección del libro, pero no contiene la descripción que la pregunta pide localizar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir la lectura literal de la inferencial es el primer paso para elegir estrategia: si la pregunta pide un dato que está escrito, se busca directamente en el texto; si pide interpretar una intención o una causa, se vuelve al pasaje y se construye la respuesta con pistas. Sin esa distinción, el lector busca donde no hay.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v6",
+      "statement": "Al comparar la noticia local con el reportaje sobre ese mismo hecho, ¿qué diferencia esencial se observa en el tratamiento de la información?",
+      "context": "En Cali, la profesora presenta dos textos sobre el mismo hecho: el colapso de un muro en un barrio popular, contado en una noticia local de cinco párrafos y en un reportaje de cuatro páginas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reportaje no menciona el hecho, mientras que la noticia sí lo describe",
+          "is_correct": false,
+          "feedback": "Ambos textos tratan el mismo hecho; la diferencia está en la profundidad, no en la presencia o la ausencia del fatto."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia incluye fotografías, mientras que el reportaje se limita a opinar",
+          "is_correct": false,
+          "feedback": "La fotografía es un recurso gráfico de algunos medios, y un reportaje no se define por opinar sino por investigar."
+        },
+        {
+          "letter": "C",
+          "text": "El reportaje amplía el hecho con varias fuentes, datos y contexto, mientras la noticia lo informa de manera directa",
+          "is_correct": true,
+          "feedback": "Es correcta porque muestra la diferencia de profundidad entre el relato informativo breve y la investigación periodística."
+        },
+        {
+          "letter": "D",
+          "text": "El reportaje y la noticia repiten exactamente las mismas palabras en el mismo orden",
+          "is_correct": false,
+          "feedback": "Si dos textos usaran las mismas palabras en el mismo orden serían el mismo texto, y no dos géneros distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La noticia y el reportaje tratan el mismo hecho pero lo construyen de forma distinta: la noticia prioriza el dato esencial y la claridad del lead, mientras el reportaje amplía el contexto, cruza fuentes y permite entender las causas y los efectos. Compararlos enseña que un mismo tema admite profundidad distinta según el género.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v7",
+      "statement": "¿Qué le permite al lector reconocer que ambos textos comparten el mismo género narrativo?",
+      "context": "En Medellín, un estudiante de sexto grado lee un cuento corto y después ve una película corta basada en ese mismo relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dos tienen exactamente la misma cantidad de páginas o minutos",
+          "is_correct": false,
+          "feedback": "La extensión es un dato físico del texto y no dice nada sobre el género narrativo que se está leyendo."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dos presentan personajes que enfrentan un conflicto y un desenlace que lo resuelve",
+          "is_correct": true,
+          "feedback": "Es correcta porque la estructura del relato es la que identifica el género, y no la forma en que se cuenta."
+        },
+        {
+          "letter": "C",
+          "text": "Que los dos fueron escritos por el mismo autor en el mismo mes",
+          "is_correct": false,
+          "feedback": "La autoría y la fecha no definen el género, porque dos autores distintos pueden escribir cuentos breves."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dos terminan con una pregunta dirigida directamente al lector",
+          "is_correct": false,
+          "feedback": "Cerrar con una pregunta al lector es un recurso aislado, y no es el rasgo que define un relato de ficción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer un género en un formato nuevo exige trasladar sus rasgos estructurales, no sus apariencias. Un cuento en pantalla sigue siendo relato si ofrece personajes, conflicto y desenlace; esa lectura comparada entre formatos entrena el criterio del lector y le permite clasificar textos nuevos con rapidez.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v8",
+      "statement": "Según la forma como se enuncia cada uno, ¿qué diferencia de comprensión se espera entre los dos al terminar?",
+      "context": "En Bucaramanga, dos estudiantes de la ruta de lectura leen el mismo libro: uno lo recorre de corrido y el otro toma notas mientras lee.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, porque leer el texto completo garantiza la misma comprensión para los dos",
+          "is_correct": false,
+          "feedback": "Leer no basta por sí solo; la comprensión depende de las estrategias y del tiempo que cada lector dedica al texto."
+        },
+        {
+          "letter": "B",
+          "text": "El que leyó sin notas recordará mejor el texto, porque su memoria no se distrajo",
+          "is_correct": false,
+          "feedback": "La ausencia de distracción no garantiza comprensión, porque el lector que no anota no deja ninguna evidencia de su razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "El que tomó notas recordará mejor, porque escribir ocupa el lugar de comprender el texto",
+          "is_correct": false,
+          "feedback": "Escribir no reemplaza la comprensión; las notas solo son útiles si el lector vuelve al pasaje y las contrasta con el texto."
+        },
+        {
+          "letter": "D",
+          "text": "El que tomó notas puede volver al texto para comprobar sus inferencias, mientras el otro depende solo de lo que recuerda",
+          "is_correct": true,
+          "feedback": "Es correcta porque las notas permiten revisar, corregir y profundizar la lectura, algo que la memoria sola no garantiza."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diferencia entre leer de corrido y leer tomando notas no está en la cantidad de texto recorrido, sino en la posibilidad de regresar: las notas registran preguntas, respuestas y dudas que luego se comprueban en el original. Ese ir y volver convierte la lectura en un proceso de verificación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de estas estrategias sirve mejor para preparar esa evaluación y justificar por qué?",
+      "context": "En Cali, la profesora de sexto grado pide preparar una evaluación escrita sobre los nueve temas del segundo periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer un cuadro comparativo con una fila por género y columnas para su propósito y su rasgo más característico",
+          "is_correct": true,
+          "feedback": "Es correcta porque organiza la información y obliga a formular definiciones propias que justifican cada respuesta."
+        },
+        {
+          "letter": "B",
+          "text": "Releer los nueve temas una sola vez, sin volver a ellos, porque el esfuerzo de leer es suficiente",
+          "is_correct": false,
+          "feedback": "Una sola lectura sin elaboración posterior deja la información dispersa y no permite explicar las diferencias."
+        },
+        {
+          "letter": "C",
+          "text": "Copiar nueve veces la misma definición de género en el cuaderno, sin ejemplos",
+          "is_correct": false,
+          "feedback": "Repetir la misma definición no construye conocimiento, porque no permite distinguir un género de otro ni aplicarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Estudiar solamente el último tema del periodo, porque es el más reciente y ya está fresco",
+          "is_correct": false,
+          "feedback": "La cercanía en el tiempo no garantiza comprensión, y dejar de lado ocho temas deja vacíos los más importantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repasar exige organizar lo aprendido, no solo volver a verlo. Un cuadro comparativo con una fila por género obliga a diferenciar cada texto según su propósito, su voz y su estructura, y ese trabajo de clasificación es exactamente lo que permite responder una pregunta de evaluación con precisión y con argumentos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de estas propuestas integra mejor lo aprendido sobre géneros y estrategias de lectura?",
+      "context": "En Medellín, el grado sexto prepara la muestra de lectura del periodo para la comunidad escolar y cada grupo presenta un texto del segundo periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar todos los libros del año sin comentar por qué se eligieron",
+          "is_correct": false,
+          "feedback": "Sin una razón explícita de la elección, la muestra no muestra criterio de lectura ni cumple la función integradora."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar cada texto indicando su género, el propósito de la lectura y qué estrategia ayudó a comprenderlo mejor",
+          "is_correct": true,
+          "feedback": "Es correcta porque conecta género, propósito y estrategia, los tres ejes que articularon todo el segundo periodo."
+        },
+        {
+          "letter": "C",
+          "text": "Recitar de memoria la lista de los títulos del periodo, sin explicar nada de lo leído",
+          "is_correct": false,
+          "feedback": "Recitar títulos no demuestra comprensión, porque no permite ver qué género tiene cada texto ni cómo se leyó."
+        },
+        {
+          "letter": "D",
+          "text": "Mostrar únicamente la portada del libro que más les gustó, con una imagen grande",
+          "is_correct": false,
+          "feedback": "La portada de un solo libro no integra el periodo, y además la elección se apoya en el gusto y no en un criterio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La muestra de lectura del periodo se vuelve integradora cuando cada equipo presenta un texto y lo sitúa: nombra el género, explica con qué propósito se leyó y señala la estrategia que usó. Ese trío de afirmaciones permite ver que el grupo domina la lectura crítica, no solo que leyó varios libros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W20-repaso-periodo-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
