@@ -4,7 +4,7 @@
   import { fade, fly } from 'svelte/transition';
   import ExamView from './ExamView.svelte';
   import RankedExamView from './ranked/RankedExamView.svelte';
-  import { validateNickname, loadActiveRankedSession } from '../lib/ranked/ranked-client.ts';
+  import { validateNickname, loadActiveRankedSession } from '../lib/ranked/ranked-client';
 
   import LeaderboardView from './LeaderboardView.svelte';
   import IdentityRegistration from './IdentityRegistration.svelte';
@@ -1219,7 +1219,7 @@
             supportsEnglishDiagnostic={supportsEnglishDiagnostic}
             preuEnabled={preuEnabled}
             tenantExperience={tenantExperience}
-            onStartRanked={countryCode === 'co' ? handleRankedClick : undefined}
+            onStartRanked={String(countryCode).toUpperCase() === 'CO' ? handleRankedClick : undefined}
             onSelectGrade={(grade) => {
               selectedGrade = grade;
               showExamConfigModal = true;
