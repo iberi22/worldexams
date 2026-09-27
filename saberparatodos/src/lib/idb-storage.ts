@@ -520,20 +520,50 @@ export async function saveKnownQuestions(questions: any[]): Promise<void> {
     const tx = db.transaction(['known_questions'], 'readwrite');
     const store = tx.objectStore('known_questions');
 
+    // Add new questions
     cleanQuestions.forEach((q: any) => {
       if (q && q.id) {
+        // Enforce storing last-access timestamp for eviction
+        q.lastAccessedAt = Date.now();
         store.put(q);
       }
     });
 
     return new Promise((resolve) => {
-      tx.oncomplete = () => {
-        console.log(`💾 Persisted ${cleanQuestions.length} questions to permanent cache`);
-        resolve();
+      tx.oncomplete = async () => {
+        // Enforce LRU cap of 500 based on lastAccessedAt
+        try {
+          const db2 = await openDB();
+          const tx2 = db2.transaction(['known_questions'], 'readwrite');
+          const store2 = tx2.objectStore('known_questions');
+          const getReq = store2.getAll();
+
+          getReq.onsuccess = () => {
+            const allItems = getReq.result || [];
+            if (allItems.length > 500) {
+              // Sort by lastAccessedAt, missing means oldest
+              allItems.sort((a, b) => (a.lastAccessedAt || 0) - (b.lastAccessedAt || 0));
+              const itemsToDelete = allItems.slice(0, allItems.length - 500);
+              itemsToDelete.forEach(item => store2.delete(item.id));
+              console.log(`🗑️ Evicted ${itemsToDelete.length} oldest questions from permanent cache (cap 500)`);
+            }
+          };
+
+          tx2.oncomplete = () => {
+            console.log(`💾 Persisted ${cleanQuestions.length} questions to permanent cache`);
+            resolve();
+          };
+          tx2.onerror = () => {
+            resolve(); // Never throw
+          };
+        } catch (e) {
+          console.warn('Error enforcing LRU cap:', e);
+          resolve(); // Never throw
+        }
       };
       tx.onerror = (e) => {
         console.warn('Failed to persist questions:', e);
-        resolve();
+        resolve(); // Never throw
       };
     });
   } catch (err) {
