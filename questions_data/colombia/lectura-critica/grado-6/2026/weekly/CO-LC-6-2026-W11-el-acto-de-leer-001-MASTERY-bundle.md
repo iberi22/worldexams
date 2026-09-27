@@ -1,0 +1,254 @@
+---
+id: "CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle"
+country: "colombia"
+grado: 6
+asignatura: "lectura_critica"
+tema: "el-acto-de-leer"
+periodo: "weekly"
+week: "W11"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 10
+bundle_size: 10
+alignment: "DBA MEN Colombia / Saber 6"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# El acto de leer: propósito, estrategia y construcción de significado
+
+Foco de la semana 11 de 40 del año escolar 2026: en la clase de lectura comprensiva de sexto grado estudiamos qué ocurre cuando leemos, para qué leemos y cómo unas palabras impresas se convierten en significado, practicando estrategias de lectura sobre textos de la vida cotidiana de Bogotá, Medellín, Cali, Barranquilla y Bucaramanga.
+
+## Question 1 [D3-D4]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Textual
+**Expected_Success:** 0.90
+**Contexto:** La profesora de lectura de un colegio de Bucaramanga pregunta a sus alumnos de sexto grado qué hacen exactamente cuando abren un libro. Daniel responde que pasa la vista por el papel hasta llegar a la última página, mientras Camila afirma que al terminar puede explicar de qué trata el escrito aunque el libro ya no esté frente a ella.
+
+### Enunciado
+¿Cuál de las siguientes opciones describe de manera más completa el acto de leer?
+
+### Opciones
+- [ ] A) Recorrer el escrito una sola vez, sin detenerse, hasta llegar a la última página
+  <!-- feedback: Esa es una lectura mecánica y rápida que no garantiza comprensión, porque pasar la vista no equivale a construir sentido. -->
+- [x] B) Construir significado con las ideas del texto, la intención de quien lo escribe y lo que el lector ya conoce
+  <!-- feedback: Es correcta porque leer es un proceso activo que pone en diálogo el texto, su propósito y los conocimientos previos del lector. -->
+- [ ] C) Repetir de memoria, palabra por palabra, todo lo que está escrito en el documento
+  <!-- feedback: Eso corresponde a memorización literal, y la lectura comprensiva nunca exige reproducir el escrito de forma exacta. -->
+- [ ] D) Reconocer únicamente las palabras conocidas y saltar por encima de las desconocidas
+  <!-- feedback: Si solo se detienen en las palabras conocidas, el escrito no se comprende, porque el lector también debe trabajar el vocabulario nuevo. -->
+
+### Explicacion Pedagogica
+Leer no es un ejercicio visual sino la construcción activa de un significado. El lector pone en diálogo tres elementos: lo que el texto dice, lo que su autor quiso comunicar y lo que el lector conoce del mundo. Cuando esos tres elementos se articulan, la persona puede resumir, explicar o criticar el contenido mucho después de cerrar el libro. Por eso en sexto grado se estudia el propósito de cada escrito y se aprende a justificar cada inferencia con una evidencia del párrafo.
+
+## Question 2 [D3-D4]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Semántico
+**Expected_Success:** 0.88
+**Contexto:** En un taller de lectura de Medellín se leen dos fragmentos distintos. En el primero, un aviso de la movilidad dice: "La autoridad suspende temporalmente el servicio de los buses que se detienen sobre la vía principal". En el segundo, una nota del torneo municipal de fútbol afirma: "El jugador fue suspendido por dos fechas después de recibir dos tarjetas amarillas".
+
+### Enunciado
+En los dos fragmentos la palabra "suspende" aparece con sentidos diferentes. ¿Qué relación se utiliza para construir el significado de esa palabra?
+
+### Opciones
+- [ ] A) La relación que existe entre el título del aviso y el párrafo que aparece por debajo de él
+  <!-- feedback: Esa relación es de organización del escrito y sirve para identificar secciones, no para explicar el cambio de significado. -->
+- [ ] B) La relación que existe entre dos palabras que se escriben de forma parecida pero significan cosas distintas
+  <!-- feedback: Esa es la relación entre parónimos, que se apoya en la forma de escribir las palabras y no en su sentido dentro del texto. -->
+- [x] C) La relación que existe entre la palabra y el significado que asume en el contexto del texto donde aparece
+  <!-- feedback: Es correcta porque el mismo vocablo toma sentidos distintos según el asunto tratado, y es el contexto el que fija ese sentido. -->
+- [ ] D) La relación que existe entre la cantidad de renglones del texto y el número de palabras que contiene
+  <!-- feedback: La extensión del escrito no explica por qué una palabra significa una cosa en un fragmento y otra en un fragmento distinto. -->
+
+### Explicacion Pedagogica
+El significado de una palabra no es fijo: lo determina el contexto en el que se usa. En el aviso de movilidad, suspender significa detener por un tiempo un servicio; en la nota del torneo, significa impedir la participación de alguien en un partido. Reconocer que un mismo vocablo cambia de sentido según la situación textual es la base del diccionario contextual y evita el error frecuente de interpretar un escrito con el significado que la palabra tenía en otra oración.
+
+## Question 3 [D5-D6]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Pragmático
+**Expected_Success:** 0.84
+**Contexto:** Un miércoles por la tarde, Julián recibe en el grupo del colegio de Barranquilla un mensaje que dice: "Recuerden confirmar la asistencia a la salida a Bogotá antes de las cuatro de la tarde de este viernes. Envíen su nombre completo al profesor de educación física antes de esa hora". Julián tiene que decidir qué está buscando exactamente en ese mensaje.
+
+### Enunciado
+Si Julián solo necesita cumplir lo que el mensaje le exige, ¿qué lectura le resulta más adecuada?
+
+### Opciones
+- [x] A) Una lectura de búsqueda que le permita localizar la fecha límite, la acción que debe hacer y a quién debe responder
+  <!-- feedback: Es correcta porque el mensaje da una instrucción con datos puntuales, y la lectura de búsqueda es la vía más rápida y segura para extraerlos. -->
+- [ ] B) Una lectura de crítica que le permita valorar si la salida a Bogotá conviene para el presupuesto de su familia
+  <!-- feedback: Ese juicio busca conformar una opinión sobre el costo del viaje, pero el mensaje no pide opiniones ni permite valorar ese asunto. -->
+- [ ] C) Una lectura de memoria que le obligue a aprender de memoria todas las palabras del mensaje
+  <!-- feedback: Memorizar el mensaje no aporta nada en este caso, porque Julián necesita cumplir una acción y no reproducir el escrito. -->
+- [ ] D) Una lectura pausada que le permita identificar qué palabras del mensaje están escritas en verso
+  <!-- feedback: El mensaje está escrito en prosa breve, no en verso, y buscar recursos poéticos se aparta de la información necesaria. -->
+
+### Explicacion Pedagogica
+Cada escrito se lee con un propósito distinto, y reconocer ese propósito evita gastar tiempo y esfuerzo en lo que no hace falta. Un mensaje con instrucciones se lee de forma rápida y selectiva para extraer datos concretos; un artículo de opinión exige una lectura lenta, comparativa y crítica; un relato pide atención a los detalles y a los personajes. Elegir la estrategia adecuada según la intención del texto y lo que el lector necesita es una habilidad que se construye desde sexto grado.
+
+## Question 4 [D5-D6]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Textual
+**Expected_Success:** 0.83
+**Contexto:** En la sala de sistemas de un colegio de Bogotá se lee este aviso: "La maratón de lectura se realizará el próximo jueves a las siete de la mañana en la biblioteca. Cada estudiante puede inscribir hasta dos textos y recibirá un certificado por cada diez libros que lea. Las inscripciones se abren al finalizar la reunión de hoy". Después los estudiantes responden un cuestionario.
+
+### Enunciado
+Según la información que aparece de manera explícita en ese aviso, ¿qué puede afirmar un lector que se apoye únicamente en lo escrito?
+
+### Opciones
+- [ ] A) La maratón de lectura se repite todos los años, porque así se hizo en los años anteriores
+  <!-- feedback: El aviso no menciona años anteriores ni periodicidad, de modo que esa afirmación sería una inferencia y no una información explícita. -->
+- [ ] B) Solo los estudiantes con los mejores resultados académicos podrán participar en la maratón
+  <!-- feedback: Esa restricción no aparece en ningún momento del aviso, que únicamente fija un máximo de dos textos inscritos por estudiante. -->
+- [ ] C) El número de participantes de la maratón del año pasado fue mayor que el de este año
+  <!-- feedback: El aviso no entrega cifras de años anteriores, así que comparar participantes significaría inventar información. -->
+- [x] D) Cada estudiante que lea diez libros recibirá un certificado, según lo que indica el aviso
+  <!-- feedback: Es correcta porque esa frase reproduce literalmente una regla del escrito, sin agregar ni quitar información. -->
+
+### Explicacion Pedagogica
+Comprender de forma literal es localizar la información que el texto presenta de manera explícita, sin completar vacíos ni añadir experiencias personales. Saber qué está escrito y qué está deducido resulta fundamental: las afirmaciones sobre periodicidad, sobre requisitos no mencionados o sobre cifras de años anteriores no encuentran respaldo en este aviso. En la prueba Saber 6 este nivel de comprensión literal sostiene todas las preguntas más complejas, porque impide confundir los datos del texto con las suposiciones del lector.
+
+## Question 5 [D5-D6]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Discursivo
+**Expected_Success:** 0.82
+**Contexto:** En un texto de la semana de lectura de Cali se lee: "Durante todo el mes, los estudiantes de sexto grado leyeron en la sala de lectura. Al principio, casi nadie se sentaba en las mesas cercanas a la ventana y las del fondo quedaban vacías. Al terminar cada jornada, los lugares junto a la ventana seguían ocupados. Al final del mes, la sala cambió: ahora hay estudiantes repartidos por todos los lados".
+
+### Enunciado
+Más allá de lo que el texto dice de forma literal, ¿qué conclusión se apoya mejor en la comparación entre el principio y el final del mes?
+
+### Opciones
+- [ ] A) La ventana del salón se rompió durante el mes y por eso los estudiantes cambiaron de lugar
+  <!-- feedback: El texto no menciona ningún daño en la ventana, de manera que esa explicación física no tiene ninguna base en lo escrito. -->
+- [ ] B) Los estudiantes aprendieron a leer con mayor rapidez gracias a los textos que leyeron durante el mes
+  <!-- feedback: Nada en el texto demuestra una mejora en la capacidad lectora, y confunde un cambio de hábito con una ganancia de aprendizaje. -->
+- [x] C) El cambio en la forma de ocupar la sala muestra una transformación en el hábito de lectura del grupo
+  <!-- feedback: Es correcta porque el contraste entre las dos situaciones, registrado en el texto, revela un comportamiento nuevo y sostenido. -->
+- [ ] D) La cantidad de libros leídos se duplicó el último día del mes, según el propio texto
+  <!-- feedback: El texto no habla de cantidades de libros ni de un último día, de modo que esa cifra no puede sostenerse con lo leído. -->
+
+### Explicacion Pedagogica
+La inferencia es la conclusión lógica que el lector construye a partir de datos que el texto ofrece sin enunciarlos de manera directa. Aquí el indicio es el cambio en la ocupación del espacio: si la distribución de los estudiantes se transforma y esa transformación se mantiene, es razonable concluir que hubo un cambio de hábito, aunque el texto nunca use la palabra hábito. Inferir bien exige apoyarse solo en pistas presentes en el escrito y descartar explicaciones que ningún párrafo respalda.
+
+## Question 6 [D7-D8]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Expected_Success:** 0.78
+**Contexto:** En un texto de la semana de lectura de Barranquilla se lee: "Muchos estudiantes creen que leer un libro es aburrido porque no entienden nada de lo que leen. Sin embargo, la profesora les mostró que casi todas las palabras que parecían extrañas aparecían también en la vida cotidiana, solo que con otro nombre. Por lo tanto, terminar el primer capítulo cambió por completo la manera de ver la lectura".
+
+### Enunciado
+Si se consideran las expresiones "sin embargo" y "por lo tanto", ¿qué papel cumplen en la organización de las ideas del párrafo?
+
+### Opciones
+- [ ] A) Repiten con otras palabras la idea inicial, sin aportar ningún dato nuevo al párrafo
+  <!-- feedback: Si se limitaran a repetir, el párrafo no avanzaría en su razonamiento; aquí se oponen ideas y luego se deriva una conclusión. -->
+- [ ] B) Introducen dos ejemplos distintos que apoyan la misma afirmación del comienzo del párrafo
+  <!-- feedback: Las dos expresiones no introducen ejemplos, sino que articulan una oposición y luego una consecuencia entre afirmaciones. -->
+- [ ] C) Marcan el cierre del párrafo con dos ideas que contradicen lo afirmado sobre la dificultad de leer
+  <!-- feedback: Ninguna de las dos expresiones cierra el párrafo, y tampoco se limitan a contradecir lo que se dijo al comienzo. -->
+- [x] D) Enlazan afirmaciones: la primera señala una contradicción y la segunda anuncia una consecuencia
+  <!-- feedback: Es correcta porque esas expresiones funcionan como conectores que revelan cómo se encadenan la tesis, la oposición y la conclusión. -->
+
+### Explicacion Pedagogica
+Los conectores textuales son las palabras o expresiones que hacen visibles las relaciones entre las ideas de un texto. Las expresiones adversativas, como sin embargo, señalan un cambio de rumbo frente a lo afirmado antes, mientras que las conclusivas, como por lo tanto, introducen lo que se deduce de lo anterior. Reconocerlas permite reconstruir la arquitectura lógica de un párrafo, distinguir la tesis de los ejemplos y seguir el razonamiento aunque el escrito cambie de asunto a mitad de camino.
+
+## Question 7 [D7-D8]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Sintáctico
+**Expected_Success:** 0.75
+**Contexto:** En un taller de lectura de Medellín se analiza la oración: "Los estudiantes de sexto grado leyeron doce libros durante el primer semestre". La profesora pide al grupo que identifique qué parte responde a la pregunta de quién leyó y cuál responde a la pregunta de qué hizo ese grupo durante el semestre.
+
+### Enunciado
+Al analizar la estructura de esa oración, ¿qué elemento cumple la función del sujeto y cuál la del predicado?
+
+### Opciones
+- [ ] A) El sujeto es "leyeron doce libros" y el predicado es "Los estudiantes de sexto grado"
+  <!-- feedback: Invertir las funciones produce una oración sin sentido, porque el grupo de estudiantes es quien realiza la lectura, no lo que se leyó. -->
+- [x] B) El sujeto es "Los estudiantes de sexto grado" y el predicado es "leyeron doce libros durante el primer semestre"
+  <!-- feedback: Es correcta porque la primera parte identifica quién realiza la acción y la segunda expresa la acción con sus complementos. -->
+- [ ] C) El sujeto es "durante el primer semestre" y el predicado es "leyeron"
+  <!-- feedback: Ese tramo de tiempo es un complemento que modifica la acción; no identifica a nadie y por eso no puede ser el sujeto. -->
+- [ ] D) El sujeto y el predicado coinciden, porque la oración funciona como un solo bloque indivisible
+  <!-- feedback: Aunque la oración es una sola unidad, sus partes no son intercambiables: una identifica al actor y la otra describe lo que hace. -->
+
+### Explicacion Pedagogica
+La oración se organiza en dos núcleos: el sujeto, que identifica a quién o a qué se le atribuye la acción, y el predicado, que expresa esa acción junto con sus complementos. Reconocer esta estructura en oraciones largas es lo que permite entender de dónde depende el sentido general del enunciado. En sexto grado, distinguir el sujeto del predicado en oraciones con sujetos compuestos y con complementos de tiempo o de lugar es el punto de partida para analizar la sintaxis de textos más complejos.
+
+## Question 8 [D7-D8]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Crítico-Intertextual
+**Expected_Success:** 0.73
+**Contexto:** La profesora de lectura de Bogotá entrega dos textos que tratan la misma experiencia: el primero es el relato de una alumna que cuenta cómo empezó a leer por gusto; el segundo es un informe escolar que, en lenguaje formal y con datos, resume cuántos estudiantes del colegio leen cada día y cuántas horas leen en promedio. Ninguno de los dos textos menciona al otro.
+
+### Enunciado
+Al poner en diálogo los dos textos, ¿qué diferencia se identifica con mayor claridad?
+
+### Opciones
+- [ ] A) Los dos textos cuentan exactamente lo mismo y solo se diferencian porque uno está escrito en mayúsculas
+  <!-- feedback: Un relato personal y un informe con datos no se distinguen por el uso de mayúsculas, sino por su manera de construir el conocimiento. -->
+- [ ] B) El primer texto informa cifras de toda la comunidad educativa, mientras el segundo narra una vivencia individual
+  <!-- feedback: La función de cada texto está invertida: el informe entrega datos y el relato personal cuenta una experiencia vivida por su autora. -->
+- [x] C) El primero busca conectar con el lector desde una experiencia vivida, y el segundo informar de forma objetiva y ordenada
+  <!-- feedback: Es correcta porque el relato usa la voz de quien vivió el hecho para provocar identificación, mientras el informe ordena datos verificables. -->
+- [ ] D) Los dos textos presentan la información en un orden alfabético, por tratarse de documentos escolares
+  <!-- feedback: Ninguno de los dos textos está ordenado alfabéticamente, y esa característica no explica la diferencia entre relato e informe. -->
+
+### Explicacion Pedagogica
+Comparar dos textos que hablan del mismo tema permite detectar que cambian el propósito, el registro y la manera de construir el conocimiento. El relato testimonial apela a la experiencia vivida y busca generar identificación emocional; el informe escolar recurre a datos, orden y objetividad para informar. Reconocer esta diferencia de intención es la base del pensamiento crítico, porque evita tratar con el mismo criterio una opinión narrativa y un dato estadístico.
+
+## Question 9 [D9-D10]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v9
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.68
+**Contexto:** En un grupo de conversación de estudiantes de Cartagena, Laura propone leer cada texto una sola vez, muy rápido, de principio a fin, sin volver atrás y sin anotar nada. Andrés responde que conviene leer dos veces: la primera para enterarse del tema y la segunda, con lápiz, para subrayar las ideas principales. Laura sostiene que con su método no se podría responder con precisión un cuestionario.
+
+### Enunciado
+Frente a esas dos propuestas de lectura, ¿cuál de los siguientes juicios está mejor sustentado?
+
+### Opciones
+- [ ] A) El método de Laura es mejor, porque una sola lectura rápida basta siempre para comprender cualquier escrito
+  <!-- feedback: Generalizar sin sustento es un error de razonamiento, y la necesidad de responder con precisión contradice esa afirmación absoluta. -->
+- [x] B) El método de Andrés es más adecuado, porque la primera lectura orienta y la segunda permite volver sobre las ideas
+  <!-- feedback: Es correcta porque distribuye el esfuerzo en dos momentos con funciones distintas, algo coherente con la evidencia del cuestionario. -->
+- [ ] C) Los dos métodos sirven por igual, porque la comprensión depende solamente de la extensión del texto
+  <!-- feedback: La extensión no determina por sí sola la comprensión, y esa explicación deja de lado la exigencia de responder con precisión. -->
+- [ ] D) Ninguno de los dos métodos sirve, porque comprender exige repetir la lectura un número fijo de veces
+  <!-- feedback: Inventar una cantidad fija de lecturas no es una estrategia derivada de la evidencia, sino una regla sin ningún respaldo. -->
+
+### Explicacion Pedagogica
+Evaluar una estrategia de lectura exige valorar la coherencia entre el método propuesto y la evidencia disponible. En este caso, la necesidad de responder con precisión un cuestionario justifica una lectura en dos momentos: una de aproximación para captar el tema y otra de profundización para volver sobre los detalles. Un juicio responsable se apoya en razones verificables y descarta tanto las generalizaciones sin respaldo como las reglas numéricas inventadas.
+
+## Question 10 [D9-D10]
+**ID:** CO-LC-6-2026-W11-el-acto-de-leer-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.65
+**Contexto:** En un texto de lectura de Pereira se lee: "El jueves la biblioteca del colegio abrió dos horas más temprano y, desde ese día, la mesa de los periódicos estuvo siempre llena. Al terminar el mes, el horario volvió al anterior y en las semanas siguientes la mesa siguió vacía. La administración anotó que nunca hubo una orden de cerrar la biblioteca a mediodía". Un grupo analiza si esa secuencia explica la diferencia.
+
+### Enunciado
+¿Qué juicio sobre la relación entre la apertura temprana y la llegada de lectores queda mejor sustentado en ese texto?
+
+### Opciones
+- [ ] A) La apertura temprana no tuvo ningún efecto, porque el horario siempre fue el mismo durante todo el año
+  <!-- feedback: El texto afirma lo contrario al describir una apertura temporal de dos horas, de modo que esta conclusión contradice la evidencia. -->
+- [ ] B) La apertura temprana y la llegada de lectores son la misma cosa, porque el texto las usa como sinónimos
+  <!-- feedback: Son hechos relacionados y no sinónimos: uno es una medida administrativa y el otro es la conducta observada de los estudiantes. -->
+- [ ] C) La apertura temprana fue la única causa posible de la llegada de lectores, y nada más explica el fenómeno
+  <!-- feedback: Atribuir la causa a un solo factor sin descartar otras explicaciones excede lo que este texto permite afirmar. -->
+- [x] D) La apertura coincidió con más lectores, pero el texto no descarta otras causas, así que la relación no queda demostrada
+  <!-- feedback: Es correcta porque respeta la diferencia entre coincidencia observada y causa probada, sin inventar explicaciones alternativas. -->
+
+### Explicacion Pedagogica
+Distinguir coincidencia de causalidad es una de las tareas más exigentes del pensamiento crítico. Que un cambio en el ambiente escolar coincida con un cambio en la conducta de los estudiantes no demuestra por sí solo que uno produjo el otro, porque pueden existir otras explicaciones. Un juicio bien sustentado reconoce lo que el texto muestra, delimita lo que no muestra y evita afirmar relaciones causales que ningún dato del escrito permite confirmar.
