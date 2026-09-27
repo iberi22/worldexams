@@ -9,7 +9,7 @@
 # Checks:
 #   1. App raíz                → 200
 #   2. Worker /health          → 200  (ruta real: /health, NO /v1/health)
-#   3. Grade bundle co/11      → 200 y total_questions >= 100
+#   3. Grade bundle co/11      → 403 (banco completo NO público) + metadata.json 404
 #   4. /v1/questions por las 5 materias ICFES G11 (params idénticos al front) → 200 y >=1 pregunta
 #   5. Proxy app /api/questions (redirect al API) → 200 y >=1 pregunta
 #   6. Pack estático vía /api/packs/... (proxy SSR → assets) → 200
@@ -73,26 +73,23 @@ except Exception:
 }
 
 check_bundle() {
+  # The full-grade bank must NOT be public (WAVE-16.16): without x-api-key the
+  # endpoint answers 403 BULK_DISABLED. A 200 here means the bank leaked again.
   local url="$API_URL/v1/grades/${COUNTRY}/${GRADE}/bundle"
-  local body total
-  body=$(curl -s -m 25 "$url" || true)
-
-  if echo "$body" | grep -qE "Pregunta de prueba|Explicación detallada de la pregunta"; then
-    echo "  FAIL [placeholder] Grade bundle ${COUNTRY}/${GRADE} — $url"
-    FAILED+=("grade bundle (placeholder detected)")
-    return
-  fi
-
-  total=$(printf '%s' "$body" | python3 -c 'import json,sys
-try:
-    print(int(json.load(sys.stdin).get("total_questions", 0)))
-except Exception:
-    print(-1)' 2>/dev/null)
-  if [[ "$total" =~ ^[0-9]+$ ]] && (( total >= 100 )); then
-    echo "  OK   [$total preguntas] Grade bundle ${COUNTRY}/${GRADE}"
+  local code
+  code=$(http_code "$url")
+  if [[ "$code" == "403" ]]; then
+    echo "  OK   [403] Grade bundle ${COUNTRY}/${GRADE} closed to the public"
   else
-    echo "  FAIL [total=$total] Grade bundle ${COUNTRY}/${GRADE} — $url"
-    FAILED+=("grade bundle (total=$total)")
+    echo "  FAIL [$code] Grade bundle ${COUNTRY}/${GRADE} should be 403 without API key — $url"
+    FAILED+=("grade bundle exposed (HTTP $code)")
+  fi
+  code=$(http_code "$API_URL/v1/packs/metadata.json")
+  if [[ "$code" == "404" ]]; then
+    echo "  OK   [404] packs metadata.json not public"
+  else
+    echo "  FAIL [$code] packs metadata.json is public"
+    FAILED+=("metadata.json exposed (HTTP $code)")
   fi
 }
 
