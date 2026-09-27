@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-23-grade-6-subject-lengua",
+    "generated_at": "2026-09-27T17:03:46.522Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una fábula?",
+      "context": "En clase de lengua en Bogotá, el profesor proyecta una fábula de Esopo y pregunta qué tipo de texto es.\n**Expected_Success:** 0.90",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un relato breve con animales como personajes que deja una enseñanza.",
+          "is_correct": true,
+          "feedback": "Correcto. La fábula combina narración corta y moraleja final."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuento largo con muchos personajes humanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un texto breve y sus personajes suelen ser animales."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema dedicado a la naturaleza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fábula se narra en prosa o verso, pero no es poesía lírica."
+        },
+        {
+          "letter": "D",
+          "text": "Una noticia sobre animales en peligro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia informa hechos reales, no relatos imaginarios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fábula es un texto narrativo corto cuyos personajes suelen ser animales personificados y siempre termina con una moraleja o enseñanza explícita, como en las obras de Esopo o Félix María de Samaniego.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la moraleja de esta fábula?",
+      "context": "Una alumna de Medellín lee: «La cigarra cantó todo el verano mientras la hormiga juntaba provisiones. Cuando llegó el frío, la cigarra pasó hambre».\n**Expected_Success:** 0.87",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es importante cantar para alegrar el verano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja no elogia el canto despreocupado."
+        },
+        {
+          "letter": "B",
+          "text": "Hay que trabajar con anticipación y no dejarse llevar solo por el placer.",
+          "is_correct": true,
+          "feedback": "Correcto. La hormiga representa el esfuerzo previsor."
+        },
+        {
+          "letter": "C",
+          "text": "El invierno siempre es mejor que el verano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia no compara estaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Los animales no deben hablar entre ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La personificación es un recurso válido de la fábula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La moraleja es la enseñanza final de la fábula. Aquí se destaca la importancia del trabajo constante y la previsión, valores que la cigarra descuidó y la hormiga sí practicó.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.87,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v3",
+      "statement": "¿Qué elementos debe incluir obligatoriamente esta fábula?",
+      "context": "Una alumna de Cali escribe una fábula en la que un burro trabajador aprende a valorar a su amigo el caballo.\n**Expected_Success:** 0.83",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personajes humanos y un final realista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los protagonistas suelen ser animales personificados."
+        },
+        {
+          "letter": "B",
+          "text": "Animales como personajes, conflicto breve y una moraleja final.",
+          "is_correct": true,
+          "feedback": "Correcto. Son los rasgos clásicos del género."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción larga del paisaje rural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión de la fábula es corta."
+        },
+        {
+          "letter": "D",
+          "text": "Un narrador en primera persona y un final abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja debe quedar explícita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para que un texto se reconozca como fábula debe combinar personajes animales personificados, un conflicto breve y una enseñanza explícita al final. Sin moraleja, sería solo un cuento de animales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v4",
+      "statement": "¿Qué recurso utiliza el autor al dar cualidades humanas al ratón?",
+      "context": "Un alumno de Barranquilla lee: «El ratón quiso ayudar al león, pero sus patas eran tan pequeñas que apenas podía mover la red».\n**Expected_Success:** 0.80",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La personificación, porque le atribuye intenciones humanas.",
+          "is_correct": true,
+          "feedback": "Correcto. El ratón decide, intenta y evalúa como una persona."
+        },
+        {
+          "letter": "B",
+          "text": "La metáfora visual, porque compara tamaños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comparación explícita entre dos elementos."
+        },
+        {
+          "letter": "C",
+          "text": "La hipérbole, porque exagera el tamaño del ratón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí no hay exageración sino descripción realista."
+        },
+        {
+          "letter": "D",
+          "text": "La ironía, porque dice lo contrario de lo que piensa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no contradice su sentido literal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La personificación es el recurso central de la fábula: animales y objetos reciben sentimientos, pensamientos y decisiones humanas. Gracias a ella, el lector se identifica con personajes no humanos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v5",
+      "statement": "¿Qué diferencia clave tiene la fábula frente al mito?",
+      "context": "Una alumna de Pereira prepara una exposición oral sobre la diferencia entre fábula, mito y leyenda para sus compañeros de grado sexto.\n**Expected_Success:** 0.77",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fábula explica el origen del universo, el mito cuenta historias de animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el mito explica orígenes."
+        },
+        {
+          "letter": "B",
+          "text": "La fábula busca enseñar una conducta con una moraleja, el mito explica el origen del mundo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada género tiene una intención distinta."
+        },
+        {
+          "letter": "C",
+          "text": "La fábula y el mito son exactamente lo mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pertenecen a géneros narrativos diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "La fábula se escribe solo en verso, el mito solo en prosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos géneros admiten prosa y verso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fábula enseña conductas humanas mediante animales y una moraleja. El mito, en cambio, explica el origen del mundo, de los dioses o de los fenómenos naturales en culturas antiguas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.77,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v6",
+      "statement": "¿Qué figura retórica predomina cuando la zorra declara que las uvas están verdes?",
+      "context": "Un alumno de Bucaramanga observa que la zorra de una fábula nunca alcanza las uvas del muro y dice que están «verdes».\n**Expected_Success:** 0.73",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una descripción objetiva del fruto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción no refleja la realidad sino una excusa."
+        },
+        {
+          "letter": "B",
+          "text": "Una comparación con otros animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparece otro animal en la comparación."
+        },
+        {
+          "letter": "C",
+          "text": "Una ironía que disimula la frustración del personaje.",
+          "is_correct": true,
+          "feedback": "Correcto. La zorra oculta su derrota con un pretexto."
+        },
+        {
+          "letter": "D",
+          "text": "Una hipérbole sobre el sabor de las uvas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay exageración cuantitativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ironía consiste en decir algo con un sentido distinto al literal. La zorra no habla del sabor real de las uvas sino de su propia decepción al no alcanzarlas, recurso típico de las fábulas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v7",
+      "statement": "¿Qué cambia cuando una misma fábula se presenta en verso y en prosa?",
+      "context": "Una alumna de Cartagena compara dos versiones de la misma fábula: una escrita en verso y otra en prosa.\n**Expected_Success:** 0.69",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambian los personajes y la moraleja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos elementos se conservan en ambas versiones."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia el conflicto principal del relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La situación narrativa se mantiene."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia la forma del lenguaje, pero la enseñanza se conserva.",
+          "is_correct": true,
+          "feedback": "Correcto. La intención didáctica permanece."
+        },
+        {
+          "letter": "D",
+          "text": "Cambian los hechos históricos relatados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fábula no narra hechos históricos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una misma fábula puede escribirse en prosa o verso. Lo esencial —personajes animales, conflicto y moraleja— se mantiene; lo que varía es la cadencia y el ritmo del lenguaje.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el autor recurre a animales en lugar de personas en una fábula?",
+      "context": "En un club de lectura de Tunja, los estudiantes analizan por qué las fábulas suelen presentar animales como protagonistas.\n**Expected_Success:** 0.65",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en su época no sabía dibujar personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección es literaria, no técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Para crear distancia con el lector y permitirle aprender sin sentirse señalado.",
+          "is_correct": true,
+          "feedback": "Correcto. La voz animal protege y universaliza la crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los animales hablan en todos los idiomas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fábulas se escriben en idiomas concretos."
+        },
+        {
+          "letter": "D",
+          "text": "Para evitar enseñar valores morales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moraleja es la esencia del género."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usar animales permite hablar de defectos humanos sin señalar directamente a nadie. El lector reconoce la conducta en el animal y reflexiona sobre sí mismo sin sentirse atacado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la mejor respuesta para refutar esta opinión en clase?",
+      "context": "Una alumna de Manizales opina: «Las fábulas son textos para niños pequeños, ya no nos sirven en sexto».\n**Expected_Success:** 0.60",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón, porque las fábulas no enseñan nada nuevo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fábulas conservan su valor didáctico."
+        },
+        {
+          "letter": "B",
+          "text": "Las fábulas siguen siendo útiles porque enseñan valores y permiten análisis literario.",
+          "is_correct": true,
+          "feedback": "Correcto. Su valor trasciende la edad del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Las fábulas son solo para preescolar, no para el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se estudian en todos los niveles escolares."
+        },
+        {
+          "letter": "D",
+          "text": "Solo sirven para decorar los libros de texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumplen funciones narrativas y éticas profundas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las fábulas enseñan valores universales como la prudencia, la solidaridad y la justicia. Además, permiten practicar comprensión lectora, análisis de figuras retóricas y reflexión ética a cualquier edad.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle-v10",
+      "statement": "¿Qué problema tiene este enfoque desde la definición del género?",
+      "context": "Un alumno de Pasto escribió una «fábula» sin moraleja porque considera que el lector debe descubrir la enseñanza por su cuenta.\n**Expected_Success:** 0.55",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque toda historia puede llamarse fábula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin moraleja no se cumplen las características del género."
+        },
+        {
+          "letter": "B",
+          "text": "Rompe la convención del género, que exige una enseñanza explícita.",
+          "is_correct": true,
+          "feedback": "Correcto. La moraleja distingue a la fábula de otros relatos."
+        },
+        {
+          "letter": "C",
+          "text": "Solo es un problema si el texto es muy corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina el género."
+        },
+        {
+          "letter": "D",
+          "text": "Es un problema solo cuando se publica en un libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convención aplica en cualquier soporte."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aunque un cuento pueda sugerir una enseñanza sin explicitarla, la fábula como género se caracteriza por su moraleja clara al final. Omitirla cambia el género y desconcierta al lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-6-2026-W23-la-fabula-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
