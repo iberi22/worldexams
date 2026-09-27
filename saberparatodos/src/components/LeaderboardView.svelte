@@ -1,4 +1,5 @@
 <script lang="ts">
+  import RankedLeaderboard from "./leaderboard/RankedLeaderboard.svelte";
   /**
    * LeaderboardView.svelte
    * Componente para mostrar el ranking de estudiantes
@@ -48,6 +49,7 @@
 
   // State
   let currentPeriod: LeaderboardPeriod = 'weekly';
+  let hasRankedData = false;
   let currentScope: LeaderboardScope = 'global';
   let scopeValue = '';
   let leaderboard: Leaderboard | null = null;
@@ -112,7 +114,7 @@
       }
 
       if (!leaderboard) {
-        error = 'No se pudo cargar el ranking';
+        if (!hasRankedData) { error = "No se pudo cargar el ranking"; }
         return;
       }
 
@@ -223,6 +225,7 @@
 />
 
 <div class="w-full max-w-4xl mx-auto p-4 animate-fade-in-up pb-20">
+  <RankedLeaderboard bind:hasRankedData={hasRankedData} />
   <!-- Header -->
   <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
     <div>
@@ -393,7 +396,7 @@
         <div class="inline-block w-8 h-8 border-2 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin"></div>
         <p class="mt-4 text-sm text-white/40">Cargando ranking...</p>
       </div>
-    {:else if error}
+    {:else if error && !hasRankedData}
       <div class="p-12 text-center">
         <p class="text-red-400">{error}</p>
         <button

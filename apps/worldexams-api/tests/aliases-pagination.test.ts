@@ -96,7 +96,7 @@ describe("GET /v1/questions with aliases and pagination", () => {
     })
 
     // Page 1
-    let req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&limit=20&page=1", { method: "GET" })
+    let req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&mode=page&limit=20&page=1", { method: "GET" })
     let res = await worker.fetch(req, env)
     expect(res.status).toBe(200)
     let data = (await res.json()) as any
@@ -106,7 +106,7 @@ describe("GET /v1/questions with aliases and pagination", () => {
     expect(data.meta.out_of_range).toBeUndefined()
 
     // Page 3
-    req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&limit=20&page=3", { method: "GET" })
+    req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&mode=page&limit=20&page=3", { method: "GET" })
     res = await worker.fetch(req, env)
     expect(res.status).toBe(200)
     data = (await res.json()) as any
@@ -115,7 +115,7 @@ describe("GET /v1/questions with aliases and pagination", () => {
     expect(data.meta.out_of_range).toBeUndefined()
 
     // Page 4 (out of range)
-    req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&limit=20&page=4", { method: "GET" })
+    req = new Request("http://localhost/v1/questions?country=co&grade=11&subject=matematicas&period=1&mode=page&limit=20&page=4", { method: "GET" })
     res = await worker.fetch(req, env)
     expect(res.status).toBe(200)
     data = (await res.json()) as any
