@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-31-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T23:35:19.202Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elemento de la tira comunica esa alarma antes de que el personaje hable?",
+      "context": "En una tira impresa que circula en el colegio de Cali, el primer cuadro muestra a un niño con un globo atado a la mano y el rostro de alarma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El diálogo, porque el niño cuenta lo que le acaba de pasar.",
+          "is_correct": false,
+          "feedback": "En el primer cuadro el niño todavía no habla, así que la alarma no puede venir del diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "El título de la página, porque anuncia cómo termina la historia.",
+          "is_correct": false,
+          "feedback": "El título anuncia el tema general de la página, y no explica la alarma de un cuadro concreto."
+        },
+        {
+          "letter": "C",
+          "text": "El dibujo, por la expresión del rostro y la postura del cuerpo.",
+          "is_correct": true,
+          "feedback": "La expresión del rostro y la postura del cuerpo son recursos del dibujo, y actúan antes de que aparezca cualquier palabra."
+        },
+        {
+          "letter": "D",
+          "text": "La forma de escribir los nombres, porque revela quién es el protagonista.",
+          "is_correct": false,
+          "feedback": "La manera de escribir los nombres no aporta nada sobre la emoción del personaje, y la pista está en la imagen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la tira cómica la imagen es un sistema de información tan importante como el texto. Una cara de alarma, un objeto fuera de lugar o una postura rígida permiten entender la situación en el primer cuadro, sin leer una sola palabra. Reconocer que el dibujo comunica por sí mismo evita ignorar la mitad del género y mejora la comprensión de lo que ocurre antes de que los personajes hablen.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué comunica esa palabra dentro del bocadillo?",
+      "context": "En el segundo cuadro de la misma tira de Cali, un bocadillo de la abuela contiene la palabra \"¡Pum!\" y el dibujo muestra una olla que se cae de la mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproduce el ruido del golpe en el instante de la caída.",
+          "is_correct": true,
+          "feedback": "La onomatopeya imita el sonido de la caída, y esa es la razón de su presencia en el bocadillo."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que la abuela está pensando y todavía no habla.",
+          "is_correct": false,
+          "feedback": "El silencio se marcaría con puntos suspensivos, y no con una palabra que imita un ruido."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que la escena todavía no ha ocurrido en la historia.",
+          "is_correct": false,
+          "feedback": "La palabra acompaña una caída que ya está ocurriendo, así que marca el momento presente de la escena."
+        },
+        {
+          "letter": "D",
+          "text": "Advierte que el texto está dirigido a un público infantil.",
+          "is_correct": false,
+          "feedback": "El nivel de lenguaje no se deduce de una onomatopeya, y el enunciado no aporta datos sobre el público."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las onomatopeyas son palabras que imitan un sonido, y su función dentro de la tira es hacer más intenso el momento en que ocurre la acción. Al leer \"¡Pum!\" el lector no solo entiende que algo cayó, sino que imagina el ruido y la fuerza del golpe. Este recurso es típico de la historieta y de la tira, y reconocerlo ayuda a captar el ritmo rápido con el que se cuentan las escenas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué versión del género sirve mejor para ese propósito?",
+      "context": "En el taller de Cartagena, un equipo de sexto grado quiere contar lo que les pasa a los estudiantes cuando pierden el uniforme en la semana de evaluaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un editorial que defienda una postura sobre el uniforme con datos del colegio.",
+          "is_correct": false,
+          "feedback": "El editorial defiende una postura institucional, y no sirve para contar con humor una anécdota cotidiana."
+        },
+        {
+          "letter": "B",
+          "text": "Una crónica que narre el episodio en orden cronológico y con datos verificados.",
+          "is_correct": false,
+          "feedback": "La crónica organiza hechos y aporta datos, pero aquí no hay un hecho público que registrar, sino una situación del día a día."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto científico divulgativo que explique qué tela se usa en los uniformes.",
+          "is_correct": false,
+          "feedback": "Explicar la tela del uniforme responde a una curiosidad informativa, y no a la intención de narrar una anécdota."
+        },
+        {
+          "letter": "D",
+          "text": "Una tira cómica con dibujos y diálogos cortos.",
+          "is_correct": true,
+          "feedback": "La tira cuenta con brevedad, con imagen y con humor, y esa combinación funciona muy bien en una anécdota cotidiana."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir un género significa decidir qué efecto se quiere conseguir con el texto. Una anécdota cotidiana, contada con humor y en pocas viñetas, tiene su mejor vehículo en la tira cómica, porque el dibujo muestra la situación y el diálogo la resume. El editorial, la crónica y el texto de divulgación responden a otros propósitos, y emplearlos aquí sería forzar el género.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué frase del bocadillo encaja con lo que el dibujo ya mostró?",
+      "context": "En la tira impresa en Medellín, el tercer cuadro muestra una puerta mojada y un charco en el piso del corredor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Hoy voy a llegar temprano\", porque avisa sobre la hora de llegada a la casa.",
+          "is_correct": false,
+          "feedback": "La frase habla de la hora, y el dibujo muestra un piso mojado, así que no corresponde con la escena."
+        },
+        {
+          "letter": "B",
+          "text": "\"¡Otra vez te pasaste!\", porque el dueño responde al charco que acaba de ver.",
+          "is_correct": true,
+          "feedback": "El charco ya está en el dibujo, y la frase del dueño confirma y denuncia ese hecho desde el diálogo."
+        },
+        {
+          "letter": "C",
+          "text": "\"Este pasillo siempre está oscuro\", porque comenta la luz del corredor.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona falta de luz, y la imagen no aporta ningún dato sobre la iluminación."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los vecinos discuten mucho\", porque resume la tensión del edificio.",
+          "is_correct": false,
+          "feedback": "El dibujo no muestra a ningún vecino discutiendo, y la frase sería una afirmación sin apoyo en la imagen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la tira, el dibujo y el bocadillo no repiten la misma información: uno muestra y el otro precisa o interpreta. El charco establece el hecho y la frase del dueño añade la mirada del personaje, que acusa, reclama o se disculpa. Buscar la frase que encaja con la imagen enseña a usar el texto como ampliación de lo dibujado, y no como un añadido independiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué indica la raya que va antes de las palabras del niño?",
+      "context": "En el cuarto cuadro de la tira de Barranquilla, el diálogo aparece con una raya delante: \"No, ¡esa no es mi cuaderno!\" y el niño señala una mochila abierta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el niño está contando algo que ocurrió en el pasado.",
+          "is_correct": false,
+          "feedback": "La raya no marca tiempo verbal, y el enunciado no aporta ningún indicio de que la escena sea pasada."
+        },
+        {
+          "letter": "B",
+          "text": "Que la frase fue escrita por quien dibuja la viñeta.",
+          "is_correct": false,
+          "feedback": "La raya señala la voz del personaje, y no la intervención de quien dibuja en el cuadro."
+        },
+        {
+          "letter": "C",
+          "text": "Que esas palabras las pronuncia un personaje y no el narrador.",
+          "is_correct": true,
+          "feedback": "La raya introduce el diálogo directo, y su función es separar la voz del personaje de la voz de la narración."
+        },
+        {
+          "letter": "D",
+          "text": "Que la frase es una pregunta que el niño le hace a su compañero.",
+          "is_correct": false,
+          "feedback": "La frase es una negación acompañada de una exclamación, y la raya no convierte ninguna oración en interrogación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las rayas que preceden una frase indican que esas palabras las dice un personaje, y esa marca separa la voz del diálogo de la voz de la narración. En una historieta la distinción es esencial, porque el narrador cuenta y el personaje conversa, y confundir ambos niveles lleva a atribuir a alguien una frase que no dijo. Reconocer la marca también permite leer la intención de cada intervención, sea una negación, una orden o una exclamación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué información aporta el dibujo que el bocadillo no expresa?",
+      "context": "En una viñeta de Bucaramanga, el dibujo enseña a una niña contando billetes de cinco mil pesos sobre una mesa, mientras el bocadillo dice: \"¡Otra vez te pasaste!\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra la situación concreta: el dinero contado y la postura de los dos personajes.",
+          "is_correct": true,
+          "feedback": "La imagen ubica la escena y muestra el objeto que causa el reclamo, datos que el bocadillo no detalla."
+        },
+        {
+          "letter": "B",
+          "text": "Corrige la ortografía de los nombres de los personajes.",
+          "is_correct": false,
+          "feedback": "El dibujo no escribe nombres, y la ortografía es un asunto del texto y no de la imagen."
+        },
+        {
+          "letter": "C",
+          "text": "Repite el mismo reclamo, porque las dos vías de la tira dicen lo mismo.",
+          "is_correct": false,
+          "feedback": "El reclamo solo está en la frase, y el dibujo no dice que la niña se haya pasado de la cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "Añade el nombre del local donde ocurre la escena.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona ningún local, y el dibujo no incluye ningún rótulo con ese dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la tira, imagen y texto ocupan niveles distintos de una misma escena. El bocadillo aporta la voz y el reclamo, mientras el dibujo aporta el espacio, los objetos y la postura de los personajes, y por eso se complementan sin repetirse. Cuando el lector separa esos dos niveles, la viñeta se entiende mejor y también puede explicar por qué el chiste le resulta gracioso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué rasgo comparte esa tira con el cuento corto?",
+      "context": "En la biblioteca de Pereira, un grupo de sexto grado compara una tira de tres cuadros sobre un panadero que amanece sin pan con un cuento corto infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos se escriben solo con oraciones largas y sin dibujos.",
+          "is_correct": false,
+          "feedback": "La tira se apoya en dibujos, y esa es justamente una diferencia esencial con el cuento."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos terminan con una moraleja escrita por el autor.",
+          "is_correct": false,
+          "feedback": "La tira cierra con un chiste o con una situación, y no necesariamente con una enseñanza explícita."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos fueron publicados en un periódico el mismo día.",
+          "is_correct": false,
+          "feedback": "El lugar y la fecha de publicación son datos externos, y no un rasgo del género."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos tienen personajes, una secuencia de hechos y un desenlace.",
+          "is_correct": true,
+          "feedback": "Personajes, secuencia y desenlace son los tres elementos que comparten la tira y el cuento corto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tira cómica y el cuento corto comparten la estructura mínima de cualquier narración: alguien quiere algo, se le presenta un obstáculo y la escena termina de una manera. Lo que cambia es la extensión y la presencia del dibujo, no el hecho de contar una historia. Comparar los dos géneros desde esos rasgos comunes ayuda a ver que la viñeta también es narrativa, aunque sea muy breve.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce esa frase en el contexto de la viñeta?",
+      "context": "En una tira de Bogotá, un personaje dice \"¡Excelente servicio!\" mientras el dibujo muestra un plato vacío y al mesero de espaldas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sarcasmo dirigido al mesero, que aparece de espaldas en el dibujo.",
+          "is_correct": false,
+          "feedback": "El sarcasmo necesita un tono de desprecio ausente, y lo que produce la gracia aquí es la contradicción."
+        },
+        {
+          "letter": "B",
+          "text": "Ironía, porque dice lo contrario de lo que el dibujo enseña.",
+          "is_correct": true,
+          "feedback": "La frase elogia un servicio que el dibujo muestra como un desastre, y esa contradicción es ironía."
+        },
+        {
+          "letter": "C",
+          "text": "Advertencia, porque el servicio del restaurante está por mejorar.",
+          "is_correct": false,
+          "feedback": "Una advertencia deja al lector una recomendación práctica, y la viñeta no busca corregir a nadie."
+        },
+        {
+          "letter": "D",
+          "text": "Literalidad, porque describe exactamente lo que ocurre en la cocina.",
+          "is_correct": false,
+          "feedback": "La viñeta no muestra un buen servicio, y por eso la frase no puede leerse de manera literal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ironía aparece cuando el texto afirma algo que la imagen se encarga de desmentir. En esta viñeta, la frase elogiosa convive con un plato vacío, y esa contradicción es lo que produce la gracia. Reconocer el mecanismo irónico ayuda a no leer la tira de manera literal y a explicar por qué un enunciado que parece positivo termina causando el efecto contrario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evidencia mostraría mejor que el primer grupo comprendió el género?",
+      "context": "En la exposición de trabajos de grado 6 de Armenia, dos grupos presentan tiras sobre el cuidado del agua en sus barrios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la tira tiene tres cuadros y cuatro colores.",
+          "is_correct": false,
+          "feedback": "Contar cuadros y colores mide el tamaño de la tira, y no su comprensión del género."
+        },
+        {
+          "letter": "B",
+          "text": "Que la tira se imprimió en el colegio y se repartió a los compañeros.",
+          "is_correct": false,
+          "feedback": "La impresión es un trámite de la exposición, y no aporta evidencia de comprensión."
+        },
+        {
+          "letter": "C",
+          "text": "Que el grupo explica qué aporta el dibujo y qué aporta el texto en cada cuadro.",
+          "is_correct": true,
+          "feedback": "Explicar el papel de cada vía de la tira demuestra que entendió cómo funciona el género."
+        },
+        {
+          "letter": "D",
+          "text": "Que el título de la tira tiene varios signos de exclamación.",
+          "is_correct": false,
+          "feedback": "La puntuación del título es un detalle formal, y no dice nada sobre lo que el grupo entendió."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la comprensión de un género exige mirar las decisiones del grupo y no las cantidades. Si explica qué función cumple el dibujo y cuál cumple el bocadillo, está diciendo que entendió que la tira funciona con dos códigos al mismo tiempo. Contar cuadros, comprobar la impresión o medir la puntuación del título solo dan cuenta de aspectos formales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué observación describe mejor la relación entre los dos textos?",
+      "context": "En la semana 31, una tira de Bogotá muestra el aumento de buses saturados en hora pico, y en la misma página aparece una noticia que informa sobre ese mismo servicio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tira explica con humor algo que la noticia solo informa.",
+          "is_correct": true,
+          "feedback": "El tono humorístico es propio de la tira, y por eso el mismo hecho se comprende de otra manera."
+        },
+        {
+          "letter": "B",
+          "text": "La tira y la noticia cuentan el hecho con el mismo tono.",
+          "is_correct": false,
+          "feedback": "La noticia usa un tono informativo y la tira uno humorístico, y por eso no coinciden."
+        },
+        {
+          "letter": "C",
+          "text": "La tira ofrece los mismos datos exactos que la noticia.",
+          "is_correct": false,
+          "feedback": "La tira no busca precisión informativa, y esa es una diferencia clara con la noticia."
+        },
+        {
+          "letter": "D",
+          "text": "La tira reemplaza a la noticia en los temas de interés público.",
+          "is_correct": false,
+          "feedback": "La tira pertenece al entretenimiento, y no sustituye la información verificada de un periódico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar la tira con la noticia sobre un mismo asunto muestra qué aporta cada género. La noticia informa con datos y fuentes, mientras la tira toma ese hecho y lo cuenta con humor, con pocas viñetas y con un dibujo que lo resume. Entender esa diferencia evita pedirle a la tira la precisión de una noticia y explica por qué un mismo tema produce efectos distintos según el género elegido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

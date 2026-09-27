@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-6-subject-lectura_critica",
+    "generated_at": "2026-09-27T23:35:19.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v1",
+      "statement": "¿Qué función cumple esa primera oración?",
+      "context": "En la página de opinión de un diario de Medellín, el editorial abre con la frase: \"El aumento de los buses de las rutas escolares benefició a miles de estudiantes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuenta los gastos de la municipalidad del año.",
+          "is_correct": false,
+          "feedback": "La frase no habla de gastos, y su función no es mostrar cuentas de la administración."
+        },
+        {
+          "letter": "B",
+          "text": "Narra la biografía del director del periódico.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona al director, y la frase no presenta datos biográficos."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta la postura que se defenderá en todo el texto.",
+          "is_correct": true,
+          "feedback": "La primera oración enuncia la postura del medio, y el resto del editorial la sostiene con razones."
+        },
+        {
+          "letter": "D",
+          "text": "Publica los resultados de una encuesta nacional.",
+          "is_correct": false,
+          "feedback": "La frase no cita porcentajes, y por eso no funciona como informe de encuesta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El editorial es la opinión institucional de un medio de comunicación, y por eso empieza enunciando una postura. Esa primera oración funciona como tesis, y el resto del texto se dedica a sostenerla con razones. Reconocer la tesis desde el primer párrafo ayuda a seguir la lectura sabiendo qué se defiende en cada línea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v2",
+      "statement": "¿Qué indica la palabra \"conviene\" en esa oración?",
+      "context": "En un editorial de Cali aparece la frase: \"En esta ciudad no conviene cerrar las bibliotecas el fin de semana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la medida sería más conveniente que mantenerlas abiertas.",
+          "is_correct": true,
+          "feedback": "El uso de \"conviene\" expresa un consejo, y eso convierte la oración en una recomendación."
+        },
+        {
+          "letter": "B",
+          "text": "Que la medida ya fue aprobada por el municipio.",
+          "is_correct": false,
+          "feedback": "La palabra no informa de una decisión tomada, y la oración sigue siendo un juicio."
+        },
+        {
+          "letter": "C",
+          "text": "Que las bibliotecas de Cali ya están cerradas los domingos.",
+          "is_correct": false,
+          "feedback": "La frase se refiere a una posibilidad, y no a una situación que el texto confirme."
+        },
+        {
+          "letter": "D",
+          "text": "Que el costo de la medida ya fue calculado.",
+          "is_correct": false,
+          "feedback": "El editorial no menciona cifras, y la palabra no se ocupa de los gastos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Algunas palabras del editorial tienen un valor orientativo, porque recomiendan sin informar que algo ya haya ocurrido. Entender que un verbo como \"conviene\" propone y no informa evita confundir un consejo con una decisión tomada. Esa distinción mantiene clara la diferencia entre la opinión del medio y los hechos registrados en las noticias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v3",
+      "statement": "¿Qué género sirve mejor para esa consigna?",
+      "context": "En el taller de Bogotá, la consigna dice: \"defienda en un texto la importancia de contratar el transporte escolar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tira cómica, porque el dibujo hace creíble la postura.",
+          "is_correct": false,
+          "feedback": "La tira cuenta con humor, y esa no es la vía para defender una postura pública."
+        },
+        {
+          "letter": "B",
+          "text": "La adivinanza rimada, porque expone ideas con ritmo.",
+          "is_correct": false,
+          "feedback": "La adivinanza es un juego de palabras, y no un texto para sostener una postura."
+        },
+        {
+          "letter": "C",
+          "text": "La crónica, porque cuenta hechos en orden cronológico.",
+          "is_correct": false,
+          "feedback": "La crónica narra lo que ocurrió, y no se ocupa de defender una postura con argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "El editorial, porque defender una postura pública con razones es su función.",
+          "is_correct": true,
+          "feedback": "El editorial existe para sostener una postura institucional sobre un asunto de interés público."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir un género es decidir qué efecto produce el texto. Cuando la consigna pide defender una postura sobre un asunto público con razones, el género adecuado es el editorial. La crónica cuenta hechos, la tira hace reír y la adivinanza entretiene, y ninguna de las tres defiende una postura institucional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v4",
+      "statement": "¿Qué elemento del texto cumple el papel de tesis?",
+      "context": "Un editorial de Pereira sobre el transporte escolar abre con la frase: \"La ampliación de rutas escolares debe continuar sin bajar su frecuencia\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del diario, porque identifica al medio que escribe.",
+          "is_correct": false,
+          "feedback": "El nombre del diario identifica al medio, y no enuncia lo que se defiende sobre el asunto."
+        },
+        {
+          "letter": "B",
+          "text": "La primera oración, porque enuncia lo que el medio propone.",
+          "is_correct": true,
+          "feedback": "La primera oración enuncia una conducta que debe cumplirse, y ese es el papel de la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la ciudad, porque sitúa el tema del texto.",
+          "is_correct": false,
+          "feedback": "El nombre de la ciudad da un dato de lugar, y no expresa una posición que el texto sostenga."
+        },
+        {
+          "letter": "D",
+          "text": "La fecha de publicación, porque indica cuándo se escribió.",
+          "is_correct": false,
+          "feedback": "La fecha es un dato externo, y no una afirmación que el editorial quiera sostener."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis de un editorial se reconoce porque propone y no porque describe. Cuando la primera oración dice que algo debe hacerse, el texto abre con su postura y el resto trabaja para sostenerla. Distinguir una propuesta de una descripción ayuda a no perder el hilo de un texto que parece narrar, pero en realidad defiende una idea.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v5",
+      "statement": "¿Qué estructura sintáctica se usa en esa oración?",
+      "context": "En un editorial de Barranquilla se lee: \"La medida no solo mejora el tiempo de los estudiantes, sino que también reduce el costo del pasaje\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una enumeración de nombres propios en una sola fila.",
+          "is_correct": false,
+          "feedback": "La oración no enumera nombres de personas, y su estructura se basa en dos efectos."
+        },
+        {
+          "letter": "B",
+          "text": "Una condición planteada con la palabra \"si\".",
+          "is_correct": false,
+          "feedback": "No hay condición en el texto, porque la frase afirma dos efectos sin suponer nada."
+        },
+        {
+          "letter": "C",
+          "text": "Una correlación entre dos efectos que se refuerzan.",
+          "is_correct": true,
+          "feedback": "La pareja \"no solo... sino también\" suma efectos, y por eso las dos partes se refuerzan."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de causa con la palabra \"porque\".",
+          "is_correct": false,
+          "feedback": "La palabra \"porque\" no aparece en el texto, y por eso no hay relación de causa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las estructuras correlativas como \"no solo... sino también\" unen dos elementos que se refuerzan entre sí. En este caso, la primera ventaja se completa con una segunda, y así el argumento se vuelve más fuerte. Reconocer esa relación sintáctica muestra que el editorial no da dos ideas sueltas, sino que acumula razones en favor de su postura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se apoya el segundo párrafo en el tercero?",
+      "context": "En un editorial de Bogotá, el segundo párrafo acusa a la administración de reducir las rutas y el tercero presenta tres cifras sobre el tiempo de viaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acusación queda más firme con las cifras que la siguen.",
+          "is_correct": true,
+          "feedback": "Los datos cuantificables respaldan la acusación anterior, y así el argumento gana fuerza."
+        },
+        {
+          "letter": "B",
+          "text": "Las cifras sustituyen la postura que el editorial defiende.",
+          "is_correct": false,
+          "feedback": "El editorial mantiene su postura, y las cifras solo sirven para sostenerla."
+        },
+        {
+          "letter": "C",
+          "text": "Las cifras anuncian un tema nuevo, sin relación con el texto.",
+          "is_correct": false,
+          "feedback": "Los tres datos versan sobre el mismo asunto, y por eso conectan con el párrafo anterior."
+        },
+        {
+          "letter": "D",
+          "text": "La acusación se contradice con las cifras del tercer párrafo.",
+          "is_correct": false,
+          "feedback": "El tercer párrafo no desmiente lo dicho, y su función es reforzar la afirmación anterior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un editorial bien construido hace que los datos sostengan la postura en lugar de quedar sueltos. En este caso, la acusación del segundo párrafo gana fuerza cuando el tercero ofrece cifras sobre el tiempo de viaje. Reconocer ese vínculo entre párrafos evita leer los datos como información aislada y permite evaluar la solidez del argumento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v7",
+      "statement": "¿Qué diferencia entre los dos textos se puede observar?",
+      "context": "En la clase de Cali, un grupo compara un editorial sobre el transporte escolar con un artículo de opinión firmado por un maestro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos se publican en la sección de deportes del diario.",
+          "is_correct": false,
+          "feedback": "La sección depende del tema tratado, y el enunciado no señala que sea la de deportes."
+        },
+        {
+          "letter": "B",
+          "text": "El editorial carece de firma y el artículo lo firma el diario completo.",
+          "is_correct": false,
+          "feedback": "Es al revés: el editorial es anónimo y el artículo lo firma su autor, que es quien escribe."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos usan la misma persona para hablar.",
+          "is_correct": false,
+          "feedback": "El editorial no usa la primera persona, y su voz es la del medio de comunicación."
+        },
+        {
+          "letter": "D",
+          "text": "El editorial habla en nombre del medio y el artículo en nombre de una persona.",
+          "is_correct": true,
+          "feedback": "La voz institucional y la voz personal es la diferencia que separa las dos clases de columna."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El editorial y el artículo de opinión defienden posiciones, pero lo hacen con voces distintas. En el editorial habla el medio de comunicación, sin firma personal, y en el artículo firma una persona que expone su opinión. Saber quién habla permite interpretar los argumentos con la distancia correcta y valorar el peso de cada columna.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene el cuantificador \"casi\" en esa afirmación?",
+      "context": "En un editorial de Bogotá, una frase afirma que \"casi todos los estudiantes del barrio llegaron tarde el lunes pasado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el dato en una cifra exacta y verificada.",
+          "is_correct": false,
+          "feedback": "Al agregar una salvedad, el texto pierde la exactitud, y no gana precisión."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta el dato como una aproximación, y no como un total exacto.",
+          "is_correct": true,
+          "feedback": "El cuantificador acota la afirmación, y por eso el dato se lee como una estimación."
+        },
+        {
+          "letter": "C",
+          "text": "Anula por completo el valor de la afirmación.",
+          "is_correct": false,
+          "feedback": "El cuantificador limita el alcance, pero no deja sin valor lo que el texto afirma."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la afirmación en una frase de la crónica.",
+          "is_correct": false,
+          "feedback": "El género no depende de una sola palabra, y el enunciado no habla de ningún partido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cuantificadores como \"casi\" limitan el alcance de una afirmación y la presentan como aproximada. Quien los ignora puede creer que el texto demostró un total exacto, y esa es una lectura equivocada. Reconocer su función permite valorar con más precisión la fuerza que tiene cada dato dentro del editorial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v9",
+      "statement": "¿Qué pregunta evalúa mejor la calidad de ese argumento?",
+      "context": "Un editorial de Pereira afirma que reducir las rutas escolares aumenta el tiempo de viaje de los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿El editorial usa un título corto y visible?",
+          "is_correct": false,
+          "feedback": "El título es un recurso de presentación, y no dice nada sobre la fuerza del argumento."
+        },
+        {
+          "letter": "B",
+          "text": "¿El editorial tiene al menos cuatro párrafos?",
+          "is_correct": false,
+          "feedback": "Contar párrafos mide la extensión del texto, y no la calidad de sus razones."
+        },
+        {
+          "letter": "C",
+          "text": "¿El texto muestra con datos que esa reducción causa el aumento del tiempo de viaje?",
+          "is_correct": true,
+          "feedback": "La pregunta indaga el respaldo del juicio, que es lo que separa una tesis sólida de una simple opinión."
+        },
+        {
+          "letter": "D",
+          "text": "¿La palabra \"rutas\" aparece más de dos veces en el texto?",
+          "is_correct": false,
+          "feedback": "Contar palabras mide la repetición de un término, y no el apoyo que tiene la tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un editorial implica preguntar si los datos que presenta sostienen la relación que el texto afirma. Si el texto dice que reducir las rutas causa un problema, debe mostrar la evidencia de esa causa y no solo enunciarla. Cuando la afirmación no tiene respaldo, se convierte en una postura que el lector no puede verificar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evidencia mostraría mejor que el grupo comprendió el género?",
+      "context": "En Pereira, un grupo compara dos editoriales sobre el mismo asunto, publicados por periódicos distintos en la semana 33.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el grupo explica qué papel cumplen la tesis y los datos en cada texto.",
+          "is_correct": true,
+          "feedback": "Explicar el papel de cada componente revela que entendió cómo se construye el género."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dos editoriales tienen el mismo número de párrafos.",
+          "is_correct": false,
+          "feedback": "La igualdad de estructura formal no demuestra comprensión, porque es un dato accidental."
+        },
+        {
+          "letter": "C",
+          "text": "Que los dos editoriales citan el mismo nombre de municipio.",
+          "is_correct": false,
+          "feedback": "Nombrar el municipio es un dato del asunto, y no una evidencia de comprensión del género."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dos textos ocupan la página principal del diario.",
+          "is_correct": false,
+          "feedback": "La página depende de la distribución del diario, y no del dominio del género."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Demostrar comprensión de un género implica explicar cómo se construye, y no solamente reconocer su nombre. En el editorial, esa construcción combina una tesis clara con datos que la sostienen. Comparar dos textos sobre el mismo asunto revela que el género depende de esa estructura y no del medio donde se publica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
