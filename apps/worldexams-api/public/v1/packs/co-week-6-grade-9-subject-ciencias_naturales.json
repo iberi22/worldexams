@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-6-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T05:30:31.983Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v1",
+      "statement": "Una bola desciende por un tobogán desde una altura y, al llegar abajo, empuja a otro niño. ¿Qué formas de energía están presentes en esa situación?",
+      "context": "En la clase de física de un colegio de Bogotá, la profesora escribe en el tablero el nombre de varias formas de energía y pide a los estudiantes que asocien cada una con un ejemplo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía potencial por la altura, energía cinética durante la bajada y energía cinética transferida al segundo niño",
+          "is_correct": true,
+          "feedback": "Correcto. A lo alto de la rampa la energía está almacenada como potencial y se convierte en energía de movimiento al descender, que luego se transfiere."
+        },
+        {
+          "letter": "B",
+          "text": "Solo energía térmica, porque cualquier movimiento produce calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento no genera únicamente calor, y durante la bajada predomina la energía cinética por la altura y el peso."
+        },
+        {
+          "letter": "C",
+          "text": "Solo energía luminosa, porque el niño puede ver la bola mientras baja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poder ver un objeto requiere luz reflejada, pero esa energía no es la que describe el movimiento de la bola."
+        },
+        {
+          "letter": "D",
+          "text": "Solo energía eléctrica, porque el tobogán funciona con un motor en la base",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un tobogán de uso cotidiano no necesita motor y la energía de la bola proviene de la altura inicial y de su peso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía potencial depende de la altura y de la masa del cuerpo, y se convierte en energía cinética a medida que este desciende. Cuando la bola golpea al segundo niño, parte de esa energía de movimiento pasa a él, y una porción se disipa en calor y sonido. La energía no desaparece: cambia de forma en cada transferencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v2",
+      "statement": "Una misma masa se coloca a distinta altura sobre una rampa. ¿Qué ocurre con su energía potencial gravitatoria al aumentar la altura?",
+      "context": "En el taller de física de Medellín, el profesor coloca una pesa encima de una mesa y la eleva con una rampa para mostrar cómo cambia su energía almacenada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye, porque la distancia al suelo se reduce al subir la masa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al subir la masa aumenta la distancia al suelo, de modo que la energía potencial almacenada se incrementa y no se reduce."
+        },
+        {
+          "letter": "B",
+          "text": "No cambia, porque la energía potencial depende solo de la masa del cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía potencial depende de la masa y también de la altura, por lo que subir el cuerpo sí modifica su valor."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta, porque depende del producto de la masa, la gravedad y la altura",
+          "is_correct": true,
+          "feedback": "Correcto. Con la relación de energía potencial igual a masa por gravedad por altura, al aumentar la altura se almacena más energía."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta, porque al subir la masa aumenta su velocidad y por eso tiene más energía cinética",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cuerpo en reposo no tiene energía cinética, de modo que el incremento se explica por la altura y no por la velocidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía potencial gravitacional se almacena en la relación entre un cuerpo y la Tierra, y depende de la masa, de la gravedad y de la altura respecto al nivel de referencia. Si la masa permanece igual y sube por la rampa, su energía potencial aumenta, aunque en ese instante no se mueva y por tanto no tenga energía cinética.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v3",
+      "statement": "Una pelota rueda sobre el concreto de una cancha y, tras varias vueltas, se detiene. ¿En qué forma de energía se convirtió la energía que tenía al moverse?",
+      "context": "En la clase de física de Cali, la profesora pregunta por qué el suelo de una cancha se siente caliente se siente caliente al final de la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En energía potencial, porque al detenerse la pelota ganó altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pelota no gana altura al rodar, y al detenerse no recupera energía potencial sino que la va perdiendo."
+        },
+        {
+          "letter": "B",
+          "text": "En energía química, porque la fricción alimentó un proceso biológico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción no produce procesos biológicos, de modo que la energía del movimiento no se convierte en energía química."
+        },
+        {
+          "letter": "C",
+          "text": "En energía eléctrica, porque el rozamiento genera corriente en el concreto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rozamiento produce calor y no corriente eléctrica, por lo que esa conversión no ocurre en esta situación."
+        },
+        {
+          "letter": "D",
+          "text": "En energía térmica, porque la fricción disipa parte de la energía de movimiento como calor",
+          "is_correct": true,
+          "feedback": "Correcto. La fricción entre la pelota y el concreto transforma energía cinética en energía térmica, que calienta las superficies en contacto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El rozamiento entre dos superficies que se desplazan una respecto de la otra convierte energía mecánica en energía térmica. Por eso las piezas que se calientan al frotarse y por eso una pelota pierde rapidez poco a poco al rodar. La energía no se pierde: se disipa en forma de calor que calienta la pelota y el suelo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v4",
+      "statement": "Un cuerpo de 2 kilogramos se mueve a 5 metros por segundo. Si se toma la relación de energía cinética igual a un medio de la masa por la velocidad al cuadrado, ¿cuál es su energía cinética?",
+      "context": "En el taller de física de Pereira, el profesor da al grupo los datos de un cuerpo en movimiento y les pide calcular su energía cinética.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado corresponde a multiplicar la masa por la velocidad sin elevar la velocidad al cuadrado, lo que no corresponde a la relación dada."
+        },
+        {
+          "letter": "B",
+          "text": "10 joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado de dividir la velocidad entre la masa no corresponde a la relación de energía cinética, que exige elevar la velocidad al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "20 joules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al elevar la velocidad al cuadrado se obtiene 25, de modo que la energía cinética es mayor que 20 joules."
+        },
+        {
+          "letter": "D",
+          "text": "25 joules",
+          "is_correct": true,
+          "feedback": "Correcto. Al elevar la velocidad al cuadrado se obtiene 25 y al multiplicar por la masa se llega a 50; la mitad de ese valor da 25 joules."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La energía cinética depende de manera cuadrática de la rapidez, de modo que doblar la velocidad cuadruplica la energía. Al aplicar la relación con los datos del problema, la velocidad al cuadrado es 25, el producto por la masa es 50 y la mitad de ese resultado son 25 joules. Esa dependencia fuerte explica por qué un choque a gran rapidez libera tanta energía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v5",
+      "statement": "Una olla sobre la estufa se calienta por abajo y el interior de la leche también se calienta. ¿Qué transformación de energía explica ese fenómeno?",
+      "context": "En la casa de una familia de Bogotá, el padre explica a su hija por qué la olla se calienta cuando hierve la leche para el desayuno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De energía térmica a energía eléctrica, porque la estufa necesita corriente para funcionar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estufa transforma energía química del gas o eléctrica en térmica, y la corriente no es la fuente del calor transmitido."
+        },
+        {
+          "letter": "B",
+          "text": "De energía química a energía térmica, y luego por conducción hacia el interior",
+          "is_correct": true,
+          "feedback": "Correcto. La combustión del gas libera energía química que se convierte en térmica y, por conducción, calienta el fondo, la olla y la leche."
+        },
+        {
+          "letter": "C",
+          "text": "De energía luminosa a energía térmica, porque la llama ilumina la cocina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La llama sí emite luz, pero el calentamiento de la leche se debe a la energía térmica transmitida por contacto."
+        },
+        {
+          "letter": "D",
+          "text": "De energía potencial a energía térmica, porque la olla está a cierta altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura de la olla no aporta energía potencial que se transforme, porque la energía proviene de la combustión del gas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una estufa de gas transforma la energía química almacenada en el combustible en energía térmica. Esa energía calienta el fondo de la olla y pasa al interior por conducción, calentando la leche. Ninguna transformación crea ni destruye energía: solo la cambia de forma y la transfiere de un cuerpo a otro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v6",
+      "statement": "Las plantas convierten la luz del sol en energía utilizable por los seres vivos. ¿Qué transformación de energía ocurre principalmente en la fotosíntesis?",
+      "context": "En la clase de biología y física de Bucaramanga, la profesora conecta el tema de la fotosíntesis con la producción de alimentos en el mercado de Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De energía cinética a energía potencial almacenada en los enlaces de los azúcares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no aprovechan la energía cinética, sino la radiación luminosa que les llega del sol."
+        },
+        {
+          "letter": "B",
+          "text": "De energía potencial a energía luminosa, porque la planta emite luz al hacer la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis no se basa en emitir luz, sino en captarla, y la energía resultante queda almacenada en las moléculas orgánicas."
+        },
+        {
+          "letter": "C",
+          "text": "De energía nuclear a energía química, porque la planta usa la energía del núcleo del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía que llega del sol es radiación luminosa producida en su núcleo, y no una energía nuclear que la planta pueda usar directamente."
+        },
+        {
+          "letter": "D",
+          "text": "De energía luminosa a energía química, almacenada en los enlaces de los azúcares",
+          "is_correct": true,
+          "feedback": "Correcto. La absorbed luz se convierte en energía química que queda almacenada en la glucosa y, con ella, en la materia orgánica de la planta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La fotosíntesis capta energía luminosa del sol y la almacena como energía química en los enlaces de las moléculas de glucosa. Esa energía pasa luego a los animales que comen las plantas y a los microorganismos que descomponen los restos. Es el primer eslabón de la cadena que alimenta casi toda la vida del planeta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v7",
+      "statement": "Una pelota de ping pong se suelta desde una altura fija y, tras cada rebote, asciende un poco menos. ¿Qué transformación de energía explica que el rebote sea cada vez menor?",
+      "context": "En el trabajo en grupo de la clase de Barranquilla, los estudiantes analizan por qué una pelota de ping pong rebota cada vez menos al soltarla repetidamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía potencial se convierte en energía nuclear durante cada impacto",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el rebote no interviene energía nuclear, y la transformación relevante es entre energía de movimiento, potencial y térmica."
+        },
+        {
+          "letter": "B",
+          "text": "Parte de la energía se disipa en sonido y calor, por eso vuelve menos energía potencial",
+          "is_correct": true,
+          "feedback": "Correcto. Cada impacto devuelve menos altura porque una fracción de la energía se transforma en sonido y calor en el punto de contacto."
+        },
+        {
+          "letter": "C",
+          "text": "La energía luminosa del ambiente se convierte en energía de movimiento en cada rebote",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz del ambiente no es la fuente de la energía del rebote, y la altura alcanzada depende de la energía que se conserva tras el impacto."
+        },
+        {
+          "letter": "D",
+          "text": "La gravedad desaparece después del primer rebote y por eso el ascenso es menor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad sigue actuando durante todo el tiempo, y es precisamente ella la que convierte la energía de movimiento en energía potencial durante el ascenso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En cada rebote, una parte de la energía de movimiento se transforma en sonido, en deformación y sobre todo en calor por la fricción del contacto. Como esa fracción no vuelve a convertirse en energía potencial, la pelota alcanza una altura ligeramente menor. El proceso se repite hasta que la energía disipada es tan grande que el rebote deja de ser visible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v8",
+      "statement": "Un grupo suelta una pelota desde distintas alturas y anota la rapidez con que llega al suelo. ¿Qué observación confirmaría que la energía se conserva durante la caída en el aire?",
+      "context": "En el proyecto de aula de Sincelejo, un grupo registra datos de unjilguero que cae desde alturas distintas y compara sus resultados con los del otro grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la pelota llega al suelo con la misma rapidez sin importar la altura de partida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la rapidez fuera igual desde cualquier altura, la energía no se conservaría, porque una mayor altura implicaría más energía disponible."
+        },
+        {
+          "letter": "B",
+          "text": "Que la pelota llega más rápido cuanto mayor es la altura de partida, pese a la resistencia del aire",
+          "is_correct": true,
+          "feedback": "Correcto. A mayor altura hay más energía potencial disponible, y esa energía se transforma en velocidad a pesar de una pequeña pérdida por rozamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Que la pelota no cambia de rapidez en ningún momento de la caída",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez aumenta de forma continua durante la caída, de modo que esa observación contradice la existencia de una aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "Que la pelota llega al suelo con menos energía de la que tenía al soltarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algo de energía sí se disipa por rozamiento, pero la pérdida es pequeña y no justifica una afirmación de pérdida total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía potencial almacenada por la altura se convierte casi por completo en energía de movimiento al caer. La resistencia del aire disipa una parte pequeña de esa energía, pero la tendencia sigue siendo clara: cuanto mayor es la altura de partida, mayor es la rapidez con que el cuerpo llega al suelo. Esa relación es coherente con la conservación de la energía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v9",
+      "statement": "Un péndulo colgado en el patio de una escuela colombiana se mueve de un lado a otro sin motor. ¿Por qué sigue oscilando si en cada vaivén se disipa un poco de energía?",
+      "context": "En la clase de física de Armenia, la profesora escribe la ley de conservación de la energía y la aplica al caso de un péndulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la energía disipada en cada ciclo es muy pequeña y el sistema mantiene un movimiento oscilante",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser pequeña la pérdida, la amplitud disminuye de manera lenta y el péndulo puede oscilar durante mucho tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el péndulo genera su propia energía para compensar la que pierde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún sistema genera energía por sí mismo, de modo que la amplitud no puede mantenerse por esa razón."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gravedad deja de actuar cuando el péndulo cambia de lado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad actúa de manera continua, y es la que transforma la energía potencial en movimiento y viceversa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la disipación de energía solo ocurre en los motores y no en los péndulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disipación por fricción en el punto de apoyo ocurre en cualquier sistema con movimiento, incluidos los péndulos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de conservación de la energía indica que la energía no se crea ni se destruye, sino que se transforma y se transfiere. En un péndulo, la energía potencial se convierte en energía de movimiento al bajar y vuelve a potencial al subir, mientras el rozamiento en el apoyo disipa una pequeña parte en cada ciclo. Como esa pérdida es reducida, las oscilaciones se mantienen durante largo tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v10",
+      "statement": "Un grupo propone soltar un bloque desde tres alturas distintas de una rampa y registrar la distancia que recorre sobre el piso antes de detenerse. ¿Es pertinente ese experimento y por qué?",
+      "context": "En una actividad de investigación de Rionegro, un grupo diseña una práctica para medir cómo afecta la altura al movimiento de un objeto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es pertinente, porque la altura de partida no cambia la energía disponible del bloque",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura de partida sí determina cuánta energía potencial tiene el bloque antes de moverse."
+        },
+        {
+          "letter": "B",
+          "text": "Es pertinente, pero solo se puede usar si el bloque es de metal muy pesado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material del bloque no es la condición decisiva, y lo importante es mantener iguales la superficie y la masa entre pruebas."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente, pero el dato útil para la energía es el peso y no la distancia recorrida",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia recorrida sí es el dato observable que permite comparar la energía disponible en cada altura."
+        },
+        {
+          "letter": "D",
+          "text": "Es pertinente, porque a mayor altura hay más energía disponible para el bloque",
+          "is_correct": true,
+          "feedback": "Correcto. Como la energía potencial aumenta con la altura, se espera que el bloque llegue más lejos cuanto mayor sea la altura de partida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La energía potencial almacenada depende directamente de la altura, de modo que soltar el bloque desde distintos puntos permite comparar cómo se transforma esa energía en movimiento. Manteniendo la misma superficie de contacto, la distancia recorrida antes de detenerse funciona como indicador de la energía disponible. El experimento es pertinente porque relaciona una variable manipulada, la altura, con un dato observable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v11",
+      "statement": "Una estufa de gas convierte la energía del combustible en energía térmica para cocinar. ¿Qué indicio de su desempeño podría revelar que la conversión es poco eficiente?",
+      "context": "En una visita a una casa de Tunja, un grupo de estudiantes observa cómo funciona una estufa de gas y evalúa su aprovechamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la estufa ofrece varias hornillas para cocinar varios alimentos al mismo tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de hornillas es una característica del diseño del aparato y no mide el aprovechamiento de la energía."
+        },
+        {
+          "letter": "B",
+          "text": "Que una parte apreciable del calor se pierde hacia el aire de la cocina",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando una porción importante de la energía se escapa sin aprovecharse para calentar el alimento, la conversión es poco eficiente."
+        },
+        {
+          "letter": "C",
+          "text": "Que el gas se queme en una llama visible y estable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una llama estable indica que la combustión ocurre de forma continua y no que la energía se desperdicie."
+        },
+        {
+          "letter": "D",
+          "text": "Que la olla se caliente en su parte inferior y no de manera uniforme",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma en que se distribuye el calor dentro de la olla es otra cuestión y no mide la eficiencia de la conversión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La eficiencia de un aparato indica qué fracción de la energía que consume se convierte en la forma útil buscada. En una estufa, si una parte importante del calor se dispersa hacia el aire sin calentar el alimento, la conversión es poco eficiente. Medir el tiempo de cocinado y la cantidad de gas gastada es la manera habitual de estimar esa eficiencia en el hogar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle-v12",
+      "statement": "Un grupo compara calentadores de gas y de electricidad en una vivienda del barrio. ¿Qué criterio es pertinente para valorar cuál conviene en términos de energía?",
+      "context": "En un proyecto escolar de Bogotá, un grupo compara dos formas de obtener agua caliente en una vivienda del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La marca del fabricante, porque garantiza que el aparato sea eficiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marca del fabricante no tiene relación directa con la eficiencia energética de un calentador."
+        },
+        {
+          "letter": "B",
+          "text": "La energía necesaria para calentar una misma cantidad de agua, medida en kilovatios hora",
+          "is_correct": true,
+          "feedback": "Correcto. Comparar el consumo para una misma tarea revela cuál de las dos opciones aprovecha mejor la energía que utiliza."
+        },
+        {
+          "letter": "C",
+          "text": "El color y el material de la carcasa del calentador, porque influye en la transferencia de calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acabado exterior puede influir en algo, pero el dato pertinente para valorar la energía es el consumo medido."
+        },
+        {
+          "letter": "D",
+          "text": "El precio del aparato y el del servicio, porque determinan la energía que consume",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no determina la eficiencia, y se necesita una medición del consumo para comparar las dos opciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar dos alternativas se necesita un criterio medible y comparable. En el caso del agua caliente, el indicador pertinente es la energía eléctrica o el combustible que cada opción consume para calentar una misma cantidad de agua a la misma temperatura. Esa información, expresada en kilovatios hora o en metros cúbicos de gas, es la que permite decidir con fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-9-2026-W06-la-energia-y-sus-transformaciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T05:30:31.972Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál partícula subatómica determina la identidad de un elemento químico, es decir, qué lo distingue de todos los demás elementos?",
+      "context": "En el laboratorio de química de un colegio de Bogotá, la profesora Sally pregunta a sus estudiantes de noveno grado cuál partícula subatómica define la identidad química de un elemento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El protón, porque su cantidad en el núcleo define el número atómico Z",
+          "is_correct": true,
+          "feedback": "Correcto. El número atómico Z indica la cantidad de protones y es el criterio que identifica de manera única a cada elemento en la tabla periódica."
+        },
+        {
+          "letter": "B",
+          "text": "El neutrón, porque aporta la mayor parte de la masa del átomo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El neutrón sí aporta masa, pero cambiar su cantidad produce isótopos del mismo elemento, sin cambiar la identidad química."
+        },
+        {
+          "letter": "C",
+          "text": "El electrón, porque se encuentra en la región más externa del átomo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El electrón puede perderse o ganarse formando iones, por lo que no define la identidad química del átomo."
+        },
+        {
+          "letter": "D",
+          "text": "El positrón, porque se encuentra en el núcleo junto con los protones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El positrón no forma parte de la composición del átomo ordinario y en ningún caso se encuentra en el núcleo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La identidad química de un elemento queda fijada por el número de protones del núcleo, llamado número atómico Z. Si Z cambia, el elemento cambia: por eso el carbono con 6 protones es un elemento distinto al nitrógeno con 7 protones. Cambiar neutrones o electrones no redefine al elemento, sino que produce isótopos o iones del mismo elemento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v2",
+      "statement": "Si un átomo tiene un radio aproximadamente 10.000 veces mayor que el radio de su núcleo, ¿en qué parte del átomo se concentra prácticamente toda su masa?",
+      "context": "Durante una visita guiada al laboratorio de la Universidad de Antioquia en Medellín, un visitante anota en su cuaderno que el núcleo es diminuto y que casi toda la masa del átomo se concentra en él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la nube electrónica que rodea al núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nube electrónica aporta una masa muy pequeña comparada con la del núcleo, porque los electrones tienen una masa mucho menor."
+        },
+        {
+          "letter": "B",
+          "text": "En el núcleo, donde se concentran los protones y los neutrones",
+          "is_correct": true,
+          "feedback": "Correcto. Protones y neutrones tienen masas prácticamente iguales, de modo que el núcleo, pese a su diminuto volumen, reúne casi toda la masa del átomo."
+        },
+        {
+          "letter": "C",
+          "text": "En la capa más externa de los electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La capa externa es la región menos masiva del átomo; su función es definir las propiedades químicas y la reactividad."
+        },
+        {
+          "letter": "D",
+          "text": "Repartida de manera uniforme entre el núcleo y la nube electrónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución de la masa es muy desigual: casi toda se ubica en el núcleo y muy poca en las regiones externas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El átomo es esencialmente espacio vacío. El núcleo, aunque unas 10.000 veces más pequeño que el átomo completo, contiene los protones y los neutrones, que aportan cada uno cerca de una unidad de masa atómica; los electrones tienen una masa unas 1.800 veces menor. Por eso el núcleo concentra prácticamente toda la masa y la nube electrónica casi ninguna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v3",
+      "statement": "En un átomo que se considera neutro, ¿qué relación se cumple entre el número de protones y el número de electrones?",
+      "context": "En el salón de clase de Pereira, la profesora escribe en el tablero que un átomo se considera neutro y pide a los estudiantes que justifiquen esa afirmación con sus propias palabras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay más protones que electrones, porque los protones son más pesados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre protones y electrones es una cuestión de carga y no de masas, y además volvería positivo al átomo."
+        },
+        {
+          "letter": "B",
+          "text": "Hay más electrones que protones, porque los electrones son más ligeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa diferencia generaría una carga negativa, porque la relación entre la masa de las partículas y su cantidad no determina el balance."
+        },
+        {
+          "letter": "C",
+          "text": "Hay tantos protones como electrones, y por eso las cargas se compensan",
+          "is_correct": true,
+          "feedback": "Correcto. Cada protón aporta una carga positiva y cada electrón una negativa, de modo que cantidades iguales se anulan y la carga total es cero."
+        },
+        {
+          "letter": "D",
+          "text": "Hay tantos protones como electrones, pero solo si el átomo es un gas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La neutralidad no depende del estado físico: es una propiedad del átomo y se cumple tanto en sólidos, líquidos como en gases."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La carga positiva total del átomo reside en los protones y la negativa en los electrones. Si hay igual número de ambos, la suma algebraica es cero y el átomo es neutro. Si se ganan o se pierden electrones se forma un ion: perder electrones produce un ion positivo y ganarlos produce un ion negativo, sin que cambie el número de protones del núcleo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v4",
+      "statement": "Un átomo neutro de un elemento con número atómico Z igual a 12 tiene su distribución electrónica en los niveles 2, 8, 2. ¿Cuántos electrones de valencia posee?",
+      "context": "En el laboratorio de Bucaramanga, un estudiante consulta la ficha del magnesio, cuyo número atómico es 12, para completar el cuadro de electrones de valencia de la guía de trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un electrón de valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese conteo corresponde a los elementos del grupo 1, como el sodio con Z igual a 11 y distribución 2, 8, 1."
+        },
+        {
+          "letter": "B",
+          "text": "Seis electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde al carbono con Z igual a 6 y distribución 2, 4, cuya capa externa contiene 4 electrones."
+        },
+        {
+          "letter": "C",
+          "text": "Doce electrones de valencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doce es el número total de electrones del átomo neutro, no el número de electrones de la capa más externa."
+        },
+        {
+          "letter": "D",
+          "text": "Dos electrones de valencia",
+          "is_correct": true,
+          "feedback": "Correcto. En la distribución 2, 8, 2 la capa más externa es la tercera y contiene 2 electrones, que son precisamente los electrones de valencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los electrones de valencia son los de la capa más externa del átomo. Un átomo neutro con Z igual a 12 tiene 12 electrones repartidos como 2, 8, 2, y la última capa contiene 2 electrones. Este dato explica la reactividad del magnesio, que cede con facilidad esos dos electrones para formar un ion con carga 2 positivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v5",
+      "statement": "Un átomo tiene 6 protones y 8 neutrones en su núcleo. ¿Cuál es su número másico, es decir, la suma de protones y neutrones?",
+      "context": "En el taller de química de Cartagena, una estudiante prepara fichas de elementos y necesita calcular el número másico de cada átomo a partir de los datos anotados en el núcleo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6, porque corresponde al número atómico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 6 es el número atómico y cuenta solo los protones, mientras que el número másico debe incluir también los neutrones."
+        },
+        {
+          "letter": "B",
+          "text": "14, porque es la suma de 6 protones y 8 neutrones",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar protones y neutrones, 6 más 8, se obtiene 14, que es el número másico y coincide con el valor aproximado de la masa atómica."
+        },
+        {
+          "letter": "C",
+          "text": "8, porque corresponde al número de neutrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar solo los neutrones ignora los protones y no representa la cantidad total de partículas que ocupan el núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "2, porque es la diferencia entre neutrones y protones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre neutrones y protones indica el tipo de isótopo, no el número másico, que siempre resulta de una suma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El número másico A se obtiene sumando protones y neutrones, que son las partículas que ocupan el núcleo. En este caso A es igual a 6 más 8, es decir 14. El elemento con Z igual a 6 es el carbono, de modo que este átomo es un isótopo del carbono con 8 neutrones, distinto del carbono más común, que tiene 6 neutrones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v6",
+      "statement": "Según el modelo de Bohr, ¿qué ocurre con un electrón cuando el átomo absorbe energía suficiente para llegar a un estado excitado?",
+      "context": "En el aula de Cali, la profesora de ciencias naturales usa una maqueta de capas concéntricas para explicar por qué los electrones de un átomo no se caen sobre el núcleo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pierde su carga negativa y se convierte en neutrón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un electrón no se transforma en neutrón, porque para cambiar de partícula se necesitaría una energía mucho mayor que la absorvida aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Se libera del átomo y se convierte en ion negativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Absorber energía lleva al electrón a una órbita más externa, no a desprenderse del átomo como un anión."
+        },
+        {
+          "letter": "C",
+          "text": "Pasa a un nivel de mayor energía y, al emitirla, regresa a su nivel",
+          "is_correct": true,
+          "feedback": "Correcto. El electrón absorbe energía y salta a un nivel más externo; al volver a su nivel original libera ese exceso como luz o como calor."
+        },
+        {
+          "letter": "D",
+          "text": "Se detiene en el núcleo por la atracción de los protones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo de Bohr sostiene justamente que el electrón no cae al núcleo, porque existen niveles de energía permitidos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el modelo de Bohr los electrones ocupan órbitas de energía bien definida. Un electrón en su estado fundamental no irradia energía; si absorbe una cantidad adecuada, salta a un nivel más externo y queda excitado. Al descender de nuevo a un nivel menor libera el exceso como un fotón, y esa emisión es la base de las líneas características de cada elemento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v7",
+      "statement": "Los espectros de emisión del neón y del helio son distintos. ¿Qué explicación de la teoría atómica es la más adecuada para justificar esa diferencia?",
+      "context": "En el observatorio escolar de Bogotá, un estudiante observa por separado el espectro de luz emitido por un tubo de neón y por otro de helio, y nota que los colores no coinciden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada elemento tiene electrones en niveles distintos y, por tanto, emite líneas de luz características",
+          "is_correct": true,
+          "feedback": "Correcto. Como cada elemento posee una estructura electrónica particular, las transiciones entre sus niveles producen un conjunto de líneas propio que permite identificarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Los núcleos del neón y del helio tienen distinta cantidad de protones y por eso emiten colores distintos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La emisión visible proviene de los electrones y no del núcleo, que solo se ocupa de la diferencia entre ambos átomos."
+        },
+        {
+          "letter": "C",
+          "text": "La luz del neón tiene mayor temperatura que la del helio en las mismas condiciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores de la emisión no dependen de la temperatura del tubo, sino de las energías de transición entre los niveles electrónicos."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los gases nobles emiten el mismo espectro porque tienen su capa externa completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener la capa externa completa los hace poco reactivos, pero cada gas noble tiene una estructura interna distinta y, por ello, un espectro propio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espectro de emisión es la huella digital de un elemento. Como cada átomo tiene una distribución particular de niveles de energía, las transiciones electrónicas posibles son también particulares y generan un conjunto de líneas que permite identificar la sustancia. Este fue uno de los evidencias experimentales que llevó a aceptar el modelo de Bohr.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v8",
+      "statement": "Un ion tiene carga 2 positivo y su elemento tiene número atómico 11. ¿Cuántos electrones tiene ese ion y cuál es la distribución electrónica de esos electrones?",
+      "context": "En el laboratorio de Medellín, un grupo de noveno grado analiza las fórmulas de tres sales que la profesora les entrega para inferir la carga de los iones correspondientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene 13 electrones, porque ganó 2 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un átomo neutro con Z igual a 11 tiene 11 electrones y no 13, pues pasar de 11 a 13 corresponde a otro elemento, el aluminio."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene 8 electrones, porque todos quedaron repartidos en la segunda capa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 9 electrones la distribución es 2, 8, 1, de modo que sí queda un electrón en la tercera capa y ese es el de valencia."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene 9 electrones, y el electrón de valencia está en el tercer nivel",
+          "is_correct": true,
+          "feedback": "Correcto. El ion es el sodio que perdió 2 electrones: de 11 queda con 9, distribuidos como 2, 8, 1, con un electrón de valencia en el tercer nivel."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene 11 electrones, porque la carga positiva solo indica un cambio de signo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga 2 positivo significa que el átomo perdió 2 electrones, mientras que el número de protones del núcleo sigue siendo 11."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un ion positivo se forma cuando el átomo neutro pierde electrones. Si el elemento tiene Z igual a 11, su átomo neutro tiene 11 electrones y al perder 2 le quedan 9, con distribución 2, 8, 1. Esa configuración, con un solo electrón de valencia, explica que el ion sodio sea muy reactivo aunque el número de protones del núcleo no haya cambiado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v9",
+      "statement": "El átomo X tiene 8 protones y 8 neutrones, y el átomo Y tiene 8 protones y 10 neutrones. ¿Cómo se relacionan estos dos átomos entre sí y con la tabla periódica?",
+      "context": "En el trabajo en grupo de la clase de Palmira, cuatro estudiantes comparan las fichas de dos átomos que la profesora entrega para clasificarlos y justificar su respuesta por escrito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son isótopos del mismo elemento y ocupan la misma posición en la tabla",
+          "is_correct": true,
+          "feedback": "Correcto. Al compartir los 8 protones tienen el mismo número atómico, de modo que son el mismo elemento, pero con distinto número de neutrones y masas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Son elementos distintos porque difieren en su número másico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número másico cambia entre los isótopos de un mismo elemento y no es el criterio que define la identidad química."
+        },
+        {
+          "letter": "C",
+          "text": "Son átomos del mismo elemento y por eso tienen igual número másico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de neutrones, 8 frente a 10, hace que sus números másicos sean 16 y 18, así que no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Son átomos neutros del mismo elemento con distinto número de electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia está en los neutrones del núcleo y no en los electrones, porque si cambiara el número de electrones estaríamos hablando de iones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los isótopos son átomos del mismo elemento que se diferencian en el número de neutrones. Como el número atómico depende solo de los protones, ambos átomos ocupan la misma casilla de la tabla periódica, con Z igual a 8, que corresponde al oxígeno. Sus números másicos son distintos, 16 y 18, y por eso tienen masas diferentes aunque se comporten de forma química muy parecida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v10",
+      "statement": "Un modelo afirma que los electrones se mueven alrededor del núcleo describiendo trayectorias definidas, como los planetas alrededor del Sol. ¿Cuál es la limitación principal de ese modelo para explicar la materia?",
+      "context": "En un seminario de iniciación científica en Armenia, un ponente presenta tres modelos históricos del átomo y pide al público que valore cuál resolvió mejor la estabilidad de la materia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No considera que el átomo sea neutro en su conjunto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La neutralidad se deduce de igualar protones y electrones, y no es el punto que este modelo deja sin explicar."
+        },
+        {
+          "letter": "B",
+          "text": "Predice que el electrón debe emitir energía de manera continua al moverse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las trayectorias definidas son justamente la novedad del modelo, porque el electrón no irradia energía mientras se mantiene en su nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Omite la presencia de los neutrones dentro del núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluir o no los neutrones no resuelve el problema de la estabilidad, que está en la relación entre el electrón y la energía que emite."
+        },
+        {
+          "letter": "D",
+          "text": "No ofrece una explicación de las líneas de emisión características de cada elemento",
+          "is_correct": true,
+          "feedback": "Correcto. La emisión de líneas discretas y la estabilidad del átomo quedaban sin explicar, y esos fueron los puntos que motivaron la propuesta de niveles de energía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un modelo científico debe explicar los hechos observados. El modelo de trayectorias definidas resolvió la estabilidad del átomo, pero dejó sin explicación un hecho experimental: cada elemento emite un conjunto discreto de líneas y no un espectro continuo. Bohr respondió a ese problema al proponer que los electrones ocupan niveles de energía cuantizados y que las transiciones entre ellos emiten fotones de energías concretas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v11",
+      "statement": "El póster del equipo afirma lo siguiente: cuando un electrón pierde energía, cae directamente al núcleo y se une a un protón. ¿Cómo debe valorar la profesora esa afirmación?",
+      "context": "En una clase de noveno grado en Montería, un equipo presenta un póster sobre el átomo y la profesora decide evaluar con rigor cada una de las afirmaciones que aparecen en él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque en una transición el electrón se mueve entre niveles y no cae al núcleo",
+          "is_correct": true,
+          "feedback": "Correcto. Los electrones ocupan niveles de energía definidos y saltan entre ellos, de modo que la emisión de energía corresponde a un descenso de nivel."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la pérdida de energía implica siempre el acercamiento al núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perder energía significa ocupar un nivel más interno, pero el electrón nunca se incorpora al núcleo ni se une a un protón."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta solo para átomos de gases nobles con la capa externa completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comportamiento descrito no ocurre en ningún tipo de átomo, y los gases nobles son precisamente los menos reactivos."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque un electrón nunca puede emitir energía bajo ninguna circunstancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El electrón sí emite energía al pasar de un nivel excitado a uno más bajo, y esa emisión es el fundamento de la luz de los átomos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La afirmación mezcla dos ideas que no van juntas. El electrón no cae al núcleo porque los niveles de energía están cuantizados y el estado fundamental es estable. Lo que sí ocurre es que un electrón excitado emite un fotón y pasa a un nivel de menor energía. La explicación correcta respeta la existencia de los niveles, en lugar de suponer una caída continua hacia el centro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle-v12",
+      "statement": "Un grupo propone medir la conductividad eléctrica de soluciones de distintas concentraciones de sal de mesa para deducir cómo se organizan los electrones. ¿Es pertinente ese experimento para poner a prueba el modelo de Bohr y por qué?",
+      "context": "En el laboratorio de química de Neiva, el profesor propone a los grupos diseñar un experimento que permita poner a prueba una predicción sobre la estructura de la materia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es pertinente, porque la conductividad eléctrica no tiene relación alguna con los electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conductividad sí depende de los electrones y de su movilidad, por lo que el experimento resulta pertinente al tema que se estudia."
+        },
+        {
+          "letter": "B",
+          "text": "Es pertinente, porque mide directamente la cantidad de protones del núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un conductímetro mide la facilidad con que se transporta la carga, que depende de los electrones y no de los protones del núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente, porque los iones disociados conducen y eso depende de cómo se pierden o ganan electrones",
+          "is_correct": true,
+          "feedback": "Correcto. Si la sal se disocia en iones, la solución conduce porque hay partículas cargadas móviles, y esa observación es coherente con un átomo que pierde o gana electrones."
+        },
+        {
+          "letter": "D",
+          "text": "Es pertinente, porque la concentración de sal determina la masa del núcleo atómico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concentración de la solución no altera el número de protones ni la masa del núcleo, que son propiedades fijas del elemento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen experimento pone a prueba una predicción del modelo. La conductividad es pertinente porque su explicación requiere partículas cargadas que se muevan en la solución, es decir, iones formados por pérdida o ganancia de electrones. El dato no determina por sí solo la estructura completa del átomo, pero es coherente con la idea de que los electrones pueden desprenderse o incorporarse, y por eso sirve como evidencia dentro de una investigación escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-9-2026-W02-la-estructura-atomica-y-el-modelo-de-bohr-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
