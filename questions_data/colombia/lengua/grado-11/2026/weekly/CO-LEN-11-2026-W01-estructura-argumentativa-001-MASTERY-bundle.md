@@ -86,10 +86,10 @@ En la afirmación anterior, ¿cuál es la premisa que se asume como cierta?
 ### Opciones
 - [ ] A) Las frutas y las verduras son un alimento costoso en el mercado.
   <!-- feedback: Incorrecto. El precio no interviene en el razonamiento que lleva de la alimentación al riesgo cardiovascular. -->
-- [x] B) Las frutas y las verduras tienen un efecto positivo sobre la salud cardiovascular.
-  <!-- feedback: Correcto. Esa afirmación es la base que se toma como cierta para poder concluir algo sobre el riesgo. -->
-- [ ] C) Los estudiantes de once grado deben consumir cinco porciones cada día.
+- [ ] B) Los estudiantes de once grado deben consumir cinco porciones cada día.
   <!-- feedback: Incorrecto. Esa es una recomendación práctica que el texto no usa como fundamento de su afirmación. -->
+- [x] C) Las frutas y las verduras tienen un efecto positivo sobre la salud cardiovascular.
+  <!-- feedback: Correcto. Esa afirmación es la base que se toma como cierta para poder concluir algo sobre el riesgo. -->
 - [ ] D) La evidencia revisada por el equipo fue publicada este mismo año.
   <!-- feedback: Incorrecto. La fecha de publicación pertenece a la fuente citada y no a la premisa del razonamiento. -->
 
@@ -111,12 +111,12 @@ Una premisa es una afirmación que el texto toma como cierta y que no necesita d
 ### Opciones
 - [ ] A) El texto expositivo presenta una tesis y el argumentativo se limita a enumerar datos.
   <!-- feedback: Incorrecto. Invierte los papeles: la tesis pertenece al texto argumentativo y no al expositivo. -->
-- [x] B) El texto expositivo informa de manera objetiva y el argumentativo defiende una posición con razones.
-  <!-- feedback: Correcto. La exposición organiza información; la argumentación busca convencer al lector de algo. -->
-- [ ] C) Ambos cumplen la misma función, pero el argumentativo usa un lenguaje más complejo.
+- [ ] B) Ambos cumplen la misma función, pero el argumentativo usa un lenguaje más complejo.
   <!-- feedback: Incorrecto. La diferencia está en la finalidad y en la estructura, no en la dificultad del lenguaje. -->
-- [ ] D) El argumentativo solo aparece en el género periodístico y el expositivo nunca.
+- [ ] C) El argumentativo solo aparece en el género periodístico y el expositivo nunca.
   <!-- feedback: Incorrecto. Ambos formatos aparecen en muchos géneros, como el periodístico, el académico y el publicitario. -->
+- [x] D) El texto expositivo informa de manera objetiva y el argumentativo defiende una posición con razones.
+  <!-- feedback: Correcto. La exposición organiza información; la argumentación busca convencer al lector de algo. -->
 
 ### Explicacion Pedagogica
 El texto expositivo tiene como propósito informar y organizar información sobre un tema, sin buscar sostener una postura, por lo que su tono suele ser objetivo y neutral. El texto argumentativo, en cambio, propone una tesis y busca persuadir mediante razones. Distinguirlos ayuda a abordar cada uno con la estrategia adecuada: buscar los datos clave o rastrear las razones.
@@ -186,10 +186,10 @@ En un razonamiento breve, las tres piezas centrales se distinguen por su funció
 ### Opciones
 - [ ] A) Los estudiantes del colegio de Bogotá escriben mal.
   <!-- feedback: Incorrecto. El texto no afirma eso: solo sostiene que leer es necesario para aprender a escribir. -->
-- [x] B) Leer todos los días es una condición necesaria para aprender a escribir bien.
-  <!-- feedback: Correcto. Esa afirmación sostiene la conclusión sobre la exigencia de lectura y queda implícita. -->
-- [ ] C) El colegio cuenta con una biblioteca suficientemente dotada.
+- [ ] B) El colegio cuenta con una biblioteca suficientemente dotada.
   <!-- feedback: Incorrecto. Esa condición logística no aparece en el texto ni es necesaria para su razonamiento. -->
+- [x] C) Leer todos los días es una condición necesaria para aprender a escribir bien.
+  <!-- feedback: Correcto. Esa afirmación sostiene la conclusión sobre la exigencia de lectura y queda implícita. -->
 - [ ] D) Las veinte páginas de lectura semanal no tienen ningún costo para las familias.
   <!-- feedback: Incorrecto. El texto no trata de costos y ese aspecto tampoco sostiene su conclusión. -->
 
@@ -213,10 +213,10 @@ Un texto puede apoyarse en premisas que nunca enuncia porque las da por conocida
   <!-- feedback: Incorrecto. Esa afirmación es un dato secundario que apoya el argumento, no el cierre del texto. -->
 - [ ] B) El tiempo de viaje depende del número de vehículos que circulan.
   <!-- feedback: Incorrecto. Esa afirmación no aparece en el fragmento y tampoco se necesita para cerrar el razonamiento. -->
-- [x] C) La inversión en carriles exclusivos se justifica.
-  <!-- feedback: Correcto. El fragmento termina con esa afirmación, que recoge lo expuesto y cierra la argumentación. -->
-- [ ] D) El carril exclusivo es una obra de infraestructura vial.
+- [ ] C) El carril exclusivo es una obra de infraestructura vial.
   <!-- feedback: Incorrecto. Esa es una clasificación del proyecto y no la afirmación que el texto propone como resultado. -->
+- [x] D) La inversión en carriles exclusivos se justifica.
+  <!-- feedback: Correcto. El fragmento termina con esa afirmación, que recoge lo expuesto y cierra la argumentación. -->
 
 ### Explicacion Pedagogica
 La conclusión es la afirmación que el texto pide aceptar al final del desarrollo, y suele aparecer acompañada de conectores como "por tanto" o "en consecuencia". En el fragmento sobre el carril exclusivo de Cali, la inversión se declara justificada a partir de dos razones: el menor tiempo de viaje y la compensación del desgaste. Reconocer el cierre del razonamiento permite separar la propuesta final de los datos que la sostienen.
@@ -234,12 +234,12 @@ La conclusión es la afirmación que el texto pide aceptar al final del desarrol
 ¿Por qué este fragmento no constituye una argumentación?
 
 ### Opciones
-- [ ] A) Porque está escrito en prosa y no en verso.
-  <!-- feedback: Incorrecto. La prosa o el verso son formas de expresión y no determinan si un texto argumenta. -->
-- [ ] B) Porque no emplea un vocabulario difícil.
-  <!-- feedback: Incorrecto. La dificultad del lenguaje no es lo que define a un texto argumentativo. -->
-- [x] C) Porque presenta características de un objeto sin defender ninguna tesis con razones.
+- [x] A) Porque presenta características de un objeto sin defender ninguna tesis con razones.
   <!-- feedback: Correcto. El fragmento solo informa cómo es la biblioteca y no propone ninguna posición que sostenga. -->
+- [ ] B) Porque está escrito en prosa y no en verso.
+  <!-- feedback: Incorrecto. La prosa o el verso son formas de expresión y no determinan si un texto argumenta. -->
+- [ ] C) Porque no emplea un vocabulario difícil.
+  <!-- feedback: Incorrecto. La dificultad del lenguaje no es lo que define a un texto argumentativo. -->
 - [ ] D) Porque no menciona a ninguna persona del colegio.
   <!-- feedback: Incorrecto. La ausencia de nombres propios no impide que un texto pueda ser argumentativo. -->
 
@@ -261,10 +261,10 @@ Un texto es argumentativo cuando afirma algo y ofrece razones para que el lector
 ### Opciones
 - [ ] A) Tesis, conclusión, argumento y premisa.
   <!-- feedback: Incorrecto. Ese orden invierte la lógica interna: nada puede sostenerse antes de contar con su base. -->
-- [ ] B) Premisa, tesis, conclusión y argumento.
-  <!-- feedback: Incorrecto. La tesis no se apoya en la conclusión, porque es la afirmación que el razonamiento quiere demostrar. -->
-- [x] C) Premisa, argumento, tesis defendida y conclusión.
+- [x] B) Premisa, argumento, tesis defendida y conclusión.
   <!-- feedback: Correcto. Se parte de la base, se desarrolla la razón, se enuncia lo que se defiende y se cierra el resultado. -->
+- [ ] C) Premisa, tesis, conclusión y argumento.
+  <!-- feedback: Incorrecto. La tesis no se apoya en la conclusión, porque es la afirmación que el razonamiento quiere demostrar. -->
 - [ ] D) Argumento, premisa, tesis y conclusión.
   <!-- feedback: Incorrecto. La razón se apoya en una base, de modo que no puede aparecer antes de la premisa que la sostiene. -->
 
@@ -286,10 +286,10 @@ El razonamiento argumentativo avanza desde lo que se toma como cierto hacia lo q
 ### Opciones
 - [ ] A) Que el texto menciona a los jóvenes como grupo afectado.
   <!-- feedback: Incorrecto. Identificar a los grupos afectados es un movimiento válido dentro de una argumentación. -->
-- [x] B) Que la premisa es una generalización sin evidencia que la respalde.
-  <!-- feedback: Correcto. Sin datos ni ejemplos que la confirmen, la afirmación general no alcanza para sostener la conclusión. -->
-- [ ] C) Que la conclusión propone una medida educativa concreta.
+- [ ] B) Que la conclusión propone una medida educativa concreta.
   <!-- feedback: Incorrecto. Una propuesta concreta es precisamente la consecuencia que aporta el argumento. -->
+- [x] C) Que la premisa es una generalización sin evidencia que la respalde.
+  <!-- feedback: Correcto. Sin datos ni ejemplos que la confirmen, la afirmación general no alcanza para sostener la conclusión. -->
 - [ ] D) Que el texto no incluye cifras aproximadas.
   <!-- feedback: Incorrecto. La ausencia de cifras es un síntoma del problema, pero no describe por completo este defecto. -->
 
@@ -311,12 +311,12 @@ Un razonamiento es sólido cuando sus premisas pueden sostenerse con la evidenci
 ### Opciones
 - [ ] A) Que los equipos comprados son nuevos.
   <!-- feedback: Incorrecto. Esa característica no es la base que el razonamiento necesita para sostener la conclusión. -->
-- [x] B) Que disponer de más equipos por sí solo produce mejores experimentos, sin importar el método.
-  <!-- feedback: Correcto. Esa es la base implícita del razonamiento y es la que el texto deja sin demostrar. -->
-- [ ] C) Que los estudiantes saben operar correctamente los equipos.
+- [ ] B) Que los estudiantes saben operar correctamente los equipos.
   <!-- feedback: Incorrecto. Sería una condición relevante, pero el texto no la invoca ni necesita apelar a ella. -->
-- [ ] D) Que el año escolar tiene cuarenta semanas lectivas.
+- [ ] C) Que el año escolar tiene cuarenta semanas lectivas.
   <!-- feedback: Incorrecto. Ese dato del calendario no interviene en la relación entre equipos y experimentos. -->
+- [x] D) Que disponer de más equipos por sí solo produce mejores experimentos, sin importar el método.
+  <!-- feedback: Correcto. Esa es la base implícita del razonamiento y es la que el texto deja sin demostrar. -->
 
 ### Explicacion Pedagogica
 Cuando un texto salta de un dato a una conclusión sin explicar el paso intermedio, existe una premisa que el lector debe reconstruir. En este caso se asume que la cantidad de equipos disponibles basta por sí sola para mejorar los experimentos, dejando fuera el método y la práctica. Ponerla al descubierto permite evaluar si el salto es legítimo o si la conclusión es demasiado optimista.
@@ -334,10 +334,10 @@ Cuando un texto salta de un dato a una conclusión sin explicar el paso intermed
 ¿Qué evidencia muestra que se trata de un texto argumentativo con dos voces en conflicto?
 
 ### Opciones
-- [ ] A) Que el texto menciona dos lugares distintos de la ciudad.
-  <!-- feedback: Incorrecto. La referencia a lugares no es lo que produce el conflicto entre las posturas. -->
-- [x] B) Que presenta dos tesis opuestas, cada una con sus propias razones, y el lector debe tomar partido.
+- [x] A) Que presenta dos tesis opuestas, cada una con sus propias razones, y el lector debe tomar partido.
   <!-- feedback: Correcto. La oposición de tesis fundadas es la marca propia de la argumentación y de la polifonía. -->
+- [ ] B) Que el texto menciona dos lugares distintos de la ciudad.
+  <!-- feedback: Incorrecto. La referencia a lugares no es lo que produce el conflicto entre las posturas. -->
 - [ ] C) Que el texto está dividido en un número determinado de párrafos.
   <!-- feedback: Incorrecto. La cantidad de párrafos es una decisión de formato y no revela la estructura argumentativa. -->
 - [ ] D) Que aparecen dos grupos sociales nombrados en el texto.
@@ -386,10 +386,10 @@ Una evidencia solo sostiene una conclusión si es pertinente y representativa de
 ### Opciones
 - [ ] A) Que presenta dos cantidades y las compara entre sí.
   <!-- feedback: Incorrecto. El texto no compara magnitudes, sino que enlaza dos situaciones que coinciden en el tiempo. -->
-- [x] B) Que toma una coincidencia temporal como si probara una relación de causa y efecto.
-  <!-- feedback: Correcto. Que dos hechos ocurran al mismo tiempo no demuestra que uno produzca el otro. -->
-- [ ] C) Que usa la expresión "por eso" para unir dos oraciones.
+- [ ] B) Que usa la expresión "por eso" para unir dos oraciones.
   <!-- feedback: Incorrecto. Ese conectivo solo presenta una consecuencia aparente y no es el origen del problema. -->
+- [x] C) Que toma una coincidencia temporal como si probara una relación de causa y efecto.
+  <!-- feedback: Correcto. Que dos hechos ocurran al mismo tiempo no demuestra que uno produzca el otro. -->
 - [ ] D) Que menciona el día en que se entrega el trabajo acumulado.
   <!-- feedback: Incorrecto. La referencia temporal sirve para describir la situación y no la invalida. -->
 
@@ -411,12 +411,12 @@ Confundir la sucesión temporal con la relación causal es uno de los errores m�
 ### Opciones
 - [ ] A) Que el texto utiliza un conectivo de consecuencia en la oración final.
   <!-- feedback: Incorrecto. El conectivo solo presenta como consecuencia lo que el texto afirma y no es el defecto. -->
-- [x] B) Que generaliza un resultado limitado a una afirmación absoluta sobre todos los casos.
-  <!-- feedback: Correcto. De un éxito parcial y en un grupo se pasa a una fórmula universal sobre la lectura. -->
-- [ ] C) Que menciona el rendimiento académico de los estudiantes.
+- [ ] B) Que menciona el rendimiento académico de los estudiantes.
   <!-- feedback: Incorrecto. Nombrar el indicador del problema es pertinente y no constituye una falla. -->
-- [ ] D) Que habla de la mitad de los libros y no de la totalidad desde el inicio.
+- [ ] C) Que habla de la mitad de los libros y no de la totalidad desde el inicio.
   <!-- feedback: Incorrecto. El dato de la mitad es la base del argumento y no un problema por sí mismo. -->
+- [x] D) Que generaliza un resultado limitado a una afirmación absoluta sobre todos los casos.
+  <!-- feedback: Correcto. De un éxito parcial y en un grupo se pasa a una fórmula universal sobre la lectura. -->
 
 ### Explicacion Pedagogica
 Una conclusión válida no puede ir más allá de lo que las premisas permiten demostrar. En el fragmento, la experiencia se limita a una parte de los libros y a un grupo concreto, pero la conclusión afirma una clave universal. Detectar ese estiramiento del razonamiento permite revisar el alcance de las afirmaciones y evitar conclusiones que la evidencia no respalda.
@@ -509,14 +509,14 @@ En un debate, la opinión sola no alcanza: cada participante necesita presentar 
 ¿Por qué este razonamiento no cumple la función de demostrar su tesis?
 
 ### Opciones
-- [x] A) Porque utiliza la propia tesis como si fuera una prueba, es decir, porque el razonamiento es circular.
-  <!-- feedback: Correcto. La conclusión se apoya en sí misma y el lector no avanza hacia ninguna demostración. -->
-- [ ] B) Porque menciona la palabra lecturas varias veces.
+- [ ] A) Porque menciona la palabra lecturas varias veces.
   <!-- feedback: Incorrecto. La repetición de un término es un recurso de estilo y no invalida el argumento. -->
-- [ ] C) Porque no incluye ejemplos ni datos de la experiencia de los estudiantes.
+- [ ] B) Porque no incluye ejemplos ni datos de la experiencia de los estudiantes.
   <!-- feedback: Incorrecto. La ausencia de ejemplos es una carencia, pero el defecto central es otro más grave. -->
-- [ ] D) Porque el enunciado resulta demasiado corto para desarrollar una demostración.
+- [ ] C) Porque el enunciado resulta demasiado corto para desarrollar una demostración.
   <!-- feedback: Incorrecto. La longitud no determina la validez: un texto breve puede argumentar de forma legítima. -->
+- [x] D) Porque utiliza la propia tesis como si fuera una prueba, es decir, porque el razonamiento es circular.
+  <!-- feedback: Correcto. La conclusión se apoya en sí misma y el lector no avanza hacia ninguna demostración. -->
 
 ### Explicacion Pedagogica
 Un razonamiento es circular cuando la prueba que se ofrece para una afirmación es la misma afirmación expresada de otro modo. En este caso, decir que las lecturas obligatorias son beneficiosas porque son obligatorias no aporta ninguna información nueva que permita aceptar la tesis. Detectar la circularidad es importante porque ofrece una apariencia de demostración que en realidad no cumple su propósito.

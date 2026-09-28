@@ -61,10 +61,10 @@ Un texto que pasa de una afirmación general sobre el agua en la ciudad a un cas
 ### Opciones
 - [ ] A) Causal, porque cada caso particular produce el fenómeno general descrito al principio.
   <!-- feedback: Incorrecto. El texto no presenta una producción de lo general a partir de lo particular. -->
-- [ ] B) Deductiva, porque parte de una verdad general para concluir un caso singular.
-  <!-- feedback: Incorrecto. La deducción sí parte de lo general, pero para demostrar una conclusión, no para describir un caso. -->
-- [x] C) Explicativa, porque organiza la información de manera que el lector comprenda el fenómeno.
+- [x] B) Explicativa, porque organiza la información de manera que el lector comprenda el fenómeno.
   <!-- feedback: Correcto. El descenso de lo general a lo concreto es la forma típica de la secuencia explicativa. -->
+- [ ] C) Deductiva, porque parte de una verdad general para concluir un caso singular.
+  <!-- feedback: Incorrecto. La deducción sí parte de lo general, pero para demostrar una conclusión, no para describir un caso. -->
 - [ ] D) Comparativa, porque pone en paralelo la situación de dos barrios distintos.
   <!-- feedback: Incorrecto. No hay dos elementos que se comparen entre sí en este fragmento. -->
 
@@ -161,10 +161,10 @@ Un texto dice que la norma exige licencia y que la mayoría de los comercios no 
 ### Opciones
 - [ ] A) La norma es imposible de cumplir en ese barrio.
   <!-- feedback: Incorrecto. El incumplimiento generalizado no demuestra que la exigencia sea inviable. -->
-- [ ] B) Los comercios que incumplen son sancionados con frecuencia.
-  <!-- feedback: Incorrecto. El texto no informa sobre sanciones ni sobre su aplicación. -->
-- [x] C) La aplicación efectiva de la norma es un punto débil del texto o de la realidad que describe.
+- [x] B) La aplicación efectiva de la norma es un punto débil del texto o de la realidad que describe.
   <!-- feedback: Correcto: el contraste entre exigencia y cumplimiento real señala un vacío de aplicación. -->
+- [ ] C) Los comercios que incumplen son sancionados con frecuencia.
+  <!-- feedback: Incorrecto. El texto no informa sobre sanciones ni sobre su aplicación. -->
 - [ ] D) La norma fue eliminada porque nadie la seguía.
   <!-- feedback: Incorrecto. Nada en el fragmento indica que la norma haya sido derogada. -->
 
@@ -261,10 +261,10 @@ Un texto presenta el fenómeno, luego sus causas y, en último lugar, las medida
 ### Opciones
 - [ ] A) Deductiva, porque va de lo general a lo particular.
   <!-- feedback: Incorrecto. La dirección general-particular corresponde a la deducción o a la explicación, no a este orden. -->
-- [ ] B) Inductiva, porque termina en una afirmación general.
-  <!-- feedback: Incorrecto. El texto no llega a una generalización a partir de casos, y no termina así. -->
-- [x] C) Explicativa, porque reconstruye el desarrollo del problema antes de proponer la respuesta.
+- [x] B) Explicativa, porque reconstruye el desarrollo del problema antes de proponer la respuesta.
   <!-- feedback: Correcto: la secuencia explicativa va del fenómeno a las causas y luego a la propuesta. -->
+- [ ] C) Inductiva, porque termina en una afirmación general.
+  <!-- feedback: Incorrecto. El texto no llega a una generalización a partir de casos, y no termina así. -->
 - [ ] D) Comparativa, porque contrapone dos soluciones distintas al problema.
   <!-- feedback: Incorrecto. El texto no contrasta soluciones, sino que recorre el problema y su respuesta. -->
 
@@ -286,10 +286,10 @@ Un texto reúne tres casos de erosión en taludes de una ciudad y generaliza que
 ### Opciones
 - [ ] A) El texto no usa ningún tipo de secuencia, porque solo enumera casos.
   <!-- feedback: Incorrecto. La enumeración de casos que desemboca en una generalización es una inducción. -->
-- [x] B) La generalización se apoya en una muestra demasiado pequeña para sostenerla.
-  <!-- feedback: Correcto. Pocos casos no representan un fenómeno que afecta a toda la ciudad. -->
-- [ ] C) El texto debería haber usado una secuencia causal en lugar de una inducción.
+- [ ] B) El texto debería haber usado una secuencia causal en lugar de una inducción.
   <!-- feedback: Incorrecto. El problema no es el tipo de secuencia, sino la representatividad de la muestra. -->
+- [x] C) La generalización se apoya en una muestra demasiado pequeña para sostenerla.
+  <!-- feedback: Correcto. Pocos casos no representan un fenómeno que afecta a toda la ciudad. -->
 - [ ] D) La conclusión es correcta, pero está escrita en un tono demasiado informal.
   <!-- feedback: Incorrecto. El asunto que se evalúa es la validez de la generalización, no el registro. -->
 
@@ -361,12 +361,12 @@ Un texto afirma que "si la escuela no enseña a reciclar, ninguna campaña munic
 ### Opciones
 - [ ] A) Inductiva, porque la conclusión se apoya en un caso particular.
   <!-- feedback: Incorrecto. La conclusión no se apoya en un caso, sino en una regla general sobre la campaña. -->
-- [ ] B) Comparativa, porque contrapone la responsabilidad de la escuela con la del municipio.
-  <!-- feedback: Incorrecto. El texto no compara dos alternativas, sino que formula una condición. -->
-- [ ] C) Causal, porque la falta de enseñanza en la escuela produce lahler efecto de la campaña.
-  <!-- feedback: Incorrecto. La relación causal existe en el enunciado, pero la estructura formal que se revela es condicional. -->
-- [x] D) Deductiva, porque una condición general se aplica a un caso para obtener una consecuencia necesaria.
+- [x] B) Deductiva, porque una condición general se aplica a un caso para obtener una consecuencia necesaria.
   <!-- feedback: Correcto: la estructura condicional convierte la conclusión en consecuencia del planteamiento general. -->
+- [ ] C) Comparativa, porque contrapone la responsabilidad de la escuela con la del municipio.
+  <!-- feedback: Incorrecto. El texto no compara dos alternativas, sino que formula una condición. -->
+- [ ] D) Causal, porque la falta de enseñanza en la escuela produce lahler efecto de la campaña.
+  <!-- feedback: Incorrecto. La relación causal existe en el enunciado, pero la estructura formal que se revela es condicional. -->
 
 ### Explicacion Pedagogica
 Un enunciado con la forma "si ocurre esto, entonces aquello" aplica una regla general a un supuesto y obtiene una consecuencia que se sigue necesariamente. Esa es la estructura deductiva descrita por el condicional. Reconocerla permite distinguir este razonamiento de uno simplemente causal, en el que la relación entre hechos se narra sin la necesidad lógica que aquí se establece.
@@ -388,10 +388,10 @@ Un informe municipal afirma: "en diez años, las viviendas nuevas se multiplicar
   <!-- feedback: Incorrecto. Los tres datos cambian en sentidos distintos y con unidades diferentes, de modo que no forman un contraste homogéneo. -->
 - [ ] B) Una lectura literal, porque basta con transcribir los tres datos del informe.
   <!-- feedback: Incorrecto. La relación entre los tres datos excede lo que una transcripción puede revelar. -->
-- [ ] C) Una lectura de suposición, porque el texto no explica la relación entre el aumento y la disminución.
-  <!-- feedback: Incorrecto. Interpretar la relación entre los datos no es suponer lo que el texto calla, sino deducirlo. -->
-- [x] D) Una lectura causal, que exige relacionar los cambios del uso del suelo con el aumento de temperatura.
+- [x] C) Una lectura causal, que exige relacionar los cambios del uso del suelo con el aumento de temperatura.
   <!-- feedback: Correcto. Los tres datos están dispuestos para sostener una relación de causa y efecto. -->
+- [ ] D) Una lectura de suposición, porque el texto no explica la relación entre el aumento y la disminución.
+  <!-- feedback: Incorrecto. Interpretar la relación entre los datos no es suponer lo que el texto calla, sino deducirlo. -->
 
 ### Explicacion Pedagogica
 Cuando un informe coloca en un mismo párrafo un aumento, una disminución y un efecto ambiental, está construyendo una secuencia causal. La lectura crítica debe preguntarse si la relación que se insinúa entre la disminución de parcelas y el aumento de temperatura está efectivamente demostrada o solo parece plausible. Distinguir entre lo que la secuencia sugiere y lo que prueba es la diferencia entre leer y analizar.
@@ -411,12 +411,12 @@ Un texto empieza comparando dos soluciones, luego explica cómo funciona una de 
 ### Opciones
 - [ ] A) Que la comparación inicial no sirve, porque el texto ya conoce la respuesta de antemano.
   <!-- feedback: Incorrecto. La comparación es pertinente; lo que se debe revisar es si ambas opciones se presentan con igual detalle. -->
-- [x] B) Que el texto mezcla secuencia comparativa, explicativa y deliberativa en un mismo desarrollo.
-  <!-- feedback: Correcto. Cada etapa corresponde a una operación distinta dentro de un mismo escrito. -->
-- [ ] C) Que el texto debería ser reescrito por completo, porque no puede combinar esos recursos.
+- [ ] B) Que el texto debería ser reescrito por completo, porque no puede combinar esos recursos.
   <!-- feedback: Incorrecto. Combinar recursos es legítimo y frecuente en los textos de opinión. -->
-- [ ] D) Que la recomendación final es necesariamente inválida, porque sigue a una comparación incompleta.
+- [ ] C) Que la recomendación final es necesariamente inválida, porque sigue a una comparación incompleta.
   <!-- feedback: Incorrecto. La mezcla de recursos no invalida por sí sola la recomendación final. -->
+- [x] D) Que el texto mezcla secuencia comparativa, explicativa y deliberativa en un mismo desarrollo.
+  <!-- feedback: Correcto. Cada etapa corresponde a una operación distinta dentro de un mismo escrito. -->
 
 ### Explicacion Pedagogica
 Los textos reales combinan con frecuencia varias operaciones argumentativas dentro de un mismo desarrollo. Cuando un escrito compara dos alternativas, explica el funcionamiento de una y finalmente recomienda, está usando la secuencia comparativa, la explicativa y la deliberativa a la vez. Reconocer esa mezcla permite evaluar cada tramo por lo que efectivamente hace, en lugar de exigirle a todo el texto un único propósito.
@@ -486,10 +486,10 @@ Un dato aislado permite un número limitado de afirmaciones. Cuando el texto dec
 ### Opciones
 - [ ] A) Buscar la palabra "en conclusión" y copiar lo que viene después.
   <!-- feedback: Incorrecto. El remate es útil, pero no revela cómo el texto construyó su razonamiento. -->
-- [x] B) Identificar primero la tesis y luego clasificar cada párrafo según la operación que realiza.
-  <!-- feedback: Correcto. La tesis orienta y la clasificación de párrafos revela la secuencia. -->
-- [ ] C) Contar los adverbios y los adjetivos de cada párrafo para medir su intensidad.
+- [ ] B) Contar los adverbios y los adjetivos de cada párrafo para medir su intensidad.
   <!-- feedback: Incorrecto. El recuento de palabras aisladas mide el tono, no la secuencia lógica. -->
+- [x] C) Identificar primero la tesis y luego clasificar cada párrafo según la operación que realiza.
+  <!-- feedback: Correcto. La tesis orienta y la clasificación de párrafos revela la secuencia. -->
 - [ ] D) Buscar en el índice del texto los apartados, porque allí siempre está la secuencia completa.
   <!-- feedback: Incorrecto. Muchos textos escritos de manera continua carecen de índice. -->
 

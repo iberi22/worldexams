@@ -61,10 +61,10 @@ Según la observación del estudiante, ¿qué operación está realizando al esc
 ### Opciones
 - [ ] A) Una lectura literal, porque se limita a repetir lo que aparece en el texto.
   <!-- feedback: Incorrecto. El estudiante distingue justamente entre lo escrito y lo deducido, así que no se trata de una lectura literal. -->
-- [ ] B) Una lectura de suposición, porque propone algo que el texto no permite afirmar.
-  <!-- feedback: Incorrecto. Él mismo identifica un indicio en el texto, y una inferencia se apoya en indicios, no en suposiciones. -->
-- [x] C) Una lectura inferencial, porque llega a una conclusión apoyada en un indicio del texto.
+- [x] B) Una lectura inferencial, porque llega a una conclusión apoyada en un indicio del texto.
   <!-- feedback: Correcto. Concluye algo no enunciado, pero lo hace a partir de una pista verificable en el texto. -->
+- [ ] C) Una lectura de suposición, porque propone algo que el texto no permite afirmar.
+  <!-- feedback: Incorrecto. Él mismo identifica un indicio en el texto, y una inferencia se apoya en indicios, no en suposiciones. -->
 - [ ] D) Una lectura crítica, porque evalúa la calidad del texto y su estilo.
   <!-- feedback: Incorrecto. Aquí no se juzga el texto, se reconstruye algo que el texto dejó sin decir de forma directa. -->
 
@@ -84,12 +84,12 @@ Distinguir lo que el texto dice de lo que el lector deduce es el fundamento de l
 ¿Qué es una suposición dentro de un texto?
 
 ### Opciones
-- [x] A) Es una idea que el texto deja abierta y que el lector completa, aunque el texto no ofrezca pruebas suficientes para sostenerla.
-  <!-- feedback: Correcto. La suposición completa un vacío del texto sin que existan indicios que la respalden. -->
-- [ ] B) Es la afirmación que el texto formula de manera más explícita en su primera oración.
+- [ ] A) Es la afirmación que el texto formula de manera más explícita en su primera oración.
   <!-- feedback: Incorrecto. Esa afirmación es la que el texto dice, no la que deja sin desarrollar. -->
-- [ ] C) Es la conclusión a la que se llega combinando varios datos que el texto sí entrega.
+- [ ] B) Es la conclusión a la que se llega combinando varios datos que el texto sí entrega.
   <!-- feedback: Incorrecto. Cuando los apoyos existen en el texto, se trata de una inferencia y no de una suposición. -->
+- [x] C) Es una idea que el texto deja abierta y que el lector completa, aunque el texto no ofrezca pruebas suficientes para sostenerla.
+  <!-- feedback: Correcto. La suposición completa un vacío del texto sin que existan indicios que la respalden. -->
 - [ ] D) Es el significado de una palabra técnica que el autor define entre paréntesis.
   <!-- feedback: Incorrecto. La definición de un término es información explícita del texto. -->
 
@@ -113,10 +113,10 @@ Un párrafo afirma: "Las rutas alimentadoras del sector sur fueron adaptadas par
   <!-- feedback: Incorrecto. Esa es la tarea del nivel literal, que se limita a recuperar lo escrito. -->
 - [ ] B) Proponer una mejora adicional que el informe no menciona y que sería deseable.
   <!-- feedback: Incorrecto. Proponer algo no contenido en el texto y sin indicio que lo apoye es una suposición. -->
-- [x] C) Deducir que la adaptación responde a una norma de accesibilidad vigente en la ciudad.
-  <!-- feedback: Correcto. Deduce una razón que el texto no enuncia pero que su contenido vuelve razonable. -->
-- [ ] D) Comprobar la ortografía de los nombres de las rutas y corregir las mayúsculas.
+- [ ] C) Comprobar la ortografía de los nombres de las rutas y corregir las mayúsculas.
   <!-- feedback: Incorrecto. La revisión formal no pertenece a ninguno de los tres niveles de comprensión. -->
+- [x] D) Deducir que la adaptación responde a una norma de accesibilidad vigente en la ciudad.
+  <!-- feedback: Correcto. Deduce una razón que el texto no enuncia pero que su contenido vuelve razonable. -->
 
 ### Explicacion Pedagogica
 Los tres niveles de lectura se distinguen por el tipo de operación que realizan sobre el texto. El literal recupera lo que está escrito, el inferencial deduce lo que el texto permite reconstruir y el crítico evalúa el modelo, los supuestos y la eficacia del discurso. Identificar con claridad en qué nivel se está trabajando evita saltar de la copia a la conjetura y garantiza que la deducción tenga un apoyo real en el fragmento.
@@ -161,10 +161,10 @@ La lectura literal se limita a lo que el enunciado contiene, y esa limitación e
 ### Opciones
 - [ ] A) Los nuevos puntos de lectura se volvieron obligatorios para toda la población de Medellín.
   <!-- feedback: Incorrecto. Nada en el fragmento sugiere una obligación de uso; esa medida sería una suposición. -->
-- [ ] B) El aumento de usuarios se habría producido igual sin instalar los nuevos puntos de lectura.
-  <!-- feedback: Incorrecto. El fragmento asocia la instalación con el aumento, no permite probar que no hubiera otra causa. -->
-- [x] C) El acceso a los equipos del proyecto incentivó que más personas usaran la biblioteca municipal.
+- [x] B) El acceso a los equipos del proyecto incentivó que más personas usaran la biblioteca municipal.
   <!-- feedback: Correcto. La relación que el texto establece entre el recurso instalado y el uso permite deducir esa consecuencia. -->
+- [ ] C) El aumento de usuarios se habría producido igual sin instalar los nuevos puntos de lectura.
+  <!-- feedback: Incorrecto. El fragmento asocia la instalación con el aumento, no permite probar que no hubiera otra causa. -->
 - [ ] D) La biblioteca municipal de Medellín es la más visitada de Colombia.
   <!-- feedback: Incorrecto. El fragmento habla de un aumento en un año, no de una comparación con otras bibliotecas del país. -->
 
@@ -184,12 +184,12 @@ Una inferencia válida es la que la evidencia del texto autoriza sin necesidad d
 ¿Qué delata la expresión "si" dentro de esa oración?
 
 ### Opciones
-- [x] A) Que el autor presenta el resultado como posible y sujeto a una condición que todavía no se cumple.
-  <!-- feedback: Correcto. El conector condicional presenta el desenlace como hipotético, no como un hecho consumado. -->
-- [ ] B) Que el autor ya decidió el resultado y solo escribe la condición por formalidad.
+- [ ] A) Que el autor ya decidió el resultado y solo escribe la condición por formalidad.
   <!-- feedback: Incorrecto. Si la decisión estuviera tomada, el autor presentaría el hecho de forma directa. -->
-- [ ] C) Que el fragmento pertenece necesariamente a un texto narrativo.
+- [ ] B) Que el fragmento pertenece necesariamente a un texto narrativo.
   <!-- feedback: Incorrecto. La construcción condicional puede aparecer en cualquier tipo de texto. -->
+- [x] C) Que el autor presenta el resultado como posible y sujeto a una condición que todavía no se cumple.
+  <!-- feedback: Correcto. El conector condicional presenta el desenlace como hipotético, no como un hecho consumado. -->
 - [ ] D) Que el autor cita de manera textual un documento normativo anterior.
   <!-- feedback: Incorrecto. No hay marcas de cita ni referencia a una fuente en el fragmento. -->
 
@@ -213,10 +213,10 @@ De las cuatro conclusiones siguientes, ¿cuál respeta mejor los límites de lo 
   <!-- feedback: Incorrecto. El crecimiento de la matriculación contradice esa hipótesis y el texto no mide interés. -->
 - [ ] B) La reducción del presupuesto restó acceso a las personas que usaban el programa, aunque poco después esa necesidad fue absorbida por otra oferta.
   <!-- feedback: Incorrecto. El texto no afirma que otra oferta absorbiera esa demanda: se trata de una conclusión que se le añade. -->
-- [x] C) El programa perdió recursos mientras el público nocturno de la ciudad crecía, es decir, dos tendencias opuestas.
-  <!-- feedback: Correcto. Es la única conclusión que resume exactamente las dos variaciones que el texto entrega. -->
-- [ ] D) El programa será restituido en 2026 debido al crecimiento de la demanda nocturna.
+- [ ] C) El programa será restituido en 2026 debido al crecimiento de la demanda nocturna.
   <!-- feedback: Incorrecto. El fragmento no contiene ninguna previsión sobre futuras decisiones administrativas. -->
+- [x] D) El programa perdió recursos mientras el público nocturno de la ciudad crecía, es decir, dos tendencias opuestas.
+  <!-- feedback: Correcto. Es la única conclusión que resume exactamente las dos variaciones que el texto entrega. -->
 
 ### Explicacion Pedagogica
 Respetar los límites de una inferencia significa no añadir a la conclusión nada que el texto no ofrezca, aunque esa adición resulte verosímil o interesante. El fragmento entrega dos variaciones cuantificadas en sentidos contrarios y nada más. Cualquier conclusión que incorpore causas, explicaciones o proyecciones futuras excede la evidencia y se convierte en una suposición, por muy razonable que parezca.
@@ -234,12 +234,12 @@ Respetar los límites de una inferencia significa no añadir a la conclusión na
 La nota indica que las unidades de confección funcionaban en alturas muy reducidas porque las calles estrechas apenas permitían circular las burdenas. ¿Qué se puede inferir sobre las condiciones de trabajo en ese barrio?
 
 ### Opciones
-- [ ] A) Que las condiciones laborales del sector textil mejoraron durante el último año.
-  <!-- feedback: Incorrecto. El fragmento no compara dos períodos, así que no permite afirmar ninguna mejora. -->
-- [ ] B) Que la regulación vigente limita la altura de las viviendas del barrio.
-  <!-- feedback: Incorrecto. La nota explica una consecuencia de la estrechez del espacio, no la existencia de una norma. -->
-- [x] C) Que la estrechez de las calles condiciona el tipo de vivienda y de actividad productiva que puede instalarse allí.
+- [x] A) Que la estrechez de las calles condiciona el tipo de vivienda y de actividad productiva que puede instalarse allí.
   <!-- feedback: Correcto. La causa que el texto propone y su efecto se deducen con claridad del fragmento. -->
+- [ ] B) Que las condiciones laborales del sector textil mejoraron durante el último año.
+  <!-- feedback: Incorrecto. El fragmento no compara dos períodos, así que no permite afirmar ninguna mejora. -->
+- [ ] C) Que la regulación vigente limita la altura de las viviendas del barrio.
+  <!-- feedback: Incorrecto. La nota explica una consecuencia de la estrechez del espacio, no la existencia de una norma. -->
 - [ ] D) Que la población del barrio migró en masa a otras ciudades.
   <!-- feedback: Incorrecto. El texto no informa sobre movimientos de población; esa conclusión no tiene ningún apoyo. -->
 
@@ -261,10 +261,10 @@ Cuando un texto conecta una característica del entorno con un efecto concreto, 
 ### Opciones
 - [ ] A) La distancia al campus es un factor que pesa en la decisión de matrícula de esas familias.
   <!-- feedback: Incorrecto. Esa inferencia sí tiene apoyo, porque el texto vincula explícitamente distancia y elección de colegio. -->
-- [ ] B) El colegio tiene estudiantes que llegan desde zonas distintas a las cercanas al campus.
-  <!-- feedback: Incorrecto. La conclusión reordena información entregada por el fragmento sin excederla. -->
-- [x] C) La totalidad de los estudiantes matriculados en ese colegio vive lejos del campus.
+- [x] B) La totalidad de los estudiantes matriculados en ese colegio vive lejos del campus.
   <!-- feedback: Incorrecto. El fragmento menciona algunas familias, no la totalidad; por eso esa generalización es la inferencia que no se sostiene. -->
+- [ ] C) El colegio tiene estudiantes que llegan desde zonas distintas a las cercanas al campus.
+  <!-- feedback: Incorrecto. La conclusión reordena información entregada por el fragmento sin excederla. -->
 - [ ] D) La cercanía al colegio puede tener un peso en la decisión de las familias.
   <!-- feedback: Incorrecto. Reconstruir ese criterio a partir del dato del texto es una inferencia legítima. -->
 
@@ -286,10 +286,10 @@ Un párrafo afirma: "El centro de salud del barrio fue remodelado". Más adelant
 ### Opciones
 - [ ] A) Porque el texto usa un conector lógico que impide sacar conclusiones.
   <!-- feedback: Incorrecto. Los conectores ordenan relaciones, pero no impiden la inferencia ni la invalidan. -->
-- [x] B) Porque el texto ofrece un indicio posterior que contradice la conclusión que la premisa hacía esperar.
-  <!-- feedback: Correcto. La dificultad para pedir cita funciona como contraevidencia y debilita la deducción inicial. -->
-- [ ] C) Porque la conclusión repite con otras palabras la misma oración del primer párrafo.
+- [ ] B) Porque la conclusión repite con otras palabras la misma oración del primer párrafo.
   <!-- feedback: Incorrecto. La conclusión no es una reformulación, sino una deducción que el segundo párrafo pone en duda. -->
+- [x] C) Porque el texto ofrece un indicio posterior que contradice la conclusión que la premisa hacía esperar.
+  <!-- feedback: Correcto. La dificultad para pedir cita funciona como contraevidencia y debilita la deducción inicial. -->
 - [ ] D) Porque el texto no menciona ningún aspecto económico de la salud en el barrio.
   <!-- feedback: Incorrecto. La ausencia de ese tema no es lo que invalida la deducción. -->
 
@@ -311,12 +311,12 @@ La validez de una inferencia depende de la evidencia disponible en el conjunto d
 ### Opciones
 - [ ] A) Usa un vocabulario demasiado técnico para el género que analiza.
   <!-- feedback: Incorrecto. La dificultad del registro no es el asunto que se está evaluando en esta pregunta. -->
-- [x] B) Convierte la mención de problemas en una conclusión general que el texto no autoriza.
-  <!-- feedback: Correcto. Reconocer una dificultad mencionada no equivale a demostrar que la obra no benefició a nadie. -->
-- [ ] C) Ignora por completo lo que el artículo afirma.
+- [ ] B) Ignora por completo lo que el artículo afirma.
   <!-- feedback: Incorrecto. La alumna sí utiliza el texto como base; el problema está en la amplitud de la conclusión. -->
-- [ ] D) Interpreta el texto como narrativo cuando es argumentativo.
+- [ ] C) Interpreta el texto como narrativo cuando es argumentativo.
   <!-- feedback: Incorrecto. El problema no está en la clasificación del género, sino en la fuerza de la deducción. -->
+- [x] D) Convierte la mención de problemas en una conclusión general que el texto no autoriza.
+  <!-- feedback: Correcto. Reconocer una dificultad mencionada no equivale a demostrar que la obra no benefició a nadie. -->
 
 ### Explicacion Pedagogica
 Un texto puede reconocer errores y aun así sostener un balance favorable, o puede celebrar un proyecto y aun así señalar costos. Convertir la mención de un problema en el veredicto contrario requiere justificar cada paso, porque el reconocimiento puntual de dificultades no invalida el conjunto del discurso. La lectura crítica vigila precisamente ese salto entre un indicio aislado y una conclusión total.
@@ -334,14 +334,14 @@ Un texto puede reconocer errores y aun así sostener un balance favorable, o pue
 ¿Qué efecto tiene, sobre la interpretación del texto, el uso del modal "seguramente"?
 
 ### Opciones
-- [ ] A) Convierte el enunciado en un dato numérico que el lector debe verificar.
-  <!-- feedback: Incorrecto. El modal introduce un grado de certeza, no una cantidad que deba comprobarse. -->
-- [ ] B) Convierte el enunciado en una opinión que el lector puede ignorar sin consecuencias.
-  <!-- feedback: Incorrecto. Si bien matiza la certeza, la afirmación sigue orientando la lectura y admite réplica. -->
-- [ ] C) Señala que el autor está citando a una persona con autoridad.
-  <!-- feedback: Incorrecto. La cita requiere marcas específicas de autoría, no un modal de probabilidad. -->
-- [x] D) Debilita la afirmación y muestra que el autor no la presenta como un hecho comprobado.
+- [x] A) Debilita la afirmación y muestra que el autor no la presenta como un hecho comprobado.
   <!-- feedback: Correcto. "Seguramente" matiza la certeza y delata una posición con reservas del autor. -->
+- [ ] B) Convierte el enunciado en un dato numérico que el lector debe verificar.
+  <!-- feedback: Incorrecto. El modal introduce un grado de certeza, no una cantidad que deba comprobarse. -->
+- [ ] C) Convierte el enunciado en una opinión que el lector puede ignorar sin consecuencias.
+  <!-- feedback: Incorrecto. Si bien matiza la certeza, la afirmación sigue orientando la lectura y admite réplica. -->
+- [ ] D) Señala que el autor está citando a una persona con autoridad.
+  <!-- feedback: Incorrecto. La cita requiere marcas específicas de autoría, no un modal de probabilidad. -->
 
 ### Explicacion Pedagogica
 Los modales verbales gradúan cómo el autor se compromete con lo que afirma: frente a una certeza, expresan probabilidad, necesidad, posibilidad o duda. Reconocerlos permite medir la solidez de una afirmación y detectar cuándo un texto alcanza un tono de opinión sin declararse como tal. En grado once, ese matiz suele decidir si una tesis queda bien sostenida o apenas esbozada.
@@ -386,10 +386,10 @@ A partir de la información local que ofrece el texto, ¿qué inferencia sobre e
 ### Opciones
 - [ ] A) Que los talleres de la biblioteca están reservados exclusivamente para estudiantes de un colegio del sector.
   <!-- feedback: Incorrecto. El texto no establece una restricción de acceso por diagnóstico ni por institución. -->
-- [x] B) Que la oferta de actividades se adapta a las condiciones reales de disponibilidad de los participantes.
-  <!-- feedback: Correcto. El uso de equipos del proyecto y de un horario nocturno revela una respuesta concreta a esas condiciones. -->
-- [ ] C) Que el programa busca aumentar la cantidad de libros más que la lectoría.
+- [ ] B) Que el programa busca aumentar la cantidad de libros más que la lectoría.
   <!-- feedback: Incorrecto. El fragmento habla de actividades formativas, no de política de adquisición de material. -->
+- [x] C) Que la oferta de actividades se adapta a las condiciones reales de disponibilidad de los participantes.
+  <!-- feedback: Correcto. El uso de equipos del proyecto y de un horario nocturno revela una respuesta concreta a esas condiciones. -->
 - [ ] D) Que la convocatoria de las actividades es digital y tiene fecha única de inscripción.
   <!-- feedback: Incorrecto. El texto no describe un sistema de convocatorias con fecha única. -->
 
@@ -411,12 +411,12 @@ Los datos locales de un texto narrowdan evidencia sobre la manera en que una pol
 ### Opciones
 - [ ] A) Que la reforma tendrá un efecto negativo sobre todos los barrios.
   <!-- feedback: Incorrecto. Ninguna palabra del titular permite afirmar ese efecto negativo. -->
-- [x] B) Que la puesta en marcha de la reforma está garantizada, como si ya fuera un hecho consumado.
-  <!-- feedback: Correcto. El verbo y el numeral presentan el avance como algo realizado, sin abrir la discusión sobre su ejecución. -->
-- [ ] C) Que los resultados de la reforma van a ser negativos.
+- [ ] B) Que los resultados de la reforma van a ser negativos.
   <!-- feedback: Incorrecto. El titular no anticipa ningún resultado, favorable ni adverso. -->
-- [ ] D) Que la reforma fue diseñada por la administración municipal anterior.
+- [ ] C) Que la reforma fue diseñada por la administración municipal anterior.
   <!-- feedback: Incorrecto. El titular no menciona autoría ni momento de diseño de la reforma. -->
+- [x] D) Que la puesta en marcha de la reforma está garantizada, como si ya fuera un hecho consumado.
+  <!-- feedback: Correcto. El verbo y el numeral presentan el avance como algo realizado, sin abrir la discusión sobre su ejecución. -->
 
 ### Explicacion Pedagogica
 Un titular no solo informa: también selecciona, ordena y da por sentado aquello que deja fuera. La ausencia de condiciones, plazos o salvedades activa presuposiciones que el lector suele aceptar sin examen. Por eso el análisis crítico empieza por explicitar lo que un texto da por sentado, porque ahí se encuentra buena parte de su orientación y también sus puntos más débiles.
@@ -434,14 +434,14 @@ Un titular no solo informa: también selecciona, ordena y da por sentado aquello
 Un argumento sostiene la decisión con la idea de que, como la demanda bajó, la línea era innecesaria. ¿Cuál es la mejor evaluación de esa inferencia?
 
 ### Opciones
-- [ ] A) Es sólida, porque la conclusión se sigue directamente del dato de la demanda.
-  <!-- feedback: Incorrecto. Concluir que un servicio es innecesario exige considerar costos, cobertura y alternativas. -->
-- [ ] B) Es sólida, si se acepta que toda línea con menor demanda debe cerrarse por eficiencia.
-  <!-- feedback: Incorrecto. Esa generalización no está en el texto: se la agrega la propia inferencia. -->
-- [ ] C) Es inválida, porque el dato de la demanda no aparece de forma explícita en el texto.
-  <!-- feedback: Incorrecto. El texto sí menciona la caída de la demanda; el problema está en la conclusión, no en el dato. -->
-- [x] D) Es insuficiente, porque un volumen menor de pasajeros no basta para determinar que un servicio debe cancelarse.
+- [x] A) Es insuficiente, porque un volumen menor de pasajeros no basta para determinar que un servicio debe cancelarse.
   <!-- feedback: Correcto. La inferencia equipara un dato aislado con una decisión administrativa que requiere más elementos de juicio. -->
+- [ ] B) Es sólida, porque la conclusión se sigue directamente del dato de la demanda.
+  <!-- feedback: Incorrecto. Concluir que un servicio es innecesario exige considerar costos, cobertura y alternativas. -->
+- [ ] C) Es sólida, si se acepta que toda línea con menor demanda debe cerrarse por eficiencia.
+  <!-- feedback: Incorrecto. Esa generalización no está en el texto: se la agrega la propia inferencia. -->
+- [ ] D) Es inválida, porque el dato de la demanda no aparece de forma explícita en el texto.
+  <!-- feedback: Incorrecto. El texto sí menciona la caída de la demanda; el problema está en la conclusión, no en el dato. -->
 
 ### Explicacion Pedagogica
 Evaluar un argumento consiste en pesar si la evidencia invocada sostiene la conclusión que se propone. Un dato pertinente puede ser insuficiente si la conclusión excede lo que ese dato mide, como ocurre al pasar de "menos pasajeros" a "servicio innecesario". La pregunta correcta no es si el dato es verdadero, sino si es capaz de soportar la fuerza de la afirmación.
@@ -461,10 +461,10 @@ El párrafo indica: "Después de la ampliación del parque, las actividades depo
 ### Opciones
 - [ ] A) "El presupuesto no financió la ampliación del parque".
   <!-- feedback: Incorrecto. La estabilidad del presupuesto posterior no informa sobre cómo se financió la obra. -->
-- [ ] B) "La ampliación financió nuevas actividades sin ningún recurso adicional".
-  <!-- feedback: Incorrecto. La conclusión excede lo que el texto dice: no descarta costos nuevos de operación. -->
-- [x] C) "Las actividades de fin de semana se multiplicaron en un periodo en que el presupuesto no aumentó".
+- [x] B) "Las actividades de fin de semana se multiplicaron en un periodo en que el presupuesto no aumentó".
   <!-- feedback: Correcto. Es la única lectura que reformula sin agregar ni quitar nada lo que el párrafo declara. -->
+- [ ] C) "La ampliación financió nuevas actividades sin ningún recurso adicional".
+  <!-- feedback: Incorrecto. La conclusión excede lo que el texto dice: no descarta costos nuevos de operación. -->
 - [ ] D) "Las actividades del fin de semana dependen cada vez más del presupuesto municipal".
   <!-- feedback: Incorrecto. El párrafo menciona el presupuesto, pero no establece que las actividades dependan de él. -->
 
@@ -486,10 +486,10 @@ Elegir la mejor lectura de un texto es un ejercicio de fidelidad a su contenido 
 ### Opciones
 - [ ] A) Leer únicamente el podcast una segunda vez para confirmar lo que ya entendieron.
   <!-- feedback: Incorrecto. Un solo texto no permite verificar sus propias afirmaciones de forma independiente. -->
-- [x] B) Contrastar las afirmaciones del podcast con la nota periodística y con datos oficiales de la administración.
-  <!-- feedback: Correcto. Solo el contraste de fuentes independientes permite poner a prueba lo que el podcast afirma. -->
-- [ ] C) Comentar el estilo de locución del podcast para evaluar si la información es confiable.
+- [ ] B) Comentar el estilo de locución del podcast para evaluar si la información es confiable.
   <!-- feedback: Incorrecto. El estilo puede orientar la lectura, pero no mide la veracidad de los datos. -->
+- [x] C) Contrastar las afirmaciones del podcast con la nota periodística y con datos oficiales de la administración.
+  <!-- feedback: Correcto. Solo el contraste de fuentes independientes permite poner a prueba lo que el podcast afirma. -->
 - [ ] D) Resumir el episodio en cuatro líneas para comprobar si el contenido se entiende.
   <!-- feedback: Incorrecto. Resumir evalúa la comprensión del mensaje, no la validez de lo que se afirma. -->
 
@@ -511,12 +511,12 @@ Un texto informa que se mejoró la iluminación del parque y que asistían mucho
 ### Opciones
 - [ ] A) Que la iluminación mejorada fue la única causa del aumento de asistencia.
   <!-- feedback: Incorrecto. El texto ofrece una relación temporal, no una causalidad exclusiva. -->
-- [x] B) Que la relación entre la mejora de la iluminación y la asistencia no puede establecerse, porque el texto no entrega suficientes datos comparativos.
-  <!-- feedback: Correcto. Aceptar la incertidumbre sobre la relación causal es la conclusión que respeta el alcance de la evidencia. -->
-- [ ] C) Que antes de la intervención la asistencia era prácticamente nula.
+- [ ] B) Que antes de la intervención la asistencia era prácticamente nula.
   <!-- feedback: Incorrecto. Nada en el texto permite fijar el punto de partida de la asistencia. -->
-- [ ] D) Que el parque Lineal se transformó en el espacio recreativo más grande de la ciudad.
+- [ ] C) Que el parque Lineal se transformó en el espacio recreativo más grande de la ciudad.
   <!-- feedback: Incorrecto. El texto no compara este parque con ningún otro espacio de la ciudad. -->
+- [x] D) Que la relación entre la mejora de la iluminación y la asistencia no puede establecerse, porque el texto no entrega suficientes datos comparativos.
+  <!-- feedback: Correcto. Aceptar la incertidumbre sobre la relación causal es la conclusión que respeta el alcance de la evidencia. -->
 
 ### Explicacion Pedagogica
 La conclusión más segura no es siempre la más rotunda, sino la que se ajusta al alcance probatorio de la evidencia disponible. Aquí el texto muestra una coincidencia temporal entre una mejora y un aumento, sin datos que permitan medir magnitudes ni descartar otras causas. Reconocer ese límite, en lugar de llenarlo con una explicación inmediata, es la mejor expresión de la lectura crítica.
