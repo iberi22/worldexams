@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-9-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-28T21:53:07.887Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v1",
+      "statement": "Según el texto de la cartilla, ¿cuál es la diferencia entre una reseña y un resumen?",
+      "context": "En la cartilla de la unidad, la profesora de séptimo grado escribió: \"La reseña es un texto breve que presenta una obra y la valora. El resumen cuenta de qué trata la obra; la reseña, además, expone el punto de vista de quien la escribe\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reseña incluye la valoración de quien la escribe, mientras que el resumen se limita a recountir el contenido.",
+          "is_correct": true,
+          "feedback": "La cartilla dice que la reseña \"expone el punto de vista de quien la escribe\", de modo que el rasgo que la distingue es la valoración y no la extensión."
+        },
+        {
+          "letter": "B",
+          "text": "La reseña siempre es más larga que el resumen.",
+          "is_correct": false,
+          "feedback": "Confunde el género con su tamaño en páginas; la cartilla nunca compara longitudes y una reseña puede ser muy breve."
+        },
+        {
+          "letter": "C",
+          "text": "El resumen es el único texto que puede contener opiniones.",
+          "is_correct": false,
+          "feedback": "Invierte la relación entre los dos textos, porque es justamente la reseña la que expone el punto de vista de quien escribe."
+        },
+        {
+          "letter": "D",
+          "text": "La reseña solo se puede escribir sobre obras de literatura y nunca sobre un periódico o un documental.",
+          "is_correct": false,
+          "feedback": "Limita el género a un tipo de obra sin que la cartilla lo diga, porque se puede opinar y valorar cualquier texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer las características de un género textual es el primer paso para leerlo con criterio. La cartilla define la reseña por su función: presentar una obra y valorarla, es decir, expresar un punto de vista. Un resumen, en cambio, solo reproduce lo que el texto original dice, sin juzgar. Cuando una opción se apoya en la longitud, en el tipo de obra o en una afirmación que la cartilla nunca menciona, debe descartarse, porque la única diferencia que el texto autoriza es la presencia de una valoración propia. Esta distinción prepara el trabajo más difícil de la unidad: construir una opinión que pueda sostenerse.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v2",
+      "statement": "¿Para qué sirve principalmente la recomendación que Mariana escribe al final de la reseña?",
+      "context": "En la feria del libro del colegio en Bogotá, Mariana leyó la reseña de la novela \"Cartas desde el sur\" y terminó su comentario con estas dos frases: \"Te la recomiendo si te gustan las historias de viaje y de familia. El último capítulo se resuelve muy rápido\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para contar, en dos líneas, todos los capítulos de la novela.",
+          "is_correct": false,
+          "feedback": "Reduce la recomendación a un resumen del argumento, cuando el texto no enumera ningún episodio de la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Para orientar a alguien que todavía no ha leído la obra, indicándole si esa novela puede interesarle.",
+          "is_correct": true,
+          "feedback": "La frase \"te la recomiendo\" va dirigida a un lector futuro y promete una experiencia de lectura concreta, que es la función de una recomendación."
+        },
+        {
+          "letter": "C",
+          "text": "Para demostrar que Mariana leyó la obra completa y podía criticarla con seguridad.",
+          "is_correct": false,
+          "feedback": "Confunde el efecto de la recomendación con una prueba de lectura, porque el texto no busca demostrar nada sobre Mariana."
+        },
+        {
+          "letter": "D",
+          "text": "Para advertirle al público que la última parte del libro está mal escrita.",
+          "is_correct": false,
+          "feedback": "Convierte una observación sobre el ritmo de un capítulo en una condena general que la frase no contiene."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender para qué escribe alguien es la base de la comprensión. Una recomendación no resume la obra ni juzga al autor: es un mensaje dirigido a un lector que todavía no ha decidido, y por eso debe ser breve, clara y basada en lo que ese lector busca. La recomendación de Mariana funciona así, porque menciona un gusto concreto y además señala un punto débil, de modo que quien la lee puede tomar una decisión. Cuando una frase se convierte en resumen, en acusación o en demostración personal, se pierde ese propósito, que es el único rasgo que distingue a la recomendación dentro de la reseña.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con la cartulina, ¿cuál es la afirmación central que el párrafo quiere sostener?",
+      "context": "En el taller de lectura sobre Gabriel García Márquez, un grupo de séptimo grado del colegio de Cartagena escribió en la cartulina: \"Para nosotros, el argumento de esta novela no se sostiene con un solo personaje, sino con toda una familia. Cada generación repite un nombre, una costumbre y una soledad que ya viene de largo. Por eso, la historia se siente más grande que la vida de una sola persona\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el argumento de la novela depende por completo de un solo protagonista varón.",
+          "is_correct": false,
+          "feedback": "Niega justo lo que el párrafo afirma, porque los estudiantes dicen que el argumento no se sostiene con un solo personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Que las costumbres de la familia cambian en cada generación hasta desaparecer.",
+          "is_correct": false,
+          "feedback": "Convierte la repetición de costumbres en su contrario, cuando el párrafo dice que las costumbres se repiten y no que desaparecen."
+        },
+        {
+          "letter": "C",
+          "text": "Que la novela usa la historia de una familia entera para mostrar cómo la memoria y la soledad se repiten de una generación a otra.",
+          "is_correct": true,
+          "feedback": "La primera oración anuncia el recurso del texto, la segunda lo explica y la última (\"por eso\") recoge la idea que el párrafo quiere dejar fijada."
+        },
+        {
+          "letter": "D",
+          "text": "Que la novela es más larga que cualquier otra obra del mismo autor.",
+          "is_correct": false,
+          "feedback": "Introduce una comparación de extensión que el texto no menciona y que nada en el párrafo permite deducir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un párrafo de opinión no es una lista de frases: tiene un orden. Primero presenta el tema, luego lo desarrolla con lo que hace el texto y, al final, cierra con una idea fuerza. Identificar cuál de esas partes es la afirmación central ayuda a comprender el párrafo como una argumentación y no como una simple suma de datos. En este caso, la frase que empieza con \"por eso\" recoge lo demostrado antes y por eso es la conclusión del párrafo. Una opción distractora se reconoce cuando incluye información que el texto no da, o cuando afirma lo contrario de lo que el texto sostiene.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v4",
+      "statement": "En el párrafo anterior, ¿qué elemento funciona como evidencia de la afirmación final de la maestra?",
+      "context": "Una maestra de Medellín quiso saber si un cuento corto funcionaba mejor que un cuento largo para asumir la lectura de grado séptimo. Aplicó una encuesta a 40 estudiantes después de la clase. El 80 % dijo que había entendido mejor el final del cuento corto, y el 65 % afirmó que volvería a leer un cuento corto por gusto propio. Por eso, la maestra concluye que el cuento corto funciona mejor que el cuento largo para iniciar a los estudiantes en la literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biografía del autor del cuento corto.",
+          "is_correct": false,
+          "feedback": "Los datos biográficos del autor no aparecen en el texto y, además, no permitirían medir la comprensión de los estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "El número de páginas que tiene el cuento largo.",
+          "is_correct": false,
+          "feedback": "El párrafo no menciona la extensión de ninguna obra, y la extensión por sí sola no prueba la comprensión lectora."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de libros que la librería de la barrio vendió durante la feria.",
+          "is_correct": false,
+          "feedback": "Es un dato de ventas, pero no mide la comprensión de la lectura, de modo que no sostiene la afirmación de la maestra."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado de la encuesta aplicada a 40 estudiantes de séptimo grado.",
+          "is_correct": true,
+          "feedback": "La afirmación final, \"el cuento corto funciona mejor\", se apoya en un dato comprobable obtenido con una encuesta y un número concreto de participantes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una opinión argumentada se construye con tres piezas: la afirmación, la evidencia y la razón que las une. Reconocer cuál de ellas es la evidencia es un ejercicio de análisis del discurso muy útil para la vida académica. En este caso, la maestra afirma que el cuento corto funciona mejor, y esa afirmación solo tiene sentido si se apoya en el resultado medido con estudiantes reales, en un lugar y con un propósito definidos. Un dato irrelevante, como la biografía del autor, o un dato ausente, como el número de páginas, no puede sostener la afirmación, aunque sea cierto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las cuatro oraciones deja la opinión y su apoyo unidos en una sola frase verificable?",
+      "context": "En el cuaderno de la unidad aparecen cuatro oraciones que describen el cuento \"El último bus\": la oración 1 dice \"El relato transmite la idea del esfuerzo\"; la oración 2 dice \"Todos los personajes vuelven a levantarse después de fallar\"; la oración 3 dice \"El relato transmite la idea del esfuerzo porque todos los personajes vuelven a levantarse después de fallar\"; y la oración 4 dice \"Según el relato, ningún personaje vuelve a levantarse después de fallar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oración 3, porque une la afirmación con la razón mediante \"porque\" dentro de una misma estructura.",
+          "is_correct": true,
+          "feedback": "La oración 3 contiene la afirmación, el dato que la apoya y el conector causal que vuelve explícita la relación entre ambos."
+        },
+        {
+          "letter": "B",
+          "text": "La oración 1, porque es la más corta y por eso la más clara.",
+          "is_correct": false,
+          "feedback": "La oración 1 es solo la afirmación: no incluye ninguna razón, de modo que deja la opinión sin apoyo."
+        },
+        {
+          "letter": "C",
+          "text": "La oración 2, porque ya cuenta lo que hace el cuento.",
+          "is_correct": false,
+          "feedback": "La oración 2 contiene únicamente la evidencia y no dice qué valor tiene ese dato, así que no forma un argumento."
+        },
+        {
+          "letter": "D",
+          "text": "La oración 4, porque suena segura y por eso sirve como prueba.",
+          "is_correct": false,
+          "feedback": "Además de contradecir el relato, la oración 4 solo expresa seguridad, y la seguridad de la voz no reemplaza una evidencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando se escribe una opinión, no basta con poner juntas la afirmación y el dato: hay que mostrar cómo se relacionan. La oración 3 lo consigue porque el conector \"porque\" convierte el dato en la razón de la afirmación, de modo que cualquier lector puede seguir el razonamiento. La oración 1 es una opinión sin base, la 2 es un dato sin valoración y la 4 es un dato falso. Reconocer esta diferencia ayuda a reescribir los textos propios, con menos afirmaciones rotas y con razones expresadas con claridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintactico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v6",
+      "statement": "¿Qué ganancia aporta la segunda versión de Andrés frente a la primera?",
+      "context": "Después de la clase, Andrés escribió su comentario sobre la novela \"La casa de los espejos\" en dos versiones. La primera decía: \"Este libro es horrible\". La segunda decía: \"Este libro es horrible porque su protagonista no cambia nunca: en los cuatro capítulos que leí, tomó las mismas decisiones y yo ya sabía cómo terminaba cada una\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta un tono más fuerte, que es lo que hace convincente a una opinión.",
+          "is_correct": false,
+          "feedback": "La fuerza del tono puede incomodar, pero no convence, porque la segunda versión convence por sus pruebas y no por su volumen."
+        },
+        {
+          "letter": "B",
+          "text": "Aporta pruebas concretas y comprobables que permiten a otro lector juzgar la opinión por sí mismo.",
+          "is_correct": true,
+          "feedback": "Al mencionar los cuatro capítulos y el comportamiento del protagonista, Andrés ofrece datos que un lector puede verificar en el libro."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte la opinión en un dato objetivo y medible.",
+          "is_correct": false,
+          "feedback": "Andrés sigue expresando una valoración personal, lo que cambia es que ahora la valoración viene acompañada de razones comprobables."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la opinión y deja únicamente información neutral.",
+          "is_correct": false,
+          "feedback": "La segunda versión sigue siendo valorativa (\"horrible\"), solo que ahora se apoya en razones, de modo que la opinión no desaparece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la calidad de un argumento implica preguntar qué cambiaría para que la opinión fuera más sólida. En este caso, la diferencia está en la cantidad y en la calidad de las razones: la primera versión es un juicio sin fundamento y la segunda muestra en qué capítulos y en qué consiste el problema, de modo que el lector puede estar de acuerdo o en desacuerdo con argumentos. Añadir razones comprobables no cambia la opinión del autor de la reseña, cambia su validez como argumento. Esa es la diferencia entre expresar y defender una opinión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v7",
+      "statement": "¿Qué función cumple la segunda oración respecto a la primera y respecto al sentido del párrafo?",
+      "context": "En el blog del colegio de Pereira, un grupo de séptimo grado publicó esta reseña de un capítulo de la novela de Rómulo Gallegos: \"El autor presenta al personaje con un nombre que suena apacible. Sin embargo, las escenas que se narran en los llanos muestran a una mujer que resuelve con violencia y engaño los problemas que encuentra. Esta contradicción no es un descuido del escritor: muestra que el nombre no siempre dice lo que el personaje es\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repite la primera oración con otras palabras, para darle más peso.",
+          "is_correct": false,
+          "feedback": "No hay repetición, porque la segunda oración agrega información sobre las acciones del personaje que la primera no contenía."
+        },
+        {
+          "letter": "B",
+          "text": "Introduce un dato completamente ajeno, que no se relaciona con la primera oración.",
+          "is_correct": false,
+          "feedback": "Las escenas de los llanos hablan del mismo personaje que el nombre menciona, de modo que la relación entre las oraciones es directa."
+        },
+        {
+          "letter": "C",
+          "text": "Corrige la expectativa que crea la primera y así sostiene la idea de que esa contradicción es deliberada.",
+          "is_correct": true,
+          "feedback": "El \"sin embargo\" enlaza las dos oraciones: la segunda desmiente la impresión del nombre y la tercera explica que ese contraste es intencional."
+        },
+        {
+          "letter": "D",
+          "text": "Contradice la idea central del párrafo y por eso lo deja incoherente.",
+          "is_correct": false,
+          "feedback": "La tercera oración integra las dos anteriores y las convierte en una sola idea, así que el párrafo sí tiene unidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores que se usan para contradecir una expectativa, como \"sin embargo\" o \"a pesar de\", son herramientas de argumentación: no solo anuncian un cambio, lo justifican. En este párrafo, la primera oración despierta una expectativa y la segunda la desmiente, y esa tensión es precisamente lo que el párrafo quiere analizar. Reconocer que la contradicción es el tema y no un error de redacción permite comprender la tesis del párrafo: el nombre de un personaje no garantiza su comportamiento. Analizar cómo se construyen estas relaciones es lo que permite escribir después una reseña propia con la misma claridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué los dos textos sobre la misma obra se escriben de manera tan distinta?",
+      "context": "Dos grupos de un colegio de Barranquilla escribieron reseñas de la misma novela. El grupo A, dirigido a sus compañeros, escribió: \"Si te gustan las historias de abuela, esta es la tuya; el capítulo del mercado no lo vas a soltar\". El grupo B, dirigido al boletín del colegio, escribió: \"La obra permite discutir la situación de las mujeres rurales en 1950 y conectarla con la historia del país; se recomienda como lectura complementaria para el área de sociales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque solo uno de los grupos leyó la novela completa.",
+          "is_correct": false,
+          "feedback": "El texto no da ninguna pista de que un grupo haya leído más que el otro, y la diferencia está en el destinatario y no en la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el boletín del colegio exige reseñas más largas que las de los compañeros.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos textos menciona una extensión obligatoria, y lo que cambia entre ellos es el tono y no la longitud."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en el boletín no se puede opinar sobre una obra literaria.",
+          "is_correct": false,
+          "feedback": "El texto del boletín también valora la obra, solo que con un lenguaje académico, de modo que lo que se evita no es la opinión sino la forma coloquial."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cambian los lectores a los que se dirigen, y cada uno necesita una información y un tono distintos.",
+          "is_correct": true,
+          "feedback": "El primer texto busca una experiencia de lectura compartida y el segundo un valor académico, de modo que ambos se ajustan a su audiencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Escribir para alguien significa tomar decisiones sobre el lenguaje. La misma valoración cambia de forma según quién la vaya a leer: hacia un compañero se vale la experiencia compartida, con frases como \"no lo vas a soltar\", y hacia un boletín se vale el valor académico y la relación con los temas del curso. Analizar estos dos registros en paralelo enseña que el tono no es un adorno, sino una decisión que responde al propósito y a la audiencia. Quien domina este recurso puede escribir el mismo juicio en un mensaje y en un informe, sin que ninguno de los dos textos pierda su fuerza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatic",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación corresponde a la opinión que Mariana escribió?",
+      "context": "En una tarea de opinión argumentada, Mariana escribió en su cuaderno: \"La historia del mito del Patamar es la mejor del país, porque todos la han contado durante generaciones y a nadie le gusta cambiarla\". En la siguiente clase, su compañera le pidió completar la frase con una comparación con otro relato del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La opinión no queda sostenida, porque generaliza a partir de un dato de tradición y no compara ni admite excepciones.",
+          "is_correct": true,
+          "feedback": "La tradición oral es un dato válido y verificable, pero por sí solo no permite afirmar que un relato sea la mejor historia del país."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión está bien sustentada, porque la tradición oral es una fuente objetiva e imposible de cuestionar.",
+          "is_correct": false,
+          "feedback": "Ninguna fuente es imposible de cuestionar, y además la tradición oral se transmite de maneras distintas según la región y el grupo."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión falla únicamente porque está escrita en una sola oración.",
+          "is_correct": false,
+          "feedback": "La extensión no determina la calidad de un argumento, porque lo decisivo es la solidez de las razones que se ofrecen."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión es débil porque los relatos orales no pueden escribirse ni estudiarse en clase.",
+          "is_correct": false,
+          "feedback": "Los relatos orales sí se pueden escribir y estudiar, de modo que esa limitación no explica por qué el argumento sería débil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un argumento exige separar lo que sí tiene respaldo de lo que se afirma sin comparaciones. En este caso, el dato histórico es legítimo y puede verificarse, pero la conclusión amplía el alcance de ese dato hasta convertirlo en un juicio superlativo. Un buen evaluador no se limita a decir si está de acuerdo: señala con precisión dónde se debilita el razonamiento, en este paso en la generalización sin excepciones. Reconocer ese punto de fallo es lo que permite mejorar el propio texto y defender mejor una opinión en una discusión oral.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de los cuatro cierres propuestos completa mejor la reseña de Andrés?",
+      "context": "Andrés prepara la reseña de una novela de ciencia ficción colombiana para el boletín del colegio. Ya escribió su idea central: \"La novela imagina un mundo donde nadie duerme y todos trabajan de noche; eso puede ser divertido, pero creo que es exagerado\". Ahora debe escribir el cierre de su reseña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"En fin, es solo un libro, lean lo que quieran\".",
+          "is_correct": false,
+          "feedback": "Repite una opinión sin aportar razones y cierra con una actitud de indiferencia, en lugar de sostener lo afirmado sobre la exageración."
+        },
+        {
+          "letter": "B",
+          "text": "\"Además, en la página 80 se muestra que el protagonista tampoco duerme nunca, lo cual confirma que el insomnio no es solo un recurso para la trama, sino una regla del mundo. Por eso la exageración puede incomodar, pero la novela conserva su lógica y se recomienda\".",
+          "is_correct": true,
+          "feedback": "Reforza la idea central con una evidencia concreta y citada, y además responde al riesgo de la propia opinión, de modo que el texto queda sostenido."
+        },
+        {
+          "letter": "C",
+          "text": "\"La mejor novela de ciencia ficción colombiana\".",
+          "is_correct": false,
+          "feedback": "Es una afirmación de valor sin ninguna prueba y no responde al punto que el párrafo había dejado abierto sobre el insomnio."
+        },
+        {
+          "letter": "D",
+          "text": "\"La novela tiene 300 páginas, fue publicada en Bogotá en 2019 y su autor nació en Manizales\".",
+          "is_correct": false,
+          "feedback": "Son datos verificables, pero no se relacionan con la idea central del párrafo, de modo que la opinión queda sin apoyo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cerrar un texto argumentativo es la última oportunidad de sostener lo que se afirmó. Un cierre eficaz hace tres cosas: retoma la idea central, la apoya con una evidencia concreta y responde a la objeción más fuerte. La opción A cumple las tres, porque el dato de la página 80 confirma la ley del mundo y, a la vez, matiza la crítica en lugar de ocultarla. Las otras opciones fallan por motivos distintos: B es una renuncia, C es un superlativo sin pruebas y D es un conjunto de datos ciertos pero ajenos al argumento. Evaluar el cierre de un texto enseña a escribir la última línea con la misma cautela que la primera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Textual",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
