@@ -14,15 +14,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Fosas nasales, faringe, laringe, traquea, bronquios, bronquiolos y alvéolos",
-          "is_correct": true,
-          "feedback": "Es la secuencia correcta: el aire entra por las fosas nasales, desciende por la faringe y la laringe, recorre la traquea, se ramifica en bronquios y bronquiolos y termina en los alvéolos, donde ocurre el intercambio de gases."
-        },
-        {
-          "letter": "B",
           "text": "Fosas nasales, laringe, faringe, bronquios, traquea y alvéolos",
           "is_correct": false,
           "feedback": "Invierte la faringe con la laringe y la traquea con los bronquios; el orden real es faringe, laringe, traquea y solo después bronquios y bronquiolos."
+        },
+        {
+          "letter": "B",
+          "text": "Fosas nasales, faringe, laringe, traquea, bronquios, bronquiolos y alvéolos",
+          "is_correct": true,
+          "feedback": "Es la secuencia correcta: el aire entra por las fosas nasales, desciende por la faringe y la laringe, recorre la traquea, se ramifica en bronquios y bronquiolos y termina en los alvéolos, donde ocurre el intercambio de gases."
         },
         {
           "letter": "C",
@@ -37,7 +37,7 @@
           "feedback": "Sitúa la laringe al final, después de los alvéolos; la laringe pertenece a la vía respiratoria superior y precede a la traquea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La vía respiratoria se divide en dos regiones: la vía respiratoria superior, formada por las fosas nasales, la faringe y la laringe, y la vía respiratoria inferior, que comprende la traquea, los bronquios, los bronquiolos y los alvéolos. La función de conducción es transportar, calentar, humidificar y filtrar el aire inspirado antes de que alcance los alvéolos. La faringe, o garganta, es un paso obligado para el aire y también para los alimentos, por eso durante la deglución la glotis se cierra y protege la vía respiratoria. Recordar este orden permite explicar por qué los objetos inhalados se alojan con frecuencia en los bronquios y por qué una infección de las vías respiratorias superiores puede extenderse a las inferiores.",
       "difficulty": "4",
       "images": [],
@@ -60,9 +60,9 @@
       "options": [
         {
           "letter": "A",
-          "text": "El diafragma se contrae y se aplana al inspirar, aumentando el volumen torácico y permitiendo la entrada de aire",
-          "is_correct": true,
-          "feedback": "Al contraerse, el diafragma se aplana y desciende, lo que aumenta el volumen de la cavidad torácica y reduce la presión alveolar por debajo de la atmosférica, permitiendo la inspiración."
+          "text": "El diafragma se contrae durante la espiración, comprimiendo la cavidad torácica para expulsar el aire",
+          "is_correct": false,
+          "feedback": "En la espiración forzada el diafragma se relaja y además se reclutan los músculos abdominales y los intercostales internos; nunca se contrae para expulsar aire."
         },
         {
           "letter": "B",
@@ -78,12 +78,12 @@
         },
         {
           "letter": "D",
-          "text": "El diafragma se contrae durante la espiración, comprimiendo la cavidad torácica para expulsar el aire",
-          "is_correct": false,
-          "feedback": "En la espiración forzada el diafragma se relaja y además se reclutan los músculos abdominales y los intercostales internos; nunca se contrae para expulsar aire."
+          "text": "El diafragma se contrae y se aplana al inspirar, aumentando el volumen torácico y permitiendo la entrada de aire",
+          "is_correct": true,
+          "feedback": "Al contraerse, el diafragma se aplana y desciende, lo que aumenta el volumen de la cavidad torácica y reduce la presión alveolar por debajo de la atmosférica, permitiendo la inspiración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ventilación pulmonar se explica con la relación entre presión y volumen descrita por la ley de los gases ideales. Durante la inspiración el diafragma se contrae, se aplana y desciende, el tórax se expande, la presión alveolar baja y el aire entra. Durante la espiración el diafragma se relaja y recupera su forma de cúpula, el volumen torácico disminuye, la presión alveolar supera la atmosférica y el aire sale. La inspiración profunda recluta además los intercostales externos, mientras que la espiración forzada usa los músculos abdominales y los intercostales internos. Comprender que el movimiento del diafragma es automático e involuntario explica por qué la respiración se mantiene incluso durante el sueño.",
       "difficulty": "4",
       "images": [],
