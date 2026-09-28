@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-15-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T07:50:44.516Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición correcta de presión en la física?",
+      "context": "En el laboratorio de física de un colegio de Medellín, la profesora escribe la palabra presión en el tablero y pide al grupo definirla antes de iniciar el tema de los líquidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de todas las fuerzas que actúan sobre un cuerpo que se encuentra en equilibrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la idea de equilibrio de fuerzas, no la definición de presión, que relaciona una fuerza con la superficie donde actúa."
+        },
+        {
+          "letter": "B",
+          "text": "La relación entre la magnitud de la fuerza aplicada y el área de la superficie sobre la que actúa",
+          "is_correct": true,
+          "feedback": "Correcto. La presión es la relación entre la fuerza y el área de contacto, y se mide en pascales, con P igual a F sobre A."
+        },
+        {
+          "letter": "C",
+          "text": "La energía que un medio material transmite cuando se deforma por efecto de una fuerza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a la energía del medio deformado, no a la presión, que es una relación entre fuerza y área."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de materia contenida en un volumen determinado de fluido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la densidad, que describe qué tan masivo es un fluido por unidad de volumen y no la presión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La presión describe cómo se distribuye una fuerza sobre una superficie. Se obtiene al dividir la magnitud de la fuerza entre el área de contacto y se expresa en pascales. Esta relación explica por qué un mismo empuje produce más molestia en un punto pequeño que en una superficie amplia, y es la base para entender la presión en los líquidos, en los gases y en los sólidos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v2",
+      "statement": "Cuatro estudiantes discuten por qué la presión atmosférica no aplasta a las personas que viven en la superficie terrestre. ¿Cuál explicación es la correcta?",
+      "context": "Durante la clase sobre fluidos en Pereira, un estudiante pregunta por qué el aire que rodea el colegio no lo aplasta contra el piso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la atmósfera ejerce presión en todas las direcciones y los líquidos y tejidos del cuerpo ejercen una presión interna que la equilibra",
+          "is_correct": true,
+          "feedback": "Correcto. La presión atmosférica actúa desde todas las direcciones y se compensa con la presión que los fluidos internos del cuerpo aplican sobre sus tejidos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la presión atmosférica solo actúa hacia abajo sobre la superficie de la Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión atmosférica no es solamente vertical: el aire que rodea el cuerpo lo empuja hacia arriba y hacia los lados."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el aire tiene una masa tan pequeña que genera una presión despreciable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el aire parece poco denso, la columna de aire sobre nosotros es muy alta y su peso en conjunto produce una presión apreciable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la gravedad desaparece en la superficie terrestre y por eso nada presiona",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad es precisamente la que da peso al aire y, con ella, se origina la presión atmosférica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión atmosférica es la presión que ejerce el peso de la columna de aire sobre la superficie. Como los fluidos transmiten la presión en todas las direcciones, el aire empuja también hacia arriba y hacia los costados. Esa presión se compensa por la presión que ejercen los líquidos y los tejidos del organismo, de modo que el cuerpo mantiene su volumen y su forma en equilibrio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el enunciado correcto del principio de Arquímedes?",
+      "context": "En el taller de ciencias de Cartagena, la profesora sumerge en un balde una lata metálica y una botella de plástico para introducir el tema de flotabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo cuerpo sumergido en un fluido experimenta una fuerza hacia abajo igual al peso del fluido que desplaza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección de esa fuerza es la contraria: el fluido ejerce una fuerza ascendente sobre el cuerpo sumergido."
+        },
+        {
+          "letter": "B",
+          "text": "Un cuerpo sumergido en un fluido sube porque la presión del fluido es mayor en la superficie que en el fondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión de un fluido en reposo es mayor a mayor profundidad, y la flotabilidad se explica por la diferencia de presiones entre la parte baja y la parte alta del cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "Todo fluido ejerce sobre los objetos que lo Issermen una fuerza hacia abajo igual a su propio peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un fluido no empuja hacia abajo a los objetos que baña: la fuerza que ejerce sobre el cuerpo es siempre hacia arriba."
+        },
+        {
+          "letter": "D",
+          "text": "Todo cuerpo sumergido en un fluido experimenta una fuerza hacia arriba igual al peso del fluido que desplaza",
+          "is_correct": true,
+          "feedback": "Correcto. El principio de Arquímedes establece que el fluido ejerce una fuerza ascendente de magnitud igual al peso del volumen de fluido que el cuerpo desplaza."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El principio de Arquímedes afirma que todo cuerpo parcial o totalmente sumergido en un fluido en reposo experimenta una fuerza hacia arriba cuya magnitud es igual al peso del fluido que desplaza. Si esa fuerza supera el peso del cuerpo, el cuerpo sube hasta flotar en la superficie; si es menor, el cuerpo se hunde. La causa física es que la presión del líquido es mayor en la parte inferior del cuerpo que en la superior.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v4",
+      "statement": "En una prensa hidráulica, un pistón pequeño de 0,01 m² recibe una fuerza de 150 N. El pistón grande tiene un área de 0,50 m². Por el principio de Pascal, ¿qué fuerza máxima se obtiene en el pistón grande?",
+      "context": "En un taller de mantenimiento de Cali, un estudiante ayuda a operar una prensa hidráulica y registra el área de los dos pistones para calcular la fuerza necesaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 N, porque la fuerza se calcula restando el área del pistón grande menos la del pistón pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio de Pascal relaciona fuerzas y áreas mediante una proporción y nunca mediante restas entre áreas."
+        },
+        {
+          "letter": "B",
+          "text": "300 N, porque basta con sumar las dos fuerzas que actúan sobre la prensa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas no se suman de manera directa: la fuerza de salida depende de la razón entre las áreas de los pistones."
+        },
+        {
+          "letter": "C",
+          "text": "7.500 N, porque la fuerza se multiplica por la razón entre las áreas de los pistones",
+          "is_correct": true,
+          "feedback": "Correcto. Como la presión se transmite sin cambios, la fuerza es proporcional al área: 150 N por la razón 0,50 sobre 0,01 equivalen a 7.500 N."
+        },
+        {
+          "letter": "D",
+          "text": "15.000 N, porque la fuerza del pistón grande es la del pistón pequeño multiplicada por el área mayor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta dividir por el área del pistón pequeño: la razón que corresponde es 0,50 sobre 0,01 y no el área de 0,50 por sí sola."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El principio de Pascal establece que la presión aplicada a un fluido contenido en un recipiente se transmite íntegramente y en todas las direcciones. Como la presión es la relación entre fuerza y área, la fuerza de salida resulta proporcional al área del pistón mayor. En una prensa hidráulica, reducir mucho el área del pistón de entrada permite multiplicar la fuerza y así mover cargas muy pesadas con poco esfuerzo, como ocurre en elevadores y en grúas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.84,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v5",
+      "statement": "Un bloque pesa 200 N y tiene un volumen de 0,015 m³. Si la densidad del agua es 1.000 kg/m³ y la aceleración de la gravedad es 10 m/s², ¿qué ocurre al ponerlo completamente en el agua?",
+      "context": "En la piscina municipal de Barranquilla, una estudiante introduce un bloque de espuma en el agua para comprobar su comportamiento con el principio de Arquímedes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flota, porque todo cuerpo cuyo volumen sea menor de 0,020 m³ permanece en la superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe un volumen límite universal para flotar: lo que decide es la comparación entre la densidad del cuerpo y la del fluido."
+        },
+        {
+          "letter": "B",
+          "text": "Se hunde, porque el peso del agua desplazada (150 N) es menor que su peso (200 N)",
+          "is_correct": true,
+          "feedback": "Correcto. El agua desplazada pesa 1.000 kg/m³ por 0,015 m³ por 10 m/s², es decir 150 N, una fuerza ascendente menor que los 200 N del bloque."
+        },
+        {
+          "letter": "C",
+          "text": "Queda suspendido en el agua, porque la presión atmosférica lo sostiene en cualquier punto del recipiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión atmosférica no sostiene al bloque dentro del agua: lo que actúa sobre él es la fuerza de flotabilidad y su propio peso."
+        },
+        {
+          "letter": "D",
+          "text": "Flota, porque el volumen del agua desplazada es menor que el volumen total del bloque",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación de volúmenes no decide la flotabilidad: la fuerza de Arquímedes se compara con el peso y no el volumen con el volumen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un cuerpo flota si su densidad es menor que la del fluido y se hunde si es mayor. Al calcular la masa de agua desplazada, que resulta de multiplicar la densidad por el volumen, y convertirla en peso, se obtiene la fuerza ascendente de Arquímedes. Al comparar esa fuerza con el peso del bloque se decide el comportamiento: en este caso, 150 N frente a 200 N, el bloque se hunde porque es más denso que el agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v6",
+      "statement": "Un estudiante aplica la misma fuerza de 20 N primero con un dedal de 2 cm² de área y luego con un tapón de 0,2 cm² de área. ¿Qué ocurre con la presión en cada caso?",
+      "context": "En el taller de física de Bogotá, la profesora pide comparar dos maneras de aplicar la misma fuerza con un dinamómetro, una con un dedal y otra con un tapón grande.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presión en el dedal es cien veces mayor, porque al dividir la misma fuerza entre un área cien veces menor la presión se multiplica por cien",
+          "is_correct": true,
+          "feedback": "Correcto. Como la presión es la fuerza dividida por el área, reducir el área cien veces con la misma fuerza incrementa la presión cien veces."
+        },
+        {
+          "letter": "B",
+          "text": "La presión es igual en los dos casos, porque la fuerza aplicada es la misma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión depende tanto de la fuerza como del área; con la fuerza constante, un área menor produce una presión mayor."
+        },
+        {
+          "letter": "C",
+          "text": "La presión en el dedal es diez veces mayor, porque el área se redujo en esa proporción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción de área va de 2 cm² a 0,2 cm², es decir una división por cien y no por diez."
+        },
+        {
+          "letter": "D",
+          "text": "La presión en el dedal es menor, porque un área menor siempre disminuye la presión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es la contraria a la del enunciado: menos área con la misma fuerza produce más presión, como ocurre con la punta de una aguja."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión depende de cómo se distribuye la fuerza sobre la superficie. Si la fuerza se mantiene constante y el área se reduce, la presión aumenta en la misma proporción en que disminuye el área. Este principio explica por qué las agujas médicas, las espinas de cactus y los clavos tienen puntas muy estrechas: concentran la fuerza en una superficie mínima y así atraviesan o presionan con facilidad el material.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v7",
+      "statement": "Las grandes represas se construyen con una base mucho más ancha que la parte superior. ¿Cuál es el análisis que explica correctamente esta característica?",
+      "context": "Durante una visita a un embalse en Boyacá, el profesor de física explica a los estudiantes por qué las represas son más anchas en su base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua de la base del embalse está más caliente y por eso ocupa más volumen que el agua de la superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de temperatura no explica la forma de la represa: el agua profunda está incluso más fría por la estratificación."
+        },
+        {
+          "letter": "B",
+          "text": "La base es ancha por tradición de construcción, sin ninguna relación con las fuerzas que ejerce el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de la represa responde a razones físicas: debe resistir la fuerza que el agua almacenada ejerce sobre ella."
+        },
+        {
+          "letter": "C",
+          "text": "En el fondo la presión es menor, por eso la base puede ser más estrecha sin riesgo de romperse",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión en el fondo es la más alta porque depende de la profundidad, y por eso la base es la zona más solicitada de la obra."
+        },
+        {
+          "letter": "D",
+          "text": "La presión del agua aumenta con la profundidad y en la base actúa sobre una gran superficie, de modo que la fuerza total es mucho mayor",
+          "is_correct": true,
+          "feedback": "Correcto. Primero aumenta la presión con la profundidad y segundo se acumula sobre un área amplia, sumando una fuerza enorme que la base debe soportar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis tiene dos pasos. En un fluido en reposo, la presión aumenta de manera proporcional con la profundidad. Además, la fuerza total sobre una superficie es el producto de la presión por el área. En la base de un embalse se combinan la mayor presión y una gran superficie, de modo que la fuerza sobre la muralla es máxima allí. Por eso los ingenieros ensanchan la base y la construyen con materiales de alta resistencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v8",
+      "statement": "Dos bloques tienen el mismo volumen de 0,002 m³: el bloque A tiene una masa de 1,6 kg y el bloque B una masa de 2,4 kg. Se colocan por separado en aceite de densidad 900 kg/m³. ¿Qué ocurre con cada bloque?",
+      "context": "En el laboratorio de física de un colegio de Pasto, dos grupos de estudiantes preparan muestras de distinta densidad para compararlas en un recipiente con aceite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos flotan, porque tienen el mismo volumen y el volumen es lo único que determina la flotabilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen por sí solo no decide: la fuerza de Arquímedes depende del peso del fluido desplazado, que se compara con el peso del bloque."
+        },
+        {
+          "letter": "B",
+          "text": "El bloque B flota y el bloque A se hunde, porque el bloque A es el más pesado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al calcular las densidades, A tiene 800 kg/m³ y B tiene 1.200 kg/m³, de modo que el bloque de mayor masa no es necesariamente el que flota."
+        },
+        {
+          "letter": "C",
+          "text": "El bloque A flota y el bloque B se hunde, porque solo A tiene densidad menor que la del aceite",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se calcula la densidad de cada bloque, 800 y 1.200 kg/m³, y al compararlas con los 900 kg/m³ del aceite se ve que solo A es menos denso que el fluido."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos se hunden, porque cualquier sólido se hunde en un líquido de esa consistencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sólido flota en un fluido cuando su densidad es menor que la del fluido, y el bloque A cumple precisamente esa condición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para decidir el comportamiento de un cuerpo en un fluido no bastan la masa ni el volumen por separado: hay que calcular la densidad del cuerpo y compararla con la del fluido. El bloque A tiene una densidad de 800 kg/m³, menor que los 900 kg/m³ del aceite, por lo que flota; el bloque B tiene 1.200 kg/m³, mayor que la del aceite, por lo que se hunde. Este es el mismo criterio que se aplica al aceite y al agua en la cocina y en la industria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v9",
+      "statement": "La presión medida en el fondo de una piscina, a 30 m de profundidad, es aproximadamente tres veces la presión medida a 10 m de profundidad. ¿Qué explica esta relación?",
+      "context": "En la clase de física de Armenia, un grupo de estudiantes mide la presión del agua con un manómetro a dos profundidades distintas de la piscina del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presión del líquido es proporcional a la profundidad, porque en un fluido en reposo aumenta de manera uniforme con la altura de la columna de líquido",
+          "is_correct": true,
+          "feedback": "Correcto. Como P es igual a la densidad por la gravedad por la altura, al triplicar la profundidad se triplica la presión, y la columna de líquido la origina."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas presiones son iguales, porque la presión de un líquido es la misma en cualquier punto del recipiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un fluido en reposo la presión solo es igual en puntos que están a la misma profundidad, porque varía con la altura."
+        },
+        {
+          "letter": "C",
+          "text": "La presión a 10 m es el triple porque allí el agua pesa más que en el fondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la superficie hay agua por encima, pero la mayor cantidad de columna de líquido está sobre el punto más profundo del recipiente."
+        },
+        {
+          "letter": "D",
+          "text": "La presión del fondo es el triple solo porque el manómetro del fondo es de mayor diámetro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El instrumento no determina la relación entre las presiones: la diferencia se explica por la diferencia de profundidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La presión hidrostática se calcula multiplicando la densidad del fluido por la aceleración de la gravedad y por la altura, de modo que es directamente proporcional a la profundidad. A 30 m hay el triple de columna de líquido que a 10 m y, por eso, la presión medida es aproximadamente el triple. Este modelo explica el aumento de la presión con la profundidad en mares, lagos y pozos, y es el fundamento del diseño de estructuras sumergidas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v10",
+      "statement": "Un equipo de ingeniería propone mantener la altura del muro de un embalse pero construirlo con la mitad de grosor, argumentando que el agua ejerce la misma presión porque la altura no cambia. ¿Cuál es la evaluación correcta de esa propuesta?",
+      "context": "En un proyecto escolar de Tunja, un equipo de estudiantes propone cambiar el muro de un embalse de concreto por uno más delgado del mismo material.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es correcta, porque con la misma altura la presión del agua sobre el muro es idéntica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión sí es la misma, pero la fuerza total sobre el muro depende además del área, y un muro más delgado resiste menos."
+        },
+        {
+          "letter": "B",
+          "text": "La presión en la base depende de la profundidad, pero la fuerza total depende del área, así que un muro más delgado resiste menos empuje del agua",
+          "is_correct": true,
+          "feedback": "Correcto. La altura fija la presión, pero al reducir el grosor se reduce el área que recibe esa presión y con ella la capacidad de resistir el empuje."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es correcta si se usa un concreto más resistente, porque la presión del agua no cambia al adelgazar el muro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el material sea más fuerte, la pérdida de área reduce la superficie que compensa la fuerza del agua sobre la obra."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia entre las dos opciones, porque la presión y la fuerza son la misma magnitud física",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son magnitudes distintas: la presión es fuerza sobre unidad de área y la fuerza total es el producto de la presión por el área."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar el diseño de una obra exige distinguir magnitudes que a menudo se confunden. La profundidad del embalse fija la presión hidrostática en la base, pero la fuerza total que debe resistir el muro es el producto de esa presión por el área de la superficie en contacto. Reducir el grosor a la mitad reduce el área disponible y, con ella, la capacidad de resistir el empuje del agua. Por eso el ensanchamiento de la base responde a la física de los fluidos y no es un capricho.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma: \"Un balón de hule flota en el agua porque es ligero. Si lo lleno de agua, seguirá flotando porque el material sigue siendo ligero\". ¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En la clase de física de Neiva, una estudiante muestra a sus compañeros un balón de hule que flota en la piscina del colegio y propone llenarlo de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el volumen del balón no cambia al llenarlo de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el volumen externo varíe poco, lo que aumenta es la masa total y, con ella, la densidad media del conjunto."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta porque la masa del balón cambia según la presión del aire que lo rodea",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión del aire es prácticamente la misma antes y después de la inmersión; el cambio de masa proviene del agua añadida."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque cualquier objeto de hule flota siempre en el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Flotar depende de la densidad del conjunto y no del material por sí solo: un objeto de hule relleno de agua deja de flotar."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es contradictoria, porque al llenarlo de agua aumenta su densidad media, se desplaza más agua y la flotabilidad ya no iguala su peso",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza de Arquímedes depende del volumen exterior, que casi no cambia, mientras que el peso aumenta y termina superando a la flotabilidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La fuerza de Arquímedes depende del volumen exterior del cuerpo, porque el volumen de la envoltura no cambia apreciablemente al llenarlo. El peso, en cambio, sí aumenta: la masa del agua añadida supera con creces el aporte de la pared. Como la flotabilidad queda prácticamente fija y el peso crece, la diferencia entre ambos valores cambia de signo y el balón termina sumergiéndose. La conclusión general es que un cuerpo flota solo mientras su densidad total se mantiene menor que la del fluido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.52,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle-v12",
+      "statement": "Un tensiómetro mide la presión de la sangre mediante un manguito inflado alrededor del brazo. ¿Cuál es la explicación física correcta de su funcionamiento?",
+      "context": "En el taller de física de Bogotá, la profesora explica cómo un tensiómetro de brazalete, usado en las revisiones médicas, permite conocer la presión de la sangre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El manguito mide el volumen de sangre que circula por la arteria del brazo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aparato no mide volumen: mide presión, comparando la presión del manguito con la presión de la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "La lectura se obtiene porque el manguito pesa y por eso comprime los tejidos del brazo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medición no proviene del peso ni de la compresión de los tejidos, sino de la presión del gas dentro del manguito."
+        },
+        {
+          "letter": "C",
+          "text": "Al inflar el manguito se aumenta la presión hasta superar la de la sangre, y por Pascal esa presión se transmite por igual en todas las direcciones",
+          "is_correct": true,
+          "feedback": "Correcto. El gas del manguito transmite la presión de forma uniforme, lo que permite bloquear la circulación y leer la presión de equilibrio con la arterial."
+        },
+        {
+          "letter": "D",
+          "text": "La presión de la sangre se lee porque el aparato funciona como un barómetro basado en la altura de una columna de líquido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medición no depende de la altura de una columna de líquido, sino del equilibrio entre la presión del aire del manguito y la de la sangre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tensiómetro aplica el principio de Pascal y la presión de los gases a la medicina. Al bombear aire en el manguito, la presión del gas aumenta y, como los fluidos transmiten la presión en todas las direcciones, esa presión se aplica por igual sobre la arteria. Cuando la presión del manguito iguala la presión de la sangre, deja de circular por debajo del manguito y la lectura indica esa magnitud. Es un ejemplo cotidiano de la física de los fluidos en la salud pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W15-movimiento-y-fuerzas-en-liquidos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

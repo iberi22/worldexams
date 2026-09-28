@@ -1,0 +1,300 @@
+---
+id: "CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle"
+country: "colombia"
+grado: 9
+asignatura: "ciencias-naturales"
+tema: "genetica-y-leyes-de-la-herencia"
+periodo: "weekly"
+week: "W10"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia / Saber 9"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: Genética y Leyes de la Herencia - Grado 9
+
+Este bundle reúne 12 preguntas sobre la genética mendeliana: segregación de los genes, dominancia y recesividad, genotipos y fenotipos, probabilidad mendeliana, retrocruzamiento y el uso de pruebas de ADN aplicadas a la agroindustria colombiana, todo alineado con los DBA del MEN Colombia y el marco de evaluación Saber 9.
+
+## Question 1 [D3-D4]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.90
+**Contexto:** En el aula de ciencias naturales de un colegio de Bogotá, la profesora reparte fichas de colores para representar los cromosomas que recibe cada estudiante de sus padres.
+
+### Enunciado
+¿Qué característica de los cromosomas permite que la información genética pase de una generación a otra?
+
+### Opciones
+- [x] A) Se replican antes de la división celular y se reparten de manera ordenada entre las células hijas
+  <!-- feedback: Correcto. Los cromosomas se replican antes de la división y se separan de forma ordenada en la mitosis y la meiosis, y en ellos se encuentran los genes que codifican las características hereditarias. -->
+- [ ] B) Viajan disueltos en el citoplasma y se duplican al entrar en contacto con el aire
+  <!-- feedback: Incorrecto. El material genético está organizado en los cromosomas del núcleo, no disuelto libremente en el citoplasma, y no se duplica por contacto con el aire. -->
+- [ ] C) Aparecen después de la fecundación y desaparecen cuando la célula se divide
+  <!-- feedback: Incorrecto. Los cromosomas están presentes de manera permanente en la célula, y la continuidad de su número entre generaciones es justamente lo que hace posible explicar la herencia. -->
+- [ ] D) Solo los de la madre llegan a los hijos, porque los del padre se descartan en la fecundación
+  <!-- feedback: Incorrecto. En los organismos con reproducción sexual los cromosomas llegan de ambos progenitores, por eso los hijos se parecen a la madre y también al padre. -->
+
+### Explicacion Pedagogica
+Los cromosomas son las estructuras que llevan los genes dentro del núcleo. Al replicarse y separarse de manera ordenada durante las divisiones celulares, permiten que la información genética se copie y se transmita de una generación a la siguiente. Cuando un espermatozoide y un óvulo se unen, cada uno aporta la mitad de los cromosomas del nuevo individuo, y por eso un hijo hereda características de los dos progenitores. Estos conceptos son la base de todo el estudio de la herencia que aparece en las preguntas siguientes.
+
+## Question 2 [D3-D4]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.88
+**Contexto:** En una finca cafetera del Quindío, un productor explica a sus estudiantes por qué una planta de café tiene hojas de un solo color aunque sus dos progenitores fueran de colores distintos.
+
+### Enunciado
+Los genes tienen variantes que se llaman alelos. Si un alelo es dominante y el otro es recesivo, ¿qué ocurre en un organismo heterocigoto?
+
+### Opciones
+- [ ] A) Se manifiestan los dos alelos por igual en el fenotipo
+  <!-- feedback: Incorrecto. La expresión simultánea de dos alelos corresponde a la codominancia; en la dominancia completa solo se expresa el alelo dominante. -->
+- [ ] B) El organismo muestra el fenotipo recesivo porque tiene dos alelos
+  <!-- feedback: Incorrecto. El fenotipo recesivo solo se manifiesta cuando el organismo es homocigoto recesivo, con dos copias del alelo recesivo. -->
+- [x] C) Se expresa únicamente el alelo dominante y el recesivo queda enmascarado
+  <!-- feedback: Correcto. En dominancia completa basta una sola copia del alelo dominante para que su rasgo aparezca en el fenotipo, ocultando la expresión del recesivo. -->
+- [ ] D) El organismo no muestra ninguno de los dos alelos en su fenotipo
+  <!-- feedback: Incorrecto. El organismo sí muestra el rasgo dominante, porque el alelo recesivo está presente en su ADN aunque no se exprese en el fenotipo. -->
+
+### Explicacion Pedagogica
+Los genes tienen variantes que se llaman alelos, y la relación entre ellas define cómo se expresa un rasgo. Cuando un alelo es dominante, basta una sola copia para que su característica se manifieste, mientras que el alelo recesivo solo aparece en el fenotipo si el organismo tiene dos copias de él. Por eso en un organismo heterocigoto el alelo dominante se expresa y el recesivo queda enmascarado, aunque este último siga presente en el ADN. En el caso de la planta de café del contexto, esto explica por qué la descendencia muestra un solo color aunque los dos progenitores fueran distintos.
+
+## Question 3 [D3-D4]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.86
+**Contexto:** En clase de ciencias en Cartagena, la profesora escribe en el tablero cuatro combinaciones posibles y pide a los estudiantes que las ordenen para explicar la herencia del color de la flor.
+
+### Enunciado
+Según la ley de segregación de Mendel, ¿qué ocurre con los dos alelos de un mismo gen durante la formación de los gametos?
+
+### Opciones
+- [x] A) Se separan y cada gameto recibe solo uno de los dos alelos
+  <!-- feedback: Correcto. La ley de segregación establece que los dos alelos de un gen se separan y que cada gameto contiene un solo alelo del par, de modo que al unirse se restablece la pareja en el descendiente. -->
+- [ ] B) Se separan y ambos alelos quedan siempre en el mismo gameto
+  <!-- feedback: Incorrecto. Si ambos alelos quedaran en un mismo gameto no habría segregación, porque cada gameto debe llevar un solo alelo de cada gen. -->
+- [ ] C) Se mezclan entre sí formando nuevas combinaciones antes de la fecundación
+  <!-- feedback: Incorrecto. Los alelos de un mismo gen no se mezclan así; la recombinación ocurre entre genes ubicados en cromosomas distintos, no entre los dos alelos de un mismo gen. -->
+- [ ] D) Se eliminan de la célula después de la división
+  <!-- feedback: Incorrecto. Los alelos no se eliminan, se reparten: la información genética se conserva y se transmite a la descendencia, que es el fundamento de la herencia. -->
+
+### Explicacion Pedagogica
+La ley de segregación de Mendel establece que los dos alelos de un gen se separan durante la formación de los gametos, de manera que cada gameto contiene un solo alelo del par. Cuando ese gameto se une con otro, la pareja de alelos queda restablecida en el descendiente, lo que permite predecir, antes de cualquier prueba, qué proporciones de fenotipos aparecerán en cada generación. Mendel observó este comportamiento en la arveja, planta que usó en sus experimentos porque produce muchas semillas y presenta flores de colores distintos. Comprender esta separación es indispensable para analizar los cruces que se presentan a continuación.
+
+## Question 4 [D5-D6]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.82
+**Contexto:** En el laboratorio de biología de un colegio de Cali, los estudiantes hacen cruces de plantas de guisante y anotan el color de las flores de la descendencia en un cuaderno de resultados.
+
+### Enunciado
+Se cruzan dos plantas de guisante heterocigotas para el color de la flor, ambas con genotipo Rr, donde R es el alelo dominante para flor roja y r el recesivo para flor blanca. ¿Qué proporción de los descendientes esperados tendrá flores rojas?
+
+### Opciones
+- [ ] A) 25 % de flores rojas y 75 % de flores blancas
+  <!-- feedback: Incorrecto. Esa es la proporción de la cruza Rr por rr; al cruzar dos heterocigotos la proporción esperada es tres partes de flores rojas por cada parte de flores blancas. -->
+- [ ] B) 50 % de flores rojas y 50 % de flores blancas
+  <!-- feedback: Incorrecto. La proporción uno a uno corresponde a la cruza de un heterocigoto con un homocigoto recesivo; en la cruza de dos heterocigotos intervienen cuatro combinaciones posibles de igual probabilidad. -->
+- [x] C) 75 % de flores rojas y 25 % de flores blancas
+  <!-- feedback: Correcto. La cruza Rr por Rr produce RR, Rr, Rr y rr, de los cuales tres combinaciones llevan el alelo dominante y se manifiestan con flores rojas. -->
+- [ ] D) 100 % de flores rojas, porque toda la descendencia hereda al menos un alelo dominante
+  <!-- feedback: Incorrecto. Es cierto que todos reciben un alelo de cada progenitor, pero la cuarta combinación posible es rr, que muestra el fenotipo recesivo. -->
+
+### Explicacion Pedagogica
+Al cruzar dos individuos heterocigotos Rr, cada progenitor produce gametos con los alelos R y r en igual proporción. La combinación de estos gametos da lugar a cuatro resultados equiprobables: RR, Rr, Rr y rr. Como el alelo R es dominante, los tres primeros producen flores rojas y solo el último produce flores blancas, lo que se resume en la proporción fenotípica tres a uno y en la proporción genotípica uno a dos a uno. Este razonamiento, aplicado al cuaderno de resultados del laboratorio, permite a los estudiantes predecir los datos de la descendencia en lugar de solo registrarlos.
+
+## Question 5 [D5-D6]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.80
+**Contexto:** Un agrónomo de Boyacá que cultiva papa llega al colegio para explicar cómo decide qué semillas siembra para obtener plantas con la característica que sus clientes buscan.
+
+### Enunciado
+Un productor de papa cruza una planta con flores rojas (RR) y otra con flores rosadas (Rr), y entre sus descendientes encuentra plantas con genotipos RR, Rr y rr. ¿Qué se puede concluir a partir de estos resultados?
+
+### Opciones
+- [x] A) Cada descendiente recibe un alelo de cada uno de sus dos progenitores
+  <!-- feedback: Correcto. La aparición de los tres genotipos RR, Rr y rr solo es posible si cada descendiente hereda información genética de los dos progenitores, como ocurre en la herencia mendeliana. -->
+- [ ] B) La descendencia hereda exclusivamente el genotipo de la planta con flores rojas
+  <!-- feedback: Incorrecto. La presencia de descendientes Rr y rr demuestra que la planta rosada aporta también el alelo recesivo, así que la herencia no es exclusiva de un solo progenitor. -->
+- [ ] C) La descendencia hereda exclusivamente el genotipo de la planta con flores rosadas
+  <!-- feedback: Incorrecto. Si solo heredara el genotipo de la planta rosada no aparecería ningún descendiente RR, y ese genotipo sí está presente en la descendencia observada. -->
+- [ ] D) La descendencia hereda un número igual de alelos de cada progenitor, sin importar el color de la flor
+  <!-- feedback: Incorrecto. En una cruza sexual cada descendiente recibe un alelo de cada progenitor, y esa regla es justamente la que se está evaluando en esta pregunta. -->
+
+### Explicacion Pedagogica
+Cuando en una cruza aparecen descendientes con los tres genotipos posibles, se comprueba que cada individuo hijo hereda información genética de los dos progenitores: un alelo de la planta con flores rojas y uno de la planta con flores rosadas. El hecho de que aparezcan plantas rr, con el alelo recesivo en las dos copias, prueba que ese alelo estaba presente en ambos progenitores, aunque en la planta rosada estuviera enmascarado por el dominante. Este análisis de la descendencia es el que permite al productor del campo elegir qué progenitores sembrar y qué rasgo esperar en la próxima cosecha.
+
+## Question 6 [D5-D6]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**ICFES:** Indagación
+**Expected_Success:** 0.78
+**Contexto:** En el semestre agrónomo del SENA en Bucaramanga, los estudiantes analizan una familia de maíz en la que varios de sus miembros presentan plantas de baja estatura.
+
+### Enunciado
+El enanismo del maíz se debe a un alelo recesivo (d) que impide la producción de la hormona del crecimiento. En una familia, dos plantas de tamaño normal producen una hija enana. ¿Cuál es el genotipo de los dos progenitores?
+
+### Opciones
+- [ ] A) Los dos progenitores son homocigotos dominantes, con genotipo doble dominante
+  <!-- feedback: Incorrecto. Dos progenitores homocigotos dominantes solo pueden producir descendientes homocigotos dominantes, es decir, todos de tamaño normal, sin ningún caso de enanismo. -->
+- [x] B) Los dos progenitores son heterocigotos, con dos copias del alelo normal y una del recesivo
+  <!-- feedback: Correcto. Ambos progenitores deben ser heterocigotos, porque cada uno aporta el alelo d a la hija, que resulta ser dd, y esa es la única forma de que aparezcan plantas enanas entre progenitores normales. -->
+- [ ] C) Uno es homocigoto dominante y el otro es homocigoto recesivo
+  <!-- feedback: Incorrecto. Esa cruza produce la mitad de plantas de tamaño normal y la mitad de tamaño normal heterocigotas, pero ninguna planta enana, por lo que no explica el caso observado. -->
+- [ ] D) Uno es heterocigoto y el otro es homocigoto recesivo
+  <!-- feedback: Incorrecto. Esa cruza da la mitad de plantas de tamaño normal heterocigotas y la mitad de plantas enanas, pero ninguno de los dos progenitores sería de tamaño normal, lo cual no corresponde al enunciado. -->
+
+### Explicacion Pedagogica
+Cuando un rasgo recesivo aparece en un descendiente, ambos progenitores deben haber aportado el alelo recesivo, aunque en ellos el rasgo no se manifieste. En el caso del enanismo del maíz, la planta enana es dd porque solo el alelo d no produce la hormona del crecimiento, mientras que las plantas Dd y DD sí la producen normalmente. Como los dos progenitores se describen como normales, necesariamente portan el alelo d enmascarado por el alelo dominante, es decir, ambos son Dd. Este razonamiento es la base de los apareamientos controlados que se realizan en los bancos de germoplasma para conservar líneas puras.
+
+## Question 7 [D7-D8]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.72
+**Contexto:** En una práctica de laboratorio en Popayán, los estudiantes cuentan los descendientes de un cruce de plantas de guisante y comparan el resultado obtenido con el esperado según la teoría.
+
+### Enunciado
+Al cruzar dos plantas heterocigotas (Aa por Aa) se obtienen 480 descendientes, de los cuales 340 presentan el rasgo dominante y 140 el rasgo recesivo. ¿Qué conclusión se puede extraer de estos resultados?
+
+### Opciones
+- [ ] A) Los resultados contradicen la proporción esperada, así que la herencia no sigue las leyes de Mendel
+  <!-- feedback: Incorrecto. La proporción observada de 340 a 140 corresponde aproximadamente a 71 % y 29 %, muy cercana a la proporción esperada de tres a uno, de modo que los datos no la contradicen. -->
+- [x] B) La proporción observada de 340 a 140 se ajusta a la proporción esperada de tres a uno
+  <!-- feedback: Correcto. La proporción esperada era de 360 a 120 y la observada de 340 a 140; la diferencia es pequeña y se explica por el azar en la formación de los gametos. -->
+- [ ] C) La proporción observada demuestra que el rasgo recesivo es tan frecuente como el dominante
+  <!-- feedback: Incorrecto. Con 140 de 480 descendientes el rasgo recesivo aparece en menos de un tercio de los casos, lejos de igualarse al rasgo dominante, que supera el 70 %. -->
+- [ ] D) La proporción observada demuestra que la planta con rasgo recesivo es heterocigota
+  <!-- feedback: Incorrecto. La planta con rasgo recesivo es homocigota recesiva, aa, porque solo así se manifiesta el rasgo; los datos del cruce no cambian esa condición. -->
+
+### Explicacion Pedagogica
+En una cruza de dos heterocigotos, la teoría mendeliana predice una proporción fenotípica de tres a uno entre el rasgo dominante y el recesivo. Al comparar el resultado esperado, de 360 descendientes con rasgo dominante y 120 con rasgo recesivo, con el observado, de 340 y 140, se advierte que la diferencia es pequeña y se ajusta al modelo, porque la distribución de los gametos no es exactamente igual en cada planta, sino que depende del azar. Este tipo de comparación entre lo esperado y lo observado es el procedimiento central de la investigación científica: los datos no tienen por qué coincidir por completo, sino que deben ser consistentes dentro del margen que el modelo predice. Reconocer ese margen fue uno de los aportes más importantes del método de Mendel, que sigue vigente en los laboratorios de genética de hoy.
+
+## Question 8 [D7-D8]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.70
+**Contexto:** En una consulta genética en un hospital de Manizales, una pareja consulta porque dos de sus hijos tienen ojos claros y uno los tiene oscuros, aunque en la familia ambos padres tienen ojos claros.
+
+### Enunciado
+Los dos progenitores de la familia presentan ojos claros, un rasgo dominante, y uno de sus hijos presenta ojos oscuros, un rasgo recesivo. ¿Cuál es la explicación más precisa de lo ocurrido?
+
+### Opciones
+- [ ] A) El hijo de ojos oscuros pertenece a una especie diferente dentro de la misma familia
+  <!-- feedback: Incorrecto. Todos los individuos de una familia pertenecen a la misma especie y el enunciado no aporta ningún dato que indique un cambio de especie. -->
+- [ ] B) El rasgo recesivo apareció porque uno de los padres tenía un genotipo recesivo puro
+  <!-- feedback: Incorrecto. Si un progenitor fuera homocigoto recesivo, presentaría ojos oscuros, y el enunciado indica que ambos padres tienen ojos claros. -->
+- [x] C) El hijo heredó un alelo recesivo de cada progenitor, que en ellos estaba enmascarado por el alelo dominante
+  <!-- feedback: Correcto. Los padres son heterocigotos: al segregarse los alelos, el hijo recibió un alelo recesivo de cada uno y por eso manifiesta el rasgo recesivo, con una probabilidad de uno en cada cuatro. -->
+- [ ] D) El rasgo recesivo apareció por una mutación espontánea que no estaba en los padres
+  <!-- feedback: Incorrecto. Una mutación espontánea es posible en teoría, pero es extremadamente rara; la explicación más precisa es la segregación mendeliana, que no requiere ningún cambio en el ADN de los padres. -->
+
+### Explicacion Pedagogica
+El fenómeno de que dos progenitores con un rasgo dominante tengan un hijo con el rasgo recesivo es una consecuencia directa de la ley de segregación. Como los alelos se separan en los gametos, cada descendiente recibe un alelo de cada progenitor, y cuando ambos son recesivos se obtiene el homocigoto recesivo, con una probabilidad de uno entre cuatro en cada embarazo. En la familia del contexto, esto significa que los padres son heterocigotos y que el rasgo oscuro estaba presente en la familia sin manifestarse. Reconocer que los rasgos recesivos pueden aparecer después de varias generaciones es fundamental en el consejo genético que se da en los consultorios familiares de Colombia.
+
+## Question 9 [D7-D8]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.68
+**Contexto:** En el proyecto de aula de un colegio de Villavicencio, los estudiantes analizan un árbol genealógico y se preparan para comparar muestras de ADN en el laboratorio de la universidad.
+
+### Enunciado
+Un investigador toma muestras de ADN de una madre, un padre y su hija. La comparación de los marcadores genéticos revela que la hija comparte aproximadamente la mitad de sus marcadores con cada progenitor. ¿Qué principio de la herencia se está verificando?
+
+### Opciones
+- [ ] A) La dominancia completa
+  <!-- feedback: Incorrecto. La dominancia completa se refiere a la relación entre alelos de un mismo gen, no al aporte de marcadores entre padres e hija, y no explica el reparto del ADN entre generaciones. -->
+- [x] B) La segregación mendeliana
+  <!-- feedback: Correcto. Compartir la mitad de los marcadores con cada progenitor confirma que cada descendiente hereda un juego de cromosomas de su madre y otro de su padre. -->
+- [ ] C) La codominancia
+  <!-- feedback: Incorrecto. La codominancia ocurre cuando dos alelos de un mismo gen se expresan simultáneamente en el heterocigoto, y no explica el reparto del ADN entre progenitores y descendientes. -->
+- [ ] D) La inducción
+  <!-- feedback: Incorrecto. La inducción es la forma en que interactúan un inductor y un receptor en las células, y no se relaciona con el reparto de la información genética entre generaciones. -->
+
+### Explicacion Pedagogica
+El análisis de marcadores de ADN es una aplicación tecnológica directa de los principios mendelianos. Como cada gameto transporta la mitad de los cromosomas, al producirse la fecundación el descendiente recibe un juego completo de la madre y otro del padre, y por eso comparte aproximadamente la mitad de sus variantes genéticas con cada uno de sus progenitores. Este hallazgo, verificado en laboratorio con pruebas de ADN, confirma que la transmisión de la información genética es un hecho material y medible, y no una simple suposición teórica. Estas pruebas se aplican hoy en el campo forense, en la identificación de paternidad y en los programas de conservación de cultivos en Colombia.
+
+## Question 10 [D9-D10]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.60
+**Contexto:** Un grupo de estudiantes de Armenia prepara un informe para la feria de ciencias y quiere explicar por qué un productor de café se equivoca al seleccionar sus semillas.
+
+### Enunciado
+Un productor afirma que, al cruzar dos plantas de café heterocigotas, obtendrá un 75 % de plantas con el mismo genotipo que la planta madre. ¿Cómo debe evaluar un estudiante esta afirmación con conocimiento de la herencia?
+
+### Opciones
+- [ ] A) Es correcta, porque el 75 % de la descendencia hereda exactamente el genotipo de la madre
+  <!-- feedback: Incorrecto. La descendencia hereda un genotipo propio y no una copia del de la madre, y además la proporción de tres a uno corresponde a los fenotipos, no a los genotipos. -->
+- [ ] B) Es correcta, porque el 75 % de los gametos de la madre llevan el alelo recesivo
+  <!-- feedback: Incorrecto. En un heterocigoto el 50 % de los gametos lleva cada alelo, y el 75 % de la descendencia corresponde al fenotipo dominante por una razón distinta. -->
+- [x] C) El 75 % corresponde a plantas con el rasgo dominante, pero no a plantas con el genotipo de la madre
+  <!-- feedback: Correcto. La cifra del 75 % corresponde a la proporción de plantas con fenotipo dominante, y esa proporción se debe a la dominancia y no a la repetición del genotipo materno. -->
+- [ ] D) Es incorrecta, porque la proporción de fenotipos recesivos siempre es mayor que la de los dominantes
+  <!-- feedback: Incorrecto. Esa afirmación contradice la ley de segregación, que en la cruza de dos heterocigotos predice tres fenotipos dominantes por cada recesivo. -->
+
+### Explicacion Pedagogica
+Evaluar una afirmación consiste en contrastarla con el modelo mendeliano y en distinguir entre lo que el modelo predice y lo que el productor atribuye por error. En la cruza de dos plantas heterocigotas, el 75 % corresponde a la proporción de descendientes que manifiestan el fenotipo dominante, y esa cifra se explica por la dominancia, no porque el descendiente repita el genotipo de la planta madre, cosa que además no ocurre. Reconocer la diferencia entre un dato numérico correcto y una justificación equivocada es una habilidad de razonamiento científico que permite detectar afirmaciones apoyadas en resultados que se repiten sin una explicación válida.
+
+## Question 11 [D9-D10]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.56
+**Contexto:** En un proyecto escolar de Florencia, Caquetá, los estudiantes ayudan a un investigador del centro de investigación agrícola a identificar una planta de fríjol de flor roja que fue seleccionada como progenitor.
+
+### Enunciado
+Un investigador desea saber si una planta de fríjol con flores rojas es homocigota dominante (RR) o heterocigota (Rr). Para conseguirlo la cruza con una planta de flores blancas, que es el retrocruzamiento o cruza de prueba. ¿Qué resultado le indicaría que la planta roja es heterocigota?
+
+### Opciones
+- [ ] A) Todos los descendientes tienen flores rojas
+  <!-- feedback: Incorrecto. Si todos los descendientes son rojos, la planta roja podría ser RR, porque al cruzarla con rr todos los hijos recibirían R y se verían rojos. Ese resultado no permite saber que es heterocigota. -->
+- [ ] B) La cuarta parte de los descendientes tiene flores rojas y las otras tres partes tienen flores blancas
+  <!-- feedback: Incorrecto. La proporción tres a uno corresponde al cruce de dos heterocigotos, no al cruce de un individuo RR o Rr con un homocigoto recesivo, que solo produce dos genotipos posibles. -->
+- [ ] C) Todos los descendientes tienen flores blancas
+  <!-- feedback: Incorrecto. Si todos los descendientes fueran blancos, ninguno habría recibido el alelo dominante del progenitor rojo, y ese resultado no corresponde a una cruza de prueba con una planta de flores rojas. -->
+- [x] D) La mitad de los descendientes tiene flores rojas y la otra mitad flores blancas
+  <!-- feedback: Correcto. En la cruza Rr por rr aparecen Rr (rojas) y rr (blancas) en igual proporción, y esa razón uno a uno solo es posible si el progenitor rojo era heterocigoto. -->
+
+### Explicacion Pedagogica
+El retrocruzamiento, o cruza de prueba, consiste en cruzar un individuo de fenotipo dominante con un homocigoto recesivo para averiguar cuál es su genotipo. Si el individuo probado es RR, todos sus descendientes reciben el alelo dominante y son de fenotipo dominante; si es Rr, la mitad de la descendencia recibe el alelo recesivo y muestra flores blancas, y la otra mitad muestra flores rojas. Por eso la proporción uno a uno es la evidencia que identifica al heterocigoto. Esta técnica es muy usada por los fitomejoradores en Colombia para verificar la pureza de las líneas parentales de fríjol, maíz y papa antes de iniciar un programa de cruces.
+
+## Question 12 [D9-D10]
+**ID:** CO-CN-9-2026-W10-genetica-y-leyes-de-la-herencia-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.52
+**Contexto:** En una finca cafetera de Risaralda, el laboratorio agrario analiza mediante pruebas de ADN un lote de plantas de café para decidir qué material se multiplica en la próxima siembra.
+
+### Enunciado
+Una prueba de ADN de un lote de café muestra que la mayoría de las plantas comparten marcadores genéticos muy similares entre sí, pero diferentes de los de la variedad comercial conocida. ¿Qué conclusión se debe sacar de ese resultado?
+
+### Opciones
+- [ ] A) El lote debe descartarse, porque no coincide con la variedad que ya se comercializa
+  <!-- feedback: Incorrecto. La diferencia en los marcadores solo indica que se trata de otro material genético, y no hay ningún dato que permita afirmar que sea inferior en rendimiento o calidad. -->
+- [ ] B) El lote es una mezcla de muchas variedades distintas que deben separarse de inmediato
+  <!-- feedback: Incorrecto. Que las plantas sean similares entre sí indica lo contrario: el lote es homogéneo y no una mezcla de variedades diferentes. -->
+- [x] C) El lote es un material genético propio, que debe evaluarse y conservarse como posible fuente de nuevas variedades
+  <!-- feedback: Correcto. Un conjunto de plantas con marcadores propios y homogéneos puede representar una población o una variedad distinta, que se debe caracterizar antes de decidir su uso en la agroindustria. -->
+- [ ] D) El lote no sirve para la agroindustria, porque ninguna prueba de ADN reemplaza la selección hecha a mano en el campo
+  <!-- feedback: Incorrecto. Las pruebas de ADN y la selección en el campo son complementarias: el ADN identifica el material genético y la evaluación en campo mide el comportamiento de la planta en el cultivo. -->
+
+### Explicacion Pedagogica
+Las pruebas de ADN son una aplicación de la genética que la agroindustria colombiana usa para caracterizar los lotes de material de siembra. Si la mayoría de las plantas de un lote comparte marcadores similares entre sí, el lote es homogéneo, es decir, se trata de un solo material genético; y si esos marcadores difieren de los de la variedad comercial, estamos ante un recurso distinto que todavía no está probado. Por eso lo pertinente no es descartar ni aceptar el lote de inmediato, sino caracterizarlo y evaluarlo en campo durante varias cosechas, porque el ADN indica qué material es, pero no cuánto produce. Conservar esos lotes es lo que permite a los fitomejoradores cruzar plantas y obtener variedades nuevas con mayor rendimiento o resistencia a plagas.
