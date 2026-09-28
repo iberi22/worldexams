@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-13-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T17:44:51.768Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué característica distingue a un sistema que se encuentra en equilibrio químico?",
+      "context": "En un laboratorio de química de Bogotá, un grupo de grado décimo observa la transformación del dióxido de nitrógeno pardo en tetróxido de dinitrógeno incoloro dentro de un recipiente sellado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las dos reacciones se detienen por completo en el instante en que se mezclan los reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un sistema en equilibrio ninguna de las dos reacciones se detiene; ambas continúan ocurriendo mientras las velocidades se igualan."
+        },
+        {
+          "letter": "B",
+          "text": "Que la reacción inversa deja de ocurrir porque todos los productos se acumularon en el recipiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción inversa sigue ocurriendo; lo que se iguala es la velocidad de la directa con la de la inversa, no la desaparición de una de ellas."
+        },
+        {
+          "letter": "C",
+          "text": "Que las reacciones directa e inversa ocurren a la misma velocidad, de modo que las concentraciones permanecen constantes.",
+          "is_correct": true,
+          "feedback": "Correcto. El equilibrio químico es dinámico: ambas reacciones continúan a igual velocidad, por eso las concentraciones de todas las especies se mantienen sin cambio."
+        },
+        {
+          "letter": "D",
+          "text": "Que la energía del sistema se anula y por eso la mezcla alcanza una temperatura constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura constante es consecuencia del equilibrio térmico, no del equilibrio químico, y la energía interna del sistema no se anula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El equilibrio químico se alcanza cuando la velocidad de la reacción directa es igual a la velocidad de la reacción inversa. El término dinámico es clave: el sistema no está detenido, ya que las dos reacciones continúan, y sin embargo las concentraciones de reactivos y productos se mantienen constantes porque se forman y se consumen a la misma velocidad. Este comportamiento se observa con claridad en el sistema del dióxido de nitrógeno, que alcanza un tono estable con el tiempo en lugar de aclararse por completo hasta el final.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la expresión correcta de la constante de equilibrio Kc para esa reacción?",
+      "context": "En una planta de fertilizantes de Cundinamarca se escribe en el tablero la reacción de síntesis del amoníaco: N2 más 3 H2 en doble flecha equivale a 2 NH3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kc es igual a la concentración de NH3 al cuadrado dividida entre la de N2 multiplicada por la de H2 al cubo.",
+          "is_correct": true,
+          "feedback": "Correcto. En Kc los reactivos aparecen en el denominador con sus exponentes estequiométricos y los productos en el numerador con los suyos."
+        },
+        {
+          "letter": "B",
+          "text": "Kc es igual a la concentración de N2 multiplicada por la de H2 al cubo, dividida entre la de NH3 al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión corresponde a la constante de la reacción inversa, porque en ella el NH3 pasa a estar en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "Kc es igual a la suma de las concentraciones de NH3, N2 y H2 en el momento en que el sistema se estabiliza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una constante de equilibrio las concentraciones no se suman, se elevan a exponentes y se dividen formando un cociente."
+        },
+        {
+          "letter": "D",
+          "text": "Kc es igual a la concentración de cada reactivo dividida entre la del producto correspondiente, elevando todo a la unidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los exponentes de la constante de equilibrio no son todos uno, sino los coeficientes estequiométricos ajustados de la ecuación balanceada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La constante de equilibrio en concentraciones se escribe como el producto de las concentraciones de los reactivos elevados a sus coeficientes, en el numerador, dividido entre el producto de las concentraciones de los productos elevados a sus coeficientes, en el denominador. Para la síntesis del amoníaco, los exponentes son 1, 3 y 2 para el nitrógeno, el hidrógeno y el amoníaco respectivamente. El valor numérico de Kc no cambia mientras la temperatura permanezca constante, aunque sí cambien las concentraciones del sistema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué observación del indicador en los tres vasos permite identificar el medio ácido y el medio básico?",
+      "context": "Un estudiante de un colegio de Armenia usa un indicador de pH con jugo de coles morado en tres vasos que contienen, respectivamente, vinagre, agua y jabón de loza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El líquido se ve rojo en el vinagre y azulado en el jabón, porque el indicador es un ácido débil con formas coloreadas que cambian según el pH.",
+          "is_correct": true,
+          "feedback": "Correcto. Las antocianinas del jugo de coles son indicadores ácido base whose forma visible cambia de color cuando cambia la proporción entre sus dos formas iónicas."
+        },
+        {
+          "letter": "B",
+          "text": "El líquido mantiene el mismo color en los tres vasos, porque el pH no influye en la coloración de un indicador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La utilidad de un indicador de pH está precisamente en que su color cambia con el pH, de lo contrario no serviría para distinguir medios."
+        },
+        {
+          "letter": "C",
+          "text": "El líquido se descompone en los vasos ácidos y se conserva solo en el básico, por efecto de la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay descomposición del indicador; lo que se modifica es la equilibrio ácido base interno que origina los dos colores."
+        },
+        {
+          "letter": "D",
+          "text": "El líquido se oscurece en el vinagre porque el vinagre es un oxidante fuerte y destruye el indicador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vinagre es un ácido débil y el cambio de color se explica por el equilibrio ácido base, no por una reacción de oxidación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los indicadores de pH son moléculas orgánicas que se comportan como ácidos o bases débiles y que presentan colores distintos según la forma protonada y la forma desprotonada que predominan según el pH. Las antocianinas del jugo de coles morado, muy usadas en Colombia como proyecto de aula, aparecen rojas en medio ácido y azules o violetas en medio básico. Por eso una misma sustancia puede servir como referencia casera: basta con comparar el color obtenido con el de soluciones de pH conocido para deducir si el medio es ácido o básico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v4",
+      "statement": "Si a esa mezcla en equilibrio se le agrega hidrógeno adicional sin modificar el volumen, ¿cómo responde el sistema?",
+      "context": "En el laboratorio de un colegio de Bucaramanga se trabaja con la reacción N2 más 3 H2 en doble flecha equivale a 2 NH3, que ya se encuentra en equilibrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se desplaza hacia la izquierda para producir más nitrógeno, porque el hidrógeno añadido altera la presión del recipiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A volumen constante la presión no cambia por la adición de un reactivo, y el sistema siempre consume el reactivo que se le agrega."
+        },
+        {
+          "letter": "B",
+          "text": "Se desplaza hacia la derecha y se forma más amoníaco hasta consumir el hidrógeno añadido.",
+          "is_correct": true,
+          "feedback": "Correcto. Por Le Chatelier, añadir un reactivo favorece la dirección que lo consume, en este caso la formación de amoníaco."
+        },
+        {
+          "letter": "C",
+          "text": "Se desplaza hacia la derecha hasta que la concentración de nitrógeno se vuelva igual a la del amoníaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desplazamiento consume el hidrógeno añadido y no impone la igualdad entre concentraciones, que solo se alcanza en el equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "No responde a la adición, porque la constante de equilibrio impide cualquier cambio en la mezcla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Kc fija la relación entre concentraciones en el equilibrio, no las concentraciones mismas, por eso la mezcla sí se desplaza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El principio de Le Chatelier establece que un sistema en equilibrio responde a un cambio externo para contrarrestarlo. Cuando se añade un reactivo, la respuesta es desplazarse hacia la dirección que consume ese reactivo añadido. En la síntesis del amoníaco, agregar hidrógeno a volumen constante aumenta su concentración y favorece la formación de más NH3 hasta que se restablece el cociente de concentraciones correspondiente a Kc. El efecto es transitorio: una vez alcanzado el nuevo equilibrio, la concentración de hidrógeno vuelve a ser mayor que la inicial.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v5",
+      "statement": "Según esos valores, ¿cuál es el valor aproximado de la constante de equilibrio Kc?",
+      "context": "En un ejercicio de laboratorio en Bogotá se miden en el equilibrio las concentraciones de N2 igual a 0,50 mol/L, de H2 igual a 1,50 mol/L y de NH3 igual a 0,40 mol/L.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alrededor de 0,095, resultado de elevar al cuadrado la concentración de NH3 y dividir entre el producto de N2 por H2 al cubo.",
+          "is_correct": true,
+          "feedback": "Correcto. El numerador es 0,40 al cuadrado, es decir 0,16, y el denominador es 0,50 multiplicado por 1,50 al cubo, es decir 1,6875; el cociente vale 0,095."
+        },
+        {
+          "letter": "B",
+          "text": "Alrededor de 5,4, resultado de dividir el producto de N2 por H2 al cubo entre la concentración de NH3 al cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el inverso del cálculo correcto, y corresponde al valor aproximado de la constante de la reacción inversa."
+        },
+        {
+          "letter": "C",
+          "text": "Alrededor de 0,16, porque basta elevar al cuadrado la concentración del amoníaco sin dividir entre los reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor 0,16 corresponde solo al numerador de la expresión de Kc; falta el denominador con los reactivos y sus exponentes."
+        },
+        {
+          "letter": "D",
+          "text": "Alrededor de 2,45, porque se suman las concentraciones de las tres especies presentes en el recipiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una constante de equilibrio no hay sumas, sino un cociente de concentraciones elevadas a exponentes enteros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para calcular Kc se eleva al cuadrado la concentración de amoníaco, 0,40 multiplicado por 0,40 da 0,16, y en el denominador se multiplica la concentración de nitrógeno, 0,50, por la de hidrógeno elevada al cubo, 1,50 al cubo da 3,375, obteniendo 1,6875. El cociente 0,16 sobre 1,6875 vale 0,0948, que se redondea a 0,095. Como Kc es menor que 1 en este caso, el equilibrio favorece a los reactivos, aunque esto no significa que no exista producto alguno en la mezcla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v6",
+      "statement": "De ese valor, ¿cuál es el pH de la muestra de agua registrada?",
+      "context": "En una planta de tratamiento de agua de Valledupar el laboratorio registra una concentración de iones hidrógeno de 0,001 mol/L.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pH igual a 0,001, porque el pH es el mismo número que la concentración de iones hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH es el logaritmo negativo de la concentración, de manera que un valor tan pequeño de concentración produce un pH grande."
+        },
+        {
+          "letter": "B",
+          "text": "pH igual a 0,3, porque solo se desplaza el punto una vez en la notación científica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escala es logarítmica, y 0,001 mol/L equivale a 10 elevado a la menos 3, no a 10 elevado a la menos 0,3."
+        },
+        {
+          "letter": "C",
+          "text": "pH igual a 3, porque la concentración de iones hidrógeno de 0,001 mol/L corresponde a 10 elevado a la menos 3.",
+          "is_correct": true,
+          "feedback": "Correcto. Al aplicar el logaritmo negativo a 10 elevado a la menos 3 se obtiene 3, que es un medio ácido como corresponde a esa concentración."
+        },
+        {
+          "letter": "D",
+          "text": "pH igual a 300, porque el logaritmo negativo de 0,001 se expresa multiplicado por cien.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH es un número adimensional entre 0 y 14 en soluciones acuosas diluidas, y 300 queda completamente fuera de ese rango."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pH se define como el logaritmo negativo de la concentración de iones hidrógeno, y por eso la escala es logarítmica. Cuando la concentración se expresa como una potencia de diez, el pH es simplemente el exponente con signo cambiado: si la concentración es 10 elevado a la menos 3 mol/L, el pH es 3. Esta escala logarítmica explica por qué un cambio de una unidad de pH representa una variación de diez veces en la acidez. Cualquier muestra con pH menor que 7 se considera ácida, como ocurre en este registro de la planta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v7",
+      "statement": "Si la temperatura de la mezcla aumenta, ¿qué cambio se espera en la constante de equilibrio de esa disolución?",
+      "context": "Un grupo de investigadores de la Universidad del Valle en Cali calibra un equipo que estudia la disolución de nitrato de amonio en agua, un proceso endotérmico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kc disminuye, porque cualquier aumento de temperatura reduce el valor de todas las constantes de equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo las reacciones exotérmicas ven disminuir su constante al calentar; el comportamiento depende del carácter térmico de la reacción."
+        },
+        {
+          "letter": "B",
+          "text": "Kc aumenta, porque en una reacción endotérmica el calor funciona como un reactivo y el calentamiento favorece a los productos.",
+          "is_correct": true,
+          "feedback": "Correcto. Al calentar se aporta más energía, se favorece la dirección que absorbe calor, que es la de formación de los productos disueltos."
+        },
+        {
+          "letter": "C",
+          "text": "Kc se mantiene constante, porque la constante de equilibrio solo depende de la identidad de la reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Kc depende de la temperatura; la identidad de la reacción fija qué constante se usa, no su valor numérico."
+        },
+        {
+          "letter": "D",
+          "text": "Kc aumenta y a la vez el sistema alcanza de inmediato el equilibrio definitivo, sin más reacción posible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento de Kc desplaza el equilibrio hacia los productos, pero la reacción continúa y el nuevo estado tampoco es definitivo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor de la constante de equilibrio depende exclusivamente de la temperatura para una reacción dada. La relación tiene un signo que conviene memorizar: si la reacción es endotérmica, el calor se comporta como un reactivo y Kc aumenta al elevar la temperatura; si es exotérmica, el calor se comporta como un producto y Kc disminuye. La disolución del nitrato de amonio es un caso típico de proceso endotérmico, por eso se usa en las bolsas frías, y ese mismo carácter térmico explica que su Kc aumente al calentar la mezcla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v8",
+      "statement": "Si se reduce el volumen del recipiente manteniendo la temperatura constante, ¿hacia qué lado se desplaza el equilibrio?",
+      "context": "En un dispositivo de vidrio del laboratorio de chemistry de Pasto se mantiene en equilibrio la reacción entre nitrógeno e hidrógeno hasta producir amoníaco, con todas las sustancias en estado gaseoso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacia la izquierda, porque al comprimir el gas se favorece siempre la reacción inversa en los procesos exotérmicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección del desplazamiento por presión depende del número de moles gaseosos de cada lado y no del carácter exotérmico de la reacción."
+        },
+        {
+          "letter": "B",
+          "text": "Hacia la derecha y hacia la izquierda por igual, porque la compresión no altera el equilibrio en gases ideales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La compresión sí modifica el equilibrio, porque cambia la presión y con ella la relación entre los moles gaseosos de los dos lados."
+        },
+        {
+          "letter": "C",
+          "text": "Hacia ningún lado, porque a temperatura constante el valor de Kc es invariable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Kc no cambia al comprimir, pero eso no impide que las concentraciones cambien y con ellas la composición de equilibrio."
+        },
+        {
+          "letter": "D",
+          "text": "Hacia la derecha, hacia la formación de amoníaco, porque ese lado tiene menos moles de gas.",
+          "is_correct": true,
+          "feedback": "Correcto. Al reducir el volumen aumenta la presión y el sistema favorece el lado con menor número de moles gaseosos, que son dos en lugar de cuatro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando todos los gases de un equilibrio son gaseosos, la compresión aumenta la presión parcial de cada uno y el sistema responde desplazándose hacia el lado con menor número de moles gaseosos. En la síntesis del amoníaco, la izquierda suma cuatro moles de gas y la derecha solo dos, de manera que aumentar la presión favorece la formación del producto. Nótese que el valor numérico de Kc no se modifica al comprimir el recipiente, porque la temperatura es la misma, pero las concentraciones y por tanto la composición de la mezcla sí cambian hasta alcanzar el nuevo equilibrio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v9",
+      "statement": "¿Qué comparación entre los dos reactores es correcta?",
+      "context": "Un laboratorio de Cartagena de Indias mantiene dos reactores con la misma reacción a la misma temperatura: en el primero Kc vale 50 y en el segundo vale 0,02.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reactor con Kc igual a 50 está mucho más desplazado hacia los productos que el reactor con Kc igual a 0,02.",
+          "is_correct": true,
+          "feedback": "Correcto. Un valor de Kc muy superior a 1 indica que en el equilibrio predominan los productos, mientras que uno muy inferior a 1 favorece a los reactivos."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos reactores tienen la misma composición, porque el valor de Kc solo depende de la identidad de la reacción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la composición fuera idéntica, Kc tendría el mismo valor; la diferencia entre 50 y 0,02 señala composiciones de equilibrio muy distintas."
+        },
+        {
+          "letter": "C",
+          "text": "El reactor con Kc igual a 0,02 es el más desplazado hacia los productos, porque los valores pequeños indican reacciones completas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un Kc pequeño significa que el cociente de productos sobre reactivos es bajo, es decir, que en el equilibrio predominan los reactivos."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos reactores alcanza el equilibrio, porque los valores de Kc son muy distintos entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos reactores pueden alcanzar el equilibrio con facilidad; lo que cambia entre ellos es la posición de ese equilibrio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El valor numérico de la constante de equilibrio indica la posición del equilibrio en la mezcla. Cuando Kc es mucho mayor que 1, el cociente de concentraciones de productos sobre reactivos es alto, de modo que en el equilibrio hay cantidades comparables o mayores de productos y la reacción está desplazada hacia la formación de estos. Cuando Kc es mucho menor que 1 ocurre lo contrario y predominan los reactivos. Comparar 50 con 0,02 muestra dos posiciones de equilibrio opuestas para una misma reacción a igual temperatura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v10",
+      "statement": "Frente a ese protocolo, ¿cuál afirmación es científicamente correcta respecto a la constante de equilibrio?",
+      "context": "Un equipo de investigación de Tunja revisa el protocolo de un experimento de equilibrio en el que cambiaron la concentración de un reactivo, la presión del recipiente y después la temperatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kc cambia cada vez que se modifica la concentración de un reactivo, porque el cociente de concentraciones se altera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al agregar reactivo el cociente se aparta del valor de equilibrio, pero el sistema se desplaza y recupera el mismo valor final de Kc."
+        },
+        {
+          "letter": "B",
+          "text": "Kc cambia al aumentar la presión del recipiente, porque la presión altera la velocidad de las dos reacciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presión modifica la composición del equilibrio, pero el valor numérico de Kc solo depende de la temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "Kc aumenta cada vez que se calienta la mezcla, porque el calor aporta energía y acelera la reacción directa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que Kc aumente o disminuya al calentar depende del carácter exotérmico o endotérmico de la reacción, y no de la aceleración por sí sola."
+        },
+        {
+          "letter": "D",
+          "text": "Kc depende únicamente de la temperatura para una reacción dada, y los cambios de concentración o presión solo desplazan el equilibrio.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la afirmación del principio de Le Chatelier, porque Kc es función exclusiva de la temperatura, y las demás variables modifican la composición sin alterar su valor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una propiedad clave de la constante de equilibrio es que su valor numérico depende únicamente de la temperatura para una reacción dada. Modificar la concentración de un reactivo o la presión del recipiente sí cambia la composición de la mezcla, ya que el sistema se desplaza en respuesta al cambio, pero una vez alcanzado el nuevo equilibrio se recupera el mismo valor de Kc. Evaluar correctamente esta diferencia es indispensable para no interpretar como cambio de la constante lo que en realidad es un ajuste de concentraciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v11",
+      "statement": "¿Qué interpretación de ese resultado es la correcta?",
+      "context": "Un grupo de grado undécimo de un colegio de Riohacha midió el valor de Kc de una reacción exotérmica a 25 °C y después a 60 °C, obteniendo un valor menor en la medición caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resultado es un error experimental, porque Kc nunca puede cambiar cuando se modifica la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Kc sí depende de la temperatura, de modo que la disminución observada es un comportamiento esperado y no un error de medición."
+        },
+        {
+          "letter": "B",
+          "text": "El resultado confirma que la reacción es exotérmica, porque al calentar el equilibrio se favorece la reacción inversa y Kc disminuye.",
+          "is_correct": true,
+          "feedback": "Correcto. En una reacción exotérmica el calor actúa como producto, así que aumentar la temperatura favorece los reactivos y reduce el valor de Kc."
+        },
+        {
+          "letter": "C",
+          "text": "El resultado demuestra que la reacción es endotérmica, porque una reacción endotérmica siempre reduce su constante al calentar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una reacción endotérmica Kc aumenta al calentar, de modo que la disminución observada apunta a un carácter exotérmico."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado no aporta información, porque el valor de Kc depende solo de la cantidad de reactivos agregados al recipiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Kc es función de la temperatura y no de la cantidad de reactivos, por eso la comparación entre dos temperaturas sí es informativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretar el comportamiento de Kc frente a la temperatura permite deducir el carácter térmico de una reacción. En una reacción exotérmica, el calor se libera como producto, de manera que el calentamiento favorece la reacción inversa y el valor de Kc disminuye. En una reacción endotérmica ocurre lo contrario y Kc aumenta al calentar. Los datos del colegio de Riohacha, con un Kc menor a 60 °C que a 25 °C, son coherentes con una reacción exotérmica, tal como concluyo el equipo al revisar sus datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle-v12",
+      "statement": "Dado ese carácter de la reacción, ¿qué conjunto de condiciones favorece razonablemente un mayor rendimiento de amoníaco en el equilibrio?",
+      "context": "Una planta de fertilizantes en Cota, Cundinamarca, busca elevar el rendimiento de su proceso de síntesis de amoníaco, que es exotérmico y pasa de cuatro moles de gas a dos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperatura muy alta y presión baja, para aprovechar al máximo la energía de activación con el menor costo de compresión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura muy alta favorece la velocidad, pero al ser exotérmica reduce el rendimiento en el equilibrio, y la presión baja también lo perjudica."
+        },
+        {
+          "letter": "B",
+          "text": "Temperatura muy baja y presión baja, porque basta con favorecer siempre la dirección que consume más moles de gas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una temperatura muy baja desfavorece la velocidad de reacción y la presión baja reduce el rendimiento, de modo que la combinación no es razonable."
+        },
+        {
+          "letter": "C",
+          "text": "Temperatura muy alta y presión alta, porque la alta temperatura acelera y la alta presión siempre mejora el rendimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la presión alta ayuda, la temperatura muy alta desplaza el equilibrio hacia los reactivos en una reacción exotérmica."
+        },
+        {
+          "letter": "D",
+          "text": "Temperatura intermedia o baja y presión alta, un compromiso entre la velocidad de reacción y la posición del equilibrio.",
+          "is_correct": true,
+          "feedback": "Correcto. La presión alta favorece el amoníaco porque hay menos moles de gas, y una temperatura no tan alta evita que el equilibrio se desplace hacia los reactivos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Optimizar un proceso que ocurre en equilibrio exige equilibrar dos objetivos que tiran en direcciones opuestas. Una temperatura alta aumenta la velocidad de reacción, pero en un proceso exotérmico desplaza el equilibrio hacia los reactivos y reduce el rendimiento. Una temperatura baja mejora el rendimiento y recupera más amoníaco, pero hace que la reacción sea más lenta. La presión alta, en cambio, siempre conviene en este caso porque favorece el lado con menos moles gaseosos. La decisión industrial se basa en un compromiso razonable, y no en maximizar una sola variable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-10-2026-W13-equilibrio-quimico-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

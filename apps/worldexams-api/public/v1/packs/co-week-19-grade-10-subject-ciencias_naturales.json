@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-19-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T17:44:51.773Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v1",
+      "statement": "Según la teoría de repulsión de pares electrónicos de la capa de valencia, ¿qué se debe contar alrededor del átomo central para predecir la geometría de una molécula?",
+      "context": "Un docente de química de Pereira introduce la teoría VSEPR en clase dibujando la molécula de agua en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número total de protones del átomo central, porque ese número define su identidad química.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de protones define el elemento, pero la geometría molecular depende de la distribución de los electrones de valencia."
+        },
+        {
+          "letter": "B",
+          "text": "La masa atómica del átomo central, porque los átomos más pesados ocupan más espacio en la molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica no interviene en la predicción geométrica, que se basa solo en los pares electrónicos del átomo central."
+        },
+        {
+          "letter": "C",
+          "text": "El número de enlaces dobles y triples del entorno, sin contar los enlaces simples ni los pares libres.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un enlace múltiple sí cuenta como un dominio, pero también deben contarse los enlaces simples y los pares libres del átomo central."
+        },
+        {
+          "letter": "D",
+          "text": "El número de dominios electrónicos, contando cada enlace y cada par de electrones libres del átomo central.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dominios electrónicos alrededor del átomo central son la base para asignar la geometría electrónica y la geometría molecular."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La teoría de repulsión de pares electrónicos de la capa de valencia, conocida como VSEPR, predice la forma de una molécula a partir de la disposición de los dominios electrónicos alrededor del átomo central. Cada enlace, sea simple, doble o triple, cuenta como un solo dominio electrónico, y cada par de electrones libres del átomo central cuenta como un dominio adicional. Por ejemplo, en el agua el oxígeno tiene cuatro dominios: dos enlaces con hidrógeno y dos pares libres. La teoría afirma que estos dominios se disponen lo más lejos posible unos de otros para minimizar las repulsiones, y que los pares libres, por ocupar más espacio, repelen con más fuerza que los enlaces. El número de dominios determina la geometría electrónica, mientras que solo los átomos que forman enlaces determinan la geometría molecular.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v2",
+      "statement": "¿Qué describe la hibridación sp3 y qué geometría corresponde al metano, CH4?",
+      "context": "En un taller de construcción de Manizales, un ingeniero explica por qué el metano es el principal componente del gas natural que llega a las cocinas del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una hibridación que mezcla un orbital s con tres orbitales d, y por eso el metano es lineal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hibridación sp3 mezcla un orbital s con tres orbitales p, y los orbitales d no participan en la descripción del carbono."
+        },
+        {
+          "letter": "B",
+          "text": "La mezcla de un orbital s con tres orbitales p, que produce cuatro orbitales equivalentes y una geometría tetraédrica de 109,5 grados.",
+          "is_correct": true,
+          "feedback": "Correcto. Los cuatro orbitales sp3 se orientan hacia los vértices de un tetraedro, con ángulos de enlace de 109,5 grados."
+        },
+        {
+          "letter": "C",
+          "text": "La mezcla de un orbital s con dos orbitales p, que produce tres orbitales y una geometría trigonal plana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la hibridación sp2, que corresponde a átomos con tres dominios electrónicos y no al carbono del metano."
+        },
+        {
+          "letter": "D",
+          "text": "La mezcla de dos orbitales s con un orbital p, que produce una geometría lineal de 180 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a la hibridación sp, propia de átomos con dos dominios electrónicos y geometría lineal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hibridación es el modelo que explica cómo se reorganizan los orbitales del carbono para formar enlaces. En el metano, el carbono parte de una configuración de valencia con dos electrones apareados y dos electrones desapareados; primero un electrón del orbital 2s pasa a un orbital 2p y luego los cuatro orbitales, uno s y tres p, se combinan para formar cuatro orbitales híbridos equivalentes, de tipo sp3. Estos cuatro orbitales se orientan hacia los vértices de un tetraedro regular, de modo que los ángulos entre enlaces son de 109,5 grados. El resultado es una molécula muy simétrica y muy estable, que constituye el principal componente del gas natural y se usa como combustible en cozinillas y empresas de servicios públicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v3",
+      "statement": "Un átomo de carbono con hibridación sp2 tiene tres dominios electrónicos. ¿Qué geometría electrónica y qué ángulo de enlace presenta la molécula a la que pertenece?",
+      "context": "Un estudiante de Bucaramanga compara la estructura del eteno y la del etino para entender la reactividad de los hidrocarburos insaturados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Geometría lineal, con ángulos de enlace de 180 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría lineal corresponde a dos dominios electrónicos y a la hibridación sp, no a la hibridación sp2."
+        },
+        {
+          "letter": "B",
+          "text": "Geometría tetraédrica, con ángulos de enlace de 109,5 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría tetraédrica corresponde a cuatro dominios electrónicos y a la hibridación sp3."
+        },
+        {
+          "letter": "C",
+          "text": "Geometría trigonal plana, con ángulos de enlace de aproximadamente 120 grados.",
+          "is_correct": true,
+          "feedback": "Correcto. Con tres dominios electrónicos los ángulos se reparten de manera uniforme en un mismo plano, cerca de 120 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Geometría piramidal trigonal, con ángulos inferiores a 109,5 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría piramidal trigonal tiene cuatro dominios electrónicos, uno de los cuales es un par de electrones libres."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La hibridación sp2 resulta de la combinación de un orbital s con dos orbitales p y produce tres orbitales híbridos equivalentes, mientras queda un orbital p sin hibridar disponible para formar un enlace doble. Estos tres dominios electrónicos se disponen en un mismo plano formando un triángulo equilátero, por lo que la geometría es trigonal plana y los ángulos miden unos 120 grados. El eteno, C2H4, es el ejemplo más sencillo: cada carbono está unido a dos hidrógenos y al otro carbono mediante un enlace doble, y la molécula completa es plana. Esta disposición explica por qué el eteno y otros alquenos reaccionan con facilidad por adición, porque los electrones del enlace doble están disponibles para formar nuevos enlaces.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v4",
+      "statement": "Con base en la teoría VSEPR, ¿qué geometría electrónica, qué geometría molecular y qué ángulo de enlace corresponden a la molécula de agua, H2O?",
+      "context": "Un laboratorio de análisis de agua en Bogotá mide el pH de una solución e informa que el oxígeno del agua tiene dos pares de electrones libres.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Geometría electrónica tetraédrica y geometría molecular angular, con un ángulo cercano a 104,5 grados.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos pares libres comprimen el ángulo entre los enlaces desde 109,5 grados hasta unos 104,5 grados."
+        },
+        {
+          "letter": "B",
+          "text": "Geometría electrónica trigonal plana y geometría molecular angular, con un ángulo de enlace de 120 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua tiene cuatro dominios electrónicos y no tres, por lo que su geometría electrónica no es trigonal plana."
+        },
+        {
+          "letter": "C",
+          "text": "Geometría electrónica lineal y geometría molecular lineal, con un ángulo de enlace de 180 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una geometría lineal exige solo dos dominios electrónicos, y el oxígeno del agua tiene cuatro dominios."
+        },
+        {
+          "letter": "D",
+          "text": "Geometría electrónica tetraédrica y geometría molecular piramidal trigonal, con un ángulo cercano a 109,5 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría molecular depende de los átomos enlazados, y como el agua solo tiene dos hidrógenos, su geometría es angular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la molécula de agua, el oxígeno tiene cuatro dominios electrónicos: dos enlaces simples con los hidrógenos y dos pares de electrones libres. Con cuatro dominios, la geometría electrónica es tetraédrica y los ángulos ideales serían de 109,5 grados. Sin embargo, la geometría molecular solo considera los átomos enlazados, y como el agua tiene únicamente dos hidrógenos, la geometría molecular es angular. Además, los pares libres ocupan más espacio que los enlaces y ejercen una repulsión mayor sobre los enlaces vecinos, lo que comprime el ángulo H-O-H hasta cerca de 104,5 grados. Esta geometría angular, con un dipolo molecular notable, es la responsable de que el agua sea un disolvente tan eficaz, porque su polaridad le permite rodear y separar a otros átomos y moléculas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v5",
+      "statement": "La molécula de dióxido de carbono, CO2, tiene enlaces carbono-oxígeno polares. ¿Por qué la molécula completa es apolar?",
+      "context": "Un estudiante de Armenia compara las moléculas de dióxido de carbono y de agua para explicar por qué la primera permanece en la atmósfera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el carbono tiene cuatro electrones de valencia y por eso anula la polaridad de los oxígenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de electrones de valencia del carbono no es el criterio, porque lo determinante es la simetría de la disposición de los dipolos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la molécula es lineal y simétrica, de modo que los dos dipolos de enlace se cancelan entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dipolos de enlace son iguales y opuestos, de manera que su suma vectorial es cero y la molécula es apolar."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los enlaces carbono-oxígeno son apolares, ya que los dos átomos tienen la misma electronegatividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbono y el oxígeno tienen electronegatividades distintas, de modo que los enlaces entre ellos sí son polares."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el dióxido de carbono tiene tres átomos, y toda molécula con tres átomos es apolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una molécula con tres átomos puede ser polar, como el agua, que también tiene tres átomos y es angular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La polaridad molecular no depende solo de la polaridad de los enlaces, sino también de la geometría de la molécula. En el dióxido de carbono, el carbono es el átomo central y los dos oxígenos están situados a 180 grados, en disposición lineal, porque el carbono tiene dos dominios electrónicos y su geometría es lineal. Cada enlace entre carbono y oxígeno es polar, con los electrones desplazados hacia el oxígeno, que es más electronegativo. Como la molécula es simétrica, el dipolo de un enlace es igual y contrario al del otro, y su suma vectorial es cero. Por eso el CO2 es una molécula apolar, aunque sus enlaces sean polares, mientras que el agua es angular y por eso es polar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v6",
+      "statement": "En la molécula de amoníaco, NH3, el nitrógeno tiene tres enlaces y un par de electrones libres. ¿Qué hibridación, geometría molecular y ángulo de enlace presenta?",
+      "context": "Un docente de Neiva explica por qué el amoníaco es un gas muy soluble en agua y por eso se usa en la industria de refrigerantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hibridación sp, geometría lineal y ángulo de enlace de 180 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una geometría lineal requiere dos dominios electrónicos, y el nitrógeno del amoníaco tiene cuatro dominios."
+        },
+        {
+          "letter": "B",
+          "text": "Hibridación sp3, geometría trigonal plana y ángulo de enlace de 120 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría trigonal plana corresponde a tres dominios, y aquí el par libre actúa como un cuarto dominio electrónico."
+        },
+        {
+          "letter": "C",
+          "text": "Hibridación sp2, geometría piramidal trigonal y ángulo de enlace cercano a 120 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hibridación sp2 corresponde a tres dominios y no puede describir un átomo que tiene además un par libre."
+        },
+        {
+          "letter": "D",
+          "text": "Hibridación sp3, geometría piramidal trigonal y ángulo de enlace cercano a 107 grados.",
+          "is_correct": true,
+          "feedback": "Correcto. El par libre del nitrógeno ocupa más espacio y comprime el ángulo desde 109,5 hasta cerca de 107 grados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El nitrógeno del amoníaco tiene cinco electrones de valencia, de los cuales tres forman tres enlaces simples con los hidrógenos y dos constituyen un par libre. Como el par libre también es un dominio electrónico, el nitrógeno tiene cuatro dominios, con geometría electrónica tetraédrica e hibridación sp3. La geometría molecular, que considera solo los átomos enlazados, es piramidal trigonal. El par libre, al ocupar más espacio que un enlace, comprime el ángulo entre los enlaces nitrógeno-hidrógeno desde 109,5 grados hasta cerca de 107 grados. Esta geometría no plana, junto con la capacidad del nitrógeno de formar un enlace coordinado con un protón, explica el carácter básico del amoníaco y su elevada solubilidad en agua.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v7",
+      "statement": "Los compuestos 1-buteno y 2-buteno tienen la misma fórmula molecular, C4H8. ¿Qué relación existe entre ellos y cómo se llama ese fenómeno?",
+      "context": "Un laboratorio de control de calidad en Cali analiza dos muestras de la misma fórmula molecular para un proceso de separación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son isómeros constitucionales o estructurales, porque los átomos de carbono están conectados en un orden distinto.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos tienen la fórmula C4H8, pero la ubicación del doble enlace es diferente, y eso define la isomería estructural."
+        },
+        {
+          "letter": "B",
+          "text": "Son isómeros geométricos, porque el doble enlace puede ocupar dos posiciones distintas dentro de la molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La isomería geométrica exige la misma conectividad, y aquí lo que cambia es el orden en que se conectan los átomos."
+        },
+        {
+          "letter": "C",
+          "text": "Son isómeros de masa, porque tienen la misma masa molecular pero distinto número de átomos de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molecular es la misma porque la fórmula es la misma, y los dos compuestos tienen cuatro átomos de carbono."
+        },
+        {
+          "letter": "D",
+          "text": "Son isómeros ópticos, porque el doble enlace genera un centro quiral en la molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos compuestos tiene un centro quiral, y la isomería óptica no se origina en un doble enlace."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los isómeros son compuestos que tienen la misma fórmula molecular y, sin embargo, propiedades distintas. La isomería estructural o constitucional se produce cuando los átomos de carbono están unidos en un orden diferente, como ocurre entre el 1-buteno, con el doble enlace entre el primer y el segundo carbono, y el 2-buteno, donde el doble enlace se ubica entre el segundo y el tercer carbono. En cambio, la isomería geométrica o cis-trans aparece cuando la conectividad es la misma, pero cambia la disposición de los grupos alrededor de un doble enlace o de un anillo; por eso solo el 2-buteno puede presentar las formas cis y trans. La diferencia de conectividad implica que los dos compuestos tengan distinta reactividad y también distintas propiedades físicas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el metano, CH4, es apolar mientras que el clorometano, CH3Cl, es polar, si en los dos casos el carbono tiene cuatro enlaces y la geometría es tetraédrica?",
+      "context": "Un inventario de laboratorio en Bogotá registra frascos de metano y de clorometano para comparar su comportamiento ante un campo eléctrico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los enlaces carbono-hidrógeno del metano son más polares que el enlace carbono-cloro del clorometano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces con hidrógeno son prácticamente no polares, mientras que el enlace con cloro es claramente polar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el metano tiene dos átomos de hidrógeno y el clorometano tiene cuatro, y eso altera la simetría.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metano tiene cuatro hidrógenos y el clorometano tres, y esa diferencia por sí sola no explica el cambio de polaridad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en el metano los cuatro enlaces son equivalentes y sus dipolos se cancelan, mientras que en el clorometano el enlace con cloro rompe la simetría.",
+          "is_correct": true,
+          "feedback": "Correcto. En el CH4 la suma de los dipolos es cero, y en el CH3Cl el enlace polar con cloro deja un dipolo molecular neto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el cloro tiene más protones y por eso desplaza la nube electrónica hacia el carbono en lugar de atraerla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cloro es más electronegativo que el carbono, de modo que atrae hacia sí los electrones del enlace y origina el dipolo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el metano, los cuatro enlaces con hidrógeno tienen electronegatividades prácticamente iguales, de modo que cada enlace es no polar y, además, la geometría tetraédrica es simétrica. Al sumar los cuatro dipolos, todos de igual magnitud y en direcciones opuestas, se obtiene un vector nulo y la molécula es apolar. En el clorometano la geometría sigue siendo tetraédrica, pero uno de los enlaces, el que une el carbono con el cloro, es netamente polar porque el cloro es más electronegativo que el carbono. Ese dipolo no tiene contraparte que lo cancele, de modo que la molécula tiene un dipolo molecular neto y es polar. La comparación muestra que la polaridad depende a la vez de la polaridad de los enlaces y de la geometría que los ordena en el espacio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v9",
+      "statement": "Considerando el metano, CH4, el amoníaco, NH3, y el agua, H2O, ¿cuál es el orden correcto de sus ángulos de enlace y qué lo explica?",
+      "context": "Un profesor de Yopal compara tres moléculas de uso cotidiano para explicar por qué sus ángulos de enlace no coinciden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua tiene el ángulo mayor, luego el amoníaco y por último el metano, porque tiene más electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido y la explicación no es válida, porque el número de electrones no determina el ángulo de enlace."
+        },
+        {
+          "letter": "B",
+          "text": "El metano tiene el ángulo mayor, luego el amoníaco y por último el agua, porque los pares libres comprimen el ángulo.",
+          "is_correct": true,
+          "feedback": "Correcto. El metano no tiene pares libres, el amoníaco tiene uno y el agua tiene dos, y cada par libre comprime más el ángulo."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres moléculas tienen el mismo ángulo, porque comparten la geometría electrónica tetraédrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las tres comparten geometría electrónica tetraédrica, la geometría molecular y los pares libres cambian el ángulo real."
+        },
+        {
+          "letter": "D",
+          "text": "El agua tiene el ángulo mayor, porque el oxígeno es más electronegativo y atrae con más fuerza a los electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La electronegatividad influye en la polaridad, pero la diferencia de ángulos se explica por la repulsión de los pares libres."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las tres moléculas tienen cuatro dominios electrónicos alrededor del átomo central y, por tanto, una geometría electrónica tetraédrica con un ángulo ideal de 109,5 grados. Sin embargo, la geometría molecular es diferente en cada caso: el metano es tetraédrico y completo, el amoníaco es piramidal trigonal y el agua es angular. La diferencia está en los pares libres: el metano no tiene ninguno, el amoníaco tiene uno y el agua tiene dos. Como los pares libres ocupan más espacio y repelen con más fuerza que los enlaces, cada par libre comprime el ángulo entre los enlaces. El resultado es 109,5 grados en el metano, cerca de 107 en el amoníaco y cerca de 104,5 en el agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante afirma: \"Toda molécula que contiene enlaces polares es necesariamente polar\". ¿Cuál es la evaluación más completa y correcta de esa afirmación?",
+      "context": "En una discusión de clase en Tunja, un grupo de estudiantes debate si una molécula con enlaces polares puede ser apolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque un enlace polar siempre aporta una carga neta a la molécula completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un enlace polar puede neutralizarse por la simetría de la molécula, como ocurre en el dióxido de carbono."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es parcialmente correcta, porque solo las moléculas diatómicas conservan la polaridad de sus enlaces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las moléculas diatómicas no son un caso especial, porque en ellas la polaridad del enlace coincide con la polaridad molecular."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta para moléculas angulares, pero falsa para las lineales y las tetraédricas simétricas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación no puede limitarse a un tipo de geometría, porque la polaridad depende de la suma vectorial de los dipolos."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es imprecisa, porque depende de la geometría: si los dipolos de enlace se cancelan por simetría, la molécula es apolar.",
+          "is_correct": true,
+          "feedback": "Correcto. La polaridad molecular es la suma vectorial de los dipolos de enlace, y esa suma depende de la geometría."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La afirmación confunde la polaridad del enlace con la polaridad de la molécula. La polaridad molecular se obtiene sumando vectorialmente los dipolos de todos los enlaces. Si los enlaces polares están dispuestos de manera simétrica, sus dipolos se cancelan y la molécula es apolar: así ocurre en el dióxido de carbono, lineal, y en el tetracloruro de carbono, tetraédrico y simétrico. Si los dipolos no se cancelan, la molécula es polar: eso ocurre en el agua, angular, y en el clorometano, tetraédrico pero no simétrico respecto al cloro. La conclusión correcta es que la polaridad molecular depende de la geometría, y por eso dos moléculas con la misma hibridación pueden ser una polar y otra apolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v11",
+      "statement": "En la molécula de acetileno o etino, C2H2, cada carbono está unido a un hidrógeno y al otro carbono. ¿Qué hibridación, geometría y ángulo de enlace son correctos?",
+      "context": "Un taller de corte de metal en Bogotá utiliza un soplete oxiacetilénico que se alimenta con acetileno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hibridación sp en cada carbono, geometría lineal y ángulo de enlace de 180 grados.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada carbono tiene dos dominios electrónicos: un enlace con el hidrógeno y un enlace triple con el otro carbono."
+        },
+        {
+          "letter": "B",
+          "text": "Hibridación sp2 en cada carbono, geometría trigonal plana y ángulo de enlace de 120 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría trigonal plana exige tres dominios electrónicos, y aquí el carbono solo tiene dos dominios."
+        },
+        {
+          "letter": "C",
+          "text": "Hibridación sp3 en cada carbono, geometría tetraédrica y ángulo de enlace de 109,5 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría tetraédrica exige cuatro dominios electrónicos, y el carbono del etino tiene únicamente dos."
+        },
+        {
+          "letter": "D",
+          "text": "Hibridación sp3 en cada carbono, geometría lineal y ángulo de enlace de 180 grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La geometría lineal corresponde a la hibridación sp, y la hibridación sp3 nunca da una geometría lineal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el etino, C2H2, cada carbono está unido a un hidrógeno mediante un enlace simple y al otro carbono mediante un enlace triple, formado por un enlace sigma y dos enlaces pi. El carbono tiene entonces dos dominios electrónicos, y la hibridación que corresponde es sp, que produce dos orbitales híbridos orientados en direcciones opuestas. La geometría es por tanto lineal, con un ángulo de enlace de 180 grados, y la molécula completa está contenida en una sola línea. Esta estructura explica la enorme energía liberada en la combustión del acetileno, cuya llama alcanza temperaturas muy altas y por eso se emplea para cortar y soldar metales en los talleres del país.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle-v12",
+      "statement": "Un equipo afirma: \"Los isómeros cis y trans del 1,2-dicloroeteno tienen la misma polaridad porque su fórmula molecular es la misma\". ¿Cuál evaluación es la más completa y correcta?",
+      "context": "Un equipo de estudiantes de Villavicencio compara las estructuras de las formas cis y trans del 1,2-dicloroeteno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la fórmula molecular determina por sí sola la polaridad de una molécula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula molecular solo indica el número de átomos, y no dice nada sobre su disposición espacial."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es parcialmente correcta, porque la diferencia de polaridad es pequeña y puede ignorarse en los cálculos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia no es despreciable, porque los dos isómeros tienen momentos dipolares muy distintos por su simetría."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es imprecisa, porque el isómero cis es polar y el trans es apolar, y la diferencia está en la disposición de los cloros.",
+          "is_correct": true,
+          "feedback": "Correcto. En el isómero trans los cloros quedan en lados opuestos y sus dipolos se cancelan, mientras que en el cis están del mismo lado."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es totalmente incorrecta, porque los dos isómeros son apolares por tener un doble enlace entre carbonos iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El doble enlace entre carbonos iguales no garantiza apolaridad, y en el isómero cis los dipolos no se cancelan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El 1,2-dicloroeteno tiene la misma fórmula en sus dos formas isoméricas, pero la disposición de los átomos de cloro cambia respecto al doble enlace entre los carbonos. En el isómero trans, los dos cloros se encuentran en lados opuestos del doble enlace y, como la molécula es simétrica, los dipolos de los enlaces carbono-cloro se cancelan y la molécula es apolar. En el isómero cis, los dos cloros están del mismo lado, los dipolos se suman y la molécula es polar. La misma conclusión se aplica a otros pares de isómeros geométricos y muestra que la polaridad de una molécula depende de su geometría y no solo de su fórmula, un conocimiento que se aplica al estudiar las propiedades de los disolventes y de los refrigerantes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-10-2026-W19-estructura-molecular-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
