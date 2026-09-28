@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v1",
-      "statement": "Qué afirma la dualidad onda-partícula acerca de la naturaleza de la luz?",
+      "statement": "¿Qué afirma la dualidad onda-partícula acerca de la naturaleza de la luz?",
       "context": "En el laboratorio de física de un colegio de Cali, un grupo prepara una demostración sobre el funcionamiento de un panel fotovoltaico y pregunta qué es exactamente la luz.",
       "options": [
         {
@@ -55,7 +55,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v2",
-      "statement": "Un control remoto emite una señal que sí llega al televisor cuando tiene pilas nuevas, pero falla cuando las pilas se agotan. Qué explica mejor este comportamiento?",
+      "statement": "Un control remoto emite una señal que sí llega al televisor cuando tiene pilas nuevas, pero falla cuando las pilas se agotan. ¿Qué explica mejor este comportamiento?",
       "context": "En un colegio de Pereira, la profesora cuenta que en su casa el control remoto del televisor deja de funcionar cuando las pilas se agotan, y pregunta qué tiene que ver con la luz.",
       "options": [
         {
@@ -101,7 +101,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v3",
-      "statement": "Una radiación de frecuencia 5,0 × 10¹⁴ Hz ilumina una superficie. Tomando la constante de Planck h = 6,63 × 10⁻³⁴ J·s, cuál es la energía de cada fotón de esa radiación?",
+      "statement": "Una radiación de frecuencia 5,0 × 10¹⁴ Hz ilumina una superficie. Tomando la constante de Planck h = 6,63 × 10⁻³⁴ J·s, ¿cuál es la energía de cada fotón de esa radiación?",
       "context": "En un laboratorio escolar de Bogotá, un grupo calcula la energía de los fotones que llegan a un detector y consulta el valor de la constante de Planck.",
       "options": [
         {
@@ -147,7 +147,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v4",
-      "statement": "Una fotocelda tiene una función de trabajo de 2,0 eV, equivalente a 3,2 × 10⁻¹⁹ J. Cuál es su frecuencia de corte y qué significa físicamente?",
+      "statement": "Una fotocelda tiene una función de trabajo de 2,0 eV, equivalente a 3,2 × 10⁻¹⁹ J. Cuál es su frecuencia de corte y ¿qué significa físicamente?",
       "context": "En un taller de física de un colegio de Medellín, un grupo prepara una experiencia con fotoceldas de metales distintos para medir su frecuencia de corte.",
       "options": [
         {
@@ -193,7 +193,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v5",
-      "statement": "En un experimento fotoeléctrico se mantienen la frecuencia y el metal, y se duplica la intensidad de la luz. Qué cambios se observan en los electrones emitidos?",
+      "statement": "En un experimento fotoeléctrico se mantienen la frecuencia y el metal, y se duplica la intensidad de la luz. ¿Qué cambios se observan en los electrones emitidos?",
       "context": "En el laboratorio de un colegio de Barranquilla, un grupo compara dos bombillos idénticos encendidos en el mismo circuito y luego repite el experimento con una luz más intensa.",
       "options": [
         {
@@ -239,7 +239,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v6",
-      "statement": "Un grupo de estudiantes observa en una pantalla franjas de luz y oscuridad obtenidas al hacer pasar luz por una doble rendija. Qué modelo de la luz es el pertinente para explicar ese resultado?",
+      "statement": "Un grupo de estudiantes observa en una pantalla franjas de luz y oscuridad obtenidas al hacer pasar luz por una doble rendija. ¿Qué modelo de la luz es el pertinente para explicar ese resultado?",
       "context": "En el taller de un colegio de Ibagué, un grupo analiza la imagen de un patrón de interferencia obtenido en el laboratorio y lo relaciona con un modelo de la luz.",
       "options": [
         {
@@ -285,7 +285,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v7",
-      "statement": "Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s. Qué longitud de onda de de Broglie corresponde a esos electrones y qué indica ese resultado?",
+      "statement": "Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s². Qué longitud de onda de de Broglie corresponde a esos electrones y ¿qué indica ese resultado?",
       "context": "En un centro de investigación escolar de Bogotá, se prepara un microscopio electrónico y el grupo calcula la longitud de onda asociada a un haz de electrones.",
       "options": [
         {
@@ -310,11 +310,11 @@
           "letter": "D",
           "text": "1,4 × 10⁻²⁵ m, y muestra que los electrones son partículas sin ninguna propiedad ondulatoria.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ese valor sale de omitir la velocidad en el denominador, y contradice la hipótesis de de Broglie que se está calculando."
+          "feedback": "Incorrecto. Ese valor sale de omitir la velocidad en el denominador, y contradice la hipótesis de Broglie que se está calculando."
         }
       ],
       "correct_answer": "C",
-      "explanation": "De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻³⁴ J·s dividido entre (9,11 × 10⁻³¹ kg × 1,5 × 10⁶ m/s) da 4,85 × 10⁻¹⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.",
+      "explanation": "De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻³⁴ J·s dividido entre (9,11 × 10⁻³¹ kg × 1,5 × 10⁶ m/s²) da 4,85 × 10⁻¹⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -331,7 +331,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v8",
-      "statement": "Un mismo haz de electrones pasa por una doble rendija y produce un patrón de interferencia, mientras que en un detector granular cada electrón se registra como un punto localizado. Qué conclusión es correcta?",
+      "statement": "Un mismo haz de electrones pasa por una doble rendija y produce un patrón de interferencia, mientras que en un detector granular cada electrón se registra como un punto localizado. ¿Qué conclusión es correcta?",
       "context": "En un clase de grado 9 de Valledupar, la profesora pide comparar el comportamiento de un electrón en dos experimentos distintos del laboratorio.",
       "options": [
         {
@@ -377,7 +377,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v9",
-      "statement": "Un grupo registra la energía cinética máxima de los electrones emitidos en función de la frecuencia, para dos metales distintos. Qué interpretación de esas gráficas es correcta?",
+      "statement": "Un grupo registra la energía cinética máxima de los electrones emitidos en función de la frecuencia, para dos metales distintos. ¿Qué interpretación de esas gráficas es correcta?",
       "context": "En un proyecto de grado 9 de Soacha, un grupo compara el comportamiento fotoeléctrico de dos metales y construye una gráfica de energía cinética contra frecuencia.",
       "options": [
         {
@@ -423,7 +423,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v10",
-      "statement": "Un estudiante afirma que \"la luz es una onda y nada más\", y usa esa idea para explicar todos los fenómenos lumínicos. Cómo debe evaluarse esa afirmación?",
+      "statement": "Un estudiante afirma que \"la luz es una onda y nada más\", y usa esa idea para explicar todos los fenómenos lumínicos. ¿Cómo debe evaluarse esa afirmación?",
       "context": "En una clase de física de un colegio de Sincelejo, se debate la validez de una afirmación sobre cómo se comporta la luz.",
       "options": [
         {
@@ -469,7 +469,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v11",
-      "statement": "En un equipo de radiografía se usa un haz de electrones acelerados que choca contra un metal. Qué principio de la física cuántica explica que ese proceso produzca una radiación de alta frecuencia?",
+      "statement": "En un equipo de radiografía se usa un haz de electrones acelerados que choca contra un metal. Qué principio de la física cuántica explica ¿que ese proceso produzca una radiación de alta frecuencia?",
       "context": "En un hospital de Bucaramanga, un grupo de estudiantes de grado 9 visita el área de radiología y pregunta por el equipo que usa rayos X.",
       "options": [
         {
@@ -498,7 +498,7 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "En un tubo de rayos X, los electrones acelerados por una diferencia de potencial alto chocan contra un objetivo metálico y se frenan bruscamente. Según la hipótesis de de Broglie, esos electrones en movimiento tienen una longitud de onda asociada muy corta, y la radiación emitida corresponde a ese comportamiento ondulatorio. La energía de la radiación depende de la diferencia de potencial aplicada, razón por la cual un equipo de mayor voltaje produce rayos más penetrantes. La aplicación hospitalaria de esta idea es muy directa: permite obtener imágenes del interior del cuerpo humano.",
+      "explanation": "En un tubo de rayos X, los electrones acelerados por una diferencia de potencial alto chocan contra un objetivo metálico y se frenan bruscamente. Según la hipótesis de Broglie, esos electrones en movimiento tienen una longitud de onda asociada muy corta, y la radiación emitida corresponde a ese comportamiento ondulatorio. La energía de la radiación depende de la diferencia de potencial aplicada, razón por la cual un equipo de mayor voltaje produce rayos más penetrantes. La aplicación hospitalaria de esta idea es muy directa: permite obtener imágenes del interior del cuerpo humano.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -515,7 +515,7 @@
     },
     {
       "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v12",
-      "statement": "Un equipo conecta un fotodiodo a un circuito con un medidor de corriente y lo ilumina con dos lámparas: una de luz roja y otra de luz ultravioleta de igual potencia. Qué resultado esperado sería coherente con la teoría de los fotones?",
+      "statement": "Un equipo conecta un fotodiodo a un circuito con un medidor de corriente y lo ilumina con dos lámparas: una de luz roja y otra de luz ultravioleta de igual potencia. ¿Qué resultado esperado sería coherente con la teoría de los fotones?",
       "context": "En el proyecto de investigación de un colegio de Quibdó, un equipo diseña una experiencia para relacionar la luz incidente con la corriente eléctrica medida en un circuito.",
       "options": [
         {
