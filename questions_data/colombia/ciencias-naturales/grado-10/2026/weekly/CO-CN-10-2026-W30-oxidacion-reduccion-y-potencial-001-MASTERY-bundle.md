@@ -1,0 +1,276 @@
+---
+id: "CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle"
+country: "colombia"
+grado: 10
+asignatura: "ciencias_naturales"
+tema: "oxidacion-reduccion-y-potencial"
+periodo: "weekly"
+week: "W30"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia / Saber 11"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: Oxidación, Reducción y Potencial de Circuito - Grado 10
+
+**Doce preguntas de grado 10 sobre electroquímica: número de oxidación, semirreacciones, la pila de Daniell, potencial estándar de electrodo, la ecuación de Nernst a 25 grados centígrados, constantes de equilibrio, baterías de plomo, níquel-cadmio y litio, electrólisis, electrorrefinación del cobre, corrosión del hierro y protección catódica, con contextos reales de la costa Caribe, el río Magdalena y el reciclaje informal de baterías en Bogotá.**
+
+## Question 1 [D3-D4]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.90
+**Contexto:** En un taller de Bogotá se revisa el electrolito de una batería de plomo-ácido de carro, que es ácido sulfúrico diluido.
+### Enunciado
+En el ácido sulfúrico, H2SO4, ¿qué número de oxidación tiene el azufre y cómo se determina?
+### Opciones
+- [x] A) Tiene +6, porque el hidrógeno aporta +1 cada uno, el oxígeno aporta -2 cada uno y en un compuesto neutro la suma debe ser cero.
+  <!-- feedback: Correcto. Aplica la suma de números de oxidación igual a la carga total, que en una molécula neutra es cero. -->
+- [ ] B) Tiene +2, porque cada enlace con el oxígeno debe contarse como una sola transferencia de electrones.
+  <!-- feedback: Incorrecto. El número de oxidación no cuenta enlaces, sino una asignación formal de electrones: con dos oxígenos a -2 la suma solo cuadra si el azufre es +6. -->
+- [ ] C) Tiene -6, porque el azufre es menos electronegativo que el oxígeno y por eso le entrega sus electrones.
+  <!-- feedback: Incorrecto. El azufre es más electronegativo que el oxígeno, de modo que atrae los electrones del enlace y su número de oxidación es positivo, no negativo. -->
+- [ ] D) Tiene 0, porque el azufre pertenece a la familia 16 y en los ácidos siempre conserva su estado neutro.
+  <!-- feedback: Incorrecto. La familia química no fija el estado de oxidación; lo fijan la electronegatividad de los átomos y el balance de cargas de la especie. -->
+
+### Explicacion Pedagogica
+El número de oxidación es una asignación formal que indica cuántos electrones gana o pierde un átomo al formar enlaces, y se usa para reconocer de inmediato qué se oxida y qué se reduce. En el ácido sulfúrico cada hidrógeno tiene +1 y cada oxígeno -2, porque el oxígeno es el elemento más electronegativo de la molécula. Como la molécula es neutra, la suma debe dar cero: 2(+1) más 2(-2) deja un residuo de -2, así que el azufre debe ser +6. Este número no es un dato aislado, es la puerta de entrada a la electroquímica, porque cualquier reacción redox se balancea identificando primero qué átomos suben y qué átomos bajan. En la batería de plomo-ácido del contexto, el plomo del ánodo pasa de 0 a +2 al formar sulfato de plomo, mientras el plomo del dióxido de plomo pasa de +4 a +2: en una misma celda conviven así una oxidación y una reducción sobre átomos del mismo elemento.
+
+## Question 2 [D3-D4]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.88
+**Contexto:** En Cartagena un técnico cambia el ánodo de zinc agotado de una pila que mantiene encendida una lámpara de emergencia en un puesto de mercado.
+### Enunciado
+Cuando el zinc se oxida en el ánodo de una pila, ¿qué semirreacción ocurre y qué cambio de número de oxidación la acompaña?
+### Opciones
+- [ ] A) El Zn2+(ac) pasa a Zn(s) y gana dos electrones, de modo que su número de oxidación pasa de +2 a 0.
+  <!-- feedback: Incorrecto. Esa es la reducción, que ocurre en el cátodo; en el ánodo el metal se disuelve como ion positivo. -->
+- [x] B) El Zn(s) pasa a Zn2+(ac) y cede dos electrones, de modo que su número de oxidación pasa de 0 a +2.
+  <!-- feedback: Correcto. Describe la oxidación como pérdida de electrones y el aumento del número de oxidación de 0 a +2. -->
+- [ ] C) El Zn(s) gana dos electrones y se convierte en Zn2-(ac), por lo que su número de oxidación pasa de 0 a -2.
+  <!-- feedback: Incorrecto. Un átomo no gana electrones al oxidarse, y un anión divalente de zinc no se forma en estas disoluciones acuosas. -->
+- [ ] D) El Zn(s) se oxida directamente a ZnO(s), sin intervención de electrones, porque el oxígeno del aire ataca el metal.
+  <!-- feedback: Incorrecto. Esa es la oxidación directa por el oxígeno atmosférico, que es un proceso químico distinto de la oxidación electroquímica en un ánodo. -->
+
+### Explicacion Pedagogica
+La oxidación es, por definición, la pérdida de electrones, y siempre ocurre en el ánodo; la reducción es la ganancia de electrones y ocurre en el cátodo. Una regla nemotécnica ayuda a no confundir los dos papeles, porque los dos conceptos conservan la misma vocal: oxidación con ánodo y reducción con cátodo. Cuando el zinc del ánodo se disuelve, cada átomo libera dos electrones y pasa al medio como ion Zn2+, por eso su número de oxidación sube de 0 a +2. Estos electrones no desaparecen: viajan por el cable externo hasta el cátodo, donde los ocupan otros átomos, y esa corriente eléctrica es la que ilumina la lámpara del puesto de mercado. Si el ánodo se agota, el zinc se acaba y la pila deja de entregar corriente, aunque el otro electrodo todavía tenga reactivo disponible.
+
+## Question 3 [D3-D4]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.86
+**Contexto:** Una estudiante de Medellín arma una pila de Daniell con dos vasos unidos por un tubo con sal de cocina disuelta y ve que el vaso de sulfato de cobre pierde el color azul.
+### Enunciado
+¿Cuál es la función del puente salino en una celda electroquímica?
+### Opciones
+- [ ] A) Aporta los electrones que recorren el cable del ánodo al cátodo, de modo que la reacción resulta espontánea.
+  <!-- feedback: Incorrecto. Los electrones viajan por el circuito externo, no por el puente salino, que conduce iones y no electrones. -->
+- [ ] B) Aumenta el potencial de la celda, porque los iones del electrolito elevan el voltaje medido entre los electrodos.
+  <!-- feedback: Incorrecto. El potencial lo fijan los potenciales de electrodo; el puente salino solo evita la polarización por concentración. -->
+- [x] C) Permite el paso de iones entre las dos disoluciones y mantiene la electroneutralidad de cada semicelda sin mezclar los reactivos.
+  <!-- feedback: Correcto. El puente salino cierra el circuito interno por movimiento iónico y evita la acumulación de carga en cada semicelda. -->
+- [ ] D) Convierte una reacción no espontánea en espontánea, ya que suministra la energía química que el sistema no tenía.
+  <!-- feedback: Incorrecto. El puente salino no aporta energía ni cambia el signo del potencial: solo permite que una reacción ya espontánea se complete. -->
+
+### Explicacion Pedagogica
+Una celda electroquímica tiene dos circuitos: el externo, por donde viajan los electrones, y el interno, por donde viajan los iones. Si solo existiera el circuito externo, en el ánodo se acumularían iones positivos al disolverse el metal y en el cátodo quedarían cargas positivas sin compensar al consumirse el ion metálico. Esa acumulación de carga frenaría la reacción en cuestión de segundos. El puente salino resuelve el problema con un electrolito inerte, como cloruro de sodio o nitrato de potasio, que deja migrar aniones hacia el ánodo y cationes hacia el cátodo, manteniendo la neutralidad eléctrica de cada disolución. Al mismo tiempo, la barrera física del tubo o del recipiente poroso evita que se mezclen directamente las soluciones de reactivos. El color azul que desaparece en el vaso del contexto es la señal observable de que el ion Cu2+ se está consumiendo en el cátodo.
+
+## Question 4 [D5-D6]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.82
+**Contexto:** En un laboratorio escolar de Neiva se monta una pila con un electrodo de zinc en ácido sulfúrico y otro electrodo de cobre en solución de sulfato de cobre.
+### Enunciado
+Con los valores E°(Zn2+/Zn) = -0,76 V y E°(Cu2+/Cu) = +0,34 V, ¿cuál es el potencial estándar de la celda y cómo se obtiene?
+### Opciones
+- [ ] A) -1,10 V, porque E°celda es igual a E°ánodo menos E°cátodo, es decir -0,76 V menos 0,34 V.
+  <!-- feedback: Incorrecto. Invierte la resta, lo que describe el sentido no espontáneo de la reacción y no el de una pila que entrega corriente. -->
+- [ ] B) 0,42 V, porque se suman los valores absolutos de los dos potenciales de electrodo y se toma la diferencia entre ellos.
+  <!-- feedback: Incorrecto. La suma de magnitudes no representa la fuerza impulsora de la reacción; la resta con los signos correctos da 1,10 V. -->
+- [ ] C) 0,00 V, porque ambos electrodos están en disoluciones de concentración igual a 1 mol/L.
+  <!-- feedback: Incorrecto. Esa concentración fija el estado estándar de cada electrodo por separado, pero no anula la diferencia de potencial entre ellos. -->
+- [x] D) 1,10 V, porque E°celda es igual a E°cátodo menos E°ánodo, es decir 0,34 V menos -0,76 V.
+  <!-- feedback: Correcto. Resta los potenciales de reducción de ambos electrodos con el signo que exige la definición de E°celda. -->
+
+### Explicacion Pedagogica
+El potencial estándar de electrodo es una medida de la tendencia de un par a reducir o a oxidarse en condiciones estándar, y la tabla completa recoge pares como Zn2+/Zn con -0,76 V, Fe2+/Fe con -0,44 V, Pb2+/Pb con -0,13 V, Cu2+/Cu con +0,34 V, Ag+/Ag con +0,80 V y H+/H2 con 0,00 V por referencia. El potencial estándar de la celda se obtiene siempre restando el valor del ánodo al del cátodo, y el electrodo más negativo se oxida mientras el más positivo se reduce. En la pila de Daniell el zinc, con -0,76 V, se oxida y el cobre, con +0,34 V, se reduce, de modo que E°celda es 0,34 V menos -0,76 V, igual a 1,10 V. Este valor tan alto explica por qué esta pila se usa como demostración escolar: entrega corriente suficiente para encender un LED o un pequeño motor. La relación con la energía libre de Gibbs, Delta G° igual a menos nFE°, muestra que se liberan unos 212 kilojulios por mol de zinc en condiciones estándar.
+
+## Question 5 [D5-D6]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.80
+**Contexto:** Un técnico de mantenimiento en Bucaramanga sumerge un clavo de zinc limpio en un vaso con solución de sulfato de cobre y observa que el clavo se cubre de un metal rojizo.
+### Enunciado
+¿Qué transformación química ocurre y cuál es la ecuación iónica neta del proceso?
+### Opciones
+- [x] A) El zinc se oxida y el cobre(II) se reduce: Zn(s) con Cu2+(ac) produce Zn2+(ac) con Cu(s), y el cobre queda depositado como sólido.
+  <!-- feedback: Correcto. Muestra el zinc entregando electrones y el Cu2+ recibiéndolos, que es la forma iónica neta del proceso. -->
+- [ ] B) El cobre se deposita por reducción directa del sulfato, y la ecuación iónica neta es Zn(s) con CuSO4(ac) produce Zn(ac) con CuSO4(s).
+  <!-- feedback: Incorrecto. El sulfato de cobre es soluble y permanece como ion espectador; quien se reduce es el ion Cu2+, no el ion sulfato. -->
+- [ ] C) Se forma un precipitado de sulfato de zinc, y la ecuación correcta es Zn(s) con CuSO4(ac) produce ZnSO4(s) con Cu(ac).
+  <!-- feedback: Incorrecto. El sulfato de zinc es muy soluble y no precipita, además el cobre obtenido es un sólido y no un ion disuelto. -->
+- [ ] D) No hay reacción redox espontánea, porque la ecuación Cu(s) con Zn2+(ac) produce Cu2+(ac) con Zn(s) no puede ocurrir en ese medio.
+  <!-- feedback: Incorrecto. La reacción inversa es la que no es espontánea, porque el par Zn2+/Zn tiene un potencial más negativo que el par Cu2+/Cu. -->
+
+### Explicacion Pedagogica
+La reacción entre el zinc metálico y una disolución de sulfato de cobre es el ejemplo más sencillo de una reacción redox espontánea y se escribe de dos maneras equivalentes. La ecuación molecular es Zn(s) con CuSO4(ac) produce ZnSO4(ac) con Cu(s), donde aparecen las fórmulas completas de los compuestos. La ecuación iónica neta es Zn(s) con Cu2+(ac) produce Zn2+(ac) con Cu(s), y es la que revela la transferencia de electrones: el zinc libera dos electrones y el ion Cu2+ los toma. Los iones sulfato y los iones sodio o potasio presentes en la disolución son iones espectadores, porque no cambian durante el proceso y por eso se cancelan al escribir la forma neta. Aquí no hay precipitación, ya que el sulfato de zinc y el sulfato de cobre son solubles, y el depósito rojizo que se ve sobre el clavo es cobre metálico. La espontaneidad se explica con el potencial de celda de 1,10 V, positivo, y con la ecuación de Nernst, que además muestra que el proceso se detiene cuando se agotan los iones Cu2+.
+
+## Question 6 [D5-D6]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**ICFES:** Indagación
+**Expected_Success:** 0.78
+**Contexto:** En un laboratorio de investigación en Pereira se hace circular corriente por una celda de zinc-cobre: el cátodo de cobre gana masa mientras el ánodo de zinc pierde masa.
+### Enunciado
+Si el electrodo de cobre aumenta su masa en 1,27 gramos, ¿qué masa de zinc se disuelve en el ánodo suponiendo que por ambos electrodos circula la misma corriente?
+### Opciones
+- [ ] A) 0,65 gramos, porque la misma corriente deposita la misma masa en los dos electrodos, ya que ambos reciben la misma carga.
+  <!-- feedback: Incorrecto. La carga eléctrica es la misma, pero la masa depositada depende de la masa molar y del número de electrones de cada elemento. -->
+- [x] B) 1,31 gramos, porque por cada mol de Cu2+ reducido se deposita un mol de cobre y se oxida un mol de zinc.
+  <!-- feedback: Correcto. Combina la relación molar de uno a uno con las masas molares de 63,5 para el cobre y 65,4 para el zinc. -->
+- [ ] C) 2,62 gramos, porque por cada mol de cobre depositado se disuelven dos moles de zinc, dado que el zinc libera dos electrones.
+  <!-- feedback: Incorrecto. Cada átomo de zinc libera dos electrones y cada ion Cu2+ los consume, de modo que la relación molar entre los dos metales es de uno a uno. -->
+- [ ] D) 1,27 gramos, porque la masa de un metal que se disuelve es igual a la del metal que se deposita cuando la corriente es igual.
+  <!-- feedback: Incorrecto. Las masas solo coincidirían si las masas molares fueran iguales, y las del cobre y el zinc difieren en cerca de dos unidades. -->
+
+### Explicacion Pedagogica
+Cuando una corriente eléctrica circula por una disolución, la masa que se transfiere en cada electrodo se calcula con la ley de Faraday, cuya expresión es m igual a M multiplicado por I multiplicado por t, dividido entre n multiplicado por F. En esa fórmula, M es la masa molar, I la intensidad de corriente, t el tiempo, n el número de electrones intercambiados y F la constante de Faraday, que vale 96485 culombios por mol. En el cobre y el zinc, n vale 2 en ambos casos, y por eso la razón de masas es simplemente la razón de masas molares. Un mol de cobre pesa unos 63,5 gramos y un mol de zinc unos 65,4 gramos, por eso la masa disuelta de zinc es ligeramente mayor que la depositada de cobre, aunque ambas se relacionen por la misma cantidad de electrones. Este razonamiento es el que se aplica para calcular el rendimiento de un baño de electroplateado o de una planta de electrorrefinación, y también para predecir cuánto se consume un ánodo de sacrificio en la protección de una tubería.
+
+## Question 7 [D7-D8]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.72
+**Contexto:** Un equipo de investigación de Bogotá mantiene a 25 grados centígrados dos celdas de zinc-cobre idénticas, pero en una usa sulfato de cobre 0,001 mol/L y en la otra 1 mol/L, con sulfato de zinc 1 mol/L en ambas.
+### Enunciado
+Aplicando la ecuación E igual a E° menos 0,0592 dividido por n, multiplicado por el logaritmo de Q, ¿qué efecto tiene bajar la concentración de Cu2+ a 0,001 mol/L?
+### Opciones
+- [ ] A) El potencial aumenta, porque al disminuir el Cu2+ se favorece la reducción del cobre y por eso la celda entrega más voltaje.
+  <!-- feedback: Incorrecto. Confunde el sentido de la ecuación de Nernst: menos Cu2+ hace mayor Q y, en consecuencia, menor E. -->
+- [ ] B) El potencial no cambia, porque en el cociente de reacción solo intervienen los iones disueltos y no importa cuánto haya de cada uno.
+  <!-- feedback: Incorrecto. El cociente de reacción sí incluye las concentraciones de los iones disueltos, y el factor 0,0592 multiplica su logaritmo decimal. -->
+- [x] C) El potencial disminuye, porque Q pasa a valer 1000, su logaritmo vale 3 y con n igual a 2 el potencial baja cerca de 0,09 V, de 1,10 V a 1,01 V.
+  <!-- feedback: Correcto. Sustituye correctamente Q, n y el factor 0,0592 en la ecuación de Nernst a 25 grados centígrados. -->
+- [ ] D) El potencial aumenta 0,0592 V por cada reducción de 100 veces en la concentración, sin importar el número de electrones.
+  <!-- feedback: Incorrecto. El factor 0,0592 corresponde a un intercambio de un electrón; para el par Zn/Cu, con n igual a 2, la variación es 0,0296 V por década. -->
+
+### Explicacion Pedagogica
+La ecuación de Nernst es la herramienta que permite calcular el potencial de una celda fuera de las condiciones estándar, y su forma más usada a 25 grados centígrados es E igual a E° menos 0,0592 dividido por n, por el logaritmo decimal del cociente de reacción Q. Ese 0,0592 no es un número mágico, resulta de combinar la constante de Faraday, la constante de los gases y la temperatura absoluta, y por eso solo vale exactamente a 25 grados centígrados. En la celda Zn con Zn2+ y Cu2+ con Cu, los sólidos no aparecen en Q porque su actividad es uno, de modo que Q es simplemente la concentración de Zn2+ dividida por la concentración de Cu2+. Si esa concentración de cobre baja mil veces, el logaritmo de Q aumenta en 3 y, como n vale 2, el potencial disminuye en 0,0888 voltios. Este resultado coincide con el principio de Le Chatelier: al retirar uno de los productos, la reacción avanza y se consume menos energía por mol, lo que equivale a un potencial menor.
+
+## Question 8 [D7-D8]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.74
+**Contexto:** En un municipio del Atlántico, donde el aire marítimo arrastra sal, un operario encuentra una chapa de acero con herrumbre y con agua de mar atrapada en los poros.
+### Enunciado
+En la corrosión del hierro en agua aireada, ¿cuál es la semirreacción catódica y qué papel tiene en la formación de la herrumbre?
+### Opciones
+- [ ] A) 2H+ con 2 electrones producen hidrógeno gaseoso, porque en el agua salada el hidrógeno de los ácidos es el que se reduce.
+  <!-- feedback: Incorrecto. En agua aireada y casi neutra la evolución de hidrógeno es prácticamente nula y domina la reducción del oxígeno disuelto. -->
+- [ ] B) Fe2+ con 2 electrones producen Fe metálico, porque el hierro se reduce sobre sí mismo y de ahí proviene la herrumbre.
+  <!-- feedback: Incorrecto. El Fe2+ se oxida en el ánodo y no se reduce; la herrumbre se forma por la oxidación posterior del hierro. -->
+- [ ] C) Cu2+ con 2 electrones producen cobre metálico, porque la sal del mar contiene iones cobre que se depositan sobre la chapa.
+  <!-- feedback: Incorrecto. El agua de mar no aporta iones cobre en cantidad apreciable, y el par Fe2+/Fe tiene un potencial de -0,44 V. -->
+- [x] D) O2 con 2H2O y 4 electrones producen 4 iones hidróxido, y esos iones reaccionan con el Fe2+ que se forma en el ánodo.
+  <!-- feedback: Correcto. Identifica la reducción del oxígeno como proceso catódico y su consecuencia directa en la formación del hidróxido. -->
+
+### Explicacion Pedagogica
+La corrosión del hierro en presencia de agua y oxígeno es un fenómeno electroquímico, no una simple combinación térmica, y por eso se puede describir con dos semirreacciones. En el ánodo, que corresponde a la zona donde el oxígeno no alcanza, el hierro se oxida y se disuelve como Fe2+, liberando dos electrones por átomo. En el cátodo, que corresponde a la zona bien aireada, el oxígeno disuelto se reduce formando iones hidróxido. Los iones Fe2+ y OH- se combinan y originan hidróxido de hierro(II), que con más oxígeno se transforma en óxido de hierro(III) hidratado, que es precisamente la herrumbre esponjosa y porosa que deja la chapa del contexto. La fuerza impulsora de este proceso es grande: el potencial del par oxígeno e hidróxido es de +0,82 V a pH 7, de modo que la celda de corrosión puede tener cerca de 1,26 V. El agua salada agrava el daño porque aporta iones que hacen más conductora la película de líquido y facilitan el paso de la corriente, razón por la cual las estructuras metálicas se deterioran más rápido en la costa Caribe.
+
+## Question 9 [D7-D8]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.70
+**Contexto:** Un profesor de Pitalito pide justificar por qué la pila de zinc-cobre se agota aunque todavía queden iones en las dos disoluciones.
+### Enunciado
+Una celda de zinc-cobre tiene E° igual a 1,10 V y transfiere dos electrones. ¿Qué información aporta su constante de equilibrio?
+### Opciones
+- [x] A) Como el logaritmo de K es igual a nE° dividido entre 0,0592, da 37,2, así que K vale cerca de 1,4 por 10 elevado a 37 y la reacción es prácticamente completa.
+  <!-- feedback: Correcto. Relaciona correctamente el potencial estándar con la constante de equilibrio a 25 grados centígrados. -->
+- [ ] B) K vale 1, porque en el momento en que la celda empieza a funcionar ya se encuentra en el equilibrio químico.
+  <!-- feedback: Incorrecto. Una celda que entrega corriente está lejos del equilibrio; el equilibrio corresponde a E igual a cero, no a K igual a uno. -->
+- [ ] C) K vale 0,0592, porque ese es el factor que aparece delante del logaritmo en la ecuación de Nernst.
+  <!-- feedback: Incorrecto. El 0,0592 es un factor de conversión entre volts y logaritmos a 25 grados centígrados, no la constante de equilibrio de la reacción. -->
+- [ ] D) K vale 2, porque el número de electrones transferidos en la reacción coincide con el número de moles de reactivo.
+  <!-- feedback: Incorrecto. El número de electrones aparece en el exponente, pero no es la constante de equilibrio ni fija su valor de forma directa. -->
+
+### Explicacion Pedagogica
+El potencial estándar de una celda y su constante de equilibrio son dos formas de expresar la misma tendencia de la reacción, y se relacionan a 25 grados centígrados mediante E° igual a 0,0592 dividido por n, multiplicado por el logaritmo de K. Despejando, el logaritmo de K resulta ser nE° dividido entre 0,0592, y al sustituir los valores de la celda de zinc-cobre se obtiene 37,2, es decir, una constante del orden de 10 elevado a 37. Una K tan grande significa que en el equilibrio casi queda reactivo por consumir, es decir, que la reacción avanza prácticamente por completo mientras haya iones disponibles. Esa es la razón profunda por la que una pila se agota: no por un cambio del potencial de electrodo, sino porque se acaba uno de los reactivos, en este caso el Cu2+ o el Zn2+ según el sentido en que se esté usando. La relación es muy útil en la industria, porque un K grande indica un producto de alta pureza y un proceso de rendimiento cercano al cien por ciento.
+
+## Question 10 [D9-D10]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.66
+**Contexto:** En un taller de Cartagena un estudiante sostiene que una pila de zinc y hierro no sirve para nada porque su voltaje es pequeño.
+### Enunciado
+Un estudiante afirma: "La celda de zinc-hierro tiene E° igual a 0,32 V, menor que un voltio, por lo que no puede producir corriente eléctrica". ¿Cuál es la evaluación correcta de esa afirmación?
+### Opciones
+- [ ] A) La afirmación es correcta, porque por debajo de un voltio la corriente no puede circular por ningún material conductor.
+  <!-- feedback: Incorrecto. No existe ese umbral: basta una diferencia de potencial pequeña para producir una corriente medible en un conductor. -->
+- [x] B) La afirmación es incorrecta, porque lo que decide si la reacción es espontánea es que E° de celda sea mayor que cero, y 0,32 V cumple esa condición; por eso un ánodo de zinc protege el hierro aunque su voltaje sea bajo.
+  <!-- feedback: Correcto. Corrige el error de umbral, señala el criterio correcto de espontaneidad y lo aplica a la protección catódica. -->
+- [ ] C) La afirmación es correcta, porque solo las celdas cuyo potencial supera el de una pila comercial pueden usarse en algún dispositivo.
+  <!-- feedback: Incorrecto. El criterio para usar una celda es que sea espontánea, y no una comparación con el voltaje de un dispositivo comercial. -->
+- [ ] D) La afirmación es incorrecta, pero solo porque el potencial estándar no existe para los pares que no tienen un metal muy activo.
+  <!-- feedback: Incorrecto. El potencial estándar se define para cualquier par redox; el error del enunciado está en el umbral de un voltio, no en la existencia del dato. -->
+
+### Explicacion Pedagogica
+La espontaneidad de una reacción redox en condiciones estándar se decide por el signo del potencial estándar de celda, no por su magnitud: cualquier valor mayor que cero corresponde a una reacción espontánea y a Delta G° negativo. La celda de zinc-hierro del enunciado cumple esa condición, porque E° es igual a -0,44 V menos -0,76 V, es decir 0,32 V, un valor positivo aunque modesto. Lo que determina si esa celda resulta útil en la práctica es la corriente que sea capaz de entregar y la resistencia interna, porque la ley de Ohm relaciona la intensidad con el voltaje dividido por la resistencia del circuito. El mismo criterio se aplica a otras combinaciones: con el par Mg2+/Mg, cuyo potencial es -2,37 V, la celda con zinc da 1,61 V, mucho más útil que la de hierro. Ese mismo razonamiento explica la protección catódica, en la que un bloque de zinc, mucho más activo que el hierro, se oxida en lugar de la tubería y funciona como ánodo de sacrificio, mientras el acero queda como cátodo y se protege aunque no se pinte. Por eso se colocan ánodos de sacrificio o sistemas de protección impresa en los oleoductos y en los puentes del valle del Magdalena, donde la humedad permanente y, en la costa, el aire salado aceleran la corrosión. Y por eso las pilas comerciales combinan varias celdas en serie: un potencial modesto puede ser suficiente si se suman celdas y se reduce la resistencia interna del circuito.
+
+## Question 11 [D9-D10]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.64
+**Contexto:** En una planta de electrorrefinación de cobre, un técnico de Cartagena vigila el tanque con ánodo de cobre impuro, cátodo de cobre puro y solución de sulfato de cobre en medio ácido.
+### Enunciado
+En esa planta, ¿qué ocurre en cada electrodo y qué destino tienen la plata y el oro que acompañan al cobre del ánodo?
+### Opciones
+- [ ] A) El cobre del ánodo se reduce y se deposita en el cátodo, porque la reducción siempre ocurre en el electrodo conectado al polo negativo.
+  <!-- feedback: Incorrecto. Invierte los procesos: en el ánodo el cobre se oxida a Cu2+ y en el cátodo el Cu2+ se reduce. -->
+- [ ] B) La plata y el oro se disuelven primero y se acumulan en el cátodo, porque su potencial de reducción es mayor que el del cobre.
+  <!-- feedback: Incorrecto. Con +0,80 V para Ag+/Ag y +1,50 V para Au3+/Au estos metales no se oxidan, por eso se recogen en el lodo anódico. -->
+- [x] C) El cobre del ánodo impuro se disuelve como Cu2+ y vuelve a depositarse en el cátodo como cobre de alta pureza, mientras la plata y el oro se acumulan como lodo anódico.
+  <!-- feedback: Correcto. Describe el ánodo disolvente, el cátodo de depósito y la acumulación de metales nobles en el lodo. -->
+- [ ] D) El cátodo de cobre puro se oxida y pasa a la solución, mientras el ánodo impuro gana peso y nunca se consume.
+  <!-- feedback: Incorrecto. El cátodo es la fuente del cobre puro que se deposita y el ánodo es precisamente el que se disuelve poco a poco. -->
+
+### Explicacion Pedagogica
+La electrorrefinación es una aplicación de la electrólisis que permite obtener cobre de pureza superior al 99,99 por ciento a partir de un cobre impuro. El electrolito es una solución de sulfato de cobre acidulada con ácido sulfúrico, y el ánodo se fabrica con el metal impuro. y, al mantener el cátodo a un potencial ligeramente más negativo que -0,34 V, el cobre se oxida y pasa a la solución como Cu2+, mientras la plata y el oro no se oxidan y se desprenden hacia el fondo, formando el llamado lodo anódico. En el cátodo, hecho de cobre puro, esos mismos iones Cu2+ se reducen y se depositan como metal puro. El resultado es un intercambio: el cobre sucio se disuelve y el cobre limpio se recoge, y el lodo anódico se procesa después para recuperar los metales preciosos. El principio es el inverso del electroplateado, donde el objeto que se quiere recubrir es el cátodo y el metal se disuelve en el ánodo. En contraste, la electrólisis del agua produce hidrógeno y oxígeno y exige un voltaje mínimo teórico de 1,23 V, muy superior al que necesita el cobre, porque la reacción del agua es mucho menos favorable.
+
+## Question 12 [D9-D10]
+**ID:** CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.62
+**Contexto:** En un barrio popular de Bogotá, un reciclador informal abre una batería de plomo de carro en la calle para recuperar el metal y venderlo.
+### Enunciado
+Un reciclador informal funde las placas de una batería de plomo en un patio para vender el metal. ¿Cuál es la evaluación más completa de esa práctica?
+### Opciones
+- [ ] A) Es inocua, porque el plomo es un sólido y las sustancias sólidas no se absorben ni pasan a la sangre.
+  <!-- feedback: Incorrecto. El plomo sí se absorbe por vía digestiva y respiratoria, y por eso afecta sobre todo a los niños y a las mujeres embarazadas. -->
+- [ ] B) Es equivalente a un reciclaje formal, porque el producto final es el mismo plomo que después se vuelve a usar en otras baterías.
+  <!-- feedback: Incorrecto. Que el producto final sea el mismo no compensa la contaminación emitida durante el proceso informal. -->
+- [ ] C) Es sostenible, porque el plomo es un metal que la naturaleza recupera por sí sola en pocos años gracias a la lluvia.
+  <!-- feedback: Incorrecto. Los metales pesados no se degradan en el ambiente; permanecen en el suelo y pueden contaminar el agua durante décadas. -->
+- [x] D) Es una práctica de alto riesgo, porque el plomo es un metal pesado que no se degrada y la fundición libera vapores y partículas que contaminan aire, suelo y agua del barrio.
+  <!-- feedback: Correcto. Identifica el riesgo del plomo y su persistencia ambiental, que es el motivo para enviar la batería a un punto de acopio autorizado. -->
+
+### Explicacion Pedagogica
+Las baterías de plomo-ácido siguen siendo la fuente más común de arranque en los vehículos y cada una contiene varios kilos de plomo, así que su disposición final es un problema sanitario y ambiental de primer orden. El plomo no puede ser degradado por los microorganismos, de modo que una vez que llega al suelo o al agua permanece allí y se incorpora a la cadena alimentaria. La fundición improvisada que describe el enunciado libera vapores y partículas que se inhalan, y esa exposición crónica altera el sistema nervioso y la formación de la hemoglobina, con efectos más graves en los niños. El reciclaje bien hecho, en una planta autorizada, recupera las placas, el plástico y el electrolito, y además el ácido sulfúrico se puede neutralizar y reprocesar. Conviene distinguir esta batería de las de níquel-cadmio, que también contienen un metal pesado igualmente peligroso, y de las de litio-ion, que no contienen plomo y almacenan la energía mediante iones insertados en electrodos sin metal, con un voltaje nominal cercano a 3,7 voltios. En Colombia, la recomendación práctica y sencilla es nunca desarmar una batería en la calle, sino entregarla en los puntos de acopio y en los talleres autorizados.
