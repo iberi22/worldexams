@@ -149,10 +149,10 @@ El aviso contiene dos proposiciones: "Se exige puntualidad" y "Los retardos se r
 Si el estudiante dice "Soy de Bucaramanga, vivo cerca de la universidad y trabajo los sábados", ¿cuál es el sujeto oracional?
 
 ### Opciones
-- [x] A) Yo
-  <!-- feedback: La acción se atribuye a la primera persona, de modo que el sujeto es el pronombre "yo" en función de sujeto. -->
-- [ ] B) de Bucaramanga, vivo cerca de la universidad y trabajo los sábados
+- [ ] A) de Bucaramanga, vivo cerca de la universidad y trabajo los sábados
   <!-- feedback: Ese conjunto corresponde al predicado, porque reúne el verbo "soy" y los sintagmas verbales de las otras dos proposiciones. -->
+- [x] B) Yo
+  <!-- feedback: La acción se atribuye a la primera persona, de modo que el sujeto es el pronombre "yo" en función de sujeto. -->
 - [ ] C) la universidad
   <!-- feedback: Es el complemento del sintagma preposicional "cerca de la universidad" y no indica quién ejecuta la acción. -->
 - [ ] D) los sábados
@@ -172,10 +172,10 @@ En la primera persona del singular, el pronombre "yo" actúa como sujeto y norma
 ¿Qué procedimiento permite identificar con rapidez la función comunicativa de la frase de la imagen?
 
 ### Opciones
-- [x] A) Reconocer la interjección y el tono, y clasificar la oración como exclamativa
-  <!-- feedback: La interjección de risa y el sintagma "no puede ser" expresan sorpresa, no un enunciado que pueda verificarse. -->
-- [ ] B) Buscar el sujeto gramatical para deducir que la oración es declarativa
+- [ ] A) Buscar el sujeto gramatical para deducir que la oración es declarativa
   <!-- feedback: Que exista un sintagma nominal no determina la función, porque lo dominante aquí es expresar un estado de ánimo. -->
+- [x] B) Reconocer la interjección y el tono, y clasificar la oración como exclamativa
+  <!-- feedback: La interjección de risa y el sintagma "no puede ser" expresan sorpresa, no un enunciado que pueda verificarse. -->
 - [ ] C) Contar las palabras para decidir si la oración es simple o compuesta
   <!-- feedback: El número de palabras o de verbos define la estructura interna, no la intención comunicativa del hablante. -->
 - [ ] D) Buscar la ausencia del signo de exclamación para concluir que es enunciativa
@@ -195,10 +195,10 @@ Una estrategia de lectura eficiente consiste en separar la intención del hablan
 En la oración "Las hermanas compraron pan y la abuela preparó café", ¿cuál es la estructura de la oración?
 
 ### Opciones
-- [x] A) Oración compuesta por coordinación, con dos sujetos y dos predicados
-  <!-- feedback: La conjunción "y" une dos proposiciones de igual rango, cada una con su sujeto y su verbo. -->
-- [ ] B) Oración simple con un solo sujeto y un solo predicado
+- [ ] A) Oración simple con un solo sujeto y un solo predicado
   <!-- feedback: Hay dos verbos principales, "compraron" y "preparó", y dos sujetos, de modo que no se trata de una oración simple. -->
+- [x] B) Oración compuesta por coordinación, con dos sujetos y dos predicados
+  <!-- feedback: La conjunción "y" une dos proposiciones de igual rango, cada una con su sujeto y su verbo. -->
 - [ ] C) Proposición subordinada con una acción dependiente
   <!-- feedback: Ninguna de las dos partes depende de la otra, porque cada una afirma un hecho completo y puede existir por separado. -->
 - [ ] D) Oración simple con sintagma nominal ampliado
@@ -218,10 +218,10 @@ Cuando la conjunción copulativa "y" une dos o más proposiciones de igual rango
 ¿Qué clase de oración es "Aunque llovió, la operación continuó normalmente"?
 
 ### Opciones
-- [x] A) Compleja, con una proposición subordinada adverbial adversativa
-  <!-- feedback: La proposición regida por "aunque" expresa concesión y equivale a "a pesar de que llovió". -->
-- [ ] B) Compuesta por coordinación adversativa entre dos proposiciones equivalentes
+- [ ] A) Compuesta por coordinación adversativa entre dos proposiciones equivalentes
   <!-- feedback: La primera proposición se subordina y limita la afirmación de la segunda, no queda al mismo nivel. -->
+- [x] B) Compleja, con una proposición subordinada adverbial adversativa
+  <!-- feedback: La proposición regida por "aunque" expresa concesión y equivale a "a pesar de que llovió". -->
 - [ ] C) Simple, con un sintagma preposicional antepuesto al sujeto
   <!-- feedback: "Aunque llovió" contiene su propio verbo y expresa una relación de sentido, no un simple sintagma. -->
 - [ ] D) Enunciativa negativa con la proposición principal en segundo lugar
@@ -241,10 +241,10 @@ La oración es compleja porque contiene una proposición principal y una subordi
 En la oración "Ya que la visita al museo será temprano, saldremos a las seis", ¿qué valor tiene la expresión "ya que"?
 
 ### Opciones
-- [x] A) Introduce una proposición subordinada que modifica a la principal
-  <!-- feedback: "Ya que" actúa como nexo y da a la subordinada un valor causal que el contexto permite confirmar. -->
-- [ ] B) Es el sujeto de la oración
+- [ ] A) Es el sujeto de la oración
   <!-- feedback: El sujeto de la proposición principal es el pronombre "nosotros", que concuerda con el verbo "saldremos". -->
+- [x] B) Introduce una proposición subordinada que modifica a la principal
+  <!-- feedback: "Ya que" actúa como nexo y da a la subordinada un valor causal que el contexto permite confirmar. -->
 - [ ] C) Es el predicado de la oración principal
   <!-- feedback: El predicado principal es "saldremos a las seis"; la expresión analizada es un elemento accesorio. -->
 - [ ] D) Es un complemento del objeto directo
@@ -264,12 +264,12 @@ Los nexos que unen una proposición subordinada con la principal pueden ser prep
 ¿Qué análisis es más preciso sobre la estructura de "Nadie discute que la movilidad de la ciudad debe mejorarse"?
 
 ### Opciones
-- [x] A) Oración compleja con proposición principal y una completiva objetiva con sujeto elidido
-  <!-- feedback: El sujeto "nadie" deja sin sujeto la completiva, que queda como "que la movilidad de la ciudad debe mejorarse". -->
+- [ ] A) Oración compuesta por coordinación sustantiva
+  <!-- feedback: El nexo "que" introduce un objeto directo oracional y no coordina dos términos de igual categoría. -->
 - [ ] B) Oración simple con sujeto oracional impersonal
   <!-- feedback: Hay dos verbos principales, "discute" y "mejorarse", además del nexo, de modo que la estructura es compleja. -->
-- [ ] C) Oración compuesta por coordinación sustantiva
-  <!-- feedback: El nexo "que" introduce un objeto directo oracional y no coordina dos términos de igual categoría. -->
+- [x] C) Oración compleja con proposición principal y una completiva objetiva con sujeto elidido
+  <!-- feedback: El sujeto "nadie" deja sin sujeto la completiva, que queda como "que la movilidad de la ciudad debe mejorarse". -->
 - [ ] D) Oración compuesta por coordinación con dos sujetos explícitos
   <!-- feedback: Solo hay un sujeto explícito, "nadie", y un sujeto elidido dentro de la proposición completiva. -->
 
@@ -287,12 +287,12 @@ El análisis de una oración compleja exige separar la proposición principal de
 En la oración "Ayer compraron una bicicleta nueva mis padres", ¿qué análisis sintáctico es el más adecuado?
 
 ### Opciones
-- [x] A) Sujeto pospuesto, porque el sintagma nominal aparece después del verbo
-  <!-- feedback: El sintagma nominal pospuesto es "mis padres" y el objeto directo es "una bicicleta nueva". -->
+- [ ] A) Objeto directo pospuesto y sujeto elidido en la oración
+  <!-- feedback: "una bicicleta nueva" es el objeto y "mis padres" es el sujeto, de modo que ningún sintagma falta por elidirse. -->
 - [ ] B) Sujeto ausente, porque no hay sintagma nominal antes del verbo
   <!-- feedback: El sujeto está presente y explícito, pero aparece después del verbo por el orden de palabras, no por ausencia. -->
-- [ ] C) Objeto directo pospuesto y sujeto elidido en la oración
-  <!-- feedback: "una bicicleta nueva" es el objeto y "mis padres" es el sujeto, de modo que ningún sintagma falta por elidirse. -->
+- [x] C) Sujeto pospuesto, porque el sintagma nominal aparece después del verbo
+  <!-- feedback: El sintagma nominal pospuesto es "mis padres" y el objeto directo es "una bicicleta nueva". -->
 - [ ] D) Sujeto en forma clítica y verbo en forma reflexiva
   <!-- feedback: No hay pronombres enclíticos ni verbos reflexivos en la oración, y el sintagma final es un determinante posesivo. -->
 
@@ -310,12 +310,12 @@ En español, la colocación del sujeto es libre: puede preceder o seguir al verb
 ¿Por qué en "El problema no es la falta de recursos sino la distribución" la oración es simple y no compuesta por coordinación?
 
 ### Opciones
-- [x] A) Porque la estructura "no es... sino..." forma un predicado bicompuesto dentro de una sola proposición
-  <!-- feedback: Las dos formas del verbo "ser" forman un solo núcleo conceptual, de neganción y corrección, en una misma proposición. -->
+- [ ] A) Porque el sintagma "la falta de recursos" es un sujeto oracional
+  <!-- feedback: Ese sintagma es un sintagma nominal con función de atributo y no una oración completa con verbo propio. -->
 - [ ] B) Porque la conjunción "sino" siempre introduce una proposición adversativa completa
   <!-- feedback: Aquí "sino" no introduce una proposición independiente, sino que completa el mismo predicado con el segundo término. -->
-- [ ] C) Porque el sintagma "la falta de recursos" es un sujeto oracional
-  <!-- feedback: Ese sintagma es un sintagma nominal con función de atributo y no una oración completa con verbo propio. -->
+- [x] C) Porque la estructura "no es... sino..." forma un predicado bicompuesto dentro de una sola proposición
+  <!-- feedback: Las dos formas del verbo "ser" forman un solo núcleo conceptual, de neganción y corrección, en una misma proposición. -->
 - [ ] D) Porque hay dos sujetos explícitos en la misma oración
   <!-- feedback: Solo aparece un sujeto, "el problema", y el otro sintagma nominal acompaña al verbo como atributo. -->
 
@@ -333,12 +333,12 @@ La estructura "no es... sino..." es un mecanismo de corrección y comparación q
 ¿Qué estrategia de lectura es más eficaz para localizar las oraciones que sostienen la tesis de un texto argumentativo?
 
 ### Opciones
-- [x] A) Subrayar las oraciones declarativas afirmativas que expresan una valoración general del tema
-  <!-- feedback: Las afirmaciones generales, como "la movilidad es un problema urgente", suelen portar la tesis del autor. -->
+- [ ] A) Buscar únicamente las interrogativas, porque la tesis siempre se formula como pregunta
+  <!-- feedback: Las interrogativas suelen introducir el problema, pero la tesis normalmente se afirma de forma declarativa. -->
 - [ ] B) Contar los adjetivos de cada párrafo, porque su cantidad indica la tesis
   <!-- feedback: La cantidad de adjetivos no es un criterio válido, porque puede highlighting lo decorativo y no lo argumentativo. -->
-- [ ] C) Buscar únicamente las interrogativas, porque la tesis siempre se formula como pregunta
-  <!-- feedback: Las interrogativas suelen introducir el problema, pero la tesis normalmente se afirma de forma declarativa. -->
+- [x] C) Subrayar las oraciones declarativas afirmativas que expresan una valoración general del tema
+  <!-- feedback: Las afirmaciones generales, como "la movilidad es un problema urgente", suelen portar la tesis del autor. -->
 - [ ] D) Ignorar los párrafos finales, porque la conclusión nunca aporta información útil
   <!-- feedback: La conclusión suele contener la formulación más clara de la tesis y su repetición razonada. -->
 
@@ -356,12 +356,12 @@ Leer argumentativamente exige separar la tesis de los ejemplos, los datos y las 
 ¿Cuál es la función de la oración "Los resultados se publicarán en la página institucional" dentro de ese texto informativo?
 
 ### Opciones
-- [x] A) Referencial, porque remite a una fuente identificable para el lector
-  <!-- feedback: La oración orienta la atención hacia un lugar concreto donde el lector puede verificar por sí mismo la información. -->
+- [ ] A) Expresiva, porque transmite la emoción del autor frente al proceso
+  <!-- feedback: No hay marcas de sentimiento, valoración personal ni intensificadores en la oración analizada. -->
 - [ ] B) Apelativa, porque convoca al lector a realizar una conducta inmediata
   <!-- feedback: La oración informa dónde se publicarán los resultados y no incluye ningún imperativo ni exhortación. -->
-- [ ] C) Expresiva, porque transmite la emoción del autor frente al proceso
-  <!-- feedback: No hay marcas de sentimiento, valoración personal ni intensificadores en la oración analizada. -->
+- [x] C) Referencial, porque remite a una fuente identificable para el lector
+  <!-- feedback: La oración orienta la atención hacia un lugar concreto donde el lector puede verificar por sí mismo la información. -->
 - [ ] D) Conativa indirecta, porque supone que el lector ya conoce la página
   <!-- feedback: La función conativa busca una respuesta o una acción del receptor, y aquí la oración solo aporta una referencia. -->
 
@@ -379,14 +379,14 @@ Las funciones del lenguaje se clasifican según la relación que se establece en
 ¿Qué procedimiento es más preciso para distinguir, en un artículo noticioso, una oración que informa un hecho de otra que expresa la opinión del periodista?
 
 ### Opciones
-- [x] A) Identificar un verbo de opinión, un adjetivo valorativo o un sustantivo abstracto sin referente comprobable
-  <!-- feedback: "La movilidad es deplorable" incorpora una valoración, mientras que un dato sobre el número de vehículos informa un hecho. -->
+- [ ] A) Localizar las cifras presentes, porque toda oración con números es objetiva por completo
+  <!-- feedback: Una oración puede incluir un dato exacto y aun así valorarlo, de modo que la cifra no garantiza neutralidad. -->
 - [ ] B) Buscar la longitud de la oración, porque las frases largas son siempre opiniones
   <!-- feedback: La extensión no determina la función, pues existen opiniones breves y hechos expresados en párrafos extensos. -->
 - [ ] C) Contar las comas, porque el número de comas indica el grado de subjetividad
   <!-- feedback: La puntuación responde a la estructura sintáctica y no a la presencia o ausencia de subjetividad. -->
-- [ ] D) Localizar las cifras presentes, porque toda oración con números es objetiva por completo
-  <!-- feedback: Una oración puede incluir un dato exacto y aun así valorarlo, de modo que la cifra no garantiza neutralidad. -->
+- [x] D) Identificar un verbo de opinión, un adjetivo valorativo o un sustantivo abstracto sin referente comprobable
+  <!-- feedback: "La movilidad es deplorable" incorpora una valoración, mientras que un dato sobre el número de vehículos informa un hecho. -->
 
 ### Explicacion Pedagogica
 La distinción entre información y opinión se apoya en marcas verbales y léxicas, no en la forma superficial. Los verbos de opinión, como "parece" o "resulta", los adjetivos valorativos y los sustantivos abstractos sin referente concreto introducen la subjetividad. En cambio, los datos verificables, con fecha, cantidad o fuente identificable, sostienen una afirmación referencial. En la lectura crítica de noticias locales, aplicar este criterio revela cuándo el periodista incluye su juicio en una crónica aparentemente informativa, y esa distinción es un requisito para construir argumentos propios con solidez.
@@ -402,14 +402,14 @@ La distinción entre información y opinión se apoya en marcas verbales y léxi
 Un ensayo afirma: "Es inaceptable que las vías carezcan de ciclorrutas, porque los ciclistas ponen su vida en riesgo". ¿Qué evaluación es más sólida?
 
 ### Opciones
-- [x] A) El argumento expone su nexo causal y enuncia una valoración que puede discutirse con razones
-  <!-- feedback: La tesis se apoya en una razón identificable y la conexión lógica entre las dos partes queda visible para el lector. -->
+- [ ] A) El argumento es débil porque el nexo "porque" produce siempre una subordinada explicativa y nunca causal
+  <!-- feedback: Ese nexo admite lectura causal o explicativa según el contexto, y aquí la función dominante es causal. -->
 - [ ] B) El argumento es débil porque toda valoración emitida con "que" es subjetiva y no admite discusión
   <!-- feedback: Las valoraciones pueden sostenerse o refutarse con razones, y el problema no sería el tipo de oración sino la evidencia. -->
 - [ ] C) El argumento es sólido porque la valoración aparece en segundo lugar y eso la vuelve objetiva
   <!-- feedback: La posición de la oración no altera su naturaleza evaluativa, porque el orden solo afecta el énfasis y la complejidad. -->
-- [ ] D) El argumento es débil porque el nexo "porque" produce siempre una subordinada explicativa y nunca causal
-  <!-- feedback: Ese nexo admite lectura causal o explicativa según el contexto, y aquí la función dominante es causal. -->
+- [x] D) El argumento expone su nexo causal y enuncia una valoración que puede discutirse con razones
+  <!-- feedback: La tesis se apoya en una razón identificable y la conexión lógica entre las dos partes queda visible para el lector. -->
 
 ### Explicacion Pedagogica
 Evaluar un argumento exige separar tesis, razón y nexo. En el enunciado, la tesis es la valoración sobre las ciclorrutas y la razón es el riesgo que enfrentan los ciclistas. La presencia de un nexo causal explícito como "porque" hace visible la relación lógica y permite evaluarla. La fuerza del argumento, sin embargo, depende de que el hecho expuesto sea verificable y pertinente, y de que la valoración se formule de modo discutible. Un buen ensayo no evita las valoraciones: las presenta con razones. Este criterio ayuda a construir un texto argumentativo coherente y a anticipar las objeciones del lector.
@@ -425,14 +425,14 @@ Evaluar un argumento exige separar tesis, razón y nexo. En el enunciado, la tes
 Un anuncio dice: "Compra nuestro producto y tú serás el mejor estudiante de tu salón". ¿Qué juicio es más adecuado sobre el uso del lenguaje en ese anuncio?
 
 ### Opciones
-- [x] A) Combina una orden con una promesa valorativa que busca influir en la decisión del consumidor
-  <!-- feedback: La oración atribuye al producto un resultado personal sin evidencia y mezcla información con persuasión dirigida al receptor. -->
+- [ ] A) Es una oración declarativa estrictamente informativa, porque no contiene adjetivos valorativos
+  <!-- feedback: La expresión "el mejor" es un adjetivo valorativo que convierte la promesa en un juicio no verificable. -->
 - [ ] B) Es una oración imperativa simple, porque el verbo "compra" ordena una conducta
   <!-- feedback: La estructura completa es una oración compuesta, porque la conjunción "y" une la orden con una segunda proposición. -->
 - [ ] C) Es una oración interrogativa, porque intenta generar dudas sobre la competencia
   <!-- feedback: No hay signo de interrogación ni un verbo que plantee una duda, porque el anuncio afirma y no pregunta. -->
-- [ ] D) Es una oración declarativa estrictamente informativa, porque no contiene adjetivos valorativos
-  <!-- feedback: La expresión "el mejor" es un adjetivo valorativo que convierte la promesa en un juicio no verificable. -->
+- [x] D) Combina una orden con una promesa valorativa que busca influir en la decisión del consumidor
+  <!-- feedback: La oración atribuye al producto un resultado personal sin evidencia y mezcla información con persuasión dirigida al receptor. -->
 
 ### Explicacion Pedagogica
 Valorar el lenguaje publicitario exige identificar la función global y las estrategias argumentativas. En el anuncio, la primera proposición, "Compra nuestro producto", es un imperativo, y la segunda, "tú serás el mejor estudiante de tu salón", introduce una consecuencia con valor de promesa. La conjunción "y" coordina ambas proposiciones, y la segunda contiene una predicación con verbo copulativo y atributo valorativo cuyo referente es el consumidor. Este recurso es frecuente en la publicidad dirigida a estudiantes y se reconoce por su capacidad de atribuir al producto resultados que en realidad dependen de muchos factores. Identificar la estructura permite distinguir el propósito comercial de la información comprobable.
@@ -448,14 +448,14 @@ Valorar el lenguaje publicitario exige identificar la función global y las estr
 ¿Qué evaluación del uso del lenguaje es más precisa para ese mensaje?
 
 ### Opciones
-- [x] A) Combina un imperativo con una interrogativa, y el tono acentúa la urgencia
-  <!-- feedback: La orden exige una acción inmediata y la pregunta adds una exigencia adicional, no una duda genuina. -->
+- [ ] A) Es un texto neutro, porque el tono del remitente no influye en la interpretación
+  <!-- feedback: El tono y la urgencia orientan la lectura e influyen directamente en cómo se interpreta el mensaje. -->
 - [ ] B) Es una sola oración declarativa, porque todo el mensaje afirma un hecho
   <!-- feedback: El mensaje contiene dos oraciones con sujetos distintos y dos tipos de oración diferentes. -->
 - [ ] C) Es una oración exclamativa simple, porque el signo de exclamación define toda la intención
   <!-- feedback: El signo marca énfasis, pero el contenido combina una orden y una pregunta, de modo que hay dos oraciones. -->
-- [ ] D) Es un texto neutro, porque el tono del remitente no influye en la interpretación
-  <!-- feedback: El tono y la urgencia orientan la lectura e influyen directamente en cómo se interpreta el mensaje. -->
+- [x] D) Combina un imperativo con una interrogativa, y el tono acentúa la urgencia
+  <!-- feedback: La orden exige una acción inmediata y la pregunta adds una exigencia adicional, no una duda genuina. -->
 
 ### Explicacion Pedagogica
 Un buen análisis del lenguaje en un mensaje real debe considerar la forma, el contenido y el tono. La frase "Búscale ya" es un imperativo con un marcador de urgencia, el adverbio "ya", y "No lo escuchaste" aparece como interrogativa con tono de reproche más que como una búsqueda real de información. La combinación de ambas produce un efecto de presión comunicativa. Reconocer que el tono acrescenta significado permite explicar por qué dos personas pueden leer el mismo mensaje de manera distinta, y por qué la puntuación por sí sola no determina la interpretación en los entornos digitales.
@@ -471,14 +471,14 @@ Un buen análisis del lenguaje en un mensaje real debe considerar la forma, el c
 ¿Qué evaluación es más precisa sobre la relación entre las dos oraciones del texto anterior?
 
 ### Opciones
-- [x] A) La segunda oración explicita la razón que sustenta la valoración de la primera
-  <!-- feedback: La primera afirma una valoración y la segunda desarrolla el fundamento de esa afirmación. -->
+- [ ] A) La primera oración depende de la segunda, porque no puede entenderse sin conocer el desplazamiento
+  <!-- feedback: La primera proposición se entiende de forma completa y autónoma, sin necesidad de la segunda. -->
 - [ ] B) Las dos oraciones son contradictorias, porque una menciona las ciclorrutas y la otra el tiempo de desplazamiento
   <!-- feedback: No hay oposición entre ellas, sino que la segunda complementa y explica a la primera. -->
 - [ ] C) La segunda oración repite la primera con otras palabras, sin aportar información nueva
   <!-- feedback: La segunda no repite el juicio, sino que introduce el beneficio concreto que lo sustenta. -->
-- [ ] D) La primera oración depende de la segunda, porque no puede entenderse sin conocer el desplazamiento
-  <!-- feedback: La primera proposición se entiende de forma completa y autónoma, sin necesidad de la segunda. -->
+- [x] D) La segunda oración explicita la razón que sustenta la valoración de la primera
+  <!-- feedback: La primera afirma una valoración y la segunda desarrolla el fundamento de esa afirmación. -->
 
 ### Explicacion Pedagogica
 Evaluar la relación entre oraciones exige identificar cuál es la tesis y cuál es la razón que la sustenta. En el texto, la primera proposición afirma una valoración sobre las ciclorrutas y la segunda la sustenta con un beneficio verificable para quienes se desplazan en bicicleta. Esa relación se puede explicitar con un nexo causal, de modo que el conjunto constituye un razonamiento coherente y no una simple yuxtaposición. Esta destreza es central en la escritura argumentativa: permite organizar un párrafo con una afirmación seguida de su fundamento, y revisar si cada apoyo contribuye realmente a la tesis que se quiere defender.
