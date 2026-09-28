@@ -247,11 +247,11 @@ Un transformador, un microondas doméstico y un equipo de radiografía utilizan 
   <!-- feedback: Incorrecto. La frecuencia varía en muchos órdenes de magnitud entre el microondas y los rayos X. -->
 - [ ] C) Se distinguen por el medio material que necesitan para propagarse, porque unas ondas no viajan en el vacío.
   <!-- feedback: Incorrecto. Todas las radiaciones electromagnéticas se propagan en el vacío y no necesitan un medio material. -->
-- [x] D) Se distinguen por la frecuencia y la longitud de onda: el microondas es del orden de 10⁰ Hz, y los rayos X del orden de 10⁷ Hz.
+- [x] D) Se distinguen por la frecuencia y la longitud de onda: el microondas es del orden de 10⁹ Hz, y los rayos X del orden de 10¹⁷ Hz.
   <!-- feedback: Correcto. La diferencia es la frecuencia, y con ella la energía de los fotones y la forma en que interactúan con la materia. -->
 
 ### Explicacion Pedagogica
-Las tres tecnologías se apoyan en la misma familia de ondas, pero en regiones muy distintas del espectro. El microondas doméstico tiene una frecuencia cercana a 2 450 MHz, es decir, del orden de 10⁰ Hz, y hace vibrar las moléculas de agua de los alimentos. Los rayos X tienen frecuencias del orden de 10⁷ Hz, y sus fotones tienen una energía mucho mayor, capaz de atravesar tejidos. Esa diferencia de energía explica por qué un microondas calienta la comida mientras que una radiografía revela la estructura interna del cuerpo.
+Las tres tecnologías se apoyan en la misma familia de ondas, pero en regiones muy distintas del espectro. El microondas doméstico tiene una frecuencia cercana a 2 450 MHz, es decir, del orden de 10⁹ Hz, y hace vibrar las moléculas de agua de los alimentos. Los rayos X tienen frecuencias del orden de 10¹⁷ Hz, y sus fotones tienen una energía mucho mayor, capaz de atravesar tejidos. Esa diferencia de energía explica por qué un microondas calienta la comida mientras que una radiografía revela la estructura interna del cuerpo.
 
 ## Question 11 [D9-D10]
 **ID:** CO-CN-9-2026-W33-repaso-electromagnetismo-y-ondas-001-MASTERY-bundle-v11

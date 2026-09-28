@@ -77,20 +77,20 @@ El receptor del control remoto es un dispositivo fotoeléctrico. Cuando un fotó
 **Contexto:** En un laboratorio escolar de Bogotá, un grupo calcula la energía de los fotones que llegan a un detector y consulta el valor de la constante de Planck.
 
 ### Enunciado
-Una radiación de frecuencia 5,0 × 10⁴ Hz ilumina una superficie. Tomando la constante de Planck h = 6,63 × 10⁻⁴ J·s, cuál es la energía de cada fotón de esa radiación?
+Una radiación de frecuencia 5,0 × 10¹⁴ Hz ilumina una superficie. Tomando la constante de Planck h = 6,63 × 10⁻³⁴ J·s, cuál es la energía de cada fotón de esa radiación?
 
 ### Opciones
 - [ ] A) 3,32 × 10⁻⁴⁸ J, porque hay que restar las potencias al dividir h entre f.
   <!-- feedback: Incorrecto. En la relación E = h · f las potencias se suman, no se restan, y la fórmula no es una división. -->
-- [ ] B) 6,63 × 10⁻⁰ J, porque la energía de un fotón equivale a la constante de Planck dividida por la frecuencia.
+- [ ] B) 6,63 × 10⁻²⁰ J, porque la energía de un fotón equivale a la constante de Planck dividida por la frecuencia.
   <!-- feedback: Incorrecto. Corresponde a dividir en lugar de multiplicar, lo que produce un valor incorrecto para la energía del fotón. -->
-- [x] C) 3,32 × 10⁻⁹ J, porque la energía de un fotón es E = h · f.
-  <!-- feedback: Correcto. Al multiplicar 6,63 × 10⁻⁴ J·s por 5,0 × 10⁴ Hz se obtiene 3,315 × 10⁻⁹ J, que redondeado es 3,32 × 10⁻⁹ J. -->
-- [ ] D) 1,33 × 10⁹ J, porque la energía de un fotón es E = f / h.
+- [x] C) 3,32 × 10⁻¹⁹ J, porque la energía de un fotón es E = h · f.
+  <!-- feedback: Correcto. Al multiplicar 6,63 × 10⁻³⁴ J·s por 5,0 × 10¹⁴ Hz se obtiene 3,315 × 10⁻¹⁹ J, que redondeado es 3,32 × 10⁻¹⁹ J. -->
+- [ ] D) 1,33 × 10¹⁹ J, porque la energía de un fotón es E = f / h.
   <!-- feedback: Incorrecto. La relación es E = h · f, no una división: al invertirla se obtiene un valor sin sentido físico. -->
 
 ### Explicacion Pedagogica
-La energía de un fotón está dada por la relación E = h · f, donde h es la constante de Planck y f es la frecuencia de la radiación. Sustituyendo los datos: 6,63 × 10⁻⁴ J·s multiplicado por 5,0 × 10⁴ s⁻ da 3,315 × 10⁻⁹ J. Este resultado muestra dos ideas centrales: la energía lumínica es proporcional a la frecuencia, y los valores son extremadamente pequeños, del orden de 10⁻⁹ J, coherente con que una sola luz visible tenga una cantidad mínima de energía para afectar la materia.
+La energía de un fotón está dada por la relación E = h · f, donde h es la constante de Planck y f es la frecuencia de la radiación. Sustituyendo los datos: 6,63 × 10⁻³⁴ J·s multiplicado por 5,0 × 10¹⁴ s⁻¹da 3,315 × 10⁻¹⁹ J. Este resultado muestra dos ideas centrales: la energía lumínica es proporcional a la frecuencia, y los valores son extremadamente pequeños, del orden de 10⁻¹⁹ J, coherente con que una sola luz visible tenga una cantidad mínima de energía para afectar la materia.
 
 ## Question 4 [D5-D6]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v4
@@ -100,20 +100,20 @@ La energía de un fotón está dada por la relación E = h · f, donde h es la c
 **Contexto:** En un taller de física de un colegio de Medellín, un grupo prepara una experiencia con fotoceldas de metales distintos para medir su frecuencia de corte.
 
 ### Enunciado
-Una fotocelda tiene una función de trabajo de 2,0 eV, equivalente a 3,2 × 10⁻⁹ J. Cuál es su frecuencia de corte y qué significa físicamente?
+Una fotocelda tiene una función de trabajo de 2,0 eV, equivalente a 3,2 × 10⁻¹⁹ J. Cuál es su frecuencia de corte y qué significa físicamente?
 
 ### Opciones
-- [ ] A) 2,0 × 10⁹ Hz, y es la frecuencia máxima que el metal puede absorber sin romperse.
+- [ ] A) 2,0 × 10¹⁹ Hz, y es la frecuencia máxima que el metal puede absorber sin romperse.
   <!-- feedback: Incorrecto. Resulta de dividir la función de trabajo por el número de electrones, lo cual no corresponde a ninguna magnitud de la teoría fotoeléctrica. -->
-- [x] B) 4,8 × 10⁴ Hz, y es la frecuencia mínima necesaria para que un fotón.extraiga electrones del metal.
-  <!-- feedback: Correcto. Al dividir 3,2 × 10⁻⁹ J entre 6,63 × 10⁻⁴ J·s se obtiene 4,8 × 10⁴ Hz, que es la frecuencia de corte. -->
-- [ ] C) 2,1 × 10⁻⁴ Hz, y es la frecuencia a la que el metal deja de absorber luz.
+- [x] B) 4,8 × 10¹⁴ Hz, y es la frecuencia mínima necesaria para que un fotón.extraiga electrones del metal.
+  <!-- feedback: Correcto. Al dividir 3,2 × 10⁻¹⁹ J entre 6,63 × 10⁻³⁴ J·s se obtiene 4,8 × 10¹⁴ Hz, que es la frecuencia de corte. -->
+- [ ] C) 2,1 × 10⁻¹⁴ Hz, y es la frecuencia a la que el metal deja de absorber luz.
   <!-- feedback: Incorrecto. Además de invertir la división, el valor está muchos órdenes de magnitud por debajo de las frecuencias de la luz visible. -->
-- [ ] D) 4,8 × 10⁴ Hz, y es la frecuencia a la que el metal emite luz por sí mismo.
+- [ ] D) 4,8 × 10¹⁴ Hz, y es la frecuencia a la que el metal emite luz por sí mismo.
   <!-- feedback: Incorrecto. La frecuencia de corte se relaciona con la emisión de electrones por absorción de luz, no con emisión propia de luz. -->
 
 ### Explicacion Pedagogica
-La función de trabajo es la energía mínima necesaria para extrae un electrón de un metal. En unidades del sistema internacional, 2,0 eV equivalen a 3,2 × 10⁻⁹ J. La frecuencia de corte se obtiene dividiendo esa energía entre la constante de Planck: 3,2 × 10⁻⁹ J / 6,63 × 10⁻⁴ J·s = 4,8 × 10⁴ Hz. Por debajo de esa frecuencia, cada fotón aporta menos energía que la función de trabajo y no se puede liberar ningún electrón, por más intensa que sea la luz. Por encima de ella, cada fotón sí puede liberar electrones.
+La función de trabajo es la energía mínima necesaria para extrae un electrón de un metal. En unidades del sistema internacional, 2,0 eV equivalen a 3,2 × 10⁻¹⁹ J. La frecuencia de corte se obtiene dividiendo esa energía entre la constante de Planck: 3,2 × 10⁻¹⁹ J / 6,63 × 10⁻³⁴ J·s = 4,8 × 10¹⁴ Hz. Por debajo de esa frecuencia, cada fotón aporta menos energía que la función de trabajo y no se puede liberar ningún electrón, por más intensa que sea la luz. Por encima de ella, cada fotón sí puede liberar electrones.
 
 ## Question 5 [D5-D6]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v5
@@ -169,20 +169,20 @@ La doble rendija produce un patrón de franjas que solo se obtiene sumando las c
 **Contexto:** En un centro de investigación escolar de Bogotá, se prepara un microscopio electrónico y el grupo calcula la longitud de onda asociada a un haz de electrones.
 
 ### Enunciado
-Un haz de electrones de masa 9,11 × 10⁻ kg se mueve a 1,5 × 10⁶ m/s. Qué longitud de onda de de Broglie corresponde a esos electrones y qué indica ese resultado?
+Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s. Qué longitud de onda de de Broglie corresponde a esos electrones y qué indica ese resultado?
 
 ### Opciones
 - [ ] A) 4,9 × 10⁷ m, y muestra que la longitud de onda de la materia es muy mayor que la de la luz visible.
   <!-- feedback: Incorrecto. El resultado es mucho menor, no mayor: los electrones rápidos tienen longitudes de onda diminutas. -->
-- [ ] B) 6,63 × 10⁻⁴ m, porque la longitud de onda de la materia es siempre la constante de Planck.
+- [ ] B) 6,63 × 10⁻³⁴ m, porque la longitud de onda de la materia es siempre la constante de Planck.
   <!-- feedback: Incorrecto. La longitud de onda depende también de la masa y la velocidad; la constante de Planck es solo el numerador de la relación. -->
-- [x] C) 4,9 × 10⁻⁰ m, y muestra que la materia en movimiento tiene un comportamiento ondulatorio detectable.
-  <!-- feedback: Correcto. λ = h / (m · v) da 4,85 × 10⁻⁰ m, una longitud de onda del orden de la fracción de nanómetro, observable en un microscopio electrónico. -->
-- [ ] D) 1,4 × 10⁻⁵ m, y muestra que los electrones son partículas sin ninguna propiedad ondulatoria.
+- [x] C) 4,9 × 10⁻¹⁰ m, y muestra que la materia en movimiento tiene un comportamiento ondulatorio detectable.
+  <!-- feedback: Correcto. λ = h / (m · v) da 4,85 × 10⁻¹⁰ m, una longitud de onda del orden de la fracción de nanómetro, observable en un microscopio electrónico. -->
+- [ ] D) 1,4 × 10⁻²⁵ m, y muestra que los electrones son partículas sin ninguna propiedad ondulatoria.
   <!-- feedback: Incorrecto. Ese valor sale de omitir la velocidad en el denominador, y contradice la hipótesis de de Broglie que se está calculando. -->
 
 ### Explicacion Pedagogica
-De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻⁴ J·s dividido entre (9,11 × 10⁻ kg × 1,5 × 10⁶ m/s) da 4,85 × 10⁻⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.
+De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻³⁴ J·s dividido entre (9,11 × 10⁻³¹ kg × 1,5 × 10⁶ m/s) da 4,85 × 10⁻¹⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v8
