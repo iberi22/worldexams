@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T16:36:08.238Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a una onda mecánica?",
+      "context": "En la playa de Rodadero, en Santa Marta, el mar rompe contra la arena y la boya de madera se levanta y baja con cada ola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una perturbación que transporta materia de un punto a otro junto con la energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El medio material vibra localmente y no viaja con la perturbación."
+        },
+        {
+          "letter": "B",
+          "text": "Es una onda que puede propagarse en el vacío sin necesidad de un medio material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo las ondas electromagnéticas, como la luz, pueden viajar en el vacío."
+        },
+        {
+          "letter": "C",
+          "text": "Es una perturbación que se propaga en un medio material y transporta energía sin transportar materia.",
+          "is_correct": true,
+          "feedback": "Correcto. La energía se transfiere de una partícula a la siguiente, pero la materia permanece en su sitio."
+        },
+        {
+          "letter": "D",
+          "text": "Es una variación de la temperatura que se propaga solo por el agua y no por otros materiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ondas mecánicas se propagan en cualquier medio elástico: sólidos, líquidos y gases."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una onda mecánica es una perturbación que necesita un medio material elástico para viajar y que transmite energía de un punto a otro. Las partículas del medio oscilan localmente alrededor de su posición de equilibrio, por eso la materia no avanza junto con la onda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes casos corresponde a una onda longitudinal?",
+      "context": "En el Coliseo de Bogotá, un grupo de estudiantes observa cómo se propagan las vibraciones de una cuerda de guitarra y también las de un resorte de plastilina que comprime y se estira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La onda que viaja por una cuerda cuando la sacudes de arriba hacia abajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ese caso la cuerda vibra perpendicularmente a la dirección de propagación y la onda es transversal."
+        },
+        {
+          "letter": "B",
+          "text": "La onda que se propaga en la superficie del agua cuando se lanza una piedra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ondas en la superficie del agua son transversales, con vibración vertical."
+        },
+        {
+          "letter": "C",
+          "text": "La onda de luz que ilumina la superficie del mar desde el sol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz es una onda electromagnética y no necesita de un medio material."
+        },
+        {
+          "letter": "D",
+          "text": "La onda que viaja por el aire cuando una multitud habla, porque las moléculas vibran en la misma dirección de propagación.",
+          "is_correct": true,
+          "feedback": "Correcto. El sonido es longitudinal: avanza por zonas de compresión y de rarefacción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En las ondas longitudinales las partículas del medio vibran en la misma dirección en que se propaga la perturbación, generando zonas de compresión y rarefacción. El sonido en el aire es el ejemplo más cotidiano, mientras que en las ondas transversales la vibración es perpendicular a la propagación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el sonido no puede viajar en el vacío del espacio exterior?",
+      "context": "Los astrónomos del Observatorio de Bogotá explican que desde la Luna no se escuchan las explosiones ni las voces, solo se observan imágenes y se reciben ondas de radio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las ondas son mecánicas y requieren un medio material elástico donde las moléculas puedan vibrar.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin moléculas que transmitan la vibración no hay forma física de transportar la perturbación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la luz se interpone entre el sonido y el espacio y lo bloquea por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz no interactúa de esa manera con las ondas sonoras."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sonido necesita oxígeno y en el espacio no hay aire suficiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sonido también viaja en líquidos y sólidos, incluso sin oxígeno."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el espacio la temperatura es tan baja que el sonido se congela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no es la causa y el sonido puede viajar por materiales muy fríos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las ondas sonoras son ondas mecánicas: para propagarse necesitan que las moléculas del medio transmitan la vibración unas a otras. Como en el vacío no hay materia, no hay moléculas que oscilen y el sonido simplemente no puede viajar, tal como saben los astrónomos que se comunican por radio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v4",
+      "statement": "¿Con qué rapidez se propaga el oleaje hacia la costa?",
+      "context": "En Coveñas, Santander, las olas del mar tienen una longitud de onda de 8 m y cada ola tarda 4 s en pasar de una cresta a la siguiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$32\\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste la longitud de onda por el período en lugar de dividir."
+        },
+        {
+          "letter": "B",
+          "text": "$2\\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "Correcto. $v = \\frac{\\lambda}{T} = \\frac{8}{4} = 2\\text{ m/s}$."
+        },
+        {
+          "letter": "C",
+          "text": "$0.5\\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el período entre la longitud de onda, invirtiendo la relación."
+        },
+        {
+          "letter": "D",
+          "text": "$4\\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el período como si fuera la rapidez de propagación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rapidez de una onda se obtiene dividiendo la longitud de onda entre el período, $v = \\lambda / T$. Como la longitud de onda se mide en metros y el período en segundos, el resultado queda en metros por segundo, que es la velocidad con que avanza la perturbación sobre la superficie del mar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v5",
+      "statement": "¿Con qué frecuencia se desplaza la onda de la voz del guardián?",
+      "context": "En el tunel de la vía del Café, en Caldas, un guardián habla y el sonido viaja por el aire a 340 m/s con una longitud de onda de 0.85 m.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$289\\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la longitud de onda entre la rapidez, invirtiendo la relación."
+        },
+        {
+          "letter": "B",
+          "text": "$2.5\\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 340 entre 0.85 y después dividiste el resultado otra vez, lo que da unidades sin sentido físico."
+        },
+        {
+          "letter": "C",
+          "text": "$400\\text{ Hz}$",
+          "is_correct": true,
+          "feedback": "Correcto. $f = \\frac{v}{\\lambda} = \\frac{340}{0.85} = 400\\text{ Hz}$, es decir 400 vibraciones por segundo."
+        },
+        {
+          "letter": "D",
+          "text": "$2.950\\text{ Hz}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste la rapidez por la longitud de onda en lugar de dividirlos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Despejando la frecuencia de la relación $v = \\lambda f$ se obtiene $f = v / \\lambda$. La frecuencia expresa cuántas oscilaciones se producen en un segundo y se mide en hercios, de modo que 340 m/s dividido entre 0.85 m da 400 Hz.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la longitud de onda de esta onda armónica?",
+      "context": "En la Institución Educativa Francisco de Paula Santander de Palmira, una cuerda se describe con la ecuación $y(x, t) = 0.05 \\sin(4x - 8t)$ metros, donde x se mide en metros y t en segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.79\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste $2\\pi$ entre dos veces el número de onda."
+        },
+        {
+          "letter": "B",
+          "text": "$6.28\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste el valor de la velocidad angular de 8 rad/s como si fuera el número de onda."
+        },
+        {
+          "letter": "C",
+          "text": "$0.05\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es la amplitud, es decir el desplazamiento máximo, y no la longitud de onda."
+        },
+        {
+          "letter": "D",
+          "text": "$1.57\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. El número de onda es $k = 4\\text{ rad/m}$ y $\\lambda = \\frac{2\\pi}{k} = \\frac{\\pi}{2} = 1.57\\text{ m}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la ecuación armónica $y = A \\sin(kx - \\omega t)$ el parámetro $k$ es el número de onda y cumple $\\lambda = 2\\pi / k$. Aquí $k = 4\\text{ rad/m}$, por lo que la longitud de onda vale $\\pi/2$ metros, mientras que los 0.05 m corresponden a la amplitud.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué longitud de onda corresponde al tercer armónico de esa cuerda?",
+      "context": "En el taller de música de la Institución Educativa Diego de Ospina de Bello, una cuerda de 1.2 m sujeta en sus dos extremos se pulsa y se observa que en su modo fundamental se forman dos nodos y un antinodo en el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0.8\\text{ m}$",
+          "is_correct": true,
+          "feedback": "Correcto. En una cuerda con ambos extremos fijos, $\\lambda_n = \\frac{2L}{n}$ y para $n = 3$ se obtiene $\\frac{2(1.2)}{3} = 0.8\\text{ m}$."
+        },
+        {
+          "letter": "B",
+          "text": "$1.2\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la longitud de onda del primer armónico, no la del tercero."
+        },
+        {
+          "letter": "C",
+          "text": "$2.4\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $2L$ sin dividir entre el número de armónico."
+        },
+        {
+          "letter": "D",
+          "text": "$0.4\\text{ m}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre seis, como si el tercer armónico tuviera seis ondas completas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una cuerda o una columna de aire con los dos extremos fijos solo admite longitudes de onda que cumplen $\\lambda_n = 2L / n$, donde $n$ es el número de armónico. Para el tercer armónico de una cuerda de 1.2 m la longitud de onda es de 0.8 m, y aparecen tres antinodos separados por dos nodos internos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué ocurre con la onda resultante en ese punto?",
+      "context": "En el laboratorio de física de la Institución Educativa de Rionegro, los estudiantes superponen en un simulador dos ondas idénticas $y_1 = A \\sin(kx - \\omega t)$ y $y_2 = A \\sin(kx - \\omega t)$ y observan el resultado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se produce interferencia destructiva y la amplitud resultante es cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La interferencia destructiva requiere que las ondas estén en fase opuesta, es decir con signo invertido."
+        },
+        {
+          "letter": "B",
+          "text": "Se produce interferencia constructiva y la amplitud resultante es $2A$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al coincidir fase y frecuencia, los desplazamientos se suman y la amplitud se duplica."
+        },
+        {
+          "letter": "C",
+          "text": "Las ondas se anulan entre sí y no hay desplazamiento ni energía resultante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos ondas en fase no se cancelan, se suman."
+        },
+        {
+          "letter": "D",
+          "text": "La amplitud resultante sigue siendo $A$, porque la energía no puede duplicarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la interferencia constructiva la amplitud sí se duplica, y la energía aumenta con su cuadrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La superposición de dos ondas depende de la diferencia de fase entre ellas. Si llegan en fase, como en este caso, sus desplazamientos se suman y aparece una onda de amplitud doble, fenómeno llamado interferencia constructiva; si llegan en fase opuesta, se produce interferencia destructiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v9",
+      "statement": "¿Qué fenómeno explica que la amplitud de la vibración crezca cuando se alcanza la frecuencia propia del sistema?",
+      "context": "Un diapasón de 440 Hz apoyado sobre una caja de resonancia suena mucho más fuerte en un aula de la Universidad Nacional de Bogotá que cuando se sostiene solo en el aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reflexión total, porque la onda rebota sin perder energía dentro de la caja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amplificación se debe al aporte continuo de energía, no a la reflexión."
+        },
+        {
+          "letter": "B",
+          "text": "La interferencia destructiva, porque las ondas que llegan se cancelan entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se cancelaran no habría sonido, y la amplitud no crecería."
+        },
+        {
+          "letter": "C",
+          "text": "La resonancia, porque la energía externa se transfiere de forma eficiente a la frecuencia natural del sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la frecuencia excitadora coincide con la natural, cada impulso refuerza la oscilación."
+        },
+        {
+          "letter": "D",
+          "text": "La difracción, porque el sonido rodea los obstáculos y aumenta al pasar por una abertura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La difracción explica que el sonido se desvía, no que su amplitud crezca por sincronía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La resonancia aparece cuando una oscilación externa tiene la misma frecuencia que la frecuencia natural del sistema. En esa condición los impulsos llegan en fase con la oscilación existente y la amplitud crece, como ocurre al colocar un diapasón sobre su caja de resonancia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v10",
+      "statement": "¿Qué conjunto de afirmaciones describe correctamente el comportamiento de una onda mecánica?",
+      "context": "En el aula de la Institución Educativa El Túnel de Sogamoso, cuatro estudiantes discuten el cartel del laboratorio que afirma que una onda mecánica transporta materia de un punto a otro de la playa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transporta materia de un punto a otro, no necesita un medio material y puede viajar en el vacío.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas tres afirmaciones describen una idea contraria a la definición de onda mecánica."
+        },
+        {
+          "letter": "B",
+          "text": "Transporta energía, transporta materia y se propaga en el vacío con la misma rapidez que en el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia no viaja con la onda y ninguna onda mecánica se propaga en el vacío."
+        },
+        {
+          "letter": "C",
+          "text": "No transporta energía ni materia, porque las partículas del medio permanecen quietas durante la propagación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las partículas sí vibran y precisamente esa vibración transmite la energía."
+        },
+        {
+          "letter": "D",
+          "text": "Transporta energía a través del medio, no transporta materia y siempre necesita un medio material para propagarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres ideas corresponden a la definición de onda mecánica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un conjunto de afirmaciones exige verificar cada una por separado contra el modelo. Una onda mecánica es una perturbación que viaja en un medio material, transporta energía y no materia, y por eso se distingue de las ondas electromagnéticas, que sí pueden recorrer el vacío.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v11",
+      "statement": "¿Qué hipótesis explica mejor la disminución de la amplitud con la distancia?",
+      "context": "En la red de monitoreo del Servicio Geológico Colombiano, un sismógrafo instalado en el valle del río Bogotá registró una vibración cuya amplitud inicial era de 2.0 mm y que a los 200 km de distancia había quedado en 0.5 mm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía de la onda se disipa al propagarse por el medio, de modo que a mayor distancia la amplitud registrada es menor.",
+          "is_correct": true,
+          "feedback": "Correcto. La atenuación con la distancia explica la pérdida de amplitud observada en el sismograma."
+        },
+        {
+          "letter": "B",
+          "text": "La longitud de onda se reduce a la mitad cada 100 km por eso la amplitud desaparece.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de onda se mantiene; lo que disminuye con la distancia es la amplitud."
+        },
+        {
+          "letter": "C",
+          "text": "La frecuencia se vuelve cero a los 200 km y por eso el sismógrafo ya no registra señal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia no depende de la distancia recorrida y la señal no se anula por esa causa."
+        },
+        {
+          "letter": "D",
+          "text": "El sismógrafo cambió de escala al recibir la señal de otro estación sin relación con la distancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La atenuación es un fenómeno físico del medio y no un cambio del instrumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar datos sísmicos exige distinguir entre las características que cambian con la distancia y las que permanecen. La frecuencia y la longitud de onda se conservan durante la propagación en el medio, mientras que la amplitud disminuye porque parte de la energía se disipa, lo que explica la pérdida de intensidad con la distancia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle-v12",
+      "statement": "Si la rapidez medida en la barra de acero fue mayor que en el aire, ¿qué conclusión está mejor sustentada?",
+      "context": "En la Institución Educativa Sinú de Montería, un grupo de estudiantes midió la rapidez de una onda en tres montajes: una cuerda tensa, una barra de acero y el aire del salón, manteniendo la misma frecuencia de excitación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rapidez de propagación es la misma en todos los medios, porque depende únicamente de la frecuencia de la excitación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia se mantuvo constante y aun así la rapidez medida fue distinta."
+        },
+        {
+          "letter": "B",
+          "text": "La rapidez de propagación depende del material del medio, porque las moléculas del acero transmiten la vibración con mayor velocidad que las del aire.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la explicación estándar: en los sólidos la transmisión es más rápida que en los gases."
+        },
+        {
+          "letter": "C",
+          "text": "La rapidez depende de la amplitud de la onda y no del medio donde se propaga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amplitud se relaciona con la energía y no determina la rapidez de propagación."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado es un error de medición, porque la rapidez de una onda nunca cambia de un medio a otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar de medio modifica las propiedades elásticas y la rapidez cambia de forma previsible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rapidez de una onda mecánica depende de las propiedades elásticas del medio, especialmente de su rigidez y de su densidad. En general es mayor en los sólidos, como el acero, que en los líquidos y que en los gases como el aire, por eso comparar la misma excitación en distintos medios es un buen experimento escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

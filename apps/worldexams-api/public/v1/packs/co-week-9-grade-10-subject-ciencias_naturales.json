@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T16:36:08.242Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v1",
+      "statement": "Cómo se define la intensidad de la corriente eléctrica y cuál es su unidad en el Sistema Internacional?",
+      "context": "En un taller de electromecánica de Manizales, los estudiantes miden la carga eléctrica total que atraviesa un conductor durante un intervalo de tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la cantidad de carga eléctrica acumulada en el conductor por unidad de volumen, y se mide en culombios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la densidad de carga, no la corriente. La intensidad depende de la carga que cruza una sección por segundo."
+        },
+        {
+          "letter": "B",
+          "text": "Es la diferencia de potencial entre los extremos del conductor por unidad de longitud, y se mide en voltios por metro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la magnitud del campo eléctrico. La corriente relaciona carga y tiempo, no tensión y longitud."
+        },
+        {
+          "letter": "C",
+          "text": "Es la cantidad de carga eléctrica que pasa por un punto del conductor por unidad de tiempo, y se mide en amperes.",
+          "is_correct": true,
+          "feedback": "Correcto. $I = \\frac{Q}{t}$, donde la carga $Q$ se mide en culombios y el tiempo $t$ en segundos; un culombio por segundo equivale a un amperio."
+        },
+        {
+          "letter": "D",
+          "text": "Es la energía que entrega la fuente por unidad de tiempo, y se mide en vatios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la potencia eléctrica, que se obtiene multiplicando la tensión por la corriente y no dividing la carga entre el tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La corriente eléctrica es el flujo ordenado de carga a través de una sección del conductor y se define como $I = Q/t$. La unidad de intensidad es el amperio, que equivale a un culombio de carga por segundo. Diferenciar corriente, densidad de carga, campo y potencia evita confusiones entre las magnitudes que se relacionan en un circuito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v2",
+      "statement": "Qué es la fuerza motriz eléctrica de una fuente?",
+      "context": "En el laboratorio de electrónica de una universidad en Bogotá, se estudia una fuente que puede entregar más corriente de la que necesita el circuito conectado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la corriente máxima que la fuente puede entregar de manera segura, y se mide en amperios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente máxima es una característica de la fuente, pero la fuerza motriz se define con voltios y no con amperios."
+        },
+        {
+          "letter": "B",
+          "text": "Es la resistencia interna de la fuente, que se opone al paso de la corriente por el circuito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia interna explica por qué la tensión terminal es menor, pero la fuerza motriz es la tensión ideal de la fuente."
+        },
+        {
+          "letter": "C",
+          "text": "Es el trabajo que realiza la carga al recorrer el circuito, y por eso siempre tiene signo negativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo sobre la carga es negativo en el convenio de la fuerza externa, pero la fuerza motriz describe lo que hace la fuente al impulsar la carga."
+        },
+        {
+          "letter": "D",
+          "text": "Es la energía que la fuente convierte por unidad de carga en energía eléctrica, es decir, la tensión que ofrece en sus terminales.",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza motriz se expresa en voltios y representa el trabajo que la fuente realiza por cada culombio de carga que hace circular."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La fuerza motriz eléctrica representa el trabajo que la fuente realiza por unidad de carga para mantener el movimiento de los electrones en el circuito. Se mide en voltios y corresponde a la tensión que la fuente entregaría si su resistencia interna fuera nula. Esta distinción explica por qué una batería entrega menos voltios cuando se le exige más corriente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v3",
+      "statement": "Qué representa la diferencia de potencial entre dos puntos de un circuito?",
+      "context": "En una explicación de la profesora de física en un colegio de Ibagué, se compara el nivel de dos puntos de un terreno usando referencias distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía que gana o pierde una carga positiva al moverse entre esos dos puntos por la acción del campo eléctrico.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia de potencial es el trabajo por unidad de carga entre dos puntos, y por eso se expresa en voltios."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de carga total que existe entre los dos puntos medidos en culombios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga de una fuente se mide en culombios, mientras que la diferencia de potencial es una relación entre trabajo y carga."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia de temperatura entre los dos puntos cuando el circuito se calienta por efecto Joule.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura interviene por el efecto Joule, pero la diferencia de potencial es una magnitud eléctrica y no térmica."
+        },
+        {
+          "letter": "D",
+          "text": "La resistencia que.offerce el conductor que une los dos puntos en ohmios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia depende del material y de la geometría del conductor, no de la diferencia de potencial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia de potencial entre dos puntos se define como el trabajo que el campo realiza por unidad de carga positiva que se desplaza entre ellos. Como el trabajo se expresa en joules y la carga en culombios, el cociente tiene unidades de voltio. Entender esta definición permite interpretar correctamente las medidas de un voltímetro y el significado de la referencia de potencial cero.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v4",
+      "statement": "Qué intensidad de corriente representa esa descarga durante ese tiempo?",
+      "context": "En una estación de buses de Bogotá, un dispositivo de control recibe una descarga de 600 C en un intervalo de 5 minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3000 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó 5 minutos directamente en el denominador sin convertir a segundos, de modo que el resultado quedó quince veces mayor."
+        },
+        {
+          "letter": "B",
+          "text": "2 A",
+          "is_correct": true,
+          "feedback": "Correcto. $I = \\frac{Q}{t} = \\frac{600\\ \\text{C}}{300\\ \\text{s}} = 2\\ \\text{A}$, porque 5 minutos equivalen a 300 segundos."
+        },
+        {
+          "letter": "C",
+          "text": "120 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la relación entre carga y tiempo, calculando el tiempo que tardaría una carga de 2 A en lugar de la intensidad resultante."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresó el resultado en miliampérios, pues 2 A equivalen a 2000 mA y no a 0.5 A. El valor obtenido al dividir es correcto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular la corriente se divide la carga que circula entre el tiempo, usando segundos: $I = Q/t$. Convertir 5 minutos a 300 segundos es indispensable para que las unidades sean coherentes, y con ello se obtiene una intensidad de 2 A. Este tipo de conversión de unidades es el error más frecuente en los ejercicios de corriente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v5",
+      "statement": "Qué resistencia tiene ese tramo de cable de cobre?",
+      "context": "En una finca de Caquetá, se instalan 100 m de cable de cobre para conectar un sensor distante al centro de acopio, con una sección transversal de $2.0 \\times 10^{-6}\\ \\text{m}^2$ y una resistividad de $1.7 \\times 10^{-8}\\ \\text{Ω}\\cdot\\text{m}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.5 × 10⁻⁵ Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplo por error los factores de longitud y sección, de modo que el resultado quedó mil veces menor que el correcto."
+        },
+        {
+          "letter": "B",
+          "text": "0.85 × 10³ Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresó el resultado en miliohms en lugar de ohms, lo que equivale a 850 Ω, un valor mucho mayor que el obtenido."
+        },
+        {
+          "letter": "C",
+          "text": "0.85 Ω",
+          "is_correct": true,
+          "feedback": "Correcto. $R = \\rho\\frac{L}{A} = 1.7\\times 10^{-8}\\times\\frac{100}{2.0\\times 10^{-6}} = 0.85\\ \\text{Ω}$."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 × 10⁻² Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató la resistencia como proporcional a la sección del conductor, cuando en realidad es inversamente proporcional a ella."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La resistencia de un conductor es $R = \\rho L / A$, donde $\\rho$ es la resistividad del material, $L$ la longitud y $A$ la sección transversal. A mayor longitud o menor sección, la resistencia aumenta, por eso los cables de transmisión de larga distancia utilizan conductores gruesos. La resistividad es una propiedad característica del material y depende además de la temperatura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v6",
+      "statement": "Qué explica el gran aumento de corriente que ocurre en el instante de encender ese bombillo?",
+      "context": "En una casa de Ibagué, un bombillo incandiscente tiene una resistencia de 0.4 Ω cuando está frío y de 14 Ω cuando alcanza su temperatura de operación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el filamento genera su propia energía al calentarse, y esa energía se transforma en corriente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El filamento no genera energía: consume la que entrega la red y la transforma en calor y luz."
+        },
+        {
+          "letter": "B",
+          "text": "Que la resistencia de los metales aumenta con la temperatura, de modo que al calentarse la corriente se dispara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los metales la resistencia aumenta al calentarse, lo que reduce la corriente. La causa del aumento inicial es la baja resistencia del filamento frío."
+        },
+        {
+          "letter": "C",
+          "text": "Que la tension de la red aumenta cuando se enciende un artefacto resistivo conectado en paralelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tensión de la red se mantiene prácticamente constante, y la corriente aumenta porque la resistencia del filamento frío es baja."
+        },
+        {
+          "letter": "D",
+          "text": "Que la resistencia del filamento es muy baja cuando está frío, de modo que con la misma tensión circula una corriente mucho mayor.",
+          "is_correct": true,
+          "feedback": "Correcto. Con $V = IR$ y $R$ pequeño, la corriente inicial es unas 35 veces mayor que la de funcionamiento estable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La resistencia de los metales aumenta con la temperatura porque los electrones encuentran más obstáculos al desplazarse entre los átomos. En un filamento de wolframio la resistencia se multiplica por un factor de unas 35 entre el frío y la temperatura de operación, y por eso la corriente de arranque es muy superior a la de trabajo. Ese gran aumento de corriente produce un golpe de tensión al conectar el bombillo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v7",
+      "statement": "Qué tensión en los terminales de la batería mide un voltímetro en esas condiciones?",
+      "context": "En una planta de energía solar de Villavicencio se prueba una batería de 12 V cuya resistencia interna es de 0.5 Ω, conectada a un inversor que consume 4 A.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 V",
+          "is_correct": true,
+          "feedback": "Correcto. La tensión terminal es $V = \\mathcal{E} - Ir = 12\\ \\text{V} - 4\\ \\text{A}\\times 0.5\\ \\text{Ω} = 10\\ \\text{V}$."
+        },
+        {
+          "letter": "B",
+          "text": "12 V",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la fuerza motriz. Al entregar corriente, parte de la energía se disipa dentro de la batería y la tensión terminal baja."
+        },
+        {
+          "letter": "C",
+          "text": "2 V",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reportó la caída de potencial interna $Ir = 2\\ \\text{V}$ en lugar de la tensión que queda disponible en los terminales."
+        },
+        {
+          "letter": "D",
+          "text": "14 V",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó la caída interna en lugar de restarla. La resistencia interna disipa energía y por eso la tensión terminal es menor que la fuerza motriz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una batería real se modela como una fuente ideal de fuerza motriz en serie con una resistencia interna. La tensión que aparece en sus terminales es $V = \\mathcal{E} - Ir$, de modo que al aumentar la corriente entregada la tensión disponible disminuye. Esta caída explica por qué una batería muy descargada, de gran resistencia interna, se apaga bajo carga aunque su voltaje en reposo parezca adecuado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v8",
+      "statement": "Cómo deben asociarse esas pilas para obtener los 6 V que exige el dispositivo?",
+      "context": "En un taller de Rionegro se combinan cuatro pilas idénticas de 1.5 V y resistencia interna despreciable para alimentar un dispositivo que requiere 6 V.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En paralelo, porque las fuerzas motrices se suman al conectar los terminales positivos entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En paralelo la tensión se mantiene igual que la de una sola pila, es decir 1.5 V, y lo que aumenta es la capacidad de corriente."
+        },
+        {
+          "letter": "B",
+          "text": "En serie, porque las fuerzas motrices se suman y la resistencia total también aumenta.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuatro pilas de 1.5 V en serie entregan 6 V, y la resistencia interna total es la suma de las resistencias internas de cada pila."
+        },
+        {
+          "letter": "C",
+          "text": "En paralelo, porque la tensión de la combinación es la suma de las tensiones de cada pila.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde las dos formas de conexión. En paralelo la tensión no se suma, mientras que en serie sí se suman las fuerzas motrices."
+        },
+        {
+          "letter": "D",
+          "text": "Dos en serie y dos en paralelo, porque eso entrega 6 V y además reduce la resistencia interna a la mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos pilas en serie y dos en paralelo entregan 3 V, porque las ramas en paralelo tienen la misma tensión que una sola pila de 1.5 V."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al conectar pilas en serie se suman las fuerzas motrices y también las resistencias internas, lo que permite alcanzar voltajes más altos a costa de una mayor caída interna. En paralelo se mantiene la tensión de una pila y se aumenta la corriente disponible, porque las resistencias internas quedan en paralelo entre sí. Elegir la asociación correcta es una decisión de diseño de fuentes de alimentación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v9",
+      "statement": "Qué efecto produce esa mala conexión sobre la lectura del instrumento y sobre el resto del circuito?",
+      "context": "En un laboratorio escolar de Florencia Caquetá, un estudiante conecta un voltímetro en serie dentro de un circuito, siguiendo una indicación errónea del cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El voltímetro tiene resistencia nula, por lo que la corriente máxima llega a él y la lectura marca la intensidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voltímetro tiene una resistencia muy grande, no nula, y por eso se conecta en paralelo. Esa es la función del amperímetro."
+        },
+        {
+          "letter": "B",
+          "text": "El voltímetro se calienta y se daña, pero el resto del circuito sigue funcionando igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alta resistencia del voltímetro reduce la corriente en todo el circuito, de modo que el funcionamiento del resto también se altera."
+        },
+        {
+          "letter": "C",
+          "text": "El voltímetro, de gran resistencia, se opone al paso de la corriente y la lectura se acerca a cero, reduciendo el brillo de las bombillas.",
+          "is_correct": true,
+          "feedback": "Correcto. Al intercalar una resistencia muy grande, el circuito queda limitada por el voltímetro y casi no circula corriente."
+        },
+        {
+          "letter": "D",
+          "text": "El voltímetro cortocircuita el circuito y por eso ninguna bombilla se enciende ni se daña ningún instrumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un instrumento de gran resistencia en serie limita el flujo, no lo aumenta. Un cortocircuito corresponde a un conductor de resistencia casi nula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El voltímetro se diseña con una resistencia muy grande para no alterar el circuito que mide, y por eso se conecta en paralelo con el elemento que se desea medir. El amperímetro, en cambio, tiene una resistencia muy pequeña y se coloca en serie para medir la corriente sin cambiar su valor. Conectar un instrumento en la posición equivocada modifica lo que se pretende medir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v10",
+      "statement": "Qué criterio es el más pertinente para elegir la pila que alimentará la linterna?",
+      "context": "En una empresa de reparto de paquetes en Medellín se diseña una linterna que debe funcionar seis horas en una zona rural sin red eléctrica, y el ingeniero compara dos opciones de pilas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mayor tensión nominal, porque un voltaje alto garantiza que la linterna funcione más tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un voltaje alto puede merusak el dispositivo, y el tiempo de funcionamiento depende de la energía almacenada y del consumo, no del voltaje aislado."
+        },
+        {
+          "letter": "B",
+          "text": "El menor precio por pila, porque el costo solo define el tiempo de uso y no la capacidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo importa, pero sin considerar capacidad ni voltaje la comparación no garantiza que la linterna cumpla el tiempo requerido."
+        },
+        {
+          "letter": "C",
+          "text": "La menor resistencia interna, porque esa característica reduce el tiempo de carga de la linterna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia interna afecta la tensión bajo carga y la capacidad de corriente, no el tiempo de carga de una linterna de uso Continuo."
+        },
+        {
+          "letter": "D",
+          "text": "La capacidad total de energía, de modo que alcance la cantidad necesaria para las seis horas de trabajo del diodo emisor.",
+          "is_correct": true,
+          "feedback": "Correcto. La capacidad en culombios y el voltaje determinan la energía disponible, y esa energía debe superar la que consume el diodo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La selección de una fuente debe responder a los requisitos del dispositivo: tensión adecuada y energía suficiente para el tiempo de uso. La energía almacenada es el producto de la carga y el voltaje, y esa energía se consume según la potencia del equipo. La resistencia interna importa porque una fuente con alta resistencia interna pierde voltaje cuando se le exige corriente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v11",
+      "statement": "Qué se puede concluir al construir la gráfica de tensión frente a corriente?",
+      "context": "En el proyecto de física de un colegio de Popayán, un grupo midió la tensión en los terminales de una pila mientras aumentaba la corriente conectada, obteniendo los pares de valores siguientes: 0 A y 12.0 V; 0.5 A y 11.5 V; 1.0 A y 11.0 V; 1.5 A y 10.5 V; 2.0 A y 10.0 V.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los puntos forman una recta cuya pendiente es menos 1.0 Ω y cuyo intercepto en el eje de voltios es 12.0 V, de modo que la resistencia interna es 1.0 Ω.",
+          "is_correct": true,
+          "feedback": "Correcto. Al graficar $V$ frente a $I$ se aplica $V = \\mathcal{E} - Ir$: la pendiente es menos $r$ y el intercepto es la fuerza motriz."
+        },
+        {
+          "letter": "B",
+          "text": "Los puntos forman una recta de pendiente positiva de 1.0 Ω, porque la tensión aumenta con la corriente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos muestran que la tensión disminuye al aumentar la corriente, de modo que la pendiente es negativa y equivale a menos la resistencia interna."
+        },
+        {
+          "letter": "C",
+          "text": "La gráfica es una hipérbola, porque la resistencia interna depende de la corriente que circula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las variaciones de voltaje son exactamente lineales: cada medio amperio de corriente resta medio voltio sin cambio en la tasa."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza motriz de la pila es 10.0 V, porque ese es el voltaje medido a la mayor corriente.",
+          "is_correct": false,
+          "feedback": "Correcto el dato de 10.0 V, pero no es la fuerza motriz, sino la tensión terminal con 2.0 A de carga; la fuerza motriz es el intercepto en $I = 0$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Graficar la tensión terminal frente a la corriente permite obtener los dos parámetros de la pila a partir de la ecuación $V = \\mathcal{E} - Ir$. El intercepto en el eje de voltios corresponde a la fuerza motriz y la pendiente de la recta a la negativa de la resistencia interna. Analizar un conjunto de datos medidos es la base del método científico aplicado a circuitos reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle-v12",
+      "statement": "Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En una clase de un colegio de Quibdó, una estudiante afirma que la corriente eléctrica y la diferencia de potencial son prácticamente lo mismo, porque ambas aparecen siempre juntas en un circuito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la corriente y el potencial tienen las mismas unidades y por eso son equivalentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente se mide en amperios y la tensión en voltios. Que aparezcan juntas en la ley de Ohm no las convierte en la misma magnitud."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque el potencial es la causa que impulsa el movimiento de la carga y la corriente es la tasa de ese movimiento de carga.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia de potencial suministra la energía por carga y la intensidad mide cuánto carga fluye por unidad de tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque una resistencia de $1\\ \\text{Ω}$ es un voltio por amperio y por eso ambas cosas son la misma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa equivalencia muestra precisamente que son magnitudes distintas: la resistencia relaciona voltios y amperios, sin identificarlos."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es parcialmente correcta, porque la corriente y el potencial solo coinciden cuando la resistencia del circuito es unitaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ningún valor de resistencia que iguale las dos magnitudes: una es una tasa de carga y la otra una energía por carga."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia de potencial es la energía que la fuente entrega por cada culombio de carga, y es lo que impulsa el desplazamiento de los electrones. La corriente es la cantidad de carga que atraviesa una sección del conductor por segundo. La ley de Ohm, $V = IR$, las relaciona a través de la resistencia, pero no las identifica: son magnitudes distintas que cumplen papeles distintos en el circuito.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

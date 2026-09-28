@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T16:36:08.241Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v1",
+      "statement": "Qué enunciado sobre la carga eléctrica es correcto?",
+      "context": "En el aula de física de un colegio de Medellín, la profesora trabaja con una barra de ámbar y un trozo de tela de lana para introducir el concepto de carga eléctrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la carga eléctrica se crea y se destruye libremente en los objetos que se electrizan por frotación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Frotar dos cuerpos redistribuye las cargas ya existentes, pero no crea ni destruye carga eléctrica."
+        },
+        {
+          "letter": "B",
+          "text": "un cuerpo cargado pierde su masa al quedar cargado, porque la carga desaparece de él",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa no desaparece por electrización; además la carga no se anula, se transfiere entre los cuerpos."
+        },
+        {
+          "letter": "C",
+          "text": "existen dos tipos de carga, positiva y negativa, y la carga total de un sistema aislado se conserva.",
+          "is_correct": true,
+          "feedback": "Correcto. La carga eléctrica se cuantiza en dos signos y ninguna reacción transforma carga, por lo que la carga total permanece constante."
+        },
+        {
+          "letter": "D",
+          "text": "todos los cuerpos electrizados tienen el mismo tipo de carga, sin importar el material de origen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Depending del par de materiales que se frota, un cuerpo puede quedar positivo y el otro negativo, con cargas de signo opuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La carga eléctrica tiene dos signos y es una magnitud conservada: en un sistema aislado la carga neta inicial y final son iguales. Cuando dos materiales se frotan, uno pierde electrones y el otro los gana, de modo que aparece una pareja de cargas opuestas. Comprender la conservación descarta la idea de que la carga se crea o se destruye.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v2",
+      "statement": "Según la ley de Coulomb, de qué depende la fuerza eléctrica entre dos cargas puntuales?",
+      "context": "En un laboratorio de física de la Universidad de Antioquia, los estudiantes montan dos esferas conductoras en soportes aislados y estudian la fuerza entre ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del valor de las dos cargas y de la distancia, porque la fuerza aumenta linealmente al alejarlas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación con la distancia es inversa al cuadrado, de modo que al duplicar la distancia la fuerza se reduce a la cuarta parte."
+        },
+        {
+          "letter": "B",
+          "text": "Solo del material del que están hechas las esferas, porque la fuerza depende del conductor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Coulomb se aplica a cargas puntuales y no incluye el material como variable; el material solo afecta cómo se distribuye la carga."
+        },
+        {
+          "letter": "C",
+          "text": "De la masa de las esferas, porque la fuerza eléctrica es un efecto de la gravedad entre ellas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad es una interacción distinta y mucho más débil. La fuerza de Coulomb depende de carga y distancia, no de la masa."
+        },
+        {
+          "letter": "D",
+          "text": "Del valor de las dos cargas y del inverso del cuadrado de la distancia que las separa.",
+          "is_correct": true,
+          "feedback": "Correcto. $F = k\\frac{q_1 q_2}{r^2}$, con $k = 8.99\\times 10^9\\ \\text{N}\\cdot\\text{m}^2/\\text{C}^2$, y por eso reducir la distancia a la mitad multiplica la fuerza por cuatro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ley de Coulomb establece que la magnitud de la fuerza eléctrica es proporcional al producto de las cargas e inversamente proporcional al cuadrado de la separación. La dependencia cuadrática con la distancia hace que las fuerzas eléctricas sean enormes a escala atómica y muy débiles entre objetos de la vida diaria. El signo del producto de las cargas determina si la interacción es de atracción o de repulsión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v3",
+      "statement": "Qué explica mejor el hecho de que la bombilla se encienda al cerrar el interruptor?",
+      "context": "En una explicación en el aula de un colegio de Bogotá, la profesora señala dos puntos del salón y explica por qué una bombilla se enciende al tocar el interruptor que los conecta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El interruptor cierra el circuito y permite que las cargas circulen por los conductores hasta llegar al filamento de la bombilla.",
+          "is_correct": true,
+          "feedback": "Correcto. Al cerrar el interruptor se cierra el circuito y los electrones pueden desplazarse, poniendo en movimiento el filamento."
+        },
+        {
+          "letter": "B",
+          "text": "El interruptor genera la energía eléctrica que consume la bombilla en cada encendido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bombilla no produce energía: convierte la energía eléctrica que le entrega la central. El interruptor solo permite el paso de la corriente."
+        },
+        {
+          "letter": "C",
+          "text": "El interruptor atrae los electrones del cable hasta la bombilla porque produce un campo magnético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El campo magnético no es lo que moviliza las cargas en el filamento. Lo determinante es la existencia de una diferencia de potencial que impulsa la corriente."
+        },
+        {
+          "letter": "D",
+          "text": "El interruptor calienta el filamento por contacto directo con los bornes de la bombilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El interruptor no toca la bombilla ni calienta el filamento. El calentamiento se debe al paso de corriente por la resistencia del filamento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una bombilla se enciende cuando por su filamento circula corriente eléctrica, y esa corriente requiere un circuito cerrado. La fuente crea una diferencia de potencial que impulsa el movimiento de los electrones por los conductores. Entender que la energía se transforma, en lugar de generarse dentro del artefacto, evita ideas erróneas sobre el funcionamiento del circuito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v4",
+      "statement": "Qué intensidad de corriente circula por esa resistencia cuando está conectada a la red?",
+      "context": "En una vivienda de Cali, una estufa eléctrica tiene una resistencia de $55\\ \\text{Ω}$ y opera conectada a una red de 220 V, la tensión habitual en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "275 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó la tensión por la resistencia en lugar de dividirla. La corriente resulta mucho menor que la tensión, no mayor."
+        },
+        {
+          "letter": "B",
+          "text": "4 A",
+          "is_correct": true,
+          "feedback": "Correcto. Por la ley de Ohm, $I = \\frac{V}{R} = \\frac{220\\ \\text{V}}{55\\ \\text{Ω}} = 4\\ \\text{A}$."
+        },
+        {
+          "letter": "C",
+          "text": "0.25 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió la resistencia por la tensión, invirtiendo la relación de la ley de Ohm. El cociente correcto es 4 A."
+        },
+        {
+          "letter": "D",
+          "text": "12 100 A",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevó la tensión al cuadrado al despejar mal la fórmula, de modo que el resultado no tiene significado físico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley de Ohm establece que la tensión es directamente proporcional a la corriente e inversamente proporcional a la resistencia: $V = IR$. Al despejar la corriente se obtiene $I = V/R$, y con 220 V y 55 Ω resulta una intensidad de 4 A, coherente con un electrodoméstico de consumo alto. Esta relación lineal solo es válida mientras la resistencia se mantenga constante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v5",
+      "statement": "Cuánto consume esa bombilla en el mes y cuánto cuesta la energía usada por ella?",
+      "context": "En una casa de Barranquilla, una bombilla de 60 W permanece encendida 5 horas al día durante 30 días. La factura aplica una tarifa de COP 750 por kilovatio-hora consumido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consume 150 kWh y cuesta COP 112.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó los 150 horas por los 60 W sin convertir vatios a kilovatios, de modo que el resultado quedó mil veces mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Consume 0.3 kWh y cuesta COP 225",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo contabilizó el consumo de un día, pues tomó las 5 horas diarias sin multiplicar por los 30 días del mes."
+        },
+        {
+          "letter": "C",
+          "text": "Consume 9 kWh y cuesta COP 6.750",
+          "is_correct": true,
+          "feedback": "Correcto. La energía es $E = Pt = 60\\ \\text{W}\\times 150\\ \\text{h} = 9\\,000\\ \\text{Wh} = 9\\ \\text{kWh}$, y el costo es $9 \\times 750 = \\text{COP }6\\,750$."
+        },
+        {
+          "letter": "D",
+          "text": "Consume 9 kWh y cuesta COP 540.000",
+          "is_correct": false,
+          "feedback": "Correcto el consumo, pero el costo se calculó tomando los vatios como kilovatios, de modo que la tarifa aplicada fue mil veces mayor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía eléctrica consumida se calcula como $E = P t$, con la potencia en vatios y el tiempo en horas, y el kilovatio-hora equivale a 1000 vatios hora. Convertir los vatios a kilovatios es el paso donde se concentran la mayoría de los errores de este tipo de ejercicio. Leer la factura exige identificar kilovatios-hora y no solo kilovatios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v6",
+      "statement": "Cuál es la resistencia equivalente de esa combinación en paralelo?",
+      "context": "En un taller de electrónica de Bogotá, dos resistencias idénticas de $100\\ \\text{Ω}$ se conectan en paralelo para iluminar un letrero con la red de 110 V.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de la combinación en serie. En paralelo las resistencias suman conductancias y el equivalente es menor que cada una."
+        },
+        {
+          "letter": "B",
+          "text": "25 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó la fórmula de la suma en serie, $R_{eq} = R_1 + R_2$, y además la dividió entre dos para obtener un cuarto del valor correcto."
+        },
+        {
+          "letter": "C",
+          "text": "0.01 Ω",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó directamente las resistencias y luego interpretó el resultado como si fuera una conductancia, mezclando las dos magnitudes."
+        },
+        {
+          "letter": "D",
+          "text": "50 Ω",
+          "is_correct": true,
+          "feedback": "Correcto. En paralelo la conductancia se suma, de modo que $\\frac{1}{R_{eq}} = \\frac{1}{100} + \\frac{1}{100} = \\frac{2}{100}$ y $R_{eq} = 50\\ \\text{Ω}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una conexión en paralelo, todas las resistencias tienen la misma diferencia de potencial y sus conductancias se suman, de modo que la resistencia equivalente siempre es menor que la menor de ellas. En serie, por el contrario, la corriente es la misma por cada resistencia y las resistencias se suman. Saber distinguir ambos casos evita errores frecuentes en el análisis de circuitos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v7",
+      "statement": "Qué afirmaciones se cumplen en esa conexión en serie?",
+      "context": "En una maqueta de adornos\\reflejos de un colegio de Bucaramanga, dos bombillas de potencias diferentes se conectan en serie a una fuente de 12 V.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corriente es la misma en las dos bombillas, mientras que la tensión se reparte en proporción a sus resistencias.",
+          "is_correct": true,
+          "feedback": "Correcto. En serie no hay bifurcaciones, de modo que circula la misma corriente, y la ley de Ohm reparte la tensión total según la resistencia de cada bombilla."
+        },
+        {
+          "letter": "B",
+          "text": "La tensión es la misma en las dos bombillas, porque todas reciben los 12 V completos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la característica de la conexión en paralelo. En serie la tensión total se reparte entre los elementos."
+        },
+        {
+          "letter": "C",
+          "text": "La corriente se divide por la mitad en las dos bombillas, porque la fuente entrega la misma cantidad a cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente no se reparte por mitades: en serie es única y la misma, y solo se reparte cuando hay derivaciones en paralelo."
+        },
+        {
+          "letter": "D",
+          "text": "Cada bombilla recibe una tensión que depende de la potencia nominal y no de su resistencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tensión que recibe cada elemento en serie la fija su resistencia mediante $V = IR$, y la potencia nominal solo indica qué bombilla ilumina más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un circuito en serie todos los elementos están en el mismo camino, por lo que la corriente que entra en uno es la que sale del anterior. Como las resistencias son distintas, la tensión total se reparte de forma proporcional a ellas, y la bombilla de mayor resistencia disipa más potencia y brilla más. Esta configuración reduce el voltaje disponible para cada artefacto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v8",
+      "statement": "Qué describen las líneas de campo eléctrico y hacia dónde apunta el campo en esa región?",
+      "context": "En un laboratorio escolar de Pasto se coloca una carga de prueba positiva en distintos puntos de la región entre dos placas cargadas, y se registra la dirección y la magnitud de la fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son líneas materiales que unen los electrones con los protones dentro de cada átomo del material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las líneas de campo no son caminos de partículas ni existen físicamente; son una representación gráfica de la dirección del campo."
+        },
+        {
+          "letter": "B",
+          "text": "Son líneas imaginarias que indican la dirección de la fuerza sobre una carga de prueba positiva, y el campo apunta de la placa positiva a la negativa.",
+          "is_correct": true,
+          "feedback": "Correcto. Las líneas de campo nacen en las cargas positivas y terminan en las negativas, y su densidad indica la intensidad del campo."
+        },
+        {
+          "letter": "C",
+          "text": "Apuntan de la placa negativa a la positiva, porque la fuerza se dirige siempre hacia la carga más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección se define por la fuerza sobre una carga de prueba positiva, que va de la placa positiva hacia la negativa."
+        },
+        {
+          "letter": "D",
+          "text": "Son trayectorias que sigue la carga positiva al moverse por el espacio, por lo que describen su desplazamiento real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ion positivo que se mueve por un campo uniforme sigue una trayectoria recta y no una línea de campo, salvo en condiciones especiales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El campo eléctrico se representa mediante líneas de campo cuya dirección corresponde a la fuerza que ejercería el campo sobre una carga de prueba positiva. Las líneas nacen en las cargas positivas, terminan en las negativas y nunca se cortan entre sí. Su mayor densidad indica una mayor intensidad del campo en esa región del espacio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v9",
+      "statement": "Por qué el ave no se electrocuta al tocar un solo cable de la red?",
+      "context": "Un ave se posa sobre un cable de transmisión de la red eléctrica de ANTENNA en un poste de Itagüí. Al tocar el cable con las dos patas no se electrocuta, lo que despierta la curiosidad de los estudiantes de una colegio cercano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las plumas del ave son un material aislante que impide el paso de la corriente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el plumaje es un mal conductor, la razón principal es que no existe una diferencia de potencial entre las dos patas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la corriente alterna del cable cambia de dirección tan rápido que no alcanza aميزات al ave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia de la corriente alterna no impide la electrocución. El ave muere si toca dos cables con potenciales distintos o un cable y el poste."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el ave no se convierte en un segundo punto del circuito: sus dos patas están al mismo potencial, así que no pasa corriente por su cuerpo.",
+          "is_correct": true,
+          "feedback": "Correcto. Para que circule corriente hace falta una diferencia de potencial entre dos puntos, y las dos patas del ave están en el mismo cable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las aves tienen una resistencia interna mucho mayor que la de cualquier mamífero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las aves tienen una resistencia ósea alta, la protección se debe a la ausencia de diferencia de potencial entre sus patas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La corriente eléctrica fluye cuando existe una diferencia de potencial entre dos puntos de un conductor. Al posarse sobre un único cable, ambas patas del ave quedan al mismo potencial y no se forma un camino de retorno, por lo que no circula corriente por su cuerpo. El peligro aparece al tocar simultáneamente dos cables con distinta tensión o un cable y una estructura a tierra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v10",
+      "statement": "Por qué el fusible protege la instalación frente a un cortocircuito?",
+      "context": "En una vivienda de Neiva, una lavadora provoca que salten los fusibles cada vez que se enciende el calentador del agua, y un electricista explica que el problema es un cortocircuito en la instalación interna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el fusible absorbe la energía de la fuente y la convierte en calor para que no llegue a los cables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fusible no consume energía de manera deliberada: se funde por el calentamiento producido por la propia corriente que él interrumpe."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el fusible aumenta la resistencia del circuito y por eso reduce automáticamente la corriente a un valor seguro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un fusible no reduce la corriente de forma gradual. Su acción es binaria: o conduce o se abre cuando el límite se supera."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el fusible detecta el cortocircuito por la presencia de humedad en el cable y desconecta la red.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La humedad puede favorecer el cortocircuito, pero el fusible no la detecta: responde al valor de la corriente y a su calentamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el fusible interrumpe el circuito cuando la corriente supera un límite, evitando que los cables se sobrecalienten por el efecto Joule.",
+          "is_correct": true,
+          "feedback": "Correcto. Al calentarse por encima de su temperatura de trabajo, el fusible se funde y abre el circuito, protegiendo cables y aparatos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cortocircuito reduce mucho la resistencia del circuito y provoca una corriente excesiva. El efecto Joule calienta los conductores, lo que puede causar incendios en las instalaciones domésticas. El fusible o el interruptor automático corta el paso de la corriente cuando esta supera un umbral, protegiendo así los cables y el equipo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v11",
+      "statement": "Los datos fueron: bombilla 1, con 110 V y 0.20 A, y con 220 V y 0.40 A; bombilla 2, con 110 V y 0.10 A, y con 220 V y 0.20 A. Qué conclusión se sustenta en estos datos?",
+      "context": "En la práctica de laboratorio de un colegio de Armenia se midieron la tensión y la corriente en dos bombillas, registrando los siguientes pares de valores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas bombillas se comportan de manera resistiva, porque al duplicar la tensión se duplica la corriente, y la bombilla 2 tiene el doble de resistencia que la 1.",
+          "is_correct": true,
+          "feedback": "Correcto. En ambas la relación $V/I$ se mantiene constante, y los valores son 550 Ω para la 1 y 1100 Ω para la 2."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna bombilla cumple la ley de Ohm, porque la corriente depende de la tensión de forma distinta en cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente se duplica exactamente al duplicar la tensión en las dos bombillas, lo que indica comportamiento lineal y resistivo."
+        },
+        {
+          "letter": "C",
+          "text": "La bombilla 1 tiene el doble de resistencia que la 2, porque su corriente es el doble con la misma tensión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es inversa: a mayor corriente para la misma tensión, menor resistencia. La bombilla 1 tiene la mitad de resistencia."
+        },
+        {
+          "letter": "D",
+          "text": "La resistencia de las bombillas no puede deducirse de estos datos, porque hace falta medir la potencia con un vatímetro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Ohm basta para obtener la resistencia a partir de tensión y corriente, sin necesidad de medir potencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando la corriente aumenta en la misma proporción que la tensión, la relación $V/I$ se mantiene constante y el material se comporta como resistivo. Con 110 V y 0.20 A la bombilla 1 tiene 550 Ω, mientras que con 110 V y 0.10 A la bombilla 2 tiene 1100 Ω. Analizar tablas de datos permite poner a prueba la ley de Ohm y comparar dispositivos reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle-v12",
+      "statement": "Cuál es la evaluación más adecuada de esa afirmación?",
+      "context": "En una familia de Tunja, un salesman de productos eléctricos asegura que al reemplazar el cable de cobre de 2 mm² de toda la casa por uno de 6 mm², el recibo de la luz va a bajar de forma importante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque un cable de mayor sección reduce la tensión que llega a los electrodomésticos y por eso consumen menos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cable más grueso no reduce la tensión de trabajo, que la fija la red, y los electrodomésticos siguen pidiendo la misma potencia."
+        },
+        {
+          "letter": "B",
+          "text": "El cable de mayor sección tiene menor resistencia, así que se disipa menos energía en los conductores, pero el consumo del electrodoméstico no cambia y la reducción en la factura es pequeña.",
+          "is_correct": true,
+          "feedback": "Correcto. La pérdida en los cables es $I^2R$; al reducir $R$ baja algo el desperdicio, pero la potencia del electrodoméstico sigue siendo la misma."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque el cable de 6 mm² alcanza el triple de corriente que el de 2 mm², de modo que el recibo baja por el cambio de calibre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cable más grueso puede transportar más corriente sin calentarse, pero esa capacidad adicional no se convierte en ahorro para el usuario."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es falsa, porque el calibre del cable no influye en la resistencia y por eso todos los cables disipan igual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia sí depende de la sección del conductor, porque $R = \\rho L / A$; lo que hay que corregir es la magnitud del ahorro, no su existencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La resistencia de un conductor es $R = \\rho L / A$, de modo que al aumentar la sección transversal la resistencia disminuye y las pérdidas por efecto Joule, $I^2R$, se reducen. Sin embargo, la energía que consume el aparato permanece igual porque su potencia depende de su propio diseño. El ahorro asociado al cableado es real pero reducido frente a las pérdidas causadas por el funcionamiento ineficiente de los equipos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

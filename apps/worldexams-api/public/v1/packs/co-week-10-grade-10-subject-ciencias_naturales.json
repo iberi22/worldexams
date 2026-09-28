@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T16:36:08.242Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v1",
+      "statement": "Cuál es el orden correcto de las regiones del espectro electromagnético de mayor a menor frecuencia?",
+      "context": "En un observatorio astronómico cerca de Bogotá, los astrónomos analizan la luz recibida de estrellas lejanas mediante filtros de distintos colores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ondas de radio, microondas, infrarrojo, visible, ultravioleta, rayos X y rayos gamma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el orden de menor a mayor frecuencia, que es justo el inverso del que se solicita."
+        },
+        {
+          "letter": "B",
+          "text": "Rayos gamma, rayos X, ultravioleta, visible, infrarrojo, microondas y ondas de radio.",
+          "is_correct": true,
+          "feedback": "Correcto. La frecuencia aumenta al pasar de las ondas de radio a los rayos gamma, y la longitud de onda hace lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Rayos gamma, rayos X, visible, infrarrojo, microondas, ultravioleta y ondas de radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocó el ultravioleta después de las microondas; el ultravioleta tiene mayor frecuencia que el infrarrojo y que las microondas."
+        },
+        {
+          "letter": "D",
+          "text": "Visible, infrarrojo, rayos X, ultravioleta, microondas y ondas de radio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está mal desde el principio, porque los rayos X tienen mayor frecuencia que la luz visible y el infrarrojo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todas las ondas electromagnéticas comparten en el vacío la misma rapidez y se distinguen por su frecuencia y su longitud de onda. A mayor frecuencia corresponde menor longitud de onda, según $c = \\lambda f$. Conocer el orden del espectro permite relacionar cada región con sus aplicaciones, como los rayos X en medicina o las microondas en las comunicaciones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la rapidez de la luz en el vacío y qué relación la vincula con la frecuencia y la longitud de onda?",
+      "context": "En el laboratorio de física de una universidad en Medellín, se mide la rapidez de la luz con un método temporal y se contrasta con el valor teórico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es aproximadamente $3.0\\times 10^8\\ \\text{m/s}$ y cumple $c = \\lambda / f$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación correcta es un producto. Si se divide la longitud de onda por la frecuencia, las unidades no corresponden a una rapidez."
+        },
+        {
+          "letter": "B",
+          "text": "Es aproximadamente $3.4\\times 10^8\\ \\text{m/s}$ y cumple $c = \\lambda f$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde aproximadamente a la rapidez de la luz en el vidrio; en el vacío la rapidez es menor."
+        },
+        {
+          "letter": "C",
+          "text": "Es aproximadamente $3.0\\times 10^8\\ \\text{m/s}$ y cumple $c = \\lambda f$.",
+          "is_correct": true,
+          "feedback": "Correcto. La rapidez de la luz en el vacío es una constante universal y el producto de longitud de onda y frecuencia es igual a esa rapidez."
+        },
+        {
+          "letter": "D",
+          "text": "Es aproximadamente $3.0\\times 10^6\\ \\text{m/s}$ y cumple $c = \\lambda f$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresó la rapidez en metros por microsegundo en lugar de metros por segundo, de modo que el valor numérico quedó mil veces menor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La rapidez de la luz en el vacío es $c \\approx 3.0\\times 10^8\\ \\text{m/s}$ y, como todas las ondas, cumple $c = \\lambda f$. Esta igualdad es la herramienta fundamental para pasar de longitud de onda a frecuencia y viceversa. Recordar que $c$ es el valor más alto alcanzable por cualquier información es una de las afirmaciones centrales de la relatividad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v3",
+      "statement": "Qué explica la diferencia de color entre el cielo diurno y el atardecer?",
+      "context": "Un equipo de la estación meteorológica de Bucaramanga observa que el cielo de la mañana es de color azul intenso y que al atardecer sobre los Andes el cielo se torna anaranjado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura del aire al atardecer hace que los fotones azules cambien de frecuencia por efecto Doppler.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de color se debe a la dispersión y a la longitud del camino óptico, no a un cambio térmico de la frecuencia de los fotones."
+        },
+        {
+          "letter": "B",
+          "text": "El Sol emite más luz roja por la mañana y más luz azul por la tarde, de manera que el cielo cambia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radiación del Sol es prácticamente la misma durante el día. Lo que cambia es la dispersión que sufre la luz al atravesar la atmósfera."
+        },
+        {
+          "letter": "C",
+          "text": "Las nubes del atardecer absorben selectivamente la luz azul, por eso el cielo se ve naranja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes dispersan la luz de forma aproximadamente igual para todas las longitudes de onda, y el efecto del atardecer ocurre también en un cielo despejado."
+        },
+        {
+          "letter": "D",
+          "text": "La dispersión de Rayleigh desvía mucho más la luz de corta longitud de onda, y al atardecer la luz atraviesa un trayecto de aire más largo que elimina los azules.",
+          "is_correct": true,
+          "feedback": "Correcto. Las moléculas del aire dispersan la luz azul unas siete veces más que la roja, de modo que el azul domina el cielo diurno."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La dispersión de Rayleigh es más intensa para ondas cortas: la luz azul se dispersa unas siete veces más que la roja. Durante el día predomina la luz azul dispersada en toda la atmósfera. Al atardecer la luz rasante atraviesa un trayecto mucho mayor, y los fotones azules ya dispersados se pierden, de modo que predominan los tonos rojos y anaranjados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v4",
+      "statement": "Cuál es la frecuencia de esa radiación luminosa?",
+      "context": "En un taller de óptica de Medellín se calibra un sensor óptico que opera con luz de $600\\ \\text{nm}$ de longitud de onda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.0 × 10¹⁴ Hz",
+          "is_correct": true,
+          "feedback": "Correcto. $f = \\frac{c}{\\lambda} = \\frac{3.0\\times 10^8}{600\\times 10^{-9}} = 5.0\\times 10^{14}\\ \\text{Hz}$, tras convertir 600 nm a metros."
+        },
+        {
+          "letter": "B",
+          "text": "3.0 × 10⁻⁷ Hz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reportó la longitud de onda en hercios sin aplicar la relación $c = \\lambda f$, por lo que las unidades no son de frecuencia."
+        },
+        {
+          "letter": "C",
+          "text": "1.8 × 10¹⁷ Hz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó la rapidez por la longitud de onda en lugar de dividirla, con lo que las unidades obtenidas no corresponden a hercios."
+        },
+        {
+          "letter": "D",
+          "text": "5.0 × 10²¹ Hz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trató los nanómetros como metros sin hacer la conversión, de modo que el resultado quedó mil millones de veces mayor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La relación $c = \\lambda f$ permite calcular la frecuencia a partir de la longitud de onda. Es indispensable convertir 600 nm a $600\\times 10^{-9}\\ \\text{m}$ antes de dividir, y con ello se obtiene una frecuencia del orden de $10^{14}\\ \\text{Hz}$, propia de la luz visible. Este tipo de conversión es la fuente más común de error en los ejercicios sobre ondas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v5",
+      "statement": "Qué energía transporta cada fotón de esa luz, si la constante de Planck es $6.63\\times 10^{-34}\\ \\text{J}\\cdot\\text{s}$?",
+      "context": "En un hospital de Bogotá se utiliza una luz monocromática de $500\\ \\text{nm}$ en un procedimiento de laboratorio, y se estima la energía de cada fotón emitido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.98 × 10⁻²⁵ J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituyó la longitud de onda por la frecuencia en el numerador, de modo que el resultado quedó mil veces menor."
+        },
+        {
+          "letter": "B",
+          "text": "3.98 × 10⁻¹⁹ J",
+          "is_correct": true,
+          "feedback": "Correcto. $E = hf = \\frac{hc}{\\lambda} = \\frac{6.63\\times 10^{-34}\\times 3.0\\times 10^8}{500\\times 10^{-9}} = 3.98\\times 10^{-19}\\ \\text{J}$."
+        },
+        {
+          "letter": "C",
+          "text": "3.98 × 10⁻²² J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantuvo la longitud de onda en nanómetros sin convertirla, y por eso el resultado quedó mil veces mayor que el correcto."
+        },
+        {
+          "letter": "D",
+          "text": "1.33 × 10⁻¹⁵ J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió solo por la longitud de onda sin multiplicar por la rapidez de la luz, de modo que el valor corresponde a otra magnitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía de un fotón viene dada por $E = hf = hc/\\lambda$, donde $h$ es la constante de Planck y $c$ la rapidez de la luz. Como la energía es inversamente proporcional a la longitud de onda, la luz violeta transporta más energía por fotón que la luz roja. Este resultado es la base de la explicación del efecto fotoeléctrico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v6",
+      "statement": "Cuál es el índice de refracción del vidrio respecto al aire y qué le ocurre al rayo al entrar?",
+      "context": "En un taller de óptica de Cali, un haz de luz que viaja en el aire a $3.0\\times 10^8\\ \\text{m/s}$ entra a un bloque de vidrio donde su rapidez baja a $2.0\\times 10^8\\ \\text{m/s}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El índice es 0.67 y el rayo se desvía hacia la normal al entrar al vidrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió el cociente, pues el índice de refracción se obtiene dividiendo la rapidez de la luz en el vacío entre la rapidez en el medio, nunca al revés."
+        },
+        {
+          "letter": "B",
+          "text": "El índice es 1.5 y el rayo se desvía alejándose de la normal al entrar al vidrio.",
+          "is_correct": false,
+          "feedback": "Correcto el índice, pero la desviación es al contrario: al pasar a un medio donde la luz viaja más despacio, el rayo se acerca a la normal."
+        },
+        {
+          "letter": "C",
+          "text": "El índice es 1.5 y el rayo se desvía hacia la normal al entrar al vidrio.",
+          "is_correct": true,
+          "feedback": "Correcto. $n = \\frac{c}{v} = \\frac{3.0\\times 10^8}{2.0\\times 10^8} = 1.5$; al entrar a un medio más denso el rayo se acerca a la normal."
+        },
+        {
+          "letter": "D",
+          "text": "El índice es 2.0 y el rayo sigue la misma dirección porque el medio no cambia de densidad óptica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomó como índice la rapidez expresada en la segunda cifra del enunciado, y un cambio de rapidez implica un cambio de dirección en la refracción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El índice de refracción se define como $n = c/v$, es decir, el cociente entre la rapidez de la luz en el vacío y su rapidez en el medio. Como en el vidrio la luz se desplaza más lentamente, el índice es mayor que uno y el rayo refractado se aproxima a la normal. Al salir del vidrio hacia el aire se invierte el fenómeno y el rayo se aleja de la normal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v7",
+      "statement": "Por qué en la salida del prisma aparecen separados los colores de la luz blanca?",
+      "context": "En un proyecto deegree de grado 10 de un colegio de Tunja, un grupo estudia un prisma de vidrio colocado frente a un haz de luz blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque cada color tiene distinta rapidez en el vacío y por eso llega al prisma en momentos diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las radiaciones electromagnéticas tienen la misma rapidez en el vacío. La separación se produce por la distinta refracción en el medio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el prisma absorbe los colores intermedios y deja pasar solo los extremos del espectro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prisma de vidrio es prácticamente transparente a la luz visible, no selectivo. La separación se debe a la refracción, no a la absorción."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el vidrio del prisma es de color variable y cada componente del dispositivo tiene un tono distinto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un prisma usado para dispersar luz es de vidrio incoloro. La separación de colores es un efecto óptico de la refracción diferencial."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el índice de refracción depende de la longitud de onda y cada color se refracta con un ángulo distinto, siendo más desviada la luz violeta.",
+          "is_correct": true,
+          "feedback": "Correcto. La dispersión cromática hace que el índice sea mayor para ondas cortas, de modo que el violeta se desvía más que el rojo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La dispersión cromática se origina porque el índice de refracción de un medio transparente aumenta cuando disminuye la longitud de onda. Por eso, al atravesar un prisma, la luz violeta se desvía más que la azul, esta más que la verde y la roja es la menos desviada. El arcoíris que aparece tras la lluvia es un ejemplo cotidiano del mismo fenómeno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v8",
+      "statement": "Cuál es la separación entre las franjas luminosas centrales en esa pantalla?",
+      "context": "En un montaje de física de una universidad en Pereira, se hace pasar luz coherente de $600\\ \\text{nm}$ a través de dos rendijas separadas $0.5\\ \\text{mm}$ situadas a $1.0\\ \\text{m}$ de una pantalla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.2 mm",
+          "is_correct": true,
+          "feedback": "Correcto. La separación de las franjas es $\\Delta y = \\frac{\\lambda L}{d} = \\frac{600\\times 10^{-9}\\ \\text{m}\\times 1.0\\ \\text{m}}{0.5\\times 10^{-3}\\ \\text{m}} = 1.2\\times 10^{-3}\\ \\text{m}$."
+        },
+        {
+          "letter": "B",
+          "text": "0.3 mm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó la relación $d/\\lambda$ en lugar de $\\lambda L / d$, con lo que la separación calculada quedó cuatro veces menor."
+        },
+        {
+          "letter": "C",
+          "text": "1.2 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundió la distancia a la pantalla con la separación entre rendijas, y obtuvo un valor mil veces mayor que el real."
+        },
+        {
+          "letter": "D",
+          "text": "2.4 mm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó la distancia entre la primera franja oscura y la segunda luminosa, que es el doble de la separación central, en lugar del interfranjado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La interferencia se produce por la superposición de las ondas que llegan por ambas rendijas. La distancia entre franjas depende de la longitud de onda y de la distancia a la pantalla, e inversamente de la separación entre rendijas. Al aumentar la frecuencia del color, aumenta la separación entre las franjas, como se observa en los montajes de interferencia con luces de distintos colores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v9",
+      "statement": "Cómo explican los lentes polarizados esa reducción del reflejo?",
+      "context": "En un viaje por carretera entre Pasto y Cali, un conductor usa anteojos con lentes polarizados y nota que el reflejo del sol en el_CAPITAL de un camión se reduce notablemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentan el índice de refracción del cristal del lente, de modo que la luz se dispersa y no llega a los ojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto de un lente polarizado no es un aumento del índice de refracción, sino la selección de una orientación de vibración."
+        },
+        {
+          "letter": "B",
+          "text": "Bloquean la componente de la luz reflejada que vibra en el plano de la superficie, que es la componente polarizada.",
+          "is_correct": true,
+          "feedback": "Correcto. La luz reflejada en superficies dielectricas queda parcialmente polarizada, y el filtro del lente retiene esa orientación de vibración."
+        },
+        {
+          "letter": "C",
+          "text": "Cubren ellustro con una capa metálica que absorbe por completo cualquier luz que llegue al ojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lentes polarizados no contienen una capa metálica. Actúan por medio de filtros que dejan pasar una sola dirección de vibración."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentan la longitud de onda de la luz al atravesar el cristal, y por eso el reflejo se vuelve invisible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un lente no cambia la longitud de onda de la luz que lo atraviesa. Lo que hace es reducir una componente de la vibración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La luz que se refleja en una superficie dieléctrica, como el agua o el asfalto, queda parcialmente polarizada en el plano de esa superficie. Un lente polarizado contiene un filtro que deja pasar solo la componente de vibración paralela al eje del lente, y bloquea la componente perpendicular. Por eso desaparece el reflejo molesto y se mantiene la visibilidad del objeto observado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v10",
+      "statement": "Qué razonamiento es el más pertinente para decidir si ese Británico conviene en climas cálidos?",
+      "context": "En un centro de salud de Barranquilla, el equipo de mantenimiento decide si una película de protección solar para las ventanas reduce el calor interior de manera apreciable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No conviene en ningún caso, porque toda película oscurece el ambiente y reduce la entrada de luz natural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una película puede reducir la luz visible parcialmente y seguir siendo útil si filtra sobre todo el infrarrojo. El balance depende del producto usado."
+        },
+        {
+          "letter": "B",
+          "text": "Conviene únicamente si se aplica en ventanas sin vidrio, porque el vidrio por sí solo absorbe la radiación infrarroja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vidrio común bloquea algo de radiación ultravioleta, pero deja pasar buena parte del infrarrojo, que es la fuente principal del calor."
+        },
+        {
+          "letter": "C",
+          "text": "Conviene si la película bloquea la radiación infrarroja y la ultravioleta, porque esas longitudes de onda aportan buena parte de la energía que calienta el interior.",
+          "is_correct": true,
+          "feedback": "Correcto. La radiación infrarroja es la principal responsable del calentamiento por radiación, y filtrarla reduce la ganancia de calor solar."
+        },
+        {
+          "letter": "D",
+          "text": "No conviene, porque el calor que entra por radiación es despreciable frente al calor que entra por convección desde el exterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un edificio con ventanales grandes y sin aislamientos adecuados, la ganancia por radiación es una fracción importante de la carga térmica total."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La radiación infrarroja del Sol es la porción del espectro que más aporta energía calorífica a un espacio cerrado, seguida de la radiación ultravioleta que daña los materiales y la piel. Una película que filtra esas regiones reduce la ganancia de calor por radiación sin necesidad de modificar los vidrios. La decisión debe apoyarse en el espectro transmitido, y no en la sola apariencia más oscura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v11",
+      "statement": "Qué hipótesis sobre la relación entre energía del fotón y longitud de onda sostiene mejor la tabla?",
+      "context": "En el proyecto de física de un colegio de Girardota, un grupo construyó una tabla con cuatro radiaciones: A, con 250 nm; B, con 500 nm; C, con 1000 nm; D, con 4000 nm. En cada fila anotaron la longitud de onda, la región del espectro y la energía de un fotón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía del fotón es directamente proporcional a la longitud de onda, porque las ondas largas transportan más energía por ciclo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporcionalidad es inversa, como muestra la relación $E = hc/\\lambda$. Las ondas largas tienen menor frecuencia y menor energía por fotón."
+        },
+        {
+          "letter": "B",
+          "text": "La energía del fotón no depende de la longitud de onda, porque todos los fotones de la luz visible tienen la misma energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo los fotones de una misma longitud de onda tienen la misma energía. Distintas longitudes de onda implican distintas energías."
+        },
+        {
+          "letter": "C",
+          "text": "La energía del fotón depende de la amplitud de la onda y no de su longitud de onda, por eso todas las filas coinciden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía de un fotón individual depende de su frecuencia y longitud de onda, no de la amplitud, que en el modelo fotónico determina el número de fotones."
+        },
+        {
+          "letter": "D",
+          "text": "La energía del fotón es inversamente proporcional a la longitud de onda, de modo que la radiación A tiene mayor energía que la D.",
+          "is_correct": true,
+          "feedback": "Correcto. Como $E = hc/\\lambda$, al multiplicar la longitud de onda por 16 de A a D la energía se divide por 16."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La energía de un fotón es $E = hc/\\lambda$, de modo que al aumentar la longitud de onda la energía disminuye en la misma proporción. En la tabla, la radiación de 250 nm tiene dieciséis veces más energía por fotón que la de 4000 nm. Detectar la relación inversa en un conjunto de datos es una forma de validar una ley física.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle-v12",
+      "statement": "Cuál es la evaluación más adecuada de esa explicación?",
+      "context": "En una clase de física de un colegio de Maicao, un estudiante afirma que la luz se frena dentro de un bloque de vidrio porque sus fotones chocan continuamente contra los átomos y pierden energía en cada colisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La explicación es incorrecta, porque los fotones no pierden energía al atravesar el vidrio; la menor rapidez se debe a la respuesta colectiva de los electrones ligados de los átomos.",
+          "is_correct": true,
+          "feedback": "Correcto. La luz conserva su frecuencia al refraccionarse y la rapidez disminuye por la polarización inducida en el medio, no por absorciones puntuales."
+        },
+        {
+          "letter": "B",
+          "text": "La explicación es correcta, porque cada choque con un átomo reduce la energía del fotón y por eso aumenta su longitud de onda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al refraccionarse la luz conserva su frecuencia dentro del medio. Si la energía bajara de verdad, la frecuencia no podría permanecer constante."
+        },
+        {
+          "letter": "C",
+          "text": "La explicación es correcta, porque el vidrio es un material denso y la densidad de átomos frena por sí sola a la luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La densidad de átomos es un factor, pero la causa física es la oscilación de los electrones ligados, que genera la polarización responsable de la refracción."
+        },
+        {
+          "letter": "D",
+          "text": "La explicación es parcialmente correcta, porque la luz se frena y además se dispersa, de modo que ambos efectos son la misma cosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La refracción y la dispersión son fenómenos distintos: la primera cambia la dirección por un cambio de rapidez, y la segunda separa los colores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Al entrar en un medio transparente, la luz conserva su frecuencia y reduce su rapidez porque los electrones ligados a los átomos se polarizan y generan un campo que se opone parcialmente al campo incidente. No hay pérdidas de energía por colisiones aisladas, y por eso la luz sale del medio con la misma frecuencia con la que entró. La dispersión es un efecto adicional, distinto de la refracción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
