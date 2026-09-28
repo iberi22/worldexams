@@ -126,7 +126,7 @@ Un átomo de carbono 14 tiene 6 protones y 8 neutrones. ¿Qué relación tiene c
   <!-- feedback: Incorrecto. Un ion se forma por pérdida o ganancia de electrones, nunca por ganancia de protones, y ambos átomos son neutros. -->
 
 ### Explicacion Pedagogica
-Los isótopos son átomos del mismo elemento que tienen igual número de protones pero distinto número de neutrones. El número atómico Z, que en estos dos casos vale 6, define el elemento, y por eso ambos son carbono. Lo que cambia es el número másico A, que resulta de sumar protones y neutrones: A igual a 14 para el carbono 14 y A igual a 12 para el carbono 12. Esta diferencia en neutrones altera la masa y la estabilidad del núcleo, pero no modifica la configuración electrónica ni la forma en que el carbono forma enlaces. El carbono 14 es radiactivo, con una vida media de unos 5730 años, y su decaimiento permite fechar restos orgánicos como la Searches fósil de madera; el carbono 12 es estable y es el isótopo más abundante en la naturaleza.
+Los isótopos son átomos del mismo elemento que tienen igual número de protones pero distinto número de neutrones. El número atómico Z, que en estos dos casos vale 6, define el elemento, y por eso ambos son carbono. Lo que cambia es el número másico A, que resulta de sumar protones y neutrones: A igual a 14 para el carbono 14 y A igual a 12 para el carbono 12. Esta diferencia en neutrones altera la masa y la estabilidad del núcleo, pero no modifica la configuración electrónica ni la forma en que el carbono forma enlaces. El carbono 14 es radiactivo, con una vida media de unos 5730 años, y su decaimiento permite fechar restos orgánicos como el carbón fósil de la madera; el carbono 12 es estable y es el isótopo más abundante en la naturaleza.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-10-2026-W17-estructura-atomica-001-MASTERY-bundle-v6
@@ -259,7 +259,7 @@ Para contar electrones desapareados hay que combinar la distribución de orbital
 **Bloom:** Evaluate
 **ICFES:** Indagación
 **Expected_Success:** 0.55
-**Contexto:** Un profesor de Tunja pide a sus estudiantes evaluar un informe de laboratorio en el que un equipo Cometía errores de nomenclatura y de interpretación.
+**Contexto:** Un profesor de Tunja pide a sus estudiantes evaluar un informe de laboratorio en el que un equipo de estudiantes cometía errores de nomenclatura y de interpretación.
 ### Enunciado
 Un equipo de laboratorio afirma: "Todos los isótopos tienen el mismo número de protones, por eso son la misma sustancia y por eso forman los mismos enlaces". ¿Cuál evaluación es la más completa y correcta?
 ### Opciones

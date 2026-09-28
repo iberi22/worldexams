@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-20-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T17:44:51.773Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v1",
+      "statement": "¿A qué familia de hidrocarburos pertenece un compuesto con fórmula general CnH2n y un enlace doble entre dos átomos de carbono?",
+      "context": "Un docente de química de Pereira compara la fórmula del eteno con la del propano en un ejercicio de la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los alquenos, que son hidrocarburos insaturados con un enlace doble carbono-carbono.",
+          "is_correct": true,
+          "feedback": "Correcto. Los alquenos tienen fórmula general CnH2n, y su insaturación se debe al enlace doble entre los carbonos."
+        },
+        {
+          "letter": "B",
+          "text": "A los alquinos, porque los enlaces triples también se representan con la fórmula general CnH2n.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alquinos tienen fórmula general CnH2n-2, mientras que CnH2n corresponde a los alquenos."
+        },
+        {
+          "letter": "C",
+          "text": "A los hidrocarburos aromáticos, porque toda molécula con seis carbonos forma un anillo de benceno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aromaticidad exige un anillo con electrones deslocalizados, y no se deduce de la fórmula general."
+        },
+        {
+          "letter": "D",
+          "text": "A los alcanos, porque los enlaces simples entre carbonos producen esa misma fórmula general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alcanos son saturados y su fórmula general es CnH2n+2, no CnH2n."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los hidrocarburos se clasifican según el tipo de enlace que presentan entre los átomos de carbono. Los alcanos, con fórmula general CnH2n+2, solo tienen enlaces simples y son moléculas saturadas. Los alquenos, con fórmula general CnH2n, poseen un enlace doble carbono-carbono, y los alquinos, con fórmula general CnH2n-2, poseen un enlace triple. La diferencia en el número de hidrógenos de las tres series se explica por la valencia del carbono: cada enlace simple consume un hidrógeno por carbono, y cada enlace doble o triple reduce en dos el número de hidrógenos necesarios para completar la valencia. Los alquenos son más reactivos que los alcanos porque el enlace doble es más débil y sus electrones pueden participar en reacciones de adición.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula molecular del etino o acetileno, hidrocarburo con un triple enlace entre dos átomos de carbono?",
+      "context": "Un taller de Bogotá revisa el equipo de soldadura que se alimenta con acetileno almacenado en cilindros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C2H4, porque cada carbono completa su valencia con un enlace doble entre los dos átomos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula C2H4 corresponde al eteno, un alqueno con enlace doble, y no a un compuesto con enlace triple."
+        },
+        {
+          "letter": "B",
+          "text": "C2H6, porque cada carbono se une a tres hidrógenos y ambos forman enlaces simples entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula C2H6 corresponde al etano, un alcano saturado con enlaces simples entre los carbonos."
+        },
+        {
+          "letter": "C",
+          "text": "C2H2, porque cada carbono se une a un hidrógeno y ambos carbonos quedan unidos por un enlace triple.",
+          "is_correct": true,
+          "feedback": "Correcto. El etino tiene un enlace triple entre los carbonos y un enlace simple con un hidrógeno en cada carbono."
+        },
+        {
+          "letter": "D",
+          "text": "C6H6, porque los alquinos siempre forman anillos de seis átomos de carbono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula C6H6 corresponde al benceno, un compuesto aromático, y no al etino."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El etino, también llamado acetileno, es el hidrocarburo más sencillo de la serie de los alquinos. Su estructura es H-C con enlace triple y C-H, de modo que cada carbono forma un enlace simple con un hidrógeno y un enlace triple con el otro carbono. Como la valencia del carbono es cuatro, el enlace triple, que aporta tres pares compartidos, más el enlace simple con el hidrógeno, completa la valencia de cada carbono. La fórmula molecular resultante es C2H2, que corresponde a la fórmula general CnH2n-2 con n igual a 2. El etino es un gas a temperatura ambiente y su combustión produce una llama muy caliente, razón por la cual se usa en la soldadura y el corte de metales.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué caracteriza a los compuestos aromáticos, como el benceno, y qué explica su estabilidad particular?",
+      "context": "Un estudiante de Cartagena investiga por qué el benceno es un líquido y no un gas a temperatura ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son hidrocarburos con un enlace doble y un enlace triple alternados en una cadena abierta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe la estructura de un alquino, y las cadenas abiertas no presentan aromaticidad."
+        },
+        {
+          "letter": "B",
+          "text": "Son hidrocarburos saturados con enlaces simples entre carbonos, por lo que son muy estables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los compuestos aromáticos son insaturados, aunque en su anillo los enlaces se comporten como equivalentes."
+        },
+        {
+          "letter": "C",
+          "text": "Son hidrocarburos con un anillo de seis carbonos y electrones deslocalizados que hace equivalentes a todos los enlaces del anillo.",
+          "is_correct": true,
+          "feedback": "Correcto. La deslocalización de los seis electrones del anillo explica la estabilidad del benceno y la igualdad de sus enlaces."
+        },
+        {
+          "letter": "D",
+          "text": "Son hidrocarburos lineales con la fórmula general CnH2n, igual que los alquenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aromáticos no son lineales: su estructura característica es un anillo, y el benceno tiene fórmula C6H6."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los compuestos aromáticos son hidrocarburos que contienen uno o más anillos de seis átomos de carbono con un sistema de electrones deslocalizados. El caso más sencillo es el benceno, C6H6, con un anillo de seis carbonos en el que los electrones no están localizados en enlaces fijos, sino que se distribuyen por todo el anillo. Esa deslocalización explica dos observaciones: el benceno es inusualmente estable y los seis enlaces del anillo son equivalentes, con longitudes y energías intermedias entre un enlace simple y un enlace doble. Esta estabilidad tiene una consecuencia química importante: el benceno prefiere reacciones de sustitución, en las que un hidrógeno es reemplazado, en lugar de reacciones de adición, que serían más típicas de los alquenos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v4",
+      "statement": "En la combustión de un hidrocarburo, ¿qué diferencia hay entre la combustión completa y la combustión incompleta y qué productos se forman en cada caso?",
+      "context": "Un técnico de una caldera en una planta textil de Barranquilla nota que la llama produce mucho hollín cuando la ventilación es deficiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La completa produce CO2 y H2O con mucho calor, mientras que la incompleta libera poca energía porque produce CO y hollín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte las definiciones: el CO2 y el agua corresponden a la combustión completa, y la incompleta forma CO y hollín."
+        },
+        {
+          "letter": "B",
+          "text": "La completa forma CO2 y H2O liberando mucha energía, mientras que la incompleta forma CO, hollín y libera menos energía.",
+          "is_correct": true,
+          "feedback": "Correcto. La combustión incompleta ocurre por falta de oxígeno y libera menos energía que la combustión completa."
+        },
+        {
+          "letter": "C",
+          "text": "La completa y la incompleta forman los mismos gases, pero la incompleta ocurre a mayor temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los productos difieren claramente, y la combustión incompleta ocurre por déficit de oxígeno y no por exceso de temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "La completa ocurre solo en los hidrocarburos y la incompleta solo en los alcoholes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier combustible orgánico puede dar combustión completa o incompleta según la cantidad de oxígeno disponible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La combustión es una reacción de oxidación en la que un hidrocarburo reacciona con el oxígeno del aire y libera energía en forma de calor. Cuando hay suficiente oxígeno, la combustión es completa, los productos son dióxido de carbono y agua, y se libera la máxima cantidad de energía, que es la que se aprovecha en motores y calderas. Cuando el oxígeno es insuficiente, la combustión es incompleta y los productos incluyen monóxido de carbono, que es muy tóxico, y partículas de carbón o hollín, además de agua. Como la combustión incompleta libera menos energía, el combustible se consume con menor rendimiento y se deposita hollín en calderas y en ductos de escape, lo que obliga a un mantenimiento frecuente de los equipos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la ecuación química balanceada que representa la combustión completa del etano, C2H6?",
+      "context": "Un docente de Quindío escribe en el tablero la ecuación de combustión del etano para que sus estudiantes la balanceen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C2H6 + O2 → CO2 + H2O, porque basta igualar los átomos de carbono y de hidrógeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ecuación no está balanceada, porque los oxígenos no coinciden: hay dos a la izquierda y tres a la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "2C2H6 + 7O2 → 4CO2 + 3H2O, porque los seis hidrógenos se reparten en tres moléculas de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua necesita doce átomos de hidrógeno, de modo que un coeficiente de 3 deja el hidrógeno desbalanceado."
+        },
+        {
+          "letter": "C",
+          "text": "2C2H6 + 3O2 → 2CO2 + 6H2O, porque se usan tres moléculas de oxígeno por cada dos de etano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan oxígenos a la derecha, porque los productos requieren diez átomos de oxígeno y solo hay seis."
+        },
+        {
+          "letter": "D",
+          "text": "2C2H6 + 7O2 → 4CO2 + 6H2O, porque se igualan los átomos de carbono, de hidrógeno y de oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay 4 carbonos, 12 hidrógenos y 14 oxígenos en ambos lados, de modo que se respeta la conservación de la masa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para balancear la combustión completa del etano se sigue un procedimiento sistemático. Primero se balancea el carbono: hay dos carbonos en cada molécula de etano, por lo que el coeficiente del dióxido de carbono debe ser cuatro si hay dos moléculas de etano. Luego se balancea el hidrógeno: doce átomos de hidrógeno aparecen a la izquierda, de modo que se necesitan seis moléculas de agua. Por último se balancea el oxígeno: a la derecha hay ocho átomos en el dióxido de carbono más seis en el agua, es decir catorce, y por eso el oxígeno lleva coeficiente siete. La ecuación final es 2C2H6 más 7O2 produce 4CO2 más 6H2O, y en ambos lados hay 4 carbonos, 12 hidrógenos y 14 oxígenos, como exige la ley de conservación de la masa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v6",
+      "statement": "Por el procesamiento del petróleo se obtienen varios derivados. ¿Cuál de los siguientes productos proviene del petróleo y se usa como combustible en motores de combustión interna de gasolina?",
+      "context": "Un estudiante de Yopal compara los productos que se obtienen en la refinería de Barrancabermeja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gasolina, que se obtiene de la destilación del petróleo y se caracteriza por su octanaje.",
+          "is_correct": true,
+          "feedback": "Correcto. La gasolina es un derivado del petróleo y su calidad para motores de chispa se mide con el octanaje."
+        },
+        {
+          "letter": "B",
+          "text": "El etanol, que se obtiene de la fermentación de la caña de azúcar y no del petróleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol puede ser un biocombustible de origen vegetal, pero no es un producto del procesamiento del petróleo."
+        },
+        {
+          "letter": "C",
+          "text": "La urea, que se obtiene de la unión de amoníaco con dióxido de carbono y se usa como fertilizante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La urea es un fertilizante nitrogenado de origen industrial y no un combustible ni un derivado del petróleo."
+        },
+        {
+          "letter": "D",
+          "text": "La glucosa, que se forma en las plantas por fotosíntesis y se utiliza como alimento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa es un azúcar de origen biológico, y no un derivado de la refinación del petróleo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El petróleo es una mezcla compleja de hidrocarburos que se separa en una refinería mediante procesos como la destilación fraccionada, el craqueo y la isomerización. Entre sus derivados están el gas licuado de petróleo, la gasolina, el combustóleo, el diésel, las bases lubricantes, los asfaltos y los insumos para elaborar polímeros como el polietileno. La refinería de Barrancabermeja es el principal complejo de refinación del país. La gasolina se obtiene de la fracción de hidrocarburos cuyo punto de ebullición está entre 30 y 200 grados Celsius, y su calidad se define por el octanaje, que indica la resistencia a la detonación en los motores de chispa. El diésel se emplea en motores de compresión y se caracteriza por su índice de cetano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v7",
+      "statement": "Un motor de gasolina emite un sonido metálico y pierde potencia. ¿Qué mide el octanaje y por qué un combustible de mayor octanaje corrige ese problema?",
+      "context": "Un mecánico de una estación de servicio en Medellín escucha un golpe metálico en un motor y recomienda un combustible de mayor octanaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El octanaje mide la cantidad de energía que libera la combustión, por eso un valor alto da más potencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El octanaje no mide energía liberada, sino resistencia a la detonación, que es una combustión brusca y prematura."
+        },
+        {
+          "letter": "B",
+          "text": "El octanaje mide la resistencia a la detonación, y un valor mayor evita la combustión espontánea y prematura de la mezcla.",
+          "is_correct": true,
+          "feedback": "Correcto. Un octanaje mayor significa mayor resistencia a la autoignición, de modo que la combustión ocurre de forma controlada."
+        },
+        {
+          "letter": "C",
+          "text": "El octanaje indica la cantidad de azufre del combustible, y un valor alto reduce la contaminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El octanaje mide la resistencia a la detonación; el contenido de azufre es otro parámetro, definido por otras normas."
+        },
+        {
+          "letter": "D",
+          "text": "El octanaje mide el punto de congelación del combustible, y un valor alto evita que se congele en el motor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de congelación es una propiedad física distinta, y no se expresa en unidades de octanaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El octanaje es una medida de la resistencia de un combustible a la detonación, es decir, a que la mezcla se encienda de forma brusca antes de que la chispa llegue. La escala toma como referencia máxima al isooctano, un hidrocarburo de la serie C8H18 al que se le asigna el valor 100, y como referencia mínima al heptano, al que se le asigna 0. Un combustible con octanaje alto se puede comprimir más dentro del motor sin encenderse de manera prematura, de modo que la combustión es más suave, el motor trabaja mejor y disminuye el desgaste. Por eso el octanaje no es una medida de energía: dos gasolinas de igual octanaje pueden liberar cantidades de energía distintas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué es el índice de cetano y por qué se aplica al diésel y no a la gasolina?",
+      "context": "Un transportador de carga de la ruta Bogotá-Medellín pide recomendaciones sobre el combustible adecuado para un motor diésel antiguo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la energía liberada por litro de combustible, y se aplica al diésel porque los motores diésel son más eficientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía liberada por litro es el poder calorífico, que es un parámetro distinto al índice de cetano."
+        },
+        {
+          "letter": "B",
+          "text": "Es la cantidad de azufre del combustible, y se aplica al diésel porque los motores de compresión lo requieren.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El índice de cetano no tiene relación con el azufre, que se mide por separado y tiene límites regulados."
+        },
+        {
+          "letter": "C",
+          "text": "Es una medida de la calidad de combustión en motores de compresión, basada en el tiempo de encendido con el cetano como referencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El índice de cetano indica la rapidez con que el diésel se enciende tras la inyección, con el hexadecano como patrón 100."
+        },
+        {
+          "letter": "D",
+          "text": "Es la resistencia a la detonación, igual que el octanaje, y por eso se aplica a cualquier combustible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia a la detonación es el octanaje, propio de la gasolina; el cetano mide otra propiedad distinta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El índice de cetano mide la calidad de la combustión de un diésel en un motor de compresión, es decir, la rapidez con que el combustible se enciende después de ser inyectado. La escala toma como referencia el hexadecano, un alcano de la serie C16H34, al que se le asigna el valor 100, y un valor menor indica un encendido más lento. Un índice de cetano alto significa que el diésel se enciende con rapidez, lo que reduce el ruido del motor, la formación de humos y la deposición de depósitos en la cámara de combustión. El cetano y el octanaje miden, por tanto, propiedades opuestas: la gasolina se valora por su resistencia a encenderse demasiado pronto y el diésel por su rapidez para encenderse en el momento justo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v9",
+      "statement": "¿A qué se debe que el eteno decolore el agua de bromo de inmediato, mientras que el benceno no lo hace en condiciones normales?",
+      "context": "Un laboratorio escolar de Neiva compara la reactividad del eteno con la del benceno frente al agua de bromo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A que el eteno tiene un enlace doble reactivo que se abre por adición, mientras que en el benceno los electrones están deslocalizados y el anillo es estable.",
+          "is_correct": true,
+          "feedback": "Correcto. La adición abre el enlace doble del eteno, mientras que la estabilidad aromática del benceno impide la reacción directa."
+        },
+        {
+          "letter": "B",
+          "text": "A que el eteno es un gas y el benceno es un líquido, y por eso reaccionan de manera distinta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado físico influye en el contacto entre reactivos, pero no es la causa química de la diferencia de reactividad."
+        },
+        {
+          "letter": "C",
+          "text": "A que el benceno tiene seis enlaces simples y el eteno tiene un enlace doble y dos enlaces simples.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El benceno no tiene seis enlaces simples entre pares fijos, porque sus enlaces son equivalentes gracias a la deslocalización."
+        },
+        {
+          "letter": "D",
+          "text": "A que el eteno contiene cuatro átomos de hidrógeno y el benceno contiene uno solo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El benceno tiene seis hidrógenos y el eteno cuatro, de modo que esa cuenta no explica la diferencia de reactividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reactividad del eteno y del benceno se explica por la naturaleza de sus enlaces. El eteno posee un enlace doble carbono-carbono cuyos electrones están localizados entre dos átomos y pueden romperse con facilidad para formar dos enlaces simples nuevos, lo que se llama reacción de adición; por eso el eteno decolora rápidamente el agua de bromo. En el benceno, en cambio, los seis electrones del anillo están deslocalizados y la estructura es especialmente estable, de manera que una reacción de adición destruiría esa estabilidad. Por eso el benceno solo reacciona por sustitución y con la ayuda de un catalizador, y no decolora el agua de bromo en condiciones normales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante afirma: \"Siempre conviene comprar la gasolina de mayor octanaje, porque es mejor en todos los aspectos\". ¿Cuál es la evaluación más completa y correcta de esa afirmación?",
+      "context": "En una estación de servicio de Cali, un cliente pide siempre la gasolina de mayor octanaje disponible en la bomba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque un octanaje mayor siempre aumenta la potencia y el rendimiento del motor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un octanaje alto no garantiza más potencia, porque el octanaje mide resistencia a la detonación y no energía liberada."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque los vehículos modernos requieren siempre combustibles de octanaje superior a 95.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoría de los vehículos están diseñados para un octanaje específico, y usar uno mayor no aporta beneficio."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es parcialmente correcta, porque un octanaje alto siempre reduce el consumo de combustible y las emisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El octanaje no determina el consumo ni las emisiones, que dependen del diseño del motor y de la combustión completa."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es imprecisa, porque el octanaje útil depende de la compresión del motor y uno mayor solo se justifica si el diseño lo requiere.",
+          "is_correct": true,
+          "feedback": "Correcto. El octanaje evita la detonación en motores de alta compresión, y en los demás solo representa un costo adicional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La afirmación confunde una propiedad técnica con una ventaja universal. El octanaje mide la resistencia a la detonación, un fenómeno asociado a motores con alta relación de compresión, donde la mezcla se comprime tanto que puede encenderse de forma brusca. En un motor diseñado para trabajar con un octanaje determinado, usar una gasolina de octanaje mayor no aumenta la potencia ni mejora el consumo, porque un combustible más resistente a la detonación no libera más energía. La única razón válida para pagar por un octanaje mayor es que el fabricante del motor lo recomiende o que el vehículo presente golpes por detonación. En términos económicos, para un conductor promedio esa decisión significa un gasto adicional sin beneficio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v11",
+      "statement": "Un túnel registra niveles elevados de monóxido de carbono. ¿Qué evaluación de ese fenómeno es la más completa y correcta?",
+      "context": "Un túnel vehicular cerca de Villavicencio registra durante las horas pico altas concentraciones de monóxido de carbono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La concentración es baja porque el dióxido de carbono es igual de peligroso, de modo que se puede respirar sin riesgo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monóxido de carbono es muy tóxico, porque bloquea el transporte de oxígeno por la hemoglobina de la sangre."
+        },
+        {
+          "letter": "B",
+          "text": "La concentración es normal, porque en un túnel la combustión de los motores es más completa que al aire libre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un túnel hay poca ventilación, de modo que el oxígeno escasea y la combustión de los motores se vuelve incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración es alta porque el tráfico se detiene y no hay movimiento de vehículos que quemen combustible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La explicación es contradictoria, porque sin movimiento de vehículos no habría combustión de combustible que produjera el gas."
+        },
+        {
+          "letter": "D",
+          "text": "La concentración es alta por la combustión incompleta de los motores en un espacio con poca ventilación, y por eso se debe ventilar y monitorear.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de oxígeno y de renovación del aire favorece la combustión incompleta y la acumulación de un gas tóxico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando los motores de gasolina funcionan en condiciones ideales, el carbono se oxida por completo a dióxido de carbono. En un túnel, en cambio, el aire no se renueva con rapidez, se acumula dióxido de carbono y disminuye la concentración de oxígeno, de modo que la combustión se vuelve incompleta y se produce monóxido de carbono. Ese gas es inodoro e incoloro, se une a la hemoglobina con una afinidad mucho mayor que la del oxígeno y bloquea el transporte de oxígeno en la sangre, causando mareo, pérdida de conciencia y, en concentraciones altas, la muerte. Por eso los túneles de tráfico cuentan con ventilación forzada, detectores de monóxido de carbono y controles de velocidad que reducen el consumo de combustible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle-v12",
+      "statement": "Un productor afirma: \"La gasolina con etanol es mejor que la gasolina convencional, porque el etanol tiene más átomos de carbono y por eso libera más energía\". ¿Cuál evaluación es la más completa y correcta?",
+      "context": "Un productor de caña de azúcar en el Valle del Cauca evalúa mezclar etanol con gasolina para reducir el consumo de gasolina convencional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el etanol tiene tres átomos de carbono y la gasolina tiene menos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El etanol tiene dos átomos de carbono y la gasolina es una mezcla de hidrocarburos de cinco a doce carbonos."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es imprecisa, porque el etanol tiene solo dos átomos de carbono y libera menos energía por litro que la gasolina.",
+          "is_correct": true,
+          "feedback": "Correcto. El etanol es C2H6O, y su menor contenido de carbono explica que libere menos energía por litro que la gasolina."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque las mezclas con etanol no producen dióxido de carbono durante la combustión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustión del etanol sí produce dióxido de carbono, que es un gas de efecto invernadero."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es totalmente incorrecta, porque el etanol no puede mezclarse con la gasolina en ningún motor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mezclas de etanol con gasolina sí se usan de forma controlada en los motores de los vehículos del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La afirmación del productor es imprecisa porque confunde el contenido de carbono con la energía liberada. El etanol tiene fórmula C2H6O, es decir, solo dos átomos de carbono, frente a las moléculas de la gasolina, que son una mezcla de hidrocarburos de cadena corta con más carbonos. Como la energía liberada en la combustión depende principalmente de los átomos de carbono e hidrógeno oxidables, el etanol libera por litro menos energía que la gasolina convencional. Su ventaja es de otro tipo: puede producirse a partir de la caña de azúcar mediante fermentación, es decir, a partir de una biomasa renovable, lo que reduce la dependencia de combustibles fósiles. Por eso en Colombia se comercializa el gasohol, una mezcla controlada de etanol y gasolina.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-10-2026-W20-hidrocarburos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
