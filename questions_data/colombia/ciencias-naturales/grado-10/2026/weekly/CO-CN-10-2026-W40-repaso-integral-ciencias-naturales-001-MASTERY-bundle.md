@@ -33,10 +33,10 @@ creador: "Jules-Agent"
 ¿Qué principio físico explica el desvío de la aguja del galvanómetro durante esa demostración?
 
 ### Opciones
-- [ ] A) La ley de Pascal, que establece que la presión aplicada a un líquido se transmite por igual en todas las direcciones
-  <!-- feedback: Incorrecto. La ley de Pascal explica la transmisión de la presión en los fluidos y no tiene relación con campos magnéticos ni con corrientes eléctricas. -->
-- [x] B) La inducción electromagnética, según la cual un campo magnético que cambia con el tiempo genera una fuerza electromotriz en el conductor
+- [x] A) La inducción electromagnética, según la cual un campo magnético que cambia con el tiempo genera una fuerza electromotriz en el conductor
   <!-- feedback: Correcto. Faraday demostró que el cambio del flujo magnético a través de un circuito produce una fuerza electromotriz capaz de generar corriente. -->
+- [ ] B) La ley de Pascal, que establece que la presión aplicada a un líquido se transmite por igual en todas las direcciones
+  <!-- feedback: Incorrecto. La ley de Pascal explica la transmisión de la presión en los fluidos y no tiene relación con campos magnéticos ni con corrientes eléctricas. -->
 - [ ] C) La ley de Boyle, que afirma que a temperatura constante el volumen de un gas es inversamente proporcional a su presión
   <!-- feedback: Incorrecto. La ley de Boyle trata sobre el comportamiento de los gases y no interviene ningún campo magnético en su enunciado. -->
 - [ ] D) La tercera ley de Newton, según la cual toda fuerza ejercida tiene una reacción igual y opuesta
@@ -59,10 +59,10 @@ Según el modelo de Bohr, el sodio tiene número atómico once y su configuraci�
   <!-- feedback: Incorrecto. El sodio es un metal de baja electronegatividad: cede electrones en lugar de atraerlos y por eso forma enlaces iónicos, no covalentes fuertes. -->
 - [ ] B) Su capa más externa está completa con ocho electrones, por lo que no reacciona con ningún otro elemento
   <!-- feedback: Incorrecto. El sodio tiene un solo electrón en su capa externa y por eso es muy reactivo. El neón, y no el sodio, tiene el octeto completo. -->
-- [x] C) Su único electrón de valencia está poco retenido por el núcleo y se cede con facilidad a átomos que necesitan un electrón para completar su octeto
-  <!-- feedback: Correcto. El sodio pertenece al grupo uno y tiende a perder su único electrón de valencia para formar el ion Na más, que alcanza la estructura estable del neón. -->
-- [ ] D) Sus numerosos electrones internos impiden cualquier interacción con los electrones de otros átomos
+- [ ] C) Sus numerosos electrones internos impiden cualquier interacción con los electrones de otros átomos
   <!-- feedback: Incorrecto. Los electrones internos no bloquean la reactividad. En los enlaces participan los electrones de valencia, en este caso el único electrón externo. -->
+- [x] D) Su único electrón de valencia está poco retenido por el núcleo y se cede con facilidad a átomos que necesitan un electrón para completar su octeto
+  <!-- feedback: Correcto. El sodio pertenece al grupo uno y tiende a perder su único electrón de valencia para formar el ion Na más, que alcanza la estructura estable del neón. -->
 
 ### Explicacion Pedagogica
 El modelo de Bohr organiza los electrones en niveles de energía y señala que los átomos resultan más estables cuando su capa de valencia está completa. El sodio, con configuración dos, ocho, uno, está a un solo electrón de alcanzar la configuración del neón, por lo que tiende a perderlo y a formar el ion Na más. Esa pérdida explica que el sodio sea un metal muy reactivo, que reaccione con el agua liberando hidrógeno y que se combine con facilidad con elementos no metálicos como el cloro. El mismo razonamiento se aplica al cloro, con configuración tres, ocho, siete, que gana un electrón y forma el ion Cl menos, y así se obtiene el cloruro de sodio como ejemplo canónico de enlace iónico.
