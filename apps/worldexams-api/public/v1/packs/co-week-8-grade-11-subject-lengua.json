@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T00:36:02.523Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la denotación de una palabra o de una expresión?",
+      "context": "En el colegio de Bogotá, la profesora de Lengua escribe dos definiciones en el tablero antes de trabajar el tema con el grupo de once grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es su referencia literal, el significado que puede definirse y comprobarse de manera unívoca.",
+          "is_correct": true,
+          "feedback": "Correcto. La denotación es el plano neutro y verificable de la palabra."
+        },
+        {
+          "letter": "B",
+          "text": "Es el valor afectivo que una palabra adquiere según quién la usa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor afectivo es precisamente la connotación."
+        },
+        {
+          "letter": "C",
+          "text": "Es la unión de dos o más palabras para formar una sola, como ocurre con los compuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La connotación no es una lista, es una carga de significado."
+        },
+        {
+          "letter": "D",
+          "text": "Es el uso de una palabra en un registro formal frente a uno coloquial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro modifica la connotación, no la denotación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La denotación corresponde al significado que un diccionario puede registrar, y por eso es estable y comprobable. Cuando un hablante usa una palabra denotativamente, se entiende sin necesidad de conocer la intención, el contexto ni la actitud emocional de quien la usa. Reconocer el plano denotativo es el punto de partida de la lectura crítica, porque solo sobre esa base común se puede analizar lo que un texto agrega al decirlo de determinada manera.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la connotación de una palabra o de una expresión?",
+      "context": "En Medellín, la profesora de Lengua pide a sus estudiantes de once grado que comparen dos enunciados sobre una palabra conocida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la definición que aparece en un diccionario de la lengua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa definición corresponde al plano denotativo."
+        },
+        {
+          "letter": "B",
+          "text": "Es la carga afectiva, valorativa o irónica que la palabra suma a su significado denotativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La connotación es todo lo que la palabra sugiere por encima de lo que denota."
+        },
+        {
+          "letter": "C",
+          "text": "Es el número de sinónimos que tiene una palabra en un idioma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de sinónimos es un dato del diccionario, no una carga."
+        },
+        {
+          "letter": "D",
+          "text": "Es la traducción de la palabra a otro idioma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La traducción se ocupa del significado denotativo, no del valor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La connotación agrupa todo aquello que una palabra comunica además de su referencia literal: una emoción, un juicio valorativo o un tono irónico. A diferencia de la denotación, no es única ni estable, porque cambia según la intención del hablante y la situación en la que aparece. Esta variabilidad es lo que hace de la connotación un objeto de estudio abierto y no de simple definición.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué característica convierte a una palabra en una expresión valorativa?",
+      "context": "En el colegio de Pereira, la profesora de Lengua explica qué hace que una palabra sea valorativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que designa estados de ánimo que pueden identificarse con precisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa precisión pertenece al plano denotativo."
+        },
+        {
+          "letter": "B",
+          "text": "Que es una palabra antigua que conserva su significado original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La antigüedad de una palabra no la vuelve valorativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que el uso de esa palabra asuma una posición favorable o desfavorable sobre aquello que designa.",
+          "is_correct": true,
+          "feedback": "Correcto. La valoración implica tomar partido, no solo describir."
+        },
+        {
+          "letter": "D",
+          "text": "Que aparece en un texto escrito en un registro literario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro literario no convierte por sí solo una palabra en valorativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una expresión es valorativa cuando su uso implica una posición favorable o desfavorable frente a lo que designa. Esa evaluación no se elimina con definiciones precisas: una palabra valorativa sigue siendo valorativa aunque se defina con exactitud. Por eso el análisis crítico la distingue de los términos técnicos, que presuponen neutralidad y cuyo uso correcto depende de la precisión del término y no del juicio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué es el registro de lengua?",
+      "context": "En Cali, un grupo de once grado compara cómo habla un maestro y cómo habla un compañero en el mismo ambiente del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el significado literal que tiene una palabra en el diccionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es la denotación, no el registro."
+        },
+        {
+          "letter": "B",
+          "text": "Es el conjunto de reglas que gobiernan una lengua nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro es una elección del hablante, no una norma de la lengua."
+        },
+        {
+          "letter": "C",
+          "text": "Es la cantidad de palabras distintas que usa una persona al hablar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro tiene que ver con la situación, no con el volumen del léxico."
+        },
+        {
+          "letter": "D",
+          "text": "Es la manera de usar la lengua que corresponde a una situación concreta, con un nivel de formalidad y un vocabulario propios.",
+          "is_correct": true,
+          "feedback": "Correcto. El registro es la manera de usar la lengua que el hablante elige según el contexto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El registro es la modalidad de elección que el hablante hace al elegir cómo decir algo según la situación, el interlocutor y el propósito. Cambiar de registro no obliga a cambiar de denotación, sino a cargar las palabras con un valor distinto: un mismo término puede ser técnico en un informe y coloquial en una charla. Analizar el registro permite entender por qué dos personas dicen lo mismo con palabras que no significan lo mismo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v5",
+      "statement": "¿De qué tipo es el uso de la palabra \"hoguera\" en el enunciado \"la plaza ardía como una hoguera con cientos de estudiantes\"?",
+      "context": "En Barranquilla, los estudiantes de once grado reciben una lista de expresiones y deben clasificarlas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Connotativo, porque la palabra sugiere un entusiasmo intenso además de nombrar un fuego.",
+          "is_correct": true,
+          "feedback": "Correcto. La acepción figurada agrega una valoración que no está en el diccionario."
+        },
+        {
+          "letter": "B",
+          "text": "Denotativo, porque la palabra designa un objeto identificable con claridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra sí designa ese objeto, pero aquí se usa en sentido figurado."
+        },
+        {
+          "letter": "C",
+          "text": "Denotativo y connotativo a la vez, porque toda palabra tiene ambos niveles siempre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos planos existen, pero en este uso predomina el connotativo."
+        },
+        {
+          "letter": "D",
+          "text": "Neutro, porque el número de estudiantes no afecta el significado de la palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad invocada es justamente lo que carga la expresión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un término se usa en sentido figurado, la denotación sigue intacta pero queda desplazada a un segundo plano, y lo que se activa es su valor connotativo. En este caso, el fuego real es solo el punto de partida de una imagen que comunica intensidad. Clasificar correctamente el uso exige preguntar qué se está afirmando literalmente y qué se está sugiriendo, y reconocer que la sugerencia es la que organiza el sentido de la frase.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v6",
+      "statement": "En el enunciado \"ese río no es un río: es una herida abierta en el paisaje\", ¿qué se puede inferir sobre el uso del término \"río\"?",
+      "context": "En el colegio de Bogotá, la profesora de Lengua pide analizar un enunciado de un texto poético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El término se usa en sentido denotativo, porque el río existe de manera comprobable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura \"no es un río\" descarta expresamente el sentido literal."
+        },
+        {
+          "letter": "B",
+          "text": "El término se usa connotativamente, porque la comparación con una herida añade un valor de daño.",
+          "is_correct": true,
+          "feedback": "Correcto. La equipación con una herida comunica un valor que la denotación no contiene."
+        },
+        {
+          "letter": "C",
+          "text": "El término se usa connotativamente, pero solo porque el texto pertenece al género poético.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección de un género no determina el uso de una palabra."
+        },
+        {
+          "letter": "D",
+          "text": "El término se usa denotativamente, porque el paisaje al que se refiere existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mención del paisaje no devuelve al término su sentido literal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La construcción \"no es un río: es una herida\" es una negación de la denotación que instala de inmediato una connotación. El término río deja de nombrar y pasa a comparar, y con esa comparación entra en la frase un valor de herida, de daño y de vulnerabilidad que la palabra original no tenía. Reconocer este movimiento es fundamental para leer poesía, donde casi nunca se trata de nombrar cosas sino de sugerir cómo se experimentan.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v7",
+      "statement": "En un mensaje que llama \"el monstruo\" al sistema de transporte de la ciudad, ¿qué efecto se produce?",
+      "context": "En un grupo de once grado de Medellín se analiza un mensaje de una comunidad sobre el transporte local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El término denota un animal y connota un servicio eficiente, con una valoración positiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación con un monstruo no puede sostener una valoración favorable."
+        },
+        {
+          "letter": "B",
+          "text": "El término es denotativo, porque identifica un animal que existe en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el mensaje no hay ningún animal, la palabra se usa en sentido figurado."
+        },
+        {
+          "letter": "C",
+          "text": "El término denota un animal y connota un servicio difícil de usar, con una carga valorativa negativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen del monstruo comunica una experiencia negativa del servicio."
+        },
+        {
+          "letter": "D",
+          "text": "El término es connotativo, pero su valor depende únicamente de quien lo lea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La valoración se construye en el mensaje y no se deja al arbitrio del lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la comunicación cotidiana de las comunidades, las metáforas funcionan como evaluadores rápidos de la realidad urbana. Al llamar monstruo a un servicio, el hablante no solo lo describe: lo califica, y esa calificación comunica una experiencia de frustración que el lector capta sin necesidad de datos. Analizar estas expresiones permite entender cómo se construye la opinión pública sobre un servicio a partir de imágenes compartidas y no de mediciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v8",
+      "statement": "Cuando alguien dice \"¡Qué bien le fue a la gestión municipal!\", ¿qué determina que el enunciado sea irónico?",
+      "context": "En Bucaramanga, la profesora de Lengua explica por qué un mismo enunciado puede decirse en serio o en burla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de palabras que tiene la frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ironía no depende del número de palabras."
+        },
+        {
+          "letter": "B",
+          "text": "La ausencia de tildes y de signos de puntuación en el mensaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos rasgos solo afectan el registro, no la ironía."
+        },
+        {
+          "letter": "C",
+          "text": "El hecho de que la frase se dirija a una autoridad pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dirigirse a una autoridad no convierte un enunciado en irónico."
+        },
+        {
+          "letter": "D",
+          "text": "La relación entre el tono con que se dice y la situación real que el enunciante conoce.",
+          "is_correct": true,
+          "feedback": "Correcto. La ironía se produce cuando el tono y el hecho divergen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ironía es un uso connotativo que depende de una distancia entre lo que se dice y lo que el enunciante sabe o quiere que se entienda. Esa distancia puede producirla el tono, la situación o el contexto, y es lo que permite que una frase de aparente aprobación funcione como una crítica. Reconocerla es indispensable, porque leer la ironía de manera literal conduce a conclusiones exactamente opuestas a las que el enunciante pretendía provocar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué cambia cuando una palabra como \"popular\" pasa de describir una canción a describir un movimiento social?",
+      "context": "En el colegio de Pereira, la profesora de Lengua muestra una misma palabra usada en dos contextos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia su connotación, porque la palabra carga con una valoración distinta en cada campo.",
+          "is_correct": true,
+          "feedback": "Correcto. La valoración asociada varía según el ámbito en que se usa."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia su denotación, porque la palabra deja de designar una cosa y pasa a designar otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La denotación de la palabra se mantiene en ambos usos."
+        },
+        {
+          "letter": "C",
+          "text": "No cambia nada, porque una palabra conserva siempre el mismo valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor connotativo depende del contexto de uso."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia el número de sílabas, porque la palabra se adapta al campo temático.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura de la palabra no varía por el contexto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La denotación es relativamente estable, pero la connotación se recoloca cada vez que la palabra cambia de campo. En un caso la palabra sugiere algo cercano y compartido, y en el otro algo cercano y masivo, con un matiz que puede ser de respaldo o de sospecha. Por eso el significado completo de una palabra solo puede evaluarse dentro de la situación en la que aparece, y no a partir de una definición aislada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué debe hacer un lector para distinguir un uso denotativo de uno connotativo?",
+      "context": "En un grupo de once grado de Cali se trabaja la diferencia entre nombrar y calificar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consultar si la palabra aparece en el diccionario y aceptar la denotación en ese caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia en el diccionario no impide el uso connotativo."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntarse si la palabra solo nombra un referente o si además comunica una valoración o una emoción.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el criterio que separa los dos planos."
+        },
+        {
+          "letter": "C",
+          "text": "Contar cuántas veces se repite la palabra en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no determina el tipo de uso."
+        },
+        {
+          "letter": "D",
+          "text": "Averiguar quién escribió el texto y qué opinión tiene sobre el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intención del autor ayuda, pero no es el criterio de análisis."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El criterio operativo para separar los dos planos es la presencia de una valoración. Una palabra usada denotativamente solo necesita designar un referente comprobable; en cambio, una palabra connotativa hace algo más: comunica cómo se valora o se siente aquello que designa. Aplicar esa pregunta durante la lectura permite distinguir el contenido informativo de la carga evaluativa, que es donde suele estar la intención persuasiva de un texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v11",
+      "statement": "Un ensayo usa la palabra \"reforma\" treinta veces. ¿Qué se puede afirmar sobre la elección de esa palabra?",
+      "context": "En Bogotá, los estudiantes de once grado analizan un texto que usa repetidamente un sustantivo abstracto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor repite la palabra porque no dispone de un vocabulario más amplio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición puede ser una decisión deliberada y no una limitación."
+        },
+        {
+          "letter": "B",
+          "text": "Que la palabra es denotativa, porque el ensayo pertenece al registro técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro técnico no elimina la carga valorativa de un término abstracto."
+        },
+        {
+          "letter": "C",
+          "text": "Que la palabra carga una valoración que la marca como favorable o desfavorable según quién la use.",
+          "is_correct": true,
+          "feedback": "Correcto. Un término abstracto suele traer consigo una carga valorativa difícil de neutralizar."
+        },
+        {
+          "letter": "D",
+          "text": "Que la palabra impide que el ensayo se entienda, porque nunca se define.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de definición no impide la comprensión del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sustantivos abstractos que nombran procesos sociales, como \"reforma\" o \"progreso\", casi nunca son neutros. Aunque se defina con precisión, el término arrastra una valoración que depende de quién lo emplea y de qué intereses representa. Por eso un ensayo que insiste en un término de ese tipo está construyendo una posición, y un lector crítico debe preguntar qué evaluación se está defendiendo con cada palabra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v12",
+      "statement": "Un periódico titula \"Interponen acción de tutela por la obra\"; otro titula \"Mientras tanto, la ciudad sigue caminando\". ¿Qué diferencia de registro se observa?",
+      "context": "En Barranquilla, un estudiante de once grado compara dos titulares sobre el mismo asunto municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo titular usa un registro técnico, porque menciona la continuidad del servicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo titular es coloquial e irónico, no técnico."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos titulares usan el mismo registro, porque los dos son informativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo introduce ironía y con ella un registro distinto."
+        },
+        {
+          "letter": "C",
+          "text": "El primero titular es irónico, porque omite el nombre del responsable de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La omisión no constituye ironía."
+        },
+        {
+          "letter": "D",
+          "text": "El segundo usa un registro coloquial y una ironía que el primero evita, cambiando el tono de la noticia.",
+          "is_correct": true,
+          "feedback": "Correcto. El cambio de registro transforma cómo se percibe el asunto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El registro cambia el valor de lo que se dice sin necesidad de cambiar los hechos. Un titular técnico y uno coloquial pueden referirse al mismo hecho y producir efectos opuestos, porque el segundo, con su ironía, carga la situación de una valoración que el primero deja en suspenso. Analizar el registro de los titulares es una forma rápida de detectar la posición del medio, y por eso los buenos lectores comparan titulares antes de leer la noticia completa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v13",
+      "statement": "Un diccionario define \"pálido\" como \"de color claro\"; una crónica lo usa para describir el rostro de un enfermo grave. ¿Qué muestra ese contraste?",
+      "context": "En el colegio de Medellín, la profesora de Lengua pide comparar un diccionario y un texto periodístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la palabra conserva su denotación y, aun así, puede cargar connotaciones según la situación.",
+          "is_correct": true,
+          "feedback": "Correcto. El diccionario fija la denotación, pero el uso contextual añade valor."
+        },
+        {
+          "letter": "B",
+          "text": "Que la palabra cambia de denotación cuando se usa en una crónica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La denotación no cambia; lo que cambia es la valoración asociada."
+        },
+        {
+          "letter": "C",
+          "text": "Que la palabra pierde su significado en cuanto aparece en un texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto no elimina el significado denotativo de un término."
+        },
+        {
+          "letter": "D",
+          "text": "Que la palabra solo tiene connotación cuando el diccionario no la recoge.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La connotación opera incluso con definiciones completas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El contraste entre un diccionario y un texto muestra que los dos planos funcionan de manera simultánea. El diccionario fija la denotación, y esa definición sigue siendo válida dentro de la crónica; lo que se agrega es un valor que depende del rostro descrito y de la situación que el narrador construye. Entender que una palabra puede ser precisa y, al mismo tiempo, evaluativa es lo que permite trabajar con el lenguaje de los medios sin simplificar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v14",
+      "statement": "¿Qué efecto tiene pasar de un tratamiento formal a uno coloquial, como ocurre con el título de doctor y con un apodo entre compañeros?",
+      "context": "En el colegio de Cali, un grupo de once grado compara cómo se dirige a un doctor y a un compañero del equipo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No produce ningún efecto, porque se trata de una misma denotación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La denotación es la misma, pero la connotación se modifica."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la distancia entre las personas, porque cambia la manera de nombrar y, con ella, la carga valorativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La elección del nombre reordena la relación entre los interlocutores."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la formalidad, porque los títulos y los apodos elevan el registro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paso del doctor al apodo reduce la formalidad, no la aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la ironía, porque un apodo nunca puede ser irónico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un apodo puede ser cariñoso, crítico o irónico según el tono."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La forma de nombrar a las personas organiza la relación social dentro del discurso, y ese es un asunto de connotación. Un mismo individuo puede ser lejano con una palabra y cercano con otra, sin que cambie nada en sus atributos verificables. Analizar estas decisiones de nombrado ayuda a leer los textos institucionales como documentos donde las relaciones de poder también se comunican por el vocabulario.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v15",
+      "statement": "Un comunicado municipal afirma: \"La ciudad avanza con paso firme y sin tropiezos\". ¿Qué problema tiene esa formulación?",
+      "context": "En un grupo de once grado de Pereira se discute un comunicado con un tono excesivamente positivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una formulación denotativa, porque describe un avance comprobable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sin tropiezos\" es una valoración, no una descripción verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Es una formulación correcta, porque los comunicados oficiales deben ser optimistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono institucional no exime de aportar la evidencia correspondiente."
+        },
+        {
+          "letter": "C",
+          "text": "Usa un lenguaje connotativo favorable y oculta datos que podrían contradecirlo.",
+          "is_correct": true,
+          "feedback": "Correcto. La valoración positiva sustituye la evidencia que el lector necesitaría."
+        },
+        {
+          "letter": "D",
+          "text": "Es una formulación irónica, porque el redactor duda de su propia frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el enunciado permite leerlo como irónico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un comunicado que emplea expresiones valorativas sin acompañarlas de datos cumple una función propagandística: comunica una imagen en lugar de informar. Las frases como \"sin tropiezos\" no pueden verificarse y desplazan el peso del texto de los hechos a la impresión que producen. Reconocer esta operación permite distinguir la información de la publicidad institucional, y es un ejercicio habitual de lectura crítica en cualquier contenido oficial.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué una misma palabra puede tener connotaciones distintas en contextos sociales diferentes?",
+      "context": "En un grupo de once grado de Bogotá se investiga por qué un término cambia de valor según el barrio donde se usa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la denotación de las palabras cambia con la zona de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La denotación no varía geográficamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los diccionarios registran una entrada diferente para cada zona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diccionario registra un significado, no variantes zonales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la palabra escribe con distinta ortografía en cada barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía no varía por el lugar de uso."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la connotación se construye en el uso compartido y ese uso cambia según la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La experiencia colectiva le da a la palabra su valor connotativo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La connotación no está contenida en la palabra, sino en el uso que una comunidad hace de ella. Cuando dos grupos comparten experiencias distintas, el mismo término puede acabar significando cosas diferentes, aunque su denotación sea la misma. Este fenómeno explica por qué una expresión puede ser positiva en un contexto y peyorativa en otro, y por eso el significado connotativo no puede establecerse de manera definitiva fuera de la situación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v17",
+      "statement": "Un eslogan dice: \"Vive la calle con responsabilidad, como un buen ciudadano\". ¿Qué evaluación crítica es más precisa?",
+      "context": "En Medellín, los estudiantes de once grado analizan el eslogan de una campaña de seguridad vial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un eslogan eficaz, porque su carga valorativa invita a identificarse con un modelo de buen ciudadano.",
+          "is_correct": true,
+          "feedback": "Correcto. La valoración funciona como llamado a la acción."
+        },
+        {
+          "letter": "B",
+          "text": "Es un eslogan claro, porque todos los ciudadanos saben qué se les pide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan no explica en qué consiste esa responsabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es un eslogan denotativo, porque informa sobre las normas de tránsito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan no informa nada sobre las normas."
+        },
+        {
+          "letter": "D",
+          "text": "Es un eslogan débil, porque el uso de la palabra \"ciudadano\" es denotativo y no aporta valor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Ciudadano\" es precisamente un término con fuerte carga valorativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La eficacia de un eslogan depende menos de la información que transmite que de la identificación que provoca. En este caso, la expresión \"buen ciudadano\" ofrece un modelo valorativo al que el lector puede aspirar, y esa aspiración es la que orienta la conducta. Analizar un eslogan consiste, entonces, en identificar la carga valorativa que invita a asumirse y la imagen de ciudad que esa carga construye.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v18",
+      "statement": "Un texto municipal habla de \"la paz\" en singular, mientras la prensa local habla de \"las paces\" en plural. ¿Qué puede evaluar un lector atento ante esa diferencia?",
+      "context": "En Bucaramanga, un grupo de once grado revisa un texto de la administración municipal sobre seguridad y convivencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la diferencia se debe a un error tipográfico del texto municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variación del número responde a una decisión sobre el referente."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto institucional presenta un asunto individual, mientras la prensa da cuenta de su magnitud colectiva.",
+          "is_correct": true,
+          "feedback": "Correcto. La elección del número no es casual: orienta la lectura hacia un referente u otro."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto institucional oculta deliberadamente información sobre la situación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el enunciado permite afirmar una ocultación deliberada."
+        },
+        {
+          "letter": "D",
+          "text": "Que la prensa usa un término incorrecto, porque el asunto no puede ser colectivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos formas son correctas, porque designan alcances distintos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El número de un término abstracto no es un detalle gramatical, sino una decisión que orienta la lectura. Cuando un texto habla de \"la paz\" en singular, presenta el asunto como un estado individual o local; cuando la prensa habla de \"las paces\" en plural, lo convierte en un asunto colectivo que exige acuerdos y responsables. Reconocer que una misma palabra denotada admite alcances distintos es lo que permite comparar dos textos que hablan del mismo asunto y, sin embargo, sostienen posiciones diferentes.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v19",
+      "statement": "¿Qué pierde un lector que reduce un texto a su contenido denotativo?",
+      "context": "En el colegio de Barranquilla, la profesora de Lengua pregunta qué se pierde al leer un texto solo por su contenido literal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada importante, porque la denotación contiene todo el significado del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La denotación es solo uno de los dos planos del significado."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de páginas del texto, porque solo importa el contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es lo que se pierde al leer de ese modo."
+        },
+        {
+          "letter": "C",
+          "text": "La intención del emisor, la posición del autor y los efectos que el texto busca provocar.",
+          "is_correct": true,
+          "feedback": "Correcto. Toda esa información vive en el plano connotativo."
+        },
+        {
+          "letter": "D",
+          "text": "El número de fuentes citadas, porque el contenido denotativo las omite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pérdida no está en las fuentes, sino en la carga valorativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Leer solo el contenido denotativo es como leer el texto únicamente a nivel de información. Se pierden la posición del autor, el tono con que se describen las cosas y el efecto que el texto intenta provocar en quien lo recibe. Esta pérdida es especialmente grave en los textos argumentativos, porque la fuerza de un argumento suele estar no en sus datos, sino en la valoración con que se presentan.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle-v20",
+      "statement": "Un texto publicitario usa términos técnicos y, a la vez, imágenes muy valorativas. ¿Qué estrategia de lectura es la más adecuada para analizarlo?",
+      "context": "En el colegio de Pereira, los grupos de once grado cierran la semana con una puesta en común sobre cómo leer propaganda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprobar únicamente si los datos técnicos que presenta son correctos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verificar los datos no revela la carga valorativa del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Contar las imágenes valorativas, porque su número mide la intensidad de la publicidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recuento no explica el efecto que las imágenes producen."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar la denotación de las palabras del texto y reconstruir con ellas el mensaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reconstruir solo con denotaciones elimina precisamente lo que persuasivo hay."
+        },
+        {
+          "letter": "D",
+          "text": "Separar el contenido denotativo de la carga connotativa y preguntar para qué se usan los términos técnicos.",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta por la función revela el uso persuasivo de los datos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los textos publicitarios combinan a menudo un lenguaje denotativo preciso con un lenguaje connotativo intenso, y esa combinación es deliberada. El contenido técnico aporta credibilidad y las imágenes aportan emoción, de modo que ambas capas trabajan juntas para modificar la conducta del lector. Separar las dos capas y preguntar para qué se usa cada una es el procedimiento que permite seguir viendo cómo opera la persuasión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}

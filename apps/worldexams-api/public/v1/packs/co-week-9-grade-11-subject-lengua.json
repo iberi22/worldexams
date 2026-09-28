@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T00:46:31.960Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la coherencia de un texto?",
+      "context": "En un colegio de Bogotá, la profesora de Lengua abre la semana 9 escribiendo en el tablero una definición que los estudiantes de once grado deben reescribir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la relación lógica entre las ideas, de manera que unas se sigan de otras sin contradecirse.",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia es una propiedad del contenido y de las relaciones entre las ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Es el conjunto de conectores que unen entre sí las ideas del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores son recursos de cohesión, y la coherencia existe aunque no haya ninguno."
+        },
+        {
+          "letter": "C",
+          "text": "Es la repetición de una misma palabra para evitar que el texto resulte ambiguo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición es una estrategia de cohesión, no la coherencia."
+        },
+        {
+          "letter": "D",
+          "text": "Es la claridad con la que un texto está escrito para que el lector no se confunda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la claridad o la legibilidad, que son propiedades distintas de la coherencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia es la propiedad que permite que las ideas de un texto formen una red de relaciones comprensibles. Se apoya en la lógica y no en la gramática: una idea es coherente porque se deduce de otra, porque se opone a ella o porque la explica. Por eso un texto puede carecer de conectores y seguir siendo plenamente coherente. Reconocer la coherencia es el punto de partida para distinguir después las marcas que la hacen visible en la superficie del texto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la cohesión de un texto?",
+      "context": "En el colegio de Pereira, un grupo de once grado compara dos párrafos: uno se entiende de inmediato y el otro obliga a releer cada frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la relación lógica entre las ideas, de manera que unas se apoyen en otras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a la coherencia, no a la cohesión."
+        },
+        {
+          "letter": "B",
+          "text": "Son los recursos léxicos, gramaticales y sintácticos que hacen visibles las relaciones entre las ideas.",
+          "is_correct": true,
+          "feedback": "Correcto. La cohesión son las marcas de superficie: conectores, pronombres, sustituciones y reiteraciones."
+        },
+        {
+          "letter": "C",
+          "text": "Es la cantidad de información que un texto transmite dentro de un número limitado de páginas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de información es un criterio de extensión, no un criterio de cohesión."
+        },
+        {
+          "letter": "D",
+          "text": "Es la actualización de la ortografía de un texto antiguo al español de hoy.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actualización de la ortografía es una tarea distinta de la cohesión textual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cohesión agrupa las marcas que permiten reconstruir quién hace qué, cuándo ocurre y cómo se relacionan los enunciados. Incluye conectores lógicos y gramaticales, pronombres que remiten a lo ya dicho, sustituciones léxicas y recursos de posición. Se apoya en la coherencia, pero no es idéntica a ella: la coherencia es la relación real entre las ideas y la cohesión es la señal que la anuncia. Cuando un texto falla en cohesión, el lector suele decir que está mal escrito aunque el contenido sea lógico.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes situaciones rompe la coherencia de un texto?",
+      "context": "En un colegio de Cali, la profesora de Lengua entrega a sus estudiantes de once grado un párrafo que sostiene dos afirmaciones incompatibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar varios datos sobre el costo del pasaje sin emplear ningún conector entre ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de conectores afecta la cohesión, no la coherencia de las ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir un párrafo muy largo que repite la misma palabra para evitar ambigüedades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición es un recurso de cohesión y no genera contradicción entre las ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Sostener en un párrafo que el transporte de Cali es amplio y, tres líneas después, que en la misma ciudad nadie alcanza el turno.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos afirmaciones se contradicen, de modo que no pueden formar un conjunto coherente."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar las ideas de lo general a lo particular, empezando por un concepto amplio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden descendente es precisamente una manera de garantizar la coherencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia se rompe cuando dos enunciados son incompatibles entre sí, es decir, cuando no pueden ser ciertos al mismo tiempo. También se rompe cuando una idea aparece sin relación con lo dicho antes y sin preparación previa. En cambio, la duración del párrafo, la cantidad de conectores o el orden de las ideas no afectan por sí mismos la coherencia. Distinguir una ruptura de contenido de una carencia de marcas es el paso inicial para revisar un texto con problemas de construcción.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v4",
+      "statement": "Camila puede afirmar que el texto es coherente pero poco cohesionado, porque...",
+      "context": "En el colegio de Barranquilla, Camila lee un texto breve sobre el relleno del barrio La Libertad, escrito sin un solo conector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el texto incluye la palabra \"además\" en su segunda oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado supone que el texto no tiene ningún conector, de modo que esa opción se contradice."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la autora del texto es una periodista profesional de Barranquilla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La profesión de quien escribe no garantiza la coherencia de un texto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el texto está escrito en un solo párrafo y no en varios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de párrafos no determina la coherencia ni la cohesión."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las ideas se siguen unas de otras aunque el autor no haya marcado esas relaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia se sostiene en la lógica del contenido, no en la presencia de marcas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto puede ser coherente y poco cohesionado cuando las ideas se apoyan entre sí pero el autor no ha empleado conectores, pronombres ni repeticiones que lo hagan evidente. El lector experto completa esas relaciones por su cuenta, mientras que el lector novel puede perderse. La situación inversa también ocurre: un texto muy bien señalizado puede ser incoherente si las ideas no se relacionan. Por eso conviene separar siempre el juicio sobre el contenido del juicio sobre las marcas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v5",
+      "statement": "\"En Medellín el metro transporta cada día a cientos de miles de pasajeros; sin embargo, en los barrios altos la cobertura sigue siendo limitada.\"\n\n¿Qué expresión funciona como conector de contraste?",
+      "context": "En un colegio de Medellín, la profesora de Lengua pide a sus estudiantes de once grado que subrayen el conector de contraste en un párrafo sobre el metro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"sin embargo\", porque introduce una idea que se opone a la anterior.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Sin embargo\" es un conector adversativo y marca el contraste entre las dos afirmaciones."
+        },
+        {
+          "letter": "B",
+          "text": "\"cada día\", porque indica la frecuencia del servicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión es un adjuncto temporal, no un conector."
+        },
+        {
+          "letter": "C",
+          "text": "\"cientos de miles\", porque cuantifica el número de pasajeros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión numérica aporta un dato y no relaciona dos ideas opuestas."
+        },
+        {
+          "letter": "D",
+          "text": "\"barrios altos\", porque identifica el lugar donde ocurre la segunda afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sintagma nominal sitúa un referente, no una relación lógica entre ideas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores adversativos, entre ellos \"sin embargo\", \"no obstante\" y \"aunque\", anuncian que la idea que sigue se opone a la anterior. Esa oposición es una relación de coherencia, y el conector es simplemente la marca que la vuelve visible. Reconocer el tipo de conector permite entender qué relación sostiene el autor entre sus afirmaciones. En cambio, los adjuntos temporales, los cuantificadores y los sintagmas nominales aportan datos o sitúan referencias, pero no conectan ideas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v6",
+      "statement": "En el fragmento \"El plan municipal de lectura se aprobó en junio. Este plan duplicará el número de centros de lectura\", ¿qué recurso de cohesión se reconoce?",
+      "context": "En el colegio de Bucaramanga, Andrés lee un informe en el que una misma expresión aparece nombrada dos veces y después es sustituida por un pronombre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectores consecutivos, porque las oraciones aparecen una después de otra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sucesión de oraciones no es por sí sola un recurso de cohesión."
+        },
+        {
+          "letter": "B",
+          "text": "Pronominalización, porque \"este plan\" remite a un referente ya mencionado.",
+          "is_correct": true,
+          "feedback": "Correcto. El demostrativo recupera el referente \"plan municipal de lectura\" y evita repetirlo."
+        },
+        {
+          "letter": "C",
+          "text": "Contraste, porque la fecha de aprobación y la fecha de aplicación son distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no expresa una oposición entre dos ideas."
+        },
+        {
+          "letter": "D",
+          "text": "Elipsis, porque la segunda oración omite el sujeto y deja de mencionar el plan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto no se omite del todo, se recupera con la expresión \"este plan\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pronominalización es un recurso de referencia: un pronombre o un sintagma demostrativo ocupa el lugar de algo nombrado antes. Evita la repetición fatigante y deja la atención del lector en la información nueva. Funciona como cohesión porque el lector debe reconstruir el referente para comprender la oración. Cuando el referente queda demasiado lejos o nunca se ha nombrado, la pronominalización produce ambigüedad y debilita la comprensión del texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se observa en esta pareja: \"la erosión costera\" en la primera oración y \"ese daño en la costa\" en la segunda?",
+      "context": "En el colegio de Bogotá, la profesora de Lengua entrega a sus estudiantes de once grado dos versiones de la misma frase y les pide que comparen los términos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una adición de información, porque la segunda expresión aporta un dato nuevo sobre la costa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos expresiones son equivalentes y no añaden información distinta."
+        },
+        {
+          "letter": "B",
+          "text": "Una elipsis, porque la segunda oración omite el sujeto que aparece en la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elipsis omite algo recuperable; aquí se cambia el término, no se borra el sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "Una sustitución léxica, porque el autor cambia de expresión para nombrar el mismo referente.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas expresiones designan el mismo fenómeno, y la variedad de términos es un recurso de cohesión."
+        },
+        {
+          "letter": "D",
+          "text": "Un cambio de tema, porque la segunda oración abandona el asunto de la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos oraciones tratan del mismo fenómeno, de modo que no hay cambio de tema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sustitución léxica consiste en nombrar un mismo referente con expresiones diferentes a lo largo del texto. Evita la repetición de un mismo sintagma y ayuda a sostener la atención del lector. Es un recurso de cohesión porque permite reconocer que dos enunciados distintos se refieren al mismo asunto. Al leer, conviene reconocer estas sustituciones para no perder el hilo del referente, sobre todo cuando el texto alterna entre términos técnicos y expresiones comunes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v8",
+      "statement": "Dos oraciones de un informe dicen: \"En Pereira el consumo de agua bajó un ocho por ciento. Las huertas de la zona sur se secaban más.\" ¿Cuál de las siguientes formas de unir las oraciones mejora la cohesión sin alterar el contenido?",
+      "context": "En el colegio de Pereira, un equipo de estudiantes de once grado debe reescribir dos oraciones para que el párrafo resulte más fácil de seguir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Por consiguiente, los usuarios de la zona sur se equivocaron.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector establece una consecuencia sobre un sujeto que el texto no menciona."
+        },
+        {
+          "letter": "B",
+          "text": "\"Sin embargo, las huertas de la zona sur se equivocaron.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector introduce una oposición que no corresponde a lo que afirma el texto."
+        },
+        {
+          "letter": "C",
+          "text": "\"En conclusión, todos los consumidores de Pereira se equivocaron.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conector cierra el texto con una afirmación nueva que el párrafo no contiene."
+        },
+        {
+          "letter": "D",
+          "text": "\"Por consiguiente, las huertas de la zona sur se secaban más.\"",
+          "is_correct": true,
+          "feedback": "Correcto. El conector hace explícita una relación de consecuencia que ya estaba en el contenido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen conector hace visible una relación lógica que ya estaba en las ideas, sin crearla ni sustituirla. Si el texto dice que al disminuir el agua se secaron más las huertas, la relación de consecuencia es coherente y puede anunciarse con un conector causal. Si el conector anuncia una oposición o una conclusión que el texto no contiene, la cohesión aumenta de forma aparente mientras el contenido se deforma. Por eso revisar un texto exige comprobar que cada conector corresponde a la relación real entre las ideas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v9",
+      "statement": "En el fragmento \"Los cordones de la ciudad se mantuvieron, aunque el presupuesto era limitado\", la expresión \"los\" es un ejemplo de...",
+      "context": "En un colegio de Cali, la profesora de Lengua presenta a sus estudiantes de once grado una lista de recursos y les pide que identifiquen el tipo de cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recurso de referencia, porque remite a un referente que se supone conocido.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo determinado introduce un referente identificable para el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Recurso de conjunción, porque enlaza dos oraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no enlaza oraciones; esa función la cumple el conectivo que aparece después."
+        },
+        {
+          "letter": "C",
+          "text": "Recurso de sustitución, porque reemplaza a una palabra escrita antes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sustitución supone que una palabra anterior ocupa el lugar de otra; aquí no hay palabra previa."
+        },
+        {
+          "letter": "D",
+          "text": "Recurso de adición adverbial, porque añade una precisión al sustantivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no modifica al sustantivo, sino que lo determina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los recursos de referencia son los que remiten a algo distinto de la propia palabra: artículos definidos, pronombres, sintagmas demostrativos y numerales. Los de sustitución cambian un elemento por otro ya mencionado. Los de conjunción y los de posición organizan la oración. Reconocer la categoría de cada recurso ayuda a explicar por qué un texto se entiende o se enreda, porque cada tipo de marca resuelve un problema distinto para el lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v10",
+      "statement": "Un párrafo empieza con datos sobre el costo del transporte, continúa con una receta de cocina y termina con una cita de un poeta, sin que ninguna oración conecte con la anterior. La explicación más adecuada es que el párrafo...",
+      "context": "En el colegio de Barranquilla, el profesor de Lengua pide a sus estudiantes de once grado que le expliquen por qué un párrafo les parece confuso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es coherente, porque cada oración es correcta por separado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que cada oración sea correcta no garantiza que el conjunto tenga sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Es incoherente, porque las ideas no se apoyan unas en otras.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres contenidos son independientes, de modo que no forman un conjunto lógico."
+        },
+        {
+          "letter": "C",
+          "text": "Es poco cohesionado, y eso basta para explicar la confusión del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La confusión se explica por la ruptura temática, no por la ausencia de conectores."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto de adecuada calidad, porque presenta mucha información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumular información sin relación no mejora el texto, lo dispersa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La incoherencia se manifiesta cuando las ideas del texto no guardan relaciones entre sí, aunque cada enunciado sea correcto por separado. Un ejemplo típico es el cambio brusco de asunto sin ninguna preparación ni consecuencia. La falta de conectores puede acompañar ese defecto, pero no lo explica. Por eso, al analizar un párrafo confuso, la primera pregunta debe ser si las ideas se sostienen entre sí, y solo después cabe preguntar por las marcas que faltan.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v11",
+      "statement": "Un texto informativo sin conectores, pero cuyas ideas se deducen unas de otras, es un texto...",
+      "context": "En un colegio de Bogotá, la profesora de Lengua entrega a sus estudiantes de once grado un texto informativo que no contiene ni un solo conector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incoherente, porque toda ampliación de un tema exige el uso de conectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coherencia no depende de la presencia de conectores, sino de la lógica del contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Incoherente y bien cohesionado, porque la ausencia de marcas equivale a una buena cohesión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pocas marcas significa poca cohesión, y además el contenido sí se sostiene."
+        },
+        {
+          "letter": "C",
+          "text": "Coherente y poco cohesionado, porque el contenido se sostiene aunque falten las marcas.",
+          "is_correct": true,
+          "feedback": "Correcto. Las ideas se siguen entre sí y lo que falta son las señales que lo anuncien al lector."
+        },
+        {
+          "letter": "D",
+          "text": "Redundante, porque la falta de conectores obliga a repetir las ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La redundancia es la repetición innecesaria de contenido, no la ausencia de marcas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia y la cohesión son propiedades que se evalúan por separado y pueden combinarse de cuatro maneras. Un texto puede ser coherente y cohesionado, coherente y poco cohesionado, incoherente y cohesionado, o incoherente y poco cohesionado. El caso descrito corresponde a un texto coherente y poco cohesionado: la lógica se sostiene y las marcas faltan. Reconocerlo evita exigirle al autor recursos que el texto nunca pretendió usar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v12",
+      "statement": "Un texto que usa muchos conectores pero que salta de un tema a otro sin explicación es un texto...",
+      "context": "En el colegio de Medellín, la profesora de Lengua muestra a sus estudiantes de once grado un texto lleno de conectores que, sin embargo, salta de un tema a otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coherente, porque el uso abundante de conectores garantiza la relación entre las ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores anuncian relaciones que deben existir realmente en el contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Poco cohesionado, porque la abundancia de conectores satura la lectura y estorba al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos conectores representan una señalización alta, no una carencia de cohesión."
+        },
+        {
+          "letter": "C",
+          "text": "Incoherente y poco cohesionado a la vez, porque el texto no presenta ninguna marca válida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí presenta marcas; lo que falta es la relación lógica entre las ideas."
+        },
+        {
+          "letter": "D",
+          "text": "Cohesionado en su superficie e incoherente en su contenido.",
+          "is_correct": true,
+          "feedback": "Correcto. Las marcas abundan, pero las ideas no se apoyan entre sí, de modo que la coherencia falta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto puede aparentar gran cohesión y carecer por completo de coherencia. En ese caso los conectores se emplean como adornos y anuncian relaciones que el contenido no sostiene. El lector percibe fluidez en la superficie y tropieza con los saltos temáticos. Es un buen ejemplo de por qué la revisión de un texto no puede limitarse a contar marcas: hay que comprobar que cada conector describa la relación que realmente existe entre las ideas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v13",
+      "statement": "En el enunciado \"Los cordones de la ciudad se estrearon. Este ellos se deterioraron con el tiempo\", el referente de \"este ellos\" resulta ambiguo. ¿Cuál es la causa más probable de esa ambigüedad?",
+      "context": "En el colegio de Pereira, un grupo de once grado analiza por qué un enunciado del libro de texto resulta ambiguo para quien no conoce el tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el referente del pronombre está demasiado lejos y hay varios candidatos posibles.",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia y la ambigüedad del referente debilitan la reconstrucción que hace el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la elipsis borra una información que el lector no puede recuperar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elipsis solo resulta problemática cuando lo omitido no es recuperable por el contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el pronombre repite la palabra completa y produce redundancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pronominalización evita la repetición; no es una fuente de redundancia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el enunciado interrumpe con un dato que no pertenece a ningún tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no presenta un salto temático, sino una referencia poco clara."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pronominalización solo funciona cuando el lector puede reconstruir con certeza el referente. Si hay varios candidatos o el antecedente queda muy lejos, la referencia se vuelve ambigua y el lector debe detener su avance para resolverla. Ese retraso es el síntoma de un problema de cohesión, no de coherencia: las ideas pueden seguir siendo lógicas entre sí. Una revisión cuidadosa busca esos referentes lejanos y los reemplaza por una formulación más precisa.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v14",
+      "statement": "Cuando los estudiantes reordenan los párrafos, lo que hace posible la operación es...",
+      "context": "En el colegio de Bucaramanga, la profesora de Lengua entrega a sus estudiantes de once grado cuatro párrafos numerados y les pide que los organicen en un orden que produzca sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de palabras que tiene cada párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión de los párrafos no permite deducir el orden lógico entre ellos."
+        },
+        {
+          "letter": "B",
+          "text": "Las relaciones lógicas entre las ideas, expresadas por conectores y por la progresión temática.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia lógica de los contenidos y las marcas que la señalan son la base del orden."
+        },
+        {
+          "letter": "C",
+          "text": "El tipo de letra con el que fue escrito cada párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El formato tipográfico no aporta información sobre el contenido ni su secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "El orden en que los párrafos fueron escritos por el autor en su cuaderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de escritura no es un dato disponible y no explica la secuencia lógica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reordenar un texto es una estrategia de lectura que se apoya en la reconstrucción de la coherencia. El lector detecta qué idea prepara a cuál, qué concepto se explica después de ser nombrado y qué conclusión cierra el conjunto. Las marcas de cohesión, como \"por lo tanto\" o \"en resumen\", apuntan directamente a esos vínculos. Practicar este ejercicio enseña a reconocer que la secuencia argumental pesa más que el orden casual de los enunciados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v15",
+      "statement": "Una versión del texto repite el sustantivo \"sequía\" en cada oración y la otra lo sustituye por pronombres. ¿Qué diferencia de cohesión se observa entre las dos versiones?",
+      "context": "En el colegio de Barranquilla, la profesora de Lengua pide a sus estudiantes de once grado que comparen dos versiones de la misma explicación sobre el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión que repite es menos cohesionada, porque repetir una palabra rompe la referencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición del referente también es un recurso de cohesión."
+        },
+        {
+          "letter": "B",
+          "text": "La versión con pronombres es incoherente, porque el referente queda oculto al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referente solo queda oculto si hay varios candidatos o si está muy lejos."
+        },
+        {
+          "letter": "C",
+          "text": "La versión con pronombres es más cohesionada por referencia, y la que repite conserva un referente más explícito.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambos recursos son cohesivos: uno por referencia y el otro por reiteración del referente."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos versiones tienen el mismo nivel de cohesión, porque la longitud de la oración no cambia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el recurso de referencia sí modifica la forma en que el lector reconstruye el referente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Referencia y reiteración son dos modos de cohesión distintos que resuelven el mismo problema. Los pronombres hacen más ligera la lectura y obligan al lector a reconstruir el referente, mientras que la repetición lo mantiene siempre a la vista. La elección depende de la función del texto y de la distancia entre las oraciones. En textos informativos suele preferirse la repetición, y en textos literarios suele preferirse el pronombre.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v16",
+      "statement": "Una campaña municipal que anuncia una obra y luego incluye estadísticas de otro municipio, sin explicación, presenta sobre todo un problema de...",
+      "context": "En un colegio de Cali, la profesora de Lengua trabaja con sus estudiantes de once grado un caso de comunicación pública local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cohesión, porque el cambio de municipio impide reconocer los conectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falla principal no está en las marcas, sino en la relación entre los contenidos."
+        },
+        {
+          "letter": "B",
+          "text": "Legibilidad, porque la longitud de los enunciados dificulta la lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de los enunciados no explica el salto hacia otro municipio."
+        },
+        {
+          "letter": "C",
+          "text": "Ortografía, porque los nombres de los municipios deben escribirse con mayúscula inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía de los nombres no interviene en la relación lógica entre las ideas."
+        },
+        {
+          "letter": "D",
+          "text": "Coherencia, porque los datos del segundo municipio no se siguen de lo afirmado antes.",
+          "is_correct": true,
+          "feedback": "Correcto. La ruptura de contenido impide que las ideas formen un conjunto lógico comprensible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un texto cambia de asunto sin explicar la relación, el problema está en la coherencia y no en las marcas. Los datos de un municipio no se deducen de una promesa sobre una obra en otro, de modo que el conjunto no forma una secuencia comprensible. En la práctica periodística este defecto se llama salto de tema y suele deberse a la acumulación de información sin selección. Diagnosticarlo bien evita intentar corregirlo con más conectores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v17",
+      "statement": "¿Cómo debe valorar el comité la decisión que acaba de tomar?",
+      "context": "En el colegio de Bogotá, el comité editorial de un periódico escolar rechaza un texto porque, según el jurado, no tiene conectores y por eso está mal escrito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe revisarla, porque la ausencia de conectores afecta la cohesión pero no prueba la falta de coherencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio del jurado confundió la falta de marcas con una ruptura del contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Debe mantenerla, porque todo texto de calidad debe emplear conectores en cada párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe una norma que obligue a usar conectores; esa es una decisión de estilo."
+        },
+        {
+          "letter": "C",
+          "text": "Debe mantenerla, porque sin conectores el lector no puede reconstruir las relaciones entre ideas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lector puede reconstruir las relaciones por la lógica del contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Debe revisarla, pero solo para exigir que se repitan las palabras principales del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición de palabras es una posibilidad de estilo, no la solución obligatoria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un juicio editorial que confunde la falta de conectores con la falta de calidad reduce la revisión a un recuento de marcas. La coherencia se comprueba preguntando si las ideas se apoyan entre sí, y esa pregunta no exige ningún recurso gramatical. Este caso muestra por qué la evaluación de un texto necesita dos criterios separados: uno para el contenido y otro para las señales que lo hacen legible. Rechazar un texto solo por su estilo, sin analizar su lógica, es un error frecuente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v18",
+      "statement": "Un periodista de Medellín repite el nombre completo de un aplicativo público en vez de usar pronombres. ¿Cuál es la mejor justificación de esa decisión?",
+      "context": "En el colegio de Medellín, la profesora de Lengua pide a sus estudiantes de once grado que justifiquen una decisión de estilo de un texto periodístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición no tiene ninguna función, salvo que el periodista ignore los recursos de cohesión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición deliberada cumple una función discursiva y no es ignorancia del recurso."
+        },
+        {
+          "letter": "B",
+          "text": "La repetición evita la ambigüedad y asegura que cada oración pueda entenderse por separado.",
+          "is_correct": true,
+          "feedback": "Correcto. En el texto informativo la repetición mantiene la referencia clara y favorece la comprensión."
+        },
+        {
+          "letter": "C",
+          "text": "La repetición aumenta obligatoriamente la extensión del texto, y eso es lo que busca el periodismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es un objetivo del periodismo y la repetición no obedece a esa razón."
+        },
+        {
+          "letter": "D",
+          "text": "La repetición impide que el lector infiera las relaciones entre las ideas del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición bien usada refuerza la referencia y no bloquea las inferencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La repetición de un término es un recurso de cohesión por reiteración, y su utilidad depende de la función del texto. En el periodismo y en los manuales técnicos, garantiza que cada oración tenga un referente claro y que pueda entenderse aunque se lea aislada. En la literatura, en cambio, la pronominalización suele buscarse porque evita la pesadez de la repetición. Juzgar una decisión de estilo exige preguntarse primero cuál es la función del texto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v19",
+      "statement": "¿Qué revisión es la más útil para este informe?",
+      "context": "En el colegio de Pereira, un equipo de once grado prepara la versión final de un informe escolar sobre el uso del agua y debe decidir qué revisar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cuántas veces se repite la palabra \"agua\" en todo el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar repeticiones no revela ni la coherencia ni los problemas de comprensión del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar todos los conectores por comas, para que el texto se vea más limpio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar las marcas de relación no mejora el texto, esconde la estructura lógica."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar si cada dato lleva a la siguiente idea y si el lector puede identificar el referente en cada oración.",
+          "is_correct": true,
+          "feedback": "Correcto. La revisión del contenido y de la referencia cubre a la vez coherencia y cohesión."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir todos los datos numéricos por oraciones, para que el informe se lea con más facilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retirar los datos debilita el texto en lugar de mejorar su comprensión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una revisión útil se dirige primero a la relación entre las ideas y después a las marcas que la sostienen. Preguntar si cada afirmación se sigue de la anterior detecta los saltos de tema, y preguntar por el referente de cada pronombre detecta las ambigüedades de la referencia. Ese doble barrido cubre coherencia y cohesión en una sola pasada. Los cambios meramente tipográficos o estilísticos no reparan los problemas de comprensión.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle-v20",
+      "statement": "Un grupo afirma que todo texto coherente es, por lo tanto, cohesionado. ¿Cuál valoración de esa afirmación es la adecuada?",
+      "context": "En el colegio de Bucaramanga, la profesora de Lengua plantea a sus estudiantes de once grado una afirmación que deben valorar con argumentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadera, porque la coherencia y la cohesión son dos nombres para la misma propiedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son propiedades distintas: una es la relación lógica entre ideas y la otra es la marca visible."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa, porque la coherencia solo existe cuando el texto emplea conectores consecutivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte la relación: no es la coherencia la que depende de los conectores."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadera, porque el orden lógico de las ideas siempre produce marcas de superficie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden lógico y las marcas de superficie evolucionan de manera independiente."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa, porque existen textos coherentes que no emplean ninguna marca para señalar sus relaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto puede sostenerse lógicamente sin necesidad de conectores ni de pronombreización."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La afirmación planteada confunde dos propiedades que se evalúan por separado. La coherencia es la relación lógica que existe entre las ideas, y la cohesión es el conjunto de marcas que hacen visible esa relación. Los textos expositivos locales, como un informe municipal de Bucaramanga, muestran con claridad el caso: pueden ordenarse deductivamente y ser coherentes sin una sola marca explicativa. Reconocer la diferencia es lo que permite revisar cada problema con la herramienta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
