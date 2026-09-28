@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-19-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T02:17:50.407Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la definición más precisa de intertextualidad?",
+      "context": "En Bogotá, una estudiante de once grado abre un texto de un portal cultural que menciona el realismo mágico y, antes de leerlo, quiere entender qué significa intertextualidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la relación que se establece entre un texto y otros textos, imágenes, sonidos o culturas con los cuales dialoga.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la intertextualidad es el diálogo permanente entre obras y culturas; un texto siempre se apoya, responde o contradice a otros."
+        },
+        {
+          "letter": "B",
+          "text": "Es la copia exacta de un texto antiguo dentro de un texto moderno.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esa descripción corresponde a una cita textual o a un plagio, no a la relación amplia entre textos."
+        },
+        {
+          "letter": "C",
+          "text": "Es la traducción de una obra escrita en otro idioma al español.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque traducir es trasladar un texto de una lengua a otra; no es una relación entre textos."
+        },
+        {
+          "letter": "D",
+          "text": "Es la reducción de las ideas centrales de un texto a pocas líneas.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esa descripción corresponde a la síntesis o al resumen de un contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intertextualidad designa el conjunto de relaciones que un texto establece con otros textos y con otros sistemas de signos. Cuando una novela evoca a un mito, cuando una canción toma versos de un poeta o cuando una historieta reescribe una leyenda, se está estableciendo un diálogo intertextual. Reconocer estos vínculos permite explicar por qué un autor elige determinada imagen, determinado registro o determinada estructura, y ayuda a valorar el texto con criterio propio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v2",
+      "statement": "Cuando un texto incorpora un verso de un soneto, ¿qué relación se establece entre ambos textos?",
+      "context": "En Cali, un grupo de grado 11 lee un cuento breve y nota que el narrador intercala un verso de un soneto conocido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación intertextual, porque el texto nuevo se apoya en un texto anterior y dialoga con él.",
+          "is_correct": true,
+          "feedback": "Correcta, porque un texto que incorpora otro conserva el diálogo entre obras, que es la esencia de la intertextualidad."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de dependencia, porque el soneto deja de poder leerse por separado.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los textos conservan su autonomía; el uso de un verso no anula la existencia del soneto."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de contradicción, porque el verso cambia obligatoriamente de significado.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la relación intertextual puede ser de apoyo, de crítica o de juego, pero no es siempre una contradicción."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de sustitución, porque el soneto queda reemplazado por el texto que lo cita.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque citar no reemplaza; el texto anterior sigue existiendo y puede seguir siendo consultado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la relación intertextual significa ver que un texto es siempre una respuesta a otros textos. Incorporar un verso no es un adorno aislado: activa otros significados, sugiere ambientes, evoca tradiciones poéticas y permite contrastar voces. Esta comprensión es la base para analysing later lecturas comparadas, en las que dos textos se leen en diálogo y no por separado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v3",
+      "statement": "Un texto afirma que un río fue renombrado en 1902 y remite al archivo del municipio. ¿Qué permite esa remisión a quien lee con sentido inferencial?",
+      "context": "En Medellín, una estudiante lee que el río que cruza su ciudad fue renombrado en 1902, y se pregunta cómo puede comprobarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite contrastar el dato, porque el lector puede consultar el documento que lo respalda.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la remisión ofrece una vía de verificación que confirma o desmiente la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Permite saber cuántos párrafos tiene el texto que hizo la afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la cantidad de párrafos no guarda relación con la veracidad de un dato histórico."
+        },
+        {
+          "letter": "C",
+          "text": "Permite saber quién escribió la información solo por el tono del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el tono del texto no reemplaza la evidencia documental."
+        },
+        {
+          "letter": "D",
+          "text": "Permite asumir que la fecha es correcta sin necesidad de revisar nada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque justamente la posibilidad de consultar la fuente es lo que obliga a verificar la fecha."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es deducir a partir de lo que el texto ofrece. Cuando un texto remite a un archivo, a un libro o a un estudio, está abriendo una ruta de comprobación para el lector. Esa ruta diferencia una afirmación sostenida de una suposición, y es el primer paso para valorar la calidad de una fuente sin caer en la desconfianza absoluta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la ausencia de autor y de fuente resulta problemática para una lectura crítica?",
+      "context": "En Bucaramanga, una estudiante prepara un trabajo y nota que un texto publicado en Internet no indica quién lo escribió ni de dónde salió el dato principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque impide saber quién responde por la información y cuál es su punto de partida.",
+          "is_correct": true,
+          "feedback": "Correcta, porque sin autoría ni referencia no hay con quién responder por lo afirmado ni contra qué dato contrastar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todo texto sin autor es necesariamente falso.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la falta de autor es una señal de alerta, no una prueba de falsedad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los textos anónimos no pueden desarrollar ideas claras.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la claridad de las ideas depende del argumento y del texto, no de la firma."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la autoría solo importa en las obras literarias.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la autoría y la referencia son decisivas en textos informativos, scientists y periodísticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leer con sentido crítico implica preguntar quién produce el discurso, con qué intención, desde qué lugar y con qué evidencia. Un texto sin autor ni referencia debilita el valor de la información, aunque el contenido pueda ser cierto. Por eso, en la lectura crítica, la ausencia de datos de publicación es una pista que debe investigarse, no un detalle decorativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v5",
+      "statement": "Un texto cita versos de Rubén Darío. ¿Qué estrategia le permite al estudiante identificar con rapidez ese intertexto?",
+      "context": "En Pereira, un estudiante prepara un trabajo en el que debe sostener una afirmación sobre poesía urbana y quiere apoyarse en un texto ajeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Localizar la frase citada y rastrear en qué texto original aparece.",
+          "is_correct": true,
+          "feedback": "Correcta, porque rastrear el fragmento permite confirmar la cita, valorarla y citarla con exactitud."
+        },
+        {
+          "letter": "B",
+          "text": "Leer el texto de abajo hacia arriba para encontrar pistas de estilo.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque alterar el orden de lectura no revela el origen de una cita."
+        },
+        {
+          "letter": "C",
+          "text": "Contar la cantidad de oraciones del capítulo para estimar su extensión.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la extensión no aporta información sobre el origen de lo citado."
+        },
+        {
+          "letter": "D",
+          "text": "Memorizar la primera palabra de cada página para tenerla luego a la mano.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque memorizar sin localizar el fragmento no resuelve la búsqueda del intertexto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar una estrategia de lectura significa escoger el procedimiento adecuado para la tarea. Cuando se busca el intertexto de una cita, la estrategia eficaz es localizar el fragmento, identificar su fuente y leerlo en contexto. Ese ejercicio permite evaluar la fidelity de la cita, detectar si fue alterada y escribir una referencia correcta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v6",
+      "statement": "¿Qué debe hacer el estudiante para que la inclusión del pasaje de la Odisea sea un uso intertextual legítimo?",
+      "context": "En Barranquilla, un estudiante escribe un ensayo sobre las migraciones y decide apoyarse en un pasaje de la Odisea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar algunas palabras de la cita para que no se reconozca su origen.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque alterar la cita para ocultar la fuente se acerca al plagio y no a un diálogo legítimo."
+        },
+        {
+          "letter": "B",
+          "text": "Referenciar el texto de origen y explicar el vínculo entre ese pasaje y su argumento.",
+          "is_correct": true,
+          "feedback": "Correcta, porque el uso intertextual reconoce la fuente y hace explícito el sentido que la cita aporta al argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Incluir la cita sin nombrarla, porque se supone que todos la conocen.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque suponer que todos conocen una obra no exime de dar crédito a quien la escribió."
+        },
+        {
+          "letter": "D",
+          "text": "Ubicar la cita al final del texto, sin comentario ni referencia.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la ubicación al final no reemplaza la referencia ni la explicación del vínculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Citar con conciencia implica dos tareas inseparables: reconocer al otro autor y explicar la razón de la cita. Esa explicación muestra que el estudiante comprendió el texto citado y lo puso en diálogo con su propio propósito, que es exactamente lo que distingue la intertextualidad del simple relleno de citas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v7",
+      "statement": "¿Qué elemento del texto permite reconocer con certeza que hay un intertexto en esa reproducción?",
+      "context": "En Bogotá, una estudiante lee una entrada de un sitio web que reproduce un fragmento de una novela de 1950 sin cambios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tamaño de la letra con que está escrito el titular.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el diseño tipográfico no informa sobre el origen del contenido."
+        },
+        {
+          "letter": "B",
+          "text": "La cita textual atribuida a su autor original.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la cita atribuida revela de manera explícita que el contenido proviene de otro texto."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de imágenes que acompañan la entrada.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el número de imágenes no señala la existencia de un texto citado."
+        },
+        {
+          "letter": "D",
+          "text": "La hora en que se publicó la entrada en la página.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la hora de publicación no cumple ninguna función de atribución."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los marcadores textuales orientan la lectura. Expresiones como cita, según el autor, fragmento o en palabras de indican que existe un texto anterior. Reconocer estos marcadores permite rastrear el intertexto con seguridad y evita confundir una reproducción reconocida con una apropiación silenciosa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v8",
+      "statement": "¿Qué información debe registrar el estudiante para que su análisis del mural sea completo?",
+      "context": "En Medellín, un estudiante recorre su barrio y ve un mural que reproduce versos de un poema nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el color dominante del mural, porque define por sí mismo su contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el color describe la apariencia y no permite identificar el intertexto."
+        },
+        {
+          "letter": "B",
+          "text": "La ubicación del mural, el poema citado y el autor de ese poema.",
+          "is_correct": true,
+          "feedback": "Correcta, porque esos tres datos vinculan la obra del espacio público con su texto de origen."
+        },
+        {
+          "letter": "C",
+          "text": "El número de personas que lo pintaron, porque reemplaza la cita del poema.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la autoría del mural no sustituye la referencia del texto citado."
+        },
+        {
+          "letter": "D",
+          "text": "La altura del muro, porque permite entender mejor el sentido del poema.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las medidas del soporte nosaysnada sobre el vínculo entre los textos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar una obra local exige situarla. Registrar dónde se encuentra, qué texto toma y quién lo escribió permite describir cómo un espacio del barrio dialoga con la tradición literaria del país. Este registro es, además, la base para citar correctamente el mural en un trabajo académico escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v9",
+      "statement": "Si solo una de las dos notas remite al informe que sustenta su versión, ¿qué se puede inferir sobre la solidez de cada una?",
+      "context": "En Cali, un estudiante lee dos notas de prensa sobre un mismo hecho local y nota que una cita a un informe y la otra no lo hace.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos versiones son igual de verificables, porque las dos hablan del mismo hecho.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque tratar el mismo asunto no garantiza la misma calidad de evidencia en cada versión."
+        },
+        {
+          "letter": "B",
+          "text": "La que cita el informe ofrece una base verificable; la otra queda en el plano de la afirmación.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la remisión permite comprobar los datos, mientras la versión sin respaldo queda sin verificar."
+        },
+        {
+          "letter": "C",
+          "text": "La que no cita el informe es siempre la correcta, porque su redacción es más fluida.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la fluidez del lenguaje no reemplaza la evidencia documental."
+        },
+        {
+          "letter": "D",
+          "text": "La cita del informe demuestra que el informe es falso.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque citar un informe no invalida el informe; al contrario, abre la posibilidad de contrastarlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir la solidez de una versión significa rastrear su base probatoria. Una nota que remite a un informe permite que cualquier lector verifique los datos; una nota que solo afirma deja al lector en la duda. Esta distinción es esencial para construir un criterio propio frente a la cantidad de información que llega cada día por distintos medios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v10",
+      "statement": "¿Qué debe comparar el estudiante para distinguir con precisión las dos versiones de la leyenda?",
+      "context": "En Pereira, un estudiante escucha a su abuelo contar una leyenda en un video y luego lee la misma leyenda impresa en un libro regional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la cantidad de páginas de cada versión.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la extensión no revela qué elementos del relato cambiaron entre una versión y otra."
+        },
+        {
+          "letter": "B",
+          "text": "Los elementos del relato y los detalles que cada versión agrega, cambia u omite.",
+          "is_correct": true,
+          "feedback": "Correcta, porque comparar la estructura del relato y sus variantes muestra cómo cada versión transforma la tradición oral."
+        },
+        {
+          "letter": "C",
+          "text": "El idioma en que está escrita cada versión.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el idioma es un dato formal y no explica las diferencias del relato."
+        },
+        {
+          "letter": "D",
+          "text": "El costo del libro frente al costo de la grabación.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el precio de los soportes no interviene en la comparación de contenidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar versiones de un mismo relato, sea oral, impreso o audiovisual, permite ver cómo cambian los detalles según el soporte y el narrador. Ese ejercicio enseña que la tradición no es una copia idéntica, sino un proceso de recreación, y prepara al estudiante para la lectura comparada de textos literarios y no literarios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v11",
+      "statement": "¿Qué análisis mínimo exige el mensaje antes de que el grupo lo use en un trabajo escolar?",
+      "context": "En Bucaramanga, un grupo de once grado recibe en el celular un mensaje reenviado que afirma que un estudio reciente cambió la calidad del agua de un río de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir la extensión del mensaje, porque el tamaño demuestra su solidez.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la cantidad de texto escrita no determina si un dato es verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántas veces se reenvió el mensaje, porque esa cantidad valida el dato.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la circulación de un mensaje mide difusión, no calidad de la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Identificar quién realizó el estudio, dónde se publicó y qué datos y método presenta.",
+          "is_correct": true,
+          "feedback": "Correcta, porque autoría, publicación y método son los datos mínimos para valorar la base de una afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Revisar la hora en que se envió, porque el horario indica la veracidad.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la hora de envío es un dato de circulación y no de fundamento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un mensaje que circula exige separar lo que se afirma de lo que se demuestra. Los estudios reales se pueden rastrear: tienen autores, se publican en revistas o informes identificables, explican su método y ofrecen datos. Cuando esos elementos no aparecen, la afirmación es una afirmación, y usar ese tipo de contenido sin revisión debilita cualquier trabajo académico escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué la mezcla de fuentes de distinto tipo dificulta la comprensión y la valoración del artículo?",
+      "context": "En Bogotá, una estudiante lee un artículo que mezcla una cita de un pódcast, una cita de un libro y una cifra que no indica su origen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los pódcast y los libros no sirven para sostener argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la validez de una fuente depende de su rigor y su pertinencia, no de su formato."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las cifras numéricas nunca pueden aparecer en un texto periodístico.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las cifras son parte habitual del periodismo investigativo cuando se identifican."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cada tipo de fuente exige verificar su origen antes de aceptarla como respaldo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque fuentes distintas requieren chequeos distintos, y una cifra sin origen rompe la cadena de confianza."
+        },
+        {
+          "letter": "D",
+          "text": "Porque mezclar fuentes vuelve el texto ilegible para cualquier lector.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la mezcla no impide la lectura; lo que dificulta es la falta de referencias comprobables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un texto que articula varias fuentes exige preguntarse por la función de cada una. Una cita de un pódcast sirve como testimonio, una cita de un libro aporta autoridad documental y una cifra sin origen es un punto ciego. Identificar esa diferencia permite seleccionar bien la estrategia de lectura: buscar, contrastar, verificar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v13",
+      "statement": "¿Qué función cumplen esos documentos citados dentro de la novela?",
+      "context": "En Medellín, un estudiante lee una novela de época que intercala fragmentos de documentos reales de archivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper el estilo narrativo de la obra sin relación alguna con el resto del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque en una novela histórica los documentos se articulan con el estilo y la trama."
+        },
+        {
+          "letter": "B",
+          "text": "Reemplazar por completo el relato principal, porque la información real lo supera.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los documentos se integran al relato y no borran la línea narrativa de la novela."
+        },
+        {
+          "letter": "C",
+          "text": "Anclar la ficción en hechos verificables y darle verosimilitud.",
+          "is_correct": true,
+          "feedback": "Correcta, porque los documentos reales otorgan respaldo histórico y hacen verosímil la narración novelística."
+        },
+        {
+          "letter": "D",
+          "text": "Servir únicamente como adorno, porque el lector no repara en ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque esos documentos son deliberados y sostienen la verosimilitud de la ficción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar los documentos citados en una novela histórica exige ver la relación entre ficción y evidencia. Los fragmentos de archivo no decoran: ordenan el relato, confirman hechos y permiten que el lector evalúe la seriedad de la reconstrucción. Reconocer esta función enseña que la literatura también puede apoyarse en fuentes comprobables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué esas dos publicaciones no ofrecen el mismo tipo de respaldo?",
+      "context": "En Cali, una estudiante prepara una investigación escolar y consulta una entrada de enciclopedia y un artículo de revista especializada sobre el mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la enciclopedia inventa datos para simplificar la información.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la síntesis enciclopédica no es invención, aunque sí puede ser más general."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo el artículo de revista tiene autor declarado.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque las enciclopedias también registran autoría o responsabilidad editorial."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la enciclopedia expone lo generalmente aceptado, mientras el artículo expone el trabajo, los datos y las fuentes de una investigación.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la enciclopedia sintetiza lo aceptado y el artículo expone el proceso que llevó a sus resultados."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el artículo especializado nunca se actualiza después de publicarse.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los artículos se versionan y se citan con su fecha y su edición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar fuentes de distinto tipo implica reconocer que no todas resuelven la misma necesidad. La enciclopedia es un punto de partida útil para ubicar conceptos y antecedentes; el artículo especializado ofrece el método y los datos verificables. Usar una y otra según el propósito evita dos errores: tratar la síntesis como investigación o tratar la investigación como algo imposible de leer.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v15",
+      "statement": "¿Qué conocimiento necesita el grupo para valorar cómo la obra transforma el mito original?",
+      "context": "En Pereira, un grupo de grado 11 lee una novela gráfica que reescribe un mito de la región andina con dibujo y lenguaje contemporary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de la biografía del dibujante, porque eso determina la calidad de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque los datos del ilustrador son un dato, no el criterio de comparación de la reescritura."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el del género, porque el texto de origen no influye en la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la reescritura parte necesariamente de una tradición textual reconocible."
+        },
+        {
+          "letter": "C",
+          "text": "El del texto de origen y el del género, para comparar qué se conserva y qué cambia.",
+          "is_correct": true,
+          "feedback": "Correcta, porque la valoración de una reescritura exige conocer el original y las convenciones del género gráfico."
+        },
+        {
+          "letter": "D",
+          "text": "El del número de ediciones impresas, porque define el valor artístico.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la cantidad de ediciones mide difusión, no el trabajo de transformación del mito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar una reescritura intertextual requiere dos conocimientos: conocer el texto que se transforma y conocer el género que la transforma. Solo con ambos se puede decir qué elementos se conservan, cuáles se adaptan al contexto y cuáles se inventan. Esa comparación desarrolla el pensamiento crítico y evita confundir la modernización de un mito con la invención de una tradición inexistente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v16",
+      "statement": "¿Qué le permite reconocer a la estudiante el carácter local de la versión de su abuela?",
+      "context": "En Barranquilla, un estudiante compara la receta de su abuela, escrita a mano, con una receta parecida publicada en un recetario de la costa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ausencia de medidas en la versión familiar, que la vuelve automáticamente típica.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la falta de medidas no es un rasgo que defina un carácter local."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de páginas del recetario, que no aporta información sobre el origen.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la extensión del recetario es un dato formal y no un rasgo de tradición."
+        },
+        {
+          "letter": "C",
+          "text": "El hecho de que el recetario esté escrito en otro idioma, lo que lo vuelve universal.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el idioma del recetario no es lo que define el carácter local de la receta de la abuela."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de ingredientes, nombres y costumbres propios de la región donde vive.",
+          "is_correct": true,
+          "feedback": "Correcta, porque esos rasgos convierten la versión en una tradición local frente a una receta equivalente publicada en un libro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un texto de tradición oral exige identificar sus marcas locales: ingredientes, nombres de platos, expresiones y costumbres. Estos elementos conectan el recetario con la vida de la región y permiten entender cómo una receta circula entre generaciones, con variación y con memoria. Reconocer esas marcas enriquece la lectura crítica del patrimonio cultural propio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v17",
+      "statement": "La estudiante tiene a su disposición un blog sin autor, una entrada de enciclopedia, un libro académico de una editorial universitaria y un mensaje de redes sociales. ¿Cuál es la fuente más apropiada y por qué?",
+      "context": "En Bogotá, una estudiante debe seleccionar la fuente más confiable para un trabajo de grado sobre la historia de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mensaje de redes sociales, porque fue compartido muchas veces por sus contactos.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la difusión no es un criterio de autoridad ni de verificabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "El blog, porque está escrito en el idioma del lector y por eso es más claro.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la claridad de la redacción no garantiza la validez de los datos."
+        },
+        {
+          "letter": "C",
+          "text": "La entrada de enciclopedia, porque resume los temas sin detenerse en detalles.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque resumir es útil para ubicarse, pero no reemplaza el fundamento verificable de un trabajo académico."
+        },
+        {
+          "letter": "D",
+          "text": "El libro académico, porque declara autoría, método y fuentes que un lector puede verificar.",
+          "is_correct": true,
+          "feedback": "Correcta, porque ese libro ofrece los elementos mínimos para rastrear el origen de los datos y evaluar su validez."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar fuentes exige comparar criterios y no acumular apariencias. El libro académico declara autoría, editorial, método y referencias; la enciclopedia orienta; el blog orienta con menos control; el mensaje de redes sociales no ofrece garantías. Un buen trabajo escolar no se apoya solo en la fuente más cómoda de leer, sino en la que permite verificar lo afirmado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v18",
+      "statement": "¿Qué juicio es más responsable ante una referencia que no aparece en ningún archivo consulted?",
+      "context": "En Medellín, una estudiante recibe el resumen de un informe que menciona un artículo que ella no logra encontrar en ninguna base de datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citar la referencia con una fecha aproximada para que el trabajo no quede incompleto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque inventar una fecha no resuelve el problema de verificación, sino que lo agrava."
+        },
+        {
+          "letter": "B",
+          "text": "Citar el resumen tal como está, porque su redacción convincente respalda la información.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la fluent writing enmascara los vacíos de respaldo y no reemplaza la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Omitir la referencia sin avisar nada, porque la idea se puede repetir con otras palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque reescribir sin dar crédito oculta el origen y se acerca al plagio."
+        },
+        {
+          "letter": "D",
+          "text": "Sospechar que la referencia es falsa y verificar antes de citarla en el trabajo.",
+          "is_correct": true,
+          "feedback": "Correcta, porque una referencia que no se encuentra es una señal de alerta que exige verificación antes de usarla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una referencia significa ponerla a prueba: buscarla en archivos, en bases de datos y en catálogos. Cuando no aparece, la postura ética y académica es la verificación o la abstención declarada, nunca la invención. Este hábito protege la credibilidad del estudiante y enseña que la honestidad intelectual también es una competencia de lectura crítica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v19",
+      "statement": "¿Qué diferencia separa en este caso el uso intertextual legítimo del plagio?",
+      "context": "En Cali, un estudiante diseña un cartel escolar y coloca en él imágenes y una frase tomadas de un portal de noticias sin dar crédito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia depende de si el texto propio es largo o corto.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque la extensión del texto no altera la obligación de reconocer la fuente ajena."
+        },
+        {
+          "letter": "B",
+          "text": "El uso intertextual solo admite imágenes propias y el plagio nunca usa imágenes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ambos pueden usar imágenes; la diferencia es el reconocimiento del origen, no el soporte."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia es la cantidad de material tomado de la otra fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque una cantidad pequeña de material sin crédito sigue siendo un uso no autorizado."
+        },
+        {
+          "letter": "D",
+          "text": "El uso intertextual reconoce la fuente y explica su función; el plagio oculta el origen.",
+          "is_correct": true,
+          "feedback": "Correcta, porque el criterio está en el reconocimiento y en la finalidad declarada, no en el material usado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar el uso de material ajeno exige mirar la intención declarada y el crédito otorgado. Intertextualidad significa conversar con la fuente y decir de dónde viene lo tomado; plagio significa usarlo sin dejar rastro. Nombrar al autor, citar el enlace y aclarar por qué ese material sirve al cartel convierte una posible falta en un uso intertextual bien resuelto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle-v20",
+      "statement": "¿Qué procedimiento convierte esa antología en un ejemplo sólido de uso intertextual?",
+      "context": "En Bucaramanga, una antología de textos de la región reúne fragmentos de distintos autores y conserva los datos de cada uno al final de cada texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordenar los textos por año de publicación, porque la cronología reemplaza el crédito de las fuentes.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque ordenar por fecha ayuda a seguir una línea, pero no sustituye la referencia de cada autor."
+        },
+        {
+          "letter": "B",
+          "text": "Reunir los textos sin datos de autoría, para que el lector se concentre en el contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque quitar la autoría impide saber quién responde por cada fragmento y debilita la antología."
+        },
+        {
+          "letter": "C",
+          "text": "Copiar los textos completos de otros autores, porque son de dominio público.",
+          "is_correct": false,
+          "feedback": "Incorrecta, porque el dominio público se refiere a derechos, no a la ausencia de la obligación de crédito."
+        },
+        {
+          "letter": "D",
+          "text": "Reunir textos de distintos autores y conservar los datos de cada autor y la procedencia de cada fragmento.",
+          "is_correct": true,
+          "feedback": "Correcta, porque reunir voces distintas con su atribución completa construye un diálogo intertextual verificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una antología bien construida enseña a leer en plural: muestra que varios autores pueden sostener un mismo debate sin dejar de tener voz propia. Conservar los datos de autoría y la procedencia de cada fragmento es lo que convierte la recopilación en un trabajo riguroso. Ese mismo criterio debe aplicarse a los trabajos escolares que citan fuentes de distintos orígenes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
