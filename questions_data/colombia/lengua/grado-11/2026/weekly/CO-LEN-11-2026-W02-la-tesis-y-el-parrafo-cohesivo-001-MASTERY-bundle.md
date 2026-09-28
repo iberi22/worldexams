@@ -61,10 +61,10 @@ La tesis es la afirmación que el texto enuncia y que organiza todo lo demás: l
 ### Opciones
 - [ ] A) Porque aparece escrita en una oración demasiado larga.
   <!-- feedback: Incorrecto. La extensión de la oración no determina si lo que se afirma es una tesis. -->
-- [ ] B) Porque no menciona el nombre de ninguna persona.
-  <!-- feedback: Incorrecto. Un texto argumentativo no necesita nombres propios para defender su posición. -->
-- [x] C) Porque presenta un tema y lo relaciona con otro, pero no afirma qué posición se defiende sobre él.
+- [x] B) Porque presenta un tema y lo relaciona con otro, pero no afirma qué posición se defiende sobre él.
   <!-- feedback: Correcto. Sin una afirmación que pueda sostenerse, no hay nada que defender ni que discutir. -->
+- [ ] C) Porque no menciona el nombre de ninguna persona.
+  <!-- feedback: Incorrecto. Un texto argumentativo no necesita nombres propios para defender su posición. -->
 - [ ] D) Porque no incluye cifras sobre la contaminación de la ciudad.
   <!-- feedback: Incorrecto. La falta de datos no impide que exista una tesis, aunque sí puede debilitar el argumento. -->
 
@@ -84,12 +84,12 @@ Un tema indica de qué se ocupa el texto, mientras que una tesis afirma algo sob
 ¿Qué función cumple la última oración del texto dentro del párrafo argumentativo?
 
 ### Opciones
-- [x] A) Sintetiza las ideas anteriores y enuncia la conclusión que el texto propone.
-  <!-- feedback: Correcto. Recoge lo expuesto y lo convierte en la afirmación que el lector debe aceptar. -->
-- [ ] B) Abre un tema que el texto todavía no ha tratado.
+- [ ] A) Abre un tema que el texto todavía no ha tratado.
   <!-- feedback: Incorrecto. La oración no introduce un asunto nuevo, sino que cierra el desarrollo anterior. -->
-- [ ] C) Presenta un dato numérico que respalda directamente la segunda oración.
+- [ ] B) Presenta un dato numérico que respalda directamente la segunda oración.
   <!-- feedback: Incorrecto. No hay cifras en esa oración, y su función no es la de aportar un dato. -->
+- [x] C) Sintetiza las ideas anteriores y enuncia la conclusión que el texto propone.
+  <!-- feedback: Correcto. Recoge lo expuesto y lo convierte en la afirmación que el lector debe aceptar. -->
 - [ ] D) Define un término técnico que se usa en el resto del párrafo.
   <!-- feedback: Incorrecto. La oración no define conceptos, sino que expresa el cierre del razonamiento. -->
 
@@ -111,12 +111,12 @@ En un párrafo argumentativo, la oración final suele recoger lo expuesto y conv
 ### Opciones
 - [ ] A) La primera es la tesis y la segunda es un ejemplo.
   <!-- feedback: Incorrecto. La relación es la contraria: la segunda se apoya en la primera y no la ilustra. -->
-- [x] B) La primera es una afirmación general y la segunda la convierte en una tesis defendible con una consecuencia.
-  <!-- feedback: Correcto. La segunda agrega la posición que se puede sostener y que el texto propone. -->
-- [ ] C) Las dos son tesis porque las dos hablan del agua.
+- [ ] B) Las dos son tesis porque las dos hablan del agua.
   <!-- feedback: Incorrecto. Que compartan un tema no basta: solo una afirma algo que puede defenderse. -->
-- [ ] D) La primera es una conclusión y la segunda es el punto de partida.
+- [ ] C) La primera es una conclusión y la segunda es el punto de partida.
   <!-- feedback: Incorrecto. El orden es el inverso: la afirmación general sostiene la consecuencia. -->
+- [x] D) La primera es una afirmación general y la segunda la convierte en una tesis defendible con una consecuencia.
+  <!-- feedback: Correcto. La segunda agrega la posición que se puede sostener y que el texto propone. -->
 
 ### Explicacion Pedagogica
 Una afirmación general describe una característica del tema, mientras que una tesis añade la posición que el texto defiende y sus consecuencias. En el ejemplo, la primera frase es una observación sobre el agua y la segunda la convierte en un criterio de actuación defendible. Ese paso del dato general a la posición propia es lo que distingue la tesis del simple enunciado informativo.
@@ -134,10 +134,10 @@ Una afirmación general describe una característica del tema, mientras que una 
 ¿Cuál de las siguientes opciones convierte ese tema en una tesis defendible?
 
 ### Opciones
-- [ ] A) "La seguridad en el barrio de la escuela."
-  <!-- feedback: Incorrecto. Repite el tema sin afirmar nada y por eso no hay nada que defender. -->
-- [x] B) "El barrio de la escuela necesita más vigilancia nocturna porque los robos reportados aumentan los fines de semana."
+- [x] A) "El barrio de la escuela necesita más vigilancia nocturna porque los robos reportados aumentan los fines de semana."
   <!-- feedback: Correcto. Afirma una posición sobre el tema y la apoya en una razón que puede verificarse. -->
+- [ ] B) "La seguridad en el barrio de la escuela."
+  <!-- feedback: Incorrecto. Repite el tema sin afirmar nada y por eso no hay nada que defender. -->
 - [ ] C) "La seguridad es importante para todos los habitantes de Pereira."
   <!-- feedback: Incorrecto. Es una valoración general, sin una posición concreta que pueda sostenerse ni refutarse. -->
 - [ ] D) "En el barrio de la escuela hay tiendas, casas y calles."
@@ -161,10 +161,10 @@ Para transformar un tema en tesis hay que responder quién afirma qué y por qu�
 ### Opciones
 - [ ] A) Un conectivo que expresa causa.
   <!-- feedback: Incorrecto. La palabra "Ellos" no expresa una relación de causa entre las dos oraciones. -->
-- [ ] B) Un conector que expresa consecuencia.
-  <!-- feedback: Incorrecto. Tampoco se está marcando una consecuencia, sino que se continúa el desarrollo. -->
-- [x] C) Una referencia que remite a un sustantivo ya mencionado, en este caso los talleres.
+- [x] B) Una referencia que remite a un sustantivo ya mencionado, en este caso los talleres.
   <!-- feedback: Correcto. Ese tipo de referencia evita repetir el sustantivo y mantiene unido el párrafo. -->
+- [ ] C) Un conector que expresa consecuencia.
+  <!-- feedback: Incorrecto. Tampoco se está marcando una consecuencia, sino que se continúa el desarrollo. -->
 - [ ] D) Una sustitución del sujeto por un nombre propio nuevo.
   <!-- feedback: Incorrecto. La palabra "Ellos" es un pronombre, no un nombre propio, y no introduce un referente nuevo. -->
 
@@ -186,10 +186,10 @@ La cohesión se construye, entre otros recursos, con referencias que remiten a e
 ### Opciones
 - [ ] A) La hora de refuerzo debería reducirse a media hora.
   <!-- feedback: Incorrecto. El texto propone lo contrario: muestra que esa medida tiene efectos adversos. -->
-- [x] B) Reducir la hora de refuerzo perjudica a los estudiantes que más necesitan acompañamiento.
-  <!-- feedback: Correcto. La segunda oración formula la posición que las anteriores ayudan a comprender. -->
-- [ ] C) Los estudiantes de undécimo grado deben estudiar más por su cuenta.
+- [ ] B) Los estudiantes de undécimo grado deben estudiar más por su cuenta.
   <!-- feedback: Incorrecto. El texto no transfiere esa responsabilidad al estudiante, sino que cuestiona la medida. -->
+- [x] C) Reducir la hora de refuerzo perjudica a los estudiantes que más necesitan acompañamiento.
+  <!-- feedback: Correcto. La segunda oración formula la posición que las anteriores ayudan a comprender. -->
 - [ ] D) La hora de refuerzo tiene muy pocos estudiantes inscritos.
   <!-- feedback: Incorrecto. El texto no habla de la demanda del servicio, sino del efecto de recortarlo. -->
 
@@ -213,10 +213,10 @@ Una tesis puede quedar implícita cuando el autor la deforma al final del párra
   <!-- feedback: Incorrecto. Es una valorización del asunto y no una posición que el dato pueda sostener. -->
 - [ ] B) "La mitad de las familias del sector tiene conexión."
   <!-- feedback: Incorrecto. Invierte lo que dice el dato y además convierte una cifra en una tesis vacía. -->
-- [x] C) "Las autoridades deben garantizar conectividad en barrios como este, porque el acceso a internet condiciona el trabajo escolar en casa."
-  <!-- feedback: Correcto. Usa el dato como base, toma una posición clara y expone la razón que la sostiene. -->
-- [ ] D) "Las familias del sector no se conectan por decisión propia."
+- [ ] C) "Las familias del sector no se conectan por decisión propia."
   <!-- feedback: Incorrecto. Atribuye una intención que el dato no contiene y no permite ninguna discusión. -->
+- [x] D) "Las autoridades deben garantizar conectividad en barrios como este, porque el acceso a internet condiciona el trabajo escolar en casa."
+  <!-- feedback: Correcto. Usa el dato como base, toma una posición clara y expone la razón que la sostiene. -->
 
 ### Explicacion Pedagogica
 Un dato se convierte en base de una tesis cuando se usa para sostener una posición que pueda evaluarse. La opción correcta conecta la cifra con una consecuencia práctica y con la razón por la que esa posición es defendible. Las demás versiones repiten el dato, lo deforman o lo convierten en una afirmación que ni siquiera se apoya en la información presentada.
@@ -234,12 +234,12 @@ Un dato se convierte en base de una tesis cuando se usa para sostener una posici
 ¿Qué conector expresa mejor la relación entre esas dos oraciones?
 
 ### Opciones
-- [ ] A) "Aunque".
-  <!-- feedback: Incorrecto. Ese conector introduce un contraste y aquí no hay una idea que se oponga a otra. -->
-- [ ] B) "Por tanto".
-  <!-- feedback: Incorrecto. Ese conector señala consecuencia, y la segunda oración explica el motivo de la primera. -->
-- [x] C) "Gracias a que".
+- [x] A) "Gracias a que".
   <!-- feedback: Correcto. Expresa la causa que hace posible lo que se afirma en la oración principal. -->
+- [ ] B) "Aunque".
+  <!-- feedback: Incorrecto. Ese conector introduce un contraste y aquí no hay una idea que se oponga a otra. -->
+- [ ] C) "Por tanto".
+  <!-- feedback: Incorrecto. Ese conector señala consecuencia, y la segunda oración explica el motivo de la primera. -->
 - [ ] D) "En cambio".
   <!-- feedback: Incorrecto. Este conector también marca contraste y no corresponde a la relación descrita. -->
 
@@ -286,10 +286,10 @@ La progresión de un párrafo exige que cada oración se apoye en la anterior y 
 ### Opciones
 - [ ] A) Porque no aparece como una oración dentro de un párrafo.
   <!-- feedback: Incorrecto. Su ubicación en el texto no determina si puede usarse o no como tesis. -->
-- [x] B) Porque es tan amplia que admite demasiadas interpretaciones y no puede sostenerse con una evidencia concreta.
-  <!-- feedback: Correcto. Sin límites claros, la afirmación no se puede comprobar ni discutir con precisión. -->
-- [ ] C) Porque la frase tiene demasiadas palabras para funcionar como tesis.
+- [ ] B) Porque la frase tiene demasiadas palabras para funcionar como tesis.
   <!-- feedback: Incorrecto. La longitud de una tesis no es el problema, sino la vaguedad de lo que afirma. -->
+- [x] C) Porque es tan amplia que admite demasiadas interpretaciones y no puede sostenerse con una evidencia concreta.
+  <!-- feedback: Correcto. Sin límites claros, la afirmación no se puede comprobar ni discutir con precisión. -->
 - [ ] D) Porque el texto que la contiene no menciona ninguna institución.
   <!-- feedback: Incorrecto. La falta de nombres propios es ajena al problema que tiene la afirmación. -->
 
@@ -313,10 +313,10 @@ Una tesis útil debe poder acotarse para volverse comprobable. La afirmación so
   <!-- feedback: Incorrecto. La relación entre las dos oraciones no es de causa, así que el conector no es necesario. -->
 - [ ] B) La oración final no recapitula lo expuesto.
   <!-- feedback: Incorrecto. El párrafo es breve y no tiene una estructura que exija recapitulación. -->
-- [x] C) La referencia "Ellos" puede apuntar a los estudiantes o a los senderos, y esa ambigüedad debilita el párrafo.
-  <!-- feedback: Correcto. Cuando un pronombre admite dos referentes, el lector debe adivinar a qué se refiere. -->
-- [ ] D) El párrafo repite la palabra "orilla" varias veces.
+- [ ] C) El párrafo repite la palabra "orilla" varias veces.
   <!-- feedback: Incorrecto. La palabra aparece una sola vez y su repetición no es el defecto que se observa. -->
+- [x] D) La referencia "Ellos" puede apuntar a los estudiantes o a los senderos, y esa ambigüedad debilita el párrafo.
+  <!-- feedback: Correcto. Cuando un pronombre admite dos referentes, el lector debe adivinar a qué se refiere. -->
 
 ### Explicacion Pedagogica
 Una referencia resulta eficaz cuando el lector puede identificar sin dudas a qué antecedente se refiere. En el párrafo, la palabra "Ellos" podría designar a los estudiantes que repararon los senderos o a los mismos senderos reparados. Esa ambigüedad obliga a volver sobre el enunciado anterior y debilita la cohesión, por lo que conviene sustituir el pronombre por el sustantivo.
@@ -334,12 +334,12 @@ Una referencia resulta eficaz cuando el lector puede identificar sin dudas a qu�
 ¿Qué secuencia describe mejor ese avance de ideas?
 
 ### Opciones
-- [ ] A) Tesis, argumento y conclusión.
-  <!-- feedback: Incorrecto. Esa secuencia supone que el texto ya defendería una posición desde la primera oración. -->
-- [ ] B) Contraste y síntesis.
-  <!-- feedback: Incorrecto. Son relaciones entre oraciones, no los tres grados que el texto recorre. -->
-- [x] C) Presentación del tema, explicación de su naturaleza y defensa de una posición.
+- [x] A) Presentación del tema, explicación de su naturaleza y defensa de una posición.
   <!-- feedback: Correcto. El texto pasa de mostrar el hecho, a explicarlo, y finalmente a defender una tesis. -->
+- [ ] B) Tesis, argumento y conclusión.
+  <!-- feedback: Incorrecto. Esa secuencia supone que el texto ya defendería una posición desde la primera oración. -->
+- [ ] C) Contraste y síntesis.
+  <!-- feedback: Incorrecto. Son relaciones entre oraciones, no los tres grados que el texto recorre. -->
 - [ ] D) Resumen, comentario y ejemplo.
   <!-- feedback: Incorrecto. Ninguno de esos tres momentos corresponde a lo que el texto hace en cada parte. -->
 
@@ -386,10 +386,10 @@ Los conectores adversativos como "aunque" construyen una tensión entre dos efec
 ### Opciones
 - [ ] A) Añade un dato que refuerza lo que se dijo en la oración anterior.
   <!-- feedback: Incorrecto. El dato no refuerza, sino que contradice la expectativa que sugería la primera oración. -->
-- [x] B) Marca un contraste y desplaza el sentido del párrafo hacia una valoración menos favorable.
-  <!-- feedback: Correcto. La primera oración hacía esperar una mejora completa y el conector la relativiza. -->
-- [ ] C) Presenta la causa de la ampliación del horario.
+- [ ] B) Presenta la causa de la ampliación del horario.
   <!-- feedback: Incorrecto. El conector no introduce una causa, sino una oposición entre dos hechos. -->
+- [x] C) Marca un contraste y desplaza el sentido del párrafo hacia una valoración menos favorable.
+  <!-- feedback: Correcto. La primera oración hacía esperar una mejora completa y el conector la relativiza. -->
 - [ ] D) Conecta dos oraciones que dicen exactamente lo mismo.
   <!-- feedback: Incorrecto. Las oraciones son distintas y, además, se oponen en su significado. -->
 
@@ -413,10 +413,10 @@ Los conectores de contraste reorganizan el sentido del párrafo porque obligan a
   <!-- feedback: Incorrecto. La extensión de una frase no determina si es una opinión o una tesis. -->
 - [ ] B) Porque la segunda menciona la expresión "me parece".
   <!-- feedback: Incorrecto. Es la primera versión la que usa esa marca de opinión y no la segunda. -->
-- [x] C) Porque la segunda afirma un efecto comprobable, mientras la primera solo expresa una valoración personal sin objeto definido.
-  <!-- feedback: Correcto. La segunda señala qué se mejora y por eso puede sostenerse o refutarse con razones. -->
-- [ ] D) Porque la primera usa primera persona y la segunda está escrita en impersonal.
+- [ ] C) Porque la primera usa primera persona y la segunda está escrita en impersonal.
   <!-- feedback: Incorrecto. La persona gramatical es un rasgo de estilo y no define la naturaleza de la afirmación. -->
+- [x] D) Porque la segunda afirma un efecto comprobable, mientras la primera solo expresa una valoración personal sin objeto definido.
+  <!-- feedback: Correcto. La segunda señala qué se mejora y por eso puede sostenerse o refutarse con razones. -->
 
 ### Explicacion Pedagogica
 Una opinión expresa una valoración personal que no puede comprobarse, mientras que una tesis afirma algo delimitado que admite pruebas. La segunda frase del ejemplo identifica una capacidad concreta y un efecto que alguien podría demostrar o discutir. Ese nivel de precisión es lo que permite construir argumentos y no solo expresar preferencias.
@@ -434,10 +434,10 @@ Una opinión expresa una valoración personal que no puede comprobarse, mientras
 ¿Cuál es el principal defecto de cohesión de este párrafo?
 
 ### Opciones
-- [ ] A) Que no usa ningún conectivo en todo el texto.
-  <!-- feedback: Incorrecto. El párrafo sí recurre a fórmulas como "el primero es" y "por eso". -->
-- [x] B) Que el conectivo "por eso" se usa sin una causa que lo justifique, porque la relación entre las dos oraciones anteriores no está establecida.
+- [x] A) Que el conectivo "por eso" se usa sin una causa que lo justifique, porque la relación entre las dos oraciones anteriores no está establecida.
   <!-- feedback: Correcto. El conector promete una consecuencia y el párrafo nunca la explica. -->
+- [ ] B) Que no usa ningún conectivo en todo el texto.
+  <!-- feedback: Incorrecto. El párrafo sí recurre a fórmulas como "el primero es" y "por eso". -->
 - [ ] C) Que repite la palabra "iluminación" dos veces.
   <!-- feedback: Incorrecto. La repetición da unidad al párrafo y no constituye un defecto de cohesión. -->
 - [ ] D) Que menciona varios factores sin enumerarlos todos.
@@ -461,10 +461,10 @@ Un conector solo cumple su función cuando la relación que anuncia existe realm
 ### Opciones
 - [ ] A) Afirmación general sobre el barrio, luego una opinión personal y por último un ejemplo.
   <!-- feedback: Incorrecto. Sitúa la opinión antes de la explicación y no construye un razonamiento. -->
-- [ ] B) Datos sin relación entre sí, luego una opinión y por último una pregunta al lector.
-  <!-- feedback: Incorrecto. La falta de relación entre los datos impide sostener una conclusión coherente. -->
-- [x] C) Presentación del tema, explicación de la relación entre los hechos y por último la tesis que se defiende.
+- [x] B) Presentación del tema, explicación de la relación entre los hechos y por último la tesis que se defiende.
   <!-- feedback: Correcto. Cada paso se apoya en el anterior y cierra con la posición que el párrafo propone. -->
+- [ ] C) Datos sin relación entre sí, luego una opinión y por último una pregunta al lector.
+  <!-- feedback: Incorrecto. La falta de relación entre los datos impide sostener una conclusión coherente. -->
 - [ ] D) Narración de una jornada típica, luego una descripción del clima y por último una recomendación.
   <!-- feedback: Incorrecto. La narración y la descripción no conectan los datos con la posición final. -->
 
@@ -511,12 +511,12 @@ Un texto argumentativo combina tres ingredientes: una tesis, razones que la sost
 ### Opciones
 - [ ] A) Que el cierre es demasiado corto para entenderse.
   <!-- feedback: Incorrecto. La longitud del cierre no es lo que genera la dificultad del texto. -->
-- [x] B) Que el cierre contradice la tesis anunciada al principio y por eso el texto no llega a un acuerdo consigo mismo.
-  <!-- feedback: Correcto. Sin coherencia entre apertura y cierre, el lector no puede determinar la posición final. -->
-- [ ] C) Que el texto usa dos términos diferentes para nombrar lo mismo.
+- [ ] B) Que el texto usa dos términos diferentes para nombrar lo mismo.
   <!-- feedback: Incorrecto. Ambas oraciones emplean términos parecidos, de modo que la dificultad no está en el vocabulario. -->
-- [ ] D) Que el cierre repite con otras palabras lo dicho en el primer párrafo.
+- [ ] C) Que el cierre repite con otras palabras lo dicho en el primer párrafo.
   <!-- feedback: Incorrecto. El cierre no repite: sostiene lo contrario de lo que se afirmó al principio. -->
+- [x] D) Que el cierre contradice la tesis anunciada al principio y por eso el texto no llega a un acuerdo consigo mismo.
+  <!-- feedback: Correcto. Sin coherencia entre apertura y cierre, el lector no puede determinar la posición final. -->
 
 ### Explicacion Pedagogica
 La coherencia global de un texto depende de que la conclusión sea compatible con la tesis que se anunció. En este caso, la apertura pide aumentar las medidas y el cierre afirma que no hay nada que cambiar, de modo que ambas afirmaciones no pueden sostenerse a la vez. Detectar esa contradicción es el primer paso para revisar la construcción del texto.
