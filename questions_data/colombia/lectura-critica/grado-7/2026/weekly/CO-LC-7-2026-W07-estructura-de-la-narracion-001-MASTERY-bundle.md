@@ -57,10 +57,10 @@ La estructura de un relato tiene funciones bien definidas. La exposición presen
 ¿Qué tipo de narrador cuenta este relato?
 
 ### Opciones
-- [x] A) Un narrador en tercera persona que conoce lo que sienten y piensan los personajes.
-  <!-- feedback: El narrador cuenta los hechos en tercera persona, pero además informa sobre la promesa interna de Yuko y sobre lo que su padre le enseñó: eso es narración omnisciente. -->
-- [ ] B) Un narrador en primera persona que cuenta su propia historia.
+- [ ] A) Un narrador en primera persona que cuenta su propia historia.
   <!-- feedback: En primera persona el narrador sería uno de los personajes y usaría "yo"; aquí el narrador llama a Yuko por su nombre y no participa en los hechos. -->
+- [x] B) Un narrador en tercera persona que conoce lo que sienten y piensan los personajes.
+  <!-- feedback: El narrador cuenta los hechos en tercera persona, pero además informa sobre la promesa interna de Yuko y sobre lo que su padre le enseñó: eso es narración omnisciente. -->
 - [ ] C) Un narrador testigo que solo describe lo que ve y oye, sin conocer los pensamientos de nadie.
   <!-- feedback: Ese narrador testigo quedaría por fuera de la mente de los personajes; el texto, en cambio, revela lo que Yuko había prometido en secreto. -->
 - [ ] D) Un narrador que se limita a describir el decorado sin intervenir en las decisiones de los personajes.
@@ -80,12 +80,12 @@ El narrador omnisciente cuenta la historia en tercera persona, pero conoce tambi
 Según la estructura del relato, ¿qué hecho corresponde al clímax?
 
 ### Opciones
-- [x] A) El viernes, cuando Yuko sube al estrado y lee su relato en voz alta ante todo el patio.
-  <!-- feedback: El clímax es el momento de mayor tensión, y aquí se concentra todo lo que el personaje temía: leer en público después de la burla de sexto grado. -->
-- [ ] B) El anuncio del concurso de lectura, que le propone al colegio una situación nueva.
+- [ ] A) El anuncio del concurso de lectura, que le propone al colegio una situación nueva.
   <!-- feedback: El anuncio pertenece al nudo: introduce el conflicto y la dificultad, no la resolución de la tensión. -->
-- [ ] C) La caminata diaria desde el barrio La Estrada hasta el colegio.
+- [ ] B) La caminata diaria desde el barrio La Estrada hasta el colegio.
   <!-- feedback: La caminata forma parte de la exposición, porque describe la rutina del personaje y el espacio donde vive. -->
+- [x] C) El viernes, cuando Yuko sube al estrado y lee su relato en voz alta ante todo el patio.
+  <!-- feedback: El clímax es el momento de mayor tensión, y aquí se concentra todo lo que el personaje temía: leer en público después de la burla de sexto grado. -->
 - [ ] D) La reacción del padre cuando le arregla a Yuko el despertador de su madre.
   <!-- feedback: Ese episodio es una escena de apoyo que prepara el desenlace, pero no concentra la tensión principal del relato. -->
 
@@ -103,14 +103,14 @@ Identificar el clímax exige aplicar la definición de la estructura: es el inst
 ¿Cuál de las cuatro secuencias ordena correctamente esos momentos según la estructura del relato?
 
 ### Opciones
-- [x] A) Exposición (2), nudo (4), clímax (1), desenlace (3).
-  <!-- feedback: La secuencia respeta el orden del relato: primero se presenta la vida tranquila, luego aparece el conflicto, después la tensión máxima y al final la resolución. -->
-- [ ] B) Nudo (4), exposición (2), clímax (1), desenlace (3).
+- [ ] A) Nudo (4), exposición (2), clímax (1), desenlace (3).
   <!-- feedback: El nudo no puede ir antes de la exposición, porque el conflicto necesita una situación inicial ya presentada para tener sentido. -->
-- [ ] C) Exposición (2), nudo (1), clímax (3), desenlace (4).
+- [ ] B) Exposición (2), nudo (1), clímax (3), desenlace (4).
   <!-- feedback: Esta secuencia invierte el orden: la lectura en el estrado ocurre después de la escritura, y el ejercicio de los relojes es posterior al aplauso. -->
-- [ ] D) Desenlace (3), exposición (2), nudo (4), clímax (1).
+- [ ] C) Desenlace (3), exposición (2), nudo (4), clímax (1).
   <!-- feedback: El desenlace se coloca al principio, lo que rompe la lógica del relato: no se puede resolver antes de que exista el conflicto. -->
+- [x] D) Exposición (2), nudo (4), clímax (1), desenlace (3).
+  <!-- feedback: La secuencia respeta el orden del relato: primero se presenta la vida tranquila, luego aparece el conflicto, después la tensión máxima y al final la resolución. -->
 
 ### Explicacion Pedagogica
 Ordenar los momentos de un relato es la forma más segura de comprobar si se entiende la estructura. Un relato bien construido avanza de la situación inicial al conflicto, del conflicto al momento decisivo y de ese momento a la resolución. Si un orden no tiene sentido, es porque se movió una de esas cuatro piezas. Aplicar este ordenamiento con "El último timbre" deja claro que la vida cotidiana, el anuncio del concurso, la lectura en el estrado y el final forman una cadena que va del miedo a la transformación.
@@ -149,10 +149,10 @@ El desenlace cumple una función precisa dentro del relato: resolver el conflict
 ¿Qué efecto produce en el lector que el narrador presente un dato que solo existe en la mente de Yuko?
 
 ### Opciones
-- [x] A) Permite comprender el motivo de su miedo y, por tanto, el peso que tiene la lectura en el estrado.
-  <!-- feedback: Al conocer la promesa interna, el lector entiende que la tensión del clímax no es caprichosa: tiene una causa concreta en la experiencia del personaje. -->
-- [ ] B) Convierte el relato en un diario íntimo en primera persona, porque el narrador escribe lo que Yuko piensa.
+- [ ] A) Convierte el relato en un diario íntimo en primera persona, porque el narrador escribe lo que Yuko piensa.
   <!-- feedback: El narrador sigue en tercera persona y no usa "yo": contar hechos y añadir la vida interior del personaje no convierte el texto en un diario. -->
+- [x] B) Permite comprender el motivo de su miedo y, por tanto, el peso que tiene la lectura en el estrado.
+  <!-- feedback: Al conocer la promesa interna, el lector entiende que la tensión del clímax no es caprichosa: tiene una causa concreta en la experiencia del personaje. -->
 - [ ] C) Convierte cada frase en un enigma que el lector debe descifrar, porque nada de lo que se dice está terminado.
   <!-- feedback: El dato sobre la promesa aclara la historia en lugar de oscurecerla, y el narrador no esconde la información hasta el final del relato. -->
 - [ ] D) Reduce la importancia de las escenas del colegio, porque lo único que importa son los pensamientos del personaje.
@@ -172,12 +172,12 @@ Analizar el narrador implica examinar qué información entrega la voz narrativa
 ¿Para qué sirven estas marcas de tiempo dentro de la estructura del relato?
 
 ### Opciones
-- [x] A) Para ordenar los hechos y mostrar el paso de una semana, de manera que se vea la transformación de Yuko.
-  <!-- feedback: Las marcas de tiempo ordenan el relato y acotan un período concreto: la rutina diaria da la exposición, los días de la semana dan el nudo y el desenlace. -->
-- [ ] B) Para crear intriga, porque esconden el momento exacto en que ocurren los hechos importantes.
+- [ ] A) Para crear intriga, porque esconden el momento exacto en que ocurren los hechos importantes.
   <!-- feedback: Al decir "el jueves en la noche" o "el viernes", el narrador precisa el tiempo en lugar de esconderlo, de modo que no se genera intriga. -->
-- [ ] C) Para romper el orden de los hechos, de manera que el lector tenga que reconstruirlos por su cuenta.
+- [ ] B) Para romper el orden de los hechos, de manera que el lector tenga que reconstruirlos por su cuenta.
   <!-- feedback: El texto respeta el orden cronológico, de la mañana del lunes a la tarde del viernes; son las marcas de tiempo las que confirman ese orden. -->
+- [x] C) Para ordenar los hechos y mostrar el paso de una semana, de manera que se vea la transformación de Yuko.
+  <!-- feedback: Las marcas de tiempo ordenan el relato y acotan un período concreto: la rutina diaria da la exposición, los días de la semana dan el nudo y el desenlace. -->
 - [ ] D) Para cambiar el espacio del relato, ya que cada marca de tiempo ubica la acción en un barrio diferente.
   <!-- feedback: Las marcas de tiempo indican cuando ocurren los hechos, no dónde: el espacio permanece entre la casa del barrio La Estrada y el colegio. -->
 
@@ -195,14 +195,14 @@ La narración ordena el tiempo con señales que el lector debe identificar. Las 
 ¿Qué relación tiene esa frase con la estructura y con el sentido del relato?
 
 ### Opciones
-- [x] A) Es el eje del relato: condensa la tensión entre la voluntad y la resignación, y el desenlace muestra a Yuko reparando su propia historia.
-  <!-- feedback: La frase da forma temática a la estructura completa: el nudo nace de la resignación de Yuko y el desenlace corresponde a su decisión de actuar por voluntad propia. -->
-- [ ] B) Es una frase decorativa, porque el texto ya no vuelve a mencionar ni los relojes ni la pregunta de Yuko.
+- [ ] A) Es una frase decorativa, porque el texto ya no vuelve a mencionar ni los relojes ni la pregunta de Yuko.
   <!-- feedback: El desenlace vuelve a los relojes, cuando Yuko les da cuerda y aprende a equilibrar el péndulo, de modo que la frase sí organiza el sentido del relato. -->
-- [ ] C) Es un comentario sobre el oficio del padre, y sirve únicamente para presentar su trabajo, sin relación con el problema de Yuko.
+- [ ] B) Es un comentario sobre el oficio del padre, y sirve únicamente para presentar su trabajo, sin relación con el problema de Yuko.
   <!-- feedback: Si la frase se limitara al oficio del padre, el texto no volvería sobre los relojes al final ni lo enfrentaría a la decisión de leer en público. -->
-- [ ] D) Es una contradicción del texto, porque antes se afirma que los relojes de la casa nunca se detenían.
+- [ ] C) Es una contradicción del texto, porque antes se afirma que los relojes de la casa nunca se detenían.
   <!-- feedback: El texto no dice que los relojes de la casa nunca se detuvieron; el tema de los relojes detenidos pertenece al relato que Yuko escribe para el concurso. -->
+- [x] D) Es el eje del relato: condensa la tensión entre la voluntad y la resignación, y el desenlace muestra a Yuko reparando su propia historia.
+  <!-- feedback: La frase da forma temática a la estructura completa: el nudo nace de la resignación de Yuko y el desenlace corresponde a su decisión de actuar por voluntad propia. -->
 
 ### Explicacion Pedagogica
 Un relato tiene un eje semántico, una idea que se repite y que las diferentes escenas van mostrando de distintas formas. La frase del padre funciona como ese eje: en ella se oponen la voluntad de reparar y la resignación a no hacerlo. Esa tensión reaparece en la historia de Yuko, que también está detenido por el miedo y debe decidir si actúa o se rinde. Reconocer el eje semántico permite explicar por qué el desenlace tiene sentido y no es un final añadido al final.
@@ -241,10 +241,10 @@ Evaluar el desenlace exige aplicar un criterio y defenderlo con razones. Un rela
 ¿Cuál de las siguientes evaluaciones del texto, basada en su propósito y en su estructura, está mejor sustentada?
 
 ### Opciones
-- [x] A) El texto cumple un propósito educativo y argumental: su estructura lleva a Yuko del miedo a la voz propia, y el desenlace muestra que leer en voz alta transforma a quien lo hace.
-  <!-- feedback: La evaluación relaciona la estructura con la intención del autor y con el efecto en el lector, que es lo que se espera al avaliar un texto completo. -->
-- [ ] B) El texto sirve únicamente como recompensa para un concurso de lectura, de manera que su estructura importa menos que el cuaderno entregado.
+- [ ] A) El texto sirve únicamente como recompensa para un concurso de lectura, de manera que su estructura importa menos que el cuaderno entregado.
   <!-- feedback: Limitar el propósito a un premio borra la dimensión formativa del relato: lo aprendido por Yuko va mucho más allá del premio del concurso. -->
+- [x] B) El texto cumple un propósito educativo y argumental: su estructura lleva a Yuko del miedo a la voz propia, y el desenlace muestra que leer en voz alta transforma a quien lo hace.
+  <!-- feedback: La evaluación relaciona la estructura con la intención del autor y con el efecto en el lector, que es lo que se espera al avaliar un texto completo. -->
 - [ ] C) El texto se escribió para que los estudiantes copien la estructura, y por eso debe leerse como un modelo mecánico, sin importar el contexto.
   <!-- feedback: Un texto no es una plantilla: su sentido depende del contexto, del espacio de Bogotá y de la vida escolar que representa, no solo de su forma. -->
 - [ ] D) El texto sirve para demostrar que leer en público es siempre un riesgo, de manera que el desenlace confirma esa advertencia.
