@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-5-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T00:36:02.521Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una secuencia causal?",
+      "context": "En el colegio de Medellín, la profesora de Lengua escribe en el tablero la lista de los tipos de secuencia que se estudiarán en la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la conexión ordenada de unos hechos donde cada uno explica o produce el siguiente.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia causal encadena hechos y establece la relación de causa y efecto entre ellos."
+        },
+        {
+          "letter": "B",
+          "text": "Es la disposición de varios objetos según un criterio de tamaño o de posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa organización corresponde a otro tipo de secuencia, no a la relación de causa y efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Es el conjunto de sinónimos que el autor usa para repetir una misma palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición de sinónimos pertenece al campo de la repetición, no al de la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Es la duración que un texto dedica a cada una de sus partes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duración de las partes se relaciona con la extensión, no con el tipo de secuencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia causal presenta hechos encadenados de manera que cada uno es condición o consecuencia del anterior. En un texto sobre el cambio climático o sobre la erosión de un cerro, es fácil reconocer esta estructura porque cada párrafo responde a la pregunta de por qué ocurrió lo que se narra en el anterior. Reconocerla permite leer con expectativa y anticipar la dirección del razonamiento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v2",
+      "statement": "Un texto que pasa de una afirmación general sobre el agua en la ciudad a un caso particular de un barrio vecino que se quedó sin servicio, ¿qué secuencia utiliza?",
+      "context": "En Cali, un grupo de once grado lee un texto que empieza por lo general y termina por lo particular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Causal, porque cada caso particular produce el fenómeno general descrito al principio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no presenta una producción de lo general a partir de lo particular."
+        },
+        {
+          "letter": "B",
+          "text": "Explicativa, porque organiza la información de manera que el lector comprenda el fenómeno.",
+          "is_correct": true,
+          "feedback": "Correcto. El descenso de lo general a lo concreto es la forma típica de la secuencia explicativa."
+        },
+        {
+          "letter": "C",
+          "text": "Deductiva, porque parte de una verdad general para concluir un caso singular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deducción sí parte de lo general, pero para demostrar una conclusión, no para describir un caso."
+        },
+        {
+          "letter": "D",
+          "text": "Comparativa, porque pone en paralelo la situación de dos barrios distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay dos elementos que se comparen entre sí en este fragmento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La secuencia explicativa desciende de lo general a lo particular con el fin de que el lector comprenda un fenómeno: primero define, luego describe y por último ofrece ejemplos. Cuando el orden se invierte y se sube de lo particular a lo general, la secuencia es inductiva. Reconocer la dirección en que avanza el razonamiento es la clave para clasificar correctamente la estructura.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué caracteriza a la secuencia inductiva?",
+      "context": "En el colegio de Pereira, la profesora de Lengua pide a los estudiantes de once grado que lean un párrafo que acumula ejemplos para sostener una afirmación general.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parte de una conclusión general y desciende a los casos que la demuestran.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el recorrido de la secuencia deductiva."
+        },
+        {
+          "letter": "B",
+          "text": "Encadena hechos en los que cada uno produce al siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conexión es propia de la secuencia causal."
+        },
+        {
+          "letter": "C",
+          "text": "Reúne casos particulares hasta llegar a una afirmación general que los resume.",
+          "is_correct": true,
+          "feedback": "Correcto. La inducción generaliza a partir de ejemplos concretos y ese es su movimiento propio."
+        },
+        {
+          "letter": "D",
+          "text": "Contrasta dos objetos usando un criterio común para decidir cuál conviene más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste con criterio de decisión corresponde a la secuencia comparativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La secuencia inductiva parte de la observación de casos concretos y asciende a una afirmación general que los engloba. Su riesgo característico es que los ejemplos elegidos no representen todos los casos posibles, de modo que la generalización puede ser indebida. Analizar una inducción exige, por tanto, preguntar si las muestras reunidas son suficientes para sostener la conclusión.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v4",
+      "statement": "Un texto presenta dos reglas, luego un caso que no las cumple y, al final, la conclusión de que las reglas deben revisarse. ¿Qué secuencia está usando?",
+      "context": "En Barranquilla, un tutor asigna a los grupos de once grado la tarea de reconstruyen el orden de razonamiento de un texto deliberativo sobre el transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicativa, porque el texto describe cómo funcionan las reglas en la práctica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia explicativa reconstruye un proceso, no propone revisar las reglas."
+        },
+        {
+          "letter": "B",
+          "text": "Inductiva, porque el texto acumula ejemplos queagna generaliza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no reúne casos particulares para generalizar, sino que parte de una regla."
+        },
+        {
+          "letter": "C",
+          "text": "Comparativa, porque el texto pone en conflicto las reglas y un caso contrario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto se presenta para deducir una conclusión, no para elegir entre alternativas."
+        },
+        {
+          "letter": "D",
+          "text": "Deductiva, porque aplica reglas generales a un caso y obtiene de ahí una conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. La derivación de una conclusión a partir de una regla general es el movimiento deductivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La secuencia deductiva parte de principios o reglas ya establecidos y los aplica a un caso para obtener una conclusión. Su estructura es formal: si la premisa se cumple, la consecuencia se sigue necesariamente. En los textos de calidad argumentativa esta secuencia es muy frecuente, porque permite mostrar que una decisión contradice un criterio que el propio texto acepta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v5",
+      "statement": "El informe afirma: \"En 2025, el ochenta por ciento de los estudiantes de primaria llegaron a tiempo a su colegio, mientras que solo el cuarenta y cinco por ciento de los de bachillerato lo hicieron\". ¿Qué información enuncia el texto de manera explícita?",
+      "context": "En un colegio de Bucaramanga, la profesora de Lengua entrega a los estudiantes de once grado un informe sobre el uso del transporte escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos porcentajes de puntualidad, uno para primaria y otro para bachillerato, con un orden de magnitud claramente distinto.",
+          "is_correct": true,
+          "feedback": "Correcto. El fragmento enuncia ambos porcentajes y su diferencia es verificable con las cifras mismas."
+        },
+        {
+          "letter": "B",
+          "text": "La causa de que los estudiantes de bach lleguen con menos frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe no atribuye ninguna causa a la diferencia que registra."
+        },
+        {
+          "letter": "C",
+          "text": "La opinión de la autoría del informe sobre la educación pública del departamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento presenta datos sin formular un juicio valorativo."
+        },
+        {
+          "letter": "D",
+          "text": "La solución que el departamento piensa adoptar para mejorar la puntualidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna medida o propuesta aparece mencionada en ese enunciado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura literal se apoya solo en lo que el enunciado contiene. Aquí el fragmento ofrece dos cifras comparables y nada más: la causa, la valoración y la solución quedan por fuera. Reconocer con precisión ese límite evita atribuirle al texto una intención que no expresa, y permite que el análisis posterior trabaje sobre una base real y no sobre una suposición.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v6",
+      "statement": "Un texto dice que la norma exige licencia y que la mayoría de los comercios no la tiene. ¿Qué conclusión se sigue mejor?",
+      "context": "En Bogotá, los estudiantes de once grado leen un texto que afirma que una norma municipal exige/licenses certaines y que la mayoría de los comercios del barrio no la cumplen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma es imposible de cumplir en ese barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El incumplimiento generalizado no demuestra que la exigencia sea inviable."
+        },
+        {
+          "letter": "B",
+          "text": "La aplicación efectiva de la norma es un punto débil del texto o de la realidad que describe.",
+          "is_correct": true,
+          "feedback": "Correcto: el contraste entre exigencia y cumplimiento real señala un vacío de aplicación."
+        },
+        {
+          "letter": "C",
+          "text": "Los comercios que incumplen son sancionados con frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no informa sobre sanciones ni sobre su aplicación."
+        },
+        {
+          "letter": "D",
+          "text": "La norma fue eliminada porque nadie la seguía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el fragmento indica que la norma haya sido derogada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un contraste entre lo que una norma exige y lo que en la práctica ocurre revela un punto débil que el texto puede señalar sin nombrarlo directamente. Esa es la clase de conclusión que la lectura inferencial permite alcanzar, porque se apoya en dos hechos enunciados y en la distancia que existe entre ellos. Las demás opciones añaden información que el fragmento no entrega.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v7",
+      "statement": "Al escribir un párrafo, un estudiante cambia \"porque\" por \"por lo tanto\" en una oración. ¿Qué efecto produce ese cambio en el razonamiento del texto?",
+      "context": "En Medellín, la profesora de Lengua pide a los estudiantes de once grado que reescriban el mismo párrafo con distintos conectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantiene el mismo sentido, porque ambos conectores cumplen la misma función causal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cumplen la misma función: uno explica y el otro deduce."
+        },
+        {
+          "letter": "B",
+          "text": "Invierte la relación, porque convierte una explicación en una comparación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación que se invierte no es una comparación, sino la dirección del razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia la dirección del razonamiento, porque pasa de explicar una causa a extraer una consecuencia.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Porque\" introduce la razón y \"por lo tanto\" ofrece la conclusión que de ella se sigue."
+        },
+        {
+          "letter": "D",
+          "text": "Debilita el texto, porque los conectores lógicos no aportan información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores organizan la relación de las ideas y cambiar uno modifica el argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores lógicos son señales de la relación que el autor establece entre las ideas, y no adornos estilísticos. \"Porque\" presenta la razón de lo que se afirma, mientras que \"por lo tanto\" anuncia la consecuencia que se deduce de lo anterior. Sustituir uno por otro reordena el razonamiento y puede alterar el sentido, de modo que la elección del conector es una decisión argumentativa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v8",
+      "statement": "Un informe de movilidad en el corredor del río de Cali enumera el aumento de los trayectos a pie, luego el de los trayectos en transporte público y, por último, la reducción de los trayectos en automóvil. ¿Qué secuencia se observa?",
+      "context": "En Cali, los estudiantes de once grado leen un informe municipal sobre la movilidad en el corredor del río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inductiva, porque los datos se presentan como ejemplos de una tendencia mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inducción partiría de casos concretos para llegar a una afirmación general, y aquí no ocurre eso."
+        },
+        {
+          "letter": "B",
+          "text": "Causal, porque cada dato explica el siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no establece que el aumento de un modo de transporte produzca el cambio del otro."
+        },
+        {
+          "letter": "C",
+          "text": "Deductiva, porque el informe aplica una regla general a casos concretos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una regla previa que se aplique; hay una serie de datos sobre un mismo corredor."
+        },
+        {
+          "letter": "D",
+          "text": "Comparativa, porque presenta dos o más situaciones bajo un criterio común.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres indicadores se leen bajo un mismo criterio y revelan un contraste."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un texto reúne situaciones distintas bajo un mismo criterio de medición, está construyendo una comparación. En el caso de un informe de movilidad, ese criterio suele ser el número o el porcentaje de viajes por cada modo de transporte, y el contraste revela qué modo está ganando terreno y cuál se está perdiendo. Reconocer la secuencia comparativa permite interpretar la tendencia general, y no solo cada cifra aislada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v9",
+      "statement": "Un párrafo afirma: \"el problema no es la falta de cámaras, sino la confianza entre los vecinos\". ¿Qué progresión de grados se observa en esa oración?",
+      "context": "En el colegio de Pereira, los estudiantes de once grado reciben una página de un texto de opinión sobre seguridad urbana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una corrección de la escala: el texto rechaza un causa superficial y propone una más profunda.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura de negación y sustitución desplaza la explicación hacia un nivel más hondo."
+        },
+        {
+          "letter": "B",
+          "text": "Una comparación numérica entre dos formas de medición de la seguridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cifras ni unidades de medida en la oración."
+        },
+        {
+          "letter": "C",
+          "text": "Una secuencia temporal que ordena los hechos en orden de ocurrencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no establece ningún orden temporal entre hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Una enumeración de causas que van de lo general a lo particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no enumera causas ni avanza de lo general a lo particular."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La progresión de grados no es solo un aumento de longitud o de intensidad emocional: también puede ser un desplazamiento del nivel de explicación. Cuando un autor descarta una explicación evidente y propone otra más profunda, la progresión opera sobre la escala del análisis. Reconocer ese movimiento permite entender que la segunda causa no es un añadido, sino una corrección de la mirada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v10",
+      "statement": "Un texto presenta el fenómeno, luego sus causas y, en último lugar, las medidas propuestas. ¿Qué secuencia corresponde a esa organización?",
+      "context": "En Bucaramanga, la profesora de Lengua pide a los estudiantes de once grado que reconstruyan el orden de un texto sobre la erosión del suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deductiva, porque va de lo general a lo particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección general-particular corresponde a la deducción o a la explicación, no a este orden."
+        },
+        {
+          "letter": "B",
+          "text": "Explicativa, porque reconstruye el desarrollo del problema antes de proponer la respuesta.",
+          "is_correct": true,
+          "feedback": "Correcto: la secuencia explicativa va del fenómeno a las causas y luego a la propuesta."
+        },
+        {
+          "letter": "C",
+          "text": "Inductiva, porque termina en una afirmación general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no llega a una generalización a partir de casos, y no termina así."
+        },
+        {
+          "letter": "D",
+          "text": "Comparativa, porque contrapone dos soluciones distintas al problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no contrasta soluciones, sino que recorre el problema y su respuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La secuencia explicativa sigue el orden natural en que se estudia un fenómeno: primero se presenta lo que ocurre, luego se explican las razones y finalmente se indica qué se puede hacer al respecto. Ese recorrido permite que el lector comprenda antes de valorar. Es la organización más frecuente en los textos informativos de escolar y en los reportes técnicos de las entidades públicas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v11",
+      "statement": "Un texto reúne tres casos de erosión en taludes de una ciudad y generaliza que \"todos los taludes de la ciudad están en riesgo\". ¿Qué problema tiene esa inducción?",
+      "context": "En un colegio de Bogotá, un grupo de once grado discute por qué un texto le parece débil a un estudiante y sólido a otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto no usa ningún tipo de secuencia, porque solo enumera casos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enumeración de casos que desemboca en una generalización es una inducción."
+        },
+        {
+          "letter": "B",
+          "text": "El texto debería haber usado una secuencia causal en lugar de una inducción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el tipo de secuencia, sino la representatividad de la muestra."
+        },
+        {
+          "letter": "C",
+          "text": "La generalización se apoya en una muestra demasiado pequeña para sostenerla.",
+          "is_correct": true,
+          "feedback": "Correcto. Pocos casos no representan un fenómeno que afecta a toda la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión es correcta, pero está escrita en un tono demasiado informal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El asunto que se evalúa es la validez de la generalización, no el registro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una inducción es válida cuando los casos reunidos representan de manera adecuada el conjunto del que se quiere hablar. Si se generaliza sobre toda la ciudad a partir de pocos taludes identificados, la conclusión excede con mucho lo que la muestra permite sostener. Evaluar esta secuencia exige, entonces, comparar el número y la variedad de los ejemplos con el alcance de la afirmación final.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v12",
+      "statement": "Un editorial describe primero un caso grave, luego un caso más grave y termina con el más grave de todos. ¿Qué efecto busca producir esa progresión?",
+      "context": "En Medellín, un grupo de once grado analiza cómo un editorial construye su efecto sobre el lector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Precisión histórica, porque ofrece una cronología completa de los acontecimientos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto buscado no es la precisión histórica, sino el impacto sobre el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Equilibrio, porque el texto presenta Grind también los casos leves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no incluye casos leves, de modo que no hay equilibrio posible."
+        },
+        {
+          "letter": "C",
+          "text": "Claridad expositiva, porque cada ejemplo se entiende por separado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La claridad podría lograrse con cualquier orden; no explica la escalada."
+        },
+        {
+          "letter": "D",
+          "text": "Intensificación de la atmósfera del texto y presión para que el lector comparta la postura final.",
+          "is_correct": true,
+          "feedback": "Correcto: la escalada de grados empuja al lector hacia la conclusión que el autor defiende."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La progresión de grados cumple una función argumentativa además de estética: cada ejemplo más intenso prepara el siguiente y eleva la carga emocional del conjunto. Al llegar al caso más grave, el lector ha recorrido una pendiente que lo deja poco dispuesto a discutir. Reconocer ese mecanismo permite evaluar si la escalada es una estrategia legítima de persuasión o una simple acumulación de ejemplos elegidos para impresionar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v13",
+      "statement": "¿Qué efecto tiene el uso de conectores de grado como \"incluso\", \"más aún\" y \"sobre todo\" dentro de un párrafo?",
+      "context": "En el colegio de Cali, la profesora de Lengua pide a los estudiantes de once grado que identifiquen los conectores que ordenan un párrafo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marcan una escalada: cada expresión sitúa el elemento siguiente en un nivel superior al anterior.",
+          "is_correct": true,
+          "feedback": "Correcto. Estas expresiones ordenan los elementos por intensidad creciente."
+        },
+        {
+          "letter": "B",
+          "text": "Señalan un cambio de tema, porque anuncian un asunto que no tenía relación con el anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores de grado no introducen temas nuevos, sino que intensifican el mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Marcan una deducción, porque cada uno introduce la consecuencia de lo anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consecuencia se introduce con conectores causales o conclusivos, no de grado."
+        },
+        {
+          "letter": "D",
+          "text": "Reducen la extensión del párrafo, porque reemplazan las oraciones largas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función de un conector no es reducir el número de oraciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores de grado ordenan los elementos de un párrafo de menor a mayor intensidad, y esa ordenación construye una progresión perceptible para quien lee. Expresiones como \"incluso\", \"más aún\" y \"sobre todo\" señalan que lo que viene supera lo anterior en importancia o en fuerza. Reconocerlas ayuda a valorar si un texto construye un argumento sólido o solo acumula afirmaciones sucesivas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v14",
+      "statement": "Un texto afirma que \"si la escuela no enseña a reciclar, ninguna campaña municipal it'll tendrá efecto\". ¿Qué secuencia utiliza ese enunciado?",
+      "context": "En Barranquilla, un grupo de once grado analiza la estructura de un texto sobre educación ambiental en las escuelas oficiales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inductiva, porque la conclusión se apoya en un caso particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión no se apoya en un caso, sino en una regla general sobre la campaña."
+        },
+        {
+          "letter": "B",
+          "text": "Deductiva, porque una condición general se aplica a un caso para obtener una consecuencia necesaria.",
+          "is_correct": true,
+          "feedback": "Correcto: la estructura condicional convierte la conclusión en consecuencia del planteamiento general."
+        },
+        {
+          "letter": "C",
+          "text": "Comparativa, porque contrapone la responsabilidad de la escuela con la del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no compara dos alternativas, sino que formula una condición."
+        },
+        {
+          "letter": "D",
+          "text": "Causal, porque la falta de enseñanza en la escuela produce lahler efecto de la campaña.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación causal existe en el enunciado, pero la estructura formal que se revela es condicional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un enunciado con la forma \"si ocurre esto, entonces aquello\" aplica una regla general a un supuesto y obtiene una consecuencia que se sigue necesariamente. Esa es la estructura deductiva descrita por el condicional. Reconocerla permite distinguir este razonamiento de uno simplemente causal, en el que la relación entre hechos se narra sin la necesidad lógica que aquí se establece.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v15",
+      "statement": "Un informe municipal afirma: \"en diez años, las viviendas nuevas se multiplicaron, las parcelas agrícolas disminuyeron y la temperatura media del distrito subió medio grado\". ¿Qué lectura exige esa secuencia de datos?",
+      "context": "En Cali, un texto municipal presenta datos sobre el cambio en el uso del suelo en la ciudad durante una década.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lectura comparativa, porque los tres datos se ordenan bajo un mismo criterio de variación temporal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres datos cambian en sentidos distintos y con unidades diferentes, de modo que no forman un contraste homogéneo."
+        },
+        {
+          "letter": "B",
+          "text": "Una lectura literal, porque basta con transcribir los tres datos del informe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación entre los tres datos excede lo que una transcripción puede revelar."
+        },
+        {
+          "letter": "C",
+          "text": "Una lectura causal, que exige relacionar los cambios del uso del suelo con el aumento de temperatura.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres datos están dispuestos para sostener una relación de causa y efecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una lectura de suposición, porque el texto no explica la relación entre el aumento y la disminución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Interpretar la relación entre los datos no es suponer lo que el texto calla, sino deducirlo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un informe coloca en un mismo párrafo un aumento, una disminución y un efecto ambiental, está construyendo una secuencia causal. La lectura crítica debe preguntarse si la relación que se insinúa entre la disminución de parcelas y el aumento de temperatura está efectivamente demostrada o solo parece plausible. Distinguir entre lo que la secuencia sugiere y lo que prueba es la diferencia entre leer y analizar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v16",
+      "statement": "Un texto empieza comparando dos soluciones, luego explica cómo funciona una de ellas y termina recomendando esa misma. ¿Qué debe observar el lector crítico?",
+      "context": "En Pereira, los estudiantes de once grado revisan un texto que mezcla dos tipos de secuencia sin avisarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la comparación inicial no sirve, porque el texto ya conoce la respuesta de antemano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación es pertinente; lo que se debe revisar es si ambas opciones se presentan con igual detalle."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto debería ser reescrito por completo, porque no puede combinar esos recursos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Combinar recursos es legítimo y frecuente en los textos de opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Que la recomendación final es necesariamente inválida, porque sigue a una comparación incompleta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mezcla de recursos no invalida por sí sola la recomendación final."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto mezcla secuencia comparativa, explicativa y deliberativa en un mismo desarrollo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada etapa corresponde a una operación distinta dentro de un mismo escrito."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los textos reales combinan con frecuencia varias operaciones argumentativas dentro de un mismo desarrollo. Cuando un escrito compara dos alternativas, explica el funcionamiento de una y finalmente recomienda, está usando la secuencia comparativa, la explicativa y la deliberativa a la vez. Reconocer esa mezcla permite evaluar cada tramo por lo que efectivamente hace, en lugar de exigirle a todo el texto un único propósito.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v17",
+      "statement": "Un texto afirma que \"el modo de transporte más usado en la ciudad es el que más contamina\" y no ofrece datos. ¿Cuál es la mejor evaluación de ese argumento?",
+      "context": "En Bucaramanga, un grupo de once grado evalúa la calidad de un texto de opinión sobre el transporte público local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es débil, porque la premisa no garantiza la conclusión: uso y contaminación son variables distintas.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin datos que vinculen ambas variables, la conclusión no se sostiene."
+        },
+        {
+          "letter": "B",
+          "text": "Es sólido, porque la conclusión se deduce necesariamente de la premisa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que una deducción de la premisa no la convierta en una afirmación válida."
+        },
+        {
+          "letter": "C",
+          "text": "Es sólido, porque la afirmación es verificable con un estudio de campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la afirmación sea verificable no significa que el texto haya demostrado nada."
+        },
+        {
+          "letter": "D",
+          "text": "Es débil, solo porque el texto no emplea un vocabulario técnico adecuado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro lingüístico no es lo que determina la fuerza de un argumento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un argumento se sostiene cuando la premisa contiene lo necesario para la conclusión, y no basta con que ambas sean verdaderas. En este caso, la cantidad de usuarios y la cantidad de emisión de contaminantes son medidas diferentes que pueden no coincidir. Evaluar con rigor supone identificar esa distancia conceptual y exigir los datos que la cierren.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v18",
+      "statement": "Un texto afirma que \"la mitad de los hogares del barrio no tiene acceso a agua potable\". ¿Qué lectura es la más prudente a partir de ese dato?",
+      "context": "En el colegio de Bogotá, los estudiantes de once grado comparan dos redacciones de un mismo tema de recursos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua potable es un bien escaso en ese barrio y la medida adoptada no ha sido suficiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera parte es razonable, pero la segunda introduce una conclusión que el dato no permite."
+        },
+        {
+          "letter": "B",
+          "text": "Solo puede afirmarse que una fracción relevante del barrio carece de agua potable, sin añadir otras conclusiones.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la única lectura que no añade nada al contenido declarado por el texto."
+        },
+        {
+          "letter": "C",
+          "text": "El barrio necesita una política de infraestructura específica y el dato puede sustentar esa demanda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un dato de cobertura puede sustentar una demanda, pero no identifica la política concreta que corresponde."
+        },
+        {
+          "letter": "D",
+          "text": "El dato demuestra que el agua potable es un recurso abundante en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escasez de cobertura no implica abundancia del recurso en toda la ciudad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un dato aislado permite un número limitado de afirmaciones. Cuando el texto declara qué proporción carece de agua potable, lo prudente es repetir esa proporción y señalar lo que no se puede derivar de ella. Añadir un diagnóstico, un juicio sobre la eficacia de las políticas o una comparación con el resto de la ciudad excede lo que la evidencia ofrece.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es la mejor estrategia para reconstruir la secuencia de un texto extenso?",
+      "context": "En Cali, la profesora de Lengua encarga a los grupos de once grado la tarea de resumir la estructura de un texto largo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar la palabra \"en conclusión\" y copiar lo que viene después.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El remate es útil, pero no revela cómo el texto construyó su razonamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Contar los adverbios y los adjetivos de cada párrafo para medir su intensidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recuento de palabras aisladas mide el tono, no la secuencia lógica."
+        },
+        {
+          "letter": "C",
+          "text": "Identificar primero la tesis y luego clasificar cada párrafo según la operación que realiza.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis orienta y la clasificación de párrafos revela la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Buscar en el índice del texto los apartados, porque allí siempre está la secuencia completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos textos escritos de manera continua carecen de índice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconstruir la secuencia exige seguir el movimiento del razonamiento, no solo la posición de los apartados. Una estrategia eficaz combina la identificación de la tesis con el examen de cada párrafo: si expone un mecanismo, es explicativo; si encadena causas, causal; si compara, comparativo; si generaliza a partir de casos, inductivo; si aplica una regla, deductivo. Ese inventario permite describir la arquitectura completa del texto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle-v20",
+      "statement": "Un texto que compara dos opciones, explica un mecanismo y cierra con una recomendación que avanza en seis pasos cada vez más intensos. ¿Qué evaluación del conjunto resulta más precisa?",
+      "context": "En el colegio de Pereira, los estudiantes de once grado cierran la semana con una valoración de conjunto sobre un texto que combina varios recursos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto cuya fuerza depende de la calidad de su progresión, y no solo de la tesis que defiende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis es el núcleo del texto, por lo que no puede reducirse su importancia a la progresión."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto débil, porque la mezcla de recursos impide que el lector siga el razonamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mezcla de recursos no impide seguir el razonamiento; lo ordena."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto puramente explicativo, porque su desarrollo se apoya en mecanismos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto también compara y recomienda, de modo que no es puramente explicativo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto sólido, porque la progresión prepara la conclusión y la comparación sostiene la decisión.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada recurso cumple una función que refuerza la recomendación final."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto argumentativo bien construido articula recursos distintos al servicio de una sola conclusión. La comparación ofrece motivos para decidir, la explicación da fundamento a los términos que se comparan y la progresión prepara al lector para aceptar el cierre. Evaluar el conjunto exige, entonces, preguntar si cada tramo hace su parte, y no juzgar el texto por una sola de sus operaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
