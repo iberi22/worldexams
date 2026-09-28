@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T16:36:08.237Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v1",
+      "statement": "¿Qué característica describe mejor el movimiento que experimenta Diana mientras el carrusel gira?",
+      "context": "Diana, estudiante de grado 10 del Colegio San Cristóbal de Bogotá, viaja en una silla de un carrusel instalado en un parque de diversiones. La silla permanece siempre a la misma distancia del eje central mientras la plataforma gira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un movimiento rectilíneo uniforme, porque la silla avanza en línea recta por el parque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La trayectoria de la silla es una circunferencia y no una recta."
+        },
+        {
+          "letter": "B",
+          "text": "Es un movimiento circular uniforme: recorre ángulos iguales en tiempos iguales alrededor de un eje fijo.",
+          "is_correct": true,
+          "feedback": "Correcto. La distancia al eje y la rapidez angular se mantienen constantes, por eso el movimiento es circular uniforme."
+        },
+        {
+          "letter": "C",
+          "text": "Es un movimiento parabólico, porque la altura de la silla cambia durante la vuelta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un carrusel la altura permanece constante respecto al suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un movimiento circular acelerado, porque la rapidez de la silla aumenta al girar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un carrusel bien regulado mantiene constante la rapidez angular."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el movimiento circular uniforme el cuerpo describe una circunferencia de radio constante y barre ángulos iguales en intervalos de tiempo iguales. En el caso de la silla, tanto el radio como la rapidez angular se mantienen, de modo que su aceleración es radial y no tangencial.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el valor del período de rotación del rotor y cómo se relaciona con su frecuencia?",
+      "context": "En un taller de aeronáutica de Barranquilla, Camilo observa el rotor de un helicóptero detenido. Cuando el motor se enciende, el rotor completa 30 vueltas en exactamente medio minuto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$T = 0.5\\text{ s}$ y $f = 2\\text{ Hz}$, porque el período es igual a la frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la duración de una vuelta con el número de vueltas por segundo."
+        },
+        {
+          "letter": "B",
+          "text": "$T = 30\\text{ s}$ y $f = 60\\text{ Hz}$, porque el período dura todo el intervalo medido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El período corresponde a una sola vuelta y no a las 30 vueltas del intervalo."
+        },
+        {
+          "letter": "C",
+          "text": "$T = 2\\text{ s}$ y $f = 0.5\\text{ Hz}$, porque son magnitudes recíprocas: $T = 1/f$.",
+          "is_correct": true,
+          "feedback": "Correcto. 30 vueltas en 30 s equivalen a una vuelta cada 2 s, es decir 0.5 vueltas por segundo."
+        },
+        {
+          "letter": "D",
+          "text": "$T = 60\\text{ s}$ y $f = 30\\text{ Hz}$, porque el período equivale al tiempo total y la frecuencia al total de vueltas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste las dos variables y además no convertiste el medio minuto a segundos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El período $T$ es el tiempo que tarda un objeto en completar una vuelta y la frecuencia $f$ es el número de vueltas por unidad de tiempo. Ambas magnitudes son recíprocas, $T = 1/f$, y se expresan en segundos y en hercios (vueltas por segundo) respectivamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la fuerza que Andrés aplica sobre el volante es indispensable para mantener al automóvil en la trayectoria circular?",
+      "context": "Andrés conduce por la Avenida Las Américas de Cali. Al llegar a la glorieta de la Avenida 6 Oeste aumenta la fuerza sobre el volante para que su automóvil describa la curva sin salir de ella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque esa fuerza aumenta la rapidez del automóvil en cada segundo de la vuelta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez puede permanecer constante; lo que cambia es la dirección del vector velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la gravedad desaparece dentro de las curvas de la carretera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad sigue actuando sobre el vehículo y solo cambia su efecto relativo al peraltar la vía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el motor debe vencer la inercia para que el automóvil no se detenga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inercia no es una fuerza que deba vencerse; la aceleración radial es la clave."
+        },
+        {
+          "letter": "D",
+          "text": "Porque esa fuerza radial cambia continuamente la dirección de la velocidad y conserva la trayectoria circular.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin una fuerza dirigida al centro, el vehículo seguiría en línea recta y saldría de la curva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un cuerpo que recorre una circunferencia necesita una fuerza resultante siempre dirigida hacia el centro, conocida como fuerza centrípeta. Esa fuerza no modifica la rapidez, sino la dirección del vector velocidad, y por eso existe aceleración aunque la rapidez sea constante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la velocidad angular de la rueda de la bicicleta de Valentina?",
+      "context": "Valentina pedalea por la ciclorruta de la Avenida 30 de Cali. Su rueda trasera completa exactamente 3 vueltas en 12 segundos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\pi}{2}\\text{ rad/s} \\approx 1.57\\text{ rad/s}$",
+          "is_correct": true,
+          "feedback": "Correcto. $\\omega = \\frac{2\\pi n}{t} = \\frac{2\\pi (3)}{12} = \\frac{\\pi}{2}\\text{ rad/s}$."
+        },
+        {
+          "letter": "B",
+          "text": "$0.25\\text{ rad/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. $3/12 = 0.25$ son vueltas por segundo y no radianes por segundo: faltó multiplicar por $2\\pi$."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\text{ rad/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el tiempo entre el número de vueltas en lugar de dividir el ángulo total entre el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "$18.8\\text{ rad/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste el ángulo total recorrido ($2\\pi \\times 3$) y olvidaste dividirlo por el tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La velocidad angular se obtiene dividiendo el ángulo barrido entre el tiempo transcurrido: $\\omega = \\Delta\\theta / \\Delta t = 2\\pi n / t$. Cada vuelta completa corresponde a $2\\pi$ radianes, por lo que 3 vueltas en 12 s equivalen a $6\\pi/12 = \\pi/2\\text{ rad/s}$.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v5",
+      "statement": "¿Qué magnitud tiene la aceleración centrípeta de la buseta mientras atraviesa la curva descrita?",
+      "context": "En la Avenida Circunvalar de Medellín, una buseta que transporta estudiantes del Colegio Los Alpes recorre una curva de radio 50 m viajando a 20 m/s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.000\\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste velocidad por radio ($v \\times r$) en lugar de elevar la velocidad al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "$8\\text{ m/s}^2$",
+          "is_correct": true,
+          "feedback": "Correcto. $a_c = \\frac{v^2}{r} = \\frac{20^2}{50} = \\frac{400}{50} = 8\\text{ m/s}^2$."
+        },
+        {
+          "letter": "C",
+          "text": "$2.5\\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el radio entre la velocidad ($r/v$) y obtuviste unidades de tiempo, no de aceleración."
+        },
+        {
+          "letter": "D",
+          "text": "$400\\text{ m/s}^2$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste $v^2$ correctamente pero olvidaste dividir entre el radio de la curva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aceleración centrípeta de un cuerpo que describe una circunferencia se calcula con $a_c = v^2 / r$. La velocidad se expresa en metros por segundo y el radio en metros, de modo que el cociente tiene unidades de metros por segundo al cuadrado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v6",
+      "statement": "¿Qué rapidez lineal tiene el botón mientras la centrifugadora completa su vuelta?",
+      "context": "En una lavandería de Pasto, Karina coloca el uniforme de su colegio en el tambor de una centrifugadora industrial que gira a 40 rad/s. Un botón del uniforme está a 15 cm del eje de rotación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$266.7\\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste la velocidad angular entre el radio, cuando la relación correcta es $v = \\omega r$."
+        },
+        {
+          "letter": "B",
+          "text": "$0.0038\\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste el radio entre la velocidad angular, invirtiendo la relación entre las dos magnitudes."
+        },
+        {
+          "letter": "C",
+          "text": "$6\\text{ m/s}$",
+          "is_correct": true,
+          "feedback": "Correcto. $v = \\omega r = 40 \\times 0.15 = 6\\text{ m/s}$."
+        },
+        {
+          "letter": "D",
+          "text": "$0.94\\text{ m/s}$",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la longitud de la circunferencia ($2\\pi r$) en lugar de la rapidez por unidad de tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una rotación la rapidez lineal de un punto depende de su distancia al eje: $v = \\omega r$. Como la velocidad angular se expresa en radianes por segundo y el radio en metros, el producto entrega una rapidez en metros por segundo, que es la razón física por la que la tela se seca al girar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v7",
+      "statement": "¿Qué comparación correcta describe la relación entre las fuerzas centrípetas que necesitan los dos vehículos?",
+      "context": "Dos estudiantes de la Institución Educativa Los Pinos de Manizales suben a un bus de turismo que recorre una curva de 40 m de radio. El primero pasa por ese punto a 10 m/s y el segundo a 20 m/s, sin cambiar de carril.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El vehículo más rápido necesita el doble de fuerza centrípeta, porque la fuerza depende de la rapidez y no de su cuadrado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dependencia es cuadrática y no lineal, por eso el aumento real es de cuatro veces."
+        },
+        {
+          "letter": "B",
+          "text": "Ambos necesitan la misma fuerza centrípeta, porque la curvatura de la trayectoria es la misma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio es igual, pero la rapidez del segundo vehículo es doble y eso eleva la aceleración centrípeta."
+        },
+        {
+          "letter": "C",
+          "text": "El vehículo más rápido necesita ocho veces más fuerza centrípeta, porque además debe vencer la gravedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La componente gravitacional no explica la comparación y el factor es cuatro, no ocho."
+        },
+        {
+          "letter": "D",
+          "text": "El vehículo más rápido necesita cuatro veces más fuerza centrípeta, porque $F_c$ es proporcional a $v^2$.",
+          "is_correct": true,
+          "feedback": "Correcto. $10^2/40 = 2.5\\text{ m/s}^2$ y $20^2/40 = 10\\text{ m/s}^2$: al duplicar la rapidez la aceleración se cuadruplica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Como $F_c = m v^2 / r$, la fuerza centrípeta crece con el cuadrado de la rapidez y es inversamente proporcional al radio. Al conservar el radio y duplicar la rapidez, la fuerza requerida se cuadruplica, lo que explica por qué las curvas limitan la velocidad de los vehículos pesados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v8",
+      "statement": "¿Qué explicación física es correcta para el peraltamiento de las curvas en las carreteras?",
+      "context": "La vía rápida hacia Villavicencio, a la salida de Bogotá, tiene curvas peraltadas en lugar de completamente planas. Los conductores reportan que se puede tomar la curva a mayor velocidad que en una vía plana equivalente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La combinación del peso y la fuerza normal produce una componente horizontal hacia el centro y reduce la dependencia de la fricción.",
+          "is_correct": true,
+          "feedback": "Correcto. Al inclinar la vía, la resultante de esas dos fuerzas apunta parcialmente al centro y aporta parte de la fuerza centrípeta."
+        },
+        {
+          "letter": "B",
+          "text": "El peraltamiento elimina la fuerza centrípeta, por lo que el vehículo no necesita ninguna fuerza para girar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza centrípeta sigue existiendo; lo que cambia es su origen y ya no depende solo de la fricción."
+        },
+        {
+          "letter": "C",
+          "text": "El peraltamiento aumenta la masa del vehículo y por eso la fuerza centrípeta se hace mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Inclinar la vía no altera en ningún caso la masa del vehículo."
+        },
+        {
+          "letter": "D",
+          "text": "El peraltamiento disminuye la velocidad angular del giro y con ella la necesidad de aceleración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peraltamiento no reduce la velocidad angular; permite circular más rápido con la misma curvatura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una curva peraltada, parte del peso y parte de la fuerza normal se combinan para generar una componente horizontal dirigida al centro de la curva. Así, la fricción deja de ser el único agente capaz de proporcionar la aceleración centrípeta, y por eso se admiten velocidades superiores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el análisis correcto de la afirmación del profesor?",
+      "context": "En una práctica de física en el Colegio San José de Tunja, Camila coloca un objeto sobre la mesa giratoria de un tocadiscos. El profesor afirma que el objeto, al conservar su rapidez, no tiene aceleración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta: sin cambios en la rapidez no puede existir aceleración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceleración es el cambio del vector velocidad y no solamente el cambio de su módulo."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta: existe una aceleración que cambia la dirección de la velocidad y apunta al eje de rotación.",
+          "is_correct": true,
+          "feedback": "Correcto. La aceleración centrípeta es distinta de cero aunque la rapidez no cambie."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es parcialmente correcta: existe aceleración, pero es tangente a la trayectoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una aceleración tangente modificaría la rapidez y en el movimiento circular uniforme es radial."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, pero la aceleración es constante en módulo y en dirección porque el giro es uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El módulo de la aceleración es constante, pero su dirección cambia en cada instante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aceleración y rapidez son conceptos distintos. La aceleración centrípeta tiene módulo constante $a_c = v^2 / r$ en el movimiento circular uniforme, pero su dirección se reorienta en cada instante hacia el centro, de modo que el vector velocidad cambia aunque su magnitud sea la misma.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál conjunto de afirmaciones describe correctamente el movimiento de la moneda?",
+      "context": "En la introducción del taller de física de la Institución Educativa Técnica de Quibdó, cuatro estudiantes discuten qué describe el movimiento de una moneda pegada con cinta a un disco que gira en un plano horizontal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La rapidez y el vector velocidad son constantes porque el disco describe una circunferencia completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez sí es constante, pero el vector velocidad cambia de dirección en todo momento."
+        },
+        {
+          "letter": "B",
+          "text": "No existe aceleración porque la moneda siempre se mantiene a la misma distancia del eje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantener el radio constante exige precisamente una aceleración dirigida al centro."
+        },
+        {
+          "letter": "C",
+          "text": "La rapidez es constante, el vector velocidad cambia de dirección y la aceleración apunta al centro del disco.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres afirmaciones son coherentes con el movimiento circular uniforme en un plano horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "La aceleración es constante porque la moneda siempre recorre la circunferencia en el mismo sentido horario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el giro sea en un solo sentido no implica que el vector aceleración mantenga su dirección."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el movimiento circular uniforme la rapidez y el módulo de la aceleración centrípeta son constantes, mientras que las direcciones de la velocidad y de la aceleración cambian continuamente. Evaluar una afirmación exige distinguir entre el módulo de una magnitud y su dirección, que es justamente donde se concentran los errores de razonamiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v11",
+      "statement": "¿Qué relación entre las variables explica los tres datos medidos por el grupo de estudiantes?",
+      "context": "En el laboratorio de física de la Institución Educativa Francisco de Paula Santander de Cúcuta, un grupo de estudiantes midió la aceleración de una masa atada a una cuerda que gira en un plano horizontal. Datos medidos: $r = 0.20\\text{ m}$ con $v = 2.0\\text{ m/s}$ da $a = 20\\text{ m/s}^2$; $r = 0.40\\text{ m}$ con $v = 2.0\\text{ m/s}$ da $a = 10\\text{ m/s}^2$; $r = 0.20\\text{ m}$ con $v = 4.0\\text{ m/s}$ da $a = 80\\text{ m/s}^2$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a$ es directamente proporcional a $r$ e inversamente proporcional a $v$, es decir $a = r/v$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa relación daría valores crecientes con el radio y contradice la medición de 20 a 10 m/s²."
+        },
+        {
+          "letter": "B",
+          "text": "$a$ es directamente proporcional al producto $v \\times r$, es decir $a = v r$.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con $v$ y $r$ constantes el producto no varyaría y no podría explicar los tres registros."
+        },
+        {
+          "letter": "C",
+          "text": "$a$ depende únicamente de la rapidez y es independiente del radio de la trayectoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos primeros datos tienen la misma rapidez y radios distintos, pero aceleraciones diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "$a$ es directamente proporcional a $v^2$ e inversamente proporcional a $r$, es decir $a = v^2/r$.",
+          "is_correct": true,
+          "feedback": "Correcto. Al duplicar la rapidez la aceleración se cuadruplica y al duplicar el radio se reduce a la mitad, como predice la fórmula."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen análisis de datos exige encontrar la relación que reproduce todos los registros medidos. La proporcionalidad cuadrática con la rapidez y la inversa con el radio, resumida en $a_c = v^2 / r$, es la única relación que satisface simultáneamente los tres pares de valores de la tabla.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle-v12",
+      "statement": "¿Qué conclusión está mejor sustentada por los datos y por el modelo de movimiento circular?",
+      "context": "Laura y sus compañeros de la Institución Educativa Francisco José de Caldas de Soacha midieron la velocidad máxima con la que podían recorrer una curva sin derrapar: 12 m/s en el tramo plano y 22 m/s después de que la administración peraltara esa misma curva, manteniendo su longitud y su radio originales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El peraltamiento permite circular más rápido porque la resultante del peso y la normal aporta parte de la fuerza centrípeta y reduce la fricción necesaria.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia entre 12 m/s y 22 m/s se explica por la contribución de la inclinación a la fuerza centrípeta."
+        },
+        {
+          "letter": "B",
+          "text": "El peraltamiento aumentó la velocidad porque se redujo la longitud de la curva y por eso el radio fue menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado afirma que el radio y la longitud de la curva se mantuvieron constantes."
+        },
+        {
+          "letter": "C",
+          "text": "El peraltamiento aumentó la velocidad porque cambió la norma de tránsito aplicable en la vía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la norma no modifica la dinámica del movimiento circular descrita en el modelo."
+        },
+        {
+          "letter": "D",
+          "text": "El peraltamiento aumentó la velocidad porque cambió la velocidad angular de las ruedas sin modificar la rapidez del vehículo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad angular depende de la rapidez y del radio, y ninguno de los dos cambió."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una conclusión exige verificar que la explicación sea compatible con el modelo físico y con las condiciones del experimento. Cuando el radio y la longitud de la curva se mantienen, el aumento de la velocidad máxima se atribuye al peraltamiento, que aporta una componente de fuerza hacia el centro y reduce la demanda de fricción entre los neumáticos y el pavimento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
