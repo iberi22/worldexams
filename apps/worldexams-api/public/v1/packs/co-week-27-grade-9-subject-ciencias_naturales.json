@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-27-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T10:27:54.719Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v1",
+      "statement": "Cuál es la diferencia entre el calor y la energía interna de un sistema?",
+      "context": "En el laboratorio de física de un colegio de Medellín, la profesora calienta un recipiente con agua mientras el grupo debate qué significa realmente \"calor\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El calor es la energía interna acumulada en el sistema, mientras que la energía interna es el flujo de esa energía entre dos sistemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los conceptos: la energía interna es lo que está almacenado dentro del sistema y el calor es lo que viaja entre sistemas."
+        },
+        {
+          "letter": "B",
+          "text": "El calor es energía que se transfiere entre sistemas por diferencia de temperatura, y la energía interna es la energía almacenada dentro del sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. El calor es energía en tránsito, nunca energía almacenada; la energía interna es la suma de las energías microscópicas de las partículas."
+        },
+        {
+          "letter": "C",
+          "text": "Son la misma magnitud, pero el calor se mide en joules y la energía interna se mide en vatios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos se miden en joules; los vatios miden potencia, es decir, energía por unidad de tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "La energía interna existe únicamente en los gases, porque en los sólidos las partículas están quietas y no almacenan energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sólidos, líquidos y gases tienen energía interna; solo cambia la magnitud del movimiento de sus partículas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía interna es la suma de las energías de las partículas que forman un sistema: energía cinética por el movimiento de las partículas y energía potencial por las interacciones entre ellas. Cambia con la temperatura, con la cantidad de sustancia y con el estado de la materia. El calor, en cambio, no es una propiedad que un sistema posea, sino energía que se transfiere de un sistema a otro únicamente por diferencia de temperatura. Esta distinción evita el error conceptual más frecuente: decir que un objeto \"contiene calor\". Un cuerpo contiene energía interna, no calor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v2",
+      "statement": "Dos vasos idénticos contienen la misma masa de agua: uno está a 80 C y el otro a 20 C. Considerando solo el sistema agua, qué diferencia existe entre ambos?",
+      "context": "En el laboratorio de un colegio de Bogotá, dos estudiantes comparan un vaso con agua muy caliente y otro con agua a temperatura ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua a 80 C tiene más calor, porque puede ceder más energía al ambiente que el agua a 20 C.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos vasos contiene calor; el calor solo existe mientras la energía se transfiere. Lo que tienen es energía interna."
+        },
+        {
+          "letter": "B",
+          "text": "La energía interna depende de la forma del recipiente y no de la temperatura del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía interna es una propiedad del sistema de partículas; la forma del recipiente solo cambia el recipiente, no el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen la misma energía interna, porque tienen la misma masa y ocupan el mismo volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía interna depende también de la temperatura, que aquí es el factor que cambia."
+        },
+        {
+          "letter": "D",
+          "text": "El agua a 80 C tiene mayor energía interna que la que está a 20 C, aunque ambas tengan la misma composición y masa.",
+          "is_correct": true,
+          "feedback": "Correcto. A igual masa y sustancia, la energía interna depende de la temperatura porque las partículas se mueven más rápido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La energía interna es una propiedad de estado: queda completamente determinada por las variables macroscópicas del sistema. Para una misma cantidad de agua, si solo cambia la temperatura, cambia la energía interna, porque la energía cinética media de las moléculas aumenta con la temperatura. En cambio, el calor es un concepto de proceso, es decir, depende de la trayectoria: describe energía cruzando la frontera del sistema. Por eso dos sistemas pueden tener la misma energía interna y aun así intercambiar distinto número de joules entre sí.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v3",
+      "statement": "A un sistema se le transfieren 1 200 J de calor y, al mismo tiempo, el sistema realiza 300 J de trabajo sobre el entorno. Según la primera ley de la termodinámica, cómo cambia su energía interna?",
+      "context": "En un taller de física de un colegio de Bucaramanga, un grupo mide un sistema térmico que calienta un pistón mientras recibe energía de una resistencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye 1 500 J, porque el trabajo realizado consume más energía que el calor recibido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema ganó más calor del que gastó en trabajo, de modo que su energía interna aumenta, no disminuye."
+        },
+        {
+          "letter": "B",
+          "text": "No cambia, porque el calor y el trabajo son dos nombres para la misma transferencia de energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calor y trabajo son formas distintas de transferir energía y cada una tiene su propio signo en la primera ley."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta 1 500 J, porque se suman el calor recibido y el trabajo realizado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo realizado por el sistema sale de él, de modo que se resta en la primera ley."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta 900 J, porque el calor recibido supera al trabajo que salió del sistema.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera ley dice que el cambio de energía interna es el calor recibido menos el trabajo realizado por el sistema."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La primera ley de la termodinámica es una expresión de la conservación de la energía aplicada a sistemas que intercambian calor y trabajo: el cambio de energía interna es igual al calor recibido menos el trabajo realizado por el sistema. En este caso el sistema recibe 1 200 J y gasta 300 J en empujar el pistón, de modo que gana 900 J. El signo es la clave del razonamiento: el calor entra y aumenta la energía interna, mientras que el trabajo que el sistema realiza la disminuye. Un resultado negativo indicaría, en cambio, que el sistema perdió energía interna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v4",
+      "statement": "En una máquina de vapor, el gas encerrado se calienta y se expande, empujando un pistón que mueve las ruedas. Qué ocurre con la energía interna del gas durante la expansión?",
+      "context": "En un museo interactivo de un colegio de Pereira, los estudiantes observan el funcionamiento de una máquina de vapor de tamaño reducido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye hasta cero, porque toda la energía interna del gas se convierte en trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la práctica solo una fracción del calor se convierte en trabajo, y queda energía que se descarga como calor residual."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta, porque el gas se expande y ocupa un volumen mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gas no recibe calor durante la expansión que genera el trabajo; el volumen no determina el signo del cambio."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye, porque una parte de su energía interna se convierte en trabajo sobre el pistón.",
+          "is_correct": true,
+          "feedback": "Correcto. El trabajo mecánico se obtiene a costa de la energía interna del gas, que es el principio básico de toda máquina térmica."
+        },
+        {
+          "letter": "D",
+          "text": "No cambia, porque la máquina de vapor no intercambia calor con ninguna fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La máquina de vapor recibe calor de la fuente para funcionar; sin esa entrada de energía no habría expansión ni trabajo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una máquina térmica convierte parte del calor recibido de una fuente caliente en trabajo mecánico. Cuando el gas se expande, realiza trabajo sobre el pistón y esa energía sale del gas, por lo que su energía interna disminuye. El calor que el gas recibió antes, durante el calentamiento, es lo que financió ese trabajo. Ninguna máquina térmica real transfiere toda su energía interna al pistón: una parte se descarga al ambiente como calor residual, y esa parte no/apparecerá como trabajo útil.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v5",
+      "statement": "Un motor térmico recibe 2 000 J de energía en forma de calor de la fuente caliente y entrega 500 J de trabajo. Cuál es la eficiencia de ese motor?",
+      "context": "En un taller de mantenimiento de Cartagena, un técnico mide el comportamiento de un motor térmico pequeño y compara el trabajo útil con la energía suministrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 %, porque la eficiencia es el trabajo útil dividido entre la energía suministrada.",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir los 500 J de trabajo entre los 2 000 J de entrada se obtiene 0,25, es decir, 25 % de eficiencia."
+        },
+        {
+          "letter": "B",
+          "text": "40 %, porque la eficiencia es la energía suministrada dividida entre el trabajo útil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación se invierte: la eficiencia compara el trabajo obtenido con la energía invertida, nunca al revés."
+        },
+        {
+          "letter": "C",
+          "text": "75 %, porque el motor desperdicia 500 J de los 2 000 J recibidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los 1 500 J no aprovechados representan el 75 %, que es la energía desperdiciada, no la eficiencia."
+        },
+        {
+          "letter": "D",
+          "text": "4 %, porque el trabajo útil se mide dividiendo la energía suministrada por 500 J.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La división queda invertida y produce un valor sin sentido físico: la eficiencia nunca supera el 100 %."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La eficiencia de una máquina térmica se define como el cociente entre el trabajo útil que entrega y la energía térmica suministrada por la fuente caliente. Con los datos del enunciado, 500 J divididos entre 2 000 J dan 0,25, equivalente a 25 %. El 75 % restante se descarga al ambiente como calor residual. Entender esta proporción es clave en la vida cotidiana: explica por qué un motor de automóvil es más eficiente que uno de gasolina y por qué las plantas de generación eléctrica producen menos electricidad de la que consumen en combustible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v6",
+      "statement": "Un estudiante frota sus manos y de inmediato siente calor en ellas. Qué explicación es correcta desde la termodinámica?",
+      "context": "En una mañana fría de Bogotá, un estudiante sale al patio del colegio y frota sus manos antes de entrar a clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El frotamiento genera calor de la nada dentro de las manos, violando la primera ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción no crea energía: transforma energía mecánica en energía interna, respetando la conservación."
+        },
+        {
+          "letter": "B",
+          "text": "El trabajo mecánico de la fricción se transforma en energía interna de las manos, lo que eleva su temperatura.",
+          "is_correct": true,
+          "feedback": "Correcto. La fricción realiza trabajo y ese trabajo se convierte en energía interna, que es exactamente lo que percibimos como calor en las manos."
+        },
+        {
+          "letter": "C",
+          "text": "El aire circundante cede energía a las manos por contacto, y por eso aumente su temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un ambiente frío el flujo de calor va de las manos al aire, no del aire a las manos."
+        },
+        {
+          "letter": "D",
+          "text": "El calor liberado por las manos es absorbido por el aire, y por eso las manos se sienten calientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor sí fluye hacia el aire, pero la fuente inmediata del calentamiento es el trabajo de la fricción, no el aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este phenomenon cotidiano ilustra la primera ley. Cuando dos superficies se frotan, hay fuerzas de fricción que realizan trabajo sobre las manos. Parte de esa energía mecánica se transforma en energía interna de los tejidos, y el aumento de la energía interna se manifiesta como una elevación de la temperatura. La sensación de calor no indica que el aire haya transmitida energía hacia las manos, sino que allí hubo conversión de trabajo en energía interna. Ningún proceso crea energía: solo la transforma de una forma a otra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v7",
+      "statement": "Una nevera encendida se siente fría por dentro y caliente por detrás. Cuál es la explicación correcta?",
+      "context": "En un apartamento de Medellín, un técnico explica a la familia por qué la parte posterior de la nevera está más caliente que la parte delantera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La nevera traslada el frío del interior directamente al ambiente, y ese traslado es lo que calienta la parte trasera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El frío no es una sustancia que viaje: lo que se desplaza es calor, en sentido contrario al deseado, desde el interior hacia el exterior."
+        },
+        {
+          "letter": "B",
+          "text": "Toda máquina eléctrica genera calor en su parte posterior, de modo que ninguna puede enfriar su interior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generaliza sin fundamento: existen máquinas que sí enfrían, precisamente porque pueden trasladar calor desde la región fría hacia la caliente mediante trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "La nevera absorbe calor del interior y, con el trabajo eléctrico que recibe, lo expulsa hacia el ambiente, por eso se calienta por detrás.",
+          "is_correct": true,
+          "feedback": "Correcto. La nevera es una máquina térmica que invierte su funcionamiento: mueve calor de adentro hacia afuera y libera trabajo como calor en la parte trasera."
+        },
+        {
+          "letter": "D",
+          "text": "La nevera se calienta por detrás porque el mecanismo del compresor produce calor por la fricción de sus piezas internas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción interna es una pérdida menor; la causa principal es el calor del medio de refrigeración y el trabajo eléctrico disipado en el compresor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La nevera ilustra el principio de los procesos irreversibles: el calor no pasa espontáneamente de un cuerpo frío a uno caliente, sino que para lograrlo hay que invertir trabajo. La máquina térmica transfiere energía desde el interior frío hacia el ambiente más caliente. Como todo proceso espontáneo que ocurre en la naturaleza, aumenta la entropía del conjunto, y esa irreversibilidad se paga con trabajo y con calor liberado al ambiente. Por eso el aparato descarga calor por detrás y consume electricidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v8",
+      "statement": "Dos motores reciben la misma energía térmica: el motor A entrega 400 J de trabajo y el motor B entrega 300 J. Qué comparación es correcta?",
+      "context": "En un laboratorio escolar de Armenia, dos grupos construyen maquetas de motores y comparan sus resultados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es posible comparar la eficiencia sin conocer la energía interna que quedó dentro de cada motor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eficiencia se calcula solo con el trabajo entregado y la energía suministrada, sin necesidad de conocer la energía interna."
+        },
+        {
+          "letter": "B",
+          "text": "El motor A es más eficiente, porque para la misma energía de entrada entrega más trabajo útil.",
+          "is_correct": true,
+          "feedback": "Correcto. Con igual entrada, el que produce más trabajo por la misma energía convierte una mayor fracción de esa energía en trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "El motor B es más eficiente, porque entregar menos trabajo indica que aprovecha mejor el combustible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte la relación: menos trabajo útil para la misma entrada significa menor eficiencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos motores tienen la misma eficiencia, porque recibieron exactamente la misma cantidad de energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La entrada igual no garantiza igual eficiencia: la eficiencia depende de cuánta de esa energía se convierte en trabajo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La eficiencia es una razón de comparación, y por eso solo tiene sentido cuando la energía de entrada es la misma. Al dividir el trabajo útil entre la energía suministrada se obtiene 400/500 para el motor A y 300/500 para el motor B, es decir, 80 % y 60 %. El motor A convierte una fracción mayor de la energía disponible en trabajo. Este razonamiento se aplica a motores, plantas eléctricas, hornos o turbinas: la eficiencia expresa la calidad de la conversión energética.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v9",
+      "statement": "En una central térmica, de 10 000 J de energía liberada por el combustible, 3 000 J se convierten en trabajo eléctrico y 7 000 J se descargan al ambiente. Qué afirmación es coherente con la primera ley?",
+      "context": "En una clase de grado 9 de Neiva, los estudiantes analizan un diagrama de flujo de energía de una central térmica que opera cerca al municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La central convierte el 30 % de la energía del combustible en trabajo y disipa el 70 % restante como calor residual.",
+          "is_correct": true,
+          "feedback": "Correcto. La energía ni se crea ni se destruye: se reparte entre trabajo útil y calor liberado, y el reparto indica una eficiencia del 30 %."
+        },
+        {
+          "letter": "B",
+          "text": "La central incumple la primera ley, porque solo recupera el 30 % de la energía del combustible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera ley exige conservación de la energía, no aproveitamento total; el 70 % sigue existiendo como calor."
+        },
+        {
+          "letter": "C",
+          "text": "La central debería recuperar los 7 000 J restantes, porque la primera ley exige un rendimiento del 100 %.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera ley es una restricción de conservación, no de rendimiento: no obliga a que toda la energía sea útil."
+        },
+        {
+          "letter": "D",
+          "text": "Los 7 000 J quedan almacenados como energía interna dentro de la central y no salen de ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si esa energía no saliera, la central habría acumulado 10 000 J de trabajo en vez de producir solo 3 000 J."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diagrama de una central térmica es una aplicación directa de la primera ley: la energía liberada por la combustión del combustible se reparte entre el trabajo eléctrico generado, el trabajo mecánico interno y el calor que escapa por las chimeneas y los sistemas de refrigeración. La conservación de la energía se cumple exactamente; lo que la segunda ley limita es la fracción que puede convertirse en trabajo. Reconocer esta diferencia es esencial para analizar con rigor cualquier dispositivo que convierta energía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v10",
+      "statement": "Un fabricante afirma que su máquina produce hielo a partir de agua tibia sin consumir energía, y que luego el hielo se derrite en un recipiente más frío. Qué establece la segunda ley de la termodinámica frente a esa afirmación?",
+      "context": "Un inventor amateur de Tunja presenta en una feria regional un dispositivo que, según él, produce hielo sin consumir energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la afirmación es válida, porque la segunda ley solo se aplica a sistemas que intercambian calor con el medio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda ley se aplica a todo proceso real del universo, y un sistema abierto tampoco puede evitar el aumento de entropía."
+        },
+        {
+          "letter": "B",
+          "text": "Que la afirmación es imposible: no se puede obtener refrigeración o trabajo a partir de un solo recurso sin que el conjunto aumente su entropía.",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda ley prohíbe crear hielo espontáneamente sin disipar calor a una temperatura más alta; el balance entrópico debe aumentar."
+        },
+        {
+          "letter": "C",
+          "text": "Que la afirmación es válida siempre que la máquina se calibre, es decir, siempre que no sea una máquina térmica convencional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Clasificar la máquina no modifica el límite entrópico: el resultado seguiría siendo imposible."
+        },
+        {
+          "letter": "D",
+          "text": "Que la afirmación es imposible, pero solo porque la primera ley prohíbe crear energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atribuye el límite a la ley equivocada: la primera ley se respeta; quien impone el freno es la segunda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La segunda ley de la termodinámica, expresada en términos de entropía, establece que la entropía del universo aumenta en los procesos espontáneos. Por eso es imposible extraer energía de un único recurso para producir trabajo sin dejar un cambio neto desfavorable, y por eso el hielo no puede fundirse espontáneamente en un ambiente más frío. En el caso de una nevera, el calor de la bebida fría se transfiere al ambiente junto con el trabajo eléctrico consumido, y el total entrópico del conjunto aumenta. La afirmación del fabricante contradice este límite, no la conservación de la energía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v11",
+      "statement": "Un grupo presenta un dispositivo que afirma entregar 120 J de trabajo por cada 100 J de energía que consume. Cómo debe evaluarse esa propuesta?",
+      "context": "En una feria de ciencias de Bogotá, un grupo de grado 9 presenta un dispositivo y proyecta en pantalla una gráfica de su rendimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es válida siempre que el dispositivo consuma en realidad menos de 100 J de energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ajustar el valor de entrada no elimina la contradicción: si el trabajo es 120 J, la eficiencia seguiría excediendo el 100 %."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es válida si la energía que consume proviene de una fuente renovable, como la solar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen de la energía no cambia el límite termodinámico; la eficiencia depende de la conversión, no de la fuente."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es válida si el dispositivo es technologicallyusable, porque la innovación mejora el rendimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna innovación permite superar el 100 % de eficiencia, un límite que impone la segunda ley, no la técnica."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta es inválida, porque una eficiencia superior al 100 % es imposible: el dispositivo violaría la segunda ley y no podría funcionar.",
+          "is_correct": true,
+          "feedback": "Correcto. La eficiencia no puede exceder la unidad, porque siempre hay irreversibilidades que devuelven parte de la energía como calor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La eficiencia se define como el cociente entre la salida útil y la entrada de energía, y por definición ese cociente no puede superar 1. La razón es física: en toda conversión de energía ocurren irreversibilidades, como la fricción y el flujo de calor a temperatura más baja, y esa energía se disipa como calor residual. Una máquina que entregara más trabajo del que consume en energía produciría energía de la nada, lo que contradice la segunda ley. Evaluar una propuesta tecnológica exige verificar que sus cifras respecten este límite.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v12",
+      "statement": "Un equipo coloca la misma cantidad de agua caliente en dos recipientes idénticos: uno con tapa y otro sin tapa. Registra la temperatura cada diez minutos durante una hora. Qué conclusión se puede sostener con esos datos?",
+      "context": "En el proyecto de grado 9 de un colegio de Montería, un equipo investiga cómo afectan las pérdidas de calor a la temperatura de una sustancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los datos prueban que el agua pierde toda su energía interna a la misma velocidad en ambos recipientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las velocidades fueran iguales, las curvas de temperatura serían idénticas, y el experimento justement muestra diferencias entre ambas."
+        },
+        {
+          "letter": "B",
+          "text": "El recipiente con tapa conserva más energía interna, porque pierde menos calor hacia el ambiente.",
+          "is_correct": true,
+          "feedback": "Correcto. La menor pérdida de calor por hora reduce la disminución de energía interna, y eso se refleja en una temperatura final más alta."
+        },
+        {
+          "letter": "C",
+          "text": "El recipiente con tapa tiene más calor atrapado dentro, porque el calor es una sustancia que la tapa bloquea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor no se atrapa: es energía en tránsito. Lo que se conserva es energía interna, no calor contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Los datos demuestran que la tapa genera energía interna adicional dentro del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún dato de temperatura justifica creación de energía, lo que contradiría la primera ley."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este montaje es un experimento sencillo que permite poner a prueba la primera ley. Al medir la temperatura de ambos recipientes se observa que el recipiente tapado pierde temperatura más lentamente, es decir, que pierde menos energía hacia el ambiente. La temperatura es un indicador indirecto de la energía interna del agua. El dato no mide calor atrapado ni energía creada: mide qué tan rápido el sistema entrega energía al entorno, y esa pérdida depende del aislamiento disponible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

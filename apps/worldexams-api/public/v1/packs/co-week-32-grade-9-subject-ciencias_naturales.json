@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-32-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T10:27:54.726Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v1",
+      "statement": "Cuál es la función principal de los macronutrientes en la dieta?",
+      "context": "En la clase de educación física de un colegio de Pereira, la profesora prepara una maquete con los grupos de alimentos y pide relacionarlos con sus funciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proveer la energía que el organismo necesita para sus funciones y aportar materiales para construir y reparar tejidos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los macronutrientes, especialmente los carbohidratos y las grasas, son la fuente principal de energía y de materia prima del cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Regular únicamente los procesos metabólicos, porque los macronutrientes no aportan energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulación es función de vitaminas, hormonas y minerales; los macronutrientes sí aportan energía y estructura."
+        },
+        {
+          "letter": "C",
+          "text": "Formar solamente estructuras óseas y dentales, porque son los únicos componentes del hueso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hueso requiere calcio y fósforo, que son micronutrientes, además de proteínas que forman su estructura orgánica."
+        },
+        {
+          "letter": "D",
+          "text": "Servir únicamente como reservas de energía a largo plazo, sin participar en la construcción celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proteínas y los carbohidratos también son materia prima para construir y reparar tejidos celulares."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los macronutrientes son los nutrientes que el organismo necesita en cantidades mayores: carbohidratos, proteínas y grasas. Los carbohidratos y las grasas aportan energía, y las proteínas construyen y reparan tejidos como músculos, piel y órganos. A diferencia de los micronutrientes, que se requieren en cantidades pequeñas, los macronutrientes se consumen en gramos al día. Una dieta equilibrada combina los tres grupos, porque ninguno por sí solo cubre todas las necesidades del organismo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v2",
+      "statement": "Un paciente presenta sangrado frecuente de las encías y cicatrización lenta de las heridas. Cuál de estas afirmaciones explica mejor esos síntomas?",
+      "context": "En una clínica escolar de un colegio de Cali, la Graciela explica que un paciente presenta sangrado en las encías y\n\ndeficiente cicatrización.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la dieta es deficiente en vitamina D, porque esa vitamina produce directamente la coagulación de la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina D interviene en la absorción de calcio y no controla la coagulación, que depende de otras proteínas."
+        },
+        {
+          "letter": "B",
+          "text": "Que la dieta es deficiente en yodo, porque el yodo es el responsable de la síntesis de colágeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El yodo se asocia a la función de la tiroides y a la aparición de bocio, no a la síntesis de colágeno."
+        },
+        {
+          "letter": "C",
+          "text": "Que la dieta es rica en fibra, porque el exceso de fibra impide la coagulación de la sangre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fibra esousal parte de una dieta sana y no altera la coagulación; el problema es una deficiencia de vitamina C."
+        },
+        {
+          "letter": "D",
+          "text": "Que la dieta es deficiente en vitamina C, necesaria para la síntesis del colágeno que sostiene los vasos sanguíneos y la piel.",
+          "is_correct": true,
+          "feedback": "Correcto. La deficiencia de vitamina C produce el escorbuto, caracterizado por sangrado de encías, moretones y mala cicatrización."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las vitaminas y los minerales cumplen funciones específicas y su deficiencia produce enfermedades características. La vitamina C interviene en la síntesis del colágeno, la proteína que da resistencia a la piel, los tendones y los vasos sanguíneos; su ausencia produce el escorbuto. El yido se asocia a la tiroides, la vitamina D a la absorción de calcio y el hierro a la formación de hemoglobina. Reconocer el vínculo entre cada nutriente y sus manifestaciones es la base de una orientación nutricional básica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v3",
+      "statement": "Dos productos muestran en su etiqueta, por porción de 30 g: el producto A, 250 kcal y 12 g de azúcar; el producto B, 90 kcal y 3 g de azúcar. Qué conclusión es correcta?",
+      "context": "En un proyecto de grado 9 de un colegio de Medellín, un grupo compara las etiquetas nutricionales de dos productos para decidir cuál consumir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El producto A es mejor porque aporta más energía, y en la/pubertad toda la energía es beneficiosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más energía no significa mejor alimentación: la etiqueta también muestra más azúcar en el producto A."
+        },
+        {
+          "letter": "B",
+          "text": "No es posible comparar los productos, porque las etiquetas solo son válidas para productos de la misma marca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etiqueta nutricional es un estándar común y permite comparar productos de marcas distintas con igual medida de porción."
+        },
+        {
+          "letter": "C",
+          "text": "El producto B aporta menos energía y menos azúcar por porción que el producto A, según los datos de la etiqueta.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación es directa: 90 kcal frente a 250 kcal y 3 g de azúcar frente a 12 g en la misma porción."
+        },
+        {
+          "letter": "D",
+          "text": "El producto B aporta menos energía, pero más azúcar, porque el azúcar no aporta calorías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azúcar sí aporta calorías, y según la etiqueta el producto B tiene menos de los dos componentes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La etiqueta nutricional es un documento que permite evaluar la composición de un alimento. Expresa el contenido de energía en kilocalorías y la cantidad de macronutrientes y micronutrientes por porción definida por el fabricante. Para comparar dos productos hay que fijado la misma base, en este caso los 30 g de porción, y leer los mismos datos en ambos. Leer la etiqueta enseña a distinguir alimentos con mucho azúcar o sodio de alimentos que aportan más nutrientes por la misma cantidad, una habilidad útil para tomar decisiones informadas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v4",
+      "statement": "Un almuerzo equilibrado debe combinar alimentos de varios grupos. Cuál de las siguientes combinaciones es la más adecuada?",
+      "context": "En un colegio de Villavicencio, un grupo diseña un almuerzo para un compañero que come en la casa y quiere una alimentación equilibrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tortilla de papa y una arepa, porque los almidones provide energía suficiente para todo el día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los almidones aportan energía, pero una dieta de solo almidones es incompleta y poco nutritiva."
+        },
+        {
+          "letter": "B",
+          "text": "Arroz con pollo, una porción de verduras, una fruta de postre y agua, porque cubre cereales, proteína, vegetales y fruta.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación incluye cuatro grupos de la rueda de alimentos y ofrece energía, proteína, vitaminas y minerales."
+        },
+        {
+          "letter": "C",
+          "text": "Arroz con papa, un jugo en paquete y un dulce, porque todos son alimentos y por eso la dieta es completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combinación aporta muy pocas proteínas, vegetales y fruta, y añade azúcar en exceso."
+        },
+        {
+          "letter": "D",
+          "text": "Una porción de carne, un pedazo de pan y un refresco, porque las proteínas y los cereales bastan para nutrir el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Faltan frutas y verduras, y el refresco aporta azúcar y agua con muy pocos nutrientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una alimentación equilibrada combina alimentos de todos los grupos de la rueda de la alimentación colombiana: cereales y sus derivados, legumbres, frutas y verduras, alimentos proteicos como carnes, huevos o pescado, leche y sus derivados, y grasas y azúcares en cantidades pequeñas. El almuerzo con arroz, pollo, verduras, fruta y agua cubre cuatro de esos grupos. La idea no es eliminar ningún alimento, sino distribuir las porciones de manera que los grupos más nutritivos estén presentes en mayor proporción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v5",
+      "statement": "Un adolescente con dieta rica en carbohidratos y pobre en hierro presenta anemia. Por qué la anemia produce cansancio?",
+      "context": "En un examen médico escolar de un colegio de Bucaramanga, un estudiante de grado 9 presenta cansancio persistente y dificultad para concentrarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el hierro es necesario para formar la hemoglobina, que transporta el oxígeno a los tejidos, y su escasez reduce el aporte de oxígeno a las células.",
+          "is_correct": true,
+          "feedback": "Correcto. Al faltar hierro disminuye la capacidad de la sangre para transportar oxígeno, y los músculos y el cerebro trabajan con menos energía."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el hierro participa directamente en la digestión de los alimentos, y sin él los nutrientes no se absorben.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hierro interviene en el transporte de oxígeno y en otras funciones, no como enzima de la digestión."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el hierro se necesita para producir hormonas del crecimiento, y su ausencia detiene el crecimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La interrupcion del crecimiento no es la consecuencia principal de la anemia por falta de hierro."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el hierro forma parte de los músculos, y sin él el cuerpo no puede moverse con fuerza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La debilidad se debe al menor aporte de oxígeno, no a que el hierro sea un componente estructural del músculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El hierro es un mineral esencial porque forma parte del grupo hemo de la hemoglobina, la proteína que transporta el oxígeno en la sangre. Cuando la reserva de hierro es insuficiente, la hemoglobina disminuye y los tejidos reciben menos oxígeno, lo que se manifiesta como cansancio, palidez, dificultad para concentrarse y menor rendimiento físico. En la adolescencia las necesidades de hierro aumentan por el crecimiento y por las pérdidas de sangre durante la menstruación, por lo que una dieta con carne, legumbres y hojas verde oscuro es especialmente importante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v6",
+      "statement": "Un grupo registra tres días de alimentación y observa que en todos ellos faltan frutas y verduras, aunque hay cereales, huevo y bebidas azucaradas. Qué análisis es el más adecuado?",
+      "context": "En un proyecto de grado 9 de un colegio de Cúcuta, un grupo registra la alimentación de tres días y busca identificar sus aciertos y vacíos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dieta es adecuada, porque comer una vez al día garantiza que la ingesta de nutrientes sea completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia de comidas no garantiza que la ingesta de grupos de alimentos sea completa."
+        },
+        {
+          "letter": "B",
+          "text": "La dieta es deficiente en energía, porque las bebidas azucaradas no aportan calorías al organismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bebidas azucaradas sí aportan calorías, y precisamente por eso pueden reemplazar alimentos más nutritivos."
+        },
+        {
+          "letter": "C",
+          "text": "La dieta es correcta, porque los cereales y las proteínas cubren todas las necesidades de vitaminas y minerales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cereales y las proteínas no reemplazan frutas y verduras, que son la principal fuente de vitaminas y minerales."
+        },
+        {
+          "letter": "D",
+          "text": "La dieta aporta energía suficiente, pero es deficiente en vitaminas, minerales y fibra por la ausencia de frutas y verduras.",
+          "is_correct": true,
+          "feedback": "Correcto. El análisis identifica el déficit concreto: los grupos de frutas y verduras son los que aportan más vitaminas, minerales y fibra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la propia alimentación es una herramienta de educación para la salud. Al registrar lo que se come durante varios días se pueden detectar grupos de alimentos ausentes y exceso de otros. En el caso descrito, la dieta aporta energía por los cereales, las proteínas y las bebidas azucaradas, pero carece de frutas y verduras, que son la principal fuente de vitaminas, minerales y fibra. Identificar ese vacío permite proponer cambios concretos, como agregar una fruta de postre y una porción de verduras en el almuerzo y la cena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v7",
+      "statement": "Un refreso de 355 ml aporta cerca de 150 kcal y 39 g de azúcar, mientras que una bebida de agua con fruta sin azúcar añadida aporta 5 kcal y 0 g de azúcar añadida. Qué conclusión es coherente con la información?",
+      "context": "En una tienda del colegio de Bogotá, un grupo compara dos opciones de refrigerio y evalúa cuál conviene consumir con más frecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El refreso es mejor, porque sus 150 kcal ayudan a crecer durante la adolescencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía del refreso proviene en su mayor parte del azúcar, que aporta Fewerminerals yahan."
+        },
+        {
+          "letter": "B",
+          "text": "La bebida con fruta es peor, porque no contiene azúcar y el azúcar es un nutriente indispensable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azúcar no es un nutriente indispensable; el organismo obtiene azúcares simples a partir de carbohidratos complejos."
+        },
+        {
+          "letter": "C",
+          "text": "La bebida sin azúcar añadida aporta mucha menos energía y no contiene azúcar añadida, aunque la fruta sí aporta sus nutrientes.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es grande: 5 kcal frente a 150 kcal, y 0 g de azúcar añadida frente a 39 g, sin perder los nutrientes de la fruta."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas bebidas son igualmente nutritivas, porque la fruta hace que la bebida sin azúcar tenga los mismos nutrientes del refreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aportar la misma fruta no iguala la composición: el refreso contiene una cantidad muy elevada de azúcar y energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mismo número de kilocalorías puede provenir de fuentes muy distintas. El refreso aporta 150 kcal que provienen casi por completo del azúcar añadida, es decir, energía rápida sin nutrientes acompañantes. La bebida de agua con fruta sin azúcar añadida aporta 5 kcal, pero conserva la vitamina C y el potasio de la fruta. Además, el azúcar que se encuentra en la fruta forma parte de un alimento con fibra, vitaminas y agua, por lo que su efecto en el organismo es muy diferente al del azúcar refinado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v8",
+      "statement": "En la pirámide de la alimentación, por qué los cereales y los tubérculos ocupan la base?",
+      "context": "En un aula de un colegio de Armenia, la profesora presenta la pirámide de la alimentación y pide justificar la posición de cada grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son el único grupo que puede consumirse en cualquier momento sin riesgo alguno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún grupo de alimentos está libre de riesgos si se consume en exceso, y la pirámide indica proporciones, no excepciones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son la base de la dieta y deben consumirse en la mayor proporción, aportando la energía que sostiene la actividad diaria.",
+          "is_correct": true,
+          "feedback": "Correcto. La base representa el grupo que debe estar presente en mayor cantidad y con mayor frecuencia en las comidas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque son los alimentos con más vitaminas y minerales, y por eso deben consumirse en mayor cantidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cereales aportan energía, pero su riqueza en vitaminas y minerales es menor que la de frutas y verduras."
+        },
+        {
+          "letter": "D",
+          "text": "Porque deben consumirse poco, ya que engordan mucho más que los grupos de la parte superior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición en la base indica que deben consumirse mucho, y la cantidad depende del tipo de cereal y de la porción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pirámide de la alimentación representa qué grupos de alimentos deben predominar y en qué proporción. En la base están los cereales y los tubérculos, que deben aportar la mayor parte de la energía diaria, seguidos por frutas y verduras. En los niveles superiores aparecen los alimentos proteicos, los lácteos y, en la cima, las grasas y los azúcares, que deben reducirse. La lectura correcta de la pirámide no es de prohibición, sino de proporción: ningún alimento se elimina, pero los grupos superiores se consumen en cantidades menores.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v9",
+      "statement": "Un anuncio afirma que una bebida energetizante \"aumenta la energía y aporta vitaminas para toda la jornada\". Cómo debe evaluarse esa afirmación?",
+      "context": "En un trabajo de grado 9 de un colegio de Florencia, un grupo evalúa un anuncio de una bebida energetizante usando la etiqueta nutricional y el contexto de la salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es engañosa: si la bebida tiene mucho azúcar, su energía es simple y transitoria, y el cansancio que anuncia conocer suele deberse a la falta de sueño y a una dieta deficiente.",
+          "is_correct": true,
+          "feedback": "Correcto. Evaluar un anuncio exige revisar la composición y la evidencia, no aceptar el mensaje comercial tal como está."
+        },
+        {
+          "letter": "B",
+          "text": "Es válida, porque las vitaminas de la bebida sustituyen el descanso y la comida adecuada durante el día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vitaminas no reemplazan el sueño ni una dieta variada, y la bebida aporta muy poco valor nutricional."
+        },
+        {
+          "letter": "C",
+          "text": "Es válida, porque el azúcar de la bebida se convierte directamente en energía que el organismo almacena por horas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azúcar se usa de inmediato y no se almacena por horas como energía disponible."
+        },
+        {
+          "letter": "D",
+          "text": "Es inválida solo porque las bebidas energetantes están prohibidas para menores de edad, y no por su composición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón principal para desconfiar del anuncio es científica: la composición no justifica los beneficios que promete."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un anuncio comercial debe evaluarse con criterios científicos, no con su mensaje publicitario. Las bebidas energetantes suelen contener alta cantidad de azúcar, de modo que la energía que aportan es simple y transitoria, y pueden causar problemas de sueño o de retención de líquidos si se consumen con frecuencia. Las vitaminas añadidas no sustituyen una alimentación variada ni el descanso, por lo que el cansancio sostenido debe investigarse desde la alimentación y el sueño, y no con bebidas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v10",
+      "statement": "Un equipo de salud evalúa a un niño y encuentra que tiene bajo peso para su edad, estatura detenida y frecuentes infecciones. Qué problema nutricional presenta y por qué?",
+      "context": "En una salida escolar a un centro de salud de un colegio de Florencia, un estudiante pregunta cómo se detecta la desnutrición infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobrepeso, porque el bajo peso y la talla detenida indican que el niño consume demasiadas calorías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bajo peso para la edad y la talla detenida son indicadores de déficit, no de exceso de energía."
+        },
+        {
+          "letter": "B",
+          "text": "Deficiencia de vitamina C, porque las infecciones frecuentes son la única manifestación del escorbuto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deficiencia de vitamina C produce sangrado de encías y mala cicatrización, no un conjunto de signos de desnutrición crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Obesidad, porque el exceso de azúcar en la dieta de un niño produce baja talla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es coherente vincular el exceso de azúcar con la baja talla; el problema descrito es de falta de nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "Desnutrición crónica, por un aporte insuficiente y sostenido de energía y nutrientes que impide un crecimiento adecuado y debilita las defensas.",
+          "is_correct": true,
+          "feedback": "Correcto. La desnutrición crónica se caracteriza por la retraso en el crecimiento y la mayor frecuencia de infecciones por Thinking del sistema inmune."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La desnutrición se distingue de la sobrenutrición por el origen del problema: en la desnutrición falta energía o nutrientes, y en la sobrenutribución hay exceso de energía con escasez de nutrientes. La desnutrición crónica aparece cuando el déficit se prolonga durante meses o años, y se manifiesta con bajo peso para la edad, talla detenida, desarrollo deficiente y mayor frecuencia de infecciones por el debilitamiento del sistema inmune. Identificar estos signos permite orientar a tiempo una intervención alimentaria, que debe incluir alimentos adaptés, atención médica y condiciones sanitarias adecuadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v11",
+      "statement": "En relación con la anorexia y la bulimia nerviosa, qué afirmación es científicamente correcta?",
+      "context": "En un colegio de Tunja, la orientadora escolar prepara una charla sobre Troubles de la conducta alimentaria, y varios estudiantes participan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La anorexia y la bulimia son la misma enfermedad, y la bulimia consiste en comerse todo lo que aparece en la nevera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son trastornos diferentes: en la anorexia la restricción es el rasgo central y en la bulimia se alternan atracones con conductas de purga."
+        },
+        {
+          "letter": "B",
+          "text": "Se deben a la falta de voluntad de los padres, por lo que basta con más vigilancia en casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atribuir la causa a la falta de voluntad simplifica un problema de salud con múltiples factores biológicos, psicológicos y sociales."
+        },
+        {
+          "letter": "C",
+          "text": "Son trastornos de la conducta alimentaria de causas múltiples, y su atención requiere un equipo de salud y apoyo psicosocial, no solo la voluntad del paciente.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas condiciones son trastornos de salud y su tratamiento combina atención médica, psicológica y appropriated orientación alimentaria."
+        },
+        {
+          "letter": "D",
+          "text": "Son solo un problema de apariencia estética, y se resuelven con una dieta adecuada sin necesidad de atención profesional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describir estos trastornos como un asunto estético trivializa una enfermedad con riesgos físicos graves."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anorexia nerviosa se caracteriza por una restricción persistente de la ingesta que produce una pérdida de peso significativa, y la bulimia nerviosa por episodios de atracones seguidos de conductas de purga para compensar el\\D ingestión. En ambos casos, la restricción, el vómito y el uso de laxantes pueden provocar deshidratación, alteraciones electrolíticas, problemas cardíacos y daño dental. Son enfermedades de salud, no de voluntad, y su atención requiere un equipo interdisciplinario que incluya medicina, psicología y orientación nutricional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle-v12",
+      "statement": "Un grupo estudia durante una semana el menú de la cafetería escolar y observa que la mayoría de los días ofrece embutidos, papas fritas y bebidas azucaradas. Qué propuesta es más coherente con una alimentación saludable?",
+      "context": "En un proyecto de grado 9 de un colegio de Barrancabermeja, un grupo analiza el menú de la cafetería escolar y propone mejoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la porción de papas fritas y reducir la de verduras, porque las papas fritas aportan más energía por gramo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más energía por gramo no significa mejor alimento: se trata de mejorar la calidad nutricional del conjunto del menú."
+        },
+        {
+          "letter": "B",
+          "text": "Mantener esos alimentos como opción ocasional e incorporar cada día frutas, verduras, legumbres, cereales integrales y una fuente de proteína, beviendo agua como bebida principal.",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta amplía la variedad de grupos de alimentos y reduce la dependencia de alimentos con mucho sodio, grasa y azúcar."
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir por completo los embutidos y las papas fritas, porque en una dieta saludable no se permite ningún alimento procesado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una dieta saludable no exige la prohibición absoluta: se trata de distinguir la frecuencia y la cantidad en que se consumen los alimentos procesados"
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar las bebidas azucaradas por bebidas energizantes, porque estas aportan más vitaminas que el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bebidas energetantes también contienen azúcar y no son mejores que el agua como bebida principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el menú de una institución educativa permite aplicar los conceptos de nutrición a un caso cotidiano. Un menú basado casi todos los días en embutidos, papas fritas y bebidas azucaradas aporta mucho sodio, grasa y azúcar y pocos micronutrientes. La mejora no exige eliminar esos alimentos, sino reducir su frecuencia y complementar cada día con frutas, verduras, legumbres, cereales integrales y una fuente de proteína, con agua como bebida principal. Esta propuesta respeta la cultura alimentaria y al mismo tiempo mejora la calidad del menú.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
