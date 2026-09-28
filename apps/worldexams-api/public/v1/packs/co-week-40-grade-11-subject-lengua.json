@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-40-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T06:51:37.895Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v1",
+      "statement": "En una síntesis escolar, ¿qué hace el estudiante con la información de los textos que lee?",
+      "context": "La revisión de la carpeta de evidencias del grado 11A del colegio de Bogotá sirve para leer el archivo que el estudiante debe usar en su síntesis final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combina las ideas de varios textos y las organiza para construir un discurso propio con una posición definida.",
+          "is_correct": true,
+          "feedback": "Es la definición operativa de la síntesis: el estudiante no repite cada fuente por separado, sino que organiza la información para decir algo que ningún texto decía por sí solo."
+        },
+        {
+          "letter": "B",
+          "text": "Copia textualmente el fragmento más importante de cada texto en el orden en que aparecen en la carpeta.",
+          "is_correct": false,
+          "feedback": "Eso es un pegote de citas, no una síntesis. Copiar fragmentos textuales sin relación argumentativa entre ellos elimina la operación de lectura que se está evaluando."
+        },
+        {
+          "letter": "C",
+          "text": "Resume cada texto por separado en cinco líneas y luego las coloca en un solo archivo sin conectarlas.",
+          "is_correct": false,
+          "feedback": "Es un conjunto de resúmenes, no una síntesis. La síntesis exige establecer relaciones entre las ideas, y eso falta por completo en esta opción."
+        },
+        {
+          "letter": "D",
+          "text": "Descarta los textos que no entiende y se concentra en un solo documento, el más extenso.",
+          "is_correct": false,
+          "feedback": "Descartar fuentes reduce el material y no permite la comparación. Además, elegir solo el documento más extenso confunde cantidad de palabras con calidad de evidencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis es una operación de lectura de nivel superior: el estudiante no solo recupera lo que dice cada texto, sino que establece relaciones entre ellos. Para construir un discurso propio debe identificar tesis, evidencias y categorías comunes, y luego organizar ese material siguiendo un orden argumentativo. Un buen indicador de que la síntesis se está haciendo bien es que el resultado dice algo que ninguna fuente enuncia por separado. Por eso las opciones que se limitan a copiar, a resumir en paralelo o a descartar fuentes quedan por fuera de la competencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v2",
+      "statement": "En el proyecto de vida de undécimo grado, la relación entre la síntesis del curso y el plan personal se entiende mejor si se afirma que:",
+      "context": "En la Orientación Vocacional del colegio de Cali, el grupo de undécimo prepara una síntesis sobre lo que aprendió en el año para definir áreas de interés profesional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La síntesis sirve para demostrar que el estudiante leyó más textos que sus compañeros.",
+          "is_correct": false,
+          "feedback": "La cantidad de textos leídos no es un criterio de lectura crítica. Compitar en cantidad de materiales no muestra comprensión ni sustenta ninguna decisión."
+        },
+        {
+          "letter": "B",
+          "text": "La síntesis sirve para conectar lo aprendido con la decisión, porque obliga a relacionar lo que se leyó con lo que el estudiante quiere hacer.",
+          "is_correct": true,
+          "feedback": "La síntesis es el puente entre el saber acumulado y la decisión: obliga al estudiante a usar lo leído como criterio y no como decoración."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis sirve para elegir la carrera que el estudiante más desea, sin considerar lo aprendido.",
+          "is_correct": false,
+          "feedback": "Elegir sin considerar lo aprendido es el ejercicio contrario al del proyecto de vida. La síntesis existe para fundamentar la elección, no para obviarla."
+        },
+        {
+          "letter": "D",
+          "text": "La síntesis sirve para escribir un texto largo con el fin de ocupar el tiempo disponible.",
+          "is_correct": false,
+          "feedback": "La extensión no es criterio de calidad. Un texto largo que no organiza relaciones entre fuentes no cumple la tarea, aunque ocupe varias páginas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En undécimo grado el DBA pide que el estudiante comprenda y use lo que aprendió, no solo que lo repita. El proyecto de vida pone a prueba esa comprensión en un contexto real: la decisión sobre qué hacer después del colegio exige relacionar hallazgos, intereses y restricciones. La síntesis es el procedimiento que hace posible esa relación, porque obliga a organizar lo aprendido como criterio de decisión y no como simple acumulado de contenidos. Enseñar el proyecto de vida como una tarea de redacción aislada pierde justamente la competencia que se quiere desarrollar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v3",
+      "statement": "Un estudiante lee que un texto de la carpeta del año fue escrito hace doce años y que sus datos ya no corresponden a la realidad. ¿Qué se puede inferir correctamente?",
+      "context": "Estanislao, de Bucaramanga, preparó su síntesis del curso y tuvo que eliminar varios párrafos antes de presentarla en el aula; el profesor le pidió justificar cada recorte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ese texto no puede usarse en la síntesis porque toda fuente antigua carece de valor.",
+          "is_correct": false,
+          "feedback": "Es una inferencia demasiado absoluta. Las fuentes antiguas son necesarias para entender la evolución de un fenómeno y para mostrar el contraste entre pasado y presente."
+        },
+        {
+          "letter": "B",
+          "text": "Ese texto debe ocupar el lugar central de la síntesis porque es el más antiguo y por eso es más confiable.",
+          "is_correct": false,
+          "feedback": "Confunde antigüedad con confiabilidad. Un texto viejo puede estar desactualizado y sus afirmaciones pueden haber sido refutadas por estudios posteriores."
+        },
+        {
+          "letter": "C",
+          "text": "Ese texto puede seguir citándose, pero debe contextualizarse temporalmente y contrastarse con fuentes más recientes.",
+          "is_correct": true,
+          "feedback": "La inferencia correcta: la vigencia afecta el peso probatorio del texto, no lo invalida. Un texto antiguo bien contextualizado aporta evidencia histórica y permite contrastar cambios."
+        },
+        {
+          "letter": "D",
+          "text": "Ese texto debe citarse únicamente como anécdota personal, nunca como argumento.",
+          "is_correct": false,
+          "feedback": "La fuente no pierde su valor argumental por ser antigua. Puede sostener una afirmación si se enuncia lo que se afirmaba en ese momento y se contrasta con la evidencia actual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer el alcance de una fuente es una habilidad inferencial: el lector debe deducir qué puede sostener cada evidencia y con qué límites. La antigüedad de un texto informa sobre el momento en que se produjo el conocimiento, y ese dato es parte de su valor interpretativo. La respuesta correcta combina la posibilidad de uso con la necesidad de explicitar la vigencia, que es la operación que un lector crítico hace siempre. Las otras opciones convierten un dato contextual en una prohibición, en una garantía o en una descalificación absoluta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v4",
+      "statement": "Según el enfoque de la lectura crítica en el DBA MEN, cuando un estudiante valora la calidad de un argumento, lo que está evaluando principalmente es:",
+      "context": "La coordinación de orientación del colegio de Pereira programó la presentación del proyecto de vida y recuerda a los estudiantes de qué se trata la competencia principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si el texto está escrito en un español correcto y sin errores de ortografía.",
+          "is_correct": false,
+          "feedback": "La ortografía es una condición de presentación, no un criterio de solidez argumentativa. Un texto puede estar impecable y no sostener nada."
+        },
+        {
+          "letter": "B",
+          "text": "Si el autor del texto es una persona reconocida y publica en un medio de prestigio.",
+          "is_correct": false,
+          "feedback": "El prestigio del autor no garantiza la validez de la evidencia. Lo que se evalúa es la pertinencia de la fuente, no su fama."
+        },
+        {
+          "letter": "C",
+          "text": "Si el texto es largo y presenta toda la información disponible sobre el tema.",
+          "is_correct": false,
+          "feedback": "Extensión y exhaustividad no sustituyen la relación entre tesis y evidencia. Un texto largo puede argumentar mejor, pero la longitud sola no prueba nada."
+        },
+        {
+          "letter": "D",
+          "text": "Si la tesis está respaldada por evidencia pertinente y si el razonamiento que la sostiene es válido.",
+          "is_correct": true,
+          "feedback": "La calidad de un argumento se mide por la relación entre tesis, evidencia y razonamiento, no por la apariencia del texto ni por la fama de su autor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura crítica enseña a juzgar argumentos por su estructura interna, no por señales externas de autoridad. Los criterios que el DBA trabaja en once grado son la pertinencia de la evidencia, la validez del razonamiento y la claridad de la tesis. Estos criterios son los mismos que se aplican después a la propia producción del estudiante, lo que convierte la valoración de fuentes en un ensayo silencioso de la propia escritura. Enseñar que la calidad depende de la fama del autor o de la corrección ortográfica prepara a los estudiantes para elegir mal sus fuentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v5",
+      "statement": "¿De qué manera debe organizar Juliana la información de esos cuatro textos si su propósito es sostener una elección de formación profesional con evidencia?",
+      "context": "Para preparar su presentación, Juliana, del grado 11B de Medellín, tiene cuatro textos: un informe de un centro de investigación, una publicación con publicidad de una institución, un documental y un texto normativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distinguiendo la naturaleza de cada fuente y usando la evidencia pertinente para sostener cada parte de su argumento.",
+          "is_correct": true,
+          "feedback": "Es la organización correcta: cada fuente aporta un tipo de evidencia distinto y la síntesis asigna a cada una un lugar argumental preciso."
+        },
+        {
+          "letter": "B",
+          "text": "Ordenándolos de mayor a menor cantidad de páginas para que el texto más largo ocupe la mayor parte de la síntesis.",
+          "is_correct": false,
+          "feedback": "Ordenar por extensión no es un criterio de argumentación. Produce una síntesis desbalanceada donde la fuente más larga, no la más pertinente, domina el discurso."
+        },
+        {
+          "letter": "C",
+          "text": "Citándolos en el orden cronológico en que fueron publicados, sin reagrupar ni justificar.",
+          "is_correct": false,
+          "feedback": "El orden cronológico es un dato, no una estructura argumental. Un texto de 2015 puede ser más pertinente para una afirmación que uno de 2026 sobre otro asunto."
+        },
+        {
+          "letter": "D",
+          "text": "Usando solo el informe de investigación y mencionando los otros tres en una lista al final del trabajo.",
+          "is_correct": false,
+          "feedback": "La lista de fuentes consultadas es un requisito formal, no un recurso argumental. Descartar la evidencia de los otros textos empobrece la síntesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la lectura crítica en una tarea de síntesis exige clasificar las fuentes según lo que cada una puede sostener. Un informe técnico respalda afirmaciones empíricas; un texto normativo, afirmaciones sobre lo que está establecido; un documental, contexto y relatos; una publicación promocional, en cambio, sirve como objeto de análisis y no como prueba. Reconocer esta diferencia evita el error más común de la semana: usar un texto publicitario como si fuera evidencia. La síntesis gana solidez cuando cada fuente ocupa el lugar que su naturaleza le permite.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v6",
+      "statement": "Un estudiante que ha conectado varios conceptos del año con su proyecto de vida necesita elaborar un mapa conceptual. ¿Cuál de las siguientes acciones corresponde a mapear correctamente?",
+      "context": "En el colegio de Cartagena, el profesor de lenguaje pidió que cada estudiante construyera un mapa conceptual que conectara los temas del año con su proyecto de vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir el nombre de cada concepto del año en un círculo independiente, sin líneas entre ellos.",
+          "is_correct": false,
+          "feedback": "Sin relaciones, el diagrama es una lista con formato. El valor del mapa conceptual está justamente en hacer visible cómo se conectan las ideas."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir en el centro la idea que articula el proyecto y añadir relaciones explícitas entre esa idea y los conceptos del año que la sostienen.",
+          "is_correct": true,
+          "feedback": "Un mapa conceptual organiza por relaciones, no por listas. La conexión explícita entre el proyecto y los conceptos muestra cómo lo aprendido sostiene la decisión."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir el nombre del proyecto en el centro y usar el espacio restante para una biografía del estudiante.",
+          "is_correct": false,
+          "feedback": "La información biográfica no es un concepto del curso ni una relación argumental. Llena el mapa sin aportar a la comprensión del tema."
+        },
+        {
+          "letter": "D",
+          "text": "Copiar cada tema del programa en el orden en que se vio en el año, sin relacionarlos con el proyecto.",
+          "is_correct": false,
+          "feedback": "El orden del programa es el orden de la clase, no el orden del pensamiento del estudiante. La tarea pide construir relaciones, no reproducir la secuencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mapa conceptual es una herramienta de síntesis porque obliga a decidir qué conceptos se relacionan y con qué tipo de relación. Escribir una idea central y derivar de ella los conceptos que la sostienen obliga a jerarquizar el conocimiento, que es exactamente la operación cognitiva de la síntesis. La alternativa de encerrar cada concepto en un círculo sin conexiones elimina la tarea conceptual y la reduce a un ejercicio de transcripción. La dificultad está en sostener que lo aprendido del año tiene una función en la decisión personal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v7",
+      "statement": "¿Qué debe hacer Camila para que su síntesis sobre acceso a la educación superior sea sólida?",
+      "context": "Camila, de Barranquilla, leyó un texto que afirma que el acceso a la educación superior en Colombia ha crecido en las últimas dos décadas y luego encontró una fuente que señala que ese crecimiento no se distribuye por igual entre regiones y estratos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar solo el dato de crecimiento, porque es más favorable a su proyecto de vida.",
+          "is_correct": false,
+          "feedback": "Elegir la evidencia que conviene en lugar de la evidencia pertinente es selección interesada, una falla grave en lectura crítica."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar el dato regional para mostrar que el problema nacional no existe.",
+          "is_correct": false,
+          "feedback": "Un dato sobre desigualdad no niega el crecimiento general. Usar una afirmación para anular a otra es un error de inferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar ambos datos juntos y explicar que el crecimiento general no describe igual a todos los grupos del país.",
+          "is_correct": true,
+          "feedback": "Esta es la operación correcta: la síntesis pone en relación dos afirmaciones para construir una lectura más precisa de la realidad que ninguna de las dos ofrece sola."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar ambos datos como si se contradijeran entre sí, aunque los dos puedan ser ciertos al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "No hay contradicción: un crecimiento promedio puede coexistir con brechas internas. La síntesis debe explicar la relación, no inventar un conflicto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Combinar afirmaciones de fuentes distintas exige reconocer que los datos pueden ser simultáneos y operar en niveles distintos: uno describe la tendencia general y otro la distribución. La síntesis competente no elige un dato sobre otro por conveniencia, ni inventa contradicciones donde no las hay. En su lugar, formula una lectura integrada que conserva la tensión productiva entre los datos y la usa para sostener una conclusión más matizada. Esta habilidad de compatibilizar afirmaciones es la que se transfiere a cualquier decisión basada en información.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v8",
+      "statement": "Andrés tiene una síntesis oral clara y necesita convertirla en un texto escrito con la misma solidez. ¿Qué debe tener en cuenta?",
+      "context": "Andrés, de Bogotá, prepara la versión escrita de su presentación y quiere que su texto tenga la misma fuerza argumentativa que la versión oral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las mismas transiciones orales (\"entonces\", \"o sea\", \"mirá\") porque hacen que el texto se entienda mejor.",
+          "is_correct": false,
+          "feedback": "Los marcadores orales no construyen la relación entre ideas; solo señalan una relación que el texto debe explicar por sí mismo. Copiarlos sin estructura debilita la argumentación."
+        },
+        {
+          "letter": "B",
+          "text": "El número de diapositivas que usó en la presentación, para que el texto tenga la misma extensión.",
+          "is_correct": false,
+          "feedback": "La extensión del texto no se define por el soporte visual. Una diapositiva puede contener un argumento breve o denso; el conteo no mide la solidez."
+        },
+        {
+          "letter": "C",
+          "text": "Las palabras técnicas que usó en la exposición, porque el nivel de vocabulario determina la calidad del texto.",
+          "is_correct": false,
+          "feedback": "El vocabulario técnico puede ayudar si es pertinente, pero no sustituye la estructura argumentativa. Un texto lleno de tecnicismos sin relaciones claras sigue siendo débil."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis, la evidencia de cada afirmación y las conexiones entre las partes, porque el texto escrito explicita lo que la oralidad deja implícito.",
+          "is_correct": true,
+          "feedback": "Es el principio correcto: al pasar a lo escrito, la organización argumentativa debe quedar visible mediante tesis, evidencia y enlaces."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diferencia entre oralidad y escritura no está en el contenido, sino en la necesidad de explicitarla. En la exposición, el tono, la pausa y la recuperación del tema sostienen la organización; en el texto escrito, esa organización tiene que quedar inscripta. Por eso el paso de lo oral a lo escrito exige construir la tesis al principio, sostener cada afirmación con evidencia y explicitar los enlaces. Un buen ejercicio para grado once es leer el texto escrito en voz alta y marcar dónde se pierde el hilo, porque esos puntos son los enlaces que faltan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v9",
+      "statement": "Un esquema de síntesis que ordena la información así: \"yo soy, yo sé, yo puedo, yo quiero\", tal como lo usa el colegio de Bogotá, se está apoyando principalmente en:",
+      "context": "En el colegio de Bogotá, el profesor de undécimo grado dictó a sus estudiantes un esquema para organizar la síntesis final del proyecto de vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una organización de la información que conecta la identidad, el conocimiento, las capacidades y los intereses del estudiante.",
+          "is_correct": true,
+          "feedback": "Correcto: el esquema articula cuatro dimensiones del sujeto y las relaciones entre ellas, lo cual es una síntesis con criterio y no una lista de datos sueltos."
+        },
+        {
+          "letter": "B",
+          "text": "Un orden cronológico que va desde la infancia del estudiante hasta su graduación.",
+          "is_correct": false,
+          "feedback": "El esquema no sigue una línea temporal de vida; organiza dimensiones de la identidad en presente. Es una estructura conceptual, no biográfica."
+        },
+        {
+          "letter": "C",
+          "text": "Una clasificación de las asignaturas vistas durante el año escolar, agrupadas por intensidad horaria.",
+          "is_correct": false,
+          "feedback": "Las asignaturas aparecen como contenido, no como criterio de clasificación. El criterio del esquema son dimensiones del sujeto, no la carga académica."
+        },
+        {
+          "letter": "D",
+          "text": "Un formato de presentación que exige entregar la información en orden de menor a mayor dificultad.",
+          "is_correct": false,
+          "feedback": "El esquema no ordena por dificultad cognitiva. Es una plantilla reflexiva que ordena dimensiones de la identidad y sus relaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la lógica de un esquema organizativo es una competencia literal aplicada: el estudiante debe identificar qué criterio de ordenación está usando el esquema, no solo repetir sus categorías. En el caso de \"yo soy, yo sé, yo puedo, yo quiero\", el criterio es la relación entre dimensiones de la identidad, y el valor de la plantilla está en que obliga a encarar de manera ordenada lo que se es, lo que se sabe, lo que se puede hacer y lo que se desea. Ese tejido es la base de un proyecto de vida articulado, no de una lista de metas sueltas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v10",
+      "statement": "Valentina nota que el texto usa un lenguaje demasiado general y le solicita datos personales. ¿Qué inferencia sobre la competencia lectora se puede sacar de esta situación?",
+      "context": "Valentina, de Pereira, recibió por correo electrónico un texto que promete \"garantizar la inserción laboral\" y le solicita compartir datos personales a cambio de un certificado gratuito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es confiable porque fue enviado a un correo institucional del estudiante.",
+          "is_correct": false,
+          "feedback": "El canal de envío no determina la confiabilidad del contenido. Un correo puede reenviar cualquier texto, incluso uno de origen dudoso."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de generalización y la solicitud de datos personales son señales de alerta que exigen verificar la fuente antes de confiar en ella.",
+          "is_correct": true,
+          "feedback": "Correcto: la inferencia conecta marcas del texto con la decisión de leer críticamente. Reconocer señales de alerta es la aplicación directa de la lectura crítica."
+        },
+        {
+          "letter": "C",
+          "text": "El texto es confiable porque ofrece un beneficio gratuito, ya que lo gratuito nunca tiene contraprestaciones.",
+          "is_correct": false,
+          "feedback": "La gratuidad oculta con frecuencia el intercambio de datos o la venta posterior de información. Ese es precisamente el riesgo del caso."
+        },
+        {
+          "letter": "D",
+          "text": "La solicitud de datos personales es una medida de seguridad para proteger al estudiante de terceros.",
+          "is_correct": false,
+          "feedback": "Pedir datos no es una medida de seguridad. Es la forma típica de extraer información, y por eso funciona como una señal de alerta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica aplicada al entorno digital consiste en reconocer marcas textuales que exigen verificación antes de aceptarlas como verdaderas. Las generalizaciones sin evidencia, las promesas de resultados garantizados y las solicitudes de datos personales funcionan como indicadores. Reconocerlos permite decidir con criterio, y esa decisión es una aplicación de la competencia, no un reflejo de desconfianza. La pregunta enseña que el pensamiento crítico no es una actitud negativa frente a la información, sino un procedimiento de verificación que se puede aplicar en segundos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v11",
+      "statement": "Salomé reconoce que su texto tiene redundancias, pero no sabe cómo corregirlo sin perder lo escrito. ¿Qué análisis le da mejor resultado?",
+      "context": "Salomé, del grado 11A de Medellín, revisó su borrador de síntesis y encontró que tres párrafos de su texto repetían la misma idea en distintas palabras y que la presentación se alargaba sin aportar información.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe eliminar todas las repeticiones, aunque con ello se pierda alguna evidencia importante de la síntesis.",
+          "is_correct": false,
+          "feedback": "Quitar sin distinguir puede borrar evidencia. La redundancia solo es defecto cuando repite sin aportar; si aporta, cumple una función."
+        },
+        {
+          "letter": "B",
+          "text": "Debe cambiar todas las repeticiones por sinónimos literales para que el texto parezca más variado.",
+          "is_correct": false,
+          "feedback": "Sustituir palabras sin cambiar la estructura conserva la redundancia conceptual. La repetición de ideas no se resuelve con sinónimos, sino con eliminación."
+        },
+        {
+          "letter": "C",
+          "text": "Debe identificar cuál de las formulaciones repetidas desarrolla mejor la idea, conservarla y eliminar las otras para ganar precisión.",
+          "is_correct": true,
+          "feedback": "Es el análisis correcto: la redundancia se resuelve eligiendo la formulación más precisa, no acumulando variantes que solo repiten lo mismo."
+        },
+        {
+          "letter": "D",
+          "text": "Debe mantener el texto como está, porque la repetición garantiza que el lector entienda el mensaje.",
+          "is_correct": false,
+          "feedback": "La repetición de ideas no garantiza comprensión; puede producir cansancio y hacer que el mensaje central se diluya en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El análisis de un borrador propio exige separar dos cosas que se confunden con frecuencia: repetir una idea y reforzar una idea. Solo la primera es un defecto. Cuando tres párrafos dicen lo mismo, el problema no es la longitud, sino la distribución del peso argumentativo del texto. Resolverlo exige evaluar cuál formulación cumple mejor la función que el párrafo tenía en la síntesis y eliminar las que no aportan. Este ejercicio de depuración enseña algo que los estudiantes suelen perder de vista: escribir bien también es saber quitar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v12",
+      "statement": "Un estudiante afirma que su proyecto de vida está bien fundamentado, pero en su síntesis solo presenta una fuente. ¿Qué análisis revela mejor la fuerza de su argumento?",
+      "context": "En el colegio de Medellín, el profesor preguntó por qué un estudiante sostenía que la lectura crítica mejoraba su proyecto de vida, cuando su presentación contenía una sola fuente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sola fuente bien elegida siempre es mejor que varias fuentes, porque evita la confusión entre posturas.",
+          "is_correct": false,
+          "feedback": "Reducir la evidencia a un punto de vista no es calidad argumentativa; es ausencia de contraste. La síntesis exige fuentes plurales y pertinentes."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de fuentes no importa, siempre que la fuente citada sea de una persona reconocida.",
+          "is_correct": false,
+          "feedback": "El prestigio no sustituye el contraste. La pregunta es sobre la calidad de la evidencia, no sobre el reconocimiento de su autor."
+        },
+        {
+          "letter": "C",
+          "text": "Una sola fuente es suficiente si el texto del estudiante es largo y está bien organizado.",
+          "is_correct": false,
+          "feedback": "La organización y la extensión no reemplazan la pluralidad de evidencias. Un texto bien estructurado con una sola fuente sigue siendo un argumento de base estrecha."
+        },
+        {
+          "letter": "D",
+          "text": "Una sola fuente no permite contrastar ni matizar, por lo que la afirmación se apoya en una base estrecha de evidencia.",
+          "is_correct": true,
+          "feedback": "Correcto: el análisis revela que, sin contraste, el estudiante no puede sostener una conclusión general y su proyecto descansa en un punto de vista único."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar la propia argumentación implica mirar la estructura de la evidencia, no solo su apariencia. Una síntesis con una sola fuente puede estar bien escrita y, aun así, ser frágil: no hay contrastación, no hay matiz, no hay manera de verificar si la afirmación es una opinión particular o una tendencia documentada. Reconocer esta debilidad antes de presentar evita construir un proyecto de vida sobre una base que cualquier dato nuevo puede poner en duda. El contraste entre fuentes es, por eso, un requisito de solidez y no un exceso de información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v13",
+      "statement": "¿Qué análisis del texto que dice que \"todos los jóvenes prefieren la formación técnica\" es más preciso?",
+      "context": "Estanislao, de Bucaramanga, compara un texto que afirma que \"todos los jóvenes prefieren la formación técnica\" con una encuesta que muestra resultados distintos por ciudad y por edad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una generalización absoluta que no se sostiene con la evidencia, porque ignora las diferencias entre grupos y recurre a un solo dato.",
+          "is_correct": true,
+          "feedback": "Correcto: identificar el cuantificador absoluto \"todos\" y la ausencia de evidencia que lo respalde es un análisis de la calidad del razonamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Es una afirmación verdadera porque el enunciado usa un verbo en plural, lo que indica que el dato fue verificado.",
+          "is_correct": false,
+          "feedback": "La forma gramatical no valida un contenido. El plural no es evidencia de verificación; es solo un rasgo de la frase."
+        },
+        {
+          "letter": "C",
+          "text": "Es una afirmación aceptable porque en un texto de opinión cualquier generalización está permitida.",
+          "is_correct": false,
+          "feedback": "En un texto de opinión, las generalizaciones siguen requiriendo sustento. Expresar una posición no exime de argumentarla."
+        },
+        {
+          "letter": "D",
+          "text": "Es una afirmación aceptable si se escribe en un periódico de circulación nacional, porque la circulación garantiza la seriedad.",
+          "is_correct": false,
+          "feedback": "La circulación del medio no convierte una generalización en evidencia. La calidad depende del razonamiento, no de la visibilidad del soporte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el cuantificador absoluto y contrastarlo con la evidencia disponible es un movimiento central del análisis crítico. Las palabras todos, siempre y nunca señalan afirmaciones que requieren respaldo exhaustivo, y ese respaldo casi nunca existe en los datos sobre personas. Un buen lector detecta la presión del enunciado, la pone en relación con lo que sabe y la declara no sostenible. Esta habilidad es especialmente valiosa en el proyecto de vida, donde es fácil generalizar sobre \"la carrera del futuro\" o sobre \"lo que todos los jóvenes necesitan\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v14",
+      "statement": "Tres estudiantes llegan a conclusiones opuestas sobre la misma pregunta de orientación profesional. ¿Qué explica mejor esa diferencia?",
+      "context": "En el colegio de Bogotá, el equipo de orientación detectó que tres estudiantes presentaban síntesis con tesis claramente opuestas sobre el mismo tema porque leyeron fuentes distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo uno de los tres leyó correctamente, y los otros dos interpretaron mal sus textos.",
+          "is_correct": false,
+          "feedback": "Atribuir la diferencia a un error de lectura individual absolve de revisar las fuentes. La pregunta pide una explicación, no un juicio sobre las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Cada uno consultó fuentes distintas, y el tipo de evidencia disponible determina la conclusión a la que puede llegarse.",
+          "is_correct": true,
+          "feedback": "Explicación correcta: la diferencia entre conclusiones se explica por la diferencia en las fuentes consultadas, no por una capacidad distinta de razonar."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres síntesis son igualmente válidas porque expresan opiniones personales, y en las opiniones todas las posturas se equiparan.",
+          "is_correct": false,
+          "feedback": "Equiparar cualquier opinión con cualquier otra elimina el criterio. Las opiniones pueden y deben evaluarse según la evidencia que las apoya."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia se debe a que cada uno escribió una síntesis de diferente longitud.",
+          "is_correct": false,
+          "feedback": "La longitud del texto no determina la validez de la conclusión. Es una variable formal, no una variable argumental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar por qué dos lecturas del mismo tema producen conclusiones opuestas enseña que el conocimiento se construye a partir de las fuentes disponibles. No hay una lectura única por defecto, sino lecturas que dependen de la evidencia consultada y del razonamiento aplicado. Esta comprensión explica por qué en una síntesis es tan importante declarar las fuentes y por qué la convergencia entre dos trabajos que parten de las mismas fuentes es un indicio de solidez. También prepara al estudiante para reconocer que su propia conclusión puede cambiar cuando aparece evidencia nueva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v15",
+      "statement": "Un texto presenta la tesis en el último párrafo, sin ningún anuncio en el inicio, y emplea conectores causales en todo el desarrollo. ¿Qué se puede afirmar literalmente sobre su estructura?",
+      "context": "En la presentación del proyecto de vida del colegio de Barranquilla, el profesor retiró del muro las tarjetas que cada estudiante había usado durante el año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto presenta su posición al final y no presenta argumentos, porque los conectores solo decoran la redacción.",
+          "is_correct": false,
+          "feedback": "Los conectores causales cumplen una función argumentativa: muestran por qué lo que se afirma se sigue de lo anterior. No son adornos."
+        },
+        {
+          "letter": "B",
+          "text": "El texto no presenta posición, porque una tesis solo puede aparecer en el primer párrafo.",
+          "is_correct": false,
+          "feedback": "Una tesis puede aparecer al final; lo que no puede hacer es faltar. La ubicación no determina si el texto tiene posición."
+        },
+        {
+          "letter": "C",
+          "text": "El texto presenta su posición al final y desarrolla a lo largo del texto el razonamiento que la sostiene.",
+          "is_correct": true,
+          "feedback": "Es la lectura literal de la estructura: la tesis se anuncia al final y los conectores articulan el desarrollo como un razonamiento continuo."
+        },
+        {
+          "letter": "D",
+          "text": "El texto presenta su posición al inicio, porque la ausencia de un anuncio al principio es un error de formato.",
+          "is_correct": false,
+          "feedback": "La pregunta afirma que la tesis aparece al final, y eso es una decisión de organización, no un error. Interpretar la ausencia como error contradice el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Describir la estructura de un texto a partir de los elementos que se observan en él es una competencia literal aplicada al análisis. Ubicar la tesis, reconocer los conectores y distinguir la función del desarrollo permiten decir qué hace el texto sin valorarlo todavía. Ese paso descriptivo es el que da la base para el paso evaluativo posterior. Además, revisar que la tesis exista y que el desarrollo la sostenga evita el error más común en los trabajos de grado once: un texto bien escrito sin una posición identificable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v16",
+      "statement": "Un texto afirma que \"el país invierte poco en educación porque los estudiantes no saben aprovechar las oportunidades\". ¿Qué análisis del sesgo resulta más sólido?",
+      "context": "La asignación de grado once en el colegio de Cartagena consiste en que cada estudiante identifique un sesgo en uno de los textos que leyó durante el año y lo explique al resto de la clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se afirma una idea claramente equivocada, porque todos los países invierten poco en educación.",
+          "is_correct": false,
+          "feedback": "Generalizar que todos los países invierten poco no es un análisis del sesgo del texto. Es una afirmación sin sustento que no identifica el problema del enunciado."
+        },
+        {
+          "letter": "B",
+          "text": "Se usa un lenguaje administrativo (\"deberían\", \"es necesario\") que indica que el texto no es neutral.",
+          "is_correct": false,
+          "feedback": "Señalar un tono imperativo es un indicio de posición, pero el sesgo central del enunciado es el traslado de la responsabilidad, no el uso del modo verbal."
+        },
+        {
+          "letter": "C",
+          "text": "Se menciona la educación sin nombrarla, lo que hace que el texto sea un sesgo anónimo y por tanto irrefutable.",
+          "is_correct": false,
+          "feedback": "El texto sí nombra la educación. La afirmación es confusa y no identifica ningún sesgo concreto; además, lo no dicho no vuelve irrefutable un texto."
+        },
+        {
+          "letter": "D",
+          "text": "Se culpa al estudiante por una situación que depende de decisiones de inversión, trasladando la responsabilidad a quien no la tiene.",
+          "is_correct": true,
+          "feedback": "Correcto: el análisis identifica un desplazamiento de responsabilidad y muestra cómo el texto oculta un problema estructural detrás de un juicio sobre los individuos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis de sesgos consiste en localizar el movimiento por el cual un texto desplaza la explicación de un plano a otro, en este caso de las decisiones colectivas a las decisiones individuales. Identificar ese traslado permite entender por qué el texto resulta culpabilizador: atribuye a los estudiantes una responsabilidad que no les corresponde. Es una habilidad de gran valor en grado once porque se aplica directamente a los discursos que circulan sobre la propia juventud. Reconocer el mecanismo del sesgo enseña a no aceptar explicaciones cómodas como si fueran neutrales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v17",
+      "statement": "¿Qué evaluación es más adecuada de las dos versiones de la síntesis de Juliana?",
+      "context": "Juliana, de Medellín, debe evaluar las dos versiones de su síntesis: la primera tiene seis páginas con cuarenta citas y ninguna tesis; la segunda tiene dos páginas con dos citas y una tesis explícita y bien argumentada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda versión es más sólida, porque la calidad argumentativa depende de la tesis y su relación con la evidencia, no de la cantidad de citas.",
+          "is_correct": true,
+          "feedback": "Correcto: la evaluación se apoya en el criterio que define la solidez de un argumento, la relación entre tesis y evidencia, y no en indicadores de cantidad."
+        },
+        {
+          "letter": "B",
+          "text": "La primera versión es más sólida, porque cuarenta citas demuestran un trabajo de investigación más serio que dos citas.",
+          "is_correct": false,
+          "feedback": "La cantidad de citas es un indicio de esfuerzo, no de calidad. Cuarenta citas sin tesis no construyen ningún argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas versiones son igualmente sólidas, porque los dos textos tienen material suficiente para sostener el proyecto.",
+          "is_correct": false,
+          "feedback": "Tener material no equivale a construir un argumento. La primera versión no tiene una tesis que organice ese material."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda versión es más débil, porque un trabajo de grado debe tener al menos diez páginas según las normas del colegio.",
+          "is_correct": false,
+          "feedback": "Una norma de extensión es un requisito formal, no un criterio de calidad argumentativa. La pregunta pide evaluar la solidez, no el cumplimiento de un formato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la solidez de un texto exige aplicar un criterio explícito en lugar de apoyarse en indicios de apariencia. La relación entre tesis, evidencia y razonamiento es ese criterio, y permite distinguir un trabajo con mucha evidencia de un trabajo argumentado. Esta pregunta es especialmente útil en grado once porque anticipa el problema central de la prueba Saber 11: responder con información abundante pero sin una tesis que la organice. Evaluar con criterio también prepara para recibir retroalimentación sobre el propio trabajo sin confundirla con un juicio sobre la capacidad personal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v18",
+      "statement": "¿Con cuál criterio se puede evaluar mejor la debilidad central de la justificación de Camila?",
+      "context": "En el colegio de Pereira, el profesor de undécimo grado evalúa el proyecto de vida de Camila, que sostiene que quiere estudiar ingeniería ambiental porque \"el país necesita urgentemente más ingenieros ambientales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La justificación es válida porque la necesidad del país es real y, por eso, cualquier carrera técnica sirve para atenderla.",
+          "is_correct": false,
+          "feedback": "Que la necesidad sea real no vuelve válida cualquier carrera. Falta el vínculo específico entre la necesidad y el programa elegido."
+        },
+        {
+          "letter": "B",
+          "text": "La justificación apoya la elección en una generalización sobre el país, sin evidencia que muestre la relación entre esa necesidad y la carrera elegida.",
+          "is_correct": true,
+          "feedback": "Correcto: el criterio detecta que la tesis descansa en una afirmación general sin sustento y sin el vínculo argumentativo que debería tener."
+        },
+        {
+          "letter": "C",
+          "text": "La justificación es débil porque no incluye datos de otros países, ya que la síntesis solo puede usar fuentes colombianas.",
+          "is_correct": false,
+          "feedback": "No existe tal restricción. Y aun si existiera, la debilidad central de la justificación no es la falta de fuentes extranjeras, sino la generalización sin evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "La justificación es débil porque la carrera elegida no es la de mayor prestigio en el país.",
+          "is_correct": false,
+          "feedback": "El prestigio de una carrera no es un criterio de pertinencia para una decisión personal fundamentada en una necesidad social."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una justificación exige identificar dónde falla el razonamiento, no solo si la conclusión parece razonable. En este caso el fallo está en la base: una generalización amplia sobre una necesidad nacional, sostenida sin evidencia, de la que no se deriva el vínculo con la carrera específica elegida. Reconocer este salto lógico permite al estudiante reconstruir la justificación con datos pertinentes y con una relación explícita entre necesidad, formación y apertura profesional. La evaluación crítica de argumentos propios es el paso previo a la mejora real de los textos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v19",
+      "statement": "Frente a dos síntesis fundamentadas que llegan a conclusiones distintas, ¿qué evaluación es la más adecuada?",
+      "context": "Dos grupos del grado 11C de Cartagena presentan síntesis sobre el proyecto de vida. El grupo de Andrés concluye que un proyecto de vida solo tiene sentido si conduce a una meta concreta a corto plazo. El grupo de Lucía concluye que un proyecto de vida puede incluir varias metas en distintos plazos. Las dos presentaciones están bien fundamentadas con fuentes pertinentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión de Andrés es la correcta, porque un proyecto de vida debe ser concreto y las metas a corto plazo son las más útiles.",
+          "is_correct": false,
+          "feedback": "Presentar una conclusión como la correcta por preferencia personal invierte el procedimiento crítico. La evaluación debe apoyarse en los criterios del texto y en su coherencia interna."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión de Lucía es la correcta, porque un proyecto de vida flexible se ajusta mejor a las circunstancias de los estudiantes.",
+          "is_correct": false,
+          "feedback": "La misma inversión ocurre al evaluar la otra postura. Ninguna de las dos es la correcta sin examinar la coherencia de tesis y evidencias."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas conclusiones pueden sostenerse si sus tesis y evidencias son coherentes, y la diferencia revela un desacuerdo de enfoque, no un error de lectura.",
+          "is_correct": true,
+          "feedback": "Evaluación correcta: cuando dos textos están bien fundamentados, la diferencia entre sus conclusiones es parte del objeto de la lectura crítica y debe describirse, no descalificarse."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas conclusiones son incorrectas, porque un proyecto de vida debería incluir exactamente tres metas y ningún plazo definido.",
+          "is_correct": false,
+          "feedback": "No existe tal norma. Invocar una regla inexistente para descartar las dos conclusiones muestra que la evaluación no se apoya en criterios verificables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El pensamiento crítico no consiste en encontrar un único criterio correcto, sino en evaluar si cada argumento cumple con sus condiciones internas. Cuando dos textos están fundamentados con fuentes pertinentes, sus conclusiones son defendibles por separado y la diferencia entre ellas enriquece la comprensión del problema. Evaluar de este modo enseña a reconocer el desacuerdo fecundo, que es el que obliga a precisar los propios términos y a definir mejor qué se está sosteniendo. Es también la base de una deliberación sostenida en cualquier junta, en un trabajo grupal o en una asamblea de grado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál de los siguientes conjuntos de materiales demuestra mejor que un estudiante argumentó correctamente durante el año?",
+      "context": "Al final del año, la coordinación de Bogotá pide a los estudiantes de undécimo que entreguen su carpeta de síntesis con los materiales leídos durante las cuarenta semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una carpeta con todos los textos leídos durante el año, correctamente organizados por fecha de lectura.",
+          "is_correct": false,
+          "feedback": "Conservar los materiales prueba que se leyeron, no que se argumentó. La organización por fecha es archivo, no síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "Un resumen de cada texto leído con las palabras del autor, más un comentario de una línea sobre cada uno.",
+          "is_correct": false,
+          "feedback": "Resumir por separado y comentar de una línea no establece relaciones entre las ideas. Es un catálogo de textos, no una argumentación."
+        },
+        {
+          "letter": "C",
+          "text": "Una presentación oral de diez minutos sobre el proyecto de vida, sin ningún documento escrito que la respalde.",
+          "is_correct": false,
+          "feedback": "La exposición oral demuestra capacidad de exposición, no la argumentación sostenida que la tarea de síntesis exige. La ausencia del documento escrito deja la evidencia en un solo soporte."
+        },
+        {
+          "letter": "D",
+          "text": "Una síntesis que organiza la evidencia de los textos leídos, expone una tesis propia y la sostiene con referencias pertinentes, más una autoevaluación de los límites de su propio argumento.",
+          "is_correct": true,
+          "feedback": "Es el conjunto que mejor evidencia argumentación: tesis propia, evidencia pertinente y, además, conciencia de los límites, que es el signo de un lector maduro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La evaluación del proceso de lectura requiere evidencias que muestren razonamiento y no solo acumulación. Una tesis propia sostenida con referencias pertinentes, acompañada de una autoevaluación que reconozca los límites del argumento, permite al docente ver cómo el estudiante seleccionó, relacionó y aceptó fuentes. Los otros conjuntos conservan el rastro de la lectura sin demostrar la operación intelectual central de la síntesis. Exigir esta evidencia en el cierre del año cumple una función formativa: le entrega al estudiante un modelo de lo que significa argumentar, no solo de lo que significa terminar una tarea.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
