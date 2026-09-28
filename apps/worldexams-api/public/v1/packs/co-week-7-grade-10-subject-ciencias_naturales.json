@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T16:36:08.241Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la temperatura de esa muestra expresada en kelvin?",
+      "context": "En un laboratorio de física de la Universidad Nacional de Colombia, sede Bogotá, el equipo registra la temperatura de una muestra de agua con un termómetro de mercurio que marca 24 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "249 K",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reste 24 a 273 en lugar de sumar; esa operación invierte el sentido de la conversión."
+        },
+        {
+          "letter": "B",
+          "text": "1.243 K",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó la temperatura en grados Celsius por el número de grados de la escala, error típico al cambiar de escala."
+        },
+        {
+          "letter": "C",
+          "text": "24 K",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repitió el valor numérico de los grados Celsius sin aplicar la conversión a kelvin."
+        },
+        {
+          "letter": "D",
+          "text": "297 K",
+          "is_correct": true,
+          "feedback": "Correcto. La relación es $T = t + 273.15$, y $24\\,^{\\circ}\\text{C}$ corresponde a $297.15\\ \\text{K}$, que se redondea a 297 K."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La escala kelvin es una escala absoluta y la relación con la escala Celsius es $T = t + 273.15$, donde $T$ se expresa en kelvin y $t$ en grados Celsius. El cero de la escala Celsius corresponde a $273.15\\ \\text{K}$, de modo que 24 °C equivalen a 297.15 K. Comprender que solo los kelvin se suman algebraicamente es indispensable en los cálculos termodinámicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v2",
+      "statement": "Ese gas recibe 500 J de calor de una fuente externa y realiza 200 J de trabajo al expandir el pistón. ¿Cuánto cambia su energía interna?",
+      "context": "Un equipo de estudiantes de una Institución Educativa técnica de Bucaramanga estudia el comportamiento de un gas encerrado en un cilindro con un pistón móvil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta 300 J",
+          "is_correct": true,
+          "feedback": "Correcto. Por la primera ley, $\\Delta U = Q - W = 500\\ \\text{J} - 200\\ \\text{J} = 300\\ \\text{J}$."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta 700 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumó el trabajo en vez de restarlo; el trabajo realizado por el gas se resta porque la energía interna cedió esa energía."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye 300 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió el signo del resultado. El gas ganó calor y perdió parte como trabajo, pero su energía interna aumentó."
+        },
+        {
+          "letter": "D",
+          "text": "No cambia, porque el calor y el trabajo son la misma magnitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calor y trabajo son dos formas de transferencia de energía, distintas entre sí, y la primera ley los combina como $Q$ y $W$."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La primera ley de la termodinámica establece que $\\Delta U = Q - W$, donde $Q$ es el calor recibido y $W$ el trabajo realizado por el sistema. Al entrar 500 J y salir 200 J como trabajo, la energía interna aumenta 300 J. Esta contabilidad de energía es la base para analizar motores, refrigeradores y cualquier máquina térmica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el mar funciona como un regulador térmico que suaviza las temperaturas de la costa?",
+      "context": "Las\tclassificaciones de temperatura de Cartagena de Indias y de Bogotá muestran que la capital, pese a estar lejos del mar, tiene oscilaciones térmicas más grandes que las de la costa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua tiene una densidad muy baja, por lo que necesita menos energía para cambiar de temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La densidad no determina el calor específico, y el agua tiene una densidad alta, no baja. El bajo calor específico del agua es lo que explica el efecto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua tiene un calor específico muy alto, de modo que se calienta poco al recibir mucha energía y se enfría poco al perderla.",
+          "is_correct": true,
+          "feedback": "Correcto. El calor específico del agua es de aproximadamente $4.2\\ \\text{J/(g}\\cdot{}^{\\circ}\\text{C)}$, mucho mayor que el de la tierra y la arena."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua conduce el calor más rápidamente que el aire, de modo que el mar envía energía al interior del tierra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conducción rápida es un papel menor en este fenómeno, y el mar no envía calor al interior del territorio sino que modera la temperatura del aire costero."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua alcanza el cero absoluto con muy poca energía, así que se mantiene fría todo el año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún cuerpo alcanza el cero absoluto en la práctica, y el mar en la costa colombiana está lejos de esa temperatura. La explicación correcta es el calor específico alto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El calor específico es la cantidad de energía necesaria para elevar la temperatura de un gramo de substance un grado. El agua posee un calor específico muy superior al de la tierra y la arena, de modo que grandes masas de agua oceanic cambian de temperatura muy lentamente. Por eso las zonas costeras presentan temperaturas más estables que el interior continental.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v4",
+      "statement": "Cuánta energía debe aportar el quemador para calentar esa agua, si el calor específico del agua es $4.2\\ \\text{J/(g}\\cdot{}^{\\circ}\\text{C)}$?",
+      "context": "En una casa de Medellín, la señora Gloria calienta en una estufa una olla con 2.0 kg de agua desde 20 °C hasta 60 °C para preparar una sopa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.36 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó 2.0 en lugar de 2000 al convertir los kilogramos a gramos, por lo que el resultado quedó mil veces menor."
+        },
+        {
+          "letter": "B",
+          "text": "84 000 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomó $\\Delta T$ como 20 °C, la temperatura inicial, en lugar de la variación de 40 °C que hay entre 20 °C y 60 °C."
+        },
+        {
+          "letter": "C",
+          "text": "336 000 J",
+          "is_correct": true,
+          "feedback": "Correcto. $Q = mc\\Delta T = 2000\\ \\text{g}\\times 4.2\\ \\text{J/(g}\\cdot{}^{\\circ}\\text{C)}\\times 40\\,^{\\circ}\\text{C} = 336\\,000\\ \\text{J}$."
+        },
+        {
+          "letter": "D",
+          "text": "16 800 J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió el resultado correcto entre veinte, posiblemente por confundir el calor específico con el inverso de la masa en unidades del sistema internacional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La expresión $Q = mc\\Delta T$ relaciona el calor recibido con la masa, el calor específico y la variación de temperatura. Es indispensable convertir 2.0 kg a 2000 g para que las unidades del Sistema Internacional sean coherentes con el calor específico dado. El resultado muestra que calentar un litro de agua unos grados consume una cantidad de energía considerable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v5",
+      "statement": "Cuánta energía se necesita para vaporizar esos 500 g de agua a 100 °C, si el calor latente de vaporización es $2.26 \\times 10^3\\ \\text{J/g}$?",
+      "context": "En un hotel de Pamplona, Norte de Santander, la cocina produce vapor para duchas y para cocinar. Se hierven 500 g de agua ya calentada hasta 100 °C y se convierte todo ese vapor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.13 × 10³ J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresó el resultado en kilojoules y lo dejó anotado como joules, de modo que el valor numérico es mil veces menor que el correcto."
+        },
+        {
+          "letter": "B",
+          "text": "4.52 × 10⁶ J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó el calor latente de fusión del agua, cercano a $334\\ \\text{J/g}$, que no corresponde a la vaporización."
+        },
+        {
+          "letter": "C",
+          "text": "4.20 × 10² J",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicó la fórmula del calor específico $mc\\Delta T$ a un cambio de estado, donde el calor latente es el parámetro pertinente y $\\Delta T$ es cero."
+        },
+        {
+          "letter": "D",
+          "text": "1.13 × 10⁶ J",
+          "is_correct": true,
+          "feedback": "Correcto. $Q = mL_v = 500\\ \\text{g}\\times 2.26\\times 10^3\\ \\text{J/g} = 1.13\\times 10^6\\ \\text{J}$."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Durante un cambio de estado la temperatura permanece constante aunque se aporte energía, y esa energía se denomina calor latente. Para vaporizar agua se usa $Q = mL_v$ con el calor latente de vaporización, sin incluir el término $\\Delta T$ porque la temperatura no cambia durante la ebullición. La energía requerida resulta mucho mayor que la usada para calentar el mismo líquido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v6",
+      "statement": "Cuánto aumenta la longitud de ese carril, si el coeficiente de expansión lineal del acero es $1.2\\times 10^{-5}\\ \\text{(}^{\\circ}\\text{C)}^{-1}$?",
+      "context": "En una vía del Valle del Cauca se revisa una carril de acero de 20 m de longitud. Durante el día la temperatura del metal aumenta y durante la noche desciende, y la variación de temperatura medida fue de 30 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.2 × 10⁻³ m",
+          "is_correct": true,
+          "feedback": "Correcto. $\\Delta L = \\alpha L\\Delta T = 1.2\\times 10^{-5}\\times 20\\ \\text{m}\\times 30\\,^{\\circ}\\text{C} = 7.2\\times 10^{-3}\\ \\text{m}$, es decir 7.2 mm."
+        },
+        {
+          "letter": "B",
+          "text": "7.2 × 10⁻⁵ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó uno de los dos factores numéricos, la longitud de 20 m o la variación de 30 °C, y obtuvo un resultado mil veces menor."
+        },
+        {
+          "letter": "C",
+          "text": "6.0 × 10⁶ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invirtió la división por la multiplicación, de modo que el coeficiente se dividió en lugar de multiplicarse y el resultado perdió sentido físico."
+        },
+        {
+          "letter": "D",
+          "text": "7.2 × 10⁻¹ m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Erró en el orden de magnitud al convertir el resultado, que equivale a 7.2 mm y no a 72 cm. Una dilatación del 3.6 % sería excesiva para el acero."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La expansión lineal se describe por $\\Delta L = \\alpha L \\Delta T$, donde $\\alpha$ es el coeficiente de expansión lineal del material. Para el acero el coeficiente es del orden de $1.2\\times 10^{-5}$ por grado Celsius, de modo que una variación de 30 °C en 20 m produce apenas unos milímetros de dilatación. Estas Anthem pequeñas holguras son las que evitan que las vías se deformen o se fracturen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v7",
+      "statement": "Qué ocurre con la temperatura y con la energía interna del gas durante esa compresión rápida?",
+      "context": "En un taller de mecánica de Envigado, un cilindro contiene gas y un técnico lo comprime rápidamente con un émbolo, sin esperar a que el gas intercambie calor con el ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía interna no cambia, porque sin calor no hay transferencia de energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor es solo una de las dos vías de transferencia de energía; el trabajo también transfiere energía y fue la única presente en este proceso."
+        },
+        {
+          "letter": "B",
+          "text": "La energía interna aumenta y la temperatura sube, porque el trabajo realizado sobre el gas se convierte en energía interna.",
+          "is_correct": true,
+          "feedback": "Correcto. Al no haber intercambio de calor, $Q = 0$ y la primera ley da $\\Delta U = W$, de modo que la energía interna y la temperatura ascienden."
+        },
+        {
+          "letter": "C",
+          "text": "La energía interna disminuye, porque el gas pierde volumen y por eso pierde energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perder volumen significa que el ambiente realiza trabajo sobre el gas, y ese trabajo se acumula como energía interna, que aumenta."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura baja, porque al reducir el volumen las moléculas quedan más juntas y se enfrían.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las moléculas más próximas chocan con mayor frecuencia y energía, lo que eleva la temperatura del gas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera ley establece que $\\Delta U = Q - W$. Si la compresión es rápida, el gas no tiene tiempo de ceder calor y $Q$ vale cero, de modo que la energía interna aumenta igual al trabajo recibido. Como la energía interna de un gas ideal depende solo de su temperatura, el gas se calienta. Este es el principio que hace funcionar los compresores y las bombas de bicicleta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v8",
+      "statement": "Qué volumen ocupan esos 0.5 moles de gas ideal, según la ley de los gases ideales?",
+      "context": "En un depósito de gas de un hospital de Pereira se estudian 0.5 moles de un gas ideal a 300 K y a presión de 1 atm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24.6 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó $T = 300\\ \\text{K}$ como si fueran 600 K, o duplicó el resultado, probablemente por confundir el valor de la constante con un factor adicional."
+        },
+        {
+          "letter": "B",
+          "text": "6.1 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó medio mol adicional implícitamente, pues el resultado corresponde a 0.25 moles a la misma temperatura y presión."
+        },
+        {
+          "letter": "C",
+          "text": "12.3 L",
+          "is_correct": true,
+          "feedback": "Correcto. $V = \\frac{nRT}{P} = \\frac{0.5\\times 8.314\\ \\text{J/mol}\\cdot\\text{K}\\times 300\\ \\text{K}}{101\\,325\\ \\text{Pa}} = 0.0123\\ \\text{m}^3$, es decir 12.3 L."
+        },
+        {
+          "letter": "D",
+          "text": "246 L",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresó el resultado en litros sin convertir los metros cúbicos, de modo que el valor numérico quedó diez veces mayor. El cálculo en metros cúbicos da 0.0123."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ley de los gases ideales relaciona presión, volumen, cantidad de sustancia y temperatura mediante $PV = nRT$, con $R = 8.314\\ \\text{J/(mol}\\cdot\\text{K)}$. Al despejar el volumen y usar unidades del Sistema Internacional, la presión atmosférica se expresa en pascales y el resultado en metros cúbicos. Este modelo describe con buena aproximación los gases a baja presión y temperatura moderada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v9",
+      "statement": "Por qué ninguna máquina térmica puede transformar toda la energía calorífica de su fuente caliente en trabajo mecánico?",
+      "context": "En una planta de generación eléctrica de la costa atlántica se analiza el rendimiento de una turbina a vapor que recibe calor de una fuente caliente y expulsa parte de esa energía a un río frío.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las máquinas térmicas siempre se deterioran con el uso y pierden eficiencia poco a poco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desgaste reduce el rendimiento, pero la limitación es intrínseca a la conversión de calor en trabajo y se debe a la segunda ley."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el trabajo mecánico es menos energía que el calor, y por eso las unidades no se pueden convertir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trabajo y calor son magnitudes de la misma dimensión, la energía, y sí se convierten entre sí sin cambio de unidades."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la energía del combustible es de menor calidad que la energía mecánica, y eso impide cualquier transformación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transformación entre energía térmica y trabajo sí ocurre; lo que limita la fracción convertible es la imposibilidad de alcanzar un rendimiento del 100 %."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la segunda ley obliga a que una parte de la energía se descarte como calor a una fuente fría, y solo el resto puede convertirse en trabajo.",
+          "is_correct": true,
+          "feedback": "Correcto. Ningún motor térmico puede tener rendimiento del 100 %; la máquina debe expulsar calor a un sumidero más frío."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El rendimiento de una máquina térmica se define como $\\eta = \\frac{W}{Q_{H}}$, donde $W$ es el trabajo producido y $Q_{H}$ el calor recibido de la fuente caliente. La segunda ley de la termodinámica establece que una parte del calor debe rechazarse a un sumidero más frío, de manera que siempre $Q_{H} > W$. Ninguna máquina real ni ideal alcanza un rendimiento del 100 %.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v10",
+      "statement": "Cuál es la mejor justificación de esa imposibilidad?",
+      "context": "Un grupo de estudiantes de grado 10 de un colegio de Bogotá discute si sería posible construir un dispositivo que enfriara un objeto hasta el cero absoluto sin consumir energía, y un compañero objeta que el proceso es físicamente imposible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la tercera ley de la termodinámica, el cero absoluto es una temperatura que solo puede acercarse asintóticamente y no alcanzarse mediante una secuencia finita de pasos.",
+          "is_correct": true,
+          "feedback": "Correcto. La tercera ley establece la inaccesibilidad del cero absoluto, coherente con el enunciado del principio de incerteza."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la energía interna de cualquier cuerpo es siempre positiva, de modo que no puede reducirse hasta cero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el cero absoluto la energía interna de un cuerpo no es cero, sino mínima, y existe energía residual debida a la energía de punto cero."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el frío es una sustancia que fluye del ambiente al cuerpo y se agota cuando desaparece.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta alternativa revela un error conceptual previo: el frío no es una sustancia, sino la dirección en que la energía se transfiere desde el cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el cero absoluto equivale a menos 273.15 °C, y ninguna temperatura puede ser negativa en una escala absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conversión numérica es correcta, pero no constituye una explicación física; una escala absoluta puede contener valores negativos, como lo muestra el cero Celsius."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tercera ley de la termodinámica indica que es imposible alcanzar el cero absoluto mediante cualquier procedimiento, y solo puede aproximarse indefinidamente. A $0\\ \\text{K}$ las partículas tendrían la mínima energía posible, pero no se pueden quedar quietas por completo. Reconocer esta limitación evita proponer diseños de refrigeración imposibles y conecta la termodinámica con la mecánica cuántica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v11",
+      "statement": "Qué conclusión se puede sacar sobre el enfriamiento del recipiente?",
+      "context": "En el proyecto de ciencias de grado 10 de un colegio de Cúcuta, cuatro grupos midieron la temperatura de un mismo recipiente con agua caliente, sin tapa, cada dos minutos. Los resultados promedio fueron: minuto 0, 90 °C; minuto 2, 78 °C; minuto 4, 70 °C; minuto 6, 65 °C; minuto 8, 62 °C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura disminuye siempre a la misma velocidad, porque la energía se pierde a ritmo constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las diferencias entre intervalos son 12, 8, 5 y 3 °C, de modo que la velocidad de enfriamiento disminuye claramente con el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura disminuye con el tiempo, pero cada vez más lentamente, porque la pérdida de calor es proporcional a la diferencia con la temperatura del ambiente.",
+          "is_correct": true,
+          "feedback": "Correcto. Las caídas por intervalo son de 12, 8, 5 y 3 °C, cada vez menores, lo que es coherente con una ley de enfriamiento gobernada por la diferencia de temperatura."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura se estabiliza exactamente en 0 °C, porque el agua alcanza el punto de congelación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos muestran que la temperatura se acerca al ambiente, no a 0 °C, y en Cúcuta el ambiente está muy por encima del punto de congelación."
+        },
+        {
+          "letter": "D",
+          "text": "El agua gana calor del ambiente, y por eso su temperatura baja cada vez más despacio por efecto del calor específico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recipiente pierde calor hacia un ambiente más frío; el calor específico explica la inercia térmica, no una ganancia de energía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los datos muestran que la pérdida de calor se frena con el tiempo: la diferencia de temperatura entre intervalos consecutivos disminuye. Este comportamiento es propio de la ley de enfriamiento de Newton, según la cual la rapidez con que un cuerpo pierde calor es proporcional a la diferencia entre su temperatura y la del ambiente. Leer la tendencia de una tabla permite formular y poner a prueba hipótesis.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle-v12",
+      "statement": "Cuál de las dos explicaciones está mejor sustentada desde la termodinámica?",
+      "context": "En un sala de clases ventilada de Sincelejo, dos estudiantes discuten por qué el salón se refresca cuando entra una brisa fresca. La estudiante Camila afirma que el aire frío que entra empuja al aire caliente y lo desplaza, mientras que su compañero Julián sostiene que la sala se enfría porque pierde energía hacia el exterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de Camila, porque el aire frío no puede mezclarse con el aire caliente y por eso lo expulsa mecánicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gases sí se mezclan por difusión, y esa mezcla transfiere energía; además no existe un mecanismo de expulsión puramente mecánica del aire caliente."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna de las dos, porque la temperatura de una sala no puede cambiar por ventilación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sala cambia de temperatura continuamente por el intercambio de energía con el exterior; la ausencia de paredes aislantes permite esa transferencia."
+        },
+        {
+          "letter": "C",
+          "text": "La de Julián, porque la mezcla con aire exterior transfiere energía al salón y el aire interior pierde energía interna al alcanzar el equilibrio térmico.",
+          "is_correct": true,
+          "feedback": "Correcto. La mezcla actúa como un sumidero de calor y el intercambio de energía produce un equilibrio, lo que corresponde a un proceso espontáneo de igualación de temperaturas."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas, porque el aire frío y el aire caliente pueden coexistir en equilibrio sin intercambiar energía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equilibrio térmico exige igualar las temperaturas, lo que solo se logra transfiriendo energía del cuerpo más caliente al más frío."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos cuerpos a distintas temperaturas se ponen en contacto, fluye energía del más caliente al más frío hasta alcanzar una temperatura de equilibrio, y ese proceso es espontáneo e irreversible. La ventilación acelera ese intercambio al renovar el aire interior. La explicación correcta combina la transferencia de energía y la igualación de temperaturas, no un simple reemplazo mecánico de masas de aire.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W07-termodinamica-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T16:36:08.242Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v1",
+      "statement": "Qué demostró el experimento de Oersted en 1820?",
+      "context": "En un taller de electromagnetismo de Bucaramanga, se reproduce el experimento histórico de Oersted con un conductor recto y una brújula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el campo magnético terrestre puede destruirse por la acción de un imán Artificial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Oersted no destruyó el campo terrestre; observó que una corriente podía producir un campo magnético propio."
+        },
+        {
+          "letter": "B",
+          "text": "Que una corriente eléctrica genera a su alrededor un campo magnético, capaz de orientar una brújula.",
+          "is_correct": true,
+          "feedback": "Correcto. Al circular corriente por un conductor, la brújula se desvía, lo que reveló la relación entre electricidad y magnetismo."
+        },
+        {
+          "letter": "C",
+          "text": "Que los imanes naturales y artificiales son de la misma naturaleza y por eso se atraen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese no fue el objeto del experimento. Oersted estudiar el efecto de la corriente eléctrica sobre una brújula magnética."
+        },
+        {
+          "letter": "D",
+          "text": "Que la brújula solo funciona por la influencia de la tormenta magnética, y no por el magnetismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desviación de la brújula fue inmediata y reproducible al cerrar y abrir el circuito, sin relación con tormentas magnéticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hans Christian Oersted observó que al hacer circular corriente por un conductor, una brújula cercana se desviaba en una dirección perpendicular al conductor. Ese resultado estableció por primera vez la relación entre electricidad y magnetismo, y mostró que el campo magnético es una consecuencia del movimiento de las cargas. La observación se repetía cada vez que se abría o cerraba el circuito, lo que descarta una causa fortuita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v2",
+      "statement": "Cómo se comportan las líneas de campo magnético de un imán de barra en el espacio que lo rodea?",
+      "context": "En una aula de un colegio de Cartagena de Indias, la profesora coloca sobre la mesa un imán de barra, una aguja magnetizada y una lámina de hierro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son líneas rectas que van del polo sur al polo norte, porque la brújula siempre apunta al norte geográfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fuera del imán las líneas salen del norte y entran por el sur. La dirección norte a sur corresponde a la brújula, no al trazado."
+        },
+        {
+          "letter": "B",
+          "text": "Son líneas que nacen y terminan en el polo norte del imán, sin llegar al polo sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El campo magnético no tiene fuentes ni sumideros: es un campo solenoidal cuyas líneas siempre forman trayectorias cerradas."
+        },
+        {
+          "letter": "C",
+          "text": "Son líneas cerradas que salen del polo norte, recorren el exterior y entran por el polo sur.",
+          "is_correct": true,
+          "feedback": "Correcto. Fuera del imán las líneas van de norte a sur y dentro del material de sur a norte, formando bucles cerrados."
+        },
+        {
+          "letter": "D",
+          "text": "Son líneas que solo existen dentro del imán y desaparecen por completo en el aire que lo rodea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El campo magnético se detecta también fuera del imán, por ejemplo con una aguja magnetizada o con virutas de hierro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las líneas de campo magnético son curvas imaginarias que representan la dirección de la fuerza sobre una aguja magnetizada. Fuera del imán nacen en el polo norte y entran por el polo sur, mientras que dentro del material se invierte el sentido para cerrar el bucle. Como el campo magnético no tiene fuentes ni sumideros, sus líneas nunca se cortan entre sí.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v3",
+      "statement": "Qué le ocurre al conductor cuando por él circula una corriente en un campo magnético uniforme?",
+      "context": "En un taller de mantenimiento de Bucaramanga, un conductor rígido de cobre se coloca entre los polos de un imán de herradura para que sirva de motor elemental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No ocurre nada, porque el campo magnético solo actúa sobre las cargas en reposo y no sobre las que se mueven.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El campo magnético actúa precisamente sobre las cargas en movimiento, que son las que constituyen la corriente eléctrica."
+        },
+        {
+          "letter": "B",
+          "text": "El conductor se calienta, pero no se desplaza, porque la fuerza magnética solo produce efectos térmicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calentamiento corresponde al efecto Joule por la resistencia del conductor. La fuerza magnética produce un desplazamiento mecánico."
+        },
+        {
+          "letter": "C",
+          "text": "El conductor se desplace solo si la corriente es alterna, porque una corriente continua genera un campo constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con corriente continua el campo es constante y la fuerza magnética también, de modo que el desplazamiento es sostenido."
+        },
+        {
+          "letter": "D",
+          "text": "Recibe una fuerza magnética que lo empuja o lo atrae hacia el lado del conductor que queda cerca del polo norte.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de la corriente y el campo produce una fuerza $\\vec{F} = I\\vec{L}\\times\\vec{B}$, que puede hacer que el conductor se desplace."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un conductor recto que transporta corriente y se encuentra en un campo magnético experimenta una fuerza descrita por la expresión vectorial $F = BIL\\sin\\theta$. Esa fuerza es la base del motor eléctrico, que convierte energía eléctrica en energía mecánica. Su dirección y su sentido se determinan con la regla de la mano derecha.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v4",
+      "statement": "Qué fuerza magnética actúa sobre ese conductor si lo atraviesa una corriente de 4 A?",
+      "context": "En un taller de electromagnetismo de Medellín, se coloca un conductor de 0.20 m de longitud dentro de un campo magnético uniforme de 0.5 T, perpendicularmente a las líneas de campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.4 N",
+          "is_correct": true,
+          "feedback": "Correcto. $F = BIL\\sin 90^\\circ = 0.5\\ \\text{T}\\times 4\\ \\text{A}\\times 0.20\\ \\text{m} = 0.4\\ \\text{N}$."
+        },
+        {
+          "letter": "B",
+          "text": "0.1 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó la longitud del conductor en lugar de la intensidad de la corriente, con lo que la fuerza calculada quedó cuatro veces menor."
+        },
+        {
+          "letter": "C",
+          "text": "4.0 N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidó el factor de longitud del conductor y obtuvo una fuerza que corresponde a un conductor de un metro de largo."
+        },
+        {
+          "letter": "D",
+          "text": "0.4 × 10³ N",
+          "is_correct": false,
+          "feedback": "Incorrecto. Convirtió erróneamente el producto a otra escala de unidades, obteniendo un valor mil veces mayor que el real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La magnitud de la fuerza magnética sobre un conductor recto se calcula con $F = BIL\\sin\\theta$, donde $B$ es la inducción, $I$ la corriente, $L$ la longitud del conductor y $\\theta$ el ángulo con el campo. Como el conductor es perpendicular al campo, el seno vale uno y el producto basta. Este cálculo es el punto de partida del diseño de motores y bocinas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v5",
+      "statement": "Con la regla de la mano derecha, qué determina el sentido de la fuerza magnética sobre ese cable?",
+      "context": "En un taller deelectricidad de Cúcuta se coloca un cable rígido cerca de un imán y se conecta a una fuente para observar la fuerza que ejerce sobre él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la intensidad de la corriente, porque el campo magnético no influye en el sentido de la fuerza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección de la fuerza depende tanto del sentido de la corriente como de la orientación del campo magnético."
+        },
+        {
+          "letter": "B",
+          "text": "La dirección de la corriente y la del campo, cuyo producto vectorial fija hacia dónde empuja el cable.",
+          "is_correct": true,
+          "feedback": "Correcto. Con la mano derecha se siguen los dedos por la corriente, la palma hacia el campo y el pulgar señala el sentido de la fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia entre el cable y el imán, que determina la magnitud del empuje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia sí influye en la magnitud, porque la inducción disminuye con la distancia, pero no determina el sentido de la fuerza."
+        },
+        {
+          "letter": "D",
+          "text": "El material del cable, que define si la fuerza apunta hacia el norte o hacia el sur.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material del conductor no cambia el sentido de la fuerza. Ese sentido depende de la geometría de la corriente y del campo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fuerza magnética sobre un conductor con corriente se obtiene del producto vectorial entre la corriente y el campo. La regla de la mano derecha da un procedimiento prático: el pulgar señala la corriente, los dedos se orientan según el campo y la palma indica la dirección de la fuerza. Invertir el sentido de la corriente o del campo invierte también el sentido de la fuerza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v6",
+      "statement": "Qué inducción magnética produce en el interior de ese solenoide?",
+      "context": "En un taller de electromagnetismo de Pereira se enrolla un cable en un tubo de cartón formando un solenoide de 500 espiras en 0.20 m de longitud, y se lo conecta a una fuente que hace circular 2 A.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.3 × 10⁰ T",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresó el resultado en militesla y lo dejó anotado en tesla, de modo que el valor numérico quedó mil veces mayor."
+        },
+        {
+          "letter": "B",
+          "text": "1.3 × 10⁻³ T",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usó el número total de espiras en lugar del número de espiras por unidad de longitud, de modo que la inducción calculada fue mucho menor."
+        },
+        {
+          "letter": "C",
+          "text": "6.3 × 10⁻³ T",
+          "is_correct": true,
+          "feedback": "Correcto. $B = \\mu_0 n I = 4\\pi\\times 10^{-7}\\times 2500\\times 2 = 6.3\\times 10^{-3}\\ \\text{T}$, con $n = N/L = 2500\\ \\text{m}^{-1}$."
+        },
+        {
+          "letter": "D",
+          "text": "1.3 × 10¹⁰ T",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicó en lugar de dividir la longitud para obtener el número de espiras por metro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El campo magnético en el interior de un solenoide se aproxima por $B = \\mu_0 n I$, donde $n = N/L$ es el número de espiras por unidad de longitud y $\\mu_0 = 4\\pi\\times 10^{-7}\\ \\text{T}\\cdot\\text{m/A}$. Al aumentar el número de espiras o la corriente, la inducción crece en la misma proporción. Este principio se aplica en electroimanes, motores y transformadores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v7",
+      "statement": "Cuál es la diferencia esencial entre el funcionamiento de un motor eléctrico y el de un generador?",
+      "context": "En una central hidroeléctrica de Antioquia, un grupo de estudiantes compara el motor de una maqueta con un dinamo del mismo material.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos dependen del mismo efecto, porque un motor es un generador que funciona al revés.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inversión no basta: en el motor interviene la fuerza sobre una corriente, y en el generador la inducción de una fem por el movimiento."
+        },
+        {
+          "letter": "B",
+          "text": "El motor usa magnetismo permanente y el generador usa magnetismo electromagnético, sin excepción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos pueden funcionar con imanes permanentes o con electroimanes. La diferencia es el fenómeno que se aprovecha, no el tipo de imán."
+        },
+        {
+          "letter": "C",
+          "text": "El generador no necesita campo magnético, porque produce corriente por simple acumulación de cargas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin campo magnético no habría inducción. La corriente de un generador aparece por el movimiento del conductor dentro de ese campo."
+        },
+        {
+          "letter": "D",
+          "text": "El motor convierte energía eléctrica en mecánica por la fuerza magnética sobre un conductor con corriente, y el generador hace lo contrario por inducción.",
+          "is_correct": true,
+          "feedback": "Correcto. En el motor la corriente y el campo producen una fuerza; en el generador el movimiento del conductor frente al campo induce una fem que genera corriente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El motor eléctrico transforma energía eléctrica en mecánica aprovechando la fuerza magnética sobre un conductor recorrido por corriente. El generador invierte el proceso: el movimiento del conductor dentro de un campo magnético varía el flujo y produce una fuerza electromotriz que genera corriente. Ambos comparten el papel del campo magnético, pero explotan fenómenos físicos diferentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v8",
+      "statement": "Qué fuerza electromotriz media se induce en esa bobina durante el intervalo indicado?",
+      "context": "En un generador eólico del Magdalena, una bobina de 500 espiras cambia su flujo magnético desde $2.0\\times 10^{-4}\\ \\text{Wb}$ hasta cero en $0.10\\ \\text{s}$ mientras gira frente a un imán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 V",
+          "is_correct": true,
+          "feedback": "Correcto. $|\\mathcal{E}| = N\\frac{\\Delta\\Phi}{\\Delta t} = 500\\times\\frac{2.0\\times 10^{-4}\\ \\text{Wb}}{0.10\\ \\text{s}} = 1.0\\ \\text{V}$."
+        },
+        {
+          "letter": "B",
+          "text": "2.0 × 10⁻⁴ V",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculó solo la variación de flujo por segundo y omitió multiplicar por el número de espiras de la bobina."
+        },
+        {
+          "letter": "C",
+          "text": "4.0 × 10⁻⁴ V",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresó el resultado en milivoltios y lo dejó anotado en voltios, de modo que el valor numérico quedó mil veces menor."
+        },
+        {
+          "letter": "D",
+          "text": "2.5 × 10¹ V",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividió por el número de espiras en lugar de multiplicar, de modo que el valor obtenido quedó muy por encima del real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ley de inducción de Faraday establece que la magnitud de la fuerza electromotriz inducida es igual al número de espiras por la rapidez con que cambia el flujo magnético: $\\mathcal{E} = N\\Delta\\Phi/\\Delta t$. El cálculo requiere convertir las unidades del flujo en weberes y del tiempo en segundos. Este principio es el fundamento de todo generador eléctrico, tanto de las centrales como de las pilas comerciales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v9",
+      "statement": "Qué explica la ley de Lenz en esta situación?",
+      "context": "En un laboratorio escolar de Bogotá, se acerca un imán a un anillo de cobre cerrado sostenido de un hilo y el anillo se repele al aproximarse, pero vuelve a moverse cuando el imán se aleja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El anillo se repele porque el cobre es un material que Levy siempre rechaza a los imanes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repulsivez no es una propiedad del cobre frente a los imanes, sino el efecto de la corriente inducida por la ley de Lenz."
+        },
+        {
+          "letter": "B",
+          "text": "La corriente inducida en el anillo crea un campo que se opone al cambio de flujo, de modo que el anillo resiste tanto la aproximación como el alejamiento.",
+          "is_correct": true,
+          "feedback": "Correcto. El signo menos de la ley de Faraday indica que la corriente inducida siempre se opone a la causa que la produce."
+        },
+        {
+          "letter": "C",
+          "text": "El anillo se mueve porque el imán atrae directamente las cargas del metal sin necesidad de campo inducido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas que actúan sobre los electrones del anillo provienen del campo magnético que la propia corriente inducida genera."
+        },
+        {
+          "letter": "D",
+          "text": "El anillo se resiste porque la inducción magnética pierde energía al acercarse el imán, y esa energía se disipa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no se pierde: se transfiere del imán al trabajo mecánico necesario para mover el anillo. La inducción es la causa de la oposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ley de Lenz establece que el sentido de la corriente inducida es tal que su campo magnético se opone al cambio de flujo que la produjo. Por eso un anillo se resiste tanto a acercarse como a alejarse del imán. Esta oposición no representa una pérdida de energía, sino su transferencia desde el imán hacia el trabajo mecánico sobre el anillo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v10",
+      "statement": "Qué criterio es el más pertinente para esa decisión?",
+      "context": "En el diseño de una línea de transmisión entre el Huila y el Tolima, un ingeniero debe elegir entre usar muchas espiras en la bobina del transformador o pocas espiras con un conductor más grueso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir la opción con menos espiras, porque menos espiras siempre significa menos resistencia y menos calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Menos espiras reducen la fem inducida y la relación de transformación. La resistencia depende del conductor, no del número de espiras."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir la opción con más espiras, porque un número alto de espiras elimina por completo las pérdidas por calor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pérdidas por efecto Joule siguen presentes y dependen de la corriente y de la resistencia del conductor, no del número de espiras."
+        },
+        {
+          "letter": "C",
+          "text": "El balance entre el número de espiras, que aumenta la fem inducida, y la sección del conductor, que reduce las pérdidas por efecto Joule.",
+          "is_correct": true,
+          "feedback": "Correcto. Más espiras elevan el voltaje inducido y un conductor más grueso disminuye $I^2R$, de modo que ambas decisiones se complementan."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir cualquiera de las dos, porque el rendimiento de un transformador no depende de su construcción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rendimiento y las pérdidas de un transformador dependen de su construcción, del material del núcleo y de la sección de los conductores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un transformador, el número de espiras de cada devanado determina la relación de transformación de voltajes, mientras que la sección del conductor determina la resistencia y con ella las pérdidas por efecto Joule. Un buen diseño equilibra ambos aspectos para minimizar la energía que se pierde en forma de calor durante la transmisión. La inducción mutua entre los devanados es lo que permite elevar o reducir la tensión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v11",
+      "statement": "Qué conclusión se sustenta en esos datos?",
+      "context": "En el proyecto de física de un colegio de Quibdó, un grupo registraba el flujo magnético a través de una bobina mientras acercaba un imán, obteniendo estos datos: 0.00 s, 1.0 × 10⁻⁴ Wb; 0.10 s, 1.5 × 10⁻⁴ Wb; 0.20 s, 2.0 × 10⁻⁴ Wb; 0.30 s, 2.5 × 10⁻⁴ Wb; 0.40 s, 3.0 × 10⁻⁴ Wb.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El flujo aumenta, por lo que la fem inducida debe aumentar, porque una mayor cantidad de flujo genera más voltaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fem depende de la rapidez con que cambia el flujo, no de su valor instantáneo. Como el cambio es lineal, la fem es constante."
+        },
+        {
+          "letter": "B",
+          "text": "El flujo no produce fem inducida, porque solo los imanes en movimiento generan magnetismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que genera la fem es la variación del flujo, y aquí el flujo sí cambia de manera apreciable en cada intervalo medido."
+        },
+        {
+          "letter": "C",
+          "text": "La fem inducida es nula, porque el imán permanece quieto y solo se acerca en el instante inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento sostenido del flujo entre 0.00 s y 0.20 s demuestra que hubo una fem inducida durante todo ese intervalo."
+        },
+        {
+          "letter": "D",
+          "text": "El flujo aumenta de manera uniforme en $5.0\\times 10^{-4}\\ \\text{Wb}$ cada 0.10 s, de modo que la fem inducida es constante durante ese intervalo.",
+          "is_correct": true,
+          "feedback": "Correcto. Un aumento lineal del flujo significa una rapidez de cambio constante, que es justamente la condición para una fem inducida estable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ley de Faraday relaciona la fuerza electromotriz inducida con la rapidez de cambio del flujo magnético. Cuando los datos muestran incrementos iguales de flujo en intervalos iguales de tiempo, la rapidez de cambio es constante y la fem inducida también lo es. Leer tendencias en una tabla permite poner a prueba la ley y distinguir entre el valor del flujo y su derivación temporal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle-v12",
+      "statement": "Cuál es la explicación correcta de esa diferencia?",
+      "context": "En una clase de un colegio de Armenia, un estudiante deja caer un imán por un tubo de cobre vertical y afirma que el imán cae más despacio que por un tubo de plástico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El movimiento del imán frente al campo produce corrientes de Foucault en el cobre, cuya reacción se opone al movimiento y retrasa la caída.",
+          "is_correct": true,
+          "feedback": "Correcto. Las corrientes de Foucault disipan energía en forma de calor y reducen la velocidad del imán. El plástico, al ser aislante, no permite ese efecto."
+        },
+        {
+          "letter": "B",
+          "text": "El cobre tiene mayor densidad que el plástico, de modo que el imán experimenta una mayor resistencia del aire al caer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia del aire no depende del material del tubo. La diferencia se debe a la inducción de corrientes y a la fuerza magnética que se opone al movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "El imán se frena en el cobre porque pierde su magnetismo al entrar en contacto con ese material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imán no pierde sus propiedades magnéticas por estar dentro de un tubo de cobre. Lo que ocurre es una inducción de corrientes que se oponen al movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El tubo de cobre absorbe energía cinética del imán por contacto directo, y por eso la velocidad final es menor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imán no contacta el cobre, sino que queda suspendido en el interior del tubo. La frenada se produce por inducción electromagnética."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un imán que se mueve dentro de un conductor metálico genera corrientes en bucles, denominadas corrientes de Foucault. Esos bucles crean un campo magnético que se opone al movimiento del imán, y la energía mecánica se disipa en forma de calor dentro del conductor. Este fenómeno explica la frenada en los motores de un tren magnético y las pérdidas de energía en los motores eléctricos de corriente alterna.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
