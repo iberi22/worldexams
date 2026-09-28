@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v1",
-      "statement": "Cuál es la diferencia entre el calor y la energía interna de un sistema?",
+      "statement": "¿Cuál es la diferencia entre el calor y la energía interna de un sistema?",
       "context": "En el laboratorio de física de un colegio de Medellín, la profesora calienta un recipiente con agua mientras el grupo debate qué significa realmente \"calor\".",
       "options": [
         {
@@ -55,12 +55,12 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v2",
-      "statement": "Dos vasos idénticos contienen la misma masa de agua: uno está a 80 C y el otro a 20 C. Considerando solo el sistema agua, qué diferencia existe entre ambos?",
+      "statement": "Dos vasos idénticos contienen la misma masa de agua: uno está a 80 °C y el otro a 20 °C. Considerando solo el sistema agua, ¿qué diferencia existe entre ambos?",
       "context": "En el laboratorio de un colegio de Bogotá, dos estudiantes comparan un vaso con agua muy caliente y otro con agua a temperatura ambiente.",
       "options": [
         {
           "letter": "A",
-          "text": "El agua a 80 C tiene más calor, porque puede ceder más energía al ambiente que el agua a 20 C.",
+          "text": "El agua a 80 °C tiene más calor, porque puede ceder más energía al ambiente que el agua a 20 °C.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno de los dos vasos contiene calor; el calor solo existe mientras la energía se transfiere. Lo que tienen es energía interna."
         },
@@ -78,7 +78,7 @@
         },
         {
           "letter": "D",
-          "text": "El agua a 80 C tiene mayor energía interna que la que está a 20 C, aunque ambas tengan la misma composición y masa.",
+          "text": "El agua a 80 °C tiene mayor energía interna que la que está a 20 °C, aunque ambas tengan la misma composición y masa.",
           "is_correct": true,
           "feedback": "Correcto. A igual masa y sustancia, la energía interna depende de la temperatura porque las partículas se mueven más rápido."
         }
@@ -101,7 +101,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v3",
-      "statement": "A un sistema se le transfieren 1 200 J de calor y, al mismo tiempo, el sistema realiza 300 J de trabajo sobre el entorno. Según la primera ley de la termodinámica, cómo cambia su energía interna?",
+      "statement": "A un sistema se le transfieren 1 200 J de calor y, al mismo tiempo, el sistema realiza 300 J de trabajo sobre el entorno. Según la primera ley de la termodinámica, ¿cómo cambia su energía interna?",
       "context": "En un taller de física de un colegio de Bucaramanga, un grupo mide un sistema térmico que calienta un pistón mientras recibe energía de una resistencia.",
       "options": [
         {
@@ -147,7 +147,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v4",
-      "statement": "En una máquina de vapor, el gas encerrado se calienta y se expande, empujando un pistón que mueve las ruedas. Qué ocurre con la energía interna del gas durante la expansión?",
+      "statement": "En una máquina de vapor, el gas encerrado se calienta y se expande, empujando un pistón que mueve las ruedas. ¿Qué ocurre con la energía interna del gas durante la expansión?",
       "context": "En un museo interactivo de un colegio de Pereira, los estudiantes observan el funcionamiento de una máquina de vapor de tamaño reducido.",
       "options": [
         {
@@ -176,7 +176,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Una máquina térmica convierte parte del calor recibido de una fuente caliente en trabajo mecánico. Cuando el gas se expande, realiza trabajo sobre el pistón y esa energía sale del gas, por lo que su energía interna disminuye. El calor que el gas recibió antes, durante el calentamiento, es lo que financió ese trabajo. Ninguna máquina térmica real transfiere toda su energía interna al pistón: una parte se descarga al ambiente como calor residual, y esa parte no/apparecerá como trabajo útil.",
+      "explanation": "Una máquina térmica convierte parte del calor recibido de una fuente caliente en trabajo mecánico. Cuando el gas se expande, realiza trabajo sobre el pistón y esa energía sale del gas, por lo que su energía interna disminuye. El calor que el gas recibió antes, durante el calentamiento, es lo que financió ese trabajo. Ninguna máquina térmica real transfiere toda su energía interna al pistón: una parte se descarga al ambiente como calor residual, y esa parte no aparecerá como trabajo útil.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -193,7 +193,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v5",
-      "statement": "Un motor térmico recibe 2 000 J de energía en forma de calor de la fuente caliente y entrega 500 J de trabajo. Cuál es la eficiencia de ese motor?",
+      "statement": "Un motor térmico recibe 2 000 J de energía en forma de calor de la fuente caliente y entrega 500 J de trabajo. ¿Cuál es la eficiencia de ese motor?",
       "context": "En un taller de mantenimiento de Cartagena, un técnico mide el comportamiento de un motor térmico pequeño y compara el trabajo útil con la energía suministrada.",
       "options": [
         {
@@ -239,7 +239,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v6",
-      "statement": "Un estudiante frota sus manos y de inmediato siente calor en ellas. Qué explicación es correcta desde la termodinámica?",
+      "statement": "Un estudiante frota sus manos y de inmediato siente calor en ellas. ¿Qué explicación es correcta desde la termodinámica?",
       "context": "En una mañana fría de Bogotá, un estudiante sale al patio del colegio y frota sus manos antes de entrar a clase.",
       "options": [
         {
@@ -285,7 +285,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v7",
-      "statement": "Una nevera encendida se siente fría por dentro y caliente por detrás. Cuál es la explicación correcta?",
+      "statement": "Una nevera encendida se siente fría por dentro y caliente por detrás. ¿Cuál es la explicación correcta?",
       "context": "En un apartamento de Medellín, un técnico explica a la familia por qué la parte posterior de la nevera está más caliente que la parte delantera.",
       "options": [
         {
@@ -331,7 +331,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v8",
-      "statement": "Dos motores reciben la misma energía térmica: el motor A entrega 400 J de trabajo y el motor B entrega 300 J. Qué comparación es correcta?",
+      "statement": "Dos motores reciben la misma energía térmica: el motor A entrega 400 J de trabajo y el motor B entrega 300 J. ¿Qué comparación es correcta?",
       "context": "En un laboratorio escolar de Armenia, dos grupos construyen maquetas de motores y comparan sus resultados.",
       "options": [
         {
@@ -377,7 +377,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v9",
-      "statement": "En una central térmica, de 10 000 J de energía liberada por el combustible, 3 000 J se convierten en trabajo eléctrico y 7 000 J se descargan al ambiente. Qué afirmación es coherente con la primera ley?",
+      "statement": "En una central térmica, de 10 000 J de energía liberada por el combustible, 3 000 J se convierten en trabajo eléctrico y 7 000 J se descargan al ambiente. ¿Qué afirmación es coherente con la primera ley?",
       "context": "En una clase de grado 9 de Neiva, los estudiantes analizan un diagrama de flujo de energía de una central térmica que opera cerca al municipio.",
       "options": [
         {
@@ -423,7 +423,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v10",
-      "statement": "Un fabricante afirma que su máquina produce hielo a partir de agua tibia sin consumir energía, y que luego el hielo se derrite en un recipiente más frío. Qué establece la segunda ley de la termodinámica frente a esa afirmación?",
+      "statement": "Un fabricante afirma que su máquina produce hielo a partir de agua tibia sin consumir energía, y que luego el hielo se derrite en un recipiente más frío. ¿Qué establece la segunda ley de la termodinámica frente a esa afirmación?",
       "context": "Un inventor amateur de Tunja presenta en una feria regional un dispositivo que, según él, produce hielo sin consumir energía.",
       "options": [
         {
@@ -469,7 +469,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v11",
-      "statement": "Un grupo presenta un dispositivo que afirma entregar 120 J de trabajo por cada 100 J de energía que consume. Cómo debe evaluarse esa propuesta?",
+      "statement": "Un grupo presenta un dispositivo que afirma entregar 120 J de trabajo por cada 100 J de energía que consume. ¿Cómo debe evaluarse esa propuesta?",
       "context": "En una feria de ciencias de Bogotá, un grupo de grado 9 presenta un dispositivo y proyecta en pantalla una gráfica de su rendimiento.",
       "options": [
         {
@@ -515,7 +515,7 @@
     },
     {
       "id": "CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v12",
-      "statement": "Un equipo coloca la misma cantidad de agua caliente en dos recipientes idénticos: uno con tapa y otro sin tapa. Registra la temperatura cada diez minutos durante una hora. Qué conclusión se puede sostener con esos datos?",
+      "statement": "Un equipo coloca la misma cantidad de agua caliente en dos recipientes idénticos: uno con tapa y otro sin tapa. Registra la temperatura cada diez minutos durante una hora. ¿Qué conclusión se puede sostener con esos datos?",
       "context": "En el proyecto de grado 9 de un colegio de Montería, un equipo investiga cómo afectan las pérdidas de calor a la temperatura de una sustancia.",
       "options": [
         {
