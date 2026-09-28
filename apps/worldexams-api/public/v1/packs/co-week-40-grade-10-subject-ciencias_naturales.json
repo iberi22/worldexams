@@ -14,15 +14,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "La ley de Pascal, que establece que la presión aplicada a un líquido se transmite por igual en todas las direcciones",
-          "is_correct": false,
-          "feedback": "Incorrecto. La ley de Pascal explica la transmisión de la presión en los fluidos y no tiene relación con campos magnéticos ni con corrientes eléctricas."
-        },
-        {
-          "letter": "B",
           "text": "La inducción electromagnética, según la cual un campo magnético que cambia con el tiempo genera una fuerza electromotriz en el conductor",
           "is_correct": true,
           "feedback": "Correcto. Faraday demostró que el cambio del flujo magnético a través de un circuito produce una fuerza electromotriz capaz de generar corriente."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de Pascal, que establece que la presión aplicada a un líquido se transmite por igual en todas las direcciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de Pascal explica la transmisión de la presión en los fluidos y no tiene relación con campos magnéticos ni con corrientes eléctricas."
         },
         {
           "letter": "C",
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La tercera ley de Newton describe pares de fuerzas entre cuerpos, no la producción de corriente por un campo magnético variable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La inducción electromagnética es el fenómeno por el cual un campo magnético que varía con el tiempo genera una fuerza electromotriz capaz de producir corriente en un circuito cerrado. La ley de Faraday relaciona la magnitud de esa fuerza con la rapidez de variación del flujo magnético, y la ley de Lenz establece que el sentido de la corriente inducida se opone precisamente a esa variación. Este principio explica el funcionamiento de los generadores eléctricos, de las dinamos de las bicicletas y de los transformadores de las subestaciones que distribuyen energía en Boyacá. También sustenta el diseño de las bobinas de los motores y de los lectores de tarjetas de los sistemas de transporte público.",
       "difficulty": "4",
       "images": [],
@@ -72,18 +72,18 @@
         },
         {
           "letter": "C",
-          "text": "Su único electrón de valencia está poco retenido por el núcleo y se cede con facilidad a átomos que necesitan un electrón para completar su octeto",
-          "is_correct": true,
-          "feedback": "Correcto. El sodio pertenece al grupo uno y tiende a perder su único electrón de valencia para formar el ion Na más, que alcanza la estructura estable del neón."
-        },
-        {
-          "letter": "D",
           "text": "Sus numerosos electrones internos impiden cualquier interacción con los electrones de otros átomos",
           "is_correct": false,
           "feedback": "Incorrecto. Los electrones internos no bloquean la reactividad. En los enlaces participan los electrones de valencia, en este caso el único electrón externo."
+        },
+        {
+          "letter": "D",
+          "text": "Su único electrón de valencia está poco retenido por el núcleo y se cede con facilidad a átomos que necesitan un electrón para completar su octeto",
+          "is_correct": true,
+          "feedback": "Correcto. El sodio pertenece al grupo uno y tiende a perder su único electrón de valencia para formar el ion Na más, que alcanza la estructura estable del neón."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El modelo de Bohr organiza los electrones en niveles de energía y señala que los átomos resultan más estables cuando su capa de valencia está completa. El sodio, con configuración dos, ocho, uno, está a un solo electrón de alcanzar la configuración del neón, por lo que tiende a perderlo y a formar el ion Na más. Esa pérdida explica que el sodio sea un metal muy reactivo, que reaccione con el agua liberando hidrógeno y que se combine con facilidad con elementos no metálicos como el cloro. El mismo razonamiento se aplica al cloro, con configuración tres, ocho, siete, que gana un electrón y forma el ion Cl menos, y así se obtiene el cloruro de sodio como ejemplo canónico de enlace iónico.",
       "difficulty": "4",
       "images": [],
