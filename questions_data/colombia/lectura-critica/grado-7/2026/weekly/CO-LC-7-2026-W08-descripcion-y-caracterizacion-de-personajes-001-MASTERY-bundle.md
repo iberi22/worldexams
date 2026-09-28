@@ -57,10 +57,10 @@ La caracterización de un personaje se apoya, entre otros recursos, en sus accio
 ¿Qué quiso comunicar realmente Manuela con esa respuesta?
 
 ### Opciones
-- [x] A) Que prefiere aprovechar el tiempo libre en algo que le resulta útil, y no que estuviera enojada.
-  <!-- feedback: La intención se deduce del comentario de la abuela y del contexto de la escena, porque la frase comunica una decisión tranquila y no un reclamo. -->
-- [ ] B) Que estaba enojada con su compañero y quería que no le volviera a hablar.
+- [ ] A) Que estaba enojada con su compañero y quería que no le volviera a hablar.
   <!-- feedback: Reduce la frase a su contenido emocional más obvio e ignora que el narrador la ubica en una escena de confianza entre la niña y su familia. -->
+- [x] B) Que prefiere aprovechar el tiempo libre en algo que le resulta útil, y no que estuviera enojada.
+  <!-- feedback: La intención se deduce del comentario de la abuela y del contexto de la escena, porque la frase comunica una decisión tranquila y no un reclamo. -->
 - [ ] C) Que no tenía tiempo libre porque una tarea del colegio le ocupaba toda la tarde.
   <!-- feedback: Añade una obligación externa que el texto nunca menciona y confunde una elección personal con una imposición. -->
 - [ ] D) Que estaba mintiendo para parecer más madura que sus compañeros de grado.
@@ -80,12 +80,12 @@ Lo que una persona dice y lo que quiere decir no siempre coinciden, y esa distan
 ¿Qué oración caracteriza a Esteban de manera indirecta?
 
 ### Opciones
-- [x] A) "Conestal es el único que le pregunta al profesor hasta que lo entiende".
-  <!-- feedback: Es caracterización indirecta porque el rasgo lo formula un personaje distinto, y eso es justamente lo que define a este procedimiento narrativo. -->
-- [ ] B) "Esteban anotaba en un cuaderno todas las respuestas que daba el profesor de física".
+- [ ] A) "Esteban anotaba en un cuaderno todas las respuestas que daba el profesor de física".
   <!-- feedback: Es caracterización directa por acción, porque el narrador cuenta lo que el personaje hace y no lo que otros piensan de él. -->
-- [ ] C) "Esteban se sentaba en la primera fila del salón de física".
+- [ ] B) "Esteban se sentaba en la primera fila del salón de física".
   <!-- feedback: Describe una costumbre del personaje, pero no aporta ningún rasgo de carácter, pues es un dato de posición y no de personalidad. -->
+- [x] C) "Conestal es el único que le pregunta al profesor hasta que lo entiende".
+  <!-- feedback: Es caracterización indirecta porque el rasgo lo formula un personaje distinto, y eso es justamente lo que define a este procedimiento narrativo. -->
 - [ ] D) "La clase de física terminó a las doce del día".
   <!-- feedback: Corresponde al entorno y a la organización del tiempo, no al personaje, y por eso no aporta ningún rasgo sobre Esteban. -->
 
@@ -103,14 +103,14 @@ Existen dos maneras de caracterizar a un personaje: directamente, cuando el narr
 ¿Qué permite inferir el lector a partir de ese detalle de la hoja doblada?
 
 ### Opciones
-- [x] A) Que Manuela prepara con anticipación y con cuidado lo que va a decir, y vuelve a intentarlo cuando algo sale mal.
-  <!-- feedback: Repartir el título en tres hojas y volver a escribirlo tras la humedad muestran anticipación y perseverancia, dos rasgos que el detalle permite inferir. -->
-- [ ] B) Que escribe con mucha rapidez porque siempre tiene una entrega urgente.
+- [ ] A) Que escribe con mucha rapidez porque siempre tiene una entrega urgente.
   <!-- feedback: El detalle no dice nada sobre rapidez, solo muestra que rehizo el trabajo, y eso no es lo mismo que terminarlo con prisa. -->
-- [ ] C) Que conversa con sus compañeros durante la clase, porque anota lo que ellos dicen.
+- [ ] B) Que conversa con sus compañeros durante la clase, porque anota lo que ellos dicen.
   <!-- feedback: Añade un rasgo social que el detalle no contiene, ya que la hoja pertenece al trabajo propio de Manuela y no a un intercambio con otros. -->
-- [ ] D) Que la hoja pertenecía al profesor y que ella la encontró por error en el aula.
+- [ ] C) Que la hoja pertenecía al profesor y que ella la encontró por error en el aula.
   <!-- feedback: Contradice el texto, que presenta la hoja como un trabajo personal de Manuela ligado a su proyecto del filtro. -->
+- [x] D) Que Manuela prepara con anticipación y con cuidado lo que va a decir, y vuelve a intentarlo cuando algo sale mal.
+  <!-- feedback: Repartir el título en tres hojas y volver a escribirlo tras la humedad muestran anticipación y perseverancia, dos rasgos que el detalle permite inferir. -->
 
 ### Explicacion Pedagogica
 Los detalles pequeños funcionan en la caracterización como pruebas indirectas: un objeto, una costumbre o un gesto que se repiten permiten deducir un rasgo sin que el narrador lo nombre. En este caso, una hoja doblada con un título escrito tres veces revela dos cosas a la vez: que la niña se prepara y que no se rinde ante un accidente. La inferencia correcta es siempre la más precisa y la mejor sustentada en el texto, mientras que las otras opciones o se contradicen con lo narrado o añaden datos que nunca aparecen. Practicar este tipo de deducción entrena la lectura con atención, que es la base de cualquier análisis literario serio.
@@ -149,10 +149,10 @@ El narrador no se limita a listar rasgos: los organiza. Cuando coloca frente a f
 ¿Qué efecto produce en el lector la manera en que el narrador presenta la timidez de Manuela, combinando el hecho observable y la opinión de la profesora?
 
 ### Opciones
-- [x] A) Construye una caracterización completa: el narrador aporta el hecho y la profesora aporta una lectura positiva de ese mismo hecho, y el lector completa el rasgo.
-  <!-- feedback: Las dos capas se suman y se confirman, porque la observación del narrador y el juicio favorable de la maestra refuerzan la misma característica del personaje. -->
-- [ ] B) Genera una contradicción que deja al lector sin una interpretación válida del personaje.
+- [ ] A) Genera una contradicción que deja al lector sin una interpretación válida del personaje.
   <!-- feedback: Confunde la riqueza de la información con un conflicto, cuando ambos enunciados describen el mismo rasgo desde ángulos distintos. -->
+- [x] B) Construye una caracterización completa: el narrador aporta el hecho y la profesora aporta una lectura positiva de ese mismo hecho, y el lector completa el rasgo.
+  <!-- feedback: Las dos capas se suman y se confirman, porque la observación del narrador y el juicio favorable de la maestra refuerzan la misma característica del personaje. -->
 - [ ] C) Obliga al lector a escoger entre lo que afirma el narrador y lo que afirma la profesora, sin alternativa posible.
   <!-- feedback: No hay disyuntiva, porque lo observado y lo comentado se apoyan mutuamente y no se oponen entre sí. -->
 - [ ] D) Reduce el personaje a la opinión de un adulto y borra los hechos que el texto aporta.
@@ -172,12 +172,12 @@ Un buen retrato de personaje combina fuentes: lo que el narrador ve, lo que el p
 ¿Por qué el giro del "sin embargo" enriquece el retrato de Manuela en lugar de contradecirlo?
 
 ### Opciones
-- [x] A) Porque el giro revela que su autonomía no es indiferencia: hay una situación concreta en la que el narrador muestra que sí acepta el vínculo con otra persona.
-  <!-- feedback: El giro delimita hasta dónde llega la costumbre de la niña y abre un matiz nuevo, y eso es lo que vuelve complejo y no confuso a un personaje. -->
-- [ ] B) Porque el narrador se contradice y por eso el lector no puede confiar en su descripción.
+- [ ] A) Porque el narrador se contradice y por eso el lector no puede confiar en su descripción.
   <!-- feedback: Reduce la evolución del personaje a una falla del narrador, cuando la lectura crítica interpreta la consistencia y no la ve como un defecto. -->
-- [ ] C) Porque el texto quiere demostrar que todos los personajes tienen dos naturalezas opuestas.
+- [ ] B) Porque el texto quiere demostrar que todos los personajes tienen dos naturalezas opuestas.
   <!-- feedback: Convierte un rasgo particular de Manuela en una regla general sobre todos los personajes, que el texto nunca afirma. -->
+- [x] C) Porque el giro revela que su autonomía no es indiferencia: hay una situación concreta en la que el narrador muestra que sí acepta el vínculo con otra persona.
+  <!-- feedback: El giro delimita hasta dónde llega la costumbre de la niña y abre un matiz nuevo, y eso es lo que vuelve complejo y no confuso a un personaje. -->
 - [ ] D) Porque la primera afirmación es falsa y la segunda viene a corregirla.
   <!-- feedback: Trata el cambio como un error de información, cuando en realidad no hay falsedad sino un cambio de conducta en un caso específico. -->
 
@@ -195,14 +195,14 @@ Los personajes que crecen no se contradicen: se completan. Cuando el narrador op
 ¿Qué efecto produce la frase del narrador que dice que esas palabras terminaron titulando la cartelera del patio?
 
 ### Opciones
-- [x] A) Crea un tono irónico y cariñoso: el narrador señala, con humor, que la afirmación seguía siendo cierta y que el personaje ya decía lo que pensaba.
-  <!-- feedback: El remate convierte la frase de la niña en un acierto comprobado por la realidad, y ese guiño afectuoso es propio del narrador que hemos elegido. -->
-- [ ] B) Obliga al lector a pensar que el narrador se está burlando de la cartelera del colegio.
+- [ ] A) Obliga al lector a pensar que el narrador se está burlando de la cartelera del colegio.
   <!-- feedback: Desvía el efecto hacia la institución educativa, cuando el remate celebra a la personaje y su honestidad. -->
-- [ ] C) Refuerza la idea de que la respuesta de Manuela fue arrogante e inapropiada en clase.
+- [ ] B) Refuerza la idea de que la respuesta de Manuela fue arrogante e inapropiada en clase.
   <!-- feedback: Lee el remate como una recriminación moral, cuando el tono del narrador es de respeto y no de reproche. -->
-- [ ] D) Indica que el resto de la clase copió literalmente esa respuesta en la cartelera.
+- [ ] C) Indica que el resto de la clase copió literalmente esa respuesta en la cartelera.
   <!-- feedback: Toma la expresión de forma literal, cuando en realidad funciona como una imagen sobre lo que la frase de la niña significaba. -->
+- [x] D) Crea un tono irónico y cariñoso: el narrador señala, con humor, que la afirmación seguía siendo cierta y que el personaje ya decía lo que pensaba.
+  <!-- feedback: El remate convierte la frase de la niña en un acierto comprobado por la realidad, y ese guiño afectuoso es propio del narrador que hemos elegido. -->
 
 ### Explicacion Pedagogica
 El narrador también comunica su postura, y esa postura es parte de la interpretación. En este fragmento, el remate sobre la cartelera introduce un matiz de ironía afectuosa: el narrador toma en serio la afirmación de la niña, la da como verdad y además señala que fue lo bastante buena para ocupar un lugar visible en el colegio. Ese recurso es muy distinto de una burla hacia la escuela, de una condena moral hacia la niña o de una descripción literal de un hecho. Leer la posición del narrador ayuda al estudiante a entender no solo quién es Manuela, sino cómo la quiere mostrar el autor.
@@ -241,10 +241,10 @@ Evaluar un final exige comparar las opciones con la evidencia que ofrece el text
 Frente a esa opinión y frente al texto, ¿cuál es la valoración más precisa?
 
 ### Opciones
-- [x] A) La afirmación es imprecisa: el relato usa el aspecto físico, pero de manera subordinada, y el cambio de la protagonista se sostiene en sus acciones, en sus palabras y en la opinión de los demás.
-  <!-- feedback: Distingue la presencia real de un recurso en el texto de su peso real, y eso es justamente lo que se pregunta al evaluar una afirmación. -->
-- [ ] B) La afirmación es correcta: la información más importante para conocer a un personaje es siempre su aspecto físico.
+- [ ] A) La afirmación es correcta: la información más importante para conocer a un personaje es siempre su aspecto físico.
   <!-- feedback: Convierte un caso particular en una regla general, y además contradice el texto, que sí usa esos datos físicos del personaje. -->
+- [x] B) La afirmación es imprecisa: el relato usa el aspecto físico, pero de manera subordinada, y el cambio de la protagonista se sostiene en sus acciones, en sus palabras y en la opinión de los demás.
+  <!-- feedback: Distingue la presencia real de un recurso en el texto de su peso real, y eso es justamente lo que se pregunta al evaluar una afirmación. -->
 - [ ] C) La afirmación es correcta, pero solo si se borra del texto toda descripción física, porque esos datos sobran.
   <!-- feedback: Trunca la discusión al extremo de eliminar el recurso, cuando la pregunta es sobre el peso relativo y no sobre su presencia o ausencia. -->
 - [ ] D) La afirmación es incorrecta, porque las descripciones físicas nunca permiten construir personajes en literatura.
