@@ -123,11 +123,11 @@ El principio de Pascal establece que la presión aplicada a un fluido contenido 
 **Contexto:** En una piscina municipal de un colegio de Santa Marta, un grupo de estudiantes prueba un bloque de madera con un dinamómetro y un recipiente con agua.
 
 ### Enunciado
-Un bloque de 2,0 × 10⁻ m tiene una densidad de 800 kg/m y se coloca en agua de 1 000 kg/m. Tomando g = 9,8 m/s, qué ocurre con el bloque?
+Un bloque de 2,0 × 10⁻³ m³ tiene una densidad de 800 kg/m y se coloca en agua de 1 000 kg/m. Tomando g = 9,8 m/s, qué ocurre con el bloque?
 
 ### Opciones
 - [x] A) Flota, porque el empuje de 19,6 N supera a su peso de 15,68 N.
-  <!-- feedback: Correcto. El empuje vale 1 000 × 2,0 × 10⁻ × 9,8 = 19,6 N y el peso 800 × 2,0 × 10⁻ × 9,8 = 15,68 N, así que el empuje gana. -->
+  <!-- feedback: Correcto. El empuje vale 1 000 × 2,0 × 10⁻³ × 9,8 = 19,6 N y el peso 800 × 2,0 × 10⁻³ × 9,8 = 15,68 N, así que el empuje gana. -->
 - [ ] B) Se hunde, porque su peso de 19,6 N supera al empuje de 15,68 N.
   <!-- feedback: Incorrecto. Intercambia los dos valores: el empuje depende de la densidad del agua, que es mayor, y por eso supera al peso. -->
 - [ ] C) Flota, porque todo cuerpo con volumen menor que un litro flota en el agua.
