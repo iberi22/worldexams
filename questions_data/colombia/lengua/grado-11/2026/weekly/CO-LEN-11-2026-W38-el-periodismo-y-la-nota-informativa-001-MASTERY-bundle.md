@@ -42,7 +42,6 @@ En la semana 38 del año escolar 2026, dentro de una secuencia de 40 semanas, lo
   <!-- feedback: Incorrecta, porque la crónica deportiva responde a criterios distintos y no tiene por objeto informar sobre un hecho general. -->
 - [ ] D) Un aviso publicitario que informa el precio de un producto y el nombre del comercio que lo vende.
   <!-- feedback: Incorrecta, porque un aviso informa con el fin de persuadir la compra y no de relatar un hecho. -->
-
 ### Explicacion Pedagogica
 La nota informativa es el género central de la prensa escrita: relata hechos recientes, los ordena con claridad y señala las fuentes de la información. Su valor depende de que otro lector pueda verificar lo que se afirma, y por eso la precisión y la identificación de fuentes no son opcionales. Conocer sus rasgos permite distinguirla de la opinión, de la crónica y del anuncio publicitario, cuatro textos que conviven en un mismo medio.
 
@@ -57,15 +56,14 @@ La nota informativa es el género central de la prensa escrita: relata hechos re
 ¿Cuál es la diferencia principal entre una nota informativa y un artículo de opinión?
 
 ### Opciones
-- [x] A) La nota informativa se limita a relatar hechos comprobables, mientras que el artículo de opinión expone la postura de su autor y la defiende.
-  <!-- feedback: Correcta, porque la diferencia está en la relación con la verdad que el texto declara: uno informa y el otro persuade. -->
-- [ ] B) La nota informativa aparece en la prensa escrita, y el artículo de opinión solo se difunde por radio.
+- [ ] A) La nota informativa aparece en la prensa escrita, y el artículo de opinión solo se difunde por radio.
   <!-- feedback: Incorrecta, porque ambos géneros circulan por los mismos medios y en los mismos formatos impresos y digitales. -->
+- [x] B) La nota informativa se limita a relatar hechos comprobables, mientras que el artículo de opinión expone la postura de su autor y la defiende.
+  <!-- feedback: Correcta, porque la diferencia está en la relación con la verdad que el texto declara: uno informa y el otro persuade. -->
 - [ ] C) La nota informativa tiene que ser escrita por un periodista formado profesionalmente, y la opinión puede escribirla cualquiera.
   <!-- feedback: Incorrecta, porque ambos textos se elaboran en la redacción de un medio y ninguno admite la firma de un cualquiera. -->
 - [ ] D) La nota informativa incluye datos numéricos, y el artículo de opinión se apoya solo en ejemplos sin cifras.
   <!-- feedback: Incorrecta, porque un texto de opinión puede incluir cifras y una nota informativa puede funcionar sin ellas. -->
-
 ### Explicacion Pedagogica
 La nota informativa y el artículo de opinión se distinguen por su relación con la verdad y por la intención del autor. La primera relata hechos y se somete a la verificación, mientras que la segunda expresa una postura y organiza razones para sostenerla. Reconocer esta diferencia permite evaluar un texto periodístico en su propio registro y evita exigirle a una nota datos estadísticos que solo corresponden a la opinión.
 
@@ -80,15 +78,14 @@ La nota informativa y el artículo de opinión se distinguen por su relación co
 Según el esquema de la pirámide invertida, ¿en qué lugar se coloca la información principal de un hecho?
 
 ### Opciones
-- [x] A) En el primer párrafo, conocido como la entrada, porque el lector debe conocer lo esencial antes que los detalles.
-  <!-- feedback: Correcta, porque el primer párrafo de la pirámide invertida contiene lo más importante y lo menos prescindible. -->
-- [ ] B) En el último párrafo, porque el lector solo puede comprender el hecho cuando conoce todos los detalles.
+- [ ] A) En el último párrafo, porque el lector solo puede comprender el hecho cuando conoce todos los detalles.
   <!-- feedback: Incorrecta, porque el esquema coloca la información principal al comienzo y los detalles al final. -->
-- [ ] C) En el segundo párrafo, porque el primer párrafo se reserva para el título y el subtítulo.
+- [ ] B) En el segundo párrafo, porque el primer párrafo se reserva para el título y el subtítulo.
   <!-- feedback: Incorrecta, porque el título no forma parte de la pirámide y el primer párrafo ya es la entrada de la nota. -->
+- [x] C) En el primer párrafo, conocido como la entrada, porque el lector debe conocer lo esencial antes que los detalles.
+  <!-- feedback: Correcta, porque el primer párrafo de la pirámide invertida contiene lo más importante y lo menos prescindible. -->
 - [ ] D) En el encabezado, porque la información principal debe aparecer en las palabras más visibles del medio.
   <!-- feedback: Incorrecta, porque el encabezado sí anuncia el hecho, pero el esquema lo sitúa como un elemento externo al cuerpo. -->
-
 ### Explicacion Pedagogica
 La pirámide invertida organiza la nota informativa de la información más importante a la menos importante. Su primer párrafo, llamado la entrada, responde las preguntas básicas del lector: qué pasó, quién, cuándo y dónde. Esta estructura permite que el lector se oriente aun cuando no lea el texto completo, y por eso es la base de la lectura rápida de prensa. Reconocerla facilita además detectar qué elementos faltan cuando una nota está mal escrita.
 
@@ -103,15 +100,14 @@ La pirámide invertida organiza la nota informativa de la información más impo
 Una nota que comienza con el contexto histórico del asunto y deja el hecho principal para el tercer párrafo incumple, en primer lugar, el principio de
 
 ### Opciones
-- [x] A) la entrada, que exige anticipar lo esencial antes del desarrollo de los detalles.
-  <!-- feedback: Correcta, porque aplazar el hecho principal contradice la función del primer párrafo en la organización de la nota informativa. -->
-- [ ] B) objetividad, que solo se cumple cuando el texto no menciona antecedentes del asunto.
+- [ ] A) objetividad, que solo se cumple cuando el texto no menciona antecedentes del asunto.
   <!-- feedback: Incorrecta, porque el contexto histórico no vulnera la objetividad; lo que se incumple aquí es el orden de la información. -->
-- [ ] C) periodicidad, que obliga a publicar el hecho el mismo día en que ocurrió.
+- [ ] B) periodicidad, que obliga a publicar el hecho el mismo día en que ocurrió.
   <!-- feedback: Incorrecta, porque la periodicidad es una característica del medio, no una exigencia interna del párrafo inicial. -->
-- [ ] D) inmediatez, que impide escribir notas cuando el caso ya tiene varios meses.
+- [ ] C) inmediatez, que impide escribir notas cuando el caso ya tiene varios meses.
   <!-- feedback: Incorrecta, porque un hecho antiguo puede ser objeto de una nota actual, y aquí el problema es la estructura del texto. -->
-
+- [x] D) la entrada, que exige anticipar lo esencial antes del desarrollo de los detalles.
+  <!-- feedback: Correcta, porque aplazar el hecho principal contradice la función del primer párrafo en la organización de la nota informativa. -->
 ### Explicacion Pedagogica
 El principio de la entrada obliga a que la información principal aparezca al comienzo del texto, de modo que el lector pueda informarse sin leerlo completo. Postergar el hecho principal para un párrafo posterior rompe ese acuerdo, aunque el texto sea veraz y esté bien redactado. Evaluar la estructura de la nota informativa permite separar los defectos de organización de los defectos de veracidad, que son de naturaleza distinta.
 
@@ -134,7 +130,6 @@ El principio de la entrada obliga a que la información principal aparezca al co
   <!-- feedback: Incorrecta, porque el párrafo presenta una afirmación general que la nota no puede comprobar y no informa de un hecho concreto. -->
 - [ ] D) «Este artículo busca recoger insumos para el aula de lenguaje, sin tratar ningún hecho en particular.»
   <!-- feedback: Incorrecta, porque el párrafo anuncia la intención del texto y no comunica el hecho principal que debe anticipar la entrada. -->
-
 ### Explicacion Pedagogica
 Una entrada eficaz responde en su primera oración al núcleo del hecho: qué ocurrió, dónde, cuándo y a quién afecta. Los demás párrafos expanden, contextualizan o justifican, pero no reemplazan la información principal. Aplicar estos criterios al primer párrafo de una nota permite distinguir una entrada eficaz de un simple arranque narrativo, y es una práctica habitual en los talleres de redacción periodística.
 
@@ -149,15 +144,14 @@ Una entrada eficaz responde en su primera oración al núcleo del hecho: qué oc
 ¿Por qué una nota informativa debe identificar a sus fuentes?
 
 ### Opciones
-- [x] A) Porque permite al lector rastrear el origen de la información y comprobar si lo relatado merece confianza.
-  <!-- feedback: Correcta, porque la identificación de la fuente hace posible la verificación, que es el fundamento de la credibilidad periodística. -->
-- [ ] B) Porque la cantidad de fuentes determina el número de párrafos que debe tener la nota.
+- [ ] A) Porque la cantidad de fuentes determina el número de párrafos que debe tener la nota.
   <!-- feedback: Incorrecta, porque la estructura de la nota depende del hecho relatado y no del número de fuentes consultadas. -->
+- [x] B) Porque permite al lector rastrear el origen de la información y comprobar si lo relatado merece confianza.
+  <!-- feedback: Correcta, porque la identificación de la fuente hace posible la verificación, que es el fundamento de la credibilidad periodística. -->
 - [ ] C) Porque nombrar al informante protege al periodista frente a las demandas de los lectores.
   <!-- feedback: Incorrecta, porque esa es una consecuencia jurídica que no explica la función informativa de la fuente. -->
 - [ ] D) Porque sin el nombre de la fuente el texto se convierte en opinión, ya que no se puede sostener un hecho anónimo.
   <!-- feedback: Incorrecta, porque el anonimato de la fuente no elimina la información y exige en cambio una justificación más sólida. -->
-
 ### Explicacion Pedagogica
 Identificar la fuente permite reconstruir el camino que siguió la información y valorar su grado de cercanía con el hecho. El periodismo distingue la fuente directa, que presenció el suceso, de la que lo cuenta por referencia, y esa diferencia modifica el peso del dato. Reconocer esta función ayuda a evaluar la solidez de una nota y a explicar por qué un dato sin origen se recibe con desconfianza.
 
@@ -172,15 +166,14 @@ Identificar la fuente permite reconstruir el camino que siguió la información 
 ¿Para qué sirve principalmente el titular de una nota informativa?
 
 ### Opciones
-- [x] A) Para anticipar el contenido del texto y provocar el interés del lector por el hecho relatado.
-  <!-- feedback: Correcta, porque el titular cumple una función informativa y otra de atracción, y ambas deben ser coherentes entre sí. -->
-- [ ] B) Para ocupar el espacio disponible en la primera página, independientemente del tema tratado.
+- [ ] A) Para ocupar el espacio disponible en la primera página, independientemente del tema tratado.
   <!-- feedback: Incorrecta, porque el espacio disponible no determina el contenido del titular, y esa no es su función periodística. -->
-- [ ] C) Para expresar la opinión del periodista, como en la prensa de opinión.
+- [ ] B) Para expresar la opinión del periodista, como en la prensa de opinión.
   <!-- feedback: Incorrecta, porque en la nota informativa el titular anticipa un hecho y no expresa la postura de quien escribe. -->
+- [x] C) Para anticipar el contenido del texto y provocar el interés del lector por el hecho relatado.
+  <!-- feedback: Correcta, porque el titular cumple una función informativa y otra de atracción, y ambas deben ser coherentes entre sí. -->
 - [ ] D) Para resumir el argumento completo del artículo, ya que el lector no llega a leer el cuerpo del texto.
   <!-- feedback: Incorrecta, porque el titular no puede resumir un argumento: la nota informativa relata hechos y no desarrolla una tesis. -->
-
 ### Explicacion Pedagogica
 El titular cumple una doble función en la nota informativa: anticipar el contenido del texto y captar la atención del lector. Ambas condiciones deben cumplirse sin contradicción, y por eso un titular exagerado rompe el acuerdo con el cuerpo de la nota. Reconocer esta doble función permite evaluar el enlace entre titular y contenido, que es uno de los aspectos más observados en el análisis de prensa.
 
@@ -195,15 +188,14 @@ El titular cumple una doble función en la nota informativa: anticipar el conten
 Una nota informativa incluye, entre otros datos, esta atribución. ¿Cuál de las cuatro formas está mejor construida como fuente?
 
 ### Opciones
-- [x] A) «Un funcionario municipal, que pidió no ser identificado, declaró que el sistema de información del municipio aún no entra en operación.»
-  <!-- feedback: Correcta, porque la nota conserva el dato y al mismo tiempo explica por qué la fuente no puede ser nombrada. -->
-- [ ] B) «Un funcionario municipal, que no pudo ser localizado.»
+- [ ] A) «Un funcionario municipal, que no pudo ser localizado.»
   <!-- feedback: Incorrecta, porque la expresión anuncia la existencia de un dato que la nota se niega a precisar, y eso debilita la información. -->
-- [ ] C) «Varias personas del sector coinciden en que la situación es grave.»
+- [ ] B) «Varias personas del sector coinciden en que la situación es grave.»
   <!-- feedback: Incorrecta, porque el plural indefinido impide rastrear el origen del dato y no ofrece ninguna garantía sobre su valor. -->
-- [ ] D) «Según un medio regional, la situación del municipio es compleja.»
+- [ ] C) «Según un medio regional, la situación del municipio es compleja.»
   <!-- feedback: Incorrecta, porque la expresión atribuye la afirmación a un medio que no se identifica, de modo que el dato queda sin origen. -->
-
+- [x] D) «Un funcionario municipal, que pidió no ser identificado, declaró que el sistema de información del municipio aún no entra en operación.»
+  <!-- feedback: Correcta, porque la nota conserva el dato y al mismo tiempo explica por qué la fuente no puede ser nombrada. -->
 ### Explicacion Pedagogica
 Una fuente puede protegerse y aun así ser identificable si se precisan su cargo, su relación con el hecho y la razón de su anonimato. La nota que hace esto conserva el dato y explica al lector por qué no aparece un nombre, lo que protege a la fuente sin perder precisión. Las demás formas señaladas ocultan la procedencia del dato o lo reducen a un rumor, y por eso debilitan la nota informativa.
 
@@ -226,7 +218,6 @@ Una nota informativa incluye estas preguntas: «¿Cuánto tiempo lleva operando 
   <!-- feedback: Incorrecta, porque una entrevista puede aportar datos y no solo opiniones, y su uso es habitual en el periodismo. -->
 - [ ] D) Sustituye la verificación, porque la declaración de un testigo sustituye la comprobación directa de los hechos.
   <!-- feedback: Incorrecta, porque un testimonio es una fuente más y no reemplaza la verificación, que sigue siendo necesaria. -->
-
 ### Explicacion Pedagogica
 La entrevista es una de las técnicas centrales del periodismo para obtener información y testimonio directo. Cuando las preguntas están bien enfocadas, las respuestas amplían el relato con datos concretos sobre magnitudes, plazos o efectos. Su uso no cambia el género de la nota ni exime de la verificación, sino que enriquece el conjunto de fuentes disponibles para informar.
 
@@ -241,15 +232,14 @@ La entrevista es una de las técnicas centrales del periodismo para obtener info
 Una nota afirma: «Las matrículas en el municipio aumentaron un doce por ciento durante el primer semestre del año». ¿Qué debe hacer el estudiante para verificar este dato?
 
 ### Opciones
-- [x] A) Consultar el registro oficial que presenta ese porcentaje y confirmar que corresponde al municipio y al período que la nota menciona.
-  <!-- feedback: Correcta, porque verificar exige contrastar el dato con el documento que lo produce y comprobar su correspondencia con el caso relatado. -->
-- [ ] B) Copiar el dato a la conclusión del texto, porque mover la cifra al final la convierte en verificable.
+- [ ] A) Copiar el dato a la conclusión del texto, porque mover la cifra al final la convierte en verificable.
   <!-- feedback: Incorrecta, porque la ubicación de la cifra en el texto no modifica su condición de dato sin comprobar. -->
+- [x] B) Consultar el registro oficial que presenta ese porcentaje y confirmar que corresponde al municipio y al período que la nota menciona.
+  <!-- feedback: Correcta, porque verificar exige contrastar el dato con el documento que lo produce y comprobar su correspondencia con el caso relatado. -->
 - [ ] C) Preguntar en el grupo de compañeros y anotar lo que respondan como si fuera una fuente.
   <!-- feedback: Incorrecta, porque la opinión de los compañeros no es una fuente documental y no permite verificar un dato estadístico. -->
 - [ ] D) Publicar la nota con el dato y corregirla después si alguien la refuta, porque el periodismo corrige sobre la marcha.
   <!-- feedback: Incorrecta, porque publicar sin verificar es justamente lo que un medio profesional evita; la corrección posterior no sustituye la comprobación. -->
-
 ### Explicacion Pedagogica
 Verificar un dato significa contrastarlo con la fuente que lo produce, en este caso el registro oficial, y confirmar que se refiere al territorio y al período que la nota menciona. Un porcentaje sin correspondencia comprobada puede ser real y aun así estar mal usado. Esta disciplina de comprobación es la base del periodismo responsable y una competencia esperada en la formación de undécimo grado.
 
@@ -287,15 +277,14 @@ La pluralidad de versiones atribuidas a fuentes identificables es una de las her
 Una nota informa que cuatro estudiantes de un colegio municipal de Soacha resultaron afectados por el derrumbe parcial de una viga en el acceso principal. ¿Cuál de los siguientes sería un titular coherente con el cuerpo de esa nota?
 
 ### Opciones
-- [x] A) «Cuatro estudiantes afectados por el derrumbe de una viga en un colegio de Soacha».
-  <!-- feedback: Correcta, porque un titular específico y verificable es coherente con una nota informativa que busca precisión. -->
-- [ ] B) «Jóvenes».
+- [ ] A) «Jóvenes».
   <!-- feedback: Incorrecta, porque un titular tan general no anticipa el contenido y obliga al lector a entrar al texto para saber de qué se trata. -->
-- [ ] C) «Algo terrible ocurre en Soacha y nadie hace nada».
+- [ ] B) «Algo terrible ocurre en Soacha y nadie hace nada».
   <!-- feedback: Incorrecta, porque el titular usa una valoración emocional y una generalización que la nota informativa no puede sostener. -->
+- [x] C) «Cuatro estudiantes afectados por el derrumbe de una viga en un colegio de Soacha».
+  <!-- feedback: Correcta, porque un titular específico y verificable es coherente con una nota informativa que busca precisión. -->
 - [ ] D) «Lo que todos necesitan saber sobre la situación de Soacha».
   <!-- feedback: Incorrecta, porque el titular recurre a una apelación a la curiosidad y a un deber, y eso no es información sobre el hecho. -->
-
 ### Explicacion Pedagogica
 Un buen titular informativo es específico, verificable y coherente con el cuerpo de la nota. El sensacionalismo y la apelación a la curiosidad funcionan en otros registros, pero en la nota informativa reducen la precisión y desorientan al lector. Comparar titular y cuerpo del texto es una tarea de lectura crítica que permite detectar el exceso entre lo que se anuncia y lo que se informa.
 
@@ -310,15 +299,14 @@ Un buen titular informativo es específico, verificable y coherente con el cuerp
 Una nota atribuye todas sus afirmaciones a fuentes oficiales, sin nombrar a ninguna persona ni indicar el organismo. ¿Qué efecto tiene esa forma de atribución?
 
 ### Opciones
-- [x] A) Reduce la precisión de la nota, porque agrupa a emisores muy distintos detrás de una fórmula que impide rastrear el origen del dato.
-  <!-- feedback: Correcta, porque la atribución genérica impide saber quién afirmó qué y con qué interés, y con ello se pierde la posibilidad de contrastar. -->
-- [ ] B) Refuerza la nota, porque el nombre del organismo pesa más que el nombre de un funcionario.
+- [ ] A) Refuerza la nota, porque el nombre del organismo pesa más que el nombre de un funcionario.
   <!-- feedback: Incorrecta, porque el nombre de un organismo sin persona concreta no garantiza la precisión de lo afirmado. -->
-- [ ] C) Convierte la nota en opinión, porque la atribución genérica es una característica propia del texto argumentativo.
+- [ ] B) Convierte la nota en opinión, porque la atribución genérica es una característica propia del texto argumentativo.
   <!-- feedback: Incorrecta, porque la atribución genérica es un defecto de precisión y no un cambio de género. -->
-- [ ] D) Reduce la extensión de la nota, porque el tiempo de leer se reemplaza por el de consultar el comunicado.
+- [ ] C) Reduce la extensión de la nota, porque el tiempo de leer se reemplaza por el de consultar el comunicado.
   <!-- feedback: Incorrecta, porque la atribución genérica no acorta el texto: el problema es la opacidad del origen y no su longitud. -->
-
+- [x] D) Reduce la precisión de la nota, porque agrupa a emisores muy distintos detrás de una fórmula que impide rastrear el origen del dato.
+  <!-- feedback: Correcta, porque la atribución genérica impide saber quién afirmó qué y con qué interés, y con ello se pierde la posibilidad de contrastar. -->
 ### Explicacion Pedagogica
 La atribución de las afirmaciones es un recurso de precisión y no un adorno. Cuando un texto remite a fuentes oficiales sin identificar al responsable ni al organismo, el lector no puede rastrear el origen del dato ni contrastar versiones. Analizar estas formas de atribución ayuda a distinguir una nota bien sustentada de una que solo aparenta autoridad, y es una competencia habitual en la lectura crítica de prensa.
 
@@ -341,7 +329,6 @@ Un periodista escribe: «Nuestra nota es completamente objetiva, porque el hecho
   <!-- feedback: Incorrecta, porque la objetividad es una propiedad del texto periodístico y no un género ni una técnica. -->
 - [ ] D) El periodista se excede, porque no puede sostener que su nota carezca de perspectiva.
   <!-- feedback: Incorrecta, porque el problema no está en escribir desde una posición, sino en declarar neutralidad cuando esa posición existe. -->
-
 ### Explicacion Pedagogica
 La objetividad en periodismo no consiste en la ausencia de puntos de vista, porque toda nota selecciona hechos, ordena la información y elige fuentes. Consiste en hacer visible al lector cómo se construyó el relato, señalando qué se afirma, quién lo afirma y qué se deja por fuera. Analizar esta diferencia permite entender por qué el relato exacto de un hecho puede seguir siendo parcial.
 
@@ -356,15 +343,14 @@ La objetividad en periodismo no consiste en la ausencia de puntos de vista, porq
 Nota A: cita al funcionario responsable, a un líder comunitario y a un estudiante afectado, y presenta el dato oficial del presupuesto asignado. Nota B: cita solo al funcionario responsable y atribuye a un vecino del sector un juicio sobre la situación. ¿Qué puede afirmarse comparando ambas notas?
 
 ### Opciones
-- [x] A) La nota A ofrece un contraste de versiones más amplio, lo que permite al lector construir un criterio más informado.
-  <!-- feedback: Correcta, porque presentar posiciones distintas y verificables amplía la base sobre la que el lector evalúa el asunto. -->
-- [ ] B) La nota B es más objetiva, porque la nota A incorpora demasiadas voces y eso resta neutralidad.
+- [ ] A) La nota B es más objetiva, porque la nota A incorpora demasiadas voces y eso resta neutralidad.
   <!-- feedback: Incorrecta, porque la pluralidad de fuentes no resta neutralidad, y presentarlas es justamente una garantía para el lector. -->
+- [x] B) La nota A ofrece un contraste de versiones más amplio, lo que permite al lector construir un criterio más informado.
+  <!-- feedback: Correcta, porque presentar posiciones distintas y verificables amplía la base sobre la que el lector evalúa el asunto. -->
 - [ ] C) Las dos notas son igualmente utilizables, porque toda nota informativa cumple su función con una sola fuente.
   <!-- feedback: Incorrecta, porque una sola fuente impide la contraste, y por eso las dos notas no ofrecen el mismo grado de información. -->
 - [ ] D) La nota A es más objetiva, porque presenta un dato y esa es la única forma admisible de informar.
   <!-- feedback: Incorrecta, porque el dato es importante, pero la diferencia entre las notas está en el contraste de versiones. -->
-
 ### Explicacion Pedagogica
 El valor informativo de una nota aumenta cuando presenta versiones distintas e identificables de un mismo asunto. La nota A ofrece al lector tres perspectivas y un dato comprobable, lo que permite contrastar y formarse un criterio. La nota B se apoya en una sola fuente oficial y en un juicio no atribuible con precisión, de modo que su información es más pobre y menos contrastable.
 
@@ -402,15 +388,14 @@ Cuando el periodista no puede comprobar un dato, la nota informativa debe decirl
 El cuerpo de una nota dice: «La jornada de trabajo de los operarios de una planta del municipio se redujo de cuarenta a treinta y dos horas durante el último mes». ¿Cuál titular es responsable con ese contenido?
 
 ### Opciones
-- [x] A) «Reducen jornada de operarios de una planta del municipio».
-  <!-- feedback: Correcta, porque el titular ajustado a los hechos informa sin agregar nada que la nota no sostenga. -->
-- [ ] B) «La jornada de trabajo en las plantas del municipio se ha eliminado para siempre».
+- [ ] A) «La jornada de trabajo en las plantas del municipio se ha eliminado para siempre».
   <!-- feedback: Incorrecta, porque la expresión absolutiza y eterniza un dato que la nota presenta como un caso y un período concreto. -->
-- [ ] C) «Nadie está dispuesto a poner fin a la explotación laboral en el municipio».
+- [ ] B) «Nadie está dispuesto a poner fin a la explotación laboral en el municipio».
   <!-- feedback: Incorrecta, porque el titular atribuye una disposición general a nadie y usa una palabra que el cuerpo de la nota no emplea. -->
+- [x] C) «Reducen jornada de operarios de una planta del municipio».
+  <!-- feedback: Correcta, porque el titular ajustado a los hechos informa sin agregar nada que la nota no sostenga. -->
 - [ ] D) «Trabajadores de una planta del municipio redefinen sus condiciones laborales».
   <!-- feedback: Incorrecta, porque el titular confunde la posibilidad de que el caso se repita con un hecho ya comprobado, y esa diferencia es esencial. -->
-
 ### Explicacion Pedagogica
 Evaluar un titular exige comparar lo que anuncia con lo que la nota efectivamente informa. Un titular responsable usa el mismo grado de certeza del cuerpo del texto: si la nota habla de un caso, el titular no lo convierte en una tendencia, y si no afirma una intención, el titular tampoco la agrega. Reconocer estos excesos es una competencia de lectura crítica que protege al lector de la información distorsionada.
 
@@ -425,15 +410,14 @@ Evaluar un titular exige comparar lo que anuncia con lo que la nota efectivament
 Una nota anuncia en el primer párrafo que comparará dos versiones sobre un accidente de tránsito en el que murió una persona. El cuerpo recoge ambas versiones, pero omite el nombre de la persona afectada y la hora exacta del accidente. ¿Qué juicio merece la nota?
 
 ### Opciones
-- [x] A) Cumple con la promesa de comparar versiones, pero pierde precisión al omitir datos esenciales de identificación del hecho.
-  <!-- feedback: Correcta, porque la nota cumple lo que ofrece y al mismo tiempo omite los datos que permiten identificar el hecho con exactitud. -->
-- [ ] B) No cumple nada, porque una nota informativa debe publicar siempre todos los datos del hecho.
+- [ ] A) No cumple nada, porque una nota informativa debe publicar siempre todos los datos del hecho.
   <!-- feedback: Incorrecta, porque la nota sí ofrece la comparación que anuncia, y el defecto está acotado a la omisión de datos. -->
-- [ ] C) Cumple plenamente, porque la omisión de datos puede deberse a la protección de los afectados y por tanto no es un defecto.
+- [ ] B) Cumple plenamente, porque la omisión de datos puede deberse a la protección de los afectados y por tanto no es un defecto.
   <!-- feedback: Incorrecta, porque la protección de los afectados se resuelve con criterios explícitos y no con la omisión sin explicación. -->
-- [ ] D) No cumple nada, porque toda nota informativa debe..
+- [ ] C) No cumple nada, porque toda nota informativa debe..
   <!-- feedback: Incorrecta, porque no existe una regla que obligue a incluir un dato que la nota no considera relevante para el hecho. -->
-
+- [x] D) Cumple con la promesa de comparar versiones, pero pierde precisión al omitir datos esenciales de identificación del hecho.
+  <!-- feedback: Correcta, porque la nota cumple lo que ofrece y al mismo tiempo omite los datos que permiten identificar el hecho con exactitud. -->
 ### Explicacion Pedagogica
 Evaluar una nota informativa requiere separar el cumplimiento de su promesa interna de la calidad de los datos que ofrece. En este caso, la nota sí compara dos versiones, que es lo que anuncia, pero al omitir datos de identificación pierde la posibilidad de que el lector reconstruya el hecho con precisión. La omisión puede tener una razón legítima, y esa razón debe declararse, no dejarse a la interpretación del lector.
 
@@ -479,6 +463,5 @@ Una nota informa que el costo de un programa municipal ascendió a cuarenta mill
   <!-- feedback: Incorrecta, porque publicar correcciones es una obligación de todo medio, y no constituye una prueba de objetividad. -->
 - [ ] D) El caso no dice nada sobre el periodismo, porque los errores se corrigen y eso forma parte de la rutina..
   <!-- feedback: Incorrecta, porque el caso sí muestra un punto débil del proceso de verificación en los medios. -->
-
 ### Explicacion Pedagogica
 La publicación de una corrección es una obligación de todo medio, y su necesidad revela un fallo en el proceso de verificación. La rectificación restituye la precisión del dato, pero no borra el efecto que tuvo la información equivocada sobre las decisiones de los lectores. Evaluar este caso permite entender que la responsabilidad informativa no se agota en corregir, sino que se apoya en un proceso previo de comprobación.
