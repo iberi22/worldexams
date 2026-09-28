@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-34-grade-8-subject-lengua",
+    "generated_at": "2026-09-28T15:12:47.326Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el rasgo que define al ensayo?",
+      "context": "En un colegio de Pereira, la profesora de Lengua de grado octavo pregunta a sus estudiantes por qué no basta con contar algo en un cuaderno para escribir un ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que relata hechosított de manera estricta y veraz, como lo hace la crónica.",
+          "is_correct": false,
+          "feedback": "El ensayo no es un relato de hechos: aunque puede apoyarse en datos, su función es defender una idea."
+        },
+        {
+          "letter": "B",
+          "text": "Que expone una tesis propia y la sostiene con argumentos.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo propone una posición personal y la defiende con razones que el lector pueda seguir y evaluar."
+        },
+        {
+          "letter": "C",
+          "text": "Que narra la vida de un autor apoyándose en datos biográficos.",
+          "is_correct": false,
+          "feedback": "Narrar la vida de un autor corresponde a la biografía, no al ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Que resume el contenido de un libro para que otros puedan leerlo.",
+          "is_correct": false,
+          "feedback": "Resumir el contenido de una obra es otra tarea; el ensayo no se limita a repetir lo que dice otro texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ensayo es un género argumentativo: quien lo escribe propone una idea, la llama tesis, y la sostiene con razones ordenadas. A diferencia de la crónica o de la biografía, su propósito no es contar lo que pasó ni contar la vida de alguien, sino convencer. Por eso en el colegio se estudia junto al artículo de opinión, con el que comparte la estructura de la argumentación. Reconocer el género ayuda a entender qué se espera de un texto de este tipo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué distingue a un artículo de opinión de una noticia de prensa?",
+      "context": "En Montería, el profesor de Lengua muestra a los estudiantes de grado octavo la primera página de un periódico. En una columna aparece la posición y las razones de quien escribe; en la otra sección, solo datos sobre un conjunto de hechos. Pregunta por qué las dos secciones no se leen igual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el artículo de opinión expresa la posición y los argumentos de quien lo escribe.",
+          "is_correct": true,
+          "feedback": "Correcto. La nota informativa comunica hechos; el artículo de opinión comunica además la postura de su autor y las razones de esa postura."
+        },
+        {
+          "letter": "B",
+          "text": "Que el artículo de opinión aparece únicamente en la sección de deportes.",
+          "is_correct": false,
+          "feedback": "Las columnas de opinión aparecen en todas las secciones de un diario, no solo en la de deportes."
+        },
+        {
+          "letter": "C",
+          "text": "Que la noticia solo informa de hechos, mientras el artículo de opinión solo cuenta anécdotas.",
+          "is_correct": false,
+          "feedback": "El artículo de opinión también informa y también puede recoger ejemplos: no se reduce a contar anécdotas."
+        },
+        {
+          "letter": "D",
+          "text": "Que la noticia se escribe siempre con datos y el artículo de opinión únicamente con opiniones.",
+          "is_correct": false,
+          "feedback": "Los dos textos pueden apoyarse en datos; lo que los diferencia es la intención y la argumentación, no el uso de cifras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La noticia informa sobre un hecho y responde a la pregunta de qué pasó. El artículo de opinión responde a otra pregunta: qué pensar de ese hecho y por qué. Esa diferencia se nota en el uso de la primera persona y en la presencia de razones que sostienen una postura. Entender la diferencia entre los dos formatos ayuda al estudiante a identificar la intención de cada texto y a no confundir el dato con el juicio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes relaciones entre autor y obra es correcta?",
+      "context": "En un colegio de Bogotá, un grupo de estudiantes prepara una exposición sobre el origen del ensayo en español y sobre los textos de opinión que circularon en el país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las Cartas de Jamaica son una colección de ensayos atribuida a Michel de Montaigne.",
+          "is_correct": false,
+          "feedback": "Las Cartas de Jamaica son de Simón Bolívar; los \"Ensayos\" son la obra de Montaigne."
+        },
+        {
+          "letter": "B",
+          "text": "\"El escritor argentino y la tradición\" es un texto de Simón Bolívar sobre la independencia de Jamaica.",
+          "is_correct": false,
+          "feedback": "Ese texto es una conferencia de Jorge Luis Borges; las Cartas de Jamaica son de Bolívar."
+        },
+        {
+          "letter": "C",
+          "text": "Las Cartas de Jamaica son un conjunto de poemas de José Asunción Silva.",
+          "is_correct": false,
+          "feedback": "Son prosa de Bolívar, escrita para persuadir, y no un conjunto de poemas."
+        },
+        {
+          "letter": "D",
+          "text": "Los \"Ensayos\" son la obra de Michel de Montaigne, publicada a partir de 1580, y en ellos el autor ensaya ideas sobre sí mismo.",
+          "is_correct": true,
+          "feedback": "Correcto. Montaigne publicó sus \"Ensayos\" desde 1580, y el título recoge la idea de probar o ensayar un pensamiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ensayo nace en el español con los \"Ensayos\" de Montaigne, publicados a partir de 1580, donde el autor somete a prueba sus propias ideas. En Colombia el género tuvo textos memorables de opinión, como las Cartas de Jamaica, que Bolívar escribió en Kingston en 1815 para explicar y defender la causa de la independencia ante lectores extranjeros. Reconocer ambos casos ayuda a ubicar el ensayo como una tradición escrita, no solo como una tarea escolar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v4",
+      "statement": "En este fragmento, ¿cuál es la tesis que el autor propone sostener con argumentos?",
+      "context": "En Santa Marta, la profesora reparte a los estudiantes de grado octavo un fragmento que dice: \"La violencia vial no se resuelve solo con multas. Si el peatón sigue creyendo que la calle no es suya, ninguna norma será suficiente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las multas contra los conductores deberían aumentar en las ciudades colombianas.",
+          "is_correct": false,
+          "feedback": "La frase no propone subir multas: el autor descarta esa solución como insuficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Que el transporte público debería subir de precio en las ciudades colombianas.",
+          "is_correct": false,
+          "feedback": "El precio del transporte no aparece en el fragmento, así que no puede ser la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "Que la solución a la violencia vial depende de cambiar la actitud del peatón frente a la calle.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración anuncia el problema y la segunda afirma, en términos condicionales, que solo un cambio de actitud puede resolverlo."
+        },
+        {
+          "letter": "D",
+          "text": "Que los conductores necesitan recibir clases de manejo más largas.",
+          "is_correct": false,
+          "feedback": "El fragmento menciona a los conductores, pero su propuesta se dirige al peatón, no a la formación de los conductores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tesis es la afirmación que el texto quiere defender, y en este fragmento aparece como una afirmación condicional: solo si cambia la actitud del peatón la norma será suficiente. Las demás opciones extrapolan temas que el texto no toca, como las multas, los precios o las clases de manejo. Identificar la tesis es el paso inicial de cualquier análisis de ensayo, porque todo lo demás se organiza para sostenerla.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los siguientes enunciados funciona mejor como tesis para ese ensayo?",
+      "context": "En Armenia, un grupo de estudiantes de grado octavo debe escribir un ensayo sobre el consumo de agua en su colegio. La profesora les recuerda que la primera oración del texto debe decir qué sostienen ellos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El agua es un recurso importante para la vida.\"",
+          "is_correct": false,
+          "feedback": "Es una afirmación verdadera, pero tan general que no hay nada concreto que defender ni que discutir."
+        },
+        {
+          "letter": "B",
+          "text": "\"En nuestro colegio se desperdicia agua y ese desperdicio puede reducirse si cambiamos dos hábitos.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación es concreta, se apoya en algo observable y propone una vía de solución, así que puede sostenerse con argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "\"El agua ocupa la primera hora de la tarde en la semana del recreo\".",
+          "is_correct": false,
+          "feedback": "Es una descripción de un horario escolar, no una posición que el texto pueda defender."
+        },
+        {
+          "letter": "D",
+          "text": "\"Nuestro profesor explica el tema del agua mejor que la profesora.\"",
+          "is_correct": false,
+          "feedback": "Compara a dos docentes y no propone nada sobre el consumo de agua que pueda defenderse con argumentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una buena tesis afirma algo que puede sostenerse con razones, se apoya en algo que el lector puede comprobar y abre una vía de solución. El enunciado elegido cumple las tres condiciones: identifica el problema, lo sitúa en un lugar concreto y propone una acción. Las otras opciones son afirmaciones demasiado generales, descripciones o comparaciones que no permiten argumentar. Reconocer estos rasgos ayuda a escribir tesis propias con solidez.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué hace el autor cuando escribe \"es cierto que el celular distrae, pero…\"?",
+      "context": "En el colegio de Cúcuta, la profesora marca un pasaje del ensayo que los estudiantes están leyendo: \"Es cierto que el celular distrae en clase, pero esa misma distracción permite buscar información en segundos para resolver una tarea\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconoce un argumento contrario para responderlo y sostener mejor su tesis.",
+          "is_correct": true,
+          "feedback": "Correcto. Conceder una parte de la objeción y luego responderla es un recurso que refuerza la posición del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia de tema y deja su tesis sin defender.",
+          "is_correct": false,
+          "feedback": "Reconocer una objeción no es cambiar de tema: el autor sigue discutiendo la misma cuestión."
+        },
+        {
+          "letter": "C",
+          "text": "Anticipa una objeción, la acepta y la deja sin respuesta.",
+          "is_correct": false,
+          "feedback": "La cláusula \"pero\" anuncia una respuesta, de modo que la objeción no queda abandonada."
+        },
+        {
+          "letter": "D",
+          "text": "Repite su tesis con otras palabras porque no encuentra argumentos nuevos.",
+          "is_correct": false,
+          "feedback": "Reconocer la objeción no es repetir la tesis: es anticipar un argumento contrario para poder responderlo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer un argumento contrario antes de responderlo es una técnica habitual del ensayo y del artículo de opinión. El autor concede lo que su lector podría objetar y luego muestra por qué su posición sigue siendo defendible. Ese movimiento hace el texto más honesto y, a la vez, más convincente. Detectar estas instancias es lo que permite seguir el razonamiento completo de un texto argumentativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ocurre en este texto cuando la tradición nacional deja de tratarse como una lista cerrada de temas?",
+      "context": "En Bogotá, los estudiantes de grado octavo leen \"El escritor argentino y la tradición\", texto en el que Jorge Luis Borges discute qué se entiende por tradición nacional y propone, en cambio, que cada escritor elija las fuentes con las que dialoga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se establece la autoridad de los escritores europeos como única fuente posible.",
+          "is_correct": false,
+          "feedback": "El texto no propone imitar a los europeos: propone que el escritor elija libremente sus fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Se rechaza la historia y se propone escribir sin ningún pasado.",
+          "is_correct": false,
+          "feedback": "El texto no propone prescindir del pasado: propone elegir de manera libre qué partes del pasado se usan."
+        },
+        {
+          "letter": "C",
+          "text": "Se amplía el concepto de tradición al presentarlo como una elección del autor y no como una herencia fija.",
+          "is_correct": true,
+          "feedback": "Correcto. Al discutir qué es la tradición, el texto la replantea como un diálogo elegido, y con eso cuestiona los límites rígidos del tema."
+        },
+        {
+          "letter": "D",
+          "text": "Se sustituye la mirada nacional por un criterio económico sobre el valor de las obras.",
+          "is_correct": false,
+          "feedback": "El criterio del texto es literario y conceptual, no económico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto de Borges replantea la tradición: en lugar de aceptar un conjunto cerrado de temas, muestra que un escritor puede tomar elementos de cualquier tradición y dialogar con ellos. Ese movimiento amplía lo que se entendía por tradición nacional y abre la discusión sobre qué hace que un texto sea verdaderamente propio de un país. Analizar este tipo de propuestas permite reconocer cuándo un texto está cuestionando las reglas del juego, no simplemente aplicándolas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.81,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué rasgo del texto permite inferir que su autor busca convencer a un lector que no participa directamente en el conflicto?",
+      "context": "En Cali, la profesora pide analizar las Cartas de Jamaica, escritas por Simón Bolívar en Kingston en 1815 y dirigidas a un lector extranjero que desconocía la situación de los países que luchaban por la independencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor cuenta su infancia para demostrar que era una buena persona.",
+          "is_correct": false,
+          "feedback": "Un relato autobiográfico no es un argumento para convencer a un observador extranjero sobre una causa política."
+        },
+        {
+          "letter": "B",
+          "text": "Que evita nombrar a los demás para no perder la cortesía.",
+          "is_correct": false,
+          "feedback": "El silencio sobre los adversarios no es lo que caracteriza a un texto persuasivo, y además debilitaría el argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Que incluye un diccionario de las palabras inglesas más usadas.",
+          "is_correct": false,
+          "feedback": "Un diccionario no es un recurso argumentativo, y el fragmento no lo incluye."
+        },
+        {
+          "letter": "D",
+          "text": "Que organiza su discurso con hechos, causas y una propuesta dirigida a quienes pueden ayudar desde fuera.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia hechos, explicación y propuesta, dirigida a un destinatario extranjero, delata una intención claramente persuasiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto persuasivo se construye pensando en quién lee. Las Cartas de Jamaica, escritas en Kingston en 1815, organizan hechos, explicaciones y una propuesta para que alguien extranjero comprenda la causa y la apoye. Ese cuidado por el destinatario explica la estructura del texto y también sus recursos. Analizar a quién se escribe y con qué fin es lo que permite comprender la fuerza de un ensayo o de una columna de opinión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.81,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la debilidad principal del razonamiento de este texto?",
+      "context": "En un colegio de Quibdó, la profesora presenta un texto escolar que dice: \"Todos mis compañeros dicen que ya nadie lee, mi mamá tampoco lee y mi tía tampoco lee; por eso leer es un hábito que se está perdiendo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confunde unos pocos casos con una tendencia general sin aportar datos que la comprueben.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto generaliza a partir de lo que dicen tres personas y no ofrece ningún dato que sostenga esa tendencia."
+        },
+        {
+          "letter": "B",
+          "text": "Usa ejemplos, y el empleo de ejemplos invalida el argumento.",
+          "is_correct": false,
+          "feedback": "Los ejemplos no invalidan un argumento; el problema es que aquí son insuficientes para sostener la conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Apela a la autoridad de la familia, y por eso el texto pierde valor.",
+          "is_correct": false,
+          "feedback": "La familia no es una autoridad en este asunto, pero el error del texto no está en eso, sino en la generalización."
+        },
+        {
+          "letter": "D",
+          "text": "Termina con una conclusión, y todo texto que concluye está equivocado.",
+          "is_correct": false,
+          "feedback": "Concluir no es un error: es una parte necesaria de la argumentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto salta de tres casos particulares a una afirmación general sobre toda la sociedad, y no aporta ningún dato que permita comprobar esa tendencia. Ese paso es una generalización apresurada, y por eso el razonamiento no se sostiene aunque los tres casos sean ciertos. Reconocer este error enseña a examinar la relación entre lo que el texto muestra y lo que afirma, que es el centro del pensamiento crítico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de los siguientes títulos es el más adecuado para esa columna de opinión?",
+      "context": "En Bucaramanga, un grupo de estudiantes de grado octavo prepara una columna de opinión sobre el uso de la bicicleta en la ciudad y debe elegir el título.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Las bicicletas en la ciudad\"",
+          "is_correct": false,
+          "feedback": "Anuncia un tema, pero no toma posición al respecto, de modo que serviría para un texto informativo y no para una columna de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "\"Sin más carriles, las bicicletas van a seguir siendo un riesgo en las calles\"",
+          "is_correct": true,
+          "feedback": "Correcto. El título afirma una situación, toma partido y anuncia la propuesta que la columna tendrá que desarrollar con argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "\"Las personas que usan bicicleta todos los días\"",
+          "is_correct": false,
+          "feedback": "Describe un grupo de usuarios y no expresa ninguna posición sobre el problema."
+        },
+        {
+          "letter": "D",
+          "text": "\"La historia de la bicicleta\"",
+          "is_correct": false,
+          "feedback": "Anuncia un recorrido histórico, que es otro género y no el de una columna de opinión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una columna de opinión necesita un título que anuncie una posición, no solo un tema. El título elegido afirma que la falta de carriles mantiene el riesgo para quienes se mueven en bicicleta y, con esa afirmación, obliga al columnista a desarrollar una propuesta. Los demás títulos se quedan en el tema, en la descripción de un grupo o en otro género. Evaluar un título es comprobar si el texto que lo acompaña realmente defiende lo que promete.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de estos conjuntos reúne los movimientos propios de un ensayo bien construido?",
+      "context": "En un colegio de Florencia, el profesor de Lengua pide a los estudiantes de grado octavo que organicen las partes de un ensayo antes de entregarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrar, describir y enumerar, porque el ensayo avanza con esos tres verbos.",
+          "is_correct": false,
+          "feedback": "El ensayo no avanza con esos verbos: su movimiento propio es argumentar, no narrar ni describir."
+        },
+        {
+          "letter": "B",
+          "text": "Resumen, cita y bibliografía, en ese orden, porque todo ensayo los necesita.",
+          "is_correct": false,
+          "feedback": "Esas son partes de un trabajo académico, no los movimientos propios del ensayo argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "Tesis, argumentos y conclusión, con los argumentos al servicio de la tesis.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo anuncia lo que sostiene, lo defiende con razones y cierra retomando su posición."
+        },
+        {
+          "letter": "D",
+          "text": "Definición, biografía y opinión, sin importar la tesis.",
+          "is_correct": false,
+          "feedback": "Sin tesis no hay ensayo: sin una posición que defender, el texto solo reúne información."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ensayo tiene una arquitectura reconocible: enuncia una tesis, la desarrolla con argumentos y cierra retomando su posición. Esa secuencia es lo que permite que el lector siga el razonamiento y lo evalúe. Las otras opciones describen tareas distintas, como narrar, resumir o presentar datos, que pueden aparecer en el ensayo sin ser su estructura. Conocer los movimientos del género facilita tanto escribir como corregir un texto propio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle-v12",
+      "statement": "Frente a esa situación, ¿cuál es el criterio más preciso para decidir si la columna debe publicarse?",
+      "context": "En un colegio de Ipiales, el comité del periódico escolar estudia la publicación de una columna de opinión escrita por un estudiante de grado octavo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se publique sin firma, para proteger al estudiante que escribe.",
+          "is_correct": false,
+          "feedback": "El anonimato no es aquí un criterio de calidad: en un periódico escolar el lector debe saber quién responde por lo que afirma."
+        },
+        {
+          "letter": "B",
+          "text": "Que use un lenguaje muy cuidado para que ningún lector se ofenda.",
+          "is_correct": false,
+          "feedback": "La cortesía es una virtud, pero no reemplaza la necesidad de argumentos ni la firma del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Que no mencione nombres propios en todo el texto, para evitar problemas.",
+          "is_correct": false,
+          "feedback": "Quitar los nombres propios no garantiza nada: un texto sin razones comprobables sigue siendo débil, y no es un criterio de publicación."
+        },
+        {
+          "letter": "D",
+          "text": "Que la columna se apoye en razones y en la identificación de su autor, para que el lector pueda valorar quién responde por ella.",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto argumentativo ganha credibilidad cuando se identifica a su autor y cuando sus razones pueden examinarse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Publicar un texto de opinión en un periódico escolar exige cumplir dos condiciones: la columna debe tener argumentos que puedan examinarse y debe dejar claro quién la firma. Con solo buena intención no hay texto argumentativo, y con solo datos tampoco hay posición que defender. La firma, además, permite que la comunidad escolar responda a lo publicado. Evaluar estos criterios enseña a entender la opinión como un ejercicio de responsabilidad pública y no como una simple expresión de aplauso.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-8-2026-W34-el-ensayo-y-la-opinion-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
