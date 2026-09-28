@@ -59,7 +59,7 @@ El nitrógeno atmosférico, que constituye cerca del 78 por ciento del aire, es 
   <!-- feedback: Incorrecto. La desnitrificación elimina nitrógeno del suelo, de modo que no puede enriquecerlo con nitrógeno utilizable. -->
 - [ ] C) La volátil acidificación del suelo, que libera protones y mejora la absorción de nutrientes.
   <!-- feedback: Incorrecto. La acidificación del suelo no introduce nitrógeno y, si es excesiva, incluso reduce la disponibilidad de nutrientes. -->
-- [x] D) La fijación biológica del nitrógeno, que las bacterias de las raíces convierten en amoníaco y Uzibio en la planta.
+- [x] D) La fijación biológica del nitrógeno, que las bacterias de las raíces convierten en amoníaco y que la planta utiliza para formar sus proteínas.
   <!-- feedback: Correcto. Las bacterias simbióticas de los nódulos radiculares fijan el N2 atmosférico y entregan amoníaco a la leguminosa. -->
 
 ### Explicacion Pedagogica
@@ -126,7 +126,7 @@ Un cultivo necesita nitrógeno para formar proteínas y fósforo para formar ra�
   <!-- feedback: Incorrecto. La composición se declara en la etiqueta y es regulada, de modo que la marca no determina el aporte de nutrientes. -->
 
 ### Explicacion Pedagogica
-Los fertilizantes se identifican por su análisis o composición, que se declara en la etiqueta mediante tres cifras expresadas en porcentajes de nitrógeno, fósforo y potasio. En algunos países se escribe en el orden fósforo, nitrógeno y potasio, y por eso se habla de fertilizante triple o de fórmula completa. El fósforo se expresa como Pentóxido de fósforo y el potasio como Óxido de potasio, de manera que las cifras de la etiqueta no coinciden con el porcentaje real de esos elementos. Para elegir el producto adecuado, el agricultor compara esa composición con las necesidades del cultivo, que dependen de la especie, de la etapa de desarrollo y del resultado del análisis de suelo, y calcula la dosis en kilos por hectárea.
+Los fertilizantes se identifican por su análisis o composición, que se declara en la etiqueta mediante tres cifras expresadas en porcentajes de nitrógeno, fósforo y potasio. En algunos países se escribe en el orden fósforo, nitrógeno y potasio, y por eso se habla de fertilizante triple o de fórmula completa. El fósforo se expresa como pentóxido de fósforo y el potasio como óxido de potasio, de manera que las cifras de la etiqueta no coinciden con el porcentaje real de esos elementos. Para elegir el producto adecuado, el agricultor compara esa composición con las necesidades del cultivo, que dependen de la especie, de la etapa de desarrollo y del resultado del análisis de suelo, y calcula la dosis en kilos por hectárea.
 
 ## Question 6 [D5-D6]
 **ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v6

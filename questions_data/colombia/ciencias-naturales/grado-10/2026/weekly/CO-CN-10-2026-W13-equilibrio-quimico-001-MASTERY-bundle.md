@@ -68,7 +68,7 @@ La constante de equilibrio en concentraciones se escribe como el producto de las
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.85
-**Contexto:** Un estudiante de un colegio de Armeniahierveindicator de pH con jugo de coles morado en tres vasos que contienen, respectivamente, vinagre, agua y jabón de loza.
+**Contexto:** Un estudiante de un colegio de Armenia usa un indicador de pH con jugo de coles morado en tres vasos que contienen, respectivamente, vinagre, agua y jabón de loza.
 ### Enunciado
 ¿Qué observación del indicador en los tres vasos permite identificar el medio ácido y el medio básico?
 ### Opciones
