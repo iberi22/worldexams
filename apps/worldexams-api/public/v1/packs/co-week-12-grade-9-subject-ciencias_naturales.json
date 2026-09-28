@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-12-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T07:50:44.515Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal del sistema circulatorio en el cuerpo humano?",
+      "context": "En el aula de ciencias naturales de un colegio de Medellín, la profesora explica que el cuerpo humano funciona como una ciudad donde cada sistema tiene una tarea y nada llega a tiempo si el transporte interno falla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Producir el oxígeno que el organismo necesita para respirar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno proviene del aire y llega a los pulmones por la respiración, no de la circulación."
+        },
+        {
+          "letter": "B",
+          "text": "Transportar sustancias como oxígeno, nutrientes y dióxido de carbono por todo el organismo",
+          "is_correct": true,
+          "feedback": "Correcto. La sangre recorre los vasos, lleva oxígeno y nutrientes a las células y recoge el dióxido de carbono y otros desechos para evacuarlos."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar la digestión de los alimentos en el intestino delgado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La digestión ocurre en el sistema digestivo; el circulatorio solo distribuye los nutrientes ya absorbidos."
+        },
+        {
+          "letter": "D",
+          "text": "Filtrar la sangre y producir la orina en los riñones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formación de orina es función del sistema excretor, aunque la sangre llegue a los riñones por las arterias renales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema circulatorio es el medio de transporte interno del organismo. A través de la sangre y de los vasos sanguíneos lleva oxígeno y nutrientes a cada célula y retira de ellas los desechos, entre ellos el dióxido de carbono. Por eso funciona como un sistema de distribución y de recolección al mismo tiempo, y por eso depende de la respiración y de la digestión para recibir sus insumos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué se afirma que el corazón funciona como una bomba muscular?",
+      "context": "En el taller de biología de Cali, los estudiantes observan un modelo de corazón y notan que su forma se parece a una bolsa con mangueras que se cierran desde un motor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sus paredes están formadas por músculo cardiaco que se contrae y se relaja, generando la presión que empuja la sangre",
+          "is_correct": true,
+          "feedback": "Correcto. El músculo cardiaco se contrae para expulsar sangre y se relaja para llenarse, y esa fuerza es la que impulsa la sangre por los vasos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque está formado por un tejido óseo duro que protege la sangre y la pone en movimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón no es de hueso sino de músculo; la caja torácica es la que lo protege."
+        },
+        {
+          "letter": "C",
+          "text": "Porque recibe impulsos del cerebro que lo hacen girar dentro de la cavidad torácica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón late en el mismo lugar y no gira; sus contracciones responden a un sistema eléctrico propio, modulado por el sistema nervioso."
+        },
+        {
+          "letter": "D",
+          "text": "Porque absorbe oxígeno del aire a través de tubos bronquiales conectados a su superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón es un músculo y no tiene bronquios; el oxígeno le llega por la sangre de las arterias coronarias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El corazón es un órgano muscular hueco formado por tejido cardiaco. Cuando ese músculo se contrae disminuye el volumen de las cavidades y la sangre es expulsada con presión; cuando se relaja, el corazón se llena nuevamente. Ese ciclo de contracción y relajación es lo que convierte al corazón en una bomba que mantiene la sangre en movimiento continuo por todo el organismo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v3",
+      "statement": "Un estudiante sostiene que todas las arterias del cuerpo llevan sangre con mucho oxígeno. ¿Qué información del atlas le permitiría corregir esa afirmación?",
+      "context": "En una práctica de laboratorio en Pereira, el profesor pide a los estudiantes revisar en un atlas el recorrido de la sangre y clasificar cada tipo de vaso según la dirección del flujo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las arterias siempre son más gruesas que las venas y por eso soportan presiones altas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grosor explica la resistencia, no la composición de la sangre; hay arterias que transportan sangre pobre en oxígeno."
+        },
+        {
+          "letter": "B",
+          "text": "Que las venas contienen válvulas que impiden el retorno de la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que muchas venas tienen válvulas, pero eso no explica por qué existen arterias con sangre pobre en oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Que los nombres arteria y vena se asignan por el tipo de tejido de la pared y no por su función",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de pared es real, pero la clasificación depende de la dirección del flujo respecto al corazón."
+        },
+        {
+          "letter": "D",
+          "text": "Que el nombre arteria o vena depende de la dirección del flujo respecto al corazón, y que la arteria pulmonar lleva sangre pobre en oxígeno hacia los pulmones",
+          "is_correct": true,
+          "feedback": "Correcto. Arterias y venas se nombran por la dirección en que la sangre viaja, no por su contenido, y por eso la arteria pulmonar y las venas pulmonares invierten el nombre respecto a la oxigenación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En anatomía, arteria es todo vaso que sale del corazón y vena es todo vaso que llega a él, sin importar el contenido de oxígeno. La arteria pulmonar sale del corazón hacia los pulmones y lleva sangre rica en dióxido de carbono, mientras que las venas pulmonares regresan del pulmón al corazón con sangre oxigenada. Reconocer esta excepción es clave para no confundir el nombre del vaso con el gas que transporta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v4",
+      "statement": "Mientras un estudiante corre, su ritmo cardíaco aumenta y respira más rápido. ¿Qué explicación combina correctamente los dos cambios observados?",
+      "context": "En la clase de educación física de Bogotá, durante la práctica de pista de atletismo, la entrenadora explica que el cuerpo no funciona igual en reposo que durante un esfuerzo sostenido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El corazón late más rápido solo por nerviosismo, y la respiración acelerada es una reacción independiente del sistema circulatorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos cambios son respuestas coordinadas a la demanda de oxígeno de los músculos, no reacciones aisladas."
+        },
+        {
+          "letter": "B",
+          "text": "El corazón late más rápido para bombear más sangre a los músculos, y esa sangre lleva el oxígeno que permite mencionar y extraer el carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay un error en la última parte: el carbono no se extrae, es un producto de la respiración celular que se elimina como dióxido de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "El corazón aumenta su bombeo para llevar más oxígeno a los músculos en actividad, y esa misma sangre recoge el dióxido de carbono producido para eliminarlo por los pulmones",
+          "is_correct": true,
+          "feedback": "Correcto. Durante el ejercicio sube la demanda de oxígeno, el corazón bombea más sangre y los pulmones eliminan el CO2 generado por la respiración celular acelerada."
+        },
+        {
+          "letter": "D",
+          "text": "Los pulmones toman oxígeno de la sangre y lo devuelven a los músculos en forma de dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un intercambio de gases al revés; los entregando oxígeno a la sangre y retiran el CO2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante el ejercicio los músculos necesitan más oxígeno para producir la energía que permite el movimiento y, al mismo tiempo, generan más dióxido de carbono. El sistema circulatorio responde aumentando la frecuencia cardíaca y el caudal bombeado, mientras que el sistema respiratorio acelera la ventilación. Ambos sistemas trabajan de manera coordinada para que el oxígeno llegue y el CO2 salga a tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v5",
+      "statement": "En los alvéolos pulmonares, el oxígeno pasa del aire a la sangre y el dióxido de carbono hace el camino contrario. ¿Qué característica de la membrana alveolar permite ese intercambio?",
+      "context": "En el laboratorio de ciencias de Barranquilla, el profesor explica el intercambio de gases con un modelo de bolsa de tela que representa el pulmón y un tubo que representa la sangre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene un gran número de células muy voluminosas que almacenan gases",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercambio depende de la superficie y de la delgadez, no del tamaño de las células ni de un almacenamiento de gases."
+        },
+        {
+          "letter": "B",
+          "text": "Que es una membrana muy delgada y con una amplia superficie de contacto, en contacto íntimo con los capilares",
+          "is_correct": true,
+          "feedback": "Correcto. La delgadez de la barrera y la gran superficie total de los alvéolos permiten que los gases pasen por difusión hacia la sangre."
+        },
+        {
+          "letter": "C",
+          "text": "Que contiene cristales de calcio que atraen el oxígeno del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alvéolos no tienen cristales de calcio; la circulación del gas se explica por los gradientes de presión parcial y por la estructura de la membrana."
+        },
+        {
+          "letter": "D",
+          "text": "Que está formada por músculo que bombea el aire hacia los capilares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alvéolos son estructuras de sostén y de intercambio, no vasos de músculo cardiaco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El oxígeno disuelto en el aire de los alvéolos tiene una presión parcial mayor que la del oxígeno de la sangre que llega de las arterias pulmonares, de modo que difunde a través de la membrana hacia el plasma. En sentido contrario, el CO2 de la sangre tiene mayor presión parcial que el del aire alveolar y sale hacia los alvéolos para ser espirado. La delgadez y la enorme superficie total hacen que este intercambio sea muy rápido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v6",
+      "statement": "La enfermera localiza la arteria radial en la muñeca y la carótida en el cuello, y afirma que en ambos casos está sintiendo el pulso. ¿Qué está midiendo realmente al presionar esos puntos?",
+      "context": "En una salida escolar a un centro de salud de Soacha, la enfermera explica a los estudiantes por dónde se toman el pulso y la presión arterial antes de una valoración de rutina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presión de la sangre al pasar por una arteria, generada por la contracción del corazón y las ondas que recorren las paredes arteriales",
+          "is_correct": true,
+          "feedback": "Correcto. El pulso es la transmisión de la onda de presión arterial por las arterias, y por eso se palpa en cualquier arteria superficial."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de oxígeno disuelto en la sangre, porque el oxígeno cambia de color al pasar por la arteria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno no produce una oscilación palpable; lo que viaja por la arteria es la onda de presión."
+        },
+        {
+          "letter": "C",
+          "text": "El intercambio de gases entre la sangre y los tejidos de la muñeca y del cuello",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esos puntos el intercambio de gases ocurre solo en los alvéolos, no en la piel ni en el cuello."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad con que la sangre se desplaza por las venas del brazo y del cuello",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las venas no transmiten el pulso, y la palpación arterial no mide la velocidad del flujo venoso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada contracción ventricular genera un aumento brusco de la presión dentro de las arterias. Esa presión se transmite como una onda elástica a lo largo de toda la pared arterial y se percibe como el pulso en cualquier arteria superficial. La presión arterial se cuantifica con un manguito y un manómetro, y su valor se expresa en milímetros de mercurio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v7",
+      "statement": "Un estudiante afirma que en la anemia el cuerpo recibe suficiente aire, pero que aun así la persona se falta de aliento al hacer esfuerzo. ¿Cuál de los siguientes razonamientos sostiene correctamente la afirmación?",
+      "context": "En una lectura de biología del colegio de Cartagena, el grupo estudia por qué una persona con anemia siente falta de aire al subir escaleras en su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La anemia reduce el tamaño de los alvéolos, así que entra menos aire aunque la persona respire normalmente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anemia no altera la estructura de los alvéolos; el problema está en la capacidad de la sangre para transportar el gas."
+        },
+        {
+          "letter": "B",
+          "text": "La anemia impide que la sangre llegue al cerebro, por eso el cuerpo no registra que hay oxígeno disponible",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sangre sí llega a los tejidos; lo que se reduce es la cantidad de oxígeno que puede transportar."
+        },
+        {
+          "letter": "C",
+          "text": "La anemia aumenta la cantidad de glóbulos rojos, y al haber tantos el oxígeno no cabe en la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anemia se caracteriza por una disminución de glóbulos rojos o de hemoglobina, no por un exceso."
+        },
+        {
+          "letter": "D",
+          "text": "La anemia disminuye la hemoglobina disponible, la sangre lleva menos oxígeno a los tejidos y el corazón compensa acelerando el bombeo, lo que aumenta la sensación de falta de aire",
+          "is_correct": true,
+          "feedback": "Correcto. Con menos hemoglobina la sangre transporta menos oxígeno, el organismo responde aumentando la frecuencia cardíaca y el trabajo respiratorio, y aparece la falta de aire de esfuerzo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La hemoglobina de los glóbulos rojos es la molécula que transporta oxígeno. Si hay menos glóbulos rojos o menos hemoglobina, el oxígeno que viaja unido a ellos baja, aunque la persona respire normalmente. La respuesta del organismo es aumentar el ritmo cardíaco y la frecuencia respiratoria para compensar parcialmente, y esa demanda extra se percibe como falta de aire al hacer esfuerzo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v8",
+      "statement": "Se mide el ritmo cardíaco de una persona en reposo y luego después de correr en una cinta. ¿Qué comparación de datos permite afirmar que el sistema circulatorio responde a la demanda de oxígeno durante el ejercicio?",
+      "context": "En el laboratorio de ciencias de Neiva, los estudiantes comparan el ritmo cardíaco medido en reposo y después de una actividad física, y lo relacionan con el transporte de oxígeno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el ritmo cardíaco baja después del ejercicio, porque el corazón descansa cuando los músculos trabajan",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corazón no descansa; durante el ejercicio su frecuencia normalmente aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Que el ritmo cardíaco se mantiene igual, porque la sangre siempre circula a la misma velocidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la frecuencia no cambiara durante un esfuerzo, el transporte de oxígeno no podría aumentar como lo requiere el músculo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el ritmo cardíaco aumenta y la sangre llega más rápido a los músculos, lo que permite aportar más oxígeno por minuto",
+          "is_correct": true,
+          "feedback": "Correcto. Un aumento de la frecuencia multiplica el caudal por minuto, es decir, la cantidad de sangre oxigenada que llega al músculo activo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el ritmo cardíaco aumenta y la sangre llega más rápido, pero con menos oxígeno disuelto que en reposo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sangre arterial mantiene un contenido de oxígeno similar; lo que aumenta es la cantidad total de sangre oxigenada que se entrega."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El gasto cardíaco es el producto de la frecuencia cardíaca por el volumen sistólico, y representa la cantidad de sangre que el corazón bombea por minuto. Durante el ejercicio la frecuencia cardíaca aumenta y, con ella, el gasto, de modo que llega más sangre oxigenada a los músculos activos por unidad de tiempo. Esta es la base fisiológica del aumento del consumo de oxígeno durante la actividad física.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v9",
+      "statement": "Un investigador propone que el retorno de la sangre desde las piernas depende de la acción de las válvulas venosas y del movimiento de los músculos de la pantorrilla. ¿Qué observación experimental apoyaría mejor esa hipótesis?",
+      "context": "En un proyecto de aula de Armenia, los estudiantes analizan por qué el retorno de la sangre desde las piernas se altera y aparecen venas dilatadas tras largas jornadas de trabajo de pie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir la concentración de oxígeno en la sangre de una vena de la pierna después de un ejercicio largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa medición describe el contenido de gas, no explica cómo la sangre logra subir desde la pierna."
+        },
+        {
+          "letter": "B",
+          "text": "Comparar la velocidad de retorno de la sangre con la persona quieta y con la persona que flexiona repetidamente el pie, manteniendo todo lo demás igual",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar solo el movimiento de la pantorrilla y comparar muestra si ese factor influye en el retorno de la sangre."
+        },
+        {
+          "letter": "C",
+          "text": "Observar que la arteria del pie late más rápido que la arteria del brazo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pulso arterial no informa sobre el retorno venoso ni sobre el papel de las válvulas."
+        },
+        {
+          "letter": "D",
+          "text": "Medir el diámetro de los alvéolos antes y después de un ejercicio intenso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alvéolos pertenecen al sistema respiratorio y no participan en el retorno venoso de las piernas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una hipótesis se pone a prueba cambiando una sola variable y manteniendo controladas las demás. Las válvulas venosas evitan que la sangre retroceda hacia abajo, y la contracción de los músculos de la pantorrilla actúa como una bomba que impulsa la sangre. Un experimento bien diseñado debe comparar el retorno venoso en reposo y con contracción repetida de la pierna, manteniendo constantes las restantes condiciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante afirma: \"Durante el partido mi corazón latió más rápido después de correr, por eso mis células estaban dejando de recibir oxígeno\". ¿Cuál evaluación de esta afirmación es la más sólida?",
+      "context": "En una charla de orientación de un colegio de Villavicencio, un estudiante cuenta cómo respondió su cuerpo en un partido de fútbol frente al calor de la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque el aumento del ritmo cardíaco busca bombear más sangre oxigenada, no reducir el oxígeno que llega a las células",
+          "is_correct": true,
+          "feedback": "Correcto. Un latido más rápido es una respuesta de ajuste que mejora el aporte de oxígeno a los músculos activos."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque el corazón siempre disminuye su frecuencia cuando el organismo necesita más oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ante una mayor demanda de oxígeno la frecuencia cardíaca aumenta, no disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque el oxígeno viaja por el aire hasta los músculos a través de los vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno llega a los tejidos por la sangre, no por conductos de aire; esa confusión mezcla los sistemas respiratorio y circulatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque el oxígeno solo se transporta disuelto en el plasma y nunca se une a la hemoglobina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayor parte del oxígeno viaja unido a la hemoglobina de los glóbulos rojos, no disuelto en el plasma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una afirmación exige contrastarla con lo que se sabe del funcionamiento del sistema. El aumento de la frecuencia cardíaca durante el ejercicio es una respuesta adaptativa: al latir más veces por minuto y bombear más sangre por contracción, el corazón mantiene un alto aporte de oxígeno a los músculos en actividad. Confundir un mecanismo de ajuste con unaactérítca es el error más frecuente al analizar la relación entre corazón, sangre y oxígeno.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v11",
+      "statement": "La cartilla propone que basta con respirar profundamente unos minutos al día para mantener sana la circulación. ¿Qué evaluación hace la cartilla más coherente con lo que se sabe del sistema circulatorio?",
+      "context": "En la clase de ciencias de un colegio de Montería, un grupo prepara una cartilla para orientar a estudiantes de primaria sobre hábitos que favorecen la salud cardiovascular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es suficiente, porque la sangre se mueve solo por efecto de la respiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respiración influye en el retorno venoso, pero el motor principal de la circulación es la bomba cardíaca."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es suficiente, porque los gases que transporta la sangre se producen en los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los pulmones toman el oxígeno del aire y no producen el gas que transporta la sangre; el CO2 se forma en las células."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es correcta solo si se combina con una dieta rica en grasas, porque el oxígeno se obtiene del alimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno proviene del aire inspirado y la sangre se distribuye por el corazón, no por la composición de la dieta."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta es insuficiente, porque el buen funcionamiento de la circulación depende del corazón y los vasos, del transporte de oxígeno en la sangre y de hábitos como la actividad física y la alimentación",
+          "is_correct": true,
+          "feedback": "Correcto. La circulación es un sistema completo formado por corazón, vasos, sangre y gases, y mantenerla sana exige más que un solo ejercicio respiratorio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La salud cardiovascular depende de varios factores relacionados: la capacidad de bombeo del corazón, la integridad de las arterias, la sangre con suficiente hemoglobina y el intercambio de gases en los pulmones. La respiración profunda puede ayudar al retorno venoso, pero no reemplaza el trabajo del corazón ni los hábitos de actividad física y alimentación balanceada que reducen el riesgo de hipertensión y de enfermedad coronaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle-v12",
+      "statement": "Un equipo propone medir el pulso y la frecuencia respiratoria de un solo compañero antes y después de correr, sin repetir las mediciones y sin grupo de comparación. ¿Qué evaluación de la propuesta es la más adecuada?",
+      "context": "En el área de ciencias de Popayán, los estudiantes deben diseñar una pequeña investigación para mostrar cómo cambia la respiración al hacer actividad física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es válida porque muestra que las variables cambian inmediatamente después del ejercicio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo intento no permite distinguir el efecto del ejercicio de la variación normal entre mediciones."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es válida porque el pulso y la frecuencia respiratoria no dependen de la condición física de la persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas medidas dependen de la persona, del momento y de la intensidad del esfuerzo, por eso hay que controlarlas."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es débil porque una sola persona, una sola medición y la ausencia de comparación no permiten aislar el efecto del ejercicio, y se necesitan repeticiones y una referencia",
+          "is_correct": true,
+          "feedback": "Correcto. Sin repeticiones ni condiciones controladas, los datos pueden ser resultado del azar y no permiten establecer una relación causal."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta es imposible de realizar porque la frecuencia del pulso no se puede medir durante o después de un esfuerzo físico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pulso es una medida sencilla de obtener y el ejercicio es precisamente la condición que se quiere estudiar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un experimento sólido necesita repeticiones, control de variables y una referencia de comparación. Medir una sola vez a una sola persona no permite saber si el cambio se debe al ejercicio o a la variación normal de las constantes corporales. Repetir las mediciones, comparar con el estado en reposo y mantener controladas las demás condiciones permite sostener la relación entre el esfuerzo físico y el aumento de la frecuencia cardíaca y respiratoria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W12-sistema-circulatorio-y-transporte-de-gases-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
