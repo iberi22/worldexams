@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-6-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T00:36:02.522Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la polifonía dentro de un texto?",
+      "context": "En el colegio de Bogotá, la profesora de Lengua escribe en el tablero la definición de polifonía antes de leer un editorial con el grupo de once grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la presencia de varias voces que sostienen puntos de vista distintos dentro de un mismo discurso.",
+          "is_correct": true,
+          "feedback": "Correcto. La polifonía es justamente la Pluralidad de voces con posturas que dialogan o chocan."
+        },
+        {
+          "letter": "B",
+          "text": "Es la coincidencia de la última sílaba de dos versos consecutivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa coincidencia es la rima, un recurso de forma, no de voces."
+        },
+        {
+          "letter": "C",
+          "text": "Es la alteración del orden de las palabras dentro de una oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa alteración se llama hipérbaton y es un recurso sintáctico."
+        },
+        {
+          "letter": "D",
+          "text": "Es el cambio de un tiempo verbal a otro dentro de una narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos cambios son simples recursos verbales, no multiplicidad de voces."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La polifonía designa la pluralidad de posiciones presentes en un mismo discurso, y no se limita al diálogo explícito. Puede aparecer cuando se cita una fuente, cuando un narrador transmite la conciencia de un personaje o cuando se atribuye una postura a un sector. Reconocerla evita leer un texto como si todas sus afirmaciones pertenecieran a una sola voz, que es el error más común al iniciar este tema.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué expresa el verbo \"deber\" en la oración \"Los estudiantes deben entregar el trabajo el viernes\"?",
+      "context": "En Medellín, la profesora de Lengua explica que ciertos verbos no describen un hecho, sino la manera en que el enunciante se relaciona con ese hecho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una posibilidad, porque el enunciante duda de que la acción llegue a ocurrir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duda o la posibilidad las instalarían verbos como \"puede\"."
+        },
+        {
+          "letter": "B",
+          "text": "Una obligación, porque el enunciante presenta la acción como necesaria o exigida.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Deben\" instala una obligación que el enunciante considera vigente."
+        },
+        {
+          "letter": "C",
+          "text": "Un hecho consumado, porque la acción ya se realizó en el pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un hecho consumado se narraría con un verbo en pasado, no con \"deben\"."
+        },
+        {
+          "letter": "D",
+          "text": "Un deseo, porque el enunciante expresa lo que le gustaría que sucediera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El deseo corresponde a verbos como \"querer\" o \"desear\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los verbos de modalidad no enuncian hechos observables, sino la actitud del enunciante frente a ellos. \"Deber\" construye una obligación, \"poder\" abre la posibilidad o el permiso, y \"querer\" instala un deseo. Entender esta diferencia es indispensable, porque en un texto argumentativo el verbo modal suele cargar con la fuerza de la tesis mucho más que los datos citados.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v3",
+      "statement": "Un informe afirma \"el consumo de agua en el municipio aumentó\" y otro afirma \"el consumo de agua en el municipio parece haber aumentado\". ¿Qué diferencia introduce la segunda formulación?",
+      "context": "En Cali, un grupo de once grado compara dos versiones de un mismo informe sobre el consumo de agua en un municipio del Valle del Cauca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta el dato como más reciente que el de la primera versión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos formulaciones incluye una marca de tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la afirmación en una orden dirigida a los lectores del informe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe no dirige una instrucción, solo comunica un dato."
+        },
+        {
+          "letter": "C",
+          "text": "Atenúa la certeza de la afirmación y deja abierta la posibilidad de que el dato sea inexacto.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Parece\" actúa como atenuador y suaviza el compromiso del enunciante."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina toda valoración del enunciante sobre el asunto tratado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Parece\" conserva una valoración, la de quien no está del todo seguro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La modalización del enunciante se manifesta en recursos que gradúan la certeza, como \"parece\", \"según\", \"posiblemente\" o \"casi con seguridad\". Cada uno de ellos sitúa la afirmación en un punto distinto de la escala, entre la certeza total y la simple conjetura. Reconocer esa escala ayuda a calibrar la confianza que un lector puede depositar en cada afirmación de un texto informativo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v4",
+      "statement": "En el fragmento \"salió sin hacer ruido y tomó el último bus de la noche, ese que ella nunca tomaba\", ¿qué ocurre con la voz de la protagonista?",
+      "context": "En Barranquilla, la profesora de Lengua lee en voz alta un fragmento de novela sin comillas ni verbos de introspección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador se limita a describir acciones y no incorpora la conciencia de la protagonista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El detalle sobre el bus que ella nunca tomaba revela su conciencia."
+        },
+        {
+          "letter": "B",
+          "text": "La protagonista toma la palabra en un diálogo citado dentro del fragmento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comillas ni rayas que señalen una cita de habla."
+        },
+        {
+          "letter": "C",
+          "text": "El narrador cede por completo la palabra a un personaje secundario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La única voz interior presente es la de la protagonista."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador mezcla su propia voz con la conciencia de la protagonista, sin marcar el cambio.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa mezcla sin marcas es precisamente el estilo indirecto libre."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El estilo indirecto libre consiste en que el narrador incorpora la conciencia de un personaje sin comillas, sin guiones y sin verbos de introspección. El resultado es una voz que habla a la vez como voz del narrador y como pensamiento del personaje, sin que el lector pueda separarlas. Es un procedimiento de polifonía especialmente útil en la novela psicológica, y detectarlo cambia por completo la lectura de los adjetivos y de los juicios que aparecen en el fragmento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v5",
+      "statement": "En el aviso \"Las familias deben confirmar la matrícula antes del 15 de marzo\", ¿qué valor tiene la forma verbal \"deben\"?",
+      "context": "En el colegio de Pereira, los estudiantes de once grado analizan un aviso de la administración municipal sobre el transporte escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obligación, porque la acción se presenta como necesaria y sujeta a cumplimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La forma \"deben\" instala una exigencia, no una posibilidad ni una duda."
+        },
+        {
+          "letter": "B",
+          "text": "Posibilidad, porque la acción puede ocurrir o no sin consecuencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la acción fuera opcional, el aviso usaría \"pueden\" o \"es opcional\"."
+        },
+        {
+          "letter": "C",
+          "text": "Certidumbre, porque se afirma que la acción ya se cumplió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso se dirige al futuro, no al pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Deseo, porque el enunciante expresa la expectativa que tiene sobre la familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un deseo se marcaría con \"esperamos que\" o con \"quisiera\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo modal \"deber\" en tercera persona del plural produce aquí una formulación normativa, es decir, una regla de conducta. El valor no está en la acción en sí, que podría narrarse con un infinitivo, sino en la actitud del enunciante frente a esa acción. Reconocer ese valor permite entender que el aviso no informa sobre un hecho, sino que construye una obligación para quien lo lee.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué cambia cuando una frase pasa de \"Los escolares deben cruzar por el puente peonal\" a \"Los escolares deberían cruzar por el puente peonal\"?",
+      "context": "En Bucaramanga, un profesor compara dos versiones de una campaña de seguridad vial para estudiantes de varios municipios de Santander.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deber se convierte en una obligación más fuerte, porque se expresa con un tiempo nuevo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo verbal no refuerza la exigencia, la vuelve más débil."
+        },
+        {
+          "letter": "B",
+          "text": "El deber se debilita y pasa a ser una recomendación o una expectativa, no una exigencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El condicional \"debería\" atenúa el compromiso del enunciante."
+        },
+        {
+          "letter": "C",
+          "text": "El deber se convierte en una obligación ya cumplida, sin posibilidad de reversión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado sigue estando en el futuro y no informa de un hecho pasado."
+        },
+        {
+          "letter": "D",
+          "text": "El deber se convierte en una posibilidad, porque el condicional lo vuelve opcionales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Debería\" expresa expectativa, mientras que la posibilidad la instala \"podría\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cambio del presente del indicativo al condicional en un verbo modal no modifica el contenido sino su fuerza. \"Debe\" afirma una obligación; \"debería\" la presenta como lo que se espera o lo que sería razonable, dejando espacio para la discrepancia. Esta distinción es la base de los grados de certeza, porque permite construir una escala en la que una misma proposición puede sostenerse con compromisos variables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v7",
+      "statement": "En el enunciado \"El aumento del transporte puede ser el resultado de la expansión urbana\" frente a \"El aumento del transporte debe ser el resultado de la expansión urbana\", ¿qué se establece en cada caso?",
+      "context": "En un grupo de once grado de Bogotá se estudia la diferencia entre \"puede ser\" y \"debe ser\" a partir de un texto sobre movilidad urbana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En ambos casos se afirma una certeza, expresada con distinta intensidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Puede ser\" no afirma certeza, abre la posibilidad."
+        },
+        {
+          "letter": "B",
+          "text": "En ambos casos se expresa una opinión personal sin respaldo argumentativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se trata de grados distintos de compromiso, no de una simple opinión."
+        },
+        {
+          "letter": "C",
+          "text": "En el primero se presenta una hipótesis plausible; en el segundo, una causa que el enunciante da por segura.",
+          "is_correct": true,
+          "feedback": "Correcto. La posibilidad y la necesidad construyen dos relaciones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "En el primero se lanza una conjetura; en el segundo se describe un hecho ya comprobado por un informe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Debe ser\" expresa necesidad lógica, no comprobación empírica."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La construcción \"puede ser\" abre un conjunto de explicaciones posibles y coloca la proposición en el terreno de la hipótesis. La construcción \"debe ser\", en cambio, presenta la relación como necesaria dentro del razonamiento del enunciante. Comparar ambas formas es el procedimiento más sencillo para entender que un texto argumentativo no solo afirma hechos, sino que también propone relaciones y les asigna un grado de necesidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué combinación de modalidades aparece en ese enunciado?",
+      "context": "En un boletín distrital de Barranquilla se lee: \"La recuperación del canal oriental podría iniciarse el próximo año, si se aprueban los recursos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una obligación estricta, porque el inicio del proyecto ya está decidido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El condicional \"podría\" descarta la decisión ya tomada."
+        },
+        {
+          "letter": "B",
+          "text": "Una certeza, porque la aprobación de los recursos es un hecho consumado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aprobación se presenta como hipotética, no como realizada."
+        },
+        {
+          "letter": "C",
+          "text": "Un deseo del boletín, porque el proyecto debería iniciar sin importar los recursos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no expresa un deseo, sino una posibilidad con condición."
+        },
+        {
+          "letter": "D",
+          "text": "Una posibilidad condicionada, porque el inicio del proyecto depende de una condición que aún no se cumple.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Podría iniciarse\" abre la posibilidad y \"si se aprueben\" agrega la condición."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este enunciado acumula dos recursos modales que trabajan juntos. El condicional \"podría iniciarse\" sitúa la acción en el plano de lo posible, y la conjunción \"si\" introduce una condición que debe cumplirse para que esa posibilidad se concrete. En los comunicados de entidades públicas este doble juego es muy frecuente, y reconocerlo permite medir con realismo el grado de avance real de un proyecto anunciado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v9",
+      "statement": "En el enunciado \"Según el informe de la auditoría, el dinero de las obras no llegó a su destino\", ¿cuántas voces intervienen y cómo se distinguen?",
+      "context": "En el colegio de Medellín, la profesora de Lengua marca una frase de un texto periodístico y pregunta quién habla en ella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos voces, la del periodista que introduce y la del informe citado como responsable de la afirmación.",
+          "is_correct": true,
+          "feedback": "Correcto. La fórmula \"según\" separa al mediador de la fuente de lo afirmado."
+        },
+        {
+          "letter": "B",
+          "text": "Una sola voz, la del periodista, que asume sin más el contenido del informe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La construcción \"según\" delega la afirmación y no permite esa fusión."
+        },
+        {
+          "letter": "C",
+          "text": "Tres voces, la del periodista, la del informe y la de cada destinatario del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los destinatarios escuchan, pero no sostienen ninguna afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna voz identificable, porque el enunciado es anónimo y no permite reconstruir al responsable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe citado es una voz perfectamente localizable dentro del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las construcciones de atribución, como \"según\", \"en palabras de\" o \"como sostiene\", introducen una segunda voz dentro del discurso y distinguen al mediador de la fuente. Esa distinción tiene efectos evaluativos importantes, porque permite preguntar por el criterio de quien afirma y por sus intereses. Un texto que solo cita, sin valorar, deja la evaluación de la fuente en manos del lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué gana el lector cuando identifica el verbo de modalidad con que está construida una afirmación?",
+      "context": "En Cali, una estudiante de once grado se pregunta qué aporta a la comprensión la información que da el verbo modal de una oración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada relevante, porque el verbo modal es un recurso de estilo sin efecto sobre la comprensión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo modal organiza el compromiso del enunciante y orienta la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "La posibilidad de clasificar el tipo de compromiso que el enunciante asume: obligación, posibilidad, deseo o permiso.",
+          "is_correct": true,
+          "feedback": "Correcto. Identificar el verbo modal es identificar la postura del enunciante."
+        },
+        {
+          "letter": "C",
+          "text": "Solamente el dato de cuándo se produjo la acción mencionada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo modal no aporta información temporal."
+        },
+        {
+          "letter": "D",
+          "text": "La identificación del autor real del texto que se está leyendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoría real es un asunto distinto del de la voz del enunciante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El verbo de modalidad funciona como una etiqueta de la postura del enunciante frente a lo que afirma, y por eso es una de las claves más productivas de la lectura crítica. Reconocerlo permite clasificar el compromiso como obligación, posibilidad, deseo o permiso, y con esa información el lector puede ponerse de acuerdo o no con el texto. Ignorarlo, en cambio, lleva a aceptar como hechos lo que solo son propuestas o expectativas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v11",
+      "statement": "En el fragmento \"iba a decir la verdad, aunque se le notaba que mentía con gusto\", ¿qué procedimiento polifónico se observa?",
+      "context": "En Pereira, los estudiantes de once grado analizan un fragmento donde el narrador atenuado y el personaje audaz se cruzan en una misma frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador y el personaje hablan por separado, y el lector los distingue mediante marcas explícitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comillas, guiones ni verbos que separen las dos voces."
+        },
+        {
+          "letter": "B",
+          "text": "La voz del narrador desaparece por completo y solo queda la conciencia del personaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador sigue organizando el relato; no se borra."
+        },
+        {
+          "letter": "C",
+          "text": "El narrador expresa en voz propia lo que el personaje piensa, y ambos pueden confundirse porque no hay separación de voces.",
+          "is_correct": true,
+          "feedback": "Correcto. La mezcla de voces sin marcas es el estilo indirecto libre."
+        },
+        {
+          "letter": "D",
+          "text": "La voz del personaje desaparece y solo queda la narración de los hechos externos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juicio \"con gusto\" no puede atribuírsele a un hecho externo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estilo indirecto libre permite que el narrador se apropie del habla interior de un personaje sin delimitarla, de modo que los juicios y los adjetivos pueden pertenecer a una voz o a la otra con la misma(valididad sintáctica). Esa ambigüedad es deliberada: obliga al lector a decidir si la ironía \"mentía con gusto\" la pensada por el narrador o experimentada por el personaje, y esa decisión cambia por completo la interpretación del fragmento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v12",
+      "statement": "En un comunicado que dice \"se sugiere a los vecinos estar atentos a los horarios del acceso nocturno\", ¿qué se puede inferir?",
+      "context": "En Bogotá, una estudiante de once grado lee un comunicado institucional que emplea un lenguaje demasiado suave para una medida que en realidad es obligatoria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La institución prohíbe expresamente el acceso nocturno y no lo dice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comunicado no contiene una prohibición, sino una recomendación."
+        },
+        {
+          "letter": "B",
+          "text": "La institución no tiene autoridad para regular los horarios de acceso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inferencia apunta a una limitación de la autoridad, no a su competencia."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad puede decidir libremente si la recomendación se cumple o no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono atenuado no elimina la existencia de una norma que la respalda."
+        },
+        {
+          "letter": "D",
+          "text": "La institución quiere dejar constancia de una recomendación, aunque en realidad existe una norma que restringe ese acceso.",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo sugerente y la ausencia de \"prohibido\" ocultan el carácter normativo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La modalización hacia la atenuación tiene efectos que van más allá de la cortesía. Cuando un acto normativo se presenta con un verbo sugerente, el lector enfrenta un vacío entre lo que se dice y lo que rige, y ese vacío esuelen diligentemente-workable para interpretar el comunicado. Por eso conviene leer estos documentos en dos niveles: lo que el enunciante afirma con su verbo modal y lo que suprime al no declarar directamente la obligación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v13",
+      "statement": "¿Por qué en los textos informativos se prefieren formulaciones como \"podría\" o \"se estima\" en lugar de afirmaciones sinmodalización?",
+      "context": "En un foro de noticias de Medellín, varios lectores discuten por qué los textos informativos evitan las afirmaciones categóricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el enunciante rara vez posee pruebas completas y ajusta su afirmación a ese grado de certeza.",
+          "is_correct": true,
+          "feedback": "Correcto. El verbo modal gradúa la afirmación según lo que realmente se sabe."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la modalización oculta que el enunciante no tiene información real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La modalización no encubre la ausencia de datos, la hace explícita."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las afirmaciones categóricas están prohibidas por cualquier norma de estilo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal prohibición; las afirmaciones categóricas son válidas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el uso de verbos modales aligera la lectura sin cambiar el significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo modal sí cambia el significado, porque fija un grado de certeza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La modalización es, ante todo, el procedimiento mediante el cual un enunciante ajusta su afirmación a lo que realmente sabe. Ese ajuste puede deberse a límites de la evidencia, a la naturaleza probabilística del fenómeno o a la intención de no comprometer al medio. Comprender el fenómeno permite leer los textos informativos de prensa como operaciones de gestión de la incertidumbre, y no como afirmaciones de certeza mal fundamentadas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v14",
+      "statement": "Compare \"Quizás los estudiantes llegan temprano\" y \"Los estudiantes llegan temprano\". ¿Qué cambia entre ambos enunciados?",
+      "context": "En el colegio de Bucaramanga, un grupo de once grado compara dos formulaciones sobre la asistencia de sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos enunciados expresan exactamente lo mismo, pues el significado no depende del adverbio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adverbio modifica de manera decisiva el grado de certeza."
+        },
+        {
+          "letter": "B",
+          "text": "El primero presenta la llegada como posible y no garantizada; el segundo la presenta como un hecho.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Quizás\" atenúa la afirmación hasta convertirla en conjetura."
+        },
+        {
+          "letter": "C",
+          "text": "El primero es más categórico que el segundo, porque añade un adverbio que refuerza la afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primero es claramente menos categórico."
+        },
+        {
+          "letter": "D",
+          "text": "El primero pertenece al discurso directo y el segundo al discurso indirecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos enunciados están en estilo indirecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El enunciado sin modalización se apoya en la autoridad del enunciante y presenta lo que dice como un hecho comprobado. Al añadir \"quizás\", el mismo contenido pasa a ocupar el extremo opuesto de la escala de certeza, y el lector ya no puede tratarlo como información verificada. Reconocer esta operación es esencial para distinguir, en una misma noticia, el dato comprobado de la expectativa que el medio proyecta sobre ese dato.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v15",
+      "statement": "Un medio digital publica: \"La salud pública en la ciudad marcha perfectamente, según el reporte oficial\". ¿Qué efecto produce la construcción usada?",
+      "context": "En Cali, los estudiantes de once grado discuten el uso de la ironía en un comunicado de una entidad municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refuerza la afirmación, porque la protege con el respaldo de una fuente oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de comillas y de \"según\" resta, en lugar de sumar, autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la frase en una orden dirigida a la ciudadanía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado comunica un juicio y no dicta ninguna conducta."
+        },
+        {
+          "letter": "C",
+          "text": "Ironiza, porque al entrecomillar el juicio y remitirlo a la fuente, el enunciante señala su desacuerdo.",
+          "is_correct": true,
+          "feedback": "Correcto. Las comillas y la atribución se ironizan y relativizan el juicio del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la responsabilidad del medio, dejando la verdad en manos del reporte citado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El medio es quien ironiza y por tanto quien asume su posición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los recursos de atribución pueden operar también como ironía, y no solo como garantía de veracidad. Cuando un juicio valorativo se entrecomilla y se remite a una fuente, el lector entiende que el enunciante no comparte ese juicio, aunque la estructura formal parezca respaldarlo. Detectar ese desdoblamiento evita el error de tomar por serio lo que el artículo presenta como irónico, y abre la puerta a un análisis más fino de los mecanismos retóricos de la ironía en los medios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué citar un dato no produce por sí solo un texto polifónico?",
+      "context": "En el colegio de Medellín, la profesora de Lengua pide justificar por qué no toda cita de una fuente equivale a polifonía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las citas deben aparecer siempre entre comillas para ser válidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma de la cita no es lo que genera la pluralidad de voces."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las cifras y los datos no expresan ningún tipo de posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo dato seleccionado es ya una operación interpretativa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las fuentes autorizadas liberan al texto de toda necesidad de evaluación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoridad de una fuente es precisamente lo que debe evaluarse."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la cita solo genera pluralidad de voces si se explicita quién dice qué y se evalúa su criterio.",
+          "is_correct": true,
+          "feedback": "Correcto. La polifonía exige distinguir voces y valorar la autoridad de cada una."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La pluralidad de voces no surge por la mera presencia de citas, sino por la manera en que el texto las organiza y las evalúa. Cuando el narrador cita, compara, objeta o pone en conflicto a varias fuentes, se construye un diálogo entre posturas que el lector puede seguir. Cuando solo reproduce datos sin comentarlos, no hay tal diálogo: hay un único enunciante que cede la palabra sin asumir ninguna distancia crítica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v17",
+      "statement": "Un editorial afirma: \"Es evidente que la obra pública no mejora\". ¿Qué evaluación crítica resulta más precisa?",
+      "context": "En Barranquilla, los estudiantes de once grado valoran un editorial local sobre el estado de las obras públicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto débil, porque el cuantificador \"evidente\" sustituye la demostración con una declaración de certeza.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Es evidente\" afirma la certeza sin aportar ninguna prueba."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto claro, porque no deja lugar a dudas sobre la postura que defiende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La claridad no equivale a solidez, y aquí la afirmación no se apoya en pruebas."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto honesto, porque el propio editorial reconoce la debilidad de su argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El editorial no reconoce debilidad alguna, afirma todo lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto neutral, porque evita comprometer al autor con una postura claramente negativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La postura negativa está presente y es explícita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un cuantificador como \"evidente\" o \"claramente\" eleva el grado de certeza de una afirmación sin aportar ninguna prueba nueva. En la argumentación, ese recurso pertenece más a la retórica que a la demostración, y su presencia obliga al lector a buscar en otro lugar el fundamento de la tesis. Evaluar un editorial consiste, entonces, en contrastar la fuerza de sus afirmaciones con la calidad de las razones que ofrece para sostenerlas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v18",
+      "statement": "El comité concluye: \"Proponemos avanzar con la ampliación del sistema, si la autoridad lo aprueba así\". ¿Qué puede evaluar un lector atento en esta formulación?",
+      "context": "En Pereira, un comité de Planeación discute la propuesta de ampliar el sistema de transporte público municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la propuesta está suficientemente estudiada y ya cuenta con el aval técnico definitivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma tal aval, solo deja la decisión en manos de otro."
+        },
+        {
+          "letter": "B",
+          "text": "Que la propuesta existe, pero que el enunciante no asume el compromiso de sostenerla ante quien decide.",
+          "is_correct": true,
+          "feedback": "Correcto. La cláusula condicional traslada la responsabilidad a una autoridad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la propuesta será rechazada automáticamente por la autoridad municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El condicional no anuncia rechazo alguno."
+        },
+        {
+          "letter": "D",
+          "text": "Que la cláusula condicional desvirtúa por completo el contenido de la propuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cláusula limita el compromiso, pero no niega el proyecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cláusula condicional \"si la autoridad lo aprueba así\" es un procedimiento de descentramiento del compromiso: el enunciante presenta la iniciativa y, de inmediato, la somete a la validación de un tercero. Esa operación protege al enunciante y desplaza el riesgo de la decisión, y es muy común en los documentos públicos locales. Reconocerla permite distinguir los proyectos que esperan una decisión real de los que solo funcionan como recomendaciones formales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v19",
+      "statement": "En el enunciado \"El proyecto debería iniciar en marzo, tal vez en abril\", ¿qué dos grados de modalidad se acumulan?",
+      "context": "En Bogotá, un profesor pide verificar los grados de modalidad presentes en un enunciado de un informe distrital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una obligación estricta y una certeza absoluta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni el condicional ni el \"tal vez\" permiten una certeza absoluta."
+        },
+        {
+          "letter": "B",
+          "text": "Una necesidad lógica y una certeza demostrada mediante datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Debería\" no expresa necesidad lógica ni se aportan datos."
+        },
+        {
+          "letter": "C",
+          "text": "Una obligación atenuada, por el uso de \"debería\", y una posibilidad incierta, por el \"tal vez\".",
+          "is_correct": true,
+          "feedback": "Correcto. Se acumulan dos niveles de atenuación sobre la misma propuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Un permiso concedido y una probabilidad calculada con exactitud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no concede permiso ni ofrece probabilidades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La acumulación de recursos modales produce un efecto multiplicador sobre la atenuación. El condicional \"debería\" sitúa la acción en el plano de lo esperable pero no exigido, y el \"tal vez\" añade un segundo nivel de incertidumbre sobre una fecha que ya era aproximada. Reconocer ambos niveles es clave para saber, al leer un informe, si lo que se nos presenta es un compromiso o simplemente un deseo difuso contenido en forma de fecha.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la mejor estrategia de lectura para aprovechar un texto que combina la voz del enunciante, la de una fuente citada y la de un personaje absorbido por la narración?",
+      "context": "En el colegio de Pereira, los grupos de once grado terminan la semana con una puesta en común sobre un texto de no менее de dos páginas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar solamente los datos y memorizarlos para reproducirlos después.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumular datos sin mapa de voces desaprovecha la estructura del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Leer únicamente las conclusiones, porque son la única parte que importa del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las conclusiones solo se entienden si se ha seguido el razonamiento previo."
+        },
+        {
+          "letter": "C",
+          "text": "Contar cuántos verbos modales y cuántas citas contiene el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recuento cuantitativo no dice nada sobre su función."
+        },
+        {
+          "letter": "D",
+          "text": "Reconstruir un mapa de voces: quién dice qué, con qué grado de certeza y con qué propósito.",
+          "is_correct": true,
+          "feedback": "Correcto. El mapa de voces organiza la pluralidad y la modalización a la vez."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El mapa de voces es la herramienta que integra los dos temas de la semana: permite ver quién habla, cuánto se compromete ese hablar y para qué lo hace. Al construirlo, el lector distingue la afirmación propia del enunciante de la afirmación delegada, y gradúa su confianza según el grado de certeza de cada una. Ese procedimiento, aplicado de manera sistemática, convierte la lectura en una actividad de análisis y no en un simple recorrido de las líneas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
