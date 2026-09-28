@@ -262,10 +262,10 @@ En un texto argumentativo, el propósito se reconoce por la fuerza de su conclus
 El primer texto responde a las críticas recibidas por una norma municipal deosity. El segundo ataca un proyecto de ley que considera perjudicial. ¿Qué procedimiento de lectura resulta más eficaz para distinguir sus tipos?
 
 ### Opciones
-- [x] A) Identificar a quién responde el texto y hacia qué dirección avanza su argumento.
-  <!-- feedback: Correcto. Saber a qué posición responde y en qué sentido avanza permite reconocer defensa o refutación. -->
-- [ ] B) Contar la cantidad de párrafos y de datos que contiene cada texto.
+- [ ] A) Contar la cantidad de párrafos y de datos que contiene cada texto.
   <!-- feedback: Incorrecto. La extensión no determina el tipo de argumentación de un escrito. -->
+- [x] B) Identificar a quién responde el texto y hacia qué dirección avanza su argumento.
+  <!-- feedback: Correcto. Saber a qué posición responde y en qué sentido avanza permite reconocer defensa o refutación. -->
 - [ ] C) Buscar la cantidad de adjetivos valorativos en cada uno de los textos.
   <!-- feedback: Incorrecto. El tono valorativo acompaña a muchos tipos de texto y no los distingue. -->
 - [ ] D) Comprobar si los dos textos mencionan el nombre de la administración municipal.
@@ -314,12 +314,12 @@ Un texto de opinión de un periódico local afirma que una obra "benefició a to
 ### Opciones
 - [ ] A) Es apropiada, porque el periódico es una fuente autorizada de información.
   <!-- feedback: Incorrecto. La procedencia del medio no sustituye la demostración de una afirmación. -->
-- [x] B) Es débil, porque generaliza a toda la ciudad sin aportar evidencia que lo respalde.
-  <!-- feedback: Correcto. La afirmación amplía su alcance sin apoyo, y esa es la marca de un argumento poco soutenu. -->
-- [ ] C) Es errónea, porque toda obra pública necesariamente perjudica a alguna comunidad.
+- [ ] B) Es errónea, porque toda obra pública necesariamente perjudica a alguna comunidad.
   <!-- feedback: Incorrecto. El texto no dice eso, y una generalización opuesta tampoco está justificada. -->
-- [ ] D) Es sólida, porque usa un adjetivo valorativo que transmite seguridad.
+- [ ] C) Es sólida, porque usa un adjetivo valorativo que transmite seguridad.
   <!-- feedback: Incorrecto. Un adjetivo no agrega evidencia: solo expresa la posición del autor. -->
+- [x] D) Es débil, porque generaliza a toda la ciudad sin aportar evidencia que lo respalde.
+  <!-- feedback: Correcto. La afirmación amplía su alcance sin apoyo, y esa es la marca de un argumento poco soutenu. -->
 
 ### Explicacion Pedagogica
 Un argumento sostiene su fuerza en la relación entre lo que afirma y lo que muestra. Cuando la conclusión amplía su alcance a toda una ciudad sin aportar datos,PSL el,)
@@ -365,10 +365,10 @@ Cada tipo de argumentación tiene un repertorio de recursos que le son propios. 
 ### Opciones
 - [ ] A) El autor многочисленный ha rechazado todas las alternativas posibles.
   <!-- feedback: Incorrecto. Mencionar un costo menor no demuestra que se hayan evaluado todas las opciones. -->
-- [ ] B) El texto no presenta evidencia, porque se apoya en una comparación de costos.
-  <!-- feedback: Incorrecto. Comparar magnitudes es una forma de aportar razones a favor de la decisión. -->
-- [x] C) El texto pesa un riesgo contra un costo, es decir, razona con relaciones de causa y consecuencia.
+- [x] B) El texto pesa un riesgo contra un costo, es decir, razona con relaciones de causa y consecuencia.
   <!-- feedback: Correcto. La comparación de magnitudes es un argumento típico de la deliberación. -->
+- [ ] C) El texto no presenta evidencia, porque se apoya en una comparación de costos.
+  <!-- feedback: Incorrecto. Comparar magnitudes es una forma de aportar razones a favor de la decisión. -->
 - [ ] D) El autor se limita a describir el procedimiento sin intención de recomendar.
   <!-- feedback: Incorrecto. Mantener la medida es una recomendación, no una descripción neutral. -->
 
@@ -417,10 +417,10 @@ En un texto refutatorio, el autor reconstruye el argumento contrario y lo declar
   <!-- feedback: Incorrecto. La extensión del texto no es un problema lógico, sino una decisión de estilo. -->
 - [ ] B) Interrumpe el orden del texto, porque la reconstrucción aparece antes de la tesis propia.
   <!-- feedback: Incorrecto. Muchas refutaciones reconstruyen el argumento contrario al abrir el texto, y ese orden es legítimo. -->
-- [x] C) Simplifica la postura ajena, de modo que refutar esa reconstrucción no basta para refutar la postura real.
-  <!-- feedback: Correcto. Al debilitarla, el autor refuta un adversario más débil que el argumento real. -->
-- [ ] D) Impide que el lector conozca la posición del autor desde la primera línea.
+- [ ] C) Impide que el lector conozca la posición del autor desde la primera línea.
   <!-- feedback: Incorrecto. El orden de los párrafos no es lo que hace débil la refutación. -->
+- [x] D) Simplifica la postura ajena, de modo que refutar esa reconstrucción no basta para refutar la postura real.
+  <!-- feedback: Correcto. Al debilitarla, el autor refuta un adversario más débil que el argumento real. -->
 
 ### Explicacion Pedagogica
 Un texto refutatorio bien construido expone la versión más fuerte del argumento contrario, porque solo así se puede mostrar con solidez que esa versión falla. Cuando el autor reconstruye una versión debilitada, el lector puede advertir que refutar lo Weak no equivale a refutar la postura real. Reconocer esa maniobra es fundamental para no aceptar como demolición lo que solo es un attacksfacil.
