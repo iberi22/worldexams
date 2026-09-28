@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-27-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T18:45:43.032Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la composición de un nucleótido, la unidad básica de los ácidos nucleicos?",
+      "context": "En un taller de biología en Bucaramanga, una estudiante dibuja la unidad básica del ADN y rotula sus tres componentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo fosfato, una hexosa y un aminoácido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aminoácido es la unidad de las proteínas, y en el ADN la pentosa es desoxirribosa, no una hexosa."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo fosfato, una pentosa y una base nitrogenada.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos son los tres componentes del nucleótido: el fosfato, una aldopentosa y una base nitrogenada."
+        },
+        {
+          "letter": "C",
+          "text": "Una base nitrogenada, un grupo hidroxilo y colesterol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colesterol es un lípido de la membrana celular y no forma parte de la estructura de un nucleótido."
+        },
+        {
+          "letter": "D",
+          "text": "Dos bases nitrogenadas, una pentosa y un ácido graso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada nucleótido lleva una sola base nitrogenada, y los ácidos grasos no entran en su estructura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El nucleótido es el ladrillo básico del ADN y del ARN, y siempre está formado por tres componentes: un grupo fosfato, una aldopentosa y una base nitrogenada. La pentosa es desoxirribosa en el ADN y ribosa en el ARN, por lo que ambos ácidos nucleicos son moléculas distintas aunque compartan el mismo esquema general. Las bases nitrogenadas pueden ser purinas, adenina y guanina, con dos anillos, o pirimidinas, timina y citosina, con un solo anillo. El fosfato y la pentosa forman el esqueleto de la cadena, mientras que la base nitrogenada se orienta hacia el interior y es la que permite el apareamiento entre las dos hebras. Comprender esta composición explica por qué una alteración en la secuencia de bases cambia la información genética y por qué el análisis del ADN se apoya en la lectura de esa secuencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v2",
+      "statement": "Combien enlaces de hidrógeno se forman entre adenina y timina, y entre guanina y citosina, respectivamente?",
+      "context": "En un laboratorio de genética de Bogotá se analiza una muestra de ADN y se cuentan los enlaces de hidrógeno entre las bases complementarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres enlaces de hidrógeno entre adenina y timina, y dos entre guanina y citosina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos valores están intercambiados: el par unido por tres enlaces de hidrógeno es guanina-citosina."
+        },
+        {
+          "letter": "B",
+          "text": "Cuatro enlaces de hidrógeno entre adenina y timina, y seis entre guanina y citosina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ningún par de bases unido por seis enlaces de hidrógeno, y el valor del par adenina-timina es dos."
+        },
+        {
+          "letter": "C",
+          "text": "Un enlace de hidrógeno entre adenina y timina, y dos entre guanina y citosina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con un solo enlace de hidrógeno las bases no quedarían correctamente apareadas dentro de la doble hélice."
+        },
+        {
+          "letter": "D",
+          "text": "Dos enlaces de hidrógeno entre adenina y timina, y tres entre guanina y citosina.",
+          "is_correct": true,
+          "feedback": "Correcto. El par adenina-timina se une con dos enlaces de hidrógeno y el par guanina-citosina con tres."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las bases nitrogenadas se aparean de forma complementaria y específica porque los grupos que quedan enfrentados en el interior de la doble hélice forman puentes de hidrógeno. La adenina se une con la timina mediante dos puentes de hidrógeno y la guanina con la citosina mediante tres. Además de esa diferencia, el ADN aparea siempre una purina con una pirimidina, de manera que el diámetro de la doble hélice se mantiene constante, cercano a los dos nanómetros. El número de puentes de hidrógeno influye en la temperatura a la que se separan las hebras, pero la estabilidad global de la molécula depende sobre todo del apilamiento de los anillos de las bases, que aleja del medio acuoso las zonas apiladas. Por eso los segmentos ricos en pares guanina-citosina resisten mejor la desnaturalización que los ricos en adenina-timina.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué conclusión se puede extraer correctamente de esos datos?",
+      "context": "Un estudiante de Medellín cuenta las bases de un fragmento de ADN humano y encuentra mil adeninas, mil timinas, ochocientas guaninas y ochocientas citosinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que hay tantas adeninas como timinas y tantas guaninas como citosinas, como establecen las reglas de Chargaff.",
+          "is_correct": true,
+          "feedback": "Correcto. En el ADN de doble hebra el porcentaje de adenina iguala al de timina y el de guanina al de citosina."
+        },
+        {
+          "letter": "B",
+          "text": "Que las cuatro bases nitrogenadas aparecen en la misma proporción, porque todas son complementarias entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos muestran 40 por ciento de adenina y de timina frente a 20 por ciento de guanina y de citosina."
+        },
+        {
+          "letter": "C",
+          "text": "Que la molécula analizada es ADN de una sola hebra, porque hay más adeninas que citosinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una hebra sencilla no cumpliría la igualdad entre adeninas y timinas que sí se observa en estos datos."
+        },
+        {
+          "letter": "D",
+          "text": "Que en toda molécula de ADN la cantidad de adeninas debe ser menor que la de guaninas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa relación no existe: las proporciones de adenina y guanina dependen de la secuencia del genoma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las reglas de Chargaff describen la composición de una molécula de ADN de doble hebra. Como cada adenina se aparea con una timina y cada guanina con una citosina, el número de adeninas es igual al de timinas y el de guaninas es igual al de citosinas. En el ejemplo, el total es de tres mil seiscientas bases: mil adeninas y mil timinas representan el cuarenta por ciento cada una, y ochocientas guaninas y ochocientas citosinas representan el veinte por ciento cada una. Otra forma de expresar la misma regla es que el total de purinas, adenina más guanina, es igual al total de pirimidinas, timina más citosina. Estas proporciones se cumplen en el ADN de todos los organismos, y no en el ARN, que es generalmente de una sola hebra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v4",
+      "statement": "Una hebra de ADN, que actúa como molde, presenta la secuencia 3'-TAC-GGT-ATC-5'. ¿Qué secuencia tendrá el ARN mensajero transcrito a partir de ella?",
+      "context": "Un investigador de un laboratorio de Bogotá transcribe un gen de una célula humana y obtiene la molécula de ARN mensajero correspondiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3'-AUG-CCA-UAG-5', porque el ARN mensajero conserva el sentido de la hebra molde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN mensajero se sintetiza siempre en dirección 5' a 3' y se escribe con ese sentido, no con el de la hebra molde."
+        },
+        {
+          "letter": "B",
+          "text": "5'-AUG-CCA-UAU-3', porque el ARN conserva la timina del ADN y solo cambia la adenina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN mensajero no lleva timina: en el ARN la timina del ADN queda sustituida por uracilo, por lo que la tercera base sería U y no A."
+        },
+        {
+          "letter": "C",
+          "text": "5'-AUG-CCA-UAG-3', porque el ARN es complementario y antiparalelo respecto de la hebra molde.",
+          "is_correct": true,
+          "feedback": "Correcto. El ARN mensajero es complementario y antiparalelo, lleva uracilo en vez de timina y se sintetiza en sentido 5' a 3'."
+        },
+        {
+          "letter": "D",
+          "text": "5'-TAC-GGT-ATC-3', porque el ARN mensajero es una copia idéntica de la hebra molde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ARN mensajero es complementario de la hebra molde, no idéntico, y además contiene uracilo en lugar de timina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La transcripción es el proceso en el que la ARN polimerasa lee una hebra de ADN, llamada hebra molde, y construye una molécula de ARN. El apareamiento es complementario y antiparalelo: la adenina se aparea con uracilo, en lugar de timina, y la guanina con la citosina. Además, la ARN polimerasa avanza sobre el ADN en dirección 3' a 5', de modo que el ARN que se está formando se sintetiza siempre en dirección 5' a 3'. Al escribir la hebra molde como 3'-TAC-GGT-ATC-5', el ARN mensajero correspondiente queda como 5'-AUG-CCA-UAG-3'. Como dato de verificación, ese ARN mensajero comienza con el codón de inicio AUG y termina con UAG, uno de los tres codones de terminación, lo que muestra que la lectura del ARN mensajero se hace desde su extremo 5' hacia su extremo 3'.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v5",
+      "statement": "Un equipo compara la secuencia de un gen de una persona con la de un gen de una bacteria. ¿Qué resultado es coherente con las propiedades del código genético?",
+      "context": "Un grupo de investigación de la Universidad Nacional de Colombia compara la secuencia de un gen humano con la de un gen bacteriano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que un mismo codón puede codificar aminoácidos diferentes en cada organismo, porque el código es degenerado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La degeneración indica que varios codones codifican un mismo aminoácido, no que un codón cambie de significado."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo algunos codones se conservan entre las dos secuencias y los demás cambian según el organismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese no es el comportamiento del código genético, que conserva el significado de los codones en casi todos los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Que los mismos codones codifican los mismos aminoácidos en ambos organismos, porque el código genético es prácticamente universal.",
+          "is_correct": true,
+          "feedback": "Correcto. La universalidad del código genético implica que un mismo codón designa el mismo aminoácido en casi todos los organismos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el número de codones cambia de una especie a otra, de modo que la información no se puede comparar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El código genético tiene sesenta y cuatro codones en todos los organismos celulares, con independencia de la especie."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El código genético es el conjunto de reglas que relaciona cada trinucleótido del ARN mensajero con el aminoácido que incorpora. Está formado por sesenta y cuatro codones, de los cuales sesenta y uno codifican aminoácidos y tres, UAA, UAG y UGA, son señales de terminación. Dos propiedades explican su gran valor. La primera es la universalidad: el mismo codón significa lo mismo en bacterias, plantas, animales y humanos, lo que permite transferir información genética entre organismos. La segunda es la degeneración: la mayoría de los aminoácidos está codificada por varios codones, y ese exceso de redundancia protege al organismo frente a los errores de lectura. La degeneración no contradice la universalidad. Existen pocas excepciones, como el código de las mitocondrias humanas, donde UGA codifica triptófano, y el de ciertos protozoos, que emplea codones distintos para codificar los mismos aminoácidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v6",
+      "statement": "Durante la traducción, un ARN de transferencia llega al ribosoma cargado con el aminoácido leucina. ¿Qué molécula es la responsable de unírselo?",
+      "context": "En un laboratorio de biología celular de Cali, una estudiante sigue la síntesis de una proteína dentro de un ribosoma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La aminoacil-ARNt sintetasa, que reconoce el aminoácido y el ARN de transferencia correspondiente.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta enzima reconoce el aminoácido y el ARN de transferencia homólogo y los une formando el ARN de transferencia cargado."
+        },
+        {
+          "letter": "B",
+          "text": "La ARN polimerasa, que transcribe el gen y sintetiza el ARN de transferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ARN polimerasa produce el ARN mensajero a partir del ADN, pero no carga los aminoácidos en el ARN de transferencia."
+        },
+        {
+          "letter": "C",
+          "text": "La ADN polimerasa, que replica el ADN y aporta los nucleótidos al ARN de transferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ADN polimerasa sintetiza la hebra nueva de ADN durante la replicación y no interviene en la carga de los ARN de transferencia."
+        },
+        {
+          "letter": "D",
+          "text": "La helasa, que separa las dos hebras del ADN antes de iniciar la traducción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La helasa separa las hebras del ADN durante la replicación y no participa en el ensamblaje de la proteína."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Antes de entrar al ribosoma, cada ARN de transferencia debe estar cargado con su aminoácido específico, y de eso se encarga la aminoacil-ARNt sintetasa. Esta enzima reconoce simultáneamente el aminoácido y el ARN de transferencia que le corresponde, consume ATP y los une mediante un enlace de alta energía, dejando el aminoácido en el extremo 3' del ARN de transferencia. Como la célula posee veinte aminoácidos proteinogénicos, cuenta con un conjunto de estas enzimas que los reconocen. Durante la traducción, el ribosoma, formado por una subunidad grande y una pequeña de ARN ribosomal y proteínas, lee los codones del ARN mensajero y el anticodón del ARN de transferencia se aparea con el codón correspondiente. Cuando aparece un codón de terminación, son los factores de liberación, y no un ARN de transferencia, los que desprenden la proteína terminada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v7",
+      "statement": "Un grupo analiza un fragmento de ADN y observa que las dos hebras se orientan en sentidos opuestos, que el esqueleto de cada una se forma con enlaces entre el oxígeno del fosfato y el carbono 3' de la pentosa, y que aparecen dos surcos a lo largo de la molécula. ¿Qué describe correctamente esa estructura?",
+      "context": "En un laboratorio escolar de Bogotá, un grupo usa un modelo de doble hélice para explicar cómo se lee un gen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son dos hebras paralelas unidas por enlaces covalentes fuertes entre las bases nitrogenadas de ambas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hebras son antiparalelas, y entre las bases se forman puentes de hidrógeno, no enlaces covalentes entre hebras."
+        },
+        {
+          "letter": "B",
+          "text": "Son dos hebras antiparalelas unidas por puentes de hidrógeno entre los grupos fosfato de cada una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los puentes de hidrógeno se forman entre las bases nitrogenadas; los fosfatos forman el esqueleto y cargan la molécula."
+        },
+        {
+          "letter": "C",
+          "text": "Son dos hebras antiparalelas unidas por enlaces peptídicos entre los aminoácidos de las bases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces peptídicos unen aminoácidos en las proteínas y no aparecen en la estructura del ADN."
+        },
+        {
+          "letter": "D",
+          "text": "Son dos hebras antiparalelas unidas por puentes de hidrógeno entre bases complementarias, con el apilamiento de las bases como factor principal de estabilidad y dos surcos, el mayor y el menor.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe la doble hélice: hebras antiparalelas, puentes de hidrógeno, apilamiento de bases y surcos mayor y menor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ADN es una doble hélice dextrógira, descrita por Watson y Crick en mil novecientos cincuenta y tres a partir de los datos de Chargaff y de los difractogramas de rayos X de Rosalind Franklin. Sus dos hebras son antiparalelas: mientras una va de 5' a 3', la otra va de 3' a 5', y esa disposición explica que la síntesis del ADN y del ARN ocurra siempre en dirección 5' a 3'. El esqueleto de cada hebra se forma por enlaces fosfodiéster entre el oxígeno del grupo fosfato y el carbono 3' de la desoxirribosa, con un grupo fosfato por nucleótido. Las bases quedan hacia el interior y se aparean por puentes de hidrógeno, mientras que el apilamiento de los anillos de los pares de bases consecutivos aporta la mayor parte de la estabilidad. La disposición de los espirales genera un surco mayor y uno menor, que sirven como sitios de reconocimiento para proteínas. La forma B, la más común, tiene unas diez parejas de bases por vuelta y un diámetro cercano a los dos nanómetros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v8",
+      "statement": "Después de una ronda de replicación del ADN, ¿cómo está formada cada una de las dos moléculas resultantes?",
+      "context": "En un laboratorio de Boyacá se marca el ADN con un isótopo radiactivo y se sigue su comportamiento después de una división celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada molécula está formada por dos hebras nuevas, porque la hebra original se degradó al separarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde al modelo dispersivo y contradice los experimentos que muestran hebras originales en las células hijas."
+        },
+        {
+          "letter": "B",
+          "text": "Cada molécula está formada por una hebra original conservada y una hebra nueva, como predice el modelo semiconservativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La replicación es semiconservativa: cada molécula hija conserva media molécula original y recibe media de síntesis nueva."
+        },
+        {
+          "letter": "C",
+          "text": "Cada molécula está formada por dos hebras originales, copiadas sin aportar material nuevo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde al modelo conservador, que fue descartado porque las células hijas no repiten las dos hebras iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Solo una de las dos moléculas conserva material original, y la otra es íntegramente nueva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la replicación semiconservativa las dos moléculas hijas conservan una hebra original, no solo una de ellas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La replicación del ADN es un proceso semiconservativo, tal como lo propuso el modelo de Watson y Crick y lo respaldaron los experimentos de Meselson y Stahl. Al separarse las dos hebras, cada una sirve de molde y de cada una se sintetiza una hebra nueva, de modo que cada molécula resultante conserva una hebra original y otra de síntesis reciente. Lo que debe reproducirse con fidelidad es la secuencia, y para que esto ocurra la ADN polimerasa solo puede incorporar nucleótidos en el extremo 3', por lo que la hebra nueva siempre se alarga en dirección 5' a 3'. La síntesis es continua en la hebra de avance y, en la hebra de retraso, se forman fragmentos de Okazaki, unidos después por la enzima ligasa. La lectura de prueba con actividad exonucleasa de 3' a 5' de la ADN polimerasa corrige los nucleótidos incorporados por error; si un error queda sin corregir, se convierte en una mutación y, cuando ocurre en una célula germinal, puede heredarse a la descendencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v9",
+      "statement": "Según el modelo clásico del operón lac de la bacteria Escherichia coli, ¿qué ocurre con la transcripción de los genes lacZ, lacY y lacA?",
+      "context": "En un laboratorio de microbiología de la Universidad de los Andes se cultiva Escherichia coli primero en un medio con lactosa y después en uno con glucosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ARN polimerasa se une directamente a la lactosa y transcribe los genes, porque la lactosa es el factor activador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ARN polimerasa se une al promotor, y el inductor que libera la transcripción es la alolactosa, no la lactosa directa."
+        },
+        {
+          "letter": "B",
+          "text": "El represor se une a la lactosa y bloquea la transcripción de los genes del operón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El represor se une al inductor para perder su actividad, no para bloquear la transcripción de los genes."
+        },
+        {
+          "letter": "C",
+          "text": "La glucosa presente en el medio activa la transcripción, porque es la fuente de energía que la bacteria necesita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glucosa provoca una regulación por catabolitos: cuando hay glucosa baja el AMPc y la transcripción del operón es mínima."
+        },
+        {
+          "letter": "D",
+          "text": "La lactosa, mediante su derivado la alolactosa, se une al represor y permite que la ARN polimerasa transcriba los genes del operón.",
+          "is_correct": true,
+          "feedback": "Correcto. La alolactosa desactiva el represor, que se separa del operador, y la ARN polimerasa puede transcribir el operón."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El dogma central describe el flujo de la información genética del ADN al ARN y del ARN a la proteína, y las células regulan en qué momento se ejecuta cada paso. En bacterias, la regulación ocurre con frecuencia en el paso de la transcripción, como ilustra el operón lac de la Escherichia coli, que vive en el intestino de los animales de sangre caliente y que la biología usa como modelo. El operón reúne un promotor, un operador y tres genes estructurales, lacZ, lacY y lacA, que codifican la enzima beta-galactosidasa, la permeasa y la transgalactosasa, necesarias para aprovechar la lactosa. En ausencia de lactosa, una proteína represora se une al operador y bloquea a la ARN polimerasa. Cuando hay lactosa, la bacteria la convierte en alolactosa, y esa molécula se une al represor y lo separa del operador. Además, la concentración de glucosa ajusta la intensidad de la transcripción: con poca glucosa aumenta el AMPc, se activa la proteína CAP y la transcripción es alta; con mucha glucosa, la transcripción es mínima.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v10",
+      "statement": "En una prueba de orientación familiar, el equipo comparó tres muestras por reacción en cadena de la polimerasa y obtuvo un gel con una banda para la madre, una banda de la misma altura para el niño y para el supuesto padre, y ninguna banda en el control negativo. ¿Cuál es la evaluación más completa y correcta de ese resultado?",
+      "context": "En un proyecto escolar de Bucaramanga, un equipo amplifica por reacción en cadena de la polimerasa un fragmento de ADN y luego separa los productos en un gel de agarosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resultado apoya la hipótesis de paternidad y la ausencia de bandas en el control negativo indica que no hubo contaminación con ADN ajeno al experimento.",
+          "is_correct": true,
+          "feedback": "Correcto. Interpreta el gel en sus dos dimensiones y recuerda que el control negativo sin banda descarta la contaminación del montaje."
+        },
+        {
+          "letter": "B",
+          "text": "El resultado demuestra la paternidad sin lugar a dudas, porque la coincidencia de bandas basta para probarla ante un juez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coincidencia de bandas apoya la hipótesis, pero el peritaje se expresa como un índice de paternidad y una probabilidad, no como certeza."
+        },
+        {
+          "letter": "C",
+          "text": "El resultado no aporta información, porque en toda prueba el gel debe mostrar el mismo número de bandas en todas las muestras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de bandas depende del genotipo de cada persona, y lo que se compara entre muestras es la altura de las bandas marcadoras."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado es inválido, porque el control negativo de una reacción en cadena de la polimerasa debe mostrar bandas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El control negativo debe permanecer sin banda, y eso es justamente lo que demuestra que el montaje no se contaminó."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reacción en cadena de la polimerasa amplifica un fragmento de ADN mediante ciclos que repiten tres pasos: desnaturalización, en la que las hebras se separan por calor; anillamiento, en el que los cebadores se aparean con su secuencia complementaria; y elongación, en la que una ADN polimerasa estable al calor, como la Taq, extiende los cebadores. Al terminar los ciclos se obtiene un gran número de copias del fragmento, suficiente para analizarlo. La electroforesis en gel de agarosa separa esos fragmentos según su tamaño, y las bandas más cortas se desplazan más lejos que las más largas. La huella genética se apoya en secuencias muy variables entre individuos, como las repeticiones en tandem y los microsatélites, que generan un patrón de bandas prácticamente personal. El control negativo, al que no se le añade ADN de las muestras, debe permanecer sin banda: si mostrara una, indicaría contaminación y el resultado completo se descartaría. Aun con un control limpio, la conclusión se expresa como un índice de paternidad y no como una certeza absoluta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v11",
+      "statement": "Un equipo de investigación conserva los perfiles de ADN de personas a las que identificó en un estudio sobre diversidad genética en el Amazonas, y un investigador de otra universidad pide acceso a esos perfiles sin autorización de los participantes. ¿Cuál es la evaluación más completa y correcta de esa solicitud?",
+      "context": "En un laboratorio de pruebas genéticas de Medellín, un investigador que participa en un estudio de diversidad en el Amazonas pide los perfiles de ADN de otro equipo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La solicitud es procedente, porque los perfiles se obtuvieron de muestras biológicas ya analizadas y ahora son datos públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Analizar una muestra no la convierte en información pública, y la Corte Constitucional ubica la información genética entre los datos reservados."
+        },
+        {
+          "letter": "B",
+          "text": "La solicitud no es procedente, porque la información genética es reservada y solo puede tratarse para la finalidad autorizada y con consentimiento del titular.",
+          "is_correct": true,
+          "feedback": "Correcto. La información genética recibe la mayor protección y no puede entregarse a terceros sin base legal y sin consentimiento del titular."
+        },
+        {
+          "letter": "C",
+          "text": "La solicitud es procedente, porque la investigación científica autoriza el uso de datos genéticos sin necesidad de consentimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La investigación no elimina ese deber: las normas exigen autorización previa, informada y una finalidad constitucionalmente legítima."
+        },
+        {
+          "letter": "D",
+          "text": "La solicitud se analiza solo si quien la formula trabaja en el sistema de salud o en una universidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección de los datos personales no se limita a esas instituciones: alcanza a laboratorios, empresas y cualquier entidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En Colombia, el artículo 15 de la Constitución reconoce a toda persona el derecho a conocer, actualizar y rectificar las informaciones recogidas sobre ella en bases de datos, garantía que la jurisprudencia constitucional denomina hábeas data o autodeterminación informativa. La Corte Constitucional ha identificado dentro de esa garantía tres derechos diferenciados: la intimidad, el buen nombre y el hábeas data. En la sentencia C-640 de 2010 la Corte reiteró la tipología establecida en la sentencia T-729 de 2002, que ordena la información en pública, semiprivada, privada y reservada, y coloca la información genética dentro de la categoría reservada, por su relación directa con la dignidad, la intimidad y la libertad. Además, en la sentencia C-334 de 2010 declaró condicionadamente exequible el acceso a bancos de muestras biológicas, de sangre, de esperma o de laboratorios clínicos, para cotejar exámenes de ADN, estableciendo que ese cotejo requiere autorización previa del juez de control de garantías. De ese carácter reservado se derivan cinco principios: libertad, finalidad, necesidad, veracidad e integridad. La Ley Estatutaria 1581 de 2012 desarrolla la garantía, exige autorización previa, informada y libre del titular salvo mandato legal o judicial, y fue reglamentada parcialmente por el Decreto 1377 de 2013.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle-v12",
+      "statement": "Se ha observado que en zonas con malaria endémica, como el Amazonas, quienes presentan anemia falciforme o talasemia sufren con menor frecuencia malaria grave. ¿Qué explicación es la más adecuada para ese hallazgo?",
+      "context": "Un equipo de salud de Leticia documenta la respuesta de pacientes con malaria a la anemia falciforme y a la talasemia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la hemoglobina alterada hace que el mosquito pique con menos frecuencia, por lo que se transmite menos malaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección se produce en quien tiene la hemoglobina alterada, porque el Plasmodium se desarrolla mal en su glóbulo rojo, no en el mosquito."
+        },
+        {
+          "letter": "B",
+          "text": "Que el glóbulo rojo con hemoglobina falciforme tiene una membrana gruesa que impide la entrada del parasite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana del glóbulo falciforme no bloquea la entrada: el parasite sí lo invade, pero se desarrolla mal en su interior."
+        },
+        {
+          "letter": "C",
+          "text": "Que las células con hemoglobina alterada reducen el desarrollo del Plasmodium en su interior, de modo que la parasitemia es menor y la malaria es menos grave.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe el efecto de la hemoglobinopatía sobre el parasite, que limita su multiplicación y con ello la gravedad de la enfermedad."
+        },
+        {
+          "letter": "D",
+          "text": "Que los glóbulos rojos de las personas con hemoglobinopatías son más abundantes, y por eso el parasite se multiplica más.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la anemia falciforme y en la talasemia hay anemia, no abundancia de glóbulos rojos, y la parasitemia es menor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La anemia falciforme y la talasemia son hemoglobinopatías definidas por mutaciones en los genes que codifican las cadenas de la hemoglobina. En la anemia falciforme, una sola base nitrogenada sustituida en el gen de la beta-globina cambia el codón, y el aminoácido resultante es la valina en lugar del ácido glutámico, de modo que la molécula se polimeriza y el glóbulo rojo adopta forma de hoz; en las formas graves de la talasemia, en cambio, disminuye la producción de cadenas beta. Estas variantes se asocian a una menor gravedad de malaria por el Plasmodium falciparum porque el parasite se desarrolla mal en el eritrocito con hemoglobina alterada, lo que reduce su multiplicación, la parasitemia y el daño al huésped. Es un ejemplo de selección natural por equilibrio, y también explica por qué estas variantes son frecuentes en regiones donde el mosquito transmite malaria y resultan mucho más raras en regiones donde el vector ha desaparecido. La relación es de protección y no de inmunidad completa: la persona con anemia falciforme puede seguir presentando malaria, aunque con menor gravedad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-10-2026-W27-acids-nucleicos-y-sintesis-de-proteinas-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
