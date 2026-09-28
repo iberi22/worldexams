@@ -101,7 +101,7 @@
     },
     {
       "id": "CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle-v3",
-      "statement": "Un tanque contiene agua de densidad 1 000 kg/m. Cuál es la presión hidrostática a 8 m de profundidad, tomando g = 9,8 m/s?",
+      "statement": "Un tanque contiene agua de densidad 1 000 kg/m³. ¿Cuál es la presión hidrostática a 8 m de profundidad, tomando g = 9,8 m/s²?",
       "context": "En una práctica de laboratorio en un colegio de Neiva, un grupo mide la presión en el fondo de una columna de agua dentro de un tanque transparente.",
       "options": [
         {
@@ -118,7 +118,7 @@
         },
         {
           "letter": "C",
-          "text": "78 400 Pa, porque P =  · g · h.",
+          "text": "78 400 Pa, porque la presión se obtiene con P = ρ · g · h.",
           "is_correct": true,
           "feedback": "Correcto. El producto 1 000 × 9,8 × 8 da 78 400 Pa, equivalente a 78,4 kPa por debajo de la superficie."
         },
@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "La presión hidrostática en el fondo de un líquido se calcula con P =  · g · h, donde  es la densidad, g la aceleración de la gravedad y h la profundidad. Con los datos, 1 000 kg/m × 9,8 m/s × 8 m da 78 400 Pa. Este valor corresponde a la presión debida al propio líquido; si se mide con un manómetro, la lectura total incluye además la presión atmosférica. understanding este cálculo es indispensable en trabajos de ingeniería civil, en.ocidental el diseño de presas y en el funcionamiento de los sifones.",
+      "explanation": "La presión hidrostática en el fondo de un líquido se calcula con P = ρ · g · h, donde ρ es la densidad del líquido, g la aceleración de la gravedad y h la profundidad. Con los datos, 1 000 kg/m³ × 9,8 m/s² × 8 m da 78 400 Pa. Este valor corresponde a la presión debida al propio líquido; si se mide con un manómetro, la lectura total incluye además la presión atmosférica. Comprender este cálculo es indispensable en los trabajos de ingeniería civil, en el diseño de presas y en el funcionamiento de los sifones.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -147,7 +147,7 @@
     },
     {
       "id": "CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle-v4",
-      "statement": "Un elevador hidráulico tiene un pistón pequeño de 0,005 m de área y uno grande de 0,5 m. Si se aplican 200 N sobre el pistón pequeño, qué fuerza se obtiene en el grande?",
+      "statement": "Un elevador hidráulico tiene un pistón pequeño de 0,005 m² de área y uno grande de 0,5 m². Si se aplican 200 N sobre el pistón pequeño, ¿qué fuerza se obtiene en el grande?",
       "context": "En un taller de un colegio de Bogotá, un grupo construye un elevador hidráulico con dos cilindros de distinto diámetro y comprueba su ventaja mecánica.",
       "options": [
         {
@@ -160,7 +160,7 @@
           "letter": "B",
           "text": "20 000 N, porque la presión se transmite intacta y la fuerza crece en proporción a las áreas.",
           "is_correct": true,
-          "feedback": "Correcto. La relación es 0,5 / 0,005 = 100, de modo que 200 N multiplicados por 100 dan 20 000 N sobre el pistón grande."
+          "feedback": "Correcto. La relación entre las áreas es 0,5 / 0,005 = 100, de modo que 200 N multiplicados por 100 dan 20 000 N sobre el pistón grande."
         },
         {
           "letter": "C",
@@ -193,14 +193,14 @@
     },
     {
       "id": "CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle-v5",
-      "statement": "Un bloque de 2,0 × 10⁻³ m tiene una densidad de 800 kg/m y se coloca en agua de 1 000 kg/m. Tomando g = 9,8 m/s, qué ocurre con el bloque?",
+      "statement": "Un bloque de 2,0 × 10⁻³ m³ tiene una densidad de 800 kg/m³ y se coloca en agua de 1 000 kg/m³. Tomando g = 9,8 m/s², ¿qué ocurre con el bloque?",
       "context": "En una piscina municipal de un colegio de Santa Marta, un grupo de estudiantes prueba un bloque de madera con un dinamómetro y un recipiente con agua.",
       "options": [
         {
           "letter": "A",
           "text": "Flota, porque el empuje de 19,6 N supera a su peso de 15,68 N.",
           "is_correct": true,
-          "feedback": "Correcto. El empuje vale 1 000 × 2,0 × 10⁻ × 9,8 = 19,6 N y el peso 800 × 2,0 × 10⁻ × 9,8 = 15,68 N, así que el empuje gana."
+          "feedback": "Correcto. El empuje vale 1 000 × 2,0 × 10⁻³ × 9,8 = 19,6 N y el peso 800 × 2,0 × 10⁻³ × 9,8 = 15,68 N, así que el empuje gana."
         },
         {
           "letter": "B",
@@ -285,7 +285,7 @@
     },
     {
       "id": "CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle-v7",
-      "statement": "El agua fluye por una tubería que se estrecha: la sección pasa de 0,02 m a 0,005 m, y la velocidad en la parte ancha es de 2 m/s. Cuál es la velocidad en la parte estrecha?",
+      "statement": "El agua fluye por una tubería que se estrecha: la sección pasa de 0,02 m² a 0,005 m², y la velocidad en la parte ancha es de 2 m/s. ¿Cuál es la velocidad en la parte estrecha?",
       "context": "En un taller de un colegio de Cúcuta, un grupo construye un modelo de tubería de dos calibres y mide la velocidad del agua en cada tramo.",
       "options": [
         {
@@ -304,7 +304,7 @@
           "letter": "C",
           "text": "8 m/s, porque a caudal constante la velocidad aumenta en proporción inversa al área.",
           "is_correct": true,
-          "feedback": "Correcto. La continuidad exige que v·A sea constante, de modo que 2 × 0,02 = 0,005 · v y v resulta 8 m/s."
+          "feedback": "Correcto. La continuidad exige que el producto de velocidad y área sea constante, de modo que 2 × 0,02 = 0,005 · v y v resulta 8 m/s."
         },
         {
           "letter": "D",
@@ -314,7 +314,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "La ecuación de continuidad para un líquido incompresible establece que el producto entre la velocidad y el área de la sección es constante a lo largo de una tubería. Esto significa que, si el área disminuye, la velocidad aumenta de manera inversamente proporcional. En el caso numérico, el producto inicial es 2 m/s por 0,02 m, y al pasarlo a la sección de 0,005 m se obtiene una velocidad de 8 m/s. Comprender esta relación es esencial para entender por qué el agua que sale de una manguera forma un chorro más rápido y más estrecho en la boquilla.",
+      "explanation": "La ecuación de continuidad para un líquido incompresible establece que el producto entre la velocidad y el área de la sección es constante a lo largo de una tubería. Esto significa que, si el área disminuye, la velocidad aumenta de manera inversamente proporcional. En el caso numérico, el producto inicial es 2 m/s por 0,02 m², y al pasarlo a la sección de 0,005 m² se obtiene una velocidad de 8 m/s. Comprender esta relación es esencial para entender por qué el agua que sale de una manguera forma un chorro más rápido y más estrecho en la boquilla.",
       "difficulty": "8",
       "images": [],
       "tags": [],

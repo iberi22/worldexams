@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas sobre fluidos para grado 9, alineadas con los DB
 **Contexto:** En el taller de física de un colegio de Manizales, un grupo compara dos exertices de la misma fuerza aplicadas sobre áreas de distinto tamaño.
 
 ### Enunciado
-De qué magnitud y de qué factores depende la presión que ejerce una fuerza sobre una superficie?
+De qué magnitud y de qué factores depende la presión ¿que ejerce una fuerza sobre una superficie?
 
 ### Opciones
 - [x] A) De la relación entre la magnitud de la fuerza y el área de la superficie, es decir, P = F / A.
@@ -54,7 +54,7 @@ La presión es una magnitud que relaciona la fuerza ejercida con la superficie s
 **Contexto:** En el laboratorio de un colegio de Cartagena, dos recipientes de distinta forma y distinto ancho se llenan con agua hasta la misma altura.
 
 ### Enunciado
-Dos recipientes de formas diferentes se llenan con agua hasta la misma altura. Qué ocurre con la presión que el agua ejerce sobre el fondo de cada recipiente?
+Dos recipientes de formas diferentes se llenan con agua hasta la misma altura. Qué ocurre con la presión ¿que el agua ejerce sobre el fondo de cada recipiente?
 
 ### Opciones
 - [ ] A) Es mayor en el recipiente más ancho, porque el agua tiene más peso apoyado sobre una superficie más grande.
@@ -77,20 +77,20 @@ Un resultado clásico de la hidrostática es que la presión en un líquido en r
 **Contexto:** En una práctica de laboratorio en un colegio de Neiva, un grupo mide la presión en el fondo de una columna de agua dentro de un tanque transparente.
 
 ### Enunciado
-Un tanque contiene agua de densidad 1 000 kg/m. Cuál es la presión hidrostática a 8 m de profundidad, tomando g = 9,8 m/s?
+Un tanque contiene agua de densidad 1 000 kg/m³. ¿Cuál es la presión hidrostática a 8 m de profundidad, tomando g = 9,8 m/s²?
 
 ### Opciones
 - [ ] A) 1 000 Pa, porque solo cuenta la densidad del agua, sin importar la profundidad.
   <!-- feedback: Incorrecto. Omite la gravedad y la profundidad, que son los factores que hacen crecer la presión con el descenso. -->
 - [ ] B) 12 800 Pa, porque la presión corresponde a la suma de la densidad con la gravedad y la profundidad.
   <!-- feedback: Incorrecto. La relación es un producto, no una suma: sumar las tres magnitudes no tiene significado físico. -->
-- [x] C) 78 400 Pa, porque P =  · g · h.
+- [x] C) 78 400 Pa, porque la presión se obtiene con P = ρ · g · h.
   <!-- feedback: Correcto. El producto 1 000 × 9,8 × 8 da 78 400 Pa, equivalente a 78,4 kPa por debajo de la superficie. -->
 - [ ] D) 7 840 Pa, porque la profundidad se resta en lugar de multiplicarse.
   <!-- feedback: Incorrecto. La profundidad se multiplica: al dividirla se obtiene un valor diez veces menor que el real. -->
 
 ### Explicacion Pedagogica
-La presión hidrostática en el fondo de un líquido se calcula con P =  · g · h, donde  es la densidad, g la aceleración de la gravedad y h la profundidad. Con los datos, 1 000 kg/m × 9,8 m/s × 8 m da 78 400 Pa. Este valor corresponde a la presión debida al propio líquido; si se mide con un manómetro, la lectura total incluye además la presión atmosférica. understanding este cálculo es indispensable en trabajos de ingeniería civil, en.ocidental el diseño de presas y en el funcionamiento de los sifones.
+La presión hidrostática en el fondo de un líquido se calcula con P = ρ · g · h, donde ρ es la densidad del líquido, g la aceleración de la gravedad y h la profundidad. Con los datos, 1 000 kg/m³ × 9,8 m/s² × 8 m da 78 400 Pa. Este valor corresponde a la presión debida al propio líquido; si se mide con un manómetro, la lectura total incluye además la presión atmosférica. Comprender este cálculo es indispensable en los trabajos de ingeniería civil, en el diseño de presas y en el funcionamiento de los sifones.
 
 ## Question 4 [D5-D6]
 **ID:** CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle-v4
@@ -100,13 +100,13 @@ La presión hidrostática en el fondo de un líquido se calcula con P =  · g ·
 **Contexto:** En un taller de un colegio de Bogotá, un grupo construye un elevador hidráulico con dos cilindros de distinto diámetro y comprueba su ventaja mecánica.
 
 ### Enunciado
-Un elevador hidráulico tiene un pistón pequeño de 0,005 m de área y uno grande de 0,5 m. Si se aplican 200 N sobre el pistón pequeño, qué fuerza se obtiene en el grande?
+Un elevador hidráulico tiene un pistón pequeño de 0,005 m² de área y uno grande de 0,5 m². Si se aplican 200 N sobre el pistón pequeño, ¿qué fuerza se obtiene en el grande?
 
 ### Opciones
 - [ ] A) 10 000 N, porque el factor de amplificación es la mitad de la relación entre las áreas.
   <!-- feedback: Incorrecto. El factor es la relación completa entre las áreas, que es 100, y no la mitad de esa cifra. -->
 - [x] B) 20 000 N, porque la presión se transmite intacta y la fuerza crece en proporción a las áreas.
-  <!-- feedback: Correcto. La relación es 0,5 / 0,005 = 100, de modo que 200 N multiplicados por 100 dan 20 000 N sobre el pistón grande. -->
+  <!-- feedback: Correcto. La relación entre las áreas es 0,5 / 0,005 = 100, de modo que 200 N multiplicados por 100 dan 20 000 N sobre el pistón grande. -->
 - [ ] C) 200 N, porque el líquido transmite la fuerza sin amplificarla.
   <!-- feedback: Incorrecto. La presión sí se conserva, pero como el área del pistón grande es mayor, la fuerza resultante es mucho mayor. -->
 - [ ] D) 2 N, porque la fuerza se reduce en la misma proporción en que crece el área.
@@ -123,7 +123,7 @@ El principio de Pascal establece que la presión aplicada a un fluido contenido 
 **Contexto:** En una piscina municipal de un colegio de Santa Marta, un grupo de estudiantes prueba un bloque de madera con un dinamómetro y un recipiente con agua.
 
 ### Enunciado
-Un bloque de 2,0 × 10⁻³ m³ tiene una densidad de 800 kg/m y se coloca en agua de 1 000 kg/m. Tomando g = 9,8 m/s, qué ocurre con el bloque?
+Un bloque de 2,0 × 10⁻³ m³ tiene una densidad de 800 kg/m³ y se coloca en agua de 1 000 kg/m³. Tomando g = 9,8 m/s², ¿qué ocurre con el bloque?
 
 ### Opciones
 - [x] A) Flota, porque el empuje de 19,6 N supera a su peso de 15,68 N.
@@ -146,7 +146,7 @@ El principio de Arquímedes afirma que todo cuerpo sumergido en un fluido experi
 **Contexto:** En una práctica de laboratorio de un colegio de Villavicencio, el grupo compara dos recipientes de bases de distinto tamaño conectados por un tubo con agua.
 
 ### Enunciado
-Dos recipientes de base ancha y de base estrecha están conectados por un tubo y contienen agua hasta el mismo nivel. Qué se espera observar en el nivel del agua de cada recipiente?
+Dos recipientes de base ancha y de base estrecha están conectados por un tubo y contienen agua hasta el mismo nivel. ¿Qué se espera observar en el nivel del agua de cada recipiente?
 
 ### Opciones
 - [ ] A) El nivel es más alto en el recipiente de base ancha, porque sostiene más peso de agua.
@@ -169,20 +169,20 @@ El principio de los vasos comunicantes afirma que cuando dos recipientes están 
 **Contexto:** En un taller de un colegio de Cúcuta, un grupo construye un modelo de tubería de dos calibres y mide la velocidad del agua en cada tramo.
 
 ### Enunciado
-El agua fluye por una tubería que se estrecha: la sección pasa de 0,02 m a 0,005 m, y la velocidad en la parte ancha es de 2 m/s. Cuál es la velocidad en la parte estrecha?
+El agua fluye por una tubería que se estrecha: la sección pasa de 0,02 m² a 0,005 m², y la velocidad en la parte ancha es de 2 m/s². ¿Cuál es la velocidad en la parte estrecha?
 
 ### Opciones
-- [ ] A) 4 m/s, porque el área se reduce a la mitad y la velocidad se duplica por cada reducción.
+- [ ] A) 4 m/s², porque el área se reduce a la mitad y la velocidad se duplica por cada reducción.
   <!-- feedback: Incorrecto. El área se reduce a la cuarta parte, de modo que la velocidad se cuadruplica, no se duplica. -->
-- [ ] B) 2 m/s, porque la velocidad de un líquido en un tubo es siempre la misma a lo largo de todo el recorrido.
+- [ ] B) 2 m/s², porque la velocidad de un líquido en un tubo es siempre la misma a lo largo de todo el recorrido.
   <!-- feedback: Incorrecto. La igualdad de velocidades solo se cumple en tuberías de sección constante; aquí la sección cambia. -->
-- [x] C) 8 m/s, porque a caudal constante la velocidad aumenta en proporción inversa al área.
-  <!-- feedback: Correcto. La continuidad exige que v·A sea constante, de modo que 2 × 0,02 = 0,005 · v y v resulta 8 m/s. -->
-- [ ] D) 0,5 m/s, porque la velocidad disminuye en proporción directa al área.
+- [x] C) 8 m/s², porque a caudal constante la velocidad aumenta en proporción inversa al área.
+  <!-- feedback: Correcto. La continuidad exige que el producto de velocidad y área sea constante, de modo que 2 × 0,02 = 0,005 · v y v resulta 8 m/s². -->
+- [ ] D) 0,5 m/s², porque la velocidad disminuye en proporción directa al área.
   <!-- feedback: Incorrecto. Invierte la relación: al reducirse el área, la velocidad aumenta, y no disminuye proporcionalmente. -->
 
 ### Explicacion Pedagogica
-La ecuación de continuidad para un líquido incompresible establece que el producto entre la velocidad y el área de la sección es constante a lo largo de una tubería. Esto significa que, si el área disminuye, la velocidad aumenta de manera inversamente proporcional. En el caso numérico, el producto inicial es 2 m/s por 0,02 m, y al pasarlo a la sección de 0,005 m se obtiene una velocidad de 8 m/s. Comprender esta relación es esencial para entender por qué el agua que sale de una manguera forma un chorro más rápido y más estrecho en la boquilla.
+La ecuación de continuidad para un líquido incompresible establece que el producto entre la velocidad y el área de la sección es constante a lo largo de una tubería. Esto significa que, si el área disminuye, la velocidad aumenta de manera inversamente proporcional. En el caso numérico, el producto inicial es 2 m/s² por 0,02 m², y al pasarlo a la sección de 0,005 m² se obtiene una velocidad de 8 m/s². Comprender esta relación es esencial para entender por qué el agua que sale de una manguera forma un chorro más rápido y más estrecho en la boquilla.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle-v8
@@ -192,7 +192,7 @@ La ecuación de continuidad para un líquido incompresible establece que el prod
 **Contexto:** En un aula de un colegio de Tunja, la profesora coloca una tira de papel sobre un tubo y pide al grupo que soplen por el otro extremo.
 
 ### Enunciado
-Al pasar aire por un tubo, la tira de papel se levanta y se mantiene en el aire. Qué principio explica ese fenómeno?
+Al pasar aire por un tubo, la tira de papel se levanta y se mantiene en el aire. ¿Qué principio explica ese fenómeno?
 
 ### Opciones
 - [ ] A) La presión atmosférica por sí sola, porque la tira es más ligera que el aire que la rodea.
@@ -215,7 +215,7 @@ El teorema de Bernoulli establece que en el flujo de un fluido, donde la velocid
 **Contexto:** En un proyecto de grado 9 de un colegio de Popayán, el grupo estudia la estructura de una represa y la relaciona con los principios de los fluidos.
 
 ### Enunciado
-Las grandes presas se construyen con una base más ancha que la parte superior. Qué justificación es la más adecuada?
+Las grandes presas se construyen con una base más ancha que la parte superior. ¿Qué justificación es la más adecuada?
 
 ### Opciones
 - [x] A) Porque la presión hidrostática crece con la profundidad, de modo que la base debe soportar los mayores valores de presión y de fuerza.
@@ -238,7 +238,7 @@ La forma de una presa es una consecuencia directa de la presión hidrostática. 
 **Contexto:** En una visita guiada por el río Magdalena, un guía turístico explica por qué un barco de carga no se hunde.
 
 ### Enunciado
-Un guía afirma que "un barco flota porque es ligero". Cómo debe evaluarse esa explicación?
+Un guía afirma que "un barco flota porque es ligero". ¿Cómo debe evaluarse esa explicación?
 
 ### Opciones
 - [ ] A) Es correcta, porque cualquier objeto de masa pequeña flota sin importar el volumen que desplaza.
@@ -261,7 +261,7 @@ La flotación se explica con el principio de Arquímedes, no con la masa aislada
 **Contexto:** En un colegio de Cartagena, un grupo prepara una maqueta de un submarino y se propone explicar cómo se hunde y emerge sin motor.
 
 ### Enunciado
-Un submarino tiene tanques de lastre que se llenan con agua y luego se vacían con aire comprimido. Cómo se explica que pueda sumergirse y luego emerger sin ayuda de un motor?
+Un submarino tiene tanques de lastre que se llenan con agua y luego se vacían con aire comprimido. Cómo se explica ¿que pueda sumergirse y luego emerger sin ayuda de un motor?
 
 ### Opciones
 - [ ] A) Al vaciar los tanques, el agua que estaba dentro sube a la superficie y sale despedida por el mar.
@@ -284,7 +284,7 @@ El mecanismo de inmersión de un submarino se apoya en la relación entre masa y
 **Contexto:** En un proyecto de grado 9 de un colegio de Arauca, un equipo perfora una botella plástica y verifica la presión hidrostática con tres orificios.
 
 ### Enunciado
-Se perfora una botella con tres orificios a distintas alturas y se abre el flujo de agua. Qué observaciones permiten concluir sobre la relación entre presión y profundidad?
+Se perfora una botella con tres orificios a distintas alturas y se abre el flujo de agua. ¿Qué observaciones permiten concluir sobre la relación entre presión y profundidad?
 
 ### Opciones
 - [ ] A) Ninguno de los orificios deja salir agua, porque la botella está cerrada y no tiene orificio de entrada de aire.

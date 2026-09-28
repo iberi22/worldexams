@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas sobre la atmósfera y el clima para grado 9, ali
 **Contexto:** En el laboratorio de química de un colegio de Medellín, un grupo analiza una muestra de aire seco y la composición se presenta en un diagrama circular.
 
 ### Enunciado
-De qué está compuesto principalmente el aire seco de la atmósfera?
+¿De qué está compuesto principalmente el aire seco de la atmósfera?
 
 ### Opciones
 - [x] A) De nitrógeno, que representa cerca del 78 %, y oxígeno, que representa cerca del 21 %; el resto corresponde a gases como el argón y el dióxido de carbono.
@@ -54,7 +54,7 @@ El aire seco está compuesto principalmente por nitrógeno, con un 78 % aproxima
 **Contexto:** En una clase de grado 9 de Bogotá, la profesora presenta un gráfico de temperatura en función de la altitud y pide al grupo que lo interprete.
 
 ### Enunciado
-En la troposfera, la temperatura del aire disminuye a medida que aumenta la altitud. A qué se debe ese comportamiento?
+En la troposfera, la temperatura del aire disminuye a medida que aumenta la altitud. ¿A qué se debe ese comportamiento?
 
 ### Opciones
 - [ ] A) A que el aire superior recibe más radiación solar directa, porque la atmósfera es más transparente en las alturas altas.
@@ -77,7 +77,7 @@ La tropósfera es la capa más baja de la atmósfera, con un espesor aproximado 
 **Contexto:** En un experimento de grado 9 de Cartagena, un grupo mide la presión atmosférica al nivel del mar y calcula la fuerza sobre una superficie conocida.
 
 ### Enunciado
-Al nivel del mar, la presión atmosférica es de 101 325 Pa. Qué fuerza ejerce esa presión sobre una superficie horizontal de 1 m²?
+Al nivel del mar, la presión atmosférica es de 101 325 Pa. ¿Qué fuerza ejerce esa presión sobre una superficie horizontal de 1 m²?
 
 ### Opciones
 - [ ] A) 101 325 m, porque la presión atmosférica se expresa en unidades de longitud.
@@ -100,7 +100,7 @@ La presión atmosférica es la fuerza que la columna de aire sobre nosotros ejer
 **Contexto:** En una práctica de cocina de un colegio de Bogotá, un grupo mide la temperatura a la que hierve el agua en un olla a presión y otro sin tapa.
 
 ### Enunciado
-En Bogotá, cuya altura es de unos 2 640 m, el agua hierve a una temperatura ligeramente inferior a 100 °C. Cuál es la explicación física de ese hecho?
+En Bogotá, cuya altura es de unos 2 640 m, el agua hierve a una temperatura ligeramente inferior a 100 °C. ¿Cuál es la explicación física de ese hecho?
 
 ### Opciones
 - [ ] A) A que el fuego de la cocina de Bogotá es más débil que el de una cocina de la costa.
@@ -123,7 +123,7 @@ El punto de ebullición es la temperatura a la que la presión de vapor del líq
 **Contexto:** En un colegio de Cúcuta, la profesora explica por qué las noches de la sabana son más frías que las de la costa, usando un modelo de radiación infrarroja.
 
 ### Enunciado
-Qué gases de la atmósfera absorben con mayor intensidad la radiación infrarroja que emite la superficie terrestre?
+Qué gases de la atmósfera absorben con mayor intensidad la radiación infrarroja ¿que emite la superficie terrestre?
 
 ### Opciones
 - [x] A) El dióxido de carbono, el metano y el vapor de agua, porque vibran de un modo que les permite absorber radiación infrarroja.
@@ -146,7 +146,7 @@ Los gases de efecto invernadero son moléculas capaces de absorber y reemitir ra
 **Contexto:** En un proyecto de grado 9 de un colegio de Cartagena, un grupo compara datos de presión y temperatura de ebullición entre dos ciudades colombianas.
 
 ### Enunciado
-Bogotá se encuentra a unos 2 640 m de altitud y Cartagena prácticamente al nivel del mar. Qué comparación de sus condiciones atmosféricas es correcta?
+Bogotá se encuentra a unos 2 640 m de altitud y Cartagena prácticamente al nivel del mar. ¿Qué comparación de sus condiciones atmosféricas es correcta?
 
 ### Opciones
 - [ ] A) En Bogotá la presión atmosférica es mayor porque el aire frío pesa más, y por eso el agua hierve a más de 100 °C.
@@ -159,7 +159,7 @@ Bogotá se encuentra a unos 2 640 m de altitud y Cartagena prácticamente al niv
   <!-- feedback: Correcto. La presión disminuye con la altitud, de modo que la capital andina tiene menor presión y un punto de ebullición más bajo. -->
 
 ### Explicacion Pedagogica
-La presión atmosférica es el peso de la columna de aire que descansa sobre un punto. En una ciudad situada a gran altitud hay menos aire por encima, de modo que la presión es menor. En Cartagena, al nivel del mar, la columna de aire es la máxima y la presión alcanza 101 325 Pa. Esa Esa diferencia de presión explica que el punto de ebullición del agua sea menor en Bogotá y de 100 °C en la costa, un hecho con consecuencias prácticas en la cocina, en la presión de los neumáticos y en el funcionamiento de los motores.
+La presión atmosférica es el peso de la columna de aire que descansa sobre un punto. En una ciudad situada a gran altitud hay menos aire por encima, de modo que la presión es menor. En Cartagena, al nivel del mar, la columna de aire es la máxima y la presión alcanza 101 325 Pa. Esa diferencia de presión explica que el punto de ebullición del agua sea menor en Bogotá y de 100 °C en la costa, un hecho con consecuencias prácticas en la cocina, en la presión de los neumáticos y en el funcionamiento de los motores.
 
 ## Question 7 [D7-D8]
 **ID:** CO-CN-9-2026-W31-la-atmosfera-y-el-clima-001-MASTERY-bundle-v7
@@ -169,7 +169,7 @@ La presión atmosférica es el peso de la columna de aire que descansa sobre un 
 **Contexto:** En una clase de grado 9 de Ibagué, un grupo estudia la capa de ozono y sus consecuencias para la vida en la superficie.
 
 ### Enunciado
-La capa de ozono cumple una función-protectora. Cuál es esa función y por qué depende de la capa de ozono?
+La capa de ozono cumple una función-protectora. Cuál es esa función y ¿por qué depende de la capa de ozono?
 
 ### Opciones
 - [ ] A) Genera el oxígeno que las plantas necesitan para la fotosíntesis, y por eso su pérdida reduce la producción de oxígeno.
@@ -192,7 +192,7 @@ El ozono estratosférico se encuentra entre los 15 y los 35 km de altitud y abso
 **Contexto:** En un colegio de Bogotá, un grupo analiza reportes de la calidad del aire durante un episodio de contaminación y relaciona el tamaño de las partículas con sus efectos.
 
 ### Enunciado
-Por qué las partículas de material particulado fino, conocidas como PM2.5, son especialmente peligrosas para la salud?
+Por qué las partículas de material particulado fino, conocidas ¿como PM2.5, son especialmente peligrosas para la salud?
 
 ### Opciones
 - [ ] A) Porque bloquean la radiación solar y por eso reducen la fotosíntesis de las plantas. competitiveness.
@@ -215,7 +215,7 @@ Los organismos de control ambiental denominan material particulado a las partíc
 **Contexto:** En un ejercicio de análisis de datos de un colegio de Bogotá, un grupo compara las mediciones de PM2.5 de dos días distintos de la misma semana.
 
 ### Enunciado
-La norma colombiana fija para el material particulado PM2.5 un límite de 25 microgramos por metro cúbico como promedio de 24 horas. Qué interpretación es correcta si un día se registra un promedio de 75 microgramos por metro cúbico?
+La norma colombiana fija para el material particulado PM2.5 un límite de 25 microgramos por metro cúbico como promedio de 24 horas. ¿Qué interpretación es correcta si un día se registra un promedio de 75 microgramos por metro cúbico?
 
 ### Opciones
 - [x] A) El valor supera tres veces el límite normativo, lo que indica un nivel de contaminación peligroso para la salud de la población.
@@ -238,7 +238,7 @@ Los límites normativos de concentración de contaminantes se establecen para pr
 **Contexto:** En un foro de un colegio de Montería, un estudiante presenta una afirmación sobre el efecto invernadero y su relación con el cambio climático.
 
 ### Enunciado
-Un estudiante afirma que "el efecto invernadero es el único responsable del cambio climático actual". Cómo debe evaluarse esa afirmación?
+Un estudiante afirma que "el efecto invernadero es el único responsable del cambio climático actual". ¿Cómo debe evaluarse esa afirmación?
 
 ### Opciones
 - [ ] A) Es correcta, porque sin efecto invernadero la temperatura media de la Tierra sería muy baja y no habría vida.
@@ -261,7 +261,7 @@ El efecto invernadero natural describe el calentamiento de la superficie y la ba
 **Contexto:** En un consejo estudiantil de Bogotá, un grupo propone medidas para mejorar la calidad del aire del entorno escolar y las somete a crítica.
 
 ### Enunciado
-Un grupo propone reducir la contaminación del aire del colegio plantando árboles en la zona del parqueadero. Qué evaluación es más adecuada?
+Un grupo propone reducir la contaminación del aire del colegio plantando árboles en la zona del parqueadero. ¿Qué evaluación es más adecuada?
 
 ### Opciones
 - [ ] A) La medida es inútil, porque las plantas no tienen ninguna relación con la calidad del aire.
@@ -284,7 +284,7 @@ Evaluar una propuesta ambiental exige identificar la causa del problema y distin
 **Contexto:** En un proyecto de grado 9 de un colegio de Villavicencio, un grupo construye un detector casero de partículas y compara distintos ambientes.
 
 ### Enunciado
-Un grupo pega cinta transparente en un soporte y la expone en varios lugares, contando después las motas oscuras observadas al trasluz. Qué se puede concluir con rigor de ese procedimiento?
+Un grupo pega cinta transparente en un soporte y la expone en varios lugares, contando después las motas oscuras observadas al trasluz. ¿Qué se puede concluir con rigor de ese procedimiento?
 
 ### Opciones
 - [ ] A) Que la presencia de motas demuestra que en ese lugar el aire supera el límite normativo de concentración.
