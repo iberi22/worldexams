@@ -169,7 +169,7 @@ La doble rendija produce un patrón de franjas que solo se obtiene sumando las c
 **Contexto:** En un centro de investigación escolar de Bogotá, se prepara un microscopio electrónico y el grupo calcula la longitud de onda asociada a un haz de electrones.
 
 ### Enunciado
-Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s². Qué longitud de onda de de Broglie corresponde a esos electrones y ¿qué indica ese resultado?
+Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s. Qué longitud de onda de de Broglie corresponde a esos electrones y ¿qué indica ese resultado?
 
 ### Opciones
 - [ ] A) 4,9 × 10⁷ m, y muestra que la longitud de onda de la materia es muy mayor que la de la luz visible.
@@ -182,7 +182,7 @@ Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s².
   <!-- feedback: Incorrecto. Ese valor sale de omitir la velocidad en el denominador, y contradice la hipótesis de Broglie que se está calculando. -->
 
 ### Explicacion Pedagogica
-De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻³⁴ J·s dividido entre (9,11 × 10⁻³¹ kg × 1,5 × 10⁶ m/s²) da 4,85 × 10⁻¹⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.
+De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻³⁴ J·s dividido entre (9,11 × 10⁻³¹ kg × 1,5 × 10⁶ m/s) da 4,85 × 10⁻¹⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v8
