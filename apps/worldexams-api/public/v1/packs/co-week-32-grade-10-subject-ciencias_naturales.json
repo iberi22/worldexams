@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-32-grade-10-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T20:00:17.466Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v1",
+      "statement": "¿De qué está compuesto principalmente un suelo agrícola y qué efecto tiene la materia orgánica sobre su estructura?",
+      "context": "Un productor de café de Armenia, Quindío, describe el suelo de su lote mencionando partículas de distinto tamaño y el material oscuro que queda entre ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De arena, limo y arcilla como fracción mineral, más materia orgánica que agrupa las partículas y aumenta la retención de agua",
+          "is_correct": true,
+          "feedback": "Correcta. El suelo combina partículas minerales de distinto tamaño, materia orgánica en descomposición, agua, aire y organismos vivos; el humus actúa como pegamento natural de los agregados y aumenta la porosidad."
+        },
+        {
+          "letter": "B",
+          "text": "De arena y limo como fracción mineral, más materia orgánica que reduce la capacidad de retención de agua",
+          "is_correct": false,
+          "feedback": "Incorrecta. La arcilla también forma parte de la fracción mineral, y la materia orgánica no reduce la retención hídrica, sino que la incrementa."
+        },
+        {
+          "letter": "C",
+          "text": "De arcilla y sales minerales como únicos componentes, con materia orgánica que desaparece con la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecta. La arena y el limo son componentes esenciales del suelo, y la materia orgánica se mineraliza lentamente por la actividad microbiana, no se elimina de golpe con la lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "Exclusivamente de agua y materia mineral, sin aire ni materia orgánica en sus poros",
+          "is_correct": false,
+          "feedback": "Incorrecta. Un suelo activo necesita las fases sólida, líquida y gaseosa, y la materia orgánica es la fuente de energía de los microorganismos del suelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El suelo es un sistema de tres fases: la fase sólida, formada por partículas minerales y materia orgánica; la fase líquida, formada por agua con sales y nutrientes disueltos; y la fase gaseosa, formada por aire que ocupa los poros. La fracción mineral se clasifica por tamaño en arena, más gruesa, limo, intermedio, y arcilla, muy fina. La fracción orgánica proviene de residuos de plantas y animales que se transforman en humus. Ese humus es un agregante natural: une partículas finas en terrones estables, deja circular el aire y retiene más agua que el mineral puro, de modo que un suelo con materia orgánica resiste mejor las sequías.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué un suelo arenoso necesita riegos más frecuentes y un suelo arcilloso soporta intervalos más largos entreApplications de agua?",
+      "context": "En una finca del Meta, cerca de Villavicencio, se comparan un lote arenoso de la parte baja y un lote arcilloso de la parte alta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la arena retiene más agua que la arcilla gracias a su mayor superficie específica",
+          "is_correct": false,
+          "feedback": "Incorrecta. La arcilla posee la mayor superficie específica; la arena retiene muy poca agua y la libera con facilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el suelo arcilloso no admite agua de lluvia y solo recibe agua por riego",
+          "is_correct": false,
+          "feedback": "Incorrecta. El suelo arcilloso sí recibe agua de lluvia, pero la conduce muy lentamente y la guarda en poros pequeños, por eso se seca más tarde."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la arena forma poros grandes por donde el agua drena con rapidez, mientras la arcilla forma poros pequeños que retienen agua disponible para las raíces",
+          "is_correct": true,
+          "feedback": "Correcta. Los macroporos de la arena dejan escapar el agua gravitacional en horas; los microporos de la arcilla almacenan agua que la planta puede absorber durante más tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el suelo arenoso las raíces no pueden absorber agua y por eso la planta se inunda con el riego",
+          "is_correct": false,
+          "feedback": "Incorrecta. La capacidad de absorber agua depende de la humedad disponible y no de la raíz; en el suelo arenoso el agua está disponible, pero se agota pronto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La textura del suelo, es decir la proporción relativa de arena, limo y arcilla, determina el tamaño y la continuidad de los poros y con ello la velocidad de infiltración y el almacenamiento de agua. En un suelo arenoso las partículas están separadas y dejan poros amplios, por donde el agua circula y drena rápidamente, dejando un suelo que se seca en pocas horas. En un suelo arcilloso las partículas son diminutas y secompactan, formando poros estrechos que retienen agua y aire en proporciones distintas, aunque con más dificultad para la infiltración. Por eso los suelos arenosos necesitan riegos cortos y repetidos, y los arcillosos toleran pausas largas entre aplicaciones de agua.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la acidez del suelo restringe el café de la zona y qué efecto produce la aplicación de cal agrícola o de ceniza de caña?",
+      "context": "En el municipio de Ibagué, en el Tolima, una finca cafetera presenta un pH de 5,2 y la asesoría del INCODER recomienda un encalado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pH bajo aumenta la disponibilidad de todos los nutrientes y la cal baja el pH hasta hacerlo más ácido",
+          "is_correct": false,
+          "feedback": "Incorrecta. Un pH bajo restringe varios nutrientes en lugar de mejorar la disponibilidad general, y el encalado eleva el pH, nunca lo reduce."
+        },
+        {
+          "letter": "B",
+          "text": "El pH bajo disminuye la disponibilidad de calcio, magnesio y fósforo, y la cal o la ceniza elevan el pH y devuelven esos nutrientes a la planta",
+          "is_correct": true,
+          "feedback": "Correcta. En medio ácido el fósforo queda menos soluble y el calcio y el magnesio escasean; los carbonatos de la cal y de la ceniza neutralizan la acidez y liberan bases asimilables."
+        },
+        {
+          "letter": "C",
+          "text": "La acidez impide el crecimiento bacteriano y la ceniza aumenta la acidez porque aporta nitrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque la acidez reduce la actividad de algunas bacterias, la ceniza aporta carbonatos de calcio y potasio que corrigen la acidez en lugar de aumentarla."
+        },
+        {
+          "letter": "D",
+          "text": "La acidez no afecta los cultivos de clima frío y la cal solo sirve para dar color al suelo",
+          "is_correct": false,
+          "feedback": "Incorrecta. La acidez limita precisamente a los cultivos de clima frío como el café en altura, y la cal actúa como correctivo químico del pH."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los suelos del eje cafetero y de las zonas altas del Tolima y del Huila son a menudo ácidos, con pH entre 4,8 y 5,5, por la meteorización de materiales volcánicos y el lavado de bases. En ese rango el fósforo queda retenido en formas poco solubles y el calcio y el magnesio reducen su disponibilidad, lo que se traduce en baja productividad y hojas amarillentas. La corrección se hace con cal agrícola, cuyo carbonato de calcio reacciona con los ácidos del suelo, o con ceniza de caña, que aporta además potasio. Como la sobrecalificación también puede dañar las raíces y reducir la absorción de algunos micronutrientes, la dosis debe calcularse con base en el análisis de suelo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de erosión hídrica describe esa situación y qué consecuencia tiene para el cultivo?",
+      "context": "En Boyacá, un agricultor cultiva papa en una ladera inclinada y observa que después de cada aguacero el suelo desaparece siguiendo líneas paralelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Erosión en surcos, porque el agua se concentra en canales paralelos que arrastran y profundizan la capa arable",
+          "is_correct": true,
+          "feedback": "Correcta. En la erosión en surcos el agua forma canales regularly espaciados y cada vez más profundos que remueven el suelo fértil y entierran o arrastran los sembradíos."
+        },
+        {
+          "letter": "B",
+          "text": "Erosión laminar, porque produce canales profundos y anchos de varios metros",
+          "is_correct": false,
+          "feedback": "Incorrecta. La erosión laminar borra de forma uniforme y delgada la capa superficial, sin formar canales marcados como los del surco."
+        },
+        {
+          "letter": "C",
+          "text": "Erosión en carcavas, porque sus canales se transforman en terrazas naturales donde la papa rinde más",
+          "is_correct": false,
+          "feedback": "Incorrecta. Las carcavas son hondonadas muy profundas y anchas que parten el terreno y exigen obras de ingeniería; no producen terrazas."
+        },
+        {
+          "letter": "D",
+          "text": "Erosión química, porque el exceso de lluvia disuelve el calcio y neutro la acidez del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecta. Lo descrito es erosión mecánica por arrastre de partículas, típica de laderas sin cobertura, y no disolución química de sales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La erosión hídrica se clasifica según cómo el agua removes el suelo. La erosión laminar actúa como una lámina sobre la superficie y retira de manera uniforme los primeros milímetros de suelo, por lo que pasa inadvertida hasta que la fertilidad ha caído. Cuando el agua se concentra en depresiones o en el surco de siembra, forma canales paralelos que se profundizan año tras año. En el cultivo de papa de laderas andinas el surco es muy dañino, porque la papa queda al descubierto, se entierra o es arrastrada y la cosecha se reduce. Identificar el tipo de erosión orienta la medida: cobertura vegetal y siembra en curva de nivel para la laminar, y terrazas o zanjas de infiltración para la de surcos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué combinación de prácticas conserva mejor un suelo cultivado en pendiente en los Andes?",
+      "context": "Un técnico de la Umata de Pasto recomienda a un agricultor proteger un talud cultivado que se encuentra a mitad de la ladera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arada profunda en cada temporada, porque mantiene el suelo removido y listo para la siembra",
+          "is_correct": false,
+          "feedback": "Incorrecta. La arada profunda expone el suelo desnudo a la lluvia y al viento, y no es una medida de conservación en pendientes."
+        },
+        {
+          "letter": "B",
+          "text": "Desmonte selectivo del bosque y pastoreo extensivo, porque la franja de bosque siempre protege el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecta. El desmontaje y el pastoreo extensivo eliminan la cobertura vegetal y aceleran la erosión, en lugar de conservar el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicación permanente de herbicidas para mantener limpios los surcos",
+          "is_correct": false,
+          "feedback": "Incorrecta. Dejar el suelo desnudo entre surcos multiplica la erosión; la conservación exige mantener cobertura vegetal o residuos sobre la superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Terrazas en curva de nivel, barreras vivas de árboles, cobertura vegetal permanente y rotación de cultivos",
+          "is_correct": true,
+          "feedback": "Correcta. Las terrazas acortan el recorrido del agua, las barreras vivas frenan y filtran el escurrimiento, la cobertura protege la superficie y la rotación evita el desgaste de un solo cultivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En las laderas andinas la conservación combina medidas físicas, biológicas y agronómicas. Las terrazas o bancales construidos siguiendo la curva de nivel acortan la distancia de escorrentía y reducen la velocidad del agua, de modo que el material removido se deposita en la berma y la ladera pierde menos suelo. Las barreras vivas, líneas de árboles como ciprés, guamo o eucalipto, frenan el flujo y filtran el agua enrichecida de sedimentos. La cobertura vegetal, con malezas o rastrojo, protege la superficie del impacto de las gotas y aporta materia orgánica, mientras la rotación con leguminosas como el frijol o el haba repone nitrógeno. El conjunto reduce la erosión y mantiene la fertilidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué problema del suelo explica esos síntomas y cómo se relaciona con el cultivo repetido de arroz?",
+      "context": "Un ingeniero agrónomo de Ciénaga, en el Magdalena, observa en un cultivo de arroz una costra blanca en la superficie y hojas con necrosis en los bordes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salinización por acumulación de sales, agravada por la monocultivación intensiva, y manejo con drenaje y lavado de sales",
+          "is_correct": true,
+          "feedback": "Correcta. La costra blanca son sales precipitadas que impiden absorber agua por ósmosis; el monocultivo repetido sin descanso ni drenaje agrava la acumulación y la salinidad."
+        },
+        {
+          "letter": "B",
+          "text": "Acidificación del suelo, corregida con la aplicación de urea",
+          "is_correct": false,
+          "feedback": "Incorrecta. La acidificación no produce costra salina, y la urea es un fertilizante nitrogenado que no elimina sales del perfil."
+        },
+        {
+          "letter": "C",
+          "text": "Compactación por maquinaria pesada, corregida con subsolado",
+          "is_correct": false,
+          "feedback": "Incorrecta. La compactación dificulta la aireación y el drenaje, pero no genera cristales de sal en la superficie."
+        },
+        {
+          "letter": "D",
+          "text": "Deficiencia de hierro, corregida con quelatos de hierro aplicados al suelo",
+          "is_correct": false,
+          "feedback": "Incorrecta. La deficiencia de hierro produce clorosis entre las nervaduras, no quemazón con costra blanca, y además la salinización impide que la raíz absorba ese hierro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La salinización es el proceso por el cual las sales solubles, sobre todo cloruros y sulfatos, se acumulan en el perfil del suelo hasta impedir que las raíces absorban agua, porque la presión osmótica exterior se iguala o supera la de la célula. El síntoma clásico es la costra blanca en la superficie, necrosis en los bordes de las hojas y una marcada reducción del crecimiento. En el delta del Magdalena, como en Ciénaga, la combinación de un nivel freático cercano a la superficie, la evaporación intensa y el monocultivo de arroz durante décadas favorecen el problema, porque el cultivo no rota, no aporta cobertura y concentra sales. El manejo combina drenaje, lavado con agua dulce, abanicamiento de la capa salina y rotación con cultivos tolerantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v7",
+      "statement": "Si se aplica un fertilizante nitrogenado a ese suelo, ¿qué ocurre con el nitrógeno mineral y qué papel desempeña cada grupo bacteriano en el ciclo del nitrógeno?",
+      "context": "Un laboratorio de Montería analiza un suelo de maíz en el que el nitrógeno mineral es bajo y la actividad microbiana es elevada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nitrógeno mineral disminuye, porque las bacterias nitrificantes liberan nitrógeno gaseoso a la atmósfera",
+          "is_correct": false,
+          "feedback": "Incorrecta. Las nitrificantes no liberan gases de nitrógeno, sino que oxidan el amonio a compuestos inorgánicos; la pérdida gaseosa es tarea de las desnitrificantes."
+        },
+        {
+          "letter": "B",
+          "text": "El nitrógeno mineral no cambia, porque ninguna bacteria del suelo puede transformar las formas de nitrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecta. Las bacterias del suelo transforman activamente el nitrógeno, y además las diazótroas fijan el nitrógeno atmosférico, enriqueciéndolo."
+        },
+        {
+          "letter": "C",
+          "text": "El nitrógeno mineral aumenta; las nitrificantes oxidan amonio a nitrito y nitrato asimilable, y las desnitrificantes pueden devolver nitrógeno gaseoso a la atmósfera",
+          "is_correct": true,
+          "feedback": "Correcta. Las nitrificantes convierten el amonio en nitratos, la forma que la planta absorbe, mientras las desnitrificantes reducen esos nitratos a óxido nitroso y nitrógeno molecular que se pierde como gas."
+        },
+        {
+          "letter": "D",
+          "text": "El nitrógeno mineral aumenta únicamente por la descomposición de residuos, sin intervención del fertilizante",
+          "is_correct": false,
+          "feedback": "Incorrecta. La mineralización contribuye, pero el fertilizante aplicado y la nitrificación son fuentes principales del aumento medido en el suelo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El nitrógeno del suelo circula entre formas orgánicas, como las proteínas y restos vegetales, y formas inorgánicas, como amonio, nitrito y nitrato. Aplicar un fertilizante nitrogenado eleva el amonio disponible, y las bacterias nitrificantes, entre ellas Nitrosomonas y Nitrobacter, lo oxidan primero a nitrito y luego a nitrato, la forma que las raíces absorben con mayor facilidad. Sin embargo, cuando el suelo se inunda y el oxígeno escasea, como ocurre en los arrozales inundados, las bacterias desnitrificantes reducen el nitrato a nitrito y luego a óxido nitroso y nitrógeno molecular, que escapan a la atmósfera. Esa pérdida invisible explica por qué un suelo inundado puede responder peor al fertilizante que uno bien aireado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v8",
+      "statement": "Si el suelo de páramo acumula materia orgánica y el de sabana la libera rápido, ¿qué explica esa diferencia?",
+      "context": "Un investigador de la Universidad Nacional compara la velocidad de mineralización del carbono en un suelo de páramo y en uno de sabana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el páramo las temperaturas bajas, la acidez y la saturación de agua ralentizan a los microorganismos, de modo que la mineralización del carbono es mínima",
+          "is_correct": true,
+          "feedback": "Correcta. El frío, el pH ácido y la escasa oxigenación limitan la actividad de bacterias y hongos, así que la descomposición se detiene casi por completo y el carbono queda almacenado en el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "En el páramo las temperaturas altas y la luz intensa aceleran la descomposición, mientras la sabana es fría y seca",
+          "is_correct": false,
+          "feedback": "Incorrecta. El páramo es frío, húmedo y poco iluminado, y la sabana es cálida, de modo que la lógica del enunciado está invertida."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia se debe solo a la cantidad inicial de materia orgánica y no a las condiciones del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque la cobertura vegetal varía, la velocidad de mineralización depende de temperatura, acidez, aireación y humedad, no solo del contenido inicial."
+        },
+        {
+          "letter": "D",
+          "text": "El páramo carece de materia orgánica, por lo que no hay carbono que se libere al ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecta. Los suelos de páramo son justamente los que acumulan más materia orgánica, es decir, más carbono almacenado en el subsuelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La mineralización de la materia orgánica depende de la temperatura, el pH, la humedad y la disponibilidad de oxígeno. En los páramos las temperaturas bajas, el pH ácido y la saturación permanente de agua restringen la actividad de bacterias y hongos, de modo que la descomposición avanza muy lentamente y el carbono queda atrapado en forma de turba y humus. Ese almacenamiento convierte al páramo en un sumidero de carbono de alcance regional. En la sabana, el clima cálido y la buena aireación aceleran la mineralización, liberando dióxido de carbono con mayor rapidez y reduciendo la acumulación de materia orgánica. Comprender esta diferencia es la base para valorar cuánto vale proteger los páramos y cómo responde el suelo al cambio climático.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v9",
+      "statement": "¿De qué manera un balance hídrico negativo del suelo afecta la vegetación durante la sequía?",
+      "context": "Durante un evento El Niño, un productor de Villavicencio ve que su maíz se marchita aunque las lluvias casi no llegan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando llueve menos, el suelo retiene más agua porque el calor aumenta su capacidad de almacenamiento",
+          "is_correct": false,
+          "feedback": "Incorrecta. El calor acelera la evaporación y la transpiración, de modo que la reserva de agua del suelo disminuye en lugar de aumentar."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando la lluvia y el riego no compensan la evapotranspiración, la reserva de agua del suelo se agota, la planta cierra estomas y la fotosíntesis disminuye",
+          "is_correct": true,
+          "feedback": "Correcta. Un balance hídrico negativo agota el agua disponible, el cierre estomático limita la entrada de dióxido de carbono y con ella la fotosíntesis, la biomasa y el rendimiento."
+        },
+        {
+          "letter": "C",
+          "text": "El déficit hídrico no afecta a los cultivos perennes, porque sus raíces siempre alcanzan agua profunda",
+          "is_correct": false,
+          "feedback": "Incorrecta. Las raíces profundas acceden a agua más profunda, pero bajo déficit sostenido la absorción se reduce y el crecimiento y la cosecha se resienten."
+        },
+        {
+          "letter": "D",
+          "text": "El déficit hídrico solo afecta a los cultivos sembrados en verano y no a los de invierno",
+          "is_correct": false,
+          "feedback": "Incorrecta. Todo cultivo depende del equilibrio entre el agua del suelo y la demanda climática, y todos sufren cuando ese balance es negativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El balance hídrico del suelo es la diferencia entre el agua que entra, por precipitación, riego o agua subterránea, y la que sale, por evaporación directa, transpiración y drenaje. Cuando esa diferencia es negativa, como ocurre en las sequías asociadas a El Niño en los Llanos Orientales, la reserva de agua del suelo se agota de manera progresiva. La planta responde cerrando los estomas para limitar la pérdida de agua, lo que reduce la entrada de dióxido de carbono y con ello la fotosíntesis. El resultado es marchitamiento, floración prematura y menor llenura de grano. El manejo del suelo mediante cobertura, mulch, surcos en contorno y captación de lluvia actúa como un amortiguador que alarga la reserva disponible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v10",
+      "statement": "Un investigador afirma que el suelo con más arcilla caolinítica retiene más nutrientes que el suelo arenoso. ¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En un laboratorio del Tolima se comparan la capacidad de intercambio catiónico y la respuesta de dos suelos, uno con alta proporción de arcillas caoliníticas y otro con alta proporción de arena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque la capacidad de intercambio catiónico depende únicamente de la materia orgánica",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque la materia orgánica eleva la capacidad de intercambio, la composición mineral del suelo, y en especial las arcillas, es determinante."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la arcilla retiene agua pero no nutrientes, que permanecen disueltos y libres en el agua del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecta. La arcilla retiene agua y también nutrientes; los cationes quedan adsorbidos a su superficie y no circulan libres en la solución."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque la caolinita tiene menor capacidad de intercambio catiónico que la arena",
+          "is_correct": false,
+          "feedback": "Incorrecta. La caolinita tiene capacidad de intercambio mucho mayor que la arena, aunque menor que la montmorillonita, el mineral más activo de este grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque los minerales de arcilla tienen mayor superficie específica y capacidad de intercambio catiónico que la arena, y retienen potasio, calcio y magnesio",
+          "is_correct": true,
+          "feedback": "Correcta. La caolinita presenta una capacidad de intercambio catiónico muy superior a la de la arena, y por eso adsorbe y retiene cationos nutritivos que de otro modo se lavarían."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La capacidad de intercambio catiónico es la medida de cuántos cationes el suelo puede adsorber y liberar luego a la solución, y depende de la superficie de los minerales de arcilla y de la carga negativa de sus grupos hidroxilo. La caolinita tiene una capacidad intermedia entre la montmorillonita, muy alta, y la ilita, baja, pero en todos los casos muy superior a la de la arena, cuya superficie específica es mínima. Esa diferencia explica el comportamiento de los suelos del valle del Magdalena y del Tolima frente a los de la Orinoquía arenosa: los arcillosos retienen nutrientes y requieren dosis menos frecuentes de fertilizante, mientras los arenosos necesitan aplicaciones pequeñas y repetidas, porque el agua y los nutrientes se lavan con facilidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es el procedimiento más adecuado para determinar la fertilidad real del suelo antes de fertilizar?",
+      "context": "Un asesor del SENA en Tumaco diseña un plan de fertilización para un cultivo de cacao en el Chocó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomar una muestra compuesta en la zona de raíces, enviarla a laboratorio para analizar pH, materia orgánica, nitrógeno, fósforo, potasio y micronutrientes, y fertilizar con esos resultados",
+          "is_correct": true,
+          "feedback": "Correcta. El muestreo sistemático y el análisis de laboratorio de los parámetros nutritiones clave es el procedimiento estándar para diagnosticar la fertilidad y definir dosis."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntar a los vecinos cuánto fertilizante aplican y repetir esa cantidad sin ningún análisis",
+          "is_correct": false,
+          "feedback": "Incorrecta. La referencia de vecinos no es un diagnóstico del suelo, y copiar dosis sin análisis puede provocar déficit de un nutriente y exceso de otro."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicar fertilizante completo a dosis altas para asegurar que sobre cantidad",
+          "is_correct": false,
+          "feedback": "Incorrecta. El exceso de fertilizante causa salinización, lixiviación y contaminación de fuentes de agua, en lugar de garantizar una buena cosecha."
+        },
+        {
+          "letter": "D",
+          "text": "Observar el color del suelo a simple vista y decidir la fertilización solo por su apariencia",
+          "is_correct": false,
+          "feedback": "Incorrecta. El color es un indicio general del contenido de materia orgánica, pero no cuantifica nutrientes ni permite una recomendación precisa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El diagnóstico de la fertilidad se apoya en el muestreo y el análisis de laboratorio. El muestreo debe cubrir el volumen de suelo donde están las raíces, reuniendo varios puntos en zigzag y mezclándolos en una muestra compuesta, porque analizar un solo punto no representa la parcela. En el laboratorio se determinan pH, conductividad, materia orgánica y las formas disponibles de nitrógeno, fósforo y potasio, además de micronutrientes y, en zonas de costa, salinidad. Los resultados se interpretan con rangos de suficiencia para la especie y permiten definir la dosis, el momento y el elemento que más limita la producción. Este procedimiento es el que recomiendan el SENA y los laboratorios de análisis de suelos del país para evitar fertilizaciones a ciegas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la consecuencia más grave de la degradación del suelo del páramo de Sumapaz para el ecosistema y para la sociedad colombiana?",
+      "context": "Autoridades ambientales y investigadores de la Universidad Nacional documentan la pérdida de cobertura vegetal en sectores del páramo de Sumapaz, en la frontera entre Cundinamarca y Huila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento de la biodiversidad nativa y de la capacidad del suelo para capturar carbono",
+          "is_correct": false,
+          "feedback": "Incorrecta. La degradación reduce la biodiversidad, altera el ecosistema y disminuye la capacidad de almacenamiento de carbono del suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Aumento sostenido de la fertilidad natural del suelo gracias a la agricultura intensiva",
+          "is_correct": false,
+          "feedback": "Incorrecta. La agricultura intensiva en el páramo agota la fertilidad natural, erosiona el suelo y deteriora la capacidad de producción a mediano plazo."
+        },
+        {
+          "letter": "C",
+          "text": "Pérdida de la capacidad de almacenar agua y carbono, con menor amortiguamiento de la sequía y aporte reducido a los cauces que abastecen a Bogotá",
+          "is_correct": true,
+          "feedback": "Correcta. Al degradarse el suelo de páramo se reduce su almacenamiento de agua y carbono, se pierde la regulación natural del caudal y disminuye el agua disponible para los municipios que dependen de estos nacimientos."
+        },
+        {
+          "letter": "D",
+          "text": "Disminución de la erosión y de la contaminación de fuentes de agua por agroquímicos",
+          "is_correct": false,
+          "feedback": "Incorrecta. La intensificación agrícola en el páramo aumenta la erosión y la contaminación de nacimientos y de fuentes de agua por agroquímicos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El páramo de Sumapaz funciona como una fábrica de agua: su suelo, rico en carbono y en materia orgánica, retiene la lluvia y la libera lentamente a los cauces que abastecen a Bogotá y a municipios de Cundinamarca y Boyacá. La transformación de esos ecosistemas en potreros y cultivos intensivos, con quemas, sobrecultivo y aplicación de agroquímicos, adelgaza la capa vegetal, activa la erosión y reduce el almacenamiento de agua y carbono. Las consecuencias son simultáneas: el páramo pierde su función de sumidero de carbono y su capacidad de regular el caudal, y las comunidades pierden un recurso hídrico crítico. Por eso su conservación es una prioridad de política pública en Colombia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-10-2026-W32-suelos-y-conservacion-de-suelos-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
