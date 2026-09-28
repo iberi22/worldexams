@@ -51,16 +51,16 @@ Reconocer las características de un género textual es el primer paso para leer
 **Bloom:** Understand
 **ICFES:** Pragmatic
 **Expected_Success:** 0.86
-**Contexto:** En la feria del libro del colegio en Bogotá, Mariana leyó la reseña que laNeo...
+**Contexto:** En la feria del libro del colegio en Bogotá, Mariana leyó la reseña de la novela "Cartas desde el sur" y terminó su comentario con estas dos frases: "Te la recomiendo si te gustan las historias de viaje y de familia. El último capítulo se resuelve muy rápido".
 
 ### Enunciado
 ¿Para qué sirve principalmente la recomendación que Mariana escribe al final de la reseña?
 
 ### Opciones
-- [x] A) Para orientar a alguien que todavía no ha leído la obra, indicándole si esa novela puede interesarle.
-  <!-- feedback: La frase "te la recomiendo" va dirigida a un lector futuro y promete una experiencia de lectura concreta, que es la función de una recomendación. -->
-- [ ] B) Para contar, en dos líneas, todos los capítulos de la novela.
+- [ ] A) Para contar, en dos líneas, todos los capítulos de la novela.
   <!-- feedback: Reduce la recomendación a un resumen del argumento, cuando el texto no enumera ningún episodio de la historia. -->
+- [x] B) Para orientar a alguien que todavía no ha leído la obra, indicándole si esa novela puede interesarle.
+  <!-- feedback: La frase "te la recomiendo" va dirigida a un lector futuro y promete una experiencia de lectura concreta, que es la función de una recomendación. -->
 - [ ] C) Para demostrar que Mariana leyó la obra completa y podía criticarla con seguridad.
   <!-- feedback: Confunde el efecto de la recomendación con una prueba de lectura, porque el texto no busca demostrar nada sobre Mariana. -->
 - [ ] D) Para advertirle al público que la última parte del libro está mal escrita.
@@ -80,12 +80,12 @@ Entender para qué escribe alguien es la base de la comprensión. Una recomendac
 De acuerdo con la cartulina, ¿cuál es la afirmación central que el párrafo quiere sostener?
 
 ### Opciones
-- [x] A) Que la novela usa la historia de una familia entera para mostrar cómo la memoria y la soledad se repiten de una generación a otra.
-  <!-- feedback: La primera oración anuncia el recurso del texto, la segunda lo explica y la última ("por eso") recoge la idea que el párrafo quiere dejar fijada. -->
-- [ ] B) Que el argumento de la novela depende por completo de un solo protagonista varón.
+- [ ] A) Que el argumento de la novela depende por completo de un solo protagonista varón.
   <!-- feedback: Niega justo lo que el párrafo afirma, porque los estudiantes dicen que el argumento no se sostiene con un solo personaje. -->
-- [ ] C) Que las costumbres de la familia cambian en cada generación hasta desaparecer.
+- [ ] B) Que las costumbres de la familia cambian en cada generación hasta desaparecer.
   <!-- feedback: Convierte la repetición de costumbres en su contrario, cuando el párrafo dice que las costumbres se repiten y no que desaparecen. -->
+- [x] C) Que la novela usa la historia de una familia entera para mostrar cómo la memoria y la soledad se repiten de una generación a otra.
+  <!-- feedback: La primera oración anuncia el recurso del texto, la segunda lo explica y la última ("por eso") recoge la idea que el párrafo quiere dejar fijada. -->
 - [ ] D) Que la novela es más larga que cualquier otra obra del mismo autor.
   <!-- feedback: Introduce una comparación de extensión que el texto no menciona y que nada en el párrafo permite deducir. -->
 
@@ -97,20 +97,20 @@ Un párrafo de opinión no es una lista de frases: tiene un orden. Primero prese
 **Bloom:** Apply
 **ICFES:** Discursivo
 **Expected_Success:** 0.80
-**Contexto:** Una maestra de Medellín quiso saber si un cuento corto funcionaba mejor que un cuento largo para。工作: aplicó una encuesta a 40 estudiantes de séptimo grado después de la lectura. El 80 % dijo que había entendido mejor el final del cuento corto, y el 65 %lost...
+**Contexto:** Una maestra de Medellín quiso saber si un cuento corto funcionaba mejor que un cuento largo para asumir la lectura de grado séptimo. Aplicó una encuesta a 40 estudiantes después de la clase. El 80 % dijo que había entendido mejor el final del cuento corto, y el 65 % afirmó que volvería a leer un cuento corto por gusto propio. Por eso, la maestra concluye que el cuento corto funciona mejor que el cuento largo para iniciar a los estudiantes en la literatura.
 
 ### Enunciado
 En el párrafo anterior, ¿qué elemento funciona como evidencia de la afirmación final de la maestra?
 
 ### Opciones
-- [x] A) El resultado de la encuesta aplicada a 40 estudiantes de séptimo grado.
-  <!-- feedback: La afirmación final ("el cuento corto funciona mejor...") se apoya en un dato comprobable obtenido con una encuesta y un número concreto de participantes. -->
-- [ ] B) La biografía del autor del cuento corto.
+- [ ] A) La biografía del autor del cuento corto.
   <!-- feedback: Los datos biográficos del autor no aparecen en el texto y, además, no permitirían medir la comprensión de los estudiantes. -->
-- [ ] C) El número de páginas que tiene el cuento largo.
+- [ ] B) El número de páginas que tiene el cuento largo.
   <!-- feedback: El párrafo no menciona la extensión de ninguna obra, y la extensión por sí sola no prueba la comprensión lectora. -->
-- [ ] D) La cantidad de libros que la librería de la barrio vendió durante la feria.
+- [ ] C) La cantidad de libros que la librería de la barrio vendió durante la feria.
   <!-- feedback: Es un dato de ventas, pero no mide la comprensión de la lectura, de modo que no sostiene la afirmación de la maestra. -->
+- [x] D) El resultado de la encuesta aplicada a 40 estudiantes de séptimo grado.
+  <!-- feedback: La afirmación final, "el cuento corto funciona mejor", se apoya en un dato comprobable obtenido con una encuesta y un número concreto de participantes. -->
 
 ### Explicacion Pedagogica
 Una opinión argumentada se construye con tres piezas: la afirmación, la evidencia y la razón que las une. Reconocer cuál de ellas es la evidencia es un ejercicio de análisis del discurso muy útil para la vida académica. En este caso, la maestra afirma que el cuento corto funciona mejor, y esa afirmación solo tiene sentido si se apoya en el resultado medido con estudiantes reales, en un lugar y con un propósito definidos. Un dato irrelevante, como la biografía del autor, o un dato ausente, como el número de páginas, no puede sostener la afirmación, aunque sea cierto.
@@ -149,10 +149,10 @@ Cuando se escribe una opinión, no basta con poner juntas la afirmación y el da
 ¿Qué ganancia aporta la segunda versión de Andrés frente a la primera?
 
 ### Opciones
-- [x] A) Aporta pruebas concretas y comprobables que permiten a otro lector juzgar la opinión por sí mismo.
-  <!-- feedback: Al mencionar los cuatro capítulos y el comportamiento del protagonista, Andrés ofrece datos que un lector puede verificar en el libro. -->
-- [ ] B) Aporta un tono más fuerte, que es lo que hace convincente a una opinión.
+- [ ] A) Aporta un tono más fuerte, que es lo que hace convincente a una opinión.
   <!-- feedback: La fuerza del tono puede incomodar, pero no convence, porque la segunda versión convence por sus pruebas y no por su volumen. -->
+- [x] B) Aporta pruebas concretas y comprobables que permiten a otro lector juzgar la opinión por sí mismo.
+  <!-- feedback: Al mencionar los cuatro capítulos y el comportamiento del protagonista, Andrés ofrece datos que un lector puede verificar en el libro. -->
 - [ ] C) Convierte la opinión en un dato objetivo y medible.
   <!-- feedback: Andrés sigue expresando una valoración personal, lo que cambia es que ahora la valoración viene acompañada de razones comprobables. -->
 - [ ] D) Elimina la opinión y deja únicamente información neutral.
@@ -172,12 +172,12 @@ Analizar la calidad de un argumento implica preguntar qué cambiaría para que l
 ¿Qué función cumple la segunda oración respecto a la primera y respecto al sentido del párrafo?
 
 ### Opciones
-- [x] A) Corrige la expectativa que crea la primera y así sostiene la idea de que esa contradicción es deliberada.
-  <!-- feedback: El "sin embargo" enlaza las dos oraciones: la segunda desmiente la impresión del nombre y la tercera explica que ese contraste es intencional. -->
-- [ ] B) Repite la primera oración con otras palabras, para darle más peso.
+- [ ] A) Repite la primera oración con otras palabras, para darle más peso.
   <!-- feedback: No hay repetición, porque la segunda oración agrega información sobre las acciones del personaje que la primera no contenía. -->
-- [ ] C) Introduce un dato completamente ajeno, que no se relaciona con la primera oración.
+- [ ] B) Introduce un dato completamente ajeno, que no se relaciona con la primera oración.
   <!-- feedback: Las escenas de los llanos hablan del mismo personaje que el nombre menciona, de modo que la relación entre las oraciones es directa. -->
+- [x] C) Corrige la expectativa que crea la primera y así sostiene la idea de que esa contradicción es deliberada.
+  <!-- feedback: El "sin embargo" enlaza las dos oraciones: la segunda desmiente la impresión del nombre y la tercera explica que ese contraste es intencional. -->
 - [ ] D) Contradice la idea central del párrafo y por eso lo deja incoherente.
   <!-- feedback: La tercera oración integra las dos anteriores y las convierte en una sola idea, así que el párrafo sí tiene unidad. -->
 
@@ -189,20 +189,20 @@ Los conectores que se usan para contradecir una expectativa, como "sin embargo" 
 **Bloom:** Analyze
 **ICFES:** Pragmatic
 **Expected_Success:** 0.70
-**Contexto:** Dos grupos de un colegio de Barranquilla escribieron reseñas de la misma novela. El grupo A, dirigido a sus compañeros, escribió: "Si te gustan las historias de abuela, esta es la tuya; el capítulo del mercado no lo vas a soltar". El grupo B, dirigido al boletín del colegio, escribió: "La obra permite discutir la situación de las mujeres rurales en 1950 y conectarla con la historia del país; se recomienda como lectura Homework...
+**Contexto:** Dos grupos de un colegio de Barranquilla escribieron reseñas de la misma novela. El grupo A, dirigido a sus compañeros, escribió: "Si te gustan las historias de abuela, esta es la tuya; el capítulo del mercado no lo vas a soltar". El grupo B, dirigido al boletín del colegio, escribió: "La obra permite discutir la situación de las mujeres rurales en 1950 y conectarla con la historia del país; se recomienda como lectura complementaria para el área de sociales".
 
 ### Enunciado
 ¿Por qué los dos textos sobre la misma obra se escriben de manera tan distinta?
 
 ### Opciones
-- [x] A) Porque cambian los lectores a los que se dirigen, y cada uno necesita una información y un tono distintos.
-  <!-- feedback: El primer texto busca una experiencia de lectura compartida y el segundo un valor académico, de modo que ambos se ajustan a su audiencia. -->
-- [ ] B) Porque solo uno de los grupos leyó la novela completa.
+- [ ] A) Porque solo uno de los grupos leyó la novela completa.
   <!-- feedback: El texto no da ninguna pista de que un grupo haya leído más que el otro, y la diferencia está en el destinatario y no en la lectura. -->
-- [ ] C) Porque el boletín del colegio exige reseñas más largas que las de los compañeros.
+- [ ] B) Porque el boletín del colegio exige reseñas más largas que las de los compañeros.
   <!-- feedback: Ninguno de los dos textos menciona una extensión obligatoria, y lo que cambia entre ellos es el tono y no la longitud. -->
-- [ ] D) Porque en el boletín no se puede opinar sobre una obra literaria.
+- [ ] C) Porque en el boletín no se puede opinar sobre una obra literaria.
   <!-- feedback: El texto del boletín también valora la obra, solo que con un lenguaje académico, de modo que lo que se evita no es la opinión sino la forma coloquial. -->
+- [x] D) Porque cambian los lectores a los que se dirigen, y cada uno necesita una información y un tono distintos.
+  <!-- feedback: El primer texto busca una experiencia de lectura compartida y el segundo un valor académico, de modo que ambos se ajustan a su audiencia. -->
 
 ### Explicacion Pedagogica
 Escribir para alguien significa tomar decisiones sobre el lenguaje. La misma valoración cambia de forma según quién la vaya a leer: hacia un compañero se vale la experiencia compartida, con frases como "no lo vas a soltar", y hacia un boletín se vale el valor académico y la relación con los temas del curso. Analizar estos dos registros en paralelo enseña que el tono no es un adorno, sino una decisión que responde al propósito y a la audiencia. Quien domina este recurso puede escribir el mismo juicio en un mensaje y en un informe, sin que ninguno de los dos textos pierda su fuerza.
@@ -212,7 +212,7 @@ Escribir para alguien significa tomar decisiones sobre el lenguaje. La misma val
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
 **Expected_Success:** 0.66
-**Contexto:** En una tarea de opinión argumentada, Mariana escribió en su cuaderno: "La historia de la 建And 云..."
+**Contexto:** En una tarea de opinión argumentada, Mariana escribió en su cuaderno: "La historia del mito del Patamar es la mejor del país, porque todos la han contado durante generaciones y a nadie le gusta cambiarla". En la siguiente clase, su compañera le pidió completar la frase con una comparación con otro relato del país.
 
 ### Enunciado
 ¿Qué evaluación corresponde a la opinión que Mariana escribió?
@@ -241,10 +241,10 @@ Evaluar un argumento exige separar lo que sí tiene respaldo de lo que se afirma
 ¿Cuál de los cuatro cierres propuestos completa mejor la reseña de Andrés?
 
 ### Opciones
-- [x] A) "Además, en la página 80 se muestra que el protagonista tampoco duerme nunca, lo cual confirma que el insomnio no es solo un recurso para la trama, sino una regla del mundo. Por eso la exageración puede incomodar, pero la novela conserva su lógica y se recomienda".
-  <!-- feedback: Reforza la idea central con una evidencia concreta y citada, y además responde al riesgo de la propia opinión, de modo que el texto queda sostenido. -->
-- [ ] B) "En fin, es solo un libro, lean lo que quieran".
+- [ ] A) "En fin, es solo un libro, lean lo que quieran".
   <!-- feedback: Repite una opinión sin aportar razones y cierra con una actitud de indiferencia, en lugar de sostener lo afirmado sobre la exageración. -->
+- [x] B) "Además, en la página 80 se muestra que el protagonista tampoco duerme nunca, lo cual confirma que el insomnio no es solo un recurso para la trama, sino una regla del mundo. Por eso la exageración puede incomodar, pero la novela conserva su lógica y se recomienda".
+  <!-- feedback: Reforza la idea central con una evidencia concreta y citada, y además responde al riesgo de la propia opinión, de modo que el texto queda sostenido. -->
 - [ ] C) "La mejor novela de ciencia ficción colombiana".
   <!-- feedback: Es una afirmación de valor sin ninguna prueba y no responde al punto que el párrafo había dejado abierto sobre el insomnio. -->
 - [ ] D) "La novela tiene 300 páginas, fue publicada en Bogotá en 2019 y su autor nació en Manizales".
