@@ -1,0 +1,300 @@
+---
+id: "CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle"
+country: "colombia"
+grado: 9
+asignatura: "ciencias-naturales"
+tema: "la-tierra-y-su-estructura-interna"
+periodo: "weekly"
+week: "W21"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia / Saber 9"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: La Tierra y su Estructura Interna - Grado 9
+
+Este bundle reúne 12 preguntas sobre **la Tierra y su estructura interna** para grado 9, alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 9. Recorre las capas internas del planeta, la diferencia entre la corteza continental y la oceánica, las ondas sísmicas que revelan el interior, las placas tectónicas que explican los Andes, los terremotos y los volcanes, el campo magnético terrestre y los métodos para establecer la antigüedad de la Tierra.
+
+## Question 1 [D3-D4]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.90
+**Contexto:** En el aula de ciencias naturales de un colegio de Bogotá, la profesora usa una maqueta de capas concéntricas para explicar la organización interna del planeta.
+
+### Enunciado
+¿Cuáles son las tres capas en que se organiza la Tierra desde la superficie hacia el centro?
+
+### Opciones
+- [x] A) La corteza, el manto y el núcleo.
+  <!-- feedback: Correcto. La Tierra se organiza en tres capas concéntricas principales, ordenadas desde la superficie hacia el centro. -->
+- [ ] B) La corteza, la litósfera y la atmósfera.
+  <!-- feedback: Incorrecto. La atmósfera es una capa gaseosa externa y la litósfera es la parte sólida, no una capa interna. -->
+- [ ] C) El manto, el núcleo y la magnetosfera.
+  <!-- feedback: Incorrecto. La magnetosfera rodea al planeta como una región de partículas cargadas y no es una capa interna. -->
+- [ ] D) La hidrósfera, el manto y el núcleo externo.
+  <!-- feedback: Incorrecto. La hidrósfera es la capa de agua de la superficie terrestre y no forma parte de la estructura interna. -->
+
+### Explicacion Pedagogica
+La Tierra se comporta como un planeta con capas concéntricas de distinta composición y estado físico. La corteza es delgada y superficial, formada por roca sólida. El manto es mucho más grueso y está formado por roca que puede fluir muy lentamente. El núcleo se divide en una capa externa líquida y otra interna sólida, y concentra gran parte del hierro del planeta. El orden de estas capas se deduce de la densidad de los materiales y del comportamiento de las ondas sísmicas.
+
+## Question 2 [D3-D4]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.90
+**Contexto:** En un proyecto de geociencias en Manizales, un grupo de estudiantes revisa los registros de un sismo lejano y notan que las ondas de corte no llegan a la estación más alejada.
+
+### Enunciado
+¿Qué conclusión sobre el interior de la Tierra se obtiene de la ausencia de esas ondas en un hemisferio?
+
+### Opciones
+- [ ] A) Que el núcleo interno es líquido, porque ninguna onda de corte llega hasta él.
+  <!-- feedback: Incorrecto. El núcleo interno es sólido. La ausencia de ondas de corte se explica por la capa externa de material líquido. -->
+- [x] B) Que el núcleo externo es líquido, porque las ondas de corte no atraviesan los líquidos.
+  <!-- feedback: Correcto. Las ondas de corte requieren un medio sólido, y su ausencia revela la existencia de un núcleo externo líquido. -->
+- [ ] C) Que la corteza se derrite durante cada sismo y por eso deja de transmitir ondas de corte.
+  <!-- feedback: Incorrecto. La corteza no se derrite por los sismos. La ausencia de ondas tiene una explicación estructural permanente. -->
+- [ ] D) Que el manto es un gas y por eso ninguna de las dos ondas puede viajar a través de él.
+  <!-- feedback: Incorrecto. El manto es roca sólida y sí transmite ondas. Además, las ondas primarias lo atraviesan sin dificultad. -->
+
+### Explicacion Pedagogica
+Un terremoto genera dos familias de ondas sísmicas. Las ondas primarias son ondas de compresión y viajan tanto por sólidos como por líquidos. Las ondas secundarias son ondas de corte y solo se propagan en materiales rígidos. Como las ondas de corte no llegan a la superficie del lado opuesto al sismo, se deduce que existe una capa líquida de gran extensión en el interior de la Tierra, que es el núcleo externo. Ese mismo razonamiento permitió delimitar la frontera entre el núcleo y el manto.
+
+## Question 3 [D3-D4]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.90
+**Contexto:** En una guía de viaje escolar en Bucaramanga, los estudiantes observan que la cordillera que atraviesa la ciudad es resultado de un proceso geológico lento y todavía en curso.
+
+### Enunciado
+Según la tectónica de placas, ¿qué explica que los Andes colombianos y el resto de la cordillera andina sigan creciendo en altura?
+
+### Opciones
+- [ ] A) Que la placa sudamericana se separa del centro de la Tierra por efecto de la rotación del planeta.
+  <!-- feedback: Incorrecto. La rotación terrestre no separa las placas. Lo que las mueve es la energía que circula en el manto. -->
+- [ ] B) Que un manto muy frío y rígido se acumula en la superficie y empuja el continente hacia arriba.
+  <!-- feedback: Incorrecto. El manto es muy caliente y se comporta de forma plástica. Su frigidez no explica el crecimiento de la cordillera. -->
+- [x] C) Que la placa Nazca se hunde bajo la placa sudamericana y comprime la corteza hasta elevarla.
+  <!-- feedback: Correcto. La subducción de la placa Nazca genera compresión y levantamiento en la frontera, lo que eleva la cordillera. -->
+- [ ] D) Que la erosión de los ríos acumula sedimento y forma así las montañas más altas de la región.
+  <!-- feedback: Incorrecto. La erosión desgasta y transporta material, pero no explica la elevación estructural de la cordillera. -->
+
+### Explicacion Pedagogica
+Las placas tectónicas se desplazan sobre un manto que se comporta como un sólido muy lento. En el borde occidental de Suramérica, la placa de Nazca, más densa, se hunde bajo la placa sudamericana en un proceso llamado subducción. Esa placa que se hunde tira del borde continental y lo comprime. El resultado es el plegamiento y el levantamiento que dan lugar a los Andes. La Cordillera Central colombiana forma parte de ese sistema, y su actividad sísmica y volcánica es una consecuencia directa.
+
+## Question 4 [D5-D6]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Indagación
+**Expected_Success:** 0.80
+**Contexto:** En el valle del Cauca, el equipo de rescate de un terremoto identifica el punto donde se rompió la roca y lo separa del punto de la superficie donde se sintió con mayor intensidad.
+
+### Enunciado
+Si el rompimiento de la roca ocurrió a gran profundidad, ¿cómo se relacionan el foco y el hipocentro en ese caso?
+
+### Opciones
+- [ ] A) Son el mismo punto, porque la roca se rompe y la superficie se sacude en el mismo lugar.
+  <!-- feedback: Incorrecto. Coincidirían solo si el rompimiento ocurriera en la superficie, lo que es muy raro en los sismos profundos. -->
+- [ ] B) El foco está en la superficie y el hipocentro es la zona donde la onda llega con más fuerza.
+  <!-- feedback: Incorrecto. Eso invierte los conceptos: el foco está en profundidad y en la superficie está el punto de mayor intensidad. -->
+- [ ] C) Ambos están en la superficie y la diferencia entre ellos solo depende de la magnitud del evento.
+  <!-- feedback: Incorrecto. El foco se ubica donde se rompe la roca, que puede estar a decenas de kilómetros bajo la superficie. -->
+- [x] D) El foco está en profundidad y el hipocentro es la proyección vertical de ese punto en la superficie.
+  <!-- feedback: Correcto. El foco es el origen del sismo en el interior y el hipocentro es su proyección vertical en la superficie. -->
+
+### Explicacion Pedagogica
+Cuando las placas liberan energía de forma abrupta, la roca se fractura en un punto interior llamado foco del sismo, que puede estar a decenas de kilómetros de profundidad. La onda se expande desde allí en todas las direcciones y llega a la superficie con intensidad decreciente. El lugar de la superficie que está directamente encima del foco se denomina hipocentro, y es donde se registra la mayor intensidad del movimiento. Esta distinción permite localizar la fuente de un sismo y orientar las operaciones de rescate.
+
+## Question 5 [D5-D6]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.80
+**Contexto:** En la planeación de una salida escolar al Parque Nacional Los Nevados, el profesor explica por qué esa región presenta actividad volcánica activa.
+
+### Enunciado
+¿Qué relación entre el calor interno y la tectónica explica la existencia de volcanes en Colombia?
+
+### Opciones
+- [x] A) La subducción de la placa Nazca aporta agua que hace fundir parte del manto y produce magma que asciende a la superficie.
+  <!-- feedback: Correcto. La fusión parcial del manto por la placa que se hunde origina el magma que alimenta los volcanes de la cordillera. -->
+- [ ] B) La corteza oceánica se enfría y se contrae hasta romperse, y cada rotura da lugar a un nuevo volcán.
+  <!-- feedback: Incorrecto. El enfriamiento produce contracción, no fusión de magma. La actividad volcánica requiere material fundido. -->
+- [ ] C) La erosión de la Sierra Nevada de Santa Marta deja huecos que se llenan de lava y forman cráteres.
+  <!-- feedback: Incorrecto. La erosión no genera magma. Los conos volcánicos se construyen por acumulación de lava y ceniza. -->
+- [ ] D) La lluvia ácida disuelve la roca volcánica y el agua resultante se evapora dejando un cráter de lava.
+  <!-- feedback: Incorrecto. La lluvia ácida no produce cráteres volcánicos. La explicación correcta se apoya en la fusión del manto. -->
+
+### Explicacion Pedagogica
+El volcanismo tiene una causa profunda que es la temperatura. En las zonas de subducción, la placa que se hunde transporta agua y sedimentos hacia el manto. Esa agua hace que la roca circundante funda a una temperatura mucho menor que su punto de fusión normal. El magma así formado es menos denso que la roca que lo rodea y asciende hasta la superficie. En Colombia, el Nevado del Ruiz, el Puracé y el Cotopaxi son volcanes activos asociados a ese mecanismo.
+
+## Question 6 [D5-D6]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.80
+**Contexto:** En una comparación de mapas de espesor cortical, un grupo de estudiantes observa que en los continentes el espesor supera los treinta kilómetros y en los océanos es mucho menor.
+
+### Enunciado
+¿Qué explica que la corteza continental sea más gruesa y de composición más granítica que la corteza oceánica?
+
+### Opciones
+- [ ] A) Que la corteza continental se enfrió más rápido y por eso conserva más material denso.
+  <!-- feedback: Incorrecto. Enfriarse rápido no explica el espesor ni la composición. Lo determinante es la fusión parcial y la flotación. -->
+- [x] B) Que se formó por la fusión parcial del manto, que deja un material rico en silicio y capaz de flotar.
+  <!-- feedback: Correcto. El material parcialmente fundido se enfría y forma la corteza continental, que es menos densa y flota sobre el manto. -->
+- [ ] C) Que la corteza continental recibió más lava y por eso es más ancha y con mayor contenido de níquel.
+  <!-- feedback: Incorrecto. La corteza continental es pobre en níquel. El apilamiento de lava no explica su flotabilidad. -->
+- [ ] D) Que la corteza oceánica engorda con el tiempo hasta alcanzar un espesor como el continental.
+  <!-- feedback: Incorrecto. La corteza oceánica se renueva en las dorsales y no tiende a engrosarse con el tiempo. -->
+
+### Explicacion Pedagogica
+La diferencia entre las dos cortezas tiene un origen claro. En las dorsales oceánicas, el magma del manto aflora, se enfría rápido y forma una corteza nueva, delgada, de composición basáltica y densa. Ese material se aleja de la dorsal y forma el fondo oceánico. En los bordes continentales, la fusión parcial del manto genera un material más rico en silicio. Al enfriarse forma una corteza más gruesa y menos densa. Como pesa menos que el manto, esa corteza flota y por eso los continentes quedan más altos.
+
+## Question 7 [D7-D8]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.70
+**Contexto:** En una estación sismológica de la Sabana de Bogotá, los estudiantes comparan los registros de un mismo evento medidos en tres estaciones que están a distancias distintas.
+
+### Enunciado
+¿Qué debe registrar un sismógrafo para calcular la distancia al foco a partir del tiempo entre la llegada de dos ondas?
+
+### Opciones
+- [ ] A) La energía liberada en el sismo, que se lee en la escala de magnitud.
+  <!-- feedback: Incorrecto. La magnitud mide el tamaño del sismo, no el tiempo de recorrido de las ondas hasta la estación. -->
+- [ ] B) La dirección de la falla, que se deduce de la forma en que se orienta la superficie del terreno.
+  <!-- feedback: Incorrecto. La dirección de la falla se estudia en el campo o con otros métodos y no proviene del sismógrafo. -->
+- [x] C) El intervalo de tiempo entre la llegada de la onda primaria y el de la onda secundaria en la misma estación.
+  <!-- feedback: Correcto. Como las dos ondas viajan a velocidades distintas, la diferencia de tiempos permite calcular la distancia al foco. -->
+- [ ] D) La temperatura de la roca a esa profundidad, que se obtiene del termómetro del instrumento.
+  <!-- feedback: Incorrecto. La temperatura no se registra en un sismógrafo y no interviene en el cálculo de la distancia epicentral. -->
+
+### Explicacion Pedagogica
+Un sismógrafo registra el movimiento del suelo en función del tiempo. Como la onda primaria es más rápida que la secundaria, la primera en llegar siempre es la primaria. La segunda llega con un retraso que crece a medida que aumenta la distancia al foco. Al representar ese tiempo de retraso frente a la distancia se obtiene una recta, y esa relación es la base para localizar un sismo. Este procedimiento, llamado triangulación sísmica, usa tres o más estaciones y permite publicar el hipocentro de cada evento.
+
+## Question 8 [D7-D8]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.70
+**Contexto:** En la reserva natural del Nevado del Ruiz, un equipo de investigación mide la temperatura de una fumarola y observa que ha subido varios grados en los últimos años.
+
+### Enunciado
+¿Qué interpretación es la más adecuada de ese aumento de temperatura en la fumarola?
+
+### Opciones
+- [ ] A) Que se está agotando la cámara magmática y el volcán dejará de ser activo en los próximos años.
+  <!-- feedback: Incorrecto. Un aumento de temperatura indica que hay más calor disponible, no que se esté agotando la cámara magmática. -->
+- [ ] B) Que la lluvia ácida de los alrededores se está acumulando dentro del cráter y calienta el suelo.
+  <!-- feedback: Incorrecto. La lluvia ácida se relaciona con la actividad volcánica, pero no es la causa del aumento térmico. -->
+- [ ] C) Que la actividad tectónica de la región se detuvo y por eso el magma ya no asciende a la superficie.
+  <!-- feedback: Incorrecto. Si la tectónica se detuviera, la actividad volcánica disminuiría en lugar de aumentar la temperatura. -->
+- [x] D) Que hay un mayor aporte de calor magmático, lo que indica un aumento en la actividad interna del volcán.
+  <!-- feedback: Correcto. El aumento térmico en la fumarola es un indicador de vigilancia que suele anticipar una erupción mayor. -->
+
+### Explicacion Pedagogica
+La vigilancia de un volcán se basa en indicadores que avisan sobre un cambio en su comportamiento. Entre ellos están la temperatura de las fumarolas, la sismicidad asociada, la deformación del suelo y los cambios en la composición de los gases. Un aumento sostenido de la temperatura de las fumarolas indica que circula más calor magmático. Esa señal puede anticipar una erupción mayor. Por eso el seguimiento de los volcanes es permanente y las fumarolas se revisan con regularidad, incluso en periodos de calma aparente.
+
+## Question 9 [D7-D8]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v9
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.70
+**Contexto:** Un observatorio astronómico en el Caribe colombiano registra el comportamiento de las auroras y, en clase, se pregunta por qué se concentran cerca de los polos.
+
+### Enunciado
+¿Qué relación existe entre el campo magnético terrestre y la aparición de auroras en las regiones polares?
+
+### Opciones
+- [x] A) El campo magnético guía las partículas cargadas del viento solar hacia los polos, donde chocan con la atmósfera.
+  <!-- feedback: Correcto. El campo conduce las partículas hacia las zonas polares y su interacción con la atmósfera produce la emisión luminosa. -->
+- [ ] B) El campo magnético atrae las estrellas al interior del sistema solar y por eso ilumina las regiones polares.
+  <!-- feedback: Incorrecto. El campo magnético terrestre no atrae estrellas ni explica la emisión de luz de las zonas polares. -->
+- [ ] C) El campo magnético hace que el oxígeno de la atmósfera emita luz propia por efecto del calor.
+  <!-- feedback: Incorrecto. La aurora no es emisión térmica, sino luz liberada por partículas excitadas en las capas altas de la atmósfera. -->
+- [ ] D) El campo magnético impide que la atmósfera escape al espacio, y esa acumulación produce la luz polar.
+  <!-- feedback: Incorrecto. La magnetosfera limita parte de la pérdida de atmósfera, pero no genera por sí misma la emisión luminosa. -->
+
+### Explicacion Pedagogica
+La Tierra se comporta como un gran imán, con un campo magnético generado por el movimiento del hierro líquido del núcleo externo. Ese campo desvía gran parte del viento solar y guía las partículas cargadas hacia las regiones polares. Allí esas partículas chocan con los átomos de la atmósfera. En las colisiones los átomos de oxígeno y nitrógeno se excitan y, al volver a su estado normal, liberan luz de varios colores. La magnetosfera cumple además un papel protector al reducir el desgaste de la atmósfera.
+
+## Question 10 [D9-D10]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.60
+**Contexto:** En un museo de Bucaramanga, una expedición visita afloramientos de roca muy antiguos y el guía explica cómo se conoce la antigüedad de la Tierra.
+
+### Enunciado
+¿Sobre qué conocimiento se sostiene la afirmación de que la Tierra tiene unos 4600 millones de años?
+
+### Opciones
+- [ ] A) En la observación directa de la roca fundida del centro del planeta durante una expedición profunda.
+  <!-- feedback: Incorrecto. Nadie ha observado directamente el centro de la Tierra. La antigüedad se estima por métodos indirectos. -->
+- [x] B) En la datación radiométrica de rocas antiguas y en el cálculo de la desintegración de elementos radiactivos.
+  <!-- feedback: Correcto. La velocidad de desintegración es conocida y constante, lo que permite calcular la antigüedad de las rocas. -->
+- [ ] C) En la cantidad de capas sedimentarias contadas a simple vista en un corte de la corteza.
+  <!-- feedback: Incorrecto. Contar capas no permite calcular una antigüedad absoluta, porque la sedimentación varía de un lugar a otro. -->
+- [ ] D) En la temperatura de la superficie medida por los satélites que orbitan el planeta.
+  <!-- feedback: Incorrecto. La temperatura actual de la superficie no informa sobre la historia de miles de millones de años del planeta. -->
+
+### Explicacion Pedagogica
+La datación radiométrica se apoya en la desintegración espontánea de elementos radiactivos, que sigue una ley con una semivida conocida. Si se mide la cantidad de isótopos radiactivos y de sus productos de desintegración presentes en una roca, es posible calcular cuánto tiempo ha pasado desde que esa roca se enfrió. Aplicando ese método a las rocas más antiguas conocidas se ha establecido que la Tierra se formó hace unos 4600 millones de años. Es una inferencia indirecta, pero sustentada en mediciones precisas.
+
+## Question 11 [D9-D10]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.60
+**Contexto:** Una institución educativa de Pereira diseña un plan de preparación para responder a una emergencia provocada por un sismo de magnitud media.
+
+### Enunciado
+¿Cuál de las siguientes acciones es la más pertinente dentro de un plan de preparación escolar?
+
+### Opciones
+- [ ] A) Construir una ruta de evacuación y fijar a la pared los muebles pesados de cada salón.
+  <!-- feedback: Incorrecto. Ambas acciones son valiosas, pero el plan debe evaluarse como un conjunto y no reducirse a una sola medida. -->
+- [ ] B) Suspender las clases del periodo y esperar a que un comité nacional indique cuándo es seguro volver.
+  <!-- feedback: Incorrecto. Suspender el periodo sin protocolo no es un plan, porque falta la evacuación, los roles y la comunicación. -->
+- [x] C) Definir rutas de evacuación, zonas de encuentro y responsables, y practicar el simulacro con toda la comunidad.
+  <!-- feedback: Correcto. Un plan eficaz combina la preparación física con la organización de roles y la práctica repetida del simulacro. -->
+- [ ] D) Guardar los documentos y el inventario del laboratorio en una caja metálica sellada dentro del aula.
+  <!-- feedback: Incorrecto. El resguardo de documentos es secundario y no sustituye las medidas de evacuación y de protección. -->
+
+### Explicacion Pedagogica
+La preparación ante un sismo combina tres momentos. Primero, reducir el riesgo, lo que implica asegurar el mobiliario, identificar rutas despejadas y revisar las instalaciones. Segundo, organizar la respuesta, lo que exige definir roles claros, rutas de evacuación y puntos de encuentro. Tercero, practicar esos procedimientos mediante simulacros periódicos. Un plan que solo existe en el papel no funciona, porque su eficacia depende de que estudiantes y docentes conozcan su función exacta el día del evento.
+
+## Question 12 [D9-D10]
+**ID:** CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.60
+**Contexto:** En un municipio del Tolima, las autoridades evalúan la instalación de un sistema de alerta temprana de sismos en los barrios de mayor riesgo.
+
+### Enunciado
+Desde la geología, ¿qué sería más razonable esperar de un sistema de alerta temprana de sismos?
+
+### Opciones
+- [ ] A) Que impida que ocurra el sismo, porque detecta la roca antes de que se rompa.
+  <!-- feedback: Incorrecto. Ningún sistema de alerta puede impedir un sismo. Su función es avisar, no prevenir el evento. -->
+- [ ] B) Que elimine el riesgo sísmico de la zona, porque la ciencia garantiza la seguridad de la población.
+  <!-- feedback: Incorrecto. La ciencia no elimina el riesgo. La reducción real depende del uso del suelo y de la calidad de las edificaciones. -->
+- [ ] C) Que sustituya la necesidad de revisar el uso del suelo y de mejorar la calidad de las edificaciones.
+  <!-- feedback: Incorrecto. La alerta temprana complementa la prevención, pero no reemplaza las medidas de construcción y de planeación. -->
+- [x] D) Que avise con algunos segundos de anticipación, y con más intensidad en las zonas cercanas al foco.
+  <!-- feedback: Correcto. La ventaja decisiva es ganar unos segundos y priorizar la alerta en los barrios más cercanos al foco del sismo. -->
+
+### Explicacion Pedagogica
+Un sistema de alerta temprana detecta el sismo en el momento en que se produce y transmite una señal que puede llegar antes que las ondas a las zonas más alejadas. Esa ventaja de unos segundos es decisiva para abandonar un edificio, mientras que los barrios cercanos al foco reciben el aviso con muy poca anticipación. Por eso la alerta temprana no previene el sismo ni elimina el riesgo. Complementa el diseño sismorresistente, el uso adecuado del suelo y la educación de la comunidad, y su aporte es reducir el número de víctimas.
