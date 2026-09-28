@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-10-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T00:46:31.961Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la finalidad principal de un texto expositivo?",
+      "context": "En un colegio de Medellín, la profesora de Lengua pide a sus estudiantes de once grado que revisen el capítulo de un manual dedicado al agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar un tema de manera ordenada para que el lector pueda comprenderlo.",
+          "is_correct": true,
+          "feedback": "Correcto. La exposición informa y explica, y no busca narrar ni convencer."
+        },
+        {
+          "letter": "B",
+          "text": "Contar una historia con personajes y un desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar una historia con personajes es la finalidad del texto narrativo."
+        },
+        {
+          "letter": "C",
+          "text": "Defender una postura para convencer al lector de que tiene razón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Defender una postura y convencer son propios del texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Describir un lugar con detalles para recrear una atmósfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción de un lugar pertenece al texto descriptivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto expositivo tiene como finalidad informar y explicar, de modo que el lector pueda comprender un tema sin ser especialista. Para lograrlo, el autor ordena la información en partes identificables y emplea un lenguaje referencial, preciso y objetivo. La exposición avanza siempre siguiendo una secuencia declarada, que puede ir de lo general hacia lo particular o al revés. Reconocer la finalidad del texto es el paso previo para identificar sus marcas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v2",
+      "statement": "Entre los siguientes enunciados, ¿cuál corresponde al tema de un texto expositivo?",
+      "context": "En el colegio de Pereira, un grupo de once grado compara un manual de consulta con una novela y con un editorial de periódico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Aquella mañana en que el río Jamundí subió de nivel\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese enunciado anuncia un tiempo y un acontecimiento narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "\"El ciclo del agua en el Valle del Cauca\".",
+          "is_correct": true,
+          "feedback": "Correcto. El tema es la materia que el texto expone y explica a lo largo del desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "\"No acepto la decisión del consejo municipal\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese enunciado anuncia una postura, propia de un texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "\"Una tarde en el parque principal\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese enunciado anuncia un escenario y un momento, propios de la narración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tema es la materia que un texto propone explicar, y por eso se formula como un sintagma nominal breve y delimitado. En el caso del agua en el Valle del Cauca, el título anuncia el contenido y permite separar qué se explica y qué queda fuera. No debe confundirse con el asunto general, que puede ser mucho más amplio, ni con una tesis, que aparece más adelante. Reconocer el tema es lo que permite comprobar que el desarrollo se ajusta a lo prometido.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v3",
+      "statement": "En un texto expositivo, una tesis es...",
+      "context": "En un colegio de Bogotá, la profesora de Lengua escribe en el tablero la primera oración de un texto expositivo sobre el agua y pregunta al grupo qué función cumple.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título que anuncia el tema y ocupa la primera línea del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título anuncia el tema, pero la tesis afirma una postura sobre él."
+        },
+        {
+          "letter": "B",
+          "text": "El último párrafo, donde el autor resume todo lo que dijo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen final corresponde a la conclusión, no a la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación que presenta el ángulo desde el que se explica el tema.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis declara el punto de vista que organiza el desarrollo y que el texto sostendrá."
+        },
+        {
+          "letter": "D",
+          "text": "La lista de subtemas que el texto granddaughterá en apartados separados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa enumeración corresponde al sumario, no a la tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis es la afirmación que el texto expone y que ordena todo lo demás. En un texto expositivo suele aparecer al final de la introducción, y su función es declarar el ángulo desde el que se explica el tema. No es el título, porque el título solo nombra la materia, ni el sumario, porque el sumario enumera partes. Su presencia permite que el lector sepa desde el comienzo qué esperar del desarrollo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v4",
+      "statement": "Carolina puede inferir que el texto que lee es expositivo, porque...",
+      "context": "En el colegio de Cali, Carolina lee un texto de seis páginas sobre la seguridad vial en su ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está escrito en segunda persona y se dirige directamente al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La persona gramatical depende del género y no define al texto expositivo."
+        },
+        {
+          "letter": "B",
+          "text": "Incluye datos numéricos y tablas estadísticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos y las tablas pueden aparecer en textos de cualquier género."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene un autor identificado y una fecha de publicación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos de publicación son propios de cualquier escrito con soporte documental."
+        },
+        {
+          "letter": "D",
+          "text": "Explica un tema, presenta subtemas ordenados y termina con una síntesis.",
+          "is_correct": true,
+          "feedback": "Correcto. Esas tres operaciones son propias de la estructura expositiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las marcas del texto expositivo son operativas, no decorativas: el autor explica, ordena y sintetiza. Cuando un texto presenta subtemas separados y cierra con un recapitulativo, sigue la secuencia típica de la exposición. Ninguna de esas operaciones requiere segunda persona, cifras ni datos de publicación. Reconocer las marcas estructurales permite distinguir un texto expositivo de un relato o de un artículo de opinión que trate el mismo tema.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v5",
+      "statement": "Una exposición sobre el coco en el Magdalena cierra con un párrafo que reúne los tres beneficios de la palma y no añade información nueva. ¿Qué función cumple ese párrafo?",
+      "context": "En un colegio de Barranquilla, la profesora de Lengua pide a sus estudiantes de once grado que identifiquen la función de cada párrafo de una exposición sobre el coco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conclusión, porque sintetiza lo esencial del desarrollo y cierra el texto.",
+          "is_correct": true,
+          "feedback": "Correcto. El párrafo reúne los tres puntos ya desarrollados y no incorpora datos nuevos."
+        },
+        {
+          "letter": "B",
+          "text": "Tesis, porque declara el ángulo desde el que se explica el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis anuncia el criterio de la explicación; ese párrafo solo la recoge al final."
+        },
+        {
+          "letter": "C",
+          "text": "Sumario, porque enumera los subtemas que el texto va a desarrollar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no anuncia partes del texto, sino que las repasa al finalizarlas."
+        },
+        {
+          "letter": "D",
+          "text": "Tema, porque nombra la materia que se expone a lo largo del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no nombra una materia, porque ya supone que el tema fue explicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conclusión es la parte de la exposición que reúne lo esencial del desarrollo y cierra el texto. En el ejemplo, los tres beneficios ya explicados vuelven a aparecer reunidos en una sola afirmación, sin que se incorpore ningún dato nuevo. Cuando un párrafo final introduce información que no se había tratado, deja de ser conclusión y rompe la coherencia del conjunto. Reconocer esa función es lo que permite distinguir un buen cierre de un simple remate.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v6",
+      "statement": "Un párrafo que anuncia de manera explícita los subtemas que el texto va a desarrollar es el...",
+      "context": "En el colegio de Bucaramanga, Andrés lee un informe cuyo primer párrafo anuncia lo que se hará en el resto del texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tesis, porque declara el ángulo desde el que se explica el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis afirma una postura, mientras que el sumario solo enumera las partes."
+        },
+        {
+          "letter": "B",
+          "text": "Sumario, porque enumera las partes en que se divide el desarrollo.",
+          "is_correct": true,
+          "feedback": "Correcto. El sumario guía la lectura y hace visible la estructura del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Conclusión, porque recoge lo esencial del texto al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión recapitula, pero no anuncia contenidos que aún no se han dado."
+        },
+        {
+          "letter": "D",
+          "text": "Tema, porque nombra la materia que se expone en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema nombra la materia y no enumera los subtemas del desarrollo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sumario es el párrafo que anuncia y enumera las partes del desarrollo. Su función es doble: guía la lectura del receptor y muestra al lector cómo está organizado el contenido. Suele aparecer después de la introducción, antes de que empiece el desarrollo propiamente dicho. Es una marca de estructura muy útil, porque permite comprobar si luego el texto cumple lo que promete.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v7",
+      "statement": "En el párrafo sobre el metro de Medellín, que afirma que el sistema mueve a millones de personas pero que solo una parte de la población tiene acceso directo a las estaciones, ¿cuál es la idea principal?",
+      "context": "En el colegio de Medellín, la profesora de Lengua entrega a sus estudiantes de once grado un texto expositivo y les pide que subrayen su idea principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El transporte público de Medellín mueve a millones de personas cada día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración es solo una parte del párrafo y omite la restricción que lo completa."
+        },
+        {
+          "letter": "B",
+          "text": "Solo una parte de la población tiene acceso directo a las estaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración también es parcial y deja de lado el dato sobre el movimiento de pasajeros."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema mueve a millones de personas, pero el acceso a las estaciones es limitado para buena parte de la población.",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal conserva el dato y la restricción, que es lo que el párrafo afirma."
+        },
+        {
+          "letter": "D",
+          "text": "La población de Medellín debería construir más estaciones de transporte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no propone una solución, de modo que esa lectura agrega una conclusión que no está."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La idea principal de un párrafo es la afirmación que el párrafo sostiene y a la que los demás elementos sirven de apoyo. En el ejemplo, la cantidad de pasajeros y la limitación de acceso forman una sola afirmación, porque una sin la otra deformaría el sentido. Descartar una de las dos partes es un error frecuente, pues produce una idea parcial en lugar de inexacta. Cuando el párrafo propone una solución, esa propuesta deja de ser idea principal y pasa a ser tesis.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué párrafo inicial cumple mejor la función de presentar el tema y la tesis en un texto expositivo?",
+      "context": "En el colegio de Cali, un equipo de once grado prepara un informe escolar sobre el transporte público y necesita decidir cómo abrirlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"En este trabajo voy a contar mi viaje en bus desde la terminal hasta el centro\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado narrativo no presenta ni tema ni tesis, que son las tareas de la introducción."
+        },
+        {
+          "letter": "B",
+          "text": "\"Existen muchos tipos de transporte: buses, tranvía, metro y bicicleta\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto solo clasifica y no declara la postura desde la que se explica el tema."
+        },
+        {
+          "letter": "C",
+          "text": "\"Como ya saben, este tema es muy importante y por eso lo vamos a trabajar\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La introducción apela a la autoridad del texto y no declara la postura del autor."
+        },
+        {
+          "letter": "D",
+          "text": "\"El transporte público de Cali cumple una función esencial en la movilidad urbana, aunque persisten vacíos en la cobertura\".",
+          "is_correct": true,
+          "feedback": "Correcto. Nombra la materia y declara desde qué ángulo se explica, que es lo propio de la introducción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La introducción de un texto expositivo cumple dos tareas: presentar el tema y declarar la tesis, es decir, el ángulo desde el que se explica. El ejemplo adecuado nombra la materia y anuncia la relación que el desarrollo va a poner en detalle, en este caso la utilidad del sistema y sus vacíos de cobertura. Un párrafo narrativo, uno meramente clasificatorio o uno que solo apela a la importancia del asunto no cumplen ninguna de las dos tareas. Por eso conviene leer el primer párrafo como si fuera una promesa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v9",
+      "statement": "En el esquema de un texto expositivo, la conclusión cumple la tarea de...",
+      "context": "En el colegio de Pereira, la profesora de Lengua presenta a sus estudiantes de once grado el esquema de una exposición sobre el reciclaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recapitular lo esencial del desarrollo y cerrar el texto con una síntesis.",
+          "is_correct": true,
+          "feedback": "Correcto. La conclusión recoge las ideas centrales y no introduce contenido nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "Abrir el tema con una definición amplia y una tesis general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la tarea de la introducción y no la de la conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenar el contenido en subtemas enumerados antes del desarrollo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función del sumario, que precede al desarrollo."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir un dato nuevo que amplíe la información del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un dato nuevo al final rompe el cierre y desorienta al lector."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conclusión es la parte del texto expositivo que recapitula lo esencial y cierra la secuencia. No añade información nueva, porque su función es comprimir lo ya explicado y dejarlo organizado en la memoria del lector. Suele formularse con conectores de cierre, como \"en conclusión\" o \"en síntesis\". Cuando una conclusión incorpora datos que no estaban en el desarrollo, el texto pierde su coherencia interna.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v10",
+      "statement": "Una exposición sobre el reciclaje en Bogotá cierra con un párrafo que menciona por primera vez una estadística de otro país. Ese cierre presenta un problema de...",
+      "context": "En un colegio de Bogotá, el profesor de Lengua pide a sus estudiantes de once grado que diagnostiquen el defecto del párrafo final de un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Redacción, porque el párrafo final debe ser más extenso que los anteriores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del párrafo final no es la causa del defecto analizado."
+        },
+        {
+          "letter": "B",
+          "text": "Coherencia, porque el dato no se deriva de lo explicado antes.",
+          "is_correct": true,
+          "feedback": "Correcto. Una información que no se sigue del desarrollo rompe la secuencia del conjunto."
+        },
+        {
+          "letter": "C",
+          "text": "Ortografía, porque la cifra publicada en otro idioma no está traducida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma escrita de la cifra no explica la ruptura lógica del cierre."
+        },
+        {
+          "letter": "D",
+          "text": "Cohesión, porque al párrafo le faltan los conectores de cierre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Añadir conectores no resuelve la aparición de un dato nuevo e inesperado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el cierre de un texto introduce un dato que no se deduce del desarrollo, se rompe la coherencia del conjunto. El problema no está en las marcas que faltan, sino en la aparición de un contenido que no pertenece a la secuencia explicada. Añadir conectores solo haría más visible la ruptura. Diagnosticar correctamente el defecto evita gastar la revisión en cambios de estilo que no reparan el texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v11",
+      "statement": "Un texto empieza diciendo que la Cartagena de hoy es una ciudad que crece sin control, y continúa desde ahí con datos y ejemplos que apoyan esa afirmación. ¿Qué valor tiene ese inicio?",
+      "context": "En un colegio de Barranquilla, la profesora de Lengua muestra a sus estudiantes de once grado dos versiones del inicio de un texto expositivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta el tema de manera general antes de explicarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La generalidad sin una tesis declarada no cumple la función de la introducción."
+        },
+        {
+          "letter": "B",
+          "text": "Enumera los subtemas que el texto cubrirá en apartados separados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enumeración de subtemas corresponde al sumario y no al inicio del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Declara la tesis que ordena el desarrollo.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis ofrece al lector el criterio con el que debe leer todo lo que viene después."
+        },
+        {
+          "letter": "D",
+          "text": "Es un mal inicio, porque toda introducción expositiva debe empezar con una definición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe norma que obligue a definir el término en la primera oración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una introducción expositiva cumple su función cuando presenta el tema y declara la tesis, el ángulo desde el que se explicará. Cuando esa declaración falta, el lector recibe el tema pero no el criterio con el que debe interpretar lo que viene. Un inicio que solo enumera subtemas corresponde al sumario, que tiene otra ubicación y otra función. Por eso la calidad de una introducción depende de la presencia de la tesis y no de su forma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v12",
+      "statement": "Un sumario que enumera tres subtemas, de los cuales el desarrollo solo trata uno, convierte al texto en un ejemplo de obra...",
+      "context": "En el colegio de Medellín, un grupo de once grado analiza por qué el sumario de un manual escolar resulta inútil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coherente, porque la enumeración de subtemas basta para dar carácter expositivo al texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marca de estructura existe, pero incumple lo que promete el desarrollo."
+        },
+        {
+          "letter": "B",
+          "text": "Poco cohesionada, porque el sumario debería usar más conectores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la cantidad de marcas, sino el incumplimiento de lo anunciado."
+        },
+        {
+          "letter": "C",
+          "text": "Redundante, porque el sumario repite el título del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir el título no explica por qué el desarrollo trata uno solo de los tres subtemas."
+        },
+        {
+          "letter": "D",
+          "text": "Incoherente, porque la estructura anunciada no coincide con el contenido desarrollado.",
+          "is_correct": true,
+          "feedback": "Correcto. La promesa del sumario no se cumple y la secuencia global del texto se rompe."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El sumario es una promesa que el desarrollo debe cumplir. Si dos de los tres subtemas anunciados nunca se desarrollan, el conjunto del texto pierde la relación entre lo que anuncia y lo que entrega. Esa ruptura afecta a la coherencia, porque la secuencia global deja de seguirse. Añadir conectores o repetir el título no resuelve un incumplimiento de contenido, de modo que el diagnóstico debe hacerse sobre el desarrollo y no sobre las marcas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v13",
+      "statement": "Al reconstruir un texto expositivo, el lector usa el sumario y los conectores de cierre para inferir que...",
+      "context": "En el colegio de Cali, la profesora de Lengua pide a sus estudiantes de once grado que reconstruyan el orden de un texto impreso con las páginas mezcladas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión llega después del desarrollo y no antes de él.",
+          "is_correct": true,
+          "feedback": "Correcto. La posición del sumario y la función de cierre de los conectores fijan ese orden."
+        },
+        {
+          "letter": "B",
+          "text": "El autor cambió de opinión a mitad del texto y volvió luego a su postura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en esas marcas indica un cambio de postura del autor."
+        },
+        {
+          "letter": "C",
+          "text": "El texto tiene dos tesis distintas, una por cada mitad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto expositivo declara una sola tesis y ella ordena todo el desarrollo."
+        },
+        {
+          "letter": "D",
+          "text": "El desarrollo del texto es de carácter narrativo y no expositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las marcas empleadas pertenecen a la secuencia expositiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las marcas de estructura permiten al lector reconstruir el orden lógico de un texto. El sumario, que anuncia las partes, solo tiene sentido si aparece antes del desarrollo, y los conectores de cierre solo tienen sentido si están al final. Juntas, esas señales acotan la secuencia y permiten inferir el orden sin información adicional. Ese razonamiento es una inferencia de segundo nivel, porque el lector deduce la estructura a partir de marcas y no de una declaración explícita.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v14",
+      "statement": "Un grupo de estudiantes debe resumir una exposición de diez páginas. ¿Qué estrategia de lectura es la más adecuada?",
+      "context": "En el colegio de Pereira, la profesora de Lengua propone a sus estudiantes de once grado una estrategia para abordar textos expositivos extensos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leerla completa tres veces seguidas, en silencio y con diccionario en mano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición mecánica de la lectura no garantiza que se identifique la estructura."
+        },
+        {
+          "letter": "B",
+          "text": "Delimitar primero la estructura y después leer cada parte con la tesis como criterio.",
+          "is_correct": true,
+          "feedback": "Correcto. Identificar las partes antes de leer evita la lectura lineal sin propósito."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar primero todas las palabras técnicas y definirlas una por una.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acaparar el trabajo con el léxico deja de lado la organización del contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Subrayar todas las palabras técnicas que aparezcan en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subrayar sin criterio no permite reconstruir ni la tesis ni el desarrollo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una estrategia de lectura para textos expositivos extensos empieza por reconocer la estructura y no por leer de corrido. El sumario y los subtítulos entregan el mapa del texto, y la tesis ofrece el criterio con el que se lee cada apartado. Con ese marco, la lectura deja de ser lineal y se vuelve selectiva, y el resumen final sale de un trabajo previo de organización. Las estrategias puramente mecánicas no producen ese beneficio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v15",
+      "statement": "Un texto que usa verbos en segunda persona y ejemplos cotidianos, en vez de datos y tecnicismos, se ha escrito probablemente para un destinatario...",
+      "context": "En el colegio de Bucaramanga, la profesora de Lengua pide a sus estudiantes de once grado que comparen el estilo de dos textos sobre el mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Especializado, porque la segunda persona y los ejemplos son marcas del lenguaje técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas marcas corresponden al registro divulgativo y no al técnico-científico."
+        },
+        {
+          "letter": "B",
+          "text": "Infantil, porque el registro informal es propio de la literatura infantil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede usar la segunda persona sin ser un texto infantil."
+        },
+        {
+          "letter": "C",
+          "text": "General, porque simplifica el tema para que cualquier lector pueda entenderlo.",
+          "is_correct": true,
+          "feedback": "Correcto. El tratamiento cercano y los ejemplos cotidianos responden a un lector no especializado."
+        },
+        {
+          "letter": "D",
+          "text": "Es inevitable, porque cualquier texto sobre educación va dirigido a la comunidad educativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El destinatario se deduce del registro y no del tema que se trata."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El registro y los ejemplos empleados revelan el destinatario real de un texto. El uso de la segunda persona y de situaciones cotidianas corresponde a un texto divulgativo, dirigido a un lector general que no domina el tema. En cambio, los tecnicismos, las definiciones precisas y los datos identifican a un destinatario especializado. Por eso el mismo tema puede requerir dos textos distintos según quién se pretenda informar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v16",
+      "statement": "Un hospital de Bogotá publica en su página una explicación de un procedimiento médico usando tecnicismos y sin ejemplos. ¿Qué problema de lectura presenta ese texto?",
+      "context": "En un colegio de Bogotá, la profesora de Lengua trabaja con sus estudiantes de once grado un caso de comunicación institucional local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un problema de tesis, porque el texto no declara el ángulo desde el que explica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de tesis es posible, pero no es lo que el enunciado describe."
+        },
+        {
+          "letter": "B",
+          "text": "Es un problema de destinatario, porque el texto se dirige a un público infantil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema descrito no es la edad del público, sino el nivel de dificultad."
+        },
+        {
+          "letter": "C",
+          "text": "Es un problema de sumario, porque el procedimiento no aparece enumerado paso a paso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado destaca el uso de tecnicismos y no la falta de enumeración."
+        },
+        {
+          "letter": "D",
+          "text": "Es un problema de adecuación, porque el registro no corresponde al lector al que se dirige.",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto dirigido a pacientes generales no puede apoyarse solo en tecnicismos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto expositivo debe ajustar su registro al destinatario para que la explicación llegue. Si se dirige a pacientes sin formación técnica y se apoya únicamente en tecnicismos, la explicación se vuelve inaccesible. El problema no está en el tema, que puede ser complejo, sino en la decisión de no traducirlo a un lenguaje comprensible. La adecuación es una consideración permanente en todo texto informativo de carácter público.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v17",
+      "statement": "Un texto ordena datos sobre el acceso al agua en varios municipios y los presenta al servicio de una conclusión que quiere imponer. ¿Qué género tiene y por qué?",
+      "context": "En el colegio de Cali, un grupo de once grado discute si un texto de opinión del periódico local es expositivo o argumentativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentativo, porque ordena los datos al servicio de una conclusión que quiere imponer.",
+          "is_correct": true,
+          "feedback": "Correcto. La selección de datos con un fin persuasivo es la marca que lo define."
+        },
+        {
+          "letter": "B",
+          "text": "Expositivo, porque toda noticia que informa sobre un asunto local es un texto expositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Informar no basta, hay que comprobar si el texto explica o si defiende una postura."
+        },
+        {
+          "letter": "C",
+          "text": "Expositivo, porque no utiliza tecnicismos ni datos numéricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de tecnicismos no es una marca que defina al texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "Narrativo, porque relata hechos que ocurrieron en distintos municipios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Relatar hechos no basta para que un texto sea narrativo, aquí importa la intención."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diferencia entre un texto expositivo y uno argumentativo no está en la cantidad de información, sino en la intención. El expositivo ordena la información para que el lector comprenda el tema; el argumentativo selecciona y ordena los datos al servicio de una conclusión que quiere imponer. Cuando la selección de hechos responde a una tesis, el género es argumentativo aunque el tratado sea de interés general. Por eso la intención del autor es el criterio más seguro para clasificar un texto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v18",
+      "statement": "Un equipo de once grado decide explicar las causas de un problema social con datos que empiezan en las cifras generales y terminan en el caso de su colegio. Esa decisión corresponde a una secuencia...",
+      "context": "En el colegio de Barranquilla, la profesora de Lengua pide a sus estudiantes de once grado que justifiquen la elección de la secuencia en un informe escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inductiva, porque va de lo particular a lo general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción corresponde al recorrido inverso al que el equipo eligió."
+        },
+        {
+          "letter": "B",
+          "text": "Deductiva, porque va de lo general a lo particular.",
+          "is_correct": true,
+          "feedback": "Correcto. El equipo parte de las cifras generales y desciende hasta el caso concreto."
+        },
+        {
+          "letter": "C",
+          "text": "Mixta, porque alterna varias veces entre lo general y lo particular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recorrido descrito no alterna, sino que avanza en una sola dirección."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque toda secuencia expositiva debe empezar por un ejemplo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La secuencia deductiva es legítima y no exige comenzar con un ejemplo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La secuencia deductiva parte de una afirmación general y desciende después hacia los casos particulares que la respaldan. La inductiva hace lo contrario: reúne particulares para llegar a una conclusión general. Elegir una u otra depende de lo que el autor tenga más desarrollado y de la fuerza de su conclusión. En un informe escolar, partir de las cifras generales y terminar en el caso local es un recurso deductivo claro.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v19",
+      "statement": "¿Qué acción de lectura es la más pertinente para verificar si el texto cumple la función expositiva?",
+      "context": "En el colegio de Pereira, un equipo de once grado prepara la versión final de un informe escolar sobre la biblioteca municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar el título y comprobar que tiene una sola línea y pocas palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud del título no dice nada sobre la función del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Subrayar todas las oraciones que contengan un verbo en segunda persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda persona es una marca de registro y no una marca de estructura."
+        },
+        {
+          "letter": "C",
+          "text": "Localizar la tesis, el sumario y la conclusión, y comprobar que se relacionan con el mismo tema.",
+          "is_correct": true,
+          "feedback": "Correcto. Esas tres partes, coherentes entre sí, evidencian la estructura propia del texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "Contar los números que aparecen para comprobar que el texto tiene respaldo numérico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de cifras no determina la función del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para verificar la función expositiva hay que buscar las marcas de estructura y no los rasgos de estilo. La tesis declara el ángulo, el sumario anuncia las partes y la conclusión recapitula el conjunto. Si las tres existen y se refieren al mismo tema, el texto cumple la secuencia expositiva. Rasgos como la cantidad de cifras o el uso de la segunda persona pueden aparecer en otros géneros y no sirven como prueba.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle-v20",
+      "statement": "Un texto municipal de Bucaramanga sobre el programa de bibliotecas anuncia cinco proyectos y no explica ninguno. ¿Es aceptable como texto expositivo?",
+      "context": "En el colegio de Bucaramanga, la profesora de Lengua pide a sus estudiantes de once grado que valoren un texto de la administración municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es aceptable, porque cualquier texto de una entidad oficial debe considerarse expositivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen institucional no determina el género, hay que analizar su estructura."
+        },
+        {
+          "letter": "B",
+          "text": "No es aceptable, porque un texto municipal no puede usar tecnicismos administrativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de tecnicismos no excluye la estructura expositiva."
+        },
+        {
+          "letter": "C",
+          "text": "No es aceptable, porque el texto expositivo debe tratar temas de interés general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición no está en el tema, sino en la presencia de las marcas de estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Es aceptable solo si presenta tema, tesis, desarrollo ordenado y conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura, y no la procedencia, es lo que garantiza que el texto cumpla la función."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La procedencia de un texto no garantiza su función. Un documento municipal puede ser expositivo si presenta tema, tesis, desarrollo ordenado y conclusión, y falla en esa estructura si solo anuncia nombres de proyectos sin explicarlos. Evaluarlo exige revisar las marcas internas y no la entidad que lo publica. Esa distinción permite aplicar el mismo criterio de análisis a textos de prensa, de la administración y del aula.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
