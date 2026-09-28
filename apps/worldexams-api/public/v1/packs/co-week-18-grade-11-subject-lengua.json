@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T02:17:50.406Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función de los dos puntos en la frase anotada por la estudiante?",
+      "context": "En un trabajo grupal de undécimo grado en Bogotá, una estudiante anota en su cuaderno de lenguaje la frase que la profesora usó como ejemplo: \"Sus tres metas fueron estas: un simulacro de la cohorte, un boletín de resultados y un oficio para la beca\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticipan y delimitan la información concreta que precisa lo que se afirma antes del signo",
+          "is_correct": true,
+          "feedback": "Los dos puntos anuncian el contenido que viene: en este caso, la enumeración de las tres metas que se iba a mencionar."
+        },
+        {
+          "letter": "B",
+          "text": "Separan dos oraciones completas que expresan ideas relacionadas entre sí",
+          "is_correct": false,
+          "feedback": "Esa es la función del punto y coma. Los dos puntos no se colocan entre dos oraciones con verbo propio."
+        },
+        {
+          "letter": "C",
+          "text": "Señalan una pausa que el lector puede eliminar sin alterar el sentido del texto",
+          "is_correct": false,
+          "feedback": "Los dos puntos no son una pausa opcional: son un signo obligatorio de relación entre lo anunciado y lo precisado."
+        },
+        {
+          "letter": "D",
+          "text": "Cierran una cita textual y señalan que terminó el discurso del autor",
+          "is_correct": false,
+          "feedback": "Los dos puntos pueden abrir una cita cuando siguen a un verbo de habla, pero no cierran citas ni delimitan el discurso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La función central de los dos puntos es anticipar la parte del discurso que explica, precisa, enumera o resume lo que se ha afirmado antes. La norma prescribe que se escriban sin espacio antes y con mayúscula después. En el ejemplo, la enumeración de las tres metas es la información que se anuncia y se precisa, por lo que el signo actúa como puente entre la afirmación general y su desarrollo. Reconocer esta función permite distinguirlos de otros signos próximos, como el punto y coma, que separa oraciones completas, y esa distinción se evalúa con frecuencia en la prueba Saber 11.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v2",
+      "statement": "¿Qué comunica literalmente el punto y coma en esa frase?",
+      "context": "En el grupo de mensajería de undécimo dos en Barranquilla, la alumna líder resume la reunión del comité: \"Quedamos de entregar el ensayo el martes; yo me encargo de imprimirlo y tú revisas la bibliografía\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Separa dos oraciones completas que se relacionan entre sí por un mismo asunto",
+          "is_correct": true,
+          "feedback": "Cada parte tiene verbo propio (\"quedamos\" y \"me encargo\") y las dos expresan hechos del mismo acuerdo, unidos por el signo."
+        },
+        {
+          "letter": "B",
+          "text": "Introduce una explicación que aclara por qué el ensayo debe entregarse el martes",
+          "is_correct": false,
+          "feedback": "No hay nada que aclarar en la frase: el punto y coma solo enlaza dos hechos, no anuncia una explicación."
+        },
+        {
+          "letter": "C",
+          "text": "Delimita la lista de tareas pendientes dentro de un mismo período",
+          "is_correct": false,
+          "feedback": "No hay enumeración después del signo. Las tareas aparecen coordinadas por la conjunción \"y\" dentro de la segunda oración."
+        },
+        {
+          "letter": "D",
+          "text": "Indica una pausa que el lector puede eliminar sin alterar el contenido",
+          "is_correct": false,
+          "feedback": "El punto y coma es un signo de relación, no una pausa opcional: quitarlo fusionaría dos oraciones y perdería el vínculo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto y coma separa dos proposiciones independientes, es decir, dos segmentos con verbo propio y sentido completo, y establece entre ellas una relación de causa, consecuencia, condición o contraste. En el ejemplo, la primera proposición informa la fecha acordada y la segunda distribuye una responsabilidad concreta, por lo que el punto y coma hace visible una relación que, de otro modo, quedaría oculta. Este uso es frecuente en informes, textos expositivos y artículos de opinión, y su reconocimiento forma parte del componente de lectura literal de la prueba Saber 11.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v3",
+      "statement": "Según la estrategia de lectura de anticipación, ¿qué información útil obtiene el lector al observar la puntuación de un texto antes de leerlo por completo?",
+      "context": "En la biblioteca de un colegio de Pereira, la profesora de lenguaje propone, antes de leer una crónica del siglo XIX, que los estudiantes observen únicamente la puntuación de la primera página.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticipa cómo está organizado el texto y qué relaciones hay entre sus ideas",
+          "is_correct": true,
+          "feedback": "Los puntos y las comas permiten suponer los límites de las ideas y los nexos entre ellas, lo cual orienta la lectura inicial."
+        },
+        {
+          "letter": "B",
+          "text": "Averigua si el texto es verdadero o falso según el tono de su puntuación",
+          "is_correct": false,
+          "feedback": "La puntuación no verdadifica ni desmiente: su función es estructural y relacional, no de veracidad."
+        },
+        {
+          "letter": "C",
+          "text": "Calcula el número de páginas que le falta por leer antes de empezar",
+          "is_correct": false,
+          "feedback": "Es una lectura equivocada: la puntuación anticipa la organización del contenido, no la extensión del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Determina el género del texto contando cuántos signos de puntuación aparecen",
+          "is_correct": false,
+          "feedback": "Contar signos no determina el género: la anticipación se basa en la distribución y el sentido de los signos, no en la cantidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La anticipación consiste en obtener información del texto antes de la lectura completa a partir de elementos como el título, los subtítulos, las imágenes, las palabras destacadas y la puntuación. Una página con muchos puntos y oraciones breves sugiere un texto segmentado, como un relato dialogado o un instructivo; una página con oraciones largas separadas por puntos y comas sugiere un texto expositivo argumentativo. Reconocer esta información orienta la lectura y activa conocimientos previos, y es una de las estrategias evaluadas en el componente de lectura crítica de la prueba Saber 11.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v4",
+      "statement": "En ese afiche, ¿qué función cumple el punto que separa \"dibujo\" de \"poesía\"?",
+      "context": "En el afiche de la convatoria del festival de arte escolar de Bucaramanga, la comisión escribe: \"Se premiarán tres modalidades. Dibujo. Poesía. Performance.\" El afiche se fija en la entrada del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierra cada elemento de la lista y marca el paso de una modalidad a la siguiente",
+          "is_correct": true,
+          "feedback": "En una enumeración, el punto separa los elementos de la lista y permite leer cada uno como una unidad independiente."
+        },
+        {
+          "letter": "B",
+          "text": "Divide el afiche en dos partes de igual extensión",
+          "is_correct": false,
+          "feedback": "El punto no crea bloques de texto: la separación depende de la sangría, del espacio en blanco o del cambio de línea."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye a la coma que debería separar el sujeto del predicado de la oración",
+          "is_correct": false,
+          "feedback": "En la lista del afiche el punto marca el cierre de cada elemento; dentro de una oración el punto nunca cumple la función de separar el sujeto de su verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la lista de modalidades continúa en otra parte del afiche",
+          "is_correct": false,
+          "feedback": "El punto entre elementos marca el paso de una modalidad a otra, no que la lista esté incompleta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las listas que se presentan en líneas separadas, como ocurre en afiches, agendas y listas de requisitos, cada elemento suele cerrarse con un punto y solo el último recibe el punto de cierre de la oración. Ese recurso permite leer cada modalidad como una unidad autónoma y no como una continuación de la anterior, aunque no corresponde a las enumeraciones escritas dentro de una oración, donde se emplean comas o punto y coma. Reconocer la diferencia entre la puntuación de una lista y la de una oración resulta clave en documentos reales de la comunidad, como las convatorias de un festival escolar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v5",
+      "statement": "Un compañero afirma que esa diapositiva está mal puntuada porque mezcla dos signos. ¿Cuál es la valoración correcta?",
+      "context": "Un grupo de undécimo grado de Medellín prepara una presentación sobre el agua y redacta la diapositiva inicial: \"Hoy presentamos tres datos: el consumo de agua potable disminuyó en varios municipios del país, la sequía afectó los cultivos de los valles del Cauca y del Tolima, y el ahorro doméstico aumentó, según el informe que la clase revisó la semana pasada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diapositiva está bien puntuada, porque los dos puntos anuncian la lista de datos y la coma identifica la fuente",
+          "is_correct": true,
+          "feedback": "Los dos puntos introducen la enumeración que se anuncia y la coma separa el dato de su fuente, que es un dato complementario."
+        },
+        {
+          "letter": "B",
+          "text": "La diapositiva está mal puntuada, porque los dos puntos deben reemplazarse por un punto y coma",
+          "is_correct": false,
+          "feedback": "El punto y coma separa oraciones completas; aquí el verbo anuncia un contenido que se enumera, y para eso sirven los dos puntos."
+        },
+        {
+          "letter": "C",
+          "text": "La diapositiva está mal puntuada, porque la fuente debe escribirse después de un punto y no después de una coma",
+          "is_correct": false,
+          "feedback": "Un dato complementario se une con coma al resto de la proposición; el punto cerraría la oración y la volvería incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "La diapositiva está bien puntuada, aunque conviene cambiar la coma por dos puntos para evitar la mezcla de signos",
+          "is_correct": false,
+          "feedback": "La mezcla de signos no es un problema: los dos puntos y las comas cumplen funciones distintas y pueden convivir en la misma oración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la puntuación exige reconocer qué relación existe entre las partes de la oración antes de elegir el signo. En este caso, el verbo \"presentamos\" anuncia un contenido que se despliega a continuación, de modo que los dos puntos son el signo que anuncia la enumeración, y la coma permite añadir la identificación de la fuente sin abrir una nueva proposición. La norma desaconseja el uso abusivo de los dos puntos, por lo que conviene usarlos una sola vez y de manera precisa; aquí su uso es legítimo y necesario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto busca el autor al intercalar el inciso \"el Metrocable de Medellín\" entre guiones dentro de esa oración?",
+      "context": "En una nota de opinión del periódico escolar de Bucaramanga, un estudiante de undécimo grado escribe: \"En varias ciudades del país los cables suspendidos -el Metrocable de Medellín- cambiaron la forma de pensar la movilidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marcar una opinión personal que contradice lo que el resto del párrafo defiende",
+          "is_correct": false,
+          "feedback": "Los guiones no señalan cambio de opinión: aíslan un elemento que se integra al sentido general de la oración."
+        },
+        {
+          "letter": "B",
+          "text": "Precisa qué sistema de transporte está nombrando, sin interrumpir el hilo principal de la oración",
+          "is_correct": true,
+          "feedback": "El inciso aísla una precisión identificadora que el lector necesita para entender de qué sistema se habla."
+        },
+        {
+          "letter": "C",
+          "text": "Señalar que la información que sigue es una cita tomada de otra fuente",
+          "is_correct": false,
+          "feedback": "Las citas se marcan con comillas. El inciso entre guiones aporta una precisión propia del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Suspender la argumentación porque el autor duda de los datos que presenta",
+          "is_correct": false,
+          "feedback": "No hay suspensión ni duda: el inciso refuerza el argumento al volver más concreto lo que se afirma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los guiones se emplean para intercalar, aislar y precisar elementos dentro de una oración, con frecuencia para aportar una explicación, un ejemplo o una aclaración que el autor quiere destacar sin alterar el hilo principal del discurso. El lector debe inferir, a partir del contenido del inciso y de su posición, qué función cumple en el texto y cómo afecta la comprensión. En la prueba Saber 11 este tipo de pregunta exige relacionar el signo con su efecto en la construcción del sentido, y no solo con la forma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la forma correcta de unir las dos afirmaciones en un solo período y hacer visible esa relación?",
+      "context": "En la presentación oral de un proyecto de undécimo grado en Bogotá, la expositora quiere unir dos afirmaciones completas que guardan una relación de condición: \"La comunidad del barrio pidió apoyo al consejo distrital\" y \"Sin esa gestión, el proyecto no habría avanzado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comunidad del barrio pidió apoyo al consejo distrital: sin esa gestión, el proyecto no habría avanzado.",
+          "is_correct": false,
+          "feedback": "Los dos puntos también pueden enlazar las ideas, pero aquí se quiere separar dos hechos relacionados, no anunciar una explicación."
+        },
+        {
+          "letter": "B",
+          "text": "La comunidad del barrio pidió apoyo al consejo distrital; sin esa gestión, el proyecto no habría avanzado.",
+          "is_correct": true,
+          "feedback": "El punto y coma separa las dos proposiciones completas y deja explícita la relación de condición que el autor quiere señalar."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad del barrio, pidió apoyo al consejo distrital; sin esa gestión, el proyecto no habría avanzado.",
+          "is_correct": false,
+          "feedback": "La coma entre el sujeto y su verbo es incorrecta: en español no se separa el sujeto del predicado con ese signo."
+        },
+        {
+          "letter": "D",
+          "text": "La comunidad del barrio pidió apoyo al consejo distrital sin esa gestión, el proyecto no habría avanzado.",
+          "is_correct": false,
+          "feedback": "Una sola coma entre dos proposiciones completas impide ver dónde termina la primera idea y hace ambigua la relación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para puntuar correctamente dos ideas, es necesario identificar qué relación existe entre ellas: enumeración, explicación, causa, consecuencia o condición. La norma establece que el punto y coma puede usarse en lugar del punto cuando las proposiciones unidas guardan entre sí una relación de causa, consecuencia, condición, tiempo o lugar. En este caso la segunda idea es una condición que modifica la primera, por lo que el punto y coma resulta el signo más preciso. Aplicar esta distinción es parte del uso escrito que se evalúa en la prueba Saber 11.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la forma correcta de completar la puntuación de esa frase?",
+      "context": "En el cuaderno de un estudiante de undécimo grado de Barranquilla aparece copiada, sin ningún signo de puntuación de cierre, una frase de un texto de matemáticas: \"en la segunda unidad vimos dos temas: las ecuaciones de primer grado y las funciones lineales\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«En la segunda unidad vimos dos temas; las ecuaciones de primer grado y las funciones lineales.» El punto y coma separa los dos temas.",
+          "is_correct": false,
+          "feedback": "El punto y coma solo se emplea entre proposiciones con sentido completo, y aquí hay un solo verbo que anuncia una enumeración, no dos oraciones."
+        },
+        {
+          "letter": "B",
+          "text": "«En la segunda unidad vimos dos temas: las ecuaciones de primer grado y las funciones lineales». Los dos puntos anuncian la enumeración y el punto final cierra la oración.",
+          "is_correct": true,
+          "feedback": "Es correcta. Los dos puntos introducen lo que se enumera y, como la lista es breve, sus dos elementos se separan con comas hasta el punto de cierre."
+        },
+        {
+          "letter": "C",
+          "text": "«En la segunda unidad vimos dos temas, las ecuaciones de primer grado y las funciones lineales.» La coma basta para introducir la enumeración.",
+          "is_correct": false,
+          "feedback": "La coma no anuncia el contenido que va a enumerarse: esa función de anticipación corresponde a los dos puntos."
+        },
+        {
+          "letter": "D",
+          "text": "«En la segunda unidad vimos dos temas: las ecuaciones de primer grado, y las funciones lineales.» La coma antes de la conjunción final es obligatoria.",
+          "is_correct": false,
+          "feedback": "En una lista breve la conjunción final no se precede de coma, y esa coma adicional es incorrecta según la norma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos puntos anuncian el contenido que viene a continuación, en este caso una enumeración de dos temas. Dentro de esa enumeración breve los elementos se separan con comas y la conjunción final cierra la lista sin coma previa; el punto de cierre se coloca al final de la oración. Distinguir el signo que anuncia, que son los dos puntos, de los que separan elementos, como la coma y el punto y coma en listas largas, es uno de los errores más frecuentes al transcribir textos técnicos y aparece con frecuencia en las preguntas de lectura de la prueba Saber 11.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la forma correcta de puntuar ese discurso directo dentro del relato de la entrevista?",
+      "context": "En una entrevista de práctica que un grupo de undécimo grado de Bogotá le hace a una autoridad local, el entrevistado responde en el salón de clases: \"Estudié en el colegio del barrio y allí aprendí a leer con ahinco\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El entrevistado respondió, \"estudié en el colegio del barrio y allí aprendí a leer con ahinco\".",
+          "is_correct": false,
+          "feedback": "Después del verbo de habla se necesitan dos puntos, y la cita que empieza con un verbo debe llevar mayúscula inicial."
+        },
+        {
+          "letter": "B",
+          "text": "El entrevistado respondió: \"Estudié en el colegio del barrio y allí aprendí a leer con ahinco\".",
+          "is_correct": true,
+          "feedback": "Los dos puntos después del verbo de habla y las comillas delimitan la cita, y el punto final va antes del cierre."
+        },
+        {
+          "letter": "C",
+          "text": "El entrevistado respondió: estudié en el colegio del barrio y allí aprendí a leer con ahinco.",
+          "is_correct": false,
+          "feedback": "Faltan las comillas que delimitan el discurso directo, de modo que no se distingue la voz del entrevistado."
+        },
+        {
+          "letter": "D",
+          "text": "El entrevistado respondió \"estudié en el colegio del barrio y allí aprendí a leer con ahinco\".",
+          "is_correct": false,
+          "feedback": "Sin los dos puntos, la relación entre el verbo de habla y la cita queda imprecisa y la minúscula inicial integra la cita al relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El discurso directo se marca con comillas y, cuando lo introduce un verbo de habla o de escritura, se precede de dos puntos, salvo que ya exista otro signo de puntuación. Si la cita es una oración independiente, la primera palabra se escribe con mayúscula y el punto final se coloca antes del cierre de las comillas. En el discurso indirecto, en cambio, no se usan comillas y el verbo de habla suele ir seguido de la conjunción que. Estos criterios son la base para transcribir y citar correctamente en trabajos escritos, reseñas y notas de prensa evaluados en la prueba Saber 11.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué la información \"escrita en cuatro capítulos\" debe ir entre paréntesis y no entre dos puntos?",
+      "context": "Al revisar la tesis de un compañero de undécimo grado de Pereira, el estudiante usa el paréntesis para anotar la extensión del trabajo: \"Su tesis (escrita en cuatro capítulos) tiene cuarenta páginas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los dos puntos solo pueden usarse en textos históricos y no en trabajos académicos",
+          "is_correct": false,
+          "feedback": "Es una afirmación falsa: los dos puntos cumplen la misma función en cualquier tipo de texto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un dato complementario que puede eliminarse sin alterar el sentido central de la oración",
+          "is_correct": true,
+          "feedback": "Los paréntesis aíslan información secundaria: si se retira la frase, la idea principal de la oración sigue siendo completa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el paréntesis es el único signo capaz de expresar una opinión sobre lo que se dice",
+          "is_correct": false,
+          "feedback": "Los paréntesis pueden contener opiniones, pero su función principal es insertar un dato complementario."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el paréntesis solo puede contener números, fechas y cifras",
+          "is_correct": false,
+          "feedback": "El paréntesis admite cualquier información: datos, ejemplos, aclaraciones o explicaciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los paréntesis se utilizan para intercalar información que el autor considera secundaria o que el lector puede prescindir sin perder el sentido del texto: datos estadísticos, ejemplos, aclaraciones de tecnicismos o casos particulares. A diferencia de los dos puntos, que anuncian y obligan a una explicación posterior, el paréntesis aporta un elemento prescindible. Saber distinguir ambos signos es fundamental durante la lectura crítica de textos académicos, porque permite identificar qué información sostiene el argumento central y qué información solo lo complementa, distinción evaluada en la prueba Saber 11.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v11",
+      "statement": "¿Qué problema de construcción del sentido produce esa puntuación y cómo se resolvería?",
+      "context": "En el periódico escolar de Barranquilla aparece el titular: \"Los estudiantes llegaron tarde, el profesor los esperó durante cuarenta minutos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El titular necesita dos puntos antes de \"el profesor\", porque se anuncia una explicación",
+          "is_correct": false,
+          "feedback": "Los dos puntos no se colocan entre dos oraciones completas: se reservan para enumerar, explicar, citar o resumir."
+        },
+        {
+          "letter": "B",
+          "text": "El titular usa demasiadas comas, por lo que el punto final debería reemplazarse por una coma",
+          "is_correct": false,
+          "feedback": "El problema no es el número de comas, sino la unión de dos proposiciones principales mediante un signo que no corresponde."
+        },
+        {
+          "letter": "C",
+          "text": "La coma une dos oraciones completas sin marcar su relación, y se resolvería con un punto y coma o con un punto",
+          "is_correct": true,
+          "feedback": "La relación queda ambigua y el lector no distingue dónde termina la primera idea ni cómo se enlaza con la segunda."
+        },
+        {
+          "letter": "D",
+          "text": "El titular está correcto, porque la coma basta para separar dos ideas relacionadas en cualquier contexto",
+          "is_correct": false,
+          "feedback": "La coma no puede separar dos proposiciones principales: esa función corresponde al punto y coma o al punto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos proposiciones principales, cada una con su propio verbo, se unen con una sola coma, se produce un período mal construido desde el punto de vista de la puntuación, porque la coma no separa ese tipo de proposiciones. El efecto no es solo formal: el lector no puede determinar con precisión dónde termina la primera afirmación ni qué relación guarda con la segunda, lo que genera ambigüedad e incluso cambios de sentido. Analizar estos casos es clave para mejorar la propia escritura y para evaluar con rigor la claridad de un texto ajeno, competencia central de la lectura crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v12",
+      "statement": "¿Qué diferencia de sentido produce el punto final entre \"vegetación nativa\" y \"Este resultado\" frente a una coma en el mismo lugar?",
+      "context": "Un equipo de undécimo grado de Bucaramanga escribe la conclusión de su informe de práctica: \"La jornada de siembra recuperó varias áreas de vegetación nativa. Este resultado muestra que la recuperación es posible con esfuerzos conjuntos de la comunidad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La coma haría que las dos ideas fueran equivalentes, mientras que el punto las vuelve contradictorias",
+          "is_correct": false,
+          "feedback": "El punto no crea contradicción: la relación de causa y consecuencia la da el contenido de las ideas, no el signo."
+        },
+        {
+          "letter": "B",
+          "text": "El punto final impide que el pronombre \"Este resultado\" encuentre referente en la oración anterior",
+          "is_correct": false,
+          "feedback": "El pronombre sí encuentra referente: precisamente por eso la oración que comienza con él debe iniciar con mayúscula."
+        },
+        {
+          "letter": "C",
+          "text": "El punto final cierra una idea completa e inicia otra autónoma; la coma las fundiría en una sola oración",
+          "is_correct": true,
+          "feedback": "El punto señala el término de una afirmación y permite que la siguiente empiece como una idea nueva, con un pronombre que la retoma."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia, porque el punto y la coma pueden intercambiarse siempre sin alterar el texto",
+          "is_correct": false,
+          "feedback": "Intercambiarlos cambia la arquitectura de la oración: con coma se obtiene una oración compuesta y con punto dos oraciones separadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El punto final es el signo que cierra una oración y marca la unidad de sentido más básica del texto. Cuando en su lugar se coloca una coma, la relación entre lo que viene antes y lo que viene después se transforma, y el lector puede dejar de ver dos afirmaciones independientes para ver una sola oración compuesta con dos ideas del mismo nivel. Reconocer este cambio es fundamental en el análisis de textos, porque la puntuación organiza la jerarquía de las ideas y determina cómo se comprende el conjunto del discurso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v13",
+      "statement": "Analice la puntuación del aviso. ¿Qué se puede inferir sobre la relación entre el texto introductorio y el texto entre comillas?",
+      "context": "En la página institucional de una alcaldía del país aparece un aviso redactado así: El contenido del aviso es el siguiente: \"Se abren las inscripciones al programa de formación para líderes comunitarios del municipio\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo que aparece entre comillas es una opinión personal de quien redacta el aviso",
+          "is_correct": false,
+          "feedback": "Las comillas indican reproducción literal de un texto, no la emisión de una opinión propia de quien escribe."
+        },
+        {
+          "letter": "B",
+          "text": "El texto introductorio contradice lo que afirma la cita, y por eso los dos puntos son necesarios",
+          "is_correct": false,
+          "feedback": "Los signos solo delimitan y anuncian: no expresan contradicción ni valoran la veracidad de lo citado."
+        },
+        {
+          "letter": "C",
+          "text": "El texto introductorio anuncia y delimita la cita, de modo que el lector sabe qué información se reproduce textualmente",
+          "is_correct": true,
+          "feedback": "La secuencia de dos puntos seguida de comillas es la forma habitual de presentar un discurso directo o un texto citado."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos puntos podrían eliminarse sin cambiar el sentido, porque las comillas ya delimitan la cita",
+          "is_correct": false,
+          "feedback": "Las comillas delimitan, pero los dos puntos anuncian lo que sigue y organizan la relación entre el anuncio y la cita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la lectura de documentos oficiales, administrativos y periodísticos es frecuente encontrar combinaciones estables de signos: los dos puntos seguidos de comillas anuncian y delimitan una cita, y el punto colocado dentro de las comillas marca el final del discurso citado. Reconocer estas combinaciones permite distinguir el discurso citado del discurso de quien escribe el documento, distinción esencial en la lectura crítica y en el análisis de fuentes, competencia evaluada de manera recurrente en la prueba Saber 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v14",
+      "statement": "¿Qué efecto tiene la ausencia total de signos de puntuación en ese mensaje sobre la comprensión del lector?",
+      "context": "En el grupo de mensajería del grado once de Medellín, un estudiante escribe un aviso sin ningún signo de puntuación: \"mañana no hay clase la profesora dijo que no hay clase mañana la salida es a la una y nos vamos a la piscina\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Produce solo un efecto estético, por lo que se considera un defecto de estilo sin consecuencias comunicativas",
+          "is_correct": false,
+          "feedback": "La falta de puntuación no es un defecto meramente estético: altera el significado comunicado al receptor."
+        },
+        {
+          "letter": "B",
+          "text": "No produce ningún efecto, porque el sentido de un texto depende solo de las palabras y no de la puntuación",
+          "is_correct": false,
+          "feedback": "Es una afirmación incorrecta: la puntuación organiza el contenido y modifica cómo se comprende y se recuerda."
+        },
+        {
+          "letter": "C",
+          "text": "Genera ambigüedad en las unidades de sentido y puede alterar la información que el receptor entiende",
+          "is_correct": true,
+          "feedback": "Sin puntuación no se distingue dónde termina cada idea, de modo que el mismo texto puede entenderse de más de una manera."
+        },
+        {
+          "letter": "D",
+          "text": "Mejora la espontaneidad del mensaje y por eso resulta preferible en la comunicación digital",
+          "is_correct": false,
+          "feedback": "La espontaneidad no justifica la ausencia de puntuación: en mensajes largos, puntuar mejora precisamente la claridad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La puntuación organiza los signos del lenguaje escrito en unidades de sentido y permite que el lector reconstruya la estructura del enunciado. Cuando esta función desaparece, el texto se vuelve ambiguo: el mismo grupo de palabras admite varias interpretaciones y el lector debe adivinar dónde termina cada idea. Analizar este efecto es una capacidad de lectura crítica, porque supone evaluar no solo qué dice un texto, sino cómo su forma cambia lo que el texto dice, competencia central del componente de lectura crítica de Saber 11.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v15",
+      "statement": "¿Con qué criterio de lectura se puede determinar cuál de esos títulos comunica mejor la relación entre el concepto y su explicación?",
+      "context": "Al preparar una presentación de biología en Cartagena, un grupo de undécimo grado propone tres títulos posibles: \"Fotosíntesis: el proceso de las plantas\", \"Fotosíntesis, el proceso de las plantas\" y \"Fotosíntesis - el proceso de las plantas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con el criterio de que el título debe ser una enumeración cerrada, sin ningún signo que relacione sus partes",
+          "is_correct": false,
+          "feedback": "Un título sin relación interna no orienta la lectura, porque no anticipa si el texto explicará, definirá o enumerará."
+        },
+        {
+          "letter": "B",
+          "text": "Con el criterio de que el título debe usar el guion, porque el guion tiene esa función reservada",
+          "is_correct": false,
+          "feedback": "El guion sirve para intercalar y precisar un elemento, no para establecer la relación básica entre un título y su desarrollo."
+        },
+        {
+          "letter": "C",
+          "text": "Con el criterio de que el título debe declarar la relación: los dos puntos anuncian que lo que sigue explica el concepto anterior",
+          "is_correct": true,
+          "feedback": "Los dos puntos convierten el título en una fórmula breve de tema y explicación, lo que permite al lector anticipar el contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Con el criterio de que el título no debe usar puntuación, porque los títulos solo pueden estar formados por palabras",
+          "is_correct": false,
+          "feedback": "Es falso: los títulos pueden usar comas, dos puntos o guiones para establecer relaciones entre sus partes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante la lectura, los títulos funcionan como información que orienta la interpretación del conjunto del texto. Cuando el título declara de manera explícita la relación entre sus partes, el lector puede anticipar si lo que sigue explicará, definirá, enumerará o argumentará, y esa anticipación le permite buscar lo que realmente necesita. Reconocer este recurso, y no solo el aspecto formal del título, es una estrategia de lectura que el estudiante puede aplicar tanto para leer como para construir los títulos de sus propios textos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v16",
+      "statement": "¿Qué signo debe colocarse antes de la conjunción final \"y\" en una enumeración de nueve elementos de este tipo, y por qué?",
+      "context": "En la sección de indicadores de desarrollo de un municipio del interior del país, el informe enumera nueve variables separadas por comas: población, tasa de alfabetización, ingreso promedio, esperanza de vida, cobertura en salud y acceso al agua potable, entre otras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque la conjunción final ya separa por sí sola el último elemento del resto de la lista",
+          "is_correct": false,
+          "feedback": "En una lista larga, la conjunción final debe ir precedida de punto y coma para que el lector no perciba el último elemento como un añadido de otra categoría."
+        },
+        {
+          "letter": "B",
+          "text": "Dos puntos, porque toda lista de elementos debe introducirse con dos puntos",
+          "is_correct": false,
+          "feedback": "Los dos puntos introducen la lista, pero no se colocan entre elementos: dentro de la lista se usan comas y punto y coma."
+        },
+        {
+          "letter": "C",
+          "text": "Un punto final, porque el punto es el signo que separa los elementos de una enumeración",
+          "is_correct": false,
+          "feedback": "El punto entre elementos se reserva para listas muy breves, como las que aparecen en un afiche, y no para una lista de nueve elementos."
+        },
+        {
+          "letter": "D",
+          "text": "Un punto y coma, porque la enumeración es lo bastante larga como para agrupar sus elementos por niveles de detalle",
+          "is_correct": true,
+          "feedback": "La norma recomienda el punto y coma antes de la conjunción final cuando la lista es larga o sus elementos son sintagmas complejos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La norma establece que, en enumeraciones largas o cuyos elementos son sintagmas complejos, el punto y coma debe preceder a la conjunción final o al adverbio final, salvo cuando esta última palabra es monosilábica. La razón es práctica: el punto y coma agrupa los elementos y evita que el lector interprete el último como algo de otra categoría. Analizar este criterio en documentos reales, como informes, estadísticas y listas, permite escribir y leer textos largos con mayor claridad y sin ambigüedades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v17",
+      "statement": "¿Qué juicio es más pertinente sobre la propuesta del corrector?",
+      "context": "En un editorial de un periódico de Pereira sobre la movilidad de la ciudad, el autor escribe: \"La ciclovía se construyó; el tráfico de esa zona mejoró\". Un corrector de estilo propone reescribir la frase así: \"La ciclovía se construyó porque el tráfico de esa zona mejoró\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es innecesaria, porque bastaría eliminar el punto y coma para que el texto resultara más claro",
+          "is_correct": false,
+          "feedback": "Eliminar el signo dejaría dos oraciones pegadas sin pausa, lo que produce un error de puntuación más grave que el original."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es correcta, porque el punto y coma siempre expresa una relación de causa entre dos oraciones",
+          "is_correct": false,
+          "feedback": "El punto y coma expresa una relación más amplia, no específicamente causal, y no obliga a explicar por qué ocurre lo que ocurre."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es equivalente al original, porque cambiar un signo por un nexo no modifica el sentido del texto",
+          "is_correct": false,
+          "feedback": "No es equivalente: el original no explica por qué se construyó la ciclovía y la propuesta sí lo hace, además de alterar la secuencia de los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta es incorrecta, porque atribuye una causa que el texto original no afirmaba y además invierte el orden de los hechos",
+          "is_correct": true,
+          "feedback": "El punto y coma solo une dos afirmaciones relacionadas y deja la explicación a cargo del lector; convertir esa unión en una subordinada causal agrega una afirmación que el autor no escribió."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar una propuesta de edición exige comparar lo que el texto afirma con lo que la propuesta le hace afirmar. El punto y coma establece una relación entre dos proposiciones sin declarar la naturaleza exacta de esa relación, de modo que el lector dispone de los hechos y construye la interpretación; al convertir esa unión en una subordinada causal, el corrector decide por el autor qué relación existe y además coloca el efecto antes de la causa. Reconocer la diferencia entre señalar una relación y declararla es una forma de lectura crítica que sirve tanto para revisar textos ajenos como para revisar los propios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es la forma más adecuada de puntuar esa cita en el contexto periodístico, y cuál es el criterio que lo sustenta?",
+      "context": "En una nota de prensa de un periódico de Bogotá sobre la feria del libro, un escritor oriundo de Barranquilla cuenta que compró un libro y dice: \"En esa feria compré un libro de ensayo que todavía estoy leyendo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se puede omitir la puntuación de cierre si la frase citada es muy corta, porque el lector la reconocerá por su contenido",
+          "is_correct": false,
+          "feedback": "La longitud de la cita no exime de las marcas de delimitación: sin ellas, el discurso directo queda ambiguo."
+        },
+        {
+          "letter": "B",
+          "text": "Después del verbo de habla se emplea una coma y la cita no lleva punto, porque en periodismo las reglas son más flexibles",
+          "is_correct": false,
+          "feedback": "En periodismo rigen las mismas normas del español escrito: la flexibilidad no autoriza a sustituir los dos puntos por una coma."
+        },
+        {
+          "letter": "C",
+          "text": "Se cierra la cita con dos puntos para indicar que el escritor continúa hablando más adelante",
+          "is_correct": false,
+          "feedback": "Los dos puntos no se colocan al final de una cita para anunciar continuación: se usan al inicio para introducirla."
+        },
+        {
+          "letter": "D",
+          "text": "Después del verbo de habla se emplean dos puntos y la cita se cierra con el punto antes de las comillas, porque es un discurso directo completo",
+          "is_correct": true,
+          "feedback": "La norma exige dos puntos tras el verbo introductorio y el punto de cierre dentro de las comillas cuando la cita es una oración independiente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La puntuación del discurso directo está regulada por normas estables: se introduce con dos puntos cuando va precedida de un verbo de habla, y se cierra con el signo de puntuación correspondiente antes de las comillas. Evaluar una propuesta de puntuación en un texto real exige, por tanto, citar el criterio y aplicarlo, y no emitir una preferencia. Esta capacidad se vincula directamente con la comprensión de textos, porque solo un lector que domina la puntuación distingue con precisión la voz del autor de la voz citada, distinción central en la lectura crítica de prensa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v19",
+      "statement": "¿Qué juicio formularía usted sobre el uso de la puntuación de ese titular y qué efecto tiene sobre el lector?",
+      "context": "En la sección de cultura de un periódico departamental aparece el titular de un evento de la región: \"¡Gran festival de la cumbia en el parque!!!\" El titular no cierra su idea con punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El problema del titular es únicamente ortográfico, por lo que basta corregir las mayúsculas para que sea aceptable",
+          "is_correct": false,
+          "feedback": "El defecto no es ortográfico sino de puntuación y de construcción del sentido: sin cierre, la idea queda abierta."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcto, porque los signos de exclamación son obligatorios en los títulos de eventos culturales",
+          "is_correct": false,
+          "feedback": "No existe esa obligación: la exclamación se emplea con moderación y solo cuando expresa una emoción o un énfasis real."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcto, porque le permite al lector saber que la información aún está en desarrollo y por eso no está terminada",
+          "is_correct": false,
+          "feedback": "Un titular incompleto no comunica que la información esté en desarrollo, sino que el texto fue mal construido."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto truncado que no cierra su idea y acumula signos de exclamación, lo que resta precisión y credibilidad a la información",
+          "is_correct": true,
+          "feedback": "Un titular debe ser un enunciado completo: la falta de cierre impide comprender la idea y la repetición de exclamaciones empobrece el registro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto implica juzgar su puntuación con criterios, y no solo señalar que algo parece incorrecto. Un titular de prensa debe ser un enunciado completo que cierre su idea con el signo correspondiente, y el uso repetido de signos de exclamación es un recurso enfático que, si se generaliza, debilita la fuerza expresiva del signo y reduce la credibilidad del medio. Reconocer estos criterios en información real de la región permite valorar con fundamento la calidad textual de los productos periodísticos locales, ejercicio de lectura crítica útil para tomar decisiones informadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v20",
+      "statement": "¿Qué propuesta explica mejor la conclusión del proyecto y qué criterio sustenta esa elección?",
+      "context": "En un taller de escritura de undécimo grado de Cali, dos grupos deben puntuar la misma conclusión de un proyecto comunitario. El grupo uno propone: \"Terminamos el proyecto porque hubo apoyo de la comunidad; todos participaron en el proceso\". El grupo dos propone: \"Terminamos el proyecto, hubo apoyo de la comunidad y todos participaron en el proceso\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo uno, porque la coma antes de \"hubo\" es siempre incorrecta en español",
+          "is_correct": false,
+          "feedback": "El punto y coma es adecuado aquí por la relación que expresa, no porque la coma sea inválida en esa posición."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo dos, porque al usar solo comas se obtiene un texto más fluido y más rápido de leer",
+          "is_correct": false,
+          "feedback": "La fluidez no puede obtenerse sacrificando la claridad de las relaciones lógicas entre las ideas del texto."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo dos, porque una oración larga con varias comas evita el uso de signos más complejos",
+          "is_correct": false,
+          "feedback": "La segunda propuesta oculta la relación causal dentro de una enumeración y obliga al lector a reconstruirla por su cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo uno, porque el punto y coma separa las dos ideas y deja explícita la relación de causa del proyecto",
+          "is_correct": true,
+          "feedback": "El punto y coma muestra la relación lógica entre el hecho principal y su consecuencia, y evita que el lector la deduzca."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir entre dos propuestas de puntuación exige identificar qué relación lógica existe entre las ideas y qué signo la hace visible para el lector. En el caso del proyecto comunitario, la relación es de causa y consecuencia, y el punto y coma la explicita mejor que una sucesión de comas, que presenta todas las ideas como parte de una enumeración del mismo nivel. Fundamentar la elección con un criterio de uso del idioma, y no con una preferencia de estilo, es lo que distingue una respuesta evaluativa bien argumentada, como las que se esperan en el componente de lectura crítica de Saber 11.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
