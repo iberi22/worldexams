@@ -57,10 +57,10 @@ Reconocer un diálogo es un ejercicio de Definición, no de intuición: basta co
 ¿Qué entiende la narradora en la frase "se le dijo a sí misma que todo estaba en su sitio"?
 
 ### Opciones
-- [x] A) Que la narradora intenta convencerse de que la casa está bien, aunque por dentro siente que algo no encaja.
-  <!-- feedback: La frase "decirse a sí misma" muestra que el pensamiento es interior y además lleva una carga de convencimiento: ella quiere creer que todo está bien. -->
-- [ ] B) Que la narradora le habla en voz alta a su nieto Tomás sobre el estado de la casa.
+- [ ] A) Que la narradora le habla en voz alta a su nieto Tomás sobre el estado de la casa.
   <!-- feedback: El nieto ya se fue y no está presente. Cuando el personaje se dirige a sí mismo, no hay interlocutor: hay monólogo interior. -->
+- [x] B) Que la narradora intenta convencerse de que la casa está bien, aunque por dentro siente que algo no encaja.
+  <!-- feedback: La frase "decirse a sí misma" muestra que el pensamiento es interior y además lleva una carga de convencimiento: ella quiere creer que todo está bien. -->
 - [ ] C) Que un vecino desconocido gritó desde la calle que la casa estaba en buen estado.
   <!-- feedback: El texto no menciona a ningún vecino ni a nadie que grite. La frase no contiene interlocutor alguno. -->
 - [ ] D) Que la narradora recuerda una frase que su bisabuelo dijo cuando construyó la casa en 1790.
@@ -80,12 +80,12 @@ Comprender esta frase exige entender dos capas a la vez: el contenido del pensam
 Un compañero te pide que le ayudes a identificar qué fragmento del texto es un monólogo interior y cuál es una descripción del narrador. ¿Cuál opción los distingue correctamente?
 
 ### Opciones
-- [x] A) "Pensó que alguien lo llamaba" es monólogo interior, porque es el pensamiento de Tomás, y "guardaba las voces de quienes habían vivido allí" es descripción del narrador.
-  <!-- feedback: El monólogo interior expresa lo que el personaje piensa sin hablar, mientras que la otra frase es una afirmación del narrador sobre la casa. -->
-- [ ] B) Las dos frases son monólogo interior, porque las dos usan el verbo "guardar", que pertenece al mundo interior.
+- [ ] A) Las dos frases son monólogo interior, porque las dos usan el verbo "guardar", que pertenece al mundo interior.
   <!-- feedback: El verbo "guardar" no determina la categoría: lo decisivo es quién piensa y si hay alguien escuchando. La segunda frase la dice el narrador. -->
-- [ ] C) La primera frase es descripción del narrador y la segunda es monólogo interior, porque allí se nombra al personaje.
+- [ ] B) La primera frase es descripción del narrador y la segunda es monólogo interior, porque allí se nombra al personaje.
   <!-- feedback: Nombrar al personaje no convierte una frase en monólogo interior: hace falta que el relato comunique lo que el personaje piensa. -->
+- [x] C) "Pensó que alguien lo llamaba" es monólogo interior, porque es el pensamiento de Tomás, y "guardaba las voces de quienes habían vivido allí" es descripción del narrador.
+  <!-- feedback: El monólogo interior expresa lo que el personaje piensa sin hablar, mientras que la otra frase es una afirmación del narrador sobre la casa. -->
 - [ ] D) Ninguna de las dos frases pertenece a ninguna de las dos categorías, porque el texto no usa narración.
   <!-- feedback: El fragmento sí narra, y esa narración incluye descripciones del narrador y pensamientos de los personajes: son categorías distintas y complementarias. -->
 
@@ -103,14 +103,14 @@ Aplicar la distinción exige una regla operativa: hay monólogo interior cuando 
 Si un estudiante reemplaza la frase de Doña Rosalba por "La humedad de Cartagena puede dañar los zapatos de cuero", ¿qué efecto produce en la situación comunicativa del texto?
 
 ### Opciones
-- [x] A) La situación pierde el tono de reproche cariñoso y se vuelve un aviso técnico sobre el clima de Cartagena.
-  <!-- feedback: El enunciado original cumplía la función de reprender con cariño; al convertirlo en dato técnico desaparece esa intención comunicativa. -->
-- [ ] B) La situación gana un reproche cariñoso que antes no existía, porque ahora la abuela menciona lasudad.
+- [ ] A) La situación gana un reproche cariñoso que antes no existía, porque ahora la abuela menciona lasudad.
   <!-- feedback: La frase nueva es informativa, no un reproche. Antes ya había reproche cariñoso, así que no se añade ninguna intención nueva. -->
-- [ ] C) La situación no cambia, porque las dos frases hablan de Cartagena y las dos nombran objetos de uso cotidiano.
+- [ ] B) La situación no cambia, porque las dos frases hablan de Cartagena y las dos nombran objetos de uso cotidiano.
   <!-- feedback: Nominar la misma ciudad y objetos parecidos no garantiza el mismo efecto: la intención del hablante es distinta en cada caso. -->
-- [ ] D) La situación se convierte en un diálogo nuevo, porque ahora Rosalba y Tomás discuten sobre el clima.
+- [ ] C) La situación se convierte en un diálogo nuevo, porque ahora Rosalba y Tomás discuten sobre el clima.
   <!-- feedback: Cambiar el contenido de una intervención no crea turnos de habla adicionales: el texto sigue teniendo la misma conversación. -->
+- [x] D) La situación pierde el tono de reproche cariñoso y se vuelve un aviso técnico sobre el clima de Cartagena.
+  <!-- feedback: El enunciado original cumplía la función de reprender con cariño; al convertirlo en dato técnico desaparece esa intención comunicativa. -->
 
 ### Explicacion Pedagogica
 Evaluar un efecto comunicativo exige separar contenido de intención. La frase "cuidado con esas modificadas cosas de la ciudad" no informa sobre el clima: es un reproche cariñoso dirigido al nieto, y su valor está en el tono. Al reemplazarla por una advertencia técnica sobre la humedad y los zapatos, el contenido cambia y, con él, la intención. El efecto no es decorativo: la escena deja de ser un momento de afecto familiar y pasa a ser un consejo prático. Los distractores confunden función con tema, inventan intenciones que no estaban y, en el último caso, confunden modificar una intervención con crear una conversación nueva.
@@ -149,10 +149,10 @@ Comprender el efecto de dos voces en un mismo párrafo exige atender a cómo se 
 ¿Qué relación se establece entre el dato de 1790 y la frase "el patio, sin nadie, le parecía más grande que nunca"?
 
 ### Opciones
-- [x] A) El dato histórico da un pasado real y concreto, y la sensación de amplitud del patio expresa lo que ese pasado produce en quien lo recuerda.
-  <!-- feedback: La fecha documenta que hubo una historia, mientras la ampliación del espacio sugiere la nostalgia de una ausencia. -->
-- [ ] B) El dato de 1790 contradice la frase sobre el patio, porque 1790 es una fecha muy antigua para pertenecer a la familia.
+- [ ] A) El dato de 1790 contradice la frase sobre el patio, porque 1790 es una fecha muy antigua para pertenecer a la familia.
   <!-- feedback: No hay contradicción: una casa antigua puede pertenecer a la familia y al mismo tiempo provocar sensación de vacío. -->
+- [x] B) El dato histórico da un pasado real y concreto, y la sensación de amplitud del patio expresa lo que ese pasado produce en quien lo recuerda.
+  <!-- feedback: La fecha documenta que hubo una historia, mientras la ampliación del espacio sugiere la nostalgia de una ausencia. -->
 - [ ] C) El dato de 1790 explica por completo la sensación del patio, y por eso el resto de la frase sobra en el texto.
   <!-- feedback: La sensation del patio no se deduce solo de la fecha: depende de la soledad y del tiempo transcurrido. -->
 - [ ] D) La frase sobre el patio reemplaza al dato de 1790, porque el narrador considera más valioso el espacio que la fecha.
@@ -172,12 +172,12 @@ Analizar exige construir la relación entre dos niveles distintos del discurso: 
 ¿Qué diferencia de sentido hay entre "no dijo nada" y "en su cabeza se repetía la pregunta"?
 
 ### Opciones
-- [x] A) "No dijo nada" indica que no hubo palabras; "en su cabeza se repetía" indica que sí hubo pensamiento, y ese pensamiento no se manifestó por fuera.
-  <!-- feedback: El contraste entre lo visible y lo invisible es la essence del monólogo interior: hay actividad mental sin palabra hablada. -->
-- [ ] B) Las dos expresiones significan lo mismo, porque en las dos aparece Tomás y las dos usan el verbo repetir.
+- [ ] A) Las dos expresiones significan lo mismo, porque en las dos aparece Tomás y las dos usan el verbo repetir.
   <!-- feedback: Solo una de las dos frases contiene el verbo repetir. Además, una habla de silencio y la otra de pensamiento. -->
-- [ ] C) La primera frase indica que Tomás no pensamos nada, y la segunda queatcher él síreligious/, lo que se contradice.
+- [ ] B) La primera frase indica que Tomás no pensamos nada, y la segunda queatcher él síreligious/, lo que se contradice.
   <!-- feedback: Las dos frases se complementan: no hablaba, pero sí pensaba. Una lectura de contradicción ignora que el pensamiento es interno. -->
+- [x] C) "No dijo nada" indica que no hubo palabras; "en su cabeza se repetía" indica que sí hubo pensamiento, y ese pensamiento no se manifestó por fuera.
+  <!-- feedback: El contraste entre lo visible y lo invisible es la essence del monólogo interior: hay actividad mental sin palabra hablada. -->
 - [ ] D) La primera frase es monólogo interior y la segunda es descripción del narrador, porque una habla de Tomás y la otra de él.
   <!-- feedback: Ambas frases inform a del estado mental de Tomás; el monólogo interior no se opone a la narración del narrador, la complementa. -->
 
@@ -195,14 +195,14 @@ El contraste entre lo que un personaje dice y lo que piensa es el corazón del m
 Según esa observación del narrador, ¿qué criterio de Doña Rosalba aparece al responder así?
 
 ### Opciones
-- [x] A) Responde con los datos que ella conoce, aunque no respondan del todo a lo que su nieto pedía.
-  <!-- feedback: El narrador aclara que la abuela contesta desde su saber propio, no desde la expectativa del nieto. -->
-- [ ] B) Responde con lo que su nieto esperaba oír, aunque ese dato no aparezca en el texto.
+- [ ] A) Responde con lo que su nieto esperaba oír, aunque ese dato no aparezca en el texto.
   <!-- feedback: El narrador afirma lo contrario: ella respondió lo que sabía, no lo que Tomás quería. -->
-- [ ] C) Responde para silenciar al nieto, porque no quería que supiera nada de la familia.
+- [ ] B) Responde para silenciar al nieto, porque no quería que supiera nada de la familia.
   <!-- feedback: No hay intención de ocultar en el texto: la abuela da un dato verdadero sobre el origen de la casa. -->
-- [ ] D) Responde de manera confusa, a propósito, para que su nieto no entendiera.
+- [ ] C) Responde de manera confusa, a propósito, para que su nieto no entendiera.
   <!-- feedback: Su respuesta es clara y precisa; el narrador no la califica de confusa, sino de incompleta respecto al deseo del nieto. -->
+- [x] D) Responde con los datos que ella conoce, aunque no respondan del todo a lo que su nieto pedía.
+  <!-- feedback: El narrador aclara que la abuela contesta desde su saber propio, no desde la expectativa del nieto. -->
 
 ### Explicacion Pedagogica
 Analizar la actuación de un personaje en la conversación exige considerar el criterio que la informa, no solo su contenido. La observación del narrador abre un abismo entre lo que el nieto preguntaba, el quién vivió aquí, y lo que la abuela contesta, quién construyó. Esa distancia revela un criterio: Rosalba responde desde lo que sabe, sin corregir ni desviar la conversación. El narrador, por su parte, no señala manipulaciones ni silencios deliberados, de modo que la intención queda explicada con honestidad analítica. Los distractores contradicen directamente la observación del narrador y, en el camino, introduyen intenciones que el texto nunca sugiere.
@@ -241,10 +241,10 @@ Evaluar una reescritura exige un criterio: qué pierde y qué gana. Aquí lo que
 ¿Cuál de los dos argumentos|es mejor sustentado, y por qué?
 
 ### Opciones
-- [x] A) El de Ana, porque las frases de la conciencia no ralentizan el texto: dan acceso a lo que sienten los personajes, que es justo lo que el diálogo no puede mostrar.
-  <!-- feedback: Ana relaciona una característica concreta del texto con su efecto en la comprensión, y eso le da ventaja sobre una opinión sin fundamento. -->
-- [ ] B) El de Andrés, porque en lectura crítica conviene eliminar los pensamientos para no distraer al lector de los hechos.
+- [ ] A) El de Andrés, porque en lectura crítica conviene eliminar los pensamientos para no distraer al lector de los hechos.
   <!-- feedback: Andrés supone que distraen, pero ninguna parte del texto muestra que los pensamientos entorpezcan la comprensión. -->
+- [x] B) El de Ana, porque las frases de la conciencia no ralentizan el texto: dan acceso a lo que sienten los personajes, que es justo lo que el diálogo no puede mostrar.
+  <!-- feedback: Ana relaciona una característica concreta del texto con su efecto en la comprensión, y eso le da ventaja sobre una opinión sin fundamento. -->
 - [ ] C) Los dos argumentos son igualmente sólidos, porque el texto no permite decidir entre velocidad y profundidad.
   <!-- feedback: Sí permite decidir: las frases de la conciencia amplían lo que sabemos de los personajes, y eso les da ventaja. -->
 - [ ] D) Ninguno de los dos es sólido, porque el texto no trata sobre la conciencia de los personajes sino sobre una casa colonial.
