@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T07:50:44.514Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función de las enzimas digestivas dentro del organismo?",
+      "context": "En el laboratorio de ciencias naturales de un colegio de Medellín, la profesora escribe en el tablero que la comida que ingerimos no puede ser utilizada por el cuerpo tal como llega, sino que debe transformarse primero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Digieren el alimento produciendo calor, como cuando cocinamos una sopa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor acelera algunas reacciones, pero las enzimas no digieren por calor: son moléculas que catalizan reacciones químicas sobre el alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Son proteínas que aceleran las reacciones químicas que rompen los alimentos en moléculas más pequeñas",
+          "is_correct": true,
+          "feedback": "Correcto. Las enzimas digestivas son proteínas que catalizan la hidrólisis de los alimentos, reduciéndolos a moléculas que el intestino puede absorber."
+        },
+        {
+          "letter": "C",
+          "text": "Son sustancias que llevan los nutrientes desde el intestino hasta el hígado por la sangre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese transporte lo realizan la absorción intestinal y la circulación sanguínea; las enzimas solo degradan, no transportan."
+        },
+        {
+          "letter": "D",
+          "text": "Son bacterias que viven en el intestino grueso y ayudan a terminar la digestión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La microbiota intestinal es un conjunto de microorganismos, no enzimas, y la mayor parte de la digestión ocurre en el intestino delgado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las enzimas digestivas son, en su gran mayoría, proteínas que actúan como catalizadores biológicos: reducen el tiempo que necesita una reacción química para completarse sin consumirse en ella. Actúan sobre un sustrato específico, por eso la amilasa degrada el almidón y la proteasa degrada las proteínas. Su resultado es transformar alimentos grandes y poco solubles en moléculas pequeñas y solubles que puedan atravesar la pared del intestino delgado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes sustancias NO necesita ser descompuesta por enzimas digestivas para pasar al interior del organismo?",
+      "context": "En Cali, un estudiante de grado 9 arma un cuadro de alimentos y separa los que aportan hierro y calcio de los que aportan proteínas y grasa, y le pregunta a la profesora si todos esos alimentos deben \"descomponerse\" antes de ser aprovechados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las proteínas del huevo cocido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proteínas sí deben hidrolizarse hasta aminoácidos, porque son moléculas demasiado grandes para atravesar la pared intestinal."
+        },
+        {
+          "letter": "B",
+          "text": "El almidón del pan",
+          "is_correct": false,
+          "feedback": "Incorrecto. El almidón es un polisacárido y se hidroliza hasta glucosa mediante la acción de enzimas como la amilasa y la maltasa."
+        },
+        {
+          "letter": "C",
+          "text": "La grasa de la palma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las grasas sí requieren hidrólisis, y además deben emulsionarse con bilis, para que la lipasa pueda actuar sobre ellas."
+        },
+        {
+          "letter": "D",
+          "text": "Las sales minerales (hierro, calcio y sodio) que llegan disueltas",
+          "is_correct": true,
+          "feedback": "Correcto. Las sales minerales son partículas pequeñas y estables, por eso se absorben directamente en la pared del intestino delgado sin necesidad de degradación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Solo se digieren (degradan por enzimas) los macronutrientes, porque son moléculas muy grandes: los carbohidratos deben llegar a ser glucosa, las proteínas aminoácidos y las grasas ácidos grasos y glicerol. En cambio, el agua, las vitaminas y las sales minerales ya vienen en tamaños y formas que la mucosa intestinal puede atravesar, por lo que se absorben sin hidrólisis previa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes nutrientes se considera un macronutriente y es la principal fuente de energía del organismo?",
+      "context": "En un colegio de Barranquilla, la orientadora prepara una cartelera sobre alimentación y le pide al grupo que clasifique los nutrientes que aparecen en los paquetes de alimentos que llevan al almuerzo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los carbohidratos, que se degradan hasta glucosa",
+          "is_correct": true,
+          "feedback": "Correcto. Los carbohidratos son el principal combustible del cuerpo: al degradarse hasta glucosa, esta entra en las células y libera energía."
+        },
+        {
+          "letter": "B",
+          "text": "El hierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hierro es un mineral que se necesita en cantidades muy pequeñas y sirve para formar la hemoglobina, no para aportar energía."
+        },
+        {
+          "letter": "C",
+          "text": "La vitamina C",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vitamina C es una vitamina y tiene funciones de defensa y reparación de tejidos, pero no aporta energía."
+        },
+        {
+          "letter": "D",
+          "text": "El sodio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sodio es un mineral que regula el equilibrio de líquidos y los impulsos nerviosos, pero no es fuente de energía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los macronutrientes (carbohidratos, proteínas y grasas) son los nutrientes que el organismo necesita en cantidades relativamente grandes y que además aportan energía, expresada en kilocalorías. Los micronutrientes (vitaminas y minerales) se necesitan en dosis mucho menores y no son combustibles, aunque sean indispensables para que el metabolism funcione bien.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v4",
+      "statement": "Si el sabor dulce que el estudiante percibe indica que una transformación ya empezó a ocurrir, ¿de qué enzima se trata y en qué lugar actúa principalmente?",
+      "context": "En el restaurante escolar de Bogotá, a un estudiante le sirven una porción de arroz con pollo. Al morder el primer bocado nota un sabor dulce que no existía en el arroz crudo y que se vuelve más intenso cuando la comida llega al intestino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pepsina, que actúa en la boca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pepsina es una enzima proteasa que actúa en el estómago, sobre las proteínas, y no está presente en la saliva."
+        },
+        {
+          "letter": "B",
+          "text": "Lipasa pancreática, que actúa en el estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lipasa pancreática se activa en el intestino delgado y actúa sobre las grasas, no sobre el almidón del arroz."
+        },
+        {
+          "letter": "C",
+          "text": "Amilasa salival, que actúa en la boca",
+          "is_correct": true,
+          "feedback": "Correcto. La amilasa de la saliva inicia la hidrólisis del almidón en la boca, y por eso el arroz masticado sabe más dulce."
+        },
+        {
+          "letter": "D",
+          "text": "Maltasa, que actúa en el esófago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La maltasa actúa en el intestino delgado, y el esófago es un tubo de paso donde no ocurre la digestión química."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El almidón es un polisacárido sin sabor dulce, por eso el arroz crudo sabe neutro. Cuando la amilasa salival lo hidroliza en maltosa y maltotriosa aparecen azúcares simples con sabor dulce, lo que sirve de indicador sensorial de que la digestión ya empezó. Esa misma hidrólisis continúa en el intestino delgado con la amilasa pancreática y se completa con la maltasa hasta obtener glucosa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v5",
+      "statement": "Teniendo en cuenta que la bilis se almacena en la vesícula y se vierte en el intestino delgado, ¿qué consecuencia es más probable si esa bilis no llega al intestino?",
+      "context": "En Pereira, una estudiante se hace una ecografía y el médico le informa que tiene cálculos en la vesícula biliar, una bolsa que guarda la bilis antes de que esta llegue al intestino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La digestión de las proteínas se detiene por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las proteínas se digieren con pepsina gástrica y con enzimas pancreáticas, procesos que no dependen de la bilis."
+        },
+        {
+          "letter": "B",
+          "text": "La digestión de las grasas se dificulta porque los lípidos no se emulsionan",
+          "is_correct": true,
+          "feedback": "Correcto. Sin bilis las grasas quedan agrupadas y la lipasa tiene menos superficie que atacar, por eso su digestión y absorción empeoran."
+        },
+        {
+          "letter": "C",
+          "text": "El alimento no puede pasar del esófago al estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deglución es un movimiento coordinado del esófago y la bilis se libera más adelante, en el duodeno."
+        },
+        {
+          "letter": "D",
+          "text": "Las vitaminas del grupo B dejan de absorberse en el intestino",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vitaminas hidrosolubles se absorben sin bilis; las que necesitan bilis son las liposolubles (A, D, E y K)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La bilis no es una enzima: es un líquido con sales biliares que emulsionan las grasas, es decir, las dividen en gotas pequeñas y separadas. La emulsión multiplica la superficie de contacto entre la lipasa pancreática y los lípidos. Además, las sales biliares forman micelas que ayudan a transportar los productos de la digestión de las grasas hasta la mucosa intestinal, donde se absorben junto con las vitaminas liposolubles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes consecuencias es la más esperable para ese paciente?",
+      "context": "En un hospital de Medellín, un paciente pierde durante una cirugía una porción larga de su intestino delgado y el equipo médico le explica a la familia que deberá cambiar su alimentación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una disminución en la absorción de los nutrientes",
+          "is_correct": true,
+          "feedback": "Correcto. El intestino delgado es el lugar donde se absorbe la mayor parte de los nutrientes, así que reducir su superficie reduce la absorción."
+        },
+        {
+          "letter": "B",
+          "text": "Un aumento en la capacidad para digerir los carbohidratos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perder intestino delgado reduce la superficie y el tiempo disponibles para la digestión y la absorción."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminación de la necesidad de beber agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una mala absorción de nutrientes suele traer diarrea, lo que aumenta la necesidad de líquidos y electrolyte."
+        },
+        {
+          "letter": "D",
+          "text": "Una mayor producción de bilis por el hígado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bilis se produce en el hígado y el intestino delgado no participa en su elaboración, aunque sí en su almacenamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El intestino delgado es el órgano clave de la absorción: su pared presenta pliegues, vellosidades y microvellosidades que amplían enormemente la superficie de contacto con los nutrientes. Los productos de la digestión de los carbohidratos, las proteínas y las grasas atraviesan esa superficie y pasan a la sangre o a la linfa. Por eso, reducir su longitud tiene un efecto directo y proporcional sobre la cantidad de nutrientes que llegan al organismo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v7",
+      "statement": "Cuando el almidón de la bolsa se digiere antes de cerrar la bolsa, se detecta azúcar en el agua exterior del vaso. ¿Cuál de las siguientes afirmaciones explica mejor ese resultado?",
+      "context": "En el laboratorio de un colegio de Bogotá, un grupo usa una bolsa de diálisis como modelo del intestino delgado: la bolsa contiene almidón de papa cocido, saliva diluida y agua, y la sumergen en un vaso con agua revolviendo suavemente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El almidón atravesó la membrana porque es una molécula muy pequeña",
+          "is_correct": false,
+          "feedback": "Incorrecto. El almidón es un polisacárido de tamaño grande, y por eso no atraviesa la membrana de diálisis ni la pared intestinal."
+        },
+        {
+          "letter": "B",
+          "text": "La membrana de diálisis deja pasar cualquier sustancia que esté disuelta en agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana es selectiva: deja pasar moléculas pequeñas y retiene las grandes, y esa selectividad es justamente el objeto del modelo."
+        },
+        {
+          "letter": "C",
+          "text": "El azúcar apareció porque el agua y el movimiento del vaso transformaron el almidón en glucosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua y la agitación no convierten el almidón en glucosa por sí solos; hace falta la acción de la enzima amilasa."
+        },
+        {
+          "letter": "D",
+          "text": "La digestión convirtió el almidón en glucosa, una molécula pequeña que sí atraviesa la membrana",
+          "is_correct": true,
+          "feedback": "Correcto. La hidrólisis reduce el tamaño del polisacárido hasta obtener glucosa, que sí puede atravesar la membrana del modelo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este montaje es un ejemplo de investigación por analogía: representa la membrana intestinal, que no es un filtro abierto sino una barrera selectiva. Solo pasan a través de ella moléculas suficientemente pequeñas, como la glucosa, los aminoácidos y los ácidos grasos. Las cadenas largas de almidón o de proteína quedan retenidas hasta que las enzimas las degradan, lo que muestra que la digestión es, en essence, un proceso que cambia el tamaño de las moléculas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente la naturaleza del hierro en la alimentación?",
+      "context": "En Cartagena, una estudiante de grado 9 asiste a una consulta médica y le indican que debe aumentar el consumo de hierro y acompañarlo con alimentos ricos en vitamina C.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un macronutriente, porque el organismo lo necesita en grandes cantidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hierro se necesita en dosis muy pequeñas, del orden de los miligramos, precisamente por eso es un micronutriente."
+        },
+        {
+          "letter": "B",
+          "text": "Es un micronutriente mineral cuya deficiencia puede producir anemia",
+          "is_correct": true,
+          "feedback": "Correcto. El hierro es un mineral micronutriente que forma parte de la hemoglobina, y su escasez dificulta el transporte de oxígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Es un macronutriente orgánico que aporta energía al organismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un mineral inorgánico y no aporta energía: la energía viene de los carbohidratos, las proteínas y las grasas."
+        },
+        {
+          "letter": "D",
+          "text": "Es un micronutriente que se obtiene al digerirlo con la enzima pepsina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pepsina hidroliza proteínas; las sales minerales no se digieren, se absorben directamente desde la mucosa intestinal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los micronutrientes incluyen las vitaminas (orgánicas) y los minerales (inorgánicos) y se necesitan en cantidades muy pequeñas, pero su ausencia impide que muchos procesos metabólicos se desarrollen con normalidad. El hierro es un caso especial porque se incorpora a la hemoglobina de los glóbulos rojos; por eso su deficiencia produce anemia y fatiga. La vitamina C que acompaña la indicación mejora la absorción del hierro de origen vegetal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes explicaciones da una cuenta completa y correcta del cuadro que se presentó en el colegio?",
+      "context": "En el comedor escolar de un municipio de Santander, varios estudiantes presentan vómitos y diarrea después del almuerzo, y la investigación de la secretaría de salud concluye que el pollo se conservó sin la refrigeración adecuada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los alimentos cocidos pierden todo su valor nutritivo y por eso el organismo se enferma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cocción adecuada no elimina el valor nutritivo de los alimentos; de hecho, facilita la digestión de varias proteínas vegetales."
+        },
+        {
+          "letter": "B",
+          "text": "La comida se digirió demasiado rápido y el estómago no pudo procesarla a tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez de la digestión es un proceso normal y no explica la aparición de vómitos y diarrea en varias personas."
+        },
+        {
+          "letter": "C",
+          "text": "Una bacteria transmitida con la comida sobrevivió a una cocción insuficiente y proliferó en el intestino de quienes la consumieron",
+          "is_correct": true,
+          "feedback": "Correcto. Un microorganismo que resiste una cocción insuficiente se multiplica en el alimento y al ingerirse causa la intoxicación."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema de defensa de los estudiantes reaccionó al sabor o al olor del pollo cocido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los síntomas se deben al microorganismo ingerido, no a una reacción del organismo ante el sabor o el olor del alimento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este caso conecta la digestión con la seguridad alimentaria. Microorganismos como Salmonella, presentes naturalmente en aves, sobreviven si la temperatura o el tiempo de cocción son insuficientes; una vez en el alimento se multiplican y, al ser ingeridos, colonizan y afectan el intestino de los consumidores. La higiene de manos, la conservación adecuada y la cocción completa forman la barrera que evita estos episodios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.68,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes medidas aborda de manera más completa la seguridad alimentaria de la población del municipio?",
+      "context": "En un municipio de Nariño, la alcaldía diseña un plan de seguridad alimentaria y pide al consejo municipal decidir cuál de los proyectos propuestos conviene financiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Impulsar la producción local de alimentos y asegurar que las familias accedan a alimentos nutritivos a precios accesibles",
+          "is_correct": true,
+          "feedback": "Correcto. Actuar sobre la oferta y sobre el acceso a alimentos nutritivos cubre las dos dimensiones centrales de la seguridad alimentaria."
+        },
+        {
+          "letter": "B",
+          "text": "Construir más centros de salud sin modificar la alimentación de la población",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mejorar la atención médica es valioso, pero no resuelve ni la disponibilidad ni el costo de los alimentos en el municipio."
+        },
+        {
+          "letter": "C",
+          "text": "Sancionar a quienes venden alimentos en la calle sin permiso de operación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa medida sanciona la informalidad, pero no garantiza que las familias tengan acceso a alimento nutritivo y a precio justo."
+        },
+        {
+          "letter": "D",
+          "text": "Importar alimentos baratos de otros países para bajar los precios del mercado local",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un precio más bajo no garantiza la calidad nutricional, y la oferta externa puede ser volátil o desaparecer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La seguridad alimentaria no se reduce a \"tener comida\": según la Organización de las Naciones Unidas, implica que todas las personas tengan acceso físico, social y económico a alimentos suficientes, inocuos y nutritivos, y que ese acceso sea estable en el tiempo. Por eso una medida integral debe combinar disponibilidad (producción y almacenamiento), acceso (precio y cercanía) y calidad nutricional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la evaluación más adecuada de esa conclusión?",
+      "context": "En un supermercado de Medellín, un grupo de estudiantes lee la etiqueta de un cereal infantil: por porción indica \"con vitamina A y hierro\" y también \"azúcares 12 g\". Un compañero concluye que el producto es saludable porque trae vitaminas añadidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión es correcta, porque cualquier alimento con vitaminas añadidas es saludable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo nutriente no define la calidad de un alimento, y la cantidad de azúcar declarada contradice esa generalización."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión es parcialmente correcta, porque las vitaminas son micronutrientes y se necesitan en dosis pequeñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa observación es cierta, pero no permite deducir que el producto sea saludable en conjunto ni evaluar su aporte de azúcar."
+        },
+        {
+          "letter": "C",
+          "text": "El cereal no aporta nada aprovechable, porque el azúcar anula por completo el efecto de las vitaminas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una conclusión absoluta e incorrecta: los alimentos aportan varios nutrientes a la vez y ninguno borra a los demás."
+        },
+        {
+          "letter": "D",
+          "text": "El cereal aporta ventajas reales, pero el alto contenido de azúcar limita su consumo y sugiere usarlo con moderación",
+          "is_correct": true,
+          "feedback": "Correcto. Valorar la etiqueta implica comparar los nutrientes favorables con el azúcar declarado, sin caer en exageraciones a favor ni en contra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La etiqueta nutricional es un dato, no un veredicto: describe lo que hay en una porción definida y no dice cuánto se debe consumir. Un análisis responsable compara Beneficios (vitaminas y minerales) con el aporte de azúcar, sodio y grasa, y lo hace sobre la porción que realmente se ingiere. Por eso un alimento puede aportar micronutrientes útiles y, al mismo tiempo, ser un consumo ocasional.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes afirmaciones explica correctamente lo que ocurre en su cuerpo?",
+      "context": "En Tunja, un estudiante toma un vaso de leche durante el recreo y poco después presenta cólicos y diarrea. El médico le explica que presenta deficiencia de la enzima lactasa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lactasa es la enzima que digiere las proteínas de la leche",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lactasa hidroliza el azúcar de la leche (lactosa), que es un disacárido, y no actúa sobre las proteínas."
+        },
+        {
+          "letter": "B",
+          "text": "Al faltar la lactasa, la lactosa no se hidroliza en glucosa y galactosa y llega sin digerir al intestino grueso",
+          "is_correct": true,
+          "feedback": "Correcto. Sin la enzima el disacárido no se rompe en sus azúcares simples y queda en el intestino donde fermenta y altera el tránsito."
+        },
+        {
+          "letter": "C",
+          "text": "La deficiencia de lactasa impide que el intestino absorba agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La absorción de agua depende principalmente de las sales de sodio y no se suprime por la ausencia de lactasa."
+        },
+        {
+          "letter": "D",
+          "text": "La lactasa se produce en el estómago y su ausencia provoca una úlcera gástrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lactasa se produce en la membrana del borde en cepillo del intestino delgado, y no causa úlcera gástrica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lactasa es una enzima del borde en cepillo de las células del intestino delgado que separa la lactosa en glucosa y galactosa, dos azúcares simples que sí atraviesan la mucosa. Cuando la enzima falta, la lactosa permanece como molécula grande, no se absorbe en el intestino delgado y llega al intestino grueso, donde las bacterias la fermentan: de ahí los gases, los cólicos y la diarrea.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-9-2026-W11-sistema-digestivo-y-nutricion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
