@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-13-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T02:17:50.403Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la esencia de un texto descriptivo?",
+      "context": "En el aula de lengua de un colegio distrital de Bogotá, un grupo de once grado lee la descripción de las ciclorrutas de la ciudad que una compañera compiló para un proyecto del grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recoger y organizar características de un objeto, un lugar, una persona o un proceso, de manera que el lector pueda identificarlos o imaginarlos.",
+          "is_correct": true,
+          "feedback": "Correcto. Describir es caracterizar con palabras, y el orden de los rasgos es lo que permite reconocer el referente."
+        },
+        {
+          "letter": "B",
+          "text": "Contar hechos que le ocurren a un personaje en un tiempo y un espacio determinados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al texto narrativo, cuya función es mostrar una sucesión de hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Defender una postura sobre un problema, respaldada con argumentos y ejemplos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La defensa de una postura con argumentos es la función del texto argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar un tema mediante definiciones y ejemplos ordenados por dificultad creciente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La explicación ordenada de un tema es la función del texto expositivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto descriptivo se define por su propósito: caracterizar un referente con el fin de que alguien pueda identificarlo o construir una imagen mental de él. No importa que la descripción aparezca dentro de una narración o de un informe, porque su función propia sigue siendo la de mostrar cómo es algo. Reconocer esta diferencia entre describir, contar, explicar y convencer es el punto de partida para leer con criterio cualquier texto de este género.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre una descripción objetiva y una descripción subjetiva?",
+      "context": "En Cali, dos grupos de undécimo grado analizan la descripción de una iglesia colonial: uno la redactó un guía turístico y la otra la escribió un visitante que quedó fascinado con el lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La objetiva se apoya en rasgos que cualquiera puede comprobar, mientras que la subjetiva expresa la percepción, la emoción o el juicio de quien describe.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en la fuente de la información: lo comprobable frente a la valoración personal."
+        },
+        {
+          "letter": "B",
+          "text": "La objetiva usa únicamente datos numéricos, mientras que la subjetiva usa únicamente adjetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una descripción subjetiva también puede incluir datos, y una objetiva puede usar adjetivos precisos."
+        },
+        {
+          "letter": "C",
+          "text": "La objetiva pertenece al género periodístico, mientras que la subjetiva pertenece al género literario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los géneros no se definen por ese criterio, y un mismo género puede usar los dos tipos de descripción."
+        },
+        {
+          "letter": "D",
+          "text": "La objetiva describe personas, mientras que la subjetiva describe lugares y objetos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oposición no depende del referente descrito sino del tipo de información que se entrega."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La descripción objetiva se apoya en rasgos verificables por cualquier observador, como medidas, materiales o condiciones; la subjetiva incorpora la valoración de quien escribe. Ninguna de las dos es mejor en sí misma: la elección depende del propósito. Un informe técnico necesita descripción objetiva, mientras que una crónica de barrio puede recurrir a la subjetiva para transmitir la experiencia vivida. Saber distinguir ambas le permite al lector saber cuánto pesa la opinión dentro de lo que se afirma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v3",
+      "statement": "¿Para qué sirven principalmente los adjetivos calificativos en un texto descriptivo?",
+      "context": "En el taller de lectura de Pereira, los estudiantes de once grado revisan la descripción que una compañera hizo de la plaza principal de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para precisar los rasgos del elemento descrito, de modo que el lector pueda reconocerlo sin necesidad de verlo.",
+          "is_correct": true,
+          "feedback": "Correcto. El adjetivo calificativo delimita y caracteriza, y esa es la razón de ser de la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Para ordenar los elementos descritos siguiendo una secuencia lógica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden lo establecen los conectores y la estructura del párrafo, no los adjetivos."
+        },
+        {
+          "letter": "C",
+          "text": "Para resumir en pocas palabras la información esencial del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resumir es una tarea distinta; el adjetivo califica, no condensa el contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Para expresar el punto de vista del autor sobre lo que está describiendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expresar una posición es tarea de la descripción subjetiva, no la función propia del adjetivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El adjetivo calificativo aporta precisión: transforma un sustantivo amplio en un rasgo que se puede visualizar, por ejemplo \"casona\" se precisa con \"de ladrillo visto y dos pisos\". Esa precisión es la que permite que el lector identifique el referente. Cuando los adjetivos expresan juicios, la descripción se vuelve subjetiva; por eso conviene preguntarse siempre si lo que se afirma es un rasgo comprobable o una valoración.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de descripción se utiliza para dar a conocer los pasos que deben seguirse al realizar una tarea o un proceso?",
+      "context": "En un colegio de Barranquilla, el docente explica a once grado el reporte de una práctica de campo sobre la siembra y la cosecha del café en una finca del eje cafetero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción de un proceso o de un procedimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. Describe cómo se hace algo mediante una secuencia ordenada de pasos."
+        },
+        {
+          "letter": "B",
+          "text": "La descripción de un personaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un personaje se describe por sus rasgos físicos y psicológicos, no por pasos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción de un paisaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un paisaje se describe por sus elementos naturales y su aspecto visual."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción de un objeto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un objeto se describe por su forma, material, tamaño y uso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dentro del texto descriptivo se distinguen varios subtipos según lo que se caracteriza: un objeto, un lugar, una persona o un proceso. La descripción de un proceso es la que ordena pasos o etapas con el fin de que alguien pueda reproducir la tarea o comprender cómo se realiza. En los textos escolares y técnicos este subtipo es frecuente y exige que el orden de los pasos se respete con rigor, porque de él depende la utilidad práctica del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de descripción aplica al texto sobre el río Medellín y sus márgenes?",
+      "context": "En Medellín, un equipo de undécimo grado prepara una cartilla sobre el río Medellín y lee un texto que describe sus márgenes, su caudal y el ambiente de la ribera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descripción de un lugar, porque expone las características físicas y el ambiente de un espacio geográfico.",
+          "is_correct": true,
+          "feedback": "Correcto. El referente es un espacio y lo que se presentan son sus rasgos."
+        },
+        {
+          "letter": "B",
+          "text": "Descripción de un proceso, porque indica cómo recorre el agua su cauce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto caracteriza un espacio; el recorrido del agua sería un proceso."
+        },
+        {
+          "letter": "C",
+          "text": "Descripción de un objeto, porque describe una construcción hecha por el hombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un río no es un artefacto, sino un elemento del paisaje geográfico."
+        },
+        {
+          "letter": "D",
+          "text": "Descripción de un personaje, porque caracteriza a las personas que viven en sus orillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foco del texto son los rasgos del espacio, no los rasgos de las personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para clasificar una descripción basta con preguntar cuál es el referente y qué se dice de él. Si el referente es un espacio geográfico, como un río, una plaza, un barrio o un parque, y lo que se presentan son sus características, la descripción es de un lugar. Esta ejercitación es útil en once grado porque prepara para el Saber 11, donde muchos ítems piden identificar el tipo de texto a partir del referente y del propósito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué recurso estilístico se identifica principalmente en esa frase?",
+      "context": "En un aula de Bucaramanga, un grupo de once grado lee la frase \"La plaza principal es un escalón de ladrillo que se asoma al río\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un símil, porque compara el lugar con un objeto usando un nexo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay nexo comparativo como \"como\" o \"parecido a\", así que no es un símil."
+        },
+        {
+          "letter": "B",
+          "text": "Una metáfora, porque acerca el lugar a un objeto para que el lector lo visualice.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación se establece sin nexo y el lugar se presenta como si fuera un escalón."
+        },
+        {
+          "letter": "C",
+          "text": "Una personificación, porque le atribuye al edificio una acción propia de las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asomarse no es una acción exclusiva de las personas, y la relación es con un objeto, no con un ser humano."
+        },
+        {
+          "letter": "D",
+          "text": "Una hipérbole, porque exagera el tamaño o la altura del lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no aumenta ninguna medida, solo acerca un lugar a una imagen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La metáfora establece una relación de semejanza sin nexo, de modo que un término ocupa el lugar del otro: la plaza se presenta como si fuera un escalón. En cambio, el símil declara la comparación mediante un nexo, y la personificación atribuye rasgos humanos a algo que no los tiene. Reconocer estos recursos dentro de una descripción permite explicar por qué el lector visualiza mejor el lugar y por qué la descripción resulta más expresiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál estrategia de lectura permite con mayor eficacia identificar las características de un lugar en un texto descriptivo?",
+      "context": "En Pereira, la profesora entrega a los estudiantes de once grado dos descripciones del mercado municipal y les pide identificar los rasgos del lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar el número de oraciones del texto para medir su extensión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del texto no dice nada sobre las características del referente."
+        },
+        {
+          "letter": "B",
+          "text": "Subrayar los adjetivos y los sustantivos que nombran partes, materiales, colores y tamaños, y luego organizarlos en una lista.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa estrategia aísla los rasgos y permite comprobar de un vistazo qué caracteriza al lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar únicamente las palabras que indican tiempo, porque el lugar se entiende por la fecha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las marcas de tiempo son propias de la narración y no describen rasgos del espacio."
+        },
+        {
+          "letter": "D",
+          "text": "Leer el texto al revés, desde la última oración, para comprobar si el final explica el inicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertir el orden impide seguir la organización del texto y no es una estrategia de lectura válida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una estrategia de lectura es un procedimiento que el lector aplica para cumplir una tarea concreta. Cuando la tarea es identificar los rasgos de un referente, resulta útil aislar el vocabulario que los nombra, es decir, adjetivos y sustantivos, y reorganizarlo. Este tipo de extracción funciona mejor que la lectura lineal cuando el texto es extenso, y además deja un registro útil para redactar después una propia descripción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo se organiza, por lo general, la descripción de un objeto o de un lugar?",
+      "context": "En Cali, el museo escolar pide a un grupo de undécimo grado redactar la descripción de una pieza que se exhibirá en la sala de historia de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con la narración cronológica de los hechos relacionados con el elemento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden cronológico corresponde a la narración, no a la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Con una presentación general del elemento y, después, el desarrollo de sus rasgos más característicos.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción pasa de lo general a lo particular, y ese es su orden típico."
+        },
+        {
+          "letter": "C",
+          "text": "Con una definición del término y ejemplos de otras disciplinas que lo usan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La definición con ejemplos corresponde al texto expositivo."
+        },
+        {
+          "letter": "D",
+          "text": "Con una tesis sobre el significado del elemento y tres argumentos que la sostengan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis y los argumentos son propios del texto argumentativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descripción suele manejar dos movimientos. El primero presenta el referente de manera general, para que el lector sepa de qué se trata; el segundo desarrolla los rasgos que lo hacen singular, con frecuencia de lo general a lo específico. Dominar esta estructura ayuda tanto para leer como para escribir, porque permite evaluar si una descripción está completa o si se queda en una presentación demasiado vaga.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el propósito comunicativo de un texto cuyo fin es que otra persona pueda ubicar o reconocer lo que se describe?",
+      "context": "En un proyecto de undécimo grado en Bogotá, los estudiantes deben escribir la descripción de un monumento de la ciudad para una visita guiada de estudiantes de otros grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer al lector de que el referente es mejor que otros de su misma clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una intención publicitaria, no el propósito propio de la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Informar con precisión las características del referente para que el lector lo identifique o lo imagine.",
+          "is_correct": true,
+          "feedback": "Correcto. El propósito informativo exige que los rasgos sean suficientes y verificables."
+        },
+        {
+          "letter": "C",
+          "text": "Contar la historia completa de lo que ocurrió alrededor del referente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar hechos en el tiempo es función de la narración."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar con qué materiales está hecho, siguiendo el método de las ciencias naturales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque un dato material puede aparecer, el propósito no es explicar el origen científico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El propósito comunicativo orienta las decisiones del escritor. Si el lector debe identificar o imaginar el referente, la descripción prioriza rasgos visibles, medibles y bien organizados. Si el lector debe ser convencido, la descripción se apoya en adjetivos valorativos. En el Saber 11 esta distinción es decisiva, porque permite identificar la intención de un fragmento y valorar si los datos que se entregan son los adecuados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v10",
+      "statement": "¿Qué relación existe entre un texto descriptivo y los otros tipos de texto?",
+      "context": "En el boletín escolar de Barranquilla, un estudiante de once grado escribe la descripción de una fiesta folclórica que se realizará en el patio del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto descriptivo solo puede aparecer de manera independiente, nunca como parte de otro texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción suele aparecer integrada en textos de otros géneros."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto descriptivo puede aparecer dentro de un narrativo o de un informativo, pero su función propia sigue siendo caracterizar, no contar ni convencer.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tipos de texto pueden combinarse, pero cada uno conserva su función."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto descriptivo y un narrativo son lo mismo, porque ambos dan cuenta de lo que ocurre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dar cuenta de lo que ocurre es narrar; caracterizar es describir."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto descriptivo es siempre argumentativo, porque busca persuadir con la evidencia de los datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción no tiene por fin persuadir, sino informar características."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la práctica los tipos de texto se mezclan: un artículo de prensa puede narrar un hecho y describir el lugar donde ocurrió. Lo que define a cada uno no es su presencia aislada, sino la función que predomina en el fragmento. Reconocer esta mezcla es importante para la lectura crítica del Saber 11, porque evita el error de clasificar un texto completo por un solo párrafo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v11",
+      "statement": "¿Qué se puede inferir sobre el propósito de quien escribe ese texto?",
+      "context": "En el barrio de Getsemaní, en Bogotá, un grupo de once grado analiza un texto de promoción turística que emplea expresiones como \"encantador\", \"lleno de vida\" y \"perfecto para caminar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto es narrativo, porque presenta hechos ordenados en el tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay sucesión de hechos ni personajes, hay caracterización de un espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Que busca describir el lugar con datos técnicos, con datos técnicos, verificados y medibles, sin vocación de opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto técnico no se apoya en adjetivos valorativos, sino en información comprobable."
+        },
+        {
+          "letter": "C",
+          "text": "Que busca presentar el lugar de manera favorable e influir en la decisión del lector, más que informar con neutralidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de adjetivos valorativos y la ausencia de datos medibles delatan una intención de persuasión."
+        },
+        {
+          "letter": "D",
+          "text": "Que el lugar carece de características propias, y por eso se recurre a palabras generales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras generales no dependen de las características reales del lugar, sino del propósito del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir el propósito exige poner en relación el vocabulario con la función del texto. Los adjetivos valorativos no aportan información verificable, sino una evaluación, y eso indica que el texto quiere influenciar al lector. La diferencia entre un texto de promoción y uno informativo se marca en el tipo de evidencia: datos comprobables en el segundo, adjetivos valorativos en el primero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v12",
+      "statement": "¿Qué efecto produce esa frase en el lector y a qué recurso pertenece?",
+      "context": "En Medellín, un estudiante de undécimo grado escribe que un cerro de la ciudad es tan alto que su cima desaparece entre las nubes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta un dato exacto y verificable sobre la altura del cerro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no expresa una medida, sino una impresión exagerada."
+        },
+        {
+          "letter": "B",
+          "text": "Ordena en el tiempo los hechos relacionados con el cerro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay indicadores temporales, por lo que no hay narración."
+        },
+        {
+          "letter": "C",
+          "text": "Refuerza la percepción de altura del lugar de manera exagerada, por lo que pertenece a la hipérbole.",
+          "is_correct": true,
+          "feedback": "Correcto. La exageración de una medida hace más notorio el rasgo y quita precisión al dato."
+        },
+        {
+          "letter": "D",
+          "text": "Expone la opinión del autor sobre la dificultad para ascender a la cima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase habla de la relación entre la altura y las nubes, no de la dificultad de la subida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La hipérbole es un recurso de exageración que intensifica un rasgo con el fin de producir efecto en el lector. Sirve para hacer memorable la descripción, pero tiene un costo: reduce la precisión y vuelve el dato no verificable. Analizar estos efectos es parte de la lectura crítica, porque permite separar lo que el texto amplifica para convencer de lo que efectivamente informa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v13",
+      "statement": "¿Qué criterio le permite decidir cuál de las dos descripciones es la adecuada para un trabajo que exige datos verificables?",
+      "context": "En Pereira, un grupo de undécimo grado compara dos descripciones del mismo río, una escrita con lenguaje técnico y la otra escrita con lenguaje narrativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sea la más corta, porque la brevedad mejora la comprensión del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina si un texto informa de manera verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Que use los adjetivos más variados, porque entre más adjetivos, más completa es la descripción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de adjetivos no garantiza precisión ni verificabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que incluya información comprobable y que separe lo observable de la valoración personal.",
+          "is_correct": true,
+          "feedback": "Correcto. La verificabilidad y la separación entre dato y juicio son criterios de validez."
+        },
+        {
+          "letter": "D",
+          "text": "Que incluya la historia del río desde sus orígenes, porque la información histórica siempre es útil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia no sustituye la descripción técnica del referente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir un texto según la tarea que se va a realizar se llama la lectura funcional. Un mismo referente admite descripciones distintas, y la decisión depende de si se busca información comprobable o una experiencia narrada. La comparación de dos textos con criterios explícitos enseña a justificar una elección con argumentos, una habilidad que se evalúa de manera directa en las pruebas de lectura crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v14",
+      "statement": "¿Por qué es importante enumerar y numerar los pasos de la descripción de un proceso?",
+      "context": "En el laboratorio de un colegio de Bogotá, un grupo de undécimo grado redacta la descripción de un proceso de preparación de una solución en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la numeración reemplaza la explicación de cada paso y hace que el texto sea más corto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Numerar ordena, pero no sustituye la explicación de lo que se hace."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el orden numérico convierte la descripción en un texto argumentativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un procedimiento ordenado no cambia la función del texto, que sigue siendo descriptiva."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la enumeración respeta la secuencia lógica y evita que alguien ejecute los pasos en el orden equivocado.",
+          "is_correct": true,
+          "feedback": "Correcto. El orden garantiza que el procedimiento pueda reproducirse sin errores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los pasos numerados demuestran que el proceso ya fue verificado por un especialista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La numeración es un recurso de orden, no un sello de validación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La descripción de un proceso cumple una función práctica: alguien debe poder reproducirlo. Por eso la enumeración no es un adorno sino el recurso que protege la utilidad del texto, ya que fija la secuencia y hace predecible cada etapa. Comprender esta diferencia entre orden y explicación permite evaluar con precisión la calidad de un instructivo y escribir descripciones de proceso que no dejen lugar a la ambigüedad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v15",
+      "statement": "¿Qué problema tiene esa descripción para el lector al que pretende informar?",
+      "context": "En Cali, una agencia de viajes describe un hotel como \"fresco, húmedo y silencioso\" sin advertir que el viaje se programa para la temporada seca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se convierte en un texto narrativo, porque los adjetivos crean una secuencia de hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adjetivos no generan narración; sigue siendo una descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Gana atractivo, porque toda exageración mejora la comprensión del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exageración no mejora la comprensión, la vuelve poco confiable."
+        },
+        {
+          "letter": "C",
+          "text": "Pierde veracidad, porque los rasgos que presenta contradicen las condiciones que el lector puede comprobar al llegar.",
+          "is_correct": true,
+          "feedback": "Correcto. Una descripción informativa debe ajustarse a la realidad del referente."
+        },
+        {
+          "letter": "D",
+          "text": "Deja de ser un texto escrito, porque el uso de adjetivos rompe las normas de la lengua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede ser gramaticalmente correcto y aun así ser poco veraz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto descriptivo pierde fuerza cuando lo que afirma no corresponde con la realidad. Analizar la distancia entre lo descrito y lo comprobable permite descubrir el propósito real de un texto: informar de manera honesta o de manera interesada. Reconocer esta distancia es un ejercicio central de la lectura crítica, porque enseña a desconfiar de los textos que presentan como dato lo que en realidad es publicidad. Cuando el lector tiene experiencia directa del lugar, el contraste entre el anuncio y la realidad es el mejor argumento a favor de una descripción basada en evidencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v16",
+      "statement": "¿Qué efecto tiene esa supresión en la comprensión del texto?",
+      "context": "En Bucaramanga, un grupo de undécimo grado reescribe la descripción de un parque y elimina los detalles de luz, sonido y olor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto se vuelve más objetivo y, por lo tanto, más preciso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar detalles sensoriales empobrece la descripción, no la vuelve más exacta."
+        },
+        {
+          "letter": "B",
+          "text": "No produce ningún efecto, porque la información esencial está en el tema del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema orienta, pero los rasgos concretos son los que permiten imaginar el referente."
+        },
+        {
+          "letter": "C",
+          "text": "El texto se convierte en una definición, porque ya no relata hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La definición pertenece al texto expositivo, y la supresión de detalles no la produce."
+        },
+        {
+          "letter": "D",
+          "text": "El lector pierde la posibilidad de imaginarse el lugar, porque los detalles sensoriales construyen la imagen mental.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen mental se forma con la información sensorial, no solo con datos generales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las descripciones detalladas se apoyan en los sentidos porque el lector no puede ver, oír ni oler el referente. Cuando el texto recorta esos detalles, pierde la capacidad de generar una imagen y se convierte en una simple lista de características. Reconocer el papel de lo sensorial en la descripción es un criterio útil para valorar la calidad de un texto y para escribir descripciones que realmente despierten la imaginación del lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de las dos versiones cumple mejor con el propósito de una guía para visitantes?",
+      "context": "En Medellín, un museo prepara una guía para visitantes y recibe dos versiones de la descripción de una sala de exposición permanente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que resume el contenido de la exposición en cinco líneas, porque una guía debe ser lo más breve posible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad no garantiza que la descripción cumpla con su propósito informativo."
+        },
+        {
+          "letter": "B",
+          "text": "La que usa la mayor cantidad de adjetivos valorativos, porque hacen el texto más atractivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exceso de adjetivos valorativos no aporta información verificable al visitante."
+        },
+        {
+          "letter": "C",
+          "text": "La que narra la historia del edificio y de sus dueños, porque la historia siempre es el contenido central de una guía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración es un contenido adicional, no el propósito específico de la descripción."
+        },
+        {
+          "letter": "D",
+          "text": "La que presenta rasgos verificables del espacio, ordenados de lo general a lo particular, porque permite que el visitante ubique y reconozca lo que se describe.",
+          "is_correct": true,
+          "feedback": "Correcto. Combina precisión, orden y propósito informativo, que es lo que exige una guía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar un texto exige comparar las opciones contra un criterio explícito, y en este caso el criterio es el propósito de una guía: permitir que el visitante ubique y reconozca el espacio. Bajo ese criterio, la precisión y la organización pesan más que la cantidad de adjetivos o que la brevedad. Este tipo de razonamiento, justificar una elección con criterios, es lo que distingue una lectura crítica de una simple preferencia personal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v18",
+      "statement": "¿Qué inferencia está mejor sustentada por el contraste entre las dos oraciones?",
+      "context": "En Pereira, un grupo de once grado lee la descripción de una sala de espera: \"Es ancha, luminosa y silenciosa, pero a las ocho de la mañana se llena de voces y de gente de pie.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la sala de espera fue diseñada para recibir a muchas personas desde el principio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto solo describe una situación momentánea, no el diseño original del espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Que el silencio del lugar es permanente y que el resto de la información es errónea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste no invalida la primera oración, la complementa al mostrar un momento de cambio."
+        },
+        {
+          "letter": "C",
+          "text": "Que la descripción es subjetiva, porque el autor cambia de opinión a lo largo del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos oraciones son verificables, y el contraste no convierte la descripción en subjetiva."
+        },
+        {
+          "letter": "D",
+          "text": "Que las características de un lugar no son fijas, sino que dependen del momento y de la situación que se vive en él.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste entre la mañana y las ocho muestra que la descripción cambia con las condiciones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Inferir significa deducir una idea que no está escrita pero que el texto permite sostener con la evidencia presentada. El contraste entre un lugar tranquilo y un lugar abarrotado en la misma jornada indica que los rasgos dependen del momento. Reconocer este tipo de dinámica temporal evita el error de tratar toda descripción como una fotografía fija del referente, cuando en realidad casi todo lugar cambia según la hora, la luz y la actividad de las personas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál es el valor más claro de la descripción dentro de un informe como ese?",
+      "context": "En un colegio de Bucaramanga, un grupo de undécimo grado prepara un informe escolar sobre el consumo de agua en su barrio y necesita una descripción de las viviendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir los datos y las explicaciones del informe, porque describir es más sencillo que analizar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción no reemplaza el análisis, le proporciona el material."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar la subjetividad del informe, porque las descripciones son siempre neutrales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una descripción puede ser subjetiva, y esa subjetividad no desaparece por estar en un informe."
+        },
+        {
+          "letter": "C",
+          "text": "Convertir cualquier informe en un texto narrativo, porque todo informe cuenta una experiencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un fragmento descriptivo no convierte el informe en un texto narrativo."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar con precisión características y estados que después pueden analizarse, compararse o explicarse.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción aporta la base de datos que el análisis posterior necesita."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la práctica moderna y científica, la descripción es el paso previo a la explicación y al análisis. Sin características precisas de los referentes no hay comparación posible, y sin comparación no hay conclusión válida. Reconocer esta función transversal de la descripción ayuda a los estudiantes de once grado a conectarla con la lectura crítica, con los textos informativos y con la producción de sus propios informes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál versión cumple mejor con las condiciones de un texto informativo de prensa?",
+      "context": "En un periódico de Bogotá, un artículo sobre un parque famoso incluye dos versiones de la descripción de una de sus zonas, y los lectores discuten cuál es la más adecuada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La que más adjetivos valorativos utiliza, porque el periodismo busca emocionar al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El periodismo informativo se apoya en datos, no en la valoración emocional."
+        },
+        {
+          "letter": "B",
+          "text": "La que cuenta la historia de la construcción del parque, porque narrar siempre es mejor que describir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración puede acompañar la descripción, pero no reemplaza los rasgos verificables."
+        },
+        {
+          "letter": "C",
+          "text": "La que deja la zona sin descripción, porque se supone que cualquier lector la conoce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin descripción, el texto pierde su capacidad de informar sobre el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "La que describe la zona con rasgos verificables, ordenados con claridad y sin exageraciones, porque respeta el propósito informativo y permite que el lector se oriente.",
+          "is_correct": true,
+          "feedback": "Correcto. Reúne precisión, organización y ausencia de exageración, que son las exigencias del género."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura crítica de un texto informativo exige contrastar lo que el texto afirma con lo que el texto necesita lograr. En la descripción de un lugar, eso se traduce en un conjunto de exigencias: rasgos verificables, organización clara y ausencia de exageración. Cuantificar y justificar por qué una versión cumple mejor que otra prepara directamente para los ítems de argumentación y para la producción de textos propios con rigor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
