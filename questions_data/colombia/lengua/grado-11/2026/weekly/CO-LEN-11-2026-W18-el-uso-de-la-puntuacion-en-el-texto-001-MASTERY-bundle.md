@@ -108,19 +108,19 @@ En ese afiche, ¿qué función cumple el punto que separa "dibujo" de "poesía"?
 - [ ] B) Divide el afiche en dos partes de igual extensión
   <!-- feedback: El punto no crea bloques de texto: la separación depende de la sangría, del espacio en blanco o del cambio de línea. -->
 - [ ] C) Sustituye a la coma que debería separar el sujeto del predicado de la oración
-  <!-- feedback: En una lista, el punto reemplaza a la coma entre elementos; no cumple la función de separar el sujeto de su verbo. -->
+  <!-- feedback: En la lista del afiche el punto marca el cierre de cada elemento; dentro de una oración el punto nunca cumple la función de separar el sujeto de su verbo. -->
 - [ ] D) Indica que la lista de modalidades continúa en otra parte del afiche
   <!-- feedback: El punto entre elementos marca el paso de una modalidad a otra, no que la lista esté incompleta. -->
 
 ### Explicacion Pedagogica
-En las enumeraciones, cada elemento de la lista se cierra con un punto, y solo el último recibe el punto final de la oración. Este recurso es útil en textos informativos, afiches, agendas y listas de requisitos, porque permite que cada elemento se lea como una unidad autónoma y no como una continuación del anterior. Reconocer esta función en documentos reales de la comunidad, como las convatorias de un festival escolar, ayuda a los estudiantes a distinguir la puntuación de listas de la puntuación de las oraciones.
+En las listas que se presentan en líneas separadas, como ocurre en afiches, agendas y listas de requisitos, cada elemento suele cerrarse con un punto y solo el último recibe el punto de cierre de la oración. Ese recurso permite leer cada modalidad como una unidad autónoma y no como una continuación de la anterior, aunque no corresponde a las enumeraciones escritas dentro de una oración, donde se emplean comas o punto y coma. Reconocer la diferencia entre la puntuación de una lista y la de una oración resulta clave en documentos reales de la comunidad, como las convatorias de un festival escolar.
 
 ## Question 5 [D5-D6]
 **ID:** CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Comprensión de textos
 **Expected_Success:** 0.75
-**Contexto:** Un grupo de undécimo grado de Medellín prepara una presentación sobre el agua y redacta la diapositiva inicial: "Hoy presentamos tres datos: cinco veces la población mundial vive en zonas de estrés hídrico por falta de agua potable, según un informe de las Naciones Unidas publicado en 2016".
+**Contexto:** Un grupo de undécimo grado de Medellín prepara una presentación sobre el agua y redacta la diapositiva inicial: "Hoy presentamos tres datos: el consumo de agua potable disminuyó en varios municipios del país, la sequía afectó los cultivos de los valles del Cauca y del Tolima, y el ahorro doméstico aumentó, según el informe que la clase revisó la semana pasada".
 
 ### Enunciado
 Un compañero afirma que esa diapositiva está mal puntuada porque mezcla dos signos. ¿Cuál es la valoración correcta?
@@ -149,10 +149,10 @@ Aplicar la puntuación exige reconocer qué relación existe entre las partes de
 ¿Qué efecto busca el autor al intercalar el inciso "el Metrocable de Medellín" entre guiones dentro de esa oración?
 
 ### Opciones
-- [x] A) Precisa qué sistema de transporte está nombrando, sin interrumpir el hilo principal de la oración
-  <!-- feedback: El inciso aísla una precisión identificadora que el lector necesita para entender de qué sistema se habla. -->
-- [ ] B) Marcar una opinión personal que contradice lo que el resto del párrafo defiende
+- [ ] A) Marcar una opinión personal que contradice lo que el resto del párrafo defiende
   <!-- feedback: Los guiones no señalan cambio de opinión: aíslan un elemento que se integra al sentido general de la oración. -->
+- [x] B) Precisa qué sistema de transporte está nombrando, sin interrumpir el hilo principal de la oración
+  <!-- feedback: El inciso aísla una precisión identificadora que el lector necesita para entender de qué sistema se habla. -->
 - [ ] C) Señalar que la información que sigue es una cita tomada de otra fuente
   <!-- feedback: Las citas se marcan con comillas. El inciso entre guiones aporta una precisión propia del autor. -->
 - [ ] D) Suspender la argumentación porque el autor duda de los datos que presenta
@@ -172,10 +172,10 @@ Los guiones se emplean para intercalar, aislar y precisar elementos dentro de un
 ¿Cuál es la forma correcta de unir las dos afirmaciones en un solo período y hacer visible esa relación?
 
 ### Opciones
-- [x] A) La comunidad del barrio pidió apoyo al consejo distrital; sin esa gestión, el proyecto no habría avanzado.
-  <!-- feedback: El punto y coma separa las dos proposiciones completas y deja explícita la relación de condición que el autor quiere señalar. -->
-- [ ] B) La comunidad del barrio pidió apoyo al consejo distrital: sin esa gestión, el proyecto no habría avanzado.
+- [ ] A) La comunidad del barrio pidió apoyo al consejo distrital: sin esa gestión, el proyecto no habría avanzado.
   <!-- feedback: Los dos puntos también pueden enlazar las ideas, pero aquí se quiere separar dos hechos relacionados, no anunciar una explicación. -->
+- [x] B) La comunidad del barrio pidió apoyo al consejo distrital; sin esa gestión, el proyecto no habría avanzado.
+  <!-- feedback: El punto y coma separa las dos proposiciones completas y deja explícita la relación de condición que el autor quiere señalar. -->
 - [ ] C) La comunidad del barrio, pidió apoyo al consejo distrital; sin esa gestión, el proyecto no habría avanzado.
   <!-- feedback: La coma entre el sujeto y su verbo es incorrecta: en español no se separa el sujeto del predicado con ese signo. -->
 - [ ] D) La comunidad del barrio pidió apoyo al consejo distrital sin esa gestión, el proyecto no habría avanzado.
@@ -189,23 +189,23 @@ Para puntuar correctamente dos ideas, es necesario identificar qué relación ex
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.75
-**Contexto:** En un centro de salud de un barrio de Barranquilla, la secretaria diligencia la historia clínica de una estudiante de grado once que llega con un esguince y escribe el nombre de la profesional que la atiende.
+**Contexto:** En el cuaderno de un estudiante de undécimo grado de Barranquilla aparece copiada, sin ningún signo de puntuación de cierre, una frase de un texto de matemáticas: "en la segunda unidad vimos dos temas: las ecuaciones de primer grado y las funciones lineales".
 
 ### Enunciado
-¿Cuál de estas formas de anotar el nombre de la profesional respeta la norma de abreviatura en español, si el título completo es "doctora"?
+¿Cuál es la forma correcta de completar la puntuación de esa frase?
 
 ### Opciones
-- [x] A) Doctora Ramírez
-  <!-- feedback: Los títulos de grado profesional se escriben completos en la escritura formal, y además se evita la ambigüedad sobre el género de la persona. -->
-- [ ] B) Drta. Ramírez
-  <!-- feedback: Esta reducción no está contemplada en la norma: abrevia una palabra que debe aparecer completa. -->
-- [ ] C) Dctora. Ramírez
-  <!-- feedback: Esta forma abrevia y además altera la palabra original, de modo que no corresponde a ninguna abreviatura válida. -->
-- [ ] D) D- Ramírez
-  <!-- feedback: Reducir el título a una inicial con guion no es una abreviatura registrada del término. -->
+- [ ] A) «En la segunda unidad vimos dos temas; las ecuaciones de primer grado y las funciones lineales.» El punto y coma separa los dos temas.
+  <!-- feedback: El punto y coma solo se emplea entre proposiciones con sentido completo, y aquí hay un solo verbo que anuncia una enumeración, no dos oraciones. -->
+- [x] B) «En la segunda unidad vimos dos temas: las ecuaciones de primer grado y las funciones lineales». Los dos puntos anuncian la enumeración y el punto final cierra la oración.
+  <!-- feedback: Es correcta. Los dos puntos introducen lo que se enumera y, como la lista es breve, sus dos elementos se separan con comas hasta el punto de cierre. -->
+- [ ] C) «En la segunda unidad vimos dos temas, las ecuaciones de primer grado y las funciones lineales.» La coma basta para introducir la enumeración.
+  <!-- feedback: La coma no anuncia el contenido que va a enumerarse: esa función de anticipación corresponde a los dos puntos. -->
+- [ ] D) «En la segunda unidad vimos dos temas: las ecuaciones de primer grado, y las funciones lineales.» La coma antes de la conjunción final es obligatoria.
+  <!-- feedback: En una lista breve la conjunción final no se precede de coma, y esa coma adicional es incorrecta según la norma. -->
 
 ### Explicacion Pedagogica
-En el uso normativo del español hay títulos que se escriben siempre completos, porque su abreviatura resulta ambigua o porque identifican un grado académico o profesional, y hay abreviaturas que la tradición admite en los tratamientos, como las de señor, señora, ingeniero o licenciada. El título de doctor o doctora pertenece al primer grupo, de modo que en documentos formales, como historias clínicas, oficios y certificados, debe aparecer escrito completo. Reconocer esta norma es necesario para producir documentos válidos y para leer correctamente los textos que aplican abreviaturas.
+Los dos puntos anuncian el contenido que viene a continuación, en este caso una enumeración de dos temas. Dentro de esa enumeración breve los elementos se separan con comas y la conjunción final cierra la lista sin coma previa; el punto de cierre se coloca al final de la oración. Distinguir el signo que anuncia, que son los dos puntos, de los que separan elementos, como la coma y el punto y coma en listas largas, es uno de los errores más frecuentes al transcribir textos técnicos y aparece con frecuencia en las preguntas de lectura de la prueba Saber 11.
 
 ## Question 9 [D5-D6]
 **ID:** CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v9
@@ -218,10 +218,10 @@ En el uso normativo del español hay títulos que se escriben siempre completos,
 ¿Cuál es la forma correcta de puntuar ese discurso directo dentro del relato de la entrevista?
 
 ### Opciones
-- [x] A) El entrevistado respondió: "Estudié en el colegio del barrio y allí aprendí a leer con ahinco".
-  <!-- feedback: Los dos puntos después del verbo de habla y las comillas delimitan la cita, y el punto final va antes del cierre. -->
-- [ ] B) El entrevistado respondió, "estudié en el colegio del barrio y allí aprendí a leer con ahinco".
+- [ ] A) El entrevistado respondió, "estudié en el colegio del barrio y allí aprendí a leer con ahinco".
   <!-- feedback: Después del verbo de habla se necesitan dos puntos, y la cita que empieza con un verbo debe llevar mayúscula inicial. -->
+- [x] B) El entrevistado respondió: "Estudié en el colegio del barrio y allí aprendí a leer con ahinco".
+  <!-- feedback: Los dos puntos después del verbo de habla y las comillas delimitan la cita, y el punto final va antes del cierre. -->
 - [ ] C) El entrevistado respondió: estudié en el colegio del barrio y allí aprendí a leer con ahinco.
   <!-- feedback: Faltan las comillas que delimitan el discurso directo, de modo que no se distingue la voz del entrevistado. -->
 - [ ] D) El entrevistado respondió "estudié en el colegio del barrio y allí aprendí a leer con ahinco".
@@ -241,10 +241,10 @@ El discurso directo se marca con comillas y, cuando lo introduce un verbo de hab
 ¿Por qué la información "escrita en cuatro capítulos" debe ir entre paréntesis y no entre dos puntos?
 
 ### Opciones
-- [x] A) Porque es un dato complementario que puede eliminarse sin alterar el sentido central de la oración
-  <!-- feedback: Los paréntesis aíslan información secundaria: si se retira la frase, la idea principal de la oración sigue siendo completa. -->
-- [ ] B) Porque los dos puntos solo pueden usarse en textos históricos y no en trabajos académicos
+- [ ] A) Porque los dos puntos solo pueden usarse en textos históricos y no en trabajos académicos
   <!-- feedback: Es una afirmación falsa: los dos puntos cumplen la misma función en cualquier tipo de texto. -->
+- [x] B) Porque es un dato complementario que puede eliminarse sin alterar el sentido central de la oración
+  <!-- feedback: Los paréntesis aíslan información secundaria: si se retira la frase, la idea principal de la oración sigue siendo completa. -->
 - [ ] C) Porque el paréntesis es el único signo capaz de expresar una opinión sobre lo que se dice
   <!-- feedback: Los paréntesis pueden contener opiniones, pero su función principal es insertar un dato complementario. -->
 - [ ] D) Porque el paréntesis solo puede contener números, fechas y cifras
@@ -264,17 +264,17 @@ Los paréntesis se utilizan para intercalar información que el autor considera 
 ¿Qué problema de construcción del sentido produce esa puntuación y cómo se resolvería?
 
 ### Opciones
-- [x] A) La coma une dos oraciones completas sin marcar su relación, y se resolvería con un punto y coma o con un punto
-  <!-- feedback: La relación queda ambigua y el lector no distingue dónde termina la primera idea ni cómo se enlaza con la segunda. -->
+- [ ] A) El titular necesita dos puntos antes de "el profesor", porque se anuncia una explicación
+  <!-- feedback: Los dos puntos no se colocan entre dos oraciones completas: se reservan para enumerar, explicar, citar o resumir. -->
 - [ ] B) El titular usa demasiadas comas, por lo que el punto final debería reemplazarse por una coma
   <!-- feedback: El problema no es el número de comas, sino la unión de dos proposiciones principales mediante un signo que no corresponde. -->
-- [ ] C) El titular necesita dos puntos antes de "el profesor", porque se anuncia una explicación
-  <!-- feedback: Los dos puntos no se colocan entre dos oraciones completas: se reservan para enumerar, explicar, citar o resumir. -->
+- [x] C) La coma une dos oraciones completas sin marcar su relación, y se resolvería con un punto y coma o con un punto
+  <!-- feedback: La relación queda ambigua y el lector no distingue dónde termina la primera idea ni cómo se enlaza con la segunda. -->
 - [ ] D) El titular está correcto, porque la coma basta para separar dos ideas relacionadas en cualquier contexto
   <!-- feedback: La coma no puede separar dos proposiciones principales: esa función corresponde al punto y coma o al punto. -->
 
 ### Explicacion Pedagogica
-Cuando dos proposiciones principales, cada una con su propio verbo, se unen con una sola coma, se produce lo que la tradición escolar denomina un período de unión de oraciones con coma indebida. El efecto no es solo formal: el lector no puede determinar con precisión dónde termina la primera afirmación ni qué relación guarda con la segunda, lo que genera ambigüedad e incluso cambios de sentido. Analizar estos casos es clave para mejorar la propia escritura y para evaluar con rigor la claridad de un texto ajeno, competencia central de la lectura crítica.
+Cuando dos proposiciones principales, cada una con su propio verbo, se unen con una sola coma, se produce un período mal construido desde el punto de vista de la puntuación, porque la coma no separa ese tipo de proposiciones. El efecto no es solo formal: el lector no puede determinar con precisión dónde termina la primera afirmación ni qué relación guarda con la segunda, lo que genera ambigüedad e incluso cambios de sentido. Analizar estos casos es clave para mejorar la propia escritura y para evaluar con rigor la claridad de un texto ajeno, competencia central de la lectura crítica.
 
 ## Question 12 [D7-D8]
 **ID:** CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v12
@@ -287,12 +287,12 @@ Cuando dos proposiciones principales, cada una con su propio verbo, se unen con 
 ¿Qué diferencia de sentido produce el punto final entre "vegetación nativa" y "Este resultado" frente a una coma en el mismo lugar?
 
 ### Opciones
-- [x] A) El punto final cierra una idea completa e inicia otra autónoma; la coma las fundiría en una sola oración
-  <!-- feedback: El punto señala el término de una afirmación y permite que la siguiente empiece como una idea nueva, con un pronombre que la retoma. -->
+- [ ] A) La coma haría que las dos ideas fueran equivalentes, mientras que el punto las vuelve contradictorias
+  <!-- feedback: El punto no crea contradicción: la relación de causa y consecuencia la da el contenido de las ideas, no el signo. -->
 - [ ] B) El punto final impide que el pronombre "Este resultado" encuentre referente en la oración anterior
   <!-- feedback: El pronombre sí encuentra referente: precisamente por eso la oración que comienza con él debe iniciar con mayúscula. -->
-- [ ] C) La coma haría que las dos ideas fueran equivalentes, mientras que el punto las vuelve contradictorias
-  <!-- feedback: El punto no crea contradicción: la relación de causa y consecuencia la da el contenido de las ideas, no el signo. -->
+- [x] C) El punto final cierra una idea completa e inicia otra autónoma; la coma las fundiría en una sola oración
+  <!-- feedback: El punto señala el término de una afirmación y permite que la siguiente empiece como una idea nueva, con un pronombre que la retoma. -->
 - [ ] D) No hay diferencia, porque el punto y la coma pueden intercambiarse siempre sin alterar el texto
   <!-- feedback: Intercambiarlos cambia la arquitectura de la oración: con coma se obtiene una oración compuesta y con punto dos oraciones separadas. -->
 
@@ -310,12 +310,12 @@ El punto final es el signo que cierra una oración y marca la unidad de sentido 
 Analice la puntuación del aviso. ¿Qué se puede inferir sobre la relación entre el texto introductorio y el texto entre comillas?
 
 ### Opciones
-- [x] A) El texto introductorio anuncia y delimita la cita, de modo que el lector sabe qué información se reproduce textualmente
-  <!-- feedback: La secuencia de dos puntos seguida de comillas es la forma habitual de presentar un discurso directo o un texto citado. -->
+- [ ] A) Lo que aparece entre comillas es una opinión personal de quien redacta el aviso
+  <!-- feedback: Las comillas indican reproducción literal de un texto, no la emisión de una opinión propia de quien escribe. -->
 - [ ] B) El texto introductorio contradice lo que afirma la cita, y por eso los dos puntos son necesarios
   <!-- feedback: Los signos solo delimitan y anuncian: no expresan contradicción ni valoran la veracidad de lo citado. -->
-- [ ] C) Lo que aparece entre comillas es una opinión personal de quien redacta el aviso
-  <!-- feedback: Las comillas indican reproducción literal de un texto, no la emisión de una opinión propia de quien escribe. -->
+- [x] C) El texto introductorio anuncia y delimita la cita, de modo que el lector sabe qué información se reproduce textualmente
+  <!-- feedback: La secuencia de dos puntos seguida de comillas es la forma habitual de presentar un discurso directo o un texto citado. -->
 - [ ] D) Los dos puntos podrían eliminarse sin cambiar el sentido, porque las comillas ya delimitan la cita
   <!-- feedback: Las comillas delimitan, pero los dos puntos anuncian lo que sigue y organizan la relación entre el anuncio y la cita. -->
 
@@ -333,12 +333,12 @@ En la lectura de documentos oficiales, administrativos y periodísticos es frecu
 ¿Qué efecto tiene la ausencia total de signos de puntuación en ese mensaje sobre la comprensión del lector?
 
 ### Opciones
-- [x] A) Genera ambigüedad en las unidades de sentido y puede alterar la información que el receptor entiende
-  <!-- feedback: Sin puntuación no se distingue dónde termina cada idea, de modo que el mismo texto puede entenderse de más de una manera. -->
+- [ ] A) Produce solo un efecto estético, por lo que se considera un defecto de estilo sin consecuencias comunicativas
+  <!-- feedback: La falta de puntuación no es un defecto meramente estético: altera el significado comunicado al receptor. -->
 - [ ] B) No produce ningún efecto, porque el sentido de un texto depende solo de las palabras y no de la puntuación
   <!-- feedback: Es una afirmación incorrecta: la puntuación organiza el contenido y modifica cómo se comprende y se recuerda. -->
-- [ ] C) Produce solo un efecto estético, por lo que se considera un defecto de estilo sin consecuencias comunicativas
-  <!-- feedback: La falta de puntuación no es un defecto meramente estético: altera el significado comunicado al receptor. -->
+- [x] C) Genera ambigüedad en las unidades de sentido y puede alterar la información que el receptor entiende
+  <!-- feedback: Sin puntuación no se distingue dónde termina cada idea, de modo que el mismo texto puede entenderse de más de una manera. -->
 - [ ] D) Mejora la espontaneidad del mensaje y por eso resulta preferible en la comunicación digital
   <!-- feedback: La espontaneidad no justifica la ausencia de puntuación: en mensajes largos, puntuar mejora precisamente la claridad. -->
 
@@ -356,12 +356,12 @@ La puntuación organiza los signos del lenguaje escrito en unidades de sentido y
 ¿Con qué criterio de lectura se puede determinar cuál de esos títulos comunica mejor la relación entre el concepto y su explicación?
 
 ### Opciones
-- [x] A) Con el criterio de que el título debe declarar la relación: los dos puntos anuncian que lo que sigue explica el concepto anterior
-  <!-- feedback: Los dos puntos convierten el título en una fórmula breve de tema y explicación, lo que permite al lector anticipar el contenido. -->
+- [ ] A) Con el criterio de que el título debe ser una enumeración cerrada, sin ningún signo que relacione sus partes
+  <!-- feedback: Un título sin relación interna no orienta la lectura, porque no anticipa si el texto explicará, definirá o enumerará. -->
 - [ ] B) Con el criterio de que el título debe usar el guion, porque el guion tiene esa función reservada
   <!-- feedback: El guion sirve para intercalar y precisar un elemento, no para establecer la relación básica entre un título y su desarrollo. -->
-- [ ] C) Con el criterio de que el título debe ser una enumeración cerrada, sin ningún signo que relacione sus partes
-  <!-- feedback: Un título sin relación interna no orienta la lectura, porque no anticipa si el texto explicará, definirá o enumerará. -->
+- [x] C) Con el criterio de que el título debe declarar la relación: los dos puntos anuncian que lo que sigue explica el concepto anterior
+  <!-- feedback: Los dos puntos convierten el título en una fórmula breve de tema y explicación, lo que permite al lector anticipar el contenido. -->
 - [ ] D) Con el criterio de que el título no debe usar puntuación, porque los títulos solo pueden estar formados por palabras
   <!-- feedback: Es falso: los títulos pueden usar comas, dos puntos o guiones para establecer relaciones entre sus partes. -->
 
@@ -379,14 +379,14 @@ Durante la lectura, los títulos funcionan como información que orienta la inte
 ¿Qué signo debe colocarse antes de la conjunción final "y" en una enumeración de nueve elementos de este tipo, y por qué?
 
 ### Opciones
-- [x] A) Un punto y coma, porque la enumeración es lo bastante larga como para agrupar sus elementos por niveles de detalle
-  <!-- feedback: La norma recomienda el punto y coma antes de la conjunción final cuando la lista es larga o sus elementos son sintagmas complejos. -->
+- [ ] A) Ninguno, porque la conjunción final ya separa por sí sola el último elemento del resto de la lista
+  <!-- feedback: En una lista larga, la conjunción final debe ir precedida de punto y coma para que el lector no perciba el último elemento como un añadido de otra categoría. -->
 - [ ] B) Dos puntos, porque toda lista de elementos debe introducirse con dos puntos
   <!-- feedback: Los dos puntos introducen la lista, pero no se colocan entre elementos: dentro de la lista se usan comas y punto y coma. -->
 - [ ] C) Un punto final, porque el punto es el signo que separa los elementos de una enumeración
   <!-- feedback: El punto entre elementos se reserva para listas muy breves, como las que aparecen en un afiche, y no para una lista de nueve elementos. -->
-- [ ] D) Ninguno, porque la conjunción final ya separa por sí sola el último elemento del resto de la lista
-  <!-- feedback: En una lista larga, la conjunción final debe ir precedida de punto y coma para que el lector no perciba el último elemento como un añadido de otra categoría. -->
+- [x] D) Un punto y coma, porque la enumeración es lo bastante larga como para agrupar sus elementos por niveles de detalle
+  <!-- feedback: La norma recomienda el punto y coma antes de la conjunción final cuando la lista es larga o sus elementos son sintagmas complejos. -->
 
 ### Explicacion Pedagogica
 La norma establece que, en enumeraciones largas o cuyos elementos son sintagmas complejos, el punto y coma debe preceder a la conjunción final o al adverbio final, salvo cuando esta última palabra es monosilábica. La razón es práctica: el punto y coma agrupa los elementos y evita que el lector interprete el último como algo de otra categoría. Analizar este criterio en documentos reales, como informes, estadísticas y listas, permite escribir y leer textos largos con mayor claridad y sin ambigüedades.
@@ -396,23 +396,23 @@ La norma establece que, en enumeraciones largas o cuyos elementos son sintagmas 
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.45
-**Contexto:** El profesor de lenguaje de un colegio de Bogotá entrega a sus estudiantes de undécimo grado un resumen de lo ocurrido en el último trimestre, pero lo escribe sin un solo signo de puntuación: "en la escuela las normas se incumplen a diario y nadie lo corrige".
+**Contexto:** En un editorial de un periódico de Pereira sobre la movilidad de la ciudad, el autor escribe: "La ciclovía se construyó; el tráfico de esa zona mejoró". Un corrector de estilo propone reescribir la frase así: "La ciclovía se construyó porque el tráfico de esa zona mejoró".
 
 ### Enunciado
-¿Qué valoraría usted de un texto expositivo que se entrega completo, sin un solo signo de puntuación?
+¿Qué juicio es más pertinente sobre la propuesta del corrector?
 
 ### Opciones
-- [x] A) Que no cumple una condición elemental de la comunicación escrita, porque impide la reconstrucción de las ideas
-  <!-- feedback: Sin puntuación no hay manera de saber dónde termina cada idea ni cómo se relacionan: el texto deja de ser comunicable con claridad. -->
-- [ ] B) Que resulta aceptable, porque el sentido de un texto depende de las palabras y no de la puntuación
-  <!-- feedback: Es una afirmación falsa: la puntuación es la que convierte una secuencia de palabras en unidades de sentido. -->
-- [ ] C) Que solo debe corregirse cuando el texto supera las dos páginas de extensión
-  <!-- feedback: No existe ese límite: un solo período mal puntuado ya dificulta la comprensión del lector. -->
-- [ ] D) Que debe conservarse tal como está, porque la ausencia de signos le da al texto un estilo más personal
-  <!-- feedback: La ausencia de signos no constituye un estilo, sino un obstáculo para la comunicación escrita. -->
+- [ ] A) La propuesta es innecesaria, porque bastaría eliminar el punto y coma para que el texto resultara más claro
+  <!-- feedback: Eliminar el signo dejaría dos oraciones pegadas sin pausa, lo que produce un error de puntuación más grave que el original. -->
+- [ ] B) La propuesta es correcta, porque el punto y coma siempre expresa una relación de causa entre dos oraciones
+  <!-- feedback: El punto y coma expresa una relación más amplia, no específicamente causal, y no obliga a explicar por qué ocurre lo que ocurre. -->
+- [ ] C) La propuesta es equivalente al original, porque cambiar un signo por un nexo no modifica el sentido del texto
+  <!-- feedback: No es equivalente: el original no explica por qué se construyó la ciclovía y la propuesta sí lo hace, además de alterar la secuencia de los hechos. -->
+- [x] D) La propuesta es incorrecta, porque atribuye una causa que el texto original no afirmaba y además invierte el orden de los hechos
+  <!-- feedback: El punto y coma solo une dos afirmaciones relacionadas y deja la explicación a cargo del lector; convertir esa unión en una subordinada causal agrega una afirmación que el autor no escribió. -->
 
 ### Explicacion Pedagogica
-Un texto escrito sin puntuación no cumple las condiciones mínimas de la comunicación escrita, porque el lector no dispone de las marcas mínimas para distinguir dónde terminan las ideas ni cómo se relacionan entre sí. En las preguntas de evaluación de Saber 11 se espera que el estudiante juzgue estos casos a partir de criterios, y no de preferencias personales. Justificar la respuesta permite demostrar que se comprende la puntuación como un rasgo de la coherencia interna del texto, y no como un requisito de forma.
+Valorar una propuesta de edición exige comparar lo que el texto afirma con lo que la propuesta le hace afirmar. El punto y coma establece una relación entre dos proposiciones sin declarar la naturaleza exacta de esa relación, de modo que el lector dispone de los hechos y construye la interpretación; al convertir esa unión en una subordinada causal, el corrector decide por el autor qué relación existe y además coloca el efecto antes de la causa. Reconocer la diferencia entre señalar una relación y declararla es una forma de lectura crítica que sirve tanto para revisar textos ajenos como para revisar los propios.
 
 ## Question 18 [D9-D10]
 **ID:** CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle-v18
@@ -425,14 +425,14 @@ Un texto escrito sin puntuación no cumple las condiciones mínimas de la comuni
 ¿Cuál es la forma más adecuada de puntuar esa cita en el contexto periodístico, y cuál es el criterio que lo sustenta?
 
 ### Opciones
-- [x] A) Después del verbo de habla se emplean dos puntos y la cita se cierra con el punto antes de las comillas, porque es un discurso directo completo
-  <!-- feedback: La norma exige dos puntos tras el verbo introductorio y el punto de cierre dentro de las comillas cuando la cita es una oración independiente. -->
+- [ ] A) Se puede omitir la puntuación de cierre si la frase citada es muy corta, porque el lector la reconocerá por su contenido
+  <!-- feedback: La longitud de la cita no exime de las marcas de delimitación: sin ellas, el discurso directo queda ambiguo. -->
 - [ ] B) Después del verbo de habla se emplea una coma y la cita no lleva punto, porque en periodismo las reglas son más flexibles
   <!-- feedback: En periodismo rigen las mismas normas del español escrito: la flexibilidad no autoriza a sustituir los dos puntos por una coma. -->
 - [ ] C) Se cierra la cita con dos puntos para indicar que el escritor continúa hablando más adelante
   <!-- feedback: Los dos puntos no se colocan al final de una cita para anunciar continuación: se usan al inicio para introducirla. -->
-- [ ] D) Se puede omitir la puntuación de cierre si la frase citada es muy corta, porque el lector la reconocerá por su contenido
-  <!-- feedback: La longitud de la cita no exime de las marcas de delimitación: sin ellas, el discurso directo queda ambiguo. -->
+- [x] D) Después del verbo de habla se emplean dos puntos y la cita se cierra con el punto antes de las comillas, porque es un discurso directo completo
+  <!-- feedback: La norma exige dos puntos tras el verbo introductorio y el punto de cierre dentro de las comillas cuando la cita es una oración independiente. -->
 
 ### Explicacion Pedagogica
 La puntuación del discurso directo está regulada por normas estables: se introduce con dos puntos cuando va precedida de un verbo de habla, y se cierra con el signo de puntuación correspondiente antes de las comillas. Evaluar una propuesta de puntuación en un texto real exige, por tanto, citar el criterio y aplicarlo, y no emitir una preferencia. Esta capacidad se vincula directamente con la comprensión de textos, porque solo un lector que domina la puntuación distingue con precisión la voz del autor de la voz citada, distinción central en la lectura crítica de prensa.
@@ -448,14 +448,14 @@ La puntuación del discurso directo está regulada por normas estables: se intro
 ¿Qué juicio formularía usted sobre el uso de la puntuación de ese titular y qué efecto tiene sobre el lector?
 
 ### Opciones
-- [x] A) Es un texto truncado que no cierra su idea y acumula signos de exclamación, lo que resta precisión y credibilidad a la información
-  <!-- feedback: Un titular debe ser un enunciado completo: la falta de cierre impide comprender la idea y la repetición de exclamaciones empobrece el registro. -->
+- [ ] A) El problema del titular es únicamente ortográfico, por lo que basta corregir las mayúsculas para que sea aceptable
+  <!-- feedback: El defecto no es ortográfico sino de puntuación y de construcción del sentido: sin cierre, la idea queda abierta. -->
 - [ ] B) Es correcto, porque los signos de exclamación son obligatorios en los títulos de eventos culturales
   <!-- feedback: No existe esa obligación: la exclamación se emplea con moderación y solo cuando expresa una emoción o un énfasis real. -->
 - [ ] C) Es correcto, porque le permite al lector saber que la información aún está en desarrollo y por eso no está terminada
   <!-- feedback: Un titular incompleto no comunica que la información esté en desarrollo, sino que el texto fue mal construido. -->
-- [ ] D) El problema del titular es únicamente ortográfico, por lo que basta corregir las mayúsculas para que sea aceptable
-  <!-- feedback: El defecto no es ortográfico sino de puntuación y de construcción del sentido: sin cierre, la idea queda abierta. -->
+- [x] D) Es un texto truncado que no cierra su idea y acumula signos de exclamación, lo que resta precisión y credibilidad a la información
+  <!-- feedback: Un titular debe ser un enunciado completo: la falta de cierre impide comprender la idea y la repetición de exclamaciones empobrece el registro. -->
 
 ### Explicacion Pedagogica
 Evaluar un texto implica juzgar su puntuación con criterios, y no solo señalar que algo parece incorrecto. Un titular de prensa debe ser un enunciado completo que cierre su idea con el signo correspondiente, y el uso repetido de signos de exclamación es un recurso enfático que, si se generaliza, debilita la fuerza expresiva del signo y reduce la credibilidad del medio. Reconocer estos criterios en información real de la región permite valorar con fundamento la calidad textual de los productos periodísticos locales, ejercicio de lectura crítica útil para tomar decisiones informadas.
@@ -471,14 +471,14 @@ Evaluar un texto implica juzgar su puntuación con criterios, y no solo señalar
 ¿Qué propuesta explica mejor la conclusión del proyecto y qué criterio sustenta esa elección?
 
 ### Opciones
-- [x] A) La del grupo uno, porque el punto y coma separa las dos ideas y deja explícita la relación de causa del proyecto
-  <!-- feedback: El punto y coma muestra la relación lógica entre el hecho principal y su consecuencia, y evita que el lector la deduzca. -->
+- [ ] A) La del grupo uno, porque la coma antes de "hubo" es siempre incorrecta en español
+  <!-- feedback: El punto y coma es adecuado aquí por la relación que expresa, no porque la coma sea inválida en esa posición. -->
 - [ ] B) La del grupo dos, porque al usar solo comas se obtiene un texto más fluido y más rápido de leer
   <!-- feedback: La fluidez no puede obtenerse sacrificando la claridad de las relaciones lógicas entre las ideas del texto. -->
 - [ ] C) La del grupo dos, porque una oración larga con varias comas evita el uso de signos más complejos
   <!-- feedback: La segunda propuesta oculta la relación causal dentro de una enumeración y obliga al lector a reconstruirla por su cuenta. -->
-- [ ] D) La del grupo uno, porque la coma antes de "hubo" es siempre incorrecta en español
-  <!-- feedback: El punto y coma es adecuado aquí por la relación que expresa, no porque la coma sea inválida en esa posición. -->
+- [x] D) La del grupo uno, porque el punto y coma separa las dos ideas y deja explícita la relación de causa del proyecto
+  <!-- feedback: El punto y coma muestra la relación lógica entre el hecho principal y su consecuencia, y evita que el lector la deduzca. -->
 
 ### Explicacion Pedagogica
 Elegir entre dos propuestas de puntuación exige identificar qué relación lógica existe entre las ideas y qué signo la hace visible para el lector. En el caso del proyecto comunitario, la relación es de causa y consecuencia, y el punto y coma la explicita mejor que una sucesión de comas, que presenta todas las ideas como parte de una enumeración del mismo nivel. Fundamentar la elección con un criterio de uso del idioma, y no con una preferencia de estilo, es lo que distingue una respuesta evaluativa bien argumentada, como las que se esperan en el componente de lectura crítica de Saber 11.

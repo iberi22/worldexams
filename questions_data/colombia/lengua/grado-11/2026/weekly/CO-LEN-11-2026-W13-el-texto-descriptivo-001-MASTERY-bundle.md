@@ -57,10 +57,10 @@ El texto descriptivo se define por su propósito: caracterizar un referente con 
 ¿Cuál es la diferencia entre una descripción objetiva y una descripción subjetiva?
 
 ### Opciones
-- [ ] A) La objetiva usa únicamente datos numéricos, mientras que la subjetiva usa únicamente adjetivos.
-  <!-- feedback: Incorrecto. Una descripción subjetiva también puede incluir datos, y una objetiva puede usar adjetivos precisos. -->
-- [x] B) La objetiva se apoya en rasgos que cualquiera puede comprobar, mientras que la subjetiva expresa la percepción, la emoción o el juicio de quien describe.
+- [x] A) La objetiva se apoya en rasgos que cualquiera puede comprobar, mientras que la subjetiva expresa la percepción, la emoción o el juicio de quien describe.
   <!-- feedback: Correcto. La diferencia está en la fuente de la información: lo comprobable frente a la valoración personal. -->
+- [ ] B) La objetiva usa únicamente datos numéricos, mientras que la subjetiva usa únicamente adjetivos.
+  <!-- feedback: Incorrecto. Una descripción subjetiva también puede incluir datos, y una objetiva puede usar adjetivos precisos. -->
 - [ ] C) La objetiva pertenece al género periodístico, mientras que la subjetiva pertenece al género literario.
   <!-- feedback: Incorrecto. Los géneros no se definen por ese criterio, y un mismo género puede usar los dos tipos de descripción. -->
 - [ ] D) La objetiva describe personas, mientras que la subjetiva describe lugares y objetos.
@@ -80,14 +80,14 @@ La descripción objetiva se apoya en rasgos verificables por cualquier observado
 ¿Para qué sirven principalmente los adjetivos calificativos en un texto descriptivo?
 
 ### Opciones
-- [ ] A) Para expresar el punto de vista del autor sobre lo que está describiendo.
-  <!-- feedback: Incorrecto. Expresar una posición es tarea de la descripción subjetiva, no la función propia del adjetivo. -->
+- [x] A) Para precisar los rasgos del elemento descrito, de modo que el lector pueda reconocerlo sin necesidad de verlo.
+  <!-- feedback: Correcto. El adjetivo calificativo delimita y caracteriza, y esa es la razón de ser de la descripción. -->
 - [ ] B) Para ordenar los elementos descritos siguiendo una secuencia lógica.
   <!-- feedback: Incorrecto. El orden lo establecen los conectores y la estructura del párrafo, no los adjetivos. -->
 - [ ] C) Para resumir en pocas palabras la información esencial del texto.
   <!-- feedback: Incorrecto. Resumir es una tarea distinta; el adjetivo califica, no condensa el contenido. -->
-- [x] D) Para precisar los rasgos del elemento descrito, de modo que el lector pueda reconocerlo sin necesidad de verlo.
-  <!-- feedback: Correcto. El adjetivo calificativo delimita y caracteriza, y esa es la razón de ser de la descripción. -->
+- [ ] D) Para expresar el punto de vista del autor sobre lo que está describiendo.
+  <!-- feedback: Incorrecto. Expresar una posición es tarea de la descripción subjetiva, no la función propia del adjetivo. -->
 
 ### Explicacion Pedagogica
 El adjetivo calificativo aporta precisión: transforma un sustantivo amplio en un rasgo que se puede visualizar, por ejemplo "casona" se precisa con "de ladrillo visto y dos pisos". Esa precisión es la que permite que el lector identifique el referente. Cuando los adjetivos expresan juicios, la descripción se vuelve subjetiva; por eso conviene preguntarse siempre si lo que se afirma es un rasgo comprobable o una valoración.
@@ -126,12 +126,12 @@ Dentro del texto descriptivo se distinguen varios subtipos según lo que se cara
 ¿Qué tipo de descripción aplica al texto sobre el río Medellín y sus márgenes?
 
 ### Opciones
-- [ ] A) Descripción de un objeto, porque describe una construcción hecha por el hombre.
-  <!-- feedback: Incorrecto. Un río no es un artefacto, sino un elemento del paisaje geográfico. -->
+- [x] A) Descripción de un lugar, porque expone las características físicas y el ambiente de un espacio geográfico.
+  <!-- feedback: Correcto. El referente es un espacio y lo que se presentan son sus rasgos. -->
 - [ ] B) Descripción de un proceso, porque indica cómo recorre el agua su cauce.
   <!-- feedback: Incorrecto. El texto caracteriza un espacio; el recorrido del agua sería un proceso. -->
-- [x] C) Descripción de un lugar, porque expone las características físicas y el ambiente de un espacio geográfico.
-  <!-- feedback: Correcto. El referente es un espacio y lo que se presentan son sus rasgos. -->
+- [ ] C) Descripción de un objeto, porque describe una construcción hecha por el hombre.
+  <!-- feedback: Incorrecto. Un río no es un artefacto, sino un elemento del paisaje geográfico. -->
 - [ ] D) Descripción de un personaje, porque caracteriza a las personas que viven en sus orillas.
   <!-- feedback: Incorrecto. El foco del texto son los rasgos del espacio, no los rasgos de las personas. -->
 
@@ -149,10 +149,10 @@ Para clasificar una descripción basta con preguntar cuál es el referente y qu�
 ¿Qué recurso estilístico se identifica principalmente en esa frase?
 
 ### Opciones
-- [x] A) Una metáfora, porque acerca el lugar a un objeto para que el lector lo visualice.
-  <!-- feedback: Correcto. La comparación se establece sin nexo y el lugar se presenta como si fuera un escalón. -->
-- [ ] B) Un símil, porque compara el lugar con un objeto usando un nexo.
+- [ ] A) Un símil, porque compara el lugar con un objeto usando un nexo.
   <!-- feedback: Incorrecto. No hay nexo comparativo como "como" o "parecido a", así que no es un símil. -->
+- [x] B) Una metáfora, porque acerca el lugar a un objeto para que el lector lo visualice.
+  <!-- feedback: Correcto. La comparación se establece sin nexo y el lugar se presenta como si fuera un escalón. -->
 - [ ] C) Una personificación, porque le atribuye al edificio una acción propia de las personas.
   <!-- feedback: Incorrecto. Asomarse no es una acción exclusiva de las personas, y la relación es con un objeto, no con un ser humano. -->
 - [ ] D) Una hipérbole, porque exagera el tamaño o la altura del lugar.
@@ -197,12 +197,12 @@ Una estrategia de lectura es un procedimiento que el lector aplica para cumplir 
 ### Opciones
 - [ ] A) Con la narración cronológica de los hechos relacionados con el elemento.
   <!-- feedback: Incorrecto. El orden cronológico corresponde a la narración, no a la descripción. -->
-- [ ] B) Con una tesis sobre el significado del elemento y tres argumentos que la sostengan.
-  <!-- feedback: Incorrecto. La tesis y los argumentos son propios del texto argumentativo. -->
+- [x] B) Con una presentación general del elemento y, después, el desarrollo de sus rasgos más característicos.
+  <!-- feedback: Correcto. La descripción pasa de lo general a lo particular, y ese es su orden típico. -->
 - [ ] C) Con una definición del término y ejemplos de otras disciplinas que lo usan.
   <!-- feedback: Incorrecto. La definición con ejemplos corresponde al texto expositivo. -->
-- [x] D) Con una presentación general del elemento y, después, el desarrollo de sus rasgos más característicos.
-  <!-- feedback: Correcto. La descripción pasa de lo general a lo particular, y ese es su orden típico. -->
+- [ ] D) Con una tesis sobre el significado del elemento y tres argumentos que la sostengan.
+  <!-- feedback: Incorrecto. La tesis y los argumentos son propios del texto argumentativo. -->
 
 ### Explicacion Pedagogica
 La descripción suele manejar dos movimientos. El primero presenta el referente de manera general, para que el lector sepa de qué se trata; el segundo desarrolla los rasgos que lo hacen singular, con frecuencia de lo general a lo específico. Dominar esta estructura ayuda tanto para leer como para escribir, porque permite evaluar si una descripción está completa o si se queda en una presentación demasiado vaga.
@@ -218,10 +218,10 @@ La descripción suele manejar dos movimientos. El primero presenta el referente 
 ¿Cuál es el propósito comunicativo de un texto cuyo fin es que otra persona pueda ubicar o reconocer lo que se describe?
 
 ### Opciones
-- [x] A) Informar con precisión las características del referente para que el lector lo identifique o lo imagine.
-  <!-- feedback: Correcto. El propósito informativo exige que los rasgos sean suficientes y verificables. -->
-- [ ] B) Convencer al lector de que el referente es mejor que otros de su misma clase.
+- [ ] A) Convencer al lector de que el referente es mejor que otros de su misma clase.
   <!-- feedback: Incorrecto. Esa es una intención publicitaria, no el propósito propio de la descripción. -->
+- [x] B) Informar con precisión las características del referente para que el lector lo identifique o lo imagine.
+  <!-- feedback: Correcto. El propósito informativo exige que los rasgos sean suficientes y verificables. -->
 - [ ] C) Contar la historia completa de lo que ocurrió alrededor del referente.
   <!-- feedback: Incorrecto. Contar hechos en el tiempo es función de la narración. -->
 - [ ] D) Explicar con qué materiales está hecho, siguiendo el método de las ciencias naturales.
@@ -243,10 +243,10 @@ El propósito comunicativo orienta las decisiones del escritor. Si el lector deb
 ### Opciones
 - [ ] A) Un texto descriptivo solo puede aparecer de manera independiente, nunca como parte de otro texto.
   <!-- feedback: Incorrecto. La descripción suele aparecer integrada en textos de otros géneros. -->
-- [ ] B) Un texto descriptivo y un narrativo son lo mismo, porque ambos dan cuenta de lo que ocurre.
-  <!-- feedback: Incorrecto. Dar cuenta de lo que ocurre es narrar; caracterizar es describir. -->
-- [x] C) Un texto descriptivo puede aparecer dentro de un narrativo o de un informativo, pero su función propia sigue siendo caracterizar, no contar ni convencer.
+- [x] B) Un texto descriptivo puede aparecer dentro de un narrativo o de un informativo, pero su función propia sigue siendo caracterizar, no contar ni convencer.
   <!-- feedback: Correcto. Los tipos de texto pueden combinarse, pero cada uno conserva su función. -->
+- [ ] C) Un texto descriptivo y un narrativo son lo mismo, porque ambos dan cuenta de lo que ocurre.
+  <!-- feedback: Incorrecto. Dar cuenta de lo que ocurre es narrar; caracterizar es describir. -->
 - [ ] D) Un texto descriptivo es siempre argumentativo, porque busca persuadir con la evidencia de los datos.
   <!-- feedback: Incorrecto. La descripción no tiene por fin persuadir, sino informar características. -->
 
@@ -264,12 +264,12 @@ En la práctica los tipos de texto se mezclan: un artículo de prensa puede narr
 ¿Qué se puede inferir sobre el propósito de quien escribe ese texto?
 
 ### Opciones
-- [x] A) Que busca presentar el lugar de manera favorable e influir en la decisión del lector, más que informar con neutralidad.
-  <!-- feedback: Correcto. El uso de adjetivos valorativos y la ausencia de datos medibles delatan una intención de persuasión. -->
+- [ ] A) Que el texto es narrativo, porque presenta hechos ordenados en el tiempo.
+  <!-- feedback: Incorrecto. No hay sucesión de hechos ni personajes, hay caracterización de un espacio. -->
 - [ ] B) Que busca describir el lugar con datos técnicos, con datos técnicos, verificados y medibles, sin vocación de opinión.
   <!-- feedback: Incorrecto. Un texto técnico no se apoya en adjetivos valorativos, sino en información comprobable. -->
-- [ ] C) Que el texto es narrativo, porque presenta hechos ordenados en el tiempo.
-  <!-- feedback: Incorrecto. No hay sucesión de hechos ni personajes, hay caracterización de un espacio. -->
+- [x] C) Que busca presentar el lugar de manera favorable e influir en la decisión del lector, más que informar con neutralidad.
+  <!-- feedback: Correcto. El uso de adjetivos valorativos y la ausencia de datos medibles delatan una intención de persuasión. -->
 - [ ] D) Que el lugar carece de características propias, y por eso se recurre a palabras generales.
   <!-- feedback: Incorrecto. Las palabras generales no dependen de las características reales del lugar, sino del propósito del texto. -->
 
@@ -289,10 +289,10 @@ Inferir el propósito exige poner en relación el vocabulario con la función de
 ### Opciones
 - [ ] A) Aporta un dato exacto y verificable sobre la altura del cerro.
   <!-- feedback: Incorrecto. La frase no expresa una medida, sino una impresión exagerada. -->
-- [x] B) Refuerza la percepción de altura del lugar de manera exagerada, por lo que pertenece a la hipérbole.
-  <!-- feedback: Correcto. La exageración de una medida hace más notorio el rasgo y quita precisión al dato. -->
-- [ ] C) Ordena en el tiempo los hechos relacionados con el cerro.
+- [ ] B) Ordena en el tiempo los hechos relacionados con el cerro.
   <!-- feedback: Incorrecto. No hay indicadores temporales, por lo que no hay narración. -->
+- [x] C) Refuerza la percepción de altura del lugar de manera exagerada, por lo que pertenece a la hipérbole.
+  <!-- feedback: Correcto. La exageración de una medida hace más notorio el rasgo y quita precisión al dato. -->
 - [ ] D) Expone la opinión del autor sobre la dificultad para ascender a la cima.
   <!-- feedback: Incorrecto. La frase habla de la relación entre la altura y las nubes, no de la dificultad de la subida. -->
 
@@ -310,12 +310,12 @@ La hipérbole es un recurso de exageración que intensifica un rasgo con el fin 
 ¿Qué criterio le permite decidir cuál de las dos descripciones es la adecuada para un trabajo que exige datos verificables?
 
 ### Opciones
-- [x] A) Que incluya información comprobable y que separe lo observable de la valoración personal.
-  <!-- feedback: Correcto. La verificabilidad y la separación entre dato y juicio son criterios de validez. -->
+- [ ] A) Que sea la más corta, porque la brevedad mejora la comprensión del texto.
+  <!-- feedback: Incorrecto. La extensión no determina si un texto informa de manera verificable. -->
 - [ ] B) Que use los adjetivos más variados, porque entre más adjetivos, más completa es la descripción.
   <!-- feedback: Incorrecto. La cantidad de adjetivos no garantiza precisión ni verificabilidad. -->
-- [ ] C) Que sea la más corta, porque la brevedad mejora la comprensión del texto.
-  <!-- feedback: Incorrecto. La extensión no determina si un texto informa de manera verificable. -->
+- [x] C) Que incluya información comprobable y que separe lo observable de la valoración personal.
+  <!-- feedback: Correcto. La verificabilidad y la separación entre dato y juicio son criterios de validez. -->
 - [ ] D) Que incluya la historia del río desde sus orígenes, porque la información histórica siempre es útil.
   <!-- feedback: Incorrecto. La historia no sustituye la descripción técnica del referente. -->
 
@@ -337,10 +337,10 @@ Elegir un texto según la tarea que se va a realizar se llama la lectura funcion
   <!-- feedback: Incorrecto. Numerar ordena, pero no sustituye la explicación de lo que se hace. -->
 - [ ] B) Porque el orden numérico convierte la descripción en un texto argumentativo.
   <!-- feedback: Incorrecto. Un procedimiento ordenado no cambia la función del texto, que sigue siendo descriptiva. -->
-- [ ] C) Porque los pasos numerados demuestran que el proceso ya fue verificado por un especialista.
-  <!-- feedback: Incorrecto. La numeración es un recurso de orden, no un sello de validación. -->
-- [x] D) Porque la enumeración respeta la secuencia lógica y evita que alguien ejecute los pasos en el orden equivocado.
+- [x] C) Porque la enumeración respeta la secuencia lógica y evita que alguien ejecute los pasos en el orden equivocado.
   <!-- feedback: Correcto. El orden garantiza que el procedimiento pueda reproducirse sin errores. -->
+- [ ] D) Porque los pasos numerados demuestran que el proceso ya fue verificado por un especialista.
+  <!-- feedback: Incorrecto. La numeración es un recurso de orden, no un sello de validación. -->
 
 ### Explicacion Pedagogica
 La descripción de un proceso cumple una función práctica: alguien debe poder reproducirlo. Por eso la enumeración no es un adorno sino el recurso que protege la utilidad del texto, ya que fija la secuencia y hace predecible cada etapa. Comprender esta diferencia entre orden y explicación permite evaluar con precisión la calidad de un instructivo y escribir descripciones de proceso que no dejen lugar a la ambigüedad.
@@ -356,12 +356,12 @@ La descripción de un proceso cumple una función práctica: alguien debe poder 
 ¿Qué problema tiene esa descripción para el lector al que pretende informar?
 
 ### Opciones
-- [x] A) Pierde veracidad, porque los rasgos que presenta contradicen las condiciones que el lector puede comprobar al llegar.
-  <!-- feedback: Correcto. Una descripción informativa debe ajustarse a la realidad del referente. -->
+- [ ] A) Se convierte en un texto narrativo, porque los adjetivos crean una secuencia de hechos.
+  <!-- feedback: Incorrecto. Los adjetivos no generan narración; sigue siendo una descripción. -->
 - [ ] B) Gana atractivo, porque toda exageración mejora la comprensión del texto.
   <!-- feedback: Incorrecto. La exageración no mejora la comprensión, la vuelve poco confiable. -->
-- [ ] C) Se convierte en un texto narrativo, porque los adjetivos crean una secuencia de hechos.
-  <!-- feedback: Incorrecto. Los adjetivos no generan narración; sigue siendo una descripción. -->
+- [x] C) Pierde veracidad, porque los rasgos que presenta contradicen las condiciones que el lector puede comprobar al llegar.
+  <!-- feedback: Correcto. Una descripción informativa debe ajustarse a la realidad del referente. -->
 - [ ] D) Deja de ser un texto escrito, porque el uso de adjetivos rompe las normas de la lengua.
   <!-- feedback: Incorrecto. Un texto puede ser gramaticalmente correcto y aun así ser poco veraz. -->
 
@@ -381,12 +381,12 @@ Un texto descriptivo pierde fuerza cuando lo que afirma no corresponde con la re
 ### Opciones
 - [ ] A) El texto se vuelve más objetivo y, por lo tanto, más preciso.
   <!-- feedback: Incorrecto. Quitar detalles sensoriales empobrece la descripción, no la vuelve más exacta. -->
-- [x] B) El lector pierde la posibilidad de imaginarse el lugar, porque los detalles sensoriales construyen la imagen mental.
-  <!-- feedback: Correcto. La imagen mental se forma con la información sensorial, no solo con datos generales. -->
+- [ ] B) No produce ningún efecto, porque la información esencial está en el tema del texto.
+  <!-- feedback: Incorrecto. El tema orienta, pero los rasgos concretos son los que permiten imaginar el referente. -->
 - [ ] C) El texto se convierte en una definición, porque ya no relata hechos.
   <!-- feedback: Incorrecto. La definición pertenece al texto expositivo, y la supresión de detalles no la produce. -->
-- [ ] D) No produce ningún efecto, porque la información esencial está en el tema del texto.
-  <!-- feedback: Incorrecto. El tema orienta, pero los rasgos concretos son los que permiten imaginar el referente. -->
+- [x] D) El lector pierde la posibilidad de imaginarse el lugar, porque los detalles sensoriales construyen la imagen mental.
+  <!-- feedback: Correcto. La imagen mental se forma con la información sensorial, no solo con datos generales. -->
 
 ### Explicacion Pedagogica
 Las descripciones detalladas se apoyan en los sentidos porque el lector no puede ver, oír ni oler el referente. Cuando el texto recorta esos detalles, pierde la capacidad de generar una imagen y se convierte en una simple lista de características. Reconocer el papel de lo sensorial en la descripción es un criterio útil para valorar la calidad de un texto y para escribir descripciones que realmente despierten la imaginación del lector.
@@ -402,14 +402,14 @@ Las descripciones detalladas se apoyan en los sentidos porque el lector no puede
 ¿Cuál de las dos versiones cumple mejor con el propósito de una guía para visitantes?
 
 ### Opciones
-- [x] A) La que presenta rasgos verificables del espacio, ordenados de lo general a lo particular, porque permite que el visitante ubique y reconozca lo que se describe.
-  <!-- feedback: Correcto. Combina precisión, orden y propósito informativo, que es lo que exige una guía. -->
+- [ ] A) La que resume el contenido de la exposición en cinco líneas, porque una guía debe ser lo más breve posible.
+  <!-- feedback: Incorrecto. La brevedad no garantiza que la descripción cumpla con su propósito informativo. -->
 - [ ] B) La que usa la mayor cantidad de adjetivos valorativos, porque hacen el texto más atractivo.
   <!-- feedback: Incorrecto. El exceso de adjetivos valorativos no aporta información verificable al visitante. -->
 - [ ] C) La que narra la historia del edificio y de sus dueños, porque la historia siempre es el contenido central de una guía.
   <!-- feedback: Incorrecto. La narración es un contenido adicional, no el propósito específico de la descripción. -->
-- [ ] D) La que resume el contenido de la exposición en cinco líneas, porque una guía debe ser lo más breve posible.
-  <!-- feedback: Incorrecto. La brevedad no garantiza que la descripción cumpla con su propósito informativo. -->
+- [x] D) La que presenta rasgos verificables del espacio, ordenados de lo general a lo particular, porque permite que el visitante ubique y reconozca lo que se describe.
+  <!-- feedback: Correcto. Combina precisión, orden y propósito informativo, que es lo que exige una guía. -->
 
 ### Explicacion Pedagogica
 Valorar un texto exige comparar las opciones contra un criterio explícito, y en este caso el criterio es el propósito de una guía: permitir que el visitante ubique y reconozca el espacio. Bajo ese criterio, la precisión y la organización pesan más que la cantidad de adjetivos o que la brevedad. Este tipo de razonamiento, justificar una elección con criterios, es lo que distingue una lectura crítica de una simple preferencia personal.
@@ -429,10 +429,10 @@ Valorar un texto exige comparar las opciones contra un criterio explícito, y en
   <!-- feedback: Incorrecto. El texto solo describe una situación momentánea, no el diseño original del espacio. -->
 - [ ] B) Que el silencio del lugar es permanente y que el resto de la información es errónea.
   <!-- feedback: Incorrecto. El contraste no invalida la primera oración, la complementa al mostrar un momento de cambio. -->
-- [x] C) Que las características de un lugar no son fijas, sino que dependen del momento y de la situación que se vive en él.
-  <!-- feedback: Correcto. El contraste entre la mañana y las ocho muestra que la descripción cambia con las condiciones. -->
-- [ ] D) Que la descripción es subjetiva, porque el autor cambia de opinión a lo largo del texto.
+- [ ] C) Que la descripción es subjetiva, porque el autor cambia de opinión a lo largo del texto.
   <!-- feedback: Incorrecto. Las dos oraciones son verificables, y el contraste no convierte la descripción en subjetiva. -->
+- [x] D) Que las características de un lugar no son fijas, sino que dependen del momento y de la situación que se vive en él.
+  <!-- feedback: Correcto. El contraste entre la mañana y las ocho muestra que la descripción cambia con las condiciones. -->
 
 ### Explicacion Pedagogica
 Inferir significa deducir una idea que no está escrita pero que el texto permite sostener con la evidencia presentada. El contraste entre un lugar tranquilo y un lugar abarrotado en la misma jornada indica que los rasgos dependen del momento. Reconocer este tipo de dinámica temporal evita el error de tratar toda descripción como una fotografía fija del referente, cuando en realidad casi todo lugar cambia según la hora, la luz y la actividad de las personas.
@@ -450,12 +450,12 @@ Inferir significa deducir una idea que no está escrita pero que el texto permit
 ### Opciones
 - [ ] A) Sustituir los datos y las explicaciones del informe, porque describir es más sencillo que analizar.
   <!-- feedback: Incorrecto. La descripción no reemplaza el análisis, le proporciona el material. -->
-- [x] B) Presentar con precisión características y estados que después pueden analizarse, compararse o explicarse.
-  <!-- feedback: Correcto. La descripción aporta la base de datos que el análisis posterior necesita. -->
+- [ ] B) Eliminar la subjetividad del informe, porque las descripciones son siempre neutrales.
+  <!-- feedback: Incorrecto. Una descripción puede ser subjetiva, y esa subjetividad no desaparece por estar en un informe. -->
 - [ ] C) Convertir cualquier informe en un texto narrativo, porque todo informe cuenta una experiencia.
   <!-- feedback: Incorrecto. Un fragmento descriptivo no convierte el informe en un texto narrativo. -->
-- [ ] D) Eliminar la subjetividad del informe, porque las descripciones son siempre neutrales.
-  <!-- feedback: Incorrecto. Una descripción puede ser subjetiva, y esa subjetividad no desaparece por estar en un informe. -->
+- [x] D) Presentar con precisión características y estados que después pueden analizarse, compararse o explicarse.
+  <!-- feedback: Correcto. La descripción aporta la base de datos que el análisis posterior necesita. -->
 
 ### Explicacion Pedagogica
 En la práctica moderna y científica, la descripción es el paso previo a la explicación y al análisis. Sin características precisas de los referentes no hay comparación posible, y sin comparación no hay conclusión válida. Reconocer esta función transversal de la descripción ayuda a los estudiantes de once grado a conectarla con la lectura crítica, con los textos informativos y con la producción de sus propios informes.

@@ -149,10 +149,10 @@ Aplicar una estrategia de lectura significa escoger el procedimiento adecuado pa
 ¿Qué debe hacer el estudiante para que la inclusión del pasaje de la Odisea sea un uso intertextual legítimo?
 
 ### Opciones
-- [x] A) Referenciar el texto de origen y explicar el vínculo entre ese pasaje y su argumento.
-  <!-- feedback: Correcta, porque el uso intertextual reconoce la fuente y hace explícito el sentido que la cita aporta al argumento. -->
-- [ ] B) Cambiar algunas palabras de la cita para que no se reconozca su origen.
+- [ ] A) Cambiar algunas palabras de la cita para que no se reconozca su origen.
   <!-- feedback: Incorrecta, porque alterar la cita para ocultar la fuente se acerca al plagio y no a un diálogo legítimo. -->
+- [x] B) Referenciar el texto de origen y explicar el vínculo entre ese pasaje y su argumento.
+  <!-- feedback: Correcta, porque el uso intertextual reconoce la fuente y hace explícito el sentido que la cita aporta al argumento. -->
 - [ ] C) Incluir la cita sin nombrarla, porque se supone que todos la conocen.
   <!-- feedback: Incorrecta, porque suponer que todos conocen una obra no exime de dar crédito a quien la escribió. -->
 - [ ] D) Ubicar la cita al final del texto, sin comentario ni referencia.
@@ -172,10 +172,10 @@ Citar con conciencia implica dos tareas inseparables: reconocer al otro autor y 
 ¿Qué elemento del texto permite reconocer con certeza que hay un intertexto en esa reproducción?
 
 ### Opciones
-- [x] A) La cita textual atribuida a su autor original.
-  <!-- feedback: Correcta, porque la cita atribuida revela de manera explícita que el contenido proviene de otro texto. -->
-- [ ] B) El tamaño de la letra con que está escrito el titular.
+- [ ] A) El tamaño de la letra con que está escrito el titular.
   <!-- feedback: Incorrecta, porque el diseño tipográfico no informa sobre el origen del contenido. -->
+- [x] B) La cita textual atribuida a su autor original.
+  <!-- feedback: Correcta, porque la cita atribuida revela de manera explícita que el contenido proviene de otro texto. -->
 - [ ] C) La cantidad de imágenes que acompañan la entrada.
   <!-- feedback: Incorrecta, porque el número de imágenes no señala la existencia de un texto citado. -->
 - [ ] D) La hora en que se publicó la entrada en la página.
@@ -195,10 +195,10 @@ Los marcadores textuales orientan la lectura. Expresiones como cita, según el a
 ¿Qué información debe registrar el estudiante para que su análisis del mural sea completo?
 
 ### Opciones
-- [x] A) La ubicación del mural, el poema citado y el autor de ese poema.
-  <!-- feedback: Correcta, porque esos tres datos vinculan la obra del espacio público con su texto de origen. -->
-- [ ] B) Solo el color dominante del mural, porque define por sí mismo su contenido.
+- [ ] A) Solo el color dominante del mural, porque define por sí mismo su contenido.
   <!-- feedback: Incorrecta, porque el color describe la apariencia y no permite identificar el intertexto. -->
+- [x] B) La ubicación del mural, el poema citado y el autor de ese poema.
+  <!-- feedback: Correcta, porque esos tres datos vinculan la obra del espacio público con su texto de origen. -->
 - [ ] C) El número de personas que lo pintaron, porque reemplaza la cita del poema.
   <!-- feedback: Incorrecta, porque la autoría del mural no sustituye la referencia del texto citado. -->
 - [ ] D) La altura del muro, porque permite entender mejor el sentido del poema.
@@ -218,10 +218,10 @@ Analizar una obra local exige situarla. Registrar dónde se encuentra, qué text
 Si solo una de las dos notas remite al informe que sustenta su versión, ¿qué se puede inferir sobre la solidez de cada una?
 
 ### Opciones
-- [x] A) La que cita el informe ofrece una base verificable; la otra queda en el plano de la afirmación.
-  <!-- feedback: Correcta, porque la remisión permite comprobar los datos, mientras la versión sin respaldo queda sin verificar. -->
-- [ ] B) Las dos versiones son igual de verificables, porque las dos hablan del mismo hecho.
+- [ ] A) Las dos versiones son igual de verificables, porque las dos hablan del mismo hecho.
   <!-- feedback: Incorrecta, porque tratar el mismo asunto no garantiza la misma calidad de evidencia en cada versión. -->
+- [x] B) La que cita el informe ofrece una base verificable; la otra queda en el plano de la afirmación.
+  <!-- feedback: Correcta, porque la remisión permite comprobar los datos, mientras la versión sin respaldo queda sin verificar. -->
 - [ ] C) La que no cita el informe es siempre la correcta, porque su redacción es más fluida.
   <!-- feedback: Incorrecta, porque la fluidez del lenguaje no reemplaza la evidencia documental. -->
 - [ ] D) La cita del informe demuestra que el informe es falso.
@@ -241,10 +241,10 @@ Inferir la solidez de una versión significa rastrear su base probatoria. Una no
 ¿Qué debe comparar el estudiante para distinguir con precisión las dos versiones de la leyenda?
 
 ### Opciones
-- [x] A) Los elementos del relato y los detalles que cada versión agrega, cambia u omite.
-  <!-- feedback: Correcta, porque comparar la estructura del relato y sus variantes muestra cómo cada versión transforma la tradición oral. -->
-- [ ] B) Solo la cantidad de páginas de cada versión.
+- [ ] A) Solo la cantidad de páginas de cada versión.
   <!-- feedback: Incorrecta, porque la extensión no revela qué elementos del relato cambiaron entre una versión y otra. -->
+- [x] B) Los elementos del relato y los detalles que cada versión agrega, cambia u omite.
+  <!-- feedback: Correcta, porque comparar la estructura del relato y sus variantes muestra cómo cada versión transforma la tradición oral. -->
 - [ ] C) El idioma en que está escrita cada versión.
   <!-- feedback: Incorrecta, porque el idioma es un dato formal y no explica las diferencias del relato. -->
 - [ ] D) El costo del libro frente al costo de la grabación.
@@ -264,12 +264,12 @@ Comparar versiones de un mismo relato, sea oral, impreso o audiovisual, permite 
 ¿Qué análisis mínimo exige el mensaje antes de que el grupo lo use en un trabajo escolar?
 
 ### Opciones
-- [x] A) Identificar quién realizó el estudio, dónde se publicó y qué datos y método presenta.
-  <!-- feedback: Correcta, porque autoría, publicación y método son los datos mínimos para valorar la base de una afirmación. -->
+- [ ] A) Medir la extensión del mensaje, porque el tamaño demuestra su solidez.
+  <!-- feedback: Incorrecta, porque la cantidad de texto escrita no determina si un dato es verificable. -->
 - [ ] B) Contar cuántas veces se reenvió el mensaje, porque esa cantidad valida el dato.
   <!-- feedback: Incorrecta, porque la circulación de un mensaje mide difusión, no calidad de la evidencia. -->
-- [ ] C) Medir la extensión del mensaje, porque el tamaño demuestra su solidez.
-  <!-- feedback: Incorrecta, porque la cantidad de texto escrita no determina si un dato es verificable. -->
+- [x] C) Identificar quién realizó el estudio, dónde se publicó y qué datos y método presenta.
+  <!-- feedback: Correcta, porque autoría, publicación y método son los datos mínimos para valorar la base de una afirmación. -->
 - [ ] D) Revisar la hora en que se envió, porque el horario indica la veracidad.
   <!-- feedback: Incorrecta, porque la hora de envío es un dato de circulación y no de fundamento. -->
 
@@ -287,12 +287,12 @@ Analizar un mensaje que circula exige separar lo que se afirma de lo que se demu
 ¿Por qué la mezcla de fuentes de distinto tipo dificulta la comprensión y la valoración del artículo?
 
 ### Opciones
-- [x] A) Porque cada tipo de fuente exige verificar su origen antes de aceptarla como respaldo.
-  <!-- feedback: Correcta, porque fuentes distintas requieren chequeos distintos, y una cifra sin origen rompe la cadena de confianza. -->
+- [ ] A) Porque los pódcast y los libros no sirven para sostener argumentos.
+  <!-- feedback: Incorrecta, porque la validez de una fuente depende de su rigor y su pertinencia, no de su formato. -->
 - [ ] B) Porque las cifras numéricas nunca pueden aparecer en un texto periodístico.
   <!-- feedback: Incorrecta, porque las cifras son parte habitual del periodismo investigativo cuando se identifican. -->
-- [ ] C) Porque los pódcast y los libros no sirven para sostener argumentos.
-  <!-- feedback: Incorrecta, porque la validez de una fuente depende de su rigor y su pertinencia, no de su formato. -->
+- [x] C) Porque cada tipo de fuente exige verificar su origen antes de aceptarla como respaldo.
+  <!-- feedback: Correcta, porque fuentes distintas requieren chequeos distintos, y una cifra sin origen rompe la cadena de confianza. -->
 - [ ] D) Porque mezclar fuentes vuelve el texto ilegible para cualquier lector.
   <!-- feedback: Incorrecta, porque la mezcla no impide la lectura; lo que dificulta es la falta de referencias comprobables. -->
 
@@ -310,12 +310,12 @@ Analizar un texto que articula varias fuentes exige preguntarse por la función 
 ¿Qué función cumplen esos documentos citados dentro de la novela?
 
 ### Opciones
-- [x] A) Anclar la ficción en hechos verificables y darle verosimilitud.
-  <!-- feedback: Correcta, porque los documentos reales otorgan respaldo histórico y hacen verosímil la narración novelística. -->
+- [ ] A) Romper el estilo narrativo de la obra sin relación alguna con el resto del texto.
+  <!-- feedback: Incorrecta, porque en una novela histórica los documentos se articulan con el estilo y la trama. -->
 - [ ] B) Reemplazar por completo el relato principal, porque la información real lo supera.
   <!-- feedback: Incorrecta, porque los documentos se integran al relato y no borran la línea narrativa de la novela. -->
-- [ ] C) Romper el estilo narrativo de la obra sin relación alguna con el resto del texto.
-  <!-- feedback: Incorrecta, porque en una novela histórica los documentos se articulan con el estilo y la trama. -->
+- [x] C) Anclar la ficción en hechos verificables y darle verosimilitud.
+  <!-- feedback: Correcta, porque los documentos reales otorgan respaldo histórico y hacen verosímil la narración novelística. -->
 - [ ] D) Servir únicamente como adorno, porque el lector no repara en ellos.
   <!-- feedback: Incorrecta, porque esos documentos son deliberados y sostienen la verosimilitud de la ficción. -->
 
@@ -333,12 +333,12 @@ Analizar los documentos citados en una novela histórica exige ver la relación 
 ¿Por qué esas dos publicaciones no ofrecen el mismo tipo de respaldo?
 
 ### Opciones
-- [x] A) Porque la enciclopedia expone lo generalmente aceptado, mientras el artículo expone el trabajo, los datos y las fuentes de una investigación.
-  <!-- feedback: Correcta, porque la enciclopedia sintetiza lo aceptado y el artículo expone el proceso que llevó a sus resultados. -->
+- [ ] A) Porque la enciclopedia inventa datos para simplificar la información.
+  <!-- feedback: Incorrecta, porque la síntesis enciclopédica no es invención, aunque sí puede ser más general. -->
 - [ ] B) Porque solo el artículo de revista tiene autor declarado.
   <!-- feedback: Incorrecta, porque las enciclopedias también registran autoría o responsabilidad editorial. -->
-- [ ] C) Porque la enciclopedia inventa datos para simplificar la información.
-  <!-- feedback: Incorrecta, porque la síntesis enciclopédica no es invención, aunque sí puede ser más general. -->
+- [x] C) Porque la enciclopedia expone lo generalmente aceptado, mientras el artículo expone el trabajo, los datos y las fuentes de una investigación.
+  <!-- feedback: Correcta, porque la enciclopedia sintetiza lo aceptado y el artículo expone el proceso que llevó a sus resultados. -->
 - [ ] D) Porque el artículo especializado nunca se actualiza después de publicarse.
   <!-- feedback: Incorrecta, porque los artículos se versionan y se citan con su fecha y su edición. -->
 
@@ -356,12 +356,12 @@ Analizar fuentes de distinto tipo implica reconocer que no todas resuelven la mi
 ¿Qué conocimiento necesita el grupo para valorar cómo la obra transforma el mito original?
 
 ### Opciones
-- [x] A) El del texto de origen y el del género, para comparar qué se conserva y qué cambia.
-  <!-- feedback: Correcta, porque la valoración de una reescritura exige conocer el original y las convenciones del género gráfico. -->
+- [ ] A) El de la biografía del dibujante, porque eso determina la calidad de la obra.
+  <!-- feedback: Incorrecta, porque los datos del ilustrador son un dato, no el criterio de comparación de la reescritura. -->
 - [ ] B) Solo el del género, porque el texto de origen no influye en la obra.
   <!-- feedback: Incorrecta, porque la reescritura parte necesariamente de una tradición textual reconocible. -->
-- [ ] C) El de la biografía del dibujante, porque eso determina la calidad de la obra.
-  <!-- feedback: Incorrecta, porque los datos del ilustrador son un dato, no el criterio de comparación de la reescritura. -->
+- [x] C) El del texto de origen y el del género, para comparar qué se conserva y qué cambia.
+  <!-- feedback: Correcta, porque la valoración de una reescritura exige conocer el original y las convenciones del género gráfico. -->
 - [ ] D) El del número de ediciones impresas, porque define el valor artístico.
   <!-- feedback: Incorrecta, porque la cantidad de ediciones mide difusión, no el trabajo de transformación del mito. -->
 
@@ -379,14 +379,14 @@ Analizar una reescritura intertextual requiere dos conocimientos: conocer el tex
 ¿Qué le permite reconocer a la estudiante el carácter local de la versión de su abuela?
 
 ### Opciones
-- [x] A) El uso de ingredientes, nombres y costumbres propios de la región donde vive.
-  <!-- feedback: Correcta, porque esos rasgos convierten la versión en una tradición local frente a una receta equivalente publicada en un libro. -->
+- [ ] A) La ausencia de medidas en la versión familiar, que la vuelve automáticamente típica.
+  <!-- feedback: Incorrecta, porque la falta de medidas no es un rasgo que defina un carácter local. -->
 - [ ] B) La cantidad de páginas del recetario, que no aporta información sobre el origen.
   <!-- feedback: Incorrecta, porque la extensión del recetario es un dato formal y no un rasgo de tradición. -->
 - [ ] C) El hecho de que el recetario esté escrito en otro idioma, lo que lo vuelve universal.
   <!-- feedback: Incorrecta, porque el idioma del recetario no es lo que define el carácter local de la receta de la abuela. -->
-- [ ] D) La ausencia de medidas en la versión familiar, que la vuelve automáticamente típica.
-  <!-- feedback: Incorrecta, porque la falta de medidas no es un rasgo que defina un carácter local. -->
+- [x] D) El uso de ingredientes, nombres y costumbres propios de la región donde vive.
+  <!-- feedback: Correcta, porque esos rasgos convierten la versión en una tradición local frente a una receta equivalente publicada en un libro. -->
 
 ### Explicacion Pedagogica
 Analizar un texto de tradición oral exige identificar sus marcas locales: ingredientes, nombres de platos, expresiones y costumbres. Estos elementos conectan el recetario con la vida de la región y permiten entender cómo una receta circula entre generaciones, con variación y con memoria. Reconocer esas marcas enriquece la lectura crítica del patrimonio cultural propio.
@@ -402,14 +402,14 @@ Analizar un texto de tradición oral exige identificar sus marcas locales: ingre
 La estudiante tiene a su disposición un blog sin autor, una entrada de enciclopedia, un libro académico de una editorial universitaria y un mensaje de redes sociales. ¿Cuál es la fuente más apropiada y por qué?
 
 ### Opciones
-- [x] A) El libro académico, porque declara autoría, método y fuentes que un lector puede verificar.
-  <!-- feedback: Correcta, porque ese libro ofrece los elementos mínimos para rastrear el origen de los datos y evaluar su validez. -->
+- [ ] A) El mensaje de redes sociales, porque fue compartido muchas veces por sus contactos.
+  <!-- feedback: Incorrecta, porque la difusión no es un criterio de autoridad ni de verificabilidad. -->
 - [ ] B) El blog, porque está escrito en el idioma del lector y por eso es más claro.
   <!-- feedback: Incorrecta, porque la claridad de la redacción no garantiza la validez de los datos. -->
 - [ ] C) La entrada de enciclopedia, porque resume los temas sin detenerse en detalles.
   <!-- feedback: Incorrecta, porque resumir es útil para ubicarse, pero no reemplaza el fundamento verificable de un trabajo académico. -->
-- [ ] D) El mensaje de redes sociales, porque fue compartido muchas veces por sus contactos.
-  <!-- feedback: Incorrecta, porque la difusión no es un criterio de autoridad ni de verificabilidad. -->
+- [x] D) El libro académico, porque declara autoría, método y fuentes que un lector puede verificar.
+  <!-- feedback: Correcta, porque ese libro ofrece los elementos mínimos para rastrear el origen de los datos y evaluar su validez. -->
 
 ### Explicacion Pedagogica
 Evaluar fuentes exige comparar criterios y no acumular apariencias. El libro académico declara autoría, editorial, método y referencias; la enciclopedia orienta; el blog orienta con menos control; el mensaje de redes sociales no ofrece garantías. Un buen trabajo escolar no se apoya solo en la fuente más cómoda de leer, sino en la que permite verificar lo afirmado.
@@ -425,14 +425,14 @@ Evaluar fuentes exige comparar criterios y no acumular apariencias. El libro aca
 ¿Qué juicio es más responsable ante una referencia que no aparece en ningún archivo consulted?
 
 ### Opciones
-- [x] A) Sospechar que la referencia es falsa y verificar antes de citarla en el trabajo.
-  <!-- feedback: Correcta, porque una referencia que no se encuentra es una señal de alerta que exige verificación antes de usarla. -->
+- [ ] A) Citar la referencia con una fecha aproximada para que el trabajo no quede incompleto.
+  <!-- feedback: Incorrecta, porque inventar una fecha no resuelve el problema de verificación, sino que lo agrava. -->
 - [ ] B) Citar el resumen tal como está, porque su redacción convincente respalda la información.
   <!-- feedback: Incorrecta, porque la fluent writing enmascara los vacíos de respaldo y no reemplaza la evidencia. -->
 - [ ] C) Omitir la referencia sin avisar nada, porque la idea se puede repetir con otras palabras.
   <!-- feedback: Incorrecta, porque reescribir sin dar crédito oculta el origen y se acerca al plagio. -->
-- [ ] D) Citar la referencia con una fecha aproximada para que el trabajo no quede incompleto.
-  <!-- feedback: Incorrecta, porque inventar una fecha no resuelve el problema de verificación, sino que lo agrava. -->
+- [x] D) Sospechar que la referencia es falsa y verificar antes de citarla en el trabajo.
+  <!-- feedback: Correcta, porque una referencia que no se encuentra es una señal de alerta que exige verificación antes de usarla. -->
 
 ### Explicacion Pedagogica
 Evaluar una referencia significa ponerla a prueba: buscarla en archivos, en bases de datos y en catálogos. Cuando no aparece, la postura ética y académica es la verificación o la abstención declarada, nunca la invención. Este hábito protege la credibilidad del estudiante y enseña que la honestidad intelectual también es una competencia de lectura crítica.
@@ -448,14 +448,14 @@ Evaluar una referencia significa ponerla a prueba: buscarla en archivos, en base
 ¿Qué diferencia separa en este caso el uso intertextual legítimo del plagio?
 
 ### Opciones
-- [x] A) El uso intertextual reconoce la fuente y explica su función; el plagio oculta el origen.
-  <!-- feedback: Correcta, porque el criterio está en el reconocimiento y en la finalidad declarada, no en el material usado. -->
+- [ ] A) La diferencia depende de si el texto propio es largo o corto.
+  <!-- feedback: Incorrecta, porque la extensión del texto no altera la obligación de reconocer la fuente ajena. -->
 - [ ] B) El uso intertextual solo admite imágenes propias y el plagio nunca usa imágenes.
   <!-- feedback: Incorrecta, porque ambos pueden usar imágenes; la diferencia es el reconocimiento del origen, no el soporte. -->
 - [ ] C) La diferencia es la cantidad de material tomado de la otra fuente.
   <!-- feedback: Incorrecta, porque una cantidad pequeña de material sin crédito sigue siendo un uso no autorizado. -->
-- [ ] D) La diferencia depende de si el texto propio es largo o corto.
-  <!-- feedback: Incorrecta, porque la extensión del texto no altera la obligación de reconocer la fuente ajena. -->
+- [x] D) El uso intertextual reconoce la fuente y explica su función; el plagio oculta el origen.
+  <!-- feedback: Correcta, porque el criterio está en el reconocimiento y en la finalidad declarada, no en el material usado. -->
 
 ### Explicacion Pedagogica
 Evaluar el uso de material ajeno exige mirar la intención declarada y el crédito otorgado. Intertextualidad significa conversar con la fuente y decir de dónde viene lo tomado; plagio significa usarlo sin dejar rastro. Nombrar al autor, citar el enlace y aclarar por qué ese material sirve al cartel convierte una posible falta en un uso intertextual bien resuelto.
@@ -471,14 +471,14 @@ Evaluar el uso de material ajeno exige mirar la intención declarada y el crédi
 ¿Qué procedimiento convierte esa antología en un ejemplo sólido de uso intertextual?
 
 ### Opciones
-- [x] A) Reunir textos de distintos autores y conservar los datos de cada autor y la procedencia de cada fragmento.
-  <!-- feedback: Correcta, porque reunir voces distintas con su atribución completa construye un diálogo intertextual verificable. -->
+- [ ] A) Ordenar los textos por año de publicación, porque la cronología reemplaza el crédito de las fuentes.
+  <!-- feedback: Incorrecta, porque ordenar por fecha ayuda a seguir una línea, pero no sustituye la referencia de cada autor. -->
 - [ ] B) Reunir los textos sin datos de autoría, para que el lector se concentre en el contenido.
   <!-- feedback: Incorrecta, porque quitar la autoría impide saber quién responde por cada fragmento y debilita la antología. -->
 - [ ] C) Copiar los textos completos de otros autores, porque son de dominio público.
   <!-- feedback: Incorrecta, porque el dominio público se refiere a derechos, no a la ausencia de la obligación de crédito. -->
-- [ ] D) Ordenar los textos por año de publicación, porque la cronología reemplaza el crédito de las fuentes.
-  <!-- feedback: Incorrecta, porque ordenar por fecha ayuda a seguir una línea, pero no sustituye la referencia de cada autor. -->
+- [x] D) Reunir textos de distintos autores y conservar los datos de cada autor y la procedencia de cada fragmento.
+  <!-- feedback: Correcta, porque reunir voces distintas con su atribución completa construye un diálogo intertextual verificable. -->
 
 ### Explicacion Pedagogica
 Una antología bien construida enseña a leer en plural: muestra que varios autores pueden sostener un mismo debate sin dejar de tener voz propia. Conservar los datos de autoría y la procedencia de cada fragmento es lo que convierte la recopilación en un trabajo riguroso. Ese mismo criterio debe aplicarse a los trabajos escolares que citan fuentes de distintos orígenes.
