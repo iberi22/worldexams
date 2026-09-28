@@ -169,20 +169,20 @@ El principio de los vasos comunicantes afirma que cuando dos recipientes están 
 **Contexto:** En un taller de un colegio de Cúcuta, un grupo construye un modelo de tubería de dos calibres y mide la velocidad del agua en cada tramo.
 
 ### Enunciado
-El agua fluye por una tubería que se estrecha: la sección pasa de 0,02 m² a 0,005 m², y la velocidad en la parte ancha es de 2 m/s². ¿Cuál es la velocidad en la parte estrecha?
+El agua fluye por una tubería que se estrecha: la sección pasa de 0,02 m² a 0,005 m², y la velocidad en la parte ancha es de 2 m/s. ¿Cuál es la velocidad en la parte estrecha?
 
 ### Opciones
-- [ ] A) 4 m/s², porque el área se reduce a la mitad y la velocidad se duplica por cada reducción.
+- [ ] A) 4 m/s, porque el área se reduce a la mitad y la velocidad se duplica por cada reducción.
   <!-- feedback: Incorrecto. El área se reduce a la cuarta parte, de modo que la velocidad se cuadruplica, no se duplica. -->
-- [ ] B) 2 m/s², porque la velocidad de un líquido en un tubo es siempre la misma a lo largo de todo el recorrido.
+- [ ] B) 2 m/s, porque la velocidad de un líquido en un tubo es siempre la misma a lo largo de todo el recorrido.
   <!-- feedback: Incorrecto. La igualdad de velocidades solo se cumple en tuberías de sección constante; aquí la sección cambia. -->
-- [x] C) 8 m/s², porque a caudal constante la velocidad aumenta en proporción inversa al área.
-  <!-- feedback: Correcto. La continuidad exige que el producto de velocidad y área sea constante, de modo que 2 × 0,02 = 0,005 · v y v resulta 8 m/s². -->
-- [ ] D) 0,5 m/s², porque la velocidad disminuye en proporción directa al área.
+- [x] C) 8 m/s, porque a caudal constante la velocidad aumenta en proporción inversa al área.
+  <!-- feedback: Correcto. La continuidad exige que el producto de velocidad y área sea constante, de modo que 2 × 0,02 = 0,005 · v y v resulta 8 m/s. -->
+- [ ] D) 0,5 m/s, porque la velocidad disminuye en proporción directa al área.
   <!-- feedback: Incorrecto. Invierte la relación: al reducirse el área, la velocidad aumenta, y no disminuye proporcionalmente. -->
 
 ### Explicacion Pedagogica
-La ecuación de continuidad para un líquido incompresible establece que el producto entre la velocidad y el área de la sección es constante a lo largo de una tubería. Esto significa que, si el área disminuye, la velocidad aumenta de manera inversamente proporcional. En el caso numérico, el producto inicial es 2 m/s² por 0,02 m², y al pasarlo a la sección de 0,005 m² se obtiene una velocidad de 8 m/s². Comprender esta relación es esencial para entender por qué el agua que sale de una manguera forma un chorro más rápido y más estrecho en la boquilla.
+La ecuación de continuidad para un líquido incompresible establece que el producto entre la velocidad y el área de la sección es constante a lo largo de una tubería. Esto significa que, si el área disminuye, la velocidad aumenta de manera inversamente proporcional. En el caso numérico, el producto inicial es 2 m/s por 0,02 m², y al pasarlo a la sección de 0,005 m² se obtiene una velocidad de 8 m/s. Comprender esta relación es esencial para entender por qué el agua que sale de una manguera forma un chorro más rápido y más estrecho en la boquilla.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle-v8
