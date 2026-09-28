@@ -19,19 +19,19 @@
           "feedback": "Correcto. La literatura fantástica presenta un acontecimiento que contradice la realidad conocida y lo narra con naturalidad, como si ocurriera todos los días."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que el narrador duda constantemente de lo que ocurre y por eso lo cuenta como un hecho imposible.",
           "is_correct": false,
           "feedback": "En la literatura fantástica el narrador no duda de su mundo; la duda se traslada al lector, y eso es lo que hace funcionar el relato."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el autor debe explicar al final que todo fue un sueño o un error de los sentidos.",
           "is_correct": false,
           "feedback": "Explicar al final que fue un sueño es un recurso de cierre, no la definición del género; muchos cuentos fantásticos no recurren a él."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que el texto está escrito en verso y se apoya en la rima para contar hechos imposibles.",
           "is_correct": false,
           "feedback": "El verso no es una condición del género; la literatura fantástica aparece tanto en prosa como en verso."
@@ -71,13 +71,13 @@
           "feedback": "Correcto. Cortázar pide que el narrador no rompa su propio mundo y que, en cambio, sea el lector quien dude de lo que lee."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El lector debe aceptar sin reservas lo narrado, sin necesitar ninguna explicación al final del relato.",
           "is_correct": false,
           "feedback": "El lector sí recibe la duda, según el segundo principio; la ausencia total de reacción crítica no define el género."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La historia debe empezar y terminar dentro de las leyes naturales, aunque en la mitad ocurra algo extraordinario.",
           "is_correct": false,
           "feedback": "Un cierre dentro de la realidad no es una condición; la literatura fantástica opera con un mundo propio, no con excepciones temporales."
@@ -123,7 +123,7 @@
           "feedback": "Correcto. La diferencia está en la actitud: el narrador fantástico no duda de las reglas de su mundo, y lo maravilloso se apoya en una realidad histórica y cultural concreta."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La literatura fantástica exige un final que explique el fenómeno, y \"lo real maravilloso\" lo prohibe expresamente.",
           "is_correct": false,
           "feedback": "Ninguno de los dos conceptos obliga a cerrar el relato con una explicación; el final explicativo es un recurso opcional, no una regla."
@@ -203,19 +203,19 @@
           "feedback": "Correcto. El narrador aplica a su mundo la condición nueva sin dudar, y por eso la ruptura queda visible para el lector."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La narración está escrita en primera persona, y esa forma de hablar impide que el lector dude de lo narrado.",
           "is_correct": false,
           "feedback": "El narrador de Kafka es en tercera persona; la primera persona no es el rasgo que define el género."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La narración emplea un lenguaje coloquial y cotidiano que oculta lo extraordinario.",
           "is_correct": false,
           "feedback": "El relato no oculta nada: describe la transformación con detalle riguroso, y ese detalle es precisamente lo que vuelve verosímil y extraordinario a la vez."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La narración cierra con un comentario explícito sobre lo absurdo de la situación vivida por el personaje.",
           "is_correct": false,
           "feedback": "No hay tal comentario; la fuerza del relato está precisamente en que el narrador no califica de absurdo lo que describe."
@@ -255,13 +255,13 @@
           "feedback": "Correcto. La falta de explicación es la pista decisiva: en la literatura fantástica el narrador omite el comentario precisamente porque no lo necesita."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El uso del pasado, porque el tiempo verbal determina por sí solo el género del relato.",
           "is_correct": false,
           "feedback": "El tiempo verbal por sí solo no determina el género; muchos cuentos fantásticos y realistas los usan por igual."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El nombre del personaje, porque los nombres propios sirven para identificar el género según su origen cultural.",
           "is_correct": false,
           "feedback": "El nombre del personaje no aporta ninguna pista sobre el género; el criterio debe buscar el tratamiento de lo imposible."
@@ -307,7 +307,7 @@
           "feedback": "Correcto. Al no marcar la rareza, la narración obliga al lector a contrastar lo leído con sus propias reglas y a decidir dónde está la frontera."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Convierte el relato en una enseñanza moral sobre lo que es posible y lo que no.",
           "is_correct": false,
           "feedback": "El tono uniforme no autoriza una enseñanza; la lección del género está en cómo funciona la duda, no en una norma de vida."
@@ -387,19 +387,19 @@
           "feedback": "Correcto. El narrador trata lo imposible como un hecho conocido y compartido, y ese tono de seguridad traslada la duda a quien lee."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que el narrador intenta convencernos de que todo es real para que el lector se confíe en la veracidad.",
           "is_correct": false,
           "feedback": "El narrador no busca que el lector se convenza de veracidad; su indiferencia ante lo raro es lo que produce el efecto del género."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el narrador omite datos porque no dispone de información suficiente sobre lo ocurrido.",
           "is_correct": false,
           "feedback": "No hay una falta de información; el narrador conoce lo que narra y por eso lo transmite con seguridad."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que el narrador toma distancia del lector con el fin de impedir que se identifique con los personajes.",
           "is_correct": false,
           "feedback": "La distancia no es el objetivo; el efecto proviene de la ausencia total de sorpresa ante lo que describe."
@@ -439,13 +439,13 @@
           "feedback": "Correcto. La primera versión cumple los dos principios: coherencia interna del mundo y duda transferida a quien lee."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La segunda, porque la reacción del narrador demuestra que el hecho es verdaderamente imposible.",
           "is_correct": false,
           "feedback": "La reacción del narrador no prueba nada; en el género, el narrador no necesita justificar nada."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Las dos, porque cualquier tratamiento de un hecho imposible produce el mismo efecto en el lector.",
           "is_correct": false,
           "feedback": "No: los dos tratamientos producen efectos opuestos, porque en uno la duda pasa al lector y en el otro se queda en el narrador."
@@ -491,7 +491,7 @@
           "feedback": "Correcto. La diferencia no está en la cantidad de lo extraordinario, sino en la base desde la que se produce el efecto."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La afirmación es correcta, porque ambas propuestas aparecen dentro de la literatura colombiana del siglo XX.",
           "is_correct": false,
           "feedback": "La literatura fantástica tiene arraigo en la tradición española y europea, y no es un género propio de Colombia ni de un solo siglo."
