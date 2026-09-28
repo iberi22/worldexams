@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-17-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T09:22:09.601Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la unidad funcional del sistema nervioso y qué parte de ella transmite el impulso hacia otras células?",
+      "context": "En el laboratorio de ciencias naturales de un colegio de Bogotá, la profesora pide al grupo que identifique cuál es la unidad funcional del sistema nervioso y qué parte de esa unidad conduce el impulso hacia otras células.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El glía, porque sus células forman la mielina que genera el impulso nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las células gliales producen mielina, pero la mielina aísla el axón y acelera la conducción; el impulso no se genera en la mielina."
+        },
+        {
+          "letter": "B",
+          "text": "La neurona, porque su axón transmite el impulso desde el cuerpo celular hacia otras células.",
+          "is_correct": true,
+          "feedback": "Correcto. La neurona es la unidad funcional del sistema nervioso y el axón es la prolongación que conduce el impulso hasta los botones terminales."
+        },
+        {
+          "letter": "C",
+          "text": "El núcleo celular, porque integra la información genética que ordena la respuesta muscular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo contiene el material genético y dirige la expresión celular, pero no conduce señales eléctricas por el cuerpo."
+        },
+        {
+          "letter": "D",
+          "text": "La glándula endocrina, porque secreta hormonas que viajan por la sangre hasta el encéfalo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las glándulas endocrinas pertenecen al sistema endocrino, no al sistema nervioso, y sus hormonas viajan por la sangre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sistema nervioso se organiza en torno a una unidad fundamental: la neurona. Cada neurona recibe información, la integra y la transmite. En su cuerpo celular se generan los impulsos; el axón, que puede medir varios centímetros, los lleva hasta los botones terminales, donde la señal pasa a la siguiente célula. Por eso la unidad funcional es la neurona y no una glándula, un núcleo ni una célula glial. Las células gliales sí son indispensables, porque envuelven, nutren y aíslan a las neuronas, pero cumplen funciones de soporte y no generan ni conducen el impulso nervioso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v2",
+      "statement": "¿Qué explicación explica correctamente que un nervio mielinizado conduzca el impulso con mayor velocidad que uno amielinizado?",
+      "context": "Durante una práctica en Bucaramanga, un grupo de grado noveno compara en el microscopio un nervio mielinizado con otro amielinizado y observa que el primero conduce el impulso mucho más rápido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mielina aumenta el diámetro de la fibra, de modo que el impulso tiene un camino más ancho por donde avanzar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diámetro de la fibra es una característica propia del axón y no depende de la presencia de mielina; la velocidad no se explica por un ensanchamiento."
+        },
+        {
+          "letter": "B",
+          "text": "La mielina actúa como aislante y obliga al impulso a avanzar entre los nodos de Ranvier, lo que acelera la conducción.",
+          "is_correct": true,
+          "feedback": "Correcto. La mielina envuelve el axón y deja interrupciones llamadas nodos de Ranvier; el impulso se regenera en cada nodo, lo que se denomina conducción saltatoria."
+        },
+        {
+          "letter": "C",
+          "text": "El impulso se detiene por completo en cada nodo de Ranvier y por eso el recorrido total resulta más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impulso no se detiene en los nodos: allí se regenera con mucha rapidez, y es esa sucesión de saltos la que reduce el tiempo total de conducción."
+        },
+        {
+          "letter": "D",
+          "text": "Las fibras amielinizadas generan impulsos de mayor amplitud que compensan su menor velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amplitud del potencial de acción es prácticamente constante en todas las neuronas; lo que cambia entre fibras es la velocidad, no la intensidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La velocidad de conducción del impulso nervioso depende de factores físicos, y el aislamiento de la fibra es uno de los principales. Cuando el axón está envuelto en mielina, la corriente eléctrica solo puede despolarizar la membrana en los puntos donde el aislamiento se interrumpe, es decir, en los nodos de Ranvier. El impulso salta de un nodo al siguiente, recorriendo menos membrana y reduciendo el tiempo de transmisión, lo que se conoce como conducción saltatoria. Las fibras sin mielina deben despolarizar la membrana de forma continua a lo largo de toda su longitud, por eso conducen más lento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la estudiante retira el pie antes de sentir dolor?",
+      "context": "En una salida de campo en una finca cerca de Pereira, una estudiante pisa accidentalmente un clavo y retira el pie de inmediato, antes de experimentar dolor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la neurona motora lleva la información del pie hasta la médula espinal y el cerebro ordena después el movimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La neurona motora transporta la orden desde la médula hacia el músculo, no lleva la información del pie; quien la recibe es la neurona sensitiva."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la médula espinal actúa como centro de la respuesta refleja y no espera la decisión del cerebro.",
+          "is_correct": true,
+          "feedback": "Correcto. El arco reflejo integra la respuesta en la médula espinal, lo que permite reaccionar de inmediato; el cerebro recibe la información después, cuando el pie ya se retiró."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cerebelo recibe la señal de dolor y envía la orden de retirar el pie al músculo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerebelo coordina el equilibrio y los movimientos; la respuesta de retirada se organiza en la médula espinal, no en el cerebelo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la corteza cerebral ordena el movimiento antes de que la señal de dolor llegue al tálamo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza cerebral necesita recibir la información para deliberar, y esa búsqueda de la decisión es justamente lo que el reflejo evita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta de retirada ante un estímulo doloroso es un reflejo, es decir, una respuesta rápida, involuntaria y preprogramada. Su circuito, llamado arco reflejo, está formado por una neurona sensitiva que lleva la información del receptor hasta la médula espinal, una neurona de asociación que la procesa allí mismo, y una neurona motora que transporta la orden hasta el músculo. Como la integración ocurre en la médula, la respuesta se dispara en milisegundos y la persona retira el pie antes de que el cerebro alcance a evaluar la situación. La información dolorosa sí llega después al tálamo y a la corteza, que la analizan para dejar una huella consciente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v4",
+      "statement": "¿Qué procedimiento ofrece la evidencia más sólida para sostener esa conclusión?",
+      "context": "En un proyecto de grado noveno en Cartagena, un equipo quiere reunir evidencia experimental que demuestre que el reflejo de retirada se integra en la médula espinal y no en el cerebro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir el estímulo varias veces hasta que la respuesta se convierta en un acto reflejo aprendido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aprendizaje por repetición es un fenómeno de la corteza cerebral y no aporta evidencia sobre la integración medular del reflejo."
+        },
+        {
+          "letter": "B",
+          "text": "Pedir al participante que anticipe el estímulo para comprobar si la mente acelera la respuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anticipación modifica la atención y es una variable independiente; no permite distinguir el papel de la médula espinal."
+        },
+        {
+          "letter": "C",
+          "text": "Anotar que el mismo participante puede retirar la mano sin ver el objeto que lo tocó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Retirar la mano sin visión no demuestra nada sobre el centro de integración, porque el tacto también informa y activa el arco reflejo."
+        },
+        {
+          "letter": "D",
+          "text": "Medir el tiempo entre el estímulo y la respuesta y mostrar que es demasiado corto para un procesamiento cerebral completo.",
+          "is_correct": true,
+          "feedback": "Correcto. Un tiempo de respuesta inferior al que requiere el procesamiento cortical indica que la integración se hizo antes, es decir, en un centro medular."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para demostrar una afirmación científica hay que diseñar una medición que pueda descartarla. Si el reflejo se integrara en la corteza cerebral, la respuesta no podría aparecer antes de que la información hubiera travelled por la médula, subido hasta el tálamo, recorrido las conexiones corticales y detenido la orden. Esa secuencia exige un tiempo claramente mayor que el que se mide en un reflejo medular. Por eso el argumento de la latencia es pertinente: un tiempo de respuesta muy corto es incompatible con una decisión consciente y apunta a un centro de integración situado en la médula espinal. Aun así, un buen diseño debería complementar la latencia con registros adicionales antes de generalizar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v5",
+      "statement": "¿Qué alteración explica mejor ese conjunto de síntomas?",
+      "context": "En una revisión de salud ocupacional en Bogotá, un conductor de buses de transporte público presenta movimientos involuntarios, dificultad para mantenerse en equilibrio y pasos desiguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lesión del cerebelo, que coordina el equilibrio y los movimientos y cuya alteración produce ataxia.",
+          "is_correct": true,
+          "feedback": "Correcto. El cerebelo ajusta la ejecución de los movimientos y el equilibrio, por eso su lesión produce marcha inestable y movimientos mal coordinados."
+        },
+        {
+          "letter": "B",
+          "text": "Una lesión de la corteza frontal, que genera directamente los impulsos que hacen que los músculos se contraigan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza frontal participa en la planificación del movimiento, pero no es el centro que coordina el equilibrio ni la marcha."
+        },
+        {
+          "letter": "C",
+          "text": "Una lesión del tálamo, que decide qué estímulos sensitivos llegan a ser conscientes y cuáles se descartan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tálamo es un centro de relevo sensorial; su alteración produceorin disturbios perceptivos, no una pérdida de la coordinación motora."
+        },
+        {
+          "letter": "D",
+          "text": "Una lesión de la médula espinal, que transmite de forma directa las órdenes motoras desde el tronco encefálico hasta los músculos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La médula espinal transmite impulsos, pero la pérdida del equilibrio y de la coordinación apunta al cerebelo, que está en el encéfalo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cerebelo es el centro del encéfalo especializado en la coordinación motora. Compara la orden que el cerebro emite con la información que devuelve la propiocepción y el sistema vestibular, y ajusta la ejecución de cada movimiento. Por eso una lesión cerebelosa produce ataxia, es decir, marcha inestable, movimientos involuntarios y dificultad para precisar la fuerza y la dirección de un gesto, sin que se pierda la fuerza muscular. Esto permite distinguirla de una lesión de la vía corticoespinal, que debilita los movimientos, o de una lesión del tálamo, que afecta la percepción. El conjunto de síntomas descrito es característico del cerebelo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto inmediato es esperable en la sinapsis si la neurona presináptica se despolariza normalmente pero no libera neurotransmisor?",
+      "context": "En una práctica de biología en Manizales, un fármaco bloquea la liberación de los neurotransmisores almacenados en los vesículas de los botones terminales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La membrana postsináptica no se despolariza, aunque el impulso haya recorrido el axón sin dificultad.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin neurotransmisor liberado no hay unión con los receptores postsinápticos, por lo que la señal no cambia el estado de la membrana siguiente."
+        },
+        {
+          "letter": "B",
+          "text": "La membrana postsináptica se despolariza más rápido porque recibe la señal directamente del cuerpo celular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La señal no salta de una neurona a otra: siempre pasa por los botones terminales y necesita un neurotransmisor que atraviese el espacio sináptico."
+        },
+        {
+          "letter": "C",
+          "text": "El potencial de acción se intensifica al acumularse más carga dentro de los vesículas sin liberarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amplitud del potencial de acción no depende de la cantidad de vesículas acumuladas, porque es un evento que sigue la ley de todo o nada."
+        },
+        {
+          "letter": "D",
+          "text": "El neurotransmisor queda retenido en la membrana postsináptica y produce una respuesta permanente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el neurotransmisor no llega a la membrana postsináptica, no puede retenerse allí ni generar una respuesta sostenida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sinapsis química se puede resumir en una cadena de condiciones necesarias: que el impulso llegue al botón terminal, que se liberen los vesículas al espacio sináptico, que el neurotransmisor cruce esa distancia, que se una a los receptores de la membrana postsináptica y que eso abra o cierre los canales iónicos. Bloquear uno solo de esos pasos, como la liberación, interrumpe toda la cadena aunque el axón funcione con normalidad. Este es el mecanismo de muchas sustancias que alteran la transmisión, y explica por qué el efecto aparece en milisegundos y por qué la alteración se concentra en la unión entre dos neuronas y no en el recorrido del impulso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v7",
+      "statement": "¿Qué consecuencia neurológica es la más esperable como consecuencia de esa lesión?",
+      "context": "Un motociclista de Medellín sufre una fractura vertebral a nivel de la vértebra T10, en un accidente de tránsito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pérdida del reflejo rotuliano, porque ese reflejo se integra exclusivamente en la corteza cerebral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reflejo rotuliano se integra en los segmentos lumbares L2 a L4, que están por debajo de T10, y además se integra en la médula y no en la corteza."
+        },
+        {
+          "letter": "B",
+          "text": "Pérdida de la sensibilidad y de los movimientos voluntarios por debajo de la lesión, porque la médula conduce esas vías.",
+          "is_correct": true,
+          "feedback": "Correcto. En T10 se cortan los tractos ascendentes de la sensibilidad y los descendentes del movimiento, de modo que se pierde el control y la sensibilidad por debajo del nivel lesionado."
+        },
+        {
+          "letter": "C",
+          "text": "Pérdida de la fuerza de los brazos, porque la médula espinal deja de conducir impulsos hacia los miembros superiores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los miembros superiores se controlan desde la porción cervical de la médula, que en este caso no está lesionada."
+        },
+        {
+          "letter": "D",
+          "text": "Aparición de movimientos involuntarios en las piernas, porque el cerebelo se libera del control del tronco encefálico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cerebelo recibe información de la médula pero no genera movimientos involuntarios, y el nivel T10 no aloja ninguna estructura cerebelosa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La médula espinal funciona como un haz de cables que lleva ascendiendo la información sensitiva desde el cuerpo hasta el encéfalo y descendiendo las órdenes motoras. Una lesión completa a nivel de T10 interrumpe ambos haces por debajo de ese punto, de manera que se pierde la sensibilidad y el control voluntario de las piernas y de la parte inferior del tronco. Lo que ocurre por encima de la lesión suele preservarse, porque sus circuitos están en segmentos superiores. El caso ilustra un principio de organización del sistema nervioso: las funciones de la sensibilidad y del movimiento se distribuyen de manera ordenada a lo largo del eje corporal, y el nivel de la lesión determina qué se pierde.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v8",
+      "statement": "¿Qué conclusión es la más adecuada a partir de ese resultado?",
+      "context": "En una práctica guiada en un colegio de Barranquilla, un grupo registra la velocidad de conducción de un nervio y obtiene un valor cercano a 2 metros por segundo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nervio está dañado, porque cualquier nervio sano del cuerpo humano conduce a 120 metros por segundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad de conducción varía entre fibras según su diámetro y su vaina de mielina; 120 metros por segundo corresponde a las fibras más rápidas."
+        },
+        {
+          "letter": "B",
+          "text": "El nervio contiene una alta proporción de fibras sin mielina, lo que explica la baja velocidad medida.",
+          "is_correct": true,
+          "feedback": "Correcto. Las fibras amielinizadas conducen a muy baja velocidad, del orden de 0,5 a 2 metros por segundo, de modo que el valor medido apunta a ese tipo de fibras."
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad depende del número de neuronas que participan y no de la presencia o ausencia de mielina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad de conducción de un impulso depende de propiedades de la fibra, como la mielina y el diámetro, no del número de neuronas."
+        },
+        {
+          "letter": "D",
+          "text": "El valor corresponde a la velocidad con que la sangre circula por los capilares que irrigan el nervio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medida corresponde al impulso nervioso, no al flujo sanguíneo, que tiene otra magnitud y otra función dentro del tejido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Interpretar un dato de laboratorio exige conectarlo con el modelo que lo explica. La velocidad de conducción de un impulso nervioso depende de dos factores principales: el diámetro del axón y la presencia de mielina. Las fibras con vaina gruesa y mielina pueden superar los 100 metros por segundo, mientras que las fibras pequeñas sin mielina, como las que transmiten dolor y parte de los impulsos vegetativos, conducen apenas entre 0,5 y 2 metros por segundo. Un valor de 2 metros por segundo es por tanto compatible con un nervio de predominio amielinizado. Reconocer estos órdenes de magnitud evita confundir un resultado fisiológico normal con una lesión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v9",
+      "statement": "¿Qué evaluación de esa afirmación es la más precisa?",
+      "context": "En una clase de educación física en Cali, un estudiante afirma que la cafeína le ayuda a concentrarse porque acelera por sí sola la velocidad con que sus neuronas transmiten los impulsos nerviosos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la cafeína aumenta la velocidad de conducción a lo largo de las fibras mielinizadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cafeína no modifica la velocidad de conducción del impulso; su efecto principal consiste en bloquear de forma competitiva los receptores de adenosina."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque la cafeína aumenta el número de neuronas que participan en cada proceso de memoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cafeína no genera neuronas ni altera su número; su efecto es modulador sobre la actividad de las que ya existen."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación confunde el efecto modulador de la cafeína sobre la alerta con un aumento directo de la velocidad de conducción nerviosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La cafeína actúa sobre receptores de adenosina y modifica el estado de alerta y la atención, pero no acelera el cableado ni la conducción del impulso."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es completamente falsa, porque ninguna sustancia puede modificar la actividad del sistema nervioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas sustancias sí modifican la actividad nerviosa, de modo que el error no está en afirmar que existe un efecto, sino en describir mal su mecanismo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una afirmación exige separar el efecto real del mecanismo que se le atribuye. La cafeína es una molécula muy parecida a la adenosina, un neurotrasmisor implicado en la sensación de fatiga, por lo que ocupa sus receptores y reduce la señal de cansancio. El resultado es un aumento de la alerta y de la capacidad de sostener la atención, un efecto modulador real y bien documentado. Lo que no hace es modificar la mielina, el diámetro de los axones ni la velocidad con que un impulso viaja. Por eso la afirmación es incorrecta en su explicación aunque apunte a un efecto verdadero, un caso típico de error conceptual en un enunciado parcialmente plausible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v10",
+      "statement": "Frente a ese cuadro, ¿qué decisión clínica es la más coherente desde el punto de vista anatómico?",
+      "context": "En un servicio de gerontología en Medellín, una paciente presenta pérdida progresiva de la memoria, desorientación en el espacio y dificultad para reconocer a sus familiares más cercanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Iniciar un tratamiento hormonal sin más estudios, porque la tiroides es el único órgano que regula la memoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la tiroides influye en la función cerebral, no es el único factor y el tratamiento hormonal no está indicado sin un estudio previo."
+        },
+        {
+          "letter": "B",
+          "text": "Indicar ejercicio de alta intensidad como único manejo, porque el sistema nervioso periférico es el único implicado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejercicio ayuda, pero el cuadro descrito es principalmente de afectación del sistema nervioso central y no se explica por el periférico."
+        },
+        {
+          "letter": "C",
+          "text": "Prescribir un suplemento vitamínico de inmediato, porque la memoria depende solo de las vitaminas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vitaminas pueden corregir defectos carenciales concretos, pero no explican por sí solas un cuadro progresivo de pérdida de memoria."
+        },
+        {
+          "letter": "D",
+          "text": "Priorizar el estudio de las estructuras cerebrales implicadas en la memoria, ante una probable afectación del sistema nervioso central.",
+          "is_correct": true,
+          "feedback": "Correcto. El cuadro es compatible con una alteración del sistema nervioso central, por lo que el abordaje inicial debe centrarse en la evaluación de las estructuras y funciones cerebrales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Razonar desde la anatomía significa ubicar primero en qué parte del sistema nervioso ocurre el problema. La memoria depende de estructuras del sistema nervioso central, en particular de la corteza cerebral y de estructuras relacionadas como el hipocampo, y de la red de interconexiones que las une. Un cuadro progresivo como el descrito no se explica de manera primaria por el sistema nervioso periférico, que lleva señales hacia y desde el cuerpo. Descartar causas metabólicas y carenciales sigue siendo una buena práctica, pero eso no justifica dejar el sistema nervioso central fuera del análisis inicial ni tratar la memoria como un problema aislado de vitaminas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v11",
+      "statement": "¿Qué propiedad del sistema nervioso explica esa recuperación?",
+      "context": "Después de un ictus isquémico en Cali, un paciente recupera parte de la movilidad de un brazo gracias a un programa de rehabilitación física y ocupacional de varios meses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La plasticidad, que permite reorganizar las conexiones y formar nuevas redes que asuman la función que se perdió.",
+          "is_correct": true,
+          "feedback": "Correcto. La plasticidad permite que otras rutas neuronales compensen la lesión, y la rehabilitación repetitiva aprovecha esa capacidad de reorganización."
+        },
+        {
+          "letter": "B",
+          "text": "La degeneración Walleriana, que destruye los axones dañados e impide toda reconexión posterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La degeneración Walleriana sí ocurre tras una lesión, pero es un proceso de degradación del axón distal y no es una explicación de la recuperación funcional."
+        },
+        {
+          "letter": "C",
+          "text": "La mielinización, que por sí sola aumenta el número de neuronas del área motora afectada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mielinización envuelve axones existentes y acelera la conducción; no aumenta el número de neuronas de ninguna región del cerebro."
+        },
+        {
+          "letter": "D",
+          "text": "La apoptosis, que programó la muerte de las neuronas vecinas para liberar espacio a las recuperadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apoptosis es un mecanismo de muerte celular programada y no interviene en la recuperación funcional descrita en el enunciado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La plasticidad es la capacidad del sistema nervioso para modificar su organización a partir de la experiencia. Tras una lesión como un ictus, las conexiones que se perdieron pueden reorganizarse: otras neuronas pueden asumir parte de la función que desempeñaba la red afectada, y las sinapsis existentes pueden cambiar su fuerza. La evidencia de que las neuronas pueden formar conexiones nuevas en el cerebro adulto sustenta por qué la rehabilitación tiene efecto: la repetición del gesto orienta esa reorganización. Esto también impone un límite honesto, porque la recuperación depende del tamaño y de la localización de la lesión y no alcanza para eliminar la lesión misma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle-v12",
+      "statement": "¿Qué limitación hace insuficiente ese procedimiento para conocer la organización anatómica del encéfalo?",
+      "context": "En un semillero de investigación escolar de Pereira, un grupo propone conocer la organización del encéfalo registrando únicamente la actividad eléctrica del cerebro con un electroencefalograma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El procedimiento registra únicamente la actividad del sistema nervioso periférico y deja de lado el cerebro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El electroencefalograma recoge la actividad eléctrica del cerebro, que es precisamente lo que el grupo quiere estudiar."
+        },
+        {
+          "letter": "B",
+          "text": "El procedimiento no registra ninguna señal, porque la actividad cerebral no genera potenciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza cerebral genera señales eléctricas, que son justamente las que el electroencefalograma capta en sus electrodos."
+        },
+        {
+          "letter": "C",
+          "text": "El procedimiento revela la actividad eléctrica pero no la estructura de las regiones cerebrales que la producen.",
+          "is_correct": true,
+          "feedback": "Correcto. Un registro eléctrico informa sobre la dinámica de la actividad, pero para conocer la organización anatómica se necesitan técnicas de imagen."
+        },
+        {
+          "letter": "D",
+          "text": "El procedimiento solo puede aplicarse en animales de laboratorio y no en personas vivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El electroencefalograma se emplea de forma rutinaria en la práctica clínica humana, incluida la atención de pacientes en los hospitales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada técnica científica responde a una pregunta y deja otras sin responder. El electroencefalograma registra la diferencia de potencial entre electrodos colocados sobre el cráneo, de modo que informa sobre el ritmo y la sincronía de la actividad cortical; es una técnica funcional. La anatomía, en cambio, es una pregunta estructural, y para responderla se necesitan técnicas como la resonancia magnética o la tomografía, que muestran el volumen y la forma de cada región. Combinar ambas clases de información es lo que permite asociar una alteración funcional con la estructura responsable, algo que ninguna de las dos técnicas logra por separado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W17-sistema-nervioso-y-el-comportamiento-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

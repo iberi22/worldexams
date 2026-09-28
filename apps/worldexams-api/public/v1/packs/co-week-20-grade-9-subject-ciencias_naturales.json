@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-20-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T09:22:09.603Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué magnitud física describe directamente el flujo ordenado de cargas eléctricas a lo largo de un conductor?",
+      "context": "En el taller de tecnología de un colegio de Bogotá, la profesora presenta una bombilla incandescente y un bombillo LED conectados al mismo interruptor y pregunta qué tienen en común.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corriente eléctrica, que se mide en amperios.",
+          "is_correct": true,
+          "feedback": "Correcto. La corriente eléctrica es el flujo de carga que atraviesa un conductor y su unidad en el sistema internacional es el amperio."
+        },
+        {
+          "letter": "B",
+          "text": "La resistencia, que se mide en ohmios y depende del material del conductor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia es la oposición que ofrece el conductor al paso de la corriente y se mide en ohmios."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia de potencial, que se mide en voltios y se establece entre dos puntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de potencial es la energía que impulsa las cargas, pero no es el flujo en sí."
+        },
+        {
+          "letter": "D",
+          "text": "La carga eléctrica, que se mide en coulombios y se acumula en la superficie de un aislante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga eléctrica es la cantidad de materia que transporta el flujo y un aislante no permite su paso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La corriente eléctrica es el fenómeno por el cual las cargas, en este caso electrones libres de los metales, se desplazan de forma ordenada a lo largo de un conductor. Su unidad es el amperio, que indica cuántos coulombios pasan por un punto del circuito cada segundo. La diferencia de potencial es lo que empuja esas cargas, la resistencia es la oposición que ofrece el conductor y la carga eléctrica es la magnitud que viaja. Confundir el flujo con aquello que lo impulsa, o con la oposición que lo limita, es el error más frecuente al iniciar el tema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué explica que una falla en una instalación eléctrica pueda aumentar el consumo de energía sin que cambien los aparatos del hogar?",
+      "context": "En un apartamento de Medellín, el administrador revisa el tablero después de un aguacero y nota que el consumo de energía del mes aumentó a pesar de no haberse instalado equipos nuevos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua de la lluvia calienta los cables y con eso genera corriente adicional en la red.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua de lluvia no genera corriente por sí misma; el origen de la energía es siempre la fuente que alimenta el circuito."
+        },
+        {
+          "letter": "B",
+          "text": "Una menor resistencia en el tramo defectuoso obliga a la fuente a entregar más potencia que la habitual.",
+          "is_correct": true,
+          "feedback": "Correcto. Si la resistencia disminuye, la corriente aumenta según la ley de Ohm y con ella aumenta la energía consumida."
+        },
+        {
+          "letter": "C",
+          "text": "La lluvia descarga la energía almacenada en los cables y por eso se reduce el consumo total.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cables conductores no almacenan energía utilizable y su presencia no reduce el consumo facturado."
+        },
+        {
+          "letter": "D",
+          "text": "El aumento no puede deberse a la instalación, porque las protecciones del tablero impiden todo gasto adicional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las protecciones desconectan el circuito para evitar daños, pero la energía ya consumida queda registrada en el medidor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un circuito se relacionan tres magnitudes: la diferencia de potencial, la resistencia y la corriente. La ley de Ohm establece que la corriente es directamente proporcional al voltaje e inversamente proporcional a la resistencia. Si una falla produce un cortocircuito, la resistencia efectiva disminuye, la corriente aumenta y la fuente debe entregar más potencia, lo que se refleja en un mayor consumo de energía. Como la energía eléctrica se factura por la potencia multiplicada por el tiempo de uso, un aumento sostenido de la corriente incrementa el valor del recibo del mes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v3",
+      "statement": "Si ambos cables se conectan a la misma diferencia de potencial, ¿qué cable llevará más corriente y por qué?",
+      "context": "En una ferretería de Pereira, un electricista compara dos cables de cobre del mismo material: uno de mayor grosor y otro más delgado, ambos destinados a la misma distancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cable delgado, porque el cobre conduce mejor al ser más ligero y más fácil de doblar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La facilidad de manipulación no determina la conducción eléctrica; pesa el área de la sección transversal."
+        },
+        {
+          "letter": "B",
+          "text": "El cable delgado, porque disipa el calor sobrante y así evita que se funda la instalación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un conductor delgado disipa peor y se calienta más, lo que incrementa el riesgo de fundirse."
+        },
+        {
+          "letter": "C",
+          "text": "El cable grueso, porque su mayor sección transversal ofrece menor resistencia al paso de la corriente.",
+          "is_correct": true,
+          "feedback": "Correcto. La resistencia de un conductor disminuye cuando aumenta la sección transversal, y entonces circula más corriente."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos llevan la misma corriente, porque la corriente depende solo del voltaje de la red.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corriente depende del voltaje y de la resistencia; con el mismo voltaje, la resistencia decide cuánto circula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La resistencia eléctrica de un conductor depende de tres factores: el material, la longitud y el área de la sección transversal. A igual material y a igual longitud, un cable con mayor sección tiene menor resistencia. Aplicando la ley de Ohm, a una misma diferencia de potencial, una resistencia menor implica una corriente mayor. Esta es la razón por la que los cables de las instalaciones domésticas que deben soportar hornos, calentadores o equipos de alto consumo se instalan con mayor diámetro que los que alimentan una lámpara. Reconocer estos tres factores permite explicar por qué un fusible se funde en unos alambres y en otros no.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v4",
+      "statement": "Si en el montaje en serie se desconecta uno de los bombillos, ¿qué ocurre con el otro y por qué?",
+      "context": "En el laboratorio de física de un colegio de Cali, un estudiante arma dos montajes con bombillos idénticos: uno con los bombillos en serie y el otro en paralelo, y los conecta a la misma fuente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El otro sigue encendido con menos intensidad, porque la corriente se reparte entre los dos bombillos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En serie la corriente no se reparte: es la misma en todos los elementos y al abrirse el circuito deja de circular."
+        },
+        {
+          "letter": "B",
+          "text": "El otro sigue encendido, porque conserva una ruta alternativa de retorno hacia la fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ruta alternativa es propia de una conexión en paralelo; el montaje descrito es en serie."
+        },
+        {
+          "letter": "C",
+          "text": "El otro parpadea y luego se apaga, porque su resistencia se duplica al perder el contacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia del bombillo no cambia por la desconexión; lo que se interrumpe es el paso de la corriente."
+        },
+        {
+          "letter": "D",
+          "text": "El otro también se apaga, porque al abrirse el circuito en serie se interrumpe la ruta única de la corriente.",
+          "is_correct": true,
+          "feedback": "Correcto. En el circuito en serie hay una sola ruta, y una interrupción en cualquier punto deja sin corriente a todos los elementos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un circuito en serie todos los elementos están conectados uno tras otro y ofrecen una única ruta para la corriente. La corriente que atraviesa cada elemento es la misma y las resistencias se suman. Por eso, si un punto del circuito queda abierto, la ruta se interrumpe y todos los elementos quedan sin corriente. En un circuito en paralelo, en cambio, cada elemento tiene su propia ruta entre los dos nodos, por lo que la falla de uno no apaga a los demás. Reconocer esta diferencia resuelve problemas domésticos frecuentes, como por qué una serie de bombillas de adorno se apaga completa cuando una de ellas se daña.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué se afirma que la energía solar es una fuente renovable y no una fuente agotable?",
+      "context": "Una familia en Barranquilla instala paneles solares en el techo de su vivienda y conecta un calentador de agua a la energía que ellos producen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el Sol libera energía de manera continua mediante la fusión nuclear de su núcleo y esa radiación llega a la Tierra.",
+          "is_correct": true,
+          "feedback": "Correcto. La fusión nuclear libera energía de forma sostenida y esa radiación es la que alimenta el sistema terrestre."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Sol se apagará pronto, de modo que toda su energía disponible se agotará en pocos años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disponibilidad futura del Sol no es el argumento; su energía llega de forma continua y renovada al planeta."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los paneles almacenan dentro del vidrio toda la luz que reciben y la reutilizan indefinidamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paneles transforman la luz en electricidad y no acumulan energía como una reserva de combustible."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el combustible del Sol se renueva cada vez que la Luna pasa entre la Tierra y el Sol.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un eclipse lunar no afecta al Sol ni regenera su combustible; la energía solar es continua e independiente de eso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fuente de energía es renovable cuando se repone de manera natural en una escala de tiempo humana y su aprovechamiento no la agota en el corto plazo. El Sol transforma hidrógeno en helio mediante fusión nuclear en su núcleo y libera enormes cantidades de energía que viajan por el espacio hasta la Tierra. Esa radiación es responsable del clima, del ciclo del agua y de la fotosíntesis, y las instalaciones solares aprovechan solo una fracción muy pequeña de ese flujo. Comparada con el carbón, el petróleo o el gas, que son reservas finitas de materia orgánica, la energía solar se considera inagotable a escala de la humanidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué los bombillos LED reducen el consumo de energía aunque produzcan una cantidad de luz parecida?",
+      "context": "En una residencia de Manizales, la administración decide sustituir todas las bombillas incandescentes por bombillos LED y luego observa el cambio en la factura mensual de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el LED produce luz mediante la combustión de un filamento a muy alta temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combustión pertenece a las bombillas incandescentes; el LED emite por recombinación de electrones y huecos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque una mayor fracción de la energía eléctrica que recibe se convierte en luz visible y menos en calor.",
+          "is_correct": true,
+          "feedback": "Correcto. La eficiencia luminosa del LED es muy superior, por lo que necesita menos potencia para la misma cantidad de luz."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el LED no recibe corriente eléctrica y funciona con la luz que refleja el vidrio de la lámpara.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El LED sí consume corriente; lo que cambia es el reparto entre la luz emitida y el calor disipado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el LED reduce el voltaje del circuito a cero, de modo que ya no se registra consumo en el medidor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El LED necesita un voltaje de funcionamiento, pequeño pero distinto de cero, y su consumo queda registrado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La eficiencia de un aparato eléctrico se expresa como la relación entre la energía útil que produce y la energía total que consume. En una bombilla incandescente, la mayor parte de la energía se disipa como calor infrarrojo y solo una fracción se convierte en luz visible, lo que explica su nombre: la luz es un efecto secundario del calentamiento del filamento. En un LED, la recombinación de electrones y huecos en el semiconductor genera luz de manera directa, con muy poca pérdida en forma de calor. Por eso un LED de nueve vatios puede iluminar de forma comparable a una bombilla incandescente de sesenta vatios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v7",
+      "statement": "Un estudiante coloca la bombilla con dos pilas en serie y otro con cuatro pilas en serie, siempre midiendo la corriente que circula por la bombilla. ¿Qué resultado obtiene el segundo estudiante?",
+      "context": "En una práctica de laboratorio en Bucaramanga, cuatro estudiantes miden el voltaje y la corriente en una bombilla para construir su curva característica y comparan sus resultados entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una corriente menor, porque cuatro pilas en serie ofrecen el doble de resistencia interna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia interna aumenta, pero el voltaje crece en la misma proporción y domina el efecto sobre la corriente."
+        },
+        {
+          "letter": "B",
+          "text": "La misma corriente, porque la bombilla limita el paso de los electrones y el voltaje es irrelevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia limita la corriente, pero no la vuelve constante: sigue dependiendo del voltaje aplicado."
+        },
+        {
+          "letter": "C",
+          "text": "Una corriente mayor, porque al duplicarse la diferencia de potencial con la misma resistencia aumenta la corriente.",
+          "is_correct": true,
+          "feedback": "Correcto. La ley de Ohm indica que la corriente aumenta de forma proporcional al voltaje cuando la resistencia se mantiene."
+        },
+        {
+          "letter": "D",
+          "text": "Una corriente mucho mayor, porque cuatro pilas en serie multiplican por cuatro la energía de cada electrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación con el voltaje es lineal y no multiplicativa; duplicar el voltaje no cuadruplica la corriente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ley de Ohm relaciona las tres magnitudes básicas de todo circuito: tensión, corriente y resistencia. Al mantener la misma bombilla, la resistencia se considera constante dentro del rango medido, y por eso la corriente resulta directamente proporcional a la diferencia de potencial aplicada. Duplicar el número de pilas en serie duplica el voltaje total y, con ello, se duplica aproximadamente la corriente. Este procedimiento es el fundamento de la construcción de una curva característica, en la que se representa la corriente en el eje vertical frente al voltaje en el eje horizontal, y la pendiente de esa recta corresponde a la conductancia del elemento medido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene ese empalme defectuoso sobre la energía disipada en forma de calor en ese tramo?",
+      "context": "En varios hogares de un barrio de Cartagena se reportan daños en los tomacorrientes al mismo tiempo. Un electricista encuentra que un empalme mal hecho añade una resistencia de contacto alta en un tramo de la instalación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque la resistencia solo importa cuando se conectan pilas y no cuando hay red eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia de los materiales es la misma con independencia de la fuente que energiza el circuito."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye, porque el calor generado se disipa más rápido en el punto de unión y no alcanza a notarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Disipar más rápido no reduce el calor generado; un empalme defectuoso produce puntos calientes reales."
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene igual, porque el calor solo depende del voltaje de la red y no de las características del conductor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calentamiento de un tramo depende de su resistencia y de la corriente que lo atraviesa, no solo del voltaje."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta, porque a la misma corriente una mayor resistencia produce más calentamiento por efecto Joule.",
+          "is_correct": true,
+          "feedback": "Correcto. El calor disipado es proporcional al cuadrado de la corriente por la resistencia, y aquí la resistencia aumentó."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El efecto Joule es el calentamiento que experimenta un conductor cuando circula corriente por él. La cantidad de calor disipada en un tiempo dado es directamente proporcional a la resistencia del tramo y al cuadrado de la corriente que lo atraviesa. Un empalme mal ejecutado actúa como una resistencia de contacto adicional: aumenta la resistencia del circuito, genera calentamiento localizado y puede terminar derritiendo el aislamiento, provocar un cortocircuito o iniciar un incendio. Esta es una de las razones por las que las normas de instalación eléctrica exigen uniones fermadas con terminales adecuados y sin puntos sueltos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v9",
+      "statement": "Con base en el funcionamiento de los circuitos, ¿qué problema de seguridad presenta la instalación descrita?",
+      "context": "En un colegio de Cúcuta, el proyecto de aula cuenta con bombillas conectadas en serie en un solo cable colgado del techo y cada bombilla tiene su propio interruptor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al ser un circuito en serie, si una bombilla se daña o se abre el circuito, todas las demás se apagan.",
+          "is_correct": true,
+          "feedback": "Correcto. La serie ofrece una sola ruta de corriente, por lo que una falla o una apertura afecta a todo el conjunto."
+        },
+        {
+          "letter": "B",
+          "text": "Al ser un circuito en serie, el voltaje se reparte por igual y ninguna bombilla puede fundirse nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distribución de voltaje depende de las resistencias, y una resistencia muy baja puede calentarse y fundirse."
+        },
+        {
+          "letter": "C",
+          "text": "Al estar cada bombilla con su propio interruptor, la instalación es en paralelo aunque cuelgue de un solo cable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El interruptor independiente hace útil el control, pero la configuración del conjunto sigue siendo en serie."
+        },
+        {
+          "letter": "D",
+          "text": "La instalación es segura, porque cada bombilla con interruptor propio puede aislarse ante una falla eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poder apagar una bombilla no evita que una falla en otro punto del cable apague el conjunto completo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La seguridad de una instalación depende de cómo se conectan los elementos y de qué tan difícil resulta aislar una falla. En una conexión en serie, todos los elementos comparten una única ruta, de modo que una bombilla quemada, un cable suelto o un interruptor abierto en cualquier punto deja sin corriente a todo el circuito. En una conexión en paralelo, cada elemento tiene su propia ruta entre los dos nodos y puede controlarse de manera independiente, por lo que una falla no se propaga. En el ámbito doméstico, la práctica común combina ambas: conexiones en paralelo para tomacorrientes y luminarias, con protecciones que cortan el suministro cuando la corriente supera lo permitido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué concepto eléctrico explica mejor la diferencia entre la energía que consume una lámpara y la energía que se paga en el recibo?",
+      "context": "En un hogar de Pereira, una familia revisa su recibo de energía y distingue el cargo por consumo de un valor adicional que no corresponde al funcionamiento de artefactos del hogar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intensidad, porque indica cuántos electrones circulan por segundo y por eso determina lo que se paga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intensidad determina el consumo instantáneo junto con el voltaje, pero no explica la medición acumulada del recibo."
+        },
+        {
+          "letter": "B",
+          "text": "La potencia, porque multiplicada por el tiempo de uso da la energía que se consume y se registra en el recibo.",
+          "is_correct": true,
+          "feedback": "Correcto. La energía es potencia por tiempo, y ese valor acumulado es lo que registra y factura el medidor."
+        },
+        {
+          "letter": "C",
+          "text": "La carga, porque cada coulombio que atraviesa el medidor se convierte directamente en pesos facturados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carga es la cantidad de electricidad transportada, no la energía consumida y facturable."
+        },
+        {
+          "letter": "D",
+          "text": "La resistencia, porque el recibo incluye el valor de los conductores empleados en la red de distribución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resistencia determina la corriente y el calentamiento, no el costo de la energía consumida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Conviene distinguir con precisión entre potencia y energía. La potencia es la rapidez con que un dispositivo transforma la energía eléctrica, se mide en vatios y equivale al producto del voltaje por la corriente. La energía es la cantidad total consumida durante un tiempo determinado, se mide en kilovatios hora y se obtiene al multiplicar la potencia por el tiempo de funcionamiento. El medidor de una vivienda acumula esa energía a lo largo del mes y por eso el recibo refleja el uso, no la intensidad instantánea. Conocer esta diferencia permite estimar el costo de funcionamiento de un electrodoméstico y comparar equipos como un calentador de laboratorio o un refrigerador.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v11",
+      "statement": "¿Qué procedimiento les permitiría detectar mejor un error en los datos que la simple suma de las filas de la tabla?",
+      "context": "Un grupo de estudiantes de noveno grado de Bogotá investiga el consumo de varios equipos y construye una tabla con el número de horas diarias de uso y el vataje de cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Multiplicar cada vataje por el costo del kilovatio hora sin revisar las horas de uso registradas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin el tiempo de uso no se obtiene la energía consumida y el cálculo no permite validar ningún dato."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar el número de horas de uso de todos los equipos por un mismo valor para facilitar los cálculos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Homogeneizar sin fundamento destruye la información y no constituye una verificación del dato."
+        },
+        {
+          "letter": "C",
+          "text": "Calcular la energía de cada equipo como vataje por tiempo, comparar el total y revisar el dato en una segunda fuente.",
+          "is_correct": true,
+          "feedback": "Correcto. Contrastar el cálculo con la medición y con otra fuente permite identificar y corregir los datos errados."
+        },
+        {
+          "letter": "D",
+          "text": "Reportar únicamente el equipo de mayor vataje, porque es el único que influye en el consumo total de la vivienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El consumo total depende de todos los equipos y del tiempo de uso de cada uno, no solo del mayor vataje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una investigación fiable exige que los datos puedan verificarse de manera independiente. La energía consumida por un equipo se calcula multiplicando su potencia en vatios por el número de horas de funcionamiento y dividiendo entre mil para obtener kilovatios hora. Al aplicar esa relación a cada fila, obtener un total y contrastar el resultado con el dato del medidor o con una segunda medición, el estudiante pone a prueba sus propios registros. Cuando el total no coincide, el procedimiento indica en qué fila conviene revisar. Este hábito de triangulación distingue una medición respaldada de una afirmación sin sustento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de los siguientes razonamientos es el más sólido para sustentar esa decisión desde la física?",
+      "context": "En un barrio de Bogotá, una comunidad evalúa la posibilidad de reemplazar el alumbrado público de bombillas de vapor de sodio por luminarias LED, y el municipio solicita un análisis a los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El LED no genera ningún tipo de residuo, por lo que es la única tecnología que no afecta el medio ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es absoluta y por eso falla: toda tecnología tiene impactos ambientales en sus materiales y su disposición final."
+        },
+        {
+          "letter": "B",
+          "text": "El LED produce exactamente la misma cantidad de luz que cualquier bombilla, de modo que el cambio no tiene efecto observable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de luz por vatio sí cambia y esa diferencia es justamente lo relevante para el consumo eléctrico."
+        },
+        {
+          "letter": "C",
+          "text": "El LED funciona sin resistencia interna, de modo que no existe ningún mecanismo físico detrás de su funcionamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El LED es un dispositivo semiconductor con resistencia interna y una física de recombinación bien establecida."
+        },
+        {
+          "letter": "D",
+          "text": "El LED convierte más energía eléctrica en luz visible, de modo que se necesita menos potencia para la misma iluminancia.",
+          "is_correct": true,
+          "feedback": "Correcto. Justifica la sustitución en términos de eficiencia luminosa, que es la razón física de la reducción de consumo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una tecnología energética exige conectar la decisión con una ley física y no con una afirmación general. Una luminaria LED sustituye a la de vapor de sodio porque su eficiencia luminosa, es decir los lúmenes que produce por cada vatio, es varias veces superior. Para lograr la misma iluminancia en la vía se necesita menos potencia y, con ella, menos energía por hora y menos emisiones asociadas a la generación. El análisis debe además reconocer que toda sustitución tiene costos y residuos que se gestionan. Lo que sostiene la decisión es la relación cuantificable entre potencia y luz útil, no la ausencia de todo impacto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
