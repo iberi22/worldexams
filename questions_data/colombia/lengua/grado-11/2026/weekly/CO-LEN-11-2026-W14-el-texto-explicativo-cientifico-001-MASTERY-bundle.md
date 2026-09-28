@@ -149,10 +149,10 @@ La comprensión inferencial permite deducir una idea que no está formulada de m
 Cuando un texto explicativo emplea el conectivo "por consiguiente", está señalando:
 
 ### Opciones
-- [x] A) Una consecuencia que se deduce de lo expuesto en la oración anterior.
-  <!-- feedback: Es la opción correcta. Este conectivo tiene valor conclusivo: introduce una consecuencia o un resultado que se sigue de manera lógica de lo que se ha dicho. -->
-- [ ] B) Un ejemplo nuevo que no tiene relación con lo expuesto antes.
+- [ ] A) Un ejemplo nuevo que no tiene relación con lo expuesto antes.
   <!-- feedback: Si el conectivo marcara un ejemplo sin relación, la redacción sería incoherente. La función de esta expresión es la derivación lógica, no el cambio de asunto. -->
+- [x] B) Una consecuencia que se deduce de lo expuesto en la oración anterior.
+  <!-- feedback: Es la opción correcta. Este conectivo tiene valor conclusivo: introduce una consecuencia o un resultado que se sigue de manera lógica de lo que se ha dicho. -->
 - [ ] C) Una opinión personal del autor sobre el asunto tratado.
   <!-- feedback: La opinión personal corresponde al texto argumentativo. El conectivo que se analiza cumple una función lógica dentro de la secuencia explicativa. -->
 - [ ] D) Un cambio de tema hacia otro asunto distinto del anunciado.
@@ -172,10 +172,10 @@ Los conectores son marcas de coherencia que señalan la relación lógica entre 
 ¿Cuál de las siguientes opciones presenta el texto con una secuencia interna más adecuada para un texto explicativo científico?
 
 ### Opciones
-- [x] A) Explica primero cómo pasa el agua de sólido a líquido, después de qué depende ese cambio y, por último, qué factor lo acelera.
-  <!-- feedback: Es la opción correcta. La secuencia cumple la progresión propia de este tipo de texto: presenta el fenómeno, explica su mecanismo y añade un dato que amplía la comprensión. -->
-- [ ] B) Comienza con una anécdota personal, describe un paisaje de la región y cierra con una opinión sobre el clima.
+- [ ] A) Comienza con una anécdota personal, describe un paisaje de la región y cierra con una opinión sobre el clima.
   <!-- feedback: La anécdota, la descripción del paisaje y la opinión final corresponden a otros tipos textuales. Falta la explicación del fenómeno que es el objeto del texto. -->
+- [x] B) Explica primero cómo pasa el agua de sólido a líquido, después de qué depende ese cambio y, por último, qué factor lo acelera.
+  <!-- feedback: Es la opción correcta. La secuencia cumple la progresión propia de este tipo de texto: presenta el fenómeno, explica su mecanismo y añade un dato que amplía la comprensión. -->
 - [ ] C) Plantea una tesis, enuncia tres argumentos y una contraargumentación, y cierra con una conclusión.
   <!-- feedback: Tesis, argumentos y contraargumentos configuran un texto argumentativo, cuyo fin es defender una postura y no describir cómo funciona un fenómeno. -->
 - [ ] D) Narra la historia de un laboratorio desde su fundación hasta la actualidad.
@@ -195,10 +195,10 @@ La organización de un texto explicativo debe ser coherente con su propósito: p
 ¿Qué puede inferir correctamente un lector a partir de ese dato?
 
 ### Opciones
-- [x] A) La erosión es un fenómeno extendido en gran parte del país y no un caso aislado de una sola región.
-  <!-- feedback: Es la opción correcta. Una proporción del 80 % permite inferir que el fenómeno tiene alcance nacional y carácter generalizado. -->
-- [ ] B) La erosión ocurre exclusivamente en zonas con escasa vegetación.
+- [ ] A) La erosión ocurre exclusivamente en zonas con escasa vegetación.
   <!-- feedback: El dato habla de la extensión del fenómeno, no de sus condiciones de aparición. Atribuirle una única causa excede lo que el texto sostiene. -->
+- [x] B) La erosión es un fenómeno extendido en gran parte del país y no un caso aislado de una sola región.
+  <!-- feedback: Es la opción correcta. Una proporción del 80 % permite inferir que el fenómeno tiene alcance nacional y carácter generalizado. -->
 - [ ] C) El veinte por ciento restante del país está libre de cualquier problema ambiental.
   <!-- feedback: El enunciado se refiere únicamente a la erosión. La ausencia de este fenómeno no equivale a estar libre de todos los problemas ambientales de una región. -->
 - [ ] D) La erosión en Colombia se mide únicamente en kilómetros cuadrados.
@@ -218,10 +218,10 @@ Un dato numérico permite más que memorizarlo: habilita inferencias sobre la ma
 Un lector que necesita identificar la idea principal de cada párrafo de un texto explicativo debe buscar:
 
 ### Opciones
-- [x] A) Las oraciones que enuncian el tema del párrafo, porque en torno a ellas se desarrollan los detalles.
-  <!-- feedback: Es la opción correcta. La oración temática recoge el contenido central del párrafo y funciona como referencia para evaluar el valor de cada detalle que lo acompaña. -->
-- [ ] B) Los adjetivos que califican los lugares mencionados en el texto.
+- [ ] A) Los adjetivos que califican los lugares mencionados en el texto.
   <!-- feedback: Los adjetivos son detalles de estilo y no la idea principal. Buscarlos desvía la atención del contenido informativo que organiza el párrafo. -->
+- [x] B) Las oraciones que enuncian el tema del párrafo, porque en torno a ellas se desarrollan los detalles.
+  <!-- feedback: Es la opción correcta. La oración temática recoge el contenido central del párrafo y funciona como referencia para evaluar el valor de cada detalle que lo acompaña. -->
 - [ ] C) Las fechas que aparecen a lo largo del texto.
   <!-- feedback: Las fechas son datos posibles, pero no toda idea principal es una fecha y no siempre aparecen. No es el criterio adecuado para ubicarla. -->
 - [ ] D) Las palabras de mayor longitud de cada oración.
@@ -241,10 +241,10 @@ Una de las estrategias más productivas en la lectura de textos expositivos cons
 Un grupo escribe sobre la lluvia ácida. ¿Cuál de estos elementos demuestra mejor que el texto es realmente explicativo y no un simple relato?
 
 ### Opciones
-- [x] A) Explica qué es la lluvia ácida, describe los gases que la producen y muestra cómo dañan a los seres vivos con datos.
-  <!-- feedback: Es la opción correcta. Define el fenómeno, describe su mecanismo y lo sustenta con datos, que son rasgos propios del texto explicativo científico. -->
-- [ ] B) Cuenta la biografía de un químico que estudió ese fenómeno.
+- [ ] A) Cuenta la biografía de un químico que estudió ese fenómeno.
   <!-- feedback: La biografía de una persona es un relato sobre un individuo y no una explicación del fenómeno. La información queda fuera del propósito explicativo. -->
+- [x] B) Explica qué es la lluvia ácida, describe los gases que la producen y muestra cómo dañan a los seres vivos con datos.
+  <!-- feedback: Es la opción correcta. Define el fenómeno, describe su mecanismo y lo sustenta con datos, que son rasgos propios del texto explicativo científico. -->
 - [ ] C) Relata las aventuras de una familia durante un aguacero en la ciudad.
   <!-- feedback: La narración de una experiencia vivida pertenece al texto narrativo. No hay definición del fenómeno ni explicación de su causa. -->
 - [ ] D) Expone opiniones sobre si la lluvia ácida es un peligro real para la ciudad.
@@ -264,12 +264,12 @@ Distinguir un texto explicativo de un relato o de un texto de opinión exige ver
 Un fragmento dice: "Las mareas son un fenómeno costero. En el presente texto se explicará el papel de la gravedad de la Luna sobre las aguas del mar. La temperatura del aire, por su parte, es un asunto que nada tiene que ver con lo anterior. Por consiguiente, el texto debe cerrar con una descripción de las nubes." ¿Cuál es el problema principal del fragmento?
 
 ### Opciones
-- [x] A) Se rompe la topicalidad: se introducen asuntos ajenos al tema anunciado, lo que impide la comprensión del conjunto.
-  <!-- feedback: Es la opción correcta. La temperatura del aire y las nubes no se conectan con el fenómeno explicado, de modo que el lector pierde la línea temática que el propio texto había planteado. -->
+- [ ] A) El fragmento es demasiado corto para explicar un fenómeno.
+  <!-- feedback: La extensión no determina la validez de un texto. Un fragmento breve puede ser coherente, y uno largo puede ser incoherente si se desvía del tema anunciado. -->
 - [ ] B) El fragmento no utiliza ningún conector entre sus oraciones.
   <!-- feedback: El fragmento sí emplea conectores, entre ellos "por consiguiente" y "por su parte". El defecto está en la relación temática y no en la ausencia de marcas de enlace. -->
-- [ ] C) El fragmento es demasiado corto para explicar un fenómeno.
-  <!-- feedback: La extensión no determina la validez de un texto. Un fragmento breve puede ser coherente, y uno largo puede ser incoherente si se desvía del tema anunciado. -->
+- [x] C) Se rompe la topicalidad: se introducen asuntos ajenos al tema anunciado, lo que impide la comprensión del conjunto.
+  <!-- feedback: Es la opción correcta. La temperatura del aire y las nubes no se conectan con el fenómeno explicado, de modo que el lector pierde la línea temática que el propio texto había planteado. -->
 - [ ] D) El fragmento repite tres veces la idea principal, lo que lo vuelve redundante.
   <!-- feedback: La idea principal sobre las mareas se enuncia una sola vez. No hay repetición, sino desvío hacia asuntos que no corresponden al texto. -->
 
@@ -287,12 +287,12 @@ Analizar un texto exige evaluar su coherencia, es decir, la relación lógica en
 ¿Qué diferencia estructural permite distinguir con claridad un texto explicativo científico de un texto de opinión sobre el mismo tema?
 
 ### Opciones
-- [x] A) El explicativo presenta un fenómeno y explica sus causas y sus procesos con información comprobable, mientras que el de opinión defiende una postura con argumentos.
-  <!-- feedback: Es la opción correcta. La diferencia está en el propósito y en la organización: informar y explicar frente a convencer, con la estructura interna propia de cada tipo textual. -->
+- [ ] A) El explicativo nunca menciona datos, mientras que el de opinión siempre los incluye.
+  <!-- feedback: Es al revés: el texto explicativo científico se apoya con frecuencia en datos y evidencia, y el texto de opinión puede utilizarlos o no, según su argumento. -->
 - [ ] B) El explicativo usa únicamente narraciones, mientras que el de opinión usa únicamente descripciones.
   <!-- feedback: Ninguno de los dos tipos depende de la narración. El texto explicativo no narra y el texto de opinión no se limita a describir, de modo que la alternativa es falsa. -->
-- [ ] C) El explicativo nunca menciona datos, mientras que el de opinión siempre los incluye.
-  <!-- feedback: Es al revés: el texto explicativo científico se apoya con frecuencia en datos y evidencia, y el texto de opinión puede utilizarlos o no, según su argumento. -->
+- [x] C) El explicativo presenta un fenómeno y explica sus causas y sus procesos con información comprobable, mientras que el de opinión defiende una postura con argumentos.
+  <!-- feedback: Es la opción correcta. La diferencia está en el propósito y en la organización: informar y explicar frente a convencer, con la estructura interna propia de cada tipo textual. -->
 - [ ] D) No existe diferencia: los dos textos tienen la misma estructura y tratan el mismo asunto.
   <!-- feedback: Que el tema sea el mismo no iguala los tipos textuales. El propósito informativo y el propósito persuasivo exigen organizaciones y recursos distintos. -->
 
@@ -310,12 +310,12 @@ Comparar tipos textuales que tratan un mismo asunto permite entender que lo que 
 ¿Qué conclusión sobre la prevención se puede derivar con mejor fundamento del conjunto del texto?
 
 ### Opciones
-- [x] A) Eliminar los recipientes con agua acumulada reduce la posibilidad de que se reproduzca el mosquito transmisor.
-  <!-- feedback: Es la opción correcta. La conclusión se apoya en la relación que el texto establece entre el agua acumulada, la reproducción del mosquito y la transmisión de la enfermedad. -->
+- [ ] A) El mosquito se alimenta exclusivamente de sangre humana.
+  <!-- feedback: El texto no aborda la alimentación del mosquito. Esta afirmación va más allá de la información disponible y no puede derivarse del contenido expuesto. -->
 - [ ] B) La enfermedad se transmite de una persona a otra únicamente por el aire.
   <!-- feedback: El texto señala una transmisión por mosquito. Atribuirle una transmisión aérea contradice la información que el propio texto ofrece sobre el modo de transmisión. -->
-- [ ] C) El mosquito se alimenta exclusivamente de sangre humana.
-  <!-- feedback: El texto no aborda la alimentación del mosquito. Esta afirmación va más allá de la información disponible y no puede derivarse del contenido expuesto. -->
+- [x] C) Eliminar los recipientes con agua acumulada reduce la posibilidad de que se reproduzca el mosquito transmisor.
+  <!-- feedback: Es la opción correcta. La conclusión se apoya en la relación que el texto establece entre el agua acumulada, la reproducción del mosquito y la transmisión de la enfermedad. -->
 - [ ] D) Aplicarse protector solar durante el día elimina por completo el riesgo de infección.
   <!-- feedback: Ninguna de las afirmaciones del texto menciona el protector solar ni garantiza la eliminación del riesgo, de modo que la conclusión no tiene fundamento en lo leído. -->
 
@@ -333,12 +333,12 @@ La inferencia válida es la que se apoya en la relación lógica entre las ideas
 ¿Cuál es la observación más pertinente que puede hacer un lector crítico frente a ese texto?
 
 ### Opciones
-- [x] A) No se puede verificar quién lo escribió ni cuándo, de modo que la información no ofrece garantías de confiabilidad.
-  <!-- feedback: Es la opción correcta. La ausencia de autor y de fecha impide rastrear el origen de los datos y evaluar su vigencia, un requisito básico de la lectura crítica. -->
+- [ ] A) El texto está publicado en internet, por lo que toda su información es verdadera.
+  <!-- feedback: Publicarse en la red no garantiza la veracidad. La lectura crítica exige identificar fuentes, fechas y evidencias con independencia del medio de difusión. -->
 - [ ] B) El título es muy claro, por lo que el contenido necesariamente es falso.
   <!-- feedback: Un título claro no determina la falsedad del contenido. La crítica debe apoyarse en evidencias verificables y no en la apariencia del texto. -->
-- [ ] C) El texto está publicado en internet, por lo que toda su información es verdadera.
-  <!-- feedback: Publicarse en la red no garantiza la veracidad. La lectura crítica exige identificar fuentes, fechas y evidencias con independencia del medio de difusión. -->
+- [x] C) No se puede verificar quién lo escribió ni cuándo, de modo que la información no ofrece garantías de confiabilidad.
+  <!-- feedback: Es la opción correcta. La ausencia de autor y de fecha impide rastrear el origen de los datos y evaluar su vigencia, un requisito básico de la lectura crítica. -->
 - [ ] D) Como el tema es el clima, el texto no necesita datos ni fuentes para ser válido.
   <!-- feedback: Un texto científico sobre el clima requiere sustentación en datos y fuentes precisamente porque trata de un conocimiento que puede comprobarse. -->
 
@@ -356,12 +356,12 @@ La lectura crítica incorpora elementos de contexto externo que afectan la evalu
 En un texto cuyo título es "Cómo se bombea el agua en los acueductos" y cuyo desarrollo explica la presión y el funcionamiento de las bombas que empujan el agua, ¿qué relación se establece entre el título y el desarrollo?
 
 ### Opciones
-- [x] A) El título anuncia el asunto que el texto explica y el desarrollo desarrolla ese mismo asunto.
-  <!-- feedback: Es la opción correcta. Título y desarrollo son coherentes porque el texto cumple lo que su título promete, relación que se conoce como adecuación entre el título y el contenido. -->
+- [ ] A) El desarrollo contradice directamente lo afirmado en el título.
+  <!-- feedback: El título y el desarrollo tratan del mismo fenómeno y no se oponen. Una contradicción solo existiría si el contenido explicara otro asunto. -->
 - [ ] B) El título anuncia un asunto que el desarrollo no explica en ningún momento.
   <!-- feedback: La descripción que se ofrece en el enunciado corresponde al título. No hay distancia entre lo anunciado y lo desarrollado en el texto. -->
-- [ ] C) El desarrollo contradice directamente lo afirmado en el título.
-  <!-- feedback: El título y el desarrollo tratan del mismo fenómeno y no se oponen. Una contradicción solo existiría si el contenido explicara otro asunto. -->
+- [x] C) El título anuncia el asunto que el texto explica y el desarrollo desarrolla ese mismo asunto.
+  <!-- feedback: Es la opción correcta. Título y desarrollo son coherentes porque el texto cumple lo que su título promete, relación que se conoce como adecuación entre el título y el contenido. -->
 - [ ] D) El título indica únicamente la cantidad de páginas que tiene el texto.
   <!-- feedback: Los títulos anuncian contenidos y no medidas de tamaño. En este caso el título comunica de qué trata el texto y orienta la lectura desde el comienzo. -->
 
@@ -379,14 +379,14 @@ Analizar un texto implica verificar la relación entre sus distintos niveles: t�
 Frente a un texto con vocabulario técnico desconocido, ¿cuál es la estrategia más adecuada para no perder el sentido?
 
 ### Opciones
-- [x] A) Subrayar el término, identificar a qué idea del párrafo se refiere y conectarlo con el tema general del texto.
-  <!-- feedback: Es la opción correcta. El procedimiento combina marcas de lectura, búsqueda del contexto de uso y relación con el tema, tres decisiones que permiten recuperar el significado técnico. -->
+- [ ] A) Dejar el texto y empezar otro sin volver a él.
+  <!-- feedback: Abandonar la lectura ante una dificultad puntual evita el esfuerzo que permite comprender textos técnicos, que es justamente lo que evalúa la prueba. -->
 - [ ] B) Omitir todos los términos técnicos y leer solamente las conclusiones.
   <!-- feedback: Omitir los términos elimina justamente la información que explica el fenómeno. La conclusión sola no permite reconstruir el significado de una palabra no comprendida. -->
 - [ ] C) Copiar el texto completo y buscar el significado de los términos mucho después.
   <!-- feedback: Retrasar la búsqueda del significado rompe la comprensión mientras se lee. El término debe interpretarse en el momento en que aparece en el texto. -->
-- [ ] D) Dejar el texto y empezar otro sin volver a él.
-  <!-- feedback: Abandonar la lectura ante una dificultad puntual evita el esfuerzo que permite comprender textos técnicos, que es justamente lo que evalúa la prueba. -->
+- [x] D) Subrayar el término, identificar a qué idea del párrafo se refiere y conectarlo con el tema general del texto.
+  <!-- feedback: Es la opción correcta. El procedimiento combina marcas de lectura, búsqueda del contexto de uso y relación con el tema, tres decisiones que permiten recuperar el significado técnico. -->
 
 ### Explicacion Pedagogica
 Los textos científicos requieren un tratamiento activo del vocabulario especializado. La estrategia eficaz combina la marca del término, la búsqueda de pistas en el contexto de la oración y la vinculación con el tema central, de modo que la palabra técnica se incorpore a la red de significado del texto.
@@ -402,14 +402,14 @@ Los textos científicos requieren un tratamiento activo del vocabulario especial
 ¿Cuál es el juicio más sólido sobre la calidad de estas dos afirmaciones y por qué?
 
 ### Opciones
-- [x] A) La primera es mejor sustentada porque atribuye el dato a una fuente identificable que puede consultarse, mientras que la segunda recurre a una generalización que no puede verificarse.
-  <!-- feedback: Es la opción correcta. La calidad de un texto científico se evalúa por la trazabilidad de sus fuentes y por la ausencia de afirmaciones absolutistas sin respaldo. -->
+- [ ] A) La primera es mejor sustentada justamente porque no indica la fuente, de modo que su postura es neutral.
+  <!-- feedback: La ausencia de fuente debilita el sustento y no lo fortalece. Un texto con datos pero sin fuente identificable impide cualquier verificación por parte del lector. -->
 - [ ] B) La segunda es mejor sustentada porque incluye a toda la comunidad científica en su afirmación.
   <!-- feedback: Incluir a "todos los científicos" sin evidencia de una consulta sistemática es precisamente una generalización no verificable y no un argumento sólido. -->
 - [ ] C) Las dos afirmaciones son igualmente válidas porque las dos nombran el mismo problema ambiental.
   <!-- feedback: Nombrar el mismo asunto no iguala la calidad del sustento. Una afirmación verificable y otra generalista no pueden evaluarse como equivalentes. -->
-- [ ] D) La primera es mejor sustentada justamente porque no indica la fuente, de modo que su postura es neutral.
-  <!-- feedback: La ausencia de fuente debilita el sustento y no lo fortalece. Un texto con datos pero sin fuente identificable impide cualquier verificación por parte del lector. -->
+- [x] D) La primera es mejor sustentada porque atribuye el dato a una fuente identificable que puede consultarse, mientras que la segunda recurre a una generalización que no puede verificarse.
+  <!-- feedback: Es la opción correcta. La calidad de un texto científico se evalúa por la trazabilidad de sus fuentes y por la ausencia de afirmaciones absolutistas sin respaldo. -->
 
 ### Explicacion Pedagogica
 Evaluar la calidad de un texto científico implica valorar la verificabilidad de sus afirmaciones: la presencia de fuentes identificables, el uso de datos con referencia y la ausencia de generalizaciones absolutas. Estos criterios permiten distinguir un texto confiable de otro que solo parece autorizada por su tono rotundo.
@@ -425,14 +425,14 @@ Evaluar la calidad de un texto científico implica valorar la verificabilidad de
 Un texto dice: "Las abejas son insectos. Su cuerpo se divide en cabeza, tórax y abdomen. Las alas nacen del tórax." El estudiante afirma: "este texto está bien escrito porque usa palabras difíciles y tiene muchos párrafos". ¿Cuál es el juicio más preciso sobre lo que dice el estudiante?
 
 ### Opciones
-- [x] A) El texto sí cumple el propósito explicativo, pero el vocabulario complicado y el número de párrafos no son criterios válidos para medir su calidad.
-  <!-- feedback: Es la opción correcta. El análisis separa dos aspectos: la pertinencia del contenido, que se cumple, y el criterio de calidad empleado, que resulta inadecuado para un texto científico. -->
+- [ ] A) El texto debería reescribirse como narrativo para que su propósito quede más claro.
+  <!-- feedback: El texto cumple correctamente su función explicativa. Convertirlo en narrativo desviaría su propósito en lugar de mejorar la claridad de la información. -->
 - [ ] B) El texto no cumple el propósito explicativo porque presenta la información mediante una lista de partes.
   <!-- feedback: Enumerar las partes de un cuerpo es una forma legítima de explicar su estructura. El uso de listas no invalida el propósito explicativo del texto. -->
 - [ ] C) El texto es explicativo porque menciona el nombre de un insecto, sin importar lo demás.
   <!-- feedback: Nombrar un ser vivo no determina el tipo textual. Lo que define al texto es explicar cómo es y cómo funciona, y eso es lo que ocurre en este caso. -->
-- [ ] D) El texto debería reescribirse como narrativo para que su propósito quede más claro.
-  <!-- feedback: El texto cumple correctamente su función explicativa. Convertirlo en narrativo desviaría su propósito en lugar de mejorar la claridad de la información. -->
+- [x] D) El texto sí cumple el propósito explicativo, pero el vocabulario complicado y el número de párrafos no son criterios válidos para medir su calidad.
+  <!-- feedback: Es la opción correcta. El análisis separa dos aspectos: la pertinencia del contenido, que se cumple, y el criterio de calidad empleado, que resulta inadecuado para un texto científico. -->
 
 ### Explicacion Pedagogica
 Evaluar implica aplicar criterios pertinentes a cada tipo textual. Para el texto explicativo científico, los criterios centrales son la claridad del propósito, la organización lógica, la presencia de información verificable y el manejo adecuado del vocabulario técnico; la cantidad de palabras difíciles o de párrafos no es un criterio válido.
@@ -448,14 +448,14 @@ Evaluar implica aplicar criterios pertinentes a cada tipo textual. Para el texto
 ¿Cuál de estos textos cumple mejor las características de un texto explicativo científico aplicado a un contenido local?
 
 ### Opciones
-- [x] A) Describe qué son los manglares, explica cómo sus raíces filtran la sal y sostiene la afirmación con un dato de un estudio sobre el río Magdalena.
-  <!-- feedback: Es la opción correcta. Reúne definición, explicación del mecanismo y sustento en un dato, y además aborda un fenómeno propio de la región, lo que cumple con el propósito explicativo. -->
+- [ ] A) Defiende con opiniones que los bosques de la región no son importantes.
+  <!-- feedback: Un conjunto de opiniones que defiende una postura corresponde al texto argumentativo. No hay descripción ni explicación del fenómeno objeto de la exposición. -->
 - [ ] B) Narra la biografía de un pescador que creció junto al río.
   <!-- feedback: La biografía de una persona es un texto narrativo. Aunque el tema sea local, no se explica el funcionamiento del fenómeno que se quiere describir. -->
 - [ ] C) Enumera nombres de lugares y de comercios del centro histórico sin ningún tipo de explicación.
   <!-- feedback: Una enumeración sin explicación es un listado informativo y no un texto explicativo. La información no se organiza para explicar cómo funciona un fenómeno. -->
-- [ ] D) Defiende con opiniones que los bosques de la región no son importantes.
-  <!-- feedback: Un conjunto de opiniones que defiende una postura corresponde al texto argumentativo. No hay descripción ni explicación del fenómeno objeto de la exposición. -->
+- [x] D) Describe qué son los manglares, explica cómo sus raíces filtran la sal y sostiene la afirmación con un dato de un estudio sobre el río Magdalena.
+  <!-- feedback: Es la opción correcta. Reúne definición, explicación del mecanismo y sustento en un dato, y además aborda un fenómeno propio de la región, lo que cumple con el propósito explicativo. -->
 
 ### Explicacion Pedagogica
 Un texto explicativo científico sobre un contenido local debe reunir dos condiciones: tratar el fenómeno de la región y explicarlo con información comprobable. La combinación de descripción, explicación del mecanismo y sustento en datos garantiza que el texto cumpla su propósito y resulte útil para la comunidad a la que se dirige.
@@ -471,14 +471,14 @@ Un texto explicativo científico sobre un contenido local debe reunir dos condic
 ¿Cuál de las siguientes estrategias es la más adecuada para resumir correctamente ese texto?
 
 ### Opciones
-- [x] A) Identificar la idea principal, detectar los subtemas, seleccionar la información central y descartar los detalles de apoyo, comprobando que el resumen conserve el sentido original.
-  <!-- feedback: Es la opción correcta. El resumen exige selección y jerarquización de la información, junto con una verificación final que asegure que el texto abreviado no altera el sentido. -->
+- [ ] A) Escribir la opinión personal del grupo sobre el tema sin consultar el texto.
+  <!-- feedback: Escribir la opinión del grupo corresponde a un texto argumentativo. El resumen debe reflejar fielmente el contenido del texto original y no agregar posturas propias. -->
 - [ ] B) Copiar textualmente las primeras seis páginas sin modificar ningún dato.
   <!-- feedback: Copiar sin seleccionar no es resumir. Un resumen reduce el volumen de información conservando lo esencial y no reproduce un fragmento extenso del original. -->
 - [ ] C) Resumir únicamente el último párrafo del texto.
   <!-- feedback: El último párrafo es solo una parte del texto. Tomar un único fragmento elimina el resto del contenido y produce un resumen incompleto y desequilibrado. -->
-- [ ] D) Escribir la opinión personal del grupo sobre el tema sin consultar el texto.
-  <!-- feedback: Escribir la opinión del grupo corresponde a un texto argumentativo. El resumen debe reflejar fielmente el contenido del texto original y no agregar posturas propias. -->
+- [x] D) Identificar la idea principal, detectar los subtemas, seleccionar la información central y descartar los detalles de apoyo, comprobando que el resumen conserve el sentido original.
+  <!-- feedback: Es la opción correcta. El resumen exige selección y jerarquización de la información, junto con una verificación final que asegure que el texto abreviado no altera el sentido. -->
 
 ### Explicacion Pedagogica
 Resumir un texto exige una lectura jerárquica: identificar la idea principal, localizar los subtemas y distinguir la información central de los detalles de apoyo. La última comprobación, verificar que el resumen conserva el sentido del original, garantiza que la síntesis sea fiel y útil para quien la utiliza.

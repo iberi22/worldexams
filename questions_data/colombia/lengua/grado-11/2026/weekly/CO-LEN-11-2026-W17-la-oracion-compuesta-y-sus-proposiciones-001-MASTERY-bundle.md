@@ -149,10 +149,10 @@ Aplicar la prueba de supresión es el procedimiento más seguro para localizar l
 En el período "Cuando se abrió el canal, el comercio de la región cambió radicalmente", ¿qué procedimiento permite identificar con mayor precisión los límites de cada proposición?
 
 ### Opciones
-- [x] A) Localizar el nexo "Cuando" y el verbo "se abrió", porque el nexo inicia la proposición subordinada y el verbo fija el núcleo del predicado de cada una.
-  <!-- feedback: Es correcta porque ofrece un criterio gramatical preciso y verificable, que además puede aplicarse a cualquier período. -->
-- [ ] B) Contar las palabras de cada segmento, porque la proposición más larga siempre es la principal.
+- [ ] A) Contar las palabras de cada segmento, porque la proposición más larga siempre es la principal.
   <!-- feedback: Se apoya en un criterio superficial. La longitud de un enunciado no determina si es principal o subordinada. -->
+- [x] B) Localizar el nexo "Cuando" y el verbo "se abrió", porque el nexo inicia la proposición subordinada y el verbo fija el núcleo del predicado de cada una.
+  <!-- feedback: Es correcta porque ofrece un criterio gramatical preciso y verificable, que además puede aplicarse a cualquier período. -->
 - [ ] C) Buscar las mayúsculas, porque cada proposición comienza con letra mayúscula.
   <!-- feedback: Confunde la puntuación de la prosa con la estructura del período. La mayúscula se usa solo al inicio de la oración, no entre proposiciones internas. -->
 - [ ] D) Dividir por las comas, porque cada coma delimita exactamente una proposición.
@@ -172,10 +172,10 @@ Para segmentar un período en proposiciones conviene combinar dos pruebas: la de
 Las oraciones "Los estudiantes de undécimo grado detectaron una fuga en un baño de la sede" y "Por eso revisaron el consumo de agua del edificio" deben convertirse en un período por subordinación. ¿Cuál reformulación lo logra correctamente?
 
 ### Opciones
-- [x] A) "Los estudiantes de undécimo grado detectaron una fuga en un baño de la sede, y por eso revisaron el consumo de agua del edificio", donde la segunda proposición explica la causa de la primera.
-  <!-- feedback: Es correcta porque mantiene las dos proposiciones, las une con un nexo causal explícito y respeta la relación lógica que existe entre los hechos. -->
-- [ ] B) "Los estudiantes de undécimo grado detectaron una fuga y revisaron el consumo de agua del edificio", porque la conjunción "y" basta para formar un período compuesto.
+- [ ] A) "Los estudiantes de undécimo grado detectaron una fuga y revisaron el consumo de agua del edificio", porque la conjunción "y" basta para formar un período compuesto.
   <!-- feedback: Es una coordinación correcta en su forma, pero no establece la relación causal que se pedía, de modo que no responde al requisito de la consigna. -->
+- [x] B) "Los estudiantes de undécimo grado detectaron una fuga en un baño de la sede, y por eso revisaron el consumo de agua del edificio", donde la segunda proposición explica la causa de la primera.
+  <!-- feedback: Es correcta porque mantiene las dos proposiciones, las une con un nexo causal explícito y respeta la relación lógica que existe entre los hechos. -->
 - [ ] C) "Los estudiantes que detectaron una fuga en un baño de la sede revisaron el consumo de agua", porque el nexo relativo crea la subordinación solicitada.
   <!-- feedback: Sí hay subordinación, pero se invierte la relación: en el original la revisión explica la detección, no al contrario, de modo que se altera el contenido. -->
 - [ ] D) "Los estudiantes de undécimo grado, detectaron una fuga en un baño de la sede, revisaron el consumo de agua del edificio", porque la coma basta para unir dos proposiciones.
@@ -195,10 +195,10 @@ Convertir oraciones simples en un período compuesto exige dos decisiones: descu
 En el texto escrito "El taller de lectura empezó a las siete; cuando llegaron los estudiantes la luz se apagó y todos salieron al patio", ¿qué corrección de puntuación es la adecuada?
 
 ### Opciones
-- [x] A) Reemplazar el punto y media por una coma, porque la proposición introducida por "cuando" es subordinada y forma parte de la primera proposición.
-  <!-- feedback: Es correcta porque el punto y media separa normalmente dos proposiciones y aquí hay una sola proposición con una subordinada adverbial. -->
-- [ ] B) Mantener el punto y media, porque la segunda parte del período es independiente.
+- [ ] A) Mantener el punto y media, porque la segunda parte del período es independiente.
   <!-- feedback: Confunde la conjunción coordinante con la independencia. La conjunción solo une y no convierte en principal lo que es subordinado. -->
+- [x] B) Reemplazar el punto y media por una coma, porque la proposición introducida por "cuando" es subordinada y forma parte de la primera proposición.
+  <!-- feedback: Es correcta porque el punto y media separa normalmente dos proposiciones y aquí hay una sola proposición con una subordinada adverbial. -->
 - [ ] C) Agregar un punto después de "siete", porque toda proposición subordinada temporal exige punto.
   <!-- feedback: Inserta un punto que separa dos proposiciones que forman una sola unidad gramatical, la cual solo admite punto y media. -->
 - [ ] D) Agregar un punto después de "patio", porque un período nunca puede terminar con una proposición subordinada.
@@ -218,10 +218,10 @@ La puntuación interna del período depende de la relación entre sus proposicio
 Al transformar el período "Como el transporte estaba detenido, el equipo llegó a la prueba por otra vía" en "El transporte estaba detenido; el equipo llegó a la prueba por otra vía", ¿qué cambio estructural se produce?
 
 ### Opciones
-- [x] A) El período pasa de compuesto por subordinación a compuesto por coordinación, porque las dos proposiciones dejan de depender una de otra.
-  <!-- feedback: Es correcta porque al eliminar el nexo causal y separar con punto y media se elimina la subordinación y aparece la coordinación. -->
-- [ ] B) El período pasa de una proposición a dos porque la coma sustituye al nexo.
+- [ ] A) El período pasa de una proposición a dos porque la coma sustituye al nexo.
   <!-- feedback: Confunde la cantidad de proposiciones con su relación. Antes de la transformación ya había dos proposiciones. -->
+- [x] B) El período pasa de compuesto por subordinación a compuesto por coordinación, porque las dos proposiciones dejan de depender una de otra.
+  <!-- feedback: Es correcta porque al eliminar el nexo causal y separar con punto y media se elimina la subordinación y aparece la coordinación. -->
 - [ ] C) El período conserva la subordinación porque la causa sigue inferida por el orden de las proposiciones.
   <!-- feedback: El orden no crea relación gramatical. Sin nexo causal no hay subordinada, y la causa queda como una inferencia del lector. -->
 - [ ] D) El período pasa de compuesto a simple porque la primera proposición queda sin sujeto.
@@ -241,10 +241,10 @@ Un período se clasifica según la relación que establece entre sus proposicion
 Si se cambia el nexo "aunque" por el nexo "porque", ¿qué cambio de sentido se produce en el período?
 
 ### Opciones
-- [x] A) La relación pasa de concessiva a causal, y se afirma que la lluvia fue la causa de la salida en lugar de un obstáculo superado.
-  <!-- feedback: Es correcta porque "aunque" introduce una proposición subordinada concessiva y "porque" introduce una causal, con un valor lógico opuesto. -->
-- [ ] B) La relación se mantiene porque ambos nexos conectan dos proposiciones principales.
+- [ ] A) La relación se mantiene porque ambos nexos conectan dos proposiciones principales.
   <!-- feedback: Ninguno de los dos nexos enlaza proposiciones principales; ambos introducen una proposición subordinada adverbial. -->
+- [x] B) La relación pasa de concessiva a causal, y se afirma que la lluvia fue la causa de la salida en lugar de un obstáculo superado.
+  <!-- feedback: Es correcta porque "aunque" introduce una proposición subordinada concessiva y "porque" introduce una causal, con un valor lógico opuesto. -->
 - [ ] C) La relación pasa de temporal a condicional, porque "porque" expresa una condición.
   <!-- feedback: "Porque" no es condicional. La condición se introduce con "si" o con locuciones como "en caso de que". -->
 - [ ] D) No hay cambio de sentido porque la información de las dos proposiciones es la misma.
@@ -264,12 +264,12 @@ Los nexos adverbiales no conectan únicamente palabras: establecen una lógica e
 En el período "La coordinadora y los dos profesores revisaron el informe final", ¿qué hecho gramatical explica la forma plural del verbo?
 
 ### Opciones
-- [x] A) Que el sujeto es compuesto y está formado por tres elementos, de modo que el verbo concuerda en plural con el conjunto.
-  <!-- feedback: Es correcta porque aplica la regla de concordancia de sujeto compuesto y la conecta con el análisis de la proposición principal. -->
+- [ ] A) Que el verbo está en segunda persona del plural, porque el texto se dirige a varios estudiantes.
+  <!-- feedback: El período está en tercera persona. La terminación del verbo indica un pretérito plural de tercera persona. -->
 - [ ] B) Que la proposición es subordinada, por lo que el verbo debe concordar con el último sustantivo citado.
   <!-- feedback: Atribuye la concordancia a la subordinación. La concordancia depende del sujeto y no del carácter del período. -->
-- [ ] C) Que el verbo está en segunda persona del plural, porque el texto se dirige a varios estudiantes.
-  <!-- feedback: El período está en tercera persona. La terminación del verbo indica un pretérito plural de tercera persona. -->
+- [x] C) Que el sujeto es compuesto y está formado por tres elementos, de modo que el verbo concuerda en plural con el conjunto.
+  <!-- feedback: Es correcta porque aplica la regla de concordancia de sujeto compuesto y la conecta con el análisis de la proposición principal. -->
 - [ ] D) Que el sujeto es elíptico y por eso se usa el plural para compensar la omisión de varios sujetos.
   <!-- feedback: El sujeto está escrito y es explícito. La elipsis es la omisión de un término y no es la causa de la concordancia. -->
 
@@ -287,12 +287,12 @@ En un período con proposición principal y proposiciones subordinadas, la conco
 En el período "El café que se exporta desde el Eje Cafetero llega a los puertos de Europa y Asia", ¿qué proposición es la subordinada y qué función cumple?
 
 ### Opciones
-- [x] A) "Que se exporta desde el Eje Cafetero", que es una proposición adjetiva y modifica, determinando, el sustantivo "café".
-  <!-- feedback: Es correcta porque identifica el nexo relativo, el antecedente y la función modificadora de la proposición adjetiva. -->
+- [ ] A) "Llega a los puertos de Europa y Asia", que es una proposición adjetiva porque se une con la conjunción "y".
+  <!-- feedback: Esa parte es el predicado de la proposición principal, y la conjunción coordinante introduce un adjunto adverbial y no una adjetiva. -->
 - [ ] B) "El café", que es una proposición adjetiva porque ocupa el lugar del sujeto.
   <!-- feedback: "El café" es un sintagma nominal y no una proposición, y ocupa la función de sujeto de la proposición principal. -->
-- [ ] C) "Llega a los puertos de Europa y Asia", que es una proposición adjetiva porque se une con la conjunción "y".
-  <!-- feedback: Esa parte es el predicado de la proposición principal, y la conjunción coordinante introduce un adjunto adverbial y no una adjetiva. -->
+- [x] C) "Que se exporta desde el Eje Cafetero", que es una proposición adjetiva y modifica, determinando, el sustantivo "café".
+  <!-- feedback: Es correcta porque identifica el nexo relativo, el antecedente y la función modificadora de la proposición adjetiva. -->
 - [ ] D) "Desde el Eje Cafetero", que es una proposición adjetiva porque comienza con una preposición.
   <!-- feedback: Es un sintagma preposicional que funciona como argumento del verbo "exporta" dentro de la proposición adjetiva. -->
 
@@ -310,12 +310,12 @@ La proposición adjetiva, también llamada de relativo, se reconoce por tres ras
 Un periódico local titula su nota central así: "El bus eléctrico llegó al barrio y los vecinos salieron a recibirlo". ¿Por qué ese título es un período compuesto por coordinación y no por subordinación?
 
 ### Opciones
-- [x] A) Porque hay dos proposiciones principales equivalentes unidas con la conjunción coordinante "y", y no hay ningún nexo subordinante.
-  <!-- feedback: Es correcta porque la conjunción coordinante y la ausencia de nexo subordinante son las dos pruebas que definen la coordinación. -->
+- [ ] A) Porque la conjunción "y" puede introducir tanto coordinación como subordinación, según el sentido.
+  <!-- feedback: Es una afirmación falsa. La conjunción "y" solo coordina, y los nexos subordinantes son otros, como "porque" o "aunque". -->
 - [ ] B) Porque la primera proposición es el sujeto y la segunda es el predicado del mismo período.
   <!-- feedback: Confunde proposición con término. Un período de coordinación contiene dos proposiciones y no un sujeto con un predicado. -->
-- [ ] C) Porque la conjunción "y" puede introducir tanto coordinación como subordinación, según el sentido.
-  <!-- feedback: Es una afirmación falsa. La conjunción "y" solo coordina, y los nexos subordinantes son otros, como "porque" o "aunque". -->
+- [x] C) Porque hay dos proposiciones principales equivalentes unidas con la conjunción coordinante "y", y no hay ningún nexo subordinante.
+  <!-- feedback: Es correcta porque la conjunción coordinante y la ausencia de nexo subordinante son las dos pruebas que definen la coordinación. -->
 - [ ] D) Porque toda oración con dos verbos es un período compuesto por subordinación.
   <!-- feedback: El número de verbos es irrelevante. Un período simple puede tener varios verbos sin que exista subordinación. -->
 
@@ -333,12 +333,12 @@ La subordinación y la coordinación se distinguen por la estructura que constru
 En el período "El plan de estudios de undécimo grado, que fue ajustado por el Ministerio de Educación, incorpora la lectura de textos argumentativos", ¿qué proposición aporta el dato nuevo y qué papel desempeña?
 
 ### Opciones
-- [x] A) "Que fue ajustado por el Ministerio de Educación", que es una proposición adjetiva explicativa y funciona como complemento del nombre "plan de estudios".
-  <!-- feedback: Es correcta porque identifica la función nominal de la adjetiva y su carácter explicativo frente a las adjetivas determinativas. -->
+- [ ] A) "Incorpora la lectura de textos argumentativos", porque es el predicado y contiene la acción principal.
+  <!-- feedback: El predicado es núcleo de la principal, pero no aporta el dato nuevo, porque describe un contenido que se supone ya conocido. -->
 - [ ] B) "El plan de estudios de undécimo grado", porque es el sujeto y por eso siempre contiene el dato nuevo.
   <!-- feedback: El sujeto es el punto de partida conocido; el dato nuevo es el que aporta la proposición adjetiva explicativa. -->
-- [ ] C) "Incorpora la lectura de textos argumentativos", porque es el predicado y contiene la acción principal.
-  <!-- feedback: El predicado es núcleo de la principal, pero no aporta el dato nuevo, porque describe un contenido que se supone ya conocido. -->
+- [x] C) "Que fue ajustado por el Ministerio de Educación", que es una proposición adjetiva explicativa y funciona como complemento del nombre "plan de estudios".
+  <!-- feedback: Es correcta porque identifica la función nominal de la adjetiva y su carácter explicativo frente a las adjetivas determinativas. -->
 - [ ] D) "La lectura de textos argumentativos", porque es el objeto directo y ocupa el lugar central de la oración.
   <!-- feedback: La posición no convierte un sintagma en proposición. El objeto directo es un sintagma y no una proposición completa. -->
 
@@ -356,12 +356,12 @@ La proposición adjetiva puede ser determinativa o explicativa, y la diferencia 
 Un párrafo bien puntuado sobre el cierre de un período debe presentar qué característica?
 
 ### Opciones
-- [x] A) Punto y media cuando las dos proposiciones son principales y ninguna de las dos completa la información de la otra.
-  <!-- feedback: Es correcta porque el punto y media separa dos proposiciones equivalentes de una oración compuesta por coordinación. -->
+- [ ] A) Coma entre dos proposiciones principales que no guardan ninguna relación lógica, porque la coma las separa sin perder el sentido.
+  <!-- feedback: Dos principales sin relación no forman un período compuesto. Si no hay nexo ni subordinación hay dos oraciones y se requiere punto. -->
 - [ ] B) Punto y coma cuando la primera proposición es subordinada y la segunda es principal.
   <!-- feedback: Se invierte la relación. La proposición subordinada y la principal se unen con coma y no con punto y media. -->
-- [ ] C) Coma entre dos proposiciones principales que no guardan ninguna relación lógica, porque la coma las separa sin perder el sentido.
-  <!-- feedback: Dos principales sin relación no forman un período compuesto. Si no hay nexo ni subordinación hay dos oraciones y se requiere punto. -->
+- [x] C) Punto y media cuando las dos proposiciones son principales y ninguna de las dos completa la información de la otra.
+  <!-- feedback: Es correcta porque el punto y media separa dos proposiciones equivalentes de una oración compuesta por coordinación. -->
 - [ ] D) Dos puntos antes de la segunda proposición, porque los dos puntos anuncian siempre una proposición principal.
   <!-- feedback: Los dos puntos se reservan para citas, enumeraciones o explicaciones, y no para separar proposiciones. -->
 
@@ -379,14 +379,14 @@ La puntuación externa e interna del período responde a la relación entre sus 
 ¿Qué análisis es el más completo de este párrafo?
 
 ### Opciones
-- [x] A) La proposición principal es "Se secaron las aceras" con sujeto elíptico, y "Los vecinos salieron a recoger la basura" es otra proposición principal coordinada con ella.
-  <!-- feedback: Es correcta porque distingue las dos proposiciones principales, identifica la elipsis del sujeto y respeta la coordinación. -->
+- [ ] A) El párrafo es un período simple con una enumeración de dos verbos, porque la coma solo separa sintagmas.
+  <!-- feedback: Hay dos proposiciones completas unidas por la conjunción, de modo que el período es compuesto y no una enumeración de verbos. -->
 - [ ] B) "Los vecinos salieron a recoger la basura" es la principal porque aparece al final y tiene sujeto explícito.
   <!-- feedback: La posición final y la explicitación del sujeto no determinan el papel principal dentro de un período coordinado. -->
 - [ ] C) "Después de la lluvia" es la principal porque introduce el período con un nexo temporal.
   <!-- feedback: "Después de la lluvia" es un sintagma preposicional y no una proposición, y funciona como adjunto adverbial temporal. -->
-- [ ] D) El párrafo es un período simple con una enumeración de dos verbos, porque la coma solo separa sintagmas.
-  <!-- feedback: Hay dos proposiciones completas unidas por la conjunción, de modo que el período es compuesto y no una enumeración de verbos. -->
+- [x] D) La proposición principal es "Se secaron las aceras" con sujeto elíptico, y "Los vecinos salieron a recoger la basura" es otra proposición principal coordinada con ella.
+  <!-- feedback: Es correcta porque distingue las dos proposiciones principales, identifica la elipsis del sujeto y respeta la coordinación. -->
 
 ### Explicacion Pedagogica
 El párrafo reúne dos fenómenos que conviene distinguir con precisión. El primero es la coordinación: "Se secaron las aceras" y "Los vecinos salieron a recoger la basura" son dos proposiciones principales, equivalentes entre sí, unidas por la conjunción "y". El segundo es la elipsis del sujeto: en la primera proposición el sujeto no está escrito, porque se entiende que es la lluvia, y esa omisión es posible porque el referente se recupera con facilidad del contexto. La circunstancia temporal está expresada por el sintagma preposicional "Después de la lluvia", que no es una proposición porque no contiene un verbo propio, sino un nombre. Analizar un período exige separar estos tres planos, porque cada uno corresponde a una categoría diferente de la oración compuesta. Saber 11 evalúa este nivel de análisis cuando pide distinguir una proposición de un sintagma y un sujeto explícito de un sujeto omitido.
@@ -402,14 +402,14 @@ El párrafo reúne dos fenómenos que conviene distinguir con precisión. El pri
 Un compañero debe evaluar esa afirmación. ¿Cuál es la evaluación más sólida y su justificación completa?
 
 ### Opciones
-- [x] A) La afirmación es falsa, porque existen períodos de dos proposiciones principales unidas con "y", como "Llegué temprano y el taller ya había terminado", que son compuestos por coordinación.
-  <!-- feedback: Es correcta porque refuta la afirmación con un contraejemplo pertinente y lo conecta con el criterio conceptual que la invalida. -->
+- [ ] A) La afirmación es válida solo si las dos proposiciones tienen el mismo número de palabras.
+  <!-- feedback: El criterio de la extensión de las proposiciones no tiene fundamento gramatical ni determina la coordinación o la subordinación. -->
 - [ ] B) La afirmación es verdadera, porque toda proposición que aparece después de un nexo es subordinada.
   <!-- feedback: Confunde nexo con subordinación. Las conjunciones coordinantes también son nexos y no generan subordinación. -->
 - [ ] C) La afirmación es falsa, porque en un período de dos proposiciones siempre hay un sujeto elíptico en la segunda.
   <!-- feedback: Aporta un motivo equivocado. Puede haber o no elipsis de sujeto, y eso no define el tipo de período. -->
-- [ ] D) La afirmación es válida solo si las dos proposiciones tienen el mismo número de palabras.
-  <!-- feedback: El criterio de la extensión de las proposiciones no tiene fundamento gramatical ni determina la coordinación o la subordinación. -->
+- [x] D) La afirmación es falsa, porque existen períodos de dos proposiciones principales unidas con "y", como "Llegué temprano y el taller ya había terminado", que son compuestos por coordinación.
+  <!-- feedback: Es correcta porque refuta la afirmación con un contraejemplo pertinente y lo conecta con el criterio conceptual que la invalida. -->
 
 ### Explicacion Pedagogica
 Evaluar una afirmación gramatical exige contrastarla con contraejemplos y con la definición aplicable. La afirmación de que todo período de dos proposiciones es un período por subordinación es falsa, porque la subordinación no se define por el número de proposiciones sino por la dependencia: una proposición subordinada necesita el apoyo de la principal. En cambio, en "Llegué temprano y el taller ya había terminado" las dos proposiciones son principales, se equivalecen y se unen con la conjunción coordinante "y", lo que convierte al período en uno compuesto por coordinación. Un argumento sólido contra una afirmación general debe aportar un contraejemplo claro y conectarlo con el criterio conceptual que lo invalida, sin recurrir a detalles irrelevantes como la extensión de los enunciados o la presencia de un sujeto omitido. Esta disciplina de argumentación es la misma que Saber 11 exige en los ítems de comprensión crítica, donde no basta con contradecir: hay que sostener la contradicción con una razón gramatical precisa.
@@ -425,14 +425,14 @@ Evaluar una afirmación gramatical exige contrastarla con contraejemplos y con l
 ¿Cuál es la forma correcta de expresar la idea de que no fue la falta de estudio la causa del bajo resultado, sino la falta de tiempo, y qué explica el uso de la tilde?
 
 ### Opciones
-- [x] A) "No fue la falta de estudio, sino la falta de tiempo", porque "sino" con tilde es la conjunción que introduce la corrección frente a una proposición negada con "no".
-  <!-- feedback: Es correcta porque distingue la conjunción "sino" de la locución "si no" condicional y explica su valor correctivo. -->
+- [ ] A) "No fue la falta de estudio sino la falta de tiempo", porque la ausencia de coma es obligatoria frente a la negación.
+  <!-- feedback: Ante una proposición de varias palabras la coma antes de "sino" es obligatoria, y su omisión debilita la corrección que se quiere expresar. -->
 - [ ] B) "No fue la falta de estudio, si no la falta de tiempo", porque "si no" introduce la alternativa correcta.
   <!-- feedback: Confunde la locución "si no" con la conjunción "sino". Escritas como dos palabras, expresan una condición y no una corrección. -->
 - [ ] C) "Sino fue la falta de estudio, no fue la falta de tiempo", porque "sino" puede iniciar el período.
   <!-- feedback: La estructura está invertida y el resultado es agramatical. La conjunción correctiva "sino" va después de la negación. -->
-- [ ] D) "No fue la falta de estudio sino la falta de tiempo", porque la ausencia de coma es obligatoria frente a la negación.
-  <!-- feedback: Ante una proposición de varias palabras la coma antes de "sino" es obligatoria, y su omisión debilita la corrección que se quiere expresar. -->
+- [x] D) "No fue la falta de estudio, sino la falta de tiempo", porque "sino" con tilde es la conjunción que introduce la corrección frente a una proposición negada con "no".
+  <!-- feedback: Es correcta porque distingue la conjunción "sino" de la locución "si no" condicional y explica su valor correctivo. -->
 
 ### Explicacion Pedagogica
 El español distingue dos secuencias que se escriben casi igual pero cumplen funciones distintas. "Sino", con tilde diacrítica, es una conjunción que introduce una proposición que corrige, opone o reemplaza a la anterior, y siempre aparece después de una negación: "no fue A, sino B". La locución "si no", escrita sin tilde, se forma con la preposición "si" seguida del adverbio negativo "no" y expresa una condición: "si no estudias, no aprobarás". La diferencia no es solamente ortográfica, sino conceptual: una conjunción corrige y la otra condiciona. Además, la tilde de "sino" cumple la función de liberar la palabra de la pausa que exige la negación, por lo que se escribe con coma antes de ella cuando la proposición es extensa. Saber 11 evalúa esta distinción en ítems de uso de la lengua dentro de la comprensión de textos, porque una conjunción mal elegida cambia por completo la fuerza del argumento.
@@ -448,14 +448,14 @@ El español distingue dos secuencias que se escriben casi igual pero cumplen fun
 En la frase "No importan las distancias, que tan lejos queda la isla desde el continente", ¿qué análisis es el correcto?
 
 ### Opciones
-- [x] A) El "qué" lleva tilde diacrítica porque es elemento léxico de una exclamación indirecta, y esa tilde lo diferencia de la conjunción "que", que se escribe sin ella.
-  <!-- feedback: Es correcta porque aplica el criterio semántico que distingue el elemento léxico con tilde de la conjunción homófona sin tilde. -->
+- [ ] A) El problema se resuelve eliminando la segunda construcción, porque una exclamación indirecta admite punto y coma.
+  <!-- feedback: Una exclamación indirecta no lleva signos de exclamación, pero sí admite el "qué" tónico. Eliminar la construcción no resuelve el problema de la tilde. -->
 - [ ] B) Las dos formas son la misma palabra escrita de dos maneras y basta elegir una para todo el párrafo.
   <!-- feedback: Confunde dos usos distintos de "qué" y de "que". La tilde diacrítica separa un elemento léxico de una conjunción. -->
 - [ ] C) El "qué" se escribe sin tilde porque introduce una proposición subordinada sustantiva en el texto.
   <!-- feedback: Aquí no hay subordinación sustantiva. La construcción es una exclamación indirecta y en ella "qué" funciona como elemento léxico. -->
-- [ ] D) El problema se resuelve eliminando la segunda construcción, porque una exclamación indirecta admite punto y coma.
-  <!-- feedback: Una exclamación indirecta no lleva signos de exclamación, pero sí admite el "qué" tónico. Eliminar la construcción no resuelve el problema de la tilde. -->
+- [x] D) El "qué" lleva tilde diacrítica porque es elemento léxico de una exclamación indirecta, y esa tilde lo diferencia de la conjunción "que", que se escribe sin ella.
+  <!-- feedback: Es correcta porque aplica el criterio semántico que distingue el elemento léxico con tilde de la conjunción homófona sin tilde. -->
 
 ### Explicacion Pedagogica
 La tilde diacrítica de "qué" cumple una función precisa: separa el elemento léxico, que tiene valor exclamativo o interrogativo, de la conjunción homófona que introduce una proposición subordinada sustantiva. Cuando "qué" introduce una exclamación indirecta, es decir, una exclamación integrada dentro de otra oración, se escribe con tilde y sin signos de exclamación, como en "Me asombra qué lejos queda la playa". Cuando "que" introduce una proposición, se escribe sin tilde, como en "Escribió que vendría". La prueba gramatical consiste en preguntarse por la función de la palabra: si es un sustantivo interrogativo o exclamativo, lleva tilde, y si es una conjunción, no la lleva. Saber 11 evalúa con frecuencia esta distinción en ítems de uso de la lengua, porque la tilde diacrítica es uno de los contenidos del núcleo de la norma ortográfica en la prueba, y dominarla evita dos errores muy comunes.
@@ -471,14 +471,14 @@ La tilde diacrítica de "qué" cumple una función precisa: separa el elemento l
 El párrafo original dice: "Hubo muchas propuestas. Las estudiantes las discutieron. El director las escuchó. Salieron las ganadoras." ¿Cuál reescritura mejora la comprensión del párrafo y por qué?
 
 ### Opciones
-- [x] A) Unir las cuatro proposiciones en un período por coordinación: "Hubo muchas propuestas, las estudiantes las discutieron, el director las escuchó y salieron las ganadoras", porque así se establece la relación entre las acciones sin alterar el contenido.
-  <!-- feedback: Es correcta porque respeta la información original, establece la coordinación entre las proposiciones y mejora la cohesión del texto. -->
+- [ ] A) Unir todas las acciones con la conjunción "porque", formando un período de subordinación causal, porque la causa explica mejor el resultado.
+  <!-- feedback: "Porque" impone una relación causal que el texto no expresa. Las acciones son sucesivas y no causa y efecto entre sí. -->
 - [ ] B) Conservar las cuatro oraciones separadas y añadir un punto después de cada una, porque la puntuación es el único problema del párrafo.
   <!-- feedback: La puntuación ya es correcta. El problema real es la desconexión entre las proposiciones y no se resuelve con puntos. -->
 - [ ] C) Convertir el párrafo en un período donde "Salieron las ganadoras" sea la principal y las otras tres sean subordinadas, sin cambiar ninguna palabra.
   <!-- feedback: La subordinación de las otras acciones altera la relación lógica, porque no fueron condiciones ni explicaciones del resultado que se narra. -->
-- [ ] D) Unir todas las acciones con la conjunción "porque", formando un período de subordinación causal, porque la causa explica mejor el resultado.
-  <!-- feedback: "Porque" impone una relación causal que el texto no expresa. Las acciones son sucesivas y no causa y efecto entre sí. -->
+- [x] D) Unir las cuatro proposiciones en un período por coordinación: "Hubo muchas propuestas, las estudiantes las discutieron, el director las escuchó y salieron las ganadoras", porque así se establece la relación entre las acciones sin alterar el contenido.
+  <!-- feedback: Es correcta porque respeta la información original, establece la coordinación entre las proposiciones y mejora la cohesión del texto. -->
 
 ### Explicacion Pedagogica
 Mejorar un texto implica decidir qué relaciones lógicas se quieren establecer entre sus proposiciones y expresarlas con los nexos y la puntuación correspondientes. El párrafo original consta de cuatro oraciones simples equivalentes, sin ningún nexo: la información está completa, pero la conexión entre las ideas depende únicamente de la puntuación. La reescritura correcta las coordina, de modo que el lector percibe de inmediato la secuencia, que es que hubo propuestas, se discutieron, fueron escuchadas y se seleccionaron las ganadoras. La coordinación es la relación adecuada porque las cuatro acciones tienen el mismo valor lógico. Convertirlas en subordinadas, suprimir información o imponer una relación causal con "porque" serían decisiones incorrectas, porque introducen relaciones que el texto no tiene o eliminan contenido. Saber 11 evalúa esta capacidad de reorganización y de evaluación de la conexión textual en ítems que exigen valorar versiones alternativas de un mismo párrafo.

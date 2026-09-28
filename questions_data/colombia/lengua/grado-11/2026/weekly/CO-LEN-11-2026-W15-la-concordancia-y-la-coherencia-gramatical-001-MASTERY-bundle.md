@@ -150,10 +150,10 @@ Los avisos institucionales suelen construirse como oraciones pasivas con el verb
 «Los estudiantes de grado undécimo leen pocos libros porque los dispositivos ocupan la mayor parte de su tiempo libre. La lectura, sin embargo, sigue siendo importante. Leer mejora el vocabulario y también la comprensión. Además, leer es importante».
 
 ### Opciones
-- [x] A) Repite la misma idea al final sin aportar información nueva, de modo que el párrafo no avanza hacia una conclusión.
-  <!-- feedback: Es correcta porque la tercera oración anuncia una consecuencia concreta y la cuarta vuelve al mismo enunciado inicial, generando reiteración. -->
-- [ ] B) Contradice al afirmar que los estudiantes leen poco y, al mismo tiempo, que leen.
+- [ ] A) Contradice al afirmar que los estudiantes leen poco y, al mismo tiempo, que leen.
   <!-- feedback: Las dos ideas no se contradicen: se puede leer poco y, aun así, valorar la lectura; el problema es la repetición, no la oposición. -->
+- [x] B) Repite la misma idea al final sin aportar información nueva, de modo que el párrafo no avanza hacia una conclusión.
+  <!-- feedback: Es correcta porque la tercera oración anuncia una consecuencia concreta y la cuarta vuelve al mismo enunciado inicial, generando reiteración. -->
 - [ ] C) Presenta un salto lógico porque la primera oración no menciona a los estudiantes de undécimo grado.
   <!-- feedback: La primera oración sí nombra a los estudiantes de grado undécimo, de modo que el referente queda determinado desde el comienzo. -->
 - [ ] D) Es ambiguo porque el antecedente del pronombre su no está claro.
@@ -173,10 +173,10 @@ La coherencia se construye también por la progresión informativa: cada oració
 Un texto dice: «El Festival Vallenato, que se celebra en Valledupar, reúne a músicos de todo el país. Los artistas que participan interpretan canciones tradicionales y nuevas. Este festival también es el más conocido de Bogotá». ¿Cuál es el problema de coherencia?
 
 ### Opciones
-- [x] A) Contradicción, porque el texto ubica el festival en Valledupar y luego lo localiza en Bogotá sin explicar el cambio.
-  <!-- feedback: Es correcta porque dos enunciados del mismo texto afirman lugares distintos para el mismo evento, lo que rompe la lógica interna. -->
-- [ ] B) Falta de concordancia entre este festival y el sustantivo al que se refiere.
+- [ ] A) Falta de concordancia entre este festival y el sustantivo al que se refiere.
   <!-- feedback: La concordancia de este festival es adecuada; lo que falla es la relación lógica entre las dos afirmaciones sobre el lugar. -->
+- [x] B) Contradicción, porque el texto ubica el festival en Valledupar y luego lo localiza en Bogotá sin explicar el cambio.
+  <!-- feedback: Es correcta porque dos enunciados del mismo texto afirman lugares distintos para el mismo evento, lo que rompe la lógica interna. -->
 - [ ] C) Repetición de la palabra festival en tres oraciones consecutivas.
   <!-- feedback: La repetición del sustantivo es un recurso válido para mantener el tema; no constituye por sí sola un problema de coherencia. -->
 - [ ] D) Ambigüedad en el antecedente de los artistas.
@@ -196,10 +196,10 @@ La coherencia incluye la coherencia de referencia y la coherencia factual intern
 ¿Cuál de las oraciones siguientes presenta concordancia correcta entre el sujeto y el verbo?
 
 ### Opciones
-- [x] A) Natalia y sus hermanos viajaron a Bucaramanga.
-  <!-- feedback: Es correcta porque el sujeto es plural y el verbo Viajaron está en plural, con concordancia completa. -->
-- [ ] B) Natalia y sus hermanos viaja a Bucaramanga.
+- [ ] A) Natalia y sus hermanos viaja a Bucaramanga.
   <!-- feedback: El sujeto es plural, de modo que el verbo en singular rompe la concordancia numérica. -->
+- [x] B) Natalia y sus hermanos viajaron a Bucaramanga.
+  <!-- feedback: Es correcta porque el sujeto es plural y el verbo Viajaron está en plural, con concordancia completa. -->
 - [ ] C) Natalia y su hermano viaje a Bucaramanga.
   <!-- feedback: Viaje es la forma de subjuntivo; el modo indicativo exige viaja, y además falta la concordancia de número. -->
 - [ ] D) Natalia y su hermanos viajaron a Bucaramanga.
@@ -219,10 +219,10 @@ La concordancia entre sujeto y verbo se verifica en dos pasos: primero se identi
 ¿Cuál opción mantiene la concordancia entre el determinante ninguno y el sustantivo que lo acompaña?
 
 ### Opciones
-- [x] A) En la revisión no se encontró ninguna falla de coherencia.
-  <!-- feedback: Es correcta porque ninguna y falla concuerdan en género y en número: ambos son femeninos singulares. -->
-- [ ] B) En la revisión no se encontraron ningunos fallas de coherencia.
+- [ ] A) En la revisión no se encontraron ningunos fallas de coherencia.
   <!-- feedback: Ningunos es masculino plural, de modo que se rompió la concordancia con fallas, que es femenino plural. -->
+- [x] B) En la revisión no se encontró ninguna falla de coherencia.
+  <!-- feedback: Es correcta porque ninguna y falla concuerdan en género y en número: ambos son femeninos singulares. -->
 - [ ] C) En la revisión no se encontró ninguno falla de coherencia.
   <!-- feedback: Ninguno es masculino singular y no concuerda ni en género ni en número con falla. -->
 - [ ] D) En la revisión no se encontró ninguna falta de coherencias.
@@ -242,10 +242,10 @@ Los determinantes indefinidos negativos, entre ellos ninguno, ninguna, ningún, 
 En el fragmento «Elena y Mauricio llegan mañana; ... maletas ya están en la recepción del hotel», ¿qué opción mantiene la concordancia y respeta el sentido?
 
 ### Opciones
-- [x] A) Sus maletas ya están en la recepción del hotel.
-  <!-- feedback: Es correcta porque el posesivo concuerda en número con el sustantivo plural maletas y el verbo está en plural. -->
-- [ ] B) Su maletas ya están en la recepción del hotel.
+- [ ] A) Su maletas ya están en la recepción del hotel.
   <!-- feedback: El posesivo su no concuerda en número con el sustantivo plural maletas. -->
+- [x] B) Sus maletas ya están en la recepción del hotel.
+  <!-- feedback: Es correcta porque el posesivo concuerda en número con el sustantivo plural maletas y el verbo está en plural. -->
 - [ ] C) Sus maleta ya están en la recepción del hotel.
   <!-- feedback: El determinante está en plural y el sustantivo en singular, de modo que la concordancia se rompe. -->
 - [ ] D) Su maletas ya está en la recepción del hotel.
@@ -265,12 +265,12 @@ Los determinantes posesivos deben concordar con el sustantivo que acompaña y no
 Un texto afirma: «La prueba Saber evalúa tres competencias: lectura crítica, matemáticas y ciencias naturales. En este curso, sin embargo, el enunciado sostiene que la prueba solo incluye literatura y música». ¿Qué problema de coherencia predomina?
 
 ### Opciones
-- [x] A) Contradicción, porque la segunda afirmación desmiente la primera al ampliar las áreas evaluadas sin justificar el cambio.
-  <!-- feedback: Es correcta porque el texto sostiene dos descripciones incompatibles del mismo objeto y no explica la discrepancia entre ellas. -->
+- [ ] A) Desorden sintáctico, porque la segunda oración no tiene verbo principal.
+  <!-- feedback: La segunda oración sí tiene verbo principal, y su estructura es correcta; el problema se encuentra en el sentido, no en la forma. -->
 - [ ] B) Reiteración, porque la palabra prueba aparece dos veces en el mismo párrafo.
   <!-- feedback: La repetición de un sustantivo es un recurso legítimo; lo que falla aquí es la incompatibilidad entre las dos afirmaciones. -->
-- [ ] C) Desorden sintáctico, porque la segunda oración no tiene verbo principal.
-  <!-- feedback: La segunda oración sí tiene verbo principal, y su estructura es correcta; el problema se encuentra en el sentido, no en la forma. -->
+- [x] C) Contradicción, porque la segunda afirmación desmiente la primera al ampliar las áreas evaluadas sin justificar el cambio.
+  <!-- feedback: Es correcta porque el texto sostiene dos descripciones incompatibles del mismo objeto y no explica la discrepancia entre ellas. -->
 - [ ] D) Ambigüedad referencial, porque no se aclara quién sostiene el enunciado.
   <!-- feedback: Aunque el sujeto del enunciado es general, la incoherencia principal es la contradicción entre las dos descripciones. -->
 
@@ -288,12 +288,12 @@ Analizar un texto exige separar tres niveles: la forma, con la concordancia y la
 Un texto dice: «Camilo y Valentina rindieron el examen». ¿Qué se pierde si el autor reemplaza esa oración por «Ellos rindieron el examen»?
 
 ### Opciones
-- [x] A) Se pierde la identificación de quienes rindieron el examen, porque el antecedente queda tácito y la referencia se vuelve ambigua.
-  <!-- feedback: Es correcta porque la elipsis oculta a los referentes, y en un texto argumentativo la claridad de las referencias sostiene la comprensión. -->
+- [ ] A) Se pierde únicamente la información sobre el lugar donde se rindió el examen.
+  <!-- feedback: El lugar nunca se mencionó en la oración original, de modo que no puede perderse algo que nunca estuvo presente. -->
 - [ ] B) No se pierde información, porque el verbo en plural ya indica que fueron más de dos personas.
   <!-- feedback: El plural no permite saber si fueron dos, tres o diez; el dato específico se ha perdido, aunque la frase siga siendo gramatical. -->
-- [ ] C) Se pierde únicamente la información sobre el lugar donde se rindió el examen.
-  <!-- feedback: El lugar nunca se mencionó en la oración original, de modo que no puede perderse algo que nunca estuvo presente. -->
+- [x] C) Se pierde la identificación de quienes rindieron el examen, porque el antecedente queda tácito y la referencia se vuelve ambigua.
+  <!-- feedback: Es correcta porque la elipsis oculta a los referentes, y en un texto argumentativo la claridad de las referencias sostiene la comprensión. -->
 - [ ] D) Se pierde la concordancia de género, porque el pronombre ellos debería ser ellas.
   <!-- feedback: El antecedente reúne un nombre masculino y uno femenino, de modo que el pronombre neutro plural es el recurso aceptado. -->
 
@@ -311,12 +311,12 @@ La elipsis es un recurso legítimo, pero funciona solo cuando el contexto permit
 ¿Qué oración respeta la concordancia con la estructura tanto... como cuando los dos sujetos designan personas de distinto género?
 
 ### Opciones
-- [x] A) Tanto la directora como los profesores llegaron temprano.
-  <!-- feedback: Es correcta porque, según la concordancia de género neutral, el artículo que determina a sujetos de distinto género va en masculino plural. -->
+- [ ] A) Tanto el director como las profesoras llegaron temprano.
+  <!-- feedback: Se invierten los géneros de los dos sustantivos y, en consecuencia, se rompe la correspondencia con el resto de la estructura. -->
 - [ ] B) Tanto la directora como el profesor llegaron temprano.
   <!-- feedback: El plural de los profesores se convierte en singular, de modo que la concordancia numérica con el verbo se rompe. -->
-- [ ] C) Tanto el director como las profesoras llegaron temprano.
-  <!-- feedback: Se invierten los géneros de los dos sustantivos y, en consecuencia, se rompe la correspondencia con el resto de la estructura. -->
+- [x] C) Tanto la directora como los profesores llegaron temprano.
+  <!-- feedback: Es correcta porque, según la concordancia de género neutral, el artículo que determina a sujetos de distinto género va en masculino plural. -->
 - [ ] D) Tanto la directora como los resultados de la prueba fueron publicados.
   <!-- feedback: La correlación exige dos componentes de la misma categoría; aquí uno es una persona y el otro es un objeto, de modo que la estructura es impropia. -->
 
@@ -334,12 +334,12 @@ Las construcciones correlativas como tanto... como, o... o y ni... ni exigen que
 Un texto afirma: «Las fiestas de Pamplona se celebran cada año, y por eso son la única celebración del departamento». ¿Qué juicio es el más preciso sobre este enunciado?
 
 ### Opciones
-- [x] A) Presenta una generalización sin sustento, porque la pluralización de un evento no autoriza a presentarlo como único.
-  <!-- feedback: Es correcta porque el texto salta de un dato verdadero, que es la celebración anual, a una afirmación absoluta que ese dato no sostiene. -->
+- [ ] A) Contiene un error de concordancia entre fiestas y son.
+  <!-- feedback: La concordancia entre el sujeto plural y el verbo plural es correcta; el problema es de coherencia y no de forma. -->
 - [ ] B) Es totalmente coherente, porque la repetición anual garantiza la exclusividad de la celebración.
   <!-- feedback: Celebrarse anualmente no convierte un evento en único; la conclusión excede lo que permite la evidencia presentada. -->
-- [ ] C) Contiene un error de concordancia entre fiestas y son.
-  <!-- feedback: La concordancia entre el sujeto plural y el verbo plural es correcta; el problema es de coherencia y no de forma. -->
+- [x] C) Presenta una generalización sin sustento, porque la pluralización de un evento no autoriza a presentarlo como único.
+  <!-- feedback: Es correcta porque el texto salta de un dato verdadero, que es la celebración anual, a una afirmación absoluta que ese dato no sostiene. -->
 - [ ] D) Es ambiguo, porque no se indica en qué año se pregunta por las fiestas.
   <!-- feedback: La periodicidad anual está expresada de manera suficiente, de modo que la enunciación no requiere un año específico. -->
 
@@ -357,12 +357,12 @@ Analizar un texto local exige distinguir el dato verificable de la inferencia qu
 Una oración del diálogo dice: «Ana conversa con Pedro mientras le entrega el libro». ¿Qué opción resuelve la ambigüedad del referente de le?
 
 ### Opciones
-- [x] A) Ana conversa con Pedro mientras Pedro le entrega el libro.
-  <!-- feedback: Es correcta porque explicita el sujeto de le entrega, de modo que el lector sabe que el libro pasa de Pedro a Ana. -->
+- [ ] A) Ana y Pedro conversan mientras le entregan el libro.
+  <!-- feedback: El plural del verbo no determina la dirección de la acción, de modo que sigue sin saberse quién entrega el libro. -->
 - [ ] B) Ana conversa con Pedro mientras ella le entrega el libro.
   <!-- feedback: El pronombre ella vuelve a introducir un referente posible y mantiene la ambigüedad sobre quién entrega y quién recibe. -->
-- [ ] C) Ana y Pedro conversan mientras le entregan el libro.
-  <!-- feedback: El plural del verbo no determina la dirección de la acción, de modo que sigue sin saberse quién entrega el libro. -->
+- [x] C) Ana conversa con Pedro mientras Pedro le entrega el libro.
+  <!-- feedback: Es correcta porque explicita el sujeto de le entrega, de modo que el lector sabe que el libro pasa de Pedro a Ana. -->
 - [ ] D) Ana conversa con Pedro mientras se le entrega el libro.
   <!-- feedback: La construcción impersonal mantiene el referente indeterminado y, por tanto, no resuelve la ambigüedad. -->
 
@@ -380,14 +380,14 @@ La ambigüedad aparece cuando un pronombre puede referirse a más de un antecede
 Una oración dice: «La investigación, cuyo metodología se aplicó en cuatro colegios de Bogotá, fue publicada por la universidad». ¿Qué problema tiene?
 
 ### Opciones
-- [x] A) Hay discordancia de género y número en el relativo, porque cuyo debe ser cuya para concordar con metodología.
-  <!-- feedback: Es correcta porque el relativo debe reproducir el género y el número del sustantivo al que antecede, y ese antecedente es investigación. -->
+- [ ] A) El problema es la ausencia de comas, porque la proposición relativa no está aislada.
+  <!-- feedback: Las comas están correctamente usadas para delimitar la proposición relativa; la falla es de concordancia, no de puntuación. -->
 - [ ] B) El relativo está bien usado, porque concuerda directamente con metodología.
   <!-- feedback: Los relativos no concuerdan con el sustantivo que aparece después, sino con su antecedente, que es investigación. -->
 - [ ] C) El problema es que cuyo solo puede usarse con personas.
   <!-- feedback: Cuyo se emplea con sustantivos de cualquier género y también con cosas; el error está en la falta de concordancia. -->
-- [ ] D) El problema es la ausencia de comas, porque la proposición relativa no está aislada.
-  <!-- feedback: Las comas están correctamente usadas para delimitar la proposición relativa; la falla es de concordancia, no de puntuación. -->
+- [x] D) Hay discordancia de género y número en el relativo, porque cuyo debe ser cuya para concordar con metodología.
+  <!-- feedback: Es correcta porque el relativo debe reproducir el género y el número del sustantivo al que antecede, y ese antecedente es investigación. -->
 
 ### Explicacion Pedagogica
 Los pronombres relativos cumplen dos funciones dentro de la proposición que introducen: forman parte del sujeto o del objeto, y al mismo tiempo reemplazan a un antecedente que ya se mencionó. Por esa razón deben concordar en género y número con ese antecedente y no con el sustantivo que viene después. El error es frecuente en la escritura académica de undécimo grado, donde las proposiciones relativas son frecuentes, y se corrige con la misma regla.
@@ -403,14 +403,14 @@ Los pronombres relativos cumplen dos funciones dentro de la proposición que int
 ¿Cuál es la conclusión más coherente para un ensayo que defiende que leer es interpretar y no solamente reconocer información?
 
 ### Opciones
-- [x] A) «La lectura crítica no consiste en repetir definiciones, sino en sostener una postura que dialogue con los textos. Por eso sostenemos que leer es interpretar y no solamente reconocer».
-  <!-- feedback: Es correcta porque recapitula la tesis, emplea un nexo de consecuencia y cierra el razonamiento sin contradecir lo desarrollado en el cuerpo del texto. -->
+- [ ] A) «La lectura, la lectura, la lectura: este ensayo trata sobre lectura porque trata sobre lectura».
+  <!-- feedback: Es incorrecta porque la repetición del término no desarrolla ninguna idea y deja el texto sin argumentación. -->
 - [ ] B) «La lectura crítica es importante, hay que leer, la lectura es buena, entonces la lectura es importante».
   <!-- feedback: Es incorrecta porque repite la misma afirmación sin aportar razones ni avanzar en el argumento. -->
 - [ ] C) «La lectura crítica no consiste en repetir definiciones, sino en sostener una postura. Sin embargo, la lectura no es importante para el conocimiento».
   <!-- feedback: Es incorrecta porque la última oración contradice el sentido sostenido durante todo el ensayo. -->
-- [ ] D) «La lectura, la lectura, la lectura: este ensayo trata sobre lectura porque trata sobre lectura».
-  <!-- feedback: Es incorrecta porque la repetición del término no desarrolla ninguna idea y deja el texto sin argumentación. -->
+- [x] D) «La lectura crítica no consiste en repetir definiciones, sino en sostener una postura que dialogue con los textos. Por eso sostenemos que leer es interpretar y no solamente reconocer».
+  <!-- feedback: Es correcta porque recapitula la tesis, emplea un nexo de consecuencia y cierra el razonamiento sin contradecir lo desarrollado en el cuerpo del texto. -->
 
 ### Explicacion Pedagogica
 Evaluar una conclusión exige verificar dos condiciones: que no contradiga el cuerpo del texto y que recapitule de manera ordenada la tesis sostenida. Las tres versiones incorrectas fallan por razones distintas, la primera por redundancia, la segunda por contradicción y la tercera por ausencia de desarrollo del razonamiento. Reconocer estas diferencias ayuda a los estudiantes de undécimo grado a seleccionar mejores versiones de sus propios escritos y a justificar su elección con argumentos.
@@ -426,14 +426,14 @@ Evaluar una conclusión exige verificar dos condiciones: que no contradiga el cu
 El informe de la biblioteca afirma: «Leer por placer aumenta el rendimiento académico. El informe añade que no se puede asegurar que leer por placer sea la única causa de ese rendimiento». ¿Cuál resumen es coherente con el texto?
 
 ### Opciones
-- [x] A) La biblioteca sostiene que leer por placer mejora el rendimiento académico, aunque no lo considera la única causa.
-  <!-- feedback: Es correcta porque conserva la afirmación principal y también la cautela que el informe establece sobre las causas. -->
+- [ ] A) La biblioteca asegura que leer por placer reduce el rendimiento académico.
+  <!-- feedback: Es incorrecta porque el informe afirma lo contrario y nunca sostiene una reducción del rendimiento. -->
 - [ ] B) La biblioteca garantiza que leer por placer es la única causa del buen rendimiento académico.
   <!-- feedback: Es incorrecta porque el informe descarta expresamente esa afirmación al final del párrafo. -->
 - [ ] C) La biblioteca afirma que la lectura por placer no tiene relación con el rendimiento académico.
   <!-- feedback: Es incorrecta porque el texto establece una relación y, además, pide no absolutizarla. -->
-- [ ] D) La biblioteca asegura que leer por placer reduce el rendimiento académico.
-  <!-- feedback: Es incorrecta porque el informe afirma lo contrario y nunca sostiene una reducción del rendimiento. -->
+- [x] D) La biblioteca sostiene que leer por placer mejora el rendimiento académico, aunque no lo considera la única causa.
+  <!-- feedback: Es correcta porque conserva la afirmación principal y también la cautela que el informe establece sobre las causas. -->
 
 ### Explicacion Pedagogica
 Resumir sin deformar exige conservar la posición del autor, incluido el grado de seguridad con que la expresa. En este caso el informe usa un verbo causal moderado y cierra con una advertencia metodológica; el resumen fiel debe conservar ambos matices. Un ejercicio frecuente en undécimo grado consiste en comparar resúmenes y detectar cuáles agregan, exageran o invierten lo que el texto dice, porque esa es una habilidad central de la comprensión lectora.
@@ -449,14 +449,14 @@ Resumir sin deformar exige conservar la posición del autor, incluido el grado d
 ¿Qué versión de la nota es la más adecuada?
 
 ### Opciones
-- [x] A) «La Feria de Flores de Pereira se celebra cada dos años, y las familias están invitadas a participar. La organización estará a cargo de las coordinadoras del proyecto».
-  <!-- feedback: Es correcta porque combina concordancias correctas con una secuencia lógica de evento, convocatoria y responsables, sin contradicciones. -->
+- [ ] A) «La Feria de Flores de Pereira se celebra cada dos años, y las familias están invitadas a participar. La organización estará a cargo de las coordinadoras del proyecto, que dirige al equipo y organiza todas las actividades».
+  <!-- feedback: Es incorrecta porque el relativo en singular no concuerda con un antecedente plural y desplaza la concordancia hacia un elemento que no la exige. -->
 - [ ] B) «La Feria de Flores de Pereira se celebra cada dos años, y las familia están invitadas a participar. La organización estará a cargo de las coordinadoras del proyecto».
   <!-- feedback: Es incorrecta porque el artículo las no concuerda en número con el sustantivo singular familia. -->
 - [ ] C) «La Feria de Flores de Pereira se celebra cada dos años, y las familias están invitadas a participar. La organización estará a cargo de las coordinadoras del proyecto, aunque nunca se ha realizado en Pereira».
   <!-- feedback: Es incorrecta porque la última oración contradice el lugar donde, según el mismo texto, se celebra la feria. -->
-- [ ] D) «La Feria de Flores de Pereira se celebra cada dos años, y las familias están invitadas a participar. La organización estará a cargo de las coordinadoras del proyecto, que dirige al equipo y organiza todas las actividades».
-  <!-- feedback: Es incorrecta porque el relativo en singular no concuerda con un antecedente plural y desplaza la concordancia hacia un elemento que no la exige. -->
+- [x] D) «La Feria de Flores de Pereira se celebra cada dos años, y las familias están invitadas a participar. La organización estará a cargo de las coordinadoras del proyecto».
+  <!-- feedback: Es correcta porque combina concordancias correctas con una secuencia lógica de evento, convocatoria y responsables, sin contradicciones. -->
 
 ### Explicacion Pedagogica
 Evaluar un texto institucional exige aplicar simultáneamente la concordancia y la coherencia. Una nota puede estar libre de errores de forma y, aun así, contradecirse sobre el lugar del evento, como ocurre en la versión C. La versión D presenta un problema distinto: el relativo en singular no concuerda con un antecedente plural y desplaza la concordancia hacia un elemento que no la requiere. Elegir la versión correcta supone dos revisiones sucesivas y complementarias.
@@ -472,14 +472,14 @@ Evaluar un texto institucional exige aplicar simultáneamente la concordancia y 
 El texto dice: «Los estudiantes del grado undécimo, que participan en el semillero de lectura, fueron invitados por la coordinadora del proyecto, pero ellos organiza todas las actividades del ciclo». ¿Qué conjunto de correcciones es el adecuado?
 
 ### Opciones
-- [x] A) Cambiar organiza por organizan y sustituir el pronombre elíptico por una expresión que indique con claridad que los estudiantes son los responsables.
-  <!-- feedback: Es correcta porque el sujeto es plural, de modo que el verbo debe ir en plural, y la reformulación evita una construcción ambigua. -->
+- [ ] A) Eliminar la proposición relativa y la conjunción adversativa, dejando un enunciado breve y correcto.
+  <!-- feedback: Es incorrecta porque la propuesta no resuelve la discordancia de número, que es el error central del texto. -->
 - [ ] B) Cambiar el sujeto por uno singular, porque en español el verbo siempre concuerda con el último sustantivo.
   <!-- feedback: Es incorrecta porque esa regla no existe: el verbo concuerda con la totalidad del sujeto y no con uno de sus componentes. -->
 - [ ] C) Cambiar organiza por organizar y mantener el resto del enunciado sin cambios.
   <!-- feedback: Es incorrecta porque la forma en infinitivo no concuerda con un sujeto y rompe la estructura de la oración. -->
-- [ ] D) Eliminar la proposición relativa y la conjunción adversativa, dejando un enunciado breve y correcto.
-  <!-- feedback: Es incorrecta porque la propuesta no resuelve la discordancia de número, que es el error central del texto. -->
+- [x] D) Cambiar organiza por organizan y sustituir el pronombre elíptico por una expresión que indique con claridad que los estudiantes son los responsables.
+  <!-- feedback: Es correcta porque el sujeto es plural, de modo que el verbo debe ir en plural, y la reformulación evita una construcción ambigua. -->
 
 ### Explicacion Pedagogica
 La evaluación final de la semana 15 exige combinar todos los contenidos: concordancia de género, concordancia de número, coherencia referencial y claridad de la construcción. El texto propuesto acumula un verbo en singular con un sujeto plural y una relación de oposición cuyo segundo término queda sin responsable identificado. La lista correcta de correcciones es la que atiende ambos problemas sin eliminar información útil, criterio que los estudiantes aplicarán en la semana 16 al revisar textos de mayor extensión.
