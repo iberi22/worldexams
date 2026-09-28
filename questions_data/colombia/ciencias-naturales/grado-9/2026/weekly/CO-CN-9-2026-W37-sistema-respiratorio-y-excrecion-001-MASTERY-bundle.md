@@ -34,10 +34,10 @@ creador: "Jules-Agent"
 ¿Cuál de las siguientes secuencias corresponde, en orden, a las estructuras de la vía respiratoria que conducen el aire desde la entrada al organismo hasta los alvéolos pulmonares?
 
 ### Opciones
-- [x] A) Fosas nasales, faringe, laringe, traquea, bronquios, bronquiolos y alvéolos
-  <!-- feedback: Es la secuencia correcta: el aire entra por las fosas nasales, desciende por la faringe y la laringe, recorre la traquea, se ramifica en bronquios y bronquiolos y termina en los alvéolos, donde ocurre el intercambio de gases. -->
-- [ ] B) Fosas nasales, laringe, faringe, bronquios, traquea y alvéolos
+- [ ] A) Fosas nasales, laringe, faringe, bronquios, traquea y alvéolos
   <!-- feedback: Invierte la faringe con la laringe y la traquea con los bronquios; el orden real es faringe, laringe, traquea y solo después bronquios y bronquiolos. -->
+- [x] B) Fosas nasales, faringe, laringe, traquea, bronquios, bronquiolos y alvéolos
+  <!-- feedback: Es la secuencia correcta: el aire entra por las fosas nasales, desciende por la faringe y la laringe, recorre la traquea, se ramifica en bronquios y bronquiolos y termina en los alvéolos, donde ocurre el intercambio de gases. -->
 - [ ] C) Faringe, fosas nasales, traquea, laringe, bronquios y alvéolos
   <!-- feedback: Coloca la faringe antes de las fosas nasales, lo cual es imposible: la faringe es la garganta, situada detrás de la boca y de la nariz, nunca antes de la entrada nasal. -->
 - [ ] D) Fosas nasales, traquea, faringe, bronquios, alvéolos y laringe
@@ -57,14 +57,14 @@ La vía respiratoria se divide en dos regiones: la vía respiratoria superior, f
 Un estudiante de noveno grado en Tunja inspira profundamente y luego espira. ¿Qué cambio describe correctamente el papel del diafragma durante la inspiración?
 
 ### Opciones
-- [x] A) El diafragma se contrae y se aplana al inspirar, aumentando el volumen torácico y permitiendo la entrada de aire
-  <!-- feedback: Al contraerse, el diafragma se aplana y desciende, lo que aumenta el volumen de la cavidad torácica y reduce la presión alveolar por debajo de la atmosférica, permitiendo la inspiración. -->
+- [ ] A) El diafragma se contrae durante la espiración, comprimiendo la cavidad torácica para expulsar el aire
+  <!-- feedback: En la espiración forzada el diafragma se relaja y además se reclutan los músculos abdominales y los intercostales internos; nunca se contrae para expulsar aire. -->
 - [ ] B) El diafragma se relaja y sube al inspirar, reduciendo el volumen torácico y entrando el aire con fuerza
   <!-- feedback: Describe la espiración como si fuera inspiración: cuando el diafragma se relaja se vuelve abombado hacia arriba y el aire sale, no entra. -->
 - [ ] C) El diafragma permanece inmóvil durante la inspiración y solo los músculos intercostales generan el cambio de presión
   <!-- feedback: Los intercostales sí participan, pero el diafragma es el músculo principal de la inspiración tanto en reposo como en la ventilación profunda. -->
-- [ ] D) El diafragma se contrae durante la espiración, comprimiendo la cavidad torácica para expulsar el aire
-  <!-- feedback: En la espiración forzada el diafragma se relaja y además se reclutan los músculos abdominales y los intercostales internos; nunca se contrae para expulsar aire. -->
+- [x] D) El diafragma se contrae y se aplana al inspirar, aumentando el volumen torácico y permitiendo la entrada de aire
+  <!-- feedback: Al contraerse, el diafragma se aplana y desciende, lo que aumenta el volumen de la cavidad torácica y reduce la presión alveolar por debajo de la atmosférica, permitiendo la inspiración. -->
 
 ### Explicacion Pedagogica
 La ventilación pulmonar se explica con la relación entre presión y volumen descrita por la ley de los gases ideales. Durante la inspiración el diafragma se contrae, se aplana y desciende, el tórax se expande, la presión alveolar baja y el aire entra. Durante la espiración el diafragma se relaja y recupera su forma de cúpula, el volumen torácico disminuye, la presión alveolar supera la atmosférica y el aire sale. La inspiración profunda recluta además los intercostales externos, mientras que la espiración forzada usa los músculos abdominales y los intercostales internos. Comprender que el movimiento del diafragma es automático e involuntario explica por qué la respiración se mantiene incluso durante el sueño.
