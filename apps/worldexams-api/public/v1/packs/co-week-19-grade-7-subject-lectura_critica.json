@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-19-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-28T23:03:11.187Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elementos son indispensables para leer correctamente un gráfico de barras como ese?",
+      "context": "En el aula de Palermo, Bogotá, la profesora Gloria entrega un gráfico de barras sobre el número de préstamos de la biblioteca del colegio. Les pide señalar qué información permite entenderlo sin leer el texto que lo acompaña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del dibujo, el color de las barras y el número de páginas del cuaderno.",
+          "is_correct": false,
+          "feedback": "Esos elementos no permiten interpretar el gráfico: el color es un adorno y las páginas no aportan datos."
+        },
+        {
+          "letter": "B",
+          "text": "El título, los ejes con sus unidades, las categorías comparadas y la fuente de los datos.",
+          "is_correct": true,
+          "feedback": "El título indica qué se mide, los ejes dan las unidades y la fuente permite verificar quién recopiló la información."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre del profesor que lo explica, el número de alumnos y la fecha en que se entrega la tarea.",
+          "is_correct": false,
+          "feedback": "Los datos del curso no forman parte del contenido del gráfico y no permiten leer los valores."
+        },
+        {
+          "letter": "D",
+          "text": "El tamaño de la letra, el margen de la hoja y la cantidad de gráficos del cuaderno.",
+          "is_correct": false,
+          "feedback": "Son detalles de presentación que pueden variar sin cambiar lo que el gráfico comunica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un gráfico sin título, ejes ni fuente obliga a adivinar, y adivinar no es leer. El título dice qué se mide, los ejes indican las unidades y las categorías, y la fuente señala quién recogió los datos. Reconocer estos elementos es lo que permite comparar barras con criterio y no por impresión visual. Estos mismos elementos aparecen en un cuadro, en un gráfico de líneas y en una infografía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia hay entre el dato que aparece en el cuadro y la frase que está al lado?",
+      "context": "En el mural de lectura de la biblioteca de Chía hay un cuadro con la cantidad de libros leídos por cada grado. Junto al cuadro, una frase dice: \"Los estudiantes de noveno leen mejor que los de séptimo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia, porque los dos enunciados presentan la misma información.",
+          "is_correct": false,
+          "feedback": "El cuadro entrega cantidades y la frase interpreta cuáles son mejores, de modo que no dicen lo mismo."
+        },
+        {
+          "letter": "B",
+          "text": "El cuadro es una opinión porque tiene cifras, y la frase es un dato porque usa adjetivos.",
+          "is_correct": false,
+          "feedback": "Las cifras son datos y los adjetivos valorativos son opinión, al contrario de lo que afirma esta opción."
+        },
+        {
+          "letter": "C",
+          "text": "La frase es un dato porque se apoya en el cuadro, así que ambas son igualmente objetivas.",
+          "is_correct": false,
+          "feedback": "Apoyarse en un cuadro no convierte la valoración en un dato, porque la comparación requiere un criterio."
+        },
+        {
+          "letter": "D",
+          "text": "El cuadro presenta datos medibles y la frase agrega una valoración que esos datos no demuestran por sí solos.",
+          "is_correct": true,
+          "feedback": "Separar el dato de la valoración evita tomar por hecho algo que el cuadro solo permite discutir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un dato es una cantidad que se puede contar o medir, y una opinión es un juicio que la valora. Cuando una frase valorativa se apoya en un cuadro, sigue siendo una opinión argumentada y no un dato. Reconocer esta diferencia protege contra un uso frecuente: presentar una impresión personal como si fuera una medición. Esa distinción es la base de una lectura crítica de cualquier texto informativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál mes registra la mayor cantidad de préstamos y cuál es ese valor?",
+      "context": "El cuadro de la biblioteca del colegio de Palmira muestra los préstamos por mes: marzo con 120, abril con 150, mayo con 175 y junio con 160. La profesora pregunta cuál fue el mes con más préstamos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayo, con 175 préstamos.",
+          "is_correct": true,
+          "feedback": "Al comparar las cuatro cifras, 175 es el valor más alto y corresponde al mes de mayo."
+        },
+        {
+          "letter": "B",
+          "text": "Marzo, con 120 préstamos.",
+          "is_correct": false,
+          "feedback": "Marzo aparece con 120, que es el valor más bajo de los cuatro meses del cuadro."
+        },
+        {
+          "letter": "C",
+          "text": "Junio, con 160 préstamos.",
+          "is_correct": false,
+          "feedback": "Junio tiene 160, que es menor que los 175 de mayo, de modo que no es el mes más alto."
+        },
+        {
+          "letter": "D",
+          "text": "Abril, con 150 préstamos.",
+          "is_correct": false,
+          "feedback": "Abril queda en el medio del cuadro, por debajo tanto de mayo como por encima de marzo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leer un cuadro es comparar valores, y comparar exige revisar todas las filas antes de responder. En esta tabla, los cuatro valores se ordenan así: 120, 150, 175 y 160. El mayor de ellos corresponde a mayo. Una respuesta correcta en este tipo de pregunta debe nombrar el dato y el mes, no solo una de las dos cosas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la diferencia entre el mes de mayor y el mes de menor cantidad de préstamos?",
+      "context": "Con los mismos datos de la biblioteca de Palmira, un trabajo de séptimo grado pide medir cuánto creció la cantidad de préstamos entre el mes más bajo y el mes más alto del período.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55 préstamos.",
+          "is_correct": false,
+          "feedback": "El mes con más préstamos fue mayo y el de menos fue marzo, así que la diferencia debe calcularse entre ambos."
+        },
+        {
+          "letter": "B",
+          "text": "25 préstamos.",
+          "is_correct": false,
+          "feedback": "Veinticinco es la distancia entre junio y mayo, no entre el mes más alto y el más bajo del cuadro."
+        },
+        {
+          "letter": "C",
+          "text": "35 préstamos.",
+          "is_correct": true,
+          "feedback": "Mayo tuvo 175 y marzo 120; al restar se obtienen 35 préstamos de diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "150 préstamos.",
+          "is_correct": false,
+          "feedback": "Ciento cincuenta es el total de abril, y ese dato no mide la diferencia entre dos meses."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Calcular una diferencia es restar el valor menor al mayor, y el resultado es una cantidad con la misma unidad del dato. En este cuadro, el máximo es 175 y el mínimo es 120, de modo que la diferencia es 35. Antes de restar conviene identificar qué dos valores se están comparando, porque en un cuadro hay varias parejas posibles. Ese mismo procedimiento sirve con temperaturas, con notas o con precios de una tabla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué proporción de los préstamos de abril correspondió a novelas?",
+      "context": "Un anexo del cuadro de la biblioteca de Palmira aclara que de los 150 préstamos de abril, 90 fueron de novela y los demás fueron de otros temas. Un compañero quiere saber qué parte del mes correspondió a novelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noventa por ciento, porque se contaron noventa préstamos de novela.",
+          "is_correct": false,
+          "feedback": "Confunde la parte con el todo: noventa es la cantidad de novelas, no el porcentaje del mes."
+        },
+        {
+          "letter": "B",
+          "text": "Cuarenta por ciento, porque los préstamos de otros temas fueron sesenta.",
+          "is_correct": false,
+          "feedback": "Sesenta es la parte de otros temas, que sí representa el cuarenta por ciento del total de abril."
+        },
+        {
+          "letter": "C",
+          "text": "Ciento cincuenta por ciento, porque el anexo menciona los 150 préstamos del mes.",
+          "is_correct": false,
+          "feedback": "Un porcentaje no puede superar el cien por ciento, porque la parte siempre es menor que el total."
+        },
+        {
+          "letter": "D",
+          "text": "Sesenta por ciento, porque 90 de 150 equivale a seis de cada diez.",
+          "is_correct": true,
+          "feedback": "Al dividir 90 entre 150 se obtiene 0,6, que equivale al sesenta por ciento del total del mes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una proporción expresa qué parte del total corresponde a un elemento. Aquí el total es 150 préstamos y la parte buscada son 90 novelas, de modo que 90 sobre 150 equivale a seis de cada diez, es decir, sesenta por ciento. Reconocer que una parte nunca puede superar el total descarta de entrada las opciones imposibles. Esta misma cuenta sirve para saber, por ejemplo, qué porcentaje del grupo asiste a una actividad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v6",
+      "statement": "Qué efecto tiene sobre la lectura del gráfico que el eje vertical empiece en 100 y no en cero?",
+      "context": "En una página de la revista del colegio de Yopal aparece un gráfico de barras sobre los préstamos de la biblioteca. El eje vertical arranca en 100 y termina en 180, y las barras de marzo y junio se ven casi iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ningún efecto, porque el eje siempre puede empezar en el valor que el autor considere conveniente.",
+          "is_correct": false,
+          "feedback": "Un eje recortado exagera las diferencias, y eso sí tiene efecto sobre cómo se percibe el gráfico."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que las diferencias entre meses parezcan mayores de lo que realmente son.",
+          "is_correct": true,
+          "feedback": "Al recortar el eje, pequeñas variaciones ocupan un espacio visual mucho más grande."
+        },
+        {
+          "letter": "C",
+          "text": "Permite leer mejor los valores exactos de cada mes, porque el eje se ajusta al dato más bajo.",
+          "is_correct": false,
+          "feedback": "Un eje recortado no mejora la lectura de los valores y sí distorsiona la comparación visual."
+        },
+        {
+          "letter": "D",
+          "text": "Significa que el autor cometió un error de cálculo en los datos del gráfico.",
+          "is_correct": false,
+          "feedback": "Es una decisión de presentación, no necesariamente un error en los datos ni en el cálculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un gráfico de barras debe medir desde cero, porque el largo de la barra representa la cantidad. Cuando el eje comienza en 100, la diferencia entre 160 y 175 ocupa el mismo espacio visual que una diferencia enorme. Reconocer este recurso ayuda a no exagerar conclusiones a partir de imágenes engañosas. Es una parte esencial de la lectura crítica de gráficos publicados en prensa y en redes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué error de interpretación contiene esa frase del compañero?",
+      "context": "En el gráfico de líneas de la biblioteca de Armenia, los préstamos suben de marzo a mayo y luego bajan un poco en junio. Un compañero escribe en su análisis: \"La cantidad de préstamos aumentó sin parar durante todo el semestre\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase afirma un crecimiento constante, cuando el gráfico muestra una caída entre mayo y junio.",
+          "is_correct": true,
+          "feedback": "Reconoce que la última parte de la serie va en contra de lo que afirma el análisis del compañero."
+        },
+        {
+          "letter": "B",
+          "text": "La frase ignora que el gráfico no tiene título, cuando el título sí aparece en la parte superior.",
+          "is_correct": false,
+          "feedback": "El problema central no es la ausencia de título, sino la afirmación de un aumento ininterrumpido."
+        },
+        {
+          "letter": "C",
+          "text": "La frase confunde el eje horizontal con el vertical, aunque los datos de junio sí son más altos.",
+          "is_correct": false,
+          "feedback": "Los datos de junio son menores que los de mayo, y el error está en la forma de describir la tendencia."
+        },
+        {
+          "letter": "D",
+          "text": "La frase no puede evaluarse, porque el gráfico no indica quién recopiló los datos.",
+          "is_correct": false,
+          "feedback": "La falta de fuente es una limitación real, pero no impide ver que la curva baja entre mayo y junio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un gráfico de líneas muestra la tendencia de los datos, y esa tendencia puede subir, bajar o quedarse quieta. Aquí la serie sube hasta mayo y luego desciende, de modo que no hubo un aumento constante. Detectar esa diferencia entre lo que muestra la curva y lo que afirma el texto es un movimiento de lectura crítica. Ese mismo control evita repetir conclusiones que la información no sostiene.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v8",
+      "statement": "¿De qué manera se relacionan el texto del artículo y el gráfico que lo acompaña?",
+      "context": "En el periódico escolar de Ibagué, un artículo afirma que \"la lectura de los estudiantes de noveno se duplicó este semestre\". Junto al artículo hay un gráfico de barras donde el noveno pasó de 80 a 130 préstamos en el mismo período.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto y el gráfico dicen lo mismo, porque los dos mencionan el aumento de la lectura.",
+          "is_correct": false,
+          "feedback": "Mencionar el aumento no es lo mismo que duplicarlo: de 80 a 130 no alcanza el doble."
+        },
+        {
+          "letter": "B",
+          "text": "El gráfico contradice al artículo porque los datos del noveno disminuyeron.",
+          "is_correct": false,
+          "feedback": "Los datos del noveno aumentaron, de modo que el problema no es una disminución sino la magnitud."
+        },
+        {
+          "letter": "C",
+          "text": "El texto exagera lo que muestran los datos, porque pasar de 80 a 130 no significa duplicar.",
+          "is_correct": true,
+          "feedback": "Señala la distancia entre la afirmación del texto y lo que efectivamente muestran los datos."
+        },
+        {
+          "letter": "D",
+          "text": "El gráfico no aporta información, porque un artículo periodístico ya incluye sus propias pruebas.",
+          "is_correct": false,
+          "feedback": "El gráfico sí aporta la evidencia, y precisamente por eso permite comprobar lo que afirma el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Relacionar un texto con el gráfico que lo acompaña significa comparar lo que se afirma con lo que se muestra. De 80 a 130 hay un aumento del sesenta y dos por ciento, y ese cambio no equivale al doble que anuncia el artículo. Reconocer la diferencia protege contra los titulares exagerados. También enseña a usar el gráfico como evidencia y no como simple decoración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el juicio más sólido sobre los dos gráficos?",
+      "context": "En una exposición del colegio de Girardot se presentan dos gráficos sobre la asistencia a las actividades extracurriculares. El primero no indica fuente y su eje arranca en cincuenta. El segundo indica que los datos vienen del sistema de asistencia del colegio y el eje arranca en cero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo es menos confiable, porque los ejes que empiezan en cero ocupan más espacio en la lámina.",
+          "is_correct": false,
+          "feedback": "El espacio que ocupa la lámina no determina la confiabilidad de los datos que se muestran."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo es más confiable, porque declara la fuente y usa una escala que no exagera las diferencias.",
+          "is_correct": true,
+          "feedback": "La fuente declarada y una escala desde cero hacen comparables y verificables los datos."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos gráficos son igual de confiables, porque los dos muestran barras con el mismo color.",
+          "is_correct": false,
+          "feedback": "El color no aporta datos y la fuente declarada y la escala sí son diferencias de fondo."
+        },
+        {
+          "letter": "D",
+          "text": "El primero es más confiable, porque un eje que empieza en cincuenta permite ver mejor las barras pequeñas.",
+          "is_correct": false,
+          "feedback": "Un eje recortado hace visibles las barras pequeñas, pero a costa de exagerar las diferencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un gráfico exige revisar dos preguntas: de dónde vienen los datos y cómo está construida la escala. Un gráfico que declara su fuente permite rastrear quién midió, y una escala desde cero mantiene proporcional el largo de las barras. Aplicar estos criterios permite distinguir una representación seria de una que solo impresiona. Es una habilidad que sirve en el aula, en la casa y en el consumo de noticias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué juicio es el más preciso sobre esa afirmación del informe?",
+      "context": "Un equipo de séptimo grado de Florencia escribe en su informe: \"El gráfico muestra que leer en la biblioteca mejora las notas de los estudiantes\". El gráfico solo presenta el número de préstamos por mes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es válida, porque el aumento de préstamos y el aumento de notas aparecen en el mismo gráfico.",
+          "is_correct": false,
+          "feedback": "El gráfico solo presenta préstamos; las notas no aparecen en ninguna parte de la información mostrada."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es válida, porque el número de préstamos es una medida objetiva del esfuerzo de los estudiantes.",
+          "is_correct": false,
+          "feedback": "Que una variable sea objetiva no permite deducir nada sobre una variable que el gráfico no muestra."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque ninguna gráfica puede demostrar que una actividad mejore un resultado académico.",
+          "is_correct": false,
+          "feedback": "Es una afirmación demasiado absoluta: un estudio con dos variables sí podría poner a prueba esa relación."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación no se sostiene, porque el gráfico no incluye datos de notas ni permite comparar ambos casos.",
+          "is_correct": true,
+          "feedback": "Señala lo que falta: sin datos de notas no hay manera de relacionar las dos variables que se afirman."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un dato solo puede demostrar lo que efectivamente midió. Cuando un gráfico presenta préstamos y el informe afirma una mejora en las notas, falta la información que permita relacionar ambas variables. Reconocer ese salto es un gesto de lectura crítica que evita causalidades imaginarias. Para sostener la afirmación haría falta un estudio que incluyera también las notas y permitiera comparar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Textual",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
