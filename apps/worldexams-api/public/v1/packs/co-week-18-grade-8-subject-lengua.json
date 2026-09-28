@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-8-subject-lengua",
+    "generated_at": "2026-09-28T11:42:24.806Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v1",
+      "statement": "Uno de los poetas españoles del siglo XX escribió un libro de poemas durante su estancia en Nueva York en 1929, publicado al año siguiente, en el que se aprecia la influencia del surrealismo. ¿Cuál de los siguientes es el autor de ese libro?",
+      "context": "Estudiante de grado 8 en Bogotá revisa para una exposición oral sobre la poesía de vanguardia en su aula de literatura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rafael Alberti",
+          "is_correct": false,
+          "feedback": "Alberti pertenece a la generación del 27, pero sus libros más citados son \"Sobre los ángeles\" (1940) y \"A la pintura\" (1945), no un poemario escrito en Nueva York."
+        },
+        {
+          "letter": "B",
+          "text": "Federico García Lorca",
+          "is_correct": true,
+          "feedback": "Correcto. Lorca escribió \"Poeta en Nueva York\" en 1929 y el libro se publicó en 1930; allí se aprecia la influencia del surrealismo en las imágenes y en la libertad de las formas."
+        },
+        {
+          "letter": "C",
+          "text": "Pablo Neruda",
+          "is_correct": false,
+          "feedback": "Neruda es un poeta chileno, no español, y su primer libro fue \"Veinte poemas de amor\" (1924); nunca escribió un poemario con ese título."
+        },
+        {
+          "letter": "D",
+          "text": "César Vallejo",
+          "is_correct": false,
+          "feedback": "Vallejo es un poeta peruano. Su primera obra fue \"Los heraldos de la muerte\" (1919) y luego \"Poesía en la piedra\" (1938)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Poeta en Nueva York\" pertenece a la etapa final de Federico García Lorca y reúne los poemas que escribió durante su viaje a Estados Unidos en 1929, publicado en Nueva York en 1930. En ese libro se nota la influencia del surrealismo: imágenes que rompen la lógica habitual, metáforas inesperadas y una libertad formal que se aparta de la poesía académica. Reconocer al autor y la obra permite ubicar al poeta dentro de la generación del 27 y explicar cómo la vanguardia llega a España.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v2",
+      "statement": "En 1909, el poeta italiano Filippo Tommaso Marinetti publicó un manifiesto que proponía una poesía incapaz de mirar hacia atrás. ¿A qué movimiento de vanguardia corresponde ese manifiesto?",
+      "context": "Una institución educativa de Medellín proyecta un taller de introducción a los movimientos artísticos de comienzos del siglo XX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dadaísmo",
+          "is_correct": false,
+          "feedback": "El dadaísmo surge en Zúrich en 1916 con Hugo Ball y Tristan Tzara, y se caracteriza por el absurdo y la negación del sentido, no por la defensa de la velocidad."
+        },
+        {
+          "letter": "B",
+          "text": "Futurismo",
+          "is_correct": true,
+          "feedback": "Correcto. El manifiesto futurista de Marinetti (1909) exalta la velocidad, la máquina, la ciudad industrial y el rechazo del pasado, y fue el punto de partida del futurismo."
+        },
+        {
+          "letter": "C",
+          "text": "Surrealismo",
+          "is_correct": false,
+          "feedback": "El surrealismo aparece años después, con el manifiesto de André Breton de 1924, y se apoya en el sueño, el subconsciente y la escritura automática."
+        },
+        {
+          "letter": "D",
+          "text": "Creacionismo",
+          "is_correct": false,
+          "feedback": "El creacionismo es una corriente chilena promovida por Pablo Huidobro en los años treinta, centrada en crear un lenguaje poético nuevo y no en la velocidad industrial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El futurismo nació en Italia y quedó fijado por el manifiesto de 1909, que declaraba una ruptura total con la literatura del pasado: la máquina, el avión, la ciudad y la velocidad se convierten en asunto poético. Reconocer el movimiento y su fecha permite ordenar cronológicamente las vanguardias y distinguirlas entre sí, porque el dadaísmo y el surrealismo responden a problemas diferentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v3",
+      "statement": "En 1931 se fundó en Madrid la revista \"Creación\", que difundió una teoría poética radical. ¿Cuál de los siguientes autores fundó esa revista junto con Jorge Larrea y fue su principal representante?",
+      "context": "La biblioteca escolar de Cali prepara una exposición sobre las revistas que difundieron la vanguardia en Hispanoamérica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pablo Huidobro",
+          "is_correct": true,
+          "feedback": "Correcto. El poeta chileno Pablo Huidobro fundó \"Creación\" en 1931 junto con Jorge Larrea; la revista dio a conocer el creacionismo, teoría que defendía la creación de un lenguaje poético nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Luis Borges",
+          "is_correct": false,
+          "feedback": "Borges fue un observador crítico de las vanguardias, pero no fundó \"Creación\"; su relación con el movimiento fue la del polemista y el analizador."
+        },
+        {
+          "letter": "C",
+          "text": "Rafael Alberti",
+          "is_correct": false,
+          "feedback": "Alberti publicó \"Sobre los ángeles\" (1940) y \"A la pintura\" (1945), pero no estuvo al frente de la revista \"Creación\"."
+        },
+        {
+          "letter": "D",
+          "text": "Julio Cortázar",
+          "is_correct": false,
+          "feedback": "Cortázar publicó \"Casa tomada\" en la revista \"Sur\" de Barranquilla en 1941, una publicación distinta y fundada una década después."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La revista \"Creación\" (1931) fue el órgano del creacionismo, corriente elaborada por Pablo Huidobro y Jorge Larrea, que proclamaba la libertad absoluta del poeta frente a las normas del lenguaje heredado. Saber qué revista y qué autores la sostenían ayuda a entender que la vanguardia no fue una moda aislada, sino un movimiento organizado mediante publicaciones y reuniones como el encuentro de 1925 en París.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v4",
+      "statement": "El grupo lee este fragmento de un poema: \"La ciudad me devoró mientras la luna se hacía parque de metal. Mi memoria olvidó su nombre y aprendió a girar sola\". El poema combina imágenes que no se conectan por la lógica ordinaria, incluye un espacio urbano y apoya su construcción en la libre asociación. ¿A qué movimiento de vanguardia corresponde?",
+      "context": "Taller de lectura para grado 8 en Bucaramanga, en el que se analiza un texto anónimo contemporáneo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dadaísmo",
+          "is_correct": false,
+          "feedback": "Aunque el dadaísmo también rompe la lógica, se define por el absurdo gratuito y la negación del sentido; aquí hay una construcción poética deliberada, no una burla."
+        },
+        {
+          "letter": "B",
+          "text": "Surrealismo",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de imágenes ilógicas, la ciudad onírica, la libre asociación y el trabajo con el subconsciente responden al procedimiento surrealista."
+        },
+        {
+          "letter": "C",
+          "text": "Creacionismo",
+          "is_correct": false,
+          "feedback": "El creacionismo se apoya ante todo en la invención de un vocabulario nuevo; este poema usa palabras comunes y no vocablos inventados."
+        },
+        {
+          "letter": "D",
+          "text": "Romanticismo",
+          "is_correct": false,
+          "feedback": "El romanticismo exalta el sentimiento individual y la naturaleza, y mantiene formas poéticas tradicionales; aquí hay una ruptura deliberada de la lógica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para identificar un movimiento no basta con leer un poema: hay que revisar sus procedimientos. El surrealismo trabaja con imágenes que no siguen la cadena lógica, con lo onírico, con la libre asociación y con rupturas que parecen absurdas pero están construidas poéticamente. Aplicar esos criterios a un texto nuevo es lo que permite clasificarlo, en vez de confundir lo raro con lo de vanguardia sin fundamento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v5",
+      "statement": "Un poema declara: \"La rueda que gira es mi alfabeto; el ruido del tranvía es mi verso; el pasado no me interesa, porque el presente es la única velocidad posible\". Según esta declaración, el texto aplica el programa de qué corriente?",
+      "context": "Secuencia de una clase de grado 8 en Bogotá donde se pide relacionar fragmentos con el movimiento al que obedecen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romanticismo",
+          "is_correct": false,
+          "feedback": "El romanticismo eleva el sentimiento individual y la naturaleza; no exalta la máquina ni declara inútil el pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Surrealismo",
+          "is_correct": false,
+          "feedback": "El surrealismo explora el sueño y el subconsciente; la máquina, la velocidad y la ciudad industrial no forman parte de su programa."
+        },
+        {
+          "letter": "C",
+          "text": "Futurismo",
+          "is_correct": true,
+          "feedback": "Correcto. El poema convierte la máquina, el motor y la velocidad en materia poética y declara el pasado inútil, tal como pedía el manifiesto futurista de 1909."
+        },
+        {
+          "letter": "D",
+          "text": "Dadaísmo",
+          "is_correct": false,
+          "feedback": "El dadaísmo propone destruir el sentido mediante la arbitrariedad y la escritura automática, no exaltar la velocidad y la máquina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El fragmento pone la técnica y la velocidad en el centro de la poesía y descarta la nostalgia del pasado: es el núcleo del programa futurista. Aplicar este criterio a un texto permite distinguir movimientos con facilidad, porque tanto el surrealismo como el dadaísmo se presentan como rupturas, pero con otros motores: el subconsciente y el absurdo, respectivamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v6",
+      "statement": "Un libro de 1945 presenta poemas en los que el autor comenta cuadros de grandes pintores y usa la pintura como estructura de su propia poesía. ¿Qué autor y obra corresponden a esa descripción?",
+      "context": "Plan de una unidad didáctica en la ciudad de Medellín sobre las relaciones entre poesía y pintura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rafael Alberti, \"A la pintura\"",
+          "is_correct": true,
+          "feedback": "Correcto. Alberti publicó \"A la pintura\" en 1945, conjunto de poemas que dialogan con obras de grandes pintores y en el que la pintura organiza el poema."
+        },
+        {
+          "letter": "B",
+          "text": "Pablo Neruda, \"Veinte poemas de amor\"",
+          "is_correct": false,
+          "feedback": "\"Veinte poemas de amor\" (1924) es un libro breve de tema amoroso y no un diálogo con la pintura; Neruda no escribió \"A la pintura\"."
+        },
+        {
+          "letter": "C",
+          "text": "Federico García Lorca, \"Poeta en la calle\"",
+          "is_correct": false,
+          "feedback": "\"Poeta en la calle\" (1936) es un poemario de tema urbano y social; la relación con la pintura que describe el enunciado es propia de Alberti."
+        },
+        {
+          "letter": "D",
+          "text": "César Vallejo, \"Poesía en la piedra\"",
+          "is_correct": false,
+          "feedback": "\"Poesía en la piedra\" (1938) es un conjunto de poemas de tema social, y no un diálogo con cuadros ni con pintores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Rafael Alberti escribió una obra en la que el poema dialoga directamente con la pintura y se borra la frontera entre las dos disciplinas. Reconocer esta relación ayuda a entender que la vanguardia también renovó los temas poéticos: ya no solo se cantaba el amor, la naturaleza o lo social, sino el propio arte pictórico y sus materiales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v7",
+      "statement": "Un poema de autor peruano, escrito durante sus años de formación en París, exalta el trajino obrero, las máquinas de la ciudad y presenta al hombre como una pieza más del engranaje industrial. ¿Qué explica mejor que este texto sea leído como una poesía de vanguardia futurista y no como una simple descripción de costumbres?",
+      "context": "Estudio de grupo en Popayán sobre la relación entre la teoría de las vanguardias y los textos poéticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque convierte el elemento técnico en principio poético, es decir, en norma de construcción de las imágenes, y no solo en escenario realista.",
+          "is_correct": true,
+          "feedback": "Correcto. El poema no se limita a describir: la máquina, la velocidad y el cuerpo tratado como objeto se vuelven norma de escritura, y esa es la ruptura programática del futurismo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el autor se equivoca en el uso de palabras poco comunes y por eso el poema resulta incomprensible.",
+          "is_correct": false,
+          "feedback": "Esa es una dificultad de vocabulario, no una ruptura programática; el futurismo se caracteriza por la máquina y la velocidad, no por un estilo oscuro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el texto imita a los poetas clásicos grecolatinos en sus temas y en su forma.",
+          "is_correct": false,
+          "feedback": "La imitación de los clásicos es propia del neoclasicismo y contradice el rechazo del pasado que postula el futurismo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el poema conserva el verso endecasílabo y por eso mantiene intacta la forma tradicional.",
+          "is_correct": false,
+          "feedback": "Conservar la forma tradicional es lo contrario de una poesía de vanguardia; no es lo que explica la clasificación futurista."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar exige separar el tema del procedimiento: un poema puede hablar de la ciudad como cualquier otro, pero solo es de vanguardia cuando cambia la manera de escribir. Aquí la máquina, la velocidad y el cuerpo como objeto se convierten en reglas de composición. Ese criterio también explica la etapa futurista de César Vallejo, que precedió a su libro \"Poesía en la piedra\" (1938).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v8",
+      "statement": "En 1923, un poeta peruano firmó en París un texto titulado \"Contra el romanticismo\", en el que rechazaba el idealismo tardío y defendía una poesía transformadora. ¿Qué revela ese gesto sobre su relación con la tradición?",
+      "context": "Taller avanzado de literatura en Bogotá dedicado a contrastar posiciones teóricas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la ruptura moderna se formula de manera explícita y consciente, en diálogo directo con la corriente anterior a la que se opone.",
+          "is_correct": true,
+          "feedback": "Correcto. Firmar un manifiesto significa tomar distancia argumentada de una corriente previa: la tradición se transforma discutiéndola, no ignorándola."
+        },
+        {
+          "letter": "B",
+          "text": "Que el autor renuncia a toda la tradición y por eso debe leerse como un poeta sin ninguna referencia histórica.",
+          "is_correct": false,
+          "feedback": "El texto se escribe precisamente para discutir con el romanticismo; eso demuestra que la tradición es el interlocutor de la vanguardia, no un vacío."
+        },
+        {
+          "letter": "C",
+          "text": "Que el romanticismo y el futurismo eran la misma corriente con dos nombres distintos.",
+          "is_correct": false,
+          "feedback": "Son movimientos diferentes: el romanticismo exaltó el sentimiento y la naturaleza; el futurismo, la máquina y la velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ruptura con la tradición se produce solo por circunstancias políticas y no por razones poéticas.",
+          "is_correct": false,
+          "feedback": "El documento es un manifiesto estético: plantea una manera nueva de hacer poesía, con recursos propios y no solo una posición política."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un manifiesto es una declaración de intenciones: el poeta no se limita a romper, sino que explica contra qué se rompe y a favor de qué escribe. El texto de 1923 firmado por César Vallejo muestra que la vanguardia peruana define su programa en la discusión teórica con el romanticismo tardío. Analizar estos gestos ayuda a entender que toda ruptura es siempre una respuesta a una tradición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v9",
+      "statement": "En 1941 apareció en Barranquilla, dentro de la revista \"Sur\", el cuento \"Casa tomada\" de un autor argentino que vivió en ese país entre 1940 y 1943 y se integró a su círculo literario. ¿Qué explica mejor ese episodio para el estudio de las vanguardias en Colombia?",
+      "context": "Unidad de literatura en Cartagena que estudia la circulación de la vanguardia en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las ideas de vanguardia llegaron al país por revistas y por la circulación de autores, conectando a Colombia con el ambiente artístico europeo.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicación en \"Sur\" muestra que las ideas de vanguardia viajaron en revistas y redes de artistas, y que hubo un interlocutor local formado."
+        },
+        {
+          "letter": "B",
+          "text": "Que en 1941 la vanguardia ya era el estilo oficial de la literatura colombiana.",
+          "is_correct": false,
+          "feedback": "Ninguna corriente fue estilo oficial; se trataba de una propuesta sostenida por grupos reducidos y discutida, como ocurrió con la revista \"Sur\"."
+        },
+        {
+          "letter": "C",
+          "text": "Que los escritores argentinos se encargaron de la enseñanza de literatura en Colombia.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona ninguna labor docente; el episodio es editorial y cultural, no académico."
+        },
+        {
+          "letter": "D",
+          "text": "Que toda la literatura colombiana de ese período copió exactamente la producción argentina.",
+          "is_correct": false,
+          "feedback": "La circulación de textos no equivale a copia; las revistas difundían ideas que los escritores locales adaptaban con sus propios problemas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Julio Cortázar vivió en Colombia entre 1940 y 1943 y publicó su primer cuento, \"Casa tomada\", en la revista \"Sur\" de Barranquilla en 1941, publicación del círculo de Barranquilla. Analizar este hecho muestra que las vanguardias no viajaron solo como teoría: viajaron en revistas impresas, y en Colombia hubo grupos de recepción formados por escritores como Eduardo Carranza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v10",
+      "statement": "Un evaluador afirma que toda la poesía de vanguardia rechaza la tradición y no vuelve a ella. ¿Cuál de las siguientes afirmaciones ofrece el mejor fundamento para refutar esa postura?",
+      "context": "Seminario de lectura en Bogotá donde se evalúa la posición de los poetas de la vanguardia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en varios autores la ruptura técnica convive con un retorno a la herencia poética, la voz infantil, lo popular y el paisaje americano que nutren la innovación formal.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura sostenida en la obra de Huidobro, Neruda y Vallejo muestra que el vanguardismo no se opone a la herencia: la usa como material para renovar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todos los poetas de vanguardia copiaron literalmente a los poetas clásicos.",
+          "is_correct": false,
+          "feedback": "Copiar literalmente sería imitación sin ruptura; la relación de la vanguardia con el pasado es crítica y transformadora, no calcada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la tradición solo importa en la literatura que no hace ruptura formal.",
+          "is_correct": false,
+          "feedback": "La afirmación separa tradición y ruptura en campos mutuamente excluyentes, pero las vanguardias reescribieron las formas heredadas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la herencia poética fue abandonada después de 1950 en todo el mundo.",
+          "is_correct": false,
+          "feedback": "No hay dato histórico que sostenga esa afirmación, y la obra de Neruda en esos años demuestra lo contrario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar exige poner a prueba una afirmación general con evidencias. La poesía de Huidobro, que exalta el paisaje americano frente a los modelos europeos, y la de Neruda, que recupera la voz popular y la infancia en \"Altazor\" (1957), muestran que la ruptura con la forma convive con un retorno a la herencia. Por eso la afirmación del evaluador es imprecisa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v11",
+      "statement": "Un colegio de Pereira propone explicar las vanguardias solo a partir de los movimientos europeos, sin incluir a autores ni publicaciones colombianas. ¿Cuál es la valoración más sólida de esa propuesta?",
+      "context": "Consejo académico de un colegio de Pereira discute la focalización del plan de lectura de grado 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque las vanguardias nacieron en Europa y en Colombia no existió ninguna recepción.",
+          "is_correct": false,
+          "feedback": "Es falso: en Colombia hubo revistas y círculos de recepción, como la revista \"Sur\" de Barranquilla en 1941."
+        },
+        {
+          "letter": "B",
+          "text": "Es limitada, porque la recepción de las vanguardias en Colombia fue real y mostrarla ayuda a entender cómo circulan las ideas y cómo los escritores locales reaccionaron a ellas.",
+          "is_correct": true,
+          "feedback": "Correcto. Incluir la recepción colombiana permite comprender el fenómeno como un circuito de intercambio y no como una importación pasiva de Europa."
+        },
+        {
+          "letter": "C",
+          "text": "Es mejor porque evita confundir a los estudiantes con autores que no son de su país.",
+          "is_correct": false,
+          "feedback": "La nacionalidad de un autor no es un criterio pedagógico; el criterio es la comprensión del proceso cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Es mejor porque en Colombia nunca se editaron revistas literarias.",
+          "is_correct": false,
+          "feedback": "Se publicaron revistas como \"Sur\" y otras publicaciones que difundieron estas ideas en el país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una buena secuencia de lectura no solo presenta la teoría de las vanguardias, sino el proceso por el que esas ideas llegaron y se transformaron en un contexto local. Mostrar la recepción colombiana ayuda a que los estudiantes entiendan la literatura como un intercambio vivo entre distintos grupos y a evitar la idea de que la innovación llega desde arriba sin obstáculos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle-v12",
+      "statement": "Un compañero afirma que un poema de imágenes irracionales, verso libre y palabras poco frecuentes \"es un sin sentido y no es literatura\". ¿Cuál de las siguientes respuestas evalúa mejor su afirmación?",
+      "context": "Lectura crítica en clase de grado 8 en Ibagué, donde un grupo defiende la lectura de un poema de vanguardia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón, porque la literatura debe ser siempre fácil de entender.",
+          "is_correct": false,
+          "feedback": "La claridad no es el único criterio: la ruptura técnica de la vanguardia responde a una propuesta estética legítima."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene razón, porque solo la poesía de los siglos XVII y XVIII es verdadera poesía.",
+          "is_correct": false,
+          "feedback": "Reducir la literatura a una sola época elimina movimientos enteros, como las vanguardias, sin fundamento histórico."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene razón del todo, porque la ruptura de la forma en las vanguardias es un procedimiento deliberado para renovar el lenguaje poético y no un error casual.",
+          "is_correct": true,
+          "feedback": "Correcto. El verso libre, las imágenes irracionales y el vocabulario inusual responden a un programa poético; leerlos como \"sin sentido\" es un juicio no informado."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene razón, pero porque ese poema debe copiarse tal como aparece en los libros antiguos.",
+          "is_correct": false,
+          "feedback": "La vigencia de un poema no depende de copiarlo literalmente, sino de comprender su procedimiento y su valor histórico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un lector que enfrenta un poema de vanguardia debe distinguir entre lo que no comprende y lo que el poema propone. El verso libre, la ruptura sintáctica y la imagen irracional son decisiones conscientes que buscan apartarse de las formas heredadas. Evaluar la afirmación del compañero con argumentos también es un ejercicio de lectura crítica: la mejor respuesta no se limita a contradecirlo, sino que explica la lógica interna del poema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LEN-8-2026-W18-vanguardia-hispanomericana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
