@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T07:35:49.565Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las dos disoluciones corresponde a un ácido y cuál a una base?",
+      "context": "En el laboratorio de ciencias naturales de un colegio de Bogotá, la profesora entrega a cada grupo un vaso con una disolución de zumo de limón y otro con una disolución de jabón de loza, y les pide que anoten el sabor y el tacto de cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El jabón de loza es ácido y el zumo de limón es básico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se invierten los papeles: el jabón de loza es una disolución básica y la de zumo de limón es ácida."
+        },
+        {
+          "letter": "B",
+          "text": "El zumo de limón es ácido y el jabón de loza es básico",
+          "is_correct": true,
+          "feedback": "Correcto. El zumo de limón es ácido por su contenido de ácido cítrico, y el jabón de loza es básico porque actúa sobre las grasas con una base."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos disoluciones son ácidas, porque cualquier disolución con sabor es ácida",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda disolución con sabor es ácida; el agua con sal o con azúcar tiene pH cercano al neutro."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos disoluciones son básicas, porque ambas se disuelven fácilmente en agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que una sustancia se disuelva en agua no indica si su disolución es ácida o básica; muchas sales se disuelven y dan disoluciones neutras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un ácido es una sustancia que, al disolverse en agua, aumenta la concentración de iones hidrógeno y produce una disolución ácida, con pH menor que 7. Una base hace lo contrario: aporta iones hidróxido y da una disolución con pH mayor que 7. El sabor y el tacto son indicios prácticos: el ácido cítrico del limón produce la sensación de acidez, mientras que el jabón saponifica las grasas con una base, y por eso su disolución se siente resbalosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v2",
+      "statement": "Un vaso contiene una disolución que tiñe de verde el azul de bromotimol. ¿Qué valor de pH tiene esa disolución y cómo se clasifica?",
+      "context": "En el laboratorio de una institución de Pereira, un grupo usa azul de bromotimol, un indicador que se ve amarillo con pH 4, verde con pH cercano a 7 y azul con pH 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pH cercano a 7, porque el indicador cambia de color en la zona neutra",
+          "is_correct": true,
+          "feedback": "Correcto. El color verde del azul de bromotimol corresponde a su punto de viraje, situado alrededor de pH 7, el valor que separa las disoluciones ácidas de las básicas."
+        },
+        {
+          "letter": "B",
+          "text": "pH cercano a 2, porque el verde es el color propio de los ácidos fuertes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con pH cercano a 2 el azul de bromotimol se vería amarillo, porque su viraje ocurre en la zona neutra."
+        },
+        {
+          "letter": "C",
+          "text": "pH cercano a 12, porque el verde es el color propio de las bases fuertes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con pH cercano a 12 el indicador se vería azul; el verde no corresponde a las disoluciones fuertemente básicas."
+        },
+        {
+          "letter": "D",
+          "text": "pH exactamente 0, porque es el valor más ácido de la escala",
+          "is_correct": false,
+          "feedback": "Incorrecto. A pH 0 la disolución es muy concentrada en ácido y el indicador presentaría un color muy ácido, no verde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala de pH va de 0 a 14: los valores menores que 7 indican acidez, el valor 7 indica neutralidad y los mayores que 7 indican basicidad. Cada indicador cambia de color dentro de un intervalo propio de pH. El azul de bromotimol vira del amarillo al azul pasando por el verde, y ese punto de viraje está cerca de pH 7. Por eso una disolución que lo vuelve verde se clasifica como neutra o casi neutra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumple un indicador de pH como el papel tornasol o la fenolftaleína?",
+      "context": "En el taller de química de Cartagena, cada estudiante recibe una tira de papel tornasol y una disolución sin etiqueta, y debe decidir si es ácida o básica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la cantidad de ácido presente en la disolución analizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un indicador es una sustancia inerte que solo cambia de color; nunca modifica la composición de la disolución que analiza."
+        },
+        {
+          "letter": "B",
+          "text": "Neutralizar la disolución y volverla neutra por sí mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un indicador no neutraliza nada; solo permite distinguir el carácter ácido o básico de lo que ya está disuelto."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar de color según la acidez o la basicidad de la disolución",
+          "is_correct": true,
+          "feedback": "Correcto. El indicador posee un color propio en medio ácido y otro en medio básico, y esa diferencia de color revela el carácter de la disolución."
+        },
+        {
+          "letter": "D",
+          "text": "Medir la cantidad exacta de soluto disuelto en un gramo de disolución",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde a la medición de la concentración o de la solubilidad, no al comportamiento de un indicador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los indicadores de pH son sustancias que cambian de color según el pH de la disolución en la que están disueltas. El papel tornasol se vuelve rojo con ácidos y azul con bases, mientras que la fenolftaleína es incolora en medio ácido y rosada en medio básico. Sirven para evidenciar de manera rápida y visual el carácter ácido o básico de una disolución, aunque no permiten determinar con precisión el valor numérico del pH.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v4",
+      "statement": "¿Qué volumen de hidróxido de sodio 0,2 M se necesita para neutralizar por completo esos 50 mL de ácido clorhídrico 0,2 M?",
+      "context": "En el laboratorio de química de Medellín, un grupo debe neutralizar 50 mL de ácido clorhídrico 0,2 M con hidróxido de sodio 0,2 M y necesita calcular cuánto reactivo Employe para que la reacción sea completa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción ocurre en proporción 1 a 1, y con concentraciones iguales el volumen de base debe igualar al del ácido, no ser la quinta parte."
+        },
+        {
+          "letter": "B",
+          "text": "25 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 mL de base aportarían la mitad de los moles necesarios, y sobraría ácido sin neutralizar al final."
+        },
+        {
+          "letter": "C",
+          "text": "100 mL",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese volumen doblaría los moles de base requeridos, de modo que quedaría base sin reaccionar y la mezcla sería básica."
+        },
+        {
+          "letter": "D",
+          "text": "50 mL",
+          "is_correct": true,
+          "feedback": "Correcto. Con la misma concentración en ambos reactivos, la neutralización 1 a 1 exige volúmenes iguales: 50 mL de base neutralizan los 50 mL de ácido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ácido clorhídrico y el hidróxido de sodio reaccionan en proporción 1 a 1, formando cloruro de sodio y agua. Como las dos disoluciones tienen la misma concentración, 0,2 moles por litro, se necesitan volúmenes iguales para aportar la misma cantidad de moles. Los 50 mL de ácido contienen 0,010 moles de HCl, y por eso la mezcla queda neutra con 50 mL de la base.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v5",
+      "statement": "¿Qué cambio de temperatura se espera al mezclar el ácido con la base, y cuál es la razón química de ese cambio?",
+      "context": "En un laboratorio escolar de Barranquilla, los estudiantes mezclan volúmenes iguales de ácido clorhídrico y de hidróxido de sodio, y miden la temperatura con un termómetro antes y después de mezclar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura aumenta, porque la neutralización libera energía que calienta la mezcla",
+          "is_correct": true,
+          "feedback": "Correcto. La reacción entre un ácido y una base es exotérmica: libera energía al entorno y por eso el termómetro marca una temperatura mayor."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura disminuye, porque la mezcla necesita absorber calor del ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La neutralización libera calor en lugar de absorberlo, así que la temperatura de la mezcla sube."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura no cambia, porque en toda reacción química la energía se conserva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía sí se conserva, pero se transforma: pasa de energía química a energía térmica, lo que calienta la mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura sube y luego baja hasta la del ambiente, porque el agua se evapora",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay evaporación apreciable en esta mezcla, y el efecto térmico de la neutralización es directo, no una curva de calentamiento y enfriamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un ácido y una base se neutralizan, los iones hidrógeno y los iones hidróxido se combinan para formar agua, y esa transformación libera energía en forma de calor. Por eso la reacción se clasifica como exotérmica. Este fenómeno se aprovecha en la industria para controlar procesos, por ejemplo, en la reacción que permite ajustar el pH de jugos y bebidas en plantas de alimentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v6",
+      "statement": "¿Qué acción es la más adecuada para corregir este problema aplicando neutralización?",
+      "context": "En una vereda de Boyacá, el agua de un arroyo que pasa cerca de una mina de carbón llega con pH 3 y está corroyendo las tuberías del acueducto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agregar más ácido sulfúrico, para que el pH baje todavía más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar ácido aumenta la acidez y empeora la corrosión; la corrección exige reducir la acidez del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Agregar una base, como cal o carbonato de calcio, hasta llegar a un pH cercano al 7",
+          "is_correct": true,
+          "feedback": "Correcto. La cal neutraliza el exceso de ácido y eleva el pH hasta un valor cercano al neutro, lo que reduce la corrosión de las tuberías."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar el agua al sol hasta que el ácido se evapore por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no puede evaporar su ácido por simple exposición al sol, porque el ácido va disuelto y permanece en la disolución."
+        },
+        {
+          "letter": "D",
+          "text": "Calentar el agua para expulsar el ácido y luego recoger el residuo sólido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calentar no separa un ácido disuelto del agua; para corregir la acidez hay que incorporar una base y neutralizar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La neutralización consiste en hacer reaccionar el ácido con una base hasta reducir el exceso de iones hidrógeno. En el tratamiento de aguas, se emplean sustancias como la cal o el carbonato de calcio, que son bases y consumen el ácido presente, elevando el pH hacia el neutro. Este procedimiento se aplica en Colombia en el tratamiento de aguas de drenaje minero y en el ajuste final del pH del agua potable antes de su distribución.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v7",
+      "statement": "¿Qué pH y qué cambio de temperatura deben esperarse en la mezcla, y cómo se deduce esa conclusión?",
+      "context": "En un laboratorio de Tunja, una estudiante mezcla volúmenes iguales de ácido clorhídrico 0,1 M y de hidróxido de sodio 0,1 M, ambas disoluciones a 25 °C, y repite la medición con un termómetro digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pH cercano a 0, porque el ácido clorhídrico siempre domina la mezcla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los moles de ácido y de base son iguales, de modo que ninguno domina; la acidicidad inicial del HCl no determina el pH final."
+        },
+        {
+          "letter": "B",
+          "text": "pH cercano a 14, porque el hidróxido de sodio siempre domina la mezcla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tampoco hay exceso de base: se consumen en la misma proporción, y por eso la mezcla no queda fuertemente básica."
+        },
+        {
+          "letter": "C",
+          "text": "pH cercano a 7, sin cambio apreciable de temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH cercano a 7 es correcto, pero la temperatura sí aumenta, porque la neutralización libera calor."
+        },
+        {
+          "letter": "D",
+          "text": "pH cercano a 7 y aumento de temperatura, porque se consumen en proporción 1 a 1 y la reacción libera calor",
+          "is_correct": true,
+          "feedback": "Correcto. Al mezclarse volúmenes iguales de disoluciones de igual concentración, ácido y base se consumen por completo y queda una disolución neutra, mientras la reacción exotérmica calienta la mezcla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para determinar el pH final hay que comparar las cantidades de ácido y de base, no solo mirar cuál de los dos es más fuerte. Con volúmenes iguales y concentraciones iguales, los moles de ambos reactivos son los mismos, y como reaccionan en proporción 1 a 1, ninguno queda en exceso: el resultado es una disolución neutra con pH cercano a 7. A eso se suma que la reacción libera calor, de modo que el termómetro registra una temperatura mayor que la inicial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v8",
+      "statement": "¿Qué criterio permite localizar el punto de neutralización en estos datos, y qué valor de pH corresponde a ese punto?",
+      "context": "En el laboratorio de Bogotá, un grupo registra el pH de una disolución ácida mientras agrega una base gota a gota. Sus datos son: al inicio pH 2, cuando ha agregado la mitad de la base pH 5, y cuando ha agregado toda la base pH 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor de pH más bajo de la tabla, porque ahí empieza la reacción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH más bajo corresponde a la disolución inicial, antes de agregar base, y no al momento en que ácido y base se compensan."
+        },
+        {
+          "letter": "B",
+          "text": "El momento en que el pH deja de bajar, porque la base ya no actúa",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta titulación el pH no deja de bajar, sino que sube de manera continua a medida que se agrega la base."
+        },
+        {
+          "letter": "C",
+          "text": "El punto donde el pH cambia con mayor rapidez entre datos consecutivos, cercano a 7",
+          "is_correct": true,
+          "feedback": "Correcto. El punto de equivalencia se reconoce por el salto marcado de pH entre mediciones cercanas, y ese tramo corresponde a valores cercanos a 7."
+        },
+        {
+          "letter": "D",
+          "text": "El valor de pH más alto de la tabla, porque ahí el ácido se agota por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH más alto indica que ya se agregó base en exceso, es decir, la mezcla quedó básica y no neutra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al agregar base a una disolución ácida, el pH aumenta poco al principio, porque la base se consume neutralizando el ácido presente. Cerca del punto de equivalencia, una gota adicional de base desplaza el pH de manera abrupta, porque ya no hay ácido que la neutralice. En los datos del ejercicio, el punto de neutralización se ubica en ese tramo de cambio rápido, alrededor de pH 7, y no en los valores extremos de la tabla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v9",
+      "statement": "Un estudiante de noveno grado propone encalar el lote con piedra caliza. ¿Cuál razonamiento justifica correctamente esa propuesta?",
+      "context": "En una finca cafetera de Caldas, un agricultor nota que un lote produce muy poco café y que el suelo de ese lote es marcadamente ácido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la cal aumenta el pH del suelo, aunque con ello se pierdan los nutrientes esenciales para el café",
+          "is_correct": false,
+          "feedback": "Incorrecto. El encalamiento no elimina nutrientes: al elevar el pH, reduce la toxicidad del aluminio y mejora la disponibilidad de varios elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la cal neutraliza la acidez del suelo y mejora la disponibilidad de los nutrientes que el café necesita",
+          "is_correct": true,
+          "feedback": "Correcto. La piedra caliza aporta carbonato de calcio, que es una base, y al neutralizar la acidez permite que las plantas absorban mejor los nutrientes del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la única forma válida de corregir un suelo ácido es agregar materia orgánica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia orgánica ayuda a mejorar la estructura del suelo, pero el encalamiento es el tratamiento específico para neutralizar la acidez del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el pH de un suelo no influye en la disponibilidad de los nutrientes para las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH del suelo sí determina la disponibilidad de nutrientes: en suelos muy ácidos hay elementos que se vuelven Insolubles y otros que se vuelven tóxicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La acidez del suelo afecta directamente la agricultura, porque modifica la disponibilidad de los nutrientes para las raíces. Cuando el pH es muy bajo, algunos elementos como el fósforo quedan poco disponibles y otros, como el aluminio, se vuelven tóxicos para la planta. El encalamiento consiste en aplicar una base, generalmente carbonato de calcio, que neutraliza la acidez y permite que el cafeto aproveche mejor los nutrientes del suelo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.54,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál valoración de esta afirmación es la más precisa y mejor sustentada?",
+      "context": "En el foro de un aula virtual de Medellín, un estudiante afirma que el agua potable siempre tiene pH exactamente 7 porque la neutralidad no cambia con nada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es imprecisa: pH igual a 7 indica neutralidad química, no que el agua sea apta para consumo",
+          "is_correct": true,
+          "feedback": "Correcto. La neutralidad química y la potabilidad son conceptos distintos: el agua potable también cumple condiciones de higiene y de calidad microbiológica, y puede tener un pH ligeramente distinto de 7."
+        },
+        {
+          "letter": "B",
+          "text": "Es falsa por completo, porque ninguna disolución acuosa puede tener pH 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí existen disoluciones acuosas neutras con pH igual a 7, como el agua pura; lo que no se puede afirmar es que toda agua potable tenga ese valor."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque toda disolución neutra es automáticamente potable",
+          "is_correct": false,
+          "feedback": "Incorrecto. La neutralidad no garantiza la potabilidad, porque el agua puede tener microorganismos, metales pesados o sales disueltas aunque su pH sea neutro."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque el sabor y la salinidad del agua dependen solo del pH",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sabor y la salinidad dependen de las sustancias disueltas y no únicamente del pH, que solo mide la acidez o la basicidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El pH igual a 7 indica que en esa disolución hay igual concentración de iones hidrógeno y de iones hidróxido, es decir, neutralidad química. La potabilidad es un requisito más amplio: exige que el agua no contenga microorganismos, metales pesados ni sales en exceso, y que cumpla condiciones de sabor, olor y color. Por eso una afirmación que identifica ambos conceptos no es correcta, aunque el valor 7 sea una referencia válida de la escala.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de los siguientes es el razonamiento más sólido para explicar lo observado?",
+      "context": "En el río Aburrá, en Medellín, un grupo de estudiantes observa que después de una lluvia fuerte el agua baja a pH 4 y aparecen peces sin vida en el tramo cercano a una bocamina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pH bajó porque la lluvia arrastró sales del suelo, y los peces murieron por el enfriamiento del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia no enfría el agua hasta provocar la muerte de peces, y el cambio de pH registrado apunta a un proceso químico, no a un efecto térmico."
+        },
+        {
+          "letter": "B",
+          "text": "El pH bajó porque la lluvia arrastró más sales minerales, y los peces murieron por salinidad, sin relación con la acidez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descartar la acidez como causa no se sostiene cuando el pH cae a 4, y el problema está relacionado con la acidificación del agua y no solo con la salinidad."
+        },
+        {
+          "letter": "C",
+          "text": "El pH bajó por la lluvia ácida, alteró la química del agua y redujo el oxígeno disuelto que los peces necesitan",
+          "is_correct": true,
+          "feedback": "Correcto. Combina la evidencia medida con su consecuencia biológica: al caer el pH se afecta la química del agua y disminuye el oxígeno disuelto, lo que impide a los peces respirar correctamente."
+        },
+        {
+          "letter": "D",
+          "text": "El pH del agua no tiene relación con la vida acuática, así que la muerte se explica solo por la pesca artesanal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH es un factor determinante de la vida acuática, por lo que no puede descartarse su papel y atribuir la muerte únicamente a la pesca artesanal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lluvia ácida se forma cuando óxidos de nitrógeno y de azufre reaccionan en la atmósfera y se disuelven en el agua de lluvia. Cuando esa agua llega al cauce, acidifica el río y cambia las condiciones químicas que hacen posible la vida acuática. Una de las consecuencias más graves es la disminución del oxígeno disuelto, porque los peces necesitan ese gas para respirar. Evaluar un fenómeno ambiental exige relacionar la medición de pH con su efecto sobre los seres vivos del ecosistema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.43,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle-v12",
+      "statement": "¿Qué propuesta es la más adecuada para controlar el crecimiento de microorganismos en el jugo?",
+      "context": "En una industria de alimentos de Cartagena, el estándar interno exige que el jugo de fruta tenga un pH entre 4,0 y 4,5 para evitar el desarrollo de mohos y bacterias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subir el pH del jugo hasta 8, porque ese es el pH del agua que llega a la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llevar el jugo a pH 8 lo saca del rango exigido y crea un medio desfavorable para la conservación del producto."
+        },
+        {
+          "letter": "B",
+          "text": "Agregar azúcar hasta que el jugo deje de saber ácido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sabor no es una medida del pH; cambiar el dulzor no modifica la acidez real del jugo ni su capacidad de conservar el producto."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar el jugo a temperatura ambiente, porque el frío conserva el producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona enfriamiento y la conservación a temperatura ambiente no garantiza detener el crecimiento de mohos y bacterias."
+        },
+        {
+          "letter": "D",
+          "text": "Ajustar el pH del jugo al rango indicado, porque fuera de ese intervalo los microorganismos se desarrollan",
+          "is_correct": true,
+          "feedback": "Correcto. El rango de pH entre 4,0 y 4,5 limita el desarrollo de mohos y bacterias, de modo que medir y ajustar el pH es el control adecuado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El pH modifica la tolerancia de los microorganismos, porque cada bacteria u hongo tiene un intervalo de pH en el que se desarrolla con mayor facilidad. En la industria de alimentos se usa esta propiedad como barrera natural de conservación: si el pH del jugo se mantiene dentro del rango exigido por el estándar, se limita el crecimiento de mohos y bacterias y se alarga la vida útil del producto. Por eso medir el pH y ajustarlo con ácido o base es un control de calidad que se aplica de manera rutinaria en plantas colombianas de bebidas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.4,
+      "bundle_id": "CO-CN-9-2026-W08-acidos-y-bases-en-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
