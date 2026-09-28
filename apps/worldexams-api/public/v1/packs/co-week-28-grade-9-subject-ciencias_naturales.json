@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-28-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T10:27:54.724Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v1",
+      "statement": "Qué afirma la dualidad onda-partícula acerca de la naturaleza de la luz?",
+      "context": "En el laboratorio de física de un colegio de Cali, un grupo prepara una demostración sobre el funcionamiento de un panel fotovoltaico y pregunta qué es exactamente la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la luz se comporta como onda en unos fenómenos y como partícula en otros, sin que ambas descripciones se excluyan.",
+          "is_correct": true,
+          "feedback": "Correcto. La dualidad reconoce que la luz presenta un doble comportamiento y que cada modelo explica una parte de los experimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la luz es exclusivamente una onda electromagnética y que la teoría de los fotones quedó obsoleta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría de fotones no quedó obsoleta: explica la emisión y la absorción de materia y luz de forma insustituible."
+        },
+        {
+          "letter": "C",
+          "text": "Que la luz es exclusivamente un flujo de partículas y que los fenómenos de interferencia son ilusiones ópticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La interferencia y la difracción son una evidencia experimental que exige el modelo ondulatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Que la luz cambia de onda a partícula cada vez que se mueve de un medio a otro, como si alternara entre dos estados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dualidad no es una alternancia entre dos estados: la misma luz presenta ambos comportamientos según la experiencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dualidad onda-partícula es el principio que unifica la óptica. El modelo ondulatorio, nacido de los trabajos de Huygens, Young y Fresnel, explica la interferencia, la difracción y la refracción, y lo hace con gran precisión. El modelo de fotones, introducido por Einstein y ampliado por Planck, explica por qué la luz se absorbe y se emite en cantidades discretas. Ninguno de los dos modelos es el correcto y el otro equivocado: ambos son válidos dentro de su rango de aplicación, y esa complementariedad es la base de la física moderna y de la electrónica de hoy, incluido el panel fotovoltaico del laboratorio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v2",
+      "statement": "Un control remoto emite una señal que sí llega al televisor cuando tiene pilas nuevas, pero falla cuando las pilas se agotan. Qué explica mejor este comportamiento?",
+      "context": "En un colegio de Pereira, la profesora cuenta que en su casa el control remoto del televisor deja de funcionar cuando las pilas se agotan, y pregunta qué tiene que ver con la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la luz del control remoto es una onda continua cuya intensidad depende del estado de las pilas, sin cambiar ninguna otra propiedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un modelo puramente ondulatorio no da cuenta de la emisión discreta que se observa en la señal del control."
+        },
+        {
+          "letter": "B",
+          "text": "Que la luz está formada por fotones, y que la señal se detecta porque cada fotón absorbe energía para liberar un electrón en el receptor.",
+          "is_correct": true,
+          "feedback": "Correcto. El proceso es fotoeléctrico: la energía de los fotones se transfiere a electrones del receptor, y esos electrones producen la corriente detectada."
+        },
+        {
+          "letter": "C",
+          "text": "Que las pilas modifies la frecuencia de la luz emitida, cambiando el color infrarrojo por luz visible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las pilas no modifican la frecuencia; una caída de energía reduce la cantidad de fotones emitidos por unidad de tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la luz del control remoto necesita la energía de las pilas para propagarse por el aire.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna onda necesita un suministro de energía para propagarse; lo que se agota es la fuente que emite los fotones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El receptor del control remoto es un dispositivo fotoeléctrico. Cuando un fotón incide sobre el material sensible, aporta una cantidad fija de energía que puede liberar un electrón. Si esa energía es suficiente, el electrón escapa y genera una corriente eléctrica, que el circuito convierte en el comando reconocido por el televisor. Cuando las pilas se agotan, la energía disponible por fotón se reduce y ya no alcanza para liberar electrones, por lo que la señal deja de detectarse. La explicación exige el modelo de fotones, no solo el de onda continua.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v3",
+      "statement": "Una radiación de frecuencia 5,0 × 10⁴ Hz ilumina una superficie. Tomando la constante de Planck h = 6,63 × 10⁻⁴ J·s, cuál es la energía de cada fotón de esa radiación?",
+      "context": "En un laboratorio escolar de Bogotá, un grupo calcula la energía de los fotones que llegan a un detector y consulta el valor de la constante de Planck.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,32 × 10⁻⁴⁸ J, porque hay que restar las potencias al dividir h entre f.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la relación E = h · f las potencias se suman, no se restan, y la fórmula no es una división."
+        },
+        {
+          "letter": "B",
+          "text": "6,63 × 10⁻⁰ J, porque la energía de un fotón equivale a la constante de Planck dividida por la frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corresponde a dividir en lugar de multiplicar, lo que produce un valor incorrecto para la energía del fotón."
+        },
+        {
+          "letter": "C",
+          "text": "3,32 × 10⁻⁹ J, porque la energía de un fotón es E = h · f.",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar 6,63 × 10⁻⁴ J·s por 5,0 × 10⁴ Hz se obtiene 3,315 × 10⁻⁹ J, que redondeado es 3,32 × 10⁻⁹ J."
+        },
+        {
+          "letter": "D",
+          "text": "1,33 × 10⁹ J, porque la energía de un fotón es E = f / h.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es E = h · f, no una división: al invertirla se obtiene un valor sin sentido físico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía de un fotón está dada por la relación E = h · f, donde h es la constante de Planck y f es la frecuencia de la radiación. Sustituyendo los datos: 6,63 × 10⁻⁴ J·s multiplicado por 5,0 × 10⁴ s⁻ da 3,315 × 10⁻⁹ J. Este resultado muestra dos ideas centrales: la energía lumínica es proporcional a la frecuencia, y los valores son extremadamente pequeños, del orden de 10⁻⁹ J, coherente con que una sola luz visible tenga una cantidad mínima de energía para afectar la materia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v4",
+      "statement": "Una fotocelda tiene una función de trabajo de 2,0 eV, equivalente a 3,2 × 10⁻⁹ J. Cuál es su frecuencia de corte y qué significa físicamente?",
+      "context": "En un taller de física de un colegio de Medellín, un grupo prepara una experiencia con fotoceldas de metales distintos para medir su frecuencia de corte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,0 × 10⁹ Hz, y es la frecuencia máxima que el metal puede absorber sin romperse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resulta de dividir la función de trabajo por el número de electrones, lo cual no corresponde a ninguna magnitud de la teoría fotoeléctrica."
+        },
+        {
+          "letter": "B",
+          "text": "4,8 × 10⁴ Hz, y es la frecuencia mínima necesaria para que un fotón.extraiga electrones del metal.",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir 3,2 × 10⁻⁹ J entre 6,63 × 10⁻⁴ J·s se obtiene 4,8 × 10⁴ Hz, que es la frecuencia de corte."
+        },
+        {
+          "letter": "C",
+          "text": "2,1 × 10⁻⁴ Hz, y es la frecuencia a la que el metal deja de absorber luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Además de invertir la división, el valor está muchos órdenes de magnitud por debajo de las frecuencias de la luz visible."
+        },
+        {
+          "letter": "D",
+          "text": "4,8 × 10⁴ Hz, y es la frecuencia a la que el metal emite luz por sí mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia de corte se relaciona con la emisión de electrones por absorción de luz, no con emisión propia de luz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función de trabajo es la energía mínima necesaria para extrae un electrón de un metal. En unidades del sistema internacional, 2,0 eV equivalen a 3,2 × 10⁻⁹ J. La frecuencia de corte se obtiene dividiendo esa energía entre la constante de Planck: 3,2 × 10⁻⁹ J / 6,63 × 10⁻⁴ J·s = 4,8 × 10⁴ Hz. Por debajo de esa frecuencia, cada fotón aporta menos energía que la función de trabajo y no se puede liberar ningún electrón, por más intensa que sea la luz. Por encima de ella, cada fotón sí puede liberar electrones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v5",
+      "statement": "En un experimento fotoeléctrico se mantienen la frecuencia y el metal, y se duplica la intensidad de la luz. Qué cambios se observan en los electrones emitidos?",
+      "context": "En el laboratorio de un colegio de Barranquilla, un grupo compara dos bombillos idénticos encendidos en el mismo circuito y luego repite el experimento con una luz más intensa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta el número de electrones emitidos por segundo, pero su energía cinética máxima no cambia.",
+          "is_correct": true,
+          "feedback": "Correcto. Más intensidad significa más fotones por segundo, no fotones más energéticos; la energía de cada uno depende de la frecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta tanto el número de electrones como su energía cinética máxima, porque hay más energía total disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con la frecuencia constante, la energía de cada fotón no cambia, y con ella tampoco la energía de los electrones emitidos."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye el número de electrones emitidos, porque la luz intensa ioniza el metal y lo bloquea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz intensa no impide la emisión: al contrario, aumenta el número de electrones liberados por unidad de tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "No cambia nada, porque en el efecto fotoeléctrico solo importa la frecuencia de la luz y no su intensidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia fija la energía de cada fotón, pero la intensidad sigue determinando cuántos electrones se emiten por segundo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El efecto fotoeléctrico separa claramente dos variables. La frecuencia de la luz determina la energía de cada fotón mediante E = h · f y, por tanto, la energía cinética máxima de los electrones liberados. La intensidad determina cuántos fotones llegan por segundo, y con ello cuántos electrones se expulsan en ese intervalo. Este comportamiento dual es una de las pruebas experimentales que obligan a abandonar la idea de la luz como una perturbación continua, y explica por qué una luz más intensa en la misma frecuencia produce más corriente pero no electrones más rápidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v6",
+      "statement": "Un grupo de estudiantes observa en una pantalla franjas de luz y oscuridad obtenidas al hacer pasar luz por una doble rendija. Qué modelo de la luz es el pertinente para explicar ese resultado?",
+      "context": "En el taller de un colegio de Ibagué, un grupo analiza la imagen de un patrón de interferencia obtenido en el laboratorio y lo relaciona con un modelo de la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El modelo de fotones únicamente, porque cada fotón recorre una sola rendija y no puede crear franjas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los fotones llegan uno a uno, la acumulación de impactos reproduce el mismo patrón de interferencia."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo newtoniano de la luz corpuscular, porque las franjas se explican por el choque de partículas de luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo corpuscular clásico no predice franjas de interferencia; esa es precisamente la prueba que lo dejó insuficiente."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno de los modelos es válido, porque la luz no es ni onda ni partícula sino un fenómeno sin descripción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dualidad indica que cada modelo describe un aspecto distinto, no que la luz quede sin explicación física."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo ondulatorio, porque la superposición de dos ondas que llegan con caminos distintos produce interferencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Las franjas de interferencia son la evidencia experimental clásica del comportamiento ondulatorio de la luz."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La doble rendija produce un patrón de franjas que solo se obtiene sumando las contribuciones de dos ondas que recorren caminos de longitudes diferentes. Esa suma, constructiva en unos puntos y destructiva en otros, es la firma del comportamiento ondulatorio. Sin embargo, el mismo patrón aparece cuando los fotones llegan de uno en uno, lo que indica que cada uno se comporta como una onda que pasa por ambas rendijas. Estos experimentos son la razón de ser de la teoría de la dualidad: la luz necesita ambos modelos para ser descrita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v7",
+      "statement": "Un haz de electrones de masa 9,11 × 10⁻ kg se mueve a 1,5 × 10⁶ m/s. Qué longitud de onda de de Broglie corresponde a esos electrones y qué indica ese resultado?",
+      "context": "En un centro de investigación escolar de Bogotá, se prepara un microscopio electrónico y el grupo calcula la longitud de onda asociada a un haz de electrones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4,9 × 10⁷ m, y muestra que la longitud de onda de la materia es muy mayor que la de la luz visible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado es mucho menor, no mayor: los electrones rápidos tienen longitudes de onda diminutas."
+        },
+        {
+          "letter": "B",
+          "text": "6,63 × 10⁻⁴ m, porque la longitud de onda de la materia es siempre la constante de Planck.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de onda depende también de la masa y la velocidad; la constante de Planck es solo el numerador de la relación."
+        },
+        {
+          "letter": "C",
+          "text": "4,9 × 10⁻⁰ m, y muestra que la materia en movimiento tiene un comportamiento ondulatorio detectable.",
+          "is_correct": true,
+          "feedback": "Correcto. λ = h / (m · v) da 4,85 × 10⁻⁰ m, una longitud de onda del orden de la fracción de nanómetro, observable en un microscopio electrónico."
+        },
+        {
+          "letter": "D",
+          "text": "1,4 × 10⁻⁵ m, y muestra que los electrones son partículas sin ninguna propiedad ondulatoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor sale de omitir la velocidad en el denominador, y contradice la hipótesis de de Broglie que se está calculando."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻⁴ J·s dividido entre (9,11 × 10⁻ kg × 1,5 × 10⁶ m/s) da 4,85 × 10⁻⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v8",
+      "statement": "Un mismo haz de electrones pasa por una doble rendija y produce un patrón de interferencia, mientras que en un detector granular cada electrón se registra como un punto localizado. Qué conclusión es correcta?",
+      "context": "En un clase de grado 9 de Valledupar, la profesora pide comparar el comportamiento de un electrón en dos experimentos distintos del laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El detector granular deforma la trayectoria del electrón y por eso muestra puntos en lugar de franjas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deformación de la trayectoria no explica la aparición del patrón: las franjas se acumulan por la distribución de impactos individuales."
+        },
+        {
+          "letter": "B",
+          "text": "El electrón presenta un comportamiento ondulatorio en la rendija y corpuscular al ser detectado, de modo que ambos aspectos son complementarios.",
+          "is_correct": true,
+          "feedback": "Correcto. El patrón de interferencia requiere amplitudes, y el impacto individual en la pantalla muestra un evento localizado y discreto."
+        },
+        {
+          "letter": "C",
+          "text": "El electrón cambia de naturaleza al pasar por la rendija, por lo que las dos observaciones son independientes entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dualidad no describe una transformación del electrón, sino dos aspectos del mismo fenómeno que se complementan."
+        },
+        {
+          "letter": "D",
+          "text": "El patrón de interferencia demuestra que el electrón deja de ser partícula dentro de la experiencia, y por eso no puede detectarse como tal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La detección como partícula es parte de la misma experiencia y sigue ocurriendo, porque la dualidad no elimina ninguno de los dos aspectos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La experiencia de interferencia de electrones combina las dos descripciones en un mismo montaje. El electrón se comporta como una onda al atravesar la doble rendija, porque cada uno se distribuye entre las dos aberturas y las probabilidades de llegada a la pantalla producen franjas de intensidades alternas. Al final, cada electrón impacta en un punto determinado de la pantalla, lo que revela su aspecto corpuscular. La conclusión de la física moderna es que los dos aspectos no son alternativos: coexisten, y la experiencia muestra ambos a la vez.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v9",
+      "statement": "Un grupo registra la energía cinética máxima de los electrones emitidos en función de la frecuencia, para dos metales distintos. Qué interpretación de esas gráficas es correcta?",
+      "context": "En un proyecto de grado 9 de Soacha, un grupo compara el comportamiento fotoeléctrico de dos metales y construye una gráfica de energía cinética contra frecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas gráficas son rectas con la misma pendiente e intercepto distinto, y cada intercepto corresponde a la función de trabajo del metal.",
+          "is_correct": true,
+          "feedback": "Correcto. La pendiente es h en todos los metales y el intercepto en el eje de la energía vale menos la función de trabajo, que es propia de cada metal."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas gráficas son rectas con distinta pendiente, porque la constante de Planck cambia según el material iluminado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pendiente es siempre la constante de Planck; lo que cambia entre metales es el intercepto, es decir, la función de trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Las gráficas son curvas, porque la energía de los electrones aumenta de forma proporcional al cuadrado de la frecuencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es lineal: E = h · f menos la función de trabajo, no cuadrática."
+        },
+        {
+          "letter": "D",
+          "text": "Las gráficas coinciden, porque todos los metales tienen la misma función de trabajo frente a la luz incidente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada metal tiene una función de trabajo distinta, y por eso las rectas cortan el eje de abscisas en frecuencias diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La representación gráfica de la energía cinética máxima frente a la frecuencia es una de las comprobaciones más fuertes de la teoría de los fotones. La relación E = h · f menos la función de trabajo es lineal: la pendiente es la constante de Planck, universal, y el punto donde la recta corta el eje de las frecuencias es la frecuencia de corte. Comparar dos metales muestra rectas paralelas que se desplazan verticalmente, porque difieren en la energía necesaria para extraer un electrón. Esa estructura gráfica es la que permite medir experimentalmente la constante de Planck.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v10",
+      "statement": "Un estudiante afirma que \"la luz es una onda y nada más\", y usa esa idea para explicar todos los fenómenos lumínicos. Cómo debe evaluarse esa afirmación?",
+      "context": "En una clase de física de un colegio de Sincelejo, se debate la validez de una afirmación sobre cómo se comporta la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la teoría ondulatoria también explica la energía discreta de los fotones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La teoría ondulatoria clásica distribuye la energía de forma continua, de modo que no puede explicar los saltos discretos observados."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque la luz es en realidad materia y por eso se comporta como una onda mecánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confunde la luz con las ondas mecánicas: la luz es una onda electromagnética, que no necesita un medio material para propagarse."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque la luz es únicamente materia y nunca se comporta como onda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Niega el comportamiento ondulatorio, que está claramente establecido por la interferencia y la difracción."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es insuficiente: la onda explica la interferencia y la difracción, pero no la emisión y la absorción en forma de fotones.",
+          "is_correct": true,
+          "feedback": "Correcto. La explicación es válida solo dentro de su alcance, y el efecto fotoeléctrico exige el modelo de fotones para describir la interacción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una afirmación científica exige identificar su alcance. La teoría ondulatoria de la luz explica con precisión la interferencia, la difracción, la reflexión y la refracción, pero predice que la energía se transmite de manera continua, algo que contradice el efecto fotoeléctrico y la emisión de cuerpos incandescentes en líneas discretas. La teoría de los fotones cubre esos casos, aunque no describa la interferencia por sí sola. La conclusión correcta no es elegir un modelo y descartar el otro, sino reconocer que la luz exige ambos para ser descrita con rigor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v11",
+      "statement": "En un equipo de radiografía se usa un haz de electrones acelerados que choca contra un metal. Qué principio de la física cuántica explica que ese proceso produzca una radiación de alta frecuencia?",
+      "context": "En un hospital de Bucaramanga, un grupo de estudiantes de grado 9 visita el área de radiología y pregunta por el equipo que usa rayos X.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera ley de la termodinámica, porque la energía cinética del electrón se transforma en energía interna del metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera ley describe la conservación de la energía, pero no el mecanismo de emisión de radiación de alta frecuencia."
+        },
+        {
+          "letter": "B",
+          "text": "La ley de los gases ideales, porque los electrones acelerados se comportan como un gas en el metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley de los gases ideales se aplica a gases macroscópicos y no explica la emisión de radiación."
+        },
+        {
+          "letter": "C",
+          "text": "El efecto fotoeléctrico, porque los electrones liberan energía al ionizar el metal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto fotoeléctrico va en sentido contrario: los fotones liberan electrones de un metal, y no es el mecanismo de la emisión de rayos X."
+        },
+        {
+          "letter": "D",
+          "text": "La dualidad onda-partícula, porque un electrón acelerado posee una longitud de onda corta que se convierte en radiación de alta frecuencia.",
+          "is_correct": true,
+          "feedback": "Correcto. De Broglie asocia una longitud de onda al electrón acelerado, y su frenado en el metal genera radiación de muy alta frecuencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un tubo de rayos X, los electrones acelerados por una diferencia de potencial alto chocan contra un objetivo metálico y se frenan bruscamente. Según la hipótesis de de Broglie, esos electrones en movimiento tienen una longitud de onda asociada muy corta, y la radiación emitida corresponde a ese comportamiento ondulatorio. La energía de la radiación depende de la diferencia de potencial aplicada, razón por la cual un equipo de mayor voltaje produce rayos más penetrantes. La aplicación hospitalaria de esta idea es muy directa: permite obtener imágenes del interior del cuerpo humano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v12",
+      "statement": "Un equipo conecta un fotodiodo a un circuito con un medidor de corriente y lo ilumina con dos lámparas: una de luz roja y otra de luz ultravioleta de igual potencia. Qué resultado esperado sería coherente con la teoría de los fotones?",
+      "context": "En el proyecto de investigación de un colegio de Quibdó, un equipo diseña una experiencia para relacionar la luz incidente con la corriente eléctrica medida en un circuito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se espera corriente en ninguno de los dos casos, porque solo las ondas de radio producen corriente eléctrica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier radiación con frecuencia suficiente puede transferir energía a los electrones del material y generar corriente."
+        },
+        {
+          "letter": "B",
+          "text": "Con la luz ultravioleta se espera una corriente mayor, porque los fotones de mayor frecuencia aportan más energía por fotón.",
+          "is_correct": true,
+          "feedback": "Correcto. A igual potencia, la radiación de mayor frecuencia entrega fotones más energéticos, que transfieren más energía a los electrones del material."
+        },
+        {
+          "letter": "C",
+          "text": "Con la luz roja se espera una corriente mayor, porque el rojo es el color que el ojo humano detecta con mayor intensidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sensibilidad del ojo humano no determina la corriente eléctrica: lo relevante es la energía que aporta cada fotón."
+        },
+        {
+          "letter": "D",
+          "text": "Se espera la misma corriente en ambos casos, porque a igual potencia el número de fotones es el mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. A igual potencia, mayor frecuencia significa menor número de fotones, pero cada uno con más energía, lo que cambia el resultado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Este montaje permite contrastar la teoría de los fotones con la idea de luz continua. Si dos lámparas tienen la misma potencia, la de mayor frecuencia emite menos fotones por segundo, pero cada uno lleva más energía. En el fotodiodo, la corriente depende de la energía que cada fotón transfiere a los electrones del material, de modo que la radiación de mayor frecuencia puede generar una corriente mayor aunque el número de fotones sea menor. Diseñar la experiencia requiere controlar la potencia y variar la frecuencia, que es justamente la variable que la teoría predice como determinante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

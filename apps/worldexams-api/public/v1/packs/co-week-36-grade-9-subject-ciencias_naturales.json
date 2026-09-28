@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-36-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T10:27:54.728Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v1",
+      "statement": "Dentro de un ecosistema, cómo se clasifican los seres vivos según su función dentro de la cadena alimentaria?",
+      "context": "En una salida de campo a una finca del río Magdalena, un grupo de estudiantes identifica los seres vivos de un estanque y su relación con el agua y el suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Productores, que fabrican su propio alimento; consumidores, que se alimentan de otros seres vivos; y descomponedores, que reciclan la materia orgánica muerta.",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas son los productores del ecosistema, los animales son consumidores y los hongos y bacterias son descomponedores."
+        },
+        {
+          "letter": "B",
+          "text": "Organismos que viven en el aire, organismos que viven en el agua y organismos que viven en el suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa clasificación describe el hábitat y no la función dentro de la cadena alimentaria."
+        },
+        {
+          "letter": "C",
+          "text": "Organismos grandes, organismos medianos y organismos pequeños, según su tamaño corporal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no determina la función ecológica: un microorganismo puede ser el productor de energía del ecosistema."
+        },
+        {
+          "letter": "D",
+          "text": "Organismos que se reproducen, organismos que se desplazan y organismos que son inmóviles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa clasificación se basa en rasgos de comportamiento y movimiento, no en la función dentro del ecosistema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un ecosistema es el conjunto de seres vivos que interactúan entre sí y con los factores no vivos de su entorno. Dentro de él, los productores, en su mayoría plantas, realizan fotosíntesis y convierten energía solar en energía química. Los consumidores obtienen energía alimentándose de otros organismos, y pueden ser primarios, secundarios o terciarios. Los descomponedores, como los hongos y muchas bacterias, descomponen la materia orgánica muerta y devuelven sus elementos al suelo, lo que permite que los nutrientes vuelvan a circular.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v2",
+      "statement": "A diferencia de la energía, por qué la materia puede recorrer repetidamente un ecosistema?",
+      "context": "En una clase de grado 9 de Villavicencio, la profesora explica con flechas por qué la materia se recicla mientras la energía fluye en una sola dirección.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la materia no se consume al pasar de un nivel trófico a otro, a diferencia de la energía que sí se pierde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte la explicación: es la energía la que se disipa, y la materia la que se conserva y circula."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los descomponedores crean materia nueva a partir de la materia orgánica muerta, en lugar de reutilizarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores transforman la materia orgánica en sustancias inorgánicas que ya existían dentro de esos restos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la materia se regenera espontáneamente en la atmósfera, sin necesidad de los seres vivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los elementosátomos que circulan provienen de reservas existentes, y su reciclaje depende en buena medida de los descomponedores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la materia se recicla: los elementos de los seres vivos vuelven al ambiente mediante la descomposición y son utilizados de nuevo por otros organismos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los elementos químicos circulan en ciclos, mientras que la energía fluye en una sola dirección y se disipa como calor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un ecosistema, la energía fluye en una sola dirección: entra con la radiación solar, pasa de un nivel trófico a otro y se pierde como calor en cada transferencia. En cambio, la materia se conserva y circula en ciclos. Cuando los descomponedores actúan sobre los restos orgánicos, liberan elementos como carbono, nitrógeno y fósforo al suelo y a la atmósfera, y esos elementos vuelven a ser utilizados por los productores. Por eso un ecosistema puede sostener vida indefinidamente si se mantienen intactos sus ciclos de la materia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v3",
+      "statement": "En un bosque, los productores almacenan 10 000 kJ de energía. Aplicando la regla de que solo cerca del 10 % pasa al siguiente nivel, cuánta energía quedará disponible para los consumidores terciarios?",
+      "context": "En un ejercicio de grado 9 de un colegio de Quibdó, un grupo calcula la energía disponible en los niveles tróficos de un bosque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 000 kJ, porque la mitad de la energía pasa directamente de los productores a los consumidores terciarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no salta niveles: debe pasar por los consumidores primarios y secundarios, perdiéndose en cada paso."
+        },
+        {
+          "letter": "B",
+          "text": "9 000 kJ, porque los descomponedores devuelven la energía perdida a los consumidores terciarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores devuelven materia al ambiente, pero la energía que ellos liberan ya no llega a los consumidores terciarios."
+        },
+        {
+          "letter": "C",
+          "text": "10 kJ, porque la energía se reduce a la décima parte en cada uno de los tres transferencias sucesivas.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia es 10 000 kJ para los productores, 1 000 kJ para los primarios, 100 kJ para los secundarios y 10 kJ para los terciarios."
+        },
+        {
+          "letter": "D",
+          "text": "1 000 kJ, porque la energía se reduce a la décima parte una sola vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cifra corresponde a los consumidores primarios, que están un solo nivel por encima de los productores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En cada transferencia entre niveles tróficos se pierde una gran parte de la energía, en su mayoría como calor que los organismos liberan al ambiente. Por eso se estima que solo cerca del 10 % de la energía pasa al siguiente nivel. Aplicando ese criterio a tres transferencias, de 10 000 kJ se obtiene 1 000 kJ, luego 100 kJ y finalmente 10 kJ. Esta pérdida progresiva explica por qué las cadenas alimentarias tienen pocos niveles y por qué los grandes depredadores son tan escasos en cualquier ecosistema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v4",
+      "statement": "En el ciclo del carbono, qué procesos devuelven el carbono de la materia orgánica a la atmósfera?",
+      "context": "En un proyecto de grado 9 de un colegio de Sincelejo, un grupo representa el ciclo del carbono con flechas y procesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La evaporación del agua de mar, porque el vapor de agua arrastra el carbono a la atmósfera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaporación no libera carbono: el carbono del agua del mar se incorpora a los organismos y a los sedimentos."
+        },
+        {
+          "letter": "B",
+          "text": "La respiración de los seres vivos, la descomposición y la combustión de materias primas, además de la disolución en los océanos.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos procesos liberan dióxido de carbono a la atmósfera o lo retienen en el agua del mar."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente la fotosíntesis, porque es el proceso que introduce el carbono en la materia orgánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis retira carbono de la atmósfera; quienes lo devuelven son la respiración, la descomposición y la combustión."
+        },
+        {
+          "letter": "D",
+          "text": "La lluvia y el viento, porque transportan el carbono de un lugar a otro de la superficie terrestre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos factores transportan materia, pero no liberan carbono a la atmósfera por sí mismos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El carbono circula entre la atmósfera, los seres vivos, el suelo, los océanos y los sedimentos. La fotosíntesis retira carbono de la atmósfera y lo fija en la materia orgánica, mientras que la respiración de plantas y animales, la descomposición de los restos y la combustión de carbón, petróleo y gas lo devuelven como dióxido de carbono. Una parte se disuelve en los océanos y forma carbonatos. Ese equilibrio entre entradas y salidas regula la concentración de este gas en la atmósfera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v5",
+      "statement": "Las bacterias fijadoras de nitrógeno convierten el nitrógeno atmosférico en formas utilizables. Qué consecuencia tiene para un ecosistema?",
+      "context": "En una finca de un colegio de Armenia, un grupo compara la fertilidad de un lote sembrado con frijol y otro sembrado solo con pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la disponibilidad de nitratos en el suelo, lo que enriquece el suelo y permite el crecimiento de los productores.",
+          "is_correct": true,
+          "feedback": "Correcto. Las bacterias que viven en las raíces de las leguminosas fijan el nitrógeno y enriquecen el suelo con nitratos."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce el nitrógeno del suelo, porque las plantas absorben todo el que está disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fijación de nitrógeno incrementa el nitrógeno disponible, y la absorción de las plantas es parte del ciclo normal."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina la necesidad dethonitrogeno en la atmósfera, porque todo pasa al suelo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fijación no elimina el nitrógeno atmosférico, que sigue siendo una reserva enorme para el planeta."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuye la biomasa vegetal, porque el nitrógeno hinders el crecimiento de las plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nitrógeno es un nutriente esencial para el crecimiento vegetal, de modo que su disponibilidad lo favorece."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nitrógeno atmosférico es un 78 % del aire, pero las plantas no pueden aprovecharlo directamente en su forma molecular. Ciertas bacterias, incluidas las que viven en los nódulos de las raíces de las leguminosas como el frijol, el arveja y la lenteja, transforman ese nitrógeno en compuestos como los nitratos, que sí son asimilables. Por eso la rotación de cultivos con leguminosas mejora la fertilidad del suelo. La desnitrificación, realizada por otras bacterias, devuelve nitrógeno a la atmósfera y completa el ciclo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v6",
+      "statement": "En un estuario se reduce drásticamente la población de peces depredadores grandes. Qué efecto en cascada es esperable en la red trófica?",
+      "context": "En un proyecto de grado 9 de un colegio de Arauca, un grupo analiza cómo la pesca artesanal afecta a un estuario costero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuyen los peces pequeños, porque al desaparecer el depredador ya no hay quien los Wille los alimente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin depredadores, las presas suelen aumentar, porque se elimina el factor que limitaba su población."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta el oxígeno disuelto, porque la sobrepoblación de peces produce más fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces no realizan fotosíntesis, de modo que el aumento de su número no incrementa el oxígeno de esa manera."
+        },
+        {
+          "letter": "C",
+          "text": "El plancton desaparece, porque los peces grandes son sus principales descomponedores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces no son los descomponedores del plancton, y la reducción de depredadores no lleva a esa consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentan los peces pequeños que eran sus presas, lo que incrementa el consumo de los organismos del plancton.",
+          "is_correct": true,
+          "feedback": "Correcto. Al reducir el depredador, sus presas escapan del control y pueden aumentar, con efectos sobre los niveles inferiores."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una red trófica, la población de un nivel regula la del nivel inferior mediante la depredación. Si se eliminan los grandes depredadores, sus presas pierden ese control y se multiplican, lo que puede provocar la sobreexplotación de los productores, en este caso el plancton. Ese efecto indirecto que se propaga por toda la cadena se conoce como cascada trófica. Por eso la pesca artesanal sostenible necesita regular la captura de los peces grandes para proteger toda la red.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v7",
+      "statement": "Un lago rico en nutrientes como el fósforo y el nitrógeno presenta el fenómeno de eutrofización. Qué ocurre en él?",
+      "context": "En una sesión de investigación de un colegio de Palmira, un grupo estudia un lago que recibe aguas con mucho fósforo de los detergentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta el oxígeno disuelto, porque las algas liberan oxígeno durante la fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que las algas liberan oxígeno de día, pero en la eutrofización la descomposición posterior consume el oxígeno y el lago termina con déficit."
+        },
+        {
+          "letter": "B",
+          "text": "El lago se conserva sin cambios, porque los nutrientes adicionales no afectan a los descomponedores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores son precisamente quienes más se activan con el exceso de materia orgánica en descomposición."
+        },
+        {
+          "letter": "C",
+          "text": "Proliferan las algas, al morir su biomasa consume oxígeno disuelto y posteriormente mueren peces y otros organismos acuáticos.",
+          "is_correct": true,
+          "feedback": "Correcto. El exceso de nutrientes favorece el crecimiento algal y la descomposición posterior agota el oxígeno disponible."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuyen las algas, porque el exceso de fósforo limita su crecimiento en el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fósforo es un nutriente limitante en muchos ambientes de agua dulce, de modo que su exceso estimula el crecimiento de las algas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La eutrofización se produce cuando un ecosistema acuático recibe un exceso de nutrientes, especialmente nitrógeno y fósforo. Eso dispara el crecimiento de las algas, que cubren la superficie y limitan la luz que llega a las plantas acuáticas. Cuando las algas mueren, los descomponedores consumen el oxígeno disuelto al degradar esa biomasa, y el resultado es una hipoxia que puede causar la muerte de peces y otros organismos. Por eso el uso de detergentes con fósforo y el vertimiento de aguas servidas agravan este problema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v8",
+      "statement": "Qué papel desempeñan los páramos en el ciclo del agua y por qué son considerados fábrica de agua?",
+      "context": "En una salida de campo al páramo de Sumapaz, un guía explica la importancia de la vegetación de frailejones para el agua de las capitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tienen función en el ciclo del agua, porque el agua de las ciudades proviene solo de los glaciares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los páramos son una fuente fundamental del agua para muchas ciudades colombianas, precisamente porque liberan el agua de forma constante."
+        },
+        {
+          "letter": "B",
+          "text": "Retienen la humedad y la liberan lentamente como arroyos y neblina, que alimentan los caudales que abastecen a las ciudades del país.",
+          "is_correct": true,
+          "feedback": "Correcto. La vegetación de páramo captura la humedad de la neblina y la libera de forma lenta, regulando el caudal de los ríos de altura."
+        },
+        {
+          "letter": "C",
+          "text": "Aceleran la evaporación del agua de los ríos, porque el sol calienta directamente las hojas del páramo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El páramo no acelera la evaporación: su función es retener y liberar agua de manera gradual."
+        },
+        {
+          "letter": "D",
+          "text": "Filtran el agua de lluvia y devuelven el oxígeno al aire, por lo que funcionan como bosques de coníferas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describe otra categoría de ecosistema: los páramos se character's por su vegetación herbácea, no por coníferas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los páramos son ecosistemas de altura, situados principalmente entre los 3 000 y los 4 500 m, con vegetación herbácea adaptada al frío. Su función en el ciclo del agua es esencial: capturan la humedad de la neblina y el agua de las lluvias, y la liberan lentamente por los suelos y los arroyos. Esa liberación gradual mantiene el caudal de los ríos de altura durante todo el año, incluso en temporadas secas. Por eso la transformación de un páramo en pastureo o en mina rompe la regulación hídrica de cuencas que abastecen a Bogotá y a otras ciudades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v9",
+      "statement": "Un grupo propone restaurar un corredor de bosque que conecte dos fragmentos de selva separados por un potrero. Qué evaluación es la más adecuada?",
+      "context": "En un consejo de un colegio de Guateque, un grupo propone crear un corredor de bosque entre dos fragmentos de selva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una medida adecuada, porque el corredor permite el desplazamiento de fauna y el intercambio genético entre los dos fragmentos.",
+          "is_correct": true,
+          "feedback": "Correcto. Conectar los fragmentos reduce el aislamiento de las poblaciones y facilita el flujo de genes y de individuos."
+        },
+        {
+          "letter": "B",
+          "text": "Es innecesaria, porque los dos fragmentos ya tienen la misma composición de especies aunque estén separados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La separación física impide el flujo genético, y con el tiempo las especies de cada fragmento pueden divergir."
+        },
+        {
+          "letter": "C",
+          "text": "Es contraproducente, porque el corredor de bosque atrae especies exóticas invasoras de los potreros vecinos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corredor puede favorecer especies invasoras, pero ese riesgo se maneja con seguimiento, y el beneficio de la conectividad es mayor."
+        },
+        {
+          "letter": "D",
+          "text": "Es válida solo si se construye una carretera dentro del bosque para facilitar el mantenimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una carretera dentro del corredor lo fragmentaría de nuevo y anularía su función de conectividad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fragmentación de un bosque en parches separados aísla las poblaciones y reduce el flujo de individuos y de genes entre ellas, lo que aumenta la vulnerabilidad frente a cambios ambientales. Un corredor de bosque es una franja de vegetación que reconecta esos fragmentos y permite el desplazamiento de la fauna. La medida debe diseñarse con la especie objetivo en mente y con un manejo que controle la invasión de especies exóticas. Restaurar la conectividad es una estrategia de conservación probada en todo el mundo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v10",
+      "statement": "Se propone abrir una vía minera en un páramo. Qué evaluación del impacto ambiental es la más sólida?",
+      "context": "En un foro comunitario de un municipio de Boyacá, se discute la propuesta de abrir una vía minera en una zona de páramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El proyecto solo afectaría la economía local, porque el páramo carece de funciones ambientales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los páramos cumplen funciones de regulación hídrica y de biodiversidad esenciales para las ciudades."
+        },
+        {
+          "letter": "B",
+          "text": "El proyecto es inocuo, porque las máquinas modernas no generan ningún tipo de contaminación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería genera contaminación del agua, del aire y del suelo, con independencia del tamaño de la maquinaria."
+        },
+        {
+          "letter": "C",
+          "text": "El proyecto solo afectaría a la fauna del páramo, porque la vegetación puede regenerarse en pocos años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vegetación de páramo tarda decenas de años en recuperarse, de modo que el daño no es reversible a corto plazo."
+        },
+        {
+          "letter": "D",
+          "text": "El proyecto afectaría el ciclo del agua de la cuenca y la biodiversidad, porque la extracción altera los suelos, la vegetación y la calidad del agua.",
+          "is_correct": true,
+          "feedback": "Correcto. En un páramo los suelos son delgados y se descomponen muy lentamente, de modo que cualquier daño es difícil de revertir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un proyecto que afecta un páramo exige considerar varias dimensiones a la vez. La vegetación de páramo es de crecimiento lento, los suelos son delgados y su descomposición es muy lenta, de modo que la recuperación tarda décadas. Además, la actividad minera altera la calidad del agua que los páramos retienen y liberan, y con ella se ve afectado el abastecimiento de las ciudades que dependen de esas cuencas. A eso se suman los efectos sobre la biodiversidad. La decisión debe considerar todos estos impactos y no solo los beneficios económicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v11",
+      "statement": "Un stand afirma que \"un plástico biodegradable se descompone por sí solo y no deja residuos\". Cómo debe evaluarse esa afirmación?",
+      "context": "En una feria escolar de un colegio de Girardot, un stand afirma que todo lo que se etiqueta como biodegradable es inocuo para el ambiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque los plásticos biodegradables no producen dioxina al enterrarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algunos biodegradables liberan sustancias dañinas en su descomposición, según su composición."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque ningún material plástico puede descomponerse nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen materiales que sí se descomponen, aunque el proceso y sus efectos dependen de las condiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Es inexacta: ser biodegradable depende del tipo de material y de las condiciones del ambiente, y no garantiza ausencia de residuos ni de contaminación.",
+          "is_correct": true,
+          "feedback": "Correcto. La biodegradabilidad es una propiedad condicionada y no equivale a que el producto desaparezca sin dejar rastro."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque todos los plásticosbiodegradables desaparecen en pocos días en cualquier ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descomposición depende del material y del ambiente, y muchos plásticos requieren condiciones controladas de compostaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La etiqueta biodegradable indica que un material puede ser descompuesto por microorganismos en un tiempo y unas condiciones determinadas, no que desaparezca en cualquier lugar. La velocidad de descomposición depende de la temperatura, la humedad y la presencia de microorganismos, y en un vertedero o en el mar las condiciones suelen ser inadecuadas. Además, algunos materiales biodegradables liberan microplásticos o sustancias contaminantes durante su degradación. La gestión correcta de los residuos sigue siendo indispensable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle-v12",
+      "statement": "Un grupo coloca hojas secas en dos frascos, uno húmedo y ventilado y otro húmedo y sellado, y registra su descomposición durante semanas. Qué interpretación es la más adecuada?",
+      "context": "En un proyecto de grado 9 de un colegio de Cereté, un grupo construye una compostera y compara la descomposición de hojas en distintas condiciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hojas no se descomponen en ningún frasco, porque los descomponedores no viven en el suelo seco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descomposición ocurre con humedad y temperatura adecuadas, que es lo que se garantiza en el frasco húmedo."
+        },
+        {
+          "letter": "B",
+          "text": "La descomposición es más rápida en el frasco ventilado, porque los descomponedores necesitan oxígeno y agua para degradar la materia orgánica.",
+          "is_correct": true,
+          "feedback": "Correcto. La aireación y la humedad favorecen la actividad de los microorganismos que devuelven los nutrientes al ecosistema."
+        },
+        {
+          "letter": "C",
+          "text": "La descomposición es más rápida en el frasco sellado, porque la falta de aire aumenta la actividad de los descomponedores anaerobios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los descomponedores aerobios necesitan oxígeno; en condiciones de anaerobiosis el proceso es más lento y puede producir olores."
+        },
+        {
+          "letter": "D",
+          "text": "Las hojas se descomponen igual en ambos frascos, porque la humedad es el único factor que determina la velocidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La humedad es importante, pero la aireación también influye, de modo que los dos frascos dan resultados distintos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La descomposición es la actividad de los microorganismos que degradan la materia orgánica muerta y devuelven sus elementos al suelo. Su velocidad depende del agua, del oxígeno y de la temperatura, y también de la proporción entre material seco y material verde. Una compostera bien aireada y húmeda, como la de un jardín doméstico, reproduce esas condiciones y produce un abono rico en nutrientes. Ese proceso es el que cierra el ciclo de la materia y permite que los elementos vuelvan a los productores del ecosistema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
