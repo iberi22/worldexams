@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-16-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-28T23:03:11.186Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v1",
+      "statement": "Según esa tradición oral andina, ¿para qué sirven relatos como el de las Madres de la lluvia?",
+      "context": "En el salón de séptimo grado del colegio La Sabana de Chía, la profesora Camila leyó en voz alta un relato sobre las Madres de la lluvia, mujeres que, según la tradición oral del altiplano cundinamarqués, hacen posible el agua que da vida a los sembradíos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para registrar con fechas y nombres de testigos los hechos que ocurrieron durante una temporada de lluvias.",
+          "is_correct": false,
+          "feedback": "El registro fechado y con testigos es propio de la crónica o del testimonio histórico, no del mito."
+        },
+        {
+          "letter": "B",
+          "text": "Para explicar de manera simbólica el origen de las lluvias y de la vida que depende de ellas.",
+          "is_correct": true,
+          "feedback": "El mito cumple una función explicativa y simbólica: da sentido a un fenómeno natural como la lluvia y a la vida que de ella depende."
+        },
+        {
+          "letter": "C",
+          "text": "Para enseñar a los estudiantes a calcular el promedio mensual de lluvias de una región.",
+          "is_correct": false,
+          "feedback": "Calcular promedios es una operación matemática; el mito no enseña a medir, sino a explicar con imágenes y personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Para describir con precisión científica cómo se forma el vapor de agua dentro de las nubes.",
+          "is_correct": false,
+          "feedback": "Esa es la explicación de un texto científico, que se apoya en experimentos y mediciones, no en relatos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El mito es un relato de tradición oral que explica el origen de fenómenos naturales, de seres vivos o de elementos de la vida social. En el caso andino, las Madres de la lluvia representan la fuerza que hace posible el agua y el cultivo, sin pretender medir esa fuerza. Reconocer la función del mito ayuda a no confundirlo con un texto científico, que busca describir mecanismos verificables, ni con una crónica, que documenta hechos fechados. La pregunta clave para un lector es qué necesidad humana satisface el relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia esencial entre el relato del Caleche y el relato del naufragio que aparecen en ese mismo libro?",
+      "context": "En la biblioteca del colegio de Cartagena de Indias hay un libro de folclor con dos capítulos. El primero presenta al Caleche, figura del folclor amazónico que, según la tradición, guía a los buscadores de tesoros. El segundo relata el naufragio de una barca de carga en la costa, con año y con nombre de capitán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El del Caleche está escrito siempre en verso y el del naufragio se narra únicamente en prosa.",
+          "is_correct": false,
+          "feedback": "La forma en verso o en prosa depende del texto y de quien lo escribe, no de que el relato sea mito o leyenda."
+        },
+        {
+          "letter": "B",
+          "text": "El del Caleche pertenece solo a pueblos indígenas y el del naufragio solo a ciudades costeras.",
+          "is_correct": false,
+          "feedback": "La oposición entre lo indígena y lo urbano no define el género: hay leyendas en pueblos pequeños y mitos contados en ciudades."
+        },
+        {
+          "letter": "C",
+          "text": "El del Caleche fue compuesto en el siglo XX y el del naufragio se conserva desde la época colonial.",
+          "is_correct": false,
+          "feedback": "La fecha de composición no distingue un mito de una leyenda, porque ambos se rehacen con el paso del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "El relato del Caleche explica algo del mundo y se transmite como tradición, mientras el del naufragio se apoya en un hecho situado en un lugar y un tiempo que se pueden rastrear.",
+          "is_correct": true,
+          "feedback": "El mito explica y se transmite como tradición; la leyenda se ancla en un personaje, un lugar o un episodio local identificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Mito y leyenda se distinguen por la función que cumplen en la comunidad y no por su extensión ni por su estilo. El mito responde a la pregunta por qué existe algo, mientras la leyenda se apoya en un hecho que la comunidad recuerda y ubica en un lugar concreto. En esta pareja de capítulos, el Caleche explica y orienta, y el naufragio se localiza y se puede documentar. Presentar la diferencia de esa manera evita reducir la clasificación a la presencia de magia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de estas conclusiones explica mejor la función social de la repetición oral de un relato?",
+      "context": "En Armenia, un grupo de séptimo grado pregunta a sus abuelos por qué les gusta repetir a los nietos las mismas historias antes de dormir. Una estudiante quiere explicar en su informe el sentido de esa costumbre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición conserva la memoria colectiva y transmite a los más jóvenes las explicaciones y los valores del grupo.",
+          "is_correct": true,
+          "feedback": "Repetir el relato fija secuencias en la memoria y hace posible que el saber de la comunidad pase a la nueva generación."
+        },
+        {
+          "letter": "B",
+          "text": "La repetición sirve para que los niños memoricen la lista completa de nombres de las calles del pueblo.",
+          "is_correct": false,
+          "feedback": "La memorización de nombres de calles no explica por qué una comunidad conserva relatos sobre sí misma."
+        },
+        {
+          "letter": "C",
+          "text": "La repetición busca que los niños olviden a los personajes para que no los imiten en sus juegos.",
+          "is_correct": false,
+          "feedback": "Nada en el hecho de repetir un relato apunta a borrar a sus personajes; esa intención sería inventada."
+        },
+        {
+          "letter": "D",
+          "text": "La repetición tiene como único fin medir la capacidad de memoria de los más pequeños de la casa.",
+          "is_correct": false,
+          "feedback": "Convertir una costumbre familiar en una prueba de memoria elimina su sentido de transmisión comunitaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La transmisión oral cumple una función social además de entretener: mantiene viva la memoria del grupo y asegura que su repertorio de relatos llegue a las nuevas generaciones. Cuando un abuelo repite la misma historia ante los nietos, está haciendo dos cosas a la vez, conservar y enseñar. Reconocer esta función ayuda a explicar por qué las comunidades adaptan los relatos al interlocutor y no los consideran versiones deformadas de un original perdido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estos párrafos presenta el Dorado con una actitud históricamente responsable?",
+      "context": "El periódico escolar de Bogotá prepara una nota sobre el Dorado. Una estudiante propone un párrafo para la nota y debe cuidar que no convierta una tradición en un hecho comprobado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Está demostrado que los antiguos habitantes construyeron el Dorado con miles de piezas de oro, y por eso el país es rico.\"",
+          "is_correct": false,
+          "feedback": "Afirma una comprobación que la tradición no aporta y además añade una conclusión sobre la riqueza del país sin fundamento."
+        },
+        {
+          "letter": "B",
+          "text": "\"El Dorado fue un río de oro que se secó por completo, y por eso los ríos de la región llevan poca agua.\"",
+          "is_correct": false,
+          "feedback": "Convierte una imagen del folclor en una explicación física del caudal de los ríos, lo cual no está sustentado."
+        },
+        {
+          "letter": "C",
+          "text": "\"Según la tradición, la búsqueda del Dorado impulsó viajes de exploradores por el territorio; hoy se estudia como parte de la memoria cultural y no como un hecho comprobado.\"",
+          "is_correct": true,
+          "feedback": "La fórmula declara la fuente de la información y marca el dato como tradición, no como hecho verificado."
+        },
+        {
+          "letter": "D",
+          "text": "\"El Dorado nunca influyó en la historia del territorio, aunque todas las fuentes lo mencionen durante siglos.\"",
+          "is_correct": false,
+          "feedback": "Niega sin matices la influencia del mito, que es justamente lo que permite observar la memoria cultural de un país."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Presentar un mito con responsabilidad implica declarar quién lo cuenta y qué género es, y no convertirlo en relato histórico verificado. Las expresiones \"según la tradición\" y \"no como un hecho comprobado\" son decisiones de escritura que separan la herencia cultural de la evidencia documental. Este hábito es especialmente importante en el trabajo escolar, donde una fuente cultural puede reforzar una conclusión equivocada cuando se lee como prueba. Saber nombrar el origen del saber es la base de la lectura crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál frase presenta esa tradición de la manera más adecuada para un mural escolar?",
+      "context": "El mural de la entrada del colegio de Villavicencio recibe cada año textos de la comunidad. Una comisión de estudiantes debe escribir la frase que presenta al Caleche junto a un dibujo de una canoa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los científicos colombianos confirmaron hace cincuenta años que el Caleche existe y que guía a las canoas por el Guaviare.\"",
+          "is_correct": false,
+          "feedback": "Atribuye a la ciencia una confirmación que el texto no documenta y convierte el folclor en un hallazgo verificable."
+        },
+        {
+          "letter": "B",
+          "text": "\"Nadie en las comunidades amazónicas conoce al Caleche, de modo que es una invención reciente de la televisión.\"",
+          "is_correct": false,
+          "feedback": "Niega la tradición sin revisar fuentes y atribuye su origen a un medio, cuando el relato es mucho más antiguo."
+        },
+        {
+          "letter": "C",
+          "text": "\"El Caleche es un marinero del Caribe que arrastra las canoas desde la costa de Cartagena.\"",
+          "is_correct": false,
+          "feedback": "Cambia el escenario y el papel del personaje, que pertenece al folclor amazónico y no a la marinería del Caribe."
+        },
+        {
+          "letter": "D",
+          "text": "\"En el folclor de las comunidades amazónicas, el Caleche es un guardián antiguo que aparece a los exploradores del bosque; es una tradición que se cuenta, no un hecho comprobado.\"",
+          "is_correct": true,
+          "feedback": "Nombra la comunidad de origen, describe la figura dentro del folclor y aclara que se trata de una tradición narrada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto expositivo escolar que presenta folclor debe indicar de dónde viene el relato y qué tipo de saber representa. Nombrar la comunidad de origen y usar expresiones como \"en el folclor\" o \"es una tradición que se cuenta\" protege la diferencia entre herencia cultural y comprobación histórica. Además, describir con precisión el papel del personaje evita distorsiones que llevan a conclusiones equivocadas. Esta es una habilidad que se aplica de inmediato en trabajos escritos: escribir con rigor sin descalificar la tradición.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v6",
+      "statement": "¿Qué establece el hecho de que dos textos distintos expliquen la misma lluvia, uno narrado y otro experimental, al comparar sus propósitos?",
+      "context": "En el taller de lectura de Medellín, un grupo compara dos textos sobre por qué llueve: una narración andina que presenta a las Madres de la lluvia y un capítulo de libro de ciencias que describe la evaporación y la condensación con el apoyo de experimentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dos textos son incorrectos, porque un mismo fenómeno no puede tener dos explicaciones distintas.",
+          "is_correct": false,
+          "feedback": "Dos textos pueden responder a preguntas diferentes sin que ninguno de los dos sea falso por ello."
+        },
+        {
+          "letter": "B",
+          "text": "Que cada texto responde a una pregunta diferente: el relato explica el sentido que una comunidad da al agua y el texto científico describe mecanismos medibles.",
+          "is_correct": true,
+          "feedback": "Analizar dos textos consiste en explicar qué pregunta responde cada uno y no en decidir cuál contiene toda la verdad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la narración es más precisa que el texto de ciencias, porque menciona a personajes y lugares concretos.",
+          "is_correct": false,
+          "feedback": "La precisión científica depende de las mediciones y no de la cantidad de detalles narrativos que aparecen."
+        },
+        {
+          "letter": "D",
+          "text": "Que los textos de ciencias son supersticiosos y que los relatos orales realizan mediciones controladas.",
+          "is_correct": false,
+          "feedback": "Atribuye superstición a la ciencia y mediciones al relato, lo que invierte por completo el orden de rigor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar un relato y un texto científico exige analizar la pregunta que cada uno responde, porque no compiten por el mismo lugar. El mito ofrece una explicación simbólica con sentido para la vida de la comunidad, mientras el texto de ciencias describe mecanismos que se pueden medir y repetir. Reconocer que los dos textos tienen propósitos distintos evita el falso dilema entre creencia y verdad. Esa distinción es la base de la lectura crítica de fuentes que pertenecen a géneros diferentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v7",
+      "statement": "¿Qué se puede inferir de ese detalle sobre la función del relato dentro de esa familia?",
+      "context": "En una versión oral del mito de las Madres de la lluvia, la narradora cuenta que en su casa tapaban la olla y ninguno se quedaba en la puerta mientras la abuela narraba la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el relato cumple una función de protección ritual en el hogar y no solo entretiene.",
+          "is_correct": true,
+          "feedback": "Las conductas asociadas a la narración, como tapar la olla o evitar la puerta, indican un uso ritual del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Que en esa familia el relato no se tomaba en serio y se contaba por costumbre sin ningún sentido.",
+          "is_correct": false,
+          "feedback": "Si careciera de sentido, no habría conductas de protección asociadas; el detalle indica lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Que la historia servía como manual de cocina, porque la familia siempre hablaba de ollas.",
+          "is_correct": false,
+          "feedback": "La mención de la olla es un detalle del ritual doméstico y no una instrucción para preparar alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Que el relato estaba reservado exclusivamente para los niños, que no lo entendían y solo lo escuchaban por juego.",
+          "is_correct": false,
+          "feedback": "Quien tomaba la precaución era la narradora adulta, de modo que el compromiso no era solo de los niños."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es deducir a partir de indicios que el texto no declara de manera explícita. Las acciones que rodean al relato, tapar la olla y no asomarse a la puerta, sugieren que la historia tenía un uso protector dentro de la casa. Reconocer estos indicios permite pasar de la constatación de que cuenta algo interesante a la comprensión de que cumple una función ritual. Esa lectura inferencial es más valiosa que la simple cita de lo que el texto dice de forma literal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v8",
+      "statement": "¿Qué explica mejor que la versión oral de un mito y la versión resumida en una placa de museo no coincidan exactamente?",
+      "context": "Un museo de Bogotá exhibe una placa que resume la historia de Miu, mientras un miembro de la comunidad que lo cuenta en voz alta sostiene que la versión del museo no es la que él conoce. Las dos versiones usan el mismo nombre del protagonista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que una de las dos versiones es falsa y la otra verdadera, según cuál de las dos se haya escrito primero.",
+          "is_correct": false,
+          "feedback": "Tratarlas como verdaderas y falsas supone que existe un original único, cuando los relatos se transforman."
+        },
+        {
+          "letter": "B",
+          "text": "Que los relatos orales se cambian al escribirlos porque los sistemas de escritura deforman lo que se dice.",
+          "is_correct": false,
+          "feedback": "La diferencia no se explica por un defecto de la escritura sino porque cada versión responde a un contexto propio."
+        },
+        {
+          "letter": "C",
+          "text": "Que el relato se adapta a la comunidad, al momento y al propósito de quien lo cuenta, de modo que ninguna versión es la única original.",
+          "is_correct": true,
+          "feedback": "Los relatos orales se readaptan en cada actuación y el resumen del museo cumple otra función, la de informar."
+        },
+        {
+          "letter": "D",
+          "text": "Que la versión del museo siempre pierde la información esencial y la oral siempre la conserva completa.",
+          "is_correct": false,
+          "feedback": "Generaliza en dos sentidos opuestos: cada versión deja fuera elementos que la otra prioriza y ninguna es completa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mismo relato puede tomar formas distintas según la comunidad que lo cuenta, el público que escucha y el propósito de quien lo escribe. La placa de museo busca informar de manera breve y documentar; la versión oral busca conectar con la memoria y con la experiencia de quienes la escuchan. Analizar esas diferencias permite entender la tradición como algo vivo y no como un texto fijo y terminado. También enseña a valorar la versión de una placa sin descalificar la voz de la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio es el más riguroso sobre ese enunciado del blog?",
+      "context": "En una tarea de lectura, los estudiantes leen un blog que afirma: \"Está científicamente comprobado que los habitantes antiguos construyeron la ciudad de oro llamada Dorado.\" La profesora pide evaluar la solidez de ese enunciado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El enunciado debe eliminarse por completo, porque todo lo que forma parte del folclor carece de valor para el trabajo escolar.",
+          "is_correct": false,
+          "feedback": "Descarta la tradición como fuente, lo cual es excesivo: el folclor sí informa sobre cómo piensa una comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "El texto mezcla una tradición cultural con una afirmación científica y no indica quién lo comprobó ni con qué evidencia, por lo que la afirmación no es verificable tal como está escrita.",
+          "is_correct": true,
+          "feedback": "Detecta la mezcla de géneros, la ausencia de fuente y la falta de evidencia, que son los tres problemas del enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "El enunciado puede reproducirse sin cambios, porque apareció publicado en un medio digital de gran circulación.",
+          "is_correct": false,
+          "feedback": "La publicación en un medio digital no garantiza precisión, porque el rigor depende de la fuente y no de la difusión."
+        },
+        {
+          "letter": "D",
+          "text": "El enunciado debe reemplazarse por una descripción extensa del tesoro, aunque esa descripción tampoco tenga respaldo documental.",
+          "is_correct": false,
+          "feedback": "Sustituye un problema por otro, porque añade detalles sin fuente y mantiene la falta total de verificación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un enunciado exige aplicar criterios: distinguir tradición de comprobación, identificar la fuente y exigir que la evidencia esté al alcance del lector. El blog falla en esos tres puntos al mismo tiempo, y un lector crítico puede señalarlo sin necesidad de refutar cada palabra. El juicio más riguroso no elimina la tradición ni la acepta sin matices, sino que la ubica en su lugar y explica por qué la afirmación no puede sostenerse. Esa misma estructura sirve para valorar cualquier fuente escolar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de estas decisiones muestra el uso más responsable de la tradición oral en una investigación escolar?",
+      "context": "Los estudiantes de séptimo grado de Pereira preparan una investigación sobre la relación entre el territorio y la tradición oral. Deben decidir cómo incorporar en su informe los relatos que recogieron en las visitas a familias del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citar el relato como si fuera un documento escrito de la época colonial, porque así el trabajo tendrá más apariencia de seriedad.",
+          "is_correct": false,
+          "feedback": "Convierte una tradición oral en un documento de archivo, lo que falsea el origen y la naturaleza de la fuente."
+        },
+        {
+          "letter": "B",
+          "text": "No incluir los relatos, porque a los estudiantes de séptimo grado no les corresponde analizar creencias que no se pueden comprobar.",
+          "is_correct": false,
+          "feedback": "Excluye una fuente legítima por falta de comprobación y confunde el valor testimonial con la certeza científica."
+        },
+        {
+          "letter": "C",
+          "text": "Incluir solo la versión más divertida, porque el objetivo de la investigación es que el trabajo resulte atractivo al público.",
+          "is_correct": false,
+          "feedback": "Elige la fuente por su efecto en el lector y no por su capacidad de informar sobre la tradición."
+        },
+        {
+          "letter": "D",
+          "text": "Citar el relato indicando quién lo contó y a qué comunidad pertenece, explicar su sentido simbólico y contrastarlo con una fuente histórica.",
+          "is_correct": true,
+          "feedback": "Nombra al informante, explica la función simbólica del relato y lo contrasta, que es el uso más sólido de la fuente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La investigación escolar gana calidad cuando identifica de dónde viene cada fuente y qué puede y qué no puede demostrar. La tradición oral es una fuente de primer orden para comprender cómo un grupo se explica el territorio, siempre que se cite con su origen y se contraste con otras evidencias. Omitirla por no ser comprobable empobrece el trabajo, y presentarla como documento de época lo falsea. Evaluar una fuente es, ante todo, declarar su naturaleza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
