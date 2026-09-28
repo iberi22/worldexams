@@ -34,9 +34,9 @@ Según la explicación de la profesora, ¿qué caracteriza a un texto de literat
 
 ### Opciones
 - [x] A) Que el texto presenta un hecho que rompe las leyes naturales y, aun así, la narración lo trata como algo normal. <!-- feedback: Correcto. La literatura fantástica presenta un acontecimiento que contradice la realidad conocida y lo narra con naturalidad, como si ocurriera todos los días. -->
-- [ ] A) Que el narrador duda constantemente de lo que ocurre y por eso lo cuenta como un hecho imposible. <!-- feedback: En la literatura fantástica el narrador no duda de su mundo; la duda se traslada al lector, y eso es lo que hace funcionar el relato. -->
-- [ ] B) Que el autor debe explicar al final que todo fue un sueño o un error de los sentidos. <!-- feedback: Explicar al final que fue un sueño es un recurso de cierre, no la definición del género; muchos cuentos fantásticos no recurren a él. -->
-- [ ] C) Que el texto está escrito en verso y se apoya en la rima para contar hechos imposibles. <!-- feedback: El verso no es una condición del género; la literatura fantástica aparece tanto en prosa como en verso. -->
+- [ ] B) Que el narrador duda constantemente de lo que ocurre y por eso lo cuenta como un hecho imposible. <!-- feedback: En la literatura fantástica el narrador no duda de su mundo; la duda se traslada al lector, y eso es lo que hace funcionar el relato. -->
+- [ ] C) Que el autor debe explicar al final que todo fue un sueño o un error de los sentidos. <!-- feedback: Explicar al final que fue un sueño es un recurso de cierre, no la definición del género; muchos cuentos fantásticos no recurren a él. -->
+- [ ] D) Que el texto está escrito en verso y se apoya en la rima para contar hechos imposibles. <!-- feedback: El verso no es una condición del género; la literatura fantástica aparece tanto en prosa como en verso. -->
 
 ### Explicacion Pedagogica
 La literatura fantástica es un género narrativo en el que un acontecimiento que contradice las leyes naturales se presenta con la misma naturalidad con la que se narran los hechos cotidianos. El narrador no señala la rareza del hecho, porque dentro de su mundo esa rareza no existe. La consecuencia es que la extrañeza se traslada al lector, que debe decidir si lo narrado pertenece a la realidad o a la ficción. Reconocer esta lógica es el primer paso para analizar el género.
@@ -56,8 +56,8 @@ En el ensayo de Cortázar, ¿cuáles son los dos principios que sostienen la lit
 ### Opciones
 - [ ] A) El autor debe incredularse de cada hecho dentro de la obra para que el lector se identifique con él. <!-- feedback: Si el autor duda de su propio mundo, desaparece la lógica de la ficción y con ella la literatura fantástica. -->
 - [x] B) El mundo presentado por el autor debe ser coherente, sin que el autor dude de esa coherencia, y la duda debe trasladarse al lector. <!-- feedback: Correcto. Cortázar pide que el narrador no rompa su propio mundo y que, en cambio, sea el lector quien dude de lo que lee. -->
-- [ ] B) El lector debe aceptar sin reservas lo narrado, sin necesitar ninguna explicación al final del relato. <!-- feedback: El lector sí recibe la duda, según el segundo principio; la ausencia total de reacción crítica no define el género. -->
-- [ ] C) La historia debe empezar y terminar dentro de las leyes naturales, aunque en la mitad ocurra algo extraordinario. <!-- feedback: Un cierre dentro de la realidad no es una condición; la literatura fantástica opera con un mundo propio, no con excepciones temporales. -->
+- [ ] C) El lector debe aceptar sin reservas lo narrado, sin necesitar ninguna explicación al final del relato. <!-- feedback: El lector sí recibe la duda, según el segundo principio; la ausencia total de reacción crítica no define el género. -->
+- [ ] D) La historia debe empezar y terminar dentro de las leyes naturales, aunque en la mitad ocurra algo extraordinario. <!-- feedback: Un cierre dentro de la realidad no es una condición; la literatura fantástica opera con un mundo propio, no con excepciones temporales. -->
 
 ### Explicacion Pedagogica
 Cortázar formula dos principios que siguen siendo el punto de partida para analizar el género. El primero exige que el mundo creado por el autor tenga reglas internas y que el autor no exprese dudas sobre ellas. El segundo traslada esa duda al lector, que sí puede preguntarse si lo narrado pertenece a la realidad. Estos dos principios explican por qué un cuento fantástico resulta inquietante sin necesidad de sustos, voces ni apariciones.
@@ -78,7 +78,7 @@ Cortázar formula dos principios que siguen siendo el punto de partida para anal
 - [ ] A) La literatura fantástica aparece solo en el siglo XX, mientras que "lo real maravilloso" se aplica desde relatos del siglo XVI. <!-- feedback: Ambas propuestas se formulan en el siglo XX, y la literatura fantástica tiene antecedentes muy antigos, como los relatos de Hoffmann. -->
 - [ ] B) "Lo real maravilloso" es un género de novela, mientras que la literatura fantástica solo puede escribirse en forma de cuento. <!-- feedback: La longitud no define ninguno de los dos conceptos; ambos aparecen en cuentos, novelas y relatos de distintos tamaños. -->
 - [x] C) En la literatura fantástica el narrador no duda de su mundo, mientras que en "lo real maravilloso" lo extraordinario se presenta como parte de una realidad concreta y verdadera. <!-- feedback: Correcto. La diferencia está en la actitud: el narrador fantástico no duda de las reglas de su mundo, y lo maravilloso se apoya en una realidad histórica y cultural concreta. -->
-- [ ] C) La literatura fantástica exige un final que explique el fenómeno, y "lo real maravilloso" lo prohibe expresamente. <!-- feedback: Ninguno de los dos conceptos obliga a cerrar el relato con una explicación; el final explicativo es un recurso opcional, no una regla. -->
+- [ ] D) La literatura fantástica exige un final que explique el fenómeno, y "lo real maravilloso" lo prohibe expresamente. <!-- feedback: Ninguno de los dos conceptos obliga a cerrar el relato con una explicación; el final explicativo es un recurso opcional, no una regla. -->
 
 ### Explicacion Pedagogica
 Los dos conceptos suelen confundirse porque ambos incorporan lo extraordinario en la narración, pero se apoyan en hipótesis distintas. En la literatura fantástica, el narrador aplica a su mundo reglas que no corresponden a la realidad y no comenta esa incoherencia. En cambio, "lo real maravilloso" busca un efecto de asombro en elementos reales de la historia y la cultura, y para ello se apoya en un contexto histórico y social verificable. Distinguir ambas propuestas ayuda a no reducir el análisis a una sola categoría.
@@ -118,9 +118,9 @@ Aplicar los principios de Cortázar consiste en observar dos cosas a la vez: si 
 
 ### Opciones
 - [x] A) La narración adopta las reglas del mundo transformado y sigue tratándolas como normales, de modo que la ruptura se percibe desde fuera. <!-- feedback: Correcto. El narrador aplica a su mundo la condición nueva sin dudar, y por eso la ruptura queda visible para el lector. -->
-- [ ] A) La narración está escrita en primera persona, y esa forma de hablar impide que el lector dude de lo narrado. <!-- feedback: El narrador de Kafka es en tercera persona; la primera persona no es el rasgo que define el género. -->
-- [ ] B) La narración emplea un lenguaje coloquial y cotidiano que oculta lo extraordinario. <!-- feedback: El relato no oculta nada: describe la transformación con detalle riguroso, y ese detalle es precisamente lo que vuelve verosímil y extraordinario a la vez. -->
-- [ ] C) La narración cierra con un comentario explícito sobre lo absurdo de la situación vivida por el personaje. <!-- feedback: No hay tal comentario; la fuerza del relato está precisamente en que el narrador no califica de absurdo lo que describe. -->
+- [ ] B) La narración está escrita en primera persona, y esa forma de hablar impide que el lector dude de lo narrado. <!-- feedback: El narrador de Kafka es en tercera persona; la primera persona no es el rasgo que define el género. -->
+- [ ] C) La narración emplea un lenguaje coloquial y cotidiano que oculta lo extraordinario. <!-- feedback: El relato no oculta nada: describe la transformación con detalle riguroso, y ese detalle es precisamente lo que vuelve verosímil y extraordinario a la vez. -->
+- [ ] D) La narración cierra con un comentario explícito sobre lo absurdo de la situación vivida por el personaje. <!-- feedback: No hay tal comentario; la fuerza del relato está precisamente en que el narrador no califica de absurdo lo que describe. -->
 
 ### Explicacion Pedagogica
 El relato de Kafka muestra que la literatura fantástica no depende de advertencias ni de sustos explícitos, sino de la coherencia interna del mundo narrado. Una vez que el narrador acepta la transformación, todo lo que ocurre a partir de ella se narra con la misma calma con la que se narraría la rutina diaria. La ruptura se hace visible por contraste: el lector sigue aplicando las reglas reales de la realidad y por eso percibe lo que el narrador ya no considera raro. Analizar este mecanismo permite distinguir la literatura fantástica de la parodia y del cuento de terror.
@@ -140,8 +140,8 @@ Un fragmento dice: "Cuando Jonah llegó a la casa, la sopa ya estaba servida y n
 ### Opciones
 - [ ] A) La mención del hambre, porque los personajes de la novela deben siempre describir su estado físico. <!-- feedback: Mencionar el hambre es un detalle de la vida diaria y no distingue ningún género narrativo. -->
 - [x] B) La ausencia de una explicación para la comida, porque el narrador presenta lo imposible como algo que no merece comentarios. <!-- feedback: Correcto. La falta de explicación es la pista decisiva: en la literatura fantástica el narrador omite el comentario precisamente porque no lo necesita. -->
-- [ ] B) El uso del pasado, porque el tiempo verbal determina por sí solo el género del relato. <!-- feedback: El tiempo verbal por sí solo no determina el género; muchos cuentos fantásticos y realistas los usan por igual. -->
-- [ ] C) El nombre del personaje, porque los nombres propios sirven para identificar el género según su origen cultural. <!-- feedback: El nombre del personaje no aporta ninguna pista sobre el género; el criterio debe buscar el tratamiento de lo imposible. -->
+- [ ] C) El uso del pasado, porque el tiempo verbal determina por sí solo el género del relato. <!-- feedback: El tiempo verbal por sí solo no determina el género; muchos cuentos fantásticos y realistas los usan por igual. -->
+- [ ] D) El nombre del personaje, porque los nombres propios sirven para identificar el género según su origen cultural. <!-- feedback: El nombre del personaje no aporta ninguna pista sobre el género; el criterio debe buscar el tratamiento de lo imposible. -->
 
 ### Explicacion Pedagogica
 Leer con estrategia implica buscar indicios verificables en el texto antes de emitir un juicio. En este fragmento, el narrador menciona la comida y el lavado del plato como hechos de rutina, pero no explica de dónde salieron; esa omisión es la pista que permite identificarlo como fantástico. Un lector que se apoya en un detalle trivial, como el tiempo verbal o el nombre, se aleja del criterio válido. Reconocer dónde está la ruptura y dónde está el tono de calma es una habilidad que se transfiere a cualquier lectura de género.
@@ -162,7 +162,7 @@ Leer con estrategia implica buscar indicios verificables en el texto antes de em
 - [ ] A) Convierte el relato en una sátira social, porque el narrador critica las costumbres de la comunidad. <!-- feedback: El tono tranquilo no produce sátira; la sátira depende de un propósito explícito de crítica que aquí no aparece. -->
 - [ ] B) Reduce la tensión narrativa, porque el lector conoce el desenlace desde la primera línea. <!-- feedback: El lector no conoce el desenlace; lo que no encuentra es la advertencia de que algo extraordinario va a ocurrir. -->
 - [x] C) Genera la duda en el lector, que se pregunta si lo que lee pertenece a la realidad o a la ficción. <!-- feedback: Correcto. Al no marcar la rareza, la narración obliga al lector a contrastar lo leído con sus propias reglas y a decidir dónde está la frontera. -->
-- [ ] C) Convierte el relato en una enseñanza moral sobre lo que es posible y lo que no. <!-- feedback: El tono uniforme no autoriza una enseñanza; la lección del género está en cómo funciona la duda, no en una norma de vida. -->
+- [ ] D) Convierte el relato en una enseñanza moral sobre lo que es posible y lo que no. <!-- feedback: El tono uniforme no autoriza una enseñanza; la lección del género está en cómo funciona la duda, no en una norma de vida. -->
 
 ### Explicacion Pedagogica
 El tono uniforme con que el narrador trata lo imposible es el mecanismo central del género. Al no señalar la anomalía, la narración conserva la coherencia de su mundo y deja la comprobación en manos del lector. Ese traslado de la duda es lo que genera la incomodidad característica de la literatura fantástica. Comprenderlo permite explicar por qué un cuento fantástico no necesita apelar a los sustos para resultar inquietante.
@@ -202,9 +202,9 @@ Según el fragmento analizado, ¿qué revela el modo en que el narrador comunica
 
 ### Opciones
 - [x] A) Que el narrador da por sentado un orden en el que lo extraordinario es posible, y esa seguridad es la que hace que el lector dude. <!-- feedback: Correcto. El narrador trata lo imposible como un hecho conocido y compartido, y ese tono de seguridad traslada la duda a quien lee. -->
-- [ ] A) Que el narrador intenta convencernos de que todo es real para que el lector se confíe en la veracidad. <!-- feedback: El narrador no busca que el lector se convenza de veracidad; su indiferencia ante lo raro es lo que produce el efecto del género. -->
-- [ ] B) Que el narrador omite datos porque no dispone de información suficiente sobre lo ocurrido. <!-- feedback: No hay una falta de información; el narrador conoce lo que narra y por eso lo transmite con seguridad. -->
-- [ ] C) Que el narrador toma distancia del lector con el fin de impedir que se identifique con los personajes. <!-- feedback: La distancia no es el objetivo; el efecto proviene de la ausencia total de sorpresa ante lo que describe. -->
+- [ ] B) Que el narrador intenta convencernos de que todo es real para que el lector se confíe en la veracidad. <!-- feedback: El narrador no busca que el lector se convenza de veracidad; su indiferencia ante lo raro es lo que produce el efecto del género. -->
+- [ ] C) Que el narrador omite datos porque no dispone de información suficiente sobre lo ocurrido. <!-- feedback: No hay una falta de información; el narrador conoce lo que narra y por eso lo transmite con seguridad. -->
+- [ ] D) Que el narrador toma distancia del lector con el fin de impedir que se identifique con los personajes. <!-- feedback: La distancia no es el objetivo; el efecto proviene de la ausencia total de sorpresa ante lo que describe. -->
 
 ### Explicacion Pedagogica
 El fragmento muestra que la literatura fantástica puede apoyarse en la seguridad del narrador en lugar de en los avisos. Al tratar lo imposible como un hecho más del entorno, el narrador mantiene la coherencia de su mundo y deja al lector la tarea de comprobar lo que lee. Esa comprobación es la que genera la duda característica del género. Reconocer el mecanismo permite distinguir este tratamiento del que usa el cuento de terror, que sí busca amenazar al personaje.
@@ -224,8 +224,8 @@ El fragmento muestra que la literatura fantástica puede apoyarse en la segurida
 ### Opciones
 - [ ] A) La segunda, porque el susto del narrador garantiza que el lector también se asuste. <!-- feedback: El objetivo del género no es asustar al lector; la literatura fantástica puede ser completamente tranquila. -->
 - [x] B) La primera, porque el narrador aplica la regla imposible a su vida sin dudar, y esa seguridad es la que traslada la duda al lector. <!-- feedback: Correcto. La primera versión cumple los dos principios: coherencia interna del mundo y duda transferida a quien lee. -->
-- [ ] B) La segunda, porque la reacción del narrador demuestra que el hecho es verdaderamente imposible. <!-- feedback: La reacción del narrador no prueba nada; en el género, el narrador no necesita justificar nada. -->
-- [ ] C) Las dos, porque cualquier tratamiento de un hecho imposible produce el mismo efecto en el lector. <!-- feedback: No: los dos tratamientos producen efectos opuestos, porque en uno la duda pasa al lector y en el otro se queda en el narrador. -->
+- [ ] C) La segunda, porque la reacción del narrador demuestra que el hecho es verdaderamente imposible. <!-- feedback: La reacción del narrador no prueba nada; en el género, el narrador no necesita justificar nada. -->
+- [ ] D) Las dos, porque cualquier tratamiento de un hecho imposible produce el mismo efecto en el lector. <!-- feedback: No: los dos tratamientos producen efectos opuestos, porque en uno la duda pasa al lector y en el otro se queda en el narrador. -->
 
 ### Explicacion Pedagogica
 Evaluar una versión del relato exige comprobar los dos principios de Cortázar y no la intensidad del efecto. En la primera versión, el narrador incorpora lo imposible a su rutina sin detenerse, de modo que su mundo conserva su coherencia y la duda se traslada al lector. En la segunda, el narrador marca la ruptura, y con ello la extrañeza queda explicada dentro de la ficción. El criterio correcto se apoya, por tanto, en dónde está la duda y no en cuánto asoma el miedo.
@@ -246,7 +246,7 @@ Evaluar una versión del relato exige comprobar los dos principios de Cortázar 
 - [ ] A) La afirmación es correcta, porque en ambos casos el autor inventa un hecho que la ciencia no puede explicar. <!-- feedback: En "lo real maravilloso" no se inventa el hecho: se aprovecha lo asombroso que hay en una realidad y una cultura concretas. -->
 - [ ] B) La afirmación es incorrecta, porque "lo real maravilloso" nunca incluye hechos extraordinarios y solo describe la vida cotidiana. <!-- feedback: La propuesta de Carpentier busca precisamente lo asombroso; lo que cambia es que no se apoya en lo inventado. -->
 - [x] C) La afirmación es incorrecta, porque en la literatura fantástica el narrador aplica reglas imposibles a su mundo, mientras que "lo real maravilloso" busca el asombro en elementos reales de la historia y la cultura. <!-- feedback: Correcto. La diferencia no está en la cantidad de lo extraordinario, sino en la base desde la que se produce el efecto. -->
-- [ ] C) La afirmación es correcta, porque ambas propuestas aparecen dentro de la literatura colombiana del siglo XX. <!-- feedback: La literatura fantástica tiene arraigo en la tradición española y europea, y no es un género propio de Colombia ni de un solo siglo. -->
+- [ ] D) La afirmación es correcta, porque ambas propuestas aparecen dentro de la literatura colombiana del siglo XX. <!-- feedback: La literatura fantástica tiene arraigo en la tradición española y europea, y no es un género propio de Colombia ni de un solo siglo. -->
 
 ### Explicacion Pedagogica
 Evaluar una afirmación general exige identificar en qué se apoya y no solo aceptar o rechazar por intuición. El error común consiste en identificar dos propuestas por el rasgo que comparten, en este caso la presencia de lo extraordinario, sin atender a la base de cada una. La literatura fantástica construye un mundo con reglas propias; lo maravilloso, en cambio, se apoya en una realidad verificable y en su cultura. Nombrar esa diferencia permite usar los dos conceptos con precisión.
