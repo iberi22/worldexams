@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "grade": 11,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-21-grade-11-subject-lengua",
+    "generated_at": "2026-09-28T03:56:50.016Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué se llama ambigüedad léxica en un texto?",
+      "context": "En el salón de grado 11 de un colegio de Bogotá, la profesora de Lengua reparte una hoja con un texto breve y pide al grupo que marque qué palabras pueden entenderse de más de una manera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de palabras que tienen un solo significado y no admiten variantes de uso.",
+          "is_correct": false,
+          "feedback": "Esa es una definición de palabra unívoca, no de ambigüedad. La ambigüedad aparece justamente cuando un término admite más de una lectura posible."
+        },
+        {
+          "letter": "B",
+          "text": "La propiedad de una palabra o de una expresión de admitir más de una interpretación dentro de un mismo contexto.",
+          "is_correct": true,
+          "feedback": "Correcto. La ambigüedad léxica se produce cuando un mismo término o una misma estructura puede entenderse de dos o más maneras razonables, y el contexto no alcanza a resolver la duda."
+        },
+        {
+          "letter": "C",
+          "text": "La repetición de una misma palabra con igual sentido dentro de un mismo párrafo.",
+          "is_correct": false,
+          "feedback": "Eso describe redundancia o repetición léxica. La repetición no genera por sí sola más de una interpretación posible, así que no es ambigüedad."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio de palabras técnicas por expresiones cotidianas en un texto de divulgación.",
+          "is_correct": false,
+          "feedback": "Eso es vulgarización o simplificación del vocabulario. Puede facilitar la lectura, pero no genera por sí mismo más de una interpretación del mismo texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ambigüedad léxica es la propiedad de una palabra o de una expresión que permite más de una interpretación razonable dentro de un mismo contexto. No es un error de escritura, sino una característica que el lector debe detectar para interpretar correctamente. Reconocerlainvolucra identificar qué palabra o construcción está generando la duda y qué información adicional resolvería el sentido. EstaAwareness es la base del trabajo con la precisión léxica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia existe entre una palabra polisémica y una palabra homónima?",
+      "context": "En una cafetería del centro de Barranquilla, un grupo de estudiantes de grado 11 discute por qué un mismo aviso puede generarAIR varias lecturas según quién lo lea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La palabra polisémica tiene una sola definición, mientras la homónima tiene varias.",
+          "is_correct": false,
+          "feedback": "Está invertido. La que tiene varios significados relacionados es la polisémica, no la homónima."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra polisémica es siempre un neologismo reciente, y la homónima siempre es una palabra antigua.",
+          "is_correct": false,
+          "feedback": "La antigüedad de la palabra no define estos conceptos. Hay polisémicas muy antiguas y homónimas de creación moderna."
+        },
+        {
+          "letter": "C",
+          "text": "La polisema es una sola palabra con varios significados relacionados, y la homónima es una palabra distinta que suena igual que otra.",
+          "is_correct": true,
+          "feedback": "Correcto. La polisemia reúne sentidos relacionados dentro de una misma palabra; la homonimia se da entre palabras diferentes con la misma pronunciación."
+        },
+        {
+          "letter": "D",
+          "text": "La palabra polisémica se escribe siempre con doble letra, y la homónima se escribe con una sola.",
+          "is_correct": false,
+          "feedback": "La escritura no es el criterio que distingue ambos fenómenos. Lo decisivo es la relación entre los significados y la identidad de la palabra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La polisemia y la homonimia son dos fuentes distintas de ambigüedad. En la polisemia, una sola palabra carga con varios sentidos relacionados entre sí, como ocurre con \"hoja\" o \"planta\", y el contexto decide cuál se usa. En la homonimia, hay palabras diferentes que se pronuncian igual y que pueden llegar a tener sentidos muy distintos, lo que genera confusiones frequentes en la interacción cotidiana. Distinguir estos dos fenómenos ayuda a explicar por qué un texto puede entenderse de más de una manera.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v3",
+      "statement": "En la frase anterior, ¿cuál es el sentido más preciso de la palabra \"hoja\"?",
+      "context": "Una estudiante de grado 11 de Pereira prepara un informe de laboratorio y escribe en una de sus notas: \"Pegué la hoja nueva en el cuaderno\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lámina de papel que forma parte del cuaderno.",
+          "is_correct": true,
+          "feedback": "Correcto. En una nota de laboratorio sobre un cuaderno, \"hoja\" designa la lámina de papel; ese es el sentido que el contexto hace más probable."
+        },
+        {
+          "letter": "B",
+          "text": "La parte verde y plana de una planta.",
+          "is_correct": false,
+          "feedback": "Ese es el sentido botánico de la palabra. Es válido en otros contextos, pero no corresponde a la situación descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La abertura o marco de una ventana.",
+          "is_correct": false,
+          "feedback": "Ese sentido se refiere a carpintería y no aparece sugerido por el contexto de un cuaderno de laboratorio."
+        },
+        {
+          "letter": "D",
+          "text": "La hoja metálica de un cuchillo o de un arma.",
+          "is_correct": false,
+          "feedback": "Ese sentido pertenece al vocabulario metálico y no tiene relación con la acción de pegar hojas en un cuaderno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La palabra \"hoja\" es un ejemplo claro de polisemia: una sola forma reúne sentidos relacionados con lo plano, lo delgado y loextended, como la hoja de una planta, la hoja de papel, la hoja de una ventana y la hoja de un cuchillo. La polisemia no es un defecto, porque permite que el mismo término sirva para usos distintos y así ampliar el vocabulario. Lo que resuelve la ambigüedad es el contexto: en una nota de laboratorio sobre un cuaderno, el sentido de papel es el más probable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v4",
+      "statement": "En el contexto de un texto expositivo, ¿qué palabra es sinónimo de \"conciso\", es decir,(expr) de quien dice con pocas palabras y sin rodeos?",
+      "context": "Estudiantes de grado 11 en Medellín discuten el primer párrafo de un ensayo que van a escribir sobre el cuidado del agua en su ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excesivo.",
+          "is_correct": false,
+          "feedback": "\"Excesivo\" significa que hay más de lo debido, y se opone al significado de conciso."
+        },
+        {
+          "letter": "B",
+          "text": "Confuso.",
+          "is_correct": false,
+          "feedback": "\"Confuso\" alude a la dificultad para entender, no a la brevedad del texto. No es sinónimo de conciso."
+        },
+        {
+          "letter": "C",
+          "text": "Pausado.",
+          "is_correct": false,
+          "feedback": "\"Pausado\" se refiere al ritmo o a la lentitud, no a la cantidad de palabras empleadas."
+        },
+        {
+          "letter": "D",
+          "text": "Breve.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Breve\" y \"conciso\" comparten el rasgo de expresar el contenido con la menor cantidad de palabras posible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La precisión léxica también se construye choosing entre palabras de significado cercano. Un sinónimo correcto debe conservar el mismo núcleo de sentido de la palabra original y ajustar solamente sus matices. En este caso, \"conciso\" y \"breve\" coinciden en presentar un contenido con el menor número de palabras, por lo que el reemplazo es adecuado. En cambio, palabras como \"excesivo\", \"confuso\" o \"pausado\" introducen matices ajenos al sentido buscado y empobrecean el texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué información mínima necesita el grupo para interpretar sin ambigüedad la frase \"nos vemos en la entrada donde está el vigilante\"?",
+      "context": "En un grupo de mensajería de grado 11 en Cali, un compañero escribe: \"Nos vemos en la entrada donde está el vigilante\" y dos Integrantes interpretan el mensaje de manera distinta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna información adicional, porque la frase ya tiene un único sentido posible.",
+          "is_correct": false,
+          "feedback": "Justamente la frase admite varias lecturas, por ejemplo si el vigilante está en la entrada o en la portería. Sin datos adicionales, la ambigüedad permanece."
+        },
+        {
+          "letter": "B",
+          "text": "Conocer en qué parte exacta se encuentra el vigilante: en la entrada principal, en la portería o en el parqueadero.",
+          "is_correct": true,
+          "feedback": "Correcto. Ubicar al vigilante resuelve la ambigüedad, porque el mensaje deja abierto si el punto de encuentro es la entrada o la portería."
+        },
+        {
+          "letter": "C",
+          "text": "Averiguar el nombre completo de cada vigilante que trabaja en el edificio.",
+          "is_correct": false,
+          "feedback": "El nombre del vigilante no resuelve nada: la ambigüedad está en el lugar de encuentro, no en la identidad de la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Confirmar la hora exacta de la reunión.",
+          "is_correct": false,
+          "feedback": "La hora resuelve el cuándo, no el dónde. La ambigüedad del mensaje está en el sitio, por lo que la hora no la elimina."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una frase contiene una subordinada que puede modificar a varios elementos, se produce una ambigüedad sintáctica. En el mensaje del grupo, el fragmento \"donde está el vigilante\" puede indicar el punto de encuentro o la zona donde se encuentra la persona, y el resultado son dos Commitment distintos sobre dónde nir. La estrategia de lectura que resuelve el problema consiste en pedir la información mínima que falta: el lugar preciso. Aplicar esta estrategia evita que los integrantes se encuentren en sitios distintos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes frases es la más precisa para dejar constancia de esa idea?",
+      "context": "Un comité de grado 11 en Pereira quiere dejar constancia, en el acta de la reunión, de que el grupo terminó el trabajo sin ayuda externa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Nosotros lo hicimos.\"",
+          "is_correct": false,
+          "feedback": "La frase no precisa si hubo ayuda o no, de modo que admite dos lecturas: trabajo individual o trabajo en equipo."
+        },
+        {
+          "letter": "B",
+          "text": "\"Fue posible que lo hiciéramos.\"",
+          "is_correct": false,
+          "feedback": "El enunciado expresa una posibilidad, no un hecho realizado, y no menciona la ausencia de ayuda externa."
+        },
+        {
+          "letter": "C",
+          "text": "\"Nosotros lo elaboramos por completo, sin ayuda de nadie.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La frase identifica al agente, afirma el resultado completo y descarta cualquier participación ajena, sin ambigüedad."
+        },
+        {
+          "letter": "D",
+          "text": "\"Alguien de nuestro equipo lo terminó.\"",
+          "is_correct": false,
+          "feedback": "La frase desconoce quién hizo el trabajo y tampoco menciona si hubo ayuda externa, por lo que es imprecisa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La precisión léxica exige que la frase diga exactamente lo que se quiere dejar registrado. Para un acta, es necesario identificar al responsable del trabajo, afirmar que se completó en su totalidad y descartar la participación de terceros. Cualquier expresión que deje abierta alguna de esas dimensiones genera ambigüedad. Aplicar estos criterios al redactar evita|ENG argumentative que después resulte imposible de probar, como ocurre con las frases genéricas o con las expresiones que solo hablan de posibilidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué información adicional desambigua mejor la petición del cliente?",
+      "context": "En una tienda de barrio en Bucaramanga, un cliente pide al dependiente: \"¿Me da la copa grande?\" mientras el dependiente consulta un estante con vasos y una repisa con premReplica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saber si se refiere al recipiente para beber o al trofeo de un torneo deportivo.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Copa\" es un término homónimo: designa tanto el recipiente como el trofeo. Preguntar por el objeto resuelve la ambigüedad."
+        },
+        {
+          "letter": "B",
+          "text": "Averiguar la edad del cliente para saber si debe usar tratamiento formal o informal.",
+          "is_correct": false,
+          "feedback": "El grado de formalidad no resuelve qué objeto se pide. La ambigüedad está en el significado de la palabra, no en el trato."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar por el color favorito del cliente.",
+          "is_correct": false,
+          "feedback": "El color es un dato irrelevante para identificar el objeto solicitado. No aporta nada al significado de \"copa\"."
+        },
+        {
+          "letter": "D",
+          "text": "Confirmar si el día de la semana es festivo en el municipio.",
+          "is_correct": false,
+          "feedback": "El carácter festivo del día no interviene en el significado de la palabra ni en la elección del objeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagica\nLa homonimia genera problemas frecuentes en el commerce cotidiano, donde las palabras se usan en contextos oruales y rápidos. La palabra \"copa\" puede designar un recipiente o un premio de una competencia, y ambos sentidos pertenecen a la misma lengua. Por eso, la mejor estrategia para desambiguar es preguntar por el objeto o por la función que se espera: beber o premiar. Identificar el sentido relevante del término permite responder con exactitud y evita confusiones en situaciones reales del barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes frases emplea un vocabulario preciso y adecuado para un informe de laboratorio?",
+      "context": "Un laboratorio escolar de Bogotá analiza una muestra de agua de un río cercano, y un estudiante redacta el resultado de la práctica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El agua del río tiene un montón de cosas.\"",
+          "is_correct": false,
+          "feedback": "La expresión es coloquial y no indica qué se midió ni con qué resultado. Un informe requiere indicadores verificables."
+        },
+        {
+          "letter": "B",
+          "text": "\"El agua está sucia y no sirve para nada.\"",
+          "is_correct": false,
+          "feedback": "La frase es un juicio de valor sin evidencia. No presenta ningún dato medido, de modo que no sirve como informe."
+        },
+        {
+          "letter": "C",
+          "text": "\"La muestra salió de un río.\"",
+          "is_correct": false,
+          "feedback": "La frase informa el origen de la muestra, no el resultado del análisis. Falta por completo el dato que se sought observar."
+        },
+        {
+          "letter": "D",
+          "text": "\"La muestra presenta alta concentración de solutos disueltos y baja turbidez, según el informe del laboratorio.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La frase nombra los parámetros medidos y el valor observado, y señala la fuente, de modo que puede verificarse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un texto técnico, la precisión léxica exige nombrar el parámetro estudiado y el valor encontrado, evitando tanto el registro coloquial como el juicio sin respaldo. Expresiones como \"un montón de cosas\" o \"está sucia\" no permiten confirmar ni refutar nada, porque no identifican indicadores ni mediciones. En cambio, una frase como la opción correcta comunica la información de manera verificable y atribuida a la fuente que la produjo. Esa claridad es indispensable para el trabajo científico escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes opciones resuelve la ambigüedad de la frase \"la familia se fue ayer\"?",
+      "context": "Una alumna de grado 11 en Bogotá escribe en su trabajo: \"La familia se fue ayer\" y nota que el profesor de Lengua le pidió aclarar la frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar la frase igual, porque el contexto de la familia ya la vuelve inequívoca.",
+          "is_correct": false,
+          "feedback": "El contexto no elimina la ambigüedad: la frase admite al menos la lectura de una partida y la de un inicio de desplazamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituirla por \"Ayer salió tarde el bus que lleva a los estudiantes\", que describe la misma situación.",
+          "is_correct": false,
+          "feedback": "La nueva frase habla del transporte escolar y deja de lado a la familia, de modo que no resuelve el problema original."
+        },
+        {
+          "letter": "C",
+          "text": "Precisarla como \"Ayer la familia se marchó del apartamento\", que fija el lugar y la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. La reformulación indica el movimiento y el lugar de salida, de modo que una sola lectura queda disponible para el lector."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiarla por \"La familia se va ayer\", que conserva la ambigüedad y suena más fluida.",
+          "is_correct": false,
+          "feedback": "El tiempo verbal no es lo que genera la ambigüedad. Cambiar \"se fue\" por \"se va\" mantiene los varios sentidos posibles."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estrategia de parafrasear permite eliminar la ambigüedad cuando el problema está en un verbo que admite varias|DE interpretaciones, como \"irse\", que puede expressing una partida, un inicio de desplazamiento o un cambio de estado. La reformulación eficaz aporta los datos que el original omite: la acción realizada y el lugar del que se sale. Practicar esta estrategia enseña a revisar la propia escritura con criterios de precisión antes de entregarla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes frases tiene un valor connotativo, es decir, además de informar, sugiere una valoración?",
+      "context": "Un diario de la región publica un artículo sobre la creación de un parque en un barrio de Barranquilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El parque tiene dos hectáreas y se ubica en el barrio Norte.\"",
+          "is_correct": false,
+          "feedback": "La frase es puramente denotativa: entrega datos objetivos de superficie y ubicación, sin ninguna valoración."
+        },
+        {
+          "letter": "B",
+          "text": "\"El nuevo parque es un respiro para los vecinos de los barrios cercanos.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra \"respiro\" transmite una valoración favorable y una idea de alivio, por lo que la expresión va más allá del dato."
+        },
+        {
+          "letter": "C",
+          "text": "\"Las autoridades locales invitaron a la comunidad a la inauguración del parque.\"",
+          "is_correct": false,
+          "feedback": "La frase informa sobre una acción institucional. No contiene adjetivos valorativos ni expresiones que sugieranlectual una valoración."
+        },
+        {
+          "letter": "D",
+          "text": "\"El parque cuenta con senderos, iluminación y zonas verdes.\"",
+          "is_correct": false,
+          "feedback": "La frase enumera características del parque de manera denotativa, sin emitir juicios ni sugerencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El valor connotativo aparece cuando una palabra o una expresión carga, además de su sentido literal, una valoración que el lector percibe. Expresiones como \"respiro\" o \"alivio\"agmentan al dato y comunican una posición favorable o desfavorable del emisor. En cambio, las frases que solo informan hechos, cifras o características cumplen una función denotativa. Reconocer la diferencia permite escribir con más intención y, al mismo tiempo, reconocer cuándo un texto intenta influir en la opinión del lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v11",
+      "statement": "¿Qué tipo de ambigüedad explica mejor el problema de este aviso?",
+      "context": "Un equipo de grado 11 en Medellín estudia un aviso de una entidad de salud: \"En la sede de Medellín atendemos a mayores de 60 años\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ambigüedad semántica, porque \"mayores\" puede designar a personas de edad avanzada o a autoridades públicas.",
+          "is_correct": false,
+          "feedback": "El sentido dominante de \"mayores\" en este aviso es el de edad, y la lectura de autoridades no estáXF suggested por el contexto. El problema real está en la estructura de la frase."
+        },
+        {
+          "letter": "B",
+          "text": "Una ambigüedad fonética, porque \"sede\" y \"cede\" tienen la misma pronunciación.",
+          "is_correct": false,
+          "feedback": "Aunque esos dos términos suenan igual, la palabra \"cede\" no aparece en el aviso, de modo que la homofonía no explica el problema."
+        },
+        {
+          "letter": "C",
+          "text": "Una ambigüedad por sinonimia, porque \"sede\" y \"instalaciones\" significan lo mismo.",
+          "is_correct": false,
+          "feedback": "La sinonimia no genera ambigüedad, porque se trata de dos términos equivalentes. El problema del aviso es la estructura de la frase."
+        },
+        {
+          "letter": "D",
+          "text": "Una ambigüedad sintáctica, porque no queda claro si \"mayores de 60 años\" describe a las personas que atiende la sede o el tipo de usuario al que se dirige.",
+          "is_correct": true,
+          "feedback": "Correcto. La expansión modificadora admite dos readings, y esa incertidumbre estructural impide saber si el aviso informa sobre la población atendida o sobre la población destinataria."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ambigüedad sintáctica aparece cuando un mismo grupo de palabras puede modificar a elementos diferentes de la oración. En este aviso, el grupo \"mayores de 60 años\" queda sin una relación inequívoca con la acción de atender, y por eso el lector no puede decidir si la sede atiende a ese público o si el aviso se dirige a ese público. Identificar el tipo de ambigüedad, y no solo su presencia, permite proponer la reformulación adecuada: nombrar con claridad a quién se atiende y a quién se informa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v12",
+      "statement": "¿Qué ambigüedad explota deliberadamente la valla y con qué propósito?",
+      "context": "Una entidad financiera de Bogotá instala una valla publicitaria con la frase: \"Con nosotros su plata trabaja, hasta mientras usted duerme\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explota el doble sentido de \"trabaja\", que puede significar «ocupado» en el sentido de \"producir ingresos\" o en el sentido de ocupar un puesto de trabajo, para presentar el ahorro como una actividad que continúa sin la presencia del titular.",
+          "is_correct": true,
+          "feedback": "Correcto. El anuncio reutiliza una palabra cotidiana con un sentido económico nuevo, y ese sentido nuevo es lo que permite entender que el dinero se activa durante el descanso."
+        },
+        {
+          "letter": "B",
+          "text": "Explota la ambigüedad de \"dormir\", que puede significar descansar o desmayarse, para generar alarma en los lectores.",
+          "is_correct": false,
+          "feedback": "El sentido de desmayarse no está sugerido por el contexto de la valla, y la palabra \"dormir\" no es el recurso central del anuncio."
+        },
+        {
+          "letter": "C",
+          "text": "No explota ninguna ambigüedad, porque en español \"trabaja\" significa únicamente realizar un oficio manual.",
+          "is_correct": false,
+          "feedback": "Esa definición es incorrecta. \"Trabaja\" admite también el sentido de producir ingresos, que es justamente el que la valla pone en juego."
+        },
+        {
+          "letter": "D",
+          "text": "Explota la ambigüedad de \"plata\", que puede significar dinero o metal, para distraer al lector del servicio que se ofrece.",
+          "is_correct": false,
+          "feedback": "La palabra \"plata\" se usa aquí con su sentido de dinero, sin ambigüedad. El recurso publicitario está en el uso de \"trabaja\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagica\nLa publicidad funciona con frecuencia mediante la ambigüedad y la resignificación de palabras. En esta valla, el verbo \"trabaja\" se aplica a un objeto que normalmente no trabaja, y ese traslado produce el efecto buscado: presentar el ahorro como una acción productiva. Reconocer este recurso permite analizar el mensaje publicitario como un discurso dirigido a convencer, no como una descripción neutral. Ese análisis es la base para evaluar la publicidad de una manera crítica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el principal problema de redacción de ese artículo y qué precisión debería exigir?",
+      "context": "Un colegio de Bucaramanga revisa su reglamento y encuentra el siguiente artículo: \"No se aceptarán entregas tardías, salvo autorización\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El problema principal es que usa un término técnico en lugar de uno cotidiano: debería decir trabajos en vez de entregas.",
+          "is_correct": false,
+          "feedback": "El término entregas es adecuado para un reglamento escolar y no genera confusión por sí mismo. El punto débil del artículo no está en el registro, sino en que la excepción deja abierta una referencia."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo es completamente claro, porque autorización se refiere siempre a la persona del profesor de la materia.",
+          "is_correct": false,
+          "feedback": "Nada en el artículo indica quién concede la autorización ni con qué procedimiento, de modo que la lectura asumida no está respaldada por el texto normativo. Un reglamento no puede dar por sobreentendido al responsable de la excepción."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo es ambiguo porque no aclara quién concede la autorización ni por qué medio, y debería ofrecer un formato preciso: a qué autoridad se recurre y con qué procedimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. La excepción deja abierta la identidad de quien autoriza, lo que permite interpretaciones distintas del mismo reglamento. Definirla evita la aplicación discrecional de la norma."
+        },
+        {
+          "letter": "D",
+          "text": "El único problema es ortográfico, porque a tardías le falta la tilde.",
+          "is_correct": false,
+          "feedback": "Un eventual error de tilde no explica la ambigüedad señalada. El sustantivo está correctamente escrito en el artículo y la dificultad está en su redacción normativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos normativos, como los reglamentos y los avisos oficiales, requieren un nivel de precisión superior al de la conversación cotidiana, porque de su lectura dependen conductas de los estudiantes. La expresión \"salvo autorización\" introduce una excepción sin indicar la autoridad competente ni el procedimiento, y con ello admite más de una aplicación. Analizar esta ambigüedad y proponer una redacción que explicite responsables y procedimientos es un ejercicio de lectura crítica aplicado a la vida escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v14",
+      "statement": "¿Cuál de las siguientes formulaciones usa un vocabulario más preciso y adecuado para informar con claridad a la comunidad?",
+      "context": "Un equipo de grado 11 en Pereira prepara una presentación sobre la situación de un río de su región para la comunidad del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Según el informe de la autoridad ambiental, el río presenta aumento de la turbidez y una concentración de oxígeno disuelto menor que el valor de referencia para la vida acuática.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La frase nombra la fuente, los parámetros medidos y su relación con el valor de referencia, de modo que informa sin ambigüedad."
+        },
+        {
+          "letter": "B",
+          "text": "\"El río está pésimo, es un asco, nadie debería bañarse.\"",
+          "is_correct": false,
+          "feedback": "Es un juicio de valor coloquial que no aporta datos verificables ni permite conocer el estado real del río."
+        },
+        {
+          "letter": "C",
+          "text": "\"El río se dañó otra vez, como siempre.\"",
+          "is_correct": false,
+          "feedback": "La frase generaliza sin datos, sin precisión temporal y con un adverbio valorativo que impide medir la magnitud del cambio."
+        },
+        {
+          "letter": "D",
+          "text": "\"El agua del río es agua, y ya.\"",
+          "is_correct": false,
+          "feedback": "La frase es tautológica: no comunica información alguna, de modo que tampoco puede precisión sobre el estado del río."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Informar a una comunidad exige un equilibrio entre claridad y rigor. El vocabulario técnico no es un obstáculo para el lector general si se acompaña de la fuente y de los términos más importantes, como ocurre en la opción correcta. En cambio, el registro coloquial y valorativo transmite emociones pero no conocimiento, y la generalización o la tautología reemplazan los datos por pereza expresiva. Analizar estas cuatro versiones ayuda a construir un estilo informativo preciso y comprensible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v15",
+      "statement": "¿Cuál es el riesgo interpretativo más grave de este titular?",
+      "context": "Un diario de la región publica el titular: \"Bajan los precios en el centro\", sin aclarar de qué productos se trata ni de qué periodo habla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el titular use una palabra demasiado técnica para el lector corriente.",
+          "is_correct": false,
+          "feedback": "La palabra \"precios\" pertenece al vocabulario común y no representa una barrera técnica para el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Que el lector generalice y entienda que bajaron todos los precios, cuando la nota puede hablar solo de un grupo de productos, de modo que la ambigüedad del término cambia la interpretación del hecho.",
+          "is_correct": true,
+          "feedback": "Correcto. El término \"precios\" sin Determinación admite un alcance amplio o reducido, y esa diferencia modifica por completo lo que el lector entiende del hecho."
+        },
+        {
+          "letter": "C",
+          "text": "Que el titular no mencione el nombre de la ciudad donde ocurre la noticia.",
+          "is_correct": false,
+          "feedback": "El lugar puede estar indicado en la página y en el cuerpo de la nota. La dificultad principal está en el alcance de la palabra \"precios\"."
+        },
+        {
+          "letter": "D",
+          "text": "Que el titular no indique en qué página del diario se amplía la información.",
+          "is_correct": false,
+          "feedback": "Esa información pertenece a la maqueta del periódico y no al titular. El problema de interpretación se concentra en el término \"precios\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los titulares suelen comprimir el contenido de la nota, y esa compresión puede eliminar los datos que limitan el alcance de una afirmación. El término \"precios\", sin el Determinación que lo restringe, admite lecturas muy distintas: puede referirse a todos los productos de la zona o apenas a algunos. Analizar este fenómeno permite entender por qué un titular puede inducir a conclusiones erróneas, y ayuda a buscar en el cuerpo de la nota la información que completa y delimita el mensaje.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v16",
+      "statement": "El informe afirma: \"La vacunación reduce el riesgo de hospitalización por una enfermedad infecciosa\". El resumen escolar dice: \"La vacuna sirve\". ¿Qué problema de precisión introduce el resumen?",
+      "context": "Un equipo de grado 11 en Bogotá resume un informe de salud pública y cambia una frase técnica por una expresión mucho más corta para el trabajo grupal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen es más preciso, porque la eliminación de los tecnicismos mejora automáticamente la comprensión.",
+          "is_correct": false,
+          "feedback": "Simplificar no equivale a precisar. Al quitar el objeto y la medida de la acción, el resumen pierde información que era esencial."
+        },
+        {
+          "letter": "B",
+          "text": "El resumen mantiene el sentido original, porque la palabra \"vacuna\" ya indica por sí sola contra qué se previene.",
+          "is_correct": false,
+          "feedback": "La palabra \"vacuna\" no indica la enfermedad ni el tipo de protección, de modo que el sentido original no queda salvado."
+        },
+        {
+          "letter": "C",
+          "text": "El resumen cambia el tema del informe, porque habla de curación en lugar de prevención.",
+          "is_correct": false,
+          "feedback": "El resumen no afirma curación, sino que omite los elementos que delimitaban la acción. El problema es la generalización, no un cambio de tema."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen generaliza y queda ambiguo, porque no dice contra qué previene la vacuna ni con qué eficacia, de modo que el lector puede atribuirle una protección que el informe no demuestra.",
+          "is_correct": true,
+          "feedback": "Correcto. Al eliminar el objeto de la acción y la reducción concreta del riesgo, el resumen permite lecturas más amplias que las sustentadas por la fuente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pedagica\nResumir sin criterio de precisión puede convertir una afirmación acotada en una afirmación general. En este caso, el informe delimita el efecto de la vacunación a un riesgo concreto de hospitalización, y el resumen elimina tanto ese objeto como esa medida. El resultado es un enunciado abierto que admite interpretaciones más amplias, incluyendo la blockbuster de que la vacuna protege frente a cualquier_padecimiento. Analizar este cambio enseña a conservar en el resumen los elementos que sostienen la afirmación original.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Comprensión de textos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál es el juicio más sólido sobre ese glosario?",
+      "context": "Un comité editorial de la revista escolar de Medellín prepara el número sobre el agua y propone un glosario: \"Vacío: espacio sin contenido. Saturado: lleno por completo. Residual: que queda. También: así mismo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cumple su función solo en parte: define términos válidos para la sección, pero usa definiciones demasiado generales para el contexto del agua e incluye una palabra que no aporta precisión, como \"también\".",
+          "is_correct": true,
+          "feedback": "Correcto. Un glosario útil aporta la acepción pertinente al texto; \"también\" no aporta nada y las definiciones genéricas no resuelven las dudas del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Es perfecto, porque toda palabra consultada quedó explicada, sin importar si la definición corresponde al sentido que se usa en el artículo.",
+          "is_correct": false,
+          "feedback": "La mera presencia de un término no garantiza utilidad. Si la definición no corresponde al sentido del texto, el glosario no cumple su propósito."
+        },
+        {
+          "letter": "C",
+          "text": "Es inútil, porque ningún lector necesita saber qué significa \"vacío\" en un texto sobre agua.",
+          "is_correct": false,
+          "feedback": "La palabra \"vacío\" puede ser técnica en ese contexto, por ejemplo al hablar de un espacio vacío dentro de una tubería. Descartarla sería un error."
+        },
+        {
+          "letter": "D",
+          "text": "Solo falla porque las entradas aparecen ordenadas por letra y no en el orden en que aparecen en el artículo.",
+          "is_correct": false,
+          "feedback": "El orden de un glosario responde a un criterio de consulta, no a un requisito de contenido. Ese detalle no invalida el glosario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un recurso de lectura exige verificar si cada entrada aporta la información necesaria para comprender el texto. Un glosario pertinente ofrece la acepción exacta que el artículo usa, con una definición ajustada al contexto; un glosario defectuoso incluye entradas irrelevantes o demasiado vagas. Juzgar con estos criterios permite mejorar materiales de lectura propios y entender por qué la información de apoyo debe estar conectada con el propósito del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Estrategias de lectura",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál es el juicio más sólido sobre esa afirmación?",
+      "context": "En un foro de estudiantes de grado 11 en Pereira, un participante afirma: \"Si un texto usa palabras de uso común, nunca es ambiguo, porque todos las entendemos igual\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es válida en los textos informativos, porque en ellos se usan palabras técnicas que evitan confusiones.",
+          "is_correct": false,
+          "feedback": "La propia afirmación se contradice: si las palabras técnicas evitan confusiones, entonces los textos informativos no dependen de palabras comunes. Además, los textos técnicos también pueden ser ambiguos."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta únicamente en los textos técnicos, porque un mismo término puede tener sentidos técnicos distintos según el área que lo usa.",
+          "is_correct": false,
+          "feedback": "El problema no se limita a los textos técnicos. Las palabras de uso común también generan ambigüedad, y ese es precisamente el caso que la afirmación quiere descartar."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación no se sostiene, porque las palabras de uso común son precisamente las que concentran más polisemia y homonimia, y el contexto, no la frecuencia de uso, decide su interpretación.",
+          "is_correct": true,
+          "feedback": "Correcto. La expansión de la lengua se produce sobre palabras comunes que acumulan sentidos y homónimos, de modo que el uso frecuente no garantiza un significado único."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es válida, porque la ambigüedad léxica solo aparece en la traducción entre idiomas y no en la lengua propia.",
+          "is_correct": false,
+          "feedback": "La ambigüedad es un fenómeno interno de cualquier lengua, no un producto de la traducción. Los ejemplos de la vida cotidiana en Colombia lo demuestran."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un razonamiento implica ponerlo a prueba con ejemplos y con el conocimiento disponible. La afirmación del foro confunde frecuencia de uso con univocidad, y esa confusión es la base de muchos errores de comprensión: las palabras más comunes son las que acumulan más sentidos y más gemelos fonéticos. Reconocer que el contexto, y no la costumbre de escuchar una palabra, decide su interpretación permite leer con más rigor y discutir con fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál reformulación sería la más adecuada para eliminar la ambigüedad y asegurar el cumplimiento de la norma?",
+      "context": "La administración de un complejo deportivo de Barranquilla coloca en la entrada el aviso: \"Prohibido el uso de patines en la cancha\", y los usuarios preguntan en qué espacio se aplica la norma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Prohibido el uso de patines.\"",
+          "is_correct": false,
+          "feedback": "La frase evita el sustantivo ambiguo, pero pierde la indicación del espacio donde se aplica la prohibición y deja incompleta la norma."
+        },
+        {
+          "letter": "B",
+          "text": "\"Prohibido el uso de patines en la cancha de fútbol y en el patio de concreto; el uso de patines solo se permite en la pista habilitada.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La reformulación identifica cada espacio, aclara dónde sí se permite el uso y elimina toda duda sobre el alcance de la prohibición."
+        },
+        {
+          "letter": "C",
+          "text": "\"Se recomienda evitar el uso de patines en la cancha.\"",
+          "is_correct": false,
+          "feedback": "La reformulación convierte la prohibición en una recomendación, de modo que cambia la fuerza de la norma sin corregir su contenido."
+        },
+        {
+          "letter": "D",
+          "text": "\"Queda prohibida la circulación de vehículos en la cancha.\"",
+          "is_correct": false,
+          "feedback": "La frase se refiere a vehículos, no a patines, y crea una restricción que no aparecía en el aviso original. El objeto de la norma cambia por completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagica\nEvaluar una reformulación exige comprobar dos cosas: que la ambigüedad desaparezca y que el sentido normativo original se conserve. La versión correcta enumera los espacios donde aplica la prohibición y señala explícitamente el lugar autorizado, de modo que no deja espacio a interpretaciones distintas. Las demás versiones o eliminan el dato espacial necesario o desplazan el objeto de la norma, con lo cual el problema de precisión se agrava en lugar de resolverse.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de contenidos locales",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle-v20",
+      "statement": "¿Qué evaluación del texto es más sólida?",
+      "context": "Un medio de comunicación de Cali publica en su versión digital la frase: \"En los barrios del sur casi nadie tiene agua potable\", y en el cuerpo de la nota explica que un grupo de Leaderas de tres barriosvarpió una encuesta a 40 viviendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase es precisa, porque una encuesta a 40 viviendas representa de manera fiel a todos los hogares del sur de Cali.",
+          "is_correct": false,
+          "feedback": "Ninguna muestra pequeña representa con fidelidad a una población grande. La afirmación principal excede con mucho lo que los datos pueden sostener."
+        },
+        {
+          "letter": "B",
+          "text": "La frase solo es ambigua por el uso de la expresión \"casi nadie\", y debería reemplazarse por un porcentaje exacto.",
+          "is_correct": false,
+          "feedback": "El problema no está en el cuantificador, aunque un porcentaje ayudaría. El asunto central es que la conclusión general excede el alcance de la fuente descrita."
+        },
+        {
+          "letter": "C",
+          "text": "La frase es válida, porque un medio de comunicación tiene la obligación de describir la realidad de los barrios sin explicar el tamaño de la muestra.",
+          "is_correct": false,
+          "feedback": "La obligación informativa no exime de rigor. Presentar una generalización amplia sin aclarar su base induce a error al lector."
+        },
+        {
+          "letter": "D",
+          "text": "La frase generaliza a partir de una muestra pequeña y no explicita el alcance de la fuente, de modo que puede inducir conclusiones que los datos no sostienen; el texto debería delimitar la afirmación a lo que la consulta realmente midió.",
+          "is_correct": true,
+          "feedback": "Correcto. La evaluación señala dónde está la falla informativa: en la distancia entre la evidencia presentada y la conclusión publicada, y propone delimitar el alcance."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura crítica exige comparar lo que un texto afirma con lo que sus datos efectivamente muestran. Cuando una conclusión amplia se apoya en una consulta de alcance reducido y esa limitación no se menciona, el texto induce a conclusiones que la evidencia no permite. Reconocer esta distancia y exigir que los textos delimiten sus afirmaciones es una forma de aplicar precisión léxica al discurso informativo, y prepara a los estudiantes para evaluar con rigor lo que leen en prensa y en documentos oficiales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LEN-11-2026-W21-la-ambiguedad-y-la-precision-lexica-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "co"
+    }
+  ]
+}
