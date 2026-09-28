@@ -57,14 +57,14 @@ Un periodo es la secuencia de dos o más oraciones que se relacionan entre sí p
 ¿Qué característica distingue a una oración simple de una oración compuesta?
 
 ### Opciones
-- [x] A) La oración simple contiene un solo predicado
-  <!-- feedback: La unicidad del predicado es la diferencia estructural que separa la oración simple de la compuesta. -->
-- [ ] B) La oración simple siempre termina en punto y coma
-  <!-- feedback: La puntuación depende de la relación entre oraciones del periodo, no de la estructura interna de cada una. -->
-- [ ] C) La oración simple no puede llevar sujeto explícito
-  <!-- feedback: Hay oraciones simples con sujeto, como "Los estudiantes estudian", y también con sujeto tácito. -->
-- [ ] D) La oración simple debe estar formada por una sola palabra
+- [ ] A) La oración simple debe estar formada por una sola palabra
   <!-- feedback: Una oración simple puede ser larga si conserva un único predicado; la extensión no la vuelve compuesta. -->
+- [x] B) La oración simple contiene un solo predicado
+  <!-- feedback: La unicidad del predicado es la diferencia estructural que separa la oración simple de la compuesta. -->
+- [ ] C) La oración simple siempre termina en punto y coma
+  <!-- feedback: La puntuación depende de la relación entre oraciones del periodo, no de la estructura interna de cada una. -->
+- [ ] D) La oración simple no puede llevar sujeto explícito
+  <!-- feedback: Hay oraciones simples con sujeto, como "Los estudiantes estudian", y también con sujeto tácito. -->
 
 ### Explicacion Pedagogica
 La oración simple es aquella que posee un solo predicado y, por tanto, una sola proposición. La oración compuesta, en cambio, reúne dos o más proposiciones, lo que se reconoce porque presenta más de un verbo, porque hay dos sujetos con sus respectivos predicados o porque aparece una conjunción. El criterio del número de predicados es el más seguro para clasificarlas: en "Los muchachos corrieron y victorearon" hay dos verbos y por eso es compuesta; en "Los muchachos corrieron" hay uno solo y es simple. La longitud, la cantidad de sintagmas y el tipo de sujeto no alteran esta clasificación.
@@ -80,14 +80,14 @@ La oración simple es aquella que posee un solo predicado y, por tanto, una sola
 ¿Por qué el fragmento "Traer cuaderno, esfero y el texto de lectura" no es una oración?
 
 ### Opciones
-- [x] A) Porque no contiene un verbo conjugado
-  <!-- feedback: Sin verbo conjugado no hay predicado, y sin predicado no existe una oración. -->
-- [ ] B) Porque contiene más de un sintagma
-  <!-- feedback: La cantidad de sintagmas no impide ser oración: "Los estudiantes compraron libros nuevos" tiene varios y sí lo es. -->
-- [ ] C) Porque termina en un signo de puntuación
+- [ ] A) Porque termina en un signo de puntuación
   <!-- feedback: La puntuación no define la existencia de la oración; el punto solo señala el cierre de un periodo. -->
-- [ ] D) Porque no lleva un artículo determinado
+- [ ] B) Porque no lleva un artículo determinado
   <!-- feedback: La ausencia de artículo no es criterio: hay oraciones simples como "Hace calor" que no llevan ninguno. -->
+- [x] C) Porque no contiene un verbo conjugado
+  <!-- feedback: Sin verbo conjugado no hay predicado, y sin predicado no existe una oración. -->
+- [ ] D) Porque contiene más de un sintagma
+  <!-- feedback: La cantidad de sintagmas no impide ser oración: "Los estudiantes compraron libros nuevos" tiene varios y sí lo es. -->
 
 ### Explicacion Pedagogica
 Para que un grupo de palabras funcione como oración debe contener al menos un verbo conjugado, es decir, una forma de tiempo y persona. Sin ese verbo no hay predicado y, en consecuencia, no hay afirmación, negación ni interrogación que sostener. "Traer cuaderno, esfero y el texto de lectura" es una frase, es decir, un grupo de palabras sin verbo conjugado, aunque en la vida cotidiana se entienda como una orden. La diferencia entre frase y oración es de estructura formal y no de sentido: muchas frases se comprenden gracias al contexto, pero siguen sin ser oraciones.
@@ -103,14 +103,14 @@ Para que un grupo de palabras funcione como oración debe contener al menos un v
 ¿Qué es un párrafo?
 
 ### Opciones
-- [x] A) Un conjunto de oraciones organizadas alrededor de una idea central
-  <!-- feedback: La unidad básica del texto se define por la presencia de una idea central que organiza el resto del contenido. -->
-- [ ] B) Una oración larga con dos puntos y comas
+- [ ] A) Una oración larga con dos puntos y comas
   <!-- feedback: Confunde párrafo con oración larga: un párrafo puede estar formado por una sola oración simple. -->
-- [ ] C) El signo de puntuación que cierra una oración
+- [ ] B) El signo de puntuación que cierra una oración
   <!-- feedback: Describe el punto final, no la agrupación de oraciones que constituye el párrafo. -->
-- [ ] D) El conjunto de palabras que antecede al sujeto
+- [ ] C) El conjunto de palabras que antecede al sujeto
   <!-- feedback: Eso es un sintagma nominal, un elemento de la oración, no una unidad de organización del texto. -->
+- [x] D) Un conjunto de oraciones organizadas alrededor de una idea central
+  <!-- feedback: La unidad básica del texto se define por la presencia de una idea central que organiza el resto del contenido. -->
 
 ### Explicacion Pedagogica
 El párrafo es la unidad básica de organización de un texto: está formado por un conjunto de oraciones que giran en torno a una idea central, llamada tema del párrafo. En la crónica del café, un párrafo puede explicar el clima de la región y otro narrar la venta de la cosecha; cada uno desarrolla una sola idea. Cuando un párrafo contiene más de un periodo, esos periodos deben estar relacionados entre sí, y esa relación es lo que da unidad al conjunto. Por eso se afirma que los periodos se articulan para formar párrafos, y no al revés.
@@ -149,14 +149,14 @@ La oración es simple porque posee un solo predicado y, por tanto, una sola prop
 Según su estructura, la oración "Se necesita un médico disponible en la noche" es:
 
 ### Opciones
-- [x] A) Unipersonal e impersonal, porque el pronombre no tiene un sujeto referencial
-  <!-- feedback: El pronombre aparece en construcciones impersonales en las que no se identifica a quién se atribuye la necesidad. -->
-- [ ] B) Unipersonal con sujeto elíptico, porque se sobreentiende "el hospital"
-  <!-- feedback: En las impersonales no hay sujeto que pueda sobreentenderse: la estructura no admite recuperar un referente. -->
-- [ ] C) Copulativa, porque el verbo "necesita" admite un atributo
-  <!-- feedback: "Necesitar" es un verbo pleno de predicación verbal; no pertenece a la lista de verbos copulativos. -->
-- [ ] D) Compuesta, porque contiene el sintagma "un médico disponible en la noche"
+- [ ] A) Compuesta, porque contiene el sintagma "un médico disponible en la noche"
   <!-- feedback: Un sintagma nominal largo no crea una segunda proposición: la oración tiene un solo predicado. -->
+- [x] B) Unipersonal e impersonal, porque el pronombre no tiene un sujeto referencial
+  <!-- feedback: El pronombre aparece en construcciones impersonales en las que no se identifica a quién se atribuye la necesidad. -->
+- [ ] C) Unipersonal con sujeto elíptico, porque se sobreentiende "el hospital"
+  <!-- feedback: En las impersonales no hay sujeto que pueda sobreentenderse: la estructura no admite recuperar un referente. -->
+- [ ] D) Copulativa, porque el verbo "necesita" admite un atributo
+  <!-- feedback: "Necesitar" es un verbo pleno de predicación verbal; no pertenece a la lista de verbos copulativos. -->
 
 ### Explicacion Pedagogica
 Una oración simple puede ser unipersonal cuando posee un solo predicado, y se llama impersonal cuando su sujeto no permite identificar a quién se atribuye la acción. La construcción con pronombre seguida de un verbo transitivo, como "se necesita un médico", es una de las impersonales más frecuentes. El orden directo e indirecto puede alternarse ("Se necesita un médico" y "Un médico se necesita"), pero la marca pronominal siempre está presente. Reconocer estas construcciones importa porque el sujeto tácito de una impersonal no es un sustantivo recuperable, sino una entidad no identificada.
@@ -172,14 +172,14 @@ Una oración simple puede ser unipersonal cuando posee un solo predicado, y se l
 Si el boletín escribe "Hace mucho calor en el sur del Valle", ¿qué tipo de oración simple es?
 
 ### Opciones
-- [x] A) Impersonal con el verbo hacer
-  <!-- feedback: La construcción "hace" en tercera persona expresa una condición del ambiente, no la acción de un sujeto identificable. -->
-- [ ] B) Copulativa con el verbo hacer
-  <!-- feedback: "Hacer" no es verbo copulativo: no une un sujeto con un atributo en el sentido de ser o estar. -->
-- [ ] C) Unipersonal con sujeto tácito que equivale al clima
+- [ ] A) Unipersonal con sujeto tácito que equivale al clima
   <!-- feedback: No es posible recuperar un sujeto equivalente; por eso la oración se clasifica como impersonal. -->
-- [ ] D) Compuesta por el uso de la expresión "mucho calor"
+- [ ] B) Compuesta por el uso de la expresión "mucho calor"
   <!-- feedback: "Hace mucho calor" es una sola proposición con un único predicado, sin conjunción que una a otra. -->
+- [x] C) Impersonal con el verbo hacer
+  <!-- feedback: La construcción "hace" en tercera persona expresa una condición del ambiente, no la acción de un sujeto identificable. -->
+- [ ] D) Copulativa con el verbo hacer
+  <!-- feedback: "Hacer" no es verbo copulativo: no une un sujeto con un atributo en el sentido de ser o estar. -->
 
 ### Explicacion Pedagogica
 Las oraciones impersonales expresan un hecho en el que no se identifica a quién se atribuye. La construcción "hace" en tercera persona, como "hace calor" o "hace frío", es uno de los casos más frecuentes de impersonalidad. Además, la oración es simple porque contiene un solo predicado. Clasificarla como unipersonal con sujeto tácito sería incorrecto, pues esa categoría exige un sujeto recuperable. En cambio, una oración como "Tú haces calor" no existe en español: el pronombre no puede asignarse a esa construcción. Esta distinción resulta útil al revisar la concordancia verbal, porque la construcción impersonal no concuerda con el referente que se menciona.
@@ -195,14 +195,14 @@ Las oraciones impersonales expresan un hecho en el que no se identifica a quién
 Si el editorial afirma "El tranvial llega a tiempo; por eso la movilidad mejoró", ¿qué cambio de puntuación unirá correctamente las dos oraciones del periodo?
 
 ### Opciones
-- [x] A) Sustituir el punto y coma por un punto
-  <!-- feedback: La relación es de causa y consecuencia entre dos oraciones independientes, así que cada una cierra con punto. -->
-- [ ] B) Mantener el punto y coma porque enlaza las dos oraciones
+- [ ] A) Mantener el punto y coma porque enlaza las dos oraciones
   <!-- feedback: El punto y coma indica una relación más débil; aquí hay una consecuencia que justifica marcar la separación. -->
-- [ ] C) Sustituir el punto y coma por dos puntos
+- [ ] B) Sustituir el punto y coma por dos puntos
   <!-- feedback: Los dos puntos anuncian una enumeración o una explicación, no la consecuencia que expresa el editorial. -->
-- [ ] D) Sustituir el punto y coma por una coma
+- [ ] C) Sustituir el punto y coma por una coma
   <!-- feedback: La coma no separa dos oraciones completas; separa elementos dentro de una misma oración. -->
+- [x] D) Sustituir el punto y coma por un punto
+  <!-- feedback: La relación es de causa y consecuencia entre dos oraciones independientes, así que cada una cierra con punto. -->
 
 ### Explicacion Pedagogica
 El punto y coma separa oraciones que están relacionadas, pero el vínculo es más débil que el que establece el punto. Cuando la relación es de consecuencia o de causa entre dos oraciones que conservan su independencia sintáctica, la separación correcta es el punto. En el ejemplo, la segunda oración explica la primera, de modo que la usar y coma debilitaría la relación lógica que el editorial quiere marcar. Una regla práctica para resolver estos casos es Imaginar el punto en el lugar del signo: si al poner punto el sentido se mantiene y la conexión sigue siendo clara, el punto es la mejor opción.
@@ -241,14 +241,14 @@ El modo indicativo se emplea para afirmar hechos considerados reales, para narra
 En la oración "Los estudiantes deben traer el carné", el sintagma "el carné" cumple la función de:
 
 ### Opciones
-- [x] A) Complemento directo del verbo "traer"
-  <!-- feedback: Responde a la pregunta qué trae el sujeto, por lo que es complemento directo y no lleva artículo. -->
-- [ ] B) Sujeto pasivo
-  <!-- feedback: El sujeto es "Los estudiantes"; el carné es aquello que se trae, no quien trae. -->
-- [ ] C) Atributo del sujeto
-  <!-- feedback: El atributo califica al sujeto con una cualidad; aquí el sintagma completa la acción del verbo. -->
-- [ ] D) Complemento indirecto del verbo "traer"
+- [ ] A) Complemento indirecto del verbo "traer"
   <!-- feedback: No responde a a qué ni a para qué, sino a qué, de modo que no lleva preposición. -->
+- [x] B) Complemento directo del verbo "traer"
+  <!-- feedback: Responde a la pregunta qué trae el sujeto, por lo que es complemento directo y no lleva artículo. -->
+- [ ] C) Sujeto pasivo
+  <!-- feedback: El sujeto es "Los estudiantes"; el carné es aquello que se trae, no quien trae. -->
+- [ ] D) Atributo del sujeto
+  <!-- feedback: El atributo califica al sujeto con una cualidad; aquí el sintagma completa la acción del verbo. -->
 
 ### Explicacion Pedagogica
 El complemento directo es el sintagma nominal que completa directamente al verbo y responde a las preguntas qué o quién, sin preposición. En esta oración del colegio, "el carné" indica exactamente lo que los estudiantes deben traer, por lo que es complemento directo del verbo "traer". El complemento indirecto, en cambio, responde a a qué, para qué o de qué y siempre viene precedido por una preposición, como en "Traer un libro para la clase". Dominar esta distinción evita el error frecuente de anteponer una preposición y decir "traer el carné" en lugar de "traer un carné" cuando la referencia no está determinada.
@@ -264,14 +264,14 @@ El complemento directo es el sintagma nominal que completa directamente al verbo
 En la oración "El conductor ebrio atropelló a un peatón", ¿cuántas proposiciones contiene y por qué es simple?
 
 ### Opciones
-- [x] A) Una proposición, porque posee un solo predicado verbal
-  <!-- feedback: Solo hay un verbo, "atropelló", y por tanto una sola proposición y un solo predicado. -->
-- [ ] B) Dos proposiciones, porque tiene dos sintagmas nominales
-  <!-- feedback: El número de sintagmas no determina las proposiciones; estas se cuentan a partir de los verbos. -->
-- [ ] C) Una proposición, porque el sujeto aparece antes del verbo
+- [ ] A) Una proposición, porque el sujeto aparece antes del verbo
   <!-- feedback: El orden de los términos no cambia la clasificación: lo decisivo es la cantidad de predicados. -->
-- [ ] D) Tres proposiciones, porque hay un sujeto, un verbo y un complemento
+- [ ] B) Tres proposiciones, porque hay un sujeto, un verbo y un complemento
   <!-- feedback: Esa cuenta corresponde a los términos, pero las proposiciones se definen por los verbos conjugados. -->
+- [x] C) Una proposición, porque posee un solo predicado verbal
+  <!-- feedback: Solo hay un verbo, "atropelló", y por tanto una sola proposición y un solo predicado. -->
+- [ ] D) Dos proposiciones, porque tiene dos sintagmas nominales
+  <!-- feedback: El número de sintagmas no determina las proposiciones; estas se cuentan a partir de los verbos. -->
 
 ### Explicacion Pedagogica
 Una proposición es cada unidad de sentido que tiene un verbo conjugado y que se basta por sí misma. En la oración del auto judicial hay un solo verbo, "atropelló", de modo que existe una sola proposición y, por lo tanto, un solo predicado. El sintagma "el conductor ebrio" es el sujeto y "el peatón" es el complemento directo; ninguno de esos elementos crea una proposición nueva. En cambio, en "El conductor ebrio atropelló al peatón y huyó del lugar" aparecen dos verbos y ya se trataría de una oración compuesta por coordinación.
@@ -287,14 +287,14 @@ Una proposición es cada unidad de sentido que tiene un verbo conjugado y que se
 Un párrafo dice: "El río Magdalena llega a Barrancabermeja. Sus aguas transportan gran cantidad de sedimento. Sin embargo, la contaminación avanza." ¿Cuántos periodos hay?
 
 ### Opciones
-- [x] A) Tres periodos, porque cada grupo de oraciones forma una unidad con sentido completo
-  <!-- feedback: Cada punto cierra un grupo de oraciones con sentido propio, y esos tres grupos son los periodos del párrafo. -->
-- [ ] B) Un solo periodo, porque todas las oraciones están en el mismo párrafo
+- [ ] A) Un solo periodo, porque todas las oraciones están en el mismo párrafo
   <!-- feedback: El párrafo puede contener varios periodos; la extensión del párrafo no los unifica en uno solo. -->
-- [ ] C) Dos periodos, porque la conjunción "sin embargo" separa la tercera oración
+- [ ] B) Dos periodos, porque la conjunción "sin embargo" separa la tercera oración
   <!-- feedback: La conjunción marca la relación entre oraciones, pero no elimina la separación en periodos distintos. -->
-- [ ] D) Cuatro periodos, porque la primera oración tiene sujeto y predicado
+- [ ] C) Cuatro periodos, porque la primera oración tiene sujeto y predicado
   <!-- feedback: Contar los términos de una oración no es contar periodos: aquí hay tres, no cuatro. -->
+- [x] D) Tres periodos, porque cada grupo de oraciones forma una unidad con sentido completo
+  <!-- feedback: Cada punto cierra un grupo de oraciones con sentido propio, y esos tres grupos son los periodos del párrafo. -->
 
 ### Explicacion Pedagogica
 Un periodo se cierra con un punto y reúne dos o más oraciones relacionadas entre sí. En el párrafo sobre el río Magdalena hay tres puntos finales que delimitan tres periodos: la llegada del río, el transporte de sedimento y el avance de la contaminación. La presencia de la conjunción adversativa "sin embargo" no reduce el número de periodos; por el contrario, esa conectividad entre oraciones es precisamente lo que hace que el párrafo funcione como una unidad coherente. Analizar cuántos periodos hay es el primer paso para decidir si todos pertenecen a la misma idea central.
@@ -333,14 +333,14 @@ Cuando dos o más proposiciones aparecen dentro de una misma oración separadas 
 En la columna se lee: "Hay ciclovías en mal estado; además, hay tramo sin señalización." ¿Qué signo debe reemplazar el punto y coma?
 
 ### Opciones
-- [x] A) Un punto
-  <!-- feedback: La relación es de adición entre dos oraciones independientes, así que cada una cierra con punto. -->
-- [ ] B) Una coma
-  <!-- feedback: La coma no separa dos oraciones completas; separa elementos dentro de una misma oración. -->
-- [ ] C) Dos puntos
-  <!-- feedback: Los dos puntos anuncian una enumeración o una explicación, no la adición que expresa la columna. -->
-- [ ] D) Guion largo
+- [ ] A) Guion largo
   <!-- feedback: El guion marca un diálogo o una interrupción del discurso, función que aquí no cumple. -->
+- [x] B) Un punto
+  <!-- feedback: La relación es de adición entre dos oraciones independientes, así que cada una cierra con punto. -->
+- [ ] C) Una coma
+  <!-- feedback: La coma no separa dos oraciones completas; separa elementos dentro de una misma oración. -->
+- [ ] D) Dos puntos
+  <!-- feedback: Los dos puntos anuncian una enumeración o una explicación, no la adición que expresa la columna. -->
 
 ### Explicacion Pedagogica
 El punto y coma separa oraciones relacionadas entre sí, pero el vínculo es más débil que el que establece el punto. Cuando la relación es de consecuencia o de adición entre dos oraciones que conservan su independencia sintáctica, la separación correcta es el punto. En la columna, la segunda oración añade una información a la primera, de modo que el punto y coma debilitaría la relación lógica que el periodista quiere marcar. Una regla práctica para resolver estos casos es imaginar el punto en el lugar del signo: si al poner punto el sentido se mantiene y la conexión sigue siendo clara, el punto es la mejor opción.
@@ -356,14 +356,14 @@ El punto y coma separa oraciones relacionadas entre sí, pero el vínculo es má
 ¿Cuál de estas oraciones es simple, de predicación nominal y con sujeto pospuesto?
 
 ### Opciones
-- [x] A) "Está frío el patio en la mañana"
-  <!-- feedback: Es simple, su verbo es copulativo y el sujeto aparece después del predicado. -->
-- [ ] B) "El río está caudaloso"
-  <!-- feedback: Es simple y de predicación nominal, pero el sujeto aparece antes del verbo. -->
-- [ ] C) "Los niños cantaron en el festival"
+- [ ] A) "Los niños cantaron en el festival"
   <!-- feedback: Es simple, pero de predicación verbal, porque el verbo cantaron no es copulativo. -->
-- [ ] D) "Llovió toda la noche en Bucaramanga"
+- [ ] B) "Llovió toda la noche en Bucaramanga"
   <!-- feedback: Es simple e impersonal, pero su predicación es verbal y no lleva sujeto pospuesto. -->
+- [x] C) "Está frío el patio en la mañana"
+  <!-- feedback: Es simple, su verbo es copulativo y el sujeto aparece después del predicado. -->
+- [ ] D) "El río está caudaloso"
+  <!-- feedback: Es simple y de predicación nominal, pero el sujeto aparece antes del verbo. -->
 
 ### Explicacion Pedagogica
 Una oración simple de predicación nominal es aquella cuyo predicado está formado por un verbo copulativo, como ser, estar o parecer, y que expresa una cualidad del sujeto. En la opción correcta, "el patio" es el sujeto y aparece después del verbo, por lo que se trata de un sujeto pospuesto. Que el sujeto llegue tarde no cambia la estructura de la oración: sigue habiendo un solo predicado y una sola proposición. Reconocer que el español permite la posposición del sujeto ayuda a no confundirla con una inversión o con una oración compuesta, dos errores frecuentes en el análisis.
@@ -379,14 +379,14 @@ Una oración simple de predicación nominal es aquella cuyo predicado está form
 ¿Qué análisis describe correctamente el fragmento "Traiga la libreta de notas" dentro del mensaje?
 
 ### Opciones
-- [x] A) Es una frase, porque el verbo está en imperativo y el grupo no lleva sujeto explícito
-  <!-- feedback: El imperativo no exige sujeto explícito, y por eso el grupo funciona como frase y no como oración. -->
-- [ ] B) Es una oración simple con sujeto tácito recuperable
+- [ ] A) Es una oración simple con sujeto tácito recuperable
   <!-- feedback: El imperativo no admite un sujeto tácito que se pueda recuperar: el grupo es una frase. -->
-- [ ] C) Es una oración compuesta porque tiene verbo y complemento
+- [ ] B) Es una oración compuesta porque tiene verbo y complemento
   <!-- feedback: Solo hay un verbo, de modo que no puede tratarse de una oración compuesta. -->
-- [ ] D) Es una oración con sujeto tácito formado por la palabra "usted"
+- [ ] C) Es una oración con sujeto tácito formado por la palabra "usted"
   <!-- feedback: El pronombre usted solo hace de sujeto si aparece en la oración, y aquí no está escrito. -->
+- [x] D) Es una frase, porque el verbo está en imperativo y el grupo no lleva sujeto explícito
+  <!-- feedback: El imperativo no exige sujeto explícito, y por eso el grupo funciona como frase y no como oración. -->
 
 ### Explicacion Pedagogica
 Una frase puede contener un verbo, pero en este caso ese verbo aparece en imperativo, una forma que no lleva sujeto explícito. Por eso el grupo "Traiga la libreta de notas" se clasifica como frase y no como oración. En cambio, "Traiga usted la libreta de notas" sí es una oración simple, porque el pronombre usted actúa como sujeto tácito de un verbo personal. La diferencia entre ambas demuestra que la calidad de oración depende de la estructura interna del grupo y no del sentido que el contexto le atribuya dentro del mensaje institucional.
@@ -425,14 +425,14 @@ Un párrafo bien construido variety la estructura de sus oraciones para mantener
 El titular dice: "La encuesta, los talleres y el foro; son las actividades del módulo." ¿Cuál es el análisis más preciso de ese titular?
 
 ### Opciones
-- [x] A) El punto y coma deja incompleta la primera oración
-  <!-- feedback: Al no cerrar el listado, la relación entre las dos oraciones se pierde y el titular queda mal segmentado. -->
-- [ ] B) El punto y coma está bien usado porque une el listado con la explicación
-  <!-- feedback: El listado debe cerrarse con punto, porque cada elemento es una oración completa e independiente. -->
-- [ ] C) El titular contiene dos oraciones compuestas por coordinación
-  <!-- feedback: Solo hay un verbo, "son", de modo que no puede haber coordinación de dos proposiciones. -->
-- [ ] D) El titular es un ejemplo de oración simple con predicación nominal
+- [ ] A) El titular es un ejemplo de oración simple con predicación nominal
   <!-- feedback: El conjunto es un periodo de dos oraciones, no una sola oración con predicación nominal. -->
+- [x] B) El punto y coma deja incompleta la primera oración
+  <!-- feedback: Al no cerrar el listado, la relación entre las dos oraciones se pierde y el titular queda mal segmentado. -->
+- [ ] C) El punto y coma está bien usado porque une el listado con la explicación
+  <!-- feedback: El listado debe cerrarse con punto, porque cada elemento es una oración completa e independiente. -->
+- [ ] D) El titular contiene dos oraciones compuestas por coordinación
+  <!-- feedback: Solo hay un verbo, "son", de modo que no puede haber coordinación de dos proposiciones. -->
 
 ### Explicacion Pedagogica
 Para analizar la puntuación de un titular hay que identificar primero cuántos verbos conjugados hay. En este caso hay un solo verbo, "son", que pertenece a la segunda oración, de modo que el conjunto está formado por un periodo de dos oraciones. El punto y coma, en lugar de cerrar la enumeración, deja la primera oración sin punto de cierre y debilita la relación entre ambas partes. La corrección más precisa es escribir: "La encuesta, los talleres y el foro son las actividades del módulo." Así se obtiene una sola oración simple, con sujeto, verbo y atributo, que condensa el titular sin perder información.
@@ -448,14 +448,14 @@ Para analizar la puntuación de un titular hay que identificar primero cuántos 
 ¿Qué categoría estructural corresponde a "Los estudiantes que terminaron el año pasado"?
 
 ### Opciones
-- [x] A) Oración simple, porque el sintagma relativo es un adjetivo y no una proposición
-  <!-- feedback: El sintagma relativo funciona como adjetivo, de modo que la oración conserva un solo predicado. -->
-- [ ] B) Oración compuesta, porque el sintagma relativo contiene un verbo conjugado
-  <!-- feedback: La oración es simple: los verbos del sintagma relativo no forman una proposición autónoma. -->
-- [ ] C) Oración compuesta por subordinación, porque hay dos sujetos
+- [ ] A) Oración compuesta por subordinación, porque hay dos sujetos
   <!-- feedback: Solo existe un sujeto principal, "Los estudiantes", con un solo verbo que concuerda con él. -->
-- [ ] D) Periodo de dos oraciones, porque el relativo cierra con punto
+- [ ] B) Periodo de dos oraciones, porque el relativo cierra con punto
   <!-- feedback: No hay ningún punto en la oración, de modo que no existe un periodo sino una sola oración. -->
+- [x] C) Oración simple, porque el sintagma relativo es un adjetivo y no una proposición
+  <!-- feedback: El sintagma relativo funciona como adjetivo, de modo que la oración conserva un solo predicado. -->
+- [ ] D) Oración compuesta, porque el sintagma relativo contiene un verbo conjugado
+  <!-- feedback: La oración es simple: los verbos del sintagma relativo no forman una proposición autónoma. -->
 
 ### Explicacion Pedagogica
 Un sintagma relativo puede contener un verbo, pero mientras sus términos no alcancen independencia sintáctica la oración sigue siendo simple. En "Los estudiantes que terminaron el año pasado", el grupo "que terminaron el año pasado" funciona como un adjetivo que modifica al sujeto, y el único predicado de la oración es "terminaron el año pasado". Solo cuando el relativo forma una proposición completa, con su propio sujeto y su propio verbo, aparece una proposición subordinada que convierte a la oración en compuesta. Comprender ese matiz evita confundir la cantidad de verbos con la cantidad de proposiciones.
@@ -471,14 +471,14 @@ Un sintagma relativo puede contener un verbo, pero mientras sus términos no alc
 El periodista entrega un texto con oraciones muy breves sobre la contaminación del río. ¿Cuál de las siguientes propuestas mejora la organización del texto sin alterar su contenido?
 
 ### Opciones
-- [x] A) Unir en un solo periodo las dos oraciones que describen la contaminación del río
-  <!-- feedback: Al fundirlas se mantiene la información y se evita la fragmentación en oraciones breves. -->
-- [ ] B) Separar cada oración en un párrafo distinto para darle más visibilidad
+- [ ] A) Separar cada oración en un párrafo distinto para darle más visibilidad
   <!-- feedback: Un párrafo por oración rompe la unidad temática y dificulta la comprensión del conjunto. -->
-- [ ] C) Cambiar todas las oraciones por frases sin verbo para acelerar la lectura
+- [ ] B) Cambiar todas las oraciones por frases sin verbo para acelerar la lectura
   <!-- feedback: Eliminar los verbos deja el texto sin oraciones y destruye su sentido formal. -->
-- [ ] D) Suprimir el punto final del último periodo porque la idea ya está clara
+- [ ] C) Suprimir el punto final del último periodo porque la idea ya está clara
   <!-- feedback: Todo periodo debe cerrarse con un punto; omitirlo es un error de puntuación. -->
+- [x] D) Unir en un solo periodo las dos oraciones que describen la contaminación del río
+  <!-- feedback: Al fundirlas se mantiene la información y se evita la fragmentación en oraciones breves. -->
 
 ### Explicacion Pedagogica
 Mejorar la organización de un texto significa fortalecer la relación entre sus oraciones sin eliminar información. Unir dos oraciones breves que tratan el mismo asunto en un solo periodoImprove la fluidez sin cambiar el contenido, porque conserva los verbos y mantiene la relación lógica entre las ideas. En cambio, separar cada oración en un párrafo distinto rompe la unidad temática, eliminar los verbos deja frases sin predicado y suprimir el punto final vulnera la norma de puntuación. La edición responsable respeta tanto la estructura de la oración como la del periodo.
