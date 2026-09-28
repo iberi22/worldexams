@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas sobre termodinámica para grado 9, alineadas con
 **Contexto:** En el laboratorio de física de un colegio de Medellín, la profesora calienta un recipiente con agua mientras el grupo debate qué significa realmente "calor".
 
 ### Enunciado
-Cuál es la diferencia entre el calor y la energía interna de un sistema?
+¿Cuál es la diferencia entre el calor y la energía interna de un sistema?
 
 ### Opciones
 - [ ] A) El calor es la energía interna acumulada en el sistema, mientras que la energía interna es el flujo de esa energía entre dos sistemas.
@@ -54,16 +54,16 @@ La energía interna es la suma de las energías de las partículas que forman un
 **Contexto:** En el laboratorio de un colegio de Bogotá, dos estudiantes comparan un vaso con agua muy caliente y otro con agua a temperatura ambiente.
 
 ### Enunciado
-Dos vasos idénticos contienen la misma masa de agua: uno está a 80 C y el otro a 20 C. Considerando solo el sistema agua, qué diferencia existe entre ambos?
+Dos vasos idénticos contienen la misma masa de agua: uno está a 80 °C y el otro a 20 °C. Considerando solo el sistema agua, ¿qué diferencia existe entre ambos?
 
 ### Opciones
-- [ ] A) El agua a 80 C tiene más calor, porque puede ceder más energía al ambiente que el agua a 20 C.
+- [ ] A) El agua a 80 °C tiene más calor, porque puede ceder más energía al ambiente que el agua a 20 °C.
   <!-- feedback: Incorrecto. Ninguno de los dos vasos contiene calor; el calor solo existe mientras la energía se transfiere. Lo que tienen es energía interna. -->
 - [ ] B) La energía interna depende de la forma del recipiente y no de la temperatura del agua.
   <!-- feedback: Incorrecto. La energía interna es una propiedad del sistema de partículas; la forma del recipiente solo cambia el recipiente, no el agua. -->
 - [ ] C) Ambas tienen la misma energía interna, porque tienen la misma masa y ocupan el mismo volumen.
   <!-- feedback: Incorrecto. La energía interna depende también de la temperatura, que aquí es el factor que cambia. -->
-- [x] D) El agua a 80 C tiene mayor energía interna que la que está a 20 C, aunque ambas tengan la misma composición y masa.
+- [x] D) El agua a 80 °C tiene mayor energía interna que la que está a 20 °C, aunque ambas tengan la misma composición y masa.
   <!-- feedback: Correcto. A igual masa y sustancia, la energía interna depende de la temperatura porque las partículas se mueven más rápido. -->
 
 ### Explicacion Pedagogica
@@ -77,7 +77,7 @@ La energía interna es una propiedad de estado: queda completamente determinada 
 **Contexto:** En un taller de física de un colegio de Bucaramanga, un grupo mide un sistema térmico que calienta un pistón mientras recibe energía de una resistencia.
 
 ### Enunciado
-A un sistema se le transfieren 1 200 J de calor y, al mismo tiempo, el sistema realiza 300 J de trabajo sobre el entorno. Según la primera ley de la termodinámica, cómo cambia su energía interna?
+A un sistema se le transfieren 1 200 J de calor y, al mismo tiempo, el sistema realiza 300 J de trabajo sobre el entorno. Según la primera ley de la termodinámica, ¿cómo cambia su energía interna?
 
 ### Opciones
 - [ ] A) Disminuye 1 500 J, porque el trabajo realizado consume más energía que el calor recibido.
@@ -100,7 +100,7 @@ La primera ley de la termodinámica es una expresión de la conservación de la 
 **Contexto:** En un museo interactivo de un colegio de Pereira, los estudiantes observan el funcionamiento de una máquina de vapor de tamaño reducido.
 
 ### Enunciado
-En una máquina de vapor, el gas encerrado se calienta y se expande, empujando un pistón que mueve las ruedas. Qué ocurre con la energía interna del gas durante la expansión?
+En una máquina de vapor, el gas encerrado se calienta y se expande, empujando un pistón que mueve las ruedas. ¿Qué ocurre con la energía interna del gas durante la expansión?
 
 ### Opciones
 - [ ] A) Disminuye hasta cero, porque toda la energía interna del gas se convierte en trabajo.
@@ -113,7 +113,7 @@ En una máquina de vapor, el gas encerrado se calienta y se expande, empujando u
   <!-- feedback: Incorrecto. La máquina de vapor recibe calor de la fuente para funcionar; sin esa entrada de energía no habría expansión ni trabajo. -->
 
 ### Explicacion Pedagogica
-Una máquina térmica convierte parte del calor recibido de una fuente caliente en trabajo mecánico. Cuando el gas se expande, realiza trabajo sobre el pistón y esa energía sale del gas, por lo que su energía interna disminuye. El calor que el gas recibió antes, durante el calentamiento, es lo que financió ese trabajo. Ninguna máquina térmica real transfiere toda su energía interna al pistón: una parte se descarga al ambiente como calor residual, y esa parte no/apparecerá como trabajo útil.
+Una máquina térmica convierte parte del calor recibido de una fuente caliente en trabajo mecánico. Cuando el gas se expande, realiza trabajo sobre el pistón y esa energía sale del gas, por lo que su energía interna disminuye. El calor que el gas recibió antes, durante el calentamiento, es lo que financió ese trabajo. Ninguna máquina térmica real transfiere toda su energía interna al pistón: una parte se descarga al ambiente como calor residual, y esa parte no aparecerá como trabajo útil.
 
 ## Question 5 [D5-D6]
 **ID:** CO-CN-9-2026-W27-la-termodinamica-y-la-primera-ley-001-MASTERY-bundle-v5
@@ -123,7 +123,7 @@ Una máquina térmica convierte parte del calor recibido de una fuente caliente 
 **Contexto:** En un taller de mantenimiento de Cartagena, un técnico mide el comportamiento de un motor térmico pequeño y compara el trabajo útil con la energía suministrada.
 
 ### Enunciado
-Un motor térmico recibe 2 000 J de energía en forma de calor de la fuente caliente y entrega 500 J de trabajo. Cuál es la eficiencia de ese motor?
+Un motor térmico recibe 2 000 J de energía en forma de calor de la fuente caliente y entrega 500 J de trabajo. ¿Cuál es la eficiencia de ese motor?
 
 ### Opciones
 - [x] A) 25 %, porque la eficiencia es el trabajo útil dividido entre la energía suministrada.
@@ -146,7 +146,7 @@ La eficiencia de una máquina térmica se define como el cociente entre el traba
 **Contexto:** En una mañana fría de Bogotá, un estudiante sale al patio del colegio y frota sus manos antes de entrar a clase.
 
 ### Enunciado
-Un estudiante frota sus manos y de inmediato siente calor en ellas. Qué explicación es correcta desde la termodinámica?
+Un estudiante frota sus manos y de inmediato siente calor en ellas. ¿Qué explicación es correcta desde la termodinámica?
 
 ### Opciones
 - [ ] A) El frotamiento genera calor de la nada dentro de las manos, violando la primera ley.
@@ -169,7 +169,7 @@ Este phenomenon cotidiano ilustra la primera ley. Cuando dos superficies se frot
 **Contexto:** En un apartamento de Medellín, un técnico explica a la familia por qué la parte posterior de la nevera está más caliente que la parte delantera.
 
 ### Enunciado
-Una nevera encendida se siente fría por dentro y caliente por detrás. Cuál es la explicación correcta?
+Una nevera encendida se siente fría por dentro y caliente por detrás. ¿Cuál es la explicación correcta?
 
 ### Opciones
 - [ ] A) La nevera traslada el frío del interior directamente al ambiente, y ese traslado es lo que calienta la parte trasera.
@@ -192,7 +192,7 @@ La nevera ilustra el principio de los procesos irreversibles: el calor no pasa e
 **Contexto:** En un laboratorio escolar de Armenia, dos grupos construyen maquetas de motores y comparan sus resultados.
 
 ### Enunciado
-Dos motores reciben la misma energía térmica: el motor A entrega 400 J de trabajo y el motor B entrega 300 J. Qué comparación es correcta?
+Dos motores reciben la misma energía térmica: el motor A entrega 400 J de trabajo y el motor B entrega 300 J. ¿Qué comparación es correcta?
 
 ### Opciones
 - [ ] A) No es posible comparar la eficiencia sin conocer la energía interna que quedó dentro de cada motor.
@@ -215,7 +215,7 @@ La eficiencia es una razón de comparación, y por eso solo tiene sentido cuando
 **Contexto:** En una clase de grado 9 de Neiva, los estudiantes analizan un diagrama de flujo de energía de una central térmica que opera cerca al municipio.
 
 ### Enunciado
-En una central térmica, de 10 000 J de energía liberada por el combustible, 3 000 J se convierten en trabajo eléctrico y 7 000 J se descargan al ambiente. Qué afirmación es coherente con la primera ley?
+En una central térmica, de 10 000 J de energía liberada por el combustible, 3 000 J se convierten en trabajo eléctrico y 7 000 J se descargan al ambiente. ¿Qué afirmación es coherente con la primera ley?
 
 ### Opciones
 - [x] A) La central convierte el 30 % de la energía del combustible en trabajo y disipa el 70 % restante como calor residual.
@@ -238,7 +238,7 @@ El diagrama de una central térmica es una aplicación directa de la primera ley
 **Contexto:** Un inventor amateur de Tunja presenta en una feria regional un dispositivo que, según él, produce hielo sin consumir energía.
 
 ### Enunciado
-Un fabricante afirma que su máquina produce hielo a partir de agua tibia sin consumir energía, y que luego el hielo se derrite en un recipiente más frío. Qué establece la segunda ley de la termodinámica frente a esa afirmación?
+Un fabricante afirma que su máquina produce hielo a partir de agua tibia sin consumir energía, y que luego el hielo se derrite en un recipiente más frío. ¿Qué establece la segunda ley de la termodinámica frente a esa afirmación?
 
 ### Opciones
 - [ ] A) Que la afirmación es válida, porque la segunda ley solo se aplica a sistemas que intercambian calor con el medio.
@@ -261,7 +261,7 @@ La segunda ley de la termodinámica, expresada en términos de entropía, establ
 **Contexto:** En una feria de ciencias de Bogotá, un grupo de grado 9 presenta un dispositivo y proyecta en pantalla una gráfica de su rendimiento.
 
 ### Enunciado
-Un grupo presenta un dispositivo que afirma entregar 120 J de trabajo por cada 100 J de energía que consume. Cómo debe evaluarse esa propuesta?
+Un grupo presenta un dispositivo que afirma entregar 120 J de trabajo por cada 100 J de energía que consume. ¿Cómo debe evaluarse esa propuesta?
 
 ### Opciones
 - [ ] A) La propuesta es válida siempre que el dispositivo consuma en realidad menos de 100 J de energía.
@@ -284,7 +284,7 @@ La eficiencia se define como el cociente entre la salida útil y la entrada de e
 **Contexto:** En el proyecto de grado 9 de un colegio de Montería, un equipo investiga cómo afectan las pérdidas de calor a la temperatura de una sustancia.
 
 ### Enunciado
-Un equipo coloca la misma cantidad de agua caliente en dos recipientes idénticos: uno con tapa y otro sin tapa. Registra la temperatura cada diez minutos durante una hora. Qué conclusión se puede sostener con esos datos?
+Un equipo coloca la misma cantidad de agua caliente en dos recipientes idénticos: uno con tapa y otro sin tapa. Registra la temperatura cada diez minutos durante una hora. ¿Qué conclusión se puede sostener con esos datos?
 
 ### Opciones
 - [ ] A) Los datos prueban que el agua pierde toda su energía interna a la misma velocidad en ambos recipientes.

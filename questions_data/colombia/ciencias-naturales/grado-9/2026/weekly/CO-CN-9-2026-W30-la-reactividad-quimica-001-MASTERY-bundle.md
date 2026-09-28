@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 # Bundle MASTERY: La Reactividad Química
 
-Este bundle reúne 12 preguntas sobre reactividad química para grado 9, alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 9. Estudia los tipos de reacción química y su clasificación, los números de oxidación y el proceso de oxidación-reducción, el uso de la estequiometría para obtener cantidades de sustancia, los factores que modifican la velocidad de una reacción y el papel de los catalizadores en laindustria y en los seres vivos.
+Este bundle reúne 12 preguntas sobre reactividad química para grado 9, alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 9. Estudia los tipos de reacción química y su clasificación, los números de oxidación y el proceso de oxidación-reducción, el uso de la estequiometría para obtener cantidades de sustancia, los factores que modifican la velocidad de una reacción y el papel de los catalizadores en la industria y en los seres vivos.
 
 ## Question 1 [D3-D4]
 **ID:** CO-CN-9-2026-W30-la-reactividad-quimica-001-MASTERY-bundle-v1
@@ -238,7 +238,7 @@ Hay que distinguir entre dos efectos que a menudo se confunden. El catalizador d
 **Contexto:** En una práctica de un colegio de Tumaco, un grupo compara la combustión de una lámina de magnesio con la de virutas de madera.
 
 ### Enunciado
-Una lámina de magnesio y unas virutas de madera se encienden con un fósforo en un colegio de Santa Marta. ¿Qué explica que las virutas ardan con mayor rapidez?
+Una lámina de magnesio y unas virutas de madera se encienden con un fósforo en un colegio de Santa Marta. Qué explica ¿que las virutas ardan con mayor rapidez?
 
 ### Opciones
 - [ ] A) Que las virutas contienen una energía superior por unidad de masa que el magnesio.

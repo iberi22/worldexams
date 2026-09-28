@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas de repaso para grado 9, alineadas con los DBA de
 **Contexto:** En una salida de campo a una finca del río Magdalena, un grupo de estudiantes identifica los seres vivos de un estanque y su relación con el agua y el suelo.
 
 ### Enunciado
-Dentro de un ecosistema, cómo se clasifican los seres vivos según su función dentro de la cadena alimentaria?
+Dentro de un ecosistema, ¿cómo se clasifican los seres vivos según su función dentro de la cadena alimentaria?
 
 ### Opciones
 - [x] A) Productores, que fabrican su propio alimento; consumidores, que se alimentan de otros seres vivos; y descomponedores, que reciclan la materia orgánica muerta.
@@ -54,7 +54,7 @@ Un ecosistema es el conjunto de seres vivos que interactúan entre sí y con los
 **Contexto:** En una clase de grado 9 de Villavicencio, la profesora explica con flechas por qué la materia se recicla mientras la energía fluye en una sola dirección.
 
 ### Enunciado
-A diferencia de la energía, por qué la materia puede recorrer repetidamente un ecosistema?
+A diferencia de la energía, ¿por qué la materia puede recorrer repetidamente un ecosistema?
 
 ### Opciones
 - [ ] A) Porque la materia no se consume al pasar de un nivel trófico a otro, a diferencia de la energía que sí se pierde.
@@ -77,7 +77,7 @@ En un ecosistema, la energía fluye en una sola dirección: entra con la radiaci
 **Contexto:** En un ejercicio de grado 9 de un colegio de Quibdó, un grupo calcula la energía disponible en los niveles tróficos de un bosque.
 
 ### Enunciado
-En un bosque, los productores almacenan 10 000 kJ de energía. Aplicando la regla de que solo cerca del 10 % pasa al siguiente nivel, cuánta energía quedará disponible para los consumidores terciarios?
+En un bosque, los productores almacenan 10 000 kJ de energía. Aplicando la regla de que solo cerca del 10 % pasa al siguiente nivel, ¿cuánta energía quedará disponible para los consumidores terciarios?
 
 ### Opciones
 - [ ] A) 5 000 kJ, porque la mitad de la energía pasa directamente de los productores a los consumidores terciarios.
@@ -100,7 +100,7 @@ En cada transferencia entre niveles tróficos se pierde una gran parte de la ene
 **Contexto:** En un proyecto de grado 9 de un colegio de Sincelejo, un grupo representa el ciclo del carbono con flechas y procesos.
 
 ### Enunciado
-En el ciclo del carbono, qué procesos devuelven el carbono de la materia orgánica a la atmósfera?
+En el ciclo del carbono, ¿qué procesos devuelven el carbono de la materia orgánica a la atmósfera?
 
 ### Opciones
 - [ ] A) La evaporación del agua de mar, porque el vapor de agua arrastra el carbono a la atmósfera.
@@ -123,7 +123,7 @@ El carbono circula entre la atmósfera, los seres vivos, el suelo, los océanos 
 **Contexto:** En una finca de un colegio de Armenia, un grupo compara la fertilidad de un lote sembrado con frijol y otro sembrado solo con pasto.
 
 ### Enunciado
-Las bacterias fijadoras de nitrógeno convierten el nitrógeno atmosférico en formas utilizables. Qué consecuencia tiene para un ecosistema?
+Las bacterias fijadoras de nitrógeno convierten el nitrógeno atmosférico en formas utilizables. ¿Qué consecuencia tiene para un ecosistema?
 
 ### Opciones
 - [x] A) Aumenta la disponibilidad de nitratos en el suelo, lo que enriquece el suelo y permite el crecimiento de los productores.
@@ -146,7 +146,7 @@ El nitrógeno atmosférico es un 78 % del aire, pero las plantas no pueden aprov
 **Contexto:** En un proyecto de grado 9 de un colegio de Arauca, un grupo analiza cómo la pesca artesanal afecta a un estuario costero.
 
 ### Enunciado
-En un estuario se reduce drásticamente la población de peces depredadores grandes. Qué efecto en cascada es esperable en la red trófica?
+En un estuario se reduce drásticamente la población de peces depredadores grandes. ¿Qué efecto en cascada es esperable en la red trófica?
 
 ### Opciones
 - [ ] A) Disminuyen los peces pequeños, porque al desaparecer el depredador ya no hay quien los Wille los alimente.
@@ -169,7 +169,7 @@ En una red trófica, la población de un nivel regula la del nivel inferior medi
 **Contexto:** En una sesión de investigación de un colegio de Palmira, un grupo estudia un lago que recibe aguas con mucho fósforo de los detergentes.
 
 ### Enunciado
-Un lago rico en nutrientes como el fósforo y el nitrógeno presenta el fenómeno de eutrofización. Qué ocurre en él?
+Un lago rico en nutrientes como el fósforo y el nitrógeno presenta el fenómeno de eutrofización. ¿Qué ocurre en él?
 
 ### Opciones
 - [ ] A) Aumenta el oxígeno disuelto, porque las algas liberan oxígeno durante la fotosíntesis.
@@ -192,7 +192,7 @@ La eutrofización se produce cuando un ecosistema acuático recibe un exceso de 
 **Contexto:** En una salida de campo al páramo de Sumapaz, un guía explica la importancia de la vegetación de frailejones para el agua de las capitales.
 
 ### Enunciado
-Qué papel desempeñan los páramos en el ciclo del agua y por qué son considerados fábrica de agua?
+Qué papel desempeñan los páramos en el ciclo del agua y ¿por qué son considerados fábrica de agua?
 
 ### Opciones
 - [ ] A) No tienen función en el ciclo del agua, porque el agua de las ciudades proviene solo de los glaciares.
@@ -215,7 +215,7 @@ Los páramos son ecosistemas de altura, situados principalmente entre los 3 000 
 **Contexto:** En un consejo de un colegio de Guateque, un grupo propone crear un corredor de bosque entre dos fragmentos de selva.
 
 ### Enunciado
-Un grupo propone restaurar un corredor de bosque que conecte dos fragmentos de selva separados por un potrero. Qué evaluación es la más adecuada?
+Un grupo propone restaurar un corredor de bosque que conecte dos fragmentos de selva separados por un potrero. ¿Qué evaluación es la más adecuada?
 
 ### Opciones
 - [x] A) Es una medida adecuada, porque el corredor permite el desplazamiento de fauna y el intercambio genético entre los dos fragmentos.
@@ -238,7 +238,7 @@ La fragmentación de un bosque en parches separados aísla las poblaciones y red
 **Contexto:** En un foro comunitario de un municipio de Boyacá, se discute la propuesta de abrir una vía minera en una zona de páramo.
 
 ### Enunciado
-Se propone abrir una vía minera en un páramo. Qué evaluación del impacto ambiental es la más sólida?
+Se propone abrir una vía minera en un páramo. ¿Qué evaluación del impacto ambiental es la más sólida?
 
 ### Opciones
 - [ ] A) El proyecto solo afectaría la economía local, porque el páramo carece de funciones ambientales.
@@ -261,7 +261,7 @@ Evaluar un proyecto que afecta un páramo exige considerar varias dimensiones a 
 **Contexto:** En una feria escolar de un colegio de Girardot, un stand afirma que todo lo que se etiqueta como biodegradable es inocuo para el ambiente.
 
 ### Enunciado
-Un stand afirma que "un plástico biodegradable se descompone por sí solo y no deja residuos". Cómo debe evaluarse esa afirmación?
+Un stand afirma que "un plástico biodegradable se descompone por sí solo y no deja residuos". ¿Cómo debe evaluarse esa afirmación?
 
 ### Opciones
 - [ ] A) Es correcta, porque los plásticos biodegradables no producen dioxina al enterrarse.
@@ -284,7 +284,7 @@ La etiqueta biodegradable indica que un material puede ser descompuesto por micr
 **Contexto:** En un proyecto de grado 9 de un colegio de Cereté, un grupo construye una compostera y compara la descomposición de hojas en distintas condiciones.
 
 ### Enunciado
-Un grupo coloca hojas secas en dos frascos, uno húmedo y ventilado y otro húmedo y sellado, y registra su descomposición durante semanas. Qué interpretación es la más adecuada?
+Un grupo coloca hojas secas en dos frascos, uno húmedo y ventilado y otro húmedo y sellado, y registra su descomposición durante semanas. ¿Qué interpretación es la más adecuada?
 
 ### Opciones
 - [ ] A) Las hojas no se descomponen en ningún frasco, porque los descomponedores no viven en el suelo seco.

@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas de repaso para grado 9, alineadas con los DBA de
 **Contexto:** En el taller de electrónica de un colegio de Medellín, un grupo revisa la ley que relaciona voltaje, corriente y resistencia en un circuito.
 
 ### Enunciado
-Según la ley de Ohm, qué relación existe entre el voltaje, la intensidad de la corriente y la resistencia?
+Según la ley de Ohm, ¿qué relación existe entre el voltaje, la intensidad de la corriente y la resistencia?
 
 ### Opciones
 - [x] A) Que el voltaje es igual al producto de la corriente por la resistencia: V = I · R.
@@ -54,7 +54,7 @@ La ley de Ohm establece que la tensión entre dos puntos de un circuito es propo
 **Contexto:** En un taller de un colegio de Barranquilla, un grupo conecta varios bombillos de adorno y observa cómo cambian al agregar más.
 
 ### Enunciado
-En un circuito con bombillos conectados en paralelo, qué efecto tiene añadir más bombillos?
+En un circuito con bombillos conectados en paralelo, ¿qué efecto tiene añadir más bombillos?
 
 ### Opciones
 - [ ] A) Todos los bombillos se apagan, porque al aumentar el número de elementos la fuente se sobrecarga y se rompe.
@@ -77,7 +77,7 @@ En una conexión en paralelo, cada elemento se une directamente a los dos polos 
 **Contexto:** En un laboratorio de un colegio de Bogotá, un grupo mide la corriente que circula por una resistencia conectada a una fuente.
 
 ### Enunciado
-Una resistencia de 12 ohmios es recorrida por una corriente de 0,5 A. Qué voltaje hay entre sus extremos?
+Una resistencia de 12 ohmios es recorrida por una corriente de 0,5 A. ¿Qué voltaje hay entre sus extremos?
 
 ### Opciones
 - [ ] A) 0,04 V, porque la resistencia se obtiene dividiendo la corriente entre el voltaje.
@@ -100,7 +100,7 @@ Aplicar la ley de Ohm consiste en identificar la magnitud desconocida y despejar
 **Contexto:** En un taller de un colegio de Pereira, un grupo arma un circuito en serie con dos resistencias y mide la fuente.
 
 ### Enunciado
-Dos resistencias de 4 ohmios y 6 ohmios están conectadas en serie a una fuente de 20 V. Qué corriente circula por el circuito?
+Dos resistencias de 4 ohmios y 6 ohmios están conectadas en serie a una fuente de 20 V. ¿Qué corriente circula por el circuito?
 
 ### Opciones
 - [ ] A) 20 A, porque la corriente es igual al voltaje de la fuente cuando la resistencia es unitaria.
@@ -123,7 +123,7 @@ En una conexión en serie todos los elementos forman un mismo camino, por lo que
 **Contexto:** En un centro de salud de un colegio de Pasto, un grupo observa cómo se usan distintas radiaciones en el diagnóstico médico.
 
 ### Enunciado
-Ordenando el espectro electromagnético de mayor a menor longitud de onda, cuál es la secuencia correcta?
+Ordenando el espectro electromagnético de mayor a menor longitud de onda, ¿cuál es la secuencia correcta?
 
 ### Opciones
 - [x] A) Ondas de radio, microondas, infrarrojo, luz visible, ultravioleta, rayos X y rayos gamma.
@@ -146,7 +146,7 @@ El espectro electromagnético reúne todas las radiaciones de la misma naturalez
 **Contexto:** En un taller de un colegio de Montería, un grupo cuelga varios bombillos en cadena y observa el brillo al agregar más.
 
 ### Enunciado
-En una serie de bombillos conectados en serie, al agregar bombillos adicionales a la misma fuente, qué ocurre con el brillo de cada uno?
+En una serie de bombillos conectados en serie, al agregar bombillos adicionales a la misma fuente, ¿qué ocurre con el brillo de cada uno?
 
 ### Opciones
 - [ ] A) Aumenta, porque cada bombillo nuevo aporta más corriente a los demás.
@@ -169,7 +169,7 @@ El comportamiento de una serie de bombillos se explica por la suma de resistenci
 **Contexto:** En un laboratorio de un colegio de Sincelejo, un grupo acerca una brújula a un cable recto por el que circula corriente y observa la desviación de la aguja.
 
 ### Enunciado
-Una brújula se coloca cerca de un cable recto que conduce corriente eléctrica. Qué se observa y por qué?
+Una brújula se coloca cerca de un cable recto que conduce corriente eléctrica. Qué se observa y ¿por qué?
 
 ### Opciones
 - [ ] A) La aguja se desvía hacia el cable, porque el cable atrae el polo norte de la brújula por magnetismo permanente.
@@ -182,7 +182,7 @@ Una brújula se coloca cerca de un cable recto que conduce corriente eléctrica.
   <!-- feedback: Incorrecto. Una corriente eléctrica genera un campo magnético, como lo demuestra la experiencia de Oersted. -->
 
 ### Explicacion Pedagogica
-En 1820, Hans Christian Oersted observó que una corriente eléctrica desvía la aguja de una brújula, lo que demostró por primera vez la relación entre electricidad y magnetismo. El campo magnético generado por una corriente recta se dispose en círculos alrededor del conductor, y su sentido se determina con la regla de la mano derecha. Esa relación es la base del electromagnetrismo y explica el funcionamiento de los motores eléctricos, de los electroimanes y de los transformadores que adjusts el voltaje en las redes de distribución.
+En 1820, Hans Christian Oersted observó que una corriente eléctrica desvía la aguja de una brújula, lo que demostró por primera vez la relación entre electricidad y magnetismo. El campo magnético generado por una corriente recta se dispose en círculos alrededor del conductor, y su sentido se determina con la regla de la mano derecha. Esa relación es la base del electromagnetrismo y explica el funcionamiento de los motores eléctricos, de los electroimanes y de los transformadores que ajusta el voltaje en las redes de distribución.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-9-2026-W33-repaso-electromagnetismo-y-ondas-001-MASTERY-bundle-v8
@@ -192,7 +192,7 @@ En 1820, Hans Christian Oersted observó que una corriente eléctrica desvía la
 **Contexto:** En una central eléctrica del interior del Valle del Cauca, un grupo compara el funcionamiento de una turbina de vapor y de un motor eléctrico.
 
 ### Enunciado
-Cuál es la diferencia esencial entre un generador eléctrico y un motor eléctrico?
+¿Cuál es la diferencia esencial entre un generador eléctrico y un motor eléctrico?
 
 ### Opciones
 - [ ] A) El motor eléctrico produce más energía de la que consume, porque el imán permanente genera corriente por sí solo.
@@ -215,7 +215,7 @@ Un generador eléctrico convierte energía mecánica en eléctrica: un movimient
 **Contexto:** En un aula de un colegio de Riohacha, un grupo analiza el papel del fusible en la instalación eléctrica de un laboratorio escolar.
 
 ### Enunciado
-Un fusible se coloca en serie con los aparatos de un circuito. Qué ocurre si se conecta en él un fusible de 5 A y luego se instala una carga que requiere 12 A?
+Un fusible se coloca en serie con los aparatos de un circuito. Qué ocurre si se conecta en él un fusible de 5 A y luego se instala una carga ¿que requiere 12 A?
 
 ### Opciones
 - [x] A) La corriente supera el valor nominal, el fusible se calienta y se funde, cortando el circuito y evitando que se sobrecarguen los cables.
@@ -238,7 +238,7 @@ El fusible es un dispositivo de protección que se instala en serie con el circu
 **Contexto:** En un museo de un colegio de Riohacha, un grupo compara el funcionamiento de un microondas, un transformador y un equipo de radiografía.
 
 ### Enunciado
-Un transformador, un microondas doméstico y un equipo de radiografía utilizan tipos distintos de radiación. Qué los distingue físicamente?
+Un transformador, un microondas doméstico y un equipo de radiografía utilizan tipos distintos de radiación. ¿Qué los distingue físicamente?
 
 ### Opciones
 - [ ] A) Se distinguen por la sustancia de la que están hechos, porque unos tienen núcleo y otros no.
@@ -261,7 +261,7 @@ Las tres tecnologías se apoyan en la misma familia de ondas, pero en regiones m
 **Contexto:** En una visita a una vivienda de un barrio de Duitama, un estudiante observa un multitoma con varios aparatos de alto consumo conectados al mismo enchufe.
 
 ### Enunciado
-Un calentador de 1 500 W, una nevera de 300 W y una plancha de 1 200 W se conectan en un mismo multitoma. Qué análisis es correcto?
+Un calentador de 1 500 W, una nevera de 300 W y una plancha de 1 200 W se conectan en un mismo multitoma. ¿Qué análisis es correcto?
 
 ### Opciones
 - [ ] A) La conexión es segura, porque el multitoma reparte la corriente en partes iguales entre los tres aparatos.
@@ -284,7 +284,7 @@ Cuando varios aparatos se conectan en paralelo a la misma red, las potencias se 
 **Contexto:** En un laboratorio de un colegio de Arauca, un grupo monta un circuito sencillo y aprende a usar el multímetro correctamente.
 
 ### Enunciado
-Un grupo quiere medir la corriente que alimenta un bombillo. Dónde debe colocar el amperímetro y el voltímetro para realizar esa medición?
+Un grupo quiere medir la corriente que alimenta un bombillo. ¿Dónde debe colocar el amperímetro y el voltímetro para realizar esa medición?
 
 ### Opciones
 - [ ] A) Ambos instrumentos en serie con el bombillo, porque cualquier instrumento puede medirse de la misma manera.

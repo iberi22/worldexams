@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas de repaso para grado 9, alineadas con los DBA de
 **Contexto:** En el laboratorio de química de un colegio de Pereira, un grupo prepara soluciones de ácido clorhídrico y de hidróxido de sodio para estudiar su comportamiento.
 
 ### Enunciado
-Según la teoría de Arrhenius, cómo se distinguen un ácido y una base en solución acuosa?
+Según la teoría de Arrhenius, ¿cómo se distinguen un ácido y una base en solución acuosa?
 
 ### Opciones
 - [x] A) Un ácido libera iones hidrógeno al disolverse en agua, y una base libera iones hidróxido.
@@ -54,7 +54,7 @@ La teoría de Arrhenius clasifica como ácido a toda sustancia que, al disolvers
 **Contexto:** En un laboratorio de un colegio de Neiva, un grupo dispone de soluciones de diferente pH y de un indicador universal.
 
 ### Enunciado
-Una solución tiene un pH de 3 y otra un pH de 9. Cuál de las afirmaciones compara correctamente ambas soluciones?
+Una solución tiene un pH de 3 y otra un pH de 9. ¿Cuál de las afirmaciones compara correctamente ambas soluciones?
 
 ### Opciones
 - [ ] A) La de pH 3 es básica y la de pH 9 es ácida, porque el pH aumenta con la acidez de la solución.
@@ -77,7 +77,7 @@ La escala de pH es una escala logarítmica que va, en el caso del agua, de 0 a 1
 **Contexto:** En un ejercicio de grado 9 de un colegio de Bogotá, un grupo calcula el pH de una solución a partir de la concentración medida de iones hidrógeno.
 
 ### Enunciado
-Una solución acuosa tiene una concentración de iones hidrógeno de 1 × 10⁻³ mol/L. Cuál es su pH?
+Una solución acuosa tiene una concentración de iones hidrógeno de 1 × 10⁻³ mol/L. ¿Cuál es su pH?
 
 ### Opciones
 - [ ] A) 0,003, porque el pH es igual a la concentración de iones hidrógeno expresada en decimales.
@@ -100,7 +100,7 @@ El pH se calcula con la expresión pH = log [H⁺], donde el logaritmo es decima
 **Contexto:** En un laboratorio de un colegio de Manizales, un grupo determina cuánto hidróxido de sodio neutralize un ácido conocido mediante una titulación.
 
 ### Enunciado
-Se titulan 25 mL de ácido clorhídrico 0,2 M con hidróxido de sodio 0,1 M. Qué volumen de base se necesita para alcanzar el punto de neutralización?
+Se titulan 25 mL de ácido clorhídrico 0,2 M con hidróxido de sodio 0,1 M. ¿Qué volumen de base se necesita para alcanzar el punto de neutralización?
 
 ### Opciones
 - [ ] A) 100 mL, porque la reacción entre ácido y base consume cuatro moles de base por cada mol de ácido.
@@ -123,7 +123,7 @@ La titulación es una técnica analítica que permite determinar la concentraci�
 **Contexto:** En un colegio de Cartagena, un grupo investiga por qué un antiácido calma la acidez estomacal en el contexto de un_limitado inicio de la clase.
 
 ### Enunciado
-Al mezclar cantidades equivalentes de ácido clorhídrico y hidróxido de sodio en amounts que se neutralizan por completo, cuál es el pH de la mezcla resultante?
+Al mezclar cantidades equivalentes de ácido clorhídrico y hidróxido de sodio en cantidades que se neutralizan por completo, ¿cuál es el pH de la mezcla resultante?
 
 ### Opciones
 - [x] A) Cerca de 7, porque en la neutralización se forman sal y agua, y los iones hidrógeno e hidróxido se consumen.
@@ -146,7 +146,7 @@ La neutralización es la reacción entre un ácido y una base que produce sal y 
 **Contexto:** En un proyecto de grado 9 de un colegio de Bucaramanga, un grupo mide el pH de bebidas y luego las diluye con agua destilada.
 
 ### Enunciado
-Una bebida tiene un pH de 3 y se diluye con agua destilada hasta que la concentración de iones hidrógeno se reduce cien veces. Qué ocurre con su pH?
+Una bebida tiene un pH de 3 y se diluye con agua destilada hasta que la concentración de iones hidrógeno se reduce cien veces. ¿Qué ocurre con su pH?
 
 ### Opciones
 - [ ] A) Permanece en 3, porque el pH es una propiedad del agua y no cambia al diluir la solución.
@@ -169,7 +169,7 @@ La escala de pH es logarítmica, de manera que cada unidad representa una variac
 **Contexto:** En un laboratorio de un colegio de Tuluá, un grupo analiza el comportamiento de tres sales distintas disueltas en agua.
 
 ### Enunciado
-Al disolver cloruro de sodio, cloruro de amonio y carbonato de sodio en agua pura, qué comportamiento se espera?
+Al disolver cloruro de sodio, cloruro de amonio y carbonato de sodio en agua pura, ¿qué comportamiento se espera?
 
 ### Opciones
 - [ ] A) Las tres sales dan soluciones ácidas, porque todos los aniones acidifican el agua.
@@ -192,7 +192,7 @@ El carácter de la disolución de una sal depende del comportamiento de sus ione
 **Contexto:** En una visita guiada a un conjunto histórico de Boyacá, un guía explica el deterioro de las estatuas de mármol expuestas a la lluvia en esa región.
 
 ### Enunciado
-La lluvia ácida daña las esculturas de mármol, que están hechas principalmente de carbonato de calcio. Cuál es la explicación química de ese daño?
+La lluvia ácida daña las esculturas de mármol, que están hechas principalmente de carbonato de calcio. ¿Cuál es la explicación química de ese daño?
 
 ### Opciones
 - [ ] A) Porque el carbón de la lluvia se adhiere a la superficie y la cubre con una capa oscura.
@@ -215,7 +215,7 @@ La lluvia ácida se forma cuando óxidos de azufre y óxidos de nitrógeno reacc
 **Contexto:** En una práctica de laboratorio de un colegio de Palmira, un grupo evalúa afirmaciones generales sobre la reactividad de los ácidos.
 
 ### Enunciado
-Un estudiante afirma que "toda sustancia de pH bajo es muy corrosiva y debe manipularse con guantes". Cómo debe evaluarse esa afirmación?
+Un estudiante afirma que "toda sustancia de pH bajo es muy corrosiva y debe manipularse con guantes". ¿Cómo debe evaluarse esa afirmación?
 
 ### Opciones
 - [x] A) Es una generalización excesiva: un pH bajo indica acidez, pero la peligrosidad depende también de la concentración y de la reactividad de la sustancia.
@@ -238,10 +238,10 @@ Una afirmación general como esa confunde una propiedad con un riesgo. El pH mid
 **Contexto:** En una sesión de orientación escolar de un colegio de Cartago, un estudiante con acidez estomacal consulta sobre el uso de un antiácido.
 
 ### Enunciado
-Una persona con heartburn recurrente consulta un antiácido que neutraliza el ácido del estómago. Qué opción es la más adecuada entre los productos de una farmacia?
+Una persona con reflujo recurrente consulta un antiácido que neutraliza el ácido del estómago. ¿Qué opción es la más adecuada entre los productos de una farmacia?
 
 ### Opciones
-- [ ] A) Un ácido cítrico en alta concentración, porque aumentar el ácido alivia la heartburn.
+- [ ] A) Un ácido cítrico en alta concentración, porque aumentar el ácido alivia la reflujo.
   <!-- feedback: Incorrecto. Agregar ácido aumentaría la acidez y empeoraría la molestia, en lugar de aliviarla. -->
 - [ ] B) Una solución salina isotónica, porque la sal neutraliza el ácido por su elevado punto de ebullición.
   <!-- feedback: Incorrecto. La sal común es neutra y no neutraliza el ácido; su punto de ebullición no tiene relación con ese efecto. -->
@@ -261,7 +261,7 @@ Un antiácido es una sustancia que actúa como base y consume los iones hidróge
 **Contexto:** En un laboratorio de un colegio de Quibdó, un grupo verifica experimentalmente la conservación de la masa en una neutralización.
 
 ### Enunciado
-Un grupo mezcla ácido clorhídrico con hidróxido de sodio en un recipiente abierto y observa que el recipiente se enfría. Qué conclusión es coherente con la teoría?
+Un grupo mezcla ácido clorhídrico con hidróxido de sodio en un recipiente abierto y observa que el recipiente se enfría. ¿Qué conclusión es coherente con la teoría?
 
 ### Opciones
 - [ ] A) El enfriamiento demuestra que el recipiente pierde masa, porque parte de la materia escapa en forma de frío.
@@ -284,7 +284,7 @@ La reacción entre un ácido y una base es un proceso exotérmico, es decir, lib
 **Contexto:** En un proyecto de grado 9 de un colegio de Acandí, un grupo construye un indicador natural con=col Lombiakho para analizar soluciones del hogar.
 
 ### Enunciado
-Un grupo prepara un indicador con jugo de col lombiana y lo añade a varias soluciones domésticas. Al obtener colores distintos, qué puede concluir el grupo con rigor?
+Un grupo prepara un indicador con jugo de col lombiana y lo añade a varias soluciones domésticas. Al obtener colores distintos, ¿qué puede concluir el grupo con rigor?
 
 ### Opciones
 - [ ] A) Que el indicador sirve para distinguir ácidos de bases, pero no puede reaccionar con ninguna de las dos sustancias.
