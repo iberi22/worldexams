@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-2-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-28T21:33:21.169Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el término adecuado para nombrar el ruido que produce el molino de café cuando Doña Elba lo enciende por la mañana?",
+      "context": "Doña Elba vive en el barrio La Sultana, en Manizales. En su cocina hay un molino de café viejo que nadie usa. Un martes de febrero, mientras su nieta Sofía prepara el uniforme del colegio, el molino vuelve a sonar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zumbido",
+          "is_correct": true,
+          "feedback": "El zumbido es un sonido grave y continuo que se asocia con una máquina en movimiento; el molino produce exactamente ese tipo de ruido."
+        },
+        {
+          "letter": "B",
+          "text": "Susurro",
+          "is_correct": false,
+          "feedback": "El susurro es un sonido muy tenue, como el de una conversación secreta; no corresponde a un aparato eléctrico."
+        },
+        {
+          "letter": "C",
+          "text": "Estruendo",
+          "is_correct": false,
+          "feedback": "El estruendo es un ruido muy fuerte y repentino; el molino genera un sonido sostenido, no una descarga repentina."
+        },
+        {
+          "letter": "D",
+          "text": "Silencio",
+          "is_correct": false,
+          "feedback": "El silencio es la ausencia total de sonido; la pregunta pide nombrar el ruido que sí se escucha en la cocina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender un texto narrativo empieza por reconocer con precisión el vocabulario que el autor emplea. En el fragmento, el sonido del molino se describe como algo que suena mientras la máquina trabaja, y para nombrar ese ruido la palabra exacta es \"zumbido\". Las otras opciones designan sonidos muy distintos: el susurro es apenas audible, el estruendo es intenso y el silencio no es un ruido. Elegir la palabra correcta es el primer paso para interpretar bien cualquier cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "Según el fragmento, ¿por qué Doña Elba conserva el molino aunque nadie lo utiliza?",
+      "context": "El molino pertenece a la familia desde hace muchos años. Doña Elba lo guarda porque, según ella, \"en esa cosa se molió el café con el que criamos a nuestros hijos\". Sofía nunca lo había visto funcionando hasta ese martes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es un objeto de lujo que le costó mucha plata",
+          "is_correct": false,
+          "feedback": "El texto no habla de precio ni de valor comercial; la razón que se da es de tipo emocional, no económico."
+        },
+        {
+          "letter": "B",
+          "text": "Porque representa un recuerdo valioso de su historia familiar",
+          "is_correct": true,
+          "feedback": "El molino está ligado al café con el que criaron a sus hijos, por eso tiene para ella un valor sentimental."
+        },
+        {
+          "letter": "C",
+          "text": "Porque piensa regalárselo a un vecino del barrio",
+          "is_correct": false,
+          "feedback": "No hay en el fragmento ninguna mención a vecinos ni a la intención de regalar el molino."
+        },
+        {
+          "letter": "D",
+          "text": "Porque debe guardarlo por una norma del barrio",
+          "is_correct": false,
+          "feedback": "El texto no alude a reglas, leyes ni costumbres del barrio que obliguen a conservar el objeto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender un texto es poder explicar por qué el autor escribió lo que escribió. Cuando una narradora incluye una frase entre comillas, como \"en esa cosa se molió el café con el que criamos a nuestros hijos\", le está dando al lector la razón profunda de la conducta: el objeto guarda una historia compartida. Reconocer que se trata de un valor emocional y no material es lo que permite responder correctamente y prepara la comprensión para preguntas más difíciles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "Si tuvieras que resumir en una sola frase qué encuentra Sofía al abrir el cuaderno de la cocina, ¿cuál de las siguientes frases reflejaría mejor el contenido del fragmento?",
+      "context": "Sofía abre el cuaderno de la cocina y encuentra un papel doblado, escrito a mano por Doña Elba, con una lista de pasos para usar el molino.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sofía encuentra el dinero que Doña Elba guardaba para comprar café",
+          "is_correct": false,
+          "feedback": "Agrega un elemento de dinero que nunca aparece en el fragmento; es una invención del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Sofía encuentra una carta de un amigo que vive fuera del barrio",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona cartas ni amigos; cambia por completo el tipo de objeto que Sofía descubre."
+        },
+        {
+          "letter": "C",
+          "text": "Sofía encuentra una lista escrita a mano con los pasos para usar el molino",
+          "is_correct": true,
+          "feedback": "La frase recoge exactamente lo que dice el fragmento: un papel doblado con una lista de pasos para usar el molino."
+        },
+        {
+          "letter": "D",
+          "text": "Sofía encuentra un papel con el nombre del médico que atendió a la familia",
+          "is_correct": false,
+          "feedback": "Introduce medicina y un médico que no aparecen en ninguna parte del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Resumir es una habilidad de aplicación: hay que tomar un fragmento y reducirlo a lo esencial sin inventar información. Aquí lo esencial es que Sofía abre un cuaderno de la cocina y encuentra un papel doblado con una lista de pasos para usar el molino. Una buena alternativa de respuesta conserva los elementos centrales y omite los detalles decorativos; las otras tres opciones agregan objetos que el texto nunca menciona, un error frecuente al resumir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "Si tuvieras que organizar los tres indicaciones del papel en el orden en que se ejecutan al usar el molino, ¿cuál sería la secuencia correcta?",
+      "context": "El papel está doblado en tres partes. En la primera, Doña Elba escribió \"Rellenar el hopper\". En la segunda, \"Prender el motor y esperar\". En la tercera, \"Apagar apenas termine el café\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rellenar el hopper, prender el motor y esperar, apagar cuando termine el café",
+          "is_correct": true,
+          "feedback": "Es el orden lógico: primero se llena, luego se prende la máquina y al final se apaga, como se enuncia en el fragmento."
+        },
+        {
+          "letter": "B",
+          "text": "Apagar cuando termine el café, rellenar el hopper, prender el motor",
+          "is_correct": false,
+          "feedback": "Este orden es imposible porque no se puede apagar algo que todavía no se ha prendido."
+        },
+        {
+          "letter": "C",
+          "text": "Prender el motor y esperar, rellenar el hopper, apagar cuando termine el café",
+          "is_correct": false,
+          "feedback": "Prender el motor antes de llenar el hopper impide que el café se muela bien; la secuencia está alterada."
+        },
+        {
+          "letter": "D",
+          "text": "Rellenar el hopper, apagar cuando termine el café, prender el motor y esperar",
+          "is_correct": false,
+          "feedback": "Apagar antes de prender el motor rompe la lógica del procedimiento descrito en el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ordenar los pasos de un texto es aplicar la información a una situación real. El fragmento presenta tres instrucciones en una lista y el lector debe detectar la secuencia física posible: llenar, prender, esperar y apagar. Este ejercicio entrena el razonamiento lógico aplicado a la lectura y ayuda a detectar incoherencias, porque las opciones que invierten el orden describen acciones imposibles de realizar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "Si en tu barrio alguien cambia la pintura de la fachada de una casa, según la costumbre descrita, lo más probable es que los vecinos",
+      "context": "En el barrio La Sultana, cuando alguien construye algo nuevo, los vecinos comentan durante días. Si una señora cambia la pintura de la fachada, todos preguntan qué color es y si combina bien con la puerta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se muden de inmediato a otro barrio",
+          "is_correct": false,
+          "feedback": "La costumbre descrita habla de comentarios, no de mudanzas; la reacción correcta es la curiosidad, no el abandono."
+        },
+        {
+          "letter": "B",
+          "text": "Dejen de hablar con esa familia para siempre",
+          "is_correct": false,
+          "feedback": "El texto no menciona conflictos ni cortes de relaciones; esa reacción negativa sería inventada."
+        },
+        {
+          "letter": "C",
+          "text": "Soliciten a la autoridad municipal que demuela la casa",
+          "is_correct": false,
+          "feedback": "Esta opción inventa una autoridad y una demolición que no aparecen; es una invención total del lector."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunten por el color y por cómo combina con la puerta",
+          "is_correct": true,
+          "feedback": "Es exactamente la reacción que el fragmento describe: los vecinos preguntan por el color y si combina con la puerta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la información del texto a un caso nuevo es la base de la comprensión lectora. El fragmento describe una costumbre: los vecinos de La Sultana comentan y preguntan por los cambios de fachada. Ante una situación parecida, la reacción esperable es la misma curiosidad por el color y la combinación con la puerta. Las otras opciones exageran o inventan reacciones que el texto nunca plantea.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "¿Qué relación se establece entre la comparación de la escritura con pelar el choclo y lo que esa imagen comunica sobre el personaje de Doña Elba?",
+      "context": "Cuando Sofía leyó la lista, la narradora dice que Doña Elba \"casi no, pero pudo, escribirla\" y que lo hizo \"con la misma calma con la que pela el choclo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra que Doña Elba no sabía escribir y por eso dictó la lista",
+          "is_correct": false,
+          "feedback": "La comparación no dice que ella no supiera escribir; al contrario, sostiene que lo hizo con calma y habilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que Doña Elba es paciente y metódica, y que escribir la lista fue un oficio hecho con calma",
+          "is_correct": true,
+          "feedback": "La comparación con una labor doméstica que exige calma y práctica revela un carácter ordenado, tranquilo y constante."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que Doña Elba escribió la lista con enojo porque el molino no funcionaba",
+          "is_correct": false,
+          "feedback": "El texto no habla de enojo; la imagen del choclo transmite calma, no fastidio ni rabia."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que Doña Elba estaba confundida y no recordaba bien los pasos",
+          "is_correct": false,
+          "feedback": "La frase enfatiza el cuidado y la constancia, no la confusión; eso no se deduce del fragmento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un texto exige observar cómo el escritor construye una imagen para transmitir una idea sobre un personaje. La comparación con pelar el choclo, una labor doméstica que requiere calma y práctica, proyecta un retrato de Doña Elba como ordenada, paciente y metódica. Reconocer qué tipo de información transmite una imagen del autor sobre el carácter, y no sobre los hechos, es una habilidad de análisis discursivo de nivel alto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "¿Qué efecto produce en el lector que la frase sobre el café con el que crió a sus hijos aparezca entre comillas y en medio de la descripción del molino?",
+      "context": "El fragmento empieza con una descripción del molino y termina con la lista de pasos. En medio aparece la frase de Doña Elba sobre el café con el que crió a sus hijos, colocada entre comillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interrumpe la descripción para conectar el objeto físico con la historia sentimental de la familia",
+          "is_correct": true,
+          "feedback": "Al aparecer entre comillas, la frase se separa del resto y funciona como un puente entre el molino y el recuerdo."
+        },
+        {
+          "letter": "B",
+          "text": "Rompe la narración para presentar una opinión que el autor no comparte",
+          "is_correct": false,
+          "feedback": "La frase es de Doña Elba y el autor la usa para humanizar al personaje, no para desautorizarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el relato en un texto informativo sin ninguna ficción",
+          "is_correct": false,
+          "feedback": "El uso de comillas no elimina la ficción; el relato sigue siendo narrativo porque conserva personajes y acciones."
+        },
+        {
+          "letter": "D",
+          "text": "Aclara que el fragmento es la transcripción de un documento histórico real",
+          "is_correct": false,
+          "feedback": "Nada en el uso de comillas indica que sea un documento histórico; es solo la voz del personaje dentro del relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar cómo el autor organiza el texto es interpretar su estructura. Colocar una frase entre comillas y en el centro del párrafo la convierte en un pivote: la descripción del objeto se conecta con la vida de la familia. Reconocer ese recurso, el uso de comillas para marcar la voz de un personaje y para crear un vínculo entre lo físico y lo emocional, pertenece al análisis discursivo de textos narrativos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "Según el fragmento, ¿qué diferencia notable existe entre la presencia física del molino y el uso que le da la familia?",
+      "context": "El molino está en la cocina, en un lugar visible para toda la familia. Sin embargo, durante años nadie lo puso en funcionamiento. Sofía observa que el objeto está a la vista, pero que nadie lo usa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El molino se guarda en una caja cerrada y por eso no se ve desde la cocina",
+          "is_correct": false,
+          "feedback": "El texto dice que el molino está en la cocina, a la vista; no menciona ninguna caja ni que esté escondido."
+        },
+        {
+          "letter": "B",
+          "text": "El molino se usa todos los días, pero Doña Elba finge que no lo usa",
+          "is_correct": false,
+          "feedback": "El fragmento afirma lo contrario: el molino no se usa; la opción contradice el texto."
+        },
+        {
+          "letter": "C",
+          "text": "El molino está siempre visible en la cocina, pero lleva años sin ser utilizado por nadie",
+          "is_correct": true,
+          "feedback": "El fragmento contrasta la presencia constante del objeto con el hecho de que nadie lo pone en funcionamiento."
+        },
+        {
+          "letter": "D",
+          "text": "El molino se daña con frecuencia y por eso nadie se atreve a prenderlo",
+          "is_correct": false,
+          "feedback": "No hay en el texto ninguna avería del molino; esa explicación es una invención del lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un fragmento exige comparar lo que el texto afirma con lo que uno supondría. Aquí el dato clave es que el molino está a la vista, en la cocina, y aun así lleva años sin usarse. Esa distancia entre estar presente y ser utilizado es un rasgo que el lector debe detectar para comprender la historia de la familia. Identificar contrastes explícitos e implícitos es una habilidad propia del nivel de análisis textual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "¿Qué lectura crítica de las decisiones que toma Sofía al final del fragmento está mejor sustentada en el texto?",
+      "context": "Después de leer la lista, Sofía guarda el papel en el cuaderno. Al día siguiente le pregunta a Doña Elba si el molino se puede volver a usar. Su abuela responde que sí, \"pero hay que tener paciencia\". Sofía decide buscar a un vecino que visita una finca en Bucaramanga para que le explique el proceso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sofía actúa de manera coherente con lo aprendido: consulta a Doña Elba, respeta su advertencia sobre la paciencia y busca orientación de alguien con experiencia",
+          "is_correct": true,
+          "feedback": "La opción apoya su tesis en las tres decisiones que el fragmento describe y las conecta con el diálogo y la experiencia de la finca."
+        },
+        {
+          "letter": "B",
+          "text": "Sofía actúa de manera irresponsable porque consulta a Doña Elba en lugar de prender el molino ella misma",
+          "is_correct": false,
+          "feedback": "Pedir orientación a un adulto con experiencia no es irresponsabilidad; el texto presenta esa decisión como sensata."
+        },
+        {
+          "letter": "C",
+          "text": "Sofía actúa de manera egoísta porque usa el molino de su abuela sin pedir permiso",
+          "is_correct": false,
+          "feedback": "Sofía consulta antes de actuar, y la opción afirma lo contrario de lo que ocurre en el fragmento."
+        },
+        {
+          "letter": "D",
+          "text": "Sofía actúa de manera incoherente porque primero busca al vecino y después habla con su abuela",
+          "is_correct": false,
+          "feedback": "El fragmento muestra que primero habla con Doña Elba y luego busca al vecino; la alternativa invierte el orden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar es justificar una lectura crítica con argumentos tomados del propio texto. La opción correcta apoya su tesis en los tres hechos verificables del fragmento: Sofía pregunta a Doña Elba, respeta la advertencia de tener paciencia y consulta a alguien con experiencia en la finca. Las demás alternativas contradicen el texto o le atribuyen intenciones que no se desprenden de la lectura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1",
+      "statement": "Frente a estas tres respuestas sobre el mismo fragmento, ¿cuál valoración está mejor sustentada?",
+      "context": "En el salón de séptimo grado de un colegio de Bogotá, la profesora pregunta qué clase de texto leyeron esta semana. Un estudiante responde que fue \"un cuento\". Otro dice que fue \"un texto que sirve para aprender a analizar\". Un tercero responde que no sabe, pero que le gustó porque contó una historia de su familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La respuesta que solo dice que fue un cuento, porque es la más corta y neutral",
+          "is_correct": false,
+          "feedback": "Ser breve no garantiza fundar una valoración; esa respuesta no aporta ningún criterio de lectura."
+        },
+        {
+          "letter": "B",
+          "text": "La respuesta que lo llama texto para aprender a analizar, porque define mejor el objetivo de la clase",
+          "is_correct": false,
+          "feedback": "Esa respuesta califica la actividad, no el texto leído; confunde el propósito de la clase con el contenido."
+        },
+        {
+          "letter": "C",
+          "text": "La respuesta que dice no saber, porque demuestra honestidad al no entender el fragmento",
+          "is_correct": false,
+          "feedback": "La honestidad es valiosa, pero esa respuesta no ofrece ninguna valoración del texto; queda por fuera del ejercicio."
+        },
+        {
+          "letter": "D",
+          "text": "La respuesta que dice que le gustó porque contó una historia de su familia, porque conecta el texto con la experiencia personal y valora su capacidad de generar emoción",
+          "is_correct": true,
+          "feedback": "Esa respuesta aplica criterios de lectura: reconoce el contenido del texto, su efecto y el valor que tiene para el lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un lector crítico no solo identifica el texto: también puede explicar con qué criterios lo valora. La respuesta que menciona la historia de la familia conecta el fragmento con la experiencia del lector y señala el efecto emocional del relato, tres elementos verificables. Las otras opciones se quedan en una etiqueta, describen la actividad en lugar del texto o se abstienen sin aportar argumentos. Evaluar un texto es sostener una postura con criterios claros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

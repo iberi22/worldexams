@@ -90,7 +90,7 @@ Comprender una metáfora es recuperar la cualidad que se traslada de un mundo a 
   <!-- feedback: La opción descarta la imagen del pasillo, de modo que se pierde justamente el recurso que el enunciado pide conservar. -->
 
 ### Explicacion Pedagogica
-La tarea es técnica y se resuelve aplicando el procedimiento: quitar la marca de comparación y afirmar la identidad sin nexo. En "parece un pasillo" el verbo "parecer" mantiene las dos Imaging separadas; al escribir "es un pasillo" el texto afirma que la calle es el pasillo, y eso es una metáfora. Andrés no necesita añadir nada nuevo, solo retirar el verbo atenuador. Los distractores fallan por motivos distintos y valiosos: A mete una explicación dentro del enunciado literario, C esconde que no hizo la transformación, D resuelve el problema eliminándolo en vez de resolviéndolo.
+La tarea es técnica y se resuelve aplicando el procedimiento: quitar la marca de comparación y afirmar la identidad sin nexo. En "parece un pasillo" el verbo "parecer" mantiene las dos imágenes separadas; al escribir "es un pasillo" el texto afirma que la calle es el pasillo, y eso es una metáfora. Andrés no necesita añadir nada nuevo, solo retirar el verbo atenuador. Los distractores fallan por motivos distintos y valiosos: A mete una explicación dentro del enunciado literario, C esconde que no hizo la transformación, D resuelve el problema eliminándolo en vez de resolviéndolo.
 
 ## Question 4 [D5-D6]
 **ID:** CO-LC-7-2026-W04-metafora-y-comparacion-001-MASTERY-bundle-v4
@@ -136,7 +136,7 @@ De las dos frases anteriores, ¿cuál es una metáfora?
   <!-- feedback: La frase de Juliana no tiene ninguna marca de comparación, de modo que la conclusión de que ambas son comparaciones es falsa. -->
 
 ### Explicacion Pedagogica
-El ejercicio de contrastar dos frases del mismo texto ayuda a ver que la clasificación depende de una pista formal y no del tono poético. Ambas frases son{%figurativas} y ambas usan imágenes del trabajo y el reparto, pero solo una lleva la marca "como", que es la que convierte el tenor en comparación. El estudiante que decide por la belleza de la frase o por el número de personas que nombra está clasificando por el contenido y no por la figura. Leer los conectores del español es una técnica concreta: "como", "se parece a", "semejante a" delatan la comparación; el verbo "ser" sin nexo delata la metáfora.
+El ejercicio de contrastar dos frases del mismo texto ayuda a ver que la clasificación depende de una pista formal y no del tono poético. Ambas frases son figurativas y ambas usan imágenes del trabajo y el reparto, pero solo una lleva la marca "como", que es la que convierte la imagen en una comparación. El estudiante que decide por la belleza de la frase o por el número de personas que nombra está clasificando por el contenido y no por la figura. Leer los conectores del español es una técnica concreta: "como", "se parece a", "semejante a" delatan la comparación; el verbo "ser" sin nexo delata la metáfora.
 
 ## Question 6 [D7-D8]
 **ID:** CO-LC-7-2026-W04-metafora-y-comparacion-001-MASTERY-bundle-v6
@@ -166,7 +166,7 @@ Analizar es seguir una imagen a lo largo del texto y ver qué hace. Cuando una m
 **Bloom:** Analyze
 **ICFES:** Semantico
 **Expected_Success:** 0.68
-**Contexto:** Andrés, que escribe un resumen del texto para el tablero de la clase, propone cambiar la frase "El patio, con su guayacán, era la memoria del colegio" por esta otra: "El colegio tiene un patio con un guayacán y en ese patio se hacen todos los eventos importantes". Su profesor le pregunta qué-sense pierde el resumen con ese cambio.
+**Contexto:** Andrés, que escribe un resumen del texto para el tablero de la clase, propone cambiar la frase "El patio, con su guayacán, era la memoria del colegio" por esta otra: "El colegio tiene un patio con un guayacán y en ese patio se hacen todos los eventos importantes". Su profesor le pregunta qué sentido del texto se pierde en el resumen con ese cambio.
 
 ### Enunciado
 ¿Qué pierde el texto de Andrés al sustituir la metáfora por una descripción literal?
@@ -245,7 +245,7 @@ Evaluar interpretaciones es jerarquizar la evidencia, no aceptar dos verdades a 
   <!-- feedback: La posición confunde claridad con ausencia de imágenes y no considera que el texto mismo usa metáforas para explicar su mensaje central. -->
 - [x] B) Debe rechazarla como regla general, porque al eliminar las metáforas se borran valores y emociones que permiten comprender el sentido del texto, y el resultado no es más claro sino más pobre.
   <!-- feedback: La propuesta confunde la dificultad de una metáfora con un defecto del texto: quitar imágenes quita justamente lo que el lector necesitaba para entender. -->
-- [ ] C) Debe aceptarla solo para las comparaciones y_maintainer nunca para las metáforas, porque las comparaciones siempre son opcionales.
+- [ ] C) Debe aceptarla solo para las comparaciones y nunca para las metáforas, porque las comparaciones siempre son opcionales.
   <!-- feedback: No hay en el texto ninguna base para esa distinción: el problema de la propuesta no es qué figura se quita, sino que quita todas. -->
 - [ ] D) Debe rechazarla solo por razones de extensión, porque las descripciones literales ocupan más espacio que las imágenes.
   <!-- feedback: El argumento correcto tiene que ver con el sentido del texto, no con el número de palabras que ocupa cada estilo. -->
