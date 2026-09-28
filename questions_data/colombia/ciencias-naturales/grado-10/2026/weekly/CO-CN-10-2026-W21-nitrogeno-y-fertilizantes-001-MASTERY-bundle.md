@@ -1,0 +1,276 @@
+---
+id: "CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle"
+country: "colombia"
+grado: 10
+asignatura: "ciencias_naturales"
+tema: "nitrogeno-y-fertilizantes"
+periodo: "weekly"
+week: "W21"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia / Saber 11"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: Nitrógeno y Fertilizantes para la Producción Agrícola - Grado 10
+
+Este bundle reúne 12 preguntas de grado 10 sobre el nitrógeno en los seres vivos y en la agricultura: el ciclo del nitrógeno, la fijación del nitrógeno, la nitrificación, la desnitrificación, la formación de amoníaco y nitratos, la urea y los fertilizantes nitrogenados, y los problemas concretos de producción agrícola en Colombia con el café, la papa y el arroz. Los enunciados se apoyan en contextos reales del país, como un cultivo de papa en Boyacá, un cafetal en Huila y un arrozal en Casanare, y el conjunto está alineado con los DBA del MEN y el marco ICFES Saber 11.
+
+## Question 1 [D3-D4]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.90
+**Contexto:** Un agrónomo de Pasto analiza el suelo de una finca y encuentra abundante amonio, pero muy pocos nitratos.
+### Enunciado
+En el ciclo del nitrógeno, ¿qué transformación corresponde a la nitrificación?
+### Opciones
+- [ ] A) La conversión del nitrógeno atmosférico, N2, en amoníaco por acción de bacterias.
+  <!-- feedback: Incorrecto. Esa es la fijación del nitrógeno, que rompe la molécula diatómica del nitrógeno atmosférico. -->
+- [x] B) La oxidación del amonio a nitrito y luego a nitrato, realizada por bacterias del suelo.
+  <!-- feedback: Correcto. Las bacterias nitrificantes oxidan el amonio a nitrito y después a nitrato, que es la forma en que las plantas absorben el nitrógeno. -->
+- [ ] C) La reducción del nitrato a nitrógeno atmosférico, que devuelve el N2 a la atmósfera.
+  <!-- feedback: Incorrecto. Esa es la desnitrificación, que ocurre en suelos anegados con poco oxígeno y libera nitrógeno gaseoso. -->
+- [ ] D) La fijación del nitrógeno atmosférico en las raíces de las leguminosas de un potrero.
+  <!-- feedback: Incorrecto. La fijación en leguminosas es un caso de fijación biológica, distinta de la nitrificación, que ocurre en el suelo. -->
+
+### Explicacion Pedagogica
+El nitrógeno atmosférico, que constituye cerca del 78 por ciento del aire, es muy estable y no puede ser usado directamente por la mayoría de los seres vivos. Por eso debe transformarse en otras formas antes de entrar en la cadena alimentaria. La nitrificación es la oxidación del ion amonio a nitrito y luego a nitrato, y la realizan bacterias nitrificantes del suelo, como las del género Nitrosomonas y Nitrobacter. Es importante porque el nitrato, con carga negativa, es la forma del nitrógeno que las raíces pueden absorber con mayor facilidad. Durante este proceso se producen protones que acidifican el suelo, un efecto que los agricultores deben corregir con cal o con materiales encalantes.
+
+## Question 2 [D3-D4]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.88
+**Contexto:** Un productor de Boyacá siembra habas entre surcos de papa para mejorar la fertilidad del suelo.
+### Enunciado
+¿Qué proceso permite que las plantas de haba, una leguminosa, pueden enriquecer el suelo con nitrógeno utilizable?
+### Opciones
+- [ ] A) La nitrificación, que convierte el amonio del suelo en nitratos solubles para las raíces.
+  <!-- feedback: Incorrecto. La nitrificación es una transformación microbiana del amonio ya presente en el suelo, no la entrada de nitrógeno nuevo. -->
+- [ ] B) La desnitrificación, que libera nitrógeno gaseoso a partir del nitrato del suelo.
+  <!-- feedback: Incorrecto. La desnitrificación elimina nitrógeno del suelo, de modo que no puede enriquecerlo con nitrógeno utilizable. -->
+- [ ] C) La volátil acidificación del suelo, que libera protones y mejora la absorción de nutrientes.
+  <!-- feedback: Incorrecto. La acidificación del suelo no introduce nitrógeno y, si es excesiva, incluso reduce la disponibilidad de nutrientes. -->
+- [x] D) La fijación biológica del nitrógeno, que las bacterias de las raíces convierten en amoníaco y que la planta utiliza para formar sus proteínas.
+  <!-- feedback: Correcto. Las bacterias simbióticas de los nódulos radiculares fijan el N2 atmosférico y entregan amoníaco a la leguminosa. -->
+
+### Explicacion Pedagogica
+Las leguminosas, como el haba, la arveja, la alfalfa y el fríjul, viven en simbiosis con bacterias del género Rhizobium, que se instalan en los nódulos de sus raíces. Estas bacterias poseen la enzima nitrogenasa, capaz de romper la molécula diatómica del nitrógeno atmosférico, que es muy estable, y convertirla en amoníaco, que la planta puede asimilar para sintetizar proteínas. Cuando el cultivo se deja en el suelo, sus residuos y los nódulos dejan nitrógeno disponible para el cultivo siguiente, lo que se llama fijación biológica del nitrógeno. Este es el fundamento de las rotaciones y de los cultivos de cobertura que sustituyen parcialmente a los fertilizantes nitrogenados sintéticos.
+
+## Question 3 [D3-D4]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.86
+**Contexto:** Un arrozal de Casanare permanece inundado durante buena parte del ciclo del cultivo.
+### Enunciado
+En un suelo que permanece inundado, ¿qué transformación del nitrógeno se favorece y qué efecto tiene?
+### Opciones
+- [x] A) La desnitrificación, que convierte el nitrato en nitrógeno gaseoso y hace que el suelo pierda nitrógeno.
+  <!-- feedback: Correcto. La falta de oxígeno en el suelo inundado favorece la desnitrificación, que devuelve el nitrógeno a la atmósfera. -->
+- [ ] B) La fijación del nitrógeno, que incorpora más nitrógeno atmosférico al suelo por acción de las rayos.
+  <!-- feedback: Incorrecto. La fijación es un proceso biológico, y no ocurre por la acción de los rayos en ese suelo. -->
+- [ ] C) La nitrificación, que aumenta el nitrógeno disponible porque necesita mucho oxígeno en el suelo.
+  <!-- feedback: Incorrecto. La nitrificación necesita oxígeno, que es justamente el recurso que escasea en un suelo anegado. -->
+- [ ] D) La volatilización del amonio, que libera nitrógeno a la atmósfera en forma de gas amoníaco.
+  <!-- feedback: Incorrecto. La volatilización ocurre en suelos secos y alcalinos, no en un suelo que permanece inundado de agua. -->
+
+### Explicacion Pedagogica
+La desnitrificación es la reducción del nitrato a nitrógeno gaseoso, en general a través de nitrito, óxido de nitroso y finalmente nitrógeno molecular. La realizan bacterias anaerobias, es decir, que no necesitan oxígeno y que, en muchos casos, se ven favorecidas cuando hay poco oxígeno disponible. En un suelo que permanece inundado, el agua desplaza el aire de los poros y se reduce el oxígeno, por lo que la desnitrificación se intensifica. El efecto es una pérdida de nitrógeno útil para el cultivo, lo que obliga a los productores de arroz a controlar la lámina de agua en el campo y a reforzar la fertilización nitrogenada.
+
+## Question 4 [D5-D6]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Indagación
+**Expected_Success:** 0.80
+**Contexto:** Un ingeniero agrónomo de Tunja calcula cuántos kilos de nitrógeno aporta cada fertilizante que puede comprar en el almacén agrícola del municipio.
+### Enunciado
+¿Aproximadamente qué porcentaje del peso de la urea, CO(NH2)2, corresponde a nitrógeno?
+### Opciones
+- [ ] A) Alrededor del 23 por ciento, porque la urea tiene un átomo de nitrógeno y dos de oxígeno.
+  <!-- feedback: Incorrecto. Ese valor no corresponde a la urea, que contiene dos átomos de nitrógeno por cada molécula. -->
+- [ ] B) Alrededor del 32 por ciento, porque el oxígeno y el hidrógeno aportan la mayor parte de la masa.
+  <!-- feedback: Incorrecto. Los valores de oxígeno e hidrógeno no explican el porcentaje de nitrógeno, que se calcula con la fórmula de la urea. -->
+- [x] C) Alrededor del 46 por ciento, porque la urea tiene dos átomos de nitrógeno en una masa molar cercana a 60.
+  <!-- feedback: Correcto. La urea tiene masa molar aproximada de 60 y contiene 28 de nitrógeno, de modo que el porcentaje es cercano a 46.65. -->
+- [ ] D) Alrededor del 60 por ciento, porque la urea está formada casi en su totalidad por nitrógeno.
+  <!-- feedback: Incorrecto. La urea contiene también oxígeno e hidrógeno, que aportan más de la mitad de su masa. -->
+
+### Explicacion Pedagogica
+La urea es el fertilizante nitrogenado más usado en el mundo y su concentración se calcula a partir de la fórmula CO(NH2)2. La masa molar de la urea es aproximadamente 60: 12 del carbono, 16 del oxígeno, 28 de los dos nitrógenos y 4 de los cuatro hidrógenos. Como el nitrógeno aporta 28 de esos 60, el porcentaje es de 28 dividido entre 60, es decir, cerca de 46,65 por ciento. Esta cifra es el dato que se usa en el campo para calcular cuántos kilos de nitrógeno aporta una aplicación: si el productor aplica 100 kilos de urea por hectárea, estará aplicando unos 46 kilos de nitrógeno, que es justamente el aporte que la etiqueta comercial indica.
+
+## Question 5 [D5-D6]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.78
+**Contexto:** Un agrónomo de Nariño prepara un plan de fertilización para un lote de papa y revisa el análisis de suelo y la etiqueta de los productos.
+### Enunciado
+Un cultivo necesita nitrógeno para formar proteínas y fósforo para formar raíces. ¿Qué información de la etiqueta de un fertilizante permite decidir si es el adecuado?
+### Opciones
+- [x] A) El análisis de fósforo, nitrógeno y potasio declarado en la etiqueta, que indica la proporción de nutrientes disponibles.
+  <!-- feedback: Correcto. Las etiquetas indican el porcentaje de cada nutriente, con la convención de listar fósforo, nitrógeno y potasio. -->
+- [ ] B) El peso total del saco, porque un saco más pesado aporta más nutrientes que uno más ligero.
+  <!-- feedback: Incorrecto. El peso del envase no dice nada sobre la concentración de nutrientes, que puede variar entre productos. -->
+- [ ] C) El color del fertilizante, porque los colores indican el tipo de nutriente que contiene.
+  <!-- feedback: Incorrecto. El color no es un indicativo normalizado de la composición del fertilizante. -->
+- [ ] D) La marca comercial del fabricante, porque cada marca tiene una composición distinta e irrepetible.
+  <!-- feedback: Incorrecto. La composición se declara en la etiqueta y es regulada, de modo que la marca no determina el aporte de nutrientes. -->
+
+### Explicacion Pedagogica
+Los fertilizantes se identifican por su análisis o composición, que se declara en la etiqueta mediante tres cifras expresadas en porcentajes de nitrógeno, fósforo y potasio. En algunos países se escribe en el orden fósforo, nitrógeno y potasio, y por eso se habla de fertilizante triple o de fórmula completa. El fósforo se expresa como pentóxido de fósforo y el potasio como óxido de potasio, de manera que las cifras de la etiqueta no coinciden con el porcentaje real de esos elementos. Para elegir el producto adecuado, el agricultor compara esa composición con las necesidades del cultivo, que dependen de la especie, de la etapa de desarrollo y del resultado del análisis de suelo, y calcula la dosis en kilos por hectárea.
+
+## Question 6 [D5-D6]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.76
+**Contexto:** Un productor de papa de Cundinamarca observa que, después de varias aplicaciones de fertilizante nitrogenado, el pH del suelo ha bajado.
+### Enunciado
+¿Por qué la aplicación de fertilizantes nitrogenados, como el nitrato de amonio, puede disminuir el pH del suelo?
+### Opciones
+- [ ] A) Porque liberan alcalinos que se combinan con los ácidos del suelo y los neutralizan.
+  <!-- feedback: Incorrecto. Los fertilizantes nitrogenados no liberan alcalinos, y su efecto sobre el pH es el contrario. -->
+- [ ] B) Porque el nitrógeno que contienen se transforma ensales alcalinas que elevan el pH del suelo.
+  <!-- feedback: Incorrecto. La transformación del nitrógeno no produce bases, y el efecto observado es la acidez, no su neutralizeación. -->
+- [ ] C) Porque contienen grandes cantidades de materia orgánica que se descompone y consume oxígeno del suelo.
+  <!-- feedback: Incorrecto. La descomposición de materia orgánica no explica el cambio de pH asociado a los fertilizantes nitrogenados. -->
+- [x] D) Porque el ion amonio libera protones al oxidarse durante la nitrificación, lo que acidifica el suelo.
+  <!-- feedback: Correcto. La nitrificación del amonio libera protones al medio, y esa acidificación es un efecto que se corrige con cal. -->
+
+### Explicacion Pedagogica
+El ion amonio es la forma en que las raíces absorben el nitrógeno, y en el suelo puede transformarse por nitrificación en nitrito y luego en nitrato. Durante ese proceso se liberan protones al medio: el amonio libera dos protones al convertirse en nitrito y el nitrito libera otros dos al convertirse en nitrato. La acumulación de esos protones disminuye el pH y acidifica el suelo, lo que reduce la disponibilidad de calcio, magnesio y fósforo y puede afectar el desarrollo de las raíces. Por eso los suelos que reciben mucho fertilizante nitrogenado requieren monitoramento del pH y, cuando es necesario, aplicaciones de cal o de otro material encalante que neutralice la acidez.
+
+## Question 7 [D7-D8]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.70
+**Contexto:** Un productor de arroz de Casanare compara dos lotes: uno mantiene el campo inundado y el otro mantiene el suelo húmedo con drenajes.
+### Enunciado
+¿Qué explica que en un lote de arroz con el campo inundado la respuesta al fertilizante nitrogenado sea menor que en un lote con buen drenaje?
+### Opciones
+- [ ] A) Porque en el suelo inundado el nitrógeno se fija más rápido, de modo que las plantas no pueden absorberlo.
+  <!-- feedback: Incorrecto. En condiciones anaerobias no hay fijación, porque la nitrogenasa necesita oxígeno, y el problema es la pérdida de nitrógeno. -->
+- [x] B) Porque la falta de oxígeno favorece la desnitrificación, que convierte el nitrato aplicado en nitrógeno gaseoso que se pierde.
+  <!-- feedback: Correcto. El nitrógeno aplicado se escapa a la atmósfera, de modo que la planta dispone de menos nitrógeno para formar proteínas. -->
+- [ ] C) Porque en el suelo inundado el nitrato se convierte en nitrito, que las raíces no pueden absorber.
+  <!-- feedback: Incorrecto. El nitrito se puede absorber en pequeñas cantidades, y el efecto dominante en suelo anegado es la desnitrificación. -->
+- [ ] D) Porque el agua arrastra el nitrato hacia las raíces y evita que las plantas lo absorban.
+  <!-- feedback: Incorrecto. El agua puede favorecer la lixiviación, es decir, el arrastre del nitrato a capas profundas, pero no impide la absorción. -->
+
+### Explicacion Pedagogica
+La respuesta de un cultivo a un fertilizante depende de que el nutriente esté disponible en la zona de raíces. En un campo de arroz que permanece inundado, el agua desplaza el aire de los poros del suelo y el oxígeno se vuelve escaso. Bajo esas condiciones, las bacterias desnitrificantes proliferan y reducen el nitrato a nitrógeno gaseoso, que se escapa a la atmósfera. Además, el agua puede mover el nitrato por lixiviación hacia capas más profundas, fuera del alcance de las raíces. En un lote con buen drenaje, el suelo mantiene oxígeno, se favorece la nitrificación y el nitrógeno aplicado permanece disponible, de modo que la respuesta del cultivo es mejor.
+
+## Question 8 [D7-D8]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.68
+**Contexto:** Un cafetal de Huila enfrenta una caída de productividad y el productor evalúa sembrar una cobertura de leguminosas entre los árboles de café.
+### Enunciado
+Un cafetal de la región andina muestra baja disponibilidad de nitrógeno en el suelo. ¿Por qué sembrar una cobertura de leguminosas puede mejorar esa situación?
+### Opciones
+- [ ] A) Porque las leguminosas liberan nitrógeno atmosférico por desnitrificación durante la descomposición de sus hojas.
+  <!-- feedback: Incorrecto. La desnitrificación elimina nitrógeno del suelo, de modo que no puede mejorar su disponibilidad. -->
+- [ ] B) Porque las leguminosas aceleran la nitrificación y aumentan la acidez del suelo, lo que libera más nutrientes.
+  <!-- feedback: Incorrecto. Aumentar la acidez no mejora la disponibilidad de nutrientes, porque reduce la solubilidad de varios iones. -->
+- [x] C) Porque las bacterias de los nódulos de sus raíces fijan el nitrógeno atmosférico y lo incorporan al suelo al descomponerse la planta.
+  <!-- feedback: Correcto. La fijación biológica aporta nitrógeno nuevo al sistema y, al descomponerse la cobertura, queda disponible para el cafeto. -->
+- [ ] D) Porque las leguminosas absorben todo el nitrógeno del suelo y lo liberan como sales minerales.
+  <!-- feedback: Incorrecto. Absorber nitrógeno del suelo no enriquece el suelo, y liberarlo como sales es precisamente lo que hacen todos los cultivos. -->
+
+### Explicacion Pedagogica
+Las leguminosas establece una simbiosis con bacterias del género Rhizobium, que forman nódulos en sus raíces. Estas bacterias poseen la enzima nitrogenasa, que reduce el nitrógeno atmosférico, muy estable por su enlace triple, y lo convierte en amoníaco, el cual se incorpora a los compuestos nitrogenados de la planta. Cuando la cobertura se corta o muere y sus residuos se descomponen, una parte del nitrógeno fijado se libera al suelo en formas que el cafeto puede absorber. Además, las raíces profundas de muchas leguminosas recuperan nutrientes de las capas inferiores del perfil del suelo. En el café de la zona andina, esta práctica complementa el uso de fertilizantes y reduce la dependencia de nitrogenados sintéticos.
+
+## Question 9 [D7-D8]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.66
+**Contexto:** Un finquero de Villavicencio sigue el recorrido del nitrógeno desde la lluvia que cae en el potrero hasta el pasto que consume el ganado.
+### Enunciado
+En un potrero de los llanos, ¿cuál es el recorrido más correcto del nitrógeno entre la atmósfera, el suelo, las plantas y los animales?
+### Opciones
+- [ ] A) El nitrógeno del suelo llega a las plantas, que lo liberan como gas y las bacterias lo fijan de vuelta al aire.
+  <!-- feedback: Incorrecto. Las bacterias no devuelven nitrógeno al aire, sino que lo fijan desde la atmósfera hacia formas utilizables. -->
+- [ ] B) El nitrógeno atmosférico se nitrifica directamente a nitrato, las plantas lo liberan al aire y los animales lo respiran.
+  <!-- feedback: Incorrecto. La nitrificación parte del amonio, y los animales obtienen nitrógeno de las proteínas que comen, no del aire. -->
+- [ ] C) Las plantas absorben directamente el nitrógeno atmosférico, que luego los animales respiran y devuelven a la atmósfera.
+  <!-- feedback: Incorrecto. Ninguna planta común puede usar el nitrógeno atmosférico directamente, por lo que es indispensable la fijación. -->
+- [x] D) El nitrógeno atmosférico se fija, se nitrifica, lo absorben las plantas, lo comen los animales y vuelve por la descomposición de sus restos.
+  <!-- feedback: Correcto. Describe el ciclo completo, desde la fijación del nitrógeno atmosférico hasta su retorno por descomposición. -->
+
+### Explicacion Pedagogica
+El ciclo del nitrógeno conecta la atmósfera, el suelo, las plantas y los animales. En la atmósfera, el 78 por ciento del volumen es nitrógeno molecular, una sustancia muy estable que solo algunos microorganismos pueden reducir. La fijación, ya sea biológica en las leguminosas, por bacterias de vida libre o industrial, convierte ese N2 en amoníaco. La nitrificación oxida el amonio a nitrito y a nitrato, formas que las plantas absorben por sus raíces y que se integran a proteínas, ácidos nucleicos y clorofila. Cuando el ganado consume el pasto, incorpora ese nitrógeno a su propia masa; al retornar al suelo, en forma de heces, urine o restos, el nitrógeno vuelve por mineralización y amonificación, y parte de él se nitrifica de nuevo.
+
+## Question 10 [D9-D10]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.60
+**Contexto:** Un productor de papa de Boyacá decide aumentar cada año la dosis de fertilizante nitrogenado, porque el primer año obtuvo una cosecha mayor.
+### Enunciado
+Un productor afirma: "Como en la primera aplicación obtuve más cosecha, en los próximos años debo aplicar cada vez más fertilizante nitrogenado". ¿Cuál es la evaluación más completa y correcta de esa afirmación?
+### Opciones
+- [ ] A) La afirmación es correcta, porque el nitrógeno es el nutriente que más influye en el rendimiento de todos los cultivos.
+  <!-- feedback: Incorrecto. El nitrógeno es muy importante, pero su efecto tiene un límite y un exceso resulta contraproducente. -->
+- [x] B) La afirmación es imprecisa, porque la respuesta al nitrógeno tiene un máximo y un exceso causa lixiviación, acidificación y contaminación del agua.
+  <!-- feedback: Correcto. Señala que más fertilizante no siempre significa más cosecha y que el exceso se pierde o contamina el ambiente. -->
+- [ ] C) La afirmación es correcta, porque el suelo retiene todo el nitrógeno aplicado y lo pone a disposición de las plantas.
+  <!-- feedback: Incorrecto. El suelo no retiene todo el nitrógeno: una parte se pierde por lixiviación, desnitrificación o volatilización. -->
+- [ ] D) La afirmación es totalmente incorrecta, porque el fertilizante nitrogenado nunca mejora el rendimiento de un cultivo.
+  <!-- feedback: Incorrecto. El nitrógeno sí es esencial y su aplicación bien dosificada mejora el rendimiento de los cultivos. -->
+
+### Explicacion Pedagogica
+La respuesta de un cultivo a un fertilizante sigue una curva de rendimiento creciente, máxima y luego decreciente. A bajas dosis, el nitrógeno es el factor limitante y el rendimiento aumenta; al superar la cantidad que el cultivo puede aprovechar, las aplicaciones adicionales no producen más cosecha. Ese excedente se pierde por varios caminos: la lixiviación, que arrastra el nitrato hacia el agua subterránea y los ríos; la desnitrificación, que lo devuelve a la atmósfera; y la volatilización en forma de amoníaco. Además, el exceso de nitrógeno acidifica el suelo y aumenta la contaminación de los cuerpos de agua, que es un problema serio en zonas agrícolas de Colombia. La recomendación técnica es dosificar con base en el análisis de suelo y en la eliminación de referencia del cultivo.
+
+## Question 11 [D9-D10]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.58
+**Contexto:** Un ingeniero agrónomo de Armenia presenta un plan de fertilización para un hectare de papa y debe justificar la dosis frente al presupuesto disponible.
+### Enunciado
+Un productor debe aplicar 100 kilos de urea por hectárea. ¿Qué razonamiento es el más completo y correcto para justificar esa dosis?
+### Opciones
+- [x] A) Como la urea contiene cerca de 46,65 por ciento de nitrógeno, esos 100 kilos aportan aproximadamente 46 kilos de nitrógeno por hectárea.
+  <!-- feedback: Correcto. Multiplica la masa aplicada por el porcentaje de nitrógeno de la urea para conocer el aporte real del nutriente. -->
+- [ ] B) Como la urea es un fertilizante completo, esos 100 kilos aportan 100 kilos de nitrógeno, fósforo y potasio.
+  <!-- feedback: Incorrecto. La urea solo contiene nitrógeno, de manera que los 100 kilos aportan cerca de 46 kilos de nitrógeno y nada de fósforo o potasio. -->
+- [ ] C) Como la urea tiene 28 gramos de nitrógeno por mol, 100 kilos aportan cerca de 280 kilos de nitrógeno.
+  <!-- feedback: Incorrecto. La proportion de nitrógeno es de 28 gramos en 60 gramos de urea, y no de 28 gramos por mol aplicado directamente. -->
+- [ ] D) Como el nitrógeno es el elemento más abundante en la atmósfera, la urea entrega el nitrógeno que la planta necesita sin esfuerzo.
+  <!-- feedback: Incorrecto. La abundancia atmosférica del nitrógeno no significa disponibilidad para la planta, y la urea requiere aplicación y absorción. -->
+
+### Explicacion Pedagogica
+Para justificar una dosis de fertilizante hay que convertir la masa del producto en la masa del nutriente que realmente llega al cultivo. La urea tiene una masa molar de aproximadamente 60 unidades y contiene 28 unidades de nitrógeno, de modo que su concentración es de 46,65 por ciento. Al multiplicar los 100 kilos de urea por ese porcentaje, se obtiene un aporte cercano a 46 kilos de nitrógeno por hectárea, que es el valor con el que se compara la recomendación del análisis de suelo. Este cálculo evita dos errores frecuentes: pedir fertilizante "de más" por confundir kilos de producto con kilos de nutriente, o pagar por un producto que no aporta el elemento que el cultivo necesita.
+
+## Question 12 [D9-D10]
+**ID:** CO-CN-10-2026-W21-nitrogeno-y-fertilizantes-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.55
+**Contexto:** Un ingeniero de suelos de Cali que presenta pH de 5,2, con alta saturación de aluminio y baja disponibilidad de fósforo.
+### Enunciado
+Un suelo con pH de 5,2 presenta alta saturación de aluminio y baja disponibilidad de fósforo. ¿Cuál es la evaluación más completa y correcta de esa situación?
+### Opciones
+- [ ] A) El suelo es alcalino y necesita urea para aumentar el pH, porque la urea alcaliniza el terreno.
+  <!-- feedback: Incorrecto. Un pH de 5,2 indica un suelo ácido, y la urea tiende a acidificarlo todavía más al oxidarse el amonio. -->
+- [ ] B) La aplicación de nitrógeno resolvería el problema, porque el nitrógeno aumenta la disponibilidad del fósforo en suelos ácidos.
+  <!-- feedback: Incorrecto. El fósforo está poco disponible precisamente por la acidez, y el nitrógeno no corrige esa causa. -->
+- [x] C) El suelo está acidificado, por lo que conviene aplicar un material encalante como cal para neutralizar la acidez y mejorar la disponibilidad de fósforo.
+  <!-- feedback: Correcto. El encalado eleva el pH, reduce la toxicidad del aluminio y favorece la disponibilidad de fósforo para las plantas. -->
+- [ ] D) El suelo es apto para el cultivo y no requiere corrección, porque la acidez solo afecta a las plantas ornamentales.
+  <!-- feedback: Incorrecto. La acidez limita el crecimiento de los cultivos de papa y café, que son muy sensibles al aluminio ácido. -->
+
+### Explicacion Pedagogica
+Un pH de 5,2 corresponde a un suelo ácido, y esa acidez tiene efectos concretos sobre la nutrición de las plantas. A pH bajo aumenta la solubilidad del aluminio, que es tóxico para las raíces y limita el crecimiento de cultivos sensibles como el café y la papa. Al mismo tiempo, el fósforo se fija a los óxidos de hierro y de aluminio y queda menos disponible. La corrección indicada es el encalado, que consiste en aplicar cal, limestone o dolomita para neutralizar la acidez, reducir la toxicidad del aluminio y favorecer la disponibilidad de fósforo. Además, conviene evitar la aplicación simultánea de dosis altas de urea, porque su nitrificación acidifica aún más el suelo.
