@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-20-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-28T23:03:11.188Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v1",
+      "statement": "¿Qué estrategia de lectura le conviene para encontrar ese dato en poco tiempo?",
+      "context": "En la semana de exámenes, un estudiante de Duitama recibe la indicación de que en una pregunta le piden un dato específico de un texto expositivo largo. Decide cómo va a leerlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer palabra por palabra desde la primera hasta la última, sin detenerse en ningún punto.",
+          "is_correct": false,
+          "feedback": "Esa es una lectura lineal completa, que consume mucho tiempo y no se ajusta a una búsqueda puntual."
+        },
+        {
+          "letter": "B",
+          "text": "Leer de manera selectiva, guiándose por el título, los subtítulos y las palabras clave hasta localizar la información.",
+          "is_correct": true,
+          "feedback": "La lectura selectiva permite llegar directo al dato buscado sin recorrer todo el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Leer solamente el título y la imagen, porque siempre resume todo el contenido del texto.",
+          "is_correct": false,
+          "feedback": "El título orienta la búsqueda, pero por sí solo no contiene el dato que pide el ejercicio."
+        },
+        {
+          "letter": "D",
+          "text": "Leer de la última línea hacia la primera, para conocer el final antes de empezar.",
+          "is_correct": false,
+          "feedback": "Leer al revés es una estrategia válida en algunos casos, pero no localiza un dato específico con rapidez."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La estrategia de lectura depende de lo que se busca. Si la pregunta pide un dato puntual, conviene una lectura selectiva apoyada en el título, los subtítulos y las palabras clave. Si la pregunta pide comprender el conjunto, hace falta una lectura completa y sucesiva. Elegir la estrategia correcta ahorra tiempo y evita perder información importante en el camino.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumplen las indicaciones que aparecen entre paréntesis?",
+      "context": "En el taller de teatro del colegio de Popayán, el grupo prepara una obra. El fragmento dice: \"(La sala está a oscuras. Se oye la lluvia contra los vidrios. MARIEL entra y cierra la puerta con cuidado.) MARIEL: Dime que todo esto pasa dentro de mi cabeza.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son pensamientos de Mariel que ella dice en voz alta dentro de la escena.",
+          "is_correct": false,
+          "feedback": "Lo que el personaje dice va después de su nombre; lo que está entre paréntesis no lo pronuncia."
+        },
+        {
+          "letter": "B",
+          "text": "Son instrucciones para que el público cambie de opinión sobre la obra.",
+          "is_correct": false,
+          "feedback": "Las indicaciones describen lo que ocurre en escena y no buscan cambiar la opinión del público."
+        },
+        {
+          "letter": "C",
+          "text": "Son frases del narrador que cuentan toda la historia de principio a fin.",
+          "is_correct": false,
+          "feedback": "En el drama el narrador no aparece: la acción se representa y las acotaciones solo orientan la escena."
+        },
+        {
+          "letter": "D",
+          "text": "Son indicaciones del autor que muestran al público lo que ocurre y que los personajes no dicen.",
+          "is_correct": true,
+          "feedback": "El entre paréntesis es el lugar de la acotación, que describe la escena y la acción de los personajes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El texto dramático separa lo que se dice de lo que se ve. Lo que los personajes pronuncian aparece después de su nombre, mientras que las indicaciones entre paréntesis describen el espacio, los gestos y los sonidos. Reconocer esta diferencia permite entender el escenario sin necesidad de estar en la sala. También explica por qué el público sabe más que los personajes en ciertos momentos de una obra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v3",
+      "statement": "¿Qué permite inferir la imagen de que la orilla se queda pensando mientras el río baja?",
+      "context": "En la antología del colegio de Florencia aparece un poema de cuatro versos: \"El río baja / sin pedir permiso / y la orilla / se queda pensando\". La profesora pide que expliquen qué significa que la orilla piense.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la corriente transforma el paisaje y que ese efecto se presenta como si la orilla lo reflejara.",
+          "is_correct": true,
+          "feedback": "La personificación atribuye a la orilla una reacción, y esa reacción sugiere la huella dejada por el río."
+        },
+        {
+          "letter": "B",
+          "text": "Que el río es tan débil que no alcanza a mover las piedras de la orilla.",
+          "is_correct": false,
+          "feedback": "Al contrario, la imagen sugiere que el río deja una huella clara en el paisaje que lo rodea."
+        },
+        {
+          "letter": "C",
+          "text": "Que la orilla permanece vacía y quieta durante todo el día, sin ninguna actividad.",
+          "is_correct": false,
+          "feedback": "El poema no habla de ausencia de actividad, sino de una reacción del paisaje frente a la corriente."
+        },
+        {
+          "letter": "D",
+          "text": "Que el río y la orilla sienten una tristeza profunda que el poema quiere transmitir.",
+          "is_correct": false,
+          "feedback": "Nada en los cuatro versos indica un sentimiento de tristeza, y esa sería una lectura sin respaldo textual."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es construir un sentido a partir de las imágenes que ofrece el poema. Cuando se dice que la orilla se queda pensando, se le atribuye una reacción humana, y esa reacción metaforiza el efecto del río sobre el paisaje. Reconocer la personificación permite pasar de la lectura literal a la lectura simbólica. Este recurso es frecuente en la poesía colombiana y en la poesía de toda la tradición hispánica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v4",
+      "statement": "¿Qué parte de la intervención de Julián funciona como una refutación apoyada en un dato?",
+      "context": "En una obra de teatro escolar de Montería, dos personajes discuten sobre la lectura de historietas. DIANA afirma: \"Las historietas no sirven para aprender nada\". JULIÁN responde: \"Este año el colegio regaló cien historietas y al final no se devolvió ninguna, así que algo enseñaron\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera parte, porque ya cambia el tema de la conversación a otro asunto.",
+          "is_correct": false,
+          "feedback": "Julián no cambia de tema, responde directamente a lo que acaba de afirmar Diana."
+        },
+        {
+          "letter": "B",
+          "text": "La expresión final, porque anuncia que lo que viene a continuación es un dato.",
+          "is_correct": false,
+          "feedback": "La expresión final anuncia el dato, pero no es el dato en sí ni la refutación completa."
+        },
+        {
+          "letter": "C",
+          "text": "La frase que menciona las cien historietas y que ninguna se devolvió, porque aporta un dato que contradice a Diana.",
+          "is_correct": true,
+          "feedback": "Los dos hechos citados son verificables y desmienten la idea de que las historietas no enseñan nada."
+        },
+        {
+          "letter": "D",
+          "text": "El nombre del colegio, porque da autoridad a lo que Julián dice.",
+          "is_correct": false,
+          "feedback": "Nombrar la institución da contexto, pero no es lo que contradice a la afirmación de Diana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una refutación responde a la afirmación del otro con una razón que la desmiente. En este diálogo, Julián no acusa a Diana ni repite su propia tesis: ofrece dos hechos comprobables que contradicen lo que ella afirma. Reconocer esa estructura ayuda a distinguir un diálogo construido con lógica de uno lleno de insultos, y también a mejorar los textos que escribimos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de estas frases describe correctamente lo que muestra el gráfico?",
+      "context": "En un artículo de la revista escolar de Cartagena sobre la tienda del colegio, un gráfico de líneas muestra las ventas de cuatro meses: enero con 200 unidades, febrero con 260, marzo con 240 y abril con 300.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las ventas aumentaron cada mes sin ninguna bajada durante todo el período.",
+          "is_correct": false,
+          "feedback": "El gráfico muestra una bajada en marzo, de modo que el aumento no fue continuo."
+        },
+        {
+          "letter": "B",
+          "text": "Las ventas se mantuvieron iguales durante los cuatro meses del período.",
+          "is_correct": false,
+          "feedback": "Los cuatro valores son distintos entre sí, así que no hubo una cantidad constante."
+        },
+        {
+          "letter": "C",
+          "text": "Las ventas cayeron de manera constante desde enero hasta el mes de abril.",
+          "is_correct": false,
+          "feedback": "La serie sube dos veces y baja una, de modo que la tendencia no es una caída constante."
+        },
+        {
+          "letter": "D",
+          "text": "Las ventas subieron hasta febrero, bajaron un poco en marzo y alcanzaron su valor más alto en abril.",
+          "is_correct": true,
+          "feedback": "La frase sigue la secuencia de los cuatro meses, incluido el descenso de marzo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Describir un gráfico de líneas es narrar la trayectoria de los datos en orden temporal, sin saltarse ni inventar movimientos. En esta serie se observa una subida, una bajada pequeña y una subida final hasta el valor más alto. Quien describe bien un gráfico señala también el momento en que la tendencia cambia. Esa habilidad sirve para leer informes del colegio, noticias con datos y estudios locales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v6",
+      "statement": "¿Qué permite concluir que la versión de los hechos depende de una mirada particular?",
+      "context": "En un cuento del libro de lectura de Soacha, el narrador escribe: \"Yo estaba ahí cuando el humo empezó a subir por el patio y vi cómo la maestra sacaba a los primeros niños\". El resto del relato sigue con ese mismo testigo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el narrador participa en lo ocurrido, de modo que su versión responde a lo que él vio y sintió.",
+          "is_correct": false,
+          "feedback": "Esa es justamente la conclusión correcta: el testigo es parte del hecho que narra."
+        },
+        {
+          "letter": "B",
+          "text": "Que el narrador participa en lo ocurrido, de modo que puede existir otra versión desde otro punto de vista.",
+          "is_correct": true,
+          "feedback": "Señala que un testigo da su propia versión y que existen otras posibles desde otros lugares."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador está fuera de la escena, de modo que su versión es la única posible.",
+          "is_correct": false,
+          "feedback": "El uso constante del \"yo\" y la presencia del narrador en el hecho desmienten esa afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Que el narrador cambia de opinión a lo largo del relato, porque cuenta versiones diferentes.",
+          "is_correct": false,
+          "feedback": "El relato no muestra cambios de opinión, sino un solo testigo que narra lo que le ocurrió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el narrador es un personaje del relato, su versión no es neutral: depende de lo que estaba cerca, de lo que vio y de lo que sintió. Reconocer esa limitación permite buscar otros testimonios sobre el mismo hecho. Esta mirada es especialmente útil en el análisis histórico y en el periodismo, donde contrastar fuentes es un método. También enseña a escribir relatos más diversos al variar de punto de vista.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v7",
+      "statement": "Qué aporta a la lectura la comparación entre el despertar de la ciudad y el abrirse de los ojos?",
+      "context": "En un texto poético sobre Manizales aparece la frase: \"La ciudad se despierta con la lluvia como quien abre los ojos poco a poco\". La profesora pide que expliquen qué aporta la comparación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una asociación que acerca la lluvia y la ciudad a la experiencia humana de despertar y abrirse los ojos.",
+          "is_correct": true,
+          "feedback": "La comparación traslada una experiencia corporal conocida y da a la escena un tono de lento despertar."
+        },
+        {
+          "letter": "B",
+          "text": "Un dato exacto sobre la cantidad de lluvia que recibe la ciudad cada mes.",
+          "is_correct": false,
+          "feedback": "La comparación es una imagen poética y no aporta mediciones de ningún tipo."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción precisa de la temperatura de la mañana en que ocurre la escena.",
+          "is_correct": false,
+          "feedback": "La imagen no busca precisión termométrica, sino sugerir una manera de despertar."
+        },
+        {
+          "letter": "D",
+          "text": "Una opinión sobre la calidad del trabajo de los habitantes de la ciudad.",
+          "is_correct": false,
+          "feedback": "La frase no juzga a las personas, sino que describe un momento del paisaje urbano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comparación poética toma un aspecto de una cosa y lo acerca a otra para producir una imagen. Al comparar la ciudad que despierta con alguien que abre los ojos, la frase sugiere lentitud, despertar gradual y movimiento. Analizar qué se compara con qué ayuda a entender el tono del poema. Ese mismo recurso aparece a diario en las letras de las canciones y en los anuncios del barrio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v8",
+      "statement": "Qué se puede concluir al comparar el poema con el capítulo de geografía sobre el mar Caribe?",
+      "context": "En la antología del colegio de Sincelejo hay un poema sobre el mar Caribe y, unas páginas más adelante, un capítulo de geografía que describe esa misma mar. El poema menciona las olas y el salitre, pero no las corrientes marinas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el poema es menos completo porque deja por fuera las corrientes marinas.",
+          "is_correct": false,
+          "feedback": "Cada texto responde a una finalidad distinta, de modo que la omisión no es una falla del poema."
+        },
+        {
+          "letter": "B",
+          "text": "Que el capítulo de geografía no sirve para el análisis literario de la antología.",
+          "is_correct": false,
+          "feedback": "Un texto informativo puede ser una fuente muy útil para comprender el entorno de una obra."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada texto selecciona la información que necesita para su propósito, y lo que uno omite el otro lo incluye.",
+          "is_correct": true,
+          "feedback": "Señala la complementariedad entre los dos textos: no están incompletos, respondemos a finalidades diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo uno de los dos textos describe el mar de manera correcta, y el otro está equivocado.",
+          "is_correct": false,
+          "feedback": "Ninguno está equivocado: describen el mismo objeto con intenciones y criterios distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos eligen qué aspectos de un mismo objeto incluyen y cuáles dejan de lado, según lo que se proponen comunicar. El poema necesita imágenes y impresiones, mientras que el capítulo de geografía necesita descripciones precisas. Comparar esos dos textos enseña a valorar cada uno por su propio propósito. También evita exigirle a la poesía datos que no son propios de su género.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la justificación más sólida de la estrategia que debe seguir?",
+      "context": "Un estudiante de Aguachica tiene que responder una pregunta de examen sobre un artículo largo que combina datos, Opinions y un ejemplo. Otro compañero le sugiere varias estrategias y él debe justificar cuál usará.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer palabra por palabra porque el examen preguntará por palabras concretas del artículo.",
+          "is_correct": false,
+          "feedback": "Una lectura completa no garantiza responder bien, porque no distingue lo central de lo secundario."
+        },
+        {
+          "letter": "B",
+          "text": "Leer primero de forma selectiva para ubicar los datos y los argumentos centrales, y después volver a las secciones difíciles para comprobarlos.",
+          "is_correct": true,
+          "feedback": "Combina dos pasos justificados: localizar lo central y luego verificar con una lectura más detallada."
+        },
+        {
+          "letter": "C",
+          "text": "Leer solo el final del artículo, porque la conclusión explica el propósito de todo el texto.",
+          "is_correct": false,
+          "feedback": "La conclusión orienta el propósito, pero no contiene los datos que el texto presenta a lo largo."
+        },
+        {
+          "letter": "D",
+          "text": "No leer el artículo y responder de memoria, porque la información del curso es suficiente.",
+          "is_correct": false,
+          "feedback": "Responder de memoria descarta la evidencia del texto, que es justamente lo que se evalúa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Justificar una estrategia de lectura significa explicar por qué esa secuencia de pasos sirve para el propósito. Localizar primero los datos y los argumentos centrales permite entender la estructura, y volver después sobre las partes difíciles permite comprobarlos con detalle. Ese razonamiento en dos pasos es más sólido que cualquier receta única. Aplicarlo mejora el rendimiento en evaluaciones de lectura de textos largos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle-v10",
+      "statement": "Cuál es el procedimiento analítico más adecuado para ese número de la revista?",
+      "context": "Un número de la revista del colegio de Quibdó tiene tres secciones: un relato de tradición oral sobre los árboles del bosque, un cuadro con datos de asistencia escolar y una conclusión que invita a los lectores a participar en una jornada de limpieza. La profesora pide un análisis de conjunto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leerlo como si fuera un solo relato, porque el texto narrativo ocupa más espacio en la página.",
+          "is_correct": false,
+          "feedback": "Tratar todo el número como relato descarta el cuadro y la invitación, que cumplen otras funciones."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántas palabras tiene cada sección, para saber cuál es la más importante.",
+          "is_correct": false,
+          "feedback": "La extensión de una sección no mide su importancia, y el propósito de cada fragmento es distinto."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar únicamente los errores de ortografía, porque la corrección es lo más importante en un trabajo escrito.",
+          "is_correct": false,
+          "feedback": "La corrección es necesaria, pero no responde al pedido de analizar un texto con secciones de distinto género."
+        },
+        {
+          "letter": "D",
+          "text": "Separar las tres secciones según su función, aplicar a cada una la estrategia que le corresponde y después relacionar sus mensajes.",
+          "is_correct": true,
+          "feedback": "Propone separar por función, analizar cada fragmento y al final unir el mensaje de las tres partes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto que reúne fragmentos de distintos géneros exige separar primero y relacionar después. La narración se analiza como relato, el cuadro como información visual y el cierre como texto argumentativo. Solo al final tiene sentido buscar qué mensajes comparten. Ese procedimiento ordenado evita la mezcla de criterios y es el más adecuado para un análisis integrador como el que pide esta semana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

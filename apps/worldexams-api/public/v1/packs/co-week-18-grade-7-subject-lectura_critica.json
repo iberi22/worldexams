@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-18-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-28T23:03:11.187Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la diferencia entre una tesis y un argumento dentro de un debate?",
+      "context": "En el colegio de Envigado, el equipo de séptimo grado prepara un debate sobre el uso de los celulares en el aula. La profesora Carolina les pide que separen las ideas principales de las razones que las sostienen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis es la razón y el argumento es la posición final que se anuncia al cierre.",
+          "is_correct": false,
+          "feedback": "Invierte los papeles: la razón que sostiene una afirmación es el argumento, no la tesis."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis es la posición que se defiende y el argumento es la razón que la sostiene.",
+          "is_correct": true,
+          "feedback": "La tesis afirma, el argumento explica por qué esa afirmación merece ser aceptada."
+        },
+        {
+          "letter": "C",
+          "text": "La tesis es el resumen de lo que dijo el equipo contrario y el argumento es la conclusión propia.",
+          "is_correct": false,
+          "feedback": "El resumen del equipo contrario corresponde a la contraposición, no a la propia tesis."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis y el argumento son la misma cosa, solo que expresada con dos palabras distintas.",
+          "is_correct": false,
+          "feedback": "Confundirlas borra la diferencia entre afirmar una idea y justificar esa afirmación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es la afirmación que el equipo quiere que el público acepte, y el argumento es la razón que hace creíble esa afirmación. Un debate sin tesis se convierte en una charla de opiniones sueltas. Por eso separar las dos partes ayuda a organizar la intervención: primero se enuncia la posición y luego se desarrolla con razones. Esta distinción se aplica igual a un texto escrito y a una exposición oral.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de evidencia se empleó en la segunda frase?",
+      "context": "En una ronda de preparación, un estudiante de Soacha le dice a su equipo: \"Reciclar reduce la basura de los hogares\". Su compañero responde: \"En el primer semestre, el promedio por casa fue de treinta kilos de material reciclado\". El profesor pregunta con qué tipo de evidencia se apoyó la segunda frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un testimonio, porque el estudiante cuenta algo que él mismo hizo en su casa.",
+          "is_correct": false,
+          "feedback": "Un testimonio es la experiencia de una persona contada en primera persona, no una cifra sobre un promedio."
+        },
+        {
+          "letter": "B",
+          "text": "Una opinión, porque el compañero expresa lo que piensa del reciclaje.",
+          "is_correct": false,
+          "feedback": "Expresar una opinión no produce una cifra; aquí hay un dato que se puede verificar."
+        },
+        {
+          "letter": "C",
+          "text": "Un ejemplo, porque nombra a una familia que recicló durante el semestre.",
+          "is_correct": false,
+          "feedback": "No se nombra ninguna familia: el enunciado habla de un promedio general, no de un caso individual."
+        },
+        {
+          "letter": "D",
+          "text": "Un dato, porque presenta una cantidad concreta que se puede comprobar.",
+          "is_correct": true,
+          "feedback": "El dato es una información numérica verificable, y aquí aparece el promedio de treinta kilos por casa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las evidencias que sostienen un argumento pueden ser datos, ejemplos, testimonios o referencias de autoridad. En este caso, la segunda frase apoya la primera con un dato numérico. Reconocer el tipo de evidencia permite valorar un argumento: los datos permiten medir, mientras un testimonio o un ejemplo dan contexto. En un debate, saber clasificar la evidencia propia y la del equipo contrario es una ventaja decisiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de estas oraciones es una tesis correctamente formulada para ese debate?",
+      "context": "El colegio de Montería debate si debe invertir en una cancha deportiva o en ampliar la biblioteca. Cada equipo debe formular una tesis en una sola oración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El colegio debe invertir en una cancha, porque mejoraría la convivencia del grado.",
+          "is_correct": true,
+          "feedback": "Afirma una posición sobre la inversión y añade la razón que la sostiene, que es lo que exige una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes del colegio deben comportarse mejor en los pasillos.",
+          "is_correct": false,
+          "feedback": "Es una recomendación general sobre la conducta y no responde a la pregunta sobre la inversión."
+        },
+        {
+          "letter": "C",
+          "text": "La cancha del colegio es la más bonita de la ciudad.",
+          "is_correct": false,
+          "feedback": "Es un juicio estético sin argumentos que lo sostengan, y además no es verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Nadie utiliza la biblioteca durante el recreo.",
+          "is_correct": false,
+          "feedback": "Es una afirmación sin respaldo y sin razón, por lo que no funciona como tesis de debate."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una tesis bien formulada toma posición sobre el tema y anticipa la razón principal que la defiende. En el debate sobre la inversión, la opción correcta elige una de las dos opciones y explica qué ventaja aporta. Las demás oraciones o bien no responden a la pregunta, o bien son afirmaciones sin respaldo. Practicar este ejercicio ayuda a llegar al debate con una idea clara y defendible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estas respuestas cumple mejor la función de refutar el argumento contrario?",
+      "context": "En el debate de Bucaramanga, el equipo contrario sostuvo: \"No se puede construir una cancha porque no hay presupuesto\". El equipo de séptimo grado debe responder con una refutación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Eso es mentira, porque el presupuesto es enorme y todos lo saben.\"",
+          "is_correct": false,
+          "feedback": "Ataca a la persona que habla y no aporta una razón verificable contra el argumento."
+        },
+        {
+          "letter": "B",
+          "text": "\"De acuerdo, no hay presupuesto, así que toca aceptar toda la posición contraria.\"",
+          "is_correct": false,
+          "feedback": "Conceder todo sin rebatir abandona la tesis propia y no constituye una refutación."
+        },
+        {
+          "letter": "C",
+          "text": "\"Aunque el presupuesto sea limitado, se puede reservar una partida pequeña porque ya existe el terreno.\"",
+          "is_correct": true,
+          "feedback": "Responde a la razón del contrario y ofrece una salida que la deja sin respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "\"Todos los colegios de la ciudad ya tienen cancha, menos el nuestro.\"",
+          "is_correct": false,
+          "feedback": "Compara con otros colegios sin explicar por qué eso resolvería el problema del presupuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Refutar no es gritar ni atacar al interlocutor, sino responder a la razón que el otro presenta y mostrar que no alcanza. La opción correcta acepta el límite del presupuesto y ofrece una alternativa concreta que lo sortea. Las demás respuestas atacan, ceden o se desvían del tema central. Practicar refutaciones con esta estructura ayuda a construir un debate sólido y respetuoso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de estas evidencias apoya mejor la afirmación del equipo?",
+      "context": "En el aula de Pasto, el equipo afirma: \"Los estudiantes que participan en el debate leen más libros\". La profesora pide elegir la evidencia que mejor sostiene esa afirmación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación de un libro de expertos que sostiene que los niños deben leer más.",
+          "is_correct": false,
+          "feedback": "Es una referencia de autoridad general, pero no mide la lectura de estos estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "El testimonio de un compañero que dice que ahora lee más desde que participa.",
+          "is_correct": false,
+          "feedback": "Un testimonio personal aporta una experiencia, aunque no permite generalizar al grupo."
+        },
+        {
+          "letter": "C",
+          "text": "La clasificación que ubica el debate dentro del área de lenguaje del colegio.",
+          "is_correct": false,
+          "feedback": "La clasificación escolar no aporta ninguna evidencia sobre cuánto leen los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "El registro de la biblioteca, que muestra cuántos préstamos hizo cada grupo antes y después del debate.",
+          "is_correct": true,
+          "feedback": "Es la única evidencia que permite comparar y verificar la relación entre participación y lectura."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La fuerza de una evidencia depende de lo que permite demostrar. Una afirmación sobre la relación entre dos hechos necesita datos comparables, como el registro de préstamos antes y después de la actividad. El testimonio sirve para ilustrar, y la autoridad para orientar, pero ninguno de los dos mide lo que la tesis afirma. Elegir la evidencia adecuada es el primer paso de un argumento sólido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el análisis más sólido de la intervención de ese estudiante?",
+      "context": "En el debate de Pereira, un integrante del equipo contrario dice: \"Todos los colegios de la región ya tienen cancha, así que el nuestro también debe tenerla.\" La profesora pide analizar la calidad de ese argumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El argumento es sólido, porque mencionar la situación de otros colegios constituye una comparación válida.",
+          "is_correct": false,
+          "feedback": "Nombrar lo que hacen los demás no basta: hace falta explicar por qué esa comparación apoya la conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "El argumento es débil, porque apela a lo que hacen los demás sin aportar una razón que lo justifique.",
+          "is_correct": true,
+          "feedback": "Señala el punto ciego del razonamiento: se apoya en la costumbre ajena y no en una razón propia."
+        },
+        {
+          "letter": "C",
+          "text": "El argumento falla únicamente porque fue dicho de manera oral y no por escrito.",
+          "is_correct": false,
+          "feedback": "La forma oral no invalida un argumento; lo que lo debilita es la ausencia de una razón que lo sostenga."
+        },
+        {
+          "letter": "D",
+          "text": "El argumento es válido, porque menciona situaciones reales que ocurren en la región.",
+          "is_correct": false,
+          "feedback": "Que exista una situación real no convierte en válida cualquier conclusión que se apoyo en ella."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un argumento consiste en preguntar si la razón que se ofrece realmente sostiene la conclusión. En este caso se recurre a lo que hacen otros, sin explicar por qué esa costumbre demuestra que el colegio también debe construir. Un análisis crítico identifica ese salto y no se limita a calificar el estilo de quien habla. Esa misma pregunta se aplica al leer una opinión en un periódico o en una red social.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v7",
+      "statement": "¿Qué regla del debate se rompió con esa intervención?",
+      "context": "Durante el debate de Neiva, un estudiante interrumpe a quien habla y exclama: \"Eso es mentira\". El moderador le pide que explique la regla que rompió.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La norma del respeto, porque ninguna evidencia permite afirmar que lo dicho sea mentira.",
+          "is_correct": true,
+          "feedback": "Calificar de falsa una idea sin discutirla con razones vulnera el respeto que exige un debate bien realizado."
+        },
+        {
+          "letter": "B",
+          "text": "La norma de escuchar, porque interrumpir impide que el equipo contrario termine su argumento.",
+          "is_correct": false,
+          "feedback": "Interrumpir sí afecta al que habla, pero el problema central de la frase es calificar la idea de falsa."
+        },
+        {
+          "letter": "C",
+          "text": "La norma de la evidencia, porque el estudiante no presentó pruebas de su afirmación.",
+          "is_correct": false,
+          "feedback": "La ausencia de pruebas importa, pero la norma que se rompe de forma directa es la del respeto."
+        },
+        {
+          "letter": "D",
+          "text": "La norma del tiempo, porque el estudiante hablamos más del que le correspondía.",
+          "is_correct": false,
+          "feedback": "La intervención no trata del tiempo asignado, sino de una descalificación hacia la posición del otro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un debate se apoya en normas que permiten discrepar sin descalificar. Llamar mentira a lo que dice el otro es una falta de respeto, porque no se responde con razones sino con una etiqueta. Reconocer esta diferencia ayuda a separar la crítica de una postura, que es legítima, del ataque, que no lo es. Practicar estas normas en clase mejora tanto el debate como el trato entre compañeros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v8",
+      "statement": "Qué efecto tiene sobre el texto la inclusión de esa dificultad mencionada al final?",
+      "context": "Un texto de la cartilla del colegio de Cúcuta afirma que llevar internet a las zonas rurales reduce las brechas, y luego reconoce que el servicio sigue siendo caro. El profesor pregunta qué efecto tiene ese reconocimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilita la tesis, porque demuestra que la propuesta no sirve para nada.",
+          "is_correct": false,
+          "feedback": "Reconocer una dificultad no invalida la tesis; solo muestra que la propuesta tiene un límite."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error que debe eliminarse, porque debilita la Argumento principal del texto.",
+          "is_correct": false,
+          "feedback": "Quitarla sería ocultar una dificultad real, y un texto argumentativo debe anticipar las objeciones."
+        },
+        {
+          "letter": "C",
+          "text": "Fortalece la tesis, porque anticipa una objeción y muestra que la propuesta puede sostenerse aun con ese límite.",
+          "is_correct": true,
+          "feedback": "Anticipar la objeción y responderla demuestra que la tesis se sostiene más allá de lo evidente."
+        },
+        {
+          "letter": "D",
+          "text": "No produce ningún efecto, porque la tesis ya estaba demostrada antes de llegar a ese punto.",
+          "is_correct": false,
+          "feedback": "Presentar la dificultad sí cambia la lectura del texto, porque obliga a matizar la fuerza de la tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto argumentativo fuerte no oculta los límites de su propia tesis. Incluir una dificultad y responderla demuestra que el autor conoce las objeciones y no las evade. Por eso el contraargumento bien usado refuerza la posición en lugar de destruirla. Reconocer ese efecto ayuda a escribir mejor y también a detectar los textos que esconden sus problemas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v9",
+      "statement": "Cuál es el juicio más sólido sobre cuál de los dos argumentos es más fuerte?",
+      "context": "En el simulacro de debate de Villavicencio se comparan dos versiones de un argumento sobre aumentar el tiempo de recreo. La versión A dice que en un colegio de otra ciudad el recreo es más corto. La versión B presenta un dato de asistencia de este colegio y responde a la objeción de que la pausa reduce el tiempo de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de la versión A, porque compara con una situación real de otro colegio.",
+          "is_correct": false,
+          "feedback": "Comparar no basta si no se explica la relación entre esa comparación y lo que ocurre aquí."
+        },
+        {
+          "letter": "B",
+          "text": "El de la versión B, porque ofrece un dato verificable, explica su relevancia y responde a una objeción plausible.",
+          "is_correct": true,
+          "feedback": "Enumera las tres razones que hacen fuerte un argumento: evidencia, pertinencia y respuesta a la objeción."
+        },
+        {
+          "letter": "C",
+          "text": "El de la versión B, porque usa un lenguaje más complejo que la versión A.",
+          "is_correct": false,
+          "feedback": "La complejidad del lenguaje no mide la solidez; lo importante es la calidad de la evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "El de la versión A, porque menciona un colegio de otra ciudad y eso le da autoridad.",
+          "is_correct": false,
+          "feedback": "La mención de otro colegio no constituye autoridad, porque no se explica por qué su caso es equivalente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la fuerza de un argumento exige aplicar criterios y no preferencias de estilo. Un argumento es más fuerte cuando su evidencia es verificable, cuando la evidencia es pertinente a la tesis y cuando anticipa la mejor objeción del contrario. La versión B cumple las tres condiciones. Aplicar estos criterios permite defender por escrito por qué una postura supera a otra, que es exactamente lo que pide un trabajo de argumentación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle-v10",
+      "statement": "Cuál es la estrategia más sólida para esos últimos cinco minutos?",
+      "context": "A cinco minutos del cierre, el equipo de séptimo grado de Sincelejo ve que su tesis se sostiene, pero el equipo contrario presentó un dato nuevo sobre el uso de la biblioteca. El entrenador debe escoger el último movimiento del debate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir la tesis varias veces, porque la repetición sustituye a la evidencia que falta.",
+          "is_correct": false,
+          "feedback": "La repetición no aporta información nueva, y el público ya conoce la tesis del equipo."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar dos argumentos nuevos sin evidencia, porque en un debate gana quien más ideas enuncia.",
+          "is_correct": false,
+          "feedback": "Las muchas ideas sin respaldo reducen la credibilidad del equipo en lugar de ayudar."
+        },
+        {
+          "letter": "C",
+          "text": "Interrumpir varias veces al equipo contrario, porque tapar su voz evita que termine su intervención.",
+          "is_correct": false,
+          "feedback": "Interrumpir rompe las normas del debate y deja al equipo con una imagen negativa ante el público."
+        },
+        {
+          "letter": "D",
+          "text": "Refutar el dato nuevo del equipo contrario, porque si esa evidencia no se sostiene, la posición pierde fuerza.",
+          "is_correct": true,
+          "feedback": "Priorizar la evidencia más fuerte del contrario protege la tesis y muestra criterio de análisis."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir el último movimiento de un debate exige valorar cuál es la amenaza mayor para la propia tesis. Un dato nuevo sin refutar queda dando la razón al contrario, por lo que conviene analizarlo y responderlo. Las otras opciones repiten, acumulan ideas sin sustento o rompen las normas del debate. Elegir con criterio es lo que distingue a un equipo que razona de uno que solo habla fuerte.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
