@@ -1,0 +1,484 @@
+---
+id: "CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle"
+country: "colombia"
+grado: 11
+asignatura: "lengua"
+tema: "la-oracion-compuesta-por-subordinacion"
+periodo: "weekly"
+week: "W24"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 20
+bundle_size: 20
+alignment: "DBA MEN Colombia / Saber 11"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# La oración compuesta por subordinación
+
+Esta semana 24 del año escolar 2026 trabajamos en undécimo grado la oración compuesta por subordinación, la estructura en la que una proposición depende de otra para que el período quede determinado. En las aulas de Bogotá, Medellín, Cali, Barranquilla, Bucaramanga y Pereira, el tema se aplica al revisar los informes de periódico, las actas municipales y los ensayos que se leen en Saber 11, donde casi ninguna oración es simple. Reconocer el nexo, la proposición principal, la proposición subordinada y la función que esta última cumple es lo que permite comprender por qué un texto afirma, matiza o explica lo que dice.
+
+## Question 1 [D3-D4]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento
+**Expected_Success:** 0.90
+**Contexto:** La profesora Marcela, en un colegio de Medellín, escribe en el tablero tres ejemplos tomados de un aviso institucional para introducir el tema de la semana.
+
+### Enunciado
+¿Cuál de las siguientes estructuras es una proposición subordinada sustantiva dentro del período "La universidad liquidó que el laboratorio de idiomas fue renovado"?
+
+### Opciones
+- [x] A) La proposición "que el laboratorio de idiomas fue renovado", porque ocupa el lugar del objeto directo.
+  <!-- feedback: Es correcta porque la proposición introducida por el nexo "que" completa lo que la universidad liquidó y ocupa exactamente la función de objeto directo del verbo principal. -->
+- [ ] B) El sintagma "el laboratorio de idiomas", porque nombra un lugar y funciona como sujeto.
+  <!-- feedback: Explica un sintagma nominal y no una proposición: no tiene verbo propio ni nexo, de modo que no existe subordinación en ese fragmento. -->
+- [ ] C) La proposición "el laboratorio de idiomas fue renovado", porque expresa la causa de la liquidación.
+  <!-- feedback: Atribuye un valor causal inexistente: en el período no aparece ningún nexo de causa, y la proposición tiene la función de objeto directo, no de circunstancia. -->
+- [ ] D) La proposición "la universidad liquidó", porque introduce al objeto directo del período.
+  <!-- feedback: Identifica como subordinada la proposición principal: "la universidad liquidó" es justamente la proposición de la que depende la otra. -->
+
+### Explicacion Pedagogica
+La proposición subordinada sustantiva es aquella que se ubica dentro de la proposición principal ocupando la función de un sustantivo: sujeto, objeto directo, objeto indirecto, atributo o complemento del nombre. Por eso se la denomina sustantiva, ya que reemplaza a un sustantivo y se reconoce por el nexo que la introduce, o por la ausencia de nexo cuando funciona como sujeto. En el período propuesto, la proposición iniciada por "que" responde a la pregunta qué liquidó la universidad, de modo que sin ella la proposición principal quedaría incompleta. Distinguir esta función de la que cumplen las adjetivas y las adverbiales es el punto de partida del análisis sintáctico de cualquier período con subordinación.
+
+## Question 2 [D3-D4]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v2
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento
+**Expected_Success:** 0.90
+**Contexto:** Un grupo de estudiantes de Bucaramanga analiza un titular de periódico regional sobre la plataforma digital de transporte de la ciudad.
+
+### Enunciado
+En el período "Las nubes que oscurecieron el cielo desviaron la ruta aérea", ¿qué tipo de proposición subordinada es la proposición "que oscurecieron el cielo"?
+
+### Opciones
+- [x] A) Adjetiva o de relativo, porque modifica al antecedente "las nubes".
+  <!-- feedback: Es correcta porque la proposición se integra dentro del sintagma nominal "las nubes" para caracterizarlo, y ese antecedente es el núcleo de la subordinada adjetiva. -->
+- [ ] B) Sustantiva, porque ocupa la función de sujeto de la proposición principal.
+  <!-- feedback: Señala una función equivocada: el sujeto de la proposición principal es "Las nubes", y la proposición introducida por el relativo funciona como determinante. -->
+- [ ] C) Adverbial causal, porque indica la causa por la que se desvió la ruta.
+  <!-- feedback: No hay nexo causal en el período; una proposición causal necesita un conectante como "porque" o "puesto que", y aquí el relativo solo caracteriza. -->
+- [ ] D) Adverbial temporal, porque sitúa la acción en un momento del día.
+  <!-- feedback: Ningún nexo temporal aparece en el período, y el relativo "que" no expresa simultaneidad ni posterioridad, de modo que no hay valor temporal. -->
+
+### Explicacion Pedagogica
+La proposición subordinada adjetiva, también llamada de relativo, es la que se integra dentro de un sintagma nominal para determinar o caracterizar a un antecedente. Se reconoce porque va precedida de un relativo cuyo antecedente se identifica dentro de la proposición principal: quien, lo que, cual, cuyo, donde o, según el caso, que. Su núcleo es ese antecedente, y por eso el relativo concuerda con él en número y género. En el titular propuesto, el relativo "que" tiene como antecedente "las nubes" y el verbo "oscurecieron" concuerda en plural con ese sustantivo. Esta clase de subordinación es la más frecuente en los textos informativos, por lo que su reconocimiento aparece constantemente en las pruebas de comprensión lectora.
+
+## Question 3 [D3-D4]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v3
+**Bloom:** Remember
+**ICFES:** Comprensión de textos
+**Expected_Success:** 0.90
+**Contexto:** En una institución educativa de Pereira se lee un informe en el que se destaca que el acceso al campus mejoró notablemente durante el año.
+
+### Enunciado
+¿Qué proposición subordinada adverbial aparece en el período "El acceso al campus mejoró mucho porque se inauguraron nuevos caminos peatonales"?
+
+### Opciones
+- [x] A) La proposición causal "porque se inauguraron nuevos caminos peatonales".
+  <!-- feedback: Es correcta porque el nexo "porque" introduce una proposición que expresa la razón o causa de la mejora del acceso al campus. -->
+- [ ] B) La proposición final "para que los estudiantes lleguen más rápido".
+  <!-- feedback: Ningún nexo de finalidad aparece en el período, y la proposición propuesta ni siquiera pertenece al enunciado; una final expresa el objetivo, no la causa. -->
+- [ ] C) La proposición condicional "si el municipio invierte más".
+  <!-- feedback: No existe nexo condicional ni proposición hipotética: el hecho se presenta como causa comprobada de la mejora y no como una condición posible. -->
+- [ ] D) La proposición consecutiva "por lo que el acceso mejoró".
+  <!-- feedback: La relación expresada es de causa y no de consecuencia: la proposición con "porque" introduce la razón, mientras que la consecuencia es lo que afirma la proposición principal. -->
+
+### Explicacion Pedagogica
+Las proposiciones subordinadas adverbiales completan la proposición principal con una circunstancia de tiempo, lugar, modo, causa, efecto, condición, finalidad, concesión, comparación o compañía. Su nexo es la pista principal para identificarlas: porque, puesto que y ya que señalan causa; por lo cual y por eso, consecuencia; cuando, mientras, antes y después, tiempo; si, salvo y a menos que, condición; para que y a fin de que, finalidad; aunque y a pesar de que, concesión. En el período propuesto el nexo "porque" es inequívoco y permite clasificar la subordinada como causal. Identificar el valor del nexo es más seguro que suponerlo por el sentido, porque una misma construcción puede cambiar de valor según la estructura.
+
+## Question 4 [D3-D4]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v4
+**Bloom:** Remember
+**ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.90
+**Contexto:** La profesora de Barranquilla lee en voz alta un texto sobre la historia de un barrio y pide a sus estudiantes que señalen cuál proposición sostiene a las demás.
+
+### Enunciado
+En el período "El proyecto que fue presentado por el colegio fue aprobado por la junta", ¿cuál es la proposición principal?
+
+### Opciones
+- [x] A) "El proyecto que fue presentado por el colegio fue aprobado por la junta", porque es la que se sostiene por sí sola.
+  <!-- feedback: Es correcta porque es la proposición que puede sostenerse sin la subordinada y de la que dependen las demás; el relativo solo añade una característica sobre el proyecto. -->
+- [ ] B) "que fue presentado por el colegio", porque es la proposición más larga del período.
+  <!-- feedback: Usa la longitud como criterio, y ese dato formal no determina la jerarquía sintáctica: lo que define la principal es su autonomía de sentido. -->
+- [ ] C) "por el colegio", porque es el agente de la acción definida.
+  <!-- feedback: Describe un sintagma preposicional, que no tiene verbo conjugado ni sentido autónomo, por lo que no puede ser una proposición. -->
+- [ ] D) "que fue presentado por el colegio fue aprobado por la junta", porque contiene dos verbos conjugados.
+  <!-- feedback: Cuenta verbos en lugar de reconocer la estructura: la principal es la única que se sostiene sola, y el segundo verbo pertenece a la proposición principal. -->
+
+### Explicacion Pedagogica
+La proposición principal es aquella que no depende sintácticamente de ninguna otra dentro del período y que, por eso, puede sostenerse por sí sola. Toda proposición subordinada necesita de ella para que el conjunto tenga sentido completo. El procedimiento más seguro consiste en cubrir la proposición subordinada, terminar la propuesta con el verbo principal y comprobar si el resultado conserva sentido y concordancia. En el período de la pregunta, al retirar la proposición adjetiva queda "El proyecto fue aprobado por la junta", que es una oración completa, mientras que "que fue presentado por el colegio" no significa nada por sí solo. Ese criterio de dependencia resuelve la mayor parte de los ítems sobre jerarquía de proposiciones.
+
+## Question 5 [D5-D6]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v5
+**Bloom:** Understand
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
+**Contexto:** El equipo de orientación de un colegio de Bogotá analiza un boletín de prensa y pide a los estudiantes que expliquen qué modifica la proposición.
+
+### Enunciado
+¿A qué elemento de la proposición principal modifica la proposición "que se inauguraron nuevos senderos peatonales" en el período "Los senderos peatonales se construyeron porque se inauguraron nuevos senderos peatonales"?
+
+### Opciones
+- [x] A) Modifica el sentido de toda la proposición principal, al explicar la causa de la construcción de los senderos.
+  <!-- feedback: Es correcta porque la proposición introducida por "porque" expresa el motivo de la construcción y funciona como subordinada adverbial causal. -->
+- [ ] B) Sustituye al sujeto de la proposición principal, por lo que la oración queda sin núcleo.
+  <!-- feedback: Elimina el sujeto equivocadamente: el sujeto sigue siendo "Los senderos peatonales" y la proposición causal no ocupa esa función. -->
+- [ ] C) Sustituye al objeto directo, porque comparte la función gramátical del sustantivo repetido.
+  <!-- feedback: Confunde la posición del sustantivo repetido con la función de la proposición: el nexo causal determina que sea una circunstancia, no un complemento. -->
+- [ ] D) Desempeña la función de atributo, porque identifica al sujeto de la construcción.
+  <!-- feedback: La función de atributo corresponde a sustantivos, adjetivos o infinitivos que predican una cualidad, no a proposiciones encabezadas por un nexo causal. -->
+
+### Explicacion Pedagogica
+Cuando una proposición subordinada adverbial se une a la principal mediante un nexo de causa, no se limita a describir una acción: modifica el valor de la afirmación principal y le añade un motivo. Eso se reconoce preguntando qué palabra de la principal queda respondida por la subordinada. En este caso responde a por qué se construyeron los senderos, de modo que la proposición principal queda ampliada en su justificación. A diferencia de la adjetiva, que se integra dentro de un sintagma nominal, la adverbial ocupa un lugar exterior y constituye una unidad cerrada que puede trasladarse al final del período. Reconocer que modifica el conjunto y no una palabra aislada distingue el análisis correcto de un simple conteo de nexos.
+
+## Question 6 [D5-D6]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v6
+**Bloom:** Understand
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
+**Contexto:** En el periódico de la región, una nota de Soacha informa que el gerente de la empresa de energía declaró que el proyecto solar está listo.
+
+### Enunciado
+En el período "El gerente de la empresa declaró que el proyecto de energía solar está listo", ¿qué función sintáctica cumple la proposición "que el proyecto de energía solar está listo"?
+
+### Opciones
+- [x] A) Es una proposición subordinada sustantiva que funciona como objeto directo de "declaró".
+  <!-- feedback: Es correcta porque la proposición introducida por "que" expresa el contenido de lo declarado y ocupa la función de objeto directo. -->
+- [ ] B) Es una proposición subordinada sustantiva que funciona como sujeto del período.
+  <!-- feedback: El sujeto del período es "El gerente de la empresa"; la proposición no ocupa la posición inicial ni tiene núcleo propio que concuerde. -->
+- [ ] C) Es una proposición subordinada adjetiva porque modifica al antecedente "proyecto de energía solar".
+  <!-- feedback: No hay antecedente al que se refiera el relativo: la proposición depende de un verbo principal y no se integra en un sintagma nominal. -->
+- [ ] D) Es una proposición subordinada adverbial temporal porque delimita el momento de la declaración.
+  <!-- feedback: No existe nexo temporal en el período, y "que" introduce aquí el contenido de lo declarado y no una circunstancia de tiempo. -->
+
+### Explicacion Pedagogica
+Los verbos de acción, pensamiento o habla, como declarar, afirmar, recordar, suponer, denunciar o preguntar, suelen llevar como complemento una proposición subordinada sustantiva que muestra el contenido de esa acción. Esa proposición ocupa la función de objeto directo y resulta obligatoria para que la principal tenga sentido completo. Un procedimiento práctico consiste en preguntarse qué sustituye la proposición: en este caso reemplaza a algo como "eso", porque "declaró eso" sí tiene sentido, mientras que la proposición principal sola resulta truncada. Cuando el verbo principal exige ese contenido, la subordinación sustantiva deja de ser un adorno y se convierte en un elemento estructural de la oración.
+
+## Question 7 [D5-D6]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento
+**Expected_Success:** 0.80
+**Contexto:** Un docente de Armenia aplica una ficha de análisis a los estudiantes del municipio y propone trabajar con modos verbales no personales.
+
+### Enunciado
+¿Qué clase y función tiene la proposición "viajar por el río Magdalena" en el período "Los estudiantes del grupo de senderismo planean viajar por el río Magdalena"?
+
+### Opciones
+- [x] A) Es una proposición subordinada sustantiva en infinitivo que funciona como objeto directo de "planean".
+  <!-- feedback: Es correcta porque la proposición en infinitivo expresa el contenido de lo planeado y ocupa la función de objeto directo del verbo principal. -->
+- [ ] B) Es una proposición subordinada sustantiva en infinitivo que funciona como sujeto del período.
+  <!-- feedback: El sujeto es "Los estudiantes del grupo de senderismo"; la proposición en infinitivo no ocupa la posición inicial ni tiene núcleo que le concuerde. -->
+- [ ] C) Es una proposición subordinada adjetiva que caracteriza al antecedente "río Magdalena".
+  <!-- feedback: Confunde un infinitivo con un relativo: el infinitivo no tiene antecedente y aquí no aparece ningún relativo que lo introduzca. -->
+- [ ] D) Es una proposición subordinada adverbial final que expresa el propósito de la caminata.
+  <!-- feedback: Expresa el contenido de un plan y no un objetivo: para expresar finalidad se necesita un nexo como "para" o "a fin de", que no aparece aquí. -->
+
+### Explicacion Pedagogica
+Los modos no personales del verbo, es decir, el infinitivo, el gerundio y el participio, pueden encabezar proposiciones subordinadas, y en el caso del infinitivo la clase resultante es siempre sustantiva porque la acción nominalizada ocupa el lugar de un sustantivo. Cuando el infinitivo depende de un verbo que expresa deseo u obligación, como querer, decidir, esperar, necesitar, planear o intentar, normalmente funciona como objeto directo: planear viajar es igual a planear un viaje. Cuando depende de un verbo de proceso mental, como creer, pensar o suponer, funciona como sujeto, y eso se comprueba porque el verbo principal concuerda en singular con la acción. Dominar esta distinción es fundamental porque una misma forma verbal cambia de función según el verbo al que se liga.
+
+## Question 8 [D5-D6]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v8
+**Bloom:** Apply
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
+**Contexto:** En el archivo de prensa de Villavicencio se lee una crónica donde la autora combina modos verbales no personales.
+
+### Enunciado
+En el período "Los árboles del parque fueron transplantados por los viveros de la región", ¿qué tipo de proposición subordinada forma la expresión "fueron transplantados"?
+
+### Opciones
+- [x] A) Es una proposición subordinada adjetiva de participio, porque caracteriza al antecedente "los árboles del parque".
+  <!-- feedback: Es correcta porque el participio con valor pasivo integra la proposición dentro del sintagma nominal y lo caracteriza, y su núcleo es el antecedente "árboles". -->
+- [ ] B) Es una proposición subordinada sustantiva, porque el participio funciona como un sustantivo abstracto.
+  <!-- feedback: Confunde la forma del participio con su función: al llevar el verbo ser y tener valor pasivo, la proposición se integra en el sintagma nominal y es adjetiva. -->
+- [ ] C) Es una proposición subordinada adverbial pasiva, porque el participio indica una circunstancia.
+  <!-- feedback: Reduce la clasificación a un solo criterio: el participio pasivo no expresa una circunstancia de tiempo, lugar ni causa, sino que caracteriza al antecedente. -->
+- [ ] D) Es una frase nominal, porque el participio no forma una proposición completa por sí mismo.
+  <!-- feedback: Niega la existencia de la proposición: el participio, cuando es transitivo y tiene núcleo, sí puede encabezar una subordinada adjetiva dentro de un sintagma nominal. -->
+
+### Explicacion Pedagogica
+Las formas del participio pueden encabezar dos tipos de proposición subordinada, y distinguirlos es parte esencial del análisis. Cuando el participio lleva el verbo ser y tiene valor pasivo, la proposición se integra dentro de un sintagma nominal y funciona como adjetiva: "los árboles transplantados por los viveros". En ese caso el núcleo es el antecedente, con el cual el participio concuerda en número y género. Cuando el participio aparece con el verbo tener y valor activo, la proposición es sustantiva, porque el conjunto se comporta como una unidad con sentido de sustantivo. Aunque el resultado formal se parezca, la función dentro del período es muy distinta, y equivocarse lleva a identificar mal el núcleo del sintagma.
+
+## Question 9 [D5-D6]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.80
+**Contexto:** Un docente de Bogotá explica a sus estudiantes la diferencia entre el conector "aunque" y la expresión "a pesar de que".
+
+### Enunciado
+¿Cuál es la distribución correcta de las proposiciones en el período "A pesar de que llovía, la señora de Tunjuel salió a caminar"?
+
+### Opciones
+- [x] A) "A pesar de que llovía" es una subordinada adverbial concessiva y la otra proposición es la principal.
+  <!-- feedback: Es correcta porque la expresión con nexo de concesión se opone a la principal, y la principal conserva su sentido completo al quedar por sí sola. -->
+- [ ] B) "A pesar de que llovía" es una subordinada sustantiva y la otra proposición es la adjetiva.
+  <!-- feedback: Invierte las clases: la proposición con nexo de concesión es adverbial, y la otra, al sostenerse sola, es la principal y no una adjetiva. -->
+- [ ] C) "A pesar de que llovía" es la principal y la otra proposición es una subordinada causal.
+  <!-- feedback: Contradice el criterio de dependencia: la principal no contiene un nexo de concesión, y la otra proposición sí se sostiene sola. -->
+- [ ] D) Ambas proposiciones son coordinadas, porque el nexo solo establece una relación de sentido.
+  <!-- feedback: Reduce toda relación a coordinación: el nexo "a pesar de que" exige subordinación, y la primera proposición depende de la segunda. -->
+
+### Explicacion Pedagogica
+La proposición subordinada adverbial concessiva es la que expresa un obstáculo a la afirmación principal: admite que la principal se cumple pese a una condición contraria. Su nexo puede ser "aunque", "a pesar de que", "si bien", "si quiera" o "con todo", y lo característico es que la proposición principal conserva su sentido completo aunque se retire la subordinada. En el ejemplo, "la señora de Tunjuel salió a caminar" podría afirmarse sin la frase de concesión, y esto es justamente lo que prueba que es la principal. En cambio, "a pesar de que llovía" no significa nada por sí sola. Identificar el valor del nexo evita confundir una proposición por subordinación con una oración copulativa o con una coordinación.
+
+## Question 10 [D5-D6]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento
+**Expected_Success:** 0.80
+**Contexto:** La secretaría de Tunja requiere registrar el hallazgo del proyecto y la relación entre el fin y la construcción en la ficha de seguimiento de la semana 24.
+
+### Enunciado
+En el período "Para que los residentes tengan un espacio recreativo, el municipio construyó un parque", ¿qué proposición es la principal y por qué?
+
+### Opciones
+- [x] A) "El municipio construyó un parque", porque se sostiene sola y sostiene a la otra.
+  <!-- feedback: Es correcta porque la proposición con el verbo "construyó" tiene sentido completo y la proposición con nexo final queda incompleta sin ella. -->
+- [ ] B) "Para que los residentes tengan un espacio recreativo", porque aparece al principio del período.
+  <!-- feedback: Aplica un criterio formal falso: la posición inicial no determina la jerarquía, y una proposición con nexo final no puede sostenerse sola. -->
+- [ ] C) "El municipio construyó un parque", porque es la proposición subordinada sustantiva del período.
+  <!-- feedback: Confunde la posición de principal con la clase de subordinada: la proposición que sostiene al resto no es una subordinada sustantiva. -->
+- [ ] D) "Para que los residentes tengan un espacio recreativo", porque es la proposición que responde qué construyó el municipio.
+  <!-- feedback: Atribuye la función de objeto directo a una proposición con nexo de finalidad, que expresa el objetivo y no el contenido de una acción. -->
+
+### Explicacion Pedagogica
+La proposición principal es la unidad de la que dependen todas las subordinadas del período, y su identificación se hace por el criterio de la autonomía sintáctica, no por su extensión ni por su posición. En un período con nexo de finalidad como "para que", la proposición introductora no tiene sentido completo porque le falta aquello de lo que es fin, de modo que obligatoriamente se apoya en otra proposición. En el ejemplo, al retirar el nexo y su proposición queda "el municipio construyó un parque", que es una oración completa con sujeto y predicado. Verificar el sentido propio de cada proposición, una por una, es la técnica más segura para separar la principal de las subordinadas.
+
+## Question 11 [D7-D8]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v11
+**Bloom:** Analyze
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.70
+**Contexto:** Un equipo de auditoría de Sincelejo escribe un informe donde se combinan dos proposiciones subordinadas adjetivas en un mismo período.
+
+### Enunciado
+En el período "El informe que presentó la auditoría tendrá en cuenta las conclusiones a las que llegaron los expertos de la región", ¿cuál es el análisis más preciso de las dos proposiciones subordinadas?
+
+### Opciones
+- [x] A) "que presentó la auditoría" es adjetiva y modifica "informe"; "a las que llegaron los expertos" es adjetiva y modifica "conclusiones".
+  <!-- feedback: Es correcta porque ambas proposiciones se integran en sintagmas nominales y sus relativos, "que" y "a las que", concuerdan con los antecedentes correspondientes. -->
+- [ ] B) "que presentó la auditoría" es sustantiva y "a las que llegaron los expertos" es adjetiva.
+  <!-- feedback: Clasifica mal la primera proposición: al modificar el antecedente "informe" dentro de un sintagma nominal, es adjetiva y no sustantiva. -->
+- [ ] C) "que presentó la auditoría" y "a las que llegaron los expertos" son ambas sustantivas.
+  <!-- feedback: Reduce toda subordinación a la clase sustantiva y desconoce el papel del antecedente, que es el criterio que define a la adjetiva. -->
+- [ ] D) "a las que llegaron los expertos" es sustantiva porque su antecedente aparece con preposición.
+  <!-- feedback: Confunde la función del antecedente con la de la proposición: un antecedente con preposición no convierte la subordinada en sustantiva, sigue siendo adjetiva. -->
+
+### Explicacion Pedagogica
+Un mismo período puede reunir varias proposiciones subordinadas de distinta clase, y el análisis consiste en determinar una por una su función. La pista decisiva para clasificar una adjetiva es la presencia de un antecedente al que el relativo se refiera dentro de la proposición principal. En este caso, "que" se refiere a "informe" y "a las que" se refiere a "conclusiones", y ambos relativos concuerdan en número y género con esos sustantivos. Cuando el relativo lleva artículo, como en "las que", la concordancia con el antecedente plural confirma la clasificación. Distinguir las dos clases evita el error más común: leer la subordinada como sustantiva solo porque aparece un relativo, cuando la función depende del antecedente y no de la forma.
+
+## Question 12 [D7-D8]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.70
+**Contexto:** Un investigador de Tunja construye un texto donde anida proposiciones para explicar la relación entre turismo y empleo.
+
+### Enunciado
+Analice la estructura del período "Cuando termine la temporada de lluvias, los operadores turísticos que publiquen los resultados abrirán la estación."
+
+### Opciones
+- [x] A) "Cuando termine la temporada de lluvias" es adverbial temporal y "que publiquen los resultados" es adjetiva que modifica "operadores turísticos".
+  <!-- feedback: Es correcta porque la primera proposición expresa tiempo y la del relativo se integra en un sintagma nominal, y ninguna de las dos puede sostenerse sola. -->
+- [ ] B) "Cuando termine la temporada de lluvias" es sustantiva sujeto y "que publiquen los resultados" es sustantiva objeto directo.
+  <!-- feedback: Descoloca ambas clases: la primera tiene nexo temporal y la segunda tiene antecedente, de modo que atribuirles funciones de sustantivo altera la jerarquía. -->
+- [ ] C) Las dos proposiciones son adverbiales, porque ambas pueden trasladarse al final del período.
+  <!-- feedback: Reduce a una sola clase: una adjetiva no puede desprenderse del sintagma nominal sin cambiar el sentido, porque forma parte de su núcleo. -->
+- [ ] D) "que publiquen los resultados" es la principal, porque su verbo está en modo personal.
+  <!-- feedback: Aplica un criterio formal falso: que el verbo esté en modo personal no determina la jerarquía, y la principal sigue siendo la que se sostiene sola. -->
+
+### Explicacion Pedagogica
+Los períodos largos suelen reunir una subordinada adverbial y una adjetiva, y a veces más de una de cada clase, lo que hace necesario un análisis ordenado: primero se identifica la proposición principal, luego se separa cada subordinada con su nexo y, por último, se asigna la clase. En este caso, la proposición principal es la que afirma que los operadores turísticos abrirán la estación. El orden en que aparecen las proposiciones no indica jerarquía, porque las adverbiales pueden ir al principio, al final o intercaladas, mientras que las adjetivas quedan siempre fijadas dentro de su sintagma nominal. Un análisis correcto, paso a paso, es la base del método que exige la prueba.
+
+## Question 13 [D7-D8]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.70
+**Contexto:** Un equipo de investigación de Cúcuta construye una gráfica semanal con datos oficiales y redacta una conclusión para el informe local.
+
+### Enunciado
+En el período "Según la secretaría de convocatoria, la secretaría sostiene ese dato sobre la violencia en el barrio Kennedy", ¿qué función cumple la proposición "según la secretaría de convocatoria"?
+
+### Opciones
+- [x] A) Es una proposición subordinada sustantiva que ocupa el lugar del objeto directo y se ubica detrás del verbo principal.
+  <!-- feedback: Es correcta porque la proposición sustituye al objeto directo del verbo "sostiene" y llega precedida por el nexo "según", con valor de fuente o fundamento. -->
+- [ ] B) Es una proposición subordinada sustantiva que debe estar delante del verbo para ser válida.
+  <!-- feedback: Aplica una restricción de posición inexistente: las proposiciones de objeto pueden aparecer antes o después del verbo, y su colocación final es válida. -->
+- [ ] C) Es una proposición subordinada adjetiva, porque modifica a la secretaría de convocatoria.
+  <!-- feedback: Desvía la dirección de la modificación: la proposición no se integra en un sintagma nominal, sino que ocupa una función de sustantivo. -->
+- [ ] D) Es una proposición subordinada adverbial causal, porque explica la causa de la violencia en el barrio Kennedy.
+  <!-- feedback: Confunde el valor del nexo con la relación expresada: "según" indica la fuente del dato, no la causa del hecho descrito. -->
+
+### Explicacion Pedagogica
+Las proposiciones subordinadas sustantivas pueden aparecer en cualquier posición del período, y su función se comprueba por el elemento de la principal al que sustituyen. En el ejemplo, la proposición introducida por "según" ocupa la posición que ocuparía el objeto directo del verbo "sostiene", y esto se verifica sustituyéndola por un sustantivo: "la secretaría sostiene ese dato" o "sostiene aquello". El nexo "según" no modifica un antecedente ni expresa una circunstancia temporal o causal, de modo que no da lugar a una adjetiva ni a una adverbial. Los ítems que exigen identificar la función se resuelven con este método de sustitución, más seguro que clasificar solo por el aspecto del nexo.
+
+## Question 14 [D7-D8]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento
+**Expected_Success:** 0.70
+**Contexto:** La redacción de un ensayo de opinión en Neiva trabaja esta semana la subordinación adjetiva y su núcleo.
+
+### Enunciado
+En el período "Los becarios de la fundación que seleccionó el comité arrancaron la investigación de campo", ¿qué función sintáctica tiene la proposición "que seleccionó el comité"?
+
+### Opciones
+- [x] A) Es una proposición subordinada adjetiva cuyo núcleo es "becarios" y que modifica el antecedente dentro del sintagma nominal.
+  <!-- feedback: Es correcta porque la proposición se integra en el sintagma nominal "Los becarios de la fundación" para caracterizarlo, y el relativo concuerda con ese antecedente. -->
+- [ ] B) Es una proposición subordinada sustantiva que funciona como objeto directo del verbo "arrancaron".
+  <!-- feedback: Descoloca la función: la proposición modifica un antecedente y no completa al verbo principal, de modo que no puede ser objeto directo. -->
+- [ ] C) Es una proposición subordinada sustantiva que funciona como sujeto del verbo "seleccionó".
+  <!-- feedback: El sujeto del verbo "seleccionó" es "el comité", que se mantiene con su artículo, y la proposición no ocupa la función de sujeto. -->
+- [ ] D) Es una proposición subordinada adverbial causal, porque explica la causa de la selección.
+  <!-- feedback: No hay nexo de causa ni relación temporal o final: el relativo "que" solo introduce una modificación del antecedente. -->
+
+### Explicacion Pedagogica
+Cuando un relativo se integra dentro de un sintagma nominal, la proposición es adjetiva y su núcleo es el antecedente. Esa es la diferencia de fondo con la proposición sustantiva: el relativo no la ubica en el lugar de un sustantivo dentro de la proposición principal, sino dentro del grupo de palabras que determina a otro sustantivo. En el período propuesto, "Los becarios de la fundación" es un sintagma nominal y "que seleccionó el comité" lo caracteriza, delimitando el grupo de becarios sin añadir un dato nuevo a la proposición principal. Retirar la subordinada deja el sintagma nominal sin determinación, y ese contraste revela que la proposición es accesoria al sintagma y no al período entero.
+
+## Question 15 [D7-D8]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.70
+**Contexto:** Un periodista de Ibagué construye un párrafo que combina una subordinada sustantiva con una adverbial temporal.
+
+### Enunciado
+Considere el período "Cuando la empresa presenta el reporte, la contadora asegura que las cifras fueron publicadas por la auditoría externa".
+
+### Opciones
+- [x] A) La principal es "la contadora asegura que las cifras fueron publicadas por la auditoría externa" y la sustantiva con "que" es su objeto directo.
+  <!-- feedback: Es correcta porque la proposición con "que" no depende de ninguna otra y sostiene a la temporal, mientras que la proposición con relativo completa lo asegurado. -->
+- [ ] B) La principal es "Cuando la empresa presenta el reporte" y la proposición con "que" es una subordinada adverbial.
+  <!-- feedback: Invierte la jerarquía: la proposición con "que" necesita de la otra para completarse y no puede sostenerse por sí sola como principal. -->
+- [ ] C) Ambas proposiciones son coordinadas, porque el nexo "cuando" solo introduce una relación de tiempo.
+  <!-- feedback: Reduce la relación a coordinación, cuando la proposición temporal depende de la principal y no se sostiene por sí misma. -->
+- [ ] D) La proposición con "que" es adjetiva, porque modifica a un antecedente implícito.
+  <!-- feedback: Una adjetiva exige un antecedente identificable; aquí la proposición con "que" depende de un verbo y ocupa la función de objeto directo. -->
+
+### Explicacion Pedagogica
+Cuando un período contiene una subordinada adverbial temporal y una sustantiva, el orden de aparición no determina la jerarquía. La proposición que se sostiene por sí sola es la principal, y las otras dependen de ella, sin importar si aparecen al principio, en medio o al final. En el caso del enunciado, al retirar la proposición con "que" se obtiene "la contadora asegura", que puede completarse con cualquier complemento, y al retirar la temporal se obtiene un período completo que conserva su sentido. La proposición temporal interviene como una circunstancia que sitúa en el tiempo la escena de la acción principal, y no la reemplaza ni la explica.
+
+## Question 16 [D7-D8]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**ICFES:** Estrategias de lectura
+**Expected_Success:** 0.70
+**Contexto:** Un equipo editorial de Popayán prepara un especial sobre salud auditiva adolescente con un texto que ordena hechos en el tiempo.
+
+### Enunciado
+En el período "Al terminar la jornada escolar, los estudiantes visitaron la ludoteca que la comunidad rehabilitó en marzo", ¿cuál es el análisis correcto?
+
+### Opciones
+- [x] A) "Al terminar la jornada escolar" es una subordinada adverbial temporal y "que la comunidad rehabilitó en marzo" es una adjetiva que modifica "ludoteca".
+  <!-- feedback: Es correcta porque la proposición iniciada por "al" expresa tiempo y la del relativo se integra en el sintagma nominal "la ludoteca" para caracterizarlo. -->
+- [ ] B) "Al terminar la jornada escolar" es una subordinada sustantiva sujeto y la proposición con "que" es la principal.
+  <!-- feedback: Descoloca ambas funciones: la proposición temporal no ocupa la posición de sujeto, y la del relativo depende del sustantivo antecedente. -->
+- [ ] C) "Al terminar la jornada escolar" es una adjetiva y la proposición con "que" es una adverbial causal.
+  <!-- feedback: Asigna clases que no se sostienen: no hay nexo causal ni antecedente en la proposición con "que", que es claramente adjetiva. -->
+- [ ] D) "Al terminar la jornada escolar" es una adjetiva y la proposición con "que" es una sustantiva objeto directo.
+  <!-- feedback: Confunde las dos clases: la proposición temporal es adverbial y la del relativo es adjetiva, porque se integra en el sintagma nominal. -->
+
+### Explicacion Pedagogica
+En los textos informativos la subordinación adverbial temporal suele aparecer al principio del período para situar la acción dentro de una línea de hechos, y ese rasgo se repite en las crónicas de la región. En el ejemplo, "Al terminar la jornada escolar" delimita el momento en que ocurre la visita, y su valor temporal se reconoce por la preposición "al" seguida de un infinitivo. La otra proposición, introducida por el relativo "que", se integra dentro del sintagma nominal "la ludoteca" y por eso es adjetiva, con núcleo en ese antecedente. Identificar el nexo de cada proposición y comprobar si tiene antecedente permite separar con seguridad ambas clases en el mismo período.
+
+## Question 17 [D9-D10]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.60
+**Contexto:** Una commission editorial de Cartagena evalúa la reescritura de un fragmento para mejorarlo sin alterar el sentido del original.
+
+### Enunciado
+Un editor propone convertir "Losaranges que plantaron los indígenas en la serranía se secoñ por la sequía" en una oración con proposición sustantiva. ¿Cuál reescritura cumple con esa exigencia?
+
+### Opciones
+- [x] A) "Losaranges que plantaron los indígenas en la serranía desaparecieron por la sequía", porque la proposición sustantiva se crea con el gerundio "desapareciendo".
+  <!-- feedback: Es correcta porque el gerundio "desapareciendo" se integra dentro de una proposición sustantiva y el sentido original se conserva intacto. -->
+- [ ] B) "Losaranges desaparecieron por la sequía", porque toda proposición con relativo se elimina al simplificar.
+  <!-- feedback: Elimina la subordinada en lugar de cambiar su clase, y de paso borra información relevante del texto original. -->
+- [ ] C) "Losaranges que plantaron los indígenas desaparecieron", porque la proposición se convierte en adjetiva por su posición.
+  <!-- feedback: Mantiene la clase original y además suprime un dato del período, de modo que no ejecuta la transformación solicitada. -->
+- [ ] D) "Cuando los indígenas plantaron los arranges, estos desaparecieron", porque toda subordinación se expresa con un nexo temporal.
+  <!-- feedback: Sustituye una clase por otra sin razón, porque la proposición temporal no ocupa la función de sustantivo que se exigía. -->
+
+### Explicacion Pedagogica
+Reescribir un período conservando el sentido pero cambiando la clase de una subordinada exige dominar las formas verbales que producen esa clase. La proposición subordinada sustantiva puede formarse con un infinitivo, un gerundio o un nominalizado, y en todos los casos ocupa la función de un sustantivo dentro de la principal. Por eso la reescritura correcta mantiene la información del original y convierte el contenido en una unidad con sentido de sustantivo, sin convertirlo en una circunstancia de tiempo ni eliminarlo. Un análisis correcto, hecho antes de reescribir, evita los dos errores más frecuentes: suprimir la subordinada o limitarse a cambiar el nexo por otro de la misma familia.
+
+## Question 18 [D9-D10]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v18
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento
+**Expected_Success:** 0.60
+**Contexto:** Un profesor de lengua castellana evalúa la calidad de un análisis gramátical hecho por un comité de grado 11 sobre un texto regional.
+
+### Enunciado
+Un equipo afirma que en "Aunque llovía, la señora partió" la proposición "la señora partió" es una subordinada sustantiva. ¿Cuál es la valoración correcta de ese análisis?
+
+### Opciones
+- [x] A) El análisis es incorrecto, porque esa proposición es la principal y se sostiene por sí sola, mientras que la del nexo "aunque" es la subordinada concessiva.
+  <!-- feedback: Es correcta porque el criterio de dependencia demuestra que la proposición afirmativa se sostiene sola y la otra necesita de ella para completarse. -->
+- [ ] B) El análisis es correcto, porque toda proposición que aparece después de un nexo es sustantiva.
+  <!-- feedback: Aplica una regla inexistente: la posición después de un nexo no determina la clase, y aquí la proposición afirmativa es la principal. -->
+- [ ] C) El análisis es incorrecto, pero porque las dos proposiciones son coordinadas y no hay subordinación.
+  <!-- feedback: Corrige un error astrology Comet introduce otro: existe subordinación, porque la proposición con "aunque" depende de la principal. -->
+- [ ] D) El análisis es correcto, porque el verbo "partió" está en modo personal y toda forma así es sustantiva.
+  <!-- feedback: Usa un criterio formal falso: el modo personal del verbo no convierte una proposición en sustantiva ni define su jerarquía. -->
+
+### Explicacion Pedagogica
+Evaluar un análisis gramátical ajeno exige aplicar el criterio de dependencia antes que cualquier impresión basada en la posición o en la forma verbal. La proposición que puede sostenerse por sí sola es la principal, y la que necesita de la otra para completarse es la subordinada. En el período del enunciado, la proposición que afirma que alguien partió conserva su sentido completo aunque se retire la frase que empieza con "aunque", de modo que es la principal, y la proposición introductoria del nexo es la subordinada adverbial concessiva. Ningún cambio de nexo, ni el hecho de que un verbo esté en modo personal, altera este criterio. Aplicar la prueba de cobertura es la forma más segura de aceptar o rechazar un análisis.
+
+## Question 19 [D9-D10]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v19
+**Bloom:** Evaluate
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.60
+**Contexto:** Una comisión de la secretaria de Educación departamental revisa la rúbrica con la que se evalúa un texto historiográfico escrito por estudiantes.
+
+### Enunciado
+La rúbrica propone el siguiente criterio: "Se reconoce el período con subordinación sustantiva, adjetiva y adverbial, y se explica la función de cada proposición". ¿Qué indicador de rúbrica evalúa mejor el cumplimiento de ese criterio?
+
+### Opciones
+- [x] A) Que el estudiante identifique cada proposición con su nexo, señale la principal por su autonomía y justifique la función de cada subordinada.
+  <!-- feedback: Es correcta porque el indicador exige los tres componentes del criterio: identificar, jerarquizar y justificar la función de cada proposición. -->
+- [ ] B) Que el estudiante cuente las proposiciones del período y las numere en orden de aparición.
+  <!-- feedback: Reduce la evaluación a un conteo, que no permite verificar la jerarquía ni la función de cada proposición subordinada. -->
+- [ ] C) Que el estudiante copie el período en su cuaderno con mayúscula inicial y con el nexo subrayado.
+  <!-- feedback: Evalúa la forma de transcripción y no el análisis gramátical solicitado por el criterio de la rúbrica. -->
+- [ ] D) Que el estudiante mencione que las subordinadas se dividen en sustantivas, adjetivas y adverbiales.
+  <!-- feedback: Comprueba solo el recuerdo de la clasificación, sin evidencia de que el estudiante la aplique a un período real. -->
+
+### Explicacion Pedagogica
+Un indicador de rúbrica debe ser observable, verificable y coherente con lo que el criterio de evaluación propone. Cuando el criterio pide reconocer las tres clases de subordinación y explicar su función, el indicador tiene que exigir evidencia concreta de ese reconocimiento en un texto determinado. En este caso, el indicador bien formulado incluye tres acciones observables: identificar cada proposición con su nexo, demostrar la autonomía de la principal y justificar la función de cada subordinada. Los indicadores que se limitan a contar proposiciones, transcribirlas o repetir la clasificación miden otra cosa, y por eso no permiten saber si el criterio se cumplió. La coherencia entre criterio e indicador es la clave de una evaluación válida.
+
+## Question 20 [D9-D10]
+**ID:** CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**ICFES:** Identificación de contenidos locales
+**Expected_Success:** 0.60
+**Contexto:** La semana 24 cierra con un ejercicio de cierre de unidad en un colegio de Valledupar: los estudiantes deben depurar un informe local construido con períodos subordinados.
+
+### Enunciado
+Un informe local afirma: "La Sequía en el río Magdalena, que ha reducido los caudales, obliga a los agricultores a cambiar de cultivo". ¿Cuál es la mejor valoración del período?
+
+### Opciones
+- [x] A) El período combina una proposición principal, una adjetiva que modifica "río Magdalena" y unaRIX la cláusula final, de modo que el informe usa correctamente la subordinación.
+  <!-- feedback: Es correcta porque el análisis identifica las tres proposiciones del período, la principal, la adjetiva con su antecedente y la adverbial final con su nexo. -->
+- [ ] B) El período presenta un error grave porque la proposición sustantiva depende directamente de un verbo, algo que la norma prohíbe.
+  <!-- feedback: Atribuye una prohibición inexistente: la relación entre un verbo y su proposición sustantiva es la forma más habitual de subordinación sustantiva. -->
+- [ ] C) El período presenta un error porque la proposición adjetiva debe ir siempre al final del período.
+  <!-- feedback: Fija una posición inexistente: la proposición adjetiva se integra en su sintagma nominal y no admite esa restricción de posición. -->
+- [ ] D) El período presenta un error porque el nexo relativo debe concordar con el verbo y no con el antecedente.
+  <!-- feedback: Invierte la concordancia: el relativo concuerda en número y género con su antecedente, no con el verbo de la proposición que introduce. -->
+
+### Explicacion Pedagogica
+Valorar un período de un informe local exige separar sus proposiciones y comprobar, una por una, la relación que cada una establece con la principal. En el ejemplo, la proposición que afirma que la sequía obliga a cambiar de cultivo es la principal porque se sostiene sola, la que empieza con "que ha reducido los caudales" es adjetiva porque se integra en el sintagma nominal y tiene como antecedente "río Magdalena", y la que empieza con "para" es adverbial final porque expresa el objetivo. La concordancia del relativo se comprueba con el antecedente, y la posición de una adjetiva está determinada por el sintagma que integra, no por una regla de posición al final. Este análisis completo es el que permite afirmar que el informe usa correctamente la subordinación.
