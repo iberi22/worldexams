@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas sobre nutrición para grado 9, alineadas con los
 **Contexto:** En la clase de educación física de un colegio de Pereira, la profesora prepara una maquete con los grupos de alimentos y pide relacionarlos con sus funciones.
 
 ### Enunciado
-Cuál es la función principal de los macronutrientes en la dieta?
+¿Cuál es la función principal de los macronutrientes en la dieta?
 
 ### Opciones
 - [x] A) Proveer la energía que el organismo necesita para sus funciones y aportar materiales para construir y reparar tejidos.
@@ -55,7 +55,7 @@ Los macronutrientes son los nutrientes que el organismo necesita en cantidades m
 deficiente cicatrización.
 
 ### Enunciado
-Un paciente presenta sangrado frecuente de las encías y cicatrización lenta de las heridas. Cuál de estas afirmaciones explica mejor esos síntomas?
+Un paciente presenta sangrado frecuente de las encías y cicatrización lenta de las heridas. ¿Cuál de estas afirmaciones explica mejor esos síntomas?
 
 ### Opciones
 - [ ] A) Que la dieta es deficiente en vitamina D, porque esa vitamina produce directamente la coagulación de la sangre.
@@ -78,7 +78,7 @@ Las vitaminas y los minerales cumplen funciones específicas y su deficiencia pr
 **Contexto:** En un proyecto de grado 9 de un colegio de Medellín, un grupo compara las etiquetas nutricionales de dos productos para decidir cuál consumir.
 
 ### Enunciado
-Dos productos muestran en su etiqueta, por porción de 30 g: el producto A, 250 kcal y 12 g de azúcar; el producto B, 90 kcal y 3 g de azúcar. Qué conclusión es correcta?
+Dos productos muestran en su etiqueta, por porción de 30 g: el producto A, 250 kcal y 12 g de azúcar; el producto B, 90 kcal y 3 g de azúcar. ¿Qué conclusión es correcta?
 
 ### Opciones
 - [ ] A) El producto A es mejor porque aporta más energía, y en la/pubertad toda la energía es beneficiosa.
@@ -101,7 +101,7 @@ La etiqueta nutricional es un documento que permite evaluar la composición de u
 **Contexto:** En un colegio de Villavicencio, un grupo diseña un almuerzo para un compañero que come en la casa y quiere una alimentación equilibrada.
 
 ### Enunciado
-Un almuerzo equilibrado debe combinar alimentos de varios grupos. Cuál de las siguientes combinaciones es la más adecuada?
+Un almuerzo equilibrado debe combinar alimentos de varios grupos. ¿Cuál de las siguientes combinaciones es la más adecuada?
 
 ### Opciones
 - [ ] A) Tortilla de papa y una arepa, porque los almidones provide energía suficiente para todo el día.
@@ -124,7 +124,7 @@ Una alimentación equilibrada combina alimentos de todos los grupos de la rueda 
 **Contexto:** En un examen médico escolar de un colegio de Bucaramanga, un estudiante de grado 9 presenta cansancio persistente y dificultad para concentrarse.
 
 ### Enunciado
-Un adolescente con dieta rica en carbohidratos y pobre en hierro presenta anemia. Por qué la anemia produce cansancio?
+Un adolescente con dieta rica en carbohidratos y pobre en hierro presenta anemia. ¿Por qué la anemia produce cansancio?
 
 ### Opciones
 - [x] A) Porque el hierro es necesario para formar la hemoglobina, que transporta el oxígeno a los tejidos, y su escasez reduce el aporte de oxígeno a las células.
@@ -147,7 +147,7 @@ El hierro es un mineral esencial porque forma parte del grupo hemo de la hemoglo
 **Contexto:** En un proyecto de grado 9 de un colegio de Cúcuta, un grupo registra la alimentación de tres días y busca identificar sus aciertos y vacíos.
 
 ### Enunciado
-Un grupo registra tres días de alimentación y observa que en todos ellos faltan frutas y verduras, aunque hay cereales, huevo y bebidas azucaradas. Qué análisis es el más adecuado?
+Un grupo registra tres días de alimentación y observa que en todos ellos faltan frutas y verduras, aunque hay cereales, huevo y bebidas azucaradas. ¿Qué análisis es el más adecuado?
 
 ### Opciones
 - [ ] A) La dieta es adecuada, porque comer una vez al día garantiza que la ingesta de nutrientes sea completa.
@@ -170,7 +170,7 @@ Analizar la propia alimentación es una herramienta de educación para la salud.
 **Contexto:** En una tienda del colegio de Bogotá, un grupo compara dos opciones de refrigerio y evalúa cuál conviene consumir con más frecuencia.
 
 ### Enunciado
-Un refreso de 355 ml aporta cerca de 150 kcal y 39 g de azúcar, mientras que una bebida de agua con fruta sin azúcar añadida aporta 5 kcal y 0 g de azúcar añadida. Qué conclusión es coherente con la información?
+Un refreso de 355 ml aporta cerca de 150 kcal y 39 g de azúcar, mientras que una bebida de agua con fruta sin azúcar añadida aporta 5 kcal y 0 g de azúcar añadida. ¿Qué conclusión es coherente con la información?
 
 ### Opciones
 - [ ] A) El refreso es mejor, porque sus 150 kcal ayudan a crecer durante la adolescencia.
@@ -193,7 +193,7 @@ Un mismo número de kilocalorías puede provenir de fuentes muy distintas. El re
 **Contexto:** En un aula de un colegio de Armenia, la profesora presenta la pirámide de la alimentación y pide justificar la posición de cada grupo.
 
 ### Enunciado
-En la pirámide de la alimentación, por qué los cereales y los tubérculos ocupan la base?
+En la pirámide de la alimentación, ¿por qué los cereales y los tubérculos ocupan la base?
 
 ### Opciones
 - [ ] A) Porque son el único grupo que puede consumirse en cualquier momento sin riesgo alguno.
@@ -213,10 +213,10 @@ La pirámide de la alimentación representa qué grupos de alimentos deben predo
 **Bloom:** Evaluate
 **ICFES:** Indagación
 **Expected_Success:** 0.70
-**Contexto:** En un trabajo de grado 9 de un colegio de Florencia, un grupo evalúa un anuncio de una bebida energetizante usando la etiqueta nutricional y el contexto de la salud.
+**Contexto:** En un trabajo de grado 9 de un colegio de Florencia, un grupo evalúa un anuncio de una bebida energizante usando la etiqueta nutricional y el contexto de la salud.
 
 ### Enunciado
-Un anuncio afirma que una bebida energetizante "aumenta la energía y aporta vitaminas para toda la jornada". Cómo debe evaluarse esa afirmación?
+Un anuncio afirma que una bebida energizante "aumenta la energía y aporta vitaminas para toda la jornada". ¿Cómo debe evaluarse esa afirmación?
 
 ### Opciones
 - [x] A) Es engañosa: si la bebida tiene mucho azúcar, su energía es simple y transitoria, y el cansancio que anuncia conocer suele deberse a la falta de sueño y a una dieta deficiente.
@@ -239,7 +239,7 @@ Un anuncio comercial debe evaluarse con criterios científicos, no con su mensaj
 **Contexto:** En una salida escolar a un centro de salud de un colegio de Florencia, un estudiante pregunta cómo se detecta la desnutrición infantil.
 
 ### Enunciado
-Un equipo de salud evalúa a un niño y encuentra que tiene bajo peso para su edad, estatura detenida y frecuentes infecciones. Qué problema nutricional presenta y por qué?
+Un equipo de salud evalúa a un niño y encuentra que tiene bajo peso para su edad, estatura detenida y frecuentes infecciones. Qué problema nutricional presenta y ¿por qué?
 
 ### Opciones
 - [ ] A) Sobrepeso, porque el bajo peso y la talla detenida indican que el niño consume demasiadas calorías.
@@ -262,7 +262,7 @@ La desnutrición se distingue de la sobrenutrición por el origen del problema: 
 **Contexto:** En un colegio de Tunja, la orientadora escolar prepara una charla sobre Troubles de la conducta alimentaria, y varios estudiantes participan.
 
 ### Enunciado
-En relación con la anorexia y la bulimia nerviosa, qué afirmación es científicamente correcta?
+En relación con la anorexia y la bulimia nerviosa, ¿qué afirmación es científicamente correcta?
 
 ### Opciones
 - [ ] A) La anorexia y la bulimia son la misma enfermedad, y la bulimia consiste en comerse todo lo que aparece en la nevera.
@@ -285,7 +285,7 @@ La anorexia nerviosa se caracteriza por una restricción persistente de la inges
 **Contexto:** En un proyecto de grado 9 de un colegio de Barrancabermeja, un grupo analiza el menú de la cafetería escolar y propone mejoras.
 
 ### Enunciado
-Un grupo estudia durante una semana el menú de la cafetería escolar y observa que la mayoría de los días ofrece embutidos, papas fritas y bebidas azucaradas. Qué propuesta es más coherente con una alimentación saludable?
+Un grupo estudia durante una semana el menú de la cafetería escolar y observa que la mayoría de los días ofrece embutidos, papas fritas y bebidas azucaradas. ¿Qué propuesta es más coherente con una alimentación saludable?
 
 ### Opciones
 - [ ] A) Aumentar la porción de papas fritas y reducir la de verduras, porque las papas fritas aportan más energía por gramo.

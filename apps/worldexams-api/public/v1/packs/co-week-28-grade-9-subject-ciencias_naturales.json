@@ -130,7 +130,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "La energía de un fotón está dada por la relación E = h · f, donde h es la constante de Planck y f es la frecuencia de la radiación. Sustituyendo los datos: 6,63 × 10⁻³⁴ J·s multiplicado por 5,0 × 10⁴ s⁻ da 3,315 × 10⁻¹⁹ J. Este resultado muestra dos ideas centrales: la energía lumínica es proporcional a la frecuencia, y los valores son extremadamente pequeños, del orden de 10⁻¹⁹ J, coherente con que una sola luz visible tenga una cantidad mínima de energía para afectar la materia.",
+      "explanation": "La energía de un fotón está dada por la relación E = h · f, donde h es la constante de Planck y f es la frecuencia de la radiación. Sustituyendo los datos: 6,63 × 10⁻³⁴ J·s multiplicado por 5,0 × 10¹⁴ s⁻¹ da 3,315 × 10⁻¹⁹ J. Este resultado muestra dos ideas centrales: la energía lumínica es proporcional a la frecuencia, y los valores son extremadamente pequeños, del orden de 10⁻¹⁹ J, coherente con que una sola luz visible tenga una cantidad mínima de energía para afectar la materia.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -158,7 +158,7 @@
         },
         {
           "letter": "B",
-          "text": "4,8 × 10¹⁴ Hz, y es la frecuencia mínima necesaria para que un fotón.extraiga electrones del metal.",
+          "text": "4,8 × 10¹⁴ Hz, y es la frecuencia mínima necesaria para que un fotón extraiga electrones del metal.",
           "is_correct": true,
           "feedback": "Correcto. Al dividir 3,2 × 10⁻¹⁹ J entre 6,63 × 10⁻³⁴ J·s se obtiene 4,8 × 10¹⁴ Hz, que es la frecuencia de corte."
         },

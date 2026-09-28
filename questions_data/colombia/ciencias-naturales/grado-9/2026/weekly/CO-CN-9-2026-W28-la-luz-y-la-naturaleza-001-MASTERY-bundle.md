@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 # Bundle MASTERY: La Luz y la Naturaleza
 
-Este bundle reúne 12 preguntas sobre la naturaleza de la luz para grado 9, alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 9. Examina la dualidad onda-partícula, el efecto fotoeléctrico y la función de trabajo de un metal, la energía de un fotón, la longitud de onda de de Broglie y las implicaciones de que la materia tenga comportamiento ondulatorio. El hilo conductor es que la teoría ondulatoria clásica no explica la emisión de electrones por una superficie iluminada.
+Este bundle reúne 12 preguntas sobre la naturaleza de la luz para grado 9, alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 9. Examina la dualidad onda-partícula, el efecto fotoeléctrico y la función de trabajo de un metal, la energía de un fotón, la longitud de onda de Broglie y las implicaciones de que la materia tenga comportamiento ondulatorio. El hilo conductor es que la teoría ondulatoria clásica no explica la emisión de electrones por una superficie iluminada.
 
 ## Question 1 [D3-D4]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v1
@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas sobre la naturaleza de la luz para grado 9, alin
 **Contexto:** En el laboratorio de física de un colegio de Cali, un grupo prepara una demostración sobre el funcionamiento de un panel fotovoltaico y pregunta qué es exactamente la luz.
 
 ### Enunciado
-Qué afirma la dualidad onda-partícula acerca de la naturaleza de la luz?
+¿Qué afirma la dualidad onda-partícula acerca de la naturaleza de la luz?
 
 ### Opciones
 - [x] A) Que la luz se comporta como onda en unos fenómenos y como partícula en otros, sin que ambas descripciones se excluyan.
@@ -54,7 +54,7 @@ La dualidad onda-partícula es el principio que unifica la óptica. El modelo on
 **Contexto:** En un colegio de Pereira, la profesora cuenta que en su casa el control remoto del televisor deja de funcionar cuando las pilas se agotan, y pregunta qué tiene que ver con la luz.
 
 ### Enunciado
-Un control remoto emite una señal que sí llega al televisor cuando tiene pilas nuevas, pero falla cuando las pilas se agotan. Qué explica mejor este comportamiento?
+Un control remoto emite una señal que sí llega al televisor cuando tiene pilas nuevas, pero falla cuando las pilas se agotan. ¿Qué explica mejor este comportamiento?
 
 ### Opciones
 - [ ] A) Que la luz del control remoto es una onda continua cuya intensidad depende del estado de las pilas, sin cambiar ninguna otra propiedad.
@@ -77,7 +77,7 @@ El receptor del control remoto es un dispositivo fotoeléctrico. Cuando un fotó
 **Contexto:** En un laboratorio escolar de Bogotá, un grupo calcula la energía de los fotones que llegan a un detector y consulta el valor de la constante de Planck.
 
 ### Enunciado
-Una radiación de frecuencia 5,0 × 10¹⁴ Hz ilumina una superficie. Tomando la constante de Planck h = 6,63 × 10⁻³⁴ J·s, cuál es la energía de cada fotón de esa radiación?
+Una radiación de frecuencia 5,0 × 10¹⁴ Hz ilumina una superficie. Tomando la constante de Planck h = 6,63 × 10⁻³⁴ J·s, ¿cuál es la energía de cada fotón de esa radiación?
 
 ### Opciones
 - [ ] A) 3,32 × 10⁻⁴⁸ J, porque hay que restar las potencias al dividir h entre f.
@@ -90,7 +90,7 @@ Una radiación de frecuencia 5,0 × 10¹⁴ Hz ilumina una superficie. Tomando l
   <!-- feedback: Incorrecto. La relación es E = h · f, no una división: al invertirla se obtiene un valor sin sentido físico. -->
 
 ### Explicacion Pedagogica
-La energía de un fotón está dada por la relación E = h · f, donde h es la constante de Planck y f es la frecuencia de la radiación. Sustituyendo los datos: 6,63 × 10⁻³⁴ J·s multiplicado por 5,0 × 10¹⁴ s⁻¹da 3,315 × 10⁻¹⁹ J. Este resultado muestra dos ideas centrales: la energía lumínica es proporcional a la frecuencia, y los valores son extremadamente pequeños, del orden de 10⁻¹⁹ J, coherente con que una sola luz visible tenga una cantidad mínima de energía para afectar la materia.
+La energía de un fotón está dada por la relación E = h · f, donde h es la constante de Planck y f es la frecuencia de la radiación. Sustituyendo los datos: 6,63 × 10⁻³⁴ J·s multiplicado por 5,0 × 10¹⁴ s⁻¹ da 3,315 × 10⁻¹⁹ J. Este resultado muestra dos ideas centrales: la energía lumínica es proporcional a la frecuencia, y los valores son extremadamente pequeños, del orden de 10⁻¹⁹ J, coherente con que una sola luz visible tenga una cantidad mínima de energía para afectar la materia.
 
 ## Question 4 [D5-D6]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v4
@@ -100,12 +100,12 @@ La energía de un fotón está dada por la relación E = h · f, donde h es la c
 **Contexto:** En un taller de física de un colegio de Medellín, un grupo prepara una experiencia con fotoceldas de metales distintos para medir su frecuencia de corte.
 
 ### Enunciado
-Una fotocelda tiene una función de trabajo de 2,0 eV, equivalente a 3,2 × 10⁻¹⁹ J. Cuál es su frecuencia de corte y qué significa físicamente?
+Una fotocelda tiene una función de trabajo de 2,0 eV, equivalente a 3,2 × 10⁻¹⁹ J. Cuál es su frecuencia de corte y ¿qué significa físicamente?
 
 ### Opciones
 - [ ] A) 2,0 × 10¹⁹ Hz, y es la frecuencia máxima que el metal puede absorber sin romperse.
   <!-- feedback: Incorrecto. Resulta de dividir la función de trabajo por el número de electrones, lo cual no corresponde a ninguna magnitud de la teoría fotoeléctrica. -->
-- [x] B) 4,8 × 10¹⁴ Hz, y es la frecuencia mínima necesaria para que un fotón.extraiga electrones del metal.
+- [x] B) 4,8 × 10¹⁴ Hz, y es la frecuencia mínima necesaria para que un fotón extraiga electrones del metal.
   <!-- feedback: Correcto. Al dividir 3,2 × 10⁻¹⁹ J entre 6,63 × 10⁻³⁴ J·s se obtiene 4,8 × 10¹⁴ Hz, que es la frecuencia de corte. -->
 - [ ] C) 2,1 × 10⁻¹⁴ Hz, y es la frecuencia a la que el metal deja de absorber luz.
   <!-- feedback: Incorrecto. Además de invertir la división, el valor está muchos órdenes de magnitud por debajo de las frecuencias de la luz visible. -->
@@ -123,7 +123,7 @@ La función de trabajo es la energía mínima necesaria para extrae un electrón
 **Contexto:** En el laboratorio de un colegio de Barranquilla, un grupo compara dos bombillos idénticos encendidos en el mismo circuito y luego repite el experimento con una luz más intensa.
 
 ### Enunciado
-En un experimento fotoeléctrico se mantienen la frecuencia y el metal, y se duplica la intensidad de la luz. Qué cambios se observan en los electrones emitidos?
+En un experimento fotoeléctrico se mantienen la frecuencia y el metal, y se duplica la intensidad de la luz. ¿Qué cambios se observan en los electrones emitidos?
 
 ### Opciones
 - [x] A) Aumenta el número de electrones emitidos por segundo, pero su energía cinética máxima no cambia.
@@ -146,7 +146,7 @@ El efecto fotoeléctrico separa claramente dos variables. La frecuencia de la lu
 **Contexto:** En el taller de un colegio de Ibagué, un grupo analiza la imagen de un patrón de interferencia obtenido en el laboratorio y lo relaciona con un modelo de la luz.
 
 ### Enunciado
-Un grupo de estudiantes observa en una pantalla franjas de luz y oscuridad obtenidas al hacer pasar luz por una doble rendija. Qué modelo de la luz es el pertinente para explicar ese resultado?
+Un grupo de estudiantes observa en una pantalla franjas de luz y oscuridad obtenidas al hacer pasar luz por una doble rendija. ¿Qué modelo de la luz es el pertinente para explicar ese resultado?
 
 ### Opciones
 - [ ] A) El modelo de fotones únicamente, porque cada fotón recorre una sola rendija y no puede crear franjas.
@@ -169,7 +169,7 @@ La doble rendija produce un patrón de franjas que solo se obtiene sumando las c
 **Contexto:** En un centro de investigación escolar de Bogotá, se prepara un microscopio electrónico y el grupo calcula la longitud de onda asociada a un haz de electrones.
 
 ### Enunciado
-Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s. Qué longitud de onda de de Broglie corresponde a esos electrones y qué indica ese resultado?
+Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s². Qué longitud de onda de de Broglie corresponde a esos electrones y ¿qué indica ese resultado?
 
 ### Opciones
 - [ ] A) 4,9 × 10⁷ m, y muestra que la longitud de onda de la materia es muy mayor que la de la luz visible.
@@ -179,10 +179,10 @@ Un haz de electrones de masa 9,11 × 10⁻³¹ kg se mueve a 1,5 × 10⁶ m/s. Q
 - [x] C) 4,9 × 10⁻¹⁰ m, y muestra que la materia en movimiento tiene un comportamiento ondulatorio detectable.
   <!-- feedback: Correcto. λ = h / (m · v) da 4,85 × 10⁻¹⁰ m, una longitud de onda del orden de la fracción de nanómetro, observable en un microscopio electrónico. -->
 - [ ] D) 1,4 × 10⁻²⁵ m, y muestra que los electrones son partículas sin ninguna propiedad ondulatoria.
-  <!-- feedback: Incorrecto. Ese valor sale de omitir la velocidad en el denominador, y contradice la hipótesis de de Broglie que se está calculando. -->
+  <!-- feedback: Incorrecto. Ese valor sale de omitir la velocidad en el denominador, y contradice la hipótesis de Broglie que se está calculando. -->
 
 ### Explicacion Pedagogica
-De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻³⁴ J·s dividido entre (9,11 × 10⁻³¹ kg × 1,5 × 10⁶ m/s) da 4,85 × 10⁻¹⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.
+De Broglie propuso que toda partícula en movimiento lleva asociada una longitud de onda dada por λ = h / (m · v). Sustituyendo: 6,63 × 10⁻³⁴ J·s dividido entre (9,11 × 10⁻³¹ kg × 1,5 × 10⁶ m/s²) da 4,85 × 10⁻¹⁰ m. Este valor corresponde a radiaciones de rayos X, y explica por qué un microscopio electrónico, que usa electrones en vez de fotones, alcanza resoluciones mucho mayores que un microscopio óptico. La dualidad, entonces, no es una curiosidad teórica: es la base del funcionamiento de microscopios electrónicos, que se usan en la investigación de materiales y en la medicina.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v8
@@ -192,7 +192,7 @@ De Broglie propuso que toda partícula en movimiento lleva asociada una longitud
 **Contexto:** En un clase de grado 9 de Valledupar, la profesora pide comparar el comportamiento de un electrón en dos experimentos distintos del laboratorio.
 
 ### Enunciado
-Un mismo haz de electrones pasa por una doble rendija y produce un patrón de interferencia, mientras que en un detector granular cada electrón se registra como un punto localizado. Qué conclusión es correcta?
+Un mismo haz de electrones pasa por una doble rendija y produce un patrón de interferencia, mientras que en un detector granular cada electrón se registra como un punto localizado. ¿Qué conclusión es correcta?
 
 ### Opciones
 - [ ] A) El detector granular deforma la trayectoria del electrón y por eso muestra puntos en lugar de franjas.
@@ -215,7 +215,7 @@ La experiencia de interferencia de electrones combina las dos descripciones en u
 **Contexto:** En un proyecto de grado 9 de Soacha, un grupo compara el comportamiento fotoeléctrico de dos metales y construye una gráfica de energía cinética contra frecuencia.
 
 ### Enunciado
-Un grupo registra la energía cinética máxima de los electrones emitidos en función de la frecuencia, para dos metales distintos. Qué interpretación de esas gráficas es correcta?
+Un grupo registra la energía cinética máxima de los electrones emitidos en función de la frecuencia, para dos metales distintos. ¿Qué interpretación de esas gráficas es correcta?
 
 ### Opciones
 - [x] A) Ambas gráficas son rectas con la misma pendiente e intercepto distinto, y cada intercepto corresponde a la función de trabajo del metal.
@@ -238,7 +238,7 @@ La representación gráfica de la energía cinética máxima frente a la frecuen
 **Contexto:** En una clase de física de un colegio de Sincelejo, se debate la validez de una afirmación sobre cómo se comporta la luz.
 
 ### Enunciado
-Un estudiante afirma que "la luz es una onda y nada más", y usa esa idea para explicar todos los fenómenos lumínicos. Cómo debe evaluarse esa afirmación?
+Un estudiante afirma que "la luz es una onda y nada más", y usa esa idea para explicar todos los fenómenos lumínicos. ¿Cómo debe evaluarse esa afirmación?
 
 ### Opciones
 - [ ] A) La afirmación es correcta, porque la teoría ondulatoria también explica la energía discreta de los fotones.
@@ -261,7 +261,7 @@ Evaluar una afirmación científica exige identificar su alcance. La teoría ond
 **Contexto:** En un hospital de Bucaramanga, un grupo de estudiantes de grado 9 visita el área de radiología y pregunta por el equipo que usa rayos X.
 
 ### Enunciado
-En un equipo de radiografía se usa un haz de electrones acelerados que choca contra un metal. Qué principio de la física cuántica explica que ese proceso produzca una radiación de alta frecuencia?
+En un equipo de radiografía se usa un haz de electrones acelerados que choca contra un metal. Qué principio de la física cuántica explica ¿que ese proceso produzca una radiación de alta frecuencia?
 
 ### Opciones
 - [ ] A) La primera ley de la termodinámica, porque la energía cinética del electrón se transforma en energía interna del metal.
@@ -274,7 +274,7 @@ En un equipo de radiografía se usa un haz de electrones acelerados que choca co
   <!-- feedback: Correcto. De Broglie asocia una longitud de onda al electrón acelerado, y su frenado en el metal genera radiación de muy alta frecuencia. -->
 
 ### Explicacion Pedagogica
-En un tubo de rayos X, los electrones acelerados por una diferencia de potencial alto chocan contra un objetivo metálico y se frenan bruscamente. Según la hipótesis de de Broglie, esos electrones en movimiento tienen una longitud de onda asociada muy corta, y la radiación emitida corresponde a ese comportamiento ondulatorio. La energía de la radiación depende de la diferencia de potencial aplicada, razón por la cual un equipo de mayor voltaje produce rayos más penetrantes. La aplicación hospitalaria de esta idea es muy directa: permite obtener imágenes del interior del cuerpo humano.
+En un tubo de rayos X, los electrones acelerados por una diferencia de potencial alto chocan contra un objetivo metálico y se frenan bruscamente. Según la hipótesis de Broglie, esos electrones en movimiento tienen una longitud de onda asociada muy corta, y la radiación emitida corresponde a ese comportamiento ondulatorio. La energía de la radiación depende de la diferencia de potencial aplicada, razón por la cual un equipo de mayor voltaje produce rayos más penetrantes. La aplicación hospitalaria de esta idea es muy directa: permite obtener imágenes del interior del cuerpo humano.
 
 ## Question 12 [D9-D10]
 **ID:** CO-CN-9-2026-W28-la-luz-y-la-naturaleza-001-MASTERY-bundle-v12
@@ -284,7 +284,7 @@ En un tubo de rayos X, los electrones acelerados por una diferencia de potencial
 **Contexto:** En el proyecto de investigación de un colegio de Quibdó, un equipo diseña una experiencia para relacionar la luz incidente con la corriente eléctrica medida en un circuito.
 
 ### Enunciado
-Un equipo conecta un fotodiodo a un circuito con un medidor de corriente y lo ilumina con dos lámparas: una de luz roja y otra de luz ultravioleta de igual potencia. Qué resultado esperado sería coherente con la teoría de los fotones?
+Un equipo conecta un fotodiodo a un circuito con un medidor de corriente y lo ilumina con dos lámparas: una de luz roja y otra de luz ultravioleta de igual potencia. ¿Qué resultado esperado sería coherente con la teoría de los fotones?
 
 ### Opciones
 - [ ] A) No se espera corriente en ninguno de los dos casos, porque solo las ondas de radio producen corriente eléctrica.

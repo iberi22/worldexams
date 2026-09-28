@@ -31,7 +31,7 @@ Este bundle reúne 12 preguntas de repaso para grado 9, alineadas con los DBA de
 **Contexto:** En una clase de grado 9 de Cali, la profesora presenta un mural con los sistemas del cuerpo y pide relacionar cada uno con su función.
 
 ### Enunciado
-Cuál es la función principal del sistema excretor en el cuerpo humano?
+¿Cuál es la función principal del sistema excretor en el cuerpo humano?
 
 ### Opciones
 - [x] A) Eliminar las sustancias de desecho del metabolismo y regular el equilibrio de agua y sales del organismo.
@@ -54,7 +54,7 @@ Los riñones, órganos principales del sistema excretor, filtran la sangre en un
 **Contexto:** En una clase de educación física de un colegio de Medellín, un estudiante explica por qué durante una carrera el cuerpo necesita varios sistemas trabajando juntos.
 
 ### Enunciado
-Durante una carrera, un músculo necesita más oxígeno y más glucosa que en reposo. Por qué se requiere la participación de varios sistemas?
+Durante una carrera, un músculo necesita más oxígeno y más glucosa que en reposo. ¿Por qué se requiere la participación de varios sistemas?
 
 ### Opciones
 - [ ] A) Porque solo el sistema muscular interviene, ya que los demás órganos son inmóviles y no participan.
@@ -77,7 +77,7 @@ El cuerpo humano funciona como un sistema integrado, en el que cada sistema apor
 **Contexto:** En el laboratorio de biología de un colegio de Tunja, un grupo observa cómo cambia el volumen torácico durante la inspiración en un modelo.
 
 ### Enunciado
-Durante la inspiración, el diafragma se contrae y se aplana. Qué cambio ocurre en los pulmones y cómo entra el aire?
+Durante la inspiración, el diafragma se contrae y se aplana. Qué cambio ocurre en los pulmones y ¿cómo entra el aire?
 
 ### Opciones
 - [ ] A) El volumen torácico aumenta, la presión se mantiene igual y el aire entra por difusión pasiva.
@@ -100,7 +100,7 @@ La ventilación pulmonar se explica por cambios en el volumen de la cavidad tor�
 **Contexto:** En un laboratorio de un colegio de Popayán, un grupo estudia cómo se transporta el oxígeno y el dióxido de carbono en la sangre.
 
 ### Enunciado
-De qué manera se transporta principalmente el oxígeno a los tejidos, y qué ocurre con el dióxido de carbono en el camino de regreso?
+De qué manera se transporta principalmente el oxígeno a los tejidos, y ¿qué ocurre con el dióxido de carbono en el camino de regreso?
 
 ### Opciones
 - [ ] A) Ambos gases viajan únicamente disueltos en el plasma, sin ningún vehículo proteico que los lleve.
@@ -113,7 +113,7 @@ De qué manera se transporta principalmente el oxígeno a los tejidos, y qué oc
   <!-- feedback: Incorrecto. El oxígeno se une a la hemoglobina de los glóbulos rojos, no de los blancos, y el dióxido de carbono no se transforma en glucosa. -->
 
 ### Explicacion Pedagogica
-La sangre transporta los gases gracias a mecanismos distintos. El oxígeno se une a la hemoglobina, la proteína roja de los glóbulos rojos, que puede transportar una cantidad de gas muy superior a la que cabría disuelta en el plasma. El dióxido de carbono sigue caminos diversos: una parte se disuelve en el plasma, otra se une a la hemoglobina y la mayor parte se transforma en bicarbonato dentro de los eritrocitos. En los.capilares pulmonares ambos gases se liberan y salen del organismo con la espiración.
+La sangre transporta los gases gracias a mecanismos distintos. El oxígeno se une a la hemoglobina, la proteína roja de los glóbulos rojos, que puede transportar una cantidad de gas muy superior a la que cabría disuelta en el plasma. El dióxido de carbono sigue caminos diversos: una parte se disuelve en el plasma, otra se une a la hemoglobina y la mayor parte se transforma en bicarbonato dentro de los eritrocitos. En los capilares pulmonares ambos gases se liberan y salen del organismo con la espiración.
 
 ## Question 5 [D5-D6]
 **ID:** CO-CN-9-2026-W35-repaso-sistemas-del-cuerpo-humano-001-MASTERY-bundle-v5
@@ -123,7 +123,7 @@ La sangre transporta los gases gracias a mecanismos distintos. El oxígeno se un
 **Contexto:** En una consulta de orientación escolar de un colegio de Barrancabermeja, se explica a un estudiante cómo el páncreas regula la glucemia después de una comida.
 
 ### Enunciado
-Después de comer, la glucosa en la sangre aumenta. Qué respuesta del páncreas permite que ese nivel vuelva a la normalidad?
+Después de comer, la glucosa en la sangre aumenta. Qué respuesta del páncreas permite ¿que ese nivel vuelva a la normalidad?
 
 ### Opciones
 - [x] A) Las células beta liberan insulina, que disminuye la glucemia al facilitar su entrada en las células y almacenar glucógeno.
@@ -146,7 +146,7 @@ La glucosa es la principal fuente de energía celular, y su concentración en la
 **Contexto:** En una clase de educación física de un colegio de Valledupar, un grupo analiza por qué aumenta la frecuencia cardiaca durante el esfuerzo.
 
 ### Enunciado
-Durante el ejercicio, la frecuencia cardiaca aumenta. Cuál es la explicación más completa de ese fenómeno?
+Durante el ejercicio, la frecuencia cardiaca aumenta. ¿Cuál es la explicación más completa de ese fenómeno?
 
 ### Opciones
 - [ ] A) Porque durante el ejercicio la sangre transporta menos oxígeno, y el corazón compensa Late lento cualquier aumento de la frecuencia.
@@ -169,7 +169,7 @@ La respuesta cardiaca al ejercicio es el resultado de la coordinación de varios
 **Contexto:** En un colegio de Villavicencio, un grupo estudia cómo el cuerpo mantiene estable su temperatura en un día frío de la sabana.
 
 ### Enunciado
-Un estudiante camina por un parque frío y su cuerpo mantiene una temperatura interna casi constante. Cómo se explica ese fenómeno?
+Un estudiante camina por un parque frío y su cuerpo mantiene una temperatura interna casi constante. ¿Cómo se explica ese fenómeno?
 
 ### Opciones
 - [ ] A) Mediante el aumento de la pérdida de calor por la piel, que compensa la baja temperatura del ambiente.
@@ -192,7 +192,7 @@ La homeostasis es la capacidad de los seres vivos de mantener estable su medio i
 **Contexto:** En un laboratorio de un colegio de Florencia, un grupo compara la formación de orina en condiciones de hidratación diferentes.
 
 ### Enunciado
-Un estudiante no ha bebido agua durante varias horas y luego toma varios litros. Qué cambio se espera en la orina producida por los riñones?
+Un estudiante no ha bebido agua durante varias horas y luego toma varios litros. ¿Qué cambio se espera en la orina producida por los riñones?
 
 ### Opciones
 - [ ] A) Que la orina se vuelve más concentrada después de beber agua, porque el riñón aumenta la reabsorción de agua.
@@ -215,7 +215,7 @@ La formación de la orina en la nefrona consta de filtración glomerular, reabso
 **Contexto:** En una charla de salud de un colegio de Quibdó, un estudiante comenta por qué un antibiótico no causa daño al paciente.
 
 ### Enunciado
-Un estudiante afirma que "un antibiótico no es peligroso porque solo mata bacterias y nunca células del cuerpo". Cómo debe evaluarse esa afirmación?
+Un estudiante afirma que "un antibiótico no es peligroso porque solo mata bacterias y nunca células del cuerpo". ¿Cómo debe evaluarse esa afirmación?
 
 ### Opciones
 - [x] A) Es imprecisa: los antibióticos actúan sobre estructuras o procesos propios de las bacterias, pero pueden producir efectos adversos en quien los toma.
@@ -238,7 +238,7 @@ Los antibióticos funcionan gracias a su selectividad: actúan sobre estructuras
 **Contexto:** En una semana de salud de un colegio de Puerto Boyacá, un grupo analiza cómo una rutina de vida afecta varios sistemas a la vez.
 
 ### Enunciado
-Un estudiante permanece ocho horas diarias sentado, consume muchas bebidas azucaradas y duerme cinco horas. Qué evaluación del impacto de esa rutina es más completa?
+Un estudiante permanece ocho horas diarias sentado, consume muchas bebidas azucaradas y duerme cinco horas. ¿Qué evaluación del impacto de esa rutina es más completa?
 
 ### Opciones
 - [ ] A) Afecta únicamente al sistema digestivo, porque lo único que cambia con esa rutina es la alimentación.
@@ -258,10 +258,10 @@ La salud resulta del funcionamiento integrado de los sistemas, de modo que un h�
 **Bloom:** Evaluate
 **ICFES:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.60
-**Contexto:** En un proyecto de grado 9 de un colegio de Girardot, un grupo relaciona enfermedades frecuentes con el sistema quecordón principal afectado.
+**Contexto:** En un proyecto de grado 9 de un colegio de Girardot, un grupo relaciona enfermedades frecuentes con el sistema cuyo es el principal afectado.
 
 ### Enunciado
-Cuatro estudiantes responden con la misma pregunta: a qué sistema del cuerpo se asocia principalmente cada condición? Cuál de los pares es correcto?
+¿Cuatro estudiantes responden con la misma pregunta: a qué sistema del cuerpo se asocia principalmente cada condición? ¿Cuál de los pares es correcto?
 
 ### Opciones
 - [ ] A) Diabetes mellitus tipo 1 con el sistema digestivo, e hipertensión arterial con el sistema respiratorio.
@@ -284,7 +284,7 @@ Asociar una enfermedad con su sistema principal ayuda a organizar el conocimient
 **Contexto:** En un proyecto de grado 9 de un colegio de Maicao, un grupo mide la respuesta cardiaca de sus compañeros al esfuerzo y la relaciona con los sistemas implicados.
 
 ### Enunciado
-Un grupo mide el pulso de un compañero en reposo, durante una carrera de cuatro minutos y dos minutos después de terminar. Qué conclusión se puede sostener con esos datos?
+Un grupo mide el pulso de un compañero en reposo, durante una carrera de cuatro minutos y dos minutos después de terminar. ¿Qué conclusión se puede sostener con esos datos?
 
 ### Opciones
 - [ ] A) Que el aumento del pulso demuestra que el corazón se lesionó durante la carrera.
