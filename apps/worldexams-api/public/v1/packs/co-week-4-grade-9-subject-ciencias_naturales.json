@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-4-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-28T05:30:31.977Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v1",
+      "statement": "En la organización de la tabla periódica moderna, ¿cómo se llaman las filas horizontales y las columnas verticales?",
+      "context": "En el aula de Bogotá, la profesora de ciencias naturales dibuja en el tablero un esquema de la tabla periódica para explicarles a sus estudiantes de noveno grado cómo está organizada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las filas horizontales se llaman periodos y las columnas verticales se llaman grupos",
+          "is_correct": true,
+          "feedback": "Correcto. Los periodos son las filas y los grupos son las columnas, y esa disposición ordena los elementos según su número atómico creciente."
+        },
+        {
+          "letter": "B",
+          "text": "Las filas horizontales se llaman grupos y las columnas verticales se llaman periodos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disposición es la inversa: los grupos son las columnas y los periodos son las filas horizontales de la tabla."
+        },
+        {
+          "letter": "C",
+          "text": "Las filas horizontales se llaman familias y las columnas verticales se llaman ciclos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre de familia se usa a veces como sinónimo de grupo, pero la tabla no tiene filas que se llamen ciclos."
+        },
+        {
+          "letter": "D",
+          "text": "Las filas horizontales se llaman niveles y las columnas verticales se llaman capas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Niveles y capas se refieren a la estructura electrónica interna del átomo y no a la organización de la tabla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tabla periódica se lee en dos direcciones. Al desplazarnos hacia la derecha por una fila, avanzamos un periodo y aumenta el número atómico; al desplazarnos hacia abajo por una columna, avanzamos en un grupo. Entender esta disposición es la base para predecir cómo cambian el radio atómico, la electronegatividad y la reactividad de los elementos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v2",
+      "statement": "Dos elementos que pertenecen al mismo grupo de la tabla periódica se parecen en sus propiedades químicas. ¿Cuál es la razón de esa semejanza?",
+      "context": "En el laboratorio de química de Medellín, el profesor entrega a cada grupo una ficha de un elemento y les pide que justifiquen a qué grupo pertenece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen el mismo número de protones en el núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si tuvieran el mismo número de protones serían el mismo elemento y no podrían ocupar dos casillas distintas de la tabla."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen la misma cantidad de neutrones en el núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de neutrones varía entre isótopos y no es el criterio que define la pertenencia a un grupo de la tabla."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen la misma cantidad de electrones de valencia",
+          "is_correct": true,
+          "feedback": "Correcto. Los electrones de valencia participan en los enlaces, por lo que compartir la misma cantidad explica que reaccionen de forma parecida."
+        },
+        {
+          "letter": "D",
+          "text": "Tienen la misma masa atómica expresada en unidades de masa atómica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica varía de un elemento a otro incluso dentro de un mismo grupo y no explica la semejanza química."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los elementos de un mismo grupo tienen igual número de electrones en su capa más externa, es decir, la misma configuración de valencia. Como son esos electrones los que participan en los enlaces, los elementos de un grupo reaccionan de manera semejante. El sodio y el potasio, por ejemplo, forman compuestos parecidos porque ambos tienen un electrón de valencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿A qué familia de la tabla periódica pertenece el cloro, el elemento que acompaña al sodio en la sal de mesa?",
+      "context": "En la clase de química de Cali, la profesora escribe en el tablero la fórmula de la sal de mesa y señala el elemento que falta en ella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la familia de los metales alcalinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metales alcalinos tienen un solo electrón de valencia, como el sodio, mientras que el cloro tiene siete electrones de valencia."
+        },
+        {
+          "letter": "B",
+          "text": "A la familia de los gases nobles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gases nobles tienen la capa externa completa y son muy poco reactivos, mientras que el cloro es un gas coloreado y reactivo."
+        },
+        {
+          "letter": "C",
+          "text": "A la familia de los halógenos",
+          "is_correct": true,
+          "feedback": "Correcto. Los halógenos están en el grupo 17, tienen siete electrones de valencia y tienden a ganar uno para completar su capa externa."
+        },
+        {
+          "letter": "D",
+          "text": "A la familia de los metales de transición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los metales de transición están en la parte central de la tabla y presentan varias capas de electrones de valencia, como el hierro o el cobre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cloro pertenece a los halógenos, el grupo 17, cuyos elementos tienen siete electrones de valencia y solo uno menos que una capa completa. Esa cercanía explica su reactividad: al ganar un electrón forman un anión con carga uno negativo, como el ion cloruro de la sal de mesa. Por eso se agrupan en la misma columna y se parecen entre sí.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v4",
+      "statement": "Al avanzar de izquierda a derecha dentro de un mismo periodo, sin cambiar de grupo, ¿cómo se espera que varíe el radio atómico de los elementos?",
+      "context": "En el taller de química de Pereira, la profesora pide a los grupos que completen en una hoja la tendencia del radio atómico al avanzar dentro de un mismo periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta, porque cada elemento nuevo incorpora una capa electrónica adicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al avanzar en un periodo el número de protones aumenta, pero no se incorporan capas nuevas, de modo que el radio no aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye, porque al aumentar el número atómico los protones atraen con más fuerza a los electrones",
+          "is_correct": true,
+          "feedback": "Correcto. En un mismo periodo los protones se incrementan mientras las capas no cambian, de modo que la atracción sobre los electrones aumenta y el átomo se hace más pequeño."
+        },
+        {
+          "letter": "C",
+          "text": "No varía, porque todos los elementos de un periodo tienen igual número de capas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener el mismo número de capas no implica igual radio, porque también cambia la carga positiva del núcleo."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuye y luego aumenta, formando un mínimo en la mitad del periodo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa forma no corresponde a la variación del radio dentro de un periodo, que disminuye de manera continua de izquierda a derecha."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dentro de un mismo periodo el número de capas electrónicas se mantiene constante mientras que aumenta el número de protones del núcleo. La carga positiva mayor atrae con más fuerza a los electrones de la capa más externa, que se acercan al núcleo. Por eso el radio atómico disminuye al avanzar hacia los gases nobles de la derecha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v5",
+      "statement": "Un elemento tiene número atómico 20 y sus átomos más abundantes tienen 20 neutrones. ¿Qué cantidad de protones y electrones tiene un átomo neutro de ese elemento?",
+      "context": "En el laboratorio de Bucaramanga, un estudiante recibe la ficha del calcio y necesita una serie de datos para compararlo con el magnesio en el trabajo de grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 protones y 20 electrones",
+          "is_correct": true,
+          "feedback": "Correcto. En un átomo neutro el número de electrones iguala al de protones, y como el número atómico es 20, ambos son 20."
+        },
+        {
+          "letter": "B",
+          "text": "20 protones y 40 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 40 electrones el átomo tendría carga negativa, y el número de electrones de un átomo neutro nunca supera al de protones."
+        },
+        {
+          "letter": "C",
+          "text": "40 protones y 20 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número atómico es el de los protones, de modo que 20 protones y 20 neutrones dan un número másico de 40 y no 40 protones."
+        },
+        {
+          "letter": "D",
+          "text": "20 protones y 0 electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un átomo sin electrones sería un ion y no un átomo neutro, y esa situación no corresponde a la descripción del enunciado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El número atómico cuenta los protones, y el número másico suma protones y neutrones. En este caso hay 20 protones y 20 neutrones, así que el número másico es 40. Como el átomo es neutro, los electrones igualan a los protones y son 20; de ese modo la suma de protones y electrones da el número atómico, que no coincide con el número másico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v6",
+      "statement": "Un grupo observa que el sodio de la muestra es un metal brillante que se oxida rápidamente al contacto con el aire. ¿Qué propiedad del elemento explica ese comportamiento?",
+      "context": "En la clase de ciencias naturales de Barranquilla, la profesora coloca en la mesa muestras de varios metales para que los grupos comparen su brillo y su estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su baja masa atómica, que lo hace más ligero que los demás metales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica explica parte de su ligereza, pero no explica que se oxide con facilidad al contacto con el aire."
+        },
+        {
+          "letter": "B",
+          "text": "Su elevada electronegatividad, que lo hace atraer fuertemente a los electrones del oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sodio tiene muy baja electronegatividad porque es un metal del grupo 1, y no es su electronegatividad la causa directa de la oxidación."
+        },
+        {
+          "letter": "C",
+          "text": "Su alto punto de ebullición, que impide que se combine con otros elementos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de ebullición del sodio es bajo comparado con el de los metales de transición y no explica la facilidad con que se oxida."
+        },
+        {
+          "letter": "D",
+          "text": "Su baja energía de ionización, que hace que pierda con facilidad su único electrón de valencia",
+          "is_correct": true,
+          "feedback": "Correcto. Al ser muy reactivo, el sodio cede su electrón de valencia al oxígeno del aire y forma un óxido en la superficie del metal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los metales del grupo 1 tienen un solo electrón de valencia muy lejos del núcleo, por lo que su energía de ionización es baja y lo donan con facilidad. Esa facilidad para perder el electrón explica su alta reactividad y la rapidez con que forman óxidos y halogenuros, como el cloruro de sodio que se obtiene al combinar el metal con el gas cloro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v7",
+      "statement": "El silicio está en el grupo 14 y el germanio también. ¿Qué relación estructural explica que ambos elementos muestren propiedades químicas tan semejantes?",
+      "context": "En el ejercicio de comparación de la clase de Neiva, la profesora pide al grupo que analice por qué el germanio y el silicio se parecen tanto en su comportamiento químico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos tienen cuatro electrones de valencia, de modo que forman enlaces de manera parecida",
+          "is_correct": true,
+          "feedback": "Correcto. Al compartir la misma configuración de valencia, los dos elementos forman enlaces del mismo tipo y dan productos con estructuras semejantes."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos están en el mismo periodo de la tabla, lo que basta para igualar sus propiedades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar en el mismo periodo solo significa compartir número de capas, y elementos del mismo periodo pueden tener propiedades muy distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos tienen igual número de neutrones en sus isótopos más abundantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de neutrones no interviene en los enlaces químicos, por lo que no explica la semejanza de comportamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos tienen la misma masa atómica porque ocupan casillas contiguas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los elementos de un mismo grupo tienen número atómico muy distinto, y la masa atómica no es la causa de sus propiedades químicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La posición en un grupo de la tabla está directamente ligada al número de electrones de valencia. Como el silicio y el germanio tienen cuatro electrones de valencia, ambos forman cuatro enlaces covalentes y generan compuestos con estructuras semejantes. Esa regla de los grupos explica además la existencia de familias químicas completas en la tabla periódica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v8",
+      "statement": "Un grupo registra los siguientes radios atómicos aproximados: fósforo 110 picómetros, azufre 100 picómetros y cloro 99 picómetros. ¿Qué interpretación de la tabla es coherente con la posición de esos elementos?",
+      "context": "En el proyecto de aula de Villavicencio, un grupo registra en una tabla los radios atómicos de tres elementos y debe explicar la tendencia que observa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El radio aumenta al avanzar porque cada elemento tiene un protón más y un neutrón menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres elementos están en el mismo periodo y el radio disminuye al avanzar, porque el dato observado contradice esa lectura."
+        },
+        {
+          "letter": "B",
+          "text": "El radio disminuye al avanzar porque la carga del núcleo aumenta sin ganar capas electrónicas",
+          "is_correct": true,
+          "feedback": "Correcto. Al avanzar en un periodo aumenta el número de protones sin cambiar el número de capas, por lo que los electrones se atraen más y el radio se reduce."
+        },
+        {
+          "letter": "C",
+          "text": "El radio no cambia porque los tres elementos tienen la misma capa más externa completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos tres elementos están en la misma capa, pero esa capa no está completa, y el radio sí cambia de un elemento a otro."
+        },
+        {
+          "letter": "D",
+          "text": "El radio depende solo de la masa atómica y no de la carga del núcleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica no determina el tamaño del átomo, que depende de la atracción entre la carga nuclear y los electrones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los valores medidos corresponden a una tendencia conocida. El fósforo, el azufre y el cloro están en el tercer periodo, con igual número de capas, y a medida que avanza el número atómico el núcleo gana protones. Esa carga mayor atrae con más fuerza a los electrones de la capa externa y reduce el radio, de manera coherente con los datos medidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v9",
+      "statement": "Un alambre de cobre conduce la corriente eléctrica en estado sólido. ¿Qué característica de los metales explica ese comportamiento?",
+      "context": "En el laboratorio de física y química de Montería, el profesor calienta un alambre de cobre dentro de un circuito y pide al grupo que explique qué ocurre en su interior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen electrones que pueden desplazarse libremente por toda la red del metal",
+          "is_correct": true,
+          "feedback": "Correcto. Los electrones de valencia de los metales se mueven con libertad por la red cristalina, lo que permite el transporte de carga a través del sólido."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen protones libres que se desplazan por la red y transportan la corriente",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un metal los protones permanecen unidos en el núcleo y no son las partículas que transportan la corriente eléctrica."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen menos electrones de valencia que los no metales, por eso conducen",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conducción metálica no se explica por tener pocos electrones de valencia, sino por la facilidad con que estos se desplazan."
+        },
+        {
+          "letter": "D",
+          "text": "Su baja temperatura de fusión indica que el metal está lleno de electrones móviles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura de fusión se relaciona con la intensidad de la atracción metálica y no con la movilidad de los electrones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un metal los átomos ceden sus electrones de valencia a una red común que atraviesa todo el sólido, y por eso el metal se modela como un conjunto de iones positivos rodeados de electrones móviles. Cuando se aplica una diferencia de potencial, esos electrones se desplazan y transportan la carga, lo que explica la conductividad eléctrica y también la térmica de los metales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.58,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v10",
+      "statement": "Un elemento no metálico, en estado sólido, se usa como material conductor en los cableados eléctricos. ¿Con qué característica de la tabla periódica es coherente esa aplicación?",
+      "context": "En una discusión de clase en Popayán, un equipo defiende su respuesta sobre la familia a la que pertenece un elemento no metálico que se usa en los cableados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con que se encuentra en un grupo bajo, lo que le permite perder electrones con facilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perder electrones con facilidad es propio de los metales, mientras que los no metales tienden a ganarlos."
+        },
+        {
+          "letter": "B",
+          "text": "Con que tiene su capa más externa casi completa, por lo que gana electrones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ganar electrones es una característica química de los no metales, pero no explica su comportamiento como material conductor."
+        },
+        {
+          "letter": "C",
+          "text": "Con que pertenece al grupo de los gases nobles y por eso se mantiene inerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gases nobles son muy poco reactivos y no se usan como materiales conductores en los cableados eléctricos."
+        },
+        {
+          "letter": "D",
+          "text": "Con que es un elemento de la familia del carbono, capaz de formar enlaces y estructuras que conducen",
+          "is_correct": true,
+          "feedback": "Correcto. Los elementos de la familia del carbono forman redes de enlaces covalentes que permiten el desplazamiento de electrones y con ello la conducción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La capacidad de un elemento para formar redes covalentes extendidas depende de su número de electrones de valencia. Los elementos de la familia del carbono, con cuatro electrones de valencia, pueden enlazarse entre sí formando estructuras donde los electrones se desplazan con libertad, como ocurre en el material usado en los cableados eléctricos y en los diamantes de la herramienta de corte.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v11",
+      "statement": "Un museo muestra una tabla periódica moderna y, al lado, la tabla original de Mendeleiev, ordenada por masas. ¿Qué ventaja de la tabla moderna justificaría preferirla en el aula?",
+      "context": "En el museo de ciencias de Armenia, un guía pide al grupo de visitantes que compare dos versiones de la tabla periódica colgadas en la pared.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ordena los elementos por número atómico, lo que permite predecir mejor sus propiedades",
+          "is_correct": true,
+          "feedback": "Correcto. El orden creciente del número atómico elimina las excepciones de la tabla por masas y da lugar a grupos que corresponden a familias químicas reales."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra la masa atómica de cada elemento, un dato que la tabla moderna no incluye",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla moderna también permite conocer la masa atómica, de modo que esa no es una ventaja que la distinga de la anterior."
+        },
+        {
+          "letter": "C",
+          "text": "Contiene menos elementos que la de Mendeleiev, porque solo incluye los conocidos en ese momento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla moderna incluye muchos más elementos que la original, y ese no es el criterio de ordenamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Ordena por familias, lo que elimina la necesidad de conocer el número atómico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla moderna se organiza por número atómico, y la disposición en familias se deduce de ese ordenamiento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gran ventaja de ordenar los elementos por número atómico creciente es que produce una periodicidad regular: los elementos con propiedades químicas semejantes quedan en una misma columna y desaparecen las excepciones de la tabla basada en masas. Ese ordenamiento por número atómico es el que usa la tabla moderna y el que permite enseñar las tendencias periódicas de manera coherente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.45,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle-v12",
+      "statement": "Un grupo propone poner láminas de varios metales en contacto con disoluciones de sus propias sales y registrar qué láminas se cubren con un depósito. ¿Es pertinente ese experimento para ordenar los elementos por reactividad y por qué?",
+      "context": "En el laboratorio de química de Palmira, el profesor pide a los grupos diseñar un experimento que permita ordenar elementos por su reactividad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es pertinente, porque los depósitos observados no dependen de la reactividad de cada metal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un metal desplace a otro de sus sales es precisamente una medida comparada de la reactividad de los dos elementos."
+        },
+        {
+          "letter": "B",
+          "text": "Es pertinente, pero solo se puede comparar un mismo metal consigo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El experimento permite comparar metales distintos entre sí, porque cada desplazamiento muestra cuál tiene mayor reactividad."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente, pero la única variable que importa es la cantidad de disolución utilizada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de disolución es secundaria, y lo determinante es qué metal reacciona y cuál no lo hace."
+        },
+        {
+          "letter": "D",
+          "text": "Es pertinente, porque el metal que desplaza a otro ocupa una posición más reactiva en la serie de metales",
+          "is_correct": true,
+          "feedback": "Correcto. La serie de metales ordena los elementos por su facilidad para ceder electrones, y esa propiedad se puede poner a prueba con la prueba de desplazamiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La serie de metales ordena los elementos de mayor a menor facilidad para perder electrones. Si un metal consigue desplazar a otro de su sal, es porque es más reactivo, de modo que la observación del depósito metálico constituye una medida indirecta de esa jerarquía. Repetir la prueba con distintos pares de metales permite construir el orden experimental y compararlo con la teoría.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.42,
+      "bundle_id": "CO-CN-9-2026-W04-el-sistema-periodico-y-las-propiedades-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
