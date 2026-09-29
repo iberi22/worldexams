@@ -128,12 +128,12 @@ Si el Estado quiere reducir esta brecha educativa entre barrios, ¿qué medida e
 ### Opciones
 - [ ] A) Crear un examen nacional único que ordene a todos los estudiantes del país.
   <!-- feedback: Incorrecto. Un examen nacional no modifica las condiciones estructurales de acceso a la educación de calidad. -->
-- [ ] B) Incrementar la cobertura del seguro de salud en zonas rurales del departamento.
-  <!-- feedback: Incorrecto. La cobertura en salud es importante, pero no aborda la diferencia de acceso educativo entre barrios. -->
+- [x] B) Fortalecer la inversión en infraestructura, docentes y conectividad de las escuelas públicas de los barrios con menor cobertura.
+  <!-- feedback: Correcto. La inversión directa en la oferta educativa pública de los sectores más necesitados reduce la brecha de acceso. -->
 - [ ] C) Realizar una jornada de_IdAudioAudioIdFO sobre la importancia de terminar el bachillerato.
   <!-- feedback: Incorrecto. Una campaña de sensibilización no resuelve la limitación de los recursos del sistema educativo. -->
-- [x] D) Fortalecer la inversión en infraestructura, docentes y conectividad de las escuelas públicas de los barrios con menor cobertura.
-  <!-- feedback: Correcto. La inversión directa en la oferta educativa pública de los sectores más necesitados reduce la brecha de acceso. -->
+- [ ] D) Incrementar la cobertura del seguro de salud en zonas rurales del departamento.
+  <!-- feedback: Incorrecto. La cobertura en salud es importante, pero no aborda la diferencia de acceso educativo entre barrios. -->
 
 ### Explicacion Pedagogica
 Una política que busca reducir la desigualdad educativa debe actuar sobre las condiciones materiales de la oferta pública: infraestructura, calidad docente, conectividad y recursos. Actuar solo sobre la conciencia de la población no modifica la estructura de oportunidades. Identificar el nivel en el que se produce la desigualdad es clave para elegir la respuesta más eficaz.
@@ -151,12 +151,12 @@ Una política que busca reducir la desigualdad educativa debe actuar sobre las c
 ### Opciones
 - [ ] A) Aumenta el número de participantes de la comunidad en los talleres.
   <!-- feedback: Incorrecto. El número de participantes no es un criterio para evaluar la contribución a la igualdad. -->
-- [ ] B) Reduce la desigualdad de manera directa, porque transfiere recursos económicos a los jóvenes.
-  <!-- feedback: Incorrecto. La iniciativa es formativa, no económica; su contribución es a la convivencia y no a la transferencia de ingresos. -->
+- [x] B) Fortalece las capacidades de los jóvenes para participar y resolver pacíficamente los conflictos que afectan sus relaciones.
+  <!-- feedback: Correcto. Brindar herramientas de participación y resolución pacífica fortalece a los jóvenes como sujetos de derechos. -->
 - [ ] C) Ocupa el tiempo libre de los jóvenes, lo que impide que estudien mejor.
   <!-- feedback: Incorrecto. Ocupar el tiempo de los jóvenes no garantiza la reducción de la desigualdad. -->
-- [x] D) Fortalece las capacidades de los jóvenes para participar y resolver pacíficamente los conflictos que afectan sus relaciones.
-  <!-- feedback: Correcto. Brindar herramientas de participación y resolución pacífica fortalece a los jóvenes como sujetos de derechos. -->
+- [ ] D) Reduce la desigualdad de manera directa, porque transfiere recursos económicos a los jóvenes.
+  <!-- feedback: Incorrecto. La iniciativa es formativa, no económica; su contribución es a la convivencia y no a la transferencia de ingresos. -->
 
 ### Explicacion Pedagogica
 La desigualdad social también se relaciona con la distribución desigual de la capacidad de participación y de reconocimiento. Una iniciativa que enseña a los jóvenes a negociar, mediar y resolver conflictos refuerza su papel como ciudadanos plenos. De este modo, la convivencia contribuye indirectamente a una sociedad más igualitaria, porque reduce las formas de exclusión y violencia que afectan a ciertos grupos.
@@ -220,12 +220,12 @@ Desde el enfoque del análisis del gasto público, ¿qué pregunta es la más pe
 ### Opciones
 - [ ] A) ¿El presupuesto municipal fue aprobado por mayoría de votos en el concejo?
   <!-- feedback: Incorrecto. La aprobación por mayoría es un requisito de legitimidad formal, no mide la equidad de la distribución. -->
-- [ ] B) ¿Los miembros del concejo pertenecen a diferentes partidos políticos?
-  <!-- feedback: Incorrecto. La composición partidaria del concejo no mide la distribución del gasto entre sectores. -->
+- [x] B) ¿En qué proporción se asigna el presupuesto a cada sector y cómo se compara esa proporción con la población de cada uno?
+  <!-- feedback: Correcto. Comparar la distribución del gasto con la distribución de la población permite detectar brechas territoriales. -->
 - [ ] C) ¿La población reconoce al alcalde como autoridad legítima?
   <!-- feedback: Incorrecto. El reconocimiento de la autoridad no informa sobre la equidad en el uso de los recursos públicos. -->
-- [x] D) ¿En qué proporción se asigna el presupuesto a cada sector y cómo se compara esa proporción con la población de cada uno?
-  <!-- feedback: Correcto. Comparar la distribución del gasto con la distribución de la población permite detectar brechas territoriales. -->
+- [ ] D) ¿Los miembros del concejo pertenecen a diferentes partidos políticos?
+  <!-- feedback: Incorrecto. La composición partidaria del concejo no mide la distribución del gasto entre sectores. -->
 
 ### Explicacion Pedagogica
 Evaluar la equidad en el gasto público exige comparar la distribución de los recursos entre territorios o sectores con la distribución de las poblaciones. Si un sector recibe una proporción del presupuesto muy superior a la de su población, la distribución es desigual. Este método de análisis es una forma de vigilancia ciudadana sobre el uso de los recursos públicos.
