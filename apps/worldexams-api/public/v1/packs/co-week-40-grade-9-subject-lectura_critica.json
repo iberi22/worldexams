@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-40-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.265Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿qué tipos de texto se leyeron durante el año escolar?",
+      "context": "En Cartagena, la profesora reparte el documento de cierre y pide que el grupo registre los tipos de texto leídos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo textos de opinión y ensayos, porque las otras semanas se dedicaron a otra asignatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento enumera cinco tipos de texto, entre ellos los artículos científicos y los relatos de viaje."
+        },
+        {
+          "letter": "B",
+          "text": "El documento incluye ensayos y cartas editoriales, que son textos claramente argumentativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento incluye ensayos y cartas editoriales, que son textos claramente argumentativos."
+        },
+        {
+          "letter": "C",
+          "text": "Un solo tipo de texto, porque el departamento decidió trabajar todo el año con un solo género.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre recuerda cinco tipos distintos, de modo que no hubo una unificación de géneros."
+        },
+        {
+          "letter": "D",
+          "text": "Textos de opinión, cartas editoriales, ensayos, artículos de texto expositivo científico y relatos de viaje.",
+          "is_correct": true,
+          "feedback": "Correcto. La lista del documento aparece completa y en el mismo orden en esta opción."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cierre del año cumple la función de registrar lo recorrido, y su valor está en la precisión de esa memoria. La lista del Texto 1 muestra que el año cubrió varios géneros y no uno solo. Reconocer esa variedad ayuda al estudiante a valorar qué aprendió de cada tipo de texto. Ese registro sirve como base para comparar lo estudiado con lo que falta por practicar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, la pregunta «¿qué sé hacer hoy que no sabía hacer en febrero?» cumple una función comparativa. ¿Cuál es?",
+      "context": "En Pereira, el profesor pide que el grupo explique el sentido de la última pregunta del documento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir la asistencia del estudiante durante los primeros meses del año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta no se refiere a la asistencia, sino a una comparación entre dos momentos del aprendizaje."
+        },
+        {
+          "letter": "B",
+          "text": "Reconocer qué puede hacer el estudiante ahora y antes no podía hacer.",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta pide comparar el dominio de hoy con el de febrero, que es el inicio del año."
+        },
+        {
+          "letter": "C",
+          "text": "Contar cuántos textos del año el estudiante recuerda de memoria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento no pide memorización de textos, sino reconocer habilidades de lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir entre varios temas el que le resulte más interesante para el año siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta final no ofrece opciones ni temas: es una pregunta abierta sobre el propio aprendizaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La última pregunta del documento compara dos momentos del mismo estudiante. Reconocer esa estructura muestra que el cierre busca una revisión interna y no un examen externo. La pregunta supone que el año sí produjo cambios y pide nombrarlos con claridad. Ese tipo de pregunta inicial es la que hace significativa una autoevaluación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la intención comunicativa principal del Texto 1?",
+      "context": "En Villavicencio, la profesora explica por qué un documento de cierre no se escribe igual que un informe de calificaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir al estudiante que revise su propio aprendizaje antes de terminar el año escolar.",
+          "is_correct": true,
+          "feedback": "Correcto. El documento propone una revisión personal en cuatro aspectos y cierra con una pregunta abierta."
+        },
+        {
+          "letter": "B",
+          "text": "Informar la asistencia de cada estudiante durante el año escolar completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento no habla de asistencia: enumera tipos de texto y aspectos de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Anunciar los resultados de las pruebas aplicadas en el último trimestre del año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se mencionan pruebas ni sus resultados en ningún momento del documento."
+        },
+        {
+          "letter": "D",
+          "text": "Repartir las tareas de lectura que se desarrollarán durante el año siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento cierra el año y no incluye la programación del año siguiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intención de un texto se reconoce por las acciones que pide al lector. El documento no informa resultados, sino que invita a cada estudiante a mirar hacia atrás y nombrar lo que aprendió. Esa invitación define el tipo de lectura que exige: reflexiva y personal. Reconocer la diferencia entre informar y pedir una revisión personal evita leer este documento como un reporte. La revisión supone que el estudiante vuelva sobre sus propios trabajos con criterio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v4",
+      "statement": "Un estudiante escribe un párrafo con una tesis clara y dos razones que la sostienen. ¿Qué criterio de la ficha del Texto 2 está cumpliendo?",
+      "context": "En Quibdó, un estudiante revisa la ficha del texto base después de escribir su párrafo argumentativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El criterio 1, porque en un párrafo así se distingue con facilidad la postura del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio 1 se cumple al leer un texto ajeno, no al escribir un párrafo propio."
+        },
+        {
+          "letter": "B",
+          "text": "El criterio 2, porque el párrafo permite localizar la idea principal de cada sección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio 2 se aplica a textos largos con secciones, no a un párrafo escrito por el estudiante."
+        },
+        {
+          "letter": "C",
+          "text": "El criterio 4, porque el párrafo une una tesis con las dos razones que la sostienen.",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción del criterio 4 coincide exactamente con lo que hizo el estudiante."
+        },
+        {
+          "letter": "D",
+          "text": "El criterio 5, porque el párrafo fue revisado antes de ser entregado al profesor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que el párrafo haya sido revisado y el criterio 5 se cumple con una revisión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ficha de autoevaluación funciona si el estudiante puede emparejar su comportamiento real con la descripción de un criterio. En este caso, la coincidencia entre lo hecho y el criterio 4 es literal y no requiere interpretación. Ese emparejamiento es la operación más básica de una autoevaluación. Practicarla permite que la revisión del propio trabajo sea concreta y no una impresión vaga.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 2, el criterio 3 pide «notar en qué coinciden y en qué no» dos fuentes. ¿Qué exige exactamente esa expresión?",
+      "context": "En Sincelejo, la profesora pide que el grupo explique con otras palabras el criterio 3 de la ficha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exige repetir literalmente el contenido de las dos fuentes para compararlos después.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio no pide copiar los textos: pide comparar qué sostienen y cómo lo sostienen."
+        },
+        {
+          "letter": "B",
+          "text": "Exige escoger una sola de las dos fuentes y descartar la otra por falta de acuerdo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio conserva las dos fuentes y pide ver tanto los acuerdos como los desacuerdos."
+        },
+        {
+          "letter": "C",
+          "text": "Exige comprobar que las dos fuentes dicen exactamente lo mismo, sin ninguna diferencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha habla justamente de las diferencias, de modo que no se espera un acuerdo total."
+        },
+        {
+          "letter": "D",
+          "text": "Exige señalar tanto los puntos en que las fuentes concuerdan como aquellos en que se separan.",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión pide un doble movimiento: identificar coincidencias y también divergencias."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar fuentes no consiste en decidir cuál es verdadera, sino en describir en qué se parecen y en qué se separan. La ficha pide ese doble trabajo y no la elección de un único ganador. Reconocerlo protege frente a la costumbre de reducir el contraste a un solo ganador. Esa distinción es central para el trabajo con fuentes durante todo el año.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v6",
+      "statement": "Un estudiante no puede explicar de qué trata cada sección de un texto largo. ¿Qué criterio de la ficha del Texto 2 está fallando en su lectura?",
+      "context": "En Florencia, la profesora pide al grupo que ubique el punto débil de un lector novato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El criterio 2, porque exige seguir el hilo del texto y localizar la idea de cada sección.",
+          "is_correct": true,
+          "feedback": "Correcto. La dificultad descrita coincide exactamente con lo que el criterio 2 pide poder hacer."
+        },
+        {
+          "letter": "B",
+          "text": "El criterio 1, porque el estudiante no distingue la postura del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona ninguna dificultad para identificar la postura del autor."
+        },
+        {
+          "letter": "C",
+          "text": "El criterio 3, porque el estudiante no ha contrastado dos fuentes distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado habla de un solo texto largo y no de un contraste entre fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "El criterio 5, porque el estudiante no revisó sus propios textos antes de entregarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado describe una dificultad de lectura y no una omisión en la revisión de un texto propio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Diagnosticar un criterio exige vincular la dificultad concreta con la descripción exacta de la ficha. La falta de claridad sobre las secciones de un texto largo es justamente lo que el criterio 2 propone trabajar. Vincular el síntoma con el criterio permite señalar con precisión qué práctica falta, en lugar de una recomendación vaga. Esa precisión convierte la autoevaluación en una herramienta útil para el plan del año siguiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación hay entre el Texto 1 y la ficha del Texto 2?",
+      "context": "En Yopal, la profesora pide que el grupo conecte el documento de cierre con la ficha que van a diligenciar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos repiten la misma información con palabras diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 resume cuatro aspectos y la ficha los convierte en cinco criterios más específicos."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 anuncia los aspectos que la ficha convierte en criterios comprobables.",
+          "is_correct": true,
+          "feedback": "Correcto. Los aspectos del documento se desarrollan después como acciones concretas que el estudiante puede verificar."
+        },
+        {
+          "letter": "C",
+          "text": "La ficha contradice al documento, porque exige revisar trabajos que el documento nunca menciona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento pide revisar el propio desempeño y la ficha precisa cómo hacerlo, sin contradecirlo."
+        },
+        {
+          "letter": "D",
+          "text": "La ficha sirve para corregir los errores del documento de cierre del departamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no corrige el documento: traduce sus afirmaciones en criterios de uso cotidiano."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos textos del material forman una pareja: el primero enuncia lo que hay que revisar y el segundo precisa cómo se comprueba. Esa secuencia convierte una declaración general en una práctica verificable. Reconocer la relación entre un texto y su instrumento de aplicación mejora la comprensión de ambos. También enseña que un buen material de evaluación retoma lo trabajado y lo vuelve accionable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v8",
+      "statement": "En la oración «El cierre no busca una calificación sino una pregunta», ¿qué construcción se identifica y qué efecto produce?",
+      "context": "En Ibagué, el profesor pide que el grupo analice la oración con la que el documento aclara su propósito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una construcción causal, porque la calificación explicaría el motivo de la pregunta final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relación de causa: la oración opone dos propósitos distintos del documento."
+        },
+        {
+          "letter": "B",
+          "text": "Una enumeración, porque el documento presenta dos actividades que el estudiante debe realizar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no enumera tareas: diferencia el fin evaluativo del fin formativo del cierre."
+        },
+        {
+          "letter": "C",
+          "text": "Una construcción de contraste que aclara que la intención del cierre es formativa y no calificativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La negación de una opción y la afirmación de la otra delimitan el propósito real del documento."
+        },
+        {
+          "letter": "D",
+          "text": "Una aposición, porque la pregunta final se explica dentro de la misma oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay aposición: la oración solo opone dos propósitos y no explica ningún término."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estructura «no busca X sino Y» es una forma de contraste que niega una posibilidad para afirmar la otra. Aquí descarta que el cierre sea un momento de calificación y confirma que es una instancia de revisión. Detectar esa construcción evita confundir un documento evaluativo con una instancia de examen. Además, es un modelo útil para escribir con claridad sobre la intención de un texto propio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el criterio 5 de la ficha pide revisar los propios textos antes de entregarlos?",
+      "context": "En Palmira, la profesora pregunta por qué la ficha incluye un criterio sobre revisar los propios textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la revisión garantiza que el trabajo recibió la calificación más alta del período.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio no garantiza ninguna nota y la ficha no se ocupa de calificaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la autoevaluación solo es posible si el estudiante vuelve a mirar su producción con atención.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin revisar lo escrito no hay evidencia propia que permita responder con fundamento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el profesor necesita menos tiempo para leer los trabajos que entrega el grupo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona al profesor ni busca reducir su trabajo de lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la revisión de un texto propio es el criterio más fácil de cumplir de toda la ficha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no clasifica los criterios por dificultad y no llama fácil a ninguno de ellos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La autoevaluación exige evidencia, y la única evidencia disponible para el estudiante son sus propios trabajos. Por eso el criterio 5 aparece en la ficha: revisar lo escrito es lo que permite responder con fundamento. Entender esa lógica ayuda a proteger la honestidad del proceso de evaluación. También muestra por qué la revisión previa es una habilidad académica y no un simple trámite.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v10",
+      "statement": "El Texto 1 afirma que los estudiantes aprendieron a identificar la tesis de un texto. ¿Qué evaluación de esa afirmación es la más precisa?",
+      "context": "En Maicao, el profesor pide al grupo que evalúe una afirmación general del documento de cierre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque el documento no menciona el concepto de tesis en ninguna de sus partes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento menciona la tesis dos veces: al enumerar los aspectos y al cerrar con la pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque la lista de tipos de texto demuestra que todos los estudiantes la aprendieron.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista enumera lo trabajado y no mide lo que cada estudiante aprendió."
+        },
+        {
+          "letter": "C",
+          "text": "Es innecesaria, porque el aprendizaje se evalúa mejor con una prueba externa que con un documento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento no se opone a la prueba externa: propone una revisión personal que la complementa."
+        },
+        {
+          "letter": "D",
+          "text": "Es pertinente, aunque el documento no presenta pruebas que permitan comprobar cuánto se avanzó.",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación encaja con los objetivos del año, pero el texto no aporta datos sobre el progreso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una afirmación propia de un texto institucional exige distinguir lo pertinente de lo comprobado. La afirmación sobre el aprendizaje en tesis es coherente con el plan del año, de modo que no hay razón para dudar de su pertinencia. Lo que falta son evidencias que permitan medir cuánto se avanzó en cada grupo. Nombrar ese vacío con precisión es lo que hace útil una evaluación de cierre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante marca «sí» en el criterio 4 de la ficha, pero no escribe ningún párrafo argumentativo. ¿Cuál es la evaluación más sólida de esa respuesta?",
+      "context": "En el cierre del año en Apartadó, la profesora recibe fichas de autoevaluación incompletas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La respuesta es válida, porque el criterio 4 solo pide marcar una casilla de la ficha.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio 4 describe una acción de escritura y no un casillero que pueda marcarse."
+        },
+        {
+          "letter": "B",
+          "text": "La respuesta es inválida, porque el estudiante no alcanzó el nivel que exigen los demás criterios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conclusión no se puede sacar: el enunciado solo muestra una ausencia de evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "La respuesta no es evaluable, porque el criterio exige una acción de escritura que no se puede comprobar con una marca.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin el texto escrito no hay evidencia, de modo que marcar la casilla no permite verificar nada."
+        },
+        {
+          "letter": "D",
+          "text": "La respuesta es correcta, porque el estudiante ya había demostrado esa habilidad en un trabajo anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona ningún trabajo anterior que sirva como evidencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un criterio de autoevaluación solo funciona si el estudiante puede mostrar la acción que dice haber realizado. Marcar una casilla sin aportar el texto deja la afirmación sin ninguna evidencia que la respalde. Reconocer ese problema permite mejorar la ficha, por ejemplo pidiendo un ejemplo breve de cada respuesta. Evaluar con este criterio enseña a distinguir entre afirmar y demostrar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle-v12",
+      "statement": "En una reunión, un docente afirma que la ficha de autoevaluación del Texto 2 no sirve de nada porque los estudiantes de noveno grado no son honestos consigo mismos. ¿Cuál es la evaluación más sólida de ese argumento?",
+      "context": "En la reunión de fin de año en Turbo, un docente defiende el uso de la ficha del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El argumento no prospera, porque la ficha ya incluye en el criterio 5 la revisión de los propios textos.",
+          "is_correct": true,
+          "feedback": "Correcto. Como el propio material exige revisar lo escrito, la objeción no puede sostenerse contra el texto."
+        },
+        {
+          "letter": "B",
+          "text": "El argumento es válido, porque la ficha no ofrece ninguna forma de comprobar lo que el estudiante responde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha sí ofrece esa forma: el criterio 5 pide revisar y el criterio 4 exige escribir."
+        },
+        {
+          "letter": "C",
+          "text": "El argumento es válido, porque la honestidad del estudiante no puede verificarse nunca en ningún ámbito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es absoluta y el texto base no la sostiene en ningún punto."
+        },
+        {
+          "letter": "D",
+          "text": "El argumento no prospera, porque el documento de cierre del Texto 1 prohíbe toda forma de evaluación externa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El documento no prohíbe la evaluación externa: solo aclara que el cierre no es una calificación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un argumento exige revisar si la objeción tiene respaldo en los textos que se discuten. La objeción sobre la falta de honestidad no encuentra apoyo en el material, porque la ficha está pensada para que el estudiante revise y muestre sus propios textos. Reconocer ese detalle permite responder con el texto y no con una opinión sobre los estudiantes. Es la diferencia entre un argumento sólido y un recurso para descartar un instrumento de evaluación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W40-la-sintesis-evaluativa-del-ano-en-colombia-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

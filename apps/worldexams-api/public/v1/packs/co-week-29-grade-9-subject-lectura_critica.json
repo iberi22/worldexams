@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-29-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.263Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a una alegoría en un texto literario?",
+      "context": "En el salón de noveno grado de Bogotá, la profesora presenta los dos textos base y pide un primer hallazgo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un personaje, un objeto o un lugar representa de manera sostenida una idea general o un valor.",
+          "is_correct": true,
+          "feedback": "Correcto. En la alegoría la imagen no describe un caso particular, sino que encarna una idea que se mantiene a lo largo del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Un relato cuyo personaje principal cambia de edad al final de la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia de un personaje es un argumento narrativo, y no guarda relación con la representación de una idea general."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que describe un paisaje natural sin incluir personajes humanos en su desarrollo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de personajes no convierte un texto en alegórico, porque lo esencial es la relación significativa entre imagen e idea."
+        },
+        {
+          "letter": "D",
+          "text": "Un diálogo en el que dos personajes discuten ideas abstractas sin que ocurra ninguna narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La discusión de ideas pertenece a otro registro, y en una alegoría esas ideas aparecen encarnadas en imágenes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La alegoría construye un segundo significado: cada elemento del relato es a la vez lo que parece y lo que representa. Un río puede seguir siendo un río y, al mismo tiempo, funcionar como una imagen de la memoria de una comunidad. Reconocer esta estructura permite leer los textos literarios como discursos con postura, y no como simples relatos de hechos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v2",
+      "statement": "En el texto 1, el río \"dejó de ser un camino para volverse un espejo quieto de cielo muerto\". ¿Qué transformación sugiere esa frase?",
+      "context": "En Pereira, un grupo analiza la transformación del río en el poema del texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el río se secó por completo durante esa estación del año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de sequía, y la imagen del espejo indica que el agua sigue allí pero ha perdido su función."
+        },
+        {
+          "letter": "B",
+          "text": "Que la ciudad perdió la relación con su propia historia y quedó solo una apariencia sin vida.",
+          "is_correct": true,
+          "feedback": "Correcto. El cambio de camino a espejo muestra un río que ya no comunica ni conecta, igual que un pueblo que olvidó su pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua del cauce se volvió salada por la llegada de nuevos barcos mercantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El poema no menciona barcos ni salinidad, y la transformación descrita pertenece al plano de los significados."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ciudad construyó un puente sobre el río para conectar mejor sus dos orillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay puentes en el texto, y la pérdida que se describe es de memoria y no de comunicación física."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En la alegoría, cada cambio de una imagen encarna un cambio en la idea que representa. Cuando el río deja de ser camino, la comunidad pierde la posibilidad de intercambiar historias, trabajo y memoria. Leer el poema por capas, primero como paisaje y luego como símbolo, permite explicar el sentido sin reducirlo a una moraleja improvisada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v3",
+      "statement": "En el texto 2 se afirma que \"un faro que necesita ser entendido ya no es un faro\". ¿Qué sugiere esa frase?",
+      "context": "En Cartagena, los estudiantes de noveno grado discuten la frase final del cuento del texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los faros deben destruirse cuando la comunidad deja de utilizarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento no propone ninguna destrucción, y la frase defiende la permanencia del faro por encima de la comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "Que el valor de un faro está en su luz y no en la altura de su torre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa lectura invierte el sentido del cuento, porque el farero sostiene desde el principio que la torre es lo esencial."
+        },
+        {
+          "letter": "C",
+          "text": "Que el faro conserva su función aunque nadie entienda todavía para qué sirve.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase sostiene un valor que no depende del reconocimiento inmediato y que se revela cuando llega la tormenta."
+        },
+        {
+          "letter": "D",
+          "text": "Que los pescadores del pueblo aprendieron a navegar con mapas y sin señales visuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona mapas, y su asunto es la permanencia de una función antes de ser comprendida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El símbolo no reduce su valor a la reacción inmediata del público. En el cuento, el faro solo parece útil cuando las nubes borran el mar, y esa revelación llega después de muchas temporadas de inutilidad aparente. Comprender ese mecanismo ayuda a justificar interpretaciones simbólicas con hechos del texto y no con intuiciones sueltas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v4",
+      "statement": "En un cuento escolar, un lobo protege un bosque al que ya no visita nadie. ¿Qué representa el lobo dentro de esa historia?",
+      "context": "En Medellín, una estudiante escribe un cuento breve y necesita decidir qué representa su animal central.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa la fuerza física de los animales del bosque, porque los protege de otros depredadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lectura se queda en lo literal, y el dato del bosque sin visitantes es lo que da sentido a la figura del lobo."
+        },
+        {
+          "letter": "B",
+          "text": "Representa a un personaje solitario, porque ningún otro animal quiere acompañarlo en la guardia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La soledad del lobo es un rasgo del personaje, y no es lo que el texto propone como significado más profundo."
+        },
+        {
+          "letter": "C",
+          "text": "Representa a los lectores del cuento, porque todos sueñan con proteger un bosque algún día.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el texto liga al lobo con los lectores, y esa asociación sería una invención del intérprete."
+        },
+        {
+          "letter": "D",
+          "text": "Representa el abandono de un recurso común, porque la protección pierde sentido cuando nadie la necesita.",
+          "is_correct": true,
+          "feedback": "Correcto. El lobo sigue cumpliendo su función en un bosque abandonado, y esa situación encarna una idea sobre el descuido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para identificar qué representa un símbolo hay que observar la situación completa en la que aparece. El lobo del bosque vacío no encarna una idea de fuerza, sino la constancia de un cuidado que ya nadie ve. Ese mismo procedimiento, seguir los hechos del relato y preguntarse qué idea sostienen, permite interpretar cualquier texto simbólico con argumentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v5",
+      "statement": "En el texto 1 el agua es la memoria de una ciudad y en un texto de otra época el agua es un peligro. ¿Qué explica esa diferencia?",
+      "context": "En Manizales, un grupo compara el uso del agua como símbolo en dos textos de épocas diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos autores se propusieron fines muy distintos, y por eso sus textos no se pueden comparar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos sí pueden compararse, y la diferencia de sentido es justamente el objeto del análisis intertextual."
+        },
+        {
+          "letter": "B",
+          "text": "El símbolo del agua no tiene un significado estable, y por eso puede cambiar de un texto a otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El símbolo mantiene un núcleo de sentido, y lo que cambia es la relación concreta que cada texto construye."
+        },
+        {
+          "letter": "C",
+          "text": "El mismo elemento conserva su campo de significado, pero cada texto lo asocia a una situación distinta.",
+          "is_correct": true,
+          "feedback": "Correcto. El agua sigue apareciendo como algo vivo y esencial, y la variación del sentido proviene del contexto de cada obra."
+        },
+        {
+          "letter": "D",
+          "text": "Solo uno de los dos textos usa un símbolo verdadero, y el otro es apenas una descripción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos funcionan simbólicamente, y la diferencia está en el significado y no en la existencia del símbolo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar símbolos entre textos permite ver que no son palabras fijas con un único significado. El núcleo simbólico se conserva, mientras la situación narrativa le da un matiz nuevo dentro de cada obra. Esta comparación es el fundamento de la lectura intertextual, y ayuda a explicar por qué dos autores pueden usar la misma imagen con intenciones distintas y legítimas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v6",
+      "statement": "Un lector del texto 1 ordena cuatro momentos: i) la ciudad olvida la memoria del agua, ii) llega el sembrador, iii) la plaza se llena de polvo y el río se vuelve espejo, iv) la ciudad vuelve a mirar el río y encuentra sombra. ¿Cuál es la secuencia correcta?",
+      "context": "En Neiva, un grupo ordena los momentos del poema para reconstruir su interpretación simbólica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ii, i, iii, iv",
+          "is_correct": false,
+          "feedback": "Incorrecto. El inicio del texto ordena los hechos, y esa secuencia rompe la causa que explica la transformación del río."
+        },
+        {
+          "letter": "B",
+          "text": "i, ii, iii, iv",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia presenta el olvido, la llegada del sembrador, la crisis visible y el cambio final que resuelve el poema."
+        },
+        {
+          "letter": "C",
+          "text": "iv, iii, ii, i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orden empieza por el desenlace y termina por el olvido, lo que impide entender la transformación del símbolo."
+        },
+        {
+          "letter": "D",
+          "text": "i, iii, ii, iv",
+          "is_correct": false,
+          "feedback": "Incorrecto. Coloca la crisis antes de la llegada del sembrador, y por ello pierde el sentido de la acción que intenta resolverla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un texto simbólico, el orden de los hechos construye la interpretación y no solo la narración. El olvido explica la crisis, y la siembra explica el cambio final, de modo que alterar la secuencia destruye el argumento del poema. Reconstruir ese orden es una técnica de lectura que también se aplica al análisis de cualquier obra con estructura simbólica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v7",
+      "statement": "Un autor escribe una fábula sobre un árbol que se sacrifica para proteger a los demás. ¿Qué explica que la misma escena se lea de manera distinta en un libro para niños y en un texto dirigido a adultos?",
+      "context": "En Pasto, un profesor pregunta por qué el mismo símbolo no produce el mismo efecto ante públicos distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto para adultos usa un vocabulario más difícil, y eso cambia por sí solo el significado del símbolo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro difícil no explica por sí mismo un cambio de sentido, y la diferencia se produce en la lectura de la escena."
+        },
+        {
+          "letter": "B",
+          "text": "El símbolo solo existe en los textos para adultos, porque los niños no pueden interpretar imágenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños interpretan símbolos con plenitud, y esa capacidad no depende de la edad sino de la experiencia de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Cada público busca información distinta en la escena, y por eso percibe un significado distinto en la misma imagen.",
+          "is_correct": true,
+          "feedback": "Correcto. La lectura depende de lo que el lector busca, y esa expectativa transforma el sentido que atribuye al símbolo."
+        },
+        {
+          "letter": "D",
+          "text": "El autor del texto para adultos cambió la historia, y por eso el símbolo significa algo completamente diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La premisa no está en el enunciado, y con la misma escena el símbolo conserva su núcleo de significado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La interpretación no depende solo del texto, sino también de las expectativas que el lector lleva a la lectura. Un niño puede leer la misma escena buscando una recompensa y un adulto puede buscar una crítica social. Reconocer ese papel del lector evita esperar un único significado correcto y permite escribir imágenes que funcionen en públicos diversos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v8",
+      "statement": "En un cuento, un postre aparece en la mesa de todos los personajes, pero no participa en ninguna escena importante. ¿Qué criterio permite decidir que es un detalle y no un símbolo?",
+      "context": "En Florencia, un profesor revisa un cuento de su grado noveno y pregunta si un objeto es símbolo o detalle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que aparezca una sola vez en el texto, porque un símbolo necesita repetirse muchas veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no es una condición del símbolo, y un elemento único puede sostener el sentido de toda una obra."
+        },
+        {
+          "letter": "B",
+          "text": "Que sea un objeto que cualquier personaje puede comprar en el mercado del pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un objeto sea común no impide que tenga valor simbólico, y la respuesta no resuelve la pregunta planteada."
+        },
+        {
+          "letter": "C",
+          "text": "Que su significado cambie en cada escena, porque un símbolo no puede sostener un sentido único.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variabilidad no es un indicio de detalle, y en un texto bien construido el símbolo mantiene un núcleo de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Que no se relacione con ninguna de las acciones o conflictos que sostienen el relato.",
+          "is_correct": true,
+          "feedback": "Correcto. Un símbolo participa en la acción y en el conflicto, y esa intervención es lo que lo distingue de un adorno."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diferencia entre símbolo y detalle está en la función dentro del relato. El símbolo interviene en el conflicto o en la construcción del sentido, mientras que el detalle solo completa el decorado. Aplicar ese criterio evita llamar símbolo a cualquier objeto interesante y permite trabajar interpretaciones que se apoyan en la estructura de la obra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v9",
+      "statement": "Un texto presenta la lluvia primero como calamidad que destruye la cosecha y después como agua lenta que salva esa misma cosecha, sin explicar el cambio. ¿Qué efecto produce esa relación en el lector?",
+      "context": "En Yopal, un lector nota que un mismo elemento aparece con dos sentidos opuestos en un relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Genera una tensión que obliga a considerar que un mismo fenómeno puede tener dos caras.",
+          "is_correct": true,
+          "feedback": "Correcto. La yuxtaposición obliga a revisar la propia lectura, y esa incomodidad productiva es propia del símbolo bien construido."
+        },
+        {
+          "letter": "B",
+          "text": "Debilita el texto, porque un símbolo no puede aparecer con dos significados opuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contradicción es una estrategia legítima, y el problema aparecería solo si el texto la tratara como un descuido."
+        },
+        {
+          "letter": "C",
+          "text": "Mejora la claridad del texto, porque el autor muestra con ella que la lluvia no tiene efectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no niega los efectos de la lluvia, y la construcción de las dos escenas no es una demostración de inexistencia."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la ambigüedad, porque el lector ya sabe cuál de los dos sentidos es el verdadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación no resuelve la ambigüedad, y la ausencia de una explicación mantiene abierto el sentido del símbolo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un símbolo que cambia de valencia obliga al lector a construir una interpretación más compleja. Esa variación no es un defecto, sino una manera de mostrar que las mismas fuerzas pueden producir resultados opuestos según el contexto. Reconocer la tensión productiva del símbolo ayuda a escribir relatos con capas de significado y no con conclusiones cerradas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v10",
+      "statement": "¿Qué recursos del lenguaje apoyan la lectura simbólica del texto 2?",
+      "context": "En Riohacha, un profesor pide identificar los recursos del lenguaje que sostienen la lectura simbólica del cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de cifras y de fechas que anclan la historia en un momento histórico preciso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento no incluye datos cronológicos, y su fuerza simbólica no depende de la precisión de un calendario."
+        },
+        {
+          "letter": "B",
+          "text": "La repetición de la palabra \"faro\" y el uso de artículos definidos, que presentan el objeto como una presencia única.",
+          "is_correct": true,
+          "feedback": "Correcto. La repetición y los artículos definidos insisten en el faro y convierten su existencia en el centro del relato."
+        },
+        {
+          "letter": "C",
+          "text": "Los adverbios de lugar, que indican con precisión dónde ocurre cada escena del cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los lugares aparecen nombrados una vez, y la lectura simbólica depende de otros recursos y no de esa repetición."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de sustantivos abstractos, que sustituyen a los objetos concretos de la narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento usa sustantivos concretos, como faro, torre y mar, y son esos objetos los que cargan con el sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos del lenguaje sostienen la interpretación simbólica y no solo la superficie del relato. La repetición de un término y el uso de artículos definidos insisten en la presencia de un elemento y lo convierten en centro de atención. Observar esas marcas permite explicar por qué un lector percibe un símbolo allí donde el autor concentra la palabra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma que en cualquier texto el símbolo es solo un adorno sin importancia. ¿Qué evaluación de esa afirmación es la más justa?",
+      "context": "En Ibagué, un estudiante defiende ante su grupo que los símbolos son un adorno sin importancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el símbolo embellece el texto y no participa en su sentido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el texto 2 el faro organiza la trama y define el conflicto, por lo que su función va mucho más allá de la decoración."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es parcialmente correcta, porque en los cuentos breves el símbolo casi siempre funciona como adorno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud del cuento no determina la función del símbolo, y el texto 2 demuestra lo contrario con un relato breve."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incompleta, porque el símbolo organiza el sentido del relato y solo es adorno cuando no interviene en la acción.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta distingue la función simbólica de la función decorativa, y ese criterio puede aplicarse a cualquier obra."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta por completo, porque ninguna descripción de un objeto puede tener valor simbólico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los objetos descritos en un relato sí pueden tener valor simbólico, y el texto 2 lo demuestra con el faro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el papel del símbolo exige distinguir su función dentro de la obra. Cuando el símbolo participa en el conflicto y sostiene el sentido, ocupa el lugar de una tesis silenciosa y no el de un adorno. Formular ese juicio permite defender interpretaciones simbólicas con argumentos, en lugar de reducir la discusión al gusto personal por las imágenes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle-v12",
+      "statement": "Dos versiones del mismo cuento cambian el final: en la versión A, el pueblo concluye que el faro era inútil y lo abandona; en la versión B, la tormenta revela su función y el pueblo respeta el faro. ¿Qué juicio es el más sólido?",
+      "context": "En Armenia, un comité lee dos versiones del mismo cuento simbólico y debe justificar su preferencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A es mejor, porque deja al lector una moraleja más dura sobre la incomprensión de las comunidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dureza de la moraleja no es un criterio de calidad, y el abandono del faro contradice lo que el símbolo representa."
+        },
+        {
+          "letter": "B",
+          "text": "La versión B es mejor, porque explica el símbolo de manera explícita y no deja espacio a la interpretación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Explicar el símbolo de forma explícita reduce el valor del cuento, que justamente consiste en no explicarse."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos versiones son igualmente válidas, porque cambiar el final no altera el significado del faro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El final cambia por completo el sentido del símbolo, y esa variación es justamente lo que hace diferente a cada versión."
+        },
+        {
+          "letter": "D",
+          "text": "La versión B sostiene mejor el símbolo, porque la revelación llega por la acción del relato y no por una explicación del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. La versión B mantiene el sentido del faro a través de los hechos, y con ello respeta la lógica propia del texto simbólico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos versiones del mismo relato simbólico muestra cómo el final determina el sentido del símbolo. En la versión B, la tormenta revela la función del faro por medio de una acción, y el lector completa la interpretación. Elegir con ese criterio ayuda a escribir y a evaluar obras, porque distingue la afirmación directa de la resolución que el relato deja en manos de quien lee.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W29-la-alegoria-y-el-simbolo-en-la-literatura-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
