@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-6-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T14:31:56.027Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v1",
+      "statement": "Según la tabla del Texto 2, ¿cuál de estas palabras rima de manera consonante con la palabra \"flor\"?",
+      "context": "En el patio de una casa de Popayán, la profesora de tercero pide a sus estudiantes que marquen con un lápiz las palabras que se parecen en su sonido final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"mesa\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra \"mesa\" aparece en la columna de la tabla que indica que no hay rima relacionada, porque termina en \"-esa\" y suena distinta de \"flor\"."
+        },
+        {
+          "letter": "B",
+          "text": "\"árbol\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla ubica \"árbol\" entre las palabras sin rima relacionada con \"flor\", porque la \"r\" final se pierde al pronunciar la palabra con la vocal acentuada."
+        },
+        {
+          "letter": "C",
+          "text": "\"amor\"",
+          "is_correct": true,
+          "feedback": "Correcto. \"Amor\" y \"flor\" aparecen juntas en la columna de rima consonante, porque las dos terminan con el mismo sonido en \"-or\"."
+        },
+        {
+          "letter": "D",
+          "text": "\"verde\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Verde\" rima con \"pierde\" y no con \"flor\", porque cambia por completo el sonido de la sílaba final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer la rima es una habilidad de lectura de tercer grado que se apoya en el oído y también en la lectura en voz alta. En esta pregunta el estudiante debe consultar la tabla y comparar la columna de rima consonante. Cuando reconoce que \"amor\" y \"flor\" comparten el mismo sonido final, entiende que la rima consonante es la coincidencia exacta de las últimas sílabas, que es la más fácil de identificar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia correcta entre el ritmo y la rima según el Texto 2?",
+      "context": "En la clase de lectura, la profesora explica que algunos textos tienen música y otros no, y pide a los estudiantes que definan con sus propias palabras qué diferencia hay entre ritmo y rima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ritmo es la distribución regular de los sonidos y las sílabas en el texto, mientras que la rima es la semejanza de sonido entre las últimas palabras de dos o más versos",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 define el ritmo como la distribución regular de sonidos y sílabas, y la rima como la semejanza de sonido en las últimas palabras de los versos."
+        },
+        {
+          "letter": "B",
+          "text": "El ritmo y la rima son lo mismo, porque las dos palabras significan música",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos conceptos se relacionan, pero el Texto 2 los define de manera distinta: uno habla de la distribución de los sonidos y el otro de la semejanza entre palabras."
+        },
+        {
+          "letter": "C",
+          "text": "El ritmo aparece solo en los cuentos y la rima aparece solo en las canciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no limita ninguno de los dos conceptos a un solo tipo de texto, porque el ritmo y la rima pueden aparecer en cualquier escritura en verso."
+        },
+        {
+          "letter": "D",
+          "text": "La rima es la semejanza entre las primeras palabras de los versos y el ritmo es el número de versos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 dice que la rima se produce entre las últimas palabras de los versos, y no entre las primeras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender un concepto significa poder explicarlo con palabras propias y distinguirlo de otros conceptos parecidos. El ritmo es una cualidad general del sonido a lo largo del texto, mientras que la rima es un fenómeno localizado entre los finales de los versos. Separar estas dos nociones evita que los estudiantes las usen como sinónimos y les permite reconocerlas en cualquier lectura en voz alta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v3",
+      "statement": "Un grupo debe terminar el verso \"La brisa llegó y la brisa sopló\". ¿Cuál de estas palabras completa la rima consonante con \"sopló\"?",
+      "context": "En un taller de lectura, la profesora dicta un verso nuevo y pide a los grupos completar la rima que falta antes de que suene el timbre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"cantar\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cantar\" pertenece a la columna de la tabla donde no hay rima relacionada, porque termina en \"-ar\" y no en \"-ó\"."
+        },
+        {
+          "letter": "B",
+          "text": "\"mesa\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Mesa\" no rima con \"sopló\", porque la vocal final es abierta y la sílaba no coincide con la de \"sopló\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"flor\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Flor\" rima con \"amor\" y no con \"sopló\", porque el sonido final cambia de \"-or\" a \"-ó\"."
+        },
+        {
+          "letter": "D",
+          "text": "\"vuelo\"",
+          "is_correct": true,
+          "feedback": "Correcto. \"Vuelo\" y \"sopló\" terminan con el mismo sonido en \"-lo\", así que forman una rima consonante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar el concepto de rima consiste en buscar una palabra nueva que cumpla la misma condición de sonoridad. El estudiante debe comparar la última sílaba de la palabra buscada con la del verso y decidir si la coincidencia es exacta. Este ejercicio entrena el oído y la observación, porque descarta opciones por su terminación y no por su significado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v4",
+      "statement": "En la ronda que canta la abuela Rosalba, ¿qué tipo de rima se identifica entre el verso 1, \"Cuando el sol se va a dormir\", y el verso 3, \"cuando el río deja de rugir\"?",
+      "context": "La profesora de tercero dicta la ronda de la abuela Rosalba y pide que un estudiante escriba en la pizarra los números de los versos que riman entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una rima alterna, porque esos dos versos se encuentran en posiciones alternas dentro del texto",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que la rima alterna aparece en versos alternos, y los versos 1 y 3 están separados por el verso 2."
+        },
+        {
+          "letter": "B",
+          "text": "Es una rima encadenada, porque los dos versos son consecutivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los versos 1 y 3 no son consecutivos, porque entre ellos está el verso 2, así que la rima no es encadenada."
+        },
+        {
+          "letter": "C",
+          "text": "Es una rima aproximada, porque \"dormir\" y \"rugir\" no se escriben igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Dormir\" y \"rugir\" sí coinciden en su sonido final en \"-ir\", de modo que la rima es exacta y no aproximada."
+        },
+        {
+          "letter": "D",
+          "text": "No hay rima entre esos dos versos, porque el Texto 2 solo habla de la última palabra de un solo verso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 define la rima entre la última palabra de dos o más versos, y esos dos versos sí cumplen la condición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el tipo de rima exige mirar la posición de los versos y no solamente el sonido final. Cuando la rima aparece entre versos separados por otro verso se llama alterna, y cuando cae en versos seguidos se llama encadenada. Esta distinción prepara a los estudiantes para analizar la estructura interna de los textos en verso y para escribir sus propios versos con intención.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v5",
+      "statement": "Un estudiante de Bogotá escribe estos versos: \"En Bogotá vive mi gato, / y al amanecer se sienta en el patio. / Cuando lo llamo, salta por la puerta, / y bajo la cama se acuesta sin alerta\". ¿Qué problema tiene el texto para cumplir la regla de rima consonante entre los versos 1 y 2?",
+      "context": "En la tarea final de la semana, la profesora pide a cada estudiante de tercero que escriba cuatro versos propios que rimen entre sí y que incluyan el nombre de su ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene problema, porque el ritmo del texto ya reemplaza la rima",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ritmo y la rima son propiedades diferentes, y el ritmo por sí solo no garantiza la coincidencia de las últimas palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Las últimas palabras de ambos versos no coinciden en sonido, porque el verso 1 termina en \"-ato\" y el verso 2 en \"-io\"",
+          "is_correct": true,
+          "feedback": "Correcto. El verso 1 termina en \"gato\" y el verso 2 en \"patio\", así que sus finales no forman una rima consonante."
+        },
+        {
+          "letter": "C",
+          "text": "El problema es que hay más de un animal en el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de animales no tiene relación con la rima, porque la rima depende solamente del sonido de las últimas palabras."
+        },
+        {
+          "letter": "D",
+          "text": "El problema es que el verso 1 tiene menos sílabas que el verso 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no establece una regla sobre el número de sílabas de cada verso, así que la diferencia de longitud no es el problema que se evalúa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la regla de la rima significa revisar si el par de versos cumple la condición de sonoridad y, si no, detectar cuál es la diferencia. En este caso el estudiante debe comparar las sílabas finales y ver que no coinciden. Reconocer el error es un paso previo a la corrección, y por eso los estudiantes reescriben el verso hasta lograr una rima consonante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor forma de demostrar que la rima cumple una segunda función además de hacer lindo el texto del Texto 1?",
+      "context": "En la cartelera del aula, un grupo afirma que la abuela Rosalba usa la rima solamente para que la historia se vea bonita, y el otro grupo quiere demostrar que la rima también sirve para otra cosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrarlo explicando que la rima vuelve el texto más largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rima no alarga el texto, porque la cantidad de palabras depende de lo que el autor escribe y no del sonido de los finales."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrarlo explicando que la rima sirve para que todos los niños contendran por la palabra \"dormir\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no muestra una competencia por la palabra, porque la ronda se canta en familia y no es un concurso."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrarlo explicando que la rima existe para que el texto sea fácil de copiar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no menciona que alguien copie la ronda, y la ejecución de la ronda es oral, así que esa función no está escrita en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrarlo explicando que la rima permite que Camila advierta qué palabras coinciden y que ese descubrimiento le sirve para intentar crear sus propios versos",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que Camila notó la repetición del sonido final, y esa observación es la que le permite inventar sus versos con rima imperfecta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un texto implica separar sus partes y explicar cómo se relacionan. En el Texto 1 la rima cumple la función estética de hacer agradable la lectura, pero además funciona como herramienta de aprendizaje: la niña reconoce la coincidencia de sonidos y con ese descubrimiento se atreve a crear. Reconocer la doble función evita leer la rima como un adorno inútil.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia más importante entre lo que aporta el Texto 1 y lo que aporta el Texto 2?",
+      "context": "La profesora de tercero pide comparar los dos textos de la semana en una cartelera y explicar qué diferencia hay entre lo que aporta cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 muestra el ritmo y la rima funcionando dentro de una escena, y el Texto 2 los define y los clasifica con una tabla",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 es narrativo y muestra la rima en acción, mientras que el Texto 2 presenta la definición, la clasificación y ejemplos en tabla."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos cuentan la historia de Camila, así que la diferencia solo está en el nombre de los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no cuenta la historia de Camila, porque es una ficha de definiciones y ejemplos de rima."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 sirve para explicar la rima y el Texto 2 sirve para discutir si el ritmo tiene utilidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no discute la utilidad del ritmo, porque su propósito es definir y clasificar, no argumentar."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos son iguales, porque los dos presentan ejemplos de rima consonante y de rima alterna",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 presenta una sola ronda con rimas y no clasifica sus tipos, y el Texto 2 es el único que hace esa clasificación explícita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar textos del mismo tema permite entender que un tema puede aparecer en textos de tipos distintos. La ronda permite vivir el ritmo y la rima, y la tabla permite nombrarlos y clasificarlos. Cuando los estudiantes identifican la diferencia, entienden que combinar la lectura de un cuento con la lectura de un texto informativo mejora la comprensión del concepto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la valoración más sólida que puede hacer el grupo frente a esa afirmación?",
+      "context": "En la exposición oral final, un estudiante de tercero afirma que la rima no sirve para nada, porque en la vida real casi nadie escribe en verso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque las canciones y las rondas ya no se usan en Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una valoración sólida tiene que apoyarse en los textos de la semana, y en el Texto 1 la ronda de la abuela sigue siendo una práctica viva."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incompleta, porque la rima aparece solo en las clases de lectura y no tiene efecto en la comprensión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación no es incompleta por eso, sino porque el Texto 2 dice que el ritmo y la rima facilitan la comprensión y la memorización."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque el Texto 2 indica que el ritmo y la rima facilitan la comprensión y la memorización, y el Texto 1 lo muestra cuando Camila se atreve a crear sus propios versos",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia de los dos textos contradice la afirmación: la rima sirve para aprender y para crear, y no solo para escribir cosas bonitas."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque escribir en verso es más difícil que escribir en prosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad de escribir en verso es un dato de gusto personal y no resuelve si la rima cumple una función útil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar es emitir un juicio y sostenerlo con pruebas del texto leído. En este caso la afirmación del compañero se apoya en una idea general que los dos textos refutan. Un buen argumento de lectura incluye la evidencia textual y explica por qué esa evidencia es importante para la conclusión.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W06-el-ritmo-y-la-rima-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

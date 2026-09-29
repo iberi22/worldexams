@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-11-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T14:31:56.033Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v1",
+      "statement": "Según la ficha del Texto 2, ¿qué tipo de adjetivo es \"alegre\" en la frase \"la señora alegre saludó a todos\"?",
+      "context": "En la clase de lectura, la profesora proyectó la ficha del Texto 2 y pidió a sus estudiantes que señalaran el adjetivo de cada ejemplo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un adjetivo de aspecto, porque indica la forma del rostro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha lo clasifica como adjetivo de carácter, porque muestra el estado de ánimo y no la forma física."
+        },
+        {
+          "letter": "B",
+          "text": "Es un adjetivo de carácter, porque indica el estado de ánimo de la persona",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha dice que \"alegre\" muestra el estado de ánimo y que ese tipo de adjetivo se llama de carácter."
+        },
+        {
+          "letter": "C",
+          "text": "Es un adjetivo de aspecto, porque se puede ver en la cara de la señora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el estado de ánimo se pueda notar, la ficha clasifica \"alegre\" como adjetivo de carácter y no de aspecto."
+        },
+        {
+          "letter": "D",
+          "text": "No es un adjetivo, porque la palabra \"señora\" ya dice cómo es la persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Señora\" nombra a la persona y \"alegre\" dice cómo es, de modo que las dos palabras tienen funciones distintas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar los adjetivos según lo que muestran ayuda a los estudiantes a entender que no todos dicen lo mismo. La ficha separa los adjetivos de aspecto de los de carácter y explica qué muestra cada grupo. Cuando el estudiante ubica \"alegre\" en el grupo correcto, aprende a leer las descripciones con una precisión mayor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿por qué la calidad de una descripción depende de que el adjetivo sea preciso?",
+      "context": "En la clase, la profesora les pregunta a sus estudiantes qué pasaría con el cuento si los adjetivos desaparecieran de las descripciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque un adjetivo preciso indica una cualidad concreta y definite, mientras que uno vago deja al lector sin información sobre cómo es la persona",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 dice que la calidad de una descripción depende de la precisión del adjetivo, y no solamente de que exista uno."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los adjetivos precisos son siempre más largos que los vagos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de la palabra no es el criterio, porque la ficha mide la calidad por la claridad de la cualidad indicada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque un adjetivo preciso hace que el sustantivo se escriba con mayúscula",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayúscula depende de si el sustantivo es propio o común, y no del adjetivo que lo acompaña."
+        },
+        {
+          "letter": "D",
+          "text": "Porque un adjetivo preciso siempre es un adjetivo de aspecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha muestra adjetivos precisos de los dos tipos, porque tanto el aspecto como el carácter pueden describirse con exactitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender el papel de la precisión enseña que no basta con poner un adjetivo, sino que hay que elegir el que mejor informa. Un adjetivo vago como \"feo\" no dice nada concreto, mientras que uno preciso como \"gastado\" sí lo hace. Esta distinción prepara a los estudiantes para escribir descripciones que el lector pueda imaginar con facilidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v3",
+      "statement": "Un grupo escribió: \"La mamá de Daniela era Simpática. Su casa era Linda. La comida estaba Rica.\" ¿Qué cambio mejora más la calidad de esa descripción?",
+      "context": "En un taller de escritura, la profesora entrega a cada grupo una descripción de personaje con adjetivos vagos y les pide que la mejoren.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar \"simpática\" por \"cariñosa\", porque son palabras parecidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar un adjetivo general por otro general no aporta información nueva, porque los dos siguen siendo imprecisos."
+        },
+        {
+          "letter": "B",
+          "text": "Quitar los tres adjetivos, porque un texto no necesita adjetivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado pide mejorar la descripción, y quitar los adjetivos la dejaría más vacía todavía."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir los adjetivos vagos por adjetivos concretos, por ejemplo decir que la casa tenía \"las paredes descascaradas\" en vez de solo \"linda\"",
+          "is_correct": true,
+          "feedback": "Correcto. La opción cambia un adjetivo general por uno que describe una cualidad visible y verificable, tal como lo pide la ficha."
+        },
+        {
+          "letter": "D",
+          "text": "Agregar más adjetivos a cada oración, porque la descripción se vuelve mejor con más palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha dice que lo que importa es la precisión del adjetivo, y no la cantidad de adjetivos que se agreguen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la regla de la ficha significa revisar si cada adjetivo aporta una cualidad concreta y decidir cómo reemplazarlo. En este caso el problema no es la presencia de adjetivos sino su vaguedad. Cuando los estudiantes reescriben con detalles que se pueden ver, aprenden que describir es elegir bien las palabras, no llenar la oración de ellas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v4",
+      "statement": "En el Texto 1 aparece la frase \"Kesley, el niño alegre de la canchita\". ¿A qué sustantivo acompaña el adjetivo \"alegre\" y qué muestra?",
+      "context": "La profesora de tercero pide a los estudiantes que busquen en el Texto 1 los adjetivos y que anoten a qué sustantivo acompaña cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acompaña a \"canchita\" y muestra el tipo de superficie del terreno",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Alegre\" describe a la persona y no un lugar, porque la ficha lo clasifica como adjetivo de carácter."
+        },
+        {
+          "letter": "B",
+          "text": "Acompaña a \"niño\" y muestra cómo se siente, porque la ficha lo coloca entre los adjetivos de carácter",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha dice que \"alegre\" indica el estado de ánimo de la persona, y por eso acompaña a \"niño\" como adjetivo de carácter."
+        },
+        {
+          "letter": "C",
+          "text": "Acompaña a \"Kesley\" y muestra la estatura de la persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Kesley\" es un nombre propio y la ficha no lo asocia a la estatura, que corresponde al adjetivo \"alto\"."
+        },
+        {
+          "letter": "D",
+          "text": "No acompaña a ningún sustantivo, porque es un adverbio que modifica toda la oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha clasifica a \"alegre\" como adjetivo, y un adjetivo siempre acompaña a un sustantivo o a un pronombre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar a qué palabra acompaña un adjetivo es una habilidad de lectura que se entrena con textos reales. La ficha muestra que un adjetivo de carácter indica cómo se siente o cómo es la persona por dentro. Reconocer esta función permite entender que la misma oración puede describir el exterior de alguien y su manera de ser al mismo tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v5",
+      "statement": "Un estudiante añadió el adjetivo \"curioso\" a la oración \"El niño miraba la caja\". ¿Qué información nueva aporta ese adjetivo a la descripción del niño?",
+      "context": "En la actividad de la semana, cada estudiante debe añadir un adjetivo a una oración y explicar qué información nueva aporta al lector.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aporta una cualidad de carácter del niño, porque muestra cómo es por dentro y no solo lo que hacía",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha explica que los adjetivos de carácter muestran cómo es la persona, y \"curioso\" añade esa información a la oración."
+        },
+        {
+          "letter": "B",
+          "text": "Aporta la estatura del niño, porque \"curioso\" es un adjetivo de aspecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha clasifica \"curioso\" como un adjetivo de carácter, porque indica cómo es el niño por dentro y no su estatura."
+        },
+        {
+          "letter": "C",
+          "text": "No aporta información nueva, porque la oración ya tenía un verbo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo indica la acción, y el adjetivo añade una cualidad del niño que el verbo no mostraba."
+        },
+        {
+          "letter": "D",
+          "text": "Aporta el color de la caja, porque el adjetivo se refiere a la caja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El adjetivo acompaña a \"niño\" y no a \"caja\", así que no describe el aspecto del objeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Añadir un adjetivo es una forma de ampliar lo que el lector sabe de un personaje. En este caso el verbo ya decía que el niño miraba, y el adjetivo añade que lo hacía con curiosidad. Comprender que el adjetivo aporta información nueva ayuda a los estudiantes a escribir sin dejar huecos en la descripción de sus personajes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor forma de demostrar que los adjetivos cumplen una función distinta de solo hacer lindo el cuento?",
+      "context": "En la discusión de lectura, un compañero de tercero sostiene que los adjetivos solo sirven para hacer los cuentos más bonitos, y el grupo analiza el Texto 1 para contradecirlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrarlo explicando que los adjetivos hacen que el cuento tenga más páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de páginas depende de la extensión del relato, y no del número de adjetivos que se usen."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrarlo explicando que en el Texto 1 todos los personajes aparecen con varios adjetivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mera presencia de adjetivos no demuestra ninguna función, porque la pregunta es para qué sirven."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrarlo explicando que un adjetivo preciso permite que el lector entienda cómo es o cómo se siente un personaje, y no solo cómo se ve",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha separa los adjetivos de aspecto de los de carácter, y esa separación muestra que el adjetivo informa más allá de la apariencia."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrarlo explicando que los adjetivos son palabras que se pueden quitar sin cambiar el cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar un adjetivo cambia lo que el lector sabe del personaje, y por eso esa razón demuestra lo contrario de lo que se busca."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un texto implica explicar qué efecto produce cada recurso del autor. Los adjetivos no son adornos: cuando son precisos, comunican información sobre el personaje que el lector necesita para entender cómo actúa. Reconocer esta función muestra que el adjetivo es una herramienta de comprensión y no un adorno de estilo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia más importante entre lo que aporta el Texto 1 y lo que aporta el Texto 2?",
+      "context": "La profesora de tercero pide a cada grupo que presente en la cartelera qué aprendió con el Texto 1 y qué aprendió con el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos cuentan la historia de Mateo, así que la diferencia está en el nombre de la canchita",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no cuenta ninguna historia, porque es una ficha de definiciones y ejemplos sobre los adjetivos."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 explica qué es un adjetivo y el Texto 2 muestra qué pasa cuando se cambia un adjetivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está al revés: el Texto 1 narra una escena y el Texto 2 es el que define y clasifica."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 clasifica los adjetivos de aspecto y de carácter, y el Texto 2 cuenta lo que le pasa a Kesley",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no clasifica adjetivos, y el Texto 2 no narra ninguna historia de Kesley."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 muestra los adjetivos funcionando dentro de una escena, y el Texto 2 los define, los clasifica y explica cuándo son precisos",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 presenta el recurso en uso dentro de la historia y el Texto 2 organiza el conocimiento en una ficha con tipos y criterios."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar los dos textos de la semana revela que un concepto puede aparecer con dos funciones distintas. El cuento muestra el adjetivo en acción dentro de una escena, y la ficha permite nombrarlo, clasificarlo y juzgarlo. Cuando el estudiante distingue esos papeles, entiende por qué la clase siempre combina un texto narrativo con un texto informativo del mismo tema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la valoración más sólida que puede hacer el grupo frente a esa afirmación?",
+      "context": "En la puesta en común final, un estudiante de tercero afirma que cualquier adjetivo sirve para describir a una persona, siempre que se use uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque cualquier palabra puede servir como adjetivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una valoración sólida se apoya en los textos, y el Texto 2 explica que solo los adjetivos acompañan al sustantivo para indicar una cualidad."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque la ficha solo muestra adjetivos de aspecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha muestra adjetivos de los dos tipos, de aspecto y de carácter, así que esa razón no demuestra lo que dice la afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incompleta, porque los adjetivos solo sirven para describir a personas y no objetos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 muestra que los adjetivos también pueden acompañar a un objeto, como \"morral gastado\"."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque el Texto 2 explica que la calidad de la descripción depende de la precisión del adjetivo y no solamente de usarlo",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha establece un criterio de calidad, y ese criterio muestra que no basta con colocar un adjetivo cualquiera."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar es emitir un juicio y defenderlo con pruebas del texto leído. La afirmación del compañero supone que cualquier adjetivo sirve igual, y la ficha establece un criterio de precisión que desmiente esa idea. Un buen argumento de lectura apoya su conclusión en la evidencia concreta del texto y explica con claridad por qué esa evidencia es importante.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W11-los-adjetivos-que-describen-a-las-personas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

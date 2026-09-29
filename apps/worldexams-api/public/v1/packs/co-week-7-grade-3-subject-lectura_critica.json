@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-7-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T14:31:56.031Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v1",
+      "statement": "Según la ficha del Texto 2, ¿en qué fila debe quedar la frase \"el delantal de cuadros\" que se usa para mostrar cómo era la abuela?",
+      "context": "En el salón de tercero en Bucaramanga, la profesora proyectó la ficha del Texto 2 y pidió a los estudiantes que clasificaran ejemplos de descripciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la fila \"Forma de ser\", porque la ficha incluye las acciones de la abuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase \"el delantal de cuadros\" dice cómo se ve la abuela por fuera, y no cómo piensa ni cómo actúa."
+        },
+        {
+          "letter": "B",
+          "text": "En la fila \"Ambiente o lugar\", porque el delantal se usa en la cocina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha separa la descripción de las personas de la descripción de los lugares, y el delantal describe a la abuela."
+        },
+        {
+          "letter": "C",
+          "text": "En la fila \"Aspecto físico\", porque la frase muestra cómo se ve la abuela por fuera",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha dice que la fila \"Aspecto físico\" muestra cómo se ve el personaje, y el delantal de cuadros es una señal de su apariencia."
+        },
+        {
+          "letter": "D",
+          "text": "En la fila \"Objeto\", porque el delantal es una cosa del cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha reserva la fila \"Objeto\" para las cosas que tienen importancia dentro de la historia, y el ejemplo del delantal describe a una persona."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clasificar la descripción es una habilidad que se construye comparando el propósito de cada frase. La ficha separa cuatro clases de descripción según aquello que el autor quiere mostrar. Cuando el estudiante ubica una frase en la fila correcta, aprende que describir es elegir palabras para un fin concreto y no acumular información sin criterio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia correcta entre describir y narrar, según el Texto 2?",
+      "context": "La profesora de tercero les lee a sus estudiantes dos oraciones sobre el mismo personaje y les pregunta en cuál de las dos el autor está describiendo y no solamente narrando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir es mostrar cómo es un personaje, un lugar o un objeto, mientras que narrar es contar lo que sucede en la historia",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 dice que la descripción muestra cómo es algo y que el relato se ocupa de contar lo que hace y lo que ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "Describir es contar lo que hacen los personajes y narrar es mostrar cómo se ven",
+          "is_correct": false,
+          "feedback": "Incorrecto. La opción invierte los dos conceptos, porque el Texto 2 reserva la narración para los hechos y la descripción para el aspecto."
+        },
+        {
+          "letter": "C",
+          "text": "Describir y narrar son la misma cosa, porque las dos se hacen con oraciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las dos usan oraciones, el Texto 2 explica que cumplen funciones diferentes dentro del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Describir solo sirve para los animales y narrar solo sirve para las personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no hace esa distinción, porque la descripción se aplica a personajes, lugares y objetos sin importar si son personas o animales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la diferencia entre describir y narrar es indispensable para leer con criterio en tercer grado. Narrar responde a la pregunta de qué pasó, y describir responde a la pregunta de cómo es. Cuando los estudiantes distinguen las dos funciones, comprenden por qué un cuento puede tener oraciones de un tipo y del otro en el mismo párrafo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v3",
+      "statement": "Un grupo debe elegir la frase que mejor describe a una heroine para el afiche de la obra de teatro. ¿Cuál de estas frases cumple mejor esa función?",
+      "context": "En la cartelera del salón, la profesora pide a cada grupo que elija la frase que mejor describe a un personaje para un afiche de la obra de teatro del grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Mariana llegó a la sala y empezó a hablar\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase cuenta lo que hace la personaje, que es narrar, y no dice cómo se ve ni cómo es."
+        },
+        {
+          "letter": "B",
+          "text": "\"Mariana era simpática\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase es correcta como opinión, pero es poco precisa, porque un adjetivo solo no alcanza para que el lector imagine a la personaje."
+        },
+        {
+          "letter": "C",
+          "text": "\"Mariana llevaba una bata blanca y el pelo recogido\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sí describe, pero ofrece un solo detalle de apariencia y ningún otro, así que no alcanza para que el lector imagine bien a la personaje en un afiche."
+        },
+        {
+          "letter": "D",
+          "text": "\"Mariana llevaba una bata blanca de algodón, el pelo recogido en una trenza larga y las manos agrietadas por el frío\"",
+          "is_correct": true,
+          "feedback": "Correcto. La frase da varios detalles concretos y precisos del aspecto, así que el lector puede imaginarla con claridad desde el afiche."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar el concepto de descripción significa usar palabras concretas para lograr un efecto en el lector. La opción correcta muestra cómo se ve la personaje con detalles que el lector puede ver, y no con adjetivos vagos ni con acciones. Esta práctica enseña que la calidad de una descripción depende de la precisión y no de la cantidad de palabras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v4",
+      "statement": "En el Texto 1, un grupo subrayó la oración \"El morral de cuero gastado pesaba como si llevara piedras\". ¿Qué razón explica mejor esa oración subrayada?",
+      "context": "La profesora de tercero recorre los puestos y pide a cada estudiante que subraye con un color las oraciones del Texto 1 que describen y las que narran.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una narración, porque cuenta que el morral pesaba mucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la oración menciona una acción, lo que hace es mostrar cómo es el objeto por fuera con la imagen del cuero gastado."
+        },
+        {
+          "letter": "B",
+          "text": "Es una descripción, porque muestra cómo es el objeto y no lo que hace",
+          "is_correct": true,
+          "feedback": "Correcto. La oración no cuenta acciones, sino que muestra cómo es el morral mediante la imagen del cuero gastado y del peso."
+        },
+        {
+          "letter": "C",
+          "text": "Es una descripción, porque aparece dentro de un párrafo y no de una oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión y el párrafo no son los criterios de la descripción, porque el Texto 2 dice que puede aparecer en una oración o en un párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una narración, porque el narrador está dentro de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el narrador participe no convierte la oración en narración, porque lo que define el tipo de oración es su propósito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar una oración consiste en preguntarse si su propósito es mostrar o contar. En este caso la imagen del cuero gastado pertenece a la fila \"Objeto\" de la ficha. Reconocer el propósito de cada oración enseña a los estudiantes a leer de manera más fina y a explicar por qué un autor elige una palabra y no otra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v5",
+      "statement": "Una estudiante de Villavicencio escribió esta descripción: \"Donacio es un señor viejo\". ¿Cuál de estos cambios mejora la calidad de la descripción?",
+      "context": "En la clase de lectura, la profesora entrega a cada estudiante una descripción demasiado corta de un personaje y les pide que la amplíen con información precisa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Donacio es un señor muy viejo\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio solo repite la idea y agrega un adverbio, pero no aporta ningún detalle que ayude al lector a imaginarlo."
+        },
+        {
+          "letter": "B",
+          "text": "\"Donacio es un señor de cabello blanco y muy delgado, que carga siempre un bastón de madera y habla mirando al suelo\"",
+          "is_correct": true,
+          "feedback": "Correcto. El cambio agrega detalles concretos del aspecto y de las costumbre, así que el lector puede construir una imagen clara de Donacio."
+        },
+        {
+          "letter": "C",
+          "text": "\"Donacio es un señor viejo, simpático y divertido\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio suma adjetivos generales sin detalles concretos, de modo que la descripción sigue siendo vaga."
+        },
+        {
+          "letter": "D",
+          "text": "\"Donacio es un señor viejo, y por eso siempre llega tarde\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio agrega una consecuencia y no muestra cómo es Donacio, así que cuenta un hecho y no describe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ampliar una descripción es aplicar el concepto con una técnica concreta. La ficha indica que la descripción puede usar el aspecto físico, la forma de ser, el ambiente y los objetos. En la respuesta correcta el estudiante combina dos de esas categorías, lo que le permite al lector imaginar al personaje con mucho más detalle que con un solo adjetivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor forma de demostrar que la descripción cumple una función distinta de solo hacer lindo el cuento del Texto 1?",
+      "context": "Un compañero de tercero sostiene que la descripción solo sirve para que el cuento se vea bonito, y el grupo quiere mostrar qué pasa con la historia cuando la descripción es vaga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrarlo explicando que la descripción hace que el cuento tenga más páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión del texto depende de la cantidad de acciones narradas, y no del número de descripciones."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrarlo explicando que la descripción sirve para que el lector imagine al personaje y entienda mejor lo que hace",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 dice que la descripción sirve para que el lector se lo imagine, y eso permite entender mejor lo que el personaje hace después."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrarlo explicando que la descripción sirve para terminar el cuento antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describir no acorta la historia, porque el orden de los hechos depende del autor y no de las descripciones."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrarlo explicando que la descripción es obligatoria para todos los cuentos de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 presenta la descripción como un recurso útil, pero en ningún momento afirma que sea obligatoria en todos los cuentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar significa separar las partes de un texto y explicar cómo se relacionan. La descripción cumple una función de comprensión: permite que el lector construya la imagen del personaje y con esa imagen entienda mejor sus acciones. Reconocer esta función evita tratar la descripción como un adorno que se puede quitar sin perder nada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia más importante entre lo que aporta el Texto 1 y lo que aporta el Texto 2?",
+      "context": "La profesora pide a los estudiantes que comparen en una mesa de trabajo el Texto 1 y el Texto 2 y que anoten qué aporta cada uno a la comprensión de la descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 muestra descripciones funcionando dentro de una historia, y el Texto 2 explica qué es la descripción y ordena sus tipos en una tabla",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 es narrativo y muestra el recurso en uso, mientras que el Texto 2 es un texto informativo que define y clasifica."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos cuentan la historia de Isabella, así que la diferencia está en el nombre de los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no cuenta la historia de nadie, porque es una ficha de definiciones y ejemplos."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 sirve para clasificar descripciones y el Texto 2 sirve para inventar personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está al revés: el Texto 1 muestra la descripción en una historia y el Texto 2 la clasifica."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos son iguales, porque los dos traen ejemplos de la misma descripción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 tiene ejemplos propios, tomados de otros cuentos, y el Texto 1 trabaja con los detalles de la historia de Isabella."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos textos del mismo tema ayuda a ver que un concepto puede aparecer en formatos distintos. El cuento muestra la descripción en uso dentro de una trama, y la ficha la explica y la ordena en categorías. Cuando los estudiantes notan esta diferencia, entienden que leer un cuento e informarse sobre el tema son tareas que se complementan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la valoración más sólida que puede hacer el grupo frente a esa afirmación?",
+      "context": "En la puesta en común, un estudiante de tercero afirma que describir es únicamente decir cómo se ve una persona por fuera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el Texto 1 solo describe el aspecto de los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una valoración sólida tiene que apoyarse en los dos textos, y el Texto 2 muestra que la descripción no se limita al aspecto físico."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incompleta, porque describir solo sirve en los cuentos de aventuras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación no es incompleta por eso, sino porque el Texto 2 muestra que describir sirve en cualquier texto narrativo."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque el Texto 2 muestra que la descripción incluye el aspecto físico, la forma de ser, el ambiente y los objetos",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha enumera cuatro clases de descripción, de las cuales solo una corresponde al aspecto físico, así que la afirmación queda desmentida por el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque las otras clases de la ficha no se pueden escribir en una oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 dice que la descripción puede aparecer en una oración o en un párrafo completo, así que las otras clases también se pueden escribir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar es emitir un juicio y defenderlo con pruebas del texto leído. En este caso la afirmación del compañero reduce la descripción a una sola de las cuatro clases que presenta la ficha. Un buen argumento de lectura menciona la evidencia concreta y explica por qué esa evidencia demuestra que la afirmación es incompleta o falsa.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W07-las-descripciones-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

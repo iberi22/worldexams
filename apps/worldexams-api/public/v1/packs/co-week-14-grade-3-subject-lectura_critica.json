@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-14-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T14:31:56.034Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 2, ¿qué parte de la leyenda del Texto 1 corresponde a \"un explorador se perdió y encontró una cuerda\"?",
+      "context": "En el salón de tercero, la profesora proyectó la ficha del Texto 2 y pidió a sus estudiantes que identificaran las partes de una leyenda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corresponde a la parte del lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha separa el lugar, que es el cerro del valle de Coclé, de los hechos que ocurrieron allí."
+        },
+        {
+          "letter": "B",
+          "text": "Corresponde a la parte de la explicación popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La explicación popular es lo que dijo la gente que era, y el hallazgo de la cuerda es un hecho narrado en el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Corresponde a la parte del hecho real",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha define el hecho real como el acontecimiento que da origen al relato, y el explorador perdido y la cuerda son ese hecho."
+        },
+        {
+          "letter": "D",
+          "text": "Corresponde a la parte del personaje extraordinario",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha usa esa etiqueta para el personaje que hace algo excepcional, y no para el hecho que se narró."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer las partes de una leyenda ayuda a los estudiantes a leer estos relatos con una estructura clara. La ficha organiza el relato según el lugar, el hecho real, el personaje y la explicación popular. Cuando el estudiante ubica el hallazgo de la cuerda dentro de la estructura, entiende que la leyenda se construye a partir de un acontecimiento verificable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿por qué una leyenda no es lo mismo que un cuento inventado?",
+      "context": "En la clase de lectura, la profesora les pregunta a sus estudiantes por qué la gente cuenta leyendas si esas historias no son completamente verdad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la leyenda se cuenta como verdadero y se apoya en un hecho real, un lugar y unos personajes que pudieron existir",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que la leyenda se cuenta como verdadera y que se apoya en hechos, lugares y personajes reales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la leyenda se escribe en un libro y el cuento se cuenta de palabra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no usa el medio de transmisión como criterio, porque una leyenda también se cuenta de palabra."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cuento tiene personajes inventados y la leyenda se apoya en personajes que pudieron existir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha dice que la leyenda puede tener personajes que pudieron existir, y no afirma que sean siempre reales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las leyendas son más largas que los cuentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no se ocupa de la extensión, y la ficha se ocupa de cómo se presenta el relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la diferencia entre leyenda y cuento inventado es esencial para no confundir los dos tipos de lectura. La leyenda se cuenta como si hubiera ocurrido, mientras que el cuento se presenta desde el principio como una invención. Reconocer esta diferencia enseña a los estudiantes a preguntarse quién cuenta la historia y con qué intención.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v3",
+      "statement": "Una versión de la leyenda dice que el explorador encontró una cuerda de algodón, y otra versión dice que encontró una cuerda de fique. ¿Qué deben hacer los grupos para explicar esa diferencia?",
+      "context": "En el trabajo en grupo, la profesora entrega dos versiones de la leyenda del Cerro de los Tres Nomines y pide a los grupos que averigüen en qué se diferencian.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar qué parte de la leyenda es el hecho real, para poder distinguir lo que se conserva de lo que cambia",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha separa el hecho real de la explicación popular, y ese criterio permite ver qué se mantiene y qué se modifica."
+        },
+        {
+          "letter": "B",
+          "text": "Repetir la versión que les parezca más interesante, porque las leyendas no tienen una versión correcta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha explica que las leyendas cambian de versión, y también que todas se apoyan en un hecho real que no cambia."
+        },
+        {
+          "letter": "C",
+          "text": "Contarles a los demás que la primera versión es la única verdadera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado pide una explicación de la diferencia, y no que un grupo decida cuál versión vale más."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el nombre del cerro para que las dos versiones queden iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el nombre del lugar no hace que las versiones coincidan, porque la ficha explica que el lugar es una parte fija de la leyenda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar la estructura de la leyenda significa usar sus partes para explicar por qué dos versiones pueden ser distintas. El lugar y el hecho real se conservan, mientras que la explicación popular se transforma con los años. Cuando los estudiantes hacen esta comparación, aprenden que los relatos orales cambian sin dejar de ser el mismo relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v4",
+      "statement": "En el Texto 1, ¿qué frase corresponde a la parte de la explicación popular de la leyenda?",
+      "context": "La profesora de tercero pide a los estudiantes que busquen en el Texto 1 la frase que corresponde a la explicación popular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"En el valle de Coclé, en Antioquia, hay un cerro al que la gente llama el Cerro de los Tres Nomines\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase indica el lugar, y la ficha lo presenta como una parte separada de la explicación popular."
+        },
+        {
+          "letter": "B",
+          "text": "\"Un explorador se perdió entre los árboles y vio tres luces que cambiaban de lugar\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase narra el hecho que da origen al relato, y la ficha lo ubica en la parte del hecho real."
+        },
+        {
+          "letter": "C",
+          "text": "\"Que las luces eran las almas de los tres emperadores\"",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha define la explicación popular como lo que la gente dijo que era el hecho, y eso es exactamente lo que dice esta frase."
+        },
+        {
+          "letter": "D",
+          "text": "\"La cuerda de algodón retorcido, muy larga, que nadie había visto antes\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase describe el objeto que encontró el explorador, y no la explicación que la gente le dio a lo que vio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir la explicación popular del hecho relatado es una habilidad de lectura que se entrena con los relatos populares. La ficha muestra que la explicación popular es la respuesta que la gente inventó para lo que no comprendía. Cuando el estudiante la identifica, entiende que la leyenda une un dato verificable con una imaginación colectiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v5",
+      "statement": "Un estudiante de Cali quiere escribir el final de una leyenda nueva. ¿Cuál de estos elementos le sirve como hecho real para empezar?",
+      "context": "En la actividad de la semana, cada estudiante debe inventar un final para la leyenda y explicar qué parte de la leyenda está usando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un monstruo con alas que sale de un río cada cien años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El monstruo con alas pertenece a la explicación popular de la leyenda, y no a un hecho que haya ocurrido de verdad."
+        },
+        {
+          "letter": "B",
+          "text": "Una historia que dice que las luces eran los espíritus de los muertos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es la explicación popular, que es justamente la parte que la gente inventa, y no el hecho que da origen."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que dice que en 1850 los vecinos de un pueblo de Nariño vieron luces extrañas cerca de un páramo",
+          "is_correct": true,
+          "feedback": "Correcto. Un registro escrito y un lugar y una fecha concretos dan un hecho real del que se puede partir para crear la leyenda."
+        },
+        {
+          "letter": "D",
+          "text": "Un diálogo entre un niño y su abuela sobre por qué esas luces aparecen",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo muestra a alguien contando la leyenda, y no el hecho que la leyenda cuenta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la estructura de la leyenda significa buscar un punto de partida verificable antes de inventar. La ficha explica que la leyenda se apoya en un hecho real, en un lugar y en una fecha que se pueden comprobar. Cuando el estudiante elige un registro escrito, ya tiene el cimiento serio sobre el cual puede construir su relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor explicación de por qué una leyenda cambia de versión cuando pasa de boca en boca?",
+      "context": "En la discusión de lectura, la profesora pide al grupo que explique por qué la leyenda del Texto 1 se cuenta de maneras diferentes en cada pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las personas que la cuentan se equivocan siempre al repetirla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no dice que los narradores se equivocan, porque el cambio se explica por la transmisión oral."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la explicación popular es la parte que la gente modifica, mientras que el lugar y el hecho real se conservan",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha muestra que el relato se apoya en un hecho fijo y en la parte imaginada que se transforma con los años."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cada narrator usa un lenguaje diferente y por eso los hechos cambian",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de lenguaje no cambia los hechos, y la ficha separa el hecho real de la explicación popular."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las leyendas deben ser distintas entre un pueblo y otro para no repetirse",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no establece esa regla, porque explica el cambio a partir de la transmisión de boca en boca."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un relato popular implica explicar por qué se transforma a lo largo del tiempo. La ficha ofrece la clave: el hecho real y el lugar se mantienen, mientras que la explicación popular se enriquece con cada nueva versión. Esta comprensión ayuda a los estudiantes a leer cualquier leyenda con ojo crítico de las historias que cuentan las comunidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la valoración más sólida que puede hacer el grupo frente a esa afirmación?",
+      "context": "En la puesta en común, un compañero de tercero afirma que la leyenda del Texto 1 no sirve para aprender nada, porque nadie puede comprobar que haya ocurrido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque una leyenda no puede ser verdad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una valoración sólida se apoya en la ficha, y esa ficha muestra que la leyenda se apoya en un hecho real."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incompleta, porque las leyendas solo sirven en las clases de lectura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no se ocupa de las asignaturas, y la ficha muestra que la leyenda es un género de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque el explorador del Texto 1 sí se puede comprobar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no afirma que se pueda comprobar al explorador, porque la ficha no presenta ese dato."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque la ficha muestra que la leyenda tiene un lugar, un hecho real y una explicación popular, y esas partes permiten aprender cómo la gente interpreta lo que no comprende",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha ofrece la estructura de la leyenda, y con ella se puede ver cómo las comunidades construyen significados a partir de un hecho."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar es emitir un juicio y defenderlo con pruebas del texto leído. La afirmación del compañero reduce la leyenda a un relato falso, y la ficha muestra que estos relatos tienen una estructura que permite entender cómo piensa una comunidad. Un buen argumento apoya su conclusión en las partes de la leyenda y explica su valor como fuente de conocimiento cultural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas propuestas respeta mejor lo que la ficha enseña sobre las leyendas?",
+      "context": "En la exposición oral final, la profesora pide a cada grupo que proponga cómo proteger las leyendas de Colombia para que no se pierdan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir una sola versión oficial de cada leyenda y prohibido que se cuenten otras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha explica que las leyendas cambian de versión, y por eso suprimir las otras versiones contradice lo que enseña."
+        },
+        {
+          "letter": "B",
+          "text": "Grabar las versiones que cuenta la gente en cada región, con el lugar y la fecha del hecho real",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta respeta la estructura de la leyenda, porque guarda el hecho real y el lugar, y además conserva la variedad de versiones."
+        },
+        {
+          "letter": "C",
+          "text": "Borrar las leyendas que no se pueden comprobar, porque si no son verdad no sirven",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha muestra que la leyenda se apoya en un hecho real pero incluye detalles inventados, y no dice que esa mezcla la invalide."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el nombre de los cerros y de los ríos para que las leyendas sean más fáciles de recordar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha dice que el lugar es una parte fija de la leyenda, y cambiarlo rompería la relación con el hecho real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una propuesta significa juzgarla con los criterios que ofrece el texto informativo. La ficha define las partes de la leyenda y explica que se transmiten de boca en boca, y una buena propuesta debe respetar esas dos cosas. Cuando el estudiante elige la opción que preserva el hecho y las versiones, muestra que puede aplicar lo aprendido a un caso nuevo.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-3-2026-W14-las-leyendas-de-colombia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
