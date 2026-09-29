@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-15-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T14:31:56.034Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 2, ¿qué tiempo verbal aparece en la oración \"El barco salió de Leticia\"?",
+      "context": "En el salón de tercero, la profesora proyectó la ficha del Texto 2 y pidió a sus estudiantes que clasificaran ejemplos de tiempos verbales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es presente, porque la acción está ocurriendo en este momento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha clasifica esa oración en la fila del pretérito, porque cuenta un hecho que ya terminó."
+        },
+        {
+          "letter": "B",
+          "text": "Es futuro, porque la acción todavía no ocurre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice que el barco salió, y la ficha muestra que esa acción ya pasó."
+        },
+        {
+          "letter": "C",
+          "text": "Es pretérito, porque la acción ya terminó",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha incluye esta oración en la fila del pretérito, cuya función es contar lo que ya pasó."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene tiempo verbal, porque \"salir\" es un sustantivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Salir\" es un verbo, y la ficha lo usa justamente como ejemplo del pretérito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer el tiempo de un verbo es la base para entender el orden de los hechos en un cuento. La ficha organiza los tres tiempos según cuándo ocurre la acción. Cuando el estudiante identifica el pretérito, entiende que el cuento cuenta algo que ya terminó y por eso se narra en pasado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿por qué el pretérito es el tiempo verbal más frecuente en los cuentos?",
+      "context": "En la clase de lectura, la profesora les explica a sus estudiantes por qué el pretérito es el tiempo más frecuente en los cuentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el pretérito es el único tiempo que el español tiene para hablar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El español tiene presente, pretérito y futuro, y la ficha presenta los tres con ejemplos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en un cuento la historia ya pasó y se cuenta lo que ya ocurrió",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha dice que el pretérito es el más frecuente porque la historia ya pasó, y por eso se narra en pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el pretérito es el tiempo más fácil de escribir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no usa la dificultad de escritura como criterio, porque su explicación se basa en cuándo ocurre la acción."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los cuentos siempre terminan en el pasado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no dice que los cuentos terminen en el pasado, y muestra que el futuro también se usa para anunciar lo que va a pasar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender por qué el pretérito domina en los cuentos ayuda a los estudiantes a leer con la expectativa correcta. Cuando el narrador cuenta algo que ya ocurrió, el verbo va en pretérito. Reconocer esta lógica hace que el tiempo verbal deje de ser una regla aislada y se convierta en una herramienta para entender el relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v3",
+      "statement": "Un grupo tiene la oración \"El capitán arrives mañana a la ciudad\" y sabe que el verbo está mal empleado. ¿Qué tiempo verbal debe llevar para que la oración signifique lo que pasó en el Texto 1?",
+      "context": "En el trabajo en grupo, la profesora reparte un párrafo con verbos cambiados y pide a los equipos que lo devuelvan a su forma correcta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El verbo debe quedar en presente, porque la acción está ocurriendo ahora",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado indica que la acción ya ocurrió en el viaje, y por eso no puede quedar en presente."
+        },
+        {
+          "letter": "B",
+          "text": "El verbo debe quedar en futuro, porque todavía no ha ocurrido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viaje ya terminó, así que la llegada no es un hecho que esté por ocurrir."
+        },
+        {
+          "letter": "C",
+          "text": "El verbo debe quedar sin cambio, porque el tiempo no importa en esa oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo verbal indica cuándo ocurre la acción, y por eso sí cambia el significado de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "El verbo debe quedar en pretérito, porque la llegada todavía no había ocurrido al momento en que el capitán la anunció",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha explica que el pretérito cuenta hechos del pasado, y esa llegada solo se anunciaba en futuro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar los tiempos verbales significa revisar cuándo ocurre la acción dentro de la historia y elegir el verbo que corresponde. En este caso la acción ya había ocurrido cuando el capitán la anunció, y por eso el relato la cuenta en pretérito. Este ejercicio prepara a los estudiantes para reescribir párrafos cambiando el tiempo de la narración.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v4",
+      "statement": "Según el Texto 1, ¿qué verbo está en futuro y qué anuncia esa oración?",
+      "context": "La profesora de tercero pide a los estudiantes que busquen en el Texto 1 los verbos en futuro y que anoten qué anuncian.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Salió\", porque anuncia que el barco se iba de Leticia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese verbo está en pretérito, y la ficha lo usa como ejemplo de un hecho que ya terminó."
+        },
+        {
+          "letter": "B",
+          "text": "\"Subió\", porque anuncia que el agua estaba subiendo durante la crecida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese verbo cuenta un proceso que ya estaba ocurriendo, y la ficha no lo coloca en la fila del futuro."
+        },
+        {
+          "letter": "C",
+          "text": "\"Llegarán\", porque anuncia que el barco llegaría a la ciudad al día siguiente",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que el capitán anunciar que al día siguiente llegarían, y ese anuncio es un hecho futuro."
+        },
+        {
+          "letter": "D",
+          "text": "\"Terminó\", porque anuncia que el viaje ya había terminado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese verbo está en pretérito, porque el viaje ya había terminado cuando se contó."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar un verbo en futuro enseña a los estudiantes a distinguir lo que ya pasó de lo que se anuncia. En el Texto 1 el capitán usa el futuro para decir lo que ocurrirá al día siguiente, y esa diferencia permite entender cómo se construye la expectativa en un cuento. Reconocer el uso del futuro prepara a los estudiantes para el final anticipado de las historias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v5",
+      "statement": "Un estudiante reescribe así la primera oración: \"Mañana el barco sale de Leticia por el río Amazonas con doce pasajeros\". ¿Qué cambió respecto del Texto 1 y qué efecto produce?",
+      "context": "En la actividad de la semana, cada estudiante debe reescribir un párrafo del Texto 1 cambiando el tiempo de todos sus verbos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambió el pretérito por un futuro limitado, y por eso la acción quedó inconclusa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no usa esa categoría, porque sus tres tiempos son pretérito, presente y futuro."
+        },
+        {
+          "letter": "B",
+          "text": "No cambió nada, porque \"salió\" y \"sale\" significan lo mismo en un cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha muestra que cada tiempo indica un momento distinto, y por eso los dos verbos no son equivalentes."
+        },
+        {
+          "letter": "C",
+          "text": "Cambió el pretérito por un presente con valor de futuro, y por eso la acción quedó como algo que va a ocurrir y no como algo que ya pasó",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha muestra que el presente puede contar lo que es cierto ahora o como costumbre, y en esta frase anuncia lo que va a ocurrir."
+        },
+        {
+          "letter": "D",
+          "text": "Cambió el verbo por un sustantivo, porque las oraciones no pueden tener verbos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración sigue teniendo un verbo, porque el enunciado se ocupa del tiempo y no de la clase de palabra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reescribir cambiando el tiempo verbal es la mejor forma de comprobar que el tiempo realmente indica el momento de la acción. En este caso el verbo pasó de pasado a presente con valor de futuro, y la oración se volvió un anuncio. Cuando los estudiantes hacen esta transformación, entienden que cambiar el tiempo cambia el momento en que la historia ocurre.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor forma de demostrar que cambiar el tiempo verbal sí cambia la comprensión del Texto 1?",
+      "context": "En la discusión de lectura, un compañero de tercero sostiene que cambiar un verbo de pretérito a futuro no produce ningún cambio en un cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrarlo explicando que el viaje del Texto 1 terminó, así que narrarlo en futuro lo convierte en un plan y no en algo que ya pasó",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 cuenta que el viaje terminó, y esa evidencia muestra que cambiar el tiempo altera lo que el lector entiende."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrarlo explicando que el verbo cambia de una sílaba a tres",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud del verbo no demuestra ningún cambio en la comprensión, porque lo que importa es el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrarlo explicando que el capitán no sabía leer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no lo menciona, porque la discusión es sobre los verbos y sus tiempos."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrarlo explicando que el río Amazonas se seca cada verano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa afirmación no aparece en el Texto 1, porque el relato trata del viaje y no del clima del río."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un texto implica explicar qué efecto produce un cambio en el tiempo de un verbo. En el Texto 1 el viaje ya terminó, así que contarlo en pasado es lo correcto, y pasarlo a futuro lo convertiría en un plan. Reconocer esta diferencia ayuda a los estudiantes a entender que el tiempo verbal organiza la historia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia más importante entre lo que aporta el Texto 1 y lo que aporta el Texto 2?",
+      "context": "La profesora de tercero pide a cada grupo que presente en la cartelera qué aprendió con el Texto 1 y qué aprendió con el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos cuentan el viaje del barco, así que la diferencia está en el nombre del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no cuenta ninguna historia, porque es una ficha de definiciones y ejemplos sobre los tiempos verbales."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 explica qué es el pretérito y el Texto 2 muestra qué pasa cuando se cambia el tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está al revés: el Texto 1 narra la escena y el Texto 2 es el que explica y clasifica."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 clasifica los tiempos verbales y el Texto 2 cuenta lo que le pasó a la niña Zarina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no clasifica los tiempos verbales, y el Texto 2 no cuenta lo que le pasó a nadie."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 muestra los tiempos verbales funcionando dentro de un relato, y el Texto 2 los define, los compara y muestra cuándo se usa cada uno",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 presenta los tres tiempos en uso dentro de la historia del viaje y el Texto 2 los organiza en una tabla con su función."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar los dos textos de la semana ayuda a ver que un concepto puede estudiarse desde dos ángulos distintos. El relato muestra el tiempo verbal en acción dentro de una historia, y la ficha permite nombrarlo y aplicarlo. Cuando el estudiante distingue esos papeles, entiende por qué la clase siempre combina un texto narrativo con un texto informativo del mismo tema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la valoración más sólida que puede hacer el grupo frente a esa afirmación?",
+      "context": "En la puesta en común final, un estudiante de tercero afirma que en un cuento todos los verbos deben estar en pretérito, porque la historia ya pasó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el pretérito es el único tiempo que sirve para contar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una valoración sólida se apoya en la ficha, y esa ficha presenta tres tiempos distintos con sus funciones."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque el Texto 1 incluye una oración en futuro, con la que el capitán anuncia lo que ocurriría al día siguiente",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 da la evidencia directa, y muestra que el futuro se usa en un cuento para anticipar lo que va a pasar."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incompleta, porque el pretérito solo sirve en los cuentos de viajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no se ocupa del tipo de cuento, y la ficha explica el pretérito en general."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque el presente nunca aparece en un cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no dice que el presente no pueda aparecer, y además la ficha incluye el presente con su ejemplo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar es emitir un juicio y defenderlo con pruebas del texto leído. La afirmación del compañero generaliza un uso frecuente como si fuera una regla sin excepciones, y los dos textos muestran que el futuro cumple una función propia. Un buen argumento de lectura toma la evidencia del relato y explica con claridad por qué esa evidencia desmiente la afirmación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W15-los-tiempos-verbales-en-el-cuento-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
