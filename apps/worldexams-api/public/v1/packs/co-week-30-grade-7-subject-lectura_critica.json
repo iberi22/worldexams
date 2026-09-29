@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-30-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.267Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v1",
+      "statement": "¿Qué debe identificar primero en el texto para responder la pregunta?",
+      "context": "En la semana de exámenes, un estudiante de Duitama recibe la indicación de que una pregunta le pide identificar la tesis de un ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación central que el autor propone y defenderá con argumentos.",
+          "is_correct": true,
+          "feedback": "La tesis es el presupuesto del ensayo y el punto de partida del análisis."
+        },
+        {
+          "letter": "B",
+          "text": "La biografía del autor, porque siempre explica la tesis.",
+          "is_correct": false,
+          "feedback": "La biografía puede contextualizar, pero no es la tesis: es la idea que se defiende."
+        },
+        {
+          "letter": "C",
+          "text": "El número de páginas del texto, porque define su extensión argumentativa.",
+          "is_correct": false,
+          "feedback": "La extensión no indica la tesis: solo cuenta cuántas páginas tiene el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de conectores de contraste, porque esa cifra revela la tesis.",
+          "is_correct": false,
+          "feedback": "Los conectores muestran la lógica interna, no enuncian la tesis directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Localizar la tesis es el primer paso del análisis argumentativo. Una vez identificada, se puede evaluar si los argumentos la sostienen y si la evidencia es pertinente. Ese procedimiento, aprendido durante el semestre, ordena toda la lectura de textos argumentativos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v2",
+      "statement": "El texto dice: \"El río amaneció más arriba de lo normal, y esa mañana nadie pudo abrir los puestos\". ¿Qué información aporta?",
+      "context": "En un taller de lectura de Medellín, un grupo lee el inicio de una crónica de un barrio del Chocó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitúa un hecho en un tiempo y un lugar, con las consecuencias para los vecinos.",
+          "is_correct": true,
+          "feedback": "La frase ancla el hecho y muestra su efecto, como hace la crónica."
+        },
+        {
+          "letter": "B",
+          "text": "Un dato estadístico sobre el nivel del río en la ciudad.",
+          "is_correct": false,
+          "feedback": "No hay cifras: la información es cualitativa y situada en un momento concreto."
+        },
+        {
+          "letter": "C",
+          "text": "Una opinión del narrador sobre la calidad del barrio.",
+          "is_correct": false,
+          "feedback": "La frase no valora el barrio: informa sobre lo que ocurrió esa mañana."
+        },
+        {
+          "letter": "D",
+          "text": "Una descripción del paisaje que no tiene relación con los vecinos.",
+          "is_correct": false,
+          "feedback": "La descripción está conectada con la vida de los vecinos, no es decorativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica combina la ubicación del hecho con la vida de quienes lo viven. Reconocer ese encuadre permite ver que la información periodística también puede ser situada y humana. Esa habilidad sirve tanto para leer una crónica como para entender qué función cumple una escena en un relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v3",
+      "statement": "Encuentran tres datos con dos fuentes que dicen lo mismo. ¿Qué deben hacer para considerarlos confirmados?",
+      "context": "En la biblioteca de Cartagena, un equipo prepara una investigación sobre el consumo de agua en su colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contarlos como tres datos, porque cada página es una fuente.",
+          "is_correct": false,
+          "feedback": "Si las páginas copian a un mismo origen, hay una sola fuente, no tres."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el dato de la página más popular, porque tiene más lectores.",
+          "is_correct": false,
+          "feedback": "La popularidad mide difusión, no confiabilidad ni validez del dato."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar los tres tal como aparecen, para no perder información.",
+          "is_correct": false,
+          "feedback": "Publicar sin verificar corre el riesgo de difundir un dato que no resiste."
+        },
+        {
+          "letter": "D",
+          "text": "Buscar el registro original que respalda esos datos y compararlo con la medición propia.",
+          "is_correct": true,
+          "feedback": "Contrastar con el registro y con una medición propia sí constituye verificación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La multiplicidad de páginas no equivale a multiplicidad de fuentes. La verificación real exige rastrear el origen común y contrastarlo con evidencia independiente, en este caso una medición realizada por el propio equipo. Ese procedimiento de semesters une la lectura de fuentes con el trabajo de campo escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v4",
+      "statement": "Texto original: \"Los estudiantes del barrio leen poco\". ¿Qué opción lo convierte en argumento?",
+      "context": "En clase de Bogotá, un estudiante debe reescribir una afirmación para darle estructura argumentativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"En una encuesta, 7 de cada 10 estudiantes dedican menos de 20 minutos diarios a leer\".",
+          "is_correct": true,
+          "feedback": "La cifra convierte la afirmación en algo comprobable por cualquier lector."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los estudiantes del barrio leen poco, y eso es grave\".",
+          "is_correct": false,
+          "feedback": "Añadir un adjetivo valorativo no aporta evidencia: sigue siendo una afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los estudiantes deberían leer más, porque leer es importante\".",
+          "is_correct": false,
+          "feedback": "Es una recomendación razonada, pero no un argumento con evidencia sobre lo que ocurre."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los estudiantes de todo el país leen poco, como todos los jóvenes\".",
+          "is_correct": false,
+          "feedback": "La generalización amplía el alcance sin aportar datos que la respalden."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Convertir una afirmación en argumento exige añadir evidencia verificable. La opción correcta incorpora una proporción, con muestra declarada, y un dato de comportamiento. Ese es el mismo criterio que se aplica al evaluar un ensayo propio o ajeno: tesis clara, argumento apoyado y evidencia pertinente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v5",
+      "statement": "El texto dice \"el 30 por ciento de los hogares no tiene internet\". La infografía muestra 7 de cada 10 Hogares con un ícono de señal. ¿Qué error hay?",
+      "context": "En un taller de escritura de Bucaramanga, un grupo compara un texto escrito y una infografía sobre el mismo dato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque las dos formas expresan un porcentaje.",
+          "is_correct": false,
+          "feedback": "Sí hay un error: los dos datos no coinciden entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dos datos se contradicen, porque 30 por ciento y 7 de cada 10 no son lo mismo.",
+          "is_correct": true,
+          "feedback": "Treinta por ciento y setenta por ciento describen poblaciones distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la infografía usa un ícono cuando debería usar solo palabras.",
+          "is_correct": false,
+          "feedback": "El ícono es un recurso legítimo: lo problemático es la contradicción."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto es más confiable, porque siempre es más largo.",
+          "is_correct": false,
+          "feedback": "La extensión no determina la confiabilidad: la coherencia interna sí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura multimodal exige comparar lo que dice el texto con lo que muestra la imagen. Cuando ambos elementos se contradicen, la fuente pierde confiabilidad y hay que buscar el dato original. Esta comprobación es la versión gráfica del mismo principio de verificación que se aplica a las fuentes escritas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v6",
+      "statement": "Un texto empieza con un titular, sigue con datos de una noticia y cierra con una reflexión personal del periodista. ¿Qué género produce esa combinación?",
+      "context": "En el aula de Popayán, un grupo analiza la estructura de un texto que combina tres géneros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una novela, porque incluye la voz de un personaje.",
+          "is_correct": false,
+          "feedback": "No hay historia ni personajes: hay información y reflexión del autor."
+        },
+        {
+          "letter": "B",
+          "text": "Una crónica, porque combina información verificable con una mirada personal.",
+          "is_correct": true,
+          "feedback": "Esa mezcla de noticia y voz propia es justamente el rasgo de la crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema, porque el cierre usa imágenes.",
+          "is_correct": false,
+          "feedback": "Un cierre metafórico no convierte el texto en poesía."
+        },
+        {
+          "letter": "D",
+          "text": "Un artículo de opinión, porque termina con una reflexión.",
+          "is_correct": false,
+          "feedback": "El texto informa antes de opinar: ese orden lo acerca más a la crónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La crónica se reconoce por la combinación: informa hechos verificables y, al mismo tiempo, deja ver la posición del cronista. Un artículo de opinión, en cambio, se organiza desde el principio alrededor de una tesis. Analizar qué función cumple cada parte del texto es lo que permite identificar el género con precisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v7",
+      "statement": "La versión A dice: \"La comunidad de la vereda se organizó y presentó una propuesta\". La versión B dice: \"La propuesta de la vereda fue escuchada por la alcaldía\". ¿Qué diferencia se observa?",
+      "context": "En un proyecto de lectura de Valledupar, dos estudiantes comparan dos versiones de un mismo hecho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos versiones dicen lo mismo con diferente estilo.",
+          "is_correct": false,
+          "feedback": "Una destaca la acción de la comunidad y la otra la respuesta institucional."
+        },
+        {
+          "letter": "B",
+          "text": "La versión B es más completa, porque incluye a la alcaldía.",
+          "is_correct": false,
+          "feedback": "Incluir un actor no garantiza mayor completitud: cambia el foco."
+        },
+        {
+          "letter": "C",
+          "text": "La versión A es una opinión, porque habla de la comunidad.",
+          "is_correct": false,
+          "feedback": "La versión A informa sobre una acción: no expresa un juicio valorativo."
+        },
+        {
+          "letter": "D",
+          "text": "Cada versión destaca un actor distinto y por eso orienta la lectura de manera diferente.",
+          "is_correct": true,
+          "feedback": "Cambiar el actor destacado cambia lo que el lector considera el centro del hecho."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dos textos pueden compartir los mismos hechos y, aun así, orientar distinto la lectura según a quién destaca cada versión. En un caso el centro es la comunidad; en el otro, la institución que respondió. Reconocer esa diferencia ayuda a detectar el ángulo de cada fuente antes de aceptar su versión como neutral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v8",
+      "statement": "Un texto usa siempre \"el grupo\" y \"ellos\", nunca \"las personas\" ni \"nosotros\". ¿Qué efecto tiene esa elección?",
+      "context": "En clase de Pasto, la profesora analiza cómo el lenguaje construye un juicio sobre un grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque las dos formas son equivalentes.",
+          "is_correct": false,
+          "feedback": "No son equivalentes: los pronombres y el artículo cambian la posición del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Marca distancia, porque separa a ese grupo del resto de la comunidad.",
+          "is_correct": true,
+          "feedback": "La distancia se construye en el lenguaje, y por eso puede detectarse."
+        },
+        {
+          "letter": "C",
+          "text": "Cierra la narración, porque ya no quedan personajes por nombrar.",
+          "is_correct": false,
+          "feedback": "La elección de pronombres no cierra la historia: cambia la posición del lector."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el texto en opinión, porque deja de narrar hechos.",
+          "is_correct": false,
+          "feedback": "El texto puede narrar hechos y aun así marcar distancia con el lenguaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elección del artículo y del pronombre es una decisión de lectura. Nombrar a un grupo con el artículo determinado y con ellos construye una frontera simbólica que lo separa del resto. Reconocer ese procedimiento es una herramienta de análisis crítico del lenguaje que se puede aplicar a cualquier texto del semestre.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v9",
+      "statement": "Su conclusión se apoya en una nota de periódico y en un testimonio. ¿Qué juicio es más preciso sobre esa base probatoria?",
+      "context": "En un seminario de cierre de período en Cali, un grupo presenta una investigación sobre el acceso al agua en su municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La base es suficiente, porque la nota de periódico publica datos oficiales.",
+          "is_correct": false,
+          "feedback": "Publicar datos no convierte la nota en fuente primaria ni garantiza su exactitud."
+        },
+        {
+          "letter": "B",
+          "text": "La base es débil, porque el testimonio no puede usarse en una investigación.",
+          "is_correct": false,
+          "feedback": "El testimonio es un recurso válido, siempre que se lea con criterio."
+        },
+        {
+          "letter": "C",
+          "text": "La base es pertinente pero limitada, porque conviene contrastarla con un registro oficial.",
+          "is_correct": true,
+          "feedback": "Reconocer la límite de la evidencia y buscar una fuente primaria refuerza el trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "La base es sólida, porque combina dos fuentes de naturaleza distinta.",
+          "is_correct": false,
+          "feedback": "La diversidad de tipos no garantiza contraste si ambas dependen del mismo origen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la base probatoria de una investigación exige distinguir entre lo pertinente y lo suficiente. Una nota de prensa y un testimonio son fuentes valiosas, pero entre las dos puede faltar el registro que confirme las cifras. Reconocer ese límite y buscar la fuente primaria es lo que convierte una buena intención en una investigación sólida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v10",
+      "statement": "Si los tres elementos del texto apuntan a conclusiones distintas, ¿qué debe hacer el lector crítico?",
+      "context": "En un proyecto final de período en Montería, un grupo debe leer un texto que combina crónica, imagen y datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creer la imagen, porque la información visual pesa más que la escrita.",
+          "is_correct": false,
+          "feedback": "Ningún código vale más por sí mismo: la coherencia entre ellos es lo que importa."
+        },
+        {
+          "letter": "B",
+          "text": "Creer el texto, porque las palabras son más precisas que los datos visuales.",
+          "is_correct": false,
+          "feedback": "Las palabras tampoco son automáticamente más fiables: aquí hay una contradicción."
+        },
+        {
+          "letter": "C",
+          "text": "Señalar la contradicción, buscar la fuente original y concluir solo con lo verificable.",
+          "is_correct": true,
+          "feedback": "Identificar el conflicto y volver a la fuente es el procedimiento más riguroso."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir el elemento más largo, porque la extensión indica mayor respaldo.",
+          "is_correct": false,
+          "feedback": "La longitud de un elemento no mide su calidad informativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura multimodal crítica supone comparar lo que dice el texto, lo que muestra la imagen y lo que afirman los datos. Si esas capas no coinciden, la conducta correcta no es escoger la preferida, sino hacer visible el desacuerdo y buscar la fuente que permita resolverlo. Solo así se puede afirmar algo con fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
