@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T19:06:57.870Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿cuál es el título de la nota que leyeron los niños?",
+      "context": "En un colegio de Pereira, los niños de tercero leen en voz alta la nota que aparece en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los jugos de la feria cuestan $2.500 cada uno\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese dato aparece en la información principal, no en el título de la nota."
+        },
+        {
+          "letter": "B",
+          "text": "\"La feria de lectura ocupa todo el patio\"",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que el título de la nota es exactamente esa frase, escrita en la pared del salón."
+        },
+        {
+          "letter": "C",
+          "text": "\"La profesora Beatriz Londoño enseña en Manizales\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración habla de la profesora y del colegio, pero no es el título de la nota."
+        },
+        {
+          "letter": "D",
+          "text": "\"Daniela y Julián escriben una nota periodística\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres de los niños aparecen en el relato del salón, no en el título de la nota."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer el título es el primer paso para entender cómo se organiza una nota periodística. Cuando el estudiante localiza el título, entiende que esa es la frase que resume el sujeto del texto. Esta pregunta es literal porque pide buscar una frase que está escrita en el Texto 1. Practicar esta localización ayuda a los niños de tercero a leer mejor cualquier noticia del periódico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 2, ¿para qué sirve la bajada de una nota periodística?",
+      "context": "En un salón de tercero en Bucaramanga, la profesora explica las cuatro partes de una nota periodística infantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para cambiar el tema de la nota por uno más interesante",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bajada no cambia el tema, porque el tema ya está anunciado en el título."
+        },
+        {
+          "letter": "B",
+          "text": "Para repetir palabra por palabra lo que dice el título",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la bajada repitiera el título, no aportaría información nueva al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Para colocar al final el nombre de quien confirmó el dato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la función de las fuentes, que aparecen al final de la nota."
+        },
+        {
+          "letter": "D",
+          "text": "Para ampliar el título y contar de qué trata el hecho que se informa",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que la bajada amplía el título y explica de qué trata el hecho."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender la bajada es entender cómo el periodista completa la información para el lector. No es una repetición del título, sino una frase que amplía y aclara. Cuando los niños distinguen título y bajada, pueden escribir notas donde no falte ningún dato importante. Esta comprensión prepara a los estudiantes para textos más largos, como las noticias de un periódico de ciudad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, cada uno de los noventa y seis estudiantes recibirá un jugo de $2.500. ¿Cuánto dinero gastará el colegio en los jugos de la feria?",
+      "context": "En el colegio de Manizales, la profesora pregunta cuánto dinero necesita para los jugos de la feria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$240.000",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar noventa y seis jueces por $2.500 cada uno, el total es $240.000."
+        },
+        {
+          "letter": "B",
+          "text": "$96.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado solo suma el precio de un jugo al número de estudiantes, sin multiplicar."
+        },
+        {
+          "letter": "C",
+          "text": "$48.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total corresponde solo a la mitad de los estudiantes, y la nota dice que participan los noventa y seis."
+        },
+        {
+          "letter": "D",
+          "text": "$2.400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número mezcla el precio del jugo con la cantidad de estudiantes, en lugar de multiplicar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar los datos de una nota permite comprobar que la información principal sirve para tomar decisiones reales. Los niños deben leer la cantidad y el precio, y luego combinarlos con una operación. Este ejercicio enseña que un dato correcto, como el total de $240.000, es la base para comprar materiales o pedir presupuesto en el colegio. Leer cifras con cuidado es una habilidad que sirve en todas las asignaturas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v4",
+      "statement": "Julián quiere escribir la bajada de una nota que tiene como título \"La feria de lectura ocupa todo el patio\". ¿Cuál oración puede usar como bajada?",
+      "context": "En un colegio de Ibagué, Julián prepara la bajada de su propia nota sobre la feria de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La feria de lectura ocupa todo el patio\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración repite el título y no amplía la información para el lector."
+        },
+        {
+          "letter": "B",
+          "text": "\"La feria fue el mejor evento del año\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es una opinión personal y no amplía el título con datos del hecho."
+        },
+        {
+          "letter": "C",
+          "text": "\"La feria de lectura se hará el viernes a las ocho y treinta de la mañana en el patio cubierto\"",
+          "is_correct": true,
+          "feedback": "Correcto. La bajada amplía el título y aporta el día, la hora y el lugar del hecho."
+        },
+        {
+          "letter": "D",
+          "text": "\"Fuentes: la profesora Beatriz Londoño y la directora Martha Bedoya\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa línea corresponde a las fuentes, que se escriben al final de la nota."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la estructura de la nota enseña a escribir con un orden que el lector pueda seguir. El estudiante debe elegir la oración que amplía el título sin inventar datos. Elegir bien la bajada evita repetir el título y evita meter una opinión donde van los datos. Esta habilidad se transfiere a otros textos informativos que se leen en la clase.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v5",
+      "statement": "Un compañero escribe en su nota: \"La feria de lectura fue la mejor del año, porque todos los niños se divirtieron mucho\". ¿Qué debe hacer para que la nota informe bien el hecho?",
+      "context": "En un aula de Pasto, un estudiante escribe su nota y le pide ayuda a la profesora para corregir una frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar la frase como está, porque los niños sí se divirtieron",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los niños sí se divirtieron, esa sigue siendo una opinión personal y debe marcarse como tal."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir los datos del evento y decir aparte que esa frase es su opinión",
+          "is_correct": true,
+          "feedback": "Correcto. Así separa el dato, que se puede comprobar, de la opinión, que es una valoración personal."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar la frase por \"La feria fue buena\", sin decir que es su opinión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue siendo una opinión, y además queda más vaga porque no explica con qué criterio se dice."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar la frase completa, porque en una nota nunca se puede escribir lo que piensa la gente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota sí puede incluir una opinión, siempre que se presente como una opinión y no como un dato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la diferencia entre dato y opinión es una de las habilidades más importantes de la comprensión lectora en tercero. El dato se comprueba con una fuente y la opinión se declara como una valoración personal. Cuando el estudiante escribe \"mi opinión\", enseña al lector que esa frase no es un hecho comprobado. Esta práctica prepara a los niños para distinguir información seria de comentarios en redes sociales y en periódicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v6",
+      "statement": "Julián pregunta si la nota del Texto 1 cumple las reglas que explica el Texto 2. ¿Cuál respuesta está mejor justificada?",
+      "context": "En un salón de Villavicencio, los niños comparan la nota del Texto 1 con las reglas del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque tiene título, bajada, información principal con datos y fuentes, y no inventa nombres ni fechas",
+          "is_correct": true,
+          "feedback": "Correcto. Compara las cuatro partes del Texto 2 con lo que realmente aparece en la nota del Texto 1."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque en una nota infantil no se pueden escribir nombres de personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 explica que las fuentes son las personas que confirmaron el dato, así que los nombres sí se escriben."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque toda nota periodística debe tener cuatro partes de la misma cantidad de palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 nunca pide igualar la extensión de las partes, solo respetar el orden y los datos."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el título y la bajada son la misma parte repetida dos veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 dice que la bajada amplía el título, de modo que las dos partes cumplen papeles distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar significa poner en relación dos textos para comprobar si uno aplica lo que el otro enseña. El estudiante debe recorrer la nota del Texto 1 y verificar cada regla del Texto 2 con un dato concreto. Comparar textos enseña a evaluar la calidad de una información escrita. Esta actividad construye un lector capaz de evaluar noticias reales, no solo de leerlas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de estas frases es una opinión escrita como opinión, es decir, una valoración personal que se presenta como tal?",
+      "context": "En un colegio de Cartagena, la profesora revisa cuatro frases para elegir una que sea una opinión declarada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La feria de lectura tuvo noventa y seis participantes\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es un dato comprobable, porque se puede verificar contando o preguntando a las fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "\"La feria fue el mejor evento del colegio, porque lo dice el título del mural\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presenta una opinión como si fuera un hecho, y el mural no es una fuente que compruebe el dato."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cada estudiante recibió un jugo de $2.500, según el mensaje de la profesora\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato con fuente, porque la profesora confirma la cantidad y el precio."
+        },
+        {
+          "letter": "D",
+          "text": "\"Mi opinión: la feria de lectura fue muy divertida, porque los niños participaron en la lectura\"",
+          "is_correct": true,
+          "feedback": "Correcto. Declara que es una opinión personal y explica el motivo, sin presentarla como un dato comprobado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar es juzgar si una frase sirve para informar o solamente para expresar lo que alguien siente. La opción correcta marca la opinión con palabras claras y da su razón, mientras que las otras la disimulan como un hecho. Saber distinguir ambos casos enseña a leer con criterio y a noacceptar información sin comprobarla. En tercero, esta habilidad evita que el estudiante confunda lo que pasó con lo que alguien piensa que pasó.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1, Julián escribió dos oraciones separadas: \"La feria ocurre en el patio. Ocurre el viernes a las ocho y treinta de la mañana\". ¿Qué cambio mejora la oración y explica mejor el hecho?",
+      "context": "En un aula de Barranquilla, Julián revisa la oración de su nota antes de entregarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir el sujeto en las dos oraciones, para que la nota sea más larga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alargar la nota repitiendo el sujeto no agrega datos y hace la lectura más pesada."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar el verbo \"ocurre\" por \"parece\", porque así el texto suena más interesante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con \"parece\" el lector ya no puede estar seguro del hecho, y una nota debe informar datos comprobables."
+        },
+        {
+          "letter": "C",
+          "text": "Unir las dos oraciones en una sola: la feria ocurre el viernes a las ocho y treinta de la mañana en el patio",
+          "is_correct": true,
+          "feedback": "Correcto. Al unir las oraciones se evita repetir el sujeto y quedan juntos el día, la hora y el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar el día y la hora, porque el título ya dice que la feria ocupa todo el patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título no dice el día ni la hora, y quitar esos datos dejaría la información principal incompleta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar una oración permite entender cómo se construyen los datos de una nota periodística. Unir oraciones evita repetir el sujeto y reúne el día, la hora y el lugar en un solo dato completo. Los estudiantes de tercero aprenden así que una oración bien escrita es más precisa y más fácil de comprobar. Esta práctica mejora la escritura de todos los textos informativos del colegio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W33-la-nota-periodistica-infantil-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
