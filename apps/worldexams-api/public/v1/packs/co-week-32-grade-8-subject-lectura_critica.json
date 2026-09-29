@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-32-grade-8-subject-lectura_critica",
+    "generated_at": "2026-09-29T08:19:21.981Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v1",
+      "statement": "Según el caso, ¿qué rasgo permite identificar ese texto como una columna de opinión?",
+      "context": "En la página 12 de un diario nacional aparece un texto de seis párrafos, con un título que dice \"La ciudad que no escuchamos\" y, al final, el nombre de quien lo escribe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresa el punto de vista firmado de su autor sobre un asunto de interés común.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: la columna se define por la voz argumentada y firmada que expone una posición sobre un tema de interés público."
+        },
+        {
+          "letter": "B",
+          "text": "Informa los hechos de la jornada de la ciudad en orden cronológico.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la narración ordenada en el tiempo corresponde a la noticia, no a un texto que expone una posición."
+        },
+        {
+          "letter": "C",
+          "text": "Relata de manera autobiográfica las experiencias del autor en su infancia.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el relato de vida personal es un género narrativo distinto, organizado por la cronología de una biografía."
+        },
+        {
+          "letter": "D",
+          "text": "Resume en pocas líneas el contenido de un libro publicado ese mismo año.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el resumen de una obra pertenece al género de la reseña, no al de la columna de opinión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La columna de opinión es el género periodístico en el que una persona con nombre propio expone su posición sobre un asunto de interés general. No se limita a informar, porque su propósito es convencer o provocar una reflexión, y no oculta que se trata de una mirada personal. Reconocer ese rasgo evita confundirla con la noticia, con la reseña o con la crónica. El dominio del género es necesario para leer con ojo crítico los medios del país.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué efecto produce en el texto el uso de la primera persona en esa oración?",
+      "context": "Una columnistista de Bogotá escribe: \"A mí me parece que esa medida va a perjudicar a las familias de la periferia, y lo digo sin rodeos\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marca que lo que sigue es la valoración personal de quien escribe, no un dato comprobado.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: la primera persona con frases como me parece o lo digo sin rodeos hace explícita la subjetividad."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la columna en un informe técnico con datos verificados.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la primera persona no aporta datos, al contrario, señala la presencia de un juicio personal."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la autora cambió de tema dentro de la columna.",
+          "is_correct": false,
+          "feedback": "Incorrecta: las dos partes de la oración hablan del mismo asunto, la medida y sus efectos sobre las familias."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que el texto fue copiado de una fuente periodística anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la primera persona no aporta ninguna pista sobre el origen del texto ni sobre su plagio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un texto usa la primera persona y expresiones como me parece, deja claro que lo que sigue es una valoración y no una información verificable. Esa marca de subjetividad es la que convierte el párrafo en opinión y lo distingue de un dato comprobable. Reconocerla desde temprano enseña a pesar de un texto por lo que afirma y por lo que siente. Es una habilidad esencial en un país con medios digitales cada vez más presentes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué propósito comunicativo se desprende de esas características del texto?",
+      "context": "En un periódico de Cali aparece una columna sobre el acceso de los estudiantes a la biblioteca pública. El texto no da cifras: usa la primera persona, relata dos historias y termina con una invitación a hacer algo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar de manera exacta cuántos usuarios tiene la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el texto no aporta cifras y su cierre no es informativo, sino una invitación a actuar."
+        },
+        {
+          "letter": "B",
+          "text": "Describir paso a paso el procedimiento para sacar un préstamo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ese sería un texto instruccional, con pasos ordenados, no una columna firmada que relata historias."
+        },
+        {
+          "letter": "C",
+          "text": "Conmover y mover a la acción, valiendo la experiencia de quien escribe.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: las historias, la voz en primera persona y la invitación final apuntan a persuadir, no solo a informar."
+        },
+        {
+          "letter": "D",
+          "text": "Enumerar las normas del uso de la sala de lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecta: las normas se enuncian en reglamentos, no en un texto firmado que busca conmover."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito de un texto se deduce de la combinación de su tono, su forma y su cierre. Una columna firmada que relata historias y termina con una invitación no pretende dar cifras ni normas, sino conmover y movilizar. Reconocer esa diferencia entre informar y persuadir ayuda a identificar el género sin mirar el título. También prepara al estudiante para escribir sus propias columnas de forma intencional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función de la primera oración dentro de la estructura argumentativa de la columna?",
+      "context": "Una columna sobre el transporte público de Barranquilla empieza así: \"Durante años se-nos dijo que los buses eran suficientes, y todos lo aceptamos sin preguntarnos quién salía perdiendo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anuncia la tesis: lo que la columna va a defender frente a lo que se creía antes.",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa oración solo reconstruye una creencia común, sin anticipar la posición que la columna defenderá."
+        },
+        {
+          "letter": "B",
+          "text": "Concluye el texto, porque retoma la idea central después de dar los argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: aparece al inicio de la columna, de modo que no puede tener el papel de la conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Define el punto de partida: la idea previa que el texto quiere discutir y superar.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: presentar la creencia común permite después confrontarla con los argumentos del columnista."
+        },
+        {
+          "letter": "D",
+          "text": "Aporta un dato numérico que respalda directamente la posición del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecta: no hay cifras en la oración, solo una afirmación general sobre lo que se decía antes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una columna suele abrir con una idea que todos dan por cierta y que después somete a discusión. Esa primera oración funciona como punto de partida, no como tesis, porque todavía no anuncia la posición propia del autor. Reconocer esa diferencia permite seguir la estructura del texto: la puesta en duda de la creencia común, argumentos y propuesta del columnista. Es un recurso frecuente en la prosa argumentativa de la prensa nacional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué diferencia hay entre las dos oraciones, desde el punto de vista de la lectura crítica?",
+      "context": "En una columna de Tunja, el autor escribe: \"Según la Measurements oficial del sector, la cobertura climbed del 40 al 65 por ciento en cinco años\". En otra oración escribe: \"Todos sabemos que ese avance es un fracaso\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es una afirmación verificable y la segunda un juicio que se apoya en una creencia.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: una cifra atribuida a una fuente se puede consultar, mientras que todos sabemos no ofrece ninguna prueba."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son afirmaciones verificables, porque las dos hablan de datos del sector.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la segunda oración no aporta ninguna cifra ni fuente, solo una valoración general."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es un juicio y la segunda un dato, porque la segunda usa un porcentaje.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la segunda oración no contiene ningún porcentaje; el porcentaje está en la primera."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos son opiniones, porque ninguna de las dos presenta un autor identificable.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la diferencia no está en la firma del texto, sino en el tipo de afirmación que contiene cada oración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dentro de una misma columna pueden convivir afirmaciones comprobables y juicios sin respaldo. Reconocer cuáles son de un tipo y cuáles del otro permite que el lector no les dé el mismo peso a todas las frases del texto. La expresión todos sabemos es una señal característica de que se está imponiendo una creencia, no una evidencia. Esa distinción es la base para que un columnista pueda ser insistente en serio y no solo retóricamente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación crítica debe establecer el lector entre la columna y el boletín oficial sobre el mismo tema?",
+      "context": "Un periódico de Bogotá publica una columna que afirma que la venta de contenedores de agua en las tiendas es un problema de salud pública. Esa misma semana, un boletín de la secretaría de salud informa el número de puntos de venta autorizados en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar por cierto que la columna y el boletín dicen lo mismo, porque ambos hablan del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecta: que traten el mismo asunto no significa que compartan datos, tono ni propósito, y ambos textos deben leerse por separado."
+        },
+        {
+          "letter": "B",
+          "text": "Preferir siempre el boletín, porque todo lo que escribe un columnista es una opinión sin valor.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la columna sí aporta una posición y una experiencia, que no necesitan ser un dato oficial para tener valor."
+        },
+        {
+          "letter": "C",
+          "text": "Descartar la columna por no mencionar cifras, aunque el boletín tampoco analice causas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el boletín informa, pero no argumenta sobre las causas, de modo que la columna aporta un elemento distinto."
+        },
+        {
+          "letter": "D",
+          "text": "Contrastar la afirmación general de la columna con los datos concretos del boletín.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: confrontar el juicio del columnista con la información oficial permite medir hasta qué punto se sostiene."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Poner en diálogo dos textos que hablan del mismo asunto permite evaluar la fuerza de cada uno. La columna propone una lectura del problema y el boletín ofrece cifras que la confirmen o la contradigan. Ese contraste es un ejercicio de lectura intertextual que prepara para juzgar dos fuentes y pesar su valor. Es también la base de una postura responsable frente a los medios.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v7",
+      "statement": "Según la estructura del texto, ¿qué relación hay entre las dos partes señaladas?",
+      "context": "Una columna de Pereira presenta la situación del río como un problema causado por la erosión de las laderas. A continuación propone construir un parque ribereño y explica por qué esa obra reduciría el daño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda parte es una mera descripción del paisaje ribereño actual.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la segunda parte propone una intervención y explica un efecto, no describe lo que ya existe."
+        },
+        {
+          "letter": "B",
+          "text": "Ambas partes son ejemplos independientes que ilustran dos problemas distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: las dos partes hablan del mismo asunto y la segunda responde a lo planteado en la primera."
+        },
+        {
+          "letter": "C",
+          "text": "La primera parte es la conclusión y la segunda, el planteamiento del problema.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el orden es el inverso, porque el texto presenta primero el problema y después la respuesta."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda parte es una propuesta que depende del problema descrito en la primera.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: el problema da la razón de ser de la solución, y sin él la propuesta perdería fundamento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La prosa argumentativa avanza con frecuencia mediante una relación de necesidad entre lo que se constata y lo que se propone. Presentar el problema justifica que la solución no sea un capricho del autor, sino una respuesta con sentido. Reconocer ese encadenamiento ayuda a distinguir un texto argumentativo de una simple lista de opiniones contradictorias. También orienta al estudiante cuando debe construir su propia columna.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v8",
+      "statement": "¿De qué modo se construyen las dos oraciones del ejemplo?",
+      "context": "En una columna de Cartagena, el autor escribe dos oraciones: \"No es verdad que el transporte mejore por sí solo\" y \"Ese proyecto mejoraría el transporte, siempre que se mantenga la tarifa\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es una afirmación categórica; la segunda, una afirmación sola que no admite condiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la segunda oración es justamente condicional, porque su validez depende del cumplimiento de una condición."
+        },
+        {
+          "letter": "B",
+          "text": "La primera expresa un deseo; la segunda expresa una duda sobre el futuro del proyecto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ninguna de las dos oraciones expresa deseos ni dudas, sino negación y afirmación condicionada."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es una pregunta retórica; la segunda es una orden dirigida a los lectores del periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el enunciado de la primera no es una pregunta y la segunda no es una orden, sino una afirmación con condición."
+        },
+        {
+          "letter": "D",
+          "text": "La primera niega un enunciado; la segunda lo afirma y además lo condiciona a que se cumpla algo.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: la primera usa la negación y la segunda combina afirmación con una cláusula de condición temporal."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las formas de la negación y los modos del verbo cambian por completo el sentido de lo que se afirma y la fuerza del compromiso del autor. En el ejemplo, la primera oración descarta una expectativa y la segunda la recupera bajo una condición explícita. Analizar esas estructuras ayuda a detectar cuándo un texto se presenta como seguro y cuándo como provisorio. Esa atención a la sintaxis refuerza una lectura crítica de los compromisos que asumen los columnistas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v9",
+      "statement": "Según estos criterios, ¿qué juicio sobre la solidez de la columna resulta más defendible?",
+      "context": "Un columnista de Manizales sostiene su posición con tres recursos: un ejemplo de su propia experiencia, un dato atribuido a un estudio y la mención de un caso happening en otra ciudad del país. Sus tres apoyos son verificables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La columna es débil, porque ninguna de sus afirmaciones es una cifra oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecta: un ejemplo y un caso documentado también son pruebas válidas dentro de un texto de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "La columna es débil, porque mezcla la experiencia personal con datos y eso impide la argumentación.",
+          "is_correct": false,
+          "feedback": "Incorrecta: combinar fuentes de distinto tipo refuerza el argumento en lugar de debilitarlo."
+        },
+        {
+          "letter": "C",
+          "text": "La columna es sólida, porque combina fuentes distintas y todas remiten a hechos comprobables.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: la variedad de apoyos verificables da más fuerza al juicio que un solo recurso."
+        },
+        {
+          "letter": "D",
+          "text": "La columna es sólida, porque el columnista es una persona con experiencia en el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el autoridad personal no reemplaza las pruebas, aunque pueda acompañarlas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la fuerza de una columna consiste en preguntarse si cada afirmación tiene respaldo y si esos respaldos son diversos. En el ejemplo, la combinación de experiencia, dato y caso configura una argumentación con tres puntos de apoyo. La autoridad de quien escribe complementa esos materiales, pero no los reemplaza. Ese criterio permite distinguir una opinión bien fundada de una que solo suena convincente.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio debe pesar más para decidir si esa columna se publica?",
+      "context": "Un medio departamental publica una columna que culpa a un barrio entero por el aumento de los casos de una enfermedad. La redacción considera publicar el texto porque el caso de salud es de interés público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El interés del público, porque cualquier tema que despierte expectativa puede difundirse.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el interés del público no autoriza por sí solo a atribuir responsabilidades individuales sin evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "El respeto a las personas, porque señalar a un colectivo entero exige pruebas que no se observan.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: atribuir culpas a un grupo exige evidencia sólida y un cuidado especial con la dignidad."
+        },
+        {
+          "letter": "C",
+          "text": "El tono de la columna, porque un texto bien escrito se publica aunque sus premisas sean falsas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la calidad de la escritura no compensa la falsedad de las premisas del texto."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de comentarios que recibe, porque la audiencia ya emitió su propio veredicto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la reacción del público es parte del debate, no un criterio de verificación periodística."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La situación de comunicación de un medio tiene límites que no dependen del número de lectores interesados. Cuando un texto señala a una comunidad entera, el criterio dominante pasa a ser el respeto y la necesidad de pruebas verificables. Evaluar con ese criterio protege a las personas sin reducir el derecho a opinar. Es una reflexión sobre la responsabilidad que asumen los periodicals en el país.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v11",
+      "statement": "Frente a esa situación, ¿qué actitud de lectura es la más crítica y productiva?",
+      "context": "Dos periódicos nacionales publican el mismo día columnas opuestas sobre la bikes infraestructura urbana. La primera sostiene que las ciclovías son la única solución; la segunda afirma que son insuficientes mientras no cambien los hábitos de movilidad. Ambas columnas presentan datos y ejemplos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escoger la columna que coincide con la opinión propia del lector, porque la opinión personal es el mejor filtro.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la coincidencia con el criterio personal no garantiza que el texto sea más sólido ni mejor sustentado."
+        },
+        {
+          "letter": "B",
+          "text": "Identificar el alcance de cada afirmación: qué problema resuelve cada propuesta y qué deja por fuera.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: comparar el alcance real de cada columna muestra que ninguna de las dos agota el debate."
+        },
+        {
+          "letter": "C",
+          "text": "Quedarse con la columna más larga, porque el volumen de texto indica profundidad de análisis.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la extensión de un texto no es una medida de la solidez de sus argumentos."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar las dos columnas, porque dos medios no pueden discrepar sobre el mismo asunto.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la discrepancia es propia del debate público y no invalida ninguno de los textos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando dos textos bien construidos llegan a conclusiones opuestas, la lectura crítica no busca un ganador rápido, sino el alcance de cada uno. Preguntar qué resuelve cada propuesta y qué deja fuera revela los límites del razonamiento. Ese procedimiento enseña que un texto puede tener razones y, al mismo tiempo, no agotar la realidad que comenta. Es una destreza directamente aplicable al debate público colombiano.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle-v12",
+      "statement": "¿Qué rasgos debe reunir esa columna para cumplir con la función argumentativa del género?",
+      "context": "En la evaluación final, cada estudiante de Pereira debe entregar una columna propia sobre un asunto del barrio, con el sello de la portada del periódico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un estilo tan formal que evite cualquier marca de opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecta: una columna sin opinión no cumple el género, porque su razón de ser es precisamente la voz de alguien."
+        },
+        {
+          "letter": "B",
+          "text": "Una posición clara, razones que la sostienen y un cierre que invite a reflexionar.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: tesis, argumentos y propuesta de acción forman la columna completa y verificable."
+        },
+        {
+          "letter": "C",
+          "text": "Un resumen de los datos oficiales sobre el asunto, sin ninguna posición personal.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el resumen de datos es un texto informativo y no cumple la función de la columna."
+        },
+        {
+          "letter": "D",
+          "text": "Una anécdota larga sobre un vecino, sin ninguna conclusión general.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la anécdota sola no construye una posición, y el texto queda en el relato personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La columna de opinión se completa cuando la voz del autor se traduce en una estructura argumentativa verificable. Tesis, razones y cierre convierten una impresión personal en un texto que se puede leer y discutir. Ese esquema es el mismo que se estudió en las columnas publicadas, aplicado ahora a un asunto cercano. La semana termina conectando la lectura crítica con la escritura argumentativa del propio estudiante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W32-la-columna-de-opinion-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
