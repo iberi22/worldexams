@@ -34,10 +34,10 @@ Semana 30 de 40 del año escolar 2026. Semana de cierre del tercer período. Los
 ¿Qué debe identificar primero en el texto para responder la pregunta?
 
 ### Opciones
-- [ ] A) La biografía del autor, porque siempre explica la tesis.
-  <!-- feedback: La biografía puede contextualizar, pero no es la tesis: es la idea que se defiende. -->
-- [x] B) La afirmación central que el autor propone y defenderá con argumentos.
+- [x] A) La afirmación central que el autor propone y defenderá con argumentos.
   <!-- feedback: La tesis es el presupuesto del ensayo y el punto de partida del análisis. -->
+- [ ] B) La biografía del autor, porque siempre explica la tesis.
+  <!-- feedback: La biografía puede contextualizar, pero no es la tesis: es la idea que se defiende. -->
 - [ ] C) El número de páginas del texto, porque define su extensión argumentativa.
   <!-- feedback: La extensión no indica la tesis: solo cuenta cuántas páginas tiene el texto. -->
 - [ ] D) La cantidad de conectores de contraste, porque esa cifra revela la tesis.
@@ -57,10 +57,10 @@ Localizar la tesis es el primer paso del análisis argumentativo. Una vez identi
 El texto dice: "El río amaneció más arriba de lo normal, y esa mañana nadie pudo abrir los puestos". ¿Qué información aporta?
 
 ### Opciones
-- [ ] A) Un dato estadístico sobre el nivel del río en la ciudad.
-  <!-- feedback: No hay cifras: la información es cualitativa y situada en un momento concreto. -->
-- [x] B) Sitúa un hecho en un tiempo y un lugar, con las consecuencias para los vecinos.
+- [x] A) Sitúa un hecho en un tiempo y un lugar, con las consecuencias para los vecinos.
   <!-- feedback: La frase ancla el hecho y muestra su efecto, como hace la crónica. -->
+- [ ] B) Un dato estadístico sobre el nivel del río en la ciudad.
+  <!-- feedback: No hay cifras: la información es cualitativa y situada en un momento concreto. -->
 - [ ] C) Una opinión del narrador sobre la calidad del barrio.
   <!-- feedback: La frase no valora el barrio: informa sobre lo que ocurrió esa mañana. -->
 - [ ] D) Una descripción del paisaje que no tiene relación con los vecinos.
@@ -84,10 +84,10 @@ Encuentran tres datos con dos fuentes que dicen lo mismo. ¿Qué deben hacer par
   <!-- feedback: Si las páginas copian a un mismo origen, hay una sola fuente, no tres. -->
 - [ ] B) Elegir el dato de la página más popular, porque tiene más lectores.
   <!-- feedback: La popularidad mide difusión, no confiabilidad ni validez del dato. -->
-- [x] C) Buscar el registro original que respalda esos datos y compararlo con la medición propia.
-  <!-- feedback: Contrastar con el registro y con una medición propia sí constituye verificación. -->
-- [ ] D) Publicar los tres tal como aparecen, para no perder información.
+- [ ] C) Publicar los tres tal como aparecen, para no perder información.
   <!-- feedback: Publicar sin verificar corre el riesgo de difundir un dato que no resiste. -->
+- [x] D) Buscar el registro original que respalda esos datos y compararlo con la medición propia.
+  <!-- feedback: Contrastar con el registro y con una medición propia sí constituye verificación. -->
 
 ### Explicacion Pedagogica
 La multiplicidad de páginas no equivale a multiplicidad de fuentes. La verificación real exige rastrear el origen común y contrastarlo con evidencia independiente, en este caso una medición realizada por el propio equipo. Ese procedimiento de semesters une la lectura de fuentes con el trabajo de campo escolar.
@@ -103,10 +103,10 @@ La multiplicidad de páginas no equivale a multiplicidad de fuentes. La verifica
 Texto original: "Los estudiantes del barrio leen poco". ¿Qué opción lo convierte en argumento?
 
 ### Opciones
-- [ ] A) "Los estudiantes del barrio leen poco, y eso es grave".
-  <!-- feedback: Añadir un adjetivo valorativo no aporta evidencia: sigue siendo una afirmación. -->
-- [x] B) "En una encuesta, 7 de cada 10 estudiantes dedican menos de 20 minutos diarios a leer".
+- [x] A) "En una encuesta, 7 de cada 10 estudiantes dedican menos de 20 minutos diarios a leer".
   <!-- feedback: La cifra convierte la afirmación en algo comprobable por cualquier lector. -->
+- [ ] B) "Los estudiantes del barrio leen poco, y eso es grave".
+  <!-- feedback: Añadir un adjetivo valorativo no aporta evidencia: sigue siendo una afirmación. -->
 - [ ] C) "Los estudiantes deberían leer más, porque leer es importante".
   <!-- feedback: Es una recomendación razonada, pero no un argumento con evidencia sobre lo que ocurre. -->
 - [ ] D) "Los estudiantes de todo el país leen poco, como todos los jóvenes".
@@ -176,10 +176,10 @@ La versión A dice: "La comunidad de la vereda se organizó y presentó una prop
   <!-- feedback: Una destaca la acción de la comunidad y la otra la respuesta institucional. -->
 - [ ] B) La versión B es más completa, porque incluye a la alcaldía.
   <!-- feedback: Incluir un actor no garantiza mayor completitud: cambia el foco. -->
-- [x] C) Cada versión destaca un actor distinto y por eso orienta la lectura de manera diferente.
-  <!-- feedback: Cambiar el actor destacado cambia lo que el lector considera el centro del hecho. -->
-- [ ] D) La versión A es una opinión, porque habla de la comunidad.
+- [ ] C) La versión A es una opinión, porque habla de la comunidad.
   <!-- feedback: La versión A informa sobre una acción: no expresa un juicio valorativo. -->
+- [x] D) Cada versión destaca un actor distinto y por eso orienta la lectura de manera diferente.
+  <!-- feedback: Cambiar el actor destacado cambia lo que el lector considera el centro del hecho. -->
 
 ### Explicacion Pedagogica
 Dos textos pueden compartir los mismos hechos y, aun así, orientar distinto la lectura según a quién destaca cada versión. En un caso el centro es la comunidad; en el otro, la institución que respondió. Reconocer esa diferencia ayuda a detectar el ángulo de cada fuente antes de aceptar su versión como neutral.

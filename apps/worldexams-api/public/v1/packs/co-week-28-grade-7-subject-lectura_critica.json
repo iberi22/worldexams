@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-28-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.267Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una adaptación literaria?",
+      "context": "En la clase de lectura crítica de Barranquilla, la profesora introduce el tema con una cartelera de películas basadas en novelas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una versión de una obra en otro soporte, como el cine, el teatro o el cómic.",
+          "is_correct": true,
+          "feedback": "La adaptación traslada una obra de un lenguaje a otro, con su propia técnica."
+        },
+        {
+          "letter": "B",
+          "text": "Es un resumen que cambia el final de la obra para actualizarla.",
+          "is_correct": false,
+          "feedback": "Una adaptación puede cambiar detalles, pero no consiste en inventar un final distinto."
+        },
+        {
+          "letter": "C",
+          "text": "Es una traducción de la obra a otro idioma, sin cambiar el soporte.",
+          "is_correct": false,
+          "feedback": "Traducir a otro idioma no es lo que caracteriza una adaptación."
+        },
+        {
+          "letter": "D",
+          "text": "Es una copia exacta de la obra, sin ningún cambio en el estilo.",
+          "is_correct": false,
+          "feedback": "Si no hubiera cambio de lenguaje, no habría adaptación sino copia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La adaptación literaria traslada una obra de un lenguaje a otro. Al cambiar de soporte, cambian los recursos: lo que se expresa con palabras en una novela puede necesitar imágenes, música o gestos en el cine. Reconocer el proceso de adaptación permite comparar versiones y valorar qué se conserva y qué inevitablemente se transforma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v2",
+      "statement": "Sin sonido, en cambio, se observan las expresiones del rostro, los gestos y el lugar. ¿Qué muestra esa escena?",
+      "context": "En un taller de lectura de Medellín, un grupo observa una escena de película sin sonido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el lenguaje audiovisual transmite información por varios códigos al mismo tiempo.",
+          "is_correct": true,
+          "feedback": "La imagen y el sonido son códigos que funcionan juntos, no por separado."
+        },
+        {
+          "letter": "B",
+          "text": "Que la literatura escrita no sirve para contar historias.",
+          "is_correct": false,
+          "feedback": "Cada lenguaje tiene sus propias virtudes: la imagen no reemplaza al texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que una película sin sonido es siempre inferior a una con sonido.",
+          "is_correct": false,
+          "feedback": "La falta de sonido limita o redibuja la escena, pero no la invalida."
+        },
+        {
+          "letter": "D",
+          "text": "Que el público solo puede comprender historias en formatos de video.",
+          "is_correct": false,
+          "feedback": "La comprensión narrativa no depende de un solo soporte: es propia de la narración."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lenguaje audiovisual combina códigos: imagen, sonido, música y montaje. Cada uno aporta información distinta y a veces redundante. Entender cómo funcionan esos códigos permite leer una película o una historieta con la misma atención crítica que se dedica a un texto impreso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v3",
+      "statement": "Una novela tiene un pasaje de miedo. En el cómic se conserva con un cuadro oscuro; en el cine se logra con música. ¿Qué se puede concluir?",
+      "context": "En la biblioteca de Bogotá, un equipo prepara una exposición sobre las cuatro formas de leer una misma obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo el cine puede transmitir miedo, porque es el soporte más tecnológica.",
+          "is_correct": false,
+          "feedback": "Cada soporte tiene sus recursos: el cómic también puede generar miedo."
+        },
+        {
+          "letter": "B",
+          "text": "Que la novela pierde sentido cuando se adapta a otro formato.",
+          "is_correct": false,
+          "feedback": "El sentido se conserva en buena medida, aunque cambie su forma de expresarse."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cómic es una versión incompleta de la novela, porque le faltan palabras.",
+          "is_correct": false,
+          "feedback": "La historieta no es incompleta: usa imágenes y bocetos como lenguaje propio."
+        },
+        {
+          "letter": "D",
+          "text": "Que cada soporte resuelve el mismo efecto con recursos propios y distintos.",
+          "is_correct": true,
+          "feedback": "La adaptación conserva la intención dramática y cambia el procedimiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La adaptación mantiene la esencia de la obra y transforma su expresión. Cuando un pasaje de miedo pasa del texto a la historieta o al cine, se resuelve con imágenes, bocetos, música o actuación. Reconocer esta correspondencia permite comparar versiones sin suponer que una de ellas es la única versión válida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v4",
+      "statement": "En una novela, el narrador describe despacio el recuerdo de un personaje. En la película, la escena dura cuatro segundos. ¿Qué se pierde principalmente?",
+      "context": "En clase de Cali, la profesora explica cómo se pierde información en una adaptación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La duración y la textura interna del recuerdo, que el cine comprime en el tiempo.",
+          "is_correct": true,
+          "feedback": "El tiempo de la pantalla limita lo que el relato puede desarrollar despacio."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del personaje, porque el cine nunca muestra nombres.",
+          "is_correct": false,
+          "feedback": "El nombre sí suele aparecer: lo que falta es la duración del recuerdo."
+        },
+        {
+          "letter": "C",
+          "text": "El espacio físico, porque el cine no puede mostrar lugares.",
+          "is_correct": false,
+          "feedback": "El cine muestra los lugares con mucha precisión: esa no es la pérdida."
+        },
+        {
+          "letter": "D",
+          "text": "El final de la historia, porque toda adaptación cambia el final.",
+          "is_correct": false,
+          "feedback": "No toda adaptación cambia el final: aquí la pérdida es de duración, no de trama."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada lenguaje tiene límites propios. El relato impreso puede detenerse en un recuerdo durante páginas; el cine depende de la duración de la escena. Reconocer estas pérdidas evita pensar que una adaptación es superior o inferior por completo, y ayuda a entender por qué los diálogos de cine suelen ser más breves que los de una novela.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v5",
+      "statement": "El pasaje dice: \"Caminó por el pasillo oscuro, con el corazón latiendo cada vez más rápido\". ¿Cuál opción lo adapta mejor a lenguaje de historieta?",
+      "context": "En un taller de Duitama, los estudiantes convierten un pasaje de novela en recursos de historieta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repetir la frase completa dentro de un globo de diálogo del personaje.",
+          "is_correct": false,
+          "feedback": "Copiar la frase sin acompañarla de imagen no aprovecha el lenguaje del cómic."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir toda la frase por un cuadro blanco vacío, sin texto.",
+          "is_correct": false,
+          "feedback": "El vacío puede tener sentido en algún momento, pero aquí no transmite la escena."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar la frase por una descripción de objetos, quitando la voz del personaje.",
+          "is_correct": false,
+          "feedback": "Quitar la voz pierde la relación entre lo que piensa y lo que ocurre."
+        },
+        {
+          "letter": "D",
+          "text": "Un cuadro amplio con el pasillo en penumbra y un pequeño globo con la última frase.",
+          "is_correct": true,
+          "feedback": "La imagen ubica la escena y el globo conserva la voz del personaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Adaptar a historieta exige combinar imagen y texto. El cuadro crea la atmósfera y el globo conserva la voz del personaje o su narración. Esa combinación es propia de este lenguaje y por eso una adaptación efectiva no se limita a pegar frases dentro de figuras, sino a distribuir la información entre los dos códigos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v6",
+      "statement": "La novela presenta al antagonista solo en segunda persona; la película lo muestra desde fuera, con un actor y diálogos. ¿Qué cambio de la estructura se observa?",
+      "context": "En el aula de Popayán, un grupo compara una novela con su versión cinematográfica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cine elimina la segunda persona, y por eso la película pierde el misterio.",
+          "is_correct": false,
+          "feedback": "El cine cambia el pronombre, pero puede conservar el efecto de la distancia."
+        },
+        {
+          "letter": "B",
+          "text": "El cine pasa de un narrador ausente a un narrador explícito a través de las voces.",
+          "is_correct": true,
+          "feedback": "La segunda persona no tiene voz; al pasar a diálogos, la voz se hace presente."
+        },
+        {
+          "letter": "C",
+          "text": "La novela usa monólogo interior y la película usa descripción objetiva.",
+          "is_correct": false,
+          "feedback": "En la novela no hay monólogo interior: el narrador está en segunda persona."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas versiones usan el mismo tipo de narrador, solo que con actor.",
+          "is_correct": false,
+          "feedback": "El tipo de narrador sí cambia: la voz implícita se vuelve explícita en la película."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un mismo pasaje puede quedar reorganizado al cambiar de soporte. Si la novela emplea una segunda persona sin voz identificable, la película necesita materializar esa voz mediante diálogos o narración en off. Reconocer ese desplazamiento ayuda a comparar versiones y a entender por qué la adaptación a veces interpreta donde el texto solo sugería.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v7",
+      "statement": "En la novela, el clima se describe por dentro, con lo que siente el protagonista. En el teatro, el clima se anuncia con truenos, lluvia y luces. ¿Qué se observa?",
+      "context": "En un proyecto de lectura de Santa Marta, dos estudiantes comparan una novela y su adaptación a obra de teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la obra de teatro inventa el clima porque no puede sentirlo.",
+          "is_correct": false,
+          "feedback": "El teatro sí comunica el clima: lo hace con recursos del espacio y del sonido."
+        },
+        {
+          "letter": "B",
+          "text": "Que el teatro translate la experiencia interior a señales visibles y audibles.",
+          "is_correct": true,
+          "feedback": "Ese es el reto de la adaptación: hacer visible lo que en la novela era interior."
+        },
+        {
+          "letter": "C",
+          "text": "Que la novela usa el tiempo verbal y el teatro no.",
+          "is_correct": false,
+          "feedback": "El ejemplo no compara tiempos verbales, sino modos de representar el clima."
+        },
+        {
+          "letter": "D",
+          "text": "Que la obra de teatro depende menos del actor que la novela del narrador.",
+          "is_correct": false,
+          "feedback": "La relación con el actor no es lo que estos dos textos muestran como diferencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La adaptación resuelve un problema de representación: llevar lo interior a un lenguaje externo. La novela puede narrar la ansiedad mediante pensamientos; el teatro necesita convertirla en gestos, sonidos y elementos del espacio. Reconocer ese trabajo de traducción permite emitir un juicio más justo sobre la versión teatral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v8",
+      "statement": "En una escena aparecen primero planos generales largos y después planos cortos repetidos. ¿Qué efecto produce ese montaje?",
+      "context": "En clase de Medellín, la profesora analiza cómo se construye el ritmo en un montaje cinematográfico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ralentiza la acción en todo momento, porque el espectador no alcanza a procesarlo.",
+          "is_correct": false,
+          "feedback": "El paso de planos largos a cortos acelera el ritmo, no lo ralentiza."
+        },
+        {
+          "letter": "B",
+          "text": "Genera aceleración y tensión al final de la secuencia.",
+          "is_correct": true,
+          "feedback": "El montaje breve y repetido produce sensación de urgencia."
+        },
+        {
+          "letter": "C",
+          "text": "Ordena los hechos cronológicamente, porque cada plano muestra un día distinto.",
+          "is_correct": false,
+          "feedback": "El montaje no indica días distintos: modifica ritmo y sensación."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina el uso de la música, porque todo se apoya en la imagen.",
+          "is_correct": false,
+          "feedback": "El montaje no implica eliminar la música: son recursos independientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El montaje controla el ritmo de la película. Combinando planos de duraciones distintas, el director puede hacer que una escena se sienta lenta, tensa o precipitada. Leer el montaje con atención es parte del análisis audiovisual, porque la forma de succession de las imágenes produce significado por sí misma.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v9",
+      "statement": "La película cambia el final de la novela y añade un personaje que no existía. ¿Qué juicio es más preciso?",
+      "context": "En un seminario de lectura crítica de Valledupar, se evalúa una adaptación cinematográfica de una novela Colombian.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La adaptación es inválida, porque toda adaptación debe conservar el final original.",
+          "is_correct": false,
+          "feedback": "Un cambio de final es una decisión legítima si responde a una razón de formato o de público."
+        },
+        {
+          "letter": "B",
+          "text": "La adaptación es mejor, porque resulta más entretenida para el público joven.",
+          "is_correct": false,
+          "feedback": "El entretenimiento no es un criterio suficiente para valorar la adaptación."
+        },
+        {
+          "letter": "C",
+          "text": "Son cambios propios de la adaptación, y lo pertinente es evaluar si mantienen el sentido de la obra.",
+          "is_correct": true,
+          "feedback": "El criterio crítico es la fidelidad al sentido, no a cada detalle."
+        },
+        {
+          "letter": "D",
+          "text": "La adaptación es peor, porque una versión debe ser idéntica a la obra original.",
+          "is_correct": false,
+          "feedback": "Si tuviera que ser idéntica, no habría Adaptación sino copia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una adaptación puede modificar el final, los personajes o el ritmo, porque cada soporte tiene límites y posibilidades propias. Lo que la lectura crítica evalúa es si esos cambios conservan el sentido profundo de la obra o si la traicionan. Esa distinción permite valorar la versión con criterio, sin exigirle que repita la original.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle-v10",
+      "statement": "Si la infografía combina un gráfico de barras, un texto breve y un ícono, ¿qué criterio permite mejor valorar si comunica bien?",
+      "context": "En un proyecto de cierre de período en Palmira, un grupo lee una infografía del Impacts de-Straße consumo de agua en el colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cuántos colores usa y si el diseño se ve atractivo.",
+          "is_correct": false,
+          "feedback": "La apariencia es un factor de acceso, no de comprensión del dato."
+        },
+        {
+          "letter": "B",
+          "text": "Comprobando si el texto es largo, porque más texto significa más explicación.",
+          "is_correct": false,
+          "feedback": "El exceso de texto puede reducir la comprensión de una infografía."
+        },
+        {
+          "letter": "C",
+          "text": "Verificando si el gráfico, el texto y el ícono se complementan y llevan a la misma conclusión.",
+          "is_correct": true,
+          "feedback": "La coherencia entre los códigos es lo que hace comprensible el mensaje visual."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntando si la infografía aparece primero en la sección de deportes.",
+          "is_correct": false,
+          "feedback": "La sección donde se publica no determina la calidad de la información visual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una infografía combina texto e imagen con el fin de comunicar una idea de forma rápida. Su eficacia depende de que cada elemento cumpla una función y de que todos apunten a la misma conclusión. Cuando el gráfico y el texto dicen cosas distintas, el lector pierde el sentido y la lectura multimodal se vuelve confusa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W28-la-adaptacion-literaria-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

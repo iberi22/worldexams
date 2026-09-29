@@ -36,12 +36,12 @@ Semana 22 de 40 del año escolar 2026. Esta semana entrena la lectura de textos 
 ### Opciones
 - [ ] A) Que el texto empieza por lo menos importante y termina con la conclusión más relevante.
   <!-- feedback: La pirámide invertida empieza por lo más importante, no por lo menos importante. -->
-- [x] B) Que el texto presenta primero el hecho central y después los detalles menos urgentes.
-  <!-- feedback: El principio se llama pirámide invertida porque lo más relevante ocupa la parte superior. -->
+- [ ] B) Que el texto separa las opiniones del periodista de los hechos verificados.
+  <!-- feedback: Esa es una norma de objetividad, distinta de la organización interna del texto. -->
 - [ ] C) Que el texto ordena la información siguiendo la línea del tiempo, de lo antiguo a lo reciente.
   <!-- feedback: La estructura organiza por grado de importancia, no por fechas. -->
-- [ ] D) Que el texto separa las opiniones del periodista de los hechos verificados.
-  <!-- feedback: Esa es una norma de objetividad, distinta de la organización interna del texto. -->
+- [x] D) Que el texto presenta primero el hecho central y después los detalles menos urgentes.
+  <!-- feedback: El principio se llama pirámide invertida porque lo más relevante ocupa la parte superior. -->
 
 ### Explicacion Pedagogica
 La pirámide invertida es el orden con el que la prensa organiza la noticia: el hecho más importante y el lead aparecen en las primeras líneas, y hacia el final se incorporan los datos complementarios, como nombres, cifras o antecedentes. Este orden permite que el lector se informe rápidamente e impide que un dato relevante quede escondido, porque todo lo importante queda arriba.
@@ -80,10 +80,10 @@ Un titular bien construido debe informar sin adjetivos valorativos y, al mismo t
 Si lee la noticia completa y nota que el párrafo inicial ya responde qué pasó, dónde y cuándo, ¿qué elemento está leyendo?
 
 ### Opciones
-- [ ] A) El subtítulo, que va justo debajo del titular.
-  <!-- feedback: El subtítulo complementa el titular; no es el primer párrafo del cuerpo. -->
-- [x] B) El lead o entradilla, que resume el hecho principal en las primeras líneas.
+- [x] A) El lead o entradilla, que resume el hecho principal en las primeras líneas.
   <!-- feedback: El lead o entradilla concentrates el lo esencial de la noticia al comienzo. -->
+- [ ] B) El subtítulo, que va justo debajo del titular.
+  <!-- feedback: El subtítulo complementa el titular; no es el primer párrafo del cuerpo. -->
 - [ ] C) El cierre, que retoma el hecho para terminar la nota.
   <!-- feedback: El cierre aparece al final y amplía; no responde de entrada lo esencial. -->
 - [ ] D) La fuente citada, que identifica a quien entregó la información.
@@ -130,10 +130,10 @@ La fuente citada es el referente verificable de una noticia. Nombrar a una perso
   <!-- feedback: "Milagrosamente" es un adjetivo valorativo que introduce el juicio del periodista. -->
 - [ ] B) "Una persona salva a una familia en Popayán tras un incendio en su vivienda".
   <!-- feedback: La versión no identifica a quien realizó la acción, así que pierde precisión. -->
-- [x] C) "Los bomberos de Popayán rescataron a una familia tras un incendio en su vivienda".
-  <!-- feedback: Identifica a los responsables, la acción y el lugar, sin adjetivos de valor. -->
-- [ ] D) "Un héroe anónimo salva a una familia en Popayán, en un gesto que nunca será olvidada".
+- [ ] C) "Un héroe anónimo salva a una familia en Popayán, en un gesto que nunca será olvidada".
   <!-- feedback: "Héroe" y "nunca será olvidada" son juicios valorativos del periodista. -->
+- [x] D) "Los bomberos de Popayán rescataron a una familia tras un incendio en su vivienda".
+  <!-- feedback: Identifica a los responsables, la acción y el lugar, sin adjetivos de valor. -->
 
 ### Explicacion Pedagogica
 El lenguaje periodístico aspira a la objetividad: informa sobre hechos comprobables, identifica a los sujetos y evita los adjetivos que expresan la posición del periodista. Reescribir un enunciado para cumplir esta norma implica quitar la valoración, precisar los sujetos y mantener los datos verificables.

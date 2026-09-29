@@ -36,12 +36,12 @@ Semana 21 de 40 del año escolar 2026. Esta semana entrena la escritura argument
 ### Opciones
 - [ ] A) Es la conclusión final en la que el autor resume todo lo que escribió.
   <!-- feedback: La conclusión recoge y sintetiza, pero la tesis es la idea central que se sostiene desde el principio. -->
-- [x] B) Es la idea central que el autor defiende y que los argumentos deben sostener.
-  <!-- feedback: La tesis es el presupuesto del ensayo: la afirmación que la argumentación busca demostrar. -->
+- [ ] B) Es la biografía del autor, que se incluye para dar contexto a sus ideas.
+  <!-- feedback: Los datos biográficos pueden dar contexto, pero no constituyen la tesis del ensayo. -->
 - [ ] C) Es el conjunto de datos y estadísticas que aparecen citados en el texto.
   <!-- feedback: Los datos son evidencia; la tesis es la afirmación que esa evidencia sirve para sostener. -->
-- [ ] D) Es la biografía del autor, que se incluye para dar contexto a sus ideas.
-  <!-- feedback: Los datos biográficos pueden dar contexto, pero no constituyen la tesis del ensayo. -->
+- [x] D) Es la idea central que el autor defiende y que los argumentos deben sostener.
+  <!-- feedback: La tesis es el presupuesto del ensayo: la afirmación que la argumentación busca demostrar. -->
 
 ### Explicacion Pedagogica
 El ensayo es un texto argumentativo organizado alrededor de una tesis, es decir, la idea que el autor propone y demuestra. A partir de ella se construyen los argumentos, y cada argumento se apoya en evidencia. Reconocer la tesis es el primer paso para leer un ensayo con criterio, porque permite evaluar si los argumentos que siguen realmente la sostienen.
@@ -57,10 +57,10 @@ El ensayo es un texto argumentativo organizado alrededor de una tesis, es decir,
 En el párrafo aparece: "Sin embargo, no todos los vecinos comparten esa costumbre". ¿Qué relación establece el conector entre las dos ideas?
 
 ### Opciones
-- [ ] A) Establece una relación de causa: la segunda idea produce la primera.
-  <!-- feedback: "Sin embargo" no indica causa, sino oposición entre dos afirmaciones. -->
-- [x] B) Establece una relación de contraste: la segunda idea se opone a la primera.
+- [x] A) Establece una relación de contraste: la segunda idea se opone a la primera.
   <!-- feedback: Los conectores de contraste oponen dos afirmaciones y exigen mantener la coherencia. -->
+- [ ] B) Establece una relación de causa: la segunda idea produce la primera.
+  <!-- feedback: "Sin embargo" no indica causa, sino oposición entre dos afirmaciones. -->
 - [ ] C) Establece una relación de adición: la segunda idea refuerza la primera.
   <!-- feedback: El contraste no refuerza: marca una diferencia que contradice lo afirmado antes. -->
 - [ ] D) Establece una relación de conclusión: la segunda idea cierra el párrafo.
@@ -82,12 +82,12 @@ Si esa frase es la tesis del ensayo, ¿qué debe hacer el resto del texto?
 ### Opciones
 - [ ] A) Describir decorativamente las bibliotecas, sin sostener ninguna posición.
   <!-- feedback: La descripción no cumple la función de la tesis: no hay posición que defender. -->
-- [x] B) Presentar argumentos y evidencia que muestren por qué abrir los sábados es conveniente.
-  <!-- feedback: La tesis se sostiene con argumentos y evidencia que la respalden, no con descripciones. -->
+- [ ] B) Cambiar de tema para hablar de otros problemas de la comunidad que le interesan más.
+  <!-- feedback: Cambiar de tema rompe la unidad argumentativa del ensayo y deja la tesis sin desarrollo. -->
 - [ ] C) Enumerar otros ensayos sobre bibliotecas, sin relacionarlos con la posición propia.
   <!-- feedback: Las fuentes se seleccionan porque respaldan la tesis, no por ser interesantes en sí mismas. -->
-- [ ] D) Cambiar de tema para hablar de otros problemas de la comunidad que le interesan más.
-  <!-- feedback: Cambiar de tema rompe la unidad argumentativa del ensayo y deja la tesis sin desarrollo. -->
+- [x] D) Presentar argumentos y evidencia que muestren por qué abrir los sábados es conveniente.
+  <!-- feedback: La tesis se sostiene con argumentos y evidencia que la respalden, no con descripciones. -->
 
 ### Explicacion Pedagogica
 Cuando una afirmación ocupa el lugar de la tesis, el resto del texto cumple una función de sostén. Cada párrafo debe desarrollar un argumento y aportar evidencia relacionada con esa tesis. Un ensayo cuyos apartados no se conectan con la idea central se lee como una lista de afirmaciones sueltas, sin fuerza argumentativa.

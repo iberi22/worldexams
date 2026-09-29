@@ -36,12 +36,12 @@ Semana 23 de 40 del año escolar 2026. Esta semana entrena la lectura de la cró
 ### Opciones
 - [ ] A) Que solo publica cifras y estadísticas sobre un hecho del día.
   <!-- feedback: El dato en exclusiva corresponde a la noticia, no a la crónica. -->
-- [x] B) Que narra hechos reales desde la voz de alguien que observa o participa en ellos.
-  <!-- feedback: La crónica combina información verificada con una mirada personal y fechada. -->
+- [ ] B) Que expresa la opinión política del periodista sin datos comprobables.
+  <!-- feedback: La opinión sin datos corresponde al artículo de opinión, no a la crónica. -->
 - [ ] C) Que cuentan historias inventadas con el fin de entretener al público.
   <!-- feedback: La crónica se apoya en hechos reales: la ficción pertenece a la literatura. -->
-- [ ] D) Que expresa la opinión política del periodista sin datos comprobables.
-  <!-- feedback: La opinión sin datos corresponde al artículo de opinión, no a la crónica. -->
+- [x] D) Que narra hechos reales desde la voz de alguien que observa o participa en ellos.
+  <!-- feedback: La crónica combina información verificada con una mirada personal y fechada. -->
 
 ### Explicacion Pedagogica
 La crónica es un género periodístico que narra hechos reales de forma contemporánea y desde una voz identificable, la del cronista. Esa voz observa, interpreta y da contexto, pero no inventa los hechos. Por eso la crónica ocupa un lugar intermedio entre la noticia, que solo informa, y el artículo de opinión, que expone una posición argumentada.
@@ -176,10 +176,10 @@ La versión A dice: "Todavía me acuerdo del ruido de las sirenas". La versión 
   <!-- feedback: La versión B gana en precisión: la emoción está en la versión A. -->
 - [ ] B) Gana en velocidad de lectura, porque sus frases son más cortas.
   <!-- feedback: La longitud de la frase no es la diferencia relevante entre las dos versiones. -->
-- [x] C) Gana en anclaje: sitúa el recuerdo en una fecha y en una edad concretas.
-  <!-- feedback: El anclaje temporal y biográfico vuelve el testimonio más verificable. -->
-- [ ] D) Gana en neutralidad, porque elimina la voz del testigo.
+- [ ] C) Gana en neutralidad, porque elimina la voz del testigo.
   <!-- feedback: La versión B mantiene la primera persona y añade datos: no elimina la voz. -->
+- [x] D) Gana en anclaje: sitúa el recuerdo en una fecha y en una edad concretas.
+  <!-- feedback: El anclaje temporal y biográfico vuelve el testimonio más verificable. -->
 
 ### Explicacion Pedagogica
 Un testimonio gana fuerza cuando ancla su relato en datos concretos: fechas, edades, nombres y lugares. El anclaje permite contrastar la versión con otras fuentes y le da verificabilidad. La emoción también es valiosa, pero por sí sola no permite comprobar el hecho, de modo que un buen testimonio combina la voz sentida con la precisión.
