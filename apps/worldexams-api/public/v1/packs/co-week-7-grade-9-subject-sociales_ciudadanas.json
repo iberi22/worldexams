@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-29T21:27:07.416Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v1",
+      "statement": "¿De qué modo se afirma que la Constitución es la norma suprema del ordenamiento jurídico colombiano?",
+      "context": "En una clase de sociales de noveno grado en Bogotá, el profesor abre el año explicando qué es la Constitución y por qué el país tiene una norma de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sus reglas ocupan el primer lugar en la jerarquía y ninguna otra norma puede contradecirlas.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución encabeza la jerarquía normativa y toda ley, decreto o acto administrativo debe ser compatible con ella."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es el documento más antiguo del país y por eso nadie lo modifica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La antigüedad no define la jerarquía y las constituciones pueden reformarse por el procedimiento que ellas mismas establecen."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo el Congreso de la República puede aplicarla en los asuntos de importancia nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución obliga a todas las autoridades y también a los particulares; no es de aplicación exclusiva del Congreso."
+        },
+        {
+          "letter": "D",
+          "text": "Porque su reforma debe ser aprobada por todos los municipios del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia es una República unitaria: la reforma constitucional se tramita ante el Congreso y no ante los municipios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta establece el fundamento del sistema jurídico colombiano mediante el principio de supremacía constitucional. Comprender que la Constitución encabeza la jerarquía normativa explica por qué una ley que vulnera un derecho fundamental puede ser declarada inexequible. Ese principio vincula a los tres poderes, a las autoridades locales y a los particulares. Es la base sobre la que se construyen el control de constitucionalidad y la defensa de los derechos. Sin esta jerarquía, el Estado podría legislar sin límites.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v2",
+      "statement": "Según el Preámbulo de la Constitución Política de Colombia, ¿qué conjunto de valores guía la República?",
+      "context": "En un colegio de Medellín, una docente lee el Preámbulo de la Constitución de 1991 y pide a sus estudiantes que identifiquen los valores allí declarados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acumulación de riqueza, el mercantilismo, el centralismo administrativo y la jerarquía social.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de esos elementos aparece en el Preámbulo; la Constitución se opuso al centralismo y al individualismo económico."
+        },
+        {
+          "letter": "B",
+          "text": "La homogeneización cultural, la uniformidad religiosa y la negación de las minorías étnicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución reconoce la diversidad étnica y la libertad de culto, y no promueve la homogeneización."
+        },
+        {
+          "letter": "C",
+          "text": "La indiferencia del Estado frente a las necesidades sociales más urgentes de la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Preámbulo obliga al Estado a promover la prosperidad general y el acceso al agua, sin desconocer la dignidad humana."
+        },
+        {
+          "letter": "D",
+          "text": "La justicia, la libertad, la igualdad, la fraternidad y el respeto a la dignidad de la persona.",
+          "is_correct": true,
+          "feedback": "Correcto. El Preámbulo consagra esos valores como fines de la República y como guía del ordenamiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La pregunta verifica el conocimiento de los fines declarados en el Preámbulo, que resumen el proyecto constitucional de 1991. Su mención de la justicia social marca diferencia frente a la Constitución de 1886. Reconocer que esos valores orientan la interpretación de las normas evita leer la Constitución como una lista fría de artículos. También permite entender por qué el catálogo de derechos de 1991 va más allá de la igualdad formal. El Preámbulo es, en términos jurídicos, un criterio de interpretación aplicable a todo el ordenamiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v3",
+      "statement": "De acuerdo con el artículo 2 de la Constitución Política de Colombia, ¿qué dice esa cláusula?",
+      "context": "En un aula de Pereira, un grupo de estudiantes estudia el artículo segundo de la Constitución, que declara los derechos y las garantías de las personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una lista taxativa de derechos que solo se protegen mediante acción de tutela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos del artículo 2 no son una lista taxativa ni dependen de un único medio de defensa judicial."
+        },
+        {
+          "letter": "B",
+          "text": "Reconoce los derechos inherentes a la persona y los deberes correspondientes, y obliga al Estado a garantizarlos.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 2 declara los derechos de toda persona y genera obligaciones exigibles frente a las autoridades públicas."
+        },
+        {
+          "letter": "C",
+          "text": "Aplica solo a los ciudadanos colombianos mayores de edad domiciliados en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos fundamentales corresponden a toda persona, sin distinción de nacionalidad, edad o condición."
+        },
+        {
+          "letter": "D",
+          "text": "Es una declaración de buenas intenciones sin efecto jurídico sobre las autoridades públicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jurisprudencia constitucional ha señalado que esos derechos generan obligaciones exigibles frente al Estado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta introduce la cláusula de derechos de la Constitución colombiana. Reconocer que esos derechos obligan al Estado cambió la relación entre individuo y administración pública en el país. La jurisprudencia constitucional ha derivado de esta cláusula obligaciones concretas en materia de salud, educación y vivienda. Comprender su valor normativo evita el error de considerarlos simples declaraciones de principios. Esta comprensión sostiene el análisis de las preguntas de mayor dificultad del bundle.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v4",
+      "statement": "En un municipio, los habitantes eligen a los miembros de su concejo y votan en elecciones locales. ¿Qué principio constitucional se materializa en esa decisión?",
+      "context": "En un colegio de Cali, un profesor explica cómo se aplica el principio según el cual la soberanía reside exclusivamente en el pueblo, tal como lo enuncia el artículo 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de participación, que permite a los ciudadanos intervenir en los asuntos públicos que los afectan.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución garantiza la participación de la ciudadanía en la vida política del país, tanto en el plano nacional como en el local."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de laicidad, porque la comunidad participó con apoyo del párroco del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La laicidad ordena la relación entre el Estado y las iglesias; la decisión descrita depende de la participación ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de la igualdad material, que obliga al municipio a fijar un número determinado de obras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad material se refiere a garantizar oportunidades reales a personas en igual situación de partida."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de la supremacía constitucional, que obliga a los ciudadanos a respetar la Constitución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La supremacía constitucional define la jerarquía de las normas y no explica la intervención de la comunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta pide aplicar un principio constitucional a una situación de gobierno local muy concreta. La Constitución reconoce la participación como un principio vinculante y dispone mecanismos como el plebiscito, el referendo y la iniciativa popular. Esos mecanismos se aplican en distintos planos, y en el municipal se concreta en la elección de autoridades locales. Reconocerlo ayuda a evitar la idea de que la política ocurre solo en las elecciones nacionales. También prepara para distinguir la participación, que es un fin, de los mecanismos que la hacen posible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v5",
+      "statement": "Una alcaldía del interior del país decide reparar la iglesia central con recursos públicos, mientras los vecinos del sector no cuentan con un puesto de salud. ¿Cuál es la lectura más adecuada según la Constitución de 1991?",
+      "context": "En una clase de Tunja, el profesor explica el principio de laicidad con un ejemplo sobre el uso de los recursos públicos en un municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válido, porque en Colombia la religión católica tiene un papel oficial en la administración pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución consagra la libertad de culto y la igualdad de todas las religiones, sin privilegiar ninguna."
+        },
+        {
+          "letter": "B",
+          "text": "Es cuestionable, porque la laicidad obliga al Estado a mantener la neutralidad religiosa en el uso de los recursos públicos.",
+          "is_correct": true,
+          "feedback": "Correcto. La laicidad obliga al Estado a ser neutral en materia religiosa y a no privilegiar ninguna fe en el presupuesto."
+        },
+        {
+          "letter": "C",
+          "text": "Es inválido, porque la Constitución prohíbe completamente la construcción de templos religiosos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución garantiza la libertad de culto y de enseñanza; lo que exige es que el Estado no privilegie una religión."
+        },
+        {
+          "letter": "D",
+          "text": "Es válido, porque la decisión de la alcaldía solo puede ser revisada por la comunidad del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las decisiones administrativas se controlan por el marco de la ley y por los mecanismos ciudadanos de control."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta pide aplicar el principio de laicidad a una decisión administrativa sobre el presupuesto. La laicidad implica que el Estado mantiene igual distancia frente a todas las religiones. También implica que los recursos públicos se destinen a fines constitucionalmente previstos. Reconocer este principio permite distinguir entre la libertad de culto, que es un derecho, y el acompañamiento oficial de una religión, que no está autorizado. Aplicar el principio a un caso de presupuesto enseña que las normas constitucionales tienen efectos concretos en la administración pública.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v6",
+      "statement": "Según la Constitución, ¿qué principio está en riesgo en esa norma?",
+      "context": "En un colegio de Barranquilla, un estudiante detecta que una norma municipal permite que solo los vecinos de un barrio tengan acceso a un programa de vivienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de la unidad administrativa, que exige un solo domicilio registrado en el municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unidad territorial administrativa no restringe los derechos de las personas que residen en el municipio."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de igualdad material, que exige igual tratamiento para las personas en igual situación de partida.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución consagra la igualdad material y prohíbe las discriminaciones por origen, condición o residencia."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de la libre circulación, que protege el derecho a moverse por el territorio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no trata de restricciones a la circulación, sino de trato desigual en el acceso a un beneficio social."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de la seguridad jurídica, que protege la estabilidad de las decisiones administrativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La seguridad jurídica regula la estabilidad de los actos administrativos, no la igualdad en el acceso a los servicios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La pregunta pide aplicar el principio de igualdad material a un caso de política social local. La Constitución reconoce que todas las personas tienen derecho a la misma protección de la ley. Una norma que reserva un beneficio a ciertos vecinos sin justificación vulnera ese principio. La igualdad material complementa la igualdad formal, porque reconoce que dos personas en igual situación de hecho deben recibir igual trato y oportunidades. Reconocerla ayuda a distinguir la igualdad como aspiración de la igualdad como obligación exigible.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v7",
+      "statement": "Al comparar ambos textos, ¿qué cambio explica que la Constitución de 1991 reconozca tantos derechos y tantos mecanismos de participación?",
+      "context": "En Tunja, un grupo de estudiantes compara la Constitución de 1991 con la Constitución de 1886 y busca explicar qué cambió en la relación entre el Estado y los ciudadanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasó de una Constitución centrada en el poder ejecutivo a otra que reconoce derechos y pone límites al poder del Estado.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 1991 limita el poder del Estado y amplía el catálogo de derechos y de mecanismos democráticos."
+        },
+        {
+          "letter": "B",
+          "text": "Pasó de una Constitución sin derechos a otra que los crea solo para las personas con más recursos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos del artículo 2 corresponden a toda persona, sin distinción de origen, riqueza o condición social."
+        },
+        {
+          "letter": "C",
+          "text": "Pasó de una Constitución democrática a otra que eliminó la democracia representativa y el voto popular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución de 1991 refuerza la democracia representativa y participativa; no elimina el voto popular."
+        },
+        {
+          "letter": "D",
+          "text": "Pasó de una Constitución federal a otra que volvió a un esquema centralista de poder.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia es una República unitaria y la Constitución de 1991 mantiene esa forma de organización."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta pide analizar una comparación histórica entre dos constituciones. La Constitución de 1886 concentraba el poder en el ejecutivo y limitaba la participación. La de 1991 reconoce derechos y abre más espacio a la participación de la ciudadanía. El cambio responde a un largo proceso de reformas y a la presión de los movimientos sociales del país. Reconocer ese contexto ayuda a no tratar las normas como un producto aislado del momento político.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cambio explica que la Constitución de 1991 reconozca a las comunidades étnicas y sus derechos como parte de la nación?",
+      "context": "En Popayán, un profesor pide a sus estudiantes comparar el reconocimiento de la diversidad cultural en las constituciones de 1886 y de 1991.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Constituyente de 1991 reconoció la diversidad étnica del país como un componente de la nación.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución reconoce a las comunidades indígenas, negras, mulatas, palenqueras, mestizas y al Pueblo Rrom."
+        },
+        {
+          "letter": "B",
+          "text": "El Constituyente decidió que solo la población mayoritaria representa la nación y que las demás comunidades no tienen derechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución define a Colombia como una nación diversa y reconoce los derechos de todas sus minorías étnicas."
+        },
+        {
+          "letter": "C",
+          "text": "El Constituyente eliminó el concepto de nación y lo reemplazó por el de sociedad sin diversidad cultural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución mantiene la idea de nación y la define en términos de diversidad cultural."
+        },
+        {
+          "letter": "D",
+          "text": "El Constituyente delegó la cuestión de las minorías étnicas a cada gobierno departamental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reconocimiento de las minorías étnicas está en la propia Constitución, no delegado a los departamentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta analiza un cambio central del texto constitucional: el reconocimiento de la composición plural de la nación colombiana. La Constitución reconoce la diversidad étnica y cultural. También consagra derechos individuales y colectivos para los grupos étnicos del país. Comprender ese cambio ayuda a explicar por qué se considera un avance en materia de reconocimiento. Analizar este punto prepara para evaluar después políticas públicas de inclusión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v9",
+      "statement": "Al analizar esa publicación, ¿qué razón ética y jurídica sustenta la condena de la conducta?",
+      "context": "En Manizales, un comité estudiantil analiza un aviso publicado en redes sociales por un estudiante que ridiculiza a un grupo de compañeros por su lugar de procedencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la dignidad humana y la igualdad son derechos protegidos y esa publicación discrimina a un grupo específico.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución protege la dignidad y prohíbe la discriminación; esa publicación ataca a un grupo por su origen."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en las redes sociales no existe libertad de expresión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libertad de expresión existe, pero tiene límites definidos por la Constitución, entre ellos la dignidad de las demás personas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque esa publicación solo puede evaluarse si todos los estudiantes están de acuerdo con ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna estrategia de aula legitima la humillación de otras personas como método de enseñanza."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las normas del país no aplican en los entornos digitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los principios constitucionales se aplican también a las expresiones realizadas en entornos digitales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta pide un análisis de carácter ético y jurídico sobre una conducta de discriminación en el aula digital. La Constitución garantiza la igualdad y la inviolabilidad de la dignidad humana. Analizar el caso permite distinguir la libertad de expresión, que es un derecho, de la expresión que ataca a otras personas. También ayuda a entender por qué la dignidad funciona como límite en el debate público. Este análisis prepara para evaluar después políticas de convivencia con fundamento constitucional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v10",
+      "statement": "Frente a esa reforma, ¿qué argumento respalda de manera más sólida la conservación de los concejos?",
+      "context": "En Bogotá, un profesor propone a sus estudiantes evaluar una reforma constitucional que eliminara los concejos municipales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los concejos son un gasto innecesario y que la política debería decidirse solo en las capitales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce la reforma a un cálculo económico e ignora la función constitucional de la representación local."
+        },
+        {
+          "letter": "B",
+          "text": "Que la eliminación de los concejos no tiene efecto sobre la vida de los habitantes del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los concejos son una expresión del principio de participación y de la democracia local."
+        },
+        {
+          "letter": "C",
+          "text": "Que los concejos materializan la soberanía popular, porque sus miembros son elegidos por los habitantes del municipio.",
+          "is_correct": true,
+          "feedback": "Correcto. La elección de los miembros del concejo es una de las expresiones más directas de la soberanía popular en el ámbito local."
+        },
+        {
+          "letter": "D",
+          "text": "Que el concejo municipal es un órgano del poder judicial y por eso su eliminación sería una reforma judicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concejo pertenece a la rama administrativa del poder público, no a la rama judicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta evalúa la capacidad de juzgar una reforma constitucional con fundamento en la evidencia jurídica. La elección de los concejos municipales es una decisión directa de los ciudadanos sobre quién los representa. Evaluar una reforma exige distinguir entre el costo de una institución y su legitimidad. El respeto al principio democrático exige mirar los efectos sobre la representación y la participación. Quien solo razona con argumentos de eficiencia corre el riesgo de desconocer derechos y garantías.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v11",
+      "statement": "Al evaluar esa propuesta, ¿qué argumento resulta más sólido desde la Constitución de 1991?",
+      "context": "En Cali, un colegio discute un proyecto de ley que ampliaría el período de ejercicio de un cargo público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ampliar el período beneficiaría a todos los ciudadanos por igual, sin importar el cargo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El argumento supone un beneficio general, pero la ampliación favorece a quien ya ocupa el cargo."
+        },
+        {
+          "letter": "B",
+          "text": "Que la Constitución no dice nada sobre los períodos de los cargos públicos, así que la ley puede fijarlos libremente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ordenamiento constitutional y legal sí regula el ejercicio de los cargos públicos y sus límites."
+        },
+        {
+          "letter": "C",
+          "text": "Que ampliar el período sin controles puede concentrar poderes y debilitar la rotación y la vigilancia ciudadana.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución busca limitar el poder y fortalecer el control; ampliar períodos sin controles favorece la concentración."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ampliación es válida siempre que se apruebe por mayoría simple en el Congreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aprobación por mayoría simple no sustituye el cumplimiento de los límites constitucionales sobre el poder."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta evalúa la capacidad de juzgar una propuesta de reforma con argumentos situados en la Constitución. La ampliación de períodos sin controles puede aumentar la concentración de poder. La Constitución de 1991 limita el poder y refuerza el control ciudadano sobre los funcionarios públicos. Evaluar una propuesta exige valorar sus efectos sobre los derechos y sobre la democracia. Razonar solo con criterios de rentabilidad política confunde la política con la administración.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa con mayor precisión ese compromiso constitucional?",
+      "context": "En Bucaramanga, un foro de estudiantes debate qué significa construir una nación plural desde la Constitución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la nación plural significa que cada comunidad debe vivir aislada, sin contacto con las demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución reconoce la diversidad y también el derecho de vivir con otros en sociedad."
+        },
+        {
+          "letter": "B",
+          "text": "Que la nación plural exige que todos los ciudadanos tengan las mismas costumbres y tradiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La uniformidad contradice el reconocimiento de la diversidad étnica y cultural del país."
+        },
+        {
+          "letter": "C",
+          "text": "Que la nación plural reconoce la diversidad y, al mismo tiempo, garantiza la igualdad de derechos de todas las personas.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución reconoce las diferencias y, a la vez, consagra la igualdad y la protección de los derechos de toda persona."
+        },
+        {
+          "letter": "D",
+          "text": "Que la nación plural solo importa en el año 1991 y no tiene efectos en la vida actual del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los principios constitucionales vigentes ordenan el presente y también las políticas públicas actuales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Esta pregunta evalúa la comprensión global del proyecto constitucional de 1991. La nación plural combina el reconocimiento de las diferencias con la igualdad de derechos de todas las personas. Esa combinación evita dos errores: negar la diferencia y defender la desigualdad. Comprenderla permite valorar los acuerdos de paz y las políticas de inclusión como expresiones de la Constitución. También ayuda a explicar por qué la Carta fundamental sigue siendo un criterio de orientación ética pública.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W07-la-constitucion-de-1991-principios-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

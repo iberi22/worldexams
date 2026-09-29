@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-3-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-29T21:27:07.414Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v1",
+      "statement": "En un mercado, ¿qué representan la oferta y la demanda?",
+      "context": "En una clase de noveno grado en Medellín, la profesora de sociales explica a sus estudiantes qué son la oferta y la demanda antes de iniciar un taller sobre compras en el sector del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oferta es la cantidad de bienes o servicios que los vendedores están dispuestos a poner a la venta, y la demanda es la cantidad que los compradores están dispuestos a adquirir a un precio determinado.",
+          "is_correct": true,
+          "feedback": "Correcto. La oferta y la demanda son las dos fuerzas que se combinan para determinar el precio y la cantidad de equilibrio en un mercado."
+        },
+        {
+          "letter": "B",
+          "text": "La oferta es el conjunto de compradores que compiten por el mismo producto, y la demanda es la cantidad de dinero que circula en la economía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se intercambiaron los papeles: los compradores son los agentes de la demanda y no de la oferta."
+        },
+        {
+          "letter": "C",
+          "text": "La oferta es la producción total de un país, y la demanda es el conjunto de impuestos que el Estado cobra sobre esa producción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oferta y la demanda son categorías del mercado, no indicadores de producción ni conceptos tributarios."
+        },
+        {
+          "letter": "D",
+          "text": "La oferta es la cantidad de dinero en circulación, y la demanda es la lista de empresas que compiten en un sector productivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos descripciones corresponde al dinero en circulación ni al conjunto de empresas competidoras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oferta y la demanda son los dos conceptos centrales con los que se explica el funcionamiento de un mercado. La oferta corresponde a lo que los vendedores están dispuestos a poner a disposición del público, y la demanda, a lo que los compradores están dispuestos a aceptar. Ambas cantidades dependen del precio: cuando el precio sube, la oferta tiende a aumentar y la demanda a disminuir. El punto en que ambas cantidades coinciden se conoce como punto de equilibrio, y en él se determina el precio de mercado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v2",
+      "statement": "Cuando en un mercado aumenta la demanda de un producto y la oferta permanece igual, ¿qué ocurre con su precio de equilibrio?",
+      "context": "En un colegio de Cali, un grupo de estudiantes de noveno grado observa que en una misma tienda de ropa los precios de un artículo cambian según la temporada del año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El precio de equilibrio disminuye, porque una mayor demanda obliga a los vendedores a competir con precios más bajos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una mayor demanda no empuja los precios a la baja; por el contrario, la presión de los compradores eleva el precio."
+        },
+        {
+          "letter": "B",
+          "text": "El precio de equilibrio aumenta, porque la presión de la demanda sobre una oferta que no crece en la misma proporción eleva lo que los compradores están dispuestos a pagar.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la demanda crece más rápido que la oferta aparece un faltante, y los vendedores ajustan el precio al alza."
+        },
+        {
+          "letter": "C",
+          "text": "El precio de equilibrio se mantiene igual, porque el precio solo cambia cuando interviene el Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una economía de mercado el precio se ajusta por la interacción de las fuerzas, sin necesidad de intervención estatal."
+        },
+        {
+          "letter": "D",
+          "text": "El precio aumenta y disminuye automáticamente en la misma proporción, por lo que no puede definirse un nuevo equilibrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mercado con información suficiente sí alcanza un nuevo punto de equilibrio, con un precio mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la relación entre precio, oferta y demanda permite analizar los cambios en los precios de los productos. Cuando aumenta la cantidad que los compradores desean adquirir y los vendedores no ofrecen más unidades, aparece un desequilibrio que se expresa en un faltante. Ante esa escasez, los vendedores tienen margen para fijar precios más altos y, con el tiempo, esa misma reacción ocurre del lado de la oferta. El resultado es un nuevo punto de equilibrio con un precio superior al anterior.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué la diferencia de precios de un mismo producto entre dos comercios de una misma ciudad puede explicarse por la competencia imperfecta?",
+      "context": "Durante una semana de observación en Tunja, estudiantes de noveno grado registran los precios de productos de aseo en varios comercios y encuentran diferencias notables entre un almacén de barrio y un supermercado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en un mercado con competencia perfecta todos los vendedores pueden fijar precios distintos sin consecuencia alguna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En competencia perfecta, la información abundante y la movilidad de los compradores limitan que un vendedor fije un precio muy distinto."
+        },
+        {
+          "letter": "B",
+          "text": "Porque hay pocos vendedores, existe asimetría de información o hay costos que impiden que un comprador detecte al instante la mejor oferta.",
+          "is_correct": true,
+          "feedback": "Correcto. La competencia imperfecta aparece cuando la información, el número de oferentes o las barreras de entrada limitan la reacción de los competidores."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el mercado perfecto es aquel en el que las empresas fijan sus precios sin importar la cantidad de compradores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mercado perfecto se caracteriza por la transparencia, no por la libertad para fijar precios sin competencia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la diferencia de precios demuestra que esos productos no pertenecen al sector privado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia de precios distintos es un fenómeno propio de mercados privados y no una señal de propiedad estatal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La competencia perfecta describe un caso límite en el que hay muchos compradores y muchos vendedores, con información completa y movilidad efectiva de los agentes. Bajo esas condiciones, ningún vendedor puede fijar un precio muy por encima del de sus competidores porque los compradores cambian de vendedor con facilidad. La realidad de las ciudades colombianas se aparta de ese ideal: hay pocos oferentes, información incompleta sobre la calidad y costos que dificultan el cambio de compra. En esas condiciones aparece la competencia imperfecta y los precios se diferencian entre unos comercios y otros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v4",
+      "statement": "Un estudiante afirma que la diferencia de precios se explica únicamente porque el supermercado cobra más caro. ¿Cuál es la mejor corrección a esa afirmación?",
+      "context": "En Pereira, un colegio pide a estudiantes de noveno grado que analicen por qué una misma marca de productos de snacks cambia de precio entre un supermercado grande y un almacén de barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia puede deberse a condiciones de la oferta y la demanda local: mayor rotación de inventario, menores costos de almacenamiento y competencia entre cadenas que presionan el precio.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta integra la dinámica del mercado: la estructura de costos y el nivel de competencia explican el precio mejor que una atribución simple."
+        },
+        {
+          "letter": "B",
+          "text": "La diferencia se debe a que los productos tienen la misma calidad en los dos lugares, por lo que el precio no debería cambiar nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la calidad sea parecida no impide que cambien los costos, la competencia y las condiciones de la oferta."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia solo puede explicarse por la presencia del Estado, que fija un precio distinto para cada tipo de comercio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado puede regular ciertos precios, pero no asigna un precio distinto a cada tipo de comercio local."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia es siempre un abuso del supermercado, y por eso los estudiantes deben evitar comprar allí sin importar las condiciones del mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una diferencia de precio no prueba por sí sola un abuso; hay que analizar costos, competencia y condiciones del entorno local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar los conceptos del mercado exige relacionar la teoría con situaciones concretas de los estudiantes. Una diferencia de precio entre dos comercios no se explica por un solo factor, sino por la combinación de costos operativos, tamaño de la demanda atendida, poder de negociación frente a los proveedores y nivel de competencia local. Una respuesta completa reconoce que el precio es un fenómeno relacional y no una decisión aislada de un vendedor. Por eso la crítica debe apoyarse en argumentos económicos y no en atribuciones simples.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v5",
+      "statement": "Ante la falta de información sobre el precio total y la garantía, ¿qué actuación del consumidor se ajusta a un consumo responsable y a la defensa de sus derechos?",
+      "context": "En Barranquilla, una adolescente de noveno grado compra un electrodoméstico y descubre que el vendedor no le entrega la factura con el precio total ni las condiciones de la garantía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar de inmediato sin pedir la factura, porque la garantía se presume siempre a favor del comprador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La garantía no se presume: debe ser informada y entregada por el vendedor en los términos que fija la ley."
+        },
+        {
+          "letter": "B",
+          "text": "Exigir la factura y las condiciones de la garantía antes de pagar, leer los términos y conservar la evidencia de la compra.",
+          "is_correct": true,
+          "feedback": "Correcto. Exigir la información y guardar los comprobantes es lo que permite reclamar y ejercer los derechos del consumidor."
+        },
+        {
+          "letter": "C",
+          "text": "Aceptar el producto tal como está, porque toda compra es un acuerdo privado que no admite impugnación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación de consumo está normada por la ley y admite reclamaciones cuando se vulneran derechos del consumidor."
+        },
+        {
+          "letter": "D",
+          "text": "Comprar el producto en otro país para evitar las reglas colombianas, asumiendo que allí no aplican las mismas garantías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comprar en el extranjero no elimina las garantías del lugar donde se utiliza el bien ni resuelve la situación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El consumidor tiene derecho a recibir información clara, veraz, oportuna y suficiente sobre los bienes y servicios que adquiere. En la práctica, la factura cumple una función probatoria esencial, pues demuestra lo que se pagó y en qué condiciones se contrató el bien. Conservar esa documentación, leer la garantía y conocer los canales de reclamación permite defender los derechos de manera efectiva. Actuar con información antes de comprar es la forma más sencilla de prevenir conflictos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v6",
+      "statement": "Un grupo propone comprar prendas usadas para disminuir la cantidad de basura. ¿Qué razonamiento convierte esa propuesta en un consumo responsable con argumentos éticos sólidos?",
+      "context": "En una clase de ética económica en Bogotá, estudiantes de noveno grado discuten si conviene comprar ropa usada en lugar de ropa nueva para reducir el impacto ambiental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostener que la reutilización es irrelevante mientras no se compren productos de marcas reconocidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La marca no determina por sí sola si una compra es responsable; importa toda la cadena de producción y el uso del bien."
+        },
+        {
+          "letter": "B",
+          "text": "Declarar que solo importa que el precio sea bajo, y que comprar lo más barato siempre es la conducta más ética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio más bajo no garantiza condiciones laborales dignas ni ausencia de daños ambientales."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer que cada decisión de compra tiene efectos ambientales y sociales, y valorar la reutilización junto con la garantía de que el bien se obtuvo en condiciones de trabajo digno.",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta combina el criterio ambiental con una consideración ética sobre las condiciones de producción del bien."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir siempre la opción más barata sin considerar el impacto ambiental, porque el precio es el único factor económico relevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un análisis completo integra precio, condiciones de producción, durabilidad e impacto ambiental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El consumo responsable integra la decisión económica con la reflexión sobre sus consecuencias. Elegir reutilizar un bien puede reducir la cantidad de residuos, pero eso no basta por sí solo para afirmar que la conducta es ética. Es necesario preguntarse por las condiciones en que se produjo el bien y si su uso respeta los derechos de las personas que participaron en su elaboración. Este cruce entre lo económico, lo social y lo ambiental caracteriza una decisión de consumo con criterio ético.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v7",
+      "statement": "¿Qué explica mejor que un comercio de barrio tenga menos clientes que una gran cadena de supermercados?",
+      "context": "En Bucaramanga, estudiantes de noveno grado analizan un caso en el que un comercio pequeño de barrio pierde clientes frente a una gran cadena de supermercados porque los precios de venta son menores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de clientes depende solamente de la publicidad pagada por las grandes cadenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad es solo uno de los factores; el precio, la variedad y la cercanía también influyen."
+        },
+        {
+          "letter": "B",
+          "text": "Los comercios de barrio son necesariamente más eficientes y por eso venden más caro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un comercio de barrio suele manejar un volumen menor, lo que eleva su costo por unidad vendida."
+        },
+        {
+          "letter": "C",
+          "text": "La diferencia se explica por el volumen de clientes, los efectos de escala y la posibilidad de ofrecer precios más bajos, y no por una característica moral de los vendedores.",
+          "is_correct": true,
+          "feedback": "Correcto. Analíticamente, la ventaja de una gran cadena proviene de su capacidad de compra y de su menor costo por unidad."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia de clientes se debe a que en los barrios no existe oferta de bienes ni de servicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En los barrios sí hay oferta; lo que suele faltar son las condiciones de volumen y de precio de las grandes superficies."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar la competencia exige separar las causas económicas de las explicaciones simplistas o moralizantes. Una gran cadena de supermercados maneja un volumen de compras mucho mayor, lo que le permite negociar mejores precios con los proveedores y operar con un costo más bajo por unidad. Ese menor costo se traduce en precios más bajos que atraen clientes. La ventaja competitiva, por tanto, tiene una explicación económica verificable y no depende de las intenciones del vendedor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v8",
+      "statement": "¿De qué manera el uso de esas imágenes influye en las decisiones de consumo de los adolescentes?",
+      "context": "En Manizales, estudiantes de noveno grado revisan publicidad de productos de cuidado personal y notan que muchas campañas usan imágenes de cuerpos poco comunes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No influye, porque la publicidad solo informa sobre características técnicas del producto y no genera expectativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad no se limita a informar: también construye imágenes, deseos y expectativas que condicionan la compra."
+        },
+        {
+          "letter": "B",
+          "text": "Influye solo en los adultos, porque los adolescentes no son susceptibles a los mensajes publicitarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los adolescentes son un segmento especialmente receptivo a los mensajes publicitarios, por eso se los considera un público clave."
+        },
+        {
+          "letter": "C",
+          "text": "Influye únicamente en la cantidad de dinero disponible, porque modifica directamente la renta de los consumidores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad no modifica la renta de los consumidores: solo puede influir en sus preferencias y en sus decisiones."
+        },
+        {
+          "letter": "D",
+          "text": "Influye de manera notable, porque asocia el producto con un ideal de cuerpo que puede generar inconformidad y presión sobre la autoestima.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicidad asocia bienes de consumo a modelos inalcanzables, lo que puede afectar la autoestima y generar presión constante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La publicidad constituye una forma de comunicación comercial que construye imaginarios y no se limita a describir un producto. Al asociar un producto con un ideal de cuerpo poco frecuente, genera comparación y puede producir malestar en quien no se ajusta a ese modelo. Analizar estos efectos exige reconocer que las decisiones de consumo no responden solo a criterios racionales de precio y calidad, sino también a condiciones sociales y emocionales. Entender esa influencia ayuda a formar un consumidor más crítico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v9",
+      "statement": "¿Qué explica que algunos productos básicos, como los alimentos, cambien de precio con más facilidad que otros?",
+      "context": "En Ibagué, un grupo de estudiantes de noveno grado estudia por qué el precio de los alimentos cambia con mayor frecuencia que el de otros bienes durante ciertas épocas del año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que esos productos no pertenezcan a ningún mercado, por lo que sus precios se fijan al azar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alimentos hacen parte del mercado y sus precios responden a la oferta y a la demanda."
+        },
+        {
+          "letter": "B",
+          "text": "Que su oferta es sensible a factores externos como las condiciones de producción, el clima, las temporadas de cosecha y los costos de transporte.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos productos dependen de factores externos que hacen que su oferta y su precio varíen con rapidez."
+        },
+        {
+          "letter": "C",
+          "text": "Que el Estado fija cada mes un precio distinto para cada alimento, sin relación con el funcionamiento del mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado puede intervenir en algunos precios, pero no los modifica uno por uno cada mes por decisión propia."
+        },
+        {
+          "letter": "D",
+          "text": "Que los alimentos se venden únicamente en el mercado informal, sin ninguna relación comercial formal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alimentos se venden en el mercado formal y también en el informal, y en ambos casos existe una relación comercial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El precio de los bienes depende de la manera en que su oferta responde a condiciones externas. Los productos básicos como los alimentos dependen del clima, de las temporadas de cosecha, de los costos de transporte y de la disponibilidad de mano de obra. Cuando esos factores cambian, la oferta se modifica con rapidez y el precio se ajusta en consecuencia. Comprender esta sensibilidad ayuda a explicar por qué ciertos productos tienen precios más volátiles que otros.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación más completa de la propuesta de la campaña escolar?",
+      "context": "En un foro de noveno grado en Villavicencio, un estudiante propone una campaña escolar para que sus compañeros compren productos con sello de comercio justo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pertinente porque combina un criterio económico con una preocupación por las condiciones laborales, aunque debe explicar cómo se verifica el cumplimiento de esos compromisos.",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta es valorable por su contenido económico y ético, siempre que incluya mecanismos de verificación."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta porque el comercio justo garantiza que todos los productores tengan ingresos altos y condiciones ideales de trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna etiqueta garantiza condiciones ideales; el comercio justo es un sistema que mejora condiciones, no las asegura."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta porque el precio del comercio justo siempre es más alto y, por eso, no resulta accesible para los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que su precio pueda ser mayor no invalida la propuesta; la accesibilidad depende del presupuesto de cada familia."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta solo si se exige que todos los productos del colegio sean de comercio justo, sin considerar las preferencias del consumidor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Convertir la campaña en una obligación total choca con la autonomía de las familias y con los principios del consumo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una propuesta exige valorar su aporte y, al mismo tiempo, identificar las condiciones para que funcione. Una campaña que promueve el comercio justo articula un criterio económico con una reflexión sobre las condiciones de vida de los productores, lo que la hace pertinente en la formación de un consumidor consciente. Sin embargo, su valor depende de que la comunidad verifique si los productores cumplen efectivamente lo que el sello promete. La propuesta más sólida es la que combina una postura crítica con condiciones verificables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál es la actuación más pertinente de la familia y del colegio frente a esa situación?",
+      "context": "En Bogotá, un colegio analiza un caso en el que una familia recibe un producto defectuoso y una publicidad engañosa sobre sus características.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guardar silencio, porque las relaciones comerciales son asuntos privados que no admiten intervención educativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La defensa de los derechos del consumidor es un asunto de interés público que puede y debe estudiarse en el aula."
+        },
+        {
+          "letter": "B",
+          "text": "Presionar al vendedor con amenazas sin presentar pruebas del reclamo, esperando que ceda ante la presión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un reclamo sin pruebas y con amenazas debilita la defensa del derecho y puede perjudicar a quien lo formula."
+        },
+        {
+          "letter": "C",
+          "text": "Aceptar el producto sin discutir, porque el vendedor siempre tiene la última palabra en una relación comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ley reconoce derechos al consumidor que permiten exigir el cumplimiento de lo ofrecido."
+        },
+        {
+          "letter": "D",
+          "text": "Reclamar ante la autoridad competente con las pruebas de la compra y la publicidad engañosa, y trabajar en el aula el caso como ejemplo de defensa colectiva de derechos.",
+          "is_correct": true,
+          "feedback": "Correcto. La actuación correcta combina la vía administrativa con el uso educativo del caso para formar conciencia sobre los derechos del consumidor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Frente a una publicidad engañosa, la respuesta adecuada combina la defensa del derecho con el uso formativo del caso. La familia debe conservar las pruebas, como la factura, la publicidad y los mensajes recibidos, y adelantar la reclamación ante la autoridad de protección al consumidor que resulte procedente. Paralelamente, el colegio puede convertir el episodio en una oportunidad para enseñar a los estudiantes a conocer y ejercer sus derechos. Actuar con pruebas es lo que distingue una defensa efectiva de una queja sin fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle-v12",
+      "statement": "Frente a esa comparación, ¿qué reflexión evalúa mejor el impacto de la desigualdad económica en el consumo?",
+      "context": "En un proyecto de noveno grado en Cali, un equipo compara qué parte del presupuesto familiar destinan varios estudiantes a productos de marca y a productos de marca blanca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las familias con mayores ingresos compran exclusivamente productos de marca y que eso demuestra superioridad económica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La compra de marcas no constituye por sí misma superioridad; reducir la comparación a un solo indicador empobrece el análisis."
+        },
+        {
+          "letter": "B",
+          "text": "Que todas las familias consumen igual porque los precios de los productos son los mismos en todo el mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las diferencias de ingreso se reflejan en patrones de consumo incluso cuando los precios son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Que la posibilidad de elegir entre marcas y marcas blancas depende del ingreso, y que esa diferencia revela cómo la desigualdad económica condiciona las necesidades y las decisiones de las familias.",
+          "is_correct": true,
+          "feedback": "Correcto. La reflexión evalúa cómo la desigualdad de ingresos se traduce en patrones de consumo distintos entre familias."
+        },
+        {
+          "letter": "D",
+          "text": "Que la desigualdad no se observa en el consumo porque ese comportamiento es estrictamente privado y no puede analizarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El consumo puede analizarse en clave de desigualdad social; no es un asunto ajeno al análisis sociológico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desigualdad económica se observa también en los patrones de consumo de las familias. El acceso a productos de marca, a ciertos servicios o a categorías de bienes depende en buena medida del nivel de ingreso disponible. Analizar esas diferencias permite entender cómo la desigualdad condiciona necesidades, decisiones y hasta la posibilidad de satisfacer las más básicas. Por eso, el consumo sirve como una ventana para comprender problemas sociales más amplios. Reflexionar desde esta perspectiva supera la idea de que el consumo es un asunto puramente privado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W03-el-mercado-y-el-consumidor-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
