@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-28-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.263Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza al texto divulgativo científico dentro de una exposición escolar?",
+      "context": "En Bogotá, la profesora de noveno grado explica por qué el mismo tema puede redactarse de varias maneras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explica un conocimiento especializado con un lenguaje accesible, sin perder precisión.",
+          "is_correct": true,
+          "feedback": "Correcto. La divulgación adapta el contenido a un público amplio y, al mismo tiempo, conserva la exactitud de lo que afirma."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituye toda explicación por opiniones personales del divulgador, porque la ciencia no es accesible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto divulgativo se apoya en el conocimiento publicado y no sustituye los datos por opiniones del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Usa únicamente tecnicismos, porque entiende que el público specialized está preparado para ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los numerosos tecnicismos sin explicación dificultan la comprensión, que es justamente lo que la divulgación busca evitar."
+        },
+        {
+          "letter": "D",
+          "text": "Evita cualquier dato numérico, para que la lectura resulte más entretenida para el público general.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos son la base de la explicación, y la divulgación los mantiene y los comenta con palabras sencillas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto divulgativo ocupa un lugar intermedio entre el artículo especializado y la conversación cotidiana. Su dificultad principal está en traducir conceptos sin perder de vista lo que la evidencia sostiene. Reconocer ese propósito ayuda a los estudiantes a demandar precisión de los textos que leen y a valorar el trabajo de quien explica de forma clara un tema difícil.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v2",
+      "statement": "Según el texto 1, ¿en qué orden ocurre el tratamiento del agua antes de llegar a las casas?",
+      "context": "En Pasto, un grupo estudia el texto 1 y reconstruye el orden en que se explica el proceso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desinfección, decantación y, por último, filtración en capas de material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte el orden que presenta el texto, donde la decantación aparece antes que la filtración y la desinfección."
+        },
+        {
+          "letter": "B",
+          "text": "Decantación, filtración en capas de material y, por último, desinfección.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto sigue ese orden, y reconocer la secuencia permite reconstruir el proceso con precisión."
+        },
+        {
+          "letter": "C",
+          "text": "Filtración, decantación y, por último, deshielo de las partículas más pesadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Altera el proceso descrito, porque las palabras \"deshielo\" y \"partículas\" no aparecen en la explicación del texto base."
+        },
+        {
+          "letter": "D",
+          "text": "Decantación, desinfección y, por último, filtración en capas de material.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia el orden de los dos últimos pasos, y con ello el texto que se entrega al lector no describe el proceso real."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos divulgativos organizan la información en secuencias que el lector debe seguir para comprender el fenómeno explicado. Identificar el orden de los pasos permite comprobar si la explicación es coherente y si omite algo importante. Esta habilidad se transfiere directamente a la lectura de textos técnicos, donde una secuencia alterada puede llevar a conclusiones equivocadas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v3",
+      "statement": "¿Qué estrategia usa el texto 1 para explicar el término \"decantación\"?",
+      "context": "En Armenia, los estudiantes de noveno grado comparan cómo el texto 1 explica un término técnico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo define mediante una fórmula matemática y luego comprueba si el lector la puede usar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay fórmulas en el texto, y la explicación se apoya en una descripción sencilla de lo que ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "Lo sustituye por un anglicismo muy conocido, para evitar la dificultad de la palabra original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto mantiene la palabra decantación y explica su significado, sin reemplazarla por un término extranjero."
+        },
+        {
+          "letter": "C",
+          "text": "Lo explica describiendo su efecto, al señalar que se retienen las partículas más pesadas.",
+          "is_correct": true,
+          "feedback": "Correcto. La definición se apoya en un efecto observable, que es el recurso más eficaz para un público no especializado."
+        },
+        {
+          "letter": "D",
+          "text": "Lo deja sin explicación, porque supone que cualquier lector de noveno grado conoce esa palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Explicar los términos es una de las funciones centrales de la divulgación, y el texto lo cumple de manera explícita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Explicar un término técnico consiste en conectarlo con un efecto que el lector pueda imaginarse. El texto 1 describe lo que ocurre en cada etapa, y esa descripción permite entender la palabra sin necesidad de consultar un diccionario técnico. Valorar esta estrategia ayuda a los estudiantes a distinguir una buena explicación de una que se limita a repetir la palabra en un contexto nuevo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v4",
+      "statement": "Un folleto escolar sobre la erosión dice: \"La erosión es el desgaste y el traslado de material del suelo por acción del agua o del viento\". ¿Qué rasgo de la divulgación está presente en esa frase?",
+      "context": "En Tunja, una estudiante busca en un folleto escolar la frase que corresponde a una definición propia de la divulgación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Define el concepto en una oración y evita el uso de tecnicismos que el público no domina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sí define el concepto, pero sí emplea tecnicismos como desgaste y traslado, que el folleto no explica."
+        },
+        {
+          "letter": "B",
+          "text": "Define el concepto y señala qué agentes lo producen, es decir, el agua y el viento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que el texto menciona esos agentes, pero esa información proviene del concepto y no de una decisión de divulgación."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye la definición por un ejemplo, y por eso deja de ser un texto de carácter científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sigue siendo una definición, y un texto divulgativo puede y debe definir los conceptos que utiliza."
+        },
+        {
+          "letter": "D",
+          "text": "Define el concepto en una oración y añade el dato que permite entender quién lo produce y cómo.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase reúne la definición y la información de apoyo, que es la combinación propia de un texto de divulgación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen texto divulgativo resume en pocas palabras lo esencial de un concepto y añade el dato que lo hace comprensible. La frase del folleto cumple las dos condiciones, y por eso funciona mejor que una definición técnica sin contexto. Evaluar estos rasgos ayuda a los estudiantes a escribir sus propios textos de divulgación, donde cada palabra debe aportar información y no relleno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v5",
+      "statement": "Un equipo escolar debe explicar a estudiantes de primaria cómo se trata el agua. ¿Qué versión respeta mejor la intención de un texto divulgativo?",
+      "context": "En Montería, un equipo debe adaptar una explicación sobre el agua para electorado de primaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El agua pasa por varios filtros hasta quedar limpia, y luego se le agrega algo que elimina los gérmenes\".",
+          "is_correct": true,
+          "feedback": "Correcto. La versión emplea palabras conocidas, describe el proceso en orden y conserva la idea de eliminación de los microorganismos."
+        },
+        {
+          "letter": "B",
+          "text": "\"La decantación, la filtración y la desinfección constituyen los parámetros operacionales del sistema\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario especializado no corresponde a un público de primaria, aunque la información sea correcta."
+        },
+        {
+          "letter": "C",
+          "text": "\"Según un estudio reciente, el agua tratada presenta mejores niveles de potabilidad que en años anteriores\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no explica cómo se trata el agua, y además atribuye la afirmación a un estudio que el texto no identifica."
+        },
+        {
+          "letter": "D",
+          "text": "\"El agua es un recurso importante y todos debemos cuidarla para el futuro de nuestras comunidades\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase es una recomendación general y no responde a la pregunta sobre cómo se trata el agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intención comunicativa de un texto divulgativo es que un público no especializado entienda el proceso explicado. Eso exige sustituir tecnicismos por palabras conocidas, conservar el orden de los pasos y no añadir afirmaciones que la fuente no respalda. Aplicar estos criterios permite evaluar la calidad de una explicación y reescribirla sin perder el contenido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v6",
+      "statement": "Un texto sigue este orden: afirma que la erosión empeora el suelo, luego explica cómo ocurre y, al final, define el término \"erosión\". ¿Qué problema tiene esa organización?",
+      "context": "En Valledupar, un editor revisa la secuencia de un texto divulgativo sobre la erosión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene problema, porque cualquier orden es válido siempre que las tres partes aparezcan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden importa, porque el lector necesita la definición antes de la explicación y de la afirmación general."
+        },
+        {
+          "letter": "B",
+          "text": "La definición llega tarde, y el lector intenta comprender un proceso antes de conocer el término.",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el concepto se define al final, la explicación queda sin base y el lector debe adivinar de qué se habla."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación inicial es incorrecta, porque un texto divulgativo no puede empezar con una conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede abrir con una afirmación, y lo que falla aquí es la posición de la definición y no la presencia de la conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es demasiado breve, porque tres párrafos no bastan para explicar un fenómeno científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es el problema, y tres párrafos pueden ser suficientes si la información está bien distribuida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La organización de un texto divulgativo debe seguir el orden en que el lector necesita la información: primero el concepto, después el proceso y finalmente sus consecuencias. Cuando la definición aparece al final, el lector intenta interpretar lo que todavía no conoce. Revisar este orden es una técnica de escritura que también sirve para leer y evaluar textos técnicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v7",
+      "statement": "En el texto 2 se lee que \"la erosión es inevitable en Colombia\". ¿Qué análisis sintáctico y semántico justifica revisar esa frase?",
+      "context": "En Pereira, un profesor pide identificar la frase que expresa unaUniversalQuantifier y por eso necesita revisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase es un dato numérico, y por eso debe revisarse porque no tiene unidad de medida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no es un dato numérico, y el problema no está en las unidades sino en la generalización."
+        },
+        {
+          "letter": "B",
+          "text": "La frase es una opinión personal, y por eso no puede aparecer en un artículo de prensa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la frase es discutible, no es una opinión personal, y en un texto de prensa la pregunta es si la fuente la respalda."
+        },
+        {
+          "letter": "C",
+          "text": "La frase usa un cuantificador general sin base, y el texto 2 no aporta datos que sostengan esa necesidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La construcción afirma algo para todo un país, y el estudio resumido no demuestra esa inevitabilidad, ya que también informa de casos de conservación."
+        },
+        {
+          "letter": "D",
+          "text": "La frase contiene dos oraciones unidas por una conjunción, y por eso su sentido es confuso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión es una sola oración, y su problema no es estructural sino de alcance de la afirmación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Revisar un texto divulgativo exige atención a la estructura de las afirmaciones, no solo a la claridad de las palabras. Un cuantificador general como \"es inevitable\" convierte una tendencia en una certeza y oculta que hay casos donde el proceso se ha detenido. Detectar esa diferencia entre lo que la fuente muestra y lo que el texto afirma es una forma de lectura crítica de la ciencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v8",
+      "statement": "El artículo afirma que \"el suelo se está yendo\" y que \"la erosión es inevitable en Colombia\". ¿Qué relación hay entre esas frases y el informe que las sostiene?",
+      "context": "En Quibdó, un grupo compara el artículo de prensa del texto 2 con el informe completo que este resume.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las frases reproducen con fidelidad las conclusiones del informe, porque resumen su mensaje central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe menciona fincas donde la conservación redujo la pérdida, y esa información desaparece en las frases del artículo."
+        },
+        {
+          "letter": "B",
+          "text": "Las frases contradicen al informe, porque él afirma que la erosión puede detenerse con medidas de conservación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe no dice que la erosión se detenga por completo, y la diferencia está en el alcance de la afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Las frases amplían los datos del informe, porque agregan información que el estudio no calculó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no agrega mediciones nuevas, sino que convierte la información disponible en afirmaciones más absolutas."
+        },
+        {
+          "letter": "D",
+          "text": "Las frases simplifican el informe y llevan el paso de una tendencia a una certeza que el estudio no demuestra.",
+          "is_correct": true,
+          "feedback": "Correcto. Comparar ambas versiones muestra cómo un resumen puede exagerar el alcance de los hallazgos de una investigación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar un texto de prensa con la fuente que resume es una práctica esencial de lectura crítica. La simplificación es inevitable en un resumen, pero puede convertirse en exageración cuando se borran los casos que contradicen la afirmación general. Reconocer ese desplazamiento protege al lector de aceptar como certezauniversal lo que en realidad es el resultado de un estudio limitado a ciertos lugares y periodos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v9",
+      "statement": "En el texto 2, el artículo pasa de describir un estudio en cuatro municipios a afirmar que la erosión ocurre en todo el país. ¿Qué problema de coherencia presenta ese salto?",
+      "context": "En Sincelejo, un lector detecta que el artículo del texto 2 salta de un dato a una conclusión general.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El artículo omite la palabra \"estudio\", y por eso el lector no entiende que hubo una investigación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo sí menciona un equipo de investigadoras, y el problema no es la ausencia de esa palabra."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo generaliza a partir de una investigación feita en pocos municipios, sin advertir el límite del dato.",
+          "is_correct": true,
+          "feedback": "Correcto. La conclusión pide más de lo que la evidencia permite, y esa desproporción debilita la coherencia entre datos y afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo emplea un lenguaje demasiado sencillo, y por eso el público no comprende la importancia del hallazgo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro divulgativo es adecuado para el público, y el defecto está en el alcance de la conclusión y no en el lenguaje."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo repite la idea de la erosión, y esa repetición debilita la información que entrega.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no es el defecto central, porque el problema es que la conclusión no corresponde con el alcance del estudio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto bien construido mantiene una relación proporcional entre lo que muestra la evidencia y lo que afirma. Cuando una investigación hecha en un lugar se convierte en una afirmación sobre todo un país, el discurso pierde coherencia entre sus partes. Analizar esa distancia enseña a los estudiantes a pedir el alcance de los estudios antes de aceptar sus conclusiones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v10",
+      "statement": "¿Qué rasgo permite evaluar con fundamento la confiabilidad de un texto divulgativo científico?",
+      "context": "En Riohacha, un comité evalúa si un texto divulgativo es confiable antes de publicarlo en la revista del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que use un vocabulario muy especializado, porque demuestra que el autor domina la materia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario especializado no garantiza confiabilidad, y en divulgación puede incluso dificultar la comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "Que incluya las limitaciones del estudio y mantenga un lenguaje que no altera los datos.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer límites y conservar los datos son señales de que el texto respeta el alcance de la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que tenga muchas páginas, porque la extensión demuestra que el tema se trató con profundidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es una medida de profundidad, y un texto largo puede repetir lo mismo sin aportar evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que use imágenes y colores llamativos, porque hacen que cualquier información resulte confiable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño mejora la lectura pero no respalda la veracidad, y esa es una distinción básica de la crítica de fuentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la confiabilidad de un texto divulgativo exige aplicar criterios sobre el contenido y no sobre su apariencia. Señalar las limitaciones de un estudio, conservar los datos y no convertir un resultado parcial en una certeza son indicios de seriedad. Estos criterios ayudan a construir un hábito de lectura: buscar en el texto qué afirma, con qué evidencia y hasta dónde llega.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v11",
+      "statement": "Un texto divulgativo explica el cambio climático en cuatro párrafos muy sencillos y no incluye ninguna cifra. ¿Qué juicio es el más justo sobre ese texto?",
+      "context": "En Florencia, un profesor solicita un juicio equilibrado sobre un texto de divulgación que simplifica mucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es excelente, porque la divulgación debe evitar por completo los datos numéricos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos no están prohibidos, y su ausencia deja al lector sin elementos para valorar la explicación."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es inútil, porque sin tecnicismos no se puede explicar ningún conocimiento científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es posible explicar con palabras sencillas, y lo que se evalúa aquí es si esa explicación conserva el contenido."
+        },
+        {
+          "letter": "C",
+          "text": "El texto cumple su propósito si explica bien el mecanismo, aunque sería más completo si añadiera algún dato verificable.",
+          "is_correct": true,
+          "feedback": "Correcto. La valoración distingue la claridad y rigurosidad y señala una mejora posible sin descalificar el texto."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es engañoso, porque toda simplificación esconde necesariamente una intención malintencionada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplificar no equivale a engañar, y el texto no presenta ninguna señal de intencionalidad oculta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzgar un texto divulgativo con equilibrio supone separar claridad yiaryidad como dos dimensiones. Un texto puede ser muy claro y aun así necesitar datos, y puede incluir cifras y ser incomprensible para su público. Formular esa distinción permite mejorar los propios textos sin caer en el extremo de creer que toda simplificación es un error o un engaño.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle-v12",
+      "statement": "Un equipo tiene dos versiones de una explicación sobre el consumo de agua: una técnica, con términos de ingeniería, y otra sencilla, sin datos. ¿Qué decisión está mejor justificada?",
+      "context": "En Barrancabermeja, un equipo debe decidir qué versión de una explicación es la más adecuada para su propósito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar la versión sencilla, porque la complicación del vocabulario aleja al público de la información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión sencilla cumple una función, pero sin datos no permite valorar la explicación ni verificarla."
+        },
+        {
+          "letter": "B",
+          "text": "Publicar la versión técnica, porque el rigor del vocabulario garantiza por sí solo la veracidad del contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario especializado no garantiza veracidad, y puede hacer que el público no entienda de qué se habla."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar ambas versiones sin explicarlas, y dejar que cada lector decida cuál le resulta más útil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar las dos sin guía deja al lector sin elementos para elegir, y esa decisión no resuelve la necesidad del público."
+        },
+        {
+          "letter": "D",
+          "text": "Publicar la versión sencilla con los datos correspondientes, y reservar la técnica para quienes necesiten el detalle.",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta combina claridad y fundamento, y además respeta la diversidad de lectores con necesidades distintas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir una versión de un texto implica considerar el público, el propósito y la información disponible. La versión divulgação necesita ser clara y verificable al mismo tiempo, y la versión técnica cumple una función distinta para un público especializado. Reconocer que ambos formatos son necesarios ayuda a diseñar materiales de comunicación que no renuncian ni a la comprensión ni al rigor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W28-el-texto-divulgativo-cientifico-y-su-lenguaje-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

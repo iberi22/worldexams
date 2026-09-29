@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-1-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.261Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones corresponde a la tesis de un ensayo argumentativo?",
+      "context": "En un colegio de Bogotá, la profesora de noveno grado explica por qué no todas las frases de un ensayo tienen el mismo peso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la afirmación central que el autor defiende y que organiza el resto del texto.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la posición sostenida por el autor, y los demás párrafos se construyen para fundamentarla o refutarla."
+        },
+        {
+          "letter": "B",
+          "text": "Es el primer párrafo del ensayo, porque toda conclusión se anuncia al comienzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis puede aparecer al inicio, al final o en la parte central, según la estrategia que elija el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Es el conjunto de cifras que el autor incluyó para sustentar su postura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras son evidencias que apoyan la tesis; la tesis es la afirmación que esas evidencias permiten defender."
+        },
+        {
+          "letter": "D",
+          "text": "Es el título del ensayo, porque en toda obra el título resume la postura del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título puede ser informativo, descriptivo o neutral, y en muchos casos no enuncia la tesis del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis cumple la función de eje del ensayo: sin ella, los párrafos quedan sueltos y el lector no sabe qué debe aceptar. Reconocerla permite además evaluar la calidad del texto, porque un buen ensayo hace que cada afirmación posterior se conecte con la tesis. Cuando un estudiante escribe, definir la tesis antes de redactar evita los textos que solo describen un tema sin defender nada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v2",
+      "statement": "Según el texto base, ¿por qué la frase \"hay que mejorar el transporte público\" es un deseo y no una tesis?",
+      "context": "Un grupo de estudiantes de noveno grado en Medellín revisa la primera frase del texto base y discute su valor argumentativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque aparece dentro del ensayo y no en el título, que es donde debe ir la tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ubicación de la tesis es una decisión de estilo del autor, no una condición de validez argumentativa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque enuncia un planteamiento general que no puede demostrarse ni refutarse con pruebas concretas.",
+          "is_correct": true,
+          "feedback": "Correcto. Una tesis precisa delimita el problema, el alcance y la acción defendida, y esa frase no ofrece ninguno de los tres."
+        },
+        {
+          "letter": "C",
+          "text": "Porque menciona un servicio público y los ensayos deben tratar solamente asuntos privados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ensayo puede tratar asuntos públicos y administrativos; lo pertinente es el alcance del argumento, no el tema."
+        },
+        {
+          "letter": "D",
+          "text": "Porque usa un verbo en segunda persona, una forma de tratamiento informal propia de la conversación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La persona gramatical no define la tesis, y la afirmación sigue siendo igual de general aunque cambie el tratamiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una tesis argumentativa debe ser discutible: si nadie puede negarla, no hay nada que demostrar. La frase general sobre mejorar el transporte admite mil interpretaciones y, por eso, no orienta la búsqueda de evidencias. En cambio, una tesis como reducir los transbordos indica qué evidencia sería pertinente y qué resultado permitiría considerarla sostenida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v3",
+      "statement": "En el párrafo del texto base donde el autor pasa de describir los tiempos medidos a afirmar que hay que reducir los transbordos, ¿qué función cumple el recurso de enlace que emplea?",
+      "context": "En Armenia, un docente señala un recurso del texto base que casi nadie nota al leer con prisa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce un ejemplo ajeno al tema del párrafo, para diversificar la lectura del ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La demostración utiliza los datos del registro, sin saltar a un ejemplo que no esté conectado con ellos."
+        },
+        {
+          "letter": "B",
+          "text": "Señala una postura enfrentada a la del autor, para mostrar el desacuerdo dentro del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recurso no introduce la opinión de un rival, sino la conclusión del propio autor a partir de su evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene una conclusión lógica a partir de los datos que el mismo autor acaba de presentar.",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace marca una inferencia: los datos previos fundan la afirmación y no una opinión aislada del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Ordena datos equivalentes en una serie, sin establecer relación entre los elementos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recurso no arma una lista de elementos parecidos, sino que convierte mediciones concretas en una generalización."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores y los signos de puntuación organizan la lógica interna del discurso. Cuando un autor pasa de un dato medido a una afirmación general, necesita marcar esa transición para que el lector no la perciba como un salto injustificado. Reconocer esta función ayuda al estudiante a construir sus propios párrafos con progresión clara y sin afirmaciones que aparecen sin apoyo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v4",
+      "statement": "Una estudiante de Medellín propone escribir la tesis \"Medellín debe cambiar sus buses\". ¿Cuál de las siguientes reformulaciones sería una tesis argumentativa adecuada?",
+      "context": "En Medellín, una estudiante de noveno grado debe convertir una opinión general en la tesis de su ensayo semanal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medellín es una ciudad grande, con una población que crece cada año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es un dato de contexto y no propone ninguna acción que pueda sostenerse o refutarse."
+        },
+        {
+          "letter": "B",
+          "text": "Los buses de la ciudad son viejos, según se observa todos los días en la calle.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase expone una impresión general sin alcance ni criterio, y no indica qué se defenderá frente a otras posturas."
+        },
+        {
+          "letter": "C",
+          "text": "El transporte público merece atención por parte de todas las personas ciudadanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no precisa el problema, la causa ni la acción, y por eso no permite buscar evidencia pertinente."
+        },
+        {
+          "letter": "D",
+          "text": "Mientras las rutas no reduzcan el número de transbordos, el tiempo de viaje de los estudiantes seguirá creciendo.",
+          "is_correct": true,
+          "feedback": "Correcto. La reformulación delimita el problema, propone una causa y admite respuesta contraria, condiciones de una tesis discutible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Convertir una opinión general en tesis exige añadir tres elementos: un problema delimitado, una relación causal y un alcance verificable. La frase original no contiene ninguno de los tres, por lo que el ensayo no tendría hacia dónde avanzar. Practicar esta transformación es el ejercicio central de la semana, porque separa el deseo legítimo de la afirmación que puede sostenerse con datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes tesis se ajusta mejor a esa revista escolar, cuyo público son estudiantes de varios municipios?",
+      "context": "Un grupo de noveno grado de Pereira escribe para la revista escolar dirigida a estudiantes de séptimo a undécimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mientras las rutas escolares no respeten los horarios de las instituciones, los estudiantes llegarán tarde con frecuencia a sus clases.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis ubica al lector en la situación que vive, delimita el problema y permite recoger datos en los propios colegios."
+        },
+        {
+          "letter": "B",
+          "text": "Las ciudades deben replantear su modelo de transporte para mejorar la calidad de vida de toda la población mundial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alcance es tan amplio que ni el autor ni el lector podrían reunir evidencia pertinente dentro de un trabajo escolar."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema de transporte es un tema que merece un estudio serio por parte de las universidades del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación desplaza la acción a las universidades y no identifica un problema medible que el ensayo pueda discutir."
+        },
+        {
+          "letter": "D",
+          "text": "Nadie ha estudiado con seriedad la situación del transporte en los municipios pequeños del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase lanza una acusación general sin fuente que la respalde, y esa ausencia justamente debilita la tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intención comunicativa determina cómo debe formularse la tesis. Un texto escolar necesita un destinatario identificable, un problema que ese destinatario reconozca y una acción que pueda entender. Cuando la tesis se dirige a un público amplio sin delimitar el problema, el ensayo pierde relación con quienes lo leerán y la evidencia se vuelve difícil de reunir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v6",
+      "statement": "Un grupo de Cartagena ordena cuatro elementos: i) tesis sobre la reducción de transbordos, ii) medición de cincuenta y dos minutos de trayecto, iii) contraargumento de quien propone comprar más flota, iv) respuesta que muestra que los transbordos consumen la mayor parte del tiempo. ¿Cuál es el orden coherente?",
+      "context": "En Cartagena, un grupo ordena los materiales de su ensayo antes de redactar la versión final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ii, i, iv, iii",
+          "is_correct": false,
+          "feedback": "Incorrecto. El esquema cierra con el contraargumento sin responderlo, de modo que el párrafo final queda abierto y sin cierre argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "i, ii, iii, iv",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia anuncia la tesis, la sostiene con evidencia, expone la objeción y la refuta, que es el orden argumentativo esperado."
+        },
+        {
+          "letter": "C",
+          "text": "iii, iv, ii, i",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orden empieza por una objeción que el lector todavía no puede valorar, porque la tesis y la evidencia aparecen al final."
+        },
+        {
+          "letter": "D",
+          "text": "ii, iii, i, iv",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocar el contraargumento antes de la tesis rompe la línea de razonamiento, porque no hay afirmación propia que defender todavía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La macroestructura del ensayo combina tres movimientos: afirmar, demostrar y responder ante la objeción más fuerte. Ese orden no es un capricho estilístico, sino una manera de reducir la resistencia del lector, que entiende primero la postura y luego evalúa la calidad del apoyo. Practicar el orden con materiales propios permite internalizar la estructura y aplicarla después en cualquier disciplina.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v7",
+      "statement": "En el texto base aparece la oración \"No se puede afirmar que la solución sea comprar más vehículos\". ¿Qué transformación sintáctica convierte ese enunciado en una afirmación con tesis propia?",
+      "context": "En Villavicencio, un profesor de noveno grado trabaja la diferencia entre una oración impersonal y una oración argumentativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituirla por un imperativo dirigido a las autoridades que administran las rutas de buses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imperativo es una orden y no una tesis, y además el texto base no señala una autoridad concreta como destinataria."
+        },
+        {
+          "letter": "B",
+          "text": "Añadir una serie de datos sobre el total de vehículos que circulan diariamente en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregar cifras no modifica la estructura de la oración ni convierte el enunciado en una afirmación sostenida."
+        },
+        {
+          "letter": "C",
+          "text": "Convertirla en una oración afirmativa con sujeto explícito y una comparación con la alternativa que se descarta.",
+          "is_correct": true,
+          "feedback": "Correcto. Al asumir el sujeto y contrastar dos opciones, la oración deja de informar y pasa a sostener una posición verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazarla por una pregunta retórica que el lector deba responder por su propia cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta retórica no enuncia una tesis y deja al lector sin una afirmación que pueda evaluar o discutir."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sintaxis expresa la actitud del hablante frente a lo que dice. Una oración impersonal informa, mientras que una oración afirmativa con sujeto y comparación toma partido y por eso puede ser rebatida. En lectura crítica, reconocer esta diferencia ayuda a evaluar la fuerza de un texto: un documento que solo describe, sin afirmar, deja al lector sin ninguna tesis que discutir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de los siguientes rasgos justifica que un evaluador considere sólida la evidencia del texto base?",
+      "context": "Un par evaluador externo revisa el ensayo del material base y escribe su concepto por escrito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto menciona el nombre de una estación de buses, y ese detalle le da autoridad al argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar un lugar produce efecto de verosimilitud, pero no establece el procedimiento ni la posibilidad de verificación."
+        },
+        {
+          "letter": "B",
+          "text": "El autor emplea un tono seguro, y por eso sus afirmaciones resultan verificadas de antemano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono es un recurso de estilo y no una garantía de verdad, porque la firmeza no sustituye a la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "El ensayo incluye una cifra exacta, y toda cifra exacta es por definición verificable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cifra puede ser precisa y aun así falsa, si el procedimiento, la fuente y la muestra no son comprobables."
+        },
+        {
+          "letter": "D",
+          "text": "La medición se realizó sobre rutas concretas, con un procedimiento descrito y un resultado que contradice la intuición.",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia es sólida cuando se puede verificar, y aquí se describe cómo se produjo y sobre qué se midió."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar evidencia exige preguntar por el procedimiento, la muestra y la posibilidad de repetición, no por la seguridad del estilo. Un dato es sólido cuando otra persona puede seguir el mismo procedimiento y llegar a un resultado comparable. Este criterio permite distinguir la persuasión retórica del conocimiento y resulta aplicable a cualquier disciplina donde se citen datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v9",
+      "statement": "El ensayo se apoya en un registro de tiempos de tres rutas elaborado por estudiantes. ¿Qué debe hacer el lector para valorar si esa fuente es confiable?",
+      "context": "En el salón de noveno grado de Pasto se debate si es legítimo reutilizar la tabla citada por el autor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consultar el registro original y verificar quién lo levantó, con qué instrumento y en qué fechas.",
+          "is_correct": true,
+          "feedback": "Correcto. Revisar la fuente primaria y su metodología permite estimar el margen de error y los límites del dato citado."
+        },
+        {
+          "letter": "B",
+          "text": "Repetir el viaje en el mismo horario y comparar el resultado con la cifra que aparece en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir una sola experiencia personal sirve como contraste, pero no reemplaza la revisión del procedimiento completo."
+        },
+        {
+          "letter": "C",
+          "text": "Aceptar la medición sin reservas, porque fue hecha por estudiantes de un colegio reconocido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calidad depende del método aplicado y no de la institución que respalda a quien realiza la medición."
+        },
+        {
+          "letter": "D",
+          "text": "Contar cuántas visitas tiene la página web donde se publicó la tabla de tiempos del ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La popularidad de un sitio mide difusión y no fiabilidad, y no informa sobre el origen de los datos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura crítica de fuentes exige rastrear el camino del dato hasta su origen. Una tabla publicada puede ser correcta, parcial o directamente copiada, y solo la revisión del registro original y de su metodología permite formar un juicio propio. Este hábito es importante en noveno grado, cuando los estudiantes empiezan a citar fuentes en trabajos escritos y en línea.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v10",
+      "statement": "Un ensayo afirma: \"Algunas personas sostienen que la plantación de árboles reduce la temperatura. Sin embargo, esa medida exige veinte años de crecimiento\". ¿Qué problema de coherencia presenta el párrafo?",
+      "context": "En Bucaramanga, un revisor nota que un párrafo del ensayo de un compañero no cierra su propio razonamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utiliza dos tesis distintas, algo que está prohibido en la estructura de un ensayo argumentativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una sola tesis propia y una objeción citada, y presentar la postura del adversario no equivale a abandonar la propia."
+        },
+        {
+          "letter": "B",
+          "text": "Plantea la objeción pero no retoma su propia tesis, y el párrafo queda sin cerrar.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin una respuesta posterior, el párrafo deja al lector solo con la postura ajena y sin saber qué sostiene el autor."
+        },
+        {
+          "letter": "C",
+          "text": "Afirma que ninguna medida sirve a largo plazo, una conclusión que contradice la tesis del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no sostiene esa conclusión, solo señala que la medida del adversario tarda veinte años en producir efecto."
+        },
+        {
+          "letter": "D",
+          "text": "Repite la evidencia inicial, cuando debería aportar una razón nueva que sostenga la respuesta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema central no es la repetición, sino la ausencia de una respuesta propia que cierre el planteo del párrafo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un párrafo argumentativo cumple una función completa: propone, apoya, anticipa objeciones y responde. Cuando la respuesta falta, la estructura se rompe y el lector queda sin el elemento que le permitiría evaluar la tesis del autor. Detectar esa falla es un recurso de escritura y de lectura, porque permite mejorar el propio ensayo antes de presentarlo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v11",
+      "statement": "Un jurado compara dos ensayos sobre movilidad: la versión A presenta tesis clara, medición de tiempos, respuesta al contraargumento y fuentes citadas; la versión B presenta tesis clara, sin evidencia, apoyada en opiniones familiares. ¿Cuál cumple mejor el estándar de un ensayo argumentativo?",
+      "context": "En Neiva, un jurado debe escoger cuál de dos versiones de un ensayo merece el reconocimiento del trabajo de grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión B, porque un ensayo escolar debe ser breve y los datos distraen al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad es una virtud cuando el argumento está resuelto, pero no sustituye la evidencia que lo sostiene."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos versiones, porque toda opinión personal merece el mismo espacio dentro de un ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ensayo no es un opinionario, y en él se distingue la afirmación sostenida de la afirmación simplemente expresada."
+        },
+        {
+          "letter": "C",
+          "text": "La versión A, porque la solidez depende de la relación entre tesis, evidencia y respuesta a la objeción.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio evalúa la estructura argumentativa completa y no la seguridad del tono ni la longitud del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos, porque un ensayo escolar no puede citar fuentes que provengan de mediciones externas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa prohibición no existe; al contrario, citar y explicar fuentes es un requisito del trabajo académico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzgar un texto argumentativo exige aplicar criterios explícitos y no preferir el que suena más convincente. La presencia de tesis, evidencia pertinente y respuesta a la objeción son condiciones verificables que pueden explicarse ante un jurado. Usar estos criterios en la evaluación entre pares ayuda a los estudiantes a entender por qué un texto persuade y por qué otro solo parece persuasivo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v12",
+      "statement": "Una alumna de Armenia apoya su ensayo en el texto base y encuentra en un portal de noticias una nota que afirma lo contrario, sin citar fuente. ¿Qué actuación es más rigurosa antes de presentar la exposición?",
+      "context": "En Armenia, una estudiante prepara una exposición oral y debe decidir cómo tratar una fuente que contradice su ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descartar la nota del portal, porque la prensa no es una fuente válida para un trabajo escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prensa publica afirmaciones verificables si se citan sus autores y sus datos, y descartarla sin análisis es una decisión dogmática."
+        },
+        {
+          "letter": "B",
+          "text": "Citar las dos notas sin comentarlas, para que cada persona del público decida lo que prefiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar dos posiciones sin evaluarlas convierte la exposición en un simple traslado de información."
+        },
+        {
+          "letter": "C",
+          "text": "Conservar solo la nota del portal, porque la información más reciente siempre es la más correcta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha reciente garantiza novedad y no veracidad, y la ausencia de fuentes en la nota es una debilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Contrastar ambas fuentes, revisar quién las firma y con qué evidencia, y explicar en la exposición el desacuerdo.",
+          "is_correct": true,
+          "feedback": "Correcto. Exponer el conflicto de fuentes muestra criterio crítico y permite al público evaluar el alcance de cada afirmación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El trabajo académico no se apoya en una única fuente, y menos cuando esa fuente omite quién firma y de dónde saca sus afirmaciones. Contrastar fuentes y explicar el desacuerdo demuestra comprensión crítica y prepara al lector para un juicio propio. Esta práctica conecta la lectura crítica con la producción de textos, porque obliga a sostener la propia posición frente a la evidencia ajena.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
