@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-9-grade-8-subject-lectura_critica",
+    "generated_at": "2026-09-29T04:18:13.101Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v1",
+      "statement": "En el párrafo de la revista escolar, ¿cuál de las siguientes proposiciones cumple la función de tesis dentro del texto?",
+      "context": "En el taller de preparación para la universidad del colegio de Manizales, la profesora de Lenguaje repartió un párrafo de la revista escolar. El texto dice: «Nuestra tesis es sencilla: el contenido en línea no sustituye la lectura de textos completos. Propondremos tres medidas concretas en la próxima reunión del consejo estudiantil».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase «Nuestra tesis es sencilla: el contenido en línea no sustituye la lectura de textos completos», porque el párrafo anuncia con un marcador explícito la postura que la autora defenderá.",
+          "is_correct": true,
+          "feedback": "La tesis es la afirmación que el autor asume y sostiene; aquí el marcador «nuestra tesis es» la identifica de manera directa."
+        },
+        {
+          "letter": "B",
+          "text": "La frase «Propondremos tres medidas concretas en la próxima reunión del consejo estudiantil», porque ella resume la forma como se argumentará a favor del contenido en línea.",
+          "is_correct": false,
+          "feedback": "Esa oración anuncia un procedimiento futuro, no la postura que se defiende; además, el texto no se suma al contenido en línea sino que lo cuestiona."
+        },
+        {
+          "letter": "C",
+          "text": "El título de la columna, porque todo texto argumentativo comienza con una tesis en el título.",
+          "is_correct": false,
+          "feedback": "El título solo indica de qué trata el escrito; puede ser puramente descriptivo y no asumir ninguna posición, como ocurre en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión de la profesora sobre el uso de internet en clase, porque ella es quien entrega el ejemplo a los estudiantes.",
+          "is_correct": false,
+          "feedback": "Quien defiende la tesis es la autora del párrafo; la profesora únicamente lo presenta como material de lectura para el taller."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis es la afirmación central que el autor asume y que el resto del escrito intenta sostener, por eso debe aparecer de forma identificable. En el párrafo de la revista escolar el marcador «nuestra tesis es» cumple esa función: le dice al lector de inmediato cuál es la postura en juego. Reconocer esa señal explícita ayuda a distinguir la tesis del simple tema, de la opinión del docente y del plan de trabajo que el texto anuncia después. Es el primer paso para leer con criterio y para escribir con intención argumentativa.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué se considera poco riguroso este argumento, aunque el texto mencione datos y una razón válida?",
+      "context": "En el concurso de cartillas del colegio de Bucaramanga, Julián presentó esta defensa: «En nuestro colegio se desperdicia agua: en los baños se dejan los grifos abiertos y esa agua se va por el desagüe. Además, la institución paga las facturas todos los meses, así que ahorrar le conviene a todos».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los datos que menciona son pocos y no alcanzan para sostener una posición.",
+          "is_correct": false,
+          "feedback": "La cantidad de datos no es el problema central; un solo dato pertinente puede sostener una tesis si se explica su relación con ella."
+        },
+        {
+          "letter": "B",
+          "text": "Porque enuncia una postura y aporta datos, pero deja oculto el puente lógico que conecta la evidencia con la tesis.",
+          "is_correct": true,
+          "feedback": "Falta la garantía o puente lógico: el texto sugiere la relación entre los hechos y la conclusión, pero no la enuncia y deja la carga al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no incluye la opinión de un experto que respalde la postura del estudiante.",
+          "is_correct": false,
+          "feedback": "La autoridad de una fuente ayuda, pero la rigurosidad depende de que la tesis, la evidencia y su relación queden explícitas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque mezcla dos asuntos sin relación, el consumo de agua y las facturas de la institución.",
+          "is_correct": false,
+          "feedback": "Las facturas no son un asunto ajeno: funcionan como consecuencia del ahorro; la debilidad está en que esa consecuencia no se explica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La rigurosidad de un argumento no depende de la cantidad de datos, sino de que el lector pueda ver cómo la evidencia conduce a la conclusión. En la cartilla de Julián se ofrecen hechos pertinentes y una razón verdadera sobre el costo, pero el paso que une unos con otros queda solo sugerido. Nombrar ese puente, conocido como garantía, convierte una opinión plausible en un argumento que puede revisarse y contestarse. La debilidad señalada es, por tanto, de orden lógico y no de cantidad de información.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la diferencia entre las dos oraciones que Mateo copió en su cuaderno?",
+      "context": "Mateo, estudiante de 8.° en Ibagué, copió dos oraciones del informe escolar: «Durante este mes, el colegio de Ibagué trabaja en un plan de ahorro de agua» y, más adelante, «El agua que llega a los hogares no puede seguir reduciéndose sin que las familias cambien sus hábitos de consumo».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es la tesis porque anuncia el asunto, y la segunda es la evidencia porque aporta un dato numérico.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos oraciones incluye cifras, y la primera no toma partido: solo indica de qué trata el informe."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son tesis, porque las dos enuncian una postura que cualquier lector puede discutir.",
+          "is_correct": false,
+          "feedback": "Solo la segunda asume una postura refutable; la primera anuncia el tema del informe y compromete la posición de nadie."
+        },
+        {
+          "letter": "C",
+          "text": "La primera anuncia el tema sin tomar partido (oración temática) y la segunda sí defiende una postura que puede sostenerse o refutarse (tesis).",
+          "is_correct": true,
+          "feedback": "Una tesis afirma algo que se puede poner en debate; una oración temática solo organiza el contenido y no obliga al autor a defenderla."
+        },
+        {
+          "letter": "D",
+          "text": "La primera pertenece a la introducción y la segunda a la conclusión, por lo que ninguna de las dos funciona como tesis.",
+          "is_correct": false,
+          "feedback": "La ubicación en el párrafo no define la tesis; lo que la define es que el autor asuma una postura debatable, y aquí solo lo hace la segunda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto argumentativo organiza mucha información, y eso no significa que todas sus afirmaciones sean tesis. La oración temática cumple una función de guía: dice de qué trata el escrito sin obligar al autor a defender nada. La tesis, en cambio, es una afirmación que puede ser aceptada o refutada por quien lee, y por eso exige respaldo. Distinguir ambas piezas permite ver cuál es la postura que el resto del texto intenta sostener y cuál es apenas el marco del tema tratado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v4",
+      "statement": "En el párrafo de la revista, ¿cuál de las siguientes proposiciones identifica la tesis y además explica por qué cumple esa función?",
+      "context": "En la revista del colegio de Cali, un grupo de 8.° escribió: «Cada trimestre el colegio hace un simulacro y las instrucciones se dan por megafonía. El año pasado tres compañeros se quedaron quietos porque no sabían qué indicaba la señal de salida. Por eso, en cada simulacro el colegio debería hacer una demostración antes de sonar la alarma».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Cada trimestre el colegio hace un simulacro», porque enuncia una costumbre que sirve de base para el resto del párrafo.",
+          "is_correct": false,
+          "feedback": "Esa oración informa sobre una práctica del colegio, pero no propone nada y no puede refutarse, de modo que no funciona como tesis."
+        },
+        {
+          "letter": "B",
+          "text": "«El año pasado tres compañeros se quedaron quietos», porque un caso concreto demuestra la urgencia de cambiar el procedimiento.",
+          "is_correct": false,
+          "feedback": "El caso es la evidencia que da fuerza a la propuesta; la evidencia apoya una postura, pero no es la postura."
+        },
+        {
+          "letter": "C",
+          "text": "«Las instrucciones se dan por megafonía», porque ese medio es la causa de que los compañeros no supieran qué hacer al sonar la alarma.",
+          "is_correct": false,
+          "feedback": "Ese fragmento describe el procedimiento actual, es decir, forma parte del diagnóstico, y no enuncia la posición final del autor."
+        },
+        {
+          "letter": "D",
+          "text": "«En cada simulacro el colegio debería hacer una demostración breve antes de sonar la alarma», porque enuncia una propuesta que puede realizarse, sostenerse o refutarse.",
+          "is_correct": true,
+          "feedback": "La tesis es una postura debatable sobre lo que debe hacer el colegio, y el párrafo la formula con el modal «debería» en su última oración."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tesis de un párrafo no es cualquier afirmación: es la posición que el autor asume y que las demás oraciones sirven para justificar. En el texto de la revista de Cali, la observación sobre la megafonía y el caso de los tres compañeros son señales del problema y cumplen el papel de evidencia. La frase final, con el modal «debería», enuncia lo que el colegio tiene que hacer y por eso es la tesis. Reconocer esta diferencia enseña a no confundir datos y descripciones con la postura que se defiende.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v5",
+      "statement": "En el texto de la cartilla, ¿qué oración anticipa una objeción del lector y qué relación lógica expresa el conector que la introduce?",
+      "context": "Para la cartilla del periódico escolar de Pereira, un grupo de 8.° redactó un texto de tres oraciones: «El simulacro de evacuación ocupa una parte del tiempo de clase. Sin embargo, la seguridad de todo el colegio no es negociable. Por eso, el colegio debería permitir una demostración de tres minutos antes de cada alarma».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda, «Sin embargo, la seguridad de todo el colegio no es negociable», porque «sin embargo» significa contraste y concede un punto en contra antes de sostener la tesis.",
+          "is_correct": true,
+          "feedback": "Conceder una objeción y responderla después es un movimiento habitual de la argumentación sólida, y aquí el conector lo anuncia."
+        },
+        {
+          "letter": "B",
+          "text": "La primera, «El simulacro de evacuación ocupa una parte del tiempo de clase», porque presenta el tema que el autor defiende frente a la comunidad.",
+          "is_correct": false,
+          "feedback": "Esa oración anuncia el asunto del texto, no una objeción; para anticipar una oposición hace falta un conector de contraste."
+        },
+        {
+          "letter": "C",
+          "text": "La tercera, «Por eso, el colegio debería permitir una demostración de tres minutos», porque «por eso» significa concesión dentro del texto.",
+          "is_correct": false,
+          "feedback": "«Por eso» expresa causa o consecuencia, no concesión; el conector de la concesión en este párrafo es «sin embargo»."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres oraciones, porque cada una usa un conector y por eso anticipa tres objeciones distintas.",
+          "is_correct": false,
+          "feedback": "Tener un conector no basta: solo la segunda oración opone una idea a la anterior, y las demás organizan el tema y la causa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores no son adornos: indican qué relación lógica se establece entre dos ideas, y conocer su significado permite seguir el razonamiento del autor. En la cartilla de Pereira, «sin embargo» introduce una concesión: el texto reconoce el tiempo de clase que se pierde y, aun así, mantiene su posición. Esa concesión prepara la recomendación final, porque muestra que el autor ya consideró la objeción más evidente antes de pedir la demostración. Reconocer el valor de cada conector fortalece la lectura crítica de cualquier texto argumentativo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v6",
+      "statement": "¿A qué grupo se dirige principalmente este mensaje y qué pretende conseguir de ese grupo?",
+      "context": "En el colegio de Barranquilla, el consejo estudiantil remitió un mensaje a los hogares: «Apreciados padres de familia: el uso del celular durante el recreo ha aumentado en este colegio. Por eso solicitamos su apoyo para que en la próxima reunión acordemos una regla clara sobre el uso del celular en el patio».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los estudiantes del colegio, para que ellos mismos informen cuántos minutos usan el celular en el recreo.",
+          "is_correct": false,
+          "feedback": "El mensaje no pide datos a los alumnos: los trata como «padres de familia» y reclama su colaboración en una decisión."
+        },
+        {
+          "letter": "B",
+          "text": "A la secretaria del colegio, para que compre equipos y limite el paso por las puertas del patio.",
+          "is_correct": false,
+          "feedback": "El texto no menciona equipos ni puertas: la medida que propone es acordar una regla, y eso exige la participación de las familias."
+        },
+        {
+          "letter": "C",
+          "text": "A los padres de familia, para que apoyen y acuerden con el colegio una norma sobre el uso del celular en el patio.",
+          "is_correct": true,
+          "feedback": "La fórmula de apertura, el tratamiento de «usted» y la expresión «solicitamos su apoyo» señalan a las familias como interlocutoras directas."
+        },
+        {
+          "letter": "D",
+          "text": "A los docentes, para que ellos por sí solos impongan la prohibición durante el recreo.",
+          "is_correct": false,
+          "feedback": "La palabra «acordemos» implica una decisión compartida: el texto no delega la medida en los docentes, sino en un acuerdo con las familias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intención de un texto se reconoce por las pistas de la situación comunicativa: quién escribe, en qué medio aparece y a quién interpelan. El mensaje del consejo de Barranquilla usa «apreciados padres de familia» y «solicitamos su apoyo», dos marcas de tratamiento formal que identifican a las familias como destinatarias. Además, la expresión «acordemos» muestra que la pretensión no es imponer una medida, sino negociarla con la comunidad. Reconocer la audiencia y el efecto buscado permite distinguir si un texto persuade, informa o solamente ordena.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v7",
+      "statement": "Al analizar la cohesión del párrafo del blog, ¿qué problema se detecta en el uso del marcador «por lo tanto»?",
+      "context": "En el blog del colegio de Cartagena, dos estudiantes de 8.° publicaron esta entrada: «La biblioteca del colegio abre a las siete de la mañana. Por lo tanto, estudiar en la sala de sistemas resulta más eficiente que estudiar en la biblioteca».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El marcador está mal escrito y debería ir entre comas para mejorar la redacción del párrafo.",
+          "is_correct": false,
+          "feedback": "La puntuación no es lo que falla: aunque el conector estuviera bien colocado, la relación lógica entre las dos ideas seguiría sin justificarse."
+        },
+        {
+          "letter": "B",
+          "text": "El conector promete que lo segundo es consecuencia de lo primero, pero el horario de la biblioteca no dice nada sobre la eficiencia de la sala de sistemas.",
+          "is_correct": true,
+          "feedback": "Un marcador causal obliga al autor a mostrar el vínculo; cuando la evidencia habla de otro asunto, el salto queda sin sustento."
+        },
+        {
+          "letter": "C",
+          "text": "El marcador debería cambiarse por «sin embargo», porque el autor pretende abandonar la primera idea.",
+          "is_correct": false,
+          "feedback": "El autor no renuncia a su idea, la quiere defender: cambiar el conector no resolvería la falta de relación entre las dos oraciones."
+        },
+        {
+          "letter": "D",
+          "text": "El párrafo está bien construido, porque el marcador cumple su función aunque las dos oraciones traten asuntos distintos.",
+          "is_correct": false,
+          "feedback": "Precisamente por tratar de asuntos distintos el conector no puede cumplir su función: anuncia una consecuencia que el texto no demuestra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores crean cohesión, pero esa cohesión solo es real cuando la relación que anuncian existe en el contenido. En el blog de Cartagena, «por lo tanto» obliga al autor a mostrar que lo segundo se deduce de lo primero, y esa deducción no aparece: el horario de la biblioteca no informa sobre la eficiencia de la sala de sistemas. Detectar esta incoherencia es un trabajo de análisis textual, no de lectura superficial. Un texto puede tener conectores bien escritos y aun así una argumentación sin respaldo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v8",
+      "statement": "En la oración del informe, ¿qué relación sintáctica establece la oración introducida por «dado que» y qué efecto produce esa estructura en la argumentación?",
+      "context": "El informe de convivencia de un colegio de Medellín incluye esta oración: «Dado que el parque del barrio cierra a las seis de la tarde, los estudiantes de 8.º deben organizar sus tareas en la biblioteca del colegio».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una oración coordanada que se une con punto y coma, de modo que el texto presenta dos tesis alternativas.",
+          "is_correct": false,
+          "feedback": "No hay punto y coma ni conjunción copulativa: «dado que» introduce una subordinada y el texto no enuncia dos posturas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Es la oración principal del párrafo, de manera que la evidencia queda como predicado secundario y la tesis desaparece del texto.",
+          "is_correct": false,
+          "feedback": "La subordinada va en segundo plano; la oración principal lleva la recomendación sobre la biblioteca y, con ella, la tesis."
+        },
+        {
+          "letter": "C",
+          "text": "Es una oración subordinada adversativa, porque «dado que» expresa oposición y por eso debilita la tesis del informe.",
+          "is_correct": false,
+          "feedback": "Los conectores adversativos son «aunque» o «si bien»; «dado que» introduce una causa y no una oposición."
+        },
+        {
+          "letter": "D",
+          "text": "Es una subordinada causal que aporta la evidencia, y al quedar subordinada la razón se presenta como dada mientras la tesis queda como información principal.",
+          "is_correct": true,
+          "feedback": "Esa jerarquía coincide con la jerarquía argumental: la evidencia va como base compartida y la tesis como la idea que el lector recuerda."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La sintaxis de un enunciado ordena la información y también orienta la lectura hacia una parte del texto. En el informe de Medellín, la subordinada causal con «dado que» queda introducida como una condición ya aceptada, y la oración principal carga con la recomendación. Esa jerarquía coincide con la jerarquía argumental: la evidencia se presenta como base compartida y la tesis como la idea que el lector debe recordar. Analizar qué oración es principal y cuál es subordinada ayuda a ver quién sostiene la postura y qué papel cumple cada fragmento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v9",
+      "statement": "En el párrafo de la revista, ¿qué elemento de la estructura argumental cumple la función de garantía o puente lógico?",
+      "context": "Para la revista del colegio de Medellín, el grupo de 8.° escribió: «Durante julio, el consumo de gas de nuestro colegio subió un 18 % en la factura. Ese mes, varias aulas encendieron el calefactor con las ventanas abiertas. Si las aulas cerraran la ventana antes de encenderlo, el consumo bajaría».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera oración, porque enuncia el dato de la factura que respalda la propuesta sobre las aulas.",
+          "is_correct": false,
+          "feedback": "La primera oración es la evidencia cuantitativa; la garantía no es un dato, sino la relación que explica por qué ese dato importa."
+        },
+        {
+          "letter": "B",
+          "text": "La regla implícita de que un calefactor consume más gas cuando la ventana permanece abierta, que conecta los datos de la factura con la conclusión.",
+          "is_correct": true,
+          "feedback": "La garantía es el principio que autoriza el paso de la evidencia a la tesis; aquí se infiere y por eso el texto convence sin enunciarla."
+        },
+        {
+          "letter": "C",
+          "text": "La tercera oración, porque enuncia la acción que el colegio debería aplicar en las aulas.",
+          "is_correct": false,
+          "feedback": "Esa oración es la tesis: enuncia lo que debería ocurrir. La garantía es la premisa que hace razonable esa conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "El párrafo no tiene garantía, porque la segunda oración describe una costumbre y no establece una relación entre las ideas.",
+          "is_correct": false,
+          "feedback": "La costumbre descrita funciona justamente como la base que permite explicar el aumento de la factura y sostener la conclusión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una argumentación se apoya en tres piezas: la tesis, la evidencia y la garantía que autoriza el paso de una a otra. En el párrafo de la revista de Medellín aparecen el dato de la factura y la costumbre de calentar con la ventana abierta, pero la garantía, que el calefactor consume más gas cuando la ventana permanece abierta, no está escrita como oración propia. Reconocer que un texto puede inferir su puente lógico ayuda a distinguir argumentos bien construidos de oraciones sueltas que solo se parecen a un razonamiento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v10",
+      "statement": "En la conclusión del grupo, ¿qué expresión impide que la evidencia sea precisa y verificable, y qué ajuste haría falta?",
+      "context": "Un grupo de estudiantes de 8.° de Pasto entregó esta conclusión al consejo del barrio: «El consumo de agua es un problema serio: en muchas casas se desperdicia agua a diario y esto afecta a todo el sector».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La expresión «en muchas casas se desperdicia agua a diario», porque no dice cuántas casas ni cuánta agua se desperdicia y el grupo debería aportar un dato observable, como el número de medidores revisados.",
+          "is_correct": true,
+          "feedback": "Sin cantidades, fechas o fuentes, la afirmación no puede comprobarse; un dato medible convierte una impresión en evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "La expresión «es un problema serio», porque el adjetivo «serio» expresa una valoración personal que el grupo debería eliminar.",
+          "is_correct": false,
+          "feedback": "Calificar el problema no vuelve imprecisa la evidencia: la vaguedad está en las cantidades que no se indican, no en el adjetivo."
+        },
+        {
+          "letter": "C",
+          "text": "La expresión «afecta a todo el sector», porque el grupo generaliza sin pruebas y debería limitar su conclusión a las casas del barrio centro.",
+          "is_correct": false,
+          "feedback": "Acotar el alcance sin aportar datos no resuelve el problema: seguiría faltando la medida del desperdicio, que es lo que hace verificable la evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión no tiene imprecisiones, porque todo lo que afirma puede comprobarse en la realidad.",
+          "is_correct": false,
+          "feedback": "Sin cantidades ni fuentes, lo afirmado queda como una impresión; por eso el consejo no puede usar el dato para tomar una decisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La precisión de las palabras es una condición para que un argumento pueda sostenerse: una expresión vaga impide verificar lo que se afirma. En la conclusión del grupo de Pasto, «muchas» y «a diario» comunican una magnitud sin entregar ninguna medida, de modo que el consejo no puede comprobar ni repetir la observación. Corregir el texto exige cambiar la impresión por un dato verificable, como el número de medidores revisados o el volumen consumido en un mes. Solo así la evidencia apoya la tesis con fuerza.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v11",
+      "statement": "Los dos textos buscan reducir el uso de bolsas de plástico en el colegio de Cartagena. ¿Cuál de las afirmaciones evalúa mejor la eficacia de cada propuesta frente a su audiencia?",
+      "context": "Estudiantes de 8.° de Cartagena propusieron reducir las bolsas de plástico. La primera apareció en el mural del aula: «Usa tu bolsa reusable y deja las de plástico en la puerta». La segunda llegó a los padres por correo: «El 30 % de los residuos del colegio son bolsas de plástico; entregaremos una bolsa reusable en la matrícula».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas propuestas son igualmente eficaces, porque las dos mencionan las bolsas de plástico y eso basta para convencer.",
+          "is_correct": false,
+          "feedback": "Nombrar el problema no basta: un texto persuade cuando ofrece razones y una acción posible ajustadas a quien lee."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta del mural es más eficaz, porque su tono severo obliga a los estudiantes a obedecer sin discutir.",
+          "is_correct": false,
+          "feedback": "Un tono autoritario genera rechazo y no reemplaza las razones: la eficacia depende de la claridad de la petición."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta del correo es superior en todos los casos, porque el correo siempre llega a más personas que un mural.",
+          "is_correct": false,
+          "feedback": "El alcance del medio no garantiza eficacia: lo decisivo es que el mensaje se ajuste a quien lee y le proponga una acción clara."
+        },
+        {
+          "letter": "D",
+          "text": "El mural funciona mejor con los estudiantes porque los tutea y llama a la acción, y el correo funciona mejor con los padres porque les da un dato y una tarea concreta.",
+          "is_correct": true,
+          "feedback": "Cada propuesta ajusta su tono, su evidencia y su petición al destinatario, y eso es lo que hace que un argumento resulte eficaz."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La eficacia de un texto argumentativo depende de la relación entre su contenido y la persona a quien se dirige. En el mural de Cartagena, el trato cercano y la orden breve funcionan con los estudiantes, que comparten el espacio y pueden actuar de inmediato. En el correo, el dato sobre los residuos y la tarea de recoger una bolsa en la matrícula dan a los padres información y un compromiso realizable. Evaluar cada propuesta en su contexto evita declarar vencedor al texto más largo y enseña a ajustar el argumento a la audiencia.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle-v12",
+      "statement": "¿Qué juicio es más preciso sobre el contraargumento que aparece en el texto y sobre la respuesta que el autor le da?",
+      "context": "En la revista del colegio de Cartagena, un grupo de 8.° escribió: «Tesis: el colegio debe instalar filtros en las cacetas y eliminar las botellas de plástico. Sin embargo, alumnos sostienen que el costo es alto y que el dinero serviría mejor en los escenarios. Ese reparo tiene poco peso: es un gasto único y el beneficio dura años».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El contraargumento es irrelevante, porque los filtros no le generan ningún costo al colegio.",
+          "is_correct": false,
+          "feedback": "Eso contradice al propio contraargumento y al texto, que admite un costo elevado; por eso la objeción sí es pertinente."
+        },
+        {
+          "letter": "B",
+          "text": "La respuesta es suficiente, porque llama «poco peso» al reparo y con eso da por cerrada la discusión.",
+          "is_correct": false,
+          "feedback": "Descalificar una objeción no es refutarla: la respuesta debería aportar razones o datos que muestren por qué el costo no impide la medida."
+        },
+        {
+          "letter": "C",
+          "text": "El contraargumento es pertinente, porque enfrenta un costo real a un beneficio ambiental, pero la respuesta no lo desarrolla y por eso la tesis queda solo a medias.",
+          "is_correct": true,
+          "feedback": "Evaluar una contrapropuesta exige reconocer su relevancia y responderla con evidencia; descartarla sin refutarla deja un vacío."
+        },
+        {
+          "letter": "D",
+          "text": "El texto no incluye contraargumento alguno, porque la segunda oración solo describe un beneficio de los filtros.",
+          "is_correct": false,
+          "feedback": "La segunda oración presenta una razón en contra y una alternativa de inversión; eso es un contraargumento, aunque la respuesta sea débil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen análisis de contraargumentos exige dos pasos: comprobar si la objeción es pertinente y verificar si la respuesta la refuta con razones. En la revista de Cartagena la objeción sí es pertinente, porque enfrenta un costo inmediato a un beneficio ambiental durable, y descartarla con un «tiene poco peso» deja sin resolver la pregunta más difícil del debate. Nombrar el problema central de la contrapropuesta y responderlo con datos es lo que convierte una postura en una tesis sostenida con rigor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
