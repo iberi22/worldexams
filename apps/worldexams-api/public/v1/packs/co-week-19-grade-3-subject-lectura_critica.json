@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-19-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T15:31:01.918Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 2, ¿qué son los adverbios de lugar?",
+      "context": "En el salón de tercero de Pereira, la profesora escribió en el tablero una lista de palabras que los niños estaban usando en la búsqueda del tesoro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son palabras que indican dónde está algo o dónde ocurre una acción.",
+          "is_correct": true,
+          "feedback": "El texto los define exactamente así: palabras que dicen el sitio en el que algo se encuentra o en el que sucede un hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Son palabras que indican cuándo ocurre una acción, como mañana o temprano.",
+          "is_correct": false,
+          "feedback": "Esas palabras indican tiempo, no lugar; los adverbios de lugar responden a la pregunta \"¿dónde?\"."
+        },
+        {
+          "letter": "C",
+          "text": "Son palabras que indican cuántos objetos hay, como dos cuadras o tres sobres.",
+          "is_correct": false,
+          "feedback": "Cuando esas palabras acompañan a un sustantivo y se usan para contar, expresan cantidad, no la ubicación de algo."
+        },
+        {
+          "letter": "D",
+          "text": "Son palabras que indican quién realizó la acción, como Sara o Tomás.",
+          "is_correct": false,
+          "feedback": "Esos son nombres propios de personas; un adverbio de lugar no señala quién actúa, sino dónde está lo que actuamos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Recordar la definición es el primer paso para reconocer estas palabras en cualquier texto. Un niño de tercero puede memorizar la pregunta guía: si la palabra responde a \"¿dónde?\", es un adverbio de lugar. Esa pregunta simple resuelve la mayoría de los casos en la lectura cotidiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v2",
+      "statement": "En la oración \"El banco está al lado de la fuente\", ¿qué palabra expresa el lugar donde está el banco?",
+      "context": "En la clase de tercero de Pereira, la profesora leyó en voz alta la oración \"El banco está al lado de la fuente\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuente, porque es la palabra que se coloca antes del punto final.",
+          "is_correct": false,
+          "feedback": "\"Fuente\" es el sustantivo que sirve de punto de referencia, no la palabra que indica dónde está el banco."
+        },
+        {
+          "letter": "B",
+          "text": "Al lado, porque indica la posición del banco respecto de la fuente.",
+          "is_correct": true,
+          "feedback": "Este grupo de palabras responde a \"¿dónde está el banco?\" y por eso funciona como adverbio de lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Banco, porque es la palabra que se coloca al final de la oración.",
+          "is_correct": false,
+          "feedback": "\"Banco\" es el sustantivo que nombra el objeto del que se habla; por sí solo no indica ningún lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Está, porque es la palabra que une al sujeto con el lugar.",
+          "is_correct": false,
+          "feedback": "\"Está\" es el verbo que muestra el estado del banco, pero por sí solo no indica ningún lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender el significado de un adverbio de lugar es notar que no describe el objeto, sino su posición. En \"al lado de la fuente\", lo que se dice no es cómo es la fuente, sino dónde está el banco respecto a ella. Esa diferencia ayuda a los niños a entender por qué estas palabras no se pueden cambiar por un sustantivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v3",
+      "statement": "Según el Texto 1, ¿en qué lugar exacto encontraron Sara y Tomás el primer sobre con la segunda pista?",
+      "context": "En el barrio Circunvalar de Pereira, Sara y Tomás corrían por la cuadra buscando el primer sobre del juego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la casa del barrio Circunvalar donde viven los niños.",
+          "is_correct": false,
+          "feedback": "La casa de Sara y Tomás solo se menciona como el lugar donde viven; los sobres estaban fuera de la casa."
+        },
+        {
+          "letter": "B",
+          "text": "Detrás de las mesas del puesto de empanadas de la plaza.",
+          "is_correct": false,
+          "feedback": "Ese lugar aparece en la segunda pista, no en la primera; el primer sobre estaba en el puesto de doña Rosa."
+        },
+        {
+          "letter": "C",
+          "text": "Debajo del mostrador del puesto de doña Rosa, en la esquina de la cuadra.",
+          "is_correct": true,
+          "feedback": "El texto cuenta que en el puesto de doña Rosa, que vende el pan, miraron debajo del mostrador y allí estaba la segunda pista."
+        },
+        {
+          "letter": "D",
+          "text": "Al lado de la fuente que está en la plaza del barrio.",
+          "is_correct": false,
+          "feedback": "La fuente es el lugar del último sobre, el de la tercera pista, y no del primero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Buscar un dato en el texto exige volver al párrafo exacto y leer con atención los conectores como \"debajo del mostrador\". Reconocer el lugar que corresponde a cada pista ayuda a no confundir los escenarios de una historia. Es una forma sencilla de trabajar la comprensión textual con hechos verificables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v4",
+      "statement": "Sara dice: \"El puesto de doña Rosa está cerca de la casa.\" Si se cambia la palabra \"cerca\" por \"lejos\", ¿qué cambia en el significado de la oración?",
+      "context": "En Pereira, Sara le dice a su mamá que el puesto del pan está cerca de la casa, no lejos como el año pasado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambia el color y el tamaño del puesto de doña Rosa.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos palabras describe el aspecto del puesto; el nombre, el color y el tamaño siguen igual."
+        },
+        {
+          "letter": "B",
+          "text": "La oración deja de ser correcta, porque \"cerca\" siempre debe ir acompañada de la palabra \"de\".",
+          "is_correct": false,
+          "feedback": "La construcción \"cerca de\" es correcta y propia del texto, pero el cambio a \"lejos\" no vuelve inválida la oración."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia el nombre de la señora que vende el pan en la esquina.",
+          "is_correct": false,
+          "feedback": "El nombre de doña Rosa no depende de la distancia; lo que cambia es únicamente la ubicación respecto a la casa."
+        },
+        {
+          "letter": "D",
+          "text": "Cambia la distancia: el puesto deja de estar al lado para quedar mucho más apartado de la casa.",
+          "is_correct": true,
+          "feedback": "\"Cerca\" y \"lejos\" son dos adverbios de lugar opuestos; los dos dicen dónde está algo, solo que a distancia distinta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los adverbios de lugar pueden indicar cercanía o lejanía, y ambos cumplen la misma función dentro de la frase. Entender que el cambio de una palabra altera la situación, pero no la estructura, ayuda a los niños a interpretar pistas de distancia en textos de su vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v5",
+      "statement": "Andrés quiere decir que su cuaderno está encima del libro. ¿Cuál de estas oraciones está bien construida y coloca el adverbio de lugar donde corresponde?",
+      "context": "En el aula de Bucaramanga, Andrés estaba tratando de escribir dónde había dejado su cuaderno de matemáticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El cuaderno está encima de el libro.\"",
+          "is_correct": false,
+          "feedback": "\"De\" y el artículo \"el\" no se escriben separados: deben unirse en \"del\" para que la expresión indique el lugar."
+        },
+        {
+          "letter": "B",
+          "text": "\"El cuaderno encima del libro está.\"",
+          "is_correct": false,
+          "feedback": "Al mover el grupo de lugar al final sin coma, la oración resulta forzada y poco natural para un lector de tercero."
+        },
+        {
+          "letter": "C",
+          "text": "\"El cuaderno está encima del libro.\"",
+          "is_correct": true,
+          "feedback": "La oración sigue el orden sujeto, verbo y adverbio de lugar, y \"encima del libro\" indica dónde está el cuaderno."
+        },
+        {
+          "letter": "D",
+          "text": "\"El cuaderno está encima el libro.\"",
+          "is_correct": false,
+          "feedback": "Falta la preposición de; sin ella, el adverbio de lugar queda incompleto y la relación con el libro no se entiende."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Usar bien un adverbio de lugar también es una cuestión de sintaxis: la palabra debe ir bien conectada con el sustantivo que referencia. Reconocer el orden esperado de la oración evita errores que cambian o borran el significado. Los niños de tercero practican estas formas al escribir descripciones de su salón.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v6",
+      "statement": "La primera pista dice: \"El primer lugar está donde empiezan las mañanas frías, con olor a pan y a humo de leña. Agáchate y mira por debajo.\" ¿Qué lugar está describiendo esa pista?",
+      "context": "En Pereira, los hermanos Sara y Tomás leyeron la primera pista en la cocina y de inmediato supieron a dónde ir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El puesto o la panadería donde doña Rosa empieza a trabajar cada mañana, en la esquina de la cuadra.",
+          "is_correct": true,
+          "feedback": "El olor a pan y a humo de leña, junto con la palabra \"agáchate\", corresponde al mostrador del puesto de doña Rosa, donde estaba el primer sobre."
+        },
+        {
+          "letter": "B",
+          "text": "La fuente de la plaza, donde el agua corre durante todo el día.",
+          "is_correct": false,
+          "feedback": "La pista no habla de agua ni de una fuente; ese lugar corresponde al último sobre, el de la tercera pista."
+        },
+        {
+          "letter": "C",
+          "text": "La plaza del barrio donde la gente se reúne los domingos.",
+          "is_correct": false,
+          "feedback": "Ese lugar aparece en la segunda pista, cuando Sara y Tomás llegan a buscar entre las mesas del puesto de empanadas."
+        },
+        {
+          "letter": "D",
+          "text": "El cuarto de Sara, donde duerme y guarda sus cuadernos.",
+          "is_correct": false,
+          "feedback": "La pista describe un lugar de la calle, con olor a pan y humo; no describe el interior de la casa de los niños."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir un lugar significa unir varias pistas pequeñas: el olor, el frío de la mañana, la palabra \"agáchate\" y el momento del día. Los niños que lo logran no están copiando la respuesta literal, sino que la construyen a partir de indicios. Esta habilidad es la base para interpretar después las noticias y los problemas del entorno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v7",
+      "statement": "Un niño de la clase de Medellín escribió: \"La plaza está debajo.\" ¿Qué problema tiene esa oración si se quiere usar un adverbio de lugar con claridad?",
+      "context": "En la clase de tercero de Medellín, un compañero escribió en la cartelera: \"La plaza está debajo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El adverbio de lugar siempre debe ir al final de la oración, después del punto.",
+          "is_correct": false,
+          "feedback": "No hay tal regla: un adverbio de lugar puede ir al principio, en medio o al final, según cómo se construya la oración."
+        },
+        {
+          "letter": "B",
+          "text": "Está mal escrita porque toda palabra debe llevar tilde en los subtítulos de la cartelera.",
+          "is_correct": false,
+          "feedback": "\"Debajo\" se escribe correctamente sin tilde; el problema de la oración no es la ortografía, sino la falta de información."
+        },
+        {
+          "letter": "C",
+          "text": "La oración está bien porque \"debajo\" siempre funciona por sí solo en español.",
+          "is_correct": false,
+          "feedback": "No es así; \"debajo\" necesita decir de qué se trata, igual que \"al lado\" necesita decir \"al lado de qué\"."
+        },
+        {
+          "letter": "D",
+          "text": "Le falta la referencia, porque no se dice debajo de qué está la plaza y el lector no puede ubicarla.",
+          "is_correct": true,
+          "feedback": "Un adverbio de lugar como \"debajo\" necesita un grupo que diga \"debajo de qué\"; sin ese complemento, la oración queda incompleta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la claridad de una frase significa preguntarse si el lector tiene toda la información que necesita. Aquí falta el complemento que completa al adverbio de lugar, y por eso la oración no comunica nada útil. Practicar este juicio en la cartelera del salón enseña a los niños a corregir con argumentos y no solo a decir \"está feo\".",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle-v8",
+      "statement": "Al leer juntos el Texto 1 y el Texto 2, ¿qué conclusión explica mejor por qué las pistas de doña Gloria fueron escritas con palabras como \"debajo\", \"entre\" y \"al lado\"?",
+      "context": "En la clase de tercero de Pereira, los niños compararon la búsqueda del tesoro con la lista de palabras del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las pistas hablan de momentos del día y no de lugares, como temprano o tarde.",
+          "is_correct": false,
+          "feedback": "Las pistas indican sitios: debajo del mostrador, entre las mesas, al lado de la fuente; no indican horas ni momentos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque esas palabras le dicen al lector en qué lugar exacto mirar, y el Texto 2 confirma que son adverbios de lugar.",
+          "is_correct": true,
+          "feedback": "Los dos textos se complementan: la historia muestra el uso y la explicación define qué son esas palabras y para qué sirven."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las pistas no sirven para encontrar nada y solo se escribieron para entretenerse.",
+          "is_correct": false,
+          "feedback": "Las pistas sí funcionaron: Sara y Tomás llegaron al sobre de $5.000 siguiendo las indicaciones una por una."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el Texto 2 fue escrito pensando en adultos que no saben leer.",
+          "is_correct": false,
+          "feedback": "El texto explica un concepto de forma sencilla y clara, con ejemplos de la vida diaria, para cualquier lector."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Relacionar dos textos permite ver que una explicación teórica y una narración practican la misma idea. Cuando el niño reconoce que \"debajo\" o \"entre\" aparecen en la historia exactamente como las explica el Texto 2, consolida el concepto. Esa comparación también le sirve para leer las noticias de su barrio, donde los lugares siempre orientan al lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
