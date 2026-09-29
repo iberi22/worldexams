@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-24-grade-8-subject-lectura_critica",
+    "generated_at": "2026-09-29T06:43:26.280Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v1",
+      "statement": "Según el cartel de la exposición, ¿qué es una viñeta en un álbum ilustrado?",
+      "context": "En la biblioteca del colegio de Bogotá, la profesora Luz Dary escribió en el cartel de la exposición: «En un álbum, cada página es una viñeta y el conjunto ordenado de viñetas cuenta la historia». Los estudiantes de grado 8 copiaron la definición antes de visitar las mesas de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto escrito que aparece dentro de los bocadillos de los personajes.",
+          "is_correct": false,
+          "feedback": "Ese es el texto de la viñeta; la viñeta como tal es la unidad gráfica que se ordena página a página."
+        },
+        {
+          "letter": "B",
+          "text": "Cada una de las imágenes que, ordenadas, construyen la historia del álbum.",
+          "is_correct": true,
+          "feedback": "El cartel define la viñeta como la imagen individual que, unida a las demás, forma el relato visual."
+        },
+        {
+          "letter": "C",
+          "text": "La portada donde se anuncia el título y el autor de la obra.",
+          "is_correct": false,
+          "feedback": "La portada es una página particular del libro, no la unidad mínima que forma la secuencia narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "El comentario del crítico que aparece al final de cada capítulo.",
+          "is_correct": false,
+          "feedback": "Un álbum ilustrado no tiene capítulos con comentarios de un crítico; esa descripción corresponde a otros formatos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La viñeta es la unidad básica de la historieta y del álbum: un cuadro independiente que ocupa una zona de la página y aporta una escena. Reconocerla permite medir la duración de una acción, comparar el tiempo de una escena con el de otra y entender por qué la persona autora elige mostrar más o menos dibujos para el mismo episodio. Sin ese conocimiento, la página se lee como una sola imagen y se pierde la secuencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v2",
+      "statement": "En esa página, el hecho de que el rostro de la abuela ocupe casi toda la hoja y los demás personajes aparezcan pequeños permite inferir que:",
+      "context": "En el taller de lectura de Medellín, un grupo de estudiantes de grado 8 observó una página donde el rostro de la abuela ocupa casi toda la hoja y los demás personajes aparecen diminutos en una esquina. La profesora preguntó qué expresaba esa diferencia de tamaño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abuela es un personaje secundario porque aparece separada del resto de la escena.",
+          "is_correct": false,
+          "feedback": "Todo lo contrario: la jerarquía por tamaño indica relevancia narrativa, no periferia."
+        },
+        {
+          "letter": "B",
+          "text": "El álbum está mal impreso y la composición de la página se salió de proporción.",
+          "is_correct": false,
+          "feedback": "Las diferencias de tamaño responden a una decisión deliberada de composición, no a un error de impresión."
+        },
+        {
+          "letter": "C",
+          "text": "La atención del lector debe concentrarse en la abuela y en lo que ella significa para la historia.",
+          "is_correct": true,
+          "feedback": "El tamaño en la página jerarquiza la información: lo que ocupa más espacio se vuelve el centro de la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "La escena ocurre en un lugar cerrado porque ningún personaje muestra el exterior del espacio.",
+          "is_correct": false,
+          "feedback": "El tamaño de los personajes no informa sobre el tipo de espacio; eso se deduce de otros elementos del dibujo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la lectura multimodal el tamaño relativo funciona como recurso de énfasis: lo que se agranda se vuelve importante para el lector. Comprender esta convención ayuda a interpretar la página completa sin necesitar todas las palabras, y entrena la capacidad de inferir información a partir de lo que el dibujo muestra y de cómo lo muestra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v3",
+      "statement": "El uso de una palabra escrita en tamaño grande dentro de un globo, en lugar de una frase pequeña y corriente, cumple principalmente la función de:",
+      "context": "En el aula de Cali, la profesora les mostró a los estudiantes de grado 8 la página de un álbum donde un globo dibuja una palabra gigante que imita un golpe seco. Ella preguntó para qué sirve un recurso tan visible en la historieta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducir con la escritura el sonido o la fuerza de una acción, imitando lo que se oye o se siente.",
+          "is_correct": true,
+          "feedback": "La onomatopeya y el cambio de tamaño recrean el ruido o el impacto del hecho dentro del globo."
+        },
+        {
+          "letter": "B",
+          "text": "Resumir en pocas palabras toda la información que el álbum cuenta en el capítulo.",
+          "is_correct": false,
+          "feedback": "El recurso no condensa el relato; intensifica una acción puntual dentro de una escena concreta."
+        },
+        {
+          "letter": "C",
+          "text": "Marcar el lugar y la fecha en que ocurre la escena, como un encabezado de capítulo.",
+          "is_correct": false,
+          "feedback": "Las fechas o los lugares se ubican en cartelas o textos del narrador; el globo grande señala la acción, no la ubicación."
+        },
+        {
+          "letter": "D",
+          "text": "Indicar al lector que la escena que viene es la más importante de todo el libro.",
+          "is_correct": false,
+          "feedback": "Un globo destacado expresa la intensidad del momento en la página, no una jerarquía de importancia en la obra completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los recursos del globo (viñeta, borde, forma de la letra y color) son convenciones del lenguaje gráfico que comunican tanto o más que el texto. Saber que una palabra enorme imita un ruido o un golpe permite leer la página como una unidad de sonido y acción, y explica por qué en un álbum el dibujo no es solo decoración del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v4",
+      "statement": "Si una página de álbum presenta, en ese orden, una mano abriendo una puerta, un pasillo largo, una figura asomada y un espacio vacío, ¿cuál es la lectura más coherente de la secuencia?",
+      "context": "En el proyecto de aula de Pereira, los estudiantes de grado 8 debían ordenar cuatro recortes de una página de álbum. Los recortes mostraban una mano abriendo una puerta, un pasillo largo, una figura asomada y un espacio vacío. La profesora les pidió reconstruir el orden de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La serie presenta cuatro escenas simultáneas que el lector puede ver en cualquier orden sin que cambie el sentido.",
+          "is_correct": false,
+          "feedback": "Las viñetas de una página se leen siguiendo la secuencia que impone la composición; no son intercambiables."
+        },
+        {
+          "letter": "B",
+          "text": "La serie empieza por el final de la historia, porque los álbumes invierten el relato para sorprender al lector.",
+          "is_correct": false,
+          "feedback": "La página leída en el sentido indicado no invierte el relato; construye una progresión de la acción hacia la tensión."
+        },
+        {
+          "letter": "C",
+          "text": "La última viñeta es un error de impresión y debe descartarse al reconstruir la secuencia.",
+          "is_correct": false,
+          "feedback": "El cuadro vacío cumple una función narrativa deliberada: anticipa o detiene la acción."
+        },
+        {
+          "letter": "D",
+          "text": "La serie cuenta una entrada, un recorrido y la espera de un encuentro, y el vacío final sugiere que algo aún no ocurre.",
+          "is_correct": true,
+          "feedback": "El orden de izquierda a derecha construye una progresión espacial y narrativa que el último cuadro deja abierta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La página de álbum debe leerse como una secuencia de momentos, y el estudiante puede reconstruirla aplicando la convención de izquierda a derecha y de arriba hacia abajo. Practicar este procedimiento ayuda a distinguir el tiempo de la historia (el orden lógico) del tiempo de la página (el espacio impreso), que es una distinción central de la historieta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v5",
+      "statement": "Si la página del álbum usa expresiones como «yo bajé al río» y «nosotros escuchamos el canoe» en primera persona, ¿qué se puede concluir sobre el discurso narrativo de la obra?",
+      "context": "En una feria de libros de Bucaramanga, el stand de una editorial mostró un álbum ambientado en el Chocó. La autora firmó en la última página: «Esta historia me la contó mi abuela». Los estudiantes de grado 8 preguntaron quién cuenta los hechos del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador es una voz omnisciente que conoce lo que ocurre en todos los personajes y lugares.",
+          "is_correct": false,
+          "feedback": "La omnisciencia no se manifiesta así; aparecería en juicios sobre hechos que el narrador no presenció."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador es un personaje dentro de la historia y participa en los hechos que relata.",
+          "is_correct": true,
+          "feedback": "La primera persona del relato indica una voz narradora situada en la acción, no una voz externa y objetiva."
+        },
+        {
+          "letter": "C",
+          "text": "El narrador es un testigo ajeno a la acción que describe lo que vio desde lejos.",
+          "is_correct": false,
+          "feedback": "La primera persona implica participación; un testigo externo narraría en tercera persona."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador es la autora del libro firmando su propio testimonio ante el público.",
+          "is_correct": false,
+          "feedback": "El narrador es una figura construida en el relato; no se confunde con la persona real que firma la obra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la voz narrativa (primera o tercera persona, protagonista o testigo) permite comprender el grado de cercanía del relato con quien lo firma. Reconocer que el narrador es un personaje de la ficción ayuda al estudiante a no atribuirle opiniones o datos que la obra solo presenta como percepciones de alguien.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v6",
+      "statement": "De las siguientes reconstrucciones, ¿cuál respeta la relación sintáctica entre el sujeto «el niño» y el verbo que falta en la oración del pie de foto?",
+      "context": "En el taller de escritura de Armenia, la profesora les pidió a los estudiantes de grado 8 reconstruir la oración de un pie de foto del álbum que se había borrado a propósito. El fragmento decía: «el niño, después de correr, ___ la puerta».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«El niño, después de correr, cerramos la puerta».",
+          "is_correct": false,
+          "feedback": "«Cerramos» está en primera persona del plural y no concuerda con un sujeto singular como «el niño»."
+        },
+        {
+          "letter": "B",
+          "text": "«El niño, después de correr, cerrando la puerta».",
+          "is_correct": false,
+          "feedback": "La oración queda sin verbo principal: «cerrando» es un gerundio y no sostiene la estructura oracional."
+        },
+        {
+          "letter": "C",
+          "text": "«El niño, después de correr, cerró la puerta».",
+          "is_correct": true,
+          "feedback": "El verbo «cerró» está en tercera persona del singular y concuerda con el sujeto «el niño»."
+        },
+        {
+          "letter": "D",
+          "text": "«El niño, después de correr, cierra la puerta, aunque llovía».",
+          "is_correct": false,
+          "feedback": "La concordancia es correcta, pero la proposición añadida altera el sentido y la información original del pie de foto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un álbum los textos cortos cumplen la función de las oraciones: concuerdan, ordenan ideas y permiten al dibujo ocupar el resto del espacio. Estudiar la oración de un pie de foto enseña que el texto de la historieta es lenguaje con reglas, no frases sueltas, y que un error de concordancia altera lo que el lector entiende de la escena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el cambio de una paleta gris a un fondo naranja intenso modifica la lectura de la escena, más allá de lo que dicen las palabras?",
+      "context": "En la sala de sistemas de Villavicencio, los estudiantes de grado 8 compararon dos páginas del mismo álbum: en una todo está pintado con grises y lluvia; en la siguiente aparece un naranja intenso en el fondo. La profesora les pidió explicar qué cambio produce ese contraste.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la paleta actúa como tono emocional de la historieta: el gris anuncia angustia y el naranja irrumpe con esperanza o calor.",
+          "is_correct": true,
+          "feedback": "En el lenguaje gráfico el color no decora: comunica el estado de ánimo de la escena y guía la interpretación del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el naranja es un color que la imprenta no puede reproducir y por eso se reemplaza por gris.",
+          "is_correct": false,
+          "feedback": "La razón es expresiva, no técnica; el cambio de color es un recurso planeado por la persona autora."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el número de colores determina la cantidad de viñetas que puede tener la página.",
+          "is_correct": false,
+          "feedback": "La cantidad de viñetas depende del diseño del recuadro, no de la cantidad de tonos usados."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gris obliga al lector a leer el texto y el naranja le impide hacerlo, de modo que la palabra pierde valor.",
+          "is_correct": false,
+          "feedback": "El color orienta la emoción, no anula la lectura del texto; ambos recursos trabajan juntos en la página."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El color funciona como un componente semántico de la página: comunica estados de ánimo y orienta la lectura más allá del texto escrito. Analizar el contraste cromático entre viñetas permite entender que el álbum distribuye información por varios códigos a la vez y que el lector debe integrarlos para comprender la escena.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v8",
+      "statement": "Frente a las dos versiones del mismo mito, ¿qué relación permiten identificar la historieta y la tradición oral que ayuda a leer críticamente el álbum?",
+      "context": "En clase de lectura crítica en Ibagué, los estudiantes de grado 8 leyeron un álbum que recrea un mito de la región cafetera y lo compararon con la versión del mito que conocían de la tradición oral contada por sus abuelos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una contradicción sin ningún punto en común, porque la historieta y la tradición no pueden contar el mismo hecho.",
+          "is_correct": false,
+          "feedback": "Ambas versiones comparten un núcleo de relato: la diferencia está en el tratamiento, no en la ausencia de relación."
+        },
+        {
+          "letter": "B",
+          "text": "Una copia exacta, porque el álbum se limitó a transcribir la versión oral sin modificar ningún detalle.",
+          "is_correct": false,
+          "feedback": "La historieta usa recursos visuales propios; se diferencia de la versión oral por su tratamiento gráfico y su lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "Una contradicción permanente, ya que la imagen se opone siempre a la palabra escrita en un texto.",
+          "is_correct": false,
+          "feedback": "Imagen y texto se complementan; no se oponen por definición, y su relación es lo que el lector debe interpretar."
+        },
+        {
+          "letter": "D",
+          "text": "Una transformación de la tradición: el álbum conserva el núcleo del mito y modifica detalles visuales o narrativos para llegar a un público lector.",
+          "is_correct": true,
+          "feedback": "Comparar versiones muestra que la historieta adapta un relato preexistente, y esa adaptación revela la intención de la obra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura multimodal permite conectar el texto gráfico con otras fuentes culturales, como la tradición oral o el folclore local. Reconocer que la historieta transforma un relato conocido permite al estudiante distinguir qué se conserva y qué se modifica, y le permite valorar la obra como una interpretación, no como una versión única y definitiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v9",
+      "statement": "¿Qué relación hay entre el texto del globo y la imagen en cada una de las dos páginas, y qué efecto produce la segunda página?",
+      "context": "En el aula de lectura de Soacha, la profesora proyectó dos páginas de un álbum: en una el globo dice «Tenía mucho miedo» y el dibujo muestra al personaje con los puños cerrados; en la otra el globo no existe y solo se ve la misma escena con el personaje temblando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la primera, el texto contradice la imagen; en la segunda, la imagen contradice al texto anterior de la página.",
+          "is_correct": false,
+          "feedback": "No hay contradicción: ambas páginas cuentan lo mismo con distinto reparto entre palabra y dibujo."
+        },
+        {
+          "letter": "B",
+          "text": "En la primera, el texto y la imagen se repiten; en la segunda, solo la imagen obliga al lector a construir la emoción, lo que produce mayor implicación.",
+          "is_correct": true,
+          "feedback": "La segunda página retira la palabra y deja la interpretación en manos del lector, generando una lectura más activa."
+        },
+        {
+          "letter": "C",
+          "text": "En la primera, la imagen es un adorno del texto; en la segunda, el texto es un adorno de la imagen, y el resultado es idéntico.",
+          "is_correct": false,
+          "feedback": "Aunque el peso se invierte, el efecto no es idéntico: dejar la emoción solo en el dibujo cambia la experiencia del lector."
+        },
+        {
+          "letter": "D",
+          "text": "En la primera, el globo impide ver el dibujo; en la segunda, la ausencia de globo impide entender la escena.",
+          "is_correct": false,
+          "feedback": "El globo y el dibujo conviven en la misma página; ninguno de los dos borra al otro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar cómo se reparte la información entre texto e imagen es el centro de la lectura multimodal. Cuando la palabra y el dibujo dicen lo mismo, el lector recibe la emoción ya hecha; cuando solo el dibujo la comunica, el lector debe deducirla. Reconocer esa diferencia ayuda a explicar por qué el álbum puede producir silencio, tensión o sorpresa sin escribir una sola palabra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v10",
+      "statement": "Si el propósito de la página es mostrar la soledad del personaje frente a un grupo, ¿cuál de las dos versiones cumple mejor ese propósito y por qué?",
+      "context": "En el club de lectura de Montería, los estudiantes de grado 8 evaluaron dos versiones de la misma página de un álbum: en la versión uno el encuadre es general, con todos los personajes; en la versión dos se ve solo el rostro del personaje principal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión uno, porque solo con el grupo a la vista el lector mide la distancia que hay entre el personaje y los demás.",
+          "is_correct": false,
+          "feedback": "La versión uno sí muestra al grupo, pero el encuadre abierto diluye la emoción individual y no garantiza el efecto buscado."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos versiones, porque cualquier encuadre sirve para cualquier propósito mientras la historia se mantenga igual.",
+          "is_correct": false,
+          "feedback": "Encuadre y propósito están ligados: un mismo contenido exige decisiones visuales distintas según la intención."
+        },
+        {
+          "letter": "C",
+          "text": "La versión dos, porque el encuadre cerrado sobre el rostro convierte la soledad en lo único visible y obliga a leer la escena desde dentro.",
+          "is_correct": true,
+          "feedback": "El encuadre decide qué se muestra y qué se oculta; esconder al grupo hace visible el aislamiento del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "La versión uno, porque la presencia del grupo convierte la escena en un anuncio sobre la vida social del personaje.",
+          "is_correct": false,
+          "feedback": "Ese encuadre comunica contexto y relaciones, no el aislamiento que persigue el propósito de la página."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una página exige poner la decisión gráfica frente a un propósito declarado y justificar la elección con evidencia visual. Saber que el encuadre general presenta el mundo y el cercano presenta la experiencia interior permite al estudiante defender por qué una composición funciona mejor que otra, y no solo describir lo que ve.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v11",
+      "statement": "Frente a las fuentes históricas consultadas, ¿qué criterio permite evaluar con rigor si la versión del álbum es fiel a la realidad que representa?",
+      "context": "En el seminario de lectura de Tunja, los estudiantes de grado 8 compararon un álbum completo con el material de archivo del que el libro dice haber tomado su inspiración, y discutieron qué versión del pasado resultaba más fiel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cuántos colores usa la obra, porque la paleta determina la precisión histórica de la narración.",
+          "is_correct": false,
+          "feedback": "Los recursos visuales marcan el tono, pero no son la base para medir la fidelidad histórica de un relato."
+        },
+        {
+          "letter": "B",
+          "text": "Comprobar qué datos, fechas y detalles del archivo se conservan, cuáles se simplifican y cuáles se inventan, y explicar cada decisión.",
+          "is_correct": true,
+          "feedback": "La fidelidad se juzga por el diálogo explícito con las fuentes, no por la certeza absoluta de una versión única."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar si el álbum recibió un premio, porque el reconocimiento garantiza el rigor documental.",
+          "is_correct": false,
+          "feedback": "Un premio es un reconocimiento, no un instrumento de verificación documental."
+        },
+        {
+          "letter": "D",
+          "text": "Comprobar si el álbum tiene más páginas que el archivo, porque más extensión equivale a más información fiel.",
+          "is_correct": false,
+          "feedback": "La extensión no determina la fidelidad; lo relevante es el tratamiento consciente de los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar críticamente la historia exige rastrear las fuentes, y comprobar cómo se usa cada dato permite distinguir invención documentada, simplificación y omisión. Este ejercicio prepara al estudiante para evaluar no solo la calidad estética de la obra, sino también su relación responsable con lo que dice representar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle-v12",
+      "statement": "Un equipo propone un álbum ilustrado que combina un relato del territorio con fotografías reales y poco texto, dirigido a estudiantes de su misma edad. ¿Cuál es la evaluación más completa de esa propuesta?",
+      "context": "En la última jornada del proyecto de la semana, los estudiantes de grado 8 de Cúcuta debían proponer un álbum ilustrado y defender su propuesta ante el pequeño público del viernes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pertinente, porque usar fotografías reales garantiza que la obra no puede contener errores ni deformaciones de la realidad.",
+          "is_correct": false,
+          "feedback": "El recurso fotográfico no asegura exactitud; los sesgos y las selecciones de encuadre siguen siendo decisiones de la persona autora."
+        },
+        {
+          "letter": "B",
+          "text": "Es impertinente, porque un álbum para adolescentes no puede apoyarse en material del territorio donde viven.",
+          "is_correct": false,
+          "feedback": "El contexto local es un activo: permite que los lectores se reconozcan y comparen su realidad con la narrada."
+        },
+        {
+          "letter": "C",
+          "text": "Es impertinente, porque el álbum ilustrado exige que el texto escrito tenga siempre más información que la imagen.",
+          "is_correct": false,
+          "feedback": "Esa jerarquía no existe en el género: en el álbum la imagen puede sostener por sí sola el relato."
+        },
+        {
+          "letter": "D",
+          "text": "Es pertinente, porque ajusta tema, lenguaje visual y cantidad de texto al público lector y al propósito de formar lectores de su edad.",
+          "is_correct": true,
+          "feedback": "La propuesta cumple una función informativa y también formativa: se ajusta al lector y a la intención pedagógica declarada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura multimodal se aplica a la hora de crear: al definir público, tema y recursos, quien diseña un álbum toma decisiones sobre sentido y propósito. Evaluar la pertinencia de una propuesta para un público concreto enseña a justificar con criterios, y prepara al estudiante para ser lector crítico y productor responsable de su propio material.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W24-el-album-y-la-lectura-multimodal-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
