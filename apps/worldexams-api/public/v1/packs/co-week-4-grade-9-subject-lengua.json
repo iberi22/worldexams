@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-4-grade-9-subject-lengua",
+    "generated_at": "2026-09-29T22:47:16.456Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las unidades que organizan un texto dramático?",
+      "context": "En un taller de teatro de Medellín, un grupo de noveno grado repasa el vocabulario del texto dramático antes de montar una obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acto, la escena, el diálogo y la acotación",
+          "is_correct": true,
+          "feedback": "Son las unidades propias del texto que se escribe para ser representado ante un público."
+        },
+        {
+          "letter": "B",
+          "text": "El capítulo, el párrafo y el título",
+          "is_correct": false,
+          "feedback": "Son unidades del texto narrativo en prosa, no del texto dramático."
+        },
+        {
+          "letter": "C",
+          "text": "La estrofa, el verso y la rima",
+          "is_correct": false,
+          "feedback": "Son unidades de la lírica, propia de la poesía."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen, la tesis y la conclusión",
+          "is_correct": false,
+          "feedback": "Pertenecen a la estructura del texto argumentativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto dramático se organiza en unidades que responden a las necesidades de la representación en escena. El acto y la escena marcan el ritmo, el diálogo muestra el conflicto y la acotación orienta al actor y al director. Conocer estas unidades es lo que permite montar una obra en el taller escolar con un mínimo de precisión.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v2",
+      "statement": "Qué distingue esencialmente al género dramático de los demás géneros?",
+      "context": "La docente de Español de Cali explica por qué el diálogo es el corazón de la obra de teatro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que siempre tiene final feliz y ninguno de sus personajes muere",
+          "is_correct": false,
+          "feedback": "El género dramático admite finales amargos y desastrosos."
+        },
+        {
+          "letter": "B",
+          "text": "Que está escrito para ser representado ante un público, con personajes que interactúan",
+          "is_correct": true,
+          "feedback": "La condición de representación ante otro es lo que define al género dramático."
+        },
+        {
+          "letter": "C",
+          "text": "Que se escribe en verso para que el público lo entienda mejor",
+          "is_correct": false,
+          "feedback": "Hay dramas en prosa y en verso: la forma no define el género."
+        },
+        {
+          "letter": "D",
+          "text": "Que sus personajes son siempre históricos y reales",
+          "is_correct": false,
+          "feedback": "El drama puede usar personajes históricos, fantasticOS o inventados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género dramático se define por su destino: la escena. Un texto dramático acquires su sentido pleno cuando actores lo representan ante un público que reacciona. Esta condición explica por qué el género soporta unidades propias, como el diálogo y la acotación, que no tienen sentido fuera de la representación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v3",
+      "statement": "Un texto dice así: MARTA. No puedo seguir mintiéndote. / JULIÁN. Entonces confiésamelo todo, de una vez. ¿Qué género y qué unidad presenta el fragmento?",
+      "context": "Un grupo de noveno grado de Cali lee un fragmento y debe identificar de qué género se trata.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo, porque hay dos personajes que hablan",
+          "is_correct": false,
+          "feedback": "La mera presencia de personajes no convierte un texto en drama: aquí el conflicto se expone en escena."
+        },
+        {
+          "letter": "B",
+          "text": "Lírico, porque las voces expresan emociones",
+          "is_correct": false,
+          "feedback": "Aunque hay emoción, lo definitorio es la interacción en conflicto, no la expresión subjetiva."
+        },
+        {
+          "letter": "C",
+          "text": "Dramático, porque presenta un diálogo entre dos personajes en conflicto",
+          "is_correct": true,
+          "feedback": "La intervención por turnos de dos personajes es la unidad propia del texto dramático."
+        },
+        {
+          "letter": "D",
+          "text": "Argumentativo, porque los personajes discuten una tesis",
+          "is_correct": false,
+          "feedback": "Discutir no es argumentar: no hay tesis que se defienda con pruebas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la clasificación dramática exige reconocer la interacción en conflicto, expresada por turnos de habla. Aquí cada personaje revela algo y ambos se enfrentan directamente, que es la dinámica propia de la escena. Textos de este tipo aparecen con frecuencia en las lecturas de grado noveno, donde se pide identificar la unidad dramática en acción.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v4",
+      "statement": "Qué es una acotación en un texto dramático?",
+      "context": "En el ensayo general del taller de teatro de Cartagena, un estudiante busca qué debe hacer con un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la frase que dice un personaje al entrar en escena",
+          "is_correct": false,
+          "feedback": "Eso es una intervención dialogada, no una acotación."
+        },
+        {
+          "letter": "B",
+          "text": "Es el título que recibe la obra completa",
+          "is_correct": false,
+          "feedback": "El título identifica la obra, no la acotación."
+        },
+        {
+          "letter": "C",
+          "text": "Es el resumen que se escribe al final de cada acto",
+          "is_correct": false,
+          "feedback": "El resumen final, si existe, es un elemento paratextual, no una acotación."
+        },
+        {
+          "letter": "D",
+          "text": "Es la instrucción del autor sobre el tono, el gesto o la acción en escena",
+          "is_correct": true,
+          "feedback": "La acotación orienta la representación y suele aparecer entre paréntesis o en cursiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La acotación es la instrucción que el autor da sobre cómo debe representarse la escena: el tono de la voz, el movimiento del cuerpo, la expresión del rostro. No la pronuncia el actor, sino que sirve de guía. Reconocerla permite leer el texto dramático con una mirada de puesta en escena, que es lo que se trabaja en los talleres escolares del país.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v5",
+      "statement": "Quién es el antagonista en una obra de teatro?",
+      "context": "En el aula de Español de Barranquilla, los estudiantes identifican los personajes según su función en la obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El personaje que se opone al protagonista y sostiene el conflicto central",
+          "is_correct": true,
+          "feedback": "El antagonista se define por su función opuesta, no por ser malvado en sí mismo."
+        },
+        {
+          "letter": "B",
+          "text": "El personaje que aparece en la primera escena del primer acto",
+          "is_correct": false,
+          "feedback": "La posición en el texto no determina la función del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "El personaje que dice más diálogos en toda la obra",
+          "is_correct": false,
+          "feedback": "El volumen de habla no convierte a alguien en antagonista."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador que explica lo que ocurre fuera de escena",
+          "is_correct": false,
+          "feedback": "El narrador es una voz aparte de los personajes y no sostiene la oposición del conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El antagonista es el personaje cuya función dramática es obstaculizar los deseos del protagonista y mantener viva la tensión. No tiene por qué ser cruel: en muchas obras complejas se convierte en el personaje más humano. Esta prevención ayuda a no encasillar a los personajes en un solo tipo moral.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v6",
+      "statement": "Qué relación existe entre el conflicto de una obra dramática y su desenlace?",
+      "context": "En el taller de teatro de Pereira, el grupo prepara la puesta en escena y necesita decidir el reparto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son elementos independientes, porque el desenlace puede cambiar sin afectar el conflicto",
+          "is_correct": false,
+          "feedback": "El desenlace es la resolución del conflicto: uno define al otro."
+        },
+        {
+          "letter": "B",
+          "text": "El desenlace resuelve el conflicto de una manera que solo se entiende por el conjunto de la obra",
+          "is_correct": true,
+          "feedback": "El desenlace gathers el sentido de todo lo ocurrido y cierra la tensión acumulada."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto aparece después del desenlace, para explicar lo ocurrido",
+          "is_correct": false,
+          "feedback": "El orden es inverso: el conflicto precede al desenlace."
+        },
+        {
+          "letter": "D",
+          "text": "El desenlace solo importa si es alegre, porque el público necesita consuelo",
+          "is_correct": false,
+          "feedback": "El tono del desenlace responde a la obra, no a una necesidad de consuelo del público."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El conflicto organiza toda la obra y el desenlace lo resuelve, cerrando la tensión que se había construido durante los actos. Comprender esta relación es lo que permite prever cómo una decisión del final afecta el sentido de lo anterior. En los talleres de teatro escolar se trabaja esta relación para que los estudiantes entiendan que nada en la obra es casual.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v7",
+      "statement": "Una acotación dice: MARTA se queda inmóvil, con la carta en la mano, y baja la mirada durante un largo silencio. ¿Qué efecto produce en la escena?",
+      "context": "En un seminario de Bucaramanga, un grupo analiza cómo se construye una tensión en escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aclara el argumento de la obra, porque explica lo que MARTA piensa",
+          "is_correct": false,
+          "feedback": "La acotación describe la acción, no la reflexión íntima del personaje."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta un nuevo personaje, porque introduce a alguien en escena",
+          "is_correct": false,
+          "feedback": "No aparece ningún personaje nuevo: la acotación describe a MARTA."
+        },
+        {
+          "letter": "C",
+          "text": "Crea una pausa cargada de tensión que prolonga el conflicto sin palabras",
+          "is_correct": true,
+          "feedback": "La acotación resuelve la pausa corporal y el silencio se vuelven un recurso dramatúrgico."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la escena en un pasaje narrativo, porque cuenta hechos del pasado",
+          "is_correct": false,
+          "feedback": "La acotación narra una acción presente en escena, no una secuencia de hechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las acotaciones son recursos valiosos porque comunican sin diálogo. Una inmovilidad y un silencio prolongado construyen tensión y obligan al público a interpretar. Comprender cómo funcionan estos recursos es un trabajo de análisis de nivel superior dentro del componente lector.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v8",
+      "statement": "En una comedia, ¿qué función cumplen los personajes cómicos frente a los personajes serios?",
+      "context": "En el aula de Español de Tunja, los estudiantes estudian los personajes de una comedia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los cómicos son los que llevan toda la información importante de la obra",
+          "is_correct": false,
+          "feedback": "La comicidad puede tener profundidad, pero su función primaria no es informar."
+        },
+        {
+          "letter": "B",
+          "text": "Los cómicos no intervienen en el conflicto principal de la obra",
+          "is_correct": false,
+          "feedback": "Aunque pueden ser secundarios, sí.Globenco el conflicto con suasti propio ritmo."
+        },
+        {
+          "letter": "C",
+          "text": "Los cómicos aparecen solo en el último acto, para cerrar la obra",
+          "is_correct": false,
+          "feedback": "La comicidad puede aparecer en cualquier momento de la obra."
+        },
+        {
+          "letter": "D",
+          "text": "Los cómicos exageran la situación para provocar la risa y aliviar la tensión",
+          "is_correct": true,
+          "feedback": "La función cómica consiste en desinflar la tensión por medio del exceso y el desequilibrio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la comedia los personajes cómicos funcionan como una válvula de escape: exageran, se exceden y producen la risa del público. Esa risa alivia la tensión acumulada y renueva el interés por la trama. Reconocer esta función es lo que permite explicar por qué la comedia no se limita a ser una obra alegre.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v9",
+      "statement": "Una obra colombiana de finales del siglo XIX lleva a la biografía de una mujer blanca ligada al Chocó a la escena. ¿Qué relación se establece con el género dramático?",
+      "context": "En un proyecto de lectura de Bogotá, los estudiantes comparan la obra de un dramaturgo colombiano con una obra clásica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa los recursos del género dramático para llevar a la escena una historia propia del país",
+          "is_correct": true,
+          "feedback": "El recurso dramático se pone al servicio de la construcción de una memoria colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Pierde su valor dramático, porque deja de ser ficción al usar hechos reales",
+          "is_correct": false,
+          "feedback": "El uso de hechos reales no elimina el conflicto ni la representación propias del género."
+        },
+        {
+          "letter": "C",
+          "text": "Se convierte en un texto histórico, y por eso deja de ser literatura",
+          "is_correct": false,
+          "feedback": "Un texto dramático con base real sigue siendo literatura y sigue siendo género dramático."
+        },
+        {
+          "letter": "D",
+          "text": "Debe copiar exactamente la obra clásica para ser válida en el teatro colombiano",
+          "is_correct": false,
+          "feedback": "No existe esa exigencia: la tradición admite originalidades propias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El género dramático es un conjunto de procedimientos que puede aplicarse a cualquier tema, incluso a la historia propia del país. Llevar una biografía real a la escena exige construir un conflicto, no solo recountarnar hechos. Este cruce entre memoria y teatro es un tema frecuente en el trabajo de grado noveno, donde se leen dramaturgias colombianas contemporáneas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v10",
+      "statement": "Un equipo de noveno grado propone montar una obra de mil páginas sin recibir ningún recorte, porque el texto es el más completo. ¿Cuál es la evaluación más sólida?",
+      "context": "En la revista escolar de Villavicencio, el comité evalúa una propuesta teatral sencilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es excelente, porque una obra larga siempre merece ser montada",
+          "is_correct": false,
+          "feedback": "La extensión no es un criterio de calidad ni de viabilidad teatral."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es inviable, porque la extensión no garantiza que la obra funcione en escena",
+          "is_correct": true,
+          "feedback": "Lo que sostiene una representación es la claridad del conflicto, no el volumen del texto."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es válida si el grupo tiene muchos actores disponibles",
+          "is_correct": false,
+          "feedback": "Disponibilidad de actores ayuda en la logística, pero no resuelve la cuestión textual."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta pertenece al género narrativo, porque es demasiado larga para una obra de teatro",
+          "is_correct": false,
+          "feedback": "La extensión del texto no cambia el género en el que fue escrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una obra dramática exige medir su claridad y su puesta en escena, no su número de páginas. Un texto muy extenso suele perder fuerza cuando el conflicto no está bien delimitado. Este criterio de análisis permite a los estudiantes juzgar con fundamento las propuestas de sus compañeros.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v11",
+      "statement": "Un grupo afirma que montar obras de teatro en el colegio solo sirve para entertainment porque divertirse. ¿Cuál es la evaluación más sólida?",
+      "context": "En un debate de salón en Riohacha, se discute qué función social cumple el teatro escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el único fin del teatro escolar es la diversión del público",
+          "is_correct": false,
+          "feedback": "El teatro en la escuela es una práctica formativa con objetivos pedagógicos claros."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta porque montar obras ya es unrequirement del examen Saber del país",
+          "is_correct": false,
+          "feedback": "El teatro escolar no es un requisito de la prueba Saber, aunque sí tenga valor formativo."
+        },
+        {
+          "letter": "C",
+          "text": "Es insuficiente, porque el montaje teatral desarrolla lectura crítica, expresión oral y trabajo cooperativo",
+          "is_correct": true,
+          "feedback": "El teatro escolar es una práctica formativa que cubre dimensiones además del entretenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si la obra es una comedia, porque la comedia solo divierte",
+          "is_correct": false,
+          "feedback": "También la comedia puede enseñar y modificar la visión de los estudiantes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar el valor del teatro escolar exige reconocer todo lo que la práctica pone en juego: la comprensión lectora, la dicción, la memoria y la colaboración. El entretenimiento es una consecuencia, no el objetivo central. Esta discusión es frecuente en la planeación de los proyectos de noveno grado, donde el teatro se usa como estrategia didáctica.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle-v12",
+      "statement": "Una obra colombiana reciente mezcla monólogos interiores, canciones y escenas collectives de una comunidad ribereña, sin una estructura de actos. ¿Qué descripción es la más precisa?",
+      "context": "En la clase de Español de Quibdó, los estudiantes aplican todo lo aprendido a la valoración de una obra contemporánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un arreglo narrativo, porque no tiene actos ni escenas",
+          "is_correct": false,
+          "feedback": "La ausencia de actos no elimina el conflicto ni la representación, que definen al género."
+        },
+        {
+          "letter": "B",
+          "text": "Es un poemario musical, porque la música ocupa el lugar central",
+          "is_correct": false,
+          "feedback": "La canción puede ser un recurso, pero el conjunto se define por su conflict y su ejecución."
+        },
+        {
+          "letter": "C",
+          "text": "Es un libro de ensayo, porque reflexiona sobre la cultura ribereña",
+          "is_correct": false,
+          "feedback": "Reflexionar sobre un tema no convierte una obra representada en ensayo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una obra dramática contemporánea de estructura abierta, que conserva el género en su purposefully65Qerencia al conflicto",
+          "is_correct": true,
+          "feedback": "Describe con precisión una forma actual que conserva la essence del género dramático."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El género dramático admite formas contemporáneas que rompen la estructura clásica de actos y escenas, pero conservan el conflicto y la representación. Reconocer estas variaciones permite escribir y valorar el teatro actual sin reducirlo a un modelo antiguo. Este es un nivel de análisis que corresponde al cierre del componente lector en noveno grado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

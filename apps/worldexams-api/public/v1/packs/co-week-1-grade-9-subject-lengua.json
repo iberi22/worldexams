@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-1-grade-9-subject-lengua",
+    "generated_at": "2026-09-29T22:47:16.453Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las tres familias generales en las que la tradición literatura agrupa las obras literarias?",
+      "context": "En la biblioteca de un colegio de Bogotá, un estudiante de noveno grado revisa el estante de narrativa, lírica y dramática antes de preparar un proyecto escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativa, lírica y dramática",
+          "is_correct": true,
+          "feedback": "Estas tres familias agrupan las obras según la manera en que se cuenta, se siente o se representa la acción."
+        },
+        {
+          "letter": "B",
+          "text": "Novela, poesía y ensayo",
+          "is_correct": false,
+          "feedback": "Son formas concretas que pertenecen a la narrativa y a la lírica, no las familias superiores."
+        },
+        {
+          "letter": "C",
+          "text": "Prosa, verso y diálogo",
+          "is_correct": false,
+          "feedback": "Son recursos de presentación del lenguaje, no categorías de clasificación de obras."
+        },
+        {
+          "letter": "D",
+          "text": "Realista, histórico y fantástico",
+          "is_correct": false,
+          "feedback": "Son criterios de clasificación dentro del relato, no las tres familias de la tradición."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clasificación tradicional organiza la literatura en narrativa, lírica y dramática porque cada familia resuelve de manera distinta el problema de representar la realidad humana. La narrativa cuenta hechos, la lírica expresa emociones y la dramática representa personajes en acción ante un público. En Colombia, esta división permite ordenar una producción muy diversa, desde las novelas de García Márquez hasta las obras del teatro escolar de Bogotá.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v2",
+      "statement": "Cuál es la diferencia central entre el género lírico y el género narrativo?",
+      "context": "La docente de Español de Medellín explica a sus estudiantes que clasificar textos no es limitar sus posibilidades, sino entender cómo se construye cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lírico usa únicamente rimas y el narrativo se escribe únicamente en párrafos",
+          "is_correct": false,
+          "feedback": "Reduce la diferencia a la forma gráfica; existen poemas en prosa y relatos con verso."
+        },
+        {
+          "letter": "B",
+          "text": "El lírico expresa la subjetividad y las emociones de quien escribe, mientras el narrativo cuenta hechos y personajes con una trama",
+          "is_correct": true,
+          "feedback": "La oposición entre expresión subjetiva y relato de hechos es la distinción clásica entre ambos géneros."
+        },
+        {
+          "letter": "C",
+          "text": "El lírico aparece después del género narrativo en la historia de la literatura",
+          "is_correct": false,
+          "feedback": "Es un dato histórico que no explica la diferencia de fondo entre los dos géneros."
+        },
+        {
+          "letter": "D",
+          "text": "El narrativo siempre tiene final feliz y el lírico nunca incluye un argumento",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos géneros tiene esa exigencia: el relato puede ser trágico y el poema puede narrar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia de fondo no está en cómo se imprime el texto en la página, sino en qué función predomina dentro de él. En el género lírico predomina la voz del yo y la experiencia interior; en el narrativo predomina el mundo representado y el desarrollo de los hechos. Comprender esta oposición permite leer con precisión tanto una poesía de Pablo Neruda como una novela de Gabriel García Márquez.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v3",
+      "statement": "Un texto dice así: salí a la plaza de Bolívar antes de que sonara la campana y miré cómo los vendedores de empanadas trabajaban bajo la lluvia. No dije nada. Me volví a casa. ¿En qué género pertenece principalmente este fragmento?",
+      "context": "Un grupo de estudiantes de noveno grado de Pereira lee un fragmento en voz alta y debe decidir en qué género lo incluye en la carpeta de lecturas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lírico, porque quien escribe expresa su estado de ánimo personal",
+          "is_correct": false,
+          "feedback": "Todo texto tiene emotividad; la clave es si predomina el relato de hechos o la expresión del sentimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Dramático, porque se narran escenas como si fueran una representación teatral",
+          "is_correct": false,
+          "feedback": "No hay personajes dialogando ni indicaciones de Coliseo: es un texto escrito para ser leído."
+        },
+        {
+          "letter": "C",
+          "text": "Narrativo, porque relata hechos en un tiempo y un espacio precisos desde la voz de un testigo",
+          "is_correct": true,
+          "feedback": "Aunque hay carga subjetiva, el fragmento construye hechos, tiempo y espacio propios de un relato."
+        },
+        {
+          "letter": "D",
+          "text": "Dramático, porque el narrador aparece como un personaje dentro de la obra",
+          "is_correct": false,
+          "feedback": "La aparición de un narrador no convierte un texto en dramático; el género dramático exige conflicto y representación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la clasificación exige mirar la estructura del fragmento y no solo el tono emocional que transmite. Aquí hay un espacio identificable, una acción, un tiempo y un personaje que observa, es decir, los elementos mínimos de un relato. El gusto colombiano por la vida cotidiana, tan presente en el cuento y en la novela del país, hace que este fragmento se sienta natural para los lectores.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v4",
+      "statement": "Cuál de las siguientes formas literarias corresponde al género dramático?",
+      "context": "En una tarea de refuerzo, la docente de Español de Cali pide a sus estudiantes de noveno grado ordenar formas literarias según la familia a la que pertenecen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela de ciencia ficción",
+          "is_correct": false,
+          "feedback": "La novela, incluso la de ciencia ficción, pertenece al género narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "La poesía experimental",
+          "is_correct": false,
+          "feedback": "La poesía, por muy experimental que sea, sigue siendo una forma del género lírico."
+        },
+        {
+          "letter": "C",
+          "text": "La crónica periodística",
+          "is_correct": false,
+          "feedback": "La crónica es una modalidad periodística que combina información con narración, no género dramático."
+        },
+        {
+          "letter": "D",
+          "text": "La comedia El avaro de Molière",
+          "is_correct": true,
+          "feedback": "La comedia es una forma del género dramático, escrita para ser representada ante un público."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El género dramático incluye toda composición escrita para ser representada, y por eso soporta unidades propias como el acto, la escena, el diálogo y el personaje. La comedia de Molière es el ejemplo más claro en el plan de estudios colombiano, donde el teatro escolar ocupa un lugar importante en la formación. Reconocer estas unidades evita confundir con narrativas que también tienen personajes, como la novela o el cuento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v5",
+      "statement": "Cuál de las siguientes obras pertenece al género lírico?",
+      "context": "En Bucaramanga, un grupo de noveno grado trabaja la lectura de sonetos y la guía pregunta qué espera ese texto de quien lo lee.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los sonetos de amor de Pablo Neruda",
+          "is_correct": true,
+          "feedback": "Los sonetos son una forma poética propia del género lírico, centrado en la expresión del sentimiento."
+        },
+        {
+          "letter": "B",
+          "text": "La novela El amor en los tiempos del cólera",
+          "is_correct": false,
+          "feedback": "Es una novela, es decir, género narrativo, aunque tenga descripciones poéticas."
+        },
+        {
+          "letter": "C",
+          "text": "La comedia El avaro de Molière",
+          "is_correct": false,
+          "feedback": "Es una obra dramática porque está pensada para la representación teatral."
+        },
+        {
+          "letter": "D",
+          "text": "El ensayo sobre los símbolos heráldicos de Molière",
+          "is_correct": false,
+          "feedback": "Molière no escribió ensayos de heráldica, y el ensayo pertenece al ámbito no ficcional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para reconocer el género lírico basta identificar la presencia de un yo que dice o siente, en lugar de narrar hechos. Los sonetos de Pablo Neruda, que se estudian habitualmente en noveno grado en Colombia, son un referente temprano del género. La clave está en verificar quién habla y qué función cumple su voz dentro del texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v6",
+      "statement": "Qué elemento del género dramático establece la relación entre los personajes durante la representación?",
+      "context": "En la clase de Español de Barranquilla, la docente proyecta una obra de teatro y pide a los estudiantes que describan la relación entre las voces que hablan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La narración en tercera persona, porque informa al público sobre lo ocurrido",
+          "is_correct": false,
+          "feedback": "La narración corresponde al género narrativo, no al género dramático."
+        },
+        {
+          "letter": "B",
+          "text": "El diálogo, porque permite que los personajes interactúen y expongan sus conflictos",
+          "is_correct": true,
+          "feedback": "El diálogo es el núcleo del género dramático: es donde se enfrenta el conflicto entre los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "La rima, porque ordena la intervención de los personajes",
+          "is_correct": false,
+          "feedback": "La rima pertenece a formas poéticas; el drama puede escribirse totalmente en prosa."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador omnisciente, porque conoce la vida de los personajes",
+          "is_correct": false,
+          "feedback": "El narrador omnisciente es un recurso narrativo; en el drama la información la dan los propios personajes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género dramático tiene su centro en la situación teatral: un conflicto que se despliega mediante la intervención de varios personajes. El diálogo no es un adorno, sino el procedimiento mediante el cual se hacen visibles los deseos, las amenazas y los argumentos. Comprender esto ayuda a leer una obra de teatro, que se entiende con fluidez cuando alguien conoce el papel que cumple cada voz.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v7",
+      "statement": "Un escritor colombiano presenta un texto que combina una historia mínima de su abuela con imágenes repetidas de la lluvia, sin un argumento desarrollado. ¿Qué explicación describe mejor esa combinación?",
+      "context": "En un salón de noveno grado en Manizales, un grupo analiza por qué un texto que parecía un relato termina sintiéndose como un poema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es dramático, porque presenta personajes y acciones",
+          "is_correct": false,
+          "feedback": "Tener personajes no convierte un texto en dramático; la representación ante público es lo decisivo."
+        },
+        {
+          "letter": "B",
+          "text": "Es narrativo puro, porque cuenta algo que le pasó a alguien",
+          "is_correct": false,
+          "feedback": "El género no se define por el tema, sino por la predominancia de los procedimientos y las convenciones."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto híbrido, porque fusiona elementos narrativos con recursos de la lírica",
+          "is_correct": true,
+          "feedback": "La combinación de relato e imagen poética configura de manera evidente un género híbrido."
+        },
+        {
+          "letter": "D",
+          "text": "Es didáctico, porque transmite información sobre la abuela",
+          "is_correct": false,
+          "feedback": "El propósito informativo no determina el género; un texto puede ser informativo y narrativo a la vez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En la práctica los géneros se cruzan, y reconocer esos cruces evita clasificaciones rígidas. Cuando un relato abandona el argumento a favor de imágenes repetidas, el lector está ante un texto donde lo lírico predomina sin dejar de narrar. Este cruce es frecuente en la literatura colombiana contemporánea y es un motivo habitual de análisis en las pruebas Saber del país.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v8",
+      "statement": "Al comparar una novela de ambientación campesina con una obra de teatro sobre la misma realidad, ¿cuál observación sobre el género es la más precisa?",
+      "context": "En un proyecto de noveno grado en Bogotá, los estudiantes comparan cómo dos obras colombianas distintas presentan el mismo tema de la violencia rural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela y la obra de teatro son idénticas porque cuentan lo mismo",
+          "is_correct": false,
+          "feedback": "Contar la misma realidad no hace que dos textos compartan género ni estructura."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la novela puede tratar temas sociales, porque el teatro los excluye",
+          "is_correct": false,
+          "feedback": "El teatro también es un vehículo para el análisis social y político."
+        },
+        {
+          "letter": "C",
+          "text": "La obra de teatro necesita además un narrador que explique la trama",
+          "is_correct": false,
+          "feedback": "En el drama la exposición se hace con las escenas y los diálogos, no con un narrador."
+        },
+        {
+          "letter": "D",
+          "text": "La novela distribuye el relato en capítulos, mientras la obra de teatro concentra el conflicto en escenas",
+          "is_correct": true,
+          "feedback": "Cada género organiza la información con recursos propios, aunque traten el mismo tema."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos del mismo tema en géneros distintos revela que la elección del género transforma la experiencia del lector. La novela permite detener la acción y entrar en la conciencia de varios personajes; la obra de teatro obliga a resolverlo todo en el tiempo de una representación. En el contexto colombiano, estas diferencias son clave para analizar tanto la novela como el teatro de cámara.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v9",
+      "statement": "Las microhistorias que los estudiantes publican en redes sociales suelen tener un protagonista, un conflicto breve y un desenlace inmediato. ¿Qué evidencia sostiene mejor la afirmación de que predominan convenciones narrativas?",
+      "context": "En la clase de Español de Popayán, los estudiantes discuten qué género predomina en las microhistorias que sus compañeros publican en redes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de personaje, conflicto y resolución, que son convenciones típicas del relato",
+          "is_correct": true,
+          "feedback": "Los elementos señalados son el núcleo del género narrativo, aplicados a un formato nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "El uso del celular, porque ese aparato es propio de la literatura",
+          "is_correct": false,
+          "feedback": "El dispositivo es un soporte, no una convención que defina el género."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de seguidores, porque mide la difusión del relato",
+          "is_correct": false,
+          "feedback": "La audiencia es un dato externo que no clasifica el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de descripciones largas, porque eso indica género dramático",
+          "is_correct": false,
+          "feedback": "La brevedad no es un rasgo del género dramático; la ausencia de descripciones no permite esa conclusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un género no se pierde porque cambie el formato: se reconoce por las convenciones que se conservan. Las microhistorias de redes sociales, aunque duren pocos segundos, mantienen la estructura básica del relato con personaje y conflicto. Esta mirada permite analizar el mundo digital con las mismas herramientas que se aplican a una novela.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v10",
+      "statement": "Un juez del concurso literario del colegio afirma: esta obra pertenece al género narrativo porque el protagonista cambia al final. ¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En la revista escolar de Cartagena, un comité evalúa si una obra cumple con la calidad literaria que el proyecto exige.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque toda obra narrativa cambia a su protagonista",
+          "is_correct": false,
+          "feedback": "No existe tal obligatoriedad; muchas novelas mantienen al mismo protagonista hasta el final."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque el cambio del protagonista no es un rasgo que defina al género narrativo",
+          "is_correct": true,
+          "feedback": "La afirmación se apoya en un rasgo accidental de la obra y no en una convención del género."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta porque el género narrativo solo admite obras con un solo personaje",
+          "is_correct": false,
+          "feedback": "El género narrativo admite varios protagonistas y grupos de personajes sin ningún problema."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si la obra está escrita en verso, porque el verso es propio de los narrativos",
+          "is_correct": false,
+          "feedback": "El verso es más propio de la lírica; un texto en verso no es por sí mismo narrativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una afirmación sobre género exige distinguir entre rasgos accidentales y convenciones estables. Que un personaje cambie o no al final es una decisión de contenido; lo que define la narrativa es la organización de hechos, personajes y tiempo. Esta distinción es un contenido central de la prueba Saber, porque evalúa el razonamiento del estudiante y no solo el dato.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v11",
+      "statement": "Un equipo de noveno grado afirma que una novela sobre la guerra y una obra de teatro sobre la guerra son el mismo género porque ambas tratan ese tema. ¿Cuál es el criterio más preciso para refutar esa afirmación?",
+      "context": "En un foro literario de Neiva, estudiantes de noveno grado discuten si dos obras que tratan el desplazamiento forzado pertenecen al mismo género.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El género lo define únicamente la cantidad de capítulos que tiene la obra",
+          "is_correct": false,
+          "feedback": "La estructura en capítulos es propia de algunas obras, pero no agota la definición del género."
+        },
+        {
+          "letter": "B",
+          "text": "El género depende de la época histórica en la que se escribió cada obra",
+          "is_correct": false,
+          "feedback": "La época influye en el estilo, pero no determina la clasificación de género de un texto."
+        },
+        {
+          "letter": "C",
+          "text": "El género depende de las convenciones de cada texto y no del tema que ambos tratan",
+          "is_correct": true,
+          "feedback": "El tema es un contenido; las convenciones y la forma de representación son las que definen el género."
+        },
+        {
+          "letter": "D",
+          "text": "El género lo decide la cantidad de personajes que aparecen en escena",
+          "is_correct": false,
+          "feedback": "El número de personajes es un rasgo de contenido y no un criterio de clasificación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El error más común al clasificar textos es confundir el tema con el género. Dos obras pueden hablar de la guerra, del amor o de la peste y pertenecer a familias muy distintas. Un buen lector detecta esa diferencia y puede explicar con qué criterio clasifica cada texto. Ese razonamiento es exactamente el que evalúan las competencias Saber en el componente lector.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle-v12",
+      "statement": "Un texto narra la vida de un campesino de Boyacá a través de cartas, monólogos de sus hijos y escenas con la comunidad. ¿Cuál es la clasificación más precisa?",
+      "context": "En la evaluación final de la unidad en Neiva, los estudiantes deben aplicar todos los conceptos de la semana a un caso nuevo que se les presenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo, porque el texto tiene un comienzo, un nudo y un desenlace",
+          "is_correct": false,
+          "feedback": "Un relato con nudo y desenlace puede integrar otros géneros; la estructura general no agota la clasificación."
+        },
+        {
+          "letter": "B",
+          "text": "Lírico, porque incluye monólogos de los hijos",
+          "is_correct": false,
+          "feedback": "El monólogo no convierte el conjunto en lírico, pues la emoción no predomina sobre la representación."
+        },
+        {
+          "letter": "C",
+          "text": "Dramático, porque incluye escenas con la comunidad",
+          "is_correct": false,
+          "feedback": "La presencia de escenas no basta; el conjunto se define por la mezcla deliberada de varios procedimientos."
+        },
+        {
+          "letter": "D",
+          "text": "Híbrido, porque combina procedimientos epistolares, narrativos y dramáticos en una sola obra",
+          "is_correct": true,
+          "feedback": "La combinación deliberada de técnicas de varios géneros produce una obra de género mixto o híbrido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto que combina deliberadamente procedimientos de varios géneros se clasifica como híbrido. Esta obra usa la carta para mostrar la voz íntima, el monólogo para la emotividad y la escena para la representación ante otros. Reconocer esta mezcla ayuda a leer mejor las obras contemporáneas colombianas, muchas de ellas construidas de manera deliberada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
