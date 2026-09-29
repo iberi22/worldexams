@@ -36,12 +36,12 @@ Ocho preguntas para reconocer qué es un ser vivo, conocer las partes de las pla
 ### Opciones
 - [x] A) Al grupo de las plantas
   <!-- feedback: ¡Correcto! El girasol es una planta porque tiene raíz, tallo, hojas y flor, y puede fabricar su propio alimento. -->
-- [ ] B) Al grupo de los animales
-  <!-- feedback: Incorrecto. Los animales no tienen raíz ni tallo, y no pueden fabricar su propio alimento. -->
-- [ ] C) Al grupo de las rocas
-  <!-- feedback: Incorrecto. Las rocas no son seres vivos, no crecen y no se alimentan. -->
-- [ ] D) Al grupo de los objetos de plástico
+- [ ] B) Al grupo de los objetos de plástico
   <!-- feedback: Incorrecto. Los objetos de plástico no son seres vivos, porque no crecen, no se alimentan y no se reproducen. -->
+- [ ] C) Al grupo de los animales
+  <!-- feedback: Incorrecto. Los animales no tienen raíz ni tallo, y no pueden fabricar su propio alimento. -->
+- [ ] D) Al grupo de las rocas
+  <!-- feedback: Incorrecto. Las rocas no son seres vivos, no crecen y no se alimentan. -->
 
 ### Explicacion Pedagogica
 Los seres vivos se dividen en varios grupos, entre ellos plantas, animales y hongos. El girasol pertenece a las plantas porque tiene raíz, tallo, hojas y flor, y porque es capaz de fabricar su propio alimento usando luz, agua y aire, un proceso que se llama fotosíntesis. Las rocas y los objetos no son seres vivos porque no crecen, no se alimentan y no se reproducen. Saber en qué grupo está un ser vivo ayuda a entender cómo se alimenta, cómo crece y cómo se reproduce.
@@ -57,14 +57,14 @@ Los seres vivos se dividen en varios grupos, entre ellos plantas, animales y hon
 Por esta razón se dice que el cachorro y la planta son seres vivos.
 
 ### Opciones
-- [x] A) Porque los dos crecen y se desarrollan
-  <!-- feedback: ¡Correcto! La planta se estira y aumenta de tamaño, y el cachorro también crece con el tiempo. -->
-- [ ] B) Porque los dos están hechos de la misma manera
-  <!-- feedback: Incorrecto. Sus cuerpos son muy distintos: la planta tiene tallo y hojas, el cachorro tiene pelo y patas. -->
-- [ ] C) Porque los dos necesitan comer alimentos
-  <!-- feedback: Incorrecto. El cachorro come alimentos, pero la planta se fabrica su propio alimento y no come como un animal. -->
-- [ ] D) Porque los dos necesitan dormir para descansar
+- [ ] A) Porque los dos necesitan dormir para descansar
   <!-- feedback: Incorrecto. El cachorro duerme, pero las plantas no duermen; esa no es una característica común. -->
+- [x] B) Porque los dos crecen y se desarrollan
+  <!-- feedback: ¡Correcto! La planta se estira y aumenta de tamaño, y el cachorro también crece con el tiempo. -->
+- [ ] C) Porque los dos están hechos de la misma manera
+  <!-- feedback: Incorrecto. Sus cuerpos son muy distintos: la planta tiene tallo y hojas, el cachorro tiene pelo y patas. -->
+- [ ] D) Porque los dos necesitan comer alimentos
+  <!-- feedback: Incorrecto. El cachorro come alimentos, pero la planta se fabrica su propio alimento y no come como un animal. -->
 
 ### Explicacion Pedagogica
 Los seres vivos tienen características que los distinguen: crecen, se nutren, responden a lo que ocurre a su alrededor y pueden producir descendientes como ellos. La planta del video crece y se desarrolla hacia la luz, y el cachorro también aumenta de tamaño y cambia con el tiempo. Los dos son seres vivos, pero cada grupo tiene su propia forma de nutrirse: los animales comen plantas u otros animales, mientras que las plantas fabrican su alimento con luz, agua y aire. Para ser un ser vivo no hace falta parecerse a otro.
@@ -80,14 +80,14 @@ Los seres vivos tienen características que los distinguen: crecen, se nutren, r
 ¿Qué le puede pasar a esa planta si pasa mucho tiempo sin agua?
 
 ### Opciones
-- [x] A) Puede perder su color y secarse porque necesita agua para vivir
-  <!-- feedback: ¡Correcto! La planta necesita agua para transportar los nutrientes, y si no la recibe se deshidrata. -->
-- [ ] B) Va a crecer más alto porque tiene más espacio
+- [ ] A) Va a crecer más alto porque tiene más espacio
   <!-- feedback: Incorrecto. Lejos de crecer, la planta pierde agua y puede secarse o morir. -->
-- [ ] C) Va a producir más flores porque necesita más comida
-  <!-- feedback: Incorrecto. Esa frase no describe un proceso posible, y además la falta de agua no produce más flores. -->
-- [ ] D) No le va a pasar nada, porque todas las plantas viven sin agua
+- [ ] B) No le va a pasar nada, porque todas las plantas viven sin agua
   <!-- feedback: Incorrecto. Las plantas necesitan agua como todos los seres vivos, y no pueden vivir mucho tiempo sin ella. -->
+- [x] C) Puede perder su color y secarse porque necesita agua para vivir
+  <!-- feedback: ¡Correcto! La planta necesita agua para transportar los nutrientes, y si no la recibe se deshidrata. -->
+- [ ] D) Va a producir más flores porque necesita más comida
+  <!-- feedback: Incorrecto. Esa frase no describe un proceso posible, y además la falta de agua no produce más flores. -->
 
 ### Explicacion Pedagogica
 Las plantas tienen necesidad de agua, luz, aire, temperatura y sales minerales. El agua es especialmente importante porque sube desde la raíz por el tallo y transporta los nutrientes hasta las hojas. Si esa agua no llega, las hojas pierden turgencia, se amarillean y la planta se seca. Esta es la razón por la que en las casas y las fincas se riegan las plantas cuando el suelo está seco.
@@ -103,14 +103,14 @@ Las plantas tienen necesidad de agua, luz, aire, temperatura y sales minerales. 
 ¿Qué se espera que ocurra con la hoja que está en la bolsa con agua y con la hoja que está en la bolsa sin agua?
 
 ### Opciones
-- [x] A) La hoja en agua se conserva mejor, porque las plantas necesitan agua para no secarse
-  <!-- feedback: ¡Correcto! La hoja dentro de la bolsa con agua mantiene la humedad y por eso se conserva en mejor estado. -->
-- [ ] B) La hoja sin agua se conserva mejor, porque se seca más rápido
-  <!-- feedback: Incorrecto. Secarse es precisamente lo que daña la hoja, así que se conserva peor y no mejor. -->
-- [ ] C) Las dos hojas se conservan igual, porque da lo mismo una bolsa que otra
-  <!-- feedback: Incorrecto. La diferencia de agua sí importa, y por eso las dos hojas no se conservan igual. -->
-- [ ] D) La hoja en agua se vuelve amarilla, porque el agua le daña
+- [ ] A) La hoja en agua se vuelve amarilla, porque el agua le daña
   <!-- feedback: Incorrecto. El agua no daña la hoja; al contrario, la mantiene viva durante más tiempo. -->
+- [ ] B) Las dos hojas se conservan igual, porque da lo mismo una bolsa que otra
+  <!-- feedback: Incorrecto. La diferencia de agua sí importa, y por eso las dos hojas no se conservan igual. -->
+- [ ] C) La hoja sin agua se conserva mejor, porque se seca más rápido
+  <!-- feedback: Incorrecto. Secarse es precisamente lo que daña la hoja, así que se conserva peor y no mejor. -->
+- [x] D) La hoja en agua se conserva mejor, porque las plantas necesitan agua para no secarse
+  <!-- feedback: ¡Correcto! La hoja dentro de la bolsa con agua mantiene la humedad y por eso se conserva en mejor estado. -->
 
 ### Explicacion Pedagogica
 Este es un experimento sencillo para comprobar la necesidad del agua en las plantas. La hoja colocada en la bolsa con agua mantiene la humedad, por lo que pierde menos agua y conserva su color y su firmeza. La hoja colocada en la bolsa seca pierde agua, se vuelve flácida y termina de color amarillo. Al comparar los dos resultados, el niño comprueba con sus propias manos que el agua es un requisito básico para la vida de las plantas. Comparar dos grupos es la forma más sencilla de construir evidencia.
@@ -149,14 +149,14 @@ Para que una planta crezca bien necesita varias condiciones al mismo tiempo: agu
 Analiza las etapas del fruto: ¿qué cambio se observa entre el fruto pequeño y verde y el fruto grande y maduro?
 
 ### Opciones
-- [x] A) El fruto aumenta de tamaño y cambia de color cuando llega a su maduración
-  <!-- feedback: ¡Correcto! El fruto pasa de pequeño y verde a grande y de otro color cuando termina de madurar. -->
-- [ ] B) El fruto se mantiene igual durante todo su desarrollo
+- [ ] A) El fruto se mantiene igual durante todo su desarrollo
   <!-- feedback: Incorrecto. El enunciado muestra que el fruto cambia de tamaño y de color, así que sí se modifica. -->
-- [ ] C) El fruto se hace más pequeño al llegar a la maduración
-  <!-- feedback: Incorrecto. Al madurar el fruto aumenta de tamaño, no se reduce. -->
-- [ ] D) El fruto cambia de color, pero su tamaño no cambia nunca
+- [x] B) El fruto aumenta de tamaño y cambia de color cuando llega a su maduración
+  <!-- feedback: ¡Correcto! El fruto pasa de pequeño y verde a grande y de otro color cuando termina de madurar. -->
+- [ ] C) El fruto cambia de color, pero su tamaño no cambia nunca
   <!-- feedback: Incorrecto. La descripción del enunciado muestra que el fruto también aumenta de tamaño. -->
+- [ ] D) El fruto se hace más pequeño al llegar a la maduración
+  <!-- feedback: Incorrecto. Al madurar el fruto aumenta de tamaño, no se reduce. -->
 
 ### Explicacion Pedagogica
 Observar con atención cómo cambia un ser vivo a lo largo del tiempo es una forma de investigar. En este caso se comparan dos estados del mismo fruto: uno pequeño y verde, y otro grande y maduro. Al comparar se identifican dos cambios simultáneos, el tamaño y el color. Si se compararan tres o más estados, se podría describir además la velocidad de cada cambio. Ese tipo de descripción ordenada, primero menor y luego mayor, se llama línea de tiempo del crecimiento, y ayuda a explicar las etapas por las que pasa un ser vivo.
@@ -172,14 +172,14 @@ Observar con atención cómo cambia un ser vivo a lo largo del tiempo es una for
 El agricultor dice: "Como el primer lote dio menos maíz, la causa fue que la tierra estaba seca". ¿Es sólido ese razonamiento?
 
 ### Opciones
-- [x] A) Es razonable, porque como solo cambió la humedad, esa es la explicación más probable
-  <!-- feedback: ¡Correcto! Al mantener la semilla y la tierra iguales, la humedad es la única variable que explica la diferencia. -->
+- [ ] A) No es sólido, porque ningún dato explica la diferencia
+  <!-- feedback: Incorrecto. Sí hay un dato: el primer lote estaba en suelo seco y el segundo en suelo con humedad. -->
 - [ ] B) No es sólido, porque la semilla del primer lote era diferente
   <!-- feedback: Incorrecto. El enunciado dice que ambos lotes tenían la misma semilla, así que la semilla no cambió. -->
-- [ ] C) Es sólido, porque toda cosecha baja en tierra seca
+- [x] C) Es razonable, porque como solo cambió la humedad, esa es la explicación más probable
+  <!-- feedback: ¡Correcto! Al mantener la semilla y la tierra iguales, la humedad es la única variable que explica la diferencia. -->
+- [ ] D) Es sólido, porque toda cosecha baja en tierra seca
   <!-- feedback: Incorrecto. El enunciado no presenta datos de otras fincas, así que esa regla general no se puede afirmar. -->
-- [ ] D) No es sólido, porque ningún dato explica la diferencia
-  <!-- feedback: Incorrecto. Sí hay un dato: el primer lote estaba en suelo seco y el segundo en suelo con humedad. -->
 
 ### Explicacion Pedagogica
 Un razonamiento científico sólido debe señalar la diferencia principal entre dos casos comparados y descartar otras posibilidades. En esta situación, el lote seco y el lote húmedo tenían la misma semilla y la misma cantidad de tierra, de manera que lo único que cambió fue la humedad del suelo. Como la diferencia en la cosecha coincide con esa única diferencia, la conclusión es razonable y bien sustentada. Este tipo de comparación, en la que se cambia un solo factor y se mantienen los demás constantes, es el fundamento del método científico.
@@ -195,14 +195,14 @@ Un razonamiento científico sólido debe señalar la diferencia principal entre 
 ¿Qué debería responder el niño para evaluar lo que dice su compañero?
 
 ### Opciones
-- [x] A) Que tiene razón, porque la madera viene de un ser vivo, mientras que las rocas no vienen de seres vivos
-  <!-- feedback: ¡Correcto! La madera es parte de un árbol, que es un ser vivo, y las rocas no se forman a partir de seres vivos. -->
-- [ ] B) Que tiene razón, porque todo lo que está en la tierra es un ser vivo
-  <!-- feedback: Incorrecto. No todo lo que está en la tierra es ser vivo; el agua y las rocas también están sobre la tierra. -->
-- [ ] C) Que no tiene razón, porque la madera tampoco es un ser vivo
-  <!-- feedback: Incorrecto. La madera es la parte sólida de un árbol, y el árbol es un ser vivo. -->
-- [ ] D) Que no tiene razón, porque las rocas son seres vivos muy lentos
+- [ ] A) Que no tiene razón, porque las rocas son seres vivos muy lentos
   <!-- feedback: Incorrecto. Las rocas no son seres vivos: no crecen, no se alimentan y no se reproducen. -->
+- [ ] B) Que no tiene razón, porque la madera tampoco es un ser vivo
+  <!-- feedback: Incorrecto. La madera es la parte sólida de un árbol, y el árbol es un ser vivo. -->
+- [ ] C) Que tiene razón, porque todo lo que está en la tierra es un ser vivo
+  <!-- feedback: Incorrecto. No todo lo que está en la tierra es ser vivo; el agua y las rocas también están sobre la tierra. -->
+- [x] D) Que tiene razón, porque la madera viene de un ser vivo, mientras que las rocas no vienen de seres vivos
+  <!-- feedback: ¡Correcto! La madera es parte de un árbol, que es un ser vivo, y las rocas no se forman a partir de seres vivos. -->
 
 ### Explicacion Pedagogica
 Evaluar una clasificación exige aplicar los criterios de lo que es un ser vivo. La madera forma parte del tronco de un árbol, y el árbol es un ser vivo porque crece, se alimenta y se reproduce. En cambio, las rocas se formaron por procesos geológicos y no cumplen ninguna de esas características. Sin embargo, hay que tener cuidado: cuando la madera se cae y se separa del árbol, deja de crecer y deja de ser un ser vivo por sí misma, aunque conserve su forma. Evaluar con estos criterios enseña a distinguir entre un ser vivo completo y una parte que proviene de él.
