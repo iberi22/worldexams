@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-31-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.264Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál fue la pregunta de investigación que formuló el equipo del Texto 1?",
+      "context": "En Neiva, la profesora pide que el equipo de noveno grado escriba la pregunta de investigación antes de citar el artículo del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Cuánto dinero cuesta limpiar el caño que atraviesa el barrio del colegio?",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta del texto se centra en una medición del agua y no en un cálculo de costos de limpieza."
+        },
+        {
+          "letter": "B",
+          "text": "¿El barrio del colegio necesita más árboles en las riveras del caño?",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudio compara niveles de oxígeno disuelto antes y después de la lluvia, no la cobertura vegetal."
+        },
+        {
+          "letter": "C",
+          "text": "¿El oxígeno disuelto en el agua del caño disminuye después de la lluvia?",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo enuncia esa pregunta de forma verificable y luego organiza el procedimiento para responderla."
+        },
+        {
+          "letter": "D",
+          "text": "¿Durante cuántas semanas se puede observar un cambio en la calidad del agua del caño?",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cuatro semanas son la duración del estudio y no la pregunta que el equipo se formuló."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una pregunta de investigación bien formulada indica qué se quiere saber, dónde y de qué manera se puede medir. La pregunta del Texto 1 reúne esas tres condiciones: identifica la variable medida, el lugar y la condición que se quiere contrastar. Reconocer sus componentes permite distinguirla de un tema general como el cuidado de los cauces. Esa distinción es la base de todo trabajo metodológico bien construido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué función cumple el segundo punto del caño mencionado en el Texto 1?",
+      "context": "En Bucaramanga, un estudiante explica a sus compañeros por qué el texto del texto base menciona un segundo punto del caño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Servir como control, para comprobar que la diferencia observada se relaciona con la lluvia y no con otra causa.",
+          "is_correct": true,
+          "feedback": "Correcto. Al comparar con un punto sin descargas cercanas, el equipo separa el efecto de la lluvia en la medición."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la cantidad de datos para que el informe parezca más completo ante el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Añadir un punto cumple una función técnica dentro del diseño del estudio y no una función decorativa."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazar las nueve muestras tomadas antes de la lluvia, cuyos resultados no serían confiables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma que las muestras iniciales fueran poco confiables ni que fueran sustituidas por otras."
+        },
+        {
+          "letter": "D",
+          "text": "Comprobar que el agua del caño es apta para el consumo humano de toda la población del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudio mide una sola variable y el texto no permite deducir condiciones para el consumo humano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un control es un punto de comparación que permite descartar explicaciones alternativas de un resultado. Al medir en un segundo punto sin descargas cercanas, el equipo separa el efecto de la lluvia de otros factores del caño. Sin esa comparación, la diferencia entre antes y después podría deberse a muchas causas. Entender el control es indispensable para valorar si una medición apoya realmente la conclusión que se defiende.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, la oración «Para responderla definieron una variable dependiente y una variable independiente» cumple una función discursiva específica. ¿Cuál es?",
+      "context": "En Pereira, la profesora señala la oración donde el artículo del texto base explica su propio diseño de trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar un resultado ya obtenido para después justificarlo con las mediciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no anuncia resultados: prepara el procedimiento que permitirá obtenerlos más adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Precisar qué se mide y qué se hace variar, de modo que la comparación tenga sentido.",
+          "is_correct": true,
+          "feedback": "Correcto. Nombrar ambas variables es lo que convierte la pregunta inicial en algo medible y comparable."
+        },
+        {
+          "letter": "C",
+          "text": "Cerrar el relato del estudio con la conclusión que el equipo defenderá en la sustentación final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión aparece al final del artículo y esta oración forma parte de la descripción del método."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir una fuente externa que respalda la manera de medir elegida por el equipo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo no cita fuentes externas: describe directamente el procedimiento que el equipo aplicó."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto expositivo científico ordena su discurso siguiendo la lógica del método y no la del relato. Cada párrafo cumple una función dentro de ese recorrido: pregunta, variables, medición, control y conclusión. La oración analizada ocupa el lugar que conecta la pregunta con la medición, y por eso es una pieza articuladora. Reconocer la función de cada párrafo ayuda a entender por qué el género se siente ordenado y verificable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v4",
+      "statement": "Si el equipo hubiera tomado las muestras anteriores a la lluvia a las seis de la mañana y las posteriores al mediodía, ¿qué problema se habría presentado en el Texto 1?",
+      "context": "En Montería, un equipo revisa el procedimiento del texto base y propone un cambio que el profesor sospecha que dañaría el estudio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudio habría perdido el control, porque el segundo punto del caño habría quedado sin comparar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de control se habría mantenido: el problema que surge está en el horario de la medición."
+        },
+        {
+          "letter": "B",
+          "text": "La pregunta de investigación habría cambiado de tema, porque la hora del día no permite preguntar por el oxígeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta habría sido la misma: lo que se altera es la validez de la comparación entre mediciones."
+        },
+        {
+          "letter": "C",
+          "text": "El informe habría perdido su estructura de texto expositivo y ya no sería un texto científico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género del texto no depende del horario de las mediciones, sino de cómo se organiza la información."
+        },
+        {
+          "letter": "D",
+          "text": "La comparación entre antes y después habría perdido validez, porque la hora del día se habría convertido en un factor no controlado.",
+          "is_correct": true,
+          "feedback": "Correcto. Al cambiar la hora además de la lluvia, el equipo no podría saber qué diferencia correspondía a cada factor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen diseño mantiene constantes todas las condiciones que no son objeto de estudio y solo varía la que se quiere poner a prueba. Cambiar la hora de la medición introduce una segunda variable sin avisar, de modo que la comparación deja de ser limpia. El texto base evita ese problema al tomar todas las muestras a la misma hora. Detectar esta falla ayuda a justificar por qué un detalle aparentemente pequeño resulta decisivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 2, el criterio 4 pide presentar también los datos que no apoyan la hipótesis. ¿Qué razón explica esa exigencia?",
+      "context": "En Riohacha, el profesor explica por qué un criterio de la rúbrica del texto base parece innecesario para los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite que el informe tenga la misma cantidad de páginas que el de otro equipo de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rúbrica no mide la extensión del informe, sino el tratamiento honesto de los resultados obtenidos."
+        },
+        {
+          "letter": "B",
+          "text": "Obliga a repetir el estudio hasta obtener datos que confirmen la hipótesis inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar los datos contrarios no significa repetirlos: significa no ocultarlos ni descartarlos sin explicación."
+        },
+        {
+          "letter": "C",
+          "text": "Evita que la conclusión se construya seleccionando únicamente los resultados que le convienen al investigador.",
+          "is_correct": true,
+          "feedback": "Correcto. Si solo se muestran los datos favorables, la conclusión deja de responder con honestidad a la pregunta inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el trabajo del investigador, porque los evaluadores se encargan de interpretar los datos que no apoyaron la hipótesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rúbrica asigna esa tarea al investigador y no a los evaluadores, que solo comprueban si se realizó."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La integridad de un estudio depende de que la evidencia incompleta se presente completa, no solo de que el procedimiento sea correcto. Si el informe omite los datos que contradicen la hipótesis, la conclusión deja de responder con honestidad a la pregunta formulada. Por eso el criterio 4 de la rúbrica no es un capricho: es un mecanismo de control sobre el propio investigador. Comprenderlo prepara al estudiante para defender resultados que no salieron como esperaba.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v6",
+      "statement": "Un compañero de Barranquilla propone cambiar la pregunta por «¿el agua del caño está contaminada?». ¿Cuál es el problema principal de esa reformulación?",
+      "context": "En Barranquilla, un compañero de equipo propone reescribir la pregunta del proyecto antes de la exposición en el colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es demasiado corta para ser considerada una pregunta de investigación válida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no es el problema: la pregunta original tiene un tamaño similar y sí es válida."
+        },
+        {
+          "letter": "B",
+          "text": "Es demasiado amplia, porque no indica qué se mediría ni con qué criterio se compararía el resultado.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin una variable definida, cualquiera podría responder sí o no según su opinión sobre el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Usa un término técnico que los estudiantes de noveno grado no pueden comprender todavía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión «contaminada» no es un término técnico complejo y el problema central es otro distinto."
+        },
+        {
+          "letter": "D",
+          "text": "Rompe con el género del texto base, porque las preguntas de investigación deben llevar la palabra «por qué».",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe esa exigencia de formato y el género no depende de la palabra usada en la pregunta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una pregunta investigable debe señalar una variable concreta y una forma de comprobarla. La expresión «¿está contaminada?» admite respuestas opuestas según quien responda, porque no define un criterio de medición compartible. Por eso la pregunta original, que nombra la variable medida, resulta más precisa. Evaluar la calidad de una pregunta es la primera habilidad metodológica que debe dominarse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación hay entre el criterio 3 de la rúbrica del Texto 2 y el detalle del Texto 1 sobre tomar todas las muestras a la misma hora y en el mismo punto?",
+      "context": "En Pasto, el profesor pide relacionar un criterio de la rúbrica con un detalle concreto del artículo del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El detalle es un ejemplo de lo que el criterio 3 exige, porque hace que el estudio pueda repetirse por otra persona.",
+          "is_correct": true,
+          "feedback": "Correcto. Registrar el lugar y la hora permite que otro equipo obtenga mediciones comparables y verifique el resultado."
+        },
+        {
+          "letter": "B",
+          "text": "El detalle contradice el criterio 3, porque el criterio exige cambiar de punto para obtener más datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rúbrica no pide cambiar de punto: pide que el procedimiento quede descrito para poder repetirlo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos elementos se refieren a la cantidad de muestras, de modo que cumplen la misma función.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio 3 trata de la posibilidad de repetir el estudio y el detalle fija condiciones de medición."
+        },
+        {
+          "letter": "D",
+          "text": "El detalle es irrelevante para la evaluación, porque la rúbrica solo valora la redacción del informe final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rúbrica incluye cinco criterios sobre el proceso de investigación y no solo sobre la redacción."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar un criterio de evaluación con un procedimiento concreto es lo que permite entender para qué sirve cada requisito. El criterio 3 pide que el estudio sea replicable, y la indicación del lugar y de la hora es exactamente lo que hace posible esa replicación. Sin ese detalle, otro equipo mediría en condiciones distintas y los resultados no serían comparables. Esa relación entre el criterio y su aplicación práctica es la que un evaluador necesita ver en un informe.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v8",
+      "statement": "En la oración «Como control, compararon los resultados con los de un segundo punto, ubicado más arriba y sin descargas cercanas», ¿qué función cumple el inciso «ubicado más arriba y sin descargas cercanas»?",
+      "context": "En Tunja, la profesora pide al grupo que justifique por qué el segundo punto del caño es una comparación válida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añade una consecuencia que el equipo todavía no había medido en ese segundo punto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El inciso no anuncia resultados: describe las características del lugar donde se hizo la comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Expresa la opinión del autor sobre la calidad del agua medida en el punto de control.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión es descriptiva y no contiene ningún juicio sobre la calidad del agua ni sobre el trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye al sujeto de la oración para que la comparación resulte más interesante para el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto sigue siendo el equipo de investigación y el inciso solo modifica al segundo punto."
+        },
+        {
+          "letter": "D",
+          "text": "Justifica por qué ese segundo punto puede usarse como control en la comparación.",
+          "is_correct": true,
+          "feedback": "Correcto. Al aclarar que está más arriba y sin descargas cercanas, la oración explica qué condición lo hace comparable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los incisos dentro de una oración suelen aportar la justificación que el enunciado principal deja pendiente. En este caso, la expresión entre comas aclara por qué el segundo punto sirve para comparar y qué lo hace distinto del punto principal. Identificar esa función ayuda a construir oraciones científicas claras, donde la razón suele ir después de la afirmación. También entrena al lector para no perder información relevante por leer solo lo esencial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el Texto 1 termina afirmando que su conclusión «no supera lo que los datos permiten afirmar»?",
+      "context": "En Yopal, la profesora pregunta qué le indica al grupo esa última oración del artículo del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el equipo no confía en el equipo de laboratorio que realizó las mediciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no expresa desconfianza hacia nadie: la frase señala un límite sobre el alcance de la conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el texto expositivo separa el resultado de la medición de la interpretación que hace el investigador.",
+          "is_correct": true,
+          "feedback": "Correcto. La medición muestra lo ocurrido y la interpretación lo explica: la conclusión debe quedarse en el primer nivel."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el proyecto todavía no tiene suficientes datos y el equipo piensa repetir el estudio en el año siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no anuncia una nueva etapa: explica una relación entre evidencia e interpretación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los evaluadores del colegio exigen siempre una conclusión breve de una sola oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa exigencia no aparece en el texto base ni en la rúbrica de evaluación del proyecto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La última oración del artículo funciona como una declaración de límites y es propia del texto expositivo bien construido. Separar el resultado medido de la interpretación evita que la conclusión imponga al dato un significado que la medición no contenía. Reconocer ese gesto ayuda a evaluar informes académicos y evita confundir una explicación razonable con una demostración. También enseña a escribir conclusiones que un lector pueda verificar por sí mismo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 2, el criterio 2 pide «justificar por qué se eligieron» las variables. ¿Qué se está evaluando con fondo?",
+      "context": "En Sincelejo, la profesora pide al grupo que precise qué se revisa realmente cuando se aplica el criterio 2 de la rúbrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de equipos del laboratorio que se utilizaron para tomar las mediciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rúbrica no evalúa los recursos del laboratorio, sino la relación entre las variables y la pregunta."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de veces que el equipo formuló preguntas antes de definir las variables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio no mide cuántas veces se preguntó, sino si existe una razón para cada variable elegida."
+        },
+        {
+          "letter": "C",
+          "text": "La correspondencia entre la pregunta formulada y las variables que se decided medir.",
+          "is_correct": true,
+          "feedback": "Correcto. Justificar una variable es explicar por qué su medición responde a la pregunta de investigación planteada."
+        },
+        {
+          "letter": "D",
+          "text": "La claridad con la que los nombres de las variables aparecen escritos en el informe final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar las variables es solo el primer paso: el criterio exige además explicar por qué se eligieron."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Exigir una justificación para cada variable desplaza la atención de la cantidad de variables hacia su pertinencia. Una variable bien justificada es la que responde directamente a la pregunta de investigación y no a una curiosidad personal del equipo. Ese criterio conecta el diseño del estudio con el propósito que lo originó. Aplicarlo permite detectar estudios que miden mucho pero que no responden a lo que el investigador realmente preguntó.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v11",
+      "statement": "El Texto 1 sostiene que nueve muestras antes y nueve después de la lluvia bastan para responder la pregunta. ¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En el concurso escolar de Tunja, un jurado pregunta al equipo de Armenia por el tamaño de su muestra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es sólida, porque la rúbrica del Texto 2 no fija un número mínimo de muestras para un estudio escolar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de un número en la rúbrica no convierte la muestra en suficiente: no la respalda."
+        },
+        {
+          "letter": "B",
+          "text": "Es débil, porque nueve muestras nunca son suficientes en ningún tipo de investigación, sin importar su propósito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es absoluta y el texto no permite sostenerla: depende del propósito y del procedimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Es sólida, porque el equipo comparó además sus resultados con los de un segundo punto del caño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El control mejora la comparación, pero no responde si la cantidad de muestras alcanza para generalizar."
+        },
+        {
+          "letter": "D",
+          "text": "Es razonable como punto de partida, aunque el texto no muestra si esa cantidad alcanza para generalizar el resultado.",
+          "is_correct": true,
+          "feedback": "Correcto. El procedimiento es ordenado, pero sin más datos no se puede saber si la muestra sostiene una conclusión amplia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un aspecto metodológico exige separar lo que el texto demuestra de lo que solo se supone. El equipo realizó un trabajo ordenado, con control y horarios constantes, y eso merece una valoración favorable. Sin embargo, la suficiencia de la muestra no puede juzgarse leyendo el artículo, porque faltan datos sobre su representatividad. Reconocer ese límite es lo que distingue una crítica precisa de una descalificación sin fundamento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle-v12",
+      "statement": "En la presentación de su proyecto, un equipo afirma que «el agua del caño es apta para el consumo humano porque el oxígeno disuelto medido es correcto». ¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En el cierre del proyecto en Valledupar, un equipo revisor prepara el informe final y debe corregir una afirmación demasiado amplia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación excede lo medido, porque una sola variable no permite certificar algo tan amplio como el consumo humano.",
+          "is_correct": true,
+          "feedback": "Correcto. La calidad del agua para consumo depende de varios indicadores y ninguno de los demás fue medido en el estudio."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque el oxígeno disuelto es el indicador más importante para decidir si el agua es potable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma que ese indicador baste por sí solo y no menciona otros componentes que también importan."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque el equipo del Texto 1 nunca midió el oxígeno disuelto del agua del caño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medición del oxígeno disuelto es precisamente la variable dependiente del estudio descrito."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es aceptable, porque la rúbrica del Texto 2 autoriza cualquier conclusión que responda la pregunta inicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio 5 exige justamente lo contrario: no afirmar más que lo que muestran las mediciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evaluación más exigente consiste en comprobar que cada afirmación del informe tenga respaldo en lo que efectivamente se midió. Certificar algo tan amplio como el consumo humano requiere más de un indicador, y el estudio solo midió uno. Por eso la afirmación rebasa los límites del Texto 1 y contradice el criterio 5 de la rúbrica. Aplicar este criterio protege al investigador de las conclusiones que la evidencia no permite sostener.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W31-el-texto-expositivo-cientifico-y-la-metodologia-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

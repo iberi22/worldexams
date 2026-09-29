@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.264Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo presenta el autor su tesis en el Texto 1?",
+      "context": "En el taller de escritura de Medellín, la profesora pide al grupo que ubique la tesis del ensayo del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La deja repartida en varias oraciones, sin que ninguna la enuncie por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto anuncia expresamente la tesis con una fórmula que la presenta de manera completa."
+        },
+        {
+          "letter": "B",
+          "text": "La formula como una declaración explícita, anunciada con la frase «mi tesis es la siguiente».",
+          "is_correct": true,
+          "feedback": "Correcto. Esa fórmula introduce la oración que sostiene todo el ensayo y que el lector puede citar."
+        },
+        {
+          "letter": "C",
+          "text": "La incluye dentro de una cita de un autor que el texto no menciona por su nombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo no cita a ningún autor: la tesis se presenta en la voz del propio escritor."
+        },
+        {
+          "letter": "D",
+          "text": "La deja como título del ensayo, sin aparecer dentro del desarrollo del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis aparece dentro del texto, y no como un título, antes de la comparación con Medellín."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un ensayo bien construido permite localizar su tesis con precisión, porque el lector necesita saber qué se defiende. La fórmula declarativa del Texto 1 cumple esa función y evita que el texto se confunda con un simple informe. Reconocer el lugar de la tesis es el primer paso para evaluar un ensayo argumentativo. También sirve como modelo al escribir, porque hace visible la posición del autor desde el principio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, la expresión «seguirá siendo una frase vacía» significa que:",
+      "context": "En Manizales, el profesor pide que los estudiantes expliquen con otras palabras una imagen de la tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación sobre el derecho a leer no produce ningún efecto real mientras no haya inversión.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen compara la promesa de un derecho con su ejecución efectiva en los espacios públicos."
+        },
+        {
+          "letter": "B",
+          "text": "La población ya no lee, y por eso ninguna campaña de lectura tendrá éxito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma que la población haya dejado de leer: señala la falta de lugares."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a leer solo existe en el papel y debería eliminarse de las normas actuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión se refiere al efecto de una promesa sin respaldo y no al contenido de las normas."
+        },
+        {
+          "letter": "D",
+          "text": "Las bibliotecas de las ciudades colombianas están a punto de cerrar sus puertas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no anuncia cierres y su tesis reclama justamente una inversión sostenida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender una imagen exige identificar qué se compara con qué para saber qué quiere decir el autor. Aquí se compara una promesa jurídica con la realidad de las salas donde esa promesa podría cumplirse. La imagen gana fuerza porque muestra que un derecho sin condiciones materiales queda escrito y nada más. Reconocer ese mecanismo ayuda a evaluar el estilo de un autor sin perder el contenido del argumento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la intención comunicativa principal del Texto 1?",
+      "context": "En Bucaramanga, la profesora explica que un ensayo nunca es neutral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar cuántos pasajeros leen en los buses de Bogotá en un mes cualquiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no presenta cifras y su propósito no es medir el comportamiento de los pasajeros."
+        },
+        {
+          "letter": "B",
+          "text": "Resumir las políticas de lectura aplicadas en las ciudades colombianas durante el año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no resume políticas: toma partido y propone una vía de inversión concreta."
+        },
+        {
+          "letter": "C",
+          "text": "Relatar la experiencia personal de un lector que viaja en bus y lee poco por falta de tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no cuenta una experiencia propia y biográfica, sino que construye un argumento."
+        },
+        {
+          "letter": "D",
+          "text": "Convencer de que invertir en espacios de lectura es una necesidad pública, y no solo una buena idea.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo busca modificar la opinión del lector sobre un asunto de interés general."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La intención de un ensayo aparece en la decisión que propone y en el destinatario que imaginó. El Texto 1 no informa a un grupo especializado, sino que intenta convencer a cualquier lector de que hay una tarea pública pendiente. Esa diferencia entre informar y convencer es la que define al género argumentativo. Reconocerla ayuda a distinguir un ensayo de un informe, aunque ambos usen datos y ejemplos parecidos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v4",
+      "statement": "En el Texto 1, la oración «Este fenómeno no es solo un defecto de los hábitos: también revela un problema de política pública» cumple una función argumentative. ¿Cuál es?",
+      "context": "En Cali, el profesor pide que el grupo identifique la técnica que protege al ensayo frente a una crítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concluir el ensayo con una frase breve que el lector pueda recordar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración amplía el análisis a mitad del texto y no funciona como frase de cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un dato numérico que respalde la comparación con el caso de Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no contiene cifras: su trabajo es delimitar el alcance del problema."
+        },
+        {
+          "letter": "C",
+          "text": "Anticipar una posible objeción del lector y ampliar el alcance del problema planteado.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor descarta la explicación por hábitos antes de defender la causa que le interesa."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir la comparación con otra ciudad que ya resolvió el problema planteado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación con Medellín aparece más adelante y en una oración completamente distinta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un ensayo sólido no ignora las explicaciones más cómodas para su adversario: las menciona y las examina. Saber localizarlo permite seguir el hilo de un ensayo largo sin perder de vista quién dice qué.\n\nUn ensayo sólido no ignora las explicaciones más cómodas para su adversario: las menciona y las examina.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v5",
+      "statement": "Según la ficha del Texto 2, ¿qué oración del Texto 1 funciona como contraargumento?",
+      "context": "En Armenia, la profesora pide que el grupo ubique el contraargumento usando la ficha del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Las ciudades colombianas han crecido más rápido que sus bibliotecas».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración presenta el problema y no contiene ninguna objeción que el autor examine."
+        },
+        {
+          "letter": "B",
+          "text": "«Este fenómeno no es solo un defecto de los hábitos».",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha identifica ahí la objeción anticipada, a la que el texto responde después."
+        },
+        {
+          "letter": "C",
+          "text": "«Durante años se invirtieron recursos en obras, pero muy poco se invirtió en convertir los espacios de espera».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración sostiene la tesis con un dato y no introduce ninguna postura contraria."
+        },
+        {
+          "letter": "D",
+          "text": "«El caso de Medellín muestra que otra vía es posible».",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación con Medellín es un argumento a favor de la tesis y no una objeción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguir un contraargumento de un argumento propio es una destreza que evita confusiones al leer ensayos. La objeción aparece cuando el texto menciona la explicación que su adversario preferiría y luego la responde. En el Texto 1 ese movimiento se produce antes de la tesis, y la ficha lo registra con precisión. Saber localizarlo permite seguir el hilo de un ensayo largo sin perder de vista quién dice qué.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación hay entre la comparación con Medellín del Texto 1 y el elemento «comparación con el caso de Medellín» de la ficha?",
+      "context": "En Neiva, la profesora pide relacionar un recurso del ensayo con la categoría que lo nombra la ficha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ficha transcribe la comparación para que el lector pueda copiarla en un trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha clasifica el recurso y no se limita a repetir el contenido del ensayo."
+        },
+        {
+          "letter": "B",
+          "text": "La ficha corrige la comparación porque el caso de Medellín no pertenece al ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El caso de Medellín aparece en el ensayo y la ficha lo registra sin corregirlo."
+        },
+        {
+          "letter": "C",
+          "text": "La ficha omite la comparación porque no considera ese recurso un argumento válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha incluye la comparación dentro de la lista de argumentos del texto."
+        },
+        {
+          "letter": "D",
+          "text": "La ficha clasifica el recurso argumentativo que el ensayo emplea en su segundo argumento.",
+          "is_correct": true,
+          "feedback": "Correcto. Al enumerarlo como argumento, la ficha le da un nombre técnico a lo que el ensayo hace."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ficha de análisis cumple la función de nombrar con precisión lo que el ensayo hace. Cuando registra la comparación con Medellín como un argumento, le ofrece al lector una categoría con la que puede valorarlo. Ese trabajo de clasificación es lo que permite comparar ensayos distintos entre sí. Reconocerlo enseña que analizar un texto consiste en poner nombre técnico a sus recursos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v7",
+      "statement": "Según la ficha del Texto 2, ¿dónde aparece la primera persona del singular en el Texto 1?",
+      "context": "En Pereira, el profesor pide al grupo que revise el uso de la primera persona en el ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo al presentar la tesis, en la frase «mi tesis es la siguiente».",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha señala que la primera persona no aparece en los argumentos ni en la conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "En cada una de las cuatro oraciones del ensayo, porque el autor narra en primera persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo no es un relato en primera persona y usa esa forma en un solo momento."
+        },
+        {
+          "letter": "C",
+          "text": "Únicamente en la conclusión, cuando el autor cierra con la frase sobre la falta de lugares de lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión está escrita en tercera persona y la ficha así lo indica."
+        },
+        {
+          "letter": "D",
+          "text": "En la comparación con Medellín, porque allí el autor cuenta lo que vio en las estaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación se enuncia en tercera persona y no contiene ninguna experiencia personal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Notar la distribución de la primera persona ayuda a distinguir la voz del autor de la voz del texto. En el Texto 1 esa forma aparece una sola vez y cumple una función precisa: presentar la tesis como una posición propia. El resto del ensayo se redacta en tercera persona, lo que da un tono más institucional a la defensa. Reconocer ese reparto ayuda a evaluar el estilo del autor y a imitarlo al escribir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1, la tesis usa la construcción «sin una inversión sostenida en esos espacios, la afirmación de que leer es un derecho seguirá siendo una frase vacía». ¿Qué relación lógica establece?",
+      "context": "En Montería, la profesora pide al grupo que analice la estructura lógica de la tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de causa directa, porque la inversión produce necesariamente la frase vacía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La construcción no afirma que invertir genere una frase vacía, sino que sin invertir se mantiene el vacío."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de suma, porque el ensayo añade dos tesis independientes en la misma oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración contiene una sola tesis y la construcción no suma dos afirmaciones distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Una condición necesaria, porque la inversión sostenida es lo que impide que la promesa quede vacía.",
+          "is_correct": true,
+          "feedback": "Correcto. La ausencia de inversión es la condición que deja sin contenido la promesa del derecho a leer."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de comparación, porque la tesis compara el caso de Bogotá con el de Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación con Medellín aparece en otra oración y no forma parte de esta construcción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Detectar la estructura lógica de una tesis permite ver con exactitud qué tendría que cumplirse para que el autor tuviera razón. Aquí se expone una condición necesaria: sin inversión sostenida, la promesa del derecho a leer no se traduce en nada. Ese tipo de razonamiento da más fuerza al ensayo que una afirmación sin condiciones. También ofrece un modelo para formular tesis que puedan ponerse a prueba.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v9",
+      "statement": "La conclusión del Texto 1 dice que el problema no es la falta de lectores, sino la falta de lugares donde leer. ¿Qué efecto produce esa reformulación en el ensayo?",
+      "context": "En Valledupar, la profesora pide que el grupo valore el cierre del ensayo del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilita la tesis, porque cambia el problema que el texto había planteado al comienzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reformulación no cambia el problema: precisa quién tiene la responsabilidad de resolverlo."
+        },
+        {
+          "letter": "B",
+          "text": "Repite la tesis palabra por palabra, sin aportar ninguna novedad al cierre del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha indica que la conclusión reformula la tesis, de modo que el cierre no es una copia."
+        },
+        {
+          "letter": "C",
+          "text": "Devuelve la responsabilidad al Estado y cierra el ensayo con una formulación nueva de la tesis.",
+          "is_correct": true,
+          "feedback": "Correcto. Al trasladar el problema a la falta de espacios, la conclusión cierra la defensa del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Introduce un argumento nuevo que el ensayo no había presentado hasta ese momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión no aporta argumentos nuevos: reorganiza lo ya demostrado en el texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una buena conclusión no se limita a repetir, sino que reformula la tesis con palabras distintas. En este caso, el cierre desplaza la causa del problema hacia la falta de infraestructura. Ese desplazamiento muestra que el autor comparte con el gobierno local una responsabilidad concreta. Reconocer el efecto de una reformulación ayuda a distinguir un cierre fértil de una repetición mecánica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 1, la oración «se invirtieron recursos en obras, pero muy poco se invirtió en convertir los espacios de espera» usa un contraste para:",
+      "context": "En Quibdó, el profesor pide al grupo que explique el uso del contraste en el segundo argumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mostrar la diferencia entre dos destinos posibles de los recursos públicos.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste enfrenta dos destinos del mismo presupuesto y muestra cuál quedó desatendido."
+        },
+        {
+          "letter": "B",
+          "text": "Negar que el Estado haya invertido recursos en la ciudad durante los últimos años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto reconoce esa inversión y solo señala que los recursos se destinaron a otro uso."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar un dato estadístico sobre la cantidad de obras construidas en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no aporta cifras y su trabajo es comparar dos prioridades de inversión."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir la comparación con la experiencia de lectura de los pasajeros de Medellín.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación con Medellín aparece después y se refiere a salas de lectura en estaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El contraste enfrenta dos destinos posibles de un mismo presupuesto y muestra cuál quedó desatendido. Esa estructura permite sostener la tesis sin afirmar que no hubo inversión alguna. El lector comprueba así que la crítica es precisa y no una descalificación general. Reconocer ese uso del contraste es lo que permite evaluar la honestidad de un argumento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v11",
+      "statement": "La tesis del Texto 1 afirma que, sin inversión sostenida, la idea de que leer es un derecho seguirá siendo una frase vacía. ¿Cuál es la evaluación más sólida?",
+      "context": "En el seminario de noveno grado de Ibagué, los grupos evalúan la solitud de la tesis antes de la sustentación final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es coherente con el problema descrito, aunque el texto no presenta datos que midan la inversión actual.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis responde al problema planteado y su límite es la ausencia de cifras que la comprueben."
+        },
+        {
+          "letter": "B",
+          "text": "Es débil, porque el ensayo no menciona ninguna norma que reconozca el derecho a leer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza de la tesis no depende de citar una norma: depende de mostrar que la promesa no se cumple."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque el caso de Medellín demuestra que la inversión no es la solución del problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El caso de Medellín se usa como ejemplo de que sí hay inversión y sí hay resultados distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Es innecesaria, porque el ensayo podría defender su posición solo con la comparación entre ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación apoya la tesis, pero no la sustituye: la tesis sigue siendo la afirmación que organiza el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una tesis exige distinguir si responde al problema planteado y qué evidencia la respalda. La tesis del Texto 1 cumple la primera condición: se apoya en un problema descrito y en argumentos identificables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle-v12",
+      "statement": "Un equipo concluye que el caso de Medellín mencionado en el Texto 1 demuestra que la tesis del ensayo es cierta en todo el país. ¿Cuál es la evaluación más sólida de esa conclusión?",
+      "context": "En la exposición final de Santa Marta, un equipo debe corregir una conclusión que generaliza demasiado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida, porque el caso de Medellín pertenece a Colombia y sirve como prueba nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un caso demuestra que algo es posible, no que ocurra igual en todo el país."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque el ensayo nunca menciona a la ciudad de Medellín en su desarrollo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre de Medellín aparece en el texto y se usa como ejemplo de otra vía posible."
+        },
+        {
+          "letter": "C",
+          "text": "Es aceptable, porque la ficha de análisis ya valida la fuerza de la tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha clasifica el recurso del ensayo y no valida el alcance de la conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión excede la evidencia, porque un solo caso no demuestra una tesis de alcance nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. El ejemplo apoya la plausibilidad de la tesis, pero no permite generalizar a todo el país."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un ejemplo demuestra que algo puede ocurrir, pero no que ocurra en todas partes por igual. Por eso un solo caso de éxito vuelve plausible la tesis sin comprobarla en todo el país. Reconocer ese límite es lo que separa un argumento bien sustentado de una generalización prematura. También indica qué faltaría añadir: datos de otras ciudades que sostengan la misma conclusión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W33-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

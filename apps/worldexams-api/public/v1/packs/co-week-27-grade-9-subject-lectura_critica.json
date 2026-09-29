@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-27-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.262Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v1",
+      "statement": "¿Qué característica distingue a una metáfora?",
+      "context": "En el salón de noveno grado de Bogotá, la profesora prepara la clase sobre figuras del lenguaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta una relación de semejanza sin usar ningún signo comparativo.",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora afirma la semejanza de manera directa, y por eso el lector debe descubrir la relación sin que se le señale."
+        },
+        {
+          "letter": "B",
+          "text": "Compara dos elementos mediante un verbo copulativo o mediante la expresión \"como\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la comparación explícita, que conserva el nexo que recuerda al lector la relación entre los dos términos."
+        },
+        {
+          "letter": "C",
+          "text": "Enumera los rasgos de un objeto para describirlo con la mayor precisión posible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enumeración de rasgos es una descripción, y no establece ninguna semejanza entre dos campos distintos."
+        },
+        {
+          "letter": "D",
+          "text": "Repite una palabra del enunciado para dar énfasis a una idea presente en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición es un recurso de énfasis, y no implica la transferencia de sentido propia de la metáfora."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La metáfora es una figura que sustituye un término por otro con el fin de transferir un significado. Al no haber un nexo explícito, el lector debe construir la relación, y ese pequeño esfuerzo hace que la imagen se recuerde mejor. Reconocerla permite evaluar el habla de un autor con precisión, en lugar de reducir toda imagen a una simple decoración del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v2",
+      "statement": "¿Qué aporta al texto 1 la imagen de \"la calle del departamento\"?",
+      "context": "En Manizales, un grupo analiza la frase del texto 1 que compara el río con una vía de circulación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dato numérico sobre la longitud del cauce y sobre su anchura durante las lluvias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen no entrega cifras, y su valor está en la idea de circulación compartida y no en la descripción del cauce."
+        },
+        {
+          "letter": "B",
+          "text": "La idea de que por el río circulan, además del agua, las personas, las noticias y las ideas.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen de la calle convierte al cauce en una vía compartida, y ese es el sentido que el texto desarrolla después."
+        },
+        {
+          "letter": "C",
+          "text": "Una crítica directa a la forma en que las autoridades administran el cauce del río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discurso no menciona ninguna autoridad, y la imagen cumple una función de comprensión y no de denuncia."
+        },
+        {
+          "letter": "D",
+          "text": "Una descripción técnica de las actividades agrícolas que se desarrollan en la ribera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no describe cultivos ni actividades de la ribera, porque la imagen organiza la idea de circulación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una imagen deja ver una relación que la descripción literal no mostraría con tanta rapidez. La analogía entre el río y la calle convierte un elemento geográfico en una vía de intercambio, y con ella el agua deja de ser lo único que transporta el cauce. Comprender qué suma cada imagen es el primer paso para evaluar si el autor la usa con precisión o si la exagera.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v3",
+      "statement": "En el texto 2 se lee \"un calor que se comporta como un cliente exigente\". ¿Qué diferencia hay entre esa frase y la metáfora \"el calor es un cliente exigente\"?",
+      "context": "En Santa Marta, una estudiante compara una frase del texto 2 con una metáfora que ella misma escribió.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera describe algo real y la segunda describe algo imaginario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas formas pueden aplicarse a lo real o a lo imaginario, y esa diferencia no determina el tipo de figura."
+        },
+        {
+          "letter": "B",
+          "text": "No existe diferencia, porque las dos expresiones significan exactamente lo mismo para el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia está en el nexo, porque la comparación lo conserva y la metáfora lo elimina por completo."
+        },
+        {
+          "letter": "C",
+          "text": "La metáfora borra el nexo y sumerge al lector en la imagen; la otra mantiene la comparación a la vista.",
+          "is_correct": true,
+          "feedback": "Correcto. Al desaparecer el nexo, el lector entra por completo en la figura del cliente y esa inmersión refuerza la crítica."
+        },
+        {
+          "letter": "D",
+          "text": "La comparación solo admite términos de la misma categoría, mientras que la metáfora no tiene esa exigencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos figuras relacionan campos distintos, y la diferencia entre ellas no está en la categoría de los términos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia entre metáfora y comparación es de forma y no de contenido, porque las dos construyen transferencias de significado entre campos diferentes. Lo que cambia es la presencia del nexo y, con ella, el grado de libertad que se le deja al lector. Analizar esa diferencia ayuda a reescribir un texto propio, porque permite elegir conscientemente entre la imagen que invita a completar y la imagen que se presenta cerrada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v4",
+      "statement": "Una alumna de Manizales escribe: \"La biblioteca de su barrio es un faro en una zona sin luz\". ¿Qué parte de la oración es la metáfora?",
+      "context": "En Manizales, una alumna escribe una oración para la revista del colegio y necesita identificar su metáfora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La biblioteca de su barrio\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese sintagma nombra el lugar del que se habla, y no establece ninguna semejanza con otro objeto."
+        },
+        {
+          "letter": "B",
+          "text": "\"es\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo solo enlaza el sujeto con el atributo, y no produce por sí mismo una transferencia de significado."
+        },
+        {
+          "letter": "C",
+          "text": "\"una zona sin luz\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión describe de manera literal el entorno de la biblioteca, y no sustituye un término por otro."
+        },
+        {
+          "letter": "D",
+          "text": "\"es un faro en una zona sin luz\".",
+          "is_correct": true,
+          "feedback": "Correcto. La oración afirma que la biblioteca es un faro sin usar nexo, y por eso hay transferencia de sentido y no comparación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar el alcance de una metáfora exige separar el elemento real del discurso, que es la biblioteca, del elemento figurado, que es el faro. Toda la predicación forma la imagen y no solo una palabra suelta. Practicar esta delimitación prepara a los estudiantes para transferir imágenes a sus propios textos, donde es frecuente acertar el concepto y equivocarse al escribir el enunciado completo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes metáforas serviría mejor para persuadir a los estudiantes de esa campaña?",
+      "context": "En Medellín, un equipo prepara un aviso para una campaña de lectura escolar dirigida a estudiantes de noveno grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Leer es la puerta más amplia que tiene un estudiante hacia el mundo\".",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen conecta la lectura con una posibilidad concreta de abrirse al mundo, y ese sentido conviene al objetivo de la campaña."
+        },
+        {
+          "letter": "B",
+          "text": "\"El programa de lectura tiene tres módulos y se dicta los martes\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase es una descripción informativa y no aporta ninguna imagen que invite a leer o que sugiera un beneficio."
+        },
+        {
+          "letter": "C",
+          "text": "\"Leer es la mejor actividad que existe y ninguna otra puede competir\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado es una afirmación absoluta sin imagen, y su fuerza depende de una generalización inverificable."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los que no leen fracasan, y así se verá en su futuro profesional\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recurso apela al miedo y atribuye una consecuencia absoluta, en lugar de valerse de una imagen que construya valor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elección de una metáfora depende del propósito del texto y del público al que se dirige. Una imagen que sugiere posibilidad resulta más eficaz que una afirmación absoluta, porque invita al lector a proyectar su propia experiencia. Evaluar el efecto de la imagen sobre la intención comunicativa es lo que permite construir piezas de comunicación escolar que convencen sin exagerar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v6",
+      "statement": "Un párrafo dice: \"La capa de ozono es el techo de la casa y, además, es un circuito eléctrico donde la corriente se pierde en cada esquina\". ¿Qué cambio mejora la coherencia del párrafo?",
+      "context": "En Neiva, un editor escolar revisa un párrafo que mezcla dos imágenes que no conviven entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener las dos imágenes, porque cada una describe una característica distinta del mismo fenómeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos imágenes no se refuerzan, porque pertenecen a campos diferentes y el lector no puede construir una relación única."
+        },
+        {
+          "letter": "B",
+          "text": "Conservar solo la imagen del techo, porque refuerza la idea de protección y da unidad al párrafo.",
+          "is_correct": true,
+          "feedback": "Correcto. Al quedar una sola imagen, el párrafo gana coherencia y el sentido de protección deja de competir con otra asociación."
+        },
+        {
+          "letter": "C",
+          "text": "Añadir una tercera imagen sobre el clima, para que el párrafo tenga más variedad de recursos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar imágenes sin relación agrava la dispersión del sentido y no resuelve la incoherencia que ya existe."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir las dos imágenes por una lista de datos, para eliminar cualquier ambigüedad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista puede servir en otro texto, pero aquí se pierde la idea de protección que el párrafo intenta comunicar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia discursiva exige que las imágenes de un párrafo trabajen para una misma interpretación. Cuando dos metáforas provienen de campos distintos y no existe relación entre ellas, el lector queda con dos asociaciones sin una unión posible. Elegir la imagen que mejor sostiene la idea central es una decisión de escritura y también un criterio de lectura para valorar si un párrafo está bien construido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v7",
+      "statement": "¿Qué transformación convierte la metáfora \"el conocimiento es una llave\" en una comparación explícita?",
+      "context": "En Valledupar, un profesor pide a sus estudiantes transformar una metáfora en una comparación explícita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustituir \"es\" por el verbo \"parece\", dejando intacto el resto de la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de verbo no basta, porque \"parece\" actúa como verbo copulativo y el nexo de comparación sigue faltando."
+        },
+        {
+          "letter": "B",
+          "text": "Añadir un adjetivo valorativo que caracterice a la llave, para reforzar el efecto de la imagen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un adjetivo no introduce el nexo de comparación, y por tanto la figura sigue siendo una metáfora."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir el nexo \"como\" y añadir una segunda parte que devuelva el término real de la comparación.",
+          "is_correct": true,
+          "feedback": "Correcto. El nexo hace visible la relación y la segunda parte evita que el lector olvide aquello con lo que se compara."
+        },
+        {
+          "letter": "D",
+          "text": "Repetir la metáfora en dos oraciones consecutivas, para aumentar su impacto en el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición intensifica la imagen, pero no la convierte en una comparación con nexo explícito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Convertir una metáfora en comparación exige dos movimientos: introducir el nexo y devolver el término real al final de la frase. Sin el nexo no hay comparación, y sin la segunda parte el lector queda dentro de la imagen sin poder volver a aquello que se estaba nombrando. Dominar esta transformación ayuda a medir cuánto de lo que comprendemos depende de la imagen y cuánto del término que la imagen reemplaza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v8",
+      "statement": "Una crónica de otro país usa también la imagen del \"cliente exigente\" para hablar del calor. ¿Qué efecto tiene esa repetición en dos textos distintos?",
+      "context": "En Ibagué, un grupo compara la imagen de la crónica del texto 2 con la de una crónica de otro país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repite un error de estilo, porque ninguna crónica debería usar imágenes del mundo comercial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay error en tomar un campo del comercio, y la repetición responde a la finalidad de cada texto."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la imagen en un lugar común que ya no significa nada para ningún lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no borra el significado, porque en cada texto la imagen recibe una connotación propia según el contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que la crónica del texto 2 copió la imagen, sin ninguna diferencia en el uso que hace de ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en los dos textos demuestra una copia, y además la imagen cumple una función distinta en cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "La imagen toma un nuevo valor en cada texto, porque el contexto y la época le dan una connotación propia.",
+          "is_correct": true,
+          "feedback": "Correcto. Analizar esa variación es lectura intertextual, porque supone comparar el sentido que la imagen adquiere en dos discursos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una imagen no tiene un significado fijo, ya que su valor depende del contexto, de la época y de aquello con lo que el texto la compara. Por eso la misma metáfora puede ser cotidiana en un texto y provocadora en otro. Reconocer esa variación fortalece la lectura crítica, porque impide repetir con seguridad las imágenes de un texto sin examinarlas otra vez.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v9",
+      "statement": "Un párrafo dice: \"La ciudad es un jardín cuidado y, al mismo tiempo, una selva espesa donde nadie se orienta\". ¿Qué problema producen esas dos imágenes juntas?",
+      "context": "En Popayán, un lector sigue las imágenes de un párrafo y nota que el sentido se vuelve contradictorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos imágenes compiten entre sí y el lector no puede decidir cuál organiza el sentido del párrafo.",
+          "is_correct": true,
+          "feedback": "Correcto. El jardín y la selva sugieren situaciones opuestas, y el texto debería desarrollar una u otra para fijar el sentido."
+        },
+        {
+          "letter": "B",
+          "text": "El párrafo es correcto, porque menciona dos aspectos distintos de la vida urbana sin contradecirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos imágenes se oponen, y el texto no ofrece ninguna relación que permita sostener ambas al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "El problema es solamente gramatical, porque en una oración no puede aparecer más de una imagen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un enunciado admite varias imágenes, y lo que falla aquí es la relación entre ellas y no la gramática."
+        },
+        {
+          "letter": "D",
+          "text": "El párrafo falla porque las imágenes son antiguas y no encajan con una ciudad contemporánea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vigencia de las imágenes no es el problema, y ambas siguen siendo válidas para hablar de una ciudad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las imágenes de un texto deben empujar en la misma dirección para que el párrafo tenga un sentido estable. Cuando dos metáforas se contradicen sin que el autor las relacione, el lector queda suspendido entre interpretaciones incompatibles. Detectar ese conflicto es una habilidad de análisis y también una regla práctica de escritura para revisar la propia prosa antes de entregarla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v10",
+      "statement": "Un texto divulgativo usa la metáfora \"el agua es el líquido vital del ecosistema\" para explicar la función del agua. ¿Qué juicio es el más adecuado sobre ese uso?",
+      "context": "En Montería, un comité revisa un texto divulgativo que usa una imagen para explicar el papel del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inadecuado, porque en un texto científico toda frase debe ser literal y sin imágenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos divulgativos aceptan imágenes si no alteran el contenido, y aquí la imagen refuerza la idea del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuado como apoyo, siempre que la explicación literal aparezca y la imagen no contradiga los datos.",
+          "is_correct": true,
+          "feedback": "Correcto. El criterio combina utilidad didáctica y fidelidad al contenido, y evita tanto la prohibición de imágenes como su uso distorsionador."
+        },
+        {
+          "letter": "C",
+          "text": "Es inadecuado, porque comparar el agua con un fluido corporal impide entender el fenómeno explicado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen acerca el concepto a algo conocido y, bien explicada, facilita la comprensión del fenómeno."
+        },
+        {
+          "letter": "D",
+          "text": "Es adecuado sin condiciones, porque cualquier imagen resulta mejor que una explicación técnica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aceptación de la imagen es condicional, y sin la explicación literal el lector puede quedarse con una idea imprecisa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura crítica de textos divulgativos exige verificar que las imágenes no deformen el contenido que se busca explicar. Una metáfora puede simplificar y hacer memorable una idea, siempre que el texto mantenga la precisión de los datos. Juzgar con ese criterio permite disfrutar del recurso estilístico sin perder de vista la exactitud de la información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante afirma que una metáfora es un error porque mezcla lo real con lo figurado y confunde al lector. ¿Qué evaluación de esa afirmación es la más justa?",
+      "context": "En Bucaramanga, un estudiante defiende ante su grupo la idea de que las metáforas son errores que deben eliminarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque un texto claro nunca necesita imágenes para explicar una idea.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La claridad no se opone a las imágenes, y muchos textos técnicos y periodísticos se apoyan en ellas para ser entendidos."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es parcialmente correcta, porque toda metáfora termina por deformar el contenido original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda metáfora deforma el contenido, y reducir el valor del recurso a un error constante es un juicio exagerado."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incompleta, porque la metáfora amplía el sentido, aunque deforma cuando la imagen no corresponde a los hechos.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta distingue el valor del recurso y su riesgo, y ese matiz es el que permite usarlo con criterio."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta por completo, porque ninguna imagen puede estar de acuerdo con la verdad de un texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay imágenes que corresponden con fidelidad al contenido, y el error aparece solo cuando la transferencia no encaja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un recurso del lenguaje exige distinguir su aporte y su riesgo. La metáfora puede condensar una idea, hacerla memorable y abrir interpretaciones, pero también puede desviar al lector si la imagen no corresponde a lo que el texto explica. Formular ese juicio equilibrado es lo que permite usar el recurso con criterio en lugar de defenderlo o de descartarlo sin examen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle-v12",
+      "statement": "Un párrafo dice: \"La erosión se lleva el suelo de la ladera\". Una versión literal dice: \"La erosión desplaza y transporta el suelo de la ladera cuesta abajo\". ¿Qué juicio es el más sólido para una exposición escolar?",
+      "context": "En Armenia, un docente compara dos versiones del mismo párrafo para preparar una exposición en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión metafórica es mejor, porque suena más elegante y ocupa menos espacio en la diapositiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elegancia no es un criterio suficiente, y en este caso importa la precisión del concepto que se debe explicar."
+        },
+        {
+          "letter": "B",
+          "text": "La versión literal es peor, porque ninguna exposición puede usar imágenes en su primer párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa restricción no existe, y ambas versiones pueden convivir sin dificultad en una misma exposición."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos versiones son equivalentes, porque el sentido de la metáfora y el de la frase literal es el mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son equivalentes, porque la versión literal precisa la acción y la metafórica la sugiere por transferencia."
+        },
+        {
+          "letter": "D",
+          "text": "La versión literal define mejor y la metafórica recuerda mejor, y conviene usarlas juntas en la exposición.",
+          "is_correct": true,
+          "feedback": "Correcto. La evaluación distingue las dos funciones del recurso y propone una combinación que aprovecha los méritos de cada una."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos versiones del mismo contenido permite ver con claridad qué aporta cada una. La frase literal fija el concepto y sirve de base científica; la imagen lo vuelve memorable y facilita la participación del público. Reconocer que las dos funciones son complementarias enseña a construir textos que sean a la vez precisos y vivos, y evita el error de creer que elegir una significa renunciar a la otra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
