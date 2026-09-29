@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:59:58.834Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v1",
+      "statement": "¿Qué distingue a un texto biográfico de un texto autobiográfico?",
+      "context": "En la biblioteca de un colegio de Bogotá, la profesora de noveno grado pide a los estudiantes que distingan una biografía de una autobiografía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en la biografía el relato lo escribe alguien distinto al protagonista, mientras que en la autobiografía lo escribe la propia persona vivida.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en quién narra su propia vida: un tercero o el propio sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la biografía solo habla de personas fallecidas y la autobiografía solo de personas vivas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una persona puede escribir su autobiografía en vida y ser biografiada después."
+        },
+        {
+          "letter": "C",
+          "text": "Que la biografía usa exclusivamente datos y la autobiografía usa exclusivamente emociones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos pueden combinar datos y emociones: la diferencia no es esa."
+        },
+        {
+          "letter": "D",
+          "text": "Que la autobiografía siempre es más larga y más detallada que cualquier biografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión depende del autor y del propósito, no del tipo de texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto biográfico relata la vida de una persona desde fuera, con la voz de un tercero que ordena datos y fechas. El texto autobiográfico parte de la voz del propio sujeto, que relata lo que vivió y lo que recuerda. Reconocer esta diferencia permite valorar cada fuente según lo que puede aportar: la biografía organiza datos verificables y la autobiografía aporta la experiencia y la manera de entenderla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, ¿qué posición ocupa quien narra?",
+      "context": "En el aula de noveno grado de Palmira, los estudiantes leen el Texto 1 y señalan quién habla en cada oración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un testigo externo que solo conoce la vida de Marta por referencias de terceros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quien narra participa en los hechos y los cuenta desde su propia experiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Es un narrador que solo transmite lo que dijeron otros, sin agregar su valoración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador hace su propia afirmación al final y expresa una manera de entender lo vivido."
+        },
+        {
+          "letter": "C",
+          "text": "Es el propio protagonista, que participa en los hechos y los relata desde su experiencia interior.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de «yo» y «me» sitúa al narrador dentro de la historia que cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "Es un narrador objetivo que ordena los hechos sin participar en ellos ni valorarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador participa y además cierra con una valoración personal sobre lo aprendido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el Texto 1, quien narra es el mismo protagonista de la historia: usa la primera persona y añade una interpretación propia sobre lo que aprendió. Esa posición del narrador es lo que convierte el relato en un testimonio, porque no solo informa sobre unos hechos, sino sobre la manera en que los vivió quien los vivió. Identificar la posición del narrador es el paso inicial para valorar cuánto pesa la mirada personal en un relato biográfico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el propósito comunicativo del Texto 1?",
+      "context": "En un taller de lectura de Cali, los estudiantes de noveno se preguntan para qué escribe quien narra su propia vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmitir las reglas de la botánica para que el lector pueda estudiar plantas por su cuenta. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no enseña botánica: cuenta una experiencia de aprendizaje personal."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar un testimonio sobre cómo se aprendió a reconocer el entorno, desde la voz de quien lo vivió.",
+          "is_correct": true,
+          "feedback": "Correcto. El propósito es testimonial: conserva y comparte una experiencia propia de aprendizaje."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrecer un resumen objetivo de todos los químicos del valle del Cauca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen objetivo pertenece al registro de la biografía, no al del testimonio."
+        },
+        {
+          "letter": "D",
+          "text": "Convocar a una expedición científica por la ribera del río para la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no contiene una convocatoria: es un fragmento de carácter personal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El propósito de un texto autobiográfico es dejar constancia de una experiencia vivida y, con ella, de una manera de ver el mundo. El Texto 1 no pretende ser un manual de plantas, aunque nombre muchas: su valor está en mostrar un aprendizaje lento y difícil. Reconocer ese propósito evita exigirle a un texto personal datos que solo corresponden a un registro informativo y permite apreciar lo que aporta de singular.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v4",
+      "statement": "En el Texto 1, ¿qué información aporta la expresión «en 1954»?",
+      "context": "En el aula de noveno grado de Bucaramanga, los estudiantes subrayan las expresiones que sitúan los hechos en el tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitúa el nacimiento de la narradora en un año determinado y permite ordenar el resto de su vida.",
+          "is_correct": true,
+          "feedback": "Correcto. La fecha precisa el momento del hecho y da una referencia para organizar lacronología personal."
+        },
+        {
+          "letter": "B",
+          "text": "Indica la cantidad de personas que vivían en Palmira en ese año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no aporta un dato demográfico: solo fija una fecha."
+        },
+        {
+          "letter": "C",
+          "text": "Señala la duración del trabajo de campo que hizo la narradora en el cañón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las oraciones del texto habla de un trabajo de campo con duración."
+        },
+        {
+          "letter": "D",
+          "text": "Describe el clima del valle del Cauca durante esa década.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla del clima: la expresión cumple una función temporal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las expresiones de tiempo cumplen la función de fijar los hechos en una línea de tiempo y de permitir que el lector los ordene. En un texto autobiográfico son decisivas, porque la memoria personal no siempre ofrece fechas precisas y el lector necesita saber en qué momento ocurrió cada episodio. Reconocer el valor de estas marcas temporales ayuda a evaluar con más rigor la consistencia interna de un relato biográfico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué el Texto 2 comienza con «Marta Elena Quintero (Palmira, 1954)»?",
+      "context": "En un grupo de noveno grado de Tuluá, los estudiantes comparan cómo empieza cada uno de los dos textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en una biografía el autor debe comenzar contando sus propias emociones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quien escribe la biografía es un tercero y no narra sus propias emociones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el nombre del personaje solo puede aparecer al final de una nota biográfica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre suele ir al principio, junto con los datos que identifican a la persona."
+        },
+        {
+          "letter": "C",
+          "text": "Porque esa apertura presenta al personaje y ubica su nacimiento dentro de un registro de datos biográficos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un criterio válido, pero no explica por qué el narradorbiografico lo hace de esa manera."
+        },
+        {
+          "letter": "D",
+          "text": "Porque esa apertura identifica al personaje y da sus datos de nacimiento, como exige el registro biográfico.",
+          "is_correct": true,
+          "feedback": "Correcto. El nombre seguido del lugar y el año es la forma habitual de presentar a un personaje en una nota biográfica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La nota biográfica abre con los datos que identifican a la persona: nombre, lugar y año de nacimiento. Ese bloque inicial es propio de un registro informativo, en el que el lector necesita saber de quién se trata antes de leer su trayectoria. Comparar esa apertura con el comienzo autobiográfico del Texto 1, que narr directamente una experiencia, ayuda a ver cómo cada género organiza su entrada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v6",
+      "statement": "¿A quién conviene señalar como lector principal del Texto 2?",
+      "context": "En un proyecto de aula de Montería, los estudiantes de noveno imaginan quién lee cada uno de los dos textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A quien busca datos sobre la formación y la trayectoria de una científica colombiana.",
+          "is_correct": true,
+          "feedback": "Correcto. La nota reúne datos de formación, especialidad y fechas: encaja con un lector que busca información."
+        },
+        {
+          "letter": "B",
+          "text": "A quien busca recordar su propia infancia y compararla con la de otra persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese lector encuentra su expectativa mejor satisfecha en un texto autobiográfico."
+        },
+        {
+          "letter": "C",
+          "text": "A quien necesita evaluar la cantidad de plantas que existen en el cañón del Cauca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no da cantidades de plantas: informa sobre una trayectoria."
+        },
+        {
+          "letter": "D",
+          "text": "A quien busca instrucciones para realizar un trabajo de campo cerca de un río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos contiene instrucciones de campo: son relatos de una vida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada texto se escribe pensando en un lector concreto. La nota biográfica del Texto 2 ordena datos de formación, especialidad y fechas, de modo que sirve a quien consulta información sobre una científica. El fragmento autobiográfico, en cambio, sirve a quien busca una experiencia y la manera en que alguien la vivio. Definir el lector de cada texto es un criterio práctico para saber cuando conviene consultar una fuente u otra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v7",
+      "statement": "Al leer los dos textos juntos, ¿qué se obtiene que no se obtendría con uno solo?",
+      "context": "En un círculo de lectura de Ibagué, los estudiantes de noveno anotan en una tabla qué aporta cada texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista completa de los nombres de todas las plantas del cañón del Cauca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos entrega esa lista: solo mencionan plantas de manera general."
+        },
+        {
+          "letter": "B",
+          "text": "La certeza de que Marta recibió un premio nacional que los textos no nombran.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos menciona premios: no se puede obtener ese dato."
+        },
+        {
+          "letter": "C",
+          "text": "La posibilidad de contrastar la experiencia vivida con los datos que registran su trayectoria posterior.",
+          "is_correct": true,
+          "feedback": "Correcto. El testimonio aporta la experiencia y la nota biográfica aporta los datos: juntos permiten contrastar."
+        },
+        {
+          "letter": "D",
+          "text": "Un estudio completo sobre la flora del valle del Cauca con mapas y mediciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reunir los dos textos no produce un estudio científico: solo ofrece dos registros distintos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cruzar un testimonio personal con una nota biográfica permite ver la misma vida desde dos angulos: la experiencia y los datos. El testimonio muestra como se vivio cada episode y la nota indica cuando y donde ocurrio la formación y la trayectoria. Ese cruce es el principio del trabajo histórico con fuentes personales y permite detectar tanto lo que un texto confirma como lo que deja por fuera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1 aparecen formas como «nací» y «aprendí», mientras que en el Texto 2 la acción correspondiente se expresa con «es» y «se cuenta con». ¿Qué diferencia gramatical explica esa variación?",
+      "context": "En un taller de lectura de Florencia, los estudiantes de noveno comparan las formas verbales de los dos textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Texto 1 usa tiempos del pasado y el Texto 2 solo presente y futuro, sin relación entre ambos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de tiempos no es lo que explica el cambio: lo decisivo es la persona del verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Que el Texto 1 usa la primera persona y el Texto 2 la tercera, de modo que el mismo hecho se cuenta desde dos posiciones.",
+          "is_correct": true,
+          "feedback": "Correcto. La persona verbal marca si quien narra participa en la historia o la observa desde fuera."
+        },
+        {
+          "letter": "C",
+          "text": "Que en el Texto 1 el verbo siempre acompaña a un sustantivo y en el Texto 2 nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ambos textos el verbo es núcleo del predicado: la diferencia no está en eso."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo el Texto 2 utiliza oraciones compuestas y el Texto 1 oraciones simples.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura de la oración no cambia: lo que cambia es la persona que narra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La persona del verbo indica quien realiza la acción: en el Texto 1 el narrador aparece con las formas de la primera persona y en el Texto 2 la narración se hace con la tercera. Esa es la marca gramatical del cambio de perspectiva. Reconocerla permite explicar con precisión por qué dos textos sobre la misma vida no dicen lo mismo: uno participa en los hechos y el otro los describe desde afuera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v9",
+      "statement": "La frase final del Texto 1, «Yo no había aprendido nada de botánica: había aprendido a reconocer», ¿qué añade al relato?",
+      "context": "En un seminario de noveno grado de Girardota, los estudiantes analizan la frase final del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dato nuevo sobre las plantas del cañón que no aparecía antes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no aporta datos botánicos: interpreta lo ocurrido y le da un sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Una contradicción con lo dicho sobre la formación de la narradora, porque niega lo aprendido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no se contradice: precisa el tipo de aprendizaje que se produjo."
+        },
+        {
+          "letter": "C",
+          "text": "Una interpretación de la narradora que cambia el significado de toda la experiencia descrita.",
+          "is_correct": true,
+          "feedback": "Correcto. La oposición entre no saber y saber reconocer reinterpreta los hechos ya narrados."
+        },
+        {
+          "letter": "D",
+          "text": "Un comentario sobre la profesión de la narradora que anticipa los datos del Texto 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no anticipa datos: es una valoración sobre la propia experiencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La última oración del testimonio no cierra con un hecho, sino con una lectura personal de lo vivido. La oposición entre las dos frases finales reformula toda la experiencia relatada: el valor no estaba en los datos de la ciencia, sino en la atención que la narradora demostro hacia su entorno. Ese gesto de interpretación es propio de la voz en primera persona y por eso un texto autobiográfico nunca es neutral.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 1, ¿qué función cumplen las formas «yo» y «me»?",
+      "context": "En un aula de noveno grado de Quibdó, los estudiantes de noveno revisan los pronombres del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señalan el sujeto de la enunciación y la construcción en primera persona que sostiene el testimonio.",
+          "is_correct": true,
+          "feedback": "Correcto. Los pronombres de primera persona fijan al yo que narra y al yo que experimenta."
+        },
+        {
+          "letter": "B",
+          "text": "Señalan a la madre y al párroco, porque el texto cambia de referente dentro de la misma oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos referentes aparecen con otros nombres: «yo» y «me» designan siempre a la narradora."
+        },
+        {
+          "letter": "C",
+          "text": "Cumplen la función de conectores entre los dos párrafos del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores enlazan segmentos: aquí esos pronombres identifican al sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituyen a un sustantivo para evitar la repetición dentro de la misma frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay aquí un sustantivo al que reemplazen: son formas propias de la primera persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las formas «yo» y «me» son pronombres de primera persona y cumplen dos funciones distintas: la primera identifica al sujeto de la enunciación y la segunda marca alietf experiencing. Reconocerlas permite ver que la narración en primera persona no es un adorno, sino una decisión gramatical que define la posición del narrador y, con ella, el carácter del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v11",
+      "statement": "Un grupo necesita confirmar la fecha en que Marta Elena Quintero nació y usar esa fecha en un informe. ¿Cuál de los dos textos es la fuente más adecuada y por qué?",
+      "context": "En un trabajo de investigación de noveno grado en Bogotá, el grupo debe citar una fuente para fechar un hecho de la vida de Marta Elena Quintero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1, porque quien relata su propia vida conoce sus hechos mejor que nadie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El testimonio es valioso por la experiencia, pero la memoria personal no garantiza precisión en las fechas."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1, porque los cuadernos y los objetos que menciona sirven como pruebas fechada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuaderno aparece en el relato, pero el texto no ofrece una fecha que lo certifique."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 2, porque presenta el dato de nacimiento con el formato de referencia que exige un registro de datos.",
+          "is_correct": true,
+          "feedback": "Correcto. La nota biográfica ubica el nacimiento en el lugar y el año dentro de un registro verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos, porque solo un archivo oficial con sello puede confirmar un nacimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota biográfica aporta un dato verificable y es el punto de partida razonable para confirmarlo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una fuente significa preguntar qué puede demostrar cada una. Para una fecha, la nota biográfica es más adecuada porque presenta el dato con el formato de referencia y puede contrastarse con un registro civil. El testimonio personal, en cambio, aporta algo que no se obtiene de un dato: la manera en que la persona vivio y entendio su propia historia. Usar cada fuente para lo que mejor sostiene es la base de un trabajo serio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v12",
+      "statement": "Un investigador quiere reconstruir la infancia de Marta Elena Quintero. ¿Cuál es el uso más riguroso de los dos textos?",
+      "context": "En un seminario de noveno grado en Manizales, los estudiantes debaten cómo reconstruir los primeros años de una científica a partir de fuentes personales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomar el Texto 1 como descripción neutral de los hechos, porque los nombres de plantas son datos objetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres de plantas son verificables, pero el relato sigue siendo la interpretación de quien lo vivió."
+        },
+        {
+          "letter": "B",
+          "text": "Usar ambos textos en conjunto: el testimonio para comprender la experiencia y la nota biográfica para situarla en el tiempo.",
+          "is_correct": true,
+          "feedback": "Correcto. El cruce de fuentes aporta la experiencia y el contexto temporal, que ningún texto ofrece por separado."
+        },
+        {
+          "letter": "C",
+          "text": "Usar solo el Texto 2, porque la biografía incluye datos y por eso evita cualquier subjetividad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota también es una construcción: elige qué datos destacar y cómo interpretarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Usar solo el Texto 1, porque la primera persona garantiza la verdad de lo que se relata.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona no garantiza exactitud: garantiza cercanía y participación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El uso riguroso de fuentes consiste en asignar a cada una la función que mejor cumple. El testimonio personal revela la experiencia, la sensibilidad y las motivaciones; la nota biográfica ubica esos mismos hechos en el tiempo y en la trayectoria. La nota también es una construcción y por eso ningun texto debe usarse solo. Combinar ambos, contrastando lo que confirman y lo que discrepan, es lo que hace un trabajo de investigación riguroso.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
