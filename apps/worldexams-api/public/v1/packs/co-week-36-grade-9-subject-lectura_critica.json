@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-36-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T13:20:49.120Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v1",
+      "statement": "¿Desde qué lugar físico observa Julián la escena que se cuenta en el Texto 1?",
+      "context": "Varios estudiantes de noveno grado del colegio de La Candelaria leen el relato y se preguntan desde qué lugar se construye toda la descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desde el segundo piso de la casa de doña Rosa",
+          "is_correct": true,
+          "feedback": "Es correcta porque el relato abre con esa ubicación y desde ahí se describen el tubo, el tropiezo y el ruido de la calle."
+        },
+        {
+          "letter": "B",
+          "text": "Desde el interior de la panadería",
+          "is_correct": false,
+          "feedback": "La panadería solo aparece como fuente del olor a aceite; nadie observa la escena desde adentro de ese local en el Texto 1."
+        },
+        {
+          "letter": "C",
+          "text": "Desde la entrada de la plaza, junto a las vendedoras",
+          "is_correct": false,
+          "feedback": "Esa posición corresponde a la señora que vende verduras en la ficha, no a Julián, que estaba instalado en un segundo piso."
+        },
+        {
+          "letter": "D",
+          "text": "Desde el bus que recorre la carreraprincipal",
+          "is_correct": false,
+          "feedback": "El relato no menciona ningún transporte; la única posición descrita es la ventana del segundo piso de la casa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La posición del observador es el primer dato que el lector debe localizar, porque determina todo lo que la narración puede mostrar. En el Texto 1 el relato se construye desde una ventana del segundo piso, y por eso predomina lo que se ve y se oye a distancia. Reconocer esta marca textual evita atribuir al narrador datos que solo pertenecen a otro personaje de la ficha.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v2",
+      "statement": "¿Qué detalle del Texto 1 explica que Julián no pueda contar lo que dijeron los muchachos?",
+      "context": "Un grupo de noveno grado analiza qué detalles del relato impiden ampliar la información sobre lo ocurrido en la plaza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La distancia entre el segundo piso y la plaza",
+          "is_correct": false,
+          "feedback": "La distancia dificulta ver los detalles, pero el texto explica el límite concreto con el ruido de la radio y no con la altura."
+        },
+        {
+          "letter": "B",
+          "text": "El sol que pegaba durísimo sobre los adoquines",
+          "is_correct": false,
+          "feedback": "El calor describe el ambiente de la tarde, pero no es la causa que el relato señala para explicar lo que Julián no oyó."
+        },
+        {
+          "letter": "C",
+          "text": "El volumen alto de la radio del vecino",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto dice que no alcanzó a escucharlos debido al volumen de esa radio."
+        },
+        {
+          "letter": "D",
+          "text": "El olor a aceite de la panadería",
+          "is_correct": false,
+          "feedback": "El olor es un dato sensorial que intensifica la escena, no el obstáculo que impide oír la conversación de los muchachos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los límites del saber del narrador no siempre son geográficos; también son sensoriales. En este relato el agente que corta la información es un ruido doméstico, la radio del vecino. Detectar ese detalle ayuda a los estudiantes a explicar por qué dos testimonios sobre el mismo hecho pueden ser incompatibles sin que ninguno sea falso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v3",
+      "statement": "¿Qué afirmación describe mejor lo que el narrador del Texto 1 sabe y cuenta?",
+      "context": "En el aula se discute si el narrador del Texto 1 sabe más de lo que el texto permite saber.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuenta los hechos completos porque los presenció junto a los muchachos",
+          "is_correct": false,
+          "feedback": "El narrador no estuvo en la plaza, sino quieto en el segundo piso, y el texto no le concede una participación activa."
+        },
+        {
+          "letter": "B",
+          "text": "Cuenta únicamente lo que Julián alcanza a ver y oír desde el balcón",
+          "is_correct": true,
+          "feedback": "Es correcta porque el relato se detiene justo donde termina lo que Julián percibe, sin añadir datos que él no tuvo."
+        },
+        {
+          "letter": "C",
+          "text": "Cuenta lo que le contaron a Julián en la noche, por eso el relato es testimonial",
+          "is_correct": false,
+          "feedback": "El Texto 1 no incluye ninguna conversación posterior ni ningún diálogo, así que esa fuente no existe en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Cuenta lo que vio la señora que vende verduras, porque el narrador conoce la plaza",
+          "is_correct": false,
+          "feedback": "El narrador no toma prestada la mirada de otro personaje; esa descripción pertenece a la ficha, no al relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La narración externa no significa que el narrador lo sepa todo, sino que cuenta desde fuera sin participar en los hechos. Cuando además su saber coincide con el de un personaje, la focalización es cero, como ocurre aquí con Julián. Esta distinción es la base para leer después la ficha de observación sin suponer que una versión es la definitiva.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v4",
+      "statement": "El artículo del periódico escolar dice: \"Los muchachos discutieron por el tubo de cartón durante diez minutos\". ¿Cuál reescritura convierte ese enunciado en un texto con focalización interna?",
+      "context": "El equipo del periódico escolar tiene una versión neutra de la pelea y necesita darle un punto de vista propio sin inventar datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los muchachos discutieron por el tubo de cartón durante diez minutos\"",
+          "is_correct": false,
+          "feedback": "Esta versión repite el enunciado original, que sigue siendo una descripción externa de las acciones de los personajes."
+        },
+        {
+          "letter": "B",
+          "text": "\"Según el cuaderno de notas del barrio, hubo una discusión junto a la panadería\"",
+          "is_correct": false,
+          "feedback": "Atribuir el dato a un documento externo aumenta la distancia del narrador, así que refuerza la narración externa."
+        },
+        {
+          "letter": "C",
+          "text": "\"Una riña ocurrió en la plaza y fue vista por varios vecinos del sector\"",
+          "is_correct": false,
+          "feedback": "La frase generaliza y no entra en ninguna conciencia, por lo que mantiene la narración externa y documentada."
+        },
+        {
+          "letter": "D",
+          "text": "\"Julián vio a los muchachos empujarse por el tubo y sintió una rabia que no le dijo a nadie\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque la segunda parte entrega el estado interior de Julián y con ella el relato pasa a la focalización interna."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Pasar de narración externa a narración interna exige introducir la percepción o el estado interior de un personaje. En la opción correcta, el verbo ver mantiene la mirada y el verbo sentir instala la intimidad del personaje. El ejercicio enseña que cambiar de focalización es una decisión de escritura y no un simple cambio de sinónimos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v5",
+      "statement": "Un medio local publica: \"En la plaza de La Candelaria los muchachos destruyeron el cartón\", apoyándose únicamente en el testimonio del panadero. ¿Qué falla en esa nota desde el punto de vista pragmático?",
+      "context": "Un medio local de Bogotá prepara una nota breve sobre lo ocurrido en la plaza de La Candelaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta como hecho total y objetivo lo que es la lectura de un solo testigo, y silencia los límites de su mirada",
+          "is_correct": true,
+          "feedback": "Es correcta porque el panadero levantó la vista tarde y no vio las caras, así que su versión no puede sostenerse como verdad completa."
+        },
+        {
+          "letter": "B",
+          "text": "Usa el pasado, que es el tiempo verbal obligatorio en el periodismo escrito",
+          "is_correct": false,
+          "feedback": "El uso del pasado es una decisión correcta de estilo periodístico y no constituye ningún problema en la nota."
+        },
+        {
+          "letter": "C",
+          "text": "No incluye fotografías, cuando toda nota informativa debería llegar con imagen",
+          "is_correct": false,
+          "feedback": "La ausencia de imágenes es una cuestión de formato del medio, no un fallo de coherencia entre la fuente y lo afirmado."
+        },
+        {
+          "letter": "D",
+          "text": "Nombra la plaza, y nombrar el lugar donde ocurrió un hecho es un requisito de la nota",
+          "is_correct": false,
+          "feedback": "Nombrar el lugar cumple una función informativa correcta; el problema de la nota está en cómo se presenta el testimonio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la comunicación periodística, presentar un testimonio parcial como hecho consumado es un problema de uso, no de estilo. El lector recibe una afirmación rotunda y no tiene forma de saber que detrás hay una sola mirada. Reconocer este desfase entre lo que la fuente vio y lo que el texto afirma es una habilidad central de lectura crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v6",
+      "statement": "Al comparar el Texto 1 con la fila de Julián en el Texto 2, ¿qué observación se sostiene mejor?",
+      "context": "El profesor pide a los estudiantes que crucen el relato con la ficha de observación antes de escribir la nota final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos son idénticos, porque la ficha es una copia literal del relato",
+          "is_correct": false,
+          "feedback": "La ficha ordena los testimonios en tabla y usa un lenguaje distinto, así que no es una transcripción del Texto 1."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos coinciden en el lugar y en la hora, y la ficha agrega que él no oyó la discusión, un límite que el relato deja en segundo plano",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ficha explicita ese límite del saber y el relato solo lo insinúa con la mención de la radio."
+        },
+        {
+          "letter": "C",
+          "text": "La ficha contradice al relato, porque en la ficha el tubo nunca llegó a caerse",
+          "is_correct": false,
+          "feedback": "No hay contradicción: el relato y la ficha concuerdan en que el tubo terminó en el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "La ficha cuenta el mismo hecho desde el punto de vista de doña Rosa",
+          "is_correct": false,
+          "feedback": "La segunda fila pertenece a doña Rosa; la primera, que corresponde a Julián, describe la mirada del balcón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Poner dos textos en contacto permite ver cómo una misma verdad se ordena en formatos distintos. La ficha hace explícito lo que el relato deja disperso, a saber, que el ruido impidió oír la discusión. Esta comparación enseña que un resumen tabular y un relato pueden ser compatibles y, a la vez, portar distinto nivel de detalle.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué el narrador elige el olor a aceite y el grito de la vendedora como el centro de la atención, en lugar de contar lo que dijeron los muchachos?",
+      "context": "Un grupo analiza la organización sensorial del relato y se pregunta qué deja de lado el narrador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el narrador quiere señalar problemas de salubridad en el barrio de La Candelaria",
+          "is_correct": false,
+          "feedback": "El texto no desarrolla ninguna crítica urbana, y el olor aparece como intensificador de la escena, no como tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el narrador considera que el olor y el grito son más importantes que las palabras",
+          "is_correct": false,
+          "feedback": "Atribuir esa jerarquía a una valoración personal desvía el análisis, porque la selección proviene del punto de vista."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la focalización selecciona lo que Julián percibe con sus sentidos desde el balcón y deja fuera lo que exige estar dentro de la escena",
+          "is_correct": true,
+          "feedback": "Es correcta porque la narración organiza el mundo a partir de los sentidos del personaje y no de los hechos interiores de los otros."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el texto quiere que el lector recuerde el mercado del barrio para otras actividades",
+          "is_correct": false,
+          "feedback": "No hay ninguna intención de uso posterior; la elección responde a lo que Julián alcanza a captar desde donde está."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La focalización no es un adorno: es el criterio con el que se organiza la materia del relato. Al elegir sonidos y olores, el narrador construye el mundo de Julián y deja en la sombra lo que ocurre lejos de su alcance sensorial. Analizar qué se privilegia y qué se descarta permite explicar la forma del texto sin recurrir a datos externos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v8",
+      "statement": "En la oración \"No alcanzó a escucharlos, porque la radio del vecino estaba muy alta\", ¿qué elemento marca el límite del saber del narrador?",
+      "context": "Los estudiantes de noveno grado revisan la oración que explica el punto ciego del narrador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La subordinada causal \"porque la radio del vecino estaba muy alta\", que explica por qué el relato no puede avanzar más allá de lo visto",
+          "is_correct": true,
+          "feedback": "Es correcta porque la proposición causal justifica la ausencia de la conversación en la narración."
+        },
+        {
+          "letter": "B",
+          "text": "El verbo alcanzar, que indica que el evento sí ocurrió aunque no se haya oído",
+          "is_correct": false,
+          "feedback": "El verbo expresa la falta de percepción, no la existencia del hecho, y por sí solo no explica el corte informativo."
+        },
+        {
+          "letter": "C",
+          "text": "El pronombre los, que se refiere a la radio del vecino",
+          "is_correct": false,
+          "feedback": "Ese pronombre se refiere a los muchachos, y en todo caso un pronombre no señala un obstáculo en el audio."
+        },
+        {
+          "letter": "D",
+          "text": "La conjunción mientras, que aparece más adelante en el Texto 1",
+          "is_correct": false,
+          "feedback": "La conjunción mientras introduce una simultaneidad y no forma parte de la oración analizada, por lo que no puede ser la respuesta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La subordinada causal es la pieza que convierte una percepción en un límite explícito de lo narrable. Reconocerla ayuda a los estudiantes a ver que el narrador no calla por descuido, sino porque el texto le da una razón. Ese mismo mecanismo se repite en otros relatos y es una herramienta útil para el análisis de estructuras narrativas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v9",
+      "statement": "La ficha indica que la señora que vende verduras vio las caras de los muchachos pero no oyó lo que decían. ¿Qué combinación con el Texto 1 permite reconstruir mejor el hecho?",
+      "context": "La ficha muestra que cada testigo combina una observación con un punto ciego distinto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase del narrador junto con la hora exacta, porque ambos datos aparecen en el mismo relato",
+          "is_correct": false,
+          "feedback": "La hora ya está en el relato y no aporta nada sobre las caras ni sobre la reacción física de los muchachos."
+        },
+        {
+          "letter": "B",
+          "text": "La observación visual de la vendedora junto con la reacción física que Julián vio desde el balcón",
+          "is_correct": true,
+          "feedback": "Es correcta porque los dos datos son complementarios y proceden de lugares y sentidos distintos."
+        },
+        {
+          "letter": "C",
+          "text": "La fila del panadero junto con el olor a aceite de la panadería",
+          "is_correct": false,
+          "feedback": "El panadero vio el cartón en el suelo y el olor es un dato sensorial, de modo que ninguno cubre lo que la vendedora ignoró."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar común de los testimonios, porque todos describieron la misma plaza",
+          "is_correct": false,
+          "feedback": "La coincidencia de lugar explica el contexto, pero no reconstruye lo que ocurre en la escena concreta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ningún testimonio cubre la totalidad del hecho, y esa es justamente la utilidad de la ficha: cada fila tiene un alcance y un punto ciego. Combinar la mirada visual de la vendedora con la reacción física vista por Julián produce un relato más completo que cualquiera de los dos por separado. Esta lógica de complementariedad es la base de la verificación de fuentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v10",
+      "statement": "Un medio digital afirma: \"Publicamos la única versión verdadera de lo ocurrido en La Candelaria el jueves\". ¿Cuál es el problema de fondo de esa afirmación?",
+      "context": "Un medio digital publica una nota en la que afirma tener la versión definitiva de un hecho local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque la verdad de un hecho no cambia según quien lo narre",
+          "is_correct": false,
+          "feedback": "La ficha demuestra lo contrario: cuatro testigos, cuatro versiones distintas y ninguna imposible."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta solo por un asunto de estilo, porque un medio debe escribir siempre en pasado",
+          "is_correct": false,
+          "feedback": "El problema no es el tiempo verbal, sino la pretensión de agotar la verdad con una sola fuente."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte en absoluta una verdad que depende del lugar desde donde se observa y borra la existencia de los demás testigos",
+          "is_correct": true,
+          "feedback": "Es correcta porque ninguna mirada agota el hecho, así que la afirmación borra a tres de los cuatro testimonios recogidos."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta porque en la plaza no ocurrió ningún hecho que pudiera narrarse",
+          "is_correct": false,
+          "feedback": "El relato y la ficha dan fe de un hecho ocurrido; lo que se discute es su reconstrucción, no su existencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pretender la versión única es un gesto de autoridad que la evidencia del caso no sostiene. Cuando cuatro testigos aportan cuatro alcances distintos, la conclusión honesta es que el hecho se conoce de manera parcial y complementaria. Evaluar este tipo de afirmaciones ayuda a los estudiantes a sostener mejor su criterio propio frente a los medios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v11",
+      "statement": "Si el Texto 1 se reescribiera con focalización interna, siguiendo solo lo que Julián piensa y siente, ¿qué se ganaría y qué se perdería?",
+      "context": "Un taller de escritura propone reescribir el Texto 1 con focalización interna y pide justificar la decisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se ganaría en precisión sobre lo que dijeron los muchachos y no se perdería nada",
+          "is_correct": false,
+          "feedback": "La focalización interna no restituye lo que el personaje no oyó, así que esa precisión adicional es imposible."
+        },
+        {
+          "letter": "B",
+          "text": "Se perdería la cercanía emocional y se ganaría en objetividad total",
+          "is_correct": false,
+          "feedback": "Una narración interna no gana objetividad; al contrario, se cierra sobre la experiencia del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "No cambiaría nada, porque la focalización depende solo del tiempo verbal",
+          "is_correct": false,
+          "feedback": "La elección de la acción y de la percepción depende de la posición del narrador y no de la conjugación del verbo."
+        },
+        {
+          "letter": "D",
+          "text": "Se ganaría en cercanía emocional y se perdería la distancia crítica que permite ver los límites de la mirada de Julián",
+          "is_correct": true,
+          "feedback": "Es correcta porque la focalización interna da acceso a la intimidad del personaje y, en cambio, oculta todo lo que él no alcanza a saber."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un cambio de focalización exige pesar dos beneficios distintos: la identificación con el personaje y el alcance de la información. La narración externa ofrece distancia y permite ver el borde del saber; la interna ofrece intimidad y lo occulta. Ninguna de las dos es superior, y la elección depende de lo que el texto busque que experimente el lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle-v12",
+      "statement": "En el Texto 1, el narrador no participa en los hechos y su saber coincide con el de Julián. ¿Qué consecuencia tiene esa coincidencia sobre lo que el texto puede afirmar?",
+      "context": "El grupo analiza la voz del narrador y el alcance de lo que le es permitido afirmar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador y Julián son la misma persona, porque el texto nunca indica quién narra",
+          "is_correct": false,
+          "feedback": "El relato mantiene al narrador fuera de la acción y con un saber limitado, así que no hay identidad entre ambos."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador solo puede afirmar lo que Julián percibe, de modo que el alcance del relato queda restringido a lo visto desde el balcón",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa coincidencia de saberes limita el campo de lo narrado a la experiencia del personaje."
+        },
+        {
+          "letter": "C",
+          "text": "El narrador puede afirmar todo lo ocurrido en el barrio, porque conoce a Julián desde hace años",
+          "is_correct": false,
+          "feedback": "La cercanía entre narrador y personaje no amplía el saber del narrador, que en este texto es estrictamente perceptivo."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador no puede nombrar el barrio, porque solo alcanza a ver el interior de la casa",
+          "is_correct": false,
+          "feedback": "El texto nombra el barrio varias veces, y la restricción del saber se refiere a los hechos, no a la posibilidad de nombrar el espacio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el saber del narrador y el del personaje coinciden, la narración se mueve dentro de un campo cerrado: todo lo que el texto afirma está en el rango de lo percibido. Esa coincidencia explica el silencio sobre la discusión y también da valor a los datos que el relato sí entrega. Comprenderlo permite escribir con una focalización explícita y asumida como decisión consciente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W36-la-focalizacion-y-los-puntos-de-vista-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
