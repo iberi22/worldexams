@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-37-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T01:41:32.174Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa la búsqueda de identidad en una obra literaria?",
+      "context": "En el taller de lectura de Quibdó, una estudiante busca en el diccionario la expresión \"búsqueda de identidad\" antes de explicar un cuento que lee el curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La copia fiel de la biografía del autor en la página de datos del libro.",
+          "is_correct": false,
+          "feedback": "La biografía es un dato paratextual, no el asunto narrativo que la obra construye sobre su personaje."
+        },
+        {
+          "letter": "B",
+          "text": "El proceso por el cual un texto construye, mediante experiencias y decisiones narrativas, la manera en que un personaje se reconoce a sí mismo.",
+          "is_correct": true,
+          "feedback": "La definición señala los dos movimientos del proceso: lo que el personaje vive y lo que el texto hace con esa vida."
+        },
+        {
+          "letter": "C",
+          "text": "El inventario de los personajes que aparecen con nombre propio en cada capítulo del libro.",
+          "is_correct": false,
+          "feedback": "Contar personajes con nombre no dice nada sobre cómo cada uno llega a reconocerse o a construirse."
+        },
+        {
+          "letter": "D",
+          "text": "La discusión entre autores y críticos sobre cuál de las versiones de una obra es la más antigua.",
+          "is_correct": false,
+          "feedback": "Esa discusión es de historia literaria y no corresponde al concepto que se evalúa aquí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En literatura, la búsqueda de identidad describe el trabajo que realiza el texto para mostrar cómo un personaje se reconoce, se diferencia o se transforma. No es un dato biográfico del autor ni un recuento de nombres, sino una construcción discursiva: el lector la descubre en las decisiones narrativas. Reconocer ese carácter construido evita tratar al personaje como una persona real y fija la atención en el procedimiento del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v2",
+      "statement": "La narradora reproduce la manera de decir su apellido y añade que en su casa nadie lo pronunciaba así. ¿Qué efecto produce esa repetición dentro del fragmento?",
+      "context": "En una clase de Cali, la profesora lee en voz alta el primer párrafo de un cuento infantil donde la narradora repite la forma en que un vecino pronuncia su apellido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pone en evidencia que la identidad de la narradora se construye también por el contraste entre cómo la nombran los demás y cómo se nombra ella.",
+          "is_correct": true,
+          "feedback": "El choque entre las dos pronunciaciones convierte la lengua en un marcador de pertenencia dentro del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Indica que el apellido de la narradora está escrito con un error en la edición del libro.",
+          "is_correct": false,
+          "feedback": "La repetición no es una corrección ortográfica: es una escena deliberada con sentido para la narradora."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce el relato a un ejemplo de pronunciación para que los estudiantes lo repitan en clase.",
+          "is_correct": false,
+          "feedback": "Nada en el fragmento pide una repetición en voz alta: la escena pertenece a la historia, no al ejercicio."
+        },
+        {
+          "letter": "D",
+          "text": "Demuestra que la narradora no conoce a las personas que viven en su propio barrio.",
+          "is_correct": false,
+          "feedback": "Conocer al vecino no es el punto: lo relevante es cómo la lengua usada por otro participa en su identidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los detalles de lengua funcionan dentro de una narración como marcadores de identidad. Al repetir la pronunciación ajena, el fragmento vuelve visible una diferencia entre la manera de hablar de la familia y la manera de hablar del barrio. Ese contraste enseña que la lengua no es un adorno del relato, sino un procedimiento con el que el texto construye la posición de quien narra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v3",
+      "statement": "El fragmento enumera frutas, arepas y toldos de colores, y añade que así era cuando la narradora iba con su abuela. ¿Qué efecto comunicativo busca ese detalle?",
+      "context": "En Pasto, la profesora lee en voz alta un fragmento de un cuento en el que la narradora describe el mercado de su barrio y recuerda que iba con su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entregar un informe sobre los precios de los alimentos en los mercados de la región.",
+          "is_correct": false,
+          "feedback": "El fragmento no presenta ni una sola cifra: su propósito no es informar sobre costos."
+        },
+        {
+          "letter": "B",
+          "text": "Probar que el mercado descrito ya no existe y que, por eso, el texto nada puede aportar hoy.",
+          "is_correct": false,
+          "feedback": "El texto conserva una memoria del lugar: esa función sigue vigente aunque el mercado haya cambiado."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer que el lector imagine un lugar concreto y lo vincule con un recuerdo que el texto preserva.",
+          "is_correct": true,
+          "feedback": "La enumeración de productos y colores cumple la función de situar al lector dentro de la escena evocada."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir la voz de la narradora por una descripción del espacio sin ninguna persona.",
+          "is_correct": false,
+          "feedback": "El fragmento conserva un sujeto que recuerda: la descripción está anclada en una experiencia vivida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito comunicativo de un fragmento se deduce del efecto que producen sus detalles. Cuando la enumeración de frutas, comidas y toldos se acompaña de un recuerdo, el texto busca situar al lector en una escena concreta y activar un vínculo con la vida del narrador. Analizar esa intención permite distinguir la descripción con función expresiva de la que solo acumula información.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v4",
+      "statement": "Salma afirma en el primer párrafo que es callada y no le gusta hablar en público; en el segundo, un compañero cuenta que ella organizaba todas las actividades del curso. ¿Qué relación se establece entre los dos párrafos?",
+      "context": "En Bogotá, un grupo de séptimo grado trabaja un cuento y anota en dos columnas lo que dice la protagonista sobre sí misma y lo que dicen de ella sus compañeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una contradicción que invalida por completo el testimonio del compañero.",
+          "is_correct": false,
+          "feedback": "La tensión entre las dos voces es el material del análisis, no un defecto que obligue a descartar un párrafo."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción de la personalidad de Salma que no admite lecturas distintas.",
+          "is_correct": false,
+          "feedback": "El texto ofrece dos imágenes enfrentadas: por eso sí admite más de una lectura y varios modos de interpretarla."
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio de tiempo verbal dentro de una misma escena narrada.",
+          "is_correct": false,
+          "feedback": "Lo que cambia entre los párrafos no son los tiempos verbales sino la posición desde la que se habla de Salma."
+        },
+        {
+          "letter": "D",
+          "text": "Un contraste entre la imagen que la personaje tiene de sí misma y la imagen que construyen los demás.",
+          "is_correct": true,
+          "feedback": "La oposición entre lo que Salma dice de sí y lo que su entorno dice de ella es el eje del fragmento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos párrafos que hablan del mismo personaje permite pasar de la lectura literal a la lectura discursiva. En este caso, la distancia entre la autodescripción y la mirada de los demás muestra que la identidad no es un dato fijo, sino el resultado de un encuentro entre lo que alguien cree de sí y lo que otros le devuelven. Analizar esa distancia enseña a sostener dos versiones sin declarar que una es verdadera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple esa imaginación dentro del relato?",
+      "context": "En un taller de escritura de Ibagué, un estudiante lee un fragmento en el que un personaje imagina que vive en otra ciudad, aunque el narrador aclara que esa vida nunca ocurrió.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite explorar una posibilidad de vida que el personaje no alcanza a vivir.",
+          "is_correct": true,
+          "feedback": "La imaginación de una vida posible es exactamente el procedimiento que la novela utiliza aquí."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el relato en un documento histórico sobre la ciudad que el personaje sueña.",
+          "is_correct": false,
+          "feedback": "El narrador aclara que la vida imaginada no ocurrió, de modo que el relato no pretende documentar hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye la narración por la descripción objetiva de un barrio que existe de verdad.",
+          "is_correct": false,
+          "feedback": "La escena no describe un lugar comprobable: pertenece al mundo posible que el personaje construye."
+        },
+        {
+          "letter": "D",
+          "text": "Refuerza la idea de que la identidad queda fijada antes de que el personaje pueda decidir por sí mismo.",
+          "is_correct": false,
+          "feedback": "La imaginación abre posibilidades y no las cierra: el relato no presenta la identidad como algo recibido sin más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La literatura ofrece un laboratorio de posibilidades: un texto puede situar a un personaje frente a una vida que no alcanza a vivir, y esa experiencia forma parte de su construcción. El narrador incluso marca la frontera entre lo imaginado y lo vivido, de modo que la imaginación del personaje aparece como un procedimiento narrativo con valor propio dentro de la obra, y no como un simple error de la historia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v6",
+      "statement": "Las dos versiones coinciden en los hechos, pero la niña destaca los olores y las voces y la abuela destaca las fechas y el dinero. ¿Qué revela esa diferencia?",
+      "context": "En una feria escolar de Montería, un grupo presenta dos versiones del mismo recuerdo familiar: una narrada por una niña de ocho años y otra por su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que una de las dos versiones es falsa y la otra verdadera.",
+          "is_correct": false,
+          "feedback": "El desacuerdo se produce en el detalle, no en el hecho: eso no permite descalificar ningún testimonio."
+        },
+        {
+          "letter": "B",
+          "text": "Que el recuerdo de la niña no sirve para el trabajo de lectura crítica del colegio.",
+          "is_correct": false,
+          "feedback": "Un recuerdo infantil sigue siendo un testimonio valuable y puede analizarse con la misma seriedad que otro."
+        },
+        {
+          "letter": "C",
+          "text": "Que el mismo hecho se construye de manera distinta según quién narra y desde qué edad se recuerda.",
+          "is_correct": true,
+          "feedback": "La diferencia de enfoque muestra que el relato de una memoria depende del sujeto que la cuenta y del momento en que la cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "Que los detalles concretos estorban y que bastaría con contar los hechos sin añadidos.",
+          "is_correct": false,
+          "feedback": "Los detalles son justamente la evidencia de la mirada de cada narrador y por eso no sobran."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Poner dos versiones de una misma memoria en contacto es un ejercicio de lectura intertextual, porque obliga a preguntar qué cambia y qué se conserva. Aquí los hechos permanecen y lo que se modifica es el tipo de detalle que cada narradora considera importante. Ese desplazamiento revela que la memoria se construye, y permite evaluar las dos versiones sin tratar una como simple copia degradada de la otra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto produce ese cambio de persona sobre la construcción del sentido de pertenencia?",
+      "context": "En un proyecto de lectura de Arauca, dos estudiantes analizan un fragmento en el que la narradora alterna el plural \"nosotros\" con el singular \"yo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contradice la veracidad del relato, porque quien narra no puede cambiar de persona grammática.",
+          "is_correct": false,
+          "feedback": "El cambio de persona es un recurso legítimo de la narración y no invalida lo que el texto cuenta."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que la pertenencia se afirma en lo colectivo y se tambalea en lo individual.",
+          "is_correct": true,
+          "feedback": "El plural sostiene la pertenencia y el singular la pone a prueba: ese vaivén es el efecto buscado."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina todo conflicto entre el grupo y la persona que narra.",
+          "is_correct": false,
+          "feedback": "Si eliminara el conflicto, el recurso no sería necesario: el fragmento justamente lo mantiene abierto."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la narración en una descripción de lugares y deja de falar de personas.",
+          "is_correct": false,
+          "feedback": "El cambio de persona no desplaza el foco hacia el escenario: sigue hablando de la posición de quien narra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elección de la persona gramatical organiza la posición de quien habla dentro del texto. Pasar del plural al singular hace visible una relación difícil: la persona se siente parte de un grupo y, al mismo tiempo, experimenta su propio lugar en él. Analizar ese movimiento con herramientas de sintaxis permite explicar desde el lenguaje cómo un relato construye la sensación de pertenencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v8",
+      "statement": "La narradora menciona el patio, el olor del carbón y la forma del techo de esa casa. ¿Qué efecto produce esa selección de detalles?",
+      "context": "En Riohacha, un grupo analiza un fragmento en el que una narradora cuenta que se mudó del interior a la costa y describe la casa que dejó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convertir el recuerdo en un inventario de objetos que nada aportan a la historia.",
+          "is_correct": false,
+          "feedback": "Los objetos elegidos no son neutros: sostienen el vínculo emocional con el lugar que se abandonó."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar que la descripción tiene como único fin informar sobre la construcción de las casas.",
+          "is_correct": false,
+          "feedback": "El fragmento no busca datos técnicos: la casa aparece porque significa algo para quien la dejó."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar que la narradora no recuerda con precisión lo ocurrido en la casa que abandonó.",
+          "is_correct": false,
+          "feedback": "Nada en el texto indica falta de memoria: los detalles concretos son un recurso legítimo del recuerdo."
+        },
+        {
+          "letter": "D",
+          "text": "Anclar el vínculo con el lugar en imágenes concretas que el lector puede reconstruir.",
+          "is_correct": true,
+          "feedback": "El patio, el carbón y el techo ofrecen puntos de apoyo para que el lector imagine ese espacio y lo valore."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto construye el sentido de pertenencia a un lugar mediante imágenes que el lector puede reconstruir. Al elegir el patio, el olor del carbón y la forma del techo, la narradora convierte un espacio lejano en algo tangible, y ese anclaje explica por qué la separación resulta significativa. Trabajar con este tipo de detalles enseña a distinguir la descripción con función expresiva de la enumeración informativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el juicio más responsable sobre ese cuento?",
+      "context": "En la revista escolar de Sincelejo, un grupo publica un cuento donde todos los personajes oriundos de una misma región hablan igual y se comportan de manera idéntica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es problemático, porque usa a los personajes de una región como un tipo fijo en lugar de construirlos como personas.",
+          "is_correct": true,
+          "feedback": "Reducir a un grupo a un solo modelo de comportamiento anula su diversidad y cierra el horizonte del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Es adecuado, porque las personas de una misma región siempre se comportan de la misma manera.",
+          "is_correct": false,
+          "feedback": "Esa generalización no tiene fundamento y confunde una costumbre compartida con un rasgo universal e inevitable."
+        },
+        {
+          "letter": "C",
+          "text": "Es problemático, solo porque el cuento emplea palabras del dialecto regional.",
+          "is_correct": false,
+          "feedback": "El dialecto es un recurso legítimo de registro y no es, por sí mismo, el problema del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Es adecuado, porque su único propósito declarado es entretener a los lectores del colegio.",
+          "is_correct": false,
+          "feedback": "El propósito de entretener no autoriza a borrar a las personas: el criterio de valor no depende solo de la gracia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto que agrupa a todas las personas de un origen en un solo tipo repetitivo convierte la identidad en una etiqueta fija. Justamente este es el riesgo que la lectura crítica debe detectar: no se trata de evitar la variación, sino de mostrar que ninguna identidad equivale a un modelo único. Valorar el cuento con ese criterio protege la dignidad de las comunidades representadas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio permite valorar con rigor la afirmación de que esa historia le hizo sentirse identificada?",
+      "context": "En Popayán, durante la presentación de un taller de lectura, una estudiante afirma que un cuento sobre un niño que se siente fuera de lugar en su propio pueblo la hizo sentirse comprendida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cuántas personas de la clase se sintieron igual al escuchar la presentación.",
+          "is_correct": false,
+          "feedback": "La cantidad de reacciones mide el impacto entre los compañeros, pero no evalúa la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Dar la afirmación por válida, porque cualquier historia puede interpretarse como uno quiera.",
+          "is_correct": false,
+          "feedback": "Si todo valiera, ninguna lectura sería evaluable: se necesita un criterio que conecte la reacción con el texto."
+        },
+        {
+          "letter": "C",
+          "text": "Contrastar la reacción personal con lo que el texto efectivamente construye mediante sus personajes y sus conflictos.",
+          "is_correct": true,
+          "feedback": "Ese contraste permite distinguir una identificación genuina de una proyección que el relato no sustenta."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar la reacción, porque la identificación personal nunca es un dato válido para leer.",
+          "is_correct": false,
+          "feedback": "La experiencia del lector importa, pero se enriquece cuando se contrasta con los elementos verificables del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sentirse identificado con una historia es una reacción legítima y muy frecuente entre lectores jóvenes, pero por sí sola no demuestra que la lectura sea sólida. El criterio riguroso consiste en revisar si el texto ofrece efectivamente personajes, conflictos y situaciones que sostienen esa identificación. Aplicar ese cruce valoriza la experiencia personal sin abandonar el análisis, y evita dos extremos: leer cualquier cosa y desconfiar de toda emoción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W37-la-literatura-y-la-busqueda-de-identidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

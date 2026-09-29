@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-39-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T01:41:32.174Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un dictamen?",
+      "context": "En Duitama, un estudiante de séptimo grado debe responder a una consulta del club de lectura, que le pregunta por escrito si conviene comprar libros nuevos para la biblioteca del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El relato ordenado de un asunto en el que solo se narran los hechos, sin emitir ningún juicio.",
+          "is_correct": false,
+          "feedback": "Narrar sin valorar no produce un dictamen: falta la evaluación que sostiene el texto."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión escrita que evalúa un asunto, se apoya en criterios explícitos y cierra con una recomendación.",
+          "is_correct": true,
+          "feedback": "Reúne las tres notas esenciales: evalúa, fundamenta en criterios y recomienda."
+        },
+        {
+          "letter": "C",
+          "text": "El mensaje informal que una persona envía a otra para contar lo que piensa de un tema.",
+          "is_correct": false,
+          "feedback": "La informalidad y el intercambio entre dos personas distinguen una carta, no un dictamen."
+        },
+        {
+          "letter": "D",
+          "text": "El inventario de los errores de escritura detectados al corregir el texto de otra persona.",
+          "is_correct": false,
+          "feedback": "Un dictamen puede señalar problemas, pero no se limita a listar erratas de otro escrito."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El dictamen es un texto evaluativo con estructura argumental: describe el asunto que se examina, declara los criterios con los que se juzga, expone la evidencia consultada y termina con una conclusión que incluye una recomendación. Esa secuencia permite que otra persona pueda verificar el razonamiento. Comprender sus partes evita confundirlo con una opinión espontánea, que no necesita fundamentarse ni se dirige a nadie en particular.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v2",
+      "statement": "En el dictamen, el autor escribe: \"Por lo tanto, conviene comprar los libros nuevos antes de terminar el semestre\". ¿En qué parte del texto se encuentra esa frase?",
+      "context": "En Medellín, el mismo estudiante relee el dictamen que entregó al club de lectura y busca en qué parte dejó escrita su decisión final.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la descripción del asunto tratado, donde se anuncia qué se iba a evaluar.",
+          "is_correct": false,
+          "feedback": "Abrir el texto con el objeto del informe es correcto, pero ahí no se anuncia la decisión."
+        },
+        {
+          "letter": "B",
+          "text": "En la declaración de criterios, donde se explica con qué se va a juzgar el asunto.",
+          "is_correct": false,
+          "feedback": "Los criterios fijan el punto de vista, pero no expresan la decisión que se adopta al final."
+        },
+        {
+          "letter": "C",
+          "text": "En la descripción de la evidencia examinada, donde se enumeran los textos consultados.",
+          "is_correct": false,
+          "feedback": "Enumerar fuentes es parte del sustento, y no es el lugar donde se resuelve el caso."
+        },
+        {
+          "letter": "D",
+          "text": "En la conclusión y la recomendación, donde el autor indica qué se debe hacer y por qué.",
+          "is_correct": true,
+          "feedback": "La fórmula \"por lo tanto\" cierra el razonamiento y anuncia la acción que se propone."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un dictamen tiene partes que cumplen funciones distintas y localizables. El objeto delimita qué se examina, los criterios fijan el punto de vista, la evidencia muestra en qué se basó el análisis y la conclusión con recomendación resuelve el asunto. Reconocer dónde está cada parte ayuda al lector a saltar a la información que necesita y al escritor a comprobar que no olvidó ninguna.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v3",
+      "statement": "Un estudiante escribe: \"La revista del colegio está horrible y no me gusta nada\". ¿Qué debe hacer para que ese concepto se convierta en un dictamen?",
+      "context": "En Cali, un estudiante del taller de la revista escolar escribe su primera valoración sobre la edición del mes, y la profesora le pide que la convierta en un dictamen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fundar el concepto en criterios explícitos, exponer la evidencia revisada y cerrar con una recomendación.",
+          "is_correct": true,
+          "feedback": "Es el procedimiento completo: nombrar el punto de vista, mostrar el sustento y decidir."
+        },
+        {
+          "letter": "B",
+          "text": "Añadir varios adjetivos para que la opinión resulte más convincente ante los demás.",
+          "is_correct": false,
+          "feedback": "Aumentar la intensidad no crea fundamento: la fuerza del dictamen está en el sustento."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar el texto en la revista sin cambios, porque todos tienen derecho a opinar libremente.",
+          "is_correct": false,
+          "feedback": "La libertad de opinión no exime de fundamentar: publicar así equivale a repetir un juicio personal."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar a toda la clase si está de acuerdo y escribir el resultado de la votación como conclusión.",
+          "is_correct": false,
+          "feedback": "La votación indica gusto, no cumple la función de evaluar con criterios y evidencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un dictamen no es una opinión parecida: la diferencia entre opinar y dictaminar está en el fundamento. Para convertir un juicio espontáneo en un dictamen hay que declarar qué criterios se usan, mostrar qué textos o hechos se examinaron y formular una recomendación que se pueda aceptar o rechazar con razones. Ese trabajo convierte una preferencia personal en un texto con valor de lectura crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v4",
+      "statement": "El revisor anota dos cosas: \"la idea del párrafo tres no aporta nada nuevo al argumento\" y \"en la primera oración faltan comas que separan las ideas\". ¿Qué diferencia hay entre esas dos observaciones?",
+      "context": "En Bogotá, un estudiante recibe el ensayo de un compañero del taller de escritura y debe revisarlo antes de que se publique en el cuaderno del curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera es la única corrección válida, porque la segunda se basa en una preferencia personal.",
+          "is_correct": false,
+          "feedback": "La puntuación no es una preferencia: los signos separan ideas y sostienen la comprensión del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son observaciones de contenido, porque las dos mencionan un párrafo del ensayo.",
+          "is_correct": false,
+          "feedback": "Mencionar el párrafo no convierte todo en contenido: los signos de puntuación pertenecen a la forma."
+        },
+        {
+          "letter": "C",
+          "text": "La primera busca precisión en lo que se dice y la segunda, corrección en cómo se escribe.",
+          "is_correct": true,
+          "feedback": "La distinción entre contenido y forma permite ordenar la revisión del trabajo del autor."
+        },
+        {
+          "letter": "D",
+          "text": "La primera expresa una opinión personal y la segunda, una regla que todos deben cumplir.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos observaciones es un juicio personal: ambas apuntan a un rasgo del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Revisar un texto tiene dos planos que conviene no mezclar. El contenido se refiere a lo que el texto dice: si las ideas se repiten, si la conclusión se sostiene o si falta un argumento. La forma se refiere a cómo está escrito: la puntuación, la claridad de las oraciones y la variedad del vocabulario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v5",
+      "statement": "En el margen del texto, un compañero escribe: \"Aquí puedes hablar de tus propias experiencias\". ¿Cómo se clasifica esa anotación?",
+      "context": "En Quibdó, un taller de lectura pide a los estudiantes que anoten en el margen de la copia de un compañero lo que conviene ajustar antes de entregar el trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una corrección, porque obliga a cambiar el párrafo por uno de tipo testimonial.",
+          "is_correct": false,
+          "feedback": "Una anotación no obliga a nadie: quien escribe decide si incorpora o no ese cambio."
+        },
+        {
+          "letter": "B",
+          "text": "Es una sugerencia, porque propone una posibilidad y deja la decisión en manos del autor.",
+          "is_correct": true,
+          "feedback": "Proponer sin imponer es lo que distingue una sugerencia dentro de una revisión colaborativa."
+        },
+        {
+          "letter": "C",
+          "text": "Es un error de lectura, porque el párrafo ya narraba experiencias del propio autor.",
+          "is_correct": false,
+          "feedback": "La anotación no busca describir el texto: ofrece una vía de mejora para el párrafo siguiente."
+        },
+        {
+          "letter": "D",
+          "text": "Es una corrección de estilo, porque impone el único modo de narrar que sería válido.",
+          "is_correct": false,
+          "feedback": "Un solo modo de narrar no es un ideal: la revisión admite opciones y el autor elige."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dentro de una revisión hay dos tipos de intervención con roles bien distintos. La corrección señala un error que debe cambiar para que el texto cumpla su función. La sugerencia, en cambio, ofrece una alternativa posible y respeta la decisión de quien escribe. Nombrar con precisión cada intervención evita que el revisor imponga su gusto con la apariencia de una observación técnica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v6",
+      "statement": "El primer grupo anota: \"Está muy mal redactado\". El segundo anota: \"En el segundo párrafo, la oración tiene treinta y cuatro palabras; divídela en dos y deja la idea principal al principio\". ¿Por qué la segunda anotación resulta más útil?",
+      "context": "En Bucaramanga, dos grupos de la clase 7-2 revisan por separado el mismo texto escolar sobre la historia de un barrio de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque señala el lugar exacto, describe el problema y propone una acción posible.",
+          "is_correct": true,
+          "feedback": "La anotación es operable: el autor sabe qué cambiar, dónde y con qué criterio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cuenta las palabras de la oración, y el conteo es la única medida válida.",
+          "is_correct": false,
+          "feedback": "Contar ayuda a dimensionar el problema, pero no lo resuelve ni explica qué hacer."
+        },
+        {
+          "letter": "C",
+          "text": "Porque obliga al autor a reescribir el párrafo entero antes de volver a entregarlo.",
+          "is_correct": false,
+          "feedback": "Revisar no es reescribir: la función de la anotación es orientar, no reemplazar el trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque incluye un ejemplo, y un ejemplo siempre tiene más valor que una explicación.",
+          "is_correct": false,
+          "feedback": "El ejemplo ayuda, pero lo decisivo aquí es que la observación sea concreta y verificable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La calidad de una observación depende de su especificidad y de su utilidad. Una anotación que señala dónde está el problema, qué lo produce y qué podría hacerse permite que el autor actúe sin necesitar una segunda ronda de preguntas. En cambio, el juicio global sin localizar el punto exacto obliga al autor a buscar el problema por su cuenta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v7",
+      "statement": "En el dictamen, el autor afirma: \"La evidencia consultada muestra que el texto es confuso en su conjunto\", pero solo menciona que un personaje no tenía nombre. ¿Qué problema tiene ese dictamen?",
+      "context": "En Cartagena, un grupo de estudiantes dictamina sobre un cuento que escribió un compañero de otro salón y lo entrega en el taller de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El problema es ortográfico, porque el dictamen debe repetir todos los nombres de los personajes.",
+          "is_correct": false,
+          "feedback": "Los nombres ya aparecen en el texto: la dificultad está en el salto argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "El problema es de extensión, porque la evidencia citada necesita varias líneas para entenderse.",
+          "is_correct": false,
+          "feedback": "Una evidencia breve es válida si sostiene la conclusión, y aquí el defecto no es su tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "No hay problema, porque cualquier observación basta para sostener una conclusión crítica.",
+          "is_correct": false,
+          "feedback": "La crítica pierde credibilidad si no distingue el detalle observado del juicio general."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión no se desprende de la evidencia: lo observado no alcanza para sostener un juicio general.",
+          "is_correct": true,
+          "feedback": "Un solo detalle no permite afirmar que el conjunto falla: ese salto es una generalización."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto exige que la conclusión tenga el mismo alcance que la evidencia. Si el dictamen observa un solo detalle y de ahí deduce un juicio sobre el conjunto, se está produciendo una generalización sin sustento, el error más frecuente al dictaminar. Revisar la correspondencia entre lo observado y lo concluido es un control de rigor que el lector puede aplicar a cualquier opinión valorativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce esa intervención en la lectura del texto?",
+      "context": "En Pasto, un compañero del taller de escritura reemplaza las oraciones cortas del texto que revisa por otras largas y formales antes de devolverlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mejora el texto, porque toda oración breve es menos precisa que una oración larga.",
+          "is_correct": false,
+          "feedback": "La longitud no garantiza precisión: una oración extensa puede ocultar la idea principal."
+        },
+        {
+          "letter": "B",
+          "text": "No produce ningún efecto, porque el contenido del texto y su forma son planos separados.",
+          "is_correct": false,
+          "feedback": "La forma de la oración comunica un tono que el lector percibe, aunque no cambie el tema."
+        },
+        {
+          "letter": "C",
+          "text": "Debilita la voz del autor, porque uniformar su manera de escribir hace que el texto deje de sonar propio.",
+          "is_correct": true,
+          "feedback": "Cambiar el ritmo y el registro elimina marcas de identidad que el lector usaba para reconocer al autor."
+        },
+        {
+          "letter": "D",
+          "text": "Corrige un vicio de estilo, porque la oralidad es siempre un defecto en un trabajo escrito.",
+          "is_correct": false,
+          "feedback": "La oralidad no es un defecto: aporta cercanía y ritmo, y solo se ajusta si estorba al sentido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La sintaxis del texto comunica tanto como el contenido. Oraciones largas y formales imponen un registro que puede resultar ajeno a quien escribe y borrar el ritmo que sostenía su narración. Una revisión responsable interviene la forma cuando hay un problema, pero evita aplanar el estilo personal del autor, porque ese estilo es parte de lo que el texto comunica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v9",
+      "statement": "Un grupo revisó las propuestas recibidas y su dictamen concluye que ninguna cumple con los criterios acordados en el taller. ¿Qué valor tiene ese resultado?",
+      "context": "En Manizales, el taller de la revista escolar pide a cada grupo que dictamine sobre los temas propuestos por sus compañeros y entregue el resultado por escrito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque un dictamen solo sirve para aprobar algo y nunca para descartarlo.",
+          "is_correct": false,
+          "feedback": "La evaluación negativa también es una evaluación: negarse a responder sería dejar el asunto abierto."
+        },
+        {
+          "letter": "B",
+          "text": "Es valioso, porque sostiene con argumentos la recomendación de rechazar y eso es lectura crítica.",
+          "is_correct": true,
+          "feedback": "Fundamentar un rechazo exige el mismo trabajo que fundamentar una aprobación."
+        },
+        {
+          "letter": "C",
+          "text": "Es nulo, porque un grupo de estudiantes no tiene autoridad para aplicar criterios a sus pares.",
+          "is_correct": false,
+          "feedback": "En el aula los criterios los acuerdan todos: la autoridad no invalida el argumento bien sustentado."
+        },
+        {
+          "letter": "D",
+          "text": "Es valioso, pero solo si el dictamen aparece publicado después de imprimir la revista.",
+          "is_correct": false,
+          "feedback": "La publicación posterior no cambia la calidad del dictamen: el valor está en su fundamento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dictaminar incluye la posibilidad de recomendar que algo no se acepte, y ese camino exige tanto rigor como el afirmativo. Cuando el dictamen negativo declara los criterios, describe la evidencia revisada y explica por qué ninguno la cumple, la decisión deja de ser una preferencia y se vuelve un juicio verificable. Practicar esto en el aula entrena el criterio sin convertir el ejercicio en un castigo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle-v10",
+      "statement": "El dictamen incluye datos y una recomendación clara, pero está redactado con tecnicismos que los vecinos del barrio no comprenden. ¿Qué juicio es más preciso sobre ese texto?",
+      "context": "En Ibagué, un grupo de séptimo grado prepara un dictamen sobre el uso de la plaza del barrio para entregarlo a la junta comunitaria que se reúne los sábados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dictamen cumple su función solo si su lenguaje permite que el destinatario entienda la recomendación.",
+          "is_correct": true,
+          "feedback": "El destinatario es parte de la situación comunicativa: un texto claro es el que puede usarse."
+        },
+        {
+          "letter": "B",
+          "text": "El dictamen cumple su función porque incluye datos, sin importar si alguien alcanza a leerlos.",
+          "is_correct": false,
+          "feedback": "Los datos sostienen el dictamen, pero si nadie los entiende no llegan a cumplir la función."
+        },
+        {
+          "letter": "C",
+          "text": "El dictamen falla porque los tecnicismos son obligatorios en cualquier texto de evaluación.",
+          "is_correct": false,
+          "feedback": "Un texto evaluativo no tiene unaobligación de estilo técnico: su claridad es un requisito."
+        },
+        {
+          "letter": "D",
+          "text": "El dictamen debería reducirse a un solo párrafo, porque lo extenso confunde siempre al lector.",
+          "is_correct": false,
+          "feedback": "La extensión no determina la eficacia: importa que cada parte se entienda y se ordene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un dictamen se escribe para destinatarios concretos, y esa condición forma parte de la lectura crítica del texto. Si el documento se entrega a una junta comunitaria, su recomendación tiene que ser comprensible para quienes tomaron la decisión, y eso exige ajustar el registro sin abandonar el sustento. Evaluar si un texto llega a su destinatario es revisar su eficacia comunicativa, no un detalle de estilo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W39-el-dictamen-y-la-revision-de-textos-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

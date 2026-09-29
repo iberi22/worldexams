@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T01:41:32.173Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una fuente documental?",
+      "context": "En el archivo escolar de Duitama, la profesora entrega a sus estudiantes un sobre con papeles de fechas diferentes para que los examinen sin ayuda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un documento creado con el fin de dejar un registro que alguien pueda consultar más tarde.",
+          "is_correct": true,
+          "feedback": "Reúne las dos condiciones: el documento se produce para registrar y después se consulta."
+        },
+        {
+          "letter": "B",
+          "text": "El recuerdo de una persona que vivió el hecho y lo cuenta con sus propias palabras.",
+          "is_correct": false,
+          "feedback": "Ese es un testimonio: proviene de la memoria y no de un documento escrito o registrado."
+        },
+        {
+          "letter": "C",
+          "text": "La explicación que un investigador escribe años después de estudiar los documentos.",
+          "is_correct": false,
+          "feedback": "Esa explicación es un trabajo interpretativo posterior, no la fuente que se estudia."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión que un grupo de personas comparte sobre un asunto de su barrio.",
+          "is_correct": false,
+          "feedback": "La opinión puede ser válida, pero no es un documento: nadie la dejó registrada por escrito."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fuente documental es cualquier documento que se produce con la intención de dejar constancia y que después puede ser consultado por otra persona. Reconocer ese origen permite trabajar con actas, contratos, mapas, cartas, fotografías y recortes como materiales de estudio serio y no como simples textos de lectura. Esta definición sostiene todo el trabajo de la semana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia esencial existe entre el acta de la reunión y el relato escrito años después?",
+      "context": "En una clase de Medellín, la profesora entrega dos textos sobre una misma reunión vecinal: el acta escrita ese mismo día y el relato que un vecino redactó muchos años más tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El acta tiene menos valor porque fue firmada por varias personas del barrio.",
+          "is_correct": false,
+          "feedback": "La cantidad de firmas no determina el valor: lo decisivo es cuándo y por qué se produjo."
+        },
+        {
+          "letter": "B",
+          "text": "El acta se produjo en el momento de la reunión, mientras que el relato es una reconstrucción posterior.",
+          "is_correct": true,
+          "feedback": "La diferencia está en el momento de producción: registro contemporáneo frente a memoria redactada."
+        },
+        {
+          "letter": "C",
+          "text": "El relato no puede ser fuente, porque no estaba escrito cuando ocurrió la reunión.",
+          "is_correct": false,
+          "feedback": "La fecha de redacción no invalida un texto: cambia lo que puede probar y obliga a contrastarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos cuentan exactamente lo mismo, por lo que pueden usarse indistintamente.",
+          "is_correct": false,
+          "feedback": "Cuentan lo mismo desde puntos de vista distintos: esa diferencia obliga a comparar y no a elegir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender el momento en que se produjo un documento cambia lo que ese documento puede sostener. El acta da cuenta de lo acordado durante la sesión, mientras que el relato posterior organiza los hechos desde la distancia y la memoria de quien los cuenta. Por eso ambos textos se valoran de manera distinta y nunca son intercambiables.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los tres documentos es una fuente primaria?",
+      "context": "En un taller de lectura de séptimo grado en Cali, cada grupo recibe tres papeles: la lista de asistencia del encuentro, un afiche impreso por los participantes y una página de un libro que analiza ese mismo evento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La página del libro, porque explica con más claridad lo que ocurrió en el taller.",
+          "is_correct": false,
+          "feedback": "Explicar mejor no convierte un texto en primario: esa página analiza el hecho desde después."
+        },
+        {
+          "letter": "B",
+          "text": "El afiche del taller, porque fue el primer documento en imprimirse ese día.",
+          "is_correct": false,
+          "feedback": "El orden de impresión es irrelevante: lo que define a una fuente primaria es quién la produjo."
+        },
+        {
+          "letter": "C",
+          "text": "La lista de asistencia, porque la elaboraron quienes participaron y quedó registrada en la sesión.",
+          "is_correct": true,
+          "feedback": "Ese documento lo crearon los asistentes y se dejó en el momento del encuentro."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los tres, porque solo los papeles muy antiguos pueden ser fuentes primarias.",
+          "is_correct": false,
+          "feedback": "La antigüedad no es un requisito: cualquier documento contemporáneo de un participante es primario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una fuente primaria la produce alguien que participó directamente en el hecho y en el momento en que ocurrió, sin depender de versiones posteriores. Aplicar ese criterio permite clasificar materiales de un mismo conjunto y justificar la respuesta con una característica verificable del documento. Es el primer paso del trabajo con archivos escolares.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v4",
+      "statement": "La estudiante escribe: \"En el encuentro hubo sesenta personas\". ¿Por qué esa frase todavía no es evidencia?",
+      "context": "En un taller de escritura de Bogotá, una estudiante anota en su tarea que hubo sesenta participantes en el encuentro del barrio y la profesora le pregunta qué respaldo tiene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque toda cifra escrita en una tarea escolar carece de valor.",
+          "is_correct": false,
+          "feedback": "Las cifras sí pueden servir: lo que falta en este caso es el respaldo que permita comprobarlas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las afirmaciones numéricas deben ir siempre acompañadas de gráficos.",
+          "is_correct": false,
+          "feedback": "El gráfico no es un requisito: lo indispensable es que el dato pueda comprobarse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las palabras que usa la estudiante no son propias de un texto argumentativo.",
+          "is_correct": false,
+          "feedback": "El problema no es el vocabulario: es que la afirmación no se apoya en nada verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Porque un dato se convierte en evidencia cuando puede comprobarse y sostiene una afirmación.",
+          "is_correct": true,
+          "feedback": "La cifra sigue siendo un dato: le falta el documento que permita verificarla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un dato es una información aislada y una evidencia es un dato que se pudo comprobar y que además sostiene una afirmación. En el ejemplo, el número necesita un respaldo: una lista de asistencia, un informe de la junta o un acta firmada. Esta distinción evita que cualquier cifra escrita en un trabajo se presente como si ya estuviera probada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v5",
+      "statement": "¿Qué procedimiento permite corroborar la afirmación con una fuente independiente?",
+      "context": "En una investigación escolar de Bucaramanga, un grupo de estudiantes asegura que el nombre de una calle del centro cambió y hasta ahora solo tiene un recorte de periódico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consultar un registro oficial del cambio de nomenclatura y comparar lo que dice con el recorte.",
+          "is_correct": true,
+          "feedback": "Un registro ajeno al periódico da una fuente independiente: el contraste confirma o debilita."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar el recorte varias veces para tener más versiones del mismo papel.",
+          "is_correct": false,
+          "feedback": "Las copias del mismo documento siguen siendo una sola fuente: la repetición no crea independencia."
+        },
+        {
+          "letter": "C",
+          "text": "Traducir el recorte al inglés y citar las dos versiones en el informe final.",
+          "is_correct": false,
+          "feedback": "El idioma no cambia el origen del texto: dos traducciones siguen siendo un solo testimonio."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar el recorte y trabajar solo con lo que cuentan los vecinos de la cuadra.",
+          "is_correct": false,
+          "feedback": "La memoria puede ser útil, pero por sí sola no ofrece el respaldo documental que se busca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Corroborar significa buscar una segunda fuente, producida por alguien distinto, y compararla con la primera. Cuando dos documentos independientes coinciden, la afirmación gana solidez; cuando discrepan, aparece un punto que debe estudiarse. Ese procedimiento convierte un recorte de prensa en un dato con respaldo y enseña a no depender de un solo papel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v6",
+      "statement": "La carta afirma que una familia vendió un terreno. El vecino dice en su testimonio que ese terreno nunca tuvo dueño conocido. ¿Qué debe hacer el estudiante?",
+      "context": "En una clase de Quibdó, la profesora entrega una carta guardada por una familia y el registro de propiedad de un terreno cercano, y luego reproduce la grabación de un testimonio de un vecino mayor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creer el testimonio, porque la voz de quien vivió el hecho pesa más que el papel.",
+          "is_correct": false,
+          "feedback": "La cercanía al hecho es relevante, pero no reemplaza el contraste entre los documentos."
+        },
+        {
+          "letter": "B",
+          "text": "Analizar la contradicción: comparar la carta con el registro y con el testimonio para ver qué dato no coincide.",
+          "is_correct": true,
+          "feedback": "La contradicción es el punto de partida: hay que localizar exactamente qué afirmó cada fuente."
+        },
+        {
+          "letter": "C",
+          "text": "Creer la carta, porque un documento escrito nunca puede estar equivocado.",
+          "is_correct": false,
+          "feedback": "Ningún documento es infalible: todos pueden tener errores, omisiones o intereses propios."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar los dos, porque cuando las fuentes se contradicen ninguna sirve para el trabajo.",
+          "is_correct": false,
+          "feedback": "La contradicción no invalida todo: indica que hay que revisar fechas, autores e intereses."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un documento que contradice un testimonio no se descarta de inmediato: la contradicción señala un punto que requiere análisis. Revisar quién escribió cada texto, en qué momento y con qué interés permite entender por qué las versiones no coinciden. Este es el núcleo del razonamiento documental, porque el conflicto entre fuentes es información valiosa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué revela la forma en que está escrita esa carta de opinión?",
+      "context": "En un taller de Cartagena, los estudiantes analizan una carta de opinión publicada en un periódico local que cuestiona el horario de un comercio del centro histórico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el documento responde solo a los intereses del comercio que se critica.",
+          "is_correct": false,
+          "feedback": "Concluir los intereses a partir del tema evita el análisis de la forma del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto es neutral, porque apareció publicado en un periódico de la ciudad.",
+          "is_correct": false,
+          "feedback": "Publicarse en un medio no vuelve neutral un escrito dirigido a convencer a alguien."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto se dirige a un público amplio y busca persuadir, no informar.",
+          "is_correct": true,
+          "feedback": "El tono directo y la defensa de una tesis confirman una intención persuasiva."
+        },
+        {
+          "letter": "D",
+          "text": "Que el documento no puede usarse como fuente, porque su propósito es atacar a alguien.",
+          "is_correct": false,
+          "feedback": "La intención del texto no lo invalida: cambia la manera de usarlo y de valorarlo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un mismo documento puede tener una finalidad informativa, persuasiva o de registro, y esa finalidad se deduce de su forma. La carta de opinión busca convencer a un lector general mediante un tono dirigido y la defensa de una tesis. Nombrar esa diferencia permite usar el documento por lo que realmente es y no por lo que aparenta ser.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce la manera en que está redactada esa frase del oficio?",
+      "context": "En un análisis de documentos de Pasto, un grupo estudia un oficio de una entidad donde se lee que no se permitirá el acceso a las dependencias sin el debido permiso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identifica con claridad a la persona que tomó la decisión.",
+          "is_correct": false,
+          "feedback": "En la frase no hay responsable: esa ausencia es justamente lo que hay que notar."
+        },
+        {
+          "letter": "B",
+          "text": "Obliga al lector a consultar el reglamento para entender la prohibición.",
+          "is_correct": false,
+          "feedback": "La prohibición se entiende sin consultar nada: el problema no está en la comprensión."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que la entidad asume públicamente su responsabilidad.",
+          "is_correct": false,
+          "feedback": "La formulación borra al responsable en lugar de asumirlo frente al lector."
+        },
+        {
+          "letter": "D",
+          "text": "Difunde la responsabilidad, porque la construcción impersonal esconde a quien decide.",
+          "is_correct": true,
+          "feedback": "El uso de la forma impersonal y de la negación desplaza la responsabilidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las construcciones impersonales del español permiten decir sin señalar a nadie quién actúa y quién responde. En oficios y avisos administrativos esa forma suele acompañar decisiones que afectan a toda una comunidad, por eso conviene examinarla con atención. Analizar la sintaxis de un documento revela tanto el propósito como el grado de responsabilidad asumida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el juicio más responsable sobre ese uso del documento?",
+      "context": "En un debate escolar de Valledupar, un grupo propone llevar a la discusión un documento que expone los horarios reales de un negocio del centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es legítimo si el documento sustenta una crítica pública y comprobable, no si sirve para humillar a alguien.",
+          "is_correct": true,
+          "feedback": "El criterio está en el objetivo: informar una crítica documentada es distinto de atacar a una persona."
+        },
+        {
+          "letter": "B",
+          "text": "Es legítimo siempre que el documento sea verdadero, sin importar a quién afecta.",
+          "is_correct": false,
+          "feedback": "La verdad del dato no autoriza por sí sola un uso que humilla o expone a una persona."
+        },
+        {
+          "letter": "C",
+          "text": "Es ilegítimo siempre, porque criticar con documentos vulnera la convivencia del aula.",
+          "is_correct": false,
+          "feedback": "La prohibición absoluta es incorrecta: la crítica sostenida en documentos es legítima."
+        },
+        {
+          "letter": "D",
+          "text": "Es legítimo si el documento es reciente, porque lo más nuevo tiene más autoridad.",
+          "is_correct": false,
+          "feedback": "La fecha ayuda a situar el hecho, pero no otorga autoridad ni legitima el uso que se hace."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valorar el uso de un documento exige separar dos finalidades: sostener una crítica que la comunidad pueda verificar y atacar la dignidad de una persona. El primer uso protege el derecho a informar y el segundo vulnera a alguien, aunque el dato sea cierto. Aplicar ese criterio con claridad permite discutir en clase sin convertir el archivo en un arma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué razón justifica mejor que ese grupo descarte esa página como evidencia?",
+      "context": "En un proyecto de archivo escolar de Ibagué, un grupo encuentra una página publicada en un blog que menciona un problema del barrio, pero no indica quién la escribió ni cuándo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está publicada en internet, porque ningún documento digital es confiable.",
+          "is_correct": false,
+          "feedback": "Descartar todo lo digital elimina fuentes válidas y confunde el medio con la falta de respaldo."
+        },
+        {
+          "letter": "B",
+          "text": "Que, al faltar autor y fecha, no es posible saber quién la produjo ni desde cuándo.",
+          "is_correct": true,
+          "feedback": "Sin autor ni fecha no se puede valorar el contexto de producción ni el interés del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto no incluye fotografías, porque eso muestra que su autor no es serio.",
+          "is_correct": false,
+          "feedback": "La ausencia de imágenes no dice nada sobre la seriedad de quien escribe un documento."
+        },
+        {
+          "letter": "D",
+          "text": "Que el documento es breve, porque los textos largos esconden mejor sus errores.",
+          "is_correct": false,
+          "feedback": "La extensión no determina la calidad de un texto: no sirve como criterio para valorarlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un documento se evalúa con preguntas concretas: quién lo escribió, para quién, cuándo y con qué propósito. Si la página no responde a ninguna, no permite reconstruir su contexto de producción y no puede sostenerse como prueba de nada. Reconocer esta carencia enseña a pedir los datos que le faltan a un texto antes de usarlo en un trabajo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
