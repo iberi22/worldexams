@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-30-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.263Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿cuáles son las tres medidas que propone la carta editorial?",
+      "context": "En un colegio de Medellín, la profesora de noveno grado pide a sus estudiantes que anoten las tres medidas que propone la carta del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recuperar rutas peatonales, ampliar el número de buses y publicar los resultados cada trimestre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta no propone ampliar el número de buses, sino organizar los que ya existen en los horarios de mayor demanda."
+        },
+        {
+          "letter": "B",
+          "text": "Recuperar rutas peatonales en los corredores más cargados, organizar los buses en los horarios de mayor demanda y publicar cada trimestre los resultados.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres medidas aparecen en ese orden y con ese alcance exacto en el tercer párrafo de la carta."
+        },
+        {
+          "letter": "C",
+          "text": "Organizar los buses en los horarios de mayor demanda, reducir las tarifas del pasaje y publicar cada trimestre los resultados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción de tarifas no aparece en el texto: el autor propone reorganizar los horarios, no bajar el precio."
+        },
+        {
+          "letter": "D",
+          "text": "Construir rutas peatonales en toda la ciudad, organizar los buses y publicar los resultados una sola vez al final del año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto limita las rutas peatonales a los corredores más cargados y pide publicación trimestral, no anual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La carta editorial se construye sobre propuestas verificables, de modo que leerla exige recuperar con exactitud qué se pide y con qué alcance. En este caso, cada medida tiene un límite explícito: los corredores más cargados, los horarios de mayor demanda y una publicación cada trimestre. Reconocer esos límites distingue a quien leyó el texto de quien solo captó la idea general. Esa precisión es la base para evaluar después si las propuestas son razonables y medibles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v2",
+      "statement": "¿Qué sentido tiene la expresión «no pedimos soluciones mágicas» dentro del Texto 1?",
+      "context": "En la sala de clases de Armenia, un grupo de estudiantes discute el significado de la penúltima oración de la carta antes de responder una guía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exige que la ciudad construya una solución definitiva para el transporte en un solo mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no fija ningún plazo ni exige una solución definitiva: rechaza lo exagerado, no lo rápido."
+        },
+        {
+          "letter": "B",
+          "text": "Confirma que el problema del transporte de la ciudad ya fue resuelto en años anteriores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el problema estuviera resuelto, la carta no propondría tres medidas nuevas en el presente."
+        },
+        {
+          "letter": "C",
+          "text": "Rechaza las promesas exageradas y fija una expectativa de resultados que los habitantes puedan comprobar.",
+          "is_correct": true,
+          "feedback": "Correcto. La oración delimita lo que la carta pide: resultados verificables y no promesas de arreglo total e inmediato."
+        },
+        {
+          "letter": "D",
+          "text": "Presenta el transporte como un asunto que solo compete a los especialistas y no a los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta hace lo contrario: saca el debate del círculo de especialistas y lo lleva a la vida cotidiana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender el sentido de una frase exige mirar qué efecto produce dentro del discurso y no solo traducirla palabra por palabra. Aquí la expresión funciona como una advertencia: el autor rechaza la expectativa de que un solo programa resuelva todo y, en su lugar, pide algo verificable. Esa diferencia entre promesas y comprobación es un movimiento típico de la carta editorial. Entenderlo ayuda a identificar cuándo un texto persuasivo quiere sonar convincente sin aportar evidencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la intención comunicativa principal de la carta editorial del Texto 1?",
+      "context": "En Popayán, un docente explica a sus estudiantes que un mismo tema se puede tratar de maneras muy distintas según lo que el autor quiera lograr.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desplazar la discusión del transporte desde el debate de especialistas hacia la vida cotidiana de los habitantes.",
+          "is_correct": true,
+          "feedback": "Correcto. La carta empieza reconociendo un debate técnico y enseguida lo conecta con el tiempo y el presupuesto de cada familia."
+        },
+        {
+          "letter": "B",
+          "text": "Informar de manera neutral cuántos habitantes usan transporte público en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta no da cifras de usuarios: propone medidas y busca cambiar una manera de pensar sobre el asunto."
+        },
+        {
+          "letter": "C",
+          "text": "Recopilar las opiniones del foro de habitantes para publicar un resumen de las decisiones tomadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta no resume el foro: expone un problema general y luego propone su propia solución."
+        },
+        {
+          "letter": "D",
+          "text": "Definir un término técnico para que los estudiantes lo memoricen antes de la prueba del período.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no es memorizar una definición, sino persuadir al lector de la ciudad sobre un problema cotidiano."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intención comunicativa es lo que el texto busca provocar en quien lee y se identifica preguntando para qué está escrito. La carta no quiere informar ni enseñar una definición: quiere reencuadrar un debate técnico como un asunto que afecta la vida de todos. Ese reencuadre es la estrategia persuasiva central del género editorial. Reconocerlo evita confundir un texto que toma partido con un texto que se limita a describir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v4",
+      "statement": "Si el autor eliminara del Texto 1 las dos primeras oraciones, la que dice «Durante años se discutió el transporte como si fuera un asunto de especialistas» y la que empieza con «Sin embargo», ¿qué efecto produciría en la argumentación?",
+      "context": "En Villavicencio, un profesor pide a sus estudiantes que simulen una edición de la carta y decidan qué oración es indispensable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto ganaría objetividad, porque eliminaría las opiniones de sus autores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar esas oraciones no vuelve el texto más objetivo: elimina el contraste que da sentido a la propuesta."
+        },
+        {
+          "letter": "B",
+          "text": "El texto sería más breve y no perdería ninguna de las tres medidas propuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se pierde algo más que longitud: se pierde la razón por la cual es necesario actuar ahora."
+        },
+        {
+          "letter": "C",
+          "text": "El texto dejaría de pertenecer al género de la carta editorial y parecería un informe técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto conservaría la fecha, el tono cercano y las tres propuestas, de modo que seguiría siendo una carta."
+        },
+        {
+          "letter": "D",
+          "text": "El texto perdería el contraste entre el debate anterior y la urgencia de actuar.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese par de oraciones construye la tensión que justifica las tres medidas y, sin él, las propuestas quedan sin motivo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una carta editorial organiza su fuerza persuasiva en contrastes: primero muestra cómo se discutía el asunto y luego invierte esa mirada. La pareja de oraciones iniciales cumple exactamente ese papel, porque sin ella las propuestas aparecen como una lista sin justificación. Saber qué función cumple un fragmento es lo que permite defender una decisión editorial. Esta habilidad se transfiere directamente a la lectura de cualquier texto argumentativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de los testimonios del Texto 2 apoya directamente la propuesta de la carta de publicar los resultados cada trimestre?",
+      "context": "En el aula de Pereira, los estudiantes deben escoger el testimonio del foro que sirve como apoyo a una medida de la carta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Medellín, que cuenta que su hija tardaba cincuenta minutos en llegar al colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese testimonio muestra que el tiempo de viaje mejoró, pero no menciona falta de información sobre las medidas."
+        },
+        {
+          "letter": "B",
+          "text": "El de Bucaramanga, que afirma que nadie le ha preguntado qué cambió en su barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de consulta e información es justamente lo que impediría verificar y discutir los resultados publicados."
+        },
+        {
+          "letter": "C",
+          "text": "El de Pereira, que dice que antes no viajaba y ahora sí, pero con un precio más alto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese testimonio se apoya en el aumento del precio y no en la transparencia sobre los resultados."
+        },
+        {
+          "letter": "D",
+          "text": "El de Medellín, que afirma que alguien cambió algo, pero que nadie explicó cuál.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque toca la falta de explicación, se queda en un caso particular y no plantea un problema de información pública."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Apoyar una propuesta exige buscar en el texto la evidencia que la sostiene y no cualquier coincidencia temática. El testimonio que mejor respalda la publicación de resultados es el que expone la ausencia de información para los habitantes, porque muestra el problema que esa medida resolvería. Los demás testimonios hablan de tiempos o de precios, que son asuntos distintos. Distinguir el apoyo pertinente del apoyo meramente temático es una destreza central de la lectura crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v6",
+      "statement": "En el Texto 2, la expresión «alguien cambió algo» cumple una función especialmente interesante. ¿Cuál es?",
+      "context": "En Cartagena, una estudiante analiza el lenguaje del foro y le pide a su grupo que identifique qué información falta en el testimonio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nombra de manera indefinida a un responsable y, con ello, vuelve visible lo que el lector todavía no sabe.",
+          "is_correct": true,
+          "feedback": "Correcto. Al no identificar a nadie, la frase conserva la duda del lector y señala con precisión la falta de información."
+        },
+        {
+          "letter": "B",
+          "text": "Identifica con precisión a la persona o a la entidad que realizó el cambio en el transporte de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no nombra a nadie y, precisamente por eso, el participante no puede ubicar al responsable."
+        },
+        {
+          "letter": "C",
+          "text": "Expresa una opinión favorable sobre la calidad del servicio que ahora recibe la hija del participante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no valora el servicio: solo registra que hubo un cambio sin explicación para quien lo sufrió."
+        },
+        {
+          "letter": "D",
+          "text": "Compara el transporte de Medellín con el de otras ciudades donde el cambio fue más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comparación entre ciudades en esa frase: el problema que se describe es la falta de explicación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto no dice solamente lo que afirma: también señala, por omisión, aquello que no logra responder. La expresión «alguien cambió algo» usa un referente indefinido que deja un vacío a la vista del lector, y ese vacío es precisamente la ausencia de rendición de cuentas. Reconocer la información que un texto deja de decir es una forma avanzada de leer. Sirve para descubrir por qué un lector se siente atendido o ignorado por el discurso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v7",
+      "statement": "Al confrontar el Texto 1 y el Texto 2, ¿qué relación entre ellos se puede establecer con mayor precisión?",
+      "context": "En Manizales, el profesor de noveno grado pide comparar los dos textos base antes de redactar un comentario escrito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos coinciden en que el problema del transporte ya no existe en ninguna ciudad del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 registra problemas actuales en dos ciudades y, por tanto, no hay tal coincidencia."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2 contradice al Texto 1 en el número de rutas peatonales que la carta propone recuperar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foro no menciona rutas peatonales, de modo que no puede contradecir ese dato específico de la carta."
+        },
+        {
+          "letter": "C",
+          "text": "La carta propone una solución general y el foro muestra que los efectos varían según la ciudad y el barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta es única para todo el conjunto, mientras los testimonios describen realidades distintas."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 2 refuta la existencia misma de la carta editorial y demuestra que fue escrita sin consultar a nadie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foro discute resultados de medidas y no aporta ningún dato sobre la autoría de la carta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Poner dos textos en relación exige describir con precisión qué se compara, porque un mismo par de fuentes puede sostener relaciones muy distintas. Aquí la relación no es de contradicción directa, sino de alcance: la carta formula una propuesta común y el foro evidencia que esa propuesta no produce resultados homogéneos. Nombrar bien ese tipo de relación evita exagerar los desacuerdos. Es la base para escribir un comentario que no atribuya al segundo texto afirmaciones que no contiene.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1, la secuencia «Durante años se discutió el transporte como si fuera un asunto de especialistas. Sin embargo, cada familia lo paga en el tiempo y en el presupuesto mensual» cumple una función discursiva. ¿Cuál es?",
+      "context": "En una clase de Cúcuta, la profesora proyecta la carta y pide al grupo que ubique el mecanismo que da fuerza al párrafo inicial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una digresión que se aparta del tema central de la carta para retomarlo más adelante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos oraciones no se apartan del tema: llevan el asunto técnico a su consecuencia cotidiana."
+        },
+        {
+          "letter": "B",
+          "text": "Una comparación entre dos ciudades que aplican políticas distintas de transporte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay dos ciudades en este fragmento, sino una sola situación y su efecto en las familias."
+        },
+        {
+          "letter": "C",
+          "text": "Un ejemplo numérico que respalda la tercera de las medidas propuestas por la carta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no incluye cifras: la cantidad de dinero aparece más adelante, al hablar del precio."
+        },
+        {
+          "letter": "D",
+          "text": "Una ruptura de expectativa que reencuadra el debate técnico como un problema de la vida diaria.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste entre el debate de especialistas y la vida de las familias es lo que da fuerza a la petición."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La coherencia de un texto no se construye solamente con conectores, sino con el orden en que se presentan los contrastes. Aquí el autor parte de una representación común del debate y la invierte, llevando el asunto del plano técnico al plano doméstico. Ese movimiento de ruptura de expectativa es lo que hace que el lector cambie de opinión. Analizarlo permite entender cómo un discurso persuade sin apelar a la fuerza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué el Texto 2 incluye el testimonio del participante de Bucaramanga, en el que su barrio sigue igual y nadie le ha preguntado?",
+      "context": "En Montería, el profesor pregunta por qué el foro del texto base incluye un testimonio que no menciona ninguna mejora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mostrar que la respuesta a un problema público no es uniforme en todo el territorio.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese testimonio impide que el lector generalice el resultado positivo que describen las otras dos ciudades."
+        },
+        {
+          "letter": "B",
+          "text": "Para descalificar a los habitantes de las ciudades donde sí se observaron cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no descalifica a nadie: el participante describe su situación y no juzga a los demás."
+        },
+        {
+          "letter": "C",
+          "text": "Para demostrar que la carta editorial no fue escrita por habitantes de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el foro se ocupa de la autoría de la carta, y su objetivo es medir efectos, no credenciales."
+        },
+        {
+          "letter": "D",
+          "text": "Para confirmar que ninguna medida pública funciona en ninguna ciudad del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos de los tres testimonios describen mejoras, de modo que el conjunto no sostiene esa conclusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un texto en su contexto comunicativo exige preguntar qué efecto produce cada elemento, incluso los que parecen no avanzar la tesis. El testimonio negativo cumple una función de control: impide que el lector convierta dos casos positivos en una regla general. Sin él, el foro sería un relato esperanzador y poco creíble. Reconocer esta función es clave para evaluar la calidad de un conjunto de fuentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v10",
+      "statement": "En el enunciado «alguien cambió algo, pero nadie nos ha explicado cuál», ¿qué relación se establece entre las dos proposiciones?",
+      "context": "En el taller de lectura de Santa Marta, los estudiantes analizan cómo se articulan las dos ideas del testimonio más citado del foro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de causa, porque la segunda proposición explica por qué cambió el transporte del colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda proposición no explica la causa del cambio, sino que constata que no hubo explicación."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de contraste, porque la segunda proposición opone la ausencia de explicación al hecho del cambio.",
+          "is_correct": true,
+          "feedback": "Correcto. El conector adversativo enlaza dos hechos que conviven sin que uno dé cuenta del otro."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de consecuencia que permite deducir el nombre de quien realizó el cambio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. De la frase no se deduce ningún nombre: la ausencia de información es justamente lo que el texto señala."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de tiempo, porque la primera proposición tiene lugar después de la segunda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay marcas de tiempo ni orden temporal: la relación que se establece es de oposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis de las relaciones entre proposiciones revela la lógica interna de un enunciado y no solo su contenido aislado. En este caso, el conector adversativo «pero» no introduce una causa ni una secuencia, sino un contrapunto: un hecho ocurrió y, al mismo tiempo, faltó su explicación. Esa estructura concentra en una línea la crítica completa del participante. Identificarla permite explicar con precisión por qué el testimonio se percibe como una queja fundamentada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v11",
+      "statement": "El Texto 1 propone publicar cada trimestre los resultados de las tres medidas. ¿Cuál de las siguientes evaluaciones de esa propuesta es la más sólida?",
+      "context": "En el seminario de noveno grado de Ibagué, los grupos deben evaluar si las propuestas de la carta pueden comprobarse con los datos disponibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es sólida porque las tres medidas propuestas son las más usadas por los habitantes de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no afirma que sean las medidas más usadas: sostiene que son necesarias por el problema que describe."
+        },
+        {
+          "letter": "B",
+          "text": "Es débil porque ninguna de las tres medidas puede medirse con ningún indicador en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en los textos indica que sean inmedibles y esa afirmación contradice la propia lógica de la propuesta."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente porque permite verificar con datos, y no solo con promesas, si lo prometido se cumplió.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicación de resultados crea la posibilidad de contrastar lo prometido con lo ocurrido, que es el fin buscado."
+        },
+        {
+          "letter": "D",
+          "text": "Es innecesaria porque los habitantes ya conocen por sí mismos los resultados de los programas de transporte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 muestra justamente que los habitantes no conocen qué cambió ni por qué se cambió."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una propuesta exige juzgar su solidez con relación a un criterio claro y no solo aceptar o rechazar por simpatía. El criterio pertinente aquí es la posibilidad de verificación: una medida que publica sus resultados puede ser comprobada por los lectores y corregida si no funciona. La publicación trimestral es precisamente un mecanismo de rendición de cuentas. Reconocerlo muestra por qué un detalle administrativo puede ser el más importante de todo un texto argumentativo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle-v12",
+      "statement": "Un estudiante afirma que el Texto 2 demuestra que las medidas propuestas en el Texto 1 ya funcionaron en toda la ciudad. ¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En el cierre del trimestre en Valledupar, un estudiante redacta una conclusión para un trabajo de grupo y debe cuidar lo que afirma sobre las fuentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque los tres testimonios del foro describen mejoras en el transporte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Uno de los tres testimonios describe lo contrario: en ese barrio el transporte sigue igual."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque el foro del Texto 2 no menciona ninguna medida de transporte en absoluto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El foro sí habla de cambios en el transporte: lo que hace es reportarlos sin identificar las medidas."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es aceptable, porque la carta y el foro fueron escritos en la misma fecha y contexto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coincidencia de fecha no amplía lo que un texto demuestra: son fuentes distintas con alcances distintos."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación excede la evidencia, porque se generaliza a toda la ciudad a partir de tres casos aislados.",
+          "is_correct": true,
+          "feedback": "Correcto. Tres testimonios publicados en un foro no permiten una conclusión de alcance general sobre toda la ciudad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La habilidad más avanzada de la lectura crítica es reconocer cuándo una conclusión va más allá de lo que las fuentes sostienen. Los testimonios del foro describen situaciones concretas en tres ciudades, y uno de ellos contradice incluso la expectativa de un resultado positivo. De ahí no se puede pasar a una afirmación general sobre toda la ciudad. En un trabajo académico, esa diferencia entre lo demostrado y lo generalizado es la línea que separa un trabajo serio de una afirmación exagerada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W30-la-carta-editorial-y-el-debate-publico-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
