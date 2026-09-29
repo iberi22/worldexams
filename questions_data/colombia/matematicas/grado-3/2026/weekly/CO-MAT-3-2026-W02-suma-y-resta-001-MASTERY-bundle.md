@@ -36,12 +36,12 @@ Si 3 kg más 2 kg es igual a 5 kg, ¿qué operación representa la suma que hizo
 ### Opciones
 - [x] A) 3 + 2 = 5
   <!-- feedback: ¡Correcto! Al juntar los 3 kg de papa con los 2 kg de cebolla se obtiene una suma de 5 kg. -->
-- [ ] B) 3 - 2 = 1
-  <!-- feedback: Incorrecto. La resta se usa cuando se quitan cantidades, no cuando se juntan las dos. -->
-- [ ] C) 5 + 3 = 8
-  <!-- feedback: Incorrecto. Ya tenías el resultado de la suma (5) y le sumaste otra vez los 3 kg de papa. -->
-- [ ] D) 2 + 3 = 6
+- [ ] B) 2 + 3 = 6
   <!-- feedback: Incorrecto. La cuenta está bien planteada, pero 2 + 3 no es igual a 6, es igual a 5. -->
+- [ ] C) 3 - 2 = 1
+  <!-- feedback: Incorrecto. La resta se usa cuando se quitan cantidades, no cuando se juntan las dos. -->
+- [ ] D) 5 + 3 = 8
+  <!-- feedback: Incorrecto. Ya tenías el resultado de la suma (5) y le sumaste otra vez los 3 kg de papa. -->
 
 ### Explicacion Pedagogica
 La suma sirve para juntar dos o más cantidades y saber cuánto hay en total. La resta sirve para quitar una cantidad de otra. En este problema, don Hernán junta 3 kg de papa con 2 kg de cebolla, así que corresponde usar la suma: 3 + 2 = 5 kg. Reconocer en qué momento se suma y en qué momento se resta es el primer paso para resolver cualquier problema. Un buen truco es dibujar las dos cantidades y juntarlas.
@@ -57,14 +57,14 @@ La suma sirve para juntar dos o más cantidades y saber cuánto hay en total. La
 Si la profesora reparte 8 crayones a cada grupo y hay 3 grupos, ¿cuántos crayones reparte en total?
 
 ### Opciones
-- [x] A) 24 crayones
-  <!-- feedback: ¡Correcto! Se suman los 8 crayones de cada grupo tres veces: 8 + 8 + 8 = 24. -->
-- [ ] B) 11 crayones
-  <!-- feedback: Incorrecto. Solo sumaste dos grupos (8 + 8 = 16), pero hay 3 grupos y el último también recibe 8. -->
-- [ ] C) 16 crayones
-  <!-- feedback: Incorrecto. Solo sumaste los crayones de dos de los tres grupos; falta sumar el tercer grupo. -->
-- [ ] D) 32 crayones
+- [ ] A) 32 crayones
   <!-- feedback: Incorrecto. Multiplicaste 8 por 4, pero en el salón hay solamente 3 grupos. -->
+- [x] B) 24 crayones
+  <!-- feedback: ¡Correcto! Se suman los 8 crayones de cada grupo tres veces: 8 + 8 + 8 = 24. -->
+- [ ] C) 11 crayones
+  <!-- feedback: Incorrecto. Solo sumaste dos grupos (8 + 8 = 16), pero hay 3 grupos y el último también recibe 8. -->
+- [ ] D) 16 crayones
+  <!-- feedback: Incorrecto. Solo sumaste los crayones de dos de los tres grupos; falta sumar el tercer grupo. -->
 
 ### Explicacion Pedagogica
 Cuando una misma cantidad se repite para varios grupos, se puede sumar repetidamente o usar la multiplicación. Aquí hay 3 grupos y cada uno recibe 8 crayones: 8 + 8 + 8 = 16 + 8 = 24. La multiplicación 3 x 8 da el mismo resultado y puede ser más rápida cuando hay muchos grupos. Conviene verificar el resultado contando hacia atrás: si gastaste 24 crayones y la caja tenía 24, entonces no sobra ninguno.
@@ -80,14 +80,14 @@ Cuando una misma cantidad se repite para varios grupos, se puede sumar repetidam
 Si Julián suma el dinero de la alcancía con el dinero que le da su mamá, ¿cuánto dinero tendrá para el uniforme?
 
 ### Opciones
-- [x] A) 7.300 pesos
-  <!-- feedback: ¡Correcto! La suma es 4.500 + 2.800 = 7.300 pesos, que es lo que tendrá para el uniforme. -->
-- [ ] B) 6.300 pesos
+- [ ] A) 6.300 pesos
   <!-- feedback: Incorrecto. Restaste 4.500 - 2.800, pero como las dos cantidades se juntan, se debe sumar. -->
-- [ ] C) 8.300 pesos
-  <!-- feedback: Incorrecto. El resultado de 4.500 + 2.800 es 7.300 y no 8.300. -->
-- [ ] D) 2.800 pesos
+- [ ] B) 2.800 pesos
   <!-- feedback: Incorrecto. Solo tomaste el dinero que dio la mamá y te faltó sumar los 4.500 pesos de la alcancía. -->
+- [x] C) 7.300 pesos
+  <!-- feedback: ¡Correcto! La suma es 4.500 + 2.800 = 7.300 pesos, que es lo que tendrá para el uniforme. -->
+- [ ] D) 8.300 pesos
+  <!-- feedback: Incorrecto. El resultado de 4.500 + 2.800 es 7.300 y no 8.300. -->
 
 ### Explicacion Pedagogica
 Para sumar números de tres o cuatro cifras se suman primero las unidades, luego las decenas, luego las centenas y por último los miles, llevando a la izquierda cuando el resultado pasa de 9. En 4.500 + 2.800: unidades 0 + 0 = 0; decenas 0 + 0 = 0; centenas 5 + 8 = 13, se escribe 3 y se lleva 1 a los miles; miles 4 + 2 + 1 = 7. El resultado es 7.300. Un control sencillo es comprobar que el resultado sea mayor que la mayor de las dos cantidades sumadas, y 7.300 cumple esa condición.
@@ -103,14 +103,14 @@ Para sumar números de tres o cuatro cifras se suman primero las unidades, luego
 Si el señor Carlos pagó 200.000 pesos y le devolvieron 62.000 pesos, ¿cuánto cuestan los artículos que compró?
 
 ### Opciones
-- [x] A) 138.000 pesos
-  <!-- feedback: ¡Correcto! La resta es 200.000 - 62.000 = 138.000 pesos, que es el costo de los artículos. -->
-- [ ] B) 262.000 pesos
-  <!-- feedback: Incorrecto. Sumaste 200.000 + 62.000, pero el cambio se resta porque no fue parte del gasto. -->
-- [ ] C) 128.000 pesos
-  <!-- feedback: Incorrecto. La resta está mal calculada: 200.000 menos 62.000 es igual a 138.000 y no 128.000. -->
-- [ ] D) 62.000 pesos
+- [ ] A) 62.000 pesos
   <!-- feedback: Incorrecto. Solo tomaste el valor del cambio y te faltó restarlo de lo que pagó. -->
+- [ ] B) 128.000 pesos
+  <!-- feedback: Incorrecto. La resta está mal calculada: 200.000 menos 62.000 es igual a 138.000 y no 128.000. -->
+- [ ] C) 262.000 pesos
+  <!-- feedback: Incorrecto. Sumaste 200.000 + 62.000, pero el cambio se resta porque no fue parte del gasto. -->
+- [x] D) 138.000 pesos
+  <!-- feedback: ¡Correcto! La resta es 200.000 - 62.000 = 138.000 pesos, que es el costo de los artículos. -->
 
 ### Explicacion Pedagogica
 En los problemas de dinero, la forma de verificar el costo es restar el cambio de lo que se pagó. Si 200.000 menos 62.000 da 138.000, entonces los artículos cuestan 138.000 pesos. Se puede comprobar en el otro sentido: 138.000 + 62.000 = 200.000, y se vuelve a la cantidad con la que se pagó. Esta comprobación, sumar el resultado con lo restado, es muy útil porque detecta los errores de la resta.
@@ -149,14 +149,14 @@ Para saber si una afirmación es verdadera hay que calcular el dato y compararlo
 Analiza los datos: ¿el número de panes vendidos en cada hora baja siempre a medida que pasa el tiempo?
 
 ### Opciones
-- [x] A) No, el número no baja siempre, porque entre las 7:00 y las 8:00 el número de panes aumentó
-  <!-- feedback: ¡Correcto! Se pasó de 18 panes a 26, es decir, el número aumentó y no disminuyó, como el enunciado afirma. -->
-- [ ] B) Sí, el número baja siempre, porque cada hora se venden menos panes que en la anterior
+- [ ] A) Sí, el número baja siempre, porque cada hora se venden menos panes que en la anterior
   <!-- feedback: Incorrecto. Entre las 7:00 y las 8:00 el número subió de 18 a 26, y entre las 9:00 y las 10:00 subió de 21 a 24. -->
-- [ ] C) No, porque a las 8:00 no se vendió ningún pan
-  <!-- feedback: Incorrecto. A las 8:00 sí se vendieron 26 panes, que es la cantidad más alta de las cuatro horas. -->
-- [ ] D) Sí, porque la hora más temprana siempre tiene la venta más baja
+- [x] B) No, el número no baja siempre, porque entre las 7:00 y las 8:00 el número de panes aumentó
+  <!-- feedback: ¡Correcto! Se pasó de 18 panes a 26, es decir, el número aumentó y no disminuyó, como el enunciado afirma. -->
+- [ ] C) Sí, porque la hora más temprana siempre tiene la venta más baja
   <!-- feedback: Incorrecto. Esa regla no se cumple: el menor valor es el de las 9:00 con 21 panes, no el de las 7:00. -->
+- [ ] D) No, porque a las 8:00 no se vendió ningún pan
+  <!-- feedback: Incorrecto. A las 8:00 sí se vendieron 26 panes, que es la cantidad más alta de las cuatro horas. -->
 
 ### Explicacion Pedagogica
 Analizar cómo cambia una cantidad a lo largo del tiempo exige comparar cada valor con el anterior. Los datos son 18, 26, 21 y 24. De 18 a 26 el número aumentó, de 26 a 21 disminuyó, y de 21 a 24 volvió a aumentar. Como en dos momentos el número subió, la afirmación de que baja siempre es falsa. Este tipo de pregunta enseña que una tendencia general no siempre describe todos los casos, y que hay que revisar los datos uno por uno.
@@ -172,14 +172,14 @@ Analizar cómo cambia una cantidad a lo largo del tiempo exige comparar cada val
 El niño dice: "Si compro la camiseta me alcanza y me sobra plata para los calcetines". ¿Es correcto lo que dice?
 
 ### Opciones
-- [x] A) No, porque comprar la camiseta y los calcetines costaría 16.500 pesos, más de los 15.000 que tiene
-  <!-- feedback: ¡Correcto! 12.500 + 4.000 = 16.500, y como 16.500 es mayor que 15.000, no le alcanza para las dos cosas. -->
+- [ ] A) Sí, porque con 15.000 pesos alcanza para comprar cualquier cosa
+  <!-- feedback: Incorrecto. Con 15.000 pesos alcanza para algunas cosas, pero no para todas las combinaciones de precios. -->
 - [ ] B) Sí, porque 12.500 pesos son menos que 15.000 pesos
   <!-- feedback: Incorrecto. La camiseta sí le alcanza, pero al sumar las dos cosas el total supera el dinero que tiene. -->
-- [ ] C) No, porque la camiseta cuesta más de lo que él tiene
+- [x] C) No, porque comprar la camiseta y los calcetines costaría 16.500 pesos, más de los 15.000 que tiene
+  <!-- feedback: ¡Correcto! 12.500 + 4.000 = 16.500, y como 16.500 es mayor que 15.000, no le alcanza para las dos cosas. -->
+- [ ] D) No, porque la camiseta cuesta más de lo que él tiene
   <!-- feedback: Incorrecto. La camiseta cuesta 12.500 pesos y él tiene 15.000 pesos, así que la camiseta sí le alcanza. -->
-- [ ] D) Sí, porque con 15.000 pesos alcanza para comprar cualquier cosa
-  <!-- feedback: Incorrecto. Con 15.000 pesos alcanza para algunas cosas, pero no para todas las combinaciones de precios. -->
 
 ### Explicacion Pedagogica
 Para decidir si alcanza la plata es necesario calcular el costo total de todo lo que se quiere comprar y compararlo con el dinero disponible. El costo total es 12.500 + 4.000 = 16.500 pesos. Como el niño tiene 15.000 pesos, le faltan 16.500 - 15.000 = 1.500 pesos. Por eso no le alcanza para las dos cosas, aunque sí le alcanzaría para comprar solo la camiseta. En el presupuesto siempre hay que sumar primero todos los precios antes de concluir.
@@ -195,14 +195,14 @@ Para decidir si alcanza la plata es necesario calcular el costo total de todo lo
 Un padre le pregunta al niño cómo calcularía las sillas que sobrarán si se llevan 5 sillas. El niño responde: "Se restan". ¿Qué operación completa correctamente la respuesta del niño?
 
 ### Opciones
-- [x] A) 12 + 9 - 5 = 16
-  <!-- feedback: ¡Correcto! Primero se juntan las sillas ocupadas y las vacías (12 + 9 = 21) y luego se restan las que se llevan (21 - 5 = 16). -->
-- [ ] B) 12 - 9 - 5 = -2
-  <!-- feedback: Incorrecto. Restaste entre sí dos cantidades que se suman: las sillas ocupadas y las vacías están en el mismo espacio. -->
-- [ ] C) 12 - 5 - 9 = -2
-  <!-- feedback: Incorrecto. Restaste el número de sillas que se llevan antes de juntar las sillas ocupadas con las vacías. -->
-- [ ] D) 5 - 12 - 9 = -16
+- [ ] A) 5 - 12 - 9 = -16
   <!-- feedback: Incorrecto. Empezaste restando por las sillas que se llevan, cuando lo que se resta es lo que sale del total. -->
+- [ ] B) 12 - 5 - 9 = -2
+  <!-- feedback: Incorrecto. Restaste el número de sillas que se llevan antes de juntar las sillas ocupadas con las vacías. -->
+- [ ] C) 12 - 9 - 5 = -2
+  <!-- feedback: Incorrecto. Restaste entre sí dos cantidades que se suman: las sillas ocupadas y las vacías están en el mismo espacio. -->
+- [x] D) 12 + 9 - 5 = 16
+  <!-- feedback: ¡Correcto! Primero se juntan las sillas ocupadas y las vacías (12 + 9 = 21) y luego se restan las que se llevan (21 - 5 = 16). -->
 
 ### Explicacion Pedagogica
 Formular bien una operación es ordenar los pasos del cálculo. Primero juntamos las sillas que ya están ocupadas (12) con las que están vacías (9) porque todas forman parte del total disponible: 12 + 9 = 21 sillas. Como luego se llevan 5 sillas, se restan: 21 - 5 = 16 sillas que quedan. El orden importa: si se resta antes de sumar, se están quitando sillas que nunca se contaron. Comprobar que el resultado sea menor que 21 y positivo ayuda a detectar el error.
