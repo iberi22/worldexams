@@ -274,5 +274,3 @@ Poner dos textos frente a frente permite ver cómo dialogan sin confundirlos. En
 
 ### Explicacion Pedagogica
 Valorar un texto argumentativo completo exige separar dos planos: lo que el escrito demuestra y lo que deja abierto. En la carta de Pereira, la evidencia sostiene la postura sobre el transporte escolar, pero la falta de costos y de efectos sobre los vecinos impide saber si la solución serviría en la práctica y para quién. Emitir un juicio equilibrado, ni una aprobación sin reservas ni una descalificación total, es lo que distingue a un lector crítico de alguien que solo reacciona a lo que le conviene.
-
-
