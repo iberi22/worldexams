@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-3-subject-matematicas",
+    "generated_at": "2026-09-29T20:11:28.541Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v1",
+      "statement": "En la cuenta 8 + 2 = 10, ¿qué signo representa el igual?",
+      "context": "En un salón de clases de Medellín, la profesora escribe operaciones en la pizarra y pide a los niños que completen el signo que falta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El signo igual",
+          "is_correct": true,
+          "feedback": "Correcto. El signo igual dice que los dos lados de la cuenta tienen el mismo valor: 8 + 2 y 10."
+        },
+        {
+          "letter": "B",
+          "text": "El signo mayor que",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo mayor que no sirve aquí, porque los dos lados de la cuenta valen lo mismo."
+        },
+        {
+          "letter": "C",
+          "text": "El signo menor que",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo menor que no corresponde, porque en esta cuenta no hay un lado más grande."
+        },
+        {
+          "letter": "D",
+          "text": "El signo más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo más sirve para sumar, no para decir que dos cantidades son iguales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo igual se escribe con dos rayitas horizontales y dice que lo de un lado tiene el mismo valor que lo del otro lado. En 8 + 2 = 10, la suma de la izquierda y el número de la derecha valen 10, entonces va un signo igual entre ellos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v2",
+      "statement": "En una competencia, Ana saltó 45 cm y Luis saltó 54 cm. ¿Qué signo va entre 45 y 54 para mostrar que Ana saltó menos que Luis?",
+      "context": "En una competencia de salto largo en el colegio de Neiva, la profesora anota las marcas de dos niños en la pizarra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El signo mayor que",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo mayor que se usa cuando el número de la izquierda es más grande que el de la derecha."
+        },
+        {
+          "letter": "B",
+          "text": "El signo igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo igual se usa cuando los dos números valen lo mismo, y aquí valen 45 y 54."
+        },
+        {
+          "letter": "C",
+          "text": "El signo menor que",
+          "is_correct": true,
+          "feedback": "Correcto. Como 45 es menor que 54, se escribe el signo menor que entre los dos números."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los signos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay un signo que sirve, y es el que indica que 45 es menor que 54."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El signo menor que se abre hacia el número más pequeño, y el signo mayor que se abre hacia el número más grande. Como 45 es menor que 54, escribimos el signo menor que. La boca del signo siempre mira hacia el número más pequeño.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v3",
+      "statement": "¿Qué signo completa esta comparación para que sea verdadera: 3 + 4 es __ 6?",
+      "context": "En un taller de la escuela de Montería, los niños comparan en la pizarra el resultado de una suma con un número dado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El signo menor que",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 7 no es menor que 6, así que la comparación quedaría falsa."
+        },
+        {
+          "letter": "B",
+          "text": "El signo mayor que",
+          "is_correct": true,
+          "feedback": "Correcto. La suma es 3 + 4 = 7, y como 7 es mayor que 6, va el signo mayor que."
+        },
+        {
+          "letter": "C",
+          "text": "El signo igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 7 no es igual a 6, porque 3 + 4 da 7 y no 6."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los signos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay un signo que hace verdadera la comparación, y es el mayor que."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero calculamos la suma: 3 + 4 = 7. Ahora comparamos el resultado con el 6 que está a la derecha. Como 7 es mayor que 6, escribimos el signo mayor que. Un paso clave es resolver la operación antes de elegir el signo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v4",
+      "statement": "En el patio hay 12 niños jugando fútbol y 18 niños jugando ronda. ¿Cómo se escribe esa comparación de forma correcta?",
+      "context": "En el recreo de una escuela de Florencia, dos grupos de niños cuentan cuántos están jugando en el patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 mayor que 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 12 no es mayor que el 18, entonces esa comparación sería falsa."
+        },
+        {
+          "letter": "B",
+          "text": "12 igual que 18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los números 12 y 18 no valen lo mismo, así que no va el signo igual."
+        },
+        {
+          "letter": "C",
+          "text": "18 menor que 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación al revés no corresponde, porque el enunciado pregunta por el grupo de 12."
+        },
+        {
+          "letter": "D",
+          "text": "12 menor que 18",
+          "is_correct": true,
+          "feedback": "Correcto. Como 12 es menor que 18, la comparación se escribe con el signo menor que."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando dos grupos tienen cantidades distintas, debemos colocar el grupo más pequeño de la izquierda. Como 12 es menor que 18, escribimos el signo menor que entre los dos números. Si escribiéramos al revés, con 18 de la izquierda, la comparación también sería verdadera, pero el enunciado pide mostrar que el primer grupo tiene menos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v5",
+      "statement": "Cuatro hermanos escribieron estas igualdades: 3 + 4 = 7, 5 + 3 = 7, 6 + 2 = 8 y 4 + 4 = 8. ¿Cuál de las igualdades no es correcta?",
+      "context": "En una tarea de la casa, cuatro hermanos escribieron igualdades en la pizarra del comedor y una de ellas está mal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 + 4 = 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta igualdad sí es correcta, porque 3 + 4 = 7."
+        },
+        {
+          "letter": "B",
+          "text": "6 + 2 = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta igualdad sí es correcta, porque 6 + 2 = 8."
+        },
+        {
+          "letter": "C",
+          "text": "4 + 4 = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta igualdad sí es correcta, porque 4 + 4 = 8."
+        },
+        {
+          "letter": "D",
+          "text": "5 + 3 = 7",
+          "is_correct": true,
+          "feedback": "Correcto. La igualdad no sirve, porque 5 + 3 = 8 y no 7."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para revisar cada igualdad calculamos la suma del lado izquierdo. La cuenta 3 + 4 = 7 está bien, la cuenta 5 + 3 = 8 y no 7, la cuenta 6 + 2 = 8 está bien, y la cuenta 4 + 4 = 8 está bien. La única igualdad que no se cumple es 5 + 3 = 7, porque esa suma da 8.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v6",
+      "statement": "En la recta numérica, 5 + 3 = 8 y 8 - 3 = 5. ¿Qué operación sirve para pasar de 5 a 8?",
+      "context": "En la clase de matemáticas de Pitalito, la profesora usa la recta numérica para explicar sumas y restas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 - 3 = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al restarle 3 al 5 se llega a 2, y el enunciado pide llegar a 8."
+        },
+        {
+          "letter": "B",
+          "text": "5 + 3 = 8",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumarle 3 al 5 se llega a 8, y eso se escribe 5 + 3 = 8."
+        },
+        {
+          "letter": "C",
+          "text": "3 - 5 = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa resta también da 2, así que no lleva del 5 al 8."
+        },
+        {
+          "letter": "D",
+          "text": "5 x 3 = 15",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación lleva del 5 al 15, y el enunciado pide llegar al 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para pasar de un número a otro se puede sumar o restar, según la dirección en la recta numérica. Si sumamos 3 al 5 obtenemos 8, y lo escribimos 5 + 3 = 8. Si restamos 3 al 8 obtenemos 5, que es el camino de regreso de la suma anterior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v7",
+      "statement": "Cuatro niños escribieron explicaciones para la igualdad 3 + 3 = 6. ¿Cuál explicación usa correctamente el signo igual?",
+      "context": "En un juego de mesa del grado 3 de Chía, cada niño debe explicar por escrito una igualdad con fichas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si tengo 3 fichas y recibo 3 fichas más, al final tengo 6 fichas.",
+          "is_correct": true,
+          "feedback": "Correcto. La explicación muestra que los dos lados valen lo mismo, que es lo que significa el signo igual."
+        },
+        {
+          "letter": "B",
+          "text": "El signo igual quiere decir que 3 + 3 es menor que 6.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo igual no habla de menor ni de mayor, solo dice que los dos lados valen lo mismo."
+        },
+        {
+          "letter": "C",
+          "text": "El signo igual quiere decir que 6 es más grande que 3 + 3.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos lados de esta cuenta valen 6, así que ninguno es más grande que el otro."
+        },
+        {
+          "letter": "D",
+          "text": "El signo igual quiere decir que hay menos de 6 fichas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 3 fichas más 3 fichas hay exactamente 6, y el signo igual no indica falta de fichas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo igual dice que lo que está a la izquierda tiene el mismo valor que lo que está a la derecha. En 3 + 3 = 6, las dos partes valen 6. Por eso la explicación correcta es la que muestra que al juntar 3 fichas con otras 3 se llega exactamente a 6 fichas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle-v8",
+      "statement": "En una pizarra de precios aparece 2.500 para el cuaderno y 1.200 para el esfero, junto con el signo mayor que. ¿Qué nos dice esa información?",
+      "context": "En una tienda de ropa de Cúcuta, el precio de un cuaderno y el de un esfero aparecen en una pizarra de precios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el cuaderno cuesta menos que el esfero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuaderno cuesta más, porque 2.500 pesos superan a 1.200 pesos."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dos objetos cuestan lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El signo mayor que muestra que los dos precios no son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cuaderno cuesta más que el esfero",
+          "is_correct": true,
+          "feedback": "Correcto. Como 2.500 es mayor que 1.200, el cuaderno cuesta más que el esfero."
+        },
+        {
+          "letter": "D",
+          "text": "Que el esfero no tiene precio en la pizarra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio del esfero aparece en la pizarra y es de 1.200 pesos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El signo mayor que indica que el número de la izquierda es más grande que el de la derecha. Como 2.500 está antes que 1.200, el cuaderno cuesta más que el esfero. La clave para leer una comparación es fijarse siempre en qué número está de cada lado del signo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

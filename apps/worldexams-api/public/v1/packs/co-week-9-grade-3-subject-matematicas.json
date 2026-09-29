@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-3-subject-matematicas",
+    "generated_at": "2026-09-29T20:11:28.540Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v1",
+      "statement": "En una gráfica de barras se vio que 5 niños eligieron fútbol, 3 eligieron ajedrez y 4 eligieron natación. ¿Cuántos niños eligieron natación?",
+      "context": "En la clase de educación física de una escuela de Villavicencio, se preguntó a 12 niños cuál era su deporte favorito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 niños",
+          "is_correct": true,
+          "feedback": "Correcto. La barra de natación tiene 4, y esa es la cantidad de niños que la eligieron."
+        },
+        {
+          "letter": "B",
+          "text": "3 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número 3 corresponde a los niños que eligieron ajedrez, no a natación."
+        },
+        {
+          "letter": "C",
+          "text": "5 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número 5 corresponde a los niños que eligieron fútbol."
+        },
+        {
+          "letter": "D",
+          "text": "12 niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 12 es el total de niños a los que se preguntó, y no la cantidad que eligió natación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una gráfica de barras cada barra representa una cantidad distinta. Para responder, buscamos la barra de natación y leemos su altura, que en este caso es 4. Podemos comprobarlo sumando todas las barras: 5 + 3 + 4 = 12, que es el total de niños preguntados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v2",
+      "statement": "En una tabla de ventas de un día se registra lo siguiente: mango 8 kg, manzana 5 kg y plátano 6 kg. ¿Qué fruta se vendió en menor cantidad?",
+      "context": "En un mercado de Popayán, la señora Rosa registró en una tabla cuántos kilogramos de cada fruta vendió en un día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mango",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mango tiene 8 kg, que es la mayor cantidad de la tabla."
+        },
+        {
+          "letter": "B",
+          "text": "El plátano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plátano tiene 6 kg, que es más que los 5 kg de la manzana."
+        },
+        {
+          "letter": "C",
+          "text": "La manzana",
+          "is_correct": true,
+          "feedback": "Correcto. La manzana tiene 5 kg, que es la menor cantidad de las tres frutas de la tabla."
+        },
+        {
+          "letter": "D",
+          "text": "Todas se vendieron igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cantidades son 8, 5 y 6 kg, y ninguna se repite."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para saber cuál es la menor cantidad, primero comparamos los tres números de la tabla: 8, 5 y 6. El número más pequeño es 5, que corresponde a la manzana. Un paso importante antes de comparar es identificar qué número acompaña a cada fruta en la tabla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v3",
+      "statement": "Una tabla muestra los libros prestados: lunes 12, martes 15 y miércoles 9. ¿Cuántos libros más se prestaron el martes que el miércoles?",
+      "context": "En una biblioteca de Florencia, la tabla muestra cuántos libros se prestaron cada día de una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 15 + 9 = 24, pero el enunciado pide una diferencia y no un total."
+        },
+        {
+          "letter": "B",
+          "text": "6 libros",
+          "is_correct": true,
+          "feedback": "Correcto. Al restar 15 - 9 = 6, el martes se prestaron 6 libros más que el miércoles."
+        },
+        {
+          "letter": "C",
+          "text": "3 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre 15 y 9 no es 3, así que la resta está mal hecha."
+        },
+        {
+          "letter": "D",
+          "text": "27 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número es la suma de los tres días, y lo que se pide es la diferencia entre dos días."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar dos días, restamos el valor menor al valor mayor: 15 - 9 = 6. Podemos comprobarlo sumando: 9 + 6 = 15, que es la cantidad del martes. Cuando el enunciado dice cuántos más, casi siempre hay que restar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v4",
+      "statement": "En un gráfico, cada dibujo representa 2 libros. La barra de novelas tiene 3 dibujos. ¿Cuántos libros de novelas hay realmente?",
+      "context": "En un gráfico de una escuela de Neiva, cada dibujo de un libro representa 2 libros reales de la biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número de dibujos, pero cada dibujo vale 2 libros."
+        },
+        {
+          "letter": "B",
+          "text": "2 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el valor de un solo dibujo, y la barra tiene 3 dibujos."
+        },
+        {
+          "letter": "C",
+          "text": "9 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 3 x 3, y el valor correcto de cada dibujo es 2 y no 3."
+        },
+        {
+          "letter": "D",
+          "text": "6 libros",
+          "is_correct": true,
+          "feedback": "Correcto. Si cada dibujo vale 2 libros y hay 3 dibujos, entonces 2 x 3 = 6 libros."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un gráfico con dibujos, cada dibujo vale una cantidad fija, y esa cantidad se escribe en la parte de arriba del gráfico. Como cada dibujo representa 2 libros y la barra tiene 3 dibujos, multiplicamos 2 x 3 = 6 libros. Antes de multiplicar, hay que leer bien el valor de cada dibujo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v5",
+      "statement": "Ana obtuvo 8, 9 y 10 en tres pruebas, y Luis obtuvo 6, 9 y 9. ¿Quién sumando sus tres notas obtuvo un total mayor?",
+      "context": "En un salón de clases de Ibagué, una gráfica de barras muestra las notas de dos estudiantes en tres pruebas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luis, porque su total es 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total de Luis es 24, que es menor que el total de Ana, que es 27."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos, porque obtuvieron el mismo total",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ana sumando 27 y Luis sumando 24, así que sus totales no son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "No se puede saber con esos datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos de las tres pruebas de cada estudiante sí permiten hacer la comparación."
+        },
+        {
+          "letter": "D",
+          "text": "Ana, porque su total es 27 y el de Luis es 24",
+          "is_correct": true,
+          "feedback": "Correcto. 8 + 9 + 10 = 27 y 6 + 9 + 9 = 24, entonces el total de Ana es mayor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para comparar, primero calculamos el total de cada uno. Ana: 8 + 9 + 10 = 27. Luis: 6 + 9 + 9 = 24. Como 27 es mayor que 24, Ana tiene el total más alto. Un dato clave es que Luis obtuvo un 9 igual que Ana, pero en las otras dos pruebas sacó menos puntos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v6",
+      "statement": "Una gráfica de barras muestra las ventas de cuatro días: día 1, 15 unidades; día 2, 10 unidades; día 3, 20 unidades; día 4, 5 unidades. ¿Cuál fue la diferencia entre el día que más vendió y el día que menos vendió?",
+      "context": "En un kiosco de Garzón, la gráfica de barras muestra las ventas de cuatro días de la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 10 son las ventas del día 2, no la diferencia entre el día de más y el de menos."
+        },
+        {
+          "letter": "B",
+          "text": "15 unidades",
+          "is_correct": true,
+          "feedback": "Correcto. El día que más vendió fue el 3 con 20 unidades y el que menos fue el 4 con 5, entonces 20 - 5 = 15."
+        },
+        {
+          "letter": "C",
+          "text": "20 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo las ventas del día 3 y te faltó restar las ventas del día 4."
+        },
+        {
+          "letter": "D",
+          "text": "25 unidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número no corresponde a restar el día con más ventas menos el día con menos ventas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Primero identificamos el día que más vendió, que fue el día 3 con 20 unidades, y el día que menos vendió, que fue el día 4 con 5 unidades. Luego restamos: 20 - 5 = 15 unidades. Para poder comparar, hay que localizar primero los dos valores extremos de la gráfica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v7",
+      "statement": "En una encuesta, 20 niños votaron por su sabor de helado favorito y 8 de ellos escogieron chocolate. Al hacer la gráfica, las barras quedaron con alturas que no corresponden a los datos. ¿Qué se debe hacer para que la gráfica sirva?",
+      "context": "En una encuesta del grado 3 de Sincelejo, 20 niños votaron por su sabor de helado favorito y luego hicieron una gráfica de barras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Revisar los datos y dibujar cada barra con su número exacto",
+          "is_correct": true,
+          "feedback": "Correcto. La altura de cada barra debe representar el dato real, y así la gráfica sí comunica la información."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar el título de la gráfica para que se vea mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un título bonito no sirve si las barras no muestran los datos reales."
+        },
+        {
+          "letter": "C",
+          "text": "Borrar los votos que no le gustan a la persona que dibujó",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se borran datos, la gráfica ya no representa lo que votó la gente."
+        },
+        {
+          "letter": "D",
+          "text": "Poner el mismo número en todas las barras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si todas las barras tienen la misma altura, se pierde la información de la encuesta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una gráfica de barras sirve cuando la altura de cada barra corresponde al dato que representa. Si las alturas no coinciden con los números de la encuesta, hay que volver a revisar los datos y dibujar de nuevo. Una gráfica mal hecha puede hacer que las personas entiendan mal la información.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle-v8",
+      "statement": "Una gráfica muestra los pasajeros de un bus en cuatro viajes: 20, 35, 20 y 25. ¿Cuál es el dato que se repite más veces?",
+      "context": "En la gráfica de barras de un bus escolar de Granada, en Cundinamarca, se muestra el número de pasajeros en cuatro viajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 pasajeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 25 aparece una sola vez en la gráfica, así que no es el dato que más se repite."
+        },
+        {
+          "letter": "B",
+          "text": "35 pasajeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 35 aparece una sola vez en la gráfica, así que no es el dato que más se repite."
+        },
+        {
+          "letter": "C",
+          "text": "20 pasajeros",
+          "is_correct": true,
+          "feedback": "Correcto. El número 20 aparece dos veces y los demás datos aparecen una sola vez, entonces 20 es el que más se repite."
+        },
+        {
+          "letter": "D",
+          "text": "Los cuatro datos se repiten igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el 20 aparece dos veces, y los otros tres datos aparecen una vez cada uno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dato que se repite más veces en una lista se llama moda. Al contar: el 20 aparece dos veces, y el 35, el 20 y el 25 aparecen una vez cada uno. Como el 20 es el único dato que se repite, la moda de estos datos es 20 pasajeros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
