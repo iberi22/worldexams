@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-3-grade-9-subject-lengua",
+    "generated_at": "2026-09-29T22:47:16.455Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son dos formas poéticas muy trabajadas dentro del género lírico?",
+      "context": "En un taller de poesía de Cúcuta, un grupo de noveno grado arma un mapa de las formas poéticas que conoce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El soneto y la balada",
+          "is_correct": true,
+          "feedback": "Ambas son formas poéticas tradicionales que se leen y analizan con frecuencia en noveno grado."
+        },
+        {
+          "letter": "B",
+          "text": "La novela y el cuento",
+          "is_correct": false,
+          "feedback": "La novela y el cuento son formas del género narrativo, no formas poéticas."
+        },
+        {
+          "letter": "C",
+          "text": "El drama y la comedia",
+          "is_correct": false,
+          "feedback": "El drama y la comedia pertenecen al género dramático, pensado para la representación."
+        },
+        {
+          "letter": "D",
+          "text": "La crónica y el ensayo",
+          "is_correct": false,
+          "feedback": "La crónica y el ensayo son formas del texto no ficcional, no formas poéticas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dentro del género lírico existen muchas formas, y dos de las más trabajadas en la escuela colombiana son el soneto y la balada. El soneto se reconoce por su estructura de catorce versos; la balada, por narrar en versos con un ritmo marcado. Conocer estas formas permite leer con precisión los poemas que aparecen en las antologías del grado noveno.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v2",
+      "statement": "Qué caracteriza al género lírico frente al género narrativo?",
+      "context": "La docente de Español de Bogotá explica por qué un poema no es un texto corto cualquiera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narra hechos que ocurrieron en un tiempo y un lugar definidos",
+          "is_correct": false,
+          "feedback": "Esa es la función del género narrativo, que organiza hechos, personajes y tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Expresa la experiencia subjetiva de quien escribe y busca provocar una emoción en el lector",
+          "is_correct": true,
+          "feedback": "La liricidad se define por la expresión de la subjetividad y la invitación a sentir."
+        },
+        {
+          "letter": "C",
+          "text": "Expone argumentos para demostrar una tesis ante un público",
+          "is_correct": false,
+          "feedback": "Esa es la función del texto argumentativo, no la del género lírico."
+        },
+        {
+          "letter": "D",
+          "text": "Reproduce de manera exacta un diálogo entre dos personajes",
+          "is_correct": false,
+          "feedback": "El dialogue pertenece tanto a la narrativa como al drama; no define el género lírico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género lírico se reconoce por la manera en que el yo poético se relaciona con lo que dice: no informa sobre el mundo, lo interpela. A diferencia de la narrativa, aquí importa más el tono que el hecho. Esta comprensión es la base para explicar por qué dos poemas sobre el mismo tema pueden decir cosas muy distintas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v3",
+      "statement": "Un texto dice así: no llores, mujer, / que el mar no sabe llorar; / llora tú, que el dolor / también es un mar. ¿De qué género se trata y por qué?",
+      "context": "Un estudiante de noveno grado de Pereira lee un fragmento en clase y debe decidir a qué género pertenece.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo, porque aparecen figuras como la mujer y el mar",
+          "is_correct": false,
+          "feedback": "Que haya figuras no convierte el poema en relato: no hay secuencia de hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Dramático, porque el yo poético habla con alguien como en una escena",
+          "is_correct": false,
+          "feedback": "Dirigirse a alguien no equivale a representar una escena ante un público."
+        },
+        {
+          "letter": "C",
+          "text": "Lírico, porque el yo poético se dirige a alguien y le propone una emoción, sin narrar hechos",
+          "is_correct": true,
+          "feedback": "El texto se organiza en versos y busca provocar una emoción, que es el núcleo del género lírico."
+        },
+        {
+          "letter": "D",
+          "text": "Argumentativo, porque intenta convencer a la mujer de que no llore",
+          "is_correct": false,
+          "feedback": "Hay un tono imperativo, pero no hay tesis ni demostración: el efecto buscado es emocional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la clasificación exige identificar la intención dominante del texto. Este fragmento usa versos, imágenes y un imperativo para provocar una emoción concreta, que es la operación típica de la liricidad. Textos como este, heredados de la tradición europea, aparecen con frecuencia en las lecturas de grado noveno.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v4",
+      "statement": "Qué recurso explica que un poema diga que el miedo es una sombra larga?",
+      "context": "En el aula de Español de Neiva, la docente pide identificar qué recurso explica un verso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La enumeración, porque el poema enumera varios elementos seguidos",
+          "is_correct": false,
+          "feedback": "En este verso no hay una serie de elementos, sino una sola comparación."
+        },
+        {
+          "letter": "B",
+          "text": "El epíteto, porque el miedo aparece unido a una imagen",
+          "is_correct": false,
+          "feedback": "El epíteto es un adjetivo que se antepone al sustantivo, no una comparación."
+        },
+        {
+          "letter": "C",
+          "text": "La hipérbole, porque el miedo se presenta con exceso de intensidad",
+          "is_correct": false,
+          "feedback": "No hay exageración de magnitud: hay una imagen que traslada una emoción a lo visible."
+        },
+        {
+          "letter": "D",
+          "text": "La metáfora, porque acerca una emoción a algo concreto para que se pueda ver",
+          "is_correct": true,
+          "feedback": "Comparar el miedo con una sombra acerca lo abstracto a lo concreto y produce una imagen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La metáfora es un recurso de la lírica que reemplaza una palabra por otra para crear una imagen. Decir que el miedo es una sombra larga convierte una emoción invisible en algo que el lector puede visualizar. Reconocer el recurso permite explicar por qué un poema se siente más intenso que una descripción directa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v5",
+      "statement": "Qué función cumple el verso en un poema?",
+      "context": "En Manizales, un grupo de noveno grado estudia por qué la poesía se organiza en versos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizar el lenguaje en unidades rítmicas que marcan pausas y refuerzan la voz del poeta",
+          "is_correct": true,
+          "feedback": "Cada corte del verso impone una pausa que lleva su propio ritmo y su propio énfasis."
+        },
+        {
+          "letter": "B",
+          "text": "Reducir la extensión del texto para que quepa en una página de cuaderno",
+          "is_correct": false,
+          "feedback": "El verso no mide extensión: responde al ritmo, la pausa y la musicalidad."
+        },
+        {
+          "letter": "C",
+          "text": "Hacer que el poema sea más fácil de aprender de memoria por los estudiantes",
+          "is_correct": false,
+          "feedback": "Aunque el ritmo ayuda a memorizar, esa no es la función primaria del verso."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar por completo el uso de la puntuación en todo el poema",
+          "is_correct": false,
+          "feedback": "El verso convive con la puntuación; no la reemplaza ni la evita de manera general."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verso es la unidad básica de la poesía y funciona como un marco rítmico que orienta la lectura en voz alta. Cada corte del verso impone una pausa que el lector debe respetar, y esa pausa carga parte del significado. Esta idea explica por qué cambiar la puntuación de un poema altera profundamente su sentido.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v6",
+      "statement": "Cuál es la diferencia entre el yo lírico y el yo narrativo?",
+      "context": "En la clase de Español de Montería, la docente lee dos versiones de un mismo poema y pide comparar sus tonos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El yo lírico siempre habla en primera persona y el yo narrativo nunca",
+          "is_correct": false,
+          "feedback": "El yo narrativo puede aparecer en primera persona, y el lírico puede hablar desde la distancia."
+        },
+        {
+          "letter": "B",
+          "text": "El yo lírico expresa una experiencia interior, mientras el yo narrativo informa sobre lo que ocurrió",
+          "is_correct": true,
+          "feedback": "El yo lírico siente y dice; el yo narrativo cuenta y reporta."
+        },
+        {
+          "letter": "C",
+          "text": "El yo lírico es real y el yo narrativo es inventado",
+          "is_correct": false,
+          "feedback": "Ambos son construcciones del texto; ninguno es el autor real de la obra."
+        },
+        {
+          "letter": "D",
+          "text": "El yo lírico narra hechos y el yo narrativo expresa emociones",
+          "is_correct": false,
+          "feedback": "La relación está invertida: narrar hechos es función del yo narrativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El yo poético es una voz construida que expresa una experiencia subjetiva, mientras que el yo narrador organiza hechos y los reporta. No son sinónimos del autor real del poema, sino funciones dentro del texto. Esta distinción es indispensable para no leer un poema como si fuera un relato de hechos comprobables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v7",
+      "statement": "Un poema dice: la ciudad despierta / bajo un manto de niebla / y guarda sus secretos en las esquinas. ¿Qué explica el uso de la personificación?",
+      "context": "En un seminario de grado noveno en Armenia, un grupo analiza cómo un poema construye una imagen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compara la niebla con un manto, lo que establece una metáfora visual",
+          "is_correct": false,
+          "feedback": "La personificación va más allá de la comparación: atribuye conducta a algo no humano."
+        },
+        {
+          "letter": "B",
+          "text": "Repite la palabra ciudad en varios versos, lo que produce anáfora",
+          "is_correct": false,
+          "feedback": "Hay personificación en el poema, pero la anáfora no es lo que se está observando."
+        },
+        {
+          "letter": "C",
+          "text": "Atribuye acciones humanas a la ciudad, lo que la vuelve un ser vivo y cercano",
+          "is_correct": true,
+          "feedback": "La personificación humaniza el paisaje y refuerza la atmósfera de secreto del poema."
+        },
+        {
+          "letter": "D",
+          "text": "Acorta los versos del poema, lo que acelera la lectura",
+          "is_correct": false,
+          "feedback": "La extensión de los versos es un rasgo formal, no un efecto de la personificación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La personificación atribuye vida, acciones o intenciones a elementos que no las tienen. Aquí la ciudad despierta y guarda secretos, como si fuera una persona, y con ello el poema construye una atmósfera de misterio. Analizar estos recursos es el centro del trabajo de grado noveno, donde se estudia cómo la forma sostiene el significado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v8",
+      "statement": "Un poema llama al mar un monstruo y otro lo llama un espejo. ¿Qué muestra esta comparación?",
+      "context": "En el aula de Español de Sincelejo, los estudiantes discuten si dos poemas con el mismo tema dicen lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el segundo poema está mal escrito por ser menos peligroso",
+          "is_correct": false,
+          "feedback": "No hay normas de corrección distintas: la imagen del espejo cumple otra función poética."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mar cambia de forma según el día",
+          "is_correct": false,
+          "feedback": "Las imágenes no describen una transformación real del mar, sino una interpretación poética."
+        },
+        {
+          "letter": "C",
+          "text": "Que los dos poemas pertenecen al género narrativo",
+          "is_correct": false,
+          "feedback": "Ambos textos son líricos; lo que cambia es la imagen elegida, no el género."
+        },
+        {
+          "letter": "D",
+          "text": "Que un mismo referente puede generar imágenes y emociones muy distintas según el poema",
+          "is_correct": true,
+          "feedback": "La imagen elegida orienta la interpretación y el efecto que el poema produce en el lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dos poemas pueden partir del mismo referente y construir mundos poéticos distintos, porque cada uno elige imágenes que orientan la emoción del lector. No hay una imagen correcta y otra incorrecta: hay dos maneras distintas de transformar la realidad en experiencia poética. Esta lectura comparada es una de las estrategias más potentes para comprender el género lírico.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v9",
+      "statement": "Un poema de León de Greiff describe el río como un animal de lomo de piedra. ¿Qué relación se establece entre el poema y el territorio que describe?",
+      "context": "En un proyecto de lectura de Bogotá, los estudiantes relacionan la poesía colombiana con su territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El poema transforma el paisaje colombiano en una imagen viva, conectando la palabra con el territorio",
+          "is_correct": true,
+          "feedback": "La imagen del animal convierte un paisaje real en una experiencia poética ligada al territorio."
+        },
+        {
+          "letter": "B",
+          "text": "El poema describe el río con exactitud científica, como lo haría un texto informativo",
+          "is_correct": false,
+          "feedback": "El río no es un animal: la imagen es poética y no una descripción literal ni científica."
+        },
+        {
+          "letter": "C",
+          "text": "El poema es una guía de navegación que orienta al lector por el río",
+          "is_correct": false,
+          "feedback": "El propósito del poema es expresivo, no utilitario ni instructivo."
+        },
+        {
+          "letter": "D",
+          "text": "El poema pertenece al género dramático porque describe una actuación del río",
+          "is_correct": false,
+          "feedback": "Describir no equivale a representar ante público: el género del texto es lírico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La poesía colombiana tiene una relación estrecha con el territorio, y muchos de sus poemas transforman la geografía en imágenes. Al humanizar el río, el poema muestra cómo la palabra puede habitar un paisaje y hacerlo significativo. Comprender esta relación ayuda a leer con respeto y atención la obra de León de Greiff en el aula.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v10",
+      "statement": "Un poema de treinta versos no tiene rima ni una sola imagen y solo repite la palabra lluvia en cada verso. ¿Cuál es la evaluación más sólida?",
+      "context": "En la revista escolar de Ibagué, un comité evalúa un poema enviado por un estudiante de noveno grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un excelente poema, porque la repetición crea un efecto de insistencia valioso",
+          "is_correct": false,
+          "feedback": "La repetición puede ser un recurso, pero necesita integrarse con imágenes o con una estructura significativa."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto débil, porque la repetición por sí sola no constituye un recurso capaz de sostener el poema",
+          "is_correct": true,
+          "feedback": "Sin imágenes ni un patrón rítmico, la repetición no alcanza para construir liricidad."
+        },
+        {
+          "letter": "C",
+          "text": "Es un excelente poema, porque todos sus versos son originales",
+          "is_correct": false,
+          "feedback": "La originalidad de la forma no garantiza que el poema cumpla una función expresiva."
+        },
+        {
+          "letter": "D",
+          "text": "No es un poema porque no tiene rima, así que pertenece al género narrativo",
+          "is_correct": false,
+          "feedback": "La rima no es obligatoria en poesía, y su ausencia no convierte un poema en relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un poema exige verificar que la forma efectivamente construye la experiencia expresiva. Un recurso aislado, como la repetición, no basta si no se integra con imágenes, ritmo o estructura. Este criterio permite distinguir lo simplemente raro de lo verdaderamente poético en un análisis de grado alto.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v11",
+      "statement": "Un grupo de noveno grado afirma que un poema es valioso si y solo si usa palabras difíciles. ¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En un debate de salón en Valledupar, se discute qué condiciones debe cumplir un buen poema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el idioma poético exige un vocabulario culto y poco común",
+          "is_correct": false,
+          "feedback": "No existe tal exigencia; muchos poemas usan un vocabulario sencillo y cotidiano."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta porque todos los poemas están obligados a usar metáforas",
+          "is_correct": false,
+          "feedback": "La afirmación no habla de metáforas: habla de vocabulario, que es otro asunto."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque el valor de un poema depende de la intensidad de lo que comunica y no del vocabulario",
+          "is_correct": true,
+          "feedback": "Un lenguaje complicado no garantiza la liricidad: puede incluso impedir la comunicación."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si el poema tiene rima, porque la rima obliga al uso de palabras raras",
+          "is_correct": false,
+          "feedback": "La rima no obliga a usar palabras raras: puede construirse con vocabulario cotidiano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una buena evaluación de la poesía debe mirar la eficacia expresiva y no la complejidad del código. Un vocabulario difícil puede volver el poema inaccesible sin sumar nada a la experiencia que transmite. Este criterio, que separa el estilo del valor, es un contenido de razonamiento exigido por las pruebas Saber del componente lector.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle-v12",
+      "statement": "Un poema escrito en lenguaje sencillo, sin rima, pero con imágenes precisas sobre la lluvia en el Chocó es descartado por un jurado que prefiere la poesía barroca. ¿Qué respuesta es la más sólida?",
+      "context": "En la clase de Español de Buenaventura, los estudiantes aplican todo lo aprendido a la valoración de un texto poético.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El jurado tiene razón, porque solo la forma clásica permite una buena imagen",
+          "is_correct": false,
+          "feedback": "La forma clásica no es la única manera de producir imágenes ni de lograr eficacia poética."
+        },
+        {
+          "letter": "B",
+          "text": "El poema es mejor solo porque habla del Chocó, que es un tema más importante",
+          "is_correct": false,
+          "feedback": "La novelty regional no es un criterio de calidad poética por sí mismo."
+        },
+        {
+          "letter": "C",
+          "text": "El jurado tiene razón si el poema no usa metáforas, porque la metáfora es obligatoria",
+          "is_correct": false,
+          "feedback": "La metáfora es un recurso frecuente, pero no es obligatoria en todo poema."
+        },
+        {
+          "letter": "D",
+          "text": "El jurado se equivoca, porque la eficacia de una imagen no depende de la complejidad de la forma",
+          "is_correct": true,
+          "feedback": "Un lenguaje sencillo con imágenes precisas cumple mejor la función expresiva que la forma oscura."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar un poema exige separar el prestigio de una forma tradicional de la eficacia de la experiencia expresiva. Un texto en lenguaje sencillo puede construir imágenes potentes y lograr decir algo que sí transforme al lector. Este discernimiento es una habilidad de nivel alto que las pruebas Saber evalúan mediante preguntas de razonamiento crítico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
