@@ -176,7 +176,7 @@ La forma de la oración revela si el texto está ordenando una acción o describ
 **ID:** CO-LC-8-2026-W10-la-lectura-de-textos-no-lineales-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Discursivo
-**Contexto:** En la revista escolar de un colegio de Manizales hay una tira de dibujos de cuatro cuadros. En el primero, Andrés espera en la parada del bus con el morral al hombro. En el segundo, se ve el morral abierto y sus dos manos buscando. En el tercero, un círculo de trazos gruesos como una lupa señala el suelo debajo de una banca, donde aparece el tiquete. En el cuarto, el conductor se encoge de hombros.
+**Contexto:** En la revista escolar de Manizales hay una tira de cuatro cuadros. En el primero Andrés espera en la parada del bus con el morral al hombro. En el segundo el morral está abierto y sus manos buscan. En el tercero una lupa señala el tiquete en el suelo de una banca. En el cuarto el conductor se encoge.
 **Expected_Success:** 0.62
 
 ### Enunciado
@@ -186,7 +186,7 @@ La forma de la oración revela si el texto está ordenando una acción o describ
 - [ ] A) La cantidad de texto escrito dentro de cada cuadro, porque en todos hay tres frases que explican lo ocurrido. <!-- feedback: Incorrecta: la tira se apoya en dibujos y no en frases largas, y son las imágenes las que cuenta la historia. -->
 - [ ] B) El color de fondo, que es el mismo en los cuatro cuadros y por eso reemplaza a la numeración. <!-- feedback: Incorrecta: un fondo repetido no indica el paso del tiempo ni el orden de los cuadros de la tira. -->
 - [ ] C) El número de dibujos de cada cuadro, porque todos tienen al menos cinco imágenes y eso ordena la historia. <!-- feedback: Incorrecta: la cantidad de dibujos de un cuadro no establece la secuencia, y la historia avanza por la posición de los cuadros. -->
-- [x] D) La continuidad entre cuadros: se leen de izquierda a derecha y el tiquete cambia de lugar, del morral al suelo. <!-- feedback: Es la opción correcta: la posición de los cuadros y el cambio de lugar del objeto reconstruct la secuencia de los hechos. -->
+- [x] D) La continuidad entre cuadros: se leen de izquierda a derecha y el tiquete cambia de lugar, del morral al suelo. <!-- feedback: Es la opción correcta: la posición de los cuadros y el cambio de lugar del objeto permiten reconstruir la secuencia de los hechos. -->
 
 ### Explicacion Pedagogica
 En una tira de dibujos la coherencia se construye con recursos propios del formato, entre ellos la secuencia de los cuadros y la permanencia o el desplazamiento de los elementos que aparecen. En esta historia, el tiquete pasa del morral al suelo y ese cambio permite entender lo ocurrido sin que ningún cuadro lleve número. Analizar estos recursos de cohesión enseña a los estudiantes a seguir el hilo de un texto no lineal y a explicar por qué se entiende sin un orden impuesto.
@@ -197,7 +197,7 @@ En una tira de dibujos la coherencia se construye con recursos propios del forma
 **ID:** CO-LC-8-2026-W10-la-lectura-de-textos-no-lineales-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Semántico
-**Contexto:** En un colegio de Cartagena hay una infografía pegada en el pasillo que compara el gasto de agua de varios edificios. Una de las frases de la lámina dice: "El consumo per cápita del edificio B fue el más bajo del semestre". Debajo, un gráfico de barras muestra los valores de cada edificio y la palabra "per cápita" vuelve a aparecer en el rótulo del gráfico.
+**Contexto:** En un colegio de Cartagena, una infografía pegada en el pasillo compara el gasto de agua de varios edificios. Una frase de la lámina dice: "El consumo per cápita del edificio B fue el más bajo del semestre". Debajo, un gráfico de barras muestra los valores y la palabra "per cápita" vuelve a aparecer en el rótulo.
 **Expected_Success:** 0.58
 
 ### Enunciado
@@ -218,7 +218,7 @@ En una infografía, muchas palabras técnicas aparecen junto a un gráfico y sol
 **ID:** CO-LC-8-2026-W10-la-lectura-de-textos-no-lineales-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **ICFES:** Pragmático
-**Contexto:** Para una salida escolar al río, un grupo de grado octavo de un colegio de Pereira preparó un mapa de la ruta. El río aparece como una franja azul ancha en un margen, los caminos asfaltados como líneas gruesas y los senderos de tierra como líneas delgadas. Sobre la franja azul hay dos flechas que señalan el punto de partida y el punto de llegada.
+**Contexto:** Para una salida escolar al río, un grupo de grado octavo de Pereira preparó un mapa de la ruta. El río aparece como una franja azul ancha en un margen, los caminos asfaltados como líneas gruesas y los senderos de tierra como líneas delgadas. Sobre la franja azul hay dos flechas que marcan la partida y la llegada.
 **Expected_Success:** 0.55
 
 ### Enunciado
@@ -239,14 +239,14 @@ Un mapa organiza la información espacial mediante decisiones de jerarquía, y n
 **ID:** CO-LC-8-2026-W10-la-lectura-de-textos-no-lineales-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Crítico-Intertextual
-**Contexto:** En la sala de sistemas de un colegio de Pasto hay un cartel con los pasos para hacer un mapa conceptual. El texto está en una sola línea larga de letra pequeña, sin listas, sin dibujos y sin separación entre pasos; al final solo dice "luego haz lo mismo con tu tema". Los mismos pasos, en la página web del colegio, aparecen numerados, uno en cada línea.
+**Contexto:** En la sala de sistemas de un colegio de Pasto hay un cartel con los pasos para hacer un mapa conceptual. El texto está en una sola línea, sin listas, sin dibujos y sin separación entre pasos; al final solo dice "luego haz lo mismo". En la página web del colegio esos mismos pasos aparecen numerados, uno en cada línea.
 **Expected_Success:** 0.48
 
 ### Enunciado
 Un compañero que nunca ha hecho un mapa conceptual tiene el cartel en la mano y dice que no puede seguir los pasos. Al comparar el cartel con la versión numerada de la página web, ¿qué juicio es el más adecuado?
 
 ### Opciones
-- [ ] A) El cartel no sirve, porque la página web del colegio tampoco numera esos pasos en ningún lugar. <!-- feedback: Incorrecta: el contexto indica que en la página web los pasos sí aparecen numerados, uno en cada línea. -->
+- [ ] A) El cartel no sirve, porque en la página web del colegio esos pasos tampoco aparecen numerados. <!-- feedback: Incorrecta: el contexto indica que en la página web los pasos sí están numerados, uno en cada línea. -->
 - [ ] B) El cartel sirve, porque en la página web los pasos están con viñetas y eso resuelve la duda del lector del cartel. <!-- feedback: Incorrecta: las viñetas de la página web no cambian el cartel; quien tiene el cartel delante sigue sin ver dónde empieza cada paso. -->
 - [ ] C) El cartel no sirve, porque todo texto no lineal necesita imágenes y el cartel del colegio no tiene ninguna. <!-- feedback: Incorrecta: la ausencia de imágenes es un problema menor, y el obstáculo mayor es que los pasos vienen pegados en un solo bloque. -->
 - [x] D) El cartel no le sirve a un lector nuevo, porque los pasos no están separados ni numerados, algo que sí está resuelto en la versión de la página web. <!-- feedback: Es la opción correcta: al comparar las dos versiones se ve que el problema del cartel es la falta de marcas visuales, no la falta de información. -->
@@ -260,7 +260,7 @@ Evaluar un texto no lineal exige contrastar lo que el formato ofrece con lo que 
 **ID:** CO-LC-8-2026-W10-la-lectura-de-textos-no-lineales-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Textual
-**Contexto:** Una revista escolar de un colegio de Barranquilla publicó un artículo de tres columnas sobre el origen del barrio San Roque. Después, ese mismo artículo se transformó en una infografía de una sola página pegada en el patio: la versión corta conserva el título y dos fechas, pero los testimonios de los tres vecinos y las descripciones de las casas quedaron fuera.
+**Contexto:** La revista escolar de un colegio de Barranquilla publicó un artículo de tres columnas sobre el barrio San Roque. Después, ese mismo artículo se transformó en una infografía de una página pegada en el patio: la versión corta conserva el título y dos fechas, pero los testimonios de tres vecinos y las descripciones de las casas quedaron fuera.
 **Expected_Success:** 0.45
 
 ### Enunciado
