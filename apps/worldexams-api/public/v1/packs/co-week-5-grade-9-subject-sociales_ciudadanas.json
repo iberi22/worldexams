@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-29T21:27:07.415Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza principalmente a una tienda del comercio local de un barrio?",
+      "context": "En un colegio de Bucaramanga, la profesora de sociales recorre con sus estudiantes de noveno grado la calle comercial del barrio y les pide que identifiquen qué tipo de actividad económica observan en cada negocio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un establecimiento privado administrado directamente por comerciantes del propio barrio que venden bienes o servicios a clientes cercanos.",
+          "is_correct": true,
+          "feedback": "Correcto. El comercio local se distingue por la cercanía al consumidor y por la administración directa de comerciantes del territorio."
+        },
+        {
+          "letter": "B",
+          "text": "Es una empresa transnacional que sucursaliza locales en todos los departamentos del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde a grandes superficies o cadenas nacionales, no al comercio de barrio."
+        },
+        {
+          "letter": "C",
+          "text": "Es un ente del Estado que cobra impuestos a los comerciantes de una localidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna tienda del comercio local es un ente estatal; su función es vender, no fiscalizar."
+        },
+        {
+          "letter": "D",
+          "text": "Es un espacio dedicado únicamente a producir alimentos artesanales, sin ningún tipo de venta al público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una tienda comercializa bienes o servicios, aunque también puede incluir producción artesanal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El comercio local agrupa las actividades de venta de bienes y servicios que se realizan de manera directa y cercana a los habitantes de un mismo barrio o localidad. Sus propietarios suelen ser comerciantes que viven o trabajan en la zona, por lo que conocen de primera mano las necesidades de sus clientes. Este tipo de comercio cumple una función social además de económica, porque sostiene los intercambios cotidianos y mantiene viva la actividad de las calles. Por eso se considera un motor de la economía de proximidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v2",
+      "statement": "Una de las principales ventajas que ofrecen las tiendas del comercio local frente a las grandes superficies comerciales es:",
+      "context": "En un colegio de Pereira, un estudiante de noveno grado compara los precios de un mismo producto en una tienda del barrio y en una gran superficie comercial de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ofrecer una menor cantidad de productos y una atención menos personalizada para cada cliente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es una desventaja típica del comercio pequeño, no una ventaja frente a las grandes superficies."
+        },
+        {
+          "letter": "B",
+          "text": "Tener la capacidad de comprar grandes volúmenes de productos importados a precios muy bajos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese poder de compra corresponde a las grandes superficies, no a los comercios de barrio."
+        },
+        {
+          "letter": "C",
+          "text": "Brindar cercanía, trato directo con el comerciante y posibilidad de comprar productos frescos o a granel.",
+          "is_correct": true,
+          "feedback": "Correcto. La proximidad, la atención directa y la venta de productos frescos o a granel son rasgos típicos del comercio local."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener una infraestructura national de distribución que reduce los costos de transporte a todo el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La logística nacional de gran escala es propia de las grandes cadenas, no del comercio de barrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El comercio local compite con las grandes superficies mediante la cercanía y la relación personal con el cliente. El comerciante de barrio conoce a sus clientes, puede atender pedidos especiales y, en muchos casos, expende productos frescos, abarrotes o venta a granel que las grandes superficies no manejan igual. Esta ventaja comparativa es de servicio y confianza, no de precio ni de volumen. Reconocer estos rasgos ayuda a explicar por qué el pequeño comercio sigue siendo relevante en un barrio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v3",
+      "statement": "En la dinámica del comercio local, las pequeñas tiendas suelen convertirse en fuentes de empleo porque:",
+      "context": "En Tunja, durante una salida escolar, los estudiantes de noveno grado observan que algunos comercios del centro tienen pocos empleados pero venden cada día a muchos clientes del municipio y sus alrededores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Necesitan personas cercanas al barrio para atender a los clientes, ordenar los productos y realizar las entregas.",
+          "is_correct": true,
+          "feedback": "Correcto. El comercio pequeño crea puestos de trabajo accesibles para los habitantes del mismo sector."
+        },
+        {
+          "letter": "B",
+          "text": "Sus propietarios están obligados por la ley a contratar tantos empleados como las grandes empresas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe esa obligación legal; la ley solo exige cumplir las normas laborales cuando existe contrato de trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Solo venden productos de otras regiones, por lo que no generan ninguna ocupación para los habitantes del sector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque vendan productos elaborados en otras regiones, necesitan personal para atender, ordenar y entregar."
+        },
+        {
+          "letter": "D",
+          "text": "Sus beneficios dependen exclusivamente de la venta de acciones en la bolsa de valores del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un comercio de barrio no cotiza en la bolsa ni depende del mercado de acciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las tiendas de barrio suelen generar empleo de manera intensiva, es decir, creando plazas de trabajo por cada volumen pequeño de ventas. Estas oportunidades se dirigen a personas de la misma región, en ocupaciones como venta, cargue, administración de pequeños negocios o reparto a domicilio. Además, muchos de estos contratos son flexibles y se relacionan de manera informal con la actividad comercial. Por esta razón, el comercio local es reconocido como una fuente de trabajo cercana e incluyente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v4",
+      "statement": "Un pequeño mercado de barrio vende frutas, verduras y productos de la región a precios bajos. ¿Qué problema económico atiende principalmente este establecimiento?",
+      "context": "En Villavicencio, la profesora de sociales propone a sus estudiantes de noveno grado un ejercicio donde deben relacionar un tipo de comercio con el problema económico que atiende.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exclusión del sistema financiero para las grandes empresas del sector productivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comercio de barrio no presta servicios financieros a grandes empresas."
+        },
+        {
+          "letter": "B",
+          "text": "El acceso de los hogares de bajos ingresos a alimentos básicos a precios accesibles y cercanos.",
+          "is_correct": true,
+          "feedback": "Correcto. Suministrar alimentos básicos a precios accesibles responde a una necesidad básica de las familias con menor ingreso."
+        },
+        {
+          "letter": "C",
+          "text": "La saturación del mercado de verduras con productos importados de otros países.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción se refiere a la importación de alimentos, no a la función de un mercado local."
+        },
+        {
+          "letter": "D",
+          "text": "El redireccionamiento de la producción agrícola nacional hacia la exportación masiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un mercado de barrio distribuye productos; no dirige la producción agrícola del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un problema económico permite reconocer la función social de los establecimientos comerciales. Un mercado que ofrece frutas, verduras y productos regionales a precios bajos y en una ubicación cercana responde directamente a una necesidad básica de los hogares. El precio accesible y la cercanía reducen los costos de acceso, lo que beneficia especialmente a las familias con menores ingresos. De esta manera, el comercio local contribuye a la seguridad alimentaria de la comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v5",
+      "statement": "Frente al crecimiento de las plataformas digitales de comercio electrónico, ¿qué estrategia puede aplicar de manera sostenible un comercio local para mantenerse en el mercado?",
+      "context": "En Manizales, los estudiantes de noveno grado discuten con su profesora el caso de una tienda de barrio que vende productos nacionales mientras una plataforma en línea ofrece los mismos artículos con envío a domicilio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerrar el local y esperar que las plataformas digitales reemplacen toda la venta física del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cerrar el local elimina la relación cercana con el cliente sin mejorar la capacidad comercial del negocio."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar exactamente las estrategias de las grandes cadenas sin distinguir las necesidades del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Imitar sin adaptar no responde a la realidad económica y social del comercio de barrio."
+        },
+        {
+          "letter": "C",
+          "text": "Usar redes sociales y canales digitales para mostrar sus productos y combinar la venta presencial con el domicilio.",
+          "is_correct": true,
+          "feedback": "Correcto. La presencia digital con venta presencial combina las ventajas propias del comercio local con las herramientas del comercio electrónico."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar sus precios para compensar la caída de ventas y evitar la competencia de las plataformas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subir precios debilita la competencia frente a las plataformas, que suelen ofrecer precios más bajos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La llegada del comercio electrónico ha transformado la manera de comprar, pero no ha eliminado la importancia del contacto directo. Un comercio local puede integrar las herramientas digitales a su operación cotidiana, por ejemplo, publicando un catálogo por redes sociales y ofreciendo entregas a domicilio. Esta estrategia permite conservar su ventaja de cercanía y rapidez al tiempo que se responde a los nuevos hábitos de compra. Se trata de integrar canales, no de renunciar a la identidad del negocio de barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué se exige a los comerciantes ambulantes un permiso y un espacio asignado para operar?",
+      "context": "En Bogotá, un comité escolar de noveno grado analiza por qué los vendedores ambulantes del barrio necesitan permisos especiales para trabajar en la calle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para ordenar el uso del espacio público, garantizar la circulación de los ciudadanos y proteger la seguridad de todos los usuarios de la vía.",
+          "is_correct": true,
+          "feedback": "Correcto. El permiso ordena el uso del espacio público y protege la movilidad y la seguridad de los ciudadanos."
+        },
+        {
+          "letter": "B",
+          "text": "Para que solo los grandes supermercados puedan vender en la calle y desplazar a todos los pequeños comerciantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulación busca ordenar la actividad, no eliminar a los comerciantes ambulantes del espacio público."
+        },
+        {
+          "letter": "C",
+          "text": "Para convertir a los vendedores ambulantes en empleados públicos de las alcaldías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El permiso de venta en espacio público no convierte al comerciante en funcionario ni en empleado del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Para fijar un precio único para todos los productos que se venden en las calles del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regulación municipal no establece una tabla de precios única para los productos de venta ambulante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La regulación de la venta en espacio público cumple una función de ordenamiento urbano y de convivencia ciudadana. El permiso asigna un lugar, un horario y unas condiciones de operación para que la actividad comercial no afecte la circulación peatonal ni vehicular, ni la seguridad de los transeúntes. El cumplimiento de estas reglas garantiza que el uso del espacio público sea ordenado y respetuoso para todos. Se trata de regular dónde y cómo se vende, no de prohibir la actividad comercial ambulante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.77,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v7",
+      "statement": "¿Qué explica mejor que la apertura de una gran superficie comercial pueda afectar a los comercios de barrio?",
+      "context": "En Cali, un grupo de estudiantes de noveno grado observa que un gran centro comercial abrió cerca de su barrio y varios comercios pequeños cerraron sus puertas en los meses siguientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gran superficie utiliza más mano de obra por metro cuadrado que todos los comercios juntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las grandes superficies suelen trabajar con una cantidad reducida de personas y alta rotación."
+        },
+        {
+          "letter": "B",
+          "text": "Los comercios de barrio deben pagar la misma luz de la ciudad a la gran superficie por igualdad de condiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cargas y los costos de operación no se comparten automáticamente entre negocios competidores."
+        },
+        {
+          "letter": "C",
+          "text": "La concentración de la oferta, los precios y la visibilidad comercial en un solo lugar desplaza clientes que antes sostenían a los comercios pequeños.",
+          "is_correct": true,
+          "feedback": "Correcto. La concentración de la oferta en un punto capta clientes que antes compraban en los comercios del barrio."
+        },
+        {
+          "letter": "D",
+          "text": "Los comercios de barrio poseen menos derechos de propiedad que las empresas que abren centros comerciales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La situación se explica por la competencia comercial, no por una diferencia de derechos de propiedad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La entrada de grandes superficies comerciales al territorio desplaza clientes de los comercios pequeños por razones de escala y concentración de la oferta. Un centro comercial reúne en un mismo punto muchos productos, precios competitivos y servicios adicionales como parqueadero o salas de cine. Ese conjunto de ventajas atrae consumidores y reduce el volumen de ventas que sostenía a las tiendas de barrio. Analizar este fenómeno exige reconocer las condiciones desiguales en las que compiten empresas de tamaños diferentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v8",
+      "statement": "La principal explicación de que un mismo producto tenga precios tan diferentes según el tipo de comercio es:",
+      "context": "En Medellín, dos estudiantes de noveno grado discuten por qué un mismo producto de aseo puede tener precios muy distintos en la tienda del centro, en la ferretería del barrio y en un centro comercial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Estado fija precios distintos a cada tipo de establecimiento mediante una resolución oficial única.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado puede regular algunos precios, pero no establece una tabla de precios por tipo de comercio."
+        },
+        {
+          "letter": "B",
+          "text": "Cada tipo de comercio tiene costos y estrategias diferentes: volumen de compra, poder de negociación, márgenes y gastos operativos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los precios reflejan costos, márgenes y poder de negociación distintos en cada tipo de negocio."
+        },
+        {
+          "letter": "C",
+          "text": "El color de la fachada del comercio determina el precio final del producto que se vende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apariencia del local es irrelevante para el precio final del producto."
+        },
+        {
+          "letter": "D",
+          "text": "Todos los comercios del país aplican un margen idéntico sobre el costo de las mercancías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los márgenes varían según la estructura de costos y la política de cada negocio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia de precios entre tipos de comercio no proviene de una decisión arbitraria, sino de condiciones estructurales diferentes. Los grandes compradores negocian con proveedores a granel y trabajan con márgenes más bajos, mientras que los comercios pequeños compran por unidades y asumen costos de operación mayores. La distancia, el transporte, el almacenamiento y la clientela también influyen en el costo final. Reconocer estos factores permite entender por qué comprar en la tienda del barrio suele tener un precio más alto por unidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.71,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v9",
+      "statement": "Desde una perspectiva ética y ciudadana, ¿cuál es la manera más responsable de decidir dónde comprar?",
+      "context": "En Ibagué, un grupo de estudiantes de noveno grado discute si es legítimo que una persona compre en grandes superficies si alcanza a pagarlo, o si debe apoyar siempre a los comercios de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Considerar que toda compra en grandes superficies es dañina y que solo los comercios de barrio son éticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generalizar el juicio ético sobre un tipo de comercio es tan injusto como ignorar los efectos de los grandes."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir siempre el precio más bajo, sin importar las condiciones de trabajo de quienes venden ni el efecto en la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar las condiciones de los trabajadores y la comunidad contradice un criterio responsable."
+        },
+        {
+          "letter": "C",
+          "text": "Valorar el precio, la calidad, las condiciones de trabajo de los vendedores y el impacto local de la compra antes de decidir.",
+          "is_correct": true,
+          "feedback": "Correcto. Una decisión responsable integra el precio, la calidad, las condiciones laborales y el efecto en la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que el Estado obligue a todos los ciudadanos a comprar exclusivamente en el comercio de su barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La decisión de compra es personal y responsable; no depende de una orden legal de comprar en el barrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La reflexión ética aplicada al consumo supone que cada persona evalúa criterios que van más allá del precio. El precio importa porque todas las personas tienen derecho a condiciones de vida dignas, pero también es relevante saber quién produce, en qué condiciones trabaja y qué efecto tiene la compra en la comunidad. Elegir con estos criterios en mente no significa prohibir ningún tipo de comercio, sino asumir una decisión informada y consciente. Esa actitud convierte al consumidor en un ciudadano activo frente a la economía de su entorno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el análisis más sólido que pueden hacer los miembros de la junta administradora del barrio frente a esa propuesta?",
+      "context": "En Bogotá, la administración de un nuevo centro comercial de barrio propone a la junta administradora reducir el número de puestos de comercio ambulante para dejar más espacio para el parqueadero del proyecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar la propuesta porque todo espacio dedicado al comercio debe considerarse un obstáculo para el desarrollo urbano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar todo el comercio como un obstáculo al desarrollo es una generalización que no analiza los efectos reales."
+        },
+        {
+          "letter": "B",
+          "text": "Rechazar la propuesta sin explicación, porque la junta administradora no tiene obligación de discutir los intereses del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La junta tiene la obligación de deliberar y de explicar las razones de sus decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Evaluar el impacto en el empleo local, en la movilidad de los vecinos y en la economía del barrio, y decidir con base en la evidencia y la ley aplicable.",
+          "is_correct": true,
+          "feedback": "Correcto. La decisión requiere un análisis del impacto social, económico y normativo, apoyado en evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Delegar la decisión a la empresa dueña del centro comercial para que ella sola defina el uso del espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Delegar la decisión en un particular particulariza un asunto público que corresponde a la comunidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una propuesta que afecta el espacio público exige un análisis integral de sus efectos. La decisión debe considerar el impacto sobre el empleo generado por los comercios de barrio, sobre la circulación de los vecinos y sobre la economía local. Además, debe apoyarse en la normativa vigente y en la participación de los habitantes, conforme a los principios de la Constitución Política de 1991. Solo con estos elementos la junta administradora puede adoptar una decisión legítima y explicada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v11",
+      "statement": "¿A qué conclusión económica más sólida puede llegar la clase a partir de esta información?",
+      "context": "En Buenaventura, un grupo de estudiantes de noveno grado lee un informe que muestra que la economía de la ciudad descansa en el puerto y en el comercio de barrio, y que ambos sectores generan empleo formal e informal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El comercio de barrio es irrelevante porque toda la economía del puerto es independiente del comercio local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe muestra que ambos sectores son relevantes y están relacionados entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "El comercio de barrio solo sirve para el consumo de las familias con mayores ingresos de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comercio de barrio atiende a toda la comunidad, con énfasis en los hogares de bajos ingresos."
+        },
+        {
+          "letter": "C",
+          "text": "El comercio de barrio y el puerto son sectores complementarios que, en conjunto, generan empleo y sostienen la economía local.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos sectores se complementan y, en conjunto, generan empleo y sostienen la economía local."
+        },
+        {
+          "letter": "D",
+          "text": "La economía de la ciudad depende exclusivamente del sector privado formal de gran tamaño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La información muestra la relevancia también de los pequeños comercios y del empleo informal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Interpretar datos económicos permite construir conclusiones sólidas sobre el papel de los distintos sectores. Si un informe vincula el puerto y el comercio de barrio con la generación de empleo, entonces la conclusión sólida es que ambos sectores son complementarios. El puerto mueve mercancías y personas, mientras que el comercio de barrio distribuye esos productos y genera empleo cercano a los hogares. Reconocer esta complementariedad permite entender que el desarrollo económico se sostiene en varios sectores y no en uno solo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes propuestas constituye una política local más adecuada y sostenible para fortalecer el comercio de barrio?",
+      "context": "En Pereira, la profesora de sociales pide a sus estudiantes de noveno grado que propongan una política local que proteja el comercio de barrio frente a la competencia de las grandes superficies y de las plataformas digitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibir por completo el comercio electrónico en el municipio para proteger a las tiendas del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prohibir el comercio electrónico elimina una alternativa de consumo y genera reacciones negativas."
+        },
+        {
+          "letter": "B",
+          "text": "Subsidiar de manera indefinida a todas las tiendas del barrio, sin exigir ningún tipo de cumplimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un subsidy constante sin controles es insostenible y no garantiza la calidad del servicio."
+        },
+        {
+          "letter": "C",
+          "text": "Fijar por ley un precio único para todos los productos de la ciudad, con independencia del comercio que los ofrezca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fijar un precio único de manera general no respeta la dinámica del mercado y genera distorsiones."
+        },
+        {
+          "letter": "D",
+          "text": "Diseñar una estrategia que combine capacitación en ventas digitales, respeto por las normas y respeto de la libre competencia.",
+          "is_correct": true,
+          "feedback": "Correcto. Una estrategia formativa que respeta la libre competencia es más sostenible que las medidas restrictivas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Proponer una política pública exige evaluar su eficacia, su equidad y su sostenibilidad en el tiempo. Medidas como prohibir el comercio electrónico o fijar precios únicos restringen la competencia y suelen generar efectos negativos para los consumidores. Una política más adecuada combina formación para que los comerciantes de barrio se adapten a las ventas digitales con el respeto por la libre competencia y las normas vigentes. Este enfoque reconoce el valor del comercio local sin recurrir a restricciones absolutas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W05-las-tiendas-y-el-comercio-local-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
