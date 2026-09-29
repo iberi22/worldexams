@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-22-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T15:31:01.919Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué signo de puntuación aparece en la oración \"El abuelo respondió riendo: ¡cincuenta y dos!\" del Texto 1?",
+      "context": "En la fiesta de doña Rosa en el barrio San Fernando de Cali, todos aplaudieron al abuelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos puntos, porque anuncian la frase que el abuelo va a decir.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos puntos avisan que lo que viene después de ellos es una frase que alguien dice."
+        },
+        {
+          "letter": "B",
+          "text": "El punto final, porque cierra la oración.",
+          "is_correct": false,
+          "feedback": "El punto final cierra la oración, pero aquí el signo que anuncia la frase del abuelo son los dos puntos."
+        },
+        {
+          "letter": "C",
+          "text": "La coma, porque separa las partes de la oración.",
+          "is_correct": false,
+          "feedback": "La coma separa elementos de una enumeración; para anunciar una frase completa se usan los dos puntos."
+        },
+        {
+          "letter": "D",
+          "text": "El signo de exclamación, porque indica una pregunta.",
+          "is_correct": false,
+          "feedback": "El signo de exclamación expresa sorpresa y alegría; las preguntas se marcan con el signo de interrogación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dos puntos son un signo de puntuación que avisa que lo que sigue es una explicación, un detalle o una lista. En el Texto 1 el abuelo responde después de los dos puntos, y así el lector sabe de antemano que él dirá algo. Reconocer este signo en una lectura ayuda a entender mejor quién habla y qué está diciendo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.95,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v2",
+      "statement": "En la oración \"La mamá le contestó: compra una torta en la panadería de la esquina\", ¿qué parte de la oración anuncia la mamá con los dos puntos?",
+      "context": "La profesora Carolina escribe ejemplos de dos puntos en el tablero del salón en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"le contestó\", porque es el verbo de la oración.",
+          "is_correct": false,
+          "feedback": "El verbo \"le contestó\" está antes de los dos puntos; el signo anuncia lo que viene, no el verbo."
+        },
+        {
+          "letter": "B",
+          "text": "\"compra una torta en la panadería de la esquina\", porque es la frase que viene después de los dos puntos.",
+          "is_correct": true,
+          "feedback": "Correcto. Lo que está después de los dos puntos es la frase que la mamá dice y que el signo anuncia."
+        },
+        {
+          "letter": "C",
+          "text": "\"en la esquina\", porque es el lugar donde está la panadería.",
+          "is_correct": false,
+          "feedback": "El lugar está dentro de la frase que viene después de los dos puntos, pero no es la parte que el signo anuncia."
+        },
+        {
+          "letter": "D",
+          "text": "\"La mamá\", porque es el sujeto de la oración.",
+          "is_correct": false,
+          "feedback": "\"La mamá\" es el sujeto, pero el sujeto va al principio de la oración y no es lo que anuncian los dos puntos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando aparecen los dos puntos, lo que está antes prepara o anuncia y lo que está después es la frase que se explica o se dice. En este caso la mamá dice \"le contestó\" y luego cuenta qué hay que comprar. Entender qué parte va antes y qué parte va después es la clave para usar bien este signo al escribir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v3",
+      "statement": "Manuela quiere escribir en un cartel la lista de ingredientes de una torta. ¿Cuál de estas opciones usa correctamente los dos puntos?",
+      "context": "En la panadería de la esquina, la señora escribe los ingredientes de las tortas en un cartel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¡Ingredientes! harina, leche, huevo y azúcar.",
+          "is_correct": false,
+          "feedback": "Aquí no hay dos puntos, así que el lector no sabe que viene una lista; el signo de exclamación expresa sorpresa."
+        },
+        {
+          "letter": "B",
+          "text": "¿Ingredientes, harina, leche, huevo y azúcar?",
+          "is_correct": false,
+          "feedback": "Aquí se usa el signo de interrogación, pero no hay pregunta: lo que se hace es anunciar una lista."
+        },
+        {
+          "letter": "C",
+          "text": "Ingredientes: harina, leche, huevo y azúcar.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos puntos anuncian la lista de ingredientes que aparece después del signo."
+        },
+        {
+          "letter": "D",
+          "text": "Ingredientes, harina: leche, huevo y azúcar.",
+          "is_correct": false,
+          "feedback": "En esta opción los dos puntos están en el lugar equivocado, porque solo alcanzan al primer ingrediente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Presentar una lista es una de las formas más comunes de usar los dos puntos. La palabra que anuncia la lista, como \"ingredientes\", se escribe antes del signo y los elementos van después, separados por comas. Practicar esta forma ayuda a organizar mejor los avisos, las recetas y los trabajos del aula.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v4",
+      "statement": "Manuela quiere saber cuánto cuesta una empanada en la panadería. ¿Cuál es la forma correcta y más amable de preguntar usando el signo de interrogación?",
+      "context": "En la plaza de mercado de la feria de Medellín, los estudiantes compran pan y empanadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las empanadas cuestan: ¿mucho?",
+          "is_correct": false,
+          "feedback": "Los dos puntos no sirven para pedir información; se necesita una pregunta completa con su verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Cuánto cuestan las empanadas en esta panadería.",
+          "is_correct": false,
+          "feedback": "Faltan el signo de apertura y el de cierre, y además la frase termina en punto como si fuera una afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "¿Cuánto cuestan las empanadas en esta panadería",
+          "is_correct": false,
+          "feedback": "La pregunta se abrió bien, pero no se cerró con el signo final, por lo que queda incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "¿Cuánto cuestan las empanadas en esta panadería?",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta se abre con el signo de apertura, se cierra con el de cierre y pide información con cortesía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Preguntar con amabilidad es una manera de tratar bien a las personas que nos atienden en un mercado o en una tienda. La pregunta se abre con el signo de apertura, se cierra con el de cierre y necesita un verbo como \"cuánto\" o \"dónde\". Un niño que pregunta con el signo correcto y con cortesía recibe una respuesta mucho mejor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 1, ¿qué quiere decir la respuesta del abuelo \"¡cincuenta y dos!\" después de que Manuela le preguntó cuántos años tenía?",
+      "context": "En el salón de tercero se lee en voz alta el cuento de la fiesta de San Fernando en Cali.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el abuelo confundió la pregunta con la orden que le dio la mamá.",
+          "is_correct": false,
+          "feedback": "No hay confusión en el Texto 1: la pregunta de Manuela y la respuesta del abuelo están conectadas."
+        },
+        {
+          "letter": "B",
+          "text": "Que el abuelo le pidió a Manuela que le apagara las velitas.",
+          "is_correct": false,
+          "feedback": "Eso ocurre en una fiesta, pero el Texto 1 no lo dice; la respuesta solo comunica una edad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el abuelo tenía cincuenta y dos años, porque esa fue la información que le pidieron.",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta pedía la edad del abuelo y la respuesta entrega ese dato."
+        },
+        {
+          "letter": "D",
+          "text": "Que el abuelo se había quedado sin palabras y por eso gritó.",
+          "is_correct": false,
+          "feedback": "El signo de exclamación expresa alegría por la fiesta, no falta de palabras; la respuesta sí da un dato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir es buscar en el texto lo que no está escrito de forma literal pero que se deduce con lógica. Aquí el niño tiene que unir la pregunta de Manuela con la respuesta del abuelo para entender que se habla de la edad. Practicar estas conexiones mejora mucho la comprensión de cualquier lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v6",
+      "statement": "Compara el uso de los signos en el Texto 1 y en el Texto 2. ¿Cuál de estas afirmaciones es correcta?",
+      "context": "En clase, la profesora Carolina pide comparar el diálogo del cuento con las reglas del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el Texto 1 los signos aparecen dentro de un diálogo real entre personajes, y en el Texto 2 se explica la regla de esos mismos signos.",
+          "is_correct": true,
+          "feedback": "Correcto. El primer texto muestra los signos funcionando y el segundo texto enseña cuándo se deben usar."
+        },
+        {
+          "letter": "B",
+          "text": "En el Texto 1 los dos puntos solo se usan para escribir números, y en el Texto 2 el signo de interrogación presenta listas.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos partes corresponde: los dos puntos no se usan para números y el signo de interrogación no anuncia listas."
+        },
+        {
+          "letter": "C",
+          "text": "En los dos textos los signos se usan igual, sin ninguna diferencia entre una conversación y una explicación.",
+          "is_correct": false,
+          "feedback": "Sí hay diferencia: en el cuento los signos aparecen dentro de lo que dicen los personajes y en el Texto 2 se describe la regla."
+        },
+        {
+          "letter": "D",
+          "text": "En el Texto 1 no hay preguntas, y en el Texto 2 los dos puntos reemplazan al punto final de las oraciones.",
+          "is_correct": false,
+          "feedback": "El Texto 1 tiene varias preguntas, y los dos puntos nunca reemplazan al punto final porque solo anuncian algo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos textos que hablan del mismo tema ayuda a entender mejor ese tema. Un texto muestra el signo funcionando dentro de un diálogo y el otro explica la regla que se debe seguir. Cuando un estudiante distingue entre mostrar y explicar, ya comprendió el concepto de manera profunda.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v7",
+      "statement": "Un compañero escribió este aviso para la feria del barrio: \"¿Taller de pintura: mañana a las 8:00?\" ¿Por qué el aviso está mal escrito?",
+      "context": "Un compañero de Medellín escribió un aviso para la feria del barrio y pide ayuda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la palabra \"mañana\" no se puede escribir después de los dos puntos.",
+          "is_correct": false,
+          "feedback": "Cualquier palabra puede ir después de los dos puntos; lo que cambia es el signo con el que se cierra la frase."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el título del aviso debe terminar siempre en un punto.",
+          "is_correct": false,
+          "feedback": "El problema no es el punto final, sino que se cerró con signo de interrogación una frase que no pregunta nada."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las horas deben escribirse con letras y no con números.",
+          "is_correct": false,
+          "feedback": "Los horarios sí se pueden escribir con números, como 8:00; el error del aviso está en el signo de interrogación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque usa el signo de interrogación para anunciar un horario, y esa parte no es una pregunta.",
+          "is_correct": true,
+          "feedback": "Correcto. El aviso anuncia información, así que los dos puntos son el signo adecuado y el signo de interrogación sobra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto escrito por otra persona significa revisar si usa correctamente los signos de puntuación. El aviso del compañero anuncia un taller y por eso necesita los dos puntos, no el signo de interrogación. Saber evaluar estos errores enseña a elegir el signo adecuado según la intención de quien escribe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cambio de significado se produce si cambiamos los dos puntos por un punto en la frase \"Compramos dos empanadas: de carne y de pollo\"?",
+      "context": "En un taller de lectura de la escuela de Bucaramanga, los niños arman frases con tarjetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase pasa a ser un saludo, porque el punto cierra la conversación.",
+          "is_correct": false,
+          "feedback": "Un saludo empieza con palabras de bienvenida, no con un punto; aquí lo que se pierde es la explicación."
+        },
+        {
+          "letter": "B",
+          "text": "Se pierde la relación de detalle, porque el punto cierra la frase y ya no se anuncia de qué tipo son las empanadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos puntos conectan la frase con su explicación; al poner un punto se rompe esa relación."
+        },
+        {
+          "letter": "C",
+          "text": "La frase se convierte en una pregunta, porque el punto abre un interrogante.",
+          "is_correct": false,
+          "feedback": "El punto no convierte nada en pregunta; para preguntar se necesita el signo de apertura y el de cierre."
+        },
+        {
+          "letter": "D",
+          "text": "No cambia nada, porque el texto sigue teniendo los mismos signos.",
+          "is_correct": false,
+          "feedback": "Sí cambia el significado: el punto y los dos puntos tienen funciones diferentes dentro de la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada signo de puntuación aporta un significado a la oración, por eso cambiarlo modifica lo que el lector entiende. Los dos puntos crean un puente entre la frase y su detalle, y el punto simplemente la cierra. Esta comparación enseña que las reglas de puntuación tienen un propósito y no son un capricho.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-18-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T15:31:01.917Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v1",
+      "statement": "¿Para qué sirve escribir un subtítulo debajo de un dibujo en un cartel escolar o en un libro?",
+      "context": "En la cartelera del salón de la Institución Educativa Distrital Los Almendros, en Usaquén, Bogotá, hay dibujos de los niños con una frase debajo de cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para contar lo que está pasando en el dibujo y ayudar al lector a entender la escena.",
+          "is_correct": true,
+          "feedback": "Esta es la función principal del subtítulo: la frase corta que explica el dibujo para que el lector sepa quién aparece, dónde está y qué hace."
+        },
+        {
+          "letter": "B",
+          "text": "Para poner un nombre bonito a la persona que dibujó la imagen.",
+          "is_correct": false,
+          "feedback": "El subtítulo no es una firma ni un adorno; describe lo que pasa en la escena, no quién hizo el trazo."
+        },
+        {
+          "letter": "C",
+          "text": "Para llenar el espacio en blanco que queda abajo del dibujo.",
+          "is_correct": false,
+          "feedback": "Ocupy un espacio es un motivo material, no comunicativo; el subtítulo existe para transmitir información al lector."
+        },
+        {
+          "letter": "D",
+          "text": "Para repetir palabra por palabra todo lo que dice la persona que aparece.",
+          "is_correct": false,
+          "feedback": "Un subtítulo no es una transcripción de un diálogo; es una frase breve que resume y explica la escena dibujada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El subtítulo es la frase corta que acompaña al dibujo y le da sentido completo. Un niño de tercero debe entender que esa frase existe para que otra persona entienda la escena sin tener que adivinarla. Por eso no puede faltar ni ser un simple adorno decorativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de estos detalles aparece escrito de manera explícita en el Texto 1?",
+      "context": "La familia de Camila vive en el barrio San Fernando de Cali, cerca del mercado donde trabaja la abuela Rosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mercado abre a las cinco de la mañana todos los días.",
+          "is_correct": false,
+          "feedback": "El texto nunca menciona la hora de apertura del mercado; ese dato se inventa y no se puede leer en el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el puesto de frutas queda en el barrio San Fernando, en Cali.",
+          "is_correct": true,
+          "feedback": "El primer renglón del texto dice que Camila vive en el barrio San Fernando, en Cali, y que allí ayuda a su abuela en el puesto de frutas."
+        },
+        {
+          "letter": "C",
+          "text": "Que Doña Rosa lleva setenta años vendiendo frutas.",
+          "is_correct": false,
+          "feedback": "El texto cuenta qué hace la abuela Rosa, pero nunca dice cuántos años lleva en el oficio."
+        },
+        {
+          "letter": "D",
+          "text": "Que el niño del dibujo contaba billetes de $5.000 para comprar papayas.",
+          "is_correct": false,
+          "feedback": "El texto dice que el niño contaba billetes de $2.000, no de $5.000; el dato está alterado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer lo que el texto dice de manera explícita evita inventar información. Los lectores de tercero deben volver al renglón exacto y comparar: lugar, personas y cantidades. Cuando un dato no aparece, la respuesta es incorrecta aunque suene verosímil.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v3",
+      "statement": "Camila dibujó a ese niño comprando papayas. ¿Cuál de estos subtítulos explica mejor lo que succede en su dibujo?",
+      "context": "En el puesto de frutas del mercado de San Fernando, en Cali, un niño cuenta billetes de $2.000 para comprar papayas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Mercado de San Fernando: frutas y verduras.\"",
+          "is_correct": false,
+          "feedback": "Solo menciona el nombre del lugar, sin decir quién está ahí ni qué acción ocurre; el lector no puede imaginarla."
+        },
+        {
+          "letter": "B",
+          "text": "\"Doña Rosa y su nieta Camila un día cualquiera.\"",
+          "is_correct": false,
+          "feedback": "Nombra a dos personas pero no dice qué hacen ni dónde, así que el dibujo queda incompleto."
+        },
+        {
+          "letter": "C",
+          "text": "\"Un niño cuenta $2.000 para comprar papayas en el mercado de San Fernando.\"",
+          "is_correct": true,
+          "feedback": "La frase dice quién está, dónde está y qué hace, tal como recomienda el Texto 2, y el lector reconstruye la escena."
+        },
+        {
+          "letter": "D",
+          "text": "\"Papayas, mangos y naranjas de la mejor calidad.\"",
+          "is_correct": false,
+          "feedback": "Es una lista de productos y un anuncio publicitario, no la explicación de la escena que se dibujó."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen subtítulo responde tres preguntas al mismo tiempo: ¿quién?, ¿dónde? y ¿qué hace?. Practicar esto ayuda al niño a distinguir una descripción verdadera de una frase incompleta. Cuando falta una de esas tres respuestas, el lector debe adivinar y el subtítulo pierde su función.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v4",
+      "statement": "Un compañero dibujó a una niña que lee un libro sentada en la plaza de Bolívar, en Bogotá. ¿Cuál subtítulo cumple la regla que explica el Texto 2, es decir, decir quién está, dónde está y qué hace?",
+      "context": "Una niña dibujó a una amiga leyendo un libro en la plaza de Bolívar, en el centro histórico de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Lina, dibujada con colores y marcadores.\"",
+          "is_correct": false,
+          "feedback": "Habla de cómo se hizo el dibujo, no de la escena; el lector no se entera de que Lina está leyendo."
+        },
+        {
+          "letter": "B",
+          "text": "\"Una niña como cualquier otra un martes por la tarde.\"",
+          "is_correct": false,
+          "feedback": "Es demasiado vaga y no da información útil: no identifica a la niña, ni el lugar, ni la acción."
+        },
+        {
+          "letter": "C",
+          "text": "\"La plaza de Bolívar, un lugar lleno de historia.\"",
+          "is_correct": false,
+          "feedback": "Solo describe el lugar con un adjetivo valorativo; no dice quién está allí ni qué está haciendo."
+        },
+        {
+          "letter": "D",
+          "text": "\"Lina lee un libro en la plaza de Bolívar de Bogotá.\"",
+          "is_correct": true,
+          "feedback": "Nombra a la persona, indica la ciudad y la plaza, y explica la acción de leer, como enseña el Texto 2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la definición del Texto 2 consiste en revisar si el subtítulo tiene las tres piezas: persona, lugar y acción. Esta práctica conecta la teoría de la semana con el trabajo real de la cartelera del salón. El niño que domina esta regla puede evaluar y corregir los subtítulos de sus compañeros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v5",
+      "statement": "En la feria escolar de Manizales, un niño pegó el dibujo de la plaza de su ciudad y debajo escribió solamente la palabra \"Plaza\". ¿Qué debería cambiar para que ese subtítulo sirva mejor al lector?",
+      "context": "En una feria escolar de Manizales, un niño puso una sola palabra bajo el dibujo de la Plaza de Bolívar de su ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribir la misma palabra \"Plaza\" con letras más grandes y colores brillantes.",
+          "is_correct": false,
+          "feedback": "Cambiar el tamaño o el color no aporta información nueva; el lector sigue sin saber quién está ni qué ocurre."
+        },
+        {
+          "letter": "B",
+          "text": "No escribir nada, porque el dibujo ya se entiende sin ninguna frase.",
+          "is_correct": false,
+          "feedback": "El Texto 2 dice que si el subtítulo falta, el dibujo queda mudo; la frase es necesaria para explicar la escena."
+        },
+        {
+          "letter": "C",
+          "text": "Añadir quién aparece y qué hace allí, sin alargar demasiado la frase.",
+          "is_correct": true,
+          "feedback": "Así el subtítulo cumple su intención comunicativa: completa la escena con información útil y todavía se lee con facilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar el dibujo y escribir solo un párrafo largo con toda la historia.",
+          "is_correct": false,
+          "feedback": "El subtítulo debe ser breve; además, el ejercicio pide un dibujo con su frase, no un texto que lo reemplace."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la intención de un subtítulo es mirar a quién le sirve: al lector que no conoce la imagen. Un niño de tercero debe notar que una palabra sola deja huecos por llenar. En una feria escolar, los subtítulos cumplen la tarea de informar sin saturar de texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v6",
+      "statement": "En el Texto 1, el subtítulo de Camila dice quién es Doña Rosa y qué hace cada sábado en San Fernando. ¿Qué se puede inferir sobre lo que la profesora quería lograr con esa actividad?",
+      "context": "En la clase de tercero de Cali, la profesora también lee en voz alta los subtítulos antes de pegar los dibujos en la cartelera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los niños unieran lo que se ve en el dibujo con aquello que el lector no puede ver, y lo escribieran con sus propias palabras.",
+          "is_correct": true,
+          "feedback": "Al exigir un subtítulo con personas, lugar y acción, la profesora pide conectar imagen y lenguaje; de eso se trata el Texto 2."
+        },
+        {
+          "letter": "B",
+          "text": "Que la profesora no quería que los niños escribieran nada y solo mejoraran sus dibujos.",
+          "is_correct": false,
+          "feedback": "El texto dice que ella pidió escribir un subtítulo debajo de cada dibujo, así que escribir sí era parte del trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la profesora quería que los niños copiaran el texto del libro de texto.",
+          "is_correct": false,
+          "feedback": "Camila escribió con sus propias palabras sobre su familia y su barrio, no copió ningún texto ajeno."
+        },
+        {
+          "letter": "D",
+          "text": "Que la profesora quería corregir la ortografía de los niños de tercero.",
+          "is_correct": false,
+          "feedback": "Nada en el texto menciona correcciones de ortografía; el foco de la actividad es explicar la escena dibujada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es deducir una idea que el texto no dice de forma directa, pero que se deduce de lo que sí dice. Aquí, la exigencia del subtítulo revela la intención pedagógica de la profesora. Practicar este tipo de lectura prepara al niño para justificar con evidencias por qué cree lo que cree.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v7",
+      "statement": "En una exposición escolar de Medellín, un cartel mostraba el dibujo de una finca cafetera y debajo decía solamente: \"Hay plantas\". ¿Por qué ese subtítulo no cumple lo que enseña el Texto 2?",
+      "context": "En la exposición de la feria escolar de Medellín, un cartel mostraba un dibujo de una finca cafetera con la palabra \"Hay plantas\" debajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los subtítulos de los carteles deben estar escritos siempre en otro idioma.",
+          "is_correct": false,
+          "feedback": "No existe esa regla; los subtítulos se escriben en el mismo idioma del dibujo para que el lector los entienda."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa una palabra muy larga y los niños de tercero no la entienden.",
+          "is_correct": false,
+          "feedback": "La dificultad no está en la longitud de la palabra, sino en que el subtítulo no describe quién, dónde y qué hace."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tiene muy pocos signos de puntuación y eso la vuelve poco legible.",
+          "is_correct": false,
+          "feedback": "Una frase corta puede ser perfectamente legible; el problema del subtítulo no son los signos de puntuación sino la falta de información."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no dice quién está, dónde está ni qué hace, de modo que el lector no puede reconstruir la escena.",
+          "is_correct": true,
+          "feedback": "\"Hay plantas\" no aporta la historia mínima del dibujo; el lector se queda con la misma información que tenía antes de mirar la imagen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto propio de la asignatura permite usar criterios: presencia de persona, lugar y acción, y claridad de la frase. El niño que puede explicar por qué un subtítulo falla ya está en un nivel de lectura superior. La corrección entre pares en la cartelera hace visible ese criterio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle-v8",
+      "statement": "Camila quiere escribir un subtítulo que muestre el orden de su escena: primero llega al mercado, después compra las papayas y al final guarda el billete. ¿Qué grupo de palabras le sirve para mostrar ese orden?",
+      "context": "En el salón de tercero de Pasto, los niños leen en orden los subtítulos de cada dibujo de la cartelera, del primero al último.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunque, porque agrega una idea que se deja a un lado para decir la principal.",
+          "is_correct": false,
+          "feedback": "\"Aunque\" sirve para expresar una concesión; no sirve para mostrar la secuencia de lo que pasa en el dibujo."
+        },
+        {
+          "letter": "B",
+          "text": "Primero, después y al final, porque conectan las acciones en el orden en que ocurrieron.",
+          "is_correct": true,
+          "feedback": "Estas palabras de secuencia ordenan el relato y le dicen al lector qué pasó antes y qué pasó después en el dibujo."
+        },
+        {
+          "letter": "C",
+          "text": "Pero, porque une dos ideas que se oponen entre sí.",
+          "is_correct": false,
+          "feedback": "\"Pero\" introduce contraste u oposición, no succession; no le indica al lector en qué orden ocurrieron las acciones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque, porque explica la causa o la razón de lo que ocurre.",
+          "is_correct": false,
+          "feedback": "\"Porque\" responde al porqué de algo, no al cuándo ni al orden de los pasos de la escena."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El subtítulo también puede organizar la información en el tiempo, y para eso existen palabras de secuencia. Reconocerlas ayuda a que el lector imagine la escena como una historia ordenada, no como un conjunto de acciones sueltas. Es un primer acercamiento a la organización discursiva de los textos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-20-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T15:31:01.918Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 2, ¿qué palabra o grupo de palabras corresponde al sujeto de la oración \"Las niñas cantaron la canción\"?",
+      "context": "En el salón de tercero de una escuela de Medellín, la profesora proyectó la ficha del Texto 2 en la pantalla del aula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Las niñas\", porque responde a la pregunta ¿quién? y nombra a quienes realizan la acción",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha explica que el sujeto nombra a la persona o el grupo que hace algo, y en este caso son las niñas."
+        },
+        {
+          "letter": "B",
+          "text": "\"Las\", porque el sujeto se reconoce únicamente por el artículo que lo acompaña",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo acompaña al sustantivo, pero el sujeto completo es el sustantivo con su artículo, no sólo el artículo."
+        },
+        {
+          "letter": "C",
+          "text": "\"Cantaron\", porque es la palabra que indica el número de las participantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cantaron\" es un verbo que dice lo que hacen; el número de la acción no convierte a nadie en el sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "\"La canción\", porque la ficha dice que el sujeto siempre debe ser una cosa que se canta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no dice eso; la canción es lo que se canta, es decir, parte del predicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el sujeto es el primer paso para entender cómo se construye una oración. Cuando el niño identifica quién realiza la acción, ya puede separar las dos partes y explicar por qué una oración cuenta algo completo. Practicar con oraciones de la familia o del aula ayuda a fijar la idea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v2",
+      "statement": "Según la ficha del Texto 2, ¿cuántas partes tiene una oración y cuáles son?",
+      "context": "En una escuela de Manizales, la profesora les pregunta a sus estudiantes cuántos ejemplos de oraciones hay en un cartel del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuatro partes: sujeto, verbo, objeto y artículo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un verbo y un artículo sí pueden aparecer, pero no son partes obligatorias; la ficha solo define sujeto y predicado."
+        },
+        {
+          "letter": "B",
+          "text": "Dos partes: el sujeto y el predicado",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha afirma que toda oración está formada por el sujeto y el predicado, y que siempre aparecen en ese orden."
+        },
+        {
+          "letter": "C",
+          "text": "Tres partes: sujeto, predicado y punto final",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto final es una marca de puntuación para terminar la oración, no una parte de su estructura."
+        },
+        {
+          "letter": "D",
+          "text": "Una sola parte: el conjunto de todas las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha explica que la oración se divide en dos partes, no que sea un solo bloque sin organización."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender que son dos partes y no una ayuda a los estudiantes a leer con orden, porque ya saben dónde buscar la información de cada oración. Nombrar las partes en voz alta mientras se señala el texto hace la idea más concreta. También prepara el terreno para el análisis de oraciones más largas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v3",
+      "statement": "En el Texto 1, ¿cuál es el sujeto de la oración \"Doña Rosa tenía listos ocho vasos de jugo de mango\"?",
+      "context": "En una plaza de mercado de Medellín, la profesora pide a sus estudiantes que marquen el sujeto en una oración del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tenía\", porque es la palabra que indica el pasado",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Tenía\" es un verbo que expresa la acción; el sujeto nunca es un verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Ocho vasos de jugo de mango, porque son los que se prepararon",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vasos son lo que se prepararon, es decir, parte del predicado, no quien hace la acción."
+        },
+        {
+          "letter": "C",
+          "text": "Doña Rosa, porque es quien prepara los vasos",
+          "is_correct": true,
+          "feedback": "Correcto. La acción la realiza doña Rosa, así que ella es quien aparece como sujeto de la oración."
+        },
+        {
+          "letter": "D",
+          "text": "La plaza de mercado, porque es el lugar donde ocurrió la acción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar aparece dentro del predicado, como un detalle de dónde ocurrió, no como sujeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la regla al Texto 1 muestra que los sujetos no son conceptos abstractos: son las personas y cosas que aparecen en las historias que los niños ya conocen. El estudiante que marca con el dedo a doña Rosa entiende mejor la diferencia entre quién actúa y qué ocurre. Es un buen momento para pedirles que busquen otros sujetos en el mismo texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v4",
+      "statement": "En la oración \"Los niños cantaron la canción en el patio\", ¿cuál es el predicado?",
+      "context": "En un salón de clases de Cartagena, la profesora les dicta a sus estudiantes una oración sobre el colegio para que la separen en dos partes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La canción en el patio\", porque son las cosas que aparecen después del sujeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cualquier palabra que va después del sujeto no es automáticamente el predicado completo, y aquí también falta la acción."
+        },
+        {
+          "letter": "B",
+          "text": "\"En el patio\", porque indica dónde se desarrolló la acción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa expresión dice dónde, pero el predicado necesita la acción principal: cantar."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los niños\", porque la ficha dice que el predicado nombra a las personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe al sujeto; el predicado es lo que se hace, no quien lo hace."
+        },
+        {
+          "letter": "D",
+          "text": "\"Cantaron la canción en el patio\", porque responde a la pregunta ¿qué hicieron los niños?",
+          "is_correct": true,
+          "feedback": "Correcto. El predicado contiene la acción de cantar y sus detalles, por eso explica lo que hicieron los niños."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Separar el predicado obliga a identificar la acción, que es el corazón de la oración. Cuando el niño entiende que \"en el patio\" es solo un detalle del lugar, ya no confunde los complementos con la parte principal. Practicar con oraciones del aula hace la tarea más significativa y divertida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v5",
+      "statement": "Un compañero de tercero escribió solamente esto: \"Corrieron por toda la plaza\". Según el Texto 2, ¿qué le falta a esta oración para estar completa?",
+      "context": "En una tarea de refuerzo en Bucaramanga, un niño de tercero entrega una oración a la profesora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un punto final al final de la oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto final solo marca el cierre de la oración; no resuelve que falte la parte que dice quién."
+        },
+        {
+          "letter": "B",
+          "text": "Una mayúscula al principio de la oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayúscula es una regla de escritura, no una parte que se le pueda agregar a una oración incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "Un sujeto que indique quién corrió",
+          "is_correct": true,
+          "feedback": "Correcto. Sin un sujeto el lector no sabe de quién se habla, y la ficha explica que esa parte es necesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Una palabra que diga dónde ocurre la acción",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar ya está incluido en \"por toda la plaza\"; lo que falta es decir quién corrió."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Detectar lo que falta en una oración desarrolla la conciencia de que las partes no son opcionales. El niño que completa la frase con \"Las niñas de la fiesta\" entiende por qué el orden sujeto y predicado importa. Es una actividad sencilla que se puede repetir con oraciones de la vida diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v6",
+      "statement": "En el Texto 1 aparecen juntas estas dos oraciones: \"Sofía cumplía ocho años ese día\" y \"Su mamá había traído un pastel de chocolate de $18.500\". ¿Qué relación hay entre ellas?",
+      "context": "En el salón de tercero de una escuela de Pereira, la profesora pide comparar dos oraciones del Texto 1 que aparecen juntas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda oración da un ejemplo concreto de la celebración que anuncia la primera",
+          "is_correct": true,
+          "feedback": "Correcto. La primera dice que había cumpleaños y la segunda muestra un detalle de esa fiesta, por eso se complementan."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda oración contradice la primera, porque habla de un pastel y no de un cumpleaños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pastel no contradice un cumpleaños; al contrario, ayuda a entender cómo se celebró."
+        },
+        {
+          "letter": "C",
+          "text": "La primera oración explica el precio del pastel que aparece en la segunda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera oración habla de la edad de Sofía, no del costo de ningún alimento."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos oraciones cuentan hechos que no tienen relación ninguna",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pastel y la piñata son precisamente partes de la fiesta de cumpleaños, así que sí están relacionadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relacionar oraciones es un salto importante: el niño deja de verlas aisladas y empieza a descubrir cómo se amplían una misma idea. En este caso, el detalle del pastel hace más concreta y viva la celebración. Esta habilidad de conectar sustantivos y verbos prepara para la comprensión de textos largos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tercero escribió esta oración: \"Los niños, la plaza, corrieron\". Según el Texto 2, ¿cuál es la corrección más adecuada?",
+      "context": "En el cuaderno de un estudiante de tercero en Cali aparece un ejercicio corregido por la profesora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La plaza corrieron los niños\", porque de todas formas ya se entiende quién corrió",
+          "is_correct": false,
+          "feedback": "Incorrecto. Además de ser difícil de leer, esa versión no respeta el orden sujeto y luego predicado que explica la ficha."
+        },
+        {
+          "letter": "B",
+          "text": "\"Corrieron\", porque el sujeto ya se entendió en el ejercicio anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada oración debe ser completa por sí misma; sin sujeto el lector no sabe de quién se habla."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los niños corrieron\", porque así la oración es más corta y fácil de leer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar el lugar hace perder un dato importante, aunque la oración ya tenga las dos partes."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los niños corrieron en la plaza\", porque respeta el orden del sujeto y el predicado",
+          "is_correct": true,
+          "feedback": "Correcto. Así queda claro quién corre y qué hace, con la información bien distribuida como indica la ficha."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar cuál de varias versiones es la mejor enseña a revisar lo que uno mismo escribe, un hábito que vale la pena cultivar desde temprano. El niño que elige la opción con sujeto, predicado y detalle útil aprende que no todo se trata de lo más largo ni de lo más corto. Es una excelente práctica para preparar trabajos escritos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle-v8",
+      "statement": "Con base en el Texto 1, ¿qué se puede deducir sobre la fiesta de Sofía?",
+      "context": "En una familia de Medellín, la profesora le pide a sus estudiantes que expliquen lo que pueden deducir del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo hubo niños, porque el texto no menciona a ningún adulto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona a doña Rosa, a la mamá de Sofía y a la tía Rosalba, que son personas adultas."
+        },
+        {
+          "letter": "B",
+          "text": "Que la fiesta fue planeada, porque su mamá había traído el pastel y la piñata",
+          "is_correct": true,
+          "feedback": "Correcto. Preparar un pastel y una piñata exige tiempo y dinero, así que los dos datos muestran que todo se organizó con anticipación."
+        },
+        {
+          "letter": "C",
+          "text": "Que la fiesta fue cancelada, porque las cuatro amigas se fueron temprano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que se fueron a sus casas felices, lo que muestra que la celebración sí ocurrió."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fiesta fue improvisada, porque el globo se perdió en el puesto de arepas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pequeño contratiempo durante la fiesta no demuestra que no hubiera un plan previo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Deducir información que el texto no dice de forma directa es una de las habilidades más valiosas de la lectura. Aquí el estudiante debe unir dos datos del relato para formar una conclusión razonable sobre la fiesta. Este ejercicio prepara para preguntas de opción múltiple más complejas, donde la respuesta nunca está escrita de forma literal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
