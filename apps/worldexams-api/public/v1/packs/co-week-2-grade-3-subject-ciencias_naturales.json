@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-2-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-09-29T02:57:11.350Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v1",
+      "statement": "¿A cuál grupo de seres vivos pertenece el girasol?",
+      "context": "En un jardín escolar de Bogotá, un niño de ocho años observa un girasol alto y nota que tiene raíz, tallo, hojas y una flor amarilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al grupo de las plantas",
+          "is_correct": true,
+          "feedback": "¡Correcto! El girasol es una planta porque tiene raíz, tallo, hojas y flor, y puede fabricar su propio alimento."
+        },
+        {
+          "letter": "B",
+          "text": "Al grupo de los objetos de plástico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los objetos de plástico no son seres vivos, porque no crecen, no se alimentan y no se reproducen."
+        },
+        {
+          "letter": "C",
+          "text": "Al grupo de los animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los animales no tienen raíz ni tallo, y no pueden fabricar su propio alimento."
+        },
+        {
+          "letter": "D",
+          "text": "Al grupo de las rocas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas no son seres vivos, no crecen y no se alimentan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los seres vivos se dividen en varios grupos, entre ellos plantas, animales y hongos. El girasol pertenece a las plantas porque tiene raíz, tallo, hojas y flor, y porque es capaz de fabricar su propio alimento usando luz, agua y aire, un proceso que se llama fotosíntesis. Las rocas y los objetos no son seres vivos porque no crecen, no se alimentan y no se reproducen. Saber en qué grupo está un ser vivo ayuda a entender cómo se alimenta, cómo crece y cómo se reproduce.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v2",
+      "statement": "Por esta razón se dice que el cachorro y la planta son seres vivos.",
+      "context": "En la sala de un colegio de Armenia, la profesora muestra un video con el crecimiento de una planta y luego un video de un cachorro. En el primero, la planta se estira hacia la luz; en el segundo, el cachorro aumenta de tamaño y duerme.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los dos necesitan dormir para descansar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cachorro duerme, pero las plantas no duermen; esa no es una característica común."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los dos crecen y se desarrollan",
+          "is_correct": true,
+          "feedback": "¡Correcto! La planta se estira y aumenta de tamaño, y el cachorro también crece con el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los dos están hechos de la misma manera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus cuerpos son muy distintos: la planta tiene tallo y hojas, el cachorro tiene pelo y patas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los dos necesitan comer alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cachorro come alimentos, pero la planta se fabrica su propio alimento y no come como un animal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los seres vivos tienen características que los distinguen: crecen, se nutren, responden a lo que ocurre a su alrededor y pueden producir descendientes como ellos. La planta del video crece y se desarrolla hacia la luz, y el cachorro también aumenta de tamaño y cambia con el tiempo. Los dos son seres vivos, pero cada grupo tiene su propia forma de nutrirse: los animales comen plantas u otros animales, mientras que las plantas fabrican su alimento con luz, agua y aire. Para ser un ser vivo no hace falta parecerse a otro.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué le puede pasar a esa planta si pasa mucho tiempo sin agua?",
+      "context": "En una finca de Boyacá, una niña de ocho años tiene un bonsái en una matera y lo riega todas las mañanas. Un día deja la matera sin agua durante varios días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Va a crecer más alto porque tiene más espacio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lejos de crecer, la planta pierde agua y puede secarse o morir."
+        },
+        {
+          "letter": "B",
+          "text": "No le va a pasar nada, porque todas las plantas viven sin agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas necesitan agua como todos los seres vivos, y no pueden vivir mucho tiempo sin ella."
+        },
+        {
+          "letter": "C",
+          "text": "Puede perder su color y secarse porque necesita agua para vivir",
+          "is_correct": true,
+          "feedback": "¡Correcto! La planta necesita agua para transportar los nutrientes, y si no la recibe se deshidrata."
+        },
+        {
+          "letter": "D",
+          "text": "Va a producir más flores porque necesita más comida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase no describe un proceso posible, y además la falta de agua no produce más flores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas tienen necesidad de agua, luz, aire, temperatura y sales minerales. El agua es especialmente importante porque sube desde la raíz por el tallo y transporta los nutrientes hasta las hojas. Si esa agua no llega, las hojas pierden turgencia, se amarillean y la planta se seca. Esta es la razón por la que en las casas y las fincas se riegan las plantas cuando el suelo está seco.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué se espera que ocurra con la hoja que está en la bolsa con agua y con la hoja que está en la bolsa sin agua?",
+      "context": "En un experimento sencillo en el aula de Medellín, una niña de ocho años coloca una hoja de una planta en una bolsa de agua y otra hoja dentro de una bolsa sin agua, y las deja en la ventana durante dos días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hoja en agua se vuelve amarilla, porque el agua le daña",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no daña la hoja; al contrario, la mantiene viva durante más tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos hojas se conservan igual, porque da lo mismo una bolsa que otra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de agua sí importa, y por eso las dos hojas no se conservan igual."
+        },
+        {
+          "letter": "C",
+          "text": "La hoja sin agua se conserva mejor, porque se seca más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Secarse es precisamente lo que daña la hoja, así que se conserva peor y no mejor."
+        },
+        {
+          "letter": "D",
+          "text": "La hoja en agua se conserva mejor, porque las plantas necesitan agua para no secarse",
+          "is_correct": true,
+          "feedback": "¡Correcto! La hoja dentro de la bolsa con agua mantiene la humedad y por eso se conserva en mejor estado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este es un experimento sencillo para comprobar la necesidad del agua en las plantas. La hoja colocada en la bolsa con agua mantiene la humedad, por lo que pierde menos agua y conserva su color y su firmeza. La hoja colocada en la bolsa seca pierde agua, se vuelve flácida y termina de color amarillo. Al comparar los dos resultados, el niño comprueba con sus propias manos que el agua es un requisito básico para la vida de las plantas. Comparar dos grupos es la forma más sencilla de construir evidencia.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v5",
+      "statement": "Analiza las condiciones: ¿qué puede pasar con el crecimiento de las judías en cada sitio?",
+      "context": "En la.huerta escolar de Ibagué, tres grupos de niños siembran judías en tres materas distintas. La primera la dejan junto a la ventana, la segunda en un rincón oscuro del salón y la tercera en el patio, sin lluvia y con el sol fuerte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de la ventana puede crecer mejor, porque recibe luz, y la del rincón oscuro será más pequeña por la falta de luz",
+          "is_correct": true,
+          "feedback": "¡Correcto! Sin luz las hojas no pueden fabricar alimento, así que la judía del rincón produce menos y crece menos."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres judías crecerán igual, porque son la misma especie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que sean de la misma especie no asegura el mismo crecimiento, porque las condiciones del sitio son diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "La del patio morirá con seguridad, porque el sol la quema",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice que no hubo lluvia, pero eso no asegura que la planta muera con seguridad."
+        },
+        {
+          "letter": "D",
+          "text": "La del rincón oscuro será la más grande, porque la oscuridad la protege",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oscuridad no hace crecer más a una planta; sin luz hay menos alimento para producir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para que una planta crezca bien necesita varias condiciones al mismo tiempo: agua, luz, aire, temperatura adecuada y sales minerales. Si falta una de ellas, el crecimiento se detiene o se reduce, aunque las demás condiciones estén presentes. En el rincón oscuro no hay suficiente luz, y sin luz las hojas no pueden fabricar el alimento que la planta necesita para crecer. Por eso la misma judía, sembrada en lugares distintos, puede dar resultados muy diferentes. Reconocer qué condición falta es el paso más importante para explicar un resultado.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v6",
+      "statement": "Analiza las etapas del fruto: ¿qué cambio se observa entre el fruto pequeño y verde y el fruto grande y maduro?",
+      "context": "En un jardín de Popayán, un niño de ocho años observa un manzano con frutas en varias etapas de crecimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fruto se mantiene igual durante todo su desarrollo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado muestra que el fruto cambia de tamaño y de color, así que sí se modifica."
+        },
+        {
+          "letter": "B",
+          "text": "El fruto aumenta de tamaño y cambia de color cuando llega a su maduración",
+          "is_correct": true,
+          "feedback": "¡Correcto! El fruto pasa de pequeño y verde a grande y de otro color cuando termina de madurar."
+        },
+        {
+          "letter": "C",
+          "text": "El fruto cambia de color, pero su tamaño no cambia nunca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción del enunciado muestra que el fruto también aumenta de tamaño."
+        },
+        {
+          "letter": "D",
+          "text": "El fruto se hace más pequeño al llegar a la maduración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al madurar el fruto aumenta de tamaño, no se reduce."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Observar con atención cómo cambia un ser vivo a lo largo del tiempo es una forma de investigar. En este caso se comparan dos estados del mismo fruto: uno pequeño y verde, y otro grande y maduro. Al comparar se identifican dos cambios simultáneos, el tamaño y el color. Si se compararan tres o más estados, se podría describir además la velocidad de cada cambio. Ese tipo de descripción ordenada, primero menor y luego mayor, se llama línea de tiempo del crecimiento, y ayuda a explicar las etapas por las que pasa un ser vivo.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v7",
+      "statement": "El agricultor dice: \"Como el primer lote dio menos maíz, la causa fue que la tierra estaba seca\". ¿Es sólido ese razonamiento?",
+      "context": "En una finca de Santander, un agricultor compara dos lotes de maíz. En el primer lote sembró en suelo seco y en el segundo en suelo con buena humedad. Ambos lotes tenían la misma semilla y la misma cantidad de tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es sólido, porque ningún dato explica la diferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay un dato: el primer lote estaba en suelo seco y el segundo en suelo con humedad."
+        },
+        {
+          "letter": "B",
+          "text": "No es sólido, porque la semilla del primer lote era diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice que ambos lotes tenían la misma semilla, así que la semilla no cambió."
+        },
+        {
+          "letter": "C",
+          "text": "Es razonable, porque como solo cambió la humedad, esa es la explicación más probable",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al mantener la semilla y la tierra iguales, la humedad es la única variable que explica la diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Es sólido, porque toda cosecha baja en tierra seca",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no presenta datos de otras fincas, así que esa regla general no se puede afirmar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un razonamiento científico sólido debe señalar la diferencia principal entre dos casos comparados y descartar otras posibilidades. En esta situación, el lote seco y el lote húmedo tenían la misma semilla y la misma cantidad de tierra, de manera que lo único que cambió fue la humedad del suelo. Como la diferencia en la cosecha coincide con esa única diferencia, la conclusión es razonable y bien sustentada. Este tipo de comparación, en la que se cambia un solo factor y se mantienen los demás constantes, es el fundamento del método científico.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué debería responder el niño para evaluar lo que dice su compañero?",
+      "context": "En una escuela de Manizales, un niño de ocho años escucha a un compañero de clase que le dice que las piedras del patio no son seres vivos, pero que un pedazo de madera que se cayó de un árbol sí lo es.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no tiene razón, porque las rocas son seres vivos muy lentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas no son seres vivos: no crecen, no se alimentan y no se reproducen."
+        },
+        {
+          "letter": "B",
+          "text": "Que no tiene razón, porque la madera tampoco es un ser vivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera es la parte sólida de un árbol, y el árbol es un ser vivo."
+        },
+        {
+          "letter": "C",
+          "text": "Que tiene razón, porque todo lo que está en la tierra es un ser vivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todo lo que está en la tierra es ser vivo; el agua y las rocas también están sobre la tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Que tiene razón, porque la madera viene de un ser vivo, mientras que las rocas no vienen de seres vivos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La madera es parte de un árbol, que es un ser vivo, y las rocas no se forman a partir de seres vivos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una clasificación exige aplicar los criterios de lo que es un ser vivo. La madera forma parte del tronco de un árbol, y el árbol es un ser vivo porque crece, se alimenta y se reproduce. En cambio, las rocas se formaron por procesos geológicos y no cumplen ninguna de esas características. Sin embargo, hay que tener cuidado: cuando la madera se cae y se separa del árbol, deja de crecer y deja de ser un ser vivo por sí misma, aunque conserve su forma. Evaluar con estos criterios enseña a distinguir entre un ser vivo completo y una parte que proviene de él.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W02-plantas-y-seres-vivos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

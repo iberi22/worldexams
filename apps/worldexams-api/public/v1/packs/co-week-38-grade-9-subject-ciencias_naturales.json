@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-38-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-29T02:57:11.351Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué información permite ubicar un elemento en un período y en un grupo de la tabla periódica?",
+      "context": "En el laboratorio del colegio de Bogotá, el profesor repasa la organización de la tabla periódica con estudiantes de noveno grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número atómico, que indica la cantidad de protones, y el número de electrones de valencia, que define el comportamiento químico.",
+          "is_correct": true,
+          "feedback": "Correcto. El número atómico sitúa al elemento en su período y los electrones de valencia explican su grupo y su reactividad."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de isótopos, que indica la cantidad de protones, y el estado del elemento a temperatura ambiente, que define el período.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estado físico depende de la temperatura y de las fuerzas intermoleculares, y no define el período en la tabla."
+        },
+        {
+          "letter": "C",
+          "text": "La masa atómica, que indica la cantidad de protones, y la cantidad de neutrones, que define el grupo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa atómica suma protones y neutrones, y son los protones los que definen el número atómico."
+        },
+        {
+          "letter": "D",
+          "text": "El número de neutrones, que indica la cantidad de protones, y el radio atómico, que define el grupo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de neutrones no determina la identidad química del elemento, que depende de los protones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Repasar la tabla periódica exige relacionar la posición de un elemento con su estructura electrónica. El número atómico, que cuenta los protones, determina el período en el que se ubica el elemento. Los electrones de valencia, que son los de la capa más externa, explican la familia química a la que pertenece y su comportamiento en las reacciones. Comprender esta relación permite ordenar la tabla, predecir propiedades y entender por qué dos elementos del mismo grupo reaccionan de manera parecida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre el enlace iónico y el enlace covalente?",
+      "context": "En una clase de química de noveno grado en Medellín, se repasa la diferencia entre los dos tipos principales de enlace químico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos enlaces se forman entre átomos del mismo elemento, porque solo los elementos iguales forman enlaces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los enlaces se forman entre elementos distintos y también entre átomos del mismo elemento."
+        },
+        {
+          "letter": "B",
+          "text": "En el iónico un átomo cede electrones y se forman iones con cargas opuestas, mientras que en el covalente los átomos comparten pares de electrones.",
+          "is_correct": true,
+          "feedback": "Correcto. El enlace iónico se forma por transferencia de electrones y el covalente por compartición de pares electrónicos."
+        },
+        {
+          "letter": "C",
+          "text": "En el iónico los átomos comparten electrones, mientras que en el covalente uno de ellos pierde electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los papeles están invertidos: la compartición de electrones define el enlace covalente."
+        },
+        {
+          "letter": "D",
+          "text": "En ambos enlaces los átomos transfieren electrones, y la diferencia está solo en la cantidad de electrones transferidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia es de mecanismo, no de cantidad: uno implica transferencia y el otro compartición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Distinguir los tipos de enlace es clave para explicar las propiedades de las sustancias. En el enlace iónico, un átomo entrega electrones y otro los recibe, de modo que se forman iones positivos y negativos que se atraen. En el enlace covalente, los átomos comparten electrones y forman moléculas. Esta diferencia explica, por ejemplo, que las sustancias iónicas suelan ser sólidas y tengan puntos de fusión altos, mientras que las moleculares suelen ser más blandas o gaseosas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se explica que el agua pura tenga un pH de 7 y sea considerada neutra?",
+      "context": "En el laboratorio de un colegio de Cali, se explica por qué el agua pura presenta un pH igual a 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua no contiene ningún ion disuelto, y la ausencia de iones produce un pH de 7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua pura sí contiene iones, aunque en cantidades muy pequeñas, y son ellos los que definen su pH."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el pH del agua depende de la cantidad de sal agregada, y sin sal el valor siempre es 7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH de una disolución de sal puede variar, y no por eso se define la neutralidad del agua pura."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en ella hay igual cantidad de iones hidrógeno y de iones hidróxido, que se producen al mismo ritmo y se neutralizan mutuamente.",
+          "is_correct": true,
+          "feedback": "Correcto. La neutralidad del agua equivale al equilibrio entre iones hidrógeno e hidróxido, y ese equilibrio da un pH igual a 7."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua pura siempre es un ácido débil, y los ácidos débiles tienen pH igual a 7.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ácido débil tiene pH menor que 7, y el agua pura no se clasifica como ácido ni como base."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la neutralidad del agua es la base para usar correctamente la escala de pH. En el agua pura se produce una cantidad muy pequeña y exacta de iones hidrógeno e hidróxido, y como ambos se forman en igual proporción, la disolución es neutra. El valor de pH igual a 7 es el punto de referencia de la escala: por debajo se considera ácida y por encima básica. Comprender este equilibrio evita confundir neutralidad con ausencia de iones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué coeficientes corresponden al agua en la reacción balanceada de la combustión del hidrógeno?",
+      "context": "En un tablero de química de Bucaramanga, un estudiante debe balancear la reacción entre el hidrógeno y el oxígeno para formar agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres moléculas de agua, porque la suma de los coeficientes siempre debe ser un número impar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe esa regla: los coeficientes se determinan por el balance de átomos de cada elemento."
+        },
+        {
+          "letter": "B",
+          "text": "Cuatro moléculas de agua, porque el hidrógeno es diatómico y por eso debe duplicarse dos veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hidrógeno es diatómico, pero el coeficiente del agua sigue siendo 2 al balancear los átomos de ambos lados."
+        },
+        {
+          "letter": "C",
+          "text": "Una molécula de agua, porque en toda reacción el producto principal siempre lleva coeficiente 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los coeficientes se obtienen contando los átomos de cada elemento, no por una regla fija sobre el producto."
+        },
+        {
+          "letter": "D",
+          "text": "Dos moléculas de agua, porque se necesitan dos átomos de hidrógeno por cada átomo de oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcto. El agua tiene dos átomos de hidrógeno y uno de oxígeno, de modo que el coeficiente del agua es 2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Balancear una ecuación consiste en colocar coeficientes enteros y mínimos que hagan coincidir el número de átomos de cada elemento en los dos lados. En la reacción del hidrógeno con el oxígeno, cada molécula de agua contiene dos átomos de hidrógeno y uno de oxígeno, por lo que se necesitan dos moléculas de agua por cada molécula de oxígeno. Recordar que el hidrógeno y el oxígeno son gases diatómicos evita errores frecuentes al contar los átomos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v5",
+      "statement": "Con las masas atómicas de oxígeno igual a 16 y de hidrógeno igual a 1, ¿qué masa molar corresponde al agua?",
+      "context": "En un laboratorio escolar de Pereira, un grupo de estudiantes calcula la masa molar del agua usando la tabla de masas atómicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 gramos por mol, porque se suman las masas atómicas de los dos átomos de hidrógeno y del átomo de oxígeno.",
+          "is_correct": true,
+          "feedback": "Correcto. La masa molar resulta de sumar las masas atómicas de todos los átomos de la molécula, y en el agua son 18."
+        },
+        {
+          "letter": "B",
+          "text": "17 gramos por mol, porque solo se deben sumar los átomos que hay en el último elemento de la fórmula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molar suma las masas atómicas de todos los átomos de la molécula, no solo los de un elemento."
+        },
+        {
+          "letter": "C",
+          "text": "2 gramos por mol, porque el agua está formada únicamente por hidrógeno y oxígeno en partes iguales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el agua hay un átomo de oxígeno por cada dos de hidrógeno, de modo que la suma no es 2."
+        },
+        {
+          "letter": "D",
+          "text": "16 gramos por mol, porque la masa molar de una sustancia siempre coincide con la del elemento más pesado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa molar depende de la composición completa de la molécula y no solo del elemento más pesado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular la masa molar es una aplicación directa de la fórmula de una sustancia. En el agua, la fórmula indica un átomo de oxígeno por cada dos de hidrógeno, de modo que la masa molar es 16 más 2 por 1, es decir 18 gramos por mol. Este procedimiento se repite con cualquier compuesto: basta con multiplicar cada masa atómica por la cantidad de átomos indicados en la fórmula y sumar los resultados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué conjunto de acciones permite preparar la disolución de forma controlada y reproducible?",
+      "context": "En el laboratorio de química de un colegio de Barranquilla, un grupo prepara 200 mililitros de una disolución de salmuera y necesita controlar las variables del procedimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agregar sal al agua hasta que la mezcla parezca tener la cantidad adecuada, sin medir nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin medir la masa y el volumen final no se puede controlar la concentración y el resultado no es reproducible."
+        },
+        {
+          "letter": "B",
+          "text": "Pesar la masa necesaria de sal, disolverla en un volumen menor de agua y completar luego con agua hasta el volumen final pedido.",
+          "is_correct": true,
+          "feedback": "Correcto. Pesar, disolver y completar hasta el volumen final son los pasos que permiten controlar la concentración de la disolución."
+        },
+        {
+          "letter": "C",
+          "text": "Mezclar la sal con el agua en un recipiente cerrado y agitar hasta que la sal desaparezca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Disolver la sal es necesario, pero falta medir la masa y el volumen final para controlar la concentración."
+        },
+        {
+          "letter": "D",
+          "text": "Calentar el agua hasta que hierva, agregar la sal y usar el recipiente más grande disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen final es el dato que define la concentración, y el recipiente usado impide medirlo con precisión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Preparar una disolución exige controlar las variables que determinan su concentración. Se pesa la masa exacta del soluto, se disuelve en un volumen menor de disolvente y se completa con agua hasta el volumen total solicitado, usando un instrumento adecuado para medirlo. Este procedimiento asegura que otra persona pueda repetir la preparación y obtener la misma concentración, principio esencial de cualquier trabajo experimental.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué análisis explica mejor el aumento de temperatura observado en la mezcla?",
+      "context": "Un grupo de noveno grado de Cartagena mezcla ácido clorhídrico e hidróxido de sodio en un vaso de precipitados y mide la temperatura antes y después de la reacción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La temperatura no cambia, porque en las reacciones químicas siempre se conserva la temperatura del sistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura cambia cuando la reacción libera o absorbe calor, aunque la masa total del sistema se conserve."
+        },
+        {
+          "letter": "B",
+          "text": "La reacción absorbe calor de la mezcla, por lo que es endotérmica y la temperatura aumenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una reacción endotérmica absorbe calor y la temperatura de la mezcla disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "La reacción libera calor al ambiente, por lo que es exotérmica y la temperatura de la mezcla aumenta.",
+          "is_correct": true,
+          "feedback": "Correcto. El aumento de temperatura indica que la reacción libera energía al ambiente, es decir, que es exotérmica."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura sube porque el volumen de la mezcla se reduce al reaccionar los dos reactivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La causa de la variación de temperatura es el intercambio de energía en la reacción y no el cambio de volumen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar una reacción desde la termoquímica exige relacionar el cambio de temperatura con el intercambio de energía. Si la temperatura de la mezcla aumenta, la reacción libera calor al ambiente y es exotérmica; si la temperatura disminuye, es endotérmica. Es importante recordar que, aunque el calor se libera o se absorbe, la masa total del sistema se conserva, porque la energía no se crea ni se destruye. Esta lectura de los datos permite clasificar correctamente la reacción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v8",
+      "statement": "¿Qué explicación es la correcta para el comportamiento de la sal y el aceite en agua?",
+      "context": "En una clase de Villavicencio, se explica por qué la sal de cocina se disuelve en agua mientras el aceite no lo hace de la misma manera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas sustancias se disuelven igual, y la diferencia está solo en la cantidad de sal que se añade al agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aceite es apolar y se disuelve mal en agua, de modo que la diferencia no depende de la cantidad añadida."
+        },
+        {
+          "letter": "B",
+          "text": "La sal se disuelve porque sus moléculas se rompen, y el aceite no porque sus moléculas no se rompen nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que se separan son los iones de la sal, que quedan rodeados por agua, y no moléculas que se rompen."
+        },
+        {
+          "letter": "C",
+          "text": "La sal se disuelve porque es más ligera que el agua, y el aceite no porque es más pesada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La masa no determina la disolución: lo determinante son las interacciones entre las partículas de soluto y disolvente."
+        },
+        {
+          "letter": "D",
+          "text": "La sal se disuelve porque es iónica y sus iones interactúan con las moléculas de agua, mientras que el aceite es molecular y no establece esas atracciones.",
+          "is_correct": true,
+          "feedback": "Correcto. La disolución de la sal depende de la atracción entre sus iones y el agua, mientras que el aceite no forma esas interacciones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Explicar un fenómeno de disolución exige relacionar el tipo de enlace de la sustancia con sus interacciones con el agua. La sal es iónica, y sus iones positivos y negativos son atraídos por las moléculas de agua, que los rodean y los mantienen dispersos. El aceite es molecular y apolar, y no establece atracciones suficientes con el agua, por eso se forma una capa separada. Esta explicación permite distinguir entre disolver y mezclar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué lectura de los datos permite determinar?",
+      "context": "Un grupo de estudiantes de Popayán registra el pH de una disolución a medida que agrega base y grafica los resultados obtenidos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite identificar en qué punto de la escala la mezcla cambia de ácida a neutra, porque el pH registra la concentración de iones hidrógeno.",
+          "is_correct": true,
+          "feedback": "Correcto. El pH mide la concentración de iones hidrógeno, de modo que el registro muestra el cambio de acidez de la mezcla."
+        },
+        {
+          "letter": "B",
+          "text": "Permite medir la velocidad de la reacción, porque el pH indica cuántos segundos han pasado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH no mide el tiempo: es una medida de la acidez de la disolución."
+        },
+        {
+          "letter": "C",
+          "text": "Permite demostrar la formación de un nuevo elemento, porque el cambio de pH produce elementos distintos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una reacción produce nuevas sustancias, no nuevos elementos, y el pH por sí solo no lo demuestra."
+        },
+        {
+          "letter": "D",
+          "text": "Permite conocer la masa de cada reactivo, porque el pH es proporcional a la masa disuelta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pH relaciona la acidez con la concentración de iones, no con la masa total de reactivo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar datos experimentales exige saber qué mide cada variable antes de interpretar los resultados. El pH es una medida de la acidez, es decir, de la concentración de iones hidrógeno en la disolución. Al registrar el pH durante un experimento se puede seguir el cambio de acidez hasta llegar al punto neutro. Reconocer qué mide la variable evita atribuirle a la gráfica propiedades que no tiene.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.65,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v10",
+      "statement": "Frente a estos resultados, ¿cuál conclusión es la más adecuada?",
+      "context": "Un equipo de noveno grado de Ibagué mezcló ácido e hidróxido de sodio, y la temperatura subió 8 grados. Al repetir el experimento midió 4 grados y luego 1 grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La reacción no es exotérmica, porque las tres mediciones dan resultados distintos entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variación entre mediciones es un indicio de error experimental, y no niega el carácter exotérmico de la reacción."
+        },
+        {
+          "letter": "B",
+          "text": "El proceso libera calor, pero las variaciones entre mediciones indican que se deben repetir los ensayos y promediar para reducir el error.",
+          "is_correct": true,
+          "feedback": "Correcto. Concluir que la reacción es exotérmica es correcto, y a la vez se reconoce que hay que repetir y promediar para aumentar la confiabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "La reacción es endotérmica, porque el promedio de las mediciones es menor que la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aumento de temperatura en los tres ensayos indica que se libera calor al ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "El resultado no permite concluir nada, porque en toda reacción la temperatura del sistema debe permanecer constante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura cambia cuando la reacción libera o absorbe calor, y ese cambio es precisamente lo que se midió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar resultados experimentales exige separar la conclusión principal de la calidad de los datos. En este caso, los tres ensayos muestran un aumento de temperatura, de modo que sí es válido concluir que la reacción libera calor. Sin embargo, como las mediciones difieren entre sí, la conclusión del experimento debe ir más allá: un buen informe reconoce el error, repite el ensayo y calcula el promedio para obtener un dato más confiable.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v11",
+      "statement": "Frente a la afirmación de que las sustancias iónicas siempre son muy solubles en agua, ¿cuál es la evaluación correcta?",
+      "context": "En una clase de noveno grado de Sincelejo, se pide evaluar una afirmación sobre las propiedades de las sustancias iónicas y moleculares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la solubilidad depende únicamente de la cantidad de agua agregada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solubilidad depende de la naturaleza de la sustancia y de la temperatura, y no solo del volumen de agua."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque toda sustancia iónica se disuelve por completo en cualquier cantidad de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay sustancias iónicas poco solubles, de modo que la solubilidad no está determinada solo por el tipo de enlace."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque la solubilidad de una sustancia iónica depende tanto de la atracción entre sus iones y el agua como de la estructura de la red cristalina.",
+          "is_correct": true,
+          "feedback": "Correcto. La solubilidad no depende solo del carácter iónico, sino también de la estabilidad de la red cristalina de la sustancia."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque ninguna sustancia iónica se disuelve en agua, ya que sus iones no pueden moverse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas sustancias iónicas sí se disuelven, y en ellas los iones sí se separan y quedan rodeados por agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una afirmación general sobre las propiedades de las sustancias exige considerar tanto lo que la afirmación dice como lo que omite. Aunque las sustancias iónicas suelen ser solubles, existen excepciones, porque la disolución depende de la competencia entre la atracción de los iones por el agua y la estabilidad de la red cristalina que los une. Reconocer estos casos evita convertir una tendencia general en una regla absoluta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle-v12",
+      "statement": "Frente a esta afirmación, ¿cuál es la evaluación más adecuada desde la termoquímica?",
+      "context": "En un laboratorio escolar de Bogotá, un docente afirma que disolver sal en agua produce una reacción exotérmica porque la mezcla se calienta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es incorrecta, porque disolver sal es una reacción química que libera gases y calor al mismo tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La disolución de la sal es un proceso físico, y no una reacción que libere gases."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque toda disolución libera calor al ambiente y por eso la mezcla aumenta su temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda disolución libera calor: la de la sal en agua absorbe calor y enfría la mezcla."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque el calor siempre se conserva y por eso la temperatura de la mezcla sube.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conservación del calor no implica un aumento de temperatura: el sentido del intercambio depende de cada proceso."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque disolver sal en agua es un proceso endotérmico y la disolución absorbe calor de la mezcla, de modo que esta se enfría.",
+          "is_correct": true,
+          "feedback": "Correcto. La disolución de la sal en agua absorbe calor, por eso la mezcla se enfría y el proceso se clasifica como endotérmico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una afirmación sobre la disolución exige clasificar correctamente el proceso y su efecto térmico. Al disolver sal en agua, el sistema absorbe calor de la mezcla, que se enfría, de manera que se trata de un proceso endotérmico. Además, la disolución es un fenómeno físico, porque no se forma una sustancia nueva. Reconocer ambos aspectos evita argumentos generalizados que no corresponden a lo ocurrido en el laboratorio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.55,
+      "bundle_id": "CO-CN-9-2026-W38-repaso-quimica-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

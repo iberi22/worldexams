@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-1-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T02:57:11.352Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v1",
+      "statement": "Según el comienzo del cuento que leyó la señora Gloria, ¿cómo se llama la protagonista?",
+      "context": "En una biblioteca de Bogotá, la señora Gloria lee en voz alta un cuento a un grupo de niños de ocho años. El cuento trata de una niña llamada Sofi que vive cerca de un río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sofi",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto presenta a una niña que vive cerca del río y la llama Sofi, y esa es la protagonista."
+        },
+        {
+          "letter": "B",
+          "text": "Sofía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto escribe el nombre con una sola s, como Sofi, y no con dos."
+        },
+        {
+          "letter": "C",
+          "text": "Gloria",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gloria es la señora que lee el cuento, no la protagonista de la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río es el lugar donde vive la protagonista, no el nombre de un personaje."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para entender un cuento hay que identificar quién es el personaje central, es decir, quién aparece con más frecuencia y alrededor de quien ocurren los hechos. En este caso el texto presenta a una niña que vive cerca de un río y la llama Sofi. La persona que lee en voz alta y el lugar de la historia no son personajes. Reconocer al protagonista es el primer paso para seguir los hechos y comprender el mensaje del cuento.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la idea central de este cuento?",
+      "context": "En la clase de lenguaje de una escuela de Pereira, un niño de ocho años lee un cuento en el que la protagonista escribe cartas a su abuela para contarle cómo le va.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un niño pierde su mochila en la escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona ninguna mochila ni ninguna escuela."
+        },
+        {
+          "letter": "B",
+          "text": "Una niña le escribe cartas a su abuela para contarle cómo le va",
+          "is_correct": true,
+          "feedback": "¡Correcto! Toda la historia se centra en las cartas que la niña envía a su abuela."
+        },
+        {
+          "letter": "C",
+          "text": "Una niña aprende a montar en bicicleta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona la bicicleta, así que esa idea no aparece en el cuento."
+        },
+        {
+          "letter": "D",
+          "text": "Una abuela prepara un almuerzo para la familia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado habla de cartas y no de una comida ni de una visita familiar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea central es aquello de lo que trata principalmente el texto, y se puede escribir en una sola oración. Al leer el enunciado, todas las acciones giran en torno a lo mismo: la niña escribe cartas a su abuela para contarle cómo le va. Las otras opciones mencionan acciones que no aparecen en el texto. Saber escribir la idea central con las mismas palabras del cuento evita inventar información y ayuda a resumir bien.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v3",
+      "statement": "Según esa parte del cuento, ¿qué nos indica la palabra \"Aunque\"?",
+      "context": "En una casa de lectura de Neiva, un niño de ocho años lee esta parte de un cuento: \"Aunque llovía muy fuerte, Martina decidió salir. Así que llegó mojada, pero llegó a tiempo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la lluvia no fue importante para la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia sí importa, porque es justamente el obstáculo que enfrentaba Martina."
+        },
+        {
+          "letter": "B",
+          "text": "Que Martina llegó tarde por causa de la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que llegó a tiempo, aunque llegara mojada."
+        },
+        {
+          "letter": "C",
+          "text": "Que la lluvia era una dificultad, pero Martina salió igual",
+          "is_correct": true,
+          "feedback": "¡Correcto! La palabra \"Aunque\" presenta un obstáculo, en este caso la lluvia, y luego cuenta lo que hizo el personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Que Martina decidió no salir de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que decidió salir, no que se quedara adentro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores del texto muestran cómo se relacionan las partes de una oración. La palabra \"Aunque\" introduce una idea que se opone a la que viene después: la lluvia era un problema, pero a pesar de eso Martina salió. Reconocer estas palabras ayuda al lector a entender la secuencia de los hechos, a saber que hubo un obstáculo y a evaluar si el personaje logró o no su propósito. Esa oposición entre lo difícil y lo que el personaje hizo es el sentido que aporta la palabra \"Aunque\".\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v4",
+      "statement": "En la oración \"Tomás estaba muy nervioso antes del concierto\", ¿qué palabra indica cómo se siente Tomás?",
+      "context": "En el salón de clases de un colegio de Cartagena, la profesora pide a los niños que busquen en un cuento las palabras que describen cómo se siente un personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estaba",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Estaba\" solo indica un estado, no dice cuál es el sentimiento de Tomás."
+        },
+        {
+          "letter": "B",
+          "text": "Antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Antes\" indica un momento de tiempo, no una emoción."
+        },
+        {
+          "letter": "C",
+          "text": "Concierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Concierto\" nombra el evento donde ocurre la escena, no el sentimiento del personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Nervioso",
+          "is_correct": true,
+          "feedback": "¡Correcto! La palabra \"nervioso\" describe el estado de ánimo de Tomás en ese momento del cuento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los cuentos, los autores muestran cómo se sienten los personajes usando palabras que describen sus emociones o estados de ánimo. En la oración del enunciado hay tres clases de palabras: \"concierto\" nombra un evento, \"antes\" señala un momento y \"estaba\" es un verbo. La que expresa el sentimiento es \"nervioso\", y por eso es la palabra buscada. Reconocer este tipo de palabras permite entender mejor a los personajes y ver por qué actuarán de cierta manera.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v5",
+      "statement": "Analiza las primeras líneas del cuento: ¿qué nos dicen sobre el personaje Ana?",
+      "context": "En una lectura compartida en Bucaramanga, un grupo de niños de ocho años lee un cuento que empieza así: \"Cada mañana, Ana se levantaba a las cinco para caminar con su perro por el parque, aunque el frío era intenso\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es constante y responsable, porque repite la misma rutina aunque el clima sea difícil",
+          "is_correct": true,
+          "feedback": "¡Correcto! El texto dice que lo hacía \"cada mañana\" y \"aunque el frío era intenso\", lo que muestra constancia."
+        },
+        {
+          "letter": "B",
+          "text": "Que es perezosa, porque camina en vez de descansar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Levantarse temprano a caminar no indica pereza, y el texto no dice que ella evitara sus tareas."
+        },
+        {
+          "letter": "C",
+          "text": "Que no le gusta el frío, porque por eso nunca sale",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice lo contrario: ella salía a caminar aunque el frío fuera intenso."
+        },
+        {
+          "letter": "D",
+          "text": "Que camina con su perro solo los domingos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice \"cada mañana\", lo que indica todos los días y no solamente los domingos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar las primeras líneas de un cuento permite inferir características del personaje que el autor no escribe de forma directa. La frase \"cada mañana\" indica un hábito, es decir, que Ana repite la acción todos los días. La expresión \"aunque el frío era intenso\" añade que la rutina no era fácil, y aun así ella la mantenía. Juntando ambas pistas se puede concluir que el personaje es constante y responsable. Inferir a partir de los detalles del texto es una comprensión más profunda que solo buscar nombres.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v6",
+      "statement": "¿Qué indica la palabra \"amistoso\" en esa oración y qué efecto tiene en la historia?",
+      "context": "En un taller de lectura de Montería, un niño de ocho años lee un cuento infantil donde el autor escribe: \"El pequeño zorro era amistoso con todos los animales del bosque\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el zorro era muy grande, lo que explica por qué asusta a los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Amistoso\" habla de la relación con los otros animales, no del tamaño del zorro."
+        },
+        {
+          "letter": "B",
+          "text": "Que el zorro se llevaba bien con los demás, lo que hace que sea un personaje querido",
+          "is_correct": true,
+          "feedback": "¡Correcto! La palabra describe la manera de ser del zorro y prepara al lector a quererlo como personaje."
+        },
+        {
+          "letter": "C",
+          "text": "Que el zorro cantaba muy bien, por eso todos lo escuchaban",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni la palabra ni la oración tienen que ver con el canto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el zorro vivía lejos del bosque, lo que explica que lo vieran poco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de la distancia ni de dónde vivía el zorro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender el significado de una palabra y el efecto que produce en el texto es una parte esencial de la lectura. La palabra \"amistoso\" describe cómo es el zorro en su relación con los demás animales del bosque. Esa descripción no solo informa, sino que prepara al lector: si el zorro es amistoso, el lector esperará que los personajes lo quieran y no que lo teman. Ese efecto se llama connotación, y se usa mucho en los cuentos infantiles para crear simpatía hacia un personaje.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v7",
+      "statement": "Un lector del grupo dice: \"En este cuento la enseñanza es que hay que ayudar a los demás aunque no nos ganemos nada\". ¿Qué le responderías a ese lector?",
+      "context": "En un club de lectura de Sincelejo, un grupo de niños de ocho años lee un cuento en el que una niña le da su almuerzo a un compañero que llegó sin comer. El autor cierra el relato así: \"Así entendió que la generosidad importa más que el dinero\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su respuesta es incorrecta, porque los cuentos nunca dan una enseñanza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cuentos sí transmiten una enseñanza, y este cuenta claramente una situación de ayuda."
+        },
+        {
+          "letter": "B",
+          "text": "Que su respuesta es razonable, porque el texto no dice nada sobre la ayuda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí muestra la ayuda, y justamente por eso el lector sacó esa conclusión."
+        },
+        {
+          "letter": "C",
+          "text": "Que su respuesta es razonable, porque el texto muestra la ayuda como algo valioso",
+          "is_correct": true,
+          "feedback": "¡Correcto! El gesto de compartir el almuerzo y el cierre del autor respaldan esa lectura del cuento."
+        },
+        {
+          "letter": "D",
+          "text": "Que su respuesta es incorrecta, porque el texto solo habla del almuerzo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto trata precisamente de la ayuda, aunque también mencione el almuerzo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Interpretar un cuento significa justificar la propia lectura con pistas del propio cuento. En esta situación, el lector propone que la enseñanza es ayudar a los demás, y esa lectura se apoya en dos elementos: la niña entrega su almuerzo a un compañero que no había comido, y el autor relaciona ese gesto con la generosidad. Con esos datos la interpretación queda bien sustentada. Una respuesta sólida en lectura crítica no es solo una opinión, sino una opinión apoyada en lo que el texto realmente dice.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle-v8",
+      "statement": "¿Qué está intentando lograr el autor con esas últimas líneas del cuento?",
+      "context": "Al final de un taller de lectura de Barranquilla, la profesora lee a los niños el cierre de un cuento: \"Cerró el libro y preguntó a los demás cómo seguían ellos. Nunca había pensado que esa pregunta importara tanto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enseñarles a los lectores una forma nueva de rimar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no habla de rimas ni de ningún recurso de ese tipo."
+        },
+        {
+          "letter": "B",
+          "text": "Hacer que los lectores no busquen más cuentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el cierre busca esa reacción en quien lee."
+        },
+        {
+          "letter": "C",
+          "text": "Avisarles a los lectores que el cuento ya terminó",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las líneas no tienen esa función, porque forman parte del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Invitar a los lectores a pensar en los demás y no solo en sí mismos",
+          "is_correct": true,
+          "feedback": "¡Correcto! El cierre lleva al lector a imaginar lo que hizo el personaje y a valorar el ejemplo que dejó."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la última parte de un cuento, el autor busca dejar un mensaje y provocar una reacción en quien lee. Con la pregunta que el personaje le hace a los demás, y con la reflexión de que nunca había pensado que esa pregunta importara tanto, el autor invita a pensar en las personas que nos rodean y no solamente en nosotros mismos. A partir de ahí, el lector se pregunta qué haría él en la misma situación. Ese efecto que el texto produce en el lector para que cambie su manera de ver el mundo se llama intención del autor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W01-cuentos-infantiles-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
