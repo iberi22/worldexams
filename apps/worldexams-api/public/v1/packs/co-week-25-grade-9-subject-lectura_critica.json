@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-25-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:59:58.835Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un ensayo?",
+      "context": "En un colegio de Medellín, la profesora de noveno grado pide a los estudiantes que definan el género antes de leer el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto en prosa que expone una postura, la defiende con argumentos y datos ordenados, y cierra con una conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo combina exposición, argumentación y conclusión dentro de una estructura flexible pero orientada por una tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Es un relato de hechos contados en orden cronológico, sin que el autor exprese su opinión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un relato sin opinión es una cronología o un relato informativo: el ensayo defiende una postura."
+        },
+        {
+          "letter": "C",
+          "text": "Es un resumen breve de un libro largo, formado por tres parrafos sin argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad y la falta de argumento no definen el ensayo: lo define la defensa de una postura."
+        },
+        {
+          "letter": "D",
+          "text": "Es una guia de estudio que organiza definiciones en listas para memorizarlas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo no es un esquema de definiciones: develops una razón con argumentos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ensayo es un género argumentativo en prosa que presenta una tesis, la desarrolla con argumentos y ejemplos ordenados por el propio autor, y llega a una conclusión. Su estructura es flexible, pero siempre cumple esas tres funciones. Reconocer el género desde el primer parrafo ayuda al estudiante a leer de forma distinta cada sección, sabiendo que en unas se presenta la postura y en otras se la justifica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre el tema y la tesis en el Texto 1?",
+      "context": "En el aula de noveno grado de Armenia, los estudiantes de noveno marcan en el Texto 1 la frase que expresa la postura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tema es la conclusión final y la tesis es el primer parrafo del ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: está invertido. El tema es el asunto general y la tesis es la postura que se defiende."
+        },
+        {
+          "letter": "B",
+          "text": "No hay diferencia, porque en un ensayo el tema y la tesis son sinonimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son distintos: uno delimita el asunto y el otro afirma una posición sobre el."
+        },
+        {
+          "letter": "C",
+          "text": "El tema son las constituciones colombianas, y la tesis es que cambiarlas implica cambiar el reparto del poder.",
+          "is_correct": true,
+          "feedback": "Correcto. El tema delimita el asunto y la tesis sostiene una afirmación concreta y defendible sobre el."
+        },
+        {
+          "letter": "D",
+          "text": "El tema es el argumento principal y la tesis es el dato histórico que lo respalda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los papeles estan intercambiados: la tesis es la afirmación y el dato es el respaldo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tema indica de que trata el texto, mientras que la tesis afirma una postura concreta sobre ese asunto que el autor se compromete a defender. En el Texto 1, el tema son las constituciones y la tesis es que modificarlas cambia la distribución del poder. Distinguir los dos conceptos es indispensable en lectura crítica, porque permite evaluar si los argumentos que siguen sostienen lo que la tesis anuncia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Cual es la intención comunicativa principal del Texto 1?",
+      "context": "En un taller de escritura de Bucaramanga, los estudiantes de noveno se preguntan a quien intenta convencer el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrar los hechos de la Constitución de 1886 en orden cronológico y sin valorarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no se limita a narrar: interpreta el cambio constitucional y lo valora."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer al lector de que una Constitución reorganiza el poder y no es un simple trámite.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo busca modificar la manera de ver el cambio constitucional mediante argumentos."
+        },
+        {
+          "letter": "C",
+          "text": "Entregar información sobre la duración exacta de cada Constitución del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fechas estan al servicio de un argumento, no de una ficha informativa."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar la diferencia entre las dos Asambleas que hicieron constituciones en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no compara asambleas: usa el caso para sostener una idea general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intención comunicativa del ensayo es argumentativa: el autor quiere que su lector adopte una manera de ver el asunto. En el Texto 1, las fechas y los hechos se subordinan a la idea de que una Constitución reorganiza el poder. Reconocer esta intención evita confundir el ensayo con un texto informativo y permite evaluar el género con la vara de la argumentación y no de la simple información.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Que frase del Texto 1 contiene la tesis del ensayo?",
+      "context": "En el aula de noveno grado de Girardota, los estudiantes de noveno identifican la frase que contiene la tesis del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Cambiar una Constitución no es un trámite administrativo: es cambiar el reparto del poder.»",
+          "is_correct": true,
+          "feedback": "Correcto. La frase afirma una postura sobre lo que significa cambiar la Constitución y ordena todo lo que sigue."
+        },
+        {
+          "letter": "B",
+          "text": "«La Carta de 1886 se expidió en 1886 y rigió más de un siglo.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es un dato histórico: sirve de apoyo, pero no enuncia la postura del autor."
+        },
+        {
+          "letter": "C",
+          "text": "«En 1991, la Asamblea Nacional Constituyó un texto nuevo.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es información sobre un hecho: aporta contexto, no la afirmación que el ensayo defender."
+        },
+        {
+          "letter": "D",
+          "text": "«Una constitución no describe el país: lo organiza.»",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una frase de cierre sintética: condensa el argumento, pero no es la tesis inicial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis suele aparecer al comienzo del ensayo, en el primer o segundo parrafo, y organiza todo lo que viene despues. En el Texto 1, La frase que abre el fragmento enuncia el sentido del cambio constitucional y funciona como criterio de lectura para todo el argumento. Identificarla permite preguntar luego si los datos y las fechas que se presentan son realmente los que sostienen esa afirmación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Que tipo de afirmación representa «rigió más de un siglo» en el Texto 1?",
+      "context": "En un grupo de noveno grado de Sincelejo, los estudiantes de noveno comparan la afirmación «más de un siglo» con la cronología del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una afirmación cuantitativa precisa, porque indica el número exacto de años que rigió la Carta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión es aproximada: no fija una cantidad exacta de años, solo una duración general."
+        },
+        {
+          "letter": "B",
+          "text": "Una afirmación ironica, porque el autor duda de la fecha de expedición de la Carta de 1886.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ironia: el autor usa la expresión para sostener su argumento con prudencia."
+        },
+        {
+          "letter": "C",
+          "text": "Una afirmación de duración, que apoya la tesis al mostrar que la Constitución de 1886 tuvo una vigencia muy larga.",
+          "is_correct": true,
+          "feedback": "Correcto. La duración invocada funciona como argumento: justifica que el cambio de 1991 sea relevante."
+        },
+        {
+          "letter": "D",
+          "text": "Una afirmación sobre el número de constituciones que ha tenido el país desde 1886.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no cuenta constituciones: mide cuanto tiempo rigió una de ellas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La expresión «más de un siglo» es una afirmación de duración y cumple una función argumental precisa: hacer visible el peso histórico de la norma que se quiere cambiar. En la lectura crítica es importante distinguir entre una duración aproximada y un dato exacto, porque el ensayo puede construir un argumento solido sobre una estimación. Reconocer el tipo de afirmación ayuda a valorar cuanto pesa cada pieza del argumento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿A quien se dirige principalmente el Texto 1?",
+      "context": "En una discusión de aula de Riohacha, los estudiantes de noveno discuten con quien dialoga el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A un lector informado que conoce el tema y busca evaluar si la postura esta bien sustentada.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo se dirige a un lector capaz de seguir argumentos y cronologías, no a un público casual."
+        },
+        {
+          "letter": "B",
+          "text": "A un lector que busca una definición sencilla de que es una Constitución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no busca explicar la definición: busca convencer sobre el valor del cambio constitucional."
+        },
+        {
+          "letter": "C",
+          "text": "A un lector que ya comparte la postura del autor y solo busca datos para confirmarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un buen ensayo incluye argumentos para un lector que todavía no comparte la postura."
+        },
+        {
+          "letter": "D",
+          "text": "A un lector que busca usar el texto como manual para redactar documentos oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no es un manual: es una argumentación con conclusión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ensayo identifica a un lector concreto, y en este caso es alguien informado que puede seguir la secuencia de argumentos y comprobar las fechas citadas. Definir ese lector permite entender el tono del texto y el tipo de pruebas que resultan pertinentes. Tambien orienta la lectura hacia una pregunta clave: si el lector es exigente, entonces cada afirmación del texto quedara sometida a verificación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿De que manera ayuda la cronología del Texto 2 al argumento del Texto 1?",
+      "context": "En un proyecto de aula de Apartado, los estudiantes de noveno ordenan los datos de la cronología y luego los leen en el ensayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No lo ayuda, porque la cronología trata de comunicación y derechos, y el ensayo trata de constituciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas secciones comparten el eje del pals y permiten situar los hechos en un mismo marco temporal."
+        },
+        {
+          "letter": "B",
+          "text": "Lo ayuda con datos, pero no aporta nada al estilo con que el ensayo esta escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cronología si aporta al estilo argumental, porque ordena los hechos en una secuencia con sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Lo ayuda, porque ordena los hechos en el tiempo y permite ver que las constituciones se produjo dentro de un proceso más amplio.",
+          "is_correct": true,
+          "feedback": "Correcto. Situar la Constitución dentro de una línea del tiempo más amplia refuerza la idea de cambio continuo."
+        },
+        {
+          "letter": "D",
+          "text": "Lo ayuda, porque demuestra que todas las constituciones del país se expidieron en el mismo siglo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cronología muestra hechos separados en el tiempo: no afirma que las constituciones sean del mismo siglo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una cronología ordena los hechos en una secuencia temporal y permite que el lector relacione procesos distintos dentro de una misma línea. Aplicada al ensayo, esa secuencia muestra que la Constitución de 1991 no aparece aislada, sino como parte de un proceso más amplio de derechos y ciudadanía. Relacionar ambos textos es una operación habitual en lectura crítica y refuerza la solidez de un argumento histórico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1, ¿que función cumplen los sintagmas «En 1991» y «más de un siglo» dentro de las oraciones?",
+      "context": "En un taller de lectura de El Espinal, los estudiantes de noveno revisan las estructuras que ordenan el tiempo en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funcionan como sujetos, porque son los elementos de los que depende el sentido de cada oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos sintagmas no son sujetos: expresa tiempo y duración dentro del predicado."
+        },
+        {
+          "letter": "B",
+          "text": "Funcionan como complementos temporales que ordenan los hechos y conectan unas etapas con otras.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos sintagmas sitúan los hechos en el tiempo y construyen la secuencia del argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Funcionan como objetos del verbo, porque son los elementos que reciben la acción del verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sintagma temporal no recibe la acción: indica cuando o durante cuanto ocurre."
+        },
+        {
+          "letter": "D",
+          "text": "Funcionan como adjetivos, porque califican directamente a los sustantivos que los acompanan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque algunos tienen sentido adjetival, aquí actuan como complementos temporales de la oración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los sintagmas temporales cumplen una función especifica: situar los hechos en el tiempo y permitir que el lector perciba la secuencia entre ellos. En un ensayo, esa secuencia no es decorativa, porque es la que convierte una lista de datos en un argumento con dirección. Reconocer la función de los sintagmas temporales ayuda a distinguir el dato histórico del conector que lo ordena dentro del razonamiento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v9",
+      "statement": "En el Texto 1, ¿cual es la relación entre los datos históricos y la valoración final?",
+      "context": "En un seminario de noveno grado de Chiquinquirá, los estudiantes comparan el dato con la valoración en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los datos históricos bastan por si solos para demostrar la valoración final, sin necesidad de argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos por si solos no sostienen una valoración: hace falta una lectura que los interprete."
+        },
+        {
+          "letter": "B",
+          "text": "La valoración final contradice los datos del ensayo y por eso el texto es incoherente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La valoración se apoya en los datos y los despliega: no hay contradicción interna."
+        },
+        {
+          "letter": "C",
+          "text": "La valoración aparece en la cronología del Texto 2, no en el Texto 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La valoración final se enuncia en el Texto 1; la cronología solo aporta datos."
+        },
+        {
+          "letter": "D",
+          "text": "Los datos được construedan la base y la valoración es la lectura que el autor construye sobre ellos.",
+          "is_correct": true,
+          "feedback": "Correcto. El ensayo se apoya en fechas verificables y luego propone una interpretación que las ordena."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un ensayo combina un plano de datos y un plano de valoración. Los datos históricos son el material verificable, y la valoración es la lectura que el autor construye a partir de ellos. Reconocer los dos planos es lo que permite evaluar el ensayo con rigor, porque permite preguntar si los datos son pertinentes para la tesis y si la lectura que se propone se sigue de ellos o los excede.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v10",
+      "statement": "En la oración «Una constitución no describe el país: lo organiza», ¿que efecto produce el uso de los dos puntos?",
+      "context": "En un círculo de lectura de San Gil, los estudiantes de noveno analizan la oración de cierre del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta una corrección: la segunda parte precisa y reemplaza a la primera, que queda formulada en terminos más debiles.",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos puntos anuncian una aclaración que corrige y completa la afirmación anterior."
+        },
+        {
+          "letter": "B",
+          "text": "Introducen una enumeración de tres elementos que el autor dejo sin senalar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo hay dos segmentos: no se enumera una lista de elementos."
+        },
+        {
+          "letter": "C",
+          "text": "Marcan una pausa que indica un cambio de tema dentro del mismo parrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay cambio de tema: la segunda parte continua y completa la primera."
+        },
+        {
+          "letter": "D",
+          "text": "Delimitan una cita textual que el autor toma de otro documento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay comillas ni referencia a otra fuente: es una oración del propio autor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dos puntos pueden introducir una explicación, una enumeración o una corrección según lo que venga despues. En la oración de cierre del Texto 1 cumplen la última función: la segunda parte corrige a la primera y le da su sentido exacto. Reconocer ese uso ayuda a entender que el ensayo cierra también con una maniobra retórica que refuerza la postura defendida a lo largo del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v11",
+      "statement": "Un grupo quiere incluir en su informe la frase «En 1991, la Asamblea Nacional Constituyó un texto nuevo». ¿Cuál es la evaluación más adecuada sobre esa cita?",
+      "context": "En un trabajo de investigación de noveno grado en Cartagena, el grupo debe citar el Texto 1 en un informe académico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es suficiente, porque cualquier fecha citada en un ensayo es verificable por definición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la frase este en un ensayo no garantiza que la fecha este verificada por una fuente."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque el ensayo no es una fuente de información histórica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ensayo puede citar información correcta: lo que se evalua es si aquí la afirmación es precisa."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente, pero debe cruzarse con una fuente histórica antes de presentarse como un dato verificado.",
+          "is_correct": true,
+          "feedback": "Correcto. El dato es relevante, pero la lectura crítica exige confirmarlo antes de citarlo como hecho."
+        },
+        {
+          "letter": "D",
+          "text": "Es innecesaria, porque la cronología del Texto 2 ya contiene toda la información del ensayo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cronología no reemplaza la cita: cada fuente aporta algo distinto y complementario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Citar un dato histórico exige verificarlo, independientemente de la fuente en la que aparece. Un ensayo puede afirmar una fecha correcta o incorrecta, y por eso la lectura crítica incluye contrastar la afirmación con una fuente histórica. El Texto 2 ofrece esa posibilidad de contraste, y en un informe académico la presentación de datos verificados distingue el trabajo serio de la simple transcripción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v12",
+      "statement": "El Texto 1 concluye que «una constitución no describe el país: lo organiza». ¿Qué evaluación es más solida de esa conclusión?",
+      "context": "En un seminario de cierre de noveno grado en Cucuta, los grupos debaten si el ensayo cierra con una conclusión que sus propios datos sostienen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión es solida, porque las dos constitutions citadas aparecen en la cronología del Texto 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que las fechas aparezcan en la cronología no demuestra por si solo la afirmación final."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión es una valoración que se apoya en los datos, pero excede lo que la cronología puede demostrar por si sola.",
+          "is_correct": true,
+          "feedback": "Correcto. Las fechas muestran la existencia y el orden de los hechos, pero la afirmación final es una lectura."
+        },
+        {
+          "letter": "C",
+          "text": "La conclusión es incorrecta, porque las constituciones solo describen el ordenamiento del pals.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión es una postura defendible: la cronología no permite refutarla de esa manera."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión es neutra, porque no contiene ningun juicio sobre el cambio constitucional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión afirma una manera de ver el cambio: es una valoración, no una descripción neutra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un ensayo bien construido apoya su conclusión en datos verificables, pero la conclusión misma es siempre una valoración del autor. Reconocer ese limite es esencial: permite afirmar que la conclusión es coherente con la cronología, sin pretender que los datos la demuestren por sí solos. Esa distinción entre lo que los datos muestran y lo que el autor concluye es el núcleo del pensamiento crítico aplicado al ensayo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

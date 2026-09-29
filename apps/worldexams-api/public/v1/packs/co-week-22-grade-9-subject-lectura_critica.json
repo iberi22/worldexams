@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-22-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:59:58.834Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una figura retórica?",
+      "context": "En un colegio de Manizales, la profesora de noveno grado pregunta por qué los anuncios no nombran directamente lo que venden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un recurso del lenguaje que se aparta del uso literal de las palabras para producir un efecto determinado en el lector.",
+          "is_correct": true,
+          "feedback": "Correcto. La figura retórica reaparece la expresión y, con ello, genera una imagen, una emoción o un énfasis."
+        },
+        {
+          "letter": "B",
+          "text": "Es el nombre del género textual en que se presentan los productos y sus características.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género textual y la figura retórica son categorías distintas: esta última es un recurso del lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "Es la frase que aparece al final del anuncio y que resume el precio del producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El eslogan es un componente del anuncio, no el nombre del recurso que el anuncio utiliza."
+        },
+        {
+          "letter": "D",
+          "text": "Es el dibujo o la imagen que acompaña al texto y que ocupa la mitad de la página.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un recurso visual puede acompañar al texto, pero no es una figura retórica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La figura retórica es un recurso del lenguaje que se aparta del uso literal de las palabras para producir un efecto determinado: una imagen mental, una emoción o un énfasis. Puede estar en las palabras o en la combinación de ellas. Reconocer estos recursos en la publicidad permite explicar por qué un anuncio dice «manos como de seda» en lugar de «manos suaves», y qué gana y qué pierde el lector con esa elección.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v2",
+      "statement": "En la expresión «manos como de seda» del Texto 1, ¿qué figura retórica se identifica y por qué?",
+      "context": "En el aula de noveno grado de Rionegro, los estudiantes leen en voz alta el arranque del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una personificación, porque el producto recibe capacidades humanas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se atribuyen acciones humanas a un producto: lo que hay es una comparación entre dos cosas."
+        },
+        {
+          "letter": "B",
+          "text": "Una hipérbole, porque el efecto descrito es exagerado y no puede cumplirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suavidad de las manos sí es un resultado posible del producto: aquí hay comparación, no exageración."
+        },
+        {
+          "letter": "C",
+          "text": "Una metáfora, porque se comparan dos cosas con la preposición «como» sin usar el verbo «parecer».",
+          "is_correct": true,
+          "feedback": "Correcto. La construcción «como» establece una relación de semejanza directa entre las manos y la seda."
+        },
+        {
+          "letter": "D",
+          "text": "Una antítesis, porque se opone una idea a su contraria dentro de la misma frase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay oposición de ideas: hay una relación de semejanza mediante la comparación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La metáfora establece una relación de semejanza usando el verbo «ser» o la preposición «como», mientras que la comparación explícita emplea el verbo «parecer» o «asemejarse». En el anuncio, «manos como de seda» funciona como metáfora porque presenta la suavidad como si fuera una tela, sin afirmar que las manos se parezcan a la seda. Diferenciar ambas formas ayuda a nombrar con precisión el recurso y a comprender el efecto que cada una produce en el lector.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función communicative cumple la metáfora «manos como de seda» en el anuncio del Texto 1?",
+      "context": "En un taller de comunicación de Bogotá, los estudiantes de noveno revisan los eslóganes de las marcas de aseo de su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar con precisión sobre la composición del producto y sus componentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La figura no entrega datos técnicos: esos datos corresponderían a la etiqueta del producto."
+        },
+        {
+          "letter": "B",
+          "text": "Asociar el producto con una sensación agradable, sin necesidad de describir sus componentes ni sus resultados medidos.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen de la seda evoca suavidad y cuidado sin entregar la ficha técnica del producto."
+        },
+        {
+          "letter": "C",
+          "text": "Advertir sobre los riesgos de usar el producto sin guantes de protección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio busca convencer al comprador y no advertir sobre riesgos de uso."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir al consumidor que lea las instrucciones del producto antes de comprarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna exigencia de lectura en el texto: la figura sustituye los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad cumple una función más persuasiva que informativa: necesita generar una asociación favorable en poco tiempo. Una imagen como «manos como de seda» cumple esa función porque apela a una experiencia sensorial conocida y permite que el lector imagine el resultado sin leer datos. Analizar la función, y no solo el recurso, ayuda a comprender que la figura elige siempre aquello que el producto promete y no necesariamente aquello que el producto demuestra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v4",
+      "statement": "En la expresión «el poder de limpiar sin esfuerzo» del Texto 1, ¿qué figura retórica aparece?",
+      "context": "En el aula de noveno grado de Armenia, la profesora pide al grupo que identifique la frase del Texto 1 que exagera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ironía, porque el anuncio dice lo contrario de lo que realmente piensa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay una contradicción entre lo que se dice y lo que se piensa: hay una exageración."
+        },
+        {
+          "letter": "B",
+          "text": "Hipérbole, porque presenta como posible un resultado que en la realidad exige tiempo y trabajo.",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación de que se limpia sin esfuerzo amplía de forma exagerada el alcance del producto."
+        },
+        {
+          "letter": "C",
+          "text": "Metáfora, porque compara el producto con una forma de limpiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «poder» evoca una capacidad, pero no hay comparación entre dos objetos."
+        },
+        {
+          "letter": "D",
+          "text": "Antítesis, porque enfrenta el esfuerzo del consumidor con la ausencia de esfuerzo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no construye una oposición de ideas: enuncia directamente una promesa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La hipérbole consiste en presentar algo como mayor, mejor o más fácil de lo que realmente es. En el anuncio, la fórmula «sin esfuerzo» exagera el resultado del producto porque ninguna limpieza alcanza ese extremo. Reconocer la hipérbole es importante para la lectura crítica del consumidor: ayuda a distinguir una promesa publicitaria de una propiedad que el producto efectivamente cumple, y a valorar con rigor la diferencia entre las dos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v5",
+      "statement": "Frente a la etiqueta del producto, que informa el tiempo de limpieza y el rendimiento medido, ¿qué pierde el lector cuando el anuncio dice «sin esfuerzo»?",
+      "context": "En un grupo de noveno grado de Tunja, los estudiantes comparan el eslogan del Texto 1 con la etiqueta del producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pierde la información sobre el olor del producto, que es un dato irrelevante para la limpieza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pérdida no está en el olor: el problema es la exageración sobre la dificultad de la limpieza."
+        },
+        {
+          "letter": "B",
+          "text": "Pierde la posibilidad de comparar el precio del producto con el de la competencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no se pierde: es un dato que aparece en otro lugar y no en el eslogan."
+        },
+        {
+          "letter": "C",
+          "text": "Pierde la precisión sobre cuánto tiempo y qué pasos exige la limpieza en realidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es justamente el dato que sí se pierde, porque el eslogan no informa sobre tiempo ni pasos."
+        },
+        {
+          "letter": "D",
+          "text": "Pierde la posibilidad de comprobar la promesa, porque la exageración no puede verificarse con los datos del producto.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin tiempo de uso ni rendimiento medido, la afirmación queda fuera de toda comprobación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una figura retórica puede aportar imagen y emoción, pero retira la información que permitiría comprobar lo afirmado. En el caso de la hipérbole, la promesa «sin esfuerzo» no viene acompañada de ningún dato de tiempo, rendimiento o comparación. Contrastar el eslogan con la información técnica del producto es el gesto crítico que permite medir la distancia entre lo que se promete y lo que se demuestra, y decidir con fundamento si la compra es conveniente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué el anuncio del Texto 2 no menciona las tasas de interés ni el plazo del ahorro, y sí insiste en el sueño de la vivienda?",
+      "context": "En un colegio de Cúcuta, los estudiantes de noveno leen el Texto 2 y se preguntan qué necesita saber el lector para confiar en el fondo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque busca identificación emocional con el lector, de modo que la promesa de un futuro mejor pesa más que las condiciones económicas.",
+          "is_correct": true,
+          "feedback": "Correcto. El recurso del «sueño» apela a la identificación y desplaza la atención hacia la motivación personal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el anuncio fue escrito por alguien que no conoce los conceptos económicos de un fondo de ahorro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una estrategia de comunicación del anuncio y no un descuido de quien escribe."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las tasas de interés están prohibidas en la publicidad de productos financieros en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La omisión responde al recurso retórico, no a una prohibición legal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el lector de este tipo de anuncios solo busca información sobre los plazos de los depósitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio no responde a esa necesidad: la aparta para sostener la motivación emocional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El anuncio del Texto 2 recurre a la proyección de futuro y no a las condiciones del producto. Ese desplazamiento es deliberado: apela a la identidad del lector como alguien que ahorra con un propósito y busca una casa. Reconocer el recurso permite luego preguntar por la información que falta y decidir si la propuesta es conveniente, en lugar de aceptar el entusiasmo del anuncio como si fuera una garantía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v7",
+      "statement": "Frente a frente, ¿en qué se diferencia la manera de presentar el producto en los Textos 1 y 2?",
+      "context": "En un proyecto de aula de Neiva, los estudiantes de noveno organizan los dos anuncios en una tabla de dos columnas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 promete un resultado sobre el cuerpo del lector y el Texto 2 informa sobre el costo de la vivienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos anuncios informa costos: los dos renuncian a los datos."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos anuncios describen paso a paso el uso del producto y el orden de las instrucciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos textos incluye instrucciones ni pasos de uso."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 trabaja sobre un efecto presente y sensorial, mientras el Texto 2 proyecta un resultado futuro y personal.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación separa el presente inmediato del futuro proyectado como dos estrategias distintas."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 garantiza resultados y el Texto 2 discute los precios de las entidades financieras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo anuncio no discute precios: su recurso principal es la imagen del sueño."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos textos del mismo género permite identificar qué los diferencia y qué comparten. Ambos anuncios renuncian a los datos y trabajan con imágenes, pero el primero promete un efecto que se produce en el presente, mientras el segundo dibuja un futuro personal a partir de una decisión presente. Reconocer esa diferencia de estrategia es lo que permite clasificar anuncios, elegir el más adecuado para una campaña y valorar la publicidad con criterio propio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v8",
+      "statement": "Las oraciones «Capitaliza tu ahorro» y «Mira el sueño con otra mirada» repiten la misma estructura: verbo en imperativo seguido de un objeto con pronombre de segunda persona. ¿Qué procedimiento retórico produce esa repetición?",
+      "context": "En un laboratorio de lectura de Villavicencio, los estudiantes de noveno analizan la estructura de las dos oraciones centrales del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Epíteto, porque se repite un adjetivo que califica al sueño del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se repite ningún adjetivo: lo que se repite es la estructura de la oración."
+        },
+        {
+          "letter": "B",
+          "text": "Anáfora, porque la repetición de una palabra o de una estructura al comienzo de oraciones sucesivas refuerza el llamado al lector.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura que se repite al inicio de cada oración cumple la función de la anáfora."
+        },
+        {
+          "letter": "C",
+          "text": "Polisemia, porque una palabra del anuncio tiene más de un significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición de una estructura es un procedimiento distinto del doble sentido de una palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Ironía, porque el anuncio intenta decir lo contrario de lo que realmente busca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El anuncio dice exactamente lo que quiere: invita a ahorrar, sin contradicción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La anáfora es la repetición de una palabra al comienzo de versos u oraciones, y aquí se extiende a la estructura completa de la oración: verbo en imperativo seguido de un objeto con pronombre de segunda persona. Esa repetición produce el efecto de una orden insistente y coloca al lector en el papel de quien debe actuar. Reconocer la anáfora permite explicar por qué el anuncio suena más directo y más urgente que una descripción escrita en tercera persona.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v9",
+      "statement": "En los Textos 1 y 2, ¿qué efecto tiene la combinación de una imagen emocional con una recomendación práctica?",
+      "context": "En un seminario de noveno grado en Popayán, los estudiantes comparan cómo persuade cada anuncio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refuerza la persuasión, porque la imagen prepara el ánimo del lector y la recomendación le ofrece una acción concreta que lo acompaña.",
+          "is_correct": true,
+          "feedback": "Correcto. La emoción y la propuesta práctica se refuerzan: una genera identificación y la otra indica el camino."
+        },
+        {
+          "letter": "B",
+          "text": "Debilita el anuncio, porque los dos recursos se contradicen y el lector no sabe cuál elegir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los recursos se complementan: uno apela a la emoción y el otro a la acción."
+        },
+        {
+          "letter": "C",
+          "text": "Anula el efecto del anuncio, porque el dato técnico siempre reemplaza a la imagen y nunca ocurre lo contrario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En estos dos anuncios ocurre lo contrario: la imagen es la que sostiene el mensaje."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el anuncio en un texto informativo, porque al añadir datos deja de ser un texto publicitario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Añadir una recomendación no cambia el género: el texto sigue siendo un anuncio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La publicidad combina con frecuencia un registro emocional y un registro exhortativo para aumentar la fuerza del mensaje. La imagen prepara la disposición del lector y la exhortación concreta le indica qué hacer a continuación. Analizar cómo se articulan esos dos registros ayuda a explicar por qué dos anuncios del mismo sector pueden ser tan distintos entre sí, y a identificar el punto exacto en el que la persuasión deja de apoyarse en argumentos verificables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v10",
+      "statement": "En «UrbeClean te devuelve las manos como de seda y deja la ropa con brillo de nuevo», ¿qué función gramatical cumplen los sintagmas «como de seda» y «con brillo de nuevo»?",
+      "context": "En un círculo de lectura de Pereira, los estudiantes de noveno revisan los sintagmas que usa el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son sintagmas preposicionales que amplían la comparación y añaden valores connotativos a la promesa del anuncio.",
+          "is_correct": true,
+          "feedback": "Correcto. Los sintagmas preposicionales completan las imágenes y cargan el anuncio de valores sensoriales."
+        },
+        {
+          "letter": "B",
+          "text": "Son sujetos compuestos, porque cada uno nombra al objeto que recibe la acción del verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos son sintagmas preposicionales adverbiales y no cumplen la función de sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "Son aposiciones explicativas, porque aclaran dos sustantivos que aparecen antes en la oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las aposiciones cumplen la función de sustituir o explicar un sustantivo y no es lo que ocurre aquí."
+        },
+        {
+          "letter": "D",
+          "text": "Son oraciones coordinadas, porque cada una tiene sujeto y verbo propio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos sintagmas contiene un verbo: por eso no son oraciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el anuncio, las preposiciones «como» y «con» encabezan sintagmas que amplían las imágenes y les añaden valores connotativos: suavidad en el primer caso y luminosidad en el segundo. Reconocer que se trata de sintagmas, y no de oraciones ni de sujetos, ayuda a explicar por qué la frase suena más rica y más difícil de evaluar, ya que el valor que aporta es sugerencia y no descripción técnica verificable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v11",
+      "statement": "Una autoridad local usa la metáfora «cada gota que ahorro es un peso que dejo de gastar» en una campaña de ahorro de agua. ¿Cuál es la evaluación más sólida de esa decisión?",
+      "context": "En un comité de convivencia de Villeta, los estudiantes de noveno discuten un afiche de una campaña municipal de ahorro de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inadecuada, porque una campaña de servicio público debe limitarse a datos y no puede usar ninguna imagen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una campaña puede apelar a imágenes: el problema no es usar una metáfora."
+        },
+        {
+          "letter": "B",
+          "text": "Es eficaz, porque toda metáfora es automáticamente honesta ya que no inventa datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un recurso no invente datos no lo vuelve veraz: aquí la equivalencia sí es discutible."
+        },
+        {
+          "letter": "C",
+          "text": "Es pertinente, porque traduce una cantidad de agua en dinero cotidiano y facilita la comprensión, siempre que la equivalencia se apoye en datos reales.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen acerca un dato abstracto a la experiencia cotidiana y su validez depende de la equivalencia presentada."
+        },
+        {
+          "letter": "D",
+          "text": "Es inappropriate, porque en un espacio público solo se permite el lenguaje técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen no está prohibida: lo pertinente es la coherencia entre la metáfora y los datos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Valorar el uso de una figura retórica exige considerar el propósito del texto y la exactitud de la asociación. En una campaña de ahorro de agua, convertir litros en pesos es un recurso eficaz porque permite que cualquier hogar vea el costo de su propio consumo. La evaluación es positiva siempre que la equivalencia numérica sea real y se presente al lector, porque de eso depende que la imagen sirva para convencer y no para desviar la atención.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle-v12",
+      "statement": "Un anuncio afirma que un producto «limpia más que diez productos juntos» y no presenta ninguna comparación verificable. ¿Cuál es la evaluación más exacta de esa afirmación?",
+      "context": "En un taller de consumo responsable de Bogotá, los estudiantes de noveno revisan un anuncio que promete resultados en una sola semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es aceptable, porque la exageración es propia de la publicidad y el lector siempre la toma con distancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el recurso exagerado sea común no valida una afirmación que el lector no puede contrastar."
+        },
+        {
+          "letter": "B",
+          "text": "Es engañosa, porque presenta como hecho una comparación que el texto no demuestra y genera una expectativa que el producto puede no cumplir.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin datos comparativos, la afirmación se apoya solo en la exageración y no en una demostración."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta si la misma marca usa la frase en todos sus anuncios con el mismo tono.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición del mensaje no aporta ninguna prueba sobre la capacidad real del producto."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta siempre que el anuncio incluya la marca en la parte inferior de la pieza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de la marca no convierte en verificable una comparación que el texto no demuestra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un texto publicitario consiste en medir la distancia entre lo que el anuncio afirma y lo que el anuncio demuestra. En este caso, la comparación «más que diez productos juntos» no viene acompañada de datos, tiempos ni pruebas, de modo que funciona como hipérbole y no como información. Reconocer ese límite permite al consumidor decidir con criterio y exige distinguir la calidad publicitaria del anuncio de la calidad comprobable del producto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W22-las-figuras-retoricas-en-el-texto-publicitario-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

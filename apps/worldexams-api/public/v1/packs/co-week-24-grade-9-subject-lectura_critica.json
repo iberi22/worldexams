@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-24-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:59:58.834Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un prejuicio en un discurso?",
+      "context": "En un colegio de Bogotá, la profesora de noveno grado pide a los estudiantes que definan un concepto antes de analizar los dos discursos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una actitud que se adelanta a la experiencia y lleva a juzgar a una persona o a un grupo por una idea previa sobre ellas.",
+          "is_correct": true,
+          "feedback": "Correcto. El prejuicio supone un juicio anticipado que no se apoya en la experiencia ni en datos."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error de escritura en el que se cambia una letra por otra dentro de una palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ortografía no interviene: un prejuicio es una actitud de juicio, no una falta de escritura."
+        },
+        {
+          "letter": "C",
+          "text": "Es una opinión personal que un personaje expresa sobre su propia vida y que nadie puede discutir.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una opinión sobre la propia vida es libre: el prejuicio juzga a otros sin conocerlos."
+        },
+        {
+          "letter": "D",
+          "text": "Es la costumbre de repetir las palabras de un maestro cuando se explica un tema en clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no es un prejuicio: es una estrategia para fijar un contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un prejuicio es una actitud de rechazo o desconfianza que se forma antes de conocer a alguien y que después orienta la manera de pensar y de actuar hacia esa persona o grupo. En un discurso se manifiesta en el vocabulario, en la manera de nombrar a las personas y en las soluciones que se proponen. Reconocer esta anticipación del juicio es el primer paso para examinar de forma crítica lo que un texto afirma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre un estereotipo y un prejuicio?",
+      "context": "En el aula de noveno grado de Ibagué, los estudiantes comparan un estereotipo con un prejuicio en una cartelera del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estereotipo es una idea sobre un grupo, y el prejuicio es la reacción hostil que esa idea puede suscitar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estereotipo no es invariably negativo: es una creencia simplificada sobre un grupo."
+        },
+        {
+          "letter": "B",
+          "text": "El estereotipo es una reacción emocional, y el prejuicio es la descripción objetiva de un grupo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: está invertido. La descripción simplificada es el estereotipo, y la reacción es el prejuicio."
+        },
+        {
+          "letter": "C",
+          "text": "El estereotipo es la creencia simplificada sobre un grupo, y el prejuicio es el juicio negativo que se apoya en ella.",
+          "is_correct": true,
+          "feedback": "Correcto. La creencia es el estereotipo, y cuando se convierte en un juicio de rechazo se convierte en prejuicio."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia: los dos términos nombra exactamente lo mismo en un discurso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son conceptos distintos: uno nombra la creencia y el otro, el juicio que se construye sobre ella."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El estereotipo es una creencia general y simplificada que se aplica a todas las personas de un grupo, y puede ser favorable, desfavorable o neutro. El prejuicio es el juicio negativo que se apoya en ese estereotipo y que conduce a rechazar o tratar peor a esas personas. Distinguir los dos conceptos permite analizar un discurso con precisión: no toda creencia simplificada es un prejuicio, pero todo prejuicio descansa en una creencia simplificada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el propósito oculto que se puede inferir en el discurso del Texto 1?",
+      "context": "En una reunión de padres de familia en Medellín, un orador propone una medida y los estudiantes de noveno observan su intención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar de manera neutral sobre el crecimiento de la ciudad en los últimos años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no informa datos: asigna intenciones y atribuye la culpa a un grupo entero."
+        },
+        {
+          "letter": "B",
+          "text": "Trasladar la responsabilidad de los problemas de la ciudad a las personas que llegan de la periferia y justificar una medida de exclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. El discurso convierte un fenomeno social en una culpa colectiva y propone una reacción contra un grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer los logros del campo y defender la llegada de las personas a las ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no reconoce logros: solo señala problemas y culpa a un grupo concreto."
+        },
+        {
+          "letter": "D",
+          "text": "Invitar a los vecinos a discutir con calma el plan de desarrollo urbano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono del discurso no es de invitación al diálogo, sino de señalamiento de un responsable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Detrás de todo discurso existe una intencionalidad: lo que el texto busca que el oyente piense, sienta o haga. En el Texto 1 esa intencionalidad se revela en la forma de presentar a un grupo como causa de los problemas y en la solución que se propone, que es un castigo colectivo. Reconocer el propósito real de un discurso es lo que permite responder no solo a lo que dice, sino a lo que busca conseguir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v4",
+      "statement": "¿Qué grupo de palabras del Texto 1 revela la valoración que el discurso impone a las personas de la periferia?",
+      "context": "En el aula de noveno grado de Pereira, los estudiantes de noveno marcan con color las palabras del Texto 1 quePortrait cargan una valoración negativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«traen problemas», «no respetan las normas», «llenan las calles» y «no quieren trabajar».",
+          "is_correct": true,
+          "feedback": "Correcto. Todas esas expresiones atribuyen conductas negativas a un grupo sin explicar quien las observa."
+        },
+        {
+          "letter": "B",
+          "text": "«Bogotá no avanza» y «esta ciudad», porque nombran la ciudad como sujeto del problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas expresiones nombran el lugar y la situación: el valor negativo está en las acciones atribuidas."
+        },
+        {
+          "letter": "C",
+          "text": "«a cada rato» y «más personas», porque son las unicas expresiones=numéricas del discurso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas expresiones son cuantitativas, pero no contienen la valoración que se busca identificar."
+        },
+        {
+          "letter": "D",
+          "text": "«Si uno quiere que esta ciudad marche bien», porque expresa el deseo del orador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración expresa un deseo legitimo del orador y no contiene la valoración sobre el grupo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un discurso con prejuicio se apoya en un conjunto de expresiones que atribuyen rasgos negativos a un grupo sin aportar pruebas. Localizar esas palabras permite ver que la valoración no viene de los hechos, sino de la elección del lenguaje. En el aula, marcar estas expresiones es un ejercicio de observación que prepara al estudiante para distinguir lo que el texto demuestra de lo que simplemente afirma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v5",
+      "statement": "¿A qué se refiere la naturalización en el Texto 1?",
+      "context": "En un grupo de noveno grado de Armenia, los estudiantes discuten por qué el Texto 1 presenta sus afirmaciones como si fueran evidentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la costumbre de repetir una frase para que el público la recuerde mejor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición no es lo que se observa: aquí importa la presentación de la opinión como verdad."
+        },
+        {
+          "letter": "B",
+          "text": "Al hecho de que el discurso use datos de laenbajación para demostrar su tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no aporta ningun dato: presenta sus afirmaciones como si fueran evidente."
+        },
+        {
+          "letter": "C",
+          "text": "A que el orador atribuya al grupo Characteristics que el discurso no puede comprobar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa atribución es una acusación: la naturalización tiene que ver con la forma de presentarla."
+        },
+        {
+          "letter": "D",
+          "text": "A presentar una opinión como si fuera una verdad evidente y que no necesita demostración.",
+          "is_correct": true,
+          "feedback": "Correcto. La naturalización hace que una afirmación se vea como un hecho y no como un juicio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Naturalizar es presentar una afirmación como si fuera una verdad que no necesita explicación ni prueba. En el Texto 1, las frases se apoyan solo en generalizaciones y se presentan como si describieran lo que cualquiera puede ver. Reconocer este recurso es clave para leer de forma crítica, porque permite preguntarle a cada afirmación: ¿qué evidencia sostiene esto? y ¿quién puede estar interesado en que lo creamos así?",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto produce en el Texto 1 el uso de «ellos» frente a «nosotros»?",
+      "context": "En un foro de lectura de Villavicencio, los estudiantes de noveno revisan qué pronombres usa cada discurso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque los dos pronombres son sinónimos dentro de la misma oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos pronombres tienen funciones distintas: uno incluye y el otro separa."
+        },
+        {
+          "letter": "B",
+          "text": "Separa a los oyentes de las personas de la periferia y las presenta como un grupo ajeno,-minded y problemático.",
+          "is_correct": true,
+          "feedback": "Correcto. La oposición entre nosotros y ellos construye una frontera y le asigna al otro la causa de los problemas."
+        },
+        {
+          "letter": "C",
+          "text": "Permite que cada oyente se identifique con las personas de la periferia y con sus problemas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto es el contrario: la identificación se refuerza con el grupo del orador, no con el otro."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el discurso en un relato en primera persona que relay directamente a las personas mencionadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El discurso es la voz de un grupo sobre otro, no la de una persona que relate su experiencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oposición entre nosotros y ellos no es inocente: establece un grupo que se incluye y otro que se excluye, y reparte entre ellos los rasgos negativos que se consideran propios de cada uno. Reconocer la función de estos pronombres ayuda a explicar porque el Texto 2, al cambiar la distribución, logra un efecto tan distinto sin necesidad de introducir nuevos hechos. El tratamiento de las personas ya está resuelto antes de que empiece el relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v7",
+      "statement": "¿De qué manera los dos textos describen el mismo fenomeno de llegada de personas del campo a la ciudad?",
+      "context": "En un proyecto de aula de Sincelejo, los estudiantes de noveno colocan los dos discursos uno al lado del otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos lo describen igual, porque parten de los mismos hechos y llegan a la misma conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hechos narrados son los mismos, pero la conclusión de cada discurso es opuesta."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 lo presenta como una amenaza que hay que contener, y el Texto 2 como un cambio que hay que reconocer.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en la valoración del mismo hecho y en la solución que cada discurso propone."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 reconoce los aportes de quienes llegan, mientras el Texto 2 atribuye a ellos la causa de la crisis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta manera está invertida: el Texto 1 es el que atribuye la culpa y el Texto 2 el que reconoce."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos se diferencian solo en el uso de datos, porque el Texto 2 no menciona ninguno y el Texto 1 sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 es el que no aporta datos y el Texto 2 si los menciona: aun así, la diferencia de fondo es la valoración."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos discursos sobre un mismo hecho permite ver que la divergencia no está en los hechos, sino en la manera de interpretarlos y en la solución que se propone. El Texto 1 construye al otro como amenaza, y el Texto 2 construye al mismo grupo como parte de la ciudad. Reconocer esta operación es esencial para no confundir una opinión fundada con una opinión que se apoya en una generalización sin prueba, y para evaluar discursivamente cualquier propuesta sobre los grupos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1 aparecen expresiones como «a cada rato», «no respetan» y «no quieren trabajar». ¿Qué efecto produce ese lenguaje en el discurso?",
+      "context": "En un laboratorio de lectura de Sincelejo, los estudiantes de noveno revisan los cuantificadores de los dos discursos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque las expresiones son correctas y describen lo que ocurre en la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gramática es correcta, pero la elección de esas expresiones es lo que construye el prejuicio."
+        },
+        {
+          "letter": "B",
+          "text": "Aclara que el grupo como un conjunto de personas con opiniones diferentes entre si.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las expresiones usadas no distinguen entre personas: eliminan justamente esa variedad."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta como constantes las conductas de todo el grupo, sin dejar espacio para las diferencias individuales.",
+          "is_correct": true,
+          "feedback": "Correcto. Los cuantificadores y los verbos en negativo hacen que lo excepcional parezca la regla."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el peso de las afirmaciones, porque el uso de genericos las vuelve menos tajantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto es el contrario: las generalizaciones hacen que las afirmaciones suenen más seguras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cuantificadores y los verbos absolutistas son un recurso frecuente en los discursos con prejuicio. Expresiones como «siempre», «nunca», «todos» o «a cada rato» eliminan la variedad y presentan como regla general lo que solo ocurre en algunos casos. Reconocerlas permite detectar el momento exacto en que un discurso pasa de describir una situación a inventar una regla universal, que es donde empieza la deformación de la realidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v9",
+      "statement": "En la oración «Lo que menoscaba la ciudad no es la llegada de esa gente: es el temor de quien los ve como amenaza», ¿qué cambio propone el Texto 2?",
+      "context": "En un seminario de noveno grado de Tuluá, los estudiantes analizan la oración central del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traslada la causa del problema desde las personas que llegan al miedo que despierta en los demás.",
+          "is_correct": true,
+          "feedback": "Correcto. La oración cambia la explication del problema y con ella la responsabilidad que se atribuye."
+        },
+        {
+          "letter": "B",
+          "text": "Atribuye la causa del problema a las normas vigentes y propone cambiarlas por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aqui la causa es el temor de los demás: el cambio propuesto se refiere a la mirada, no a las normas."
+        },
+        {
+          "letter": "C",
+          "text": "Recupera la idea del Texto 1 y la presenta con palabras más suaves para no ofender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de suavizar: el Texto 2 cambia de explicación y sostiene una conclusión distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Propone un acuerdo entre las dos posturas para que la reunión termine sin conflictos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no busca un acuerdo: sostiene una posición y refuta el temor que la sostiene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar un discurso exige seguir el razonamiento hasta su conclusión. En esta oración, el Texto 2 usa una estructura de corrección para desplazar la causa del problema: no son las personas que llegan, sino el temor que ellas despiertan. Ese desplazamiento es una operación ideológica, porque cambia la responsable del problema y con ella la solución que se puede pedir. Reconocer la estructura del razonamiento ayuda a evaluar el discurso entero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v10",
+      "statement": "En «No son ellos los que rompen las normas: son las normas que no incluyen a la mayoría de sus habitantes», ¿qué función cumple la estructura «no son...: son...»?",
+      "context": "En un círculo de lectura de Garzon, los estudiantes de noveno analizan la última oración del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como corrección: niega la primera afirmación y la reemplaza por la que el discurso considera verdadera.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura niega lo esperado y propone la lectura que el autor defiende como correcta."
+        },
+        {
+          "letter": "B",
+          "text": "Funciona como enumeración, porque enumera dos grupos y dos conductas distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se enumeran grupos: se niega y luego se corrige una misma afirmación."
+        },
+        {
+          "letter": "C",
+          "text": "Funciona como causalidad, porque la segunda parte explica por qué ocurre la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos partes se contradicen y la segunda corrige a la primera: no hay relación de causa."
+        },
+        {
+          "letter": "D",
+          "text": "Funciona como consecuencia, porque la segunda parte es el resultado de la primera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos partes se oponen: la segunda no es el resultado de la primera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura «no son...: son...» es una corrección que rechaza la lectura comun y propone la lectura que el discurso considera más exacta. En el Texto 2, ese mecanismo se aplica a las normas de la ciudad y desplaza la culpa desde las personas hacia las reglas mismas. Reconocer la corrección como recurso discursivo permite ver que un texto no solo informa: también indica al oyente cual es la lectura que debe aceptar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v11",
+      "statement": "Un grupo trabaja sobre la llegada de personas del campo a Cali y debe elegir con que discurso fundamentar su informe. ¿Cual es la evaluación más solida?",
+      "context": "En una mesa de trabajo de noveno grado en Cali, el grupo debe elegir cual de los dos discursos usar como base para un informe sobre movilidad urbana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1, porque explica con claridad la causa de los problemas de la ciudad y por eso es más útil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 explica con claridad, pero esa claridad proviene de una generalización sin prueba."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2, porque atribuye el problema a una causa verificable y evita_generalizaciones sobre un grupo de personas.",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 apoya su tesis en el temor que existe y no en supuestas conductas de todo un grupo."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1, porque el uso de la palabra «ellos» es correcto y por eso su análisis es solido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un error de ortografía no determina la solidez de un análisis."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos sirven igual, porque describen el mismo fenomeno y llegan a conclusiones parecidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las conclusiones son opuestas: uno culpa al grupo que llega y el otro culpa al temor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un discurso para un trabajo académico exige revisar la calidad de sus generalizaciones y la solidez de sus causas. El Texto 1 se apoya en afirmaciones sin prueba sobre el comportamiento de todo un grupo, mientras que el Texto 2 identifica una causa concreta y comprobable, el temor que despierta la llegada. Escoger el texto más riguroso, y no el que suena más fuerte, es una decisión de lectura crítica que se apoya en criterios y no en preferencias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle-v12",
+      "statement": "¿Que reformulación de la oración «Ellos traen problemas» elimina el mecanismo de prejuicio?",
+      "context": "En un taller de escritura de noveno grado en Popayan, los estudiantes deben reescribir una oración del Texto 1 sin usar expresiones con prejuicio.\n\nprejuicios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Ellos traen muchos problemas», porque conserva el mismo juicio y solo aumenta la cantidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar la cantidad no elimina el problema: el juicio general sobre el grupo sigue intacto."
+        },
+        {
+          "letter": "B",
+          "text": "«Ellos traen algunos problemas», porque añade un dato que el discurso original no tenía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato no aparece en el texto y no se explica de donde sale: sigue siendo una afirmación sin prueba."
+        },
+        {
+          "letter": "C",
+          "text": "«Ellos no traen ningún problema», porque cambia la valoración y por eso corrige el prejuicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertir la generalización no corrige el problema: conserva la estructura del juicio injusto."
+        },
+        {
+          "letter": "D",
+          "text": "«Los problemas señalados en esta reunión afectan a toda la ciudad, incluidos los vecinos del barrio», porque precisa a quienes se ven afectados y evita atribuir la culpa a un grupo.",
+          "is_correct": true,
+          "feedback": "Correcto. La reformulación delimita la afirmación y devuelve la discusión al problema y no a las personas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reescribir un frase con prejuicio exige cambiar su estructura, no solo su tono. Una reformulación eficaz precisa a quienes se ven afectados, evita las generalizaciones y devuelve la discusión al hecho y no a las personas. Este ejercicio enseña que la lengua no es neutra: cada palabra elige a quien incluye y a quien excluye, y por eso el trabajo con los textos es también un trabajo de ciudadanía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W24-la-ideologia-y-los-prejuicios-en-el-discurso-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
