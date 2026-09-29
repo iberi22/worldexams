@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-5-grade-9-subject-lengua",
+    "generated_at": "2026-09-29T22:47:16.456Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son las partes obligatorias de una carta tradicional?",
+      "context": "En una clase de Español de Bogotá, un grupo de noveno grado escribe su primera carta y revisan la estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lugar y fecha, saludo, cuerpo, despedida y firma",
+          "is_correct": true,
+          "feedback": "Estas partes ordenan la carta y permiten que el destinatario sepa quién escribe, desde dónde y qué le dice."
+        },
+        {
+          "letter": "B",
+          "text": "Título, prólogo, capítulos, apéndice y bibliografía",
+          "is_correct": false,
+          "feedback": "Esa es la estructura de un libro o de un tratado, no la de una carta."
+        },
+        {
+          "letter": "C",
+          "text": "Preámbulo, argumento, tesis, conclusión y epílogo",
+          "is_correct": false,
+          "feedback": "Corresponde a un texto argumentativo estructurado, no a una carta."
+        },
+        {
+          "letter": "D",
+          "text": "Escena, diálogo, acotación y caída de telón",
+          "is_correct": false,
+          "feedback": "Son unidades del texto dramático, propias de la representación teatral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La carta es un género con una fórmula estable que se ha mantenido durante siglos en el mundo hispanohablante. La fecha y el lugar ubican la escritura en el espacio y el tiempo, y la despedida y la firma cierran el vínculo entre emisor y destinatario. Conocer estas partes es indispensable para escribir y para analizar documentos históricos del país.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v2",
+      "statement": "Qué hace que una carta sea un género particular y no simplemente un texto narrativo?",
+      "context": "La docente de Español de Medellín explica por qué la carta nunca es un texto neutro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que siempre narra hechos Memétekening occurred en el pasado",
+          "is_correct": false,
+          "feedback": "La carta puede narrar, describir o opinar: su condición no está en el contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Que siempre tiene un destinatario concreto, lo que determina el tono y el contenido",
+          "is_correct": true,
+          "feedback": "La existencia de un destinatario real es lo que define la lógica epistolar."
+        },
+        {
+          "letter": "C",
+          "text": "Que siempre se escribe en un solo párrafo largo",
+          "is_correct": false,
+          "feedback": "La extensión y la organización de los párrafos son decisiones del redactor."
+        },
+        {
+          "letter": "D",
+          "text": "Que nunca puede contener opiniones o pengelola emociones",
+          "is_correct": false,
+          "feedback": "Las cartas expresan opiniones y emociones con frecuencia, sobre todo en la correspondencia íntima."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lo que define a la carta es la existencia de un destinatario identificable que determina cómo se escribe. Esa relación modifica el tono, la extensión y la información que se incluye o se omite. Comprender este rasgo permite explicar por qué dos cartas sobre el mismo tema pueden ser tan diferentes entre sí.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v3",
+      "statement": "Un estudiante debe escribirle a su director para pedirle un cambio de horario. Qué tono corresponde a esa carta?",
+      "context": "Un estudiante de noveno grado de Pereira tiene que escribir a un director escolar y no sabe qué tono usar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informal y joked, porque todos en el colegio son amigos",
+          "is_correct": false,
+          "feedback": "La relación con el director no es de amistad: el tono debe guardar distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Dramático y enfadado, porque el problema es grave y hay que expresarlo con fuerza",
+          "is_correct": false,
+          "feedback": "Exagerar el tono no ayuda a conseguir el cambio de horario pedido."
+        },
+        {
+          "letter": "C",
+          "text": "Formal y respetuoso, porque la relación es institucional y no entre iguales",
+          "is_correct": true,
+          "feedback": "La distancia institucional exige cortesía y claridad, sin informalidad excesiva."
+        },
+        {
+          "letter": "D",
+          "text": "Informativo y seco, porque el destinatario solo necesita los datos",
+          "is_correct": false,
+          "feedback": "La sequedad excesiva puede interpretarse como falta de respeto en una relación institucional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tono de una carta lo determina la relación entre emisor y destinatario. En una comunicación con una autoridad escolar se espera cortesía, claridad y un orden lógico de lo que se pide. Conocer la posición del enunciante permite elegir el registro adecuado antes de redactar, un hábito que se trabaja en las asignaturas de Español del país.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v4",
+      "statement": "Una carta del siglo pasado dice así: ojalá esta carta llegue antes de que cambien el tiempo. ¿Qué revela esta frase sobre la función que tenía la carta en ese momento?",
+      "context": "En un proyecto de lectura de Tunja, los estudiantes reciben una carta histórica y analizan su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la carta servía solo para registro, sin relación con la vida cotidiana",
+          "is_correct": false,
+          "feedback": "La frase expresa una preocupación práctica y concreta, propia de una comunicación entre personas reales."
+        },
+        {
+          "letter": "B",
+          "text": "Que la carta era leída inmediatamente por el destinatario",
+          "is_correct": false,
+          "feedback": "Justamente lo contrario: la demora del correo es lo que hace relevante esa expectativa."
+        },
+        {
+          "letter": "C",
+          "text": "Que la carta reemplazaba la conversación presencial entre las partes",
+          "is_correct": false,
+          "feedback": "La carta no reemplaza la conversación presencial: la complementa a distancia."
+        },
+        {
+          "letter": "D",
+          "text": "Que la carta resolvía una necesidad de comunicación a distancia en un tiempo lento",
+          "is_correct": true,
+          "feedback": "La carta tardaba días en llegar, y el emisor anticipa los riesgos del envío, propio de un medio de comunicación limitado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El género epistolar nació como un medio de comunicación a distancia y su contenido refleja los límites de ese medio. La carta tardaba días en llegar, por eso el emisor anticipaba el clima y pedía noticias de su llegada. Reconocer esta lógica permite contextualizar las cartas históricas del país como documentos de una época con un medio de transporte lento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v5",
+      "statement": "Por qué la fecha es una parte obligatoria de la carta?",
+      "context": "En el aula de Español de Cúcuta, la docente explica la función de la fecha en una carta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sitúa la escritura en el tiempo y permite entender el contexto de lo que se cuenta",
+          "is_correct": true,
+          "feedback": "Sin fecha no se puede saber cuándo se escribió ni qué relación tiene lo relatado con el presente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ocupa espacio y da un aspecto formal a la hoja",
+          "is_correct": false,
+          "feedback": "La función de la fecha no es estética ni de relleno: es informativa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el correo postal no la admite si falta",
+          "is_correct": false,
+          "feedback": "Es cierto que el correo la exige por logística, pero esa no es la razón principal."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo se escribe al final de la carta, nunca al principio",
+          "is_correct": false,
+          "feedback": "La fecha se coloca normalmente al principio, y su presencia responde a la lógica temporal del género."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fecha convierte la carta en un documento situado en unacronología concreta, lo que permite leer los hechos a la luz de su momento. Esta información es especialmente valiosa en las cartas históricas, que son fuente primaria para la historia del país. Por eso los archivos de la Nación conservan con tanto cuidado la correspondencia de figuras como Simón Bolívar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v6",
+      "statement": "Cómo cambia el tono de una misma noticia si se escribe como carta a un amigo y luego como carta a un superior?",
+      "context": "En el taller de escritura de Villavicencio, los estudiantes analizan cómo cambia el tono de un mismo texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tono no cambia, porque la noticia es siempre la misma",
+          "is_correct": false,
+          "feedback": "El contenido puede ser igual, pero el modo de tratarlo depende de la relación."
+        },
+        {
+          "letter": "B",
+          "text": "El registro se vuelve más formal y la expresión se ajusta al vínculo con quien se lee",
+          "is_correct": true,
+          "feedback": "El cambio de destinatario obliga a ajustar el trato y, con él, el vocabulario."
+        },
+        {
+          "letter": "C",
+          "text": "El tono se vuelve más breve, porque las cartas son más cortas que los artículos",
+          "is_correct": false,
+          "feedback": "No hay una relación fija entre el tipo de texto y la extensión obligatoria."
+        },
+        {
+          "letter": "D",
+          "text": "El tono se vuelve narrativo, porque se cuenta en lugar de informar",
+          "is_correct": false,
+          "feedback": "El tipo de texto epistolar no se convierte en narrativo por cambiar de destinatario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tono epistolar es el registro lingüístico que el redactor ajusta según la relación que tiene con el destinatario. Escribir a un amigo admite coloquialismos; escribir a una autoridad exige cortesía y precisión. Esta capacidad de ajustar el registro según el lector es una de las competencias más valiosas que se desarrollan en noveno grado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v7",
+      "statement": "Una carta histórica usa frases largas y un vocabulario cuidadosamente elegido. ¿Qué efecto tiene ese estilo en la lectura?",
+      "context": "En un seminario de grado noveno en Cali, un grupo analiza el estilo de las cartas de Simón Bolívar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hace la carta más difícil de leer, y por eso reduce su valor histórico",
+          "is_correct": false,
+          "feedback": "Un registro cuidado no invalida un documento: lo vuelve más formal y explícito."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la carta en un tratado político, porque usa un registro culto",
+          "is_correct": false,
+          "feedback": "El registro culto no convierte una carta en tratado: conserva su estructura epistolar."
+        },
+        {
+          "letter": "C",
+          "text": "Da solemnidad y organiza el discurso para sostener una comunicación formal y Luminary deliberada",
+          "is_correct": true,
+          "feedback": "El registro cuidado refuerza la autoridad del emisor ante el destinatario."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la carta fue escrita por otra persona, no por el emisor",
+          "is_correct": false,
+          "feedback": "El estilo cuidado no prueba que alguien haya escrito en nombre del emisor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El registro lingüístico de una carta comunica tanto como el contenido: un estilo cuidado proyecta formalidad y autoridad. Por eso las cartas históricas de los líderes liberation del país se leen con esa expectativa de documento solemne. Analizar el estilo permite entender la relación que el emisor construía con su destinatario.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v8",
+      "statement": "Por qué se considera que la novela de cartas es un género narrativo y no epistolar?",
+      "context": "En el aula de Español de Santa Marta, los estudiantes estudian el género epistolar en la literatura colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la novela de cartas no utiliza documentos escritos",
+          "is_correct": false,
+          "feedback": "La novela de cartas se caracteriza precisamente por usar documentos escritos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la carta solo puede aparecer en textos no ficcionales",
+          "is_correct": false,
+          "feedback": "La carta aparece tanto en textos reales como en ficción, y esto no define su género."
+        },
+        {
+          "letter": "C",
+          "text": "Porque toda novela que incluye cartas es automáticamente poesía",
+          "is_correct": false,
+          "feedback": "Incluir cartas no convierte una novela en un texto lírico."
+        },
+        {
+          "letter": "D",
+          "text": "Porque aunque usa cartas, su propósito principal es narrar una historia completa con personajes y trama",
+          "is_correct": true,
+          "feedback": "Cuando la carta sirve a la narración, el género que predomina es el narrativo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando la carta aparece inserta dentro de una novela, suele funcionar como un recurso narrativo para mostrar la voz de un personaje oynchronously su mundo interior. El género lo determina la función dominante del texto, no la presencia de un formato. Comprender esta relación es clave para leer con soltura las novelas epistolares del siglo XIX.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v9",
+      "statement": "Un grupo analiza dos cartas: una de un militar y otra de un{documento}> region's poblador, ambas sobre las mismas tropas. ¿Qué muestra la comparación?",
+      "context": "En un proyecto de investigación de Bogotá, los estudiantes comparan dos cartas sobre la misma situación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la posición social del emisor cambia lo que se observa y lo que se omite",
+          "is_correct": true,
+          "feedback": "La mirada del emisor determina el foco del relato sobre los mismos hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Que una de las dos cartas es falsa, porque no coinciden",
+          "is_correct": false,
+          "feedback": "La diferencia de perspectiva no invalida ninguno de los dos documentos."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo la carta del poblador sirve como fuente histórica",
+          "is_correct": false,
+          "feedback": "Ambas son fuentes valiosas: cada una ilumina una parte de la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el género epistolar no sirve para el análisis histórico en ningún caso",
+          "is_correct": false,
+          "feedback": "La correspondencia es una de las fuentes históricas más ricas que existen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las cartas son fuentes primarias de enorme valor porque registran la posición de quien escribe. Comparar dos testimonios del mismo hecho revela qué se ve y qué se oculta desde cada lugar social. Esta práctica de contraste documental es de las más valiosas del trabajo de grado noveno y se aplica a la historia nacional.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v10",
+      "statement": "Un comité afirma: esta carta esauthentica y confiable porque está firmada con el nombre completo. ¿Cuál es la evaluación más sólida?",
+      "context": "En la revista escolar de Ibagué, el comité evalúa una carta enviada por un estudiante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque toda carta firmada es un documento auténtico",
+          "is_correct": false,
+          "feedback": "La firma es un rasgo formal del género, no una garantía de veracidad."
+        },
+        {
+          "letter": "B",
+          "text": "Es insuficiente, porque la firma no garantiza la autenticidad ni la confiabilidad de las afirmaciones",
+          "is_correct": true,
+          "feedback": "Un documento puede estar firmado y aun así ser falso o poco confiable."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta porque las cartas nunca llevan firma",
+          "is_correct": false,
+          "feedback": "La firma es una de las partes obligatorias de la carta."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si el papel es de buena calidad, porque eso demuestra seriedad",
+          "is_correct": false,
+          "feedback": "La calidad del papel no determina el valor histórico ni la verdad de lo afirmado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la confiabilidad de un documento exige cruzar varios datos: procedencia, fecha, contexto y coherencia interna. La firma es un rasgo formal del género epistolar, no una garantía de verdad. Esta distinción entre lo que un documento tiene y lo que un documento prueba es una habilidad crítica de alto nivel.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v11",
+      "statement": "Un grupo afirma que la carta escrita ya no sirve para nada porque todos se comunican por mensajes. ¿Cuál es la evaluación más sólida?",
+      "context": "En un debate de salón en Florencia, se discute qué función tiene hoy la carta escrita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque la carta es un formato superado por la tecnología",
+          "is_correct": false,
+          "feedback": "La technology cambia los medios, pero no elimina la necesidad de escribir con profundidad."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta porque la carta ya no tiene forma fija en la actualidad",
+          "is_correct": false,
+          "feedback": "El formato conserva sus partes esenciales, aunque la presentación cambie."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque la carta conserva funciones que el mensaje breve no cumple, como la reflexión extensa",
+          "is_correct": true,
+          "feedback": "El mensaje instantáneo no sustituye la carta, que permite profundidad y formalidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si la carta se envía por correo electrónico, porque ese medio ya es antiguo",
+          "is_correct": false,
+          "feedback": "El medio de envío no decide el valor ni la función del género."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la vigencia de un género exige separar el formato de la función. Aunque hoy la carta llegue por correo electrónico o mensaje, sigue cumpliendo una función propia: permitir un discurso pausado, formal y personal. Este razonamiento sobre la permanencia de los géneros es un contenido de nivel alto en el componente lector.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle-v12",
+      "statement": "Un archivo reúne cartas de un migrante colombiano con su familia, escritas durante diez años. ¿Cuál es la valoración más sólida de este conjunto?",
+      "context": "En la clase de Español de Arauca, los estudiantes aplican todo lo aprendido a la valoración de un conjunto documental.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un conjunto valioso, porque las cartas sustituyen los datos estadísticos oficiales",
+          "is_correct": false,
+          "feedback": "Las cartas no reemplazan las estadísticas: más bien las complementan con la experiencia concreta."
+        },
+        {
+          "letter": "B",
+          "text": "Es un conjunto irrelevante, porque las cartas personales no sirven para el estudio de un país",
+          "is_correct": false,
+          "feedback": "Las cartas personales son fuentes primarias esenciales para la historia social del país."
+        },
+        {
+          "letter": "C",
+          "text": "Es un conjunto narrativo, porque cuenta una historia de principio a fin",
+          "is_correct": false,
+          "feedback": "El conjunto es documental y epistolar, aunque permita reconstruir una historia."
+        },
+        {
+          "letter": "D",
+          "text": "Es un conjunto documental valioso, porque muestra la experiencia migratoria con la voz de quien la vivió",
+          "is_correct": true,
+          "feedback": "La correspondencia personnelle deja constancia de la vida, el trabajo y las emociones del migrante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un conjunto de cartas personales es una fuente documental de primer orden porque registra la experiencia desde adentro. Permite observar lo que las cifras no muestran: el trabajo, la distancia, los costos y los vínculos familiares. Reconocer este valor es un ejercicio de evaluación crítica que prepara a los estudiantes para la investigación documental.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

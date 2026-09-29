@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-2-grade-9-subject-lengua",
+    "generated_at": "2026-09-29T22:47:16.455Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v1",
+      "statement": "Cuáles son los componentes esenciales que hacen que un texto narrativo funcione como relato?",
+      "context": "La docente de Español de Bogotá pregunta a sus estudiantes de noveno grado qué ожидает que encuentra un lector al abrir un cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personajes, tiempo, espacio,acción y conflicto",
+          "is_correct": true,
+          "feedback": "Estos elementos son la estructura mínima que permite que un relato tenga desarrollo y sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Rima, métrica y estrofa",
+          "is_correct": false,
+          "feedback": "Son recursos propios de la lírica, no los componentes del relato."
+        },
+        {
+          "letter": "C",
+          "text": "Tesis, argumento y conclusión",
+          "is_correct": false,
+          "feedback": "Pertenecen a la estructura del texto argumentativo, no a la del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Diálogo, escenografía y apuntador",
+          "is_correct": false,
+          "feedback": "Son unidades del género dramático, no de la narrativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El relato se sostiene sobre un conjunto mínimo de elementos: alguien hace algo en un lugar y un tiempo, y ese hacer genera una tensión que se resuelve. Sin personaje no hay acción y sin conflicto no hay historia que contar. Estos componentes son los mismos que usa un cronista de Tunja o una narradora del Chocó, aunque los dote de su propio estilo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v2",
+      "statement": "Qué caracteriza al género narrativo frente a otros modos de escribir?",
+      "context": "En el aula de Español de Villavicencio, un grupo compara un relato de bairro con una crónica de la misma ciudad para entender la diferencia de tono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expone la posición del autor sobre un tema para convencer al lector",
+          "is_correct": false,
+          "feedback": "Esa es la función del texto argumentativo, no la del narrativo."
+        },
+        {
+          "letter": "B",
+          "text": "Narra hechos Ovillavicencio organizes que ocurren en un tiempo y un espacio, de manera ficticia o verosímil",
+          "is_correct": true,
+          "feedback": "La narrativa representa una sucesión de hechos ordenados en tiempo y espacio, con personajes que actúan."
+        },
+        {
+          "letter": "C",
+          "text": "Expresa emociones del yo sin_frases la necesidad de un argumento",
+          "is_correct": false,
+          "feedback": "Esa es la función del género lírico cuando predomina la voz interior."
+        },
+        {
+          "letter": "D",
+          "text": "Reproduce íntegramente una conversación entre dos personajes",
+          "is_correct": false,
+          "feedback": "El diálogo es un recurso del relato, pero no define por sí solo el género narrativo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género narrativo se define por su capacidad de representar una sucesión de hechos con principio, desarrollo y final, sea esa sucesión ficticia o documentada. Cuando el relato toma hechos reales y los narra con estilo, se acerca a la crónica o al reportage, como ocurre con muchas plumeas colombianas. Comprender la narrativa como un modo de representar hechos prepara el análisis del cuento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v3",
+      "statement": "Un texto recounts que un hombre entra a una panadería, pide pan sin decir nada, paga de más, sale y llora en la esquina sin que nadie lo vea. ¿Cuál es el rasgo narrativo más evidente?",
+      "context": "Un joven de noveno grado de Pereira escribe un texto breve y le pide a la docente que lo clasifique por su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto dramático porque llora en la escena",
+          "is_correct": false,
+          "feedback": "La reacción emocional del personaje no convierte el texto en una obra de teatro."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto lírico porque expresa sentimientos",
+          "is_correct": false,
+          "feedback": "Aunque hay emoción, predominan los hechos y la acción; la emoción sola no define la lírica."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta un personaje, una acción y un conflicto interior que se resuelve sin diálogo",
+          "is_correct": true,
+          "feedback": "El relato se sostiene en la acción del personaje y en su conflicto, sin necesitar el diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto argumentativo porque propone una idea",
+          "is_correct": false,
+          "feedback": "No hay tesis ni_argumento: el texto narra, no intenta convencer."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la clasificación narrativa exige pesar los elementos del texto. Aquí hay un protagonista, un espacio, una secuencia de acciones y una tensión que se resuelve en interioridad, aunque no haya una sola línea de diálogo. Este tipo de escena breve es muy frecuente en el cuento colombiano y aparece en antologías que se leen en noveno grado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v4",
+      "statement": "Cuál de las siguientes obras es un cuento, es decir, un relato narrativo breve?",
+      "context": "En la feria del libro de Tunja, un stand invites a los estudiantes de noveno grado a buscar obras queased belongan a la tradición oral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La novela Cien años de soledad",
+          "is_correct": false,
+          "feedback": "Es una novela extensa, aunque comparta recursos narrativos con el cuento."
+        },
+        {
+          "letter": "B",
+          "text": "La poesía Veinte poemas de amor",
+          "is_correct": false,
+          "feedback": "Es un poemario, es decir, género lírico."
+        },
+        {
+          "letter": "C",
+          "text": "La comedia La vida es sueño de Calderón de la Barca",
+          "is_correct": false,
+          "feedback": "Es una obra dramática escrita para la representación teatral."
+        },
+        {
+          "letter": "D",
+          "text": "El cuento Bartleby, el escribiente de Herman Melville",
+          "is_correct": true,
+          "feedback": "Es un relato narrativo breve con conflicto, personaje y desenlace propio del cuento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cuento se distingue de otras formas por su extensión breve y por la concentración de un solo conflicto, resuelto a menudo con un final inesperado. Reconocerlo permite distinguirlo de la novela, que desarrolla varios conflictos y muchos personajes a lo largo de capítulos. Esta distinción es esencial en noveno grado porque prepara el estudio de la novela corta.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v5",
+      "statement": "Por qué se afirma que el cuento es la más comprimida de las formas narrativas?",
+      "context": "En un taller de escritura de Cartagena, un estudiante de noveno grado nota que su relato pierde fuerza cuando repite lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque presenta un solo conflicto, unos pocos personajes y un desenlace que cierra la tensión",
+          "is_correct": true,
+          "feedback": "La economía de medios es laessence característica del cuento frente a la novela."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se escribe siempre en un solo párrafo",
+          "is_correct": false,
+          "feedback": "La extensión del párrafo depende del estilo, no es una definición del cuento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no puede contener descripciones ni diálogos",
+          "is_correct": false,
+          "feedback": "El cuento sí admite ambos recursos; lo que restringe es el número de hechos y personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque siempre termina con una muerte",
+          "is_correct": false,
+          "feedback": "El final del cuento puede ser alegre, triste, abierto o inesperado: no tiene un desenlace obligatorio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuento es un relato de formato corto, y esa brevedad obliga a eliminar todo lo que no sea esencial para el conflicto central. Un solo personaje bien construido puede sostener el relato entero si está bien elegido. Esta concentración es la razón por la que el cuento se usa con tanta frecuencia en la enseñanza de la literatura en Colombia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v6",
+      "statement": "Qué diferencia al narrador protagonista de un cuento del narrador testigo?",
+      "context": "En la clase de Español de Sincelejo, la docente lee un cuento en voz alta y pide a los estudiantes que presten atención a las voces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El protagonista usa la primera persona y el testigo la tercera persona",
+          "is_correct": false,
+          "feedback": "Es un indicio frecuente, pero no una diferencia esencial: la persona gramatical puede variarse."
+        },
+        {
+          "letter": "B",
+          "text": "El protagonista es el personaje central y vive lo que cuenta, mientras el testigo observa desde fuera",
+          "is_correct": true,
+          "feedback": "La diferencia está en la cercanía del narrador con los hechos que relata."
+        },
+        {
+          "letter": "C",
+          "text": "El protagonista sabe el futuro y el testigo no",
+          "is_correct": false,
+          "feedback": "Saber el destino corresponde al narrador omnisciente, no al protagonista."
+        },
+        {
+          "letter": "D",
+          "text": "El testigo aparece en el título del cuento",
+          "is_correct": false,
+          "feedback": "El título no es un rasgo que defina a los tipos de narrador."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El narrador protagonista participa en la historia y la asume con la primera persona, mientras que el testigo cuenta lo que vio sin ser parte del conflicto. La persona gramatical es un indicio útil, pero el criterio real es la posición del narrador frente a los hechos. Esta distinción es clave en el cuento, donde la elección de la voz cambia por completo el efecto de la lectura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v7",
+      "statement": "Un cuento termina con el protagonista descubriendo que la carta que llevaba toda la vida era falsa, y que él mismo la había escrito. ¿Qué recurso narrativo explica el efecto producido?",
+      "context": "En noveno grado de Armenia, un grupo analiza por qué el final de un cuento les pareció más Rico de lo que esperaban.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exposición previa, que yahtubieron anticipado todo antes de leer el final",
+          "is_correct": false,
+          "feedback": "Si el lector lo hubiera anticipado, no se produciría el efecto de sorpresa."
+        },
+        {
+          "letter": "B",
+          "text": "El aumento de personajes, que suma conflicto a la historia",
+          "is_correct": false,
+          "feedback": "El efecto proviene del giro del desenlace, no del número de personajes."
+        },
+        {
+          "letter": "C",
+          "text": "El desenlace inesperado, que resuelve el conflicto con un giro que el lector no anticipaba",
+          "is_correct": true,
+          "feedback": "El cierre sorprendente es una característica del cuento moderno."
+        },
+        {
+          "letter": "D",
+          "text": "La repetición de una palabra, que crea un efecto de eco en la prosa",
+          "is_correct": false,
+          "feedback": "Puede haber recursos de estilo, pero el efecto dramático proviene del cambio inesperado del final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cuento contemporáneo suele apoyarse en un desenlace que reordena lo que el lector creía saber. Ese giro no es un truco gratuito: se prepara con indicios que solo tienen sentido al final. Esta arquitectura es la que explica por qué muchos cuentos colombianos se leen de un tirón y por qué se analizan con detenimiento en noveno grado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v8",
+      "statement": "En un cuento, un personaje que aparece una sola vez y no participa en el conflicto central, ¿qué función narrativa cumple probablemente?",
+      "context": "En el aula de Español de Riohacha, los estudiantes discuten si todos los personajes de un cuento tienen la misma importancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el protagonista, porque toda historia necesita un personaje central visible",
+          "is_correct": false,
+          "feedback": "El protagonista aparece de manera constante y sostiene el conflicto principal."
+        },
+        {
+          "letter": "B",
+          "text": "Es el antagonista, porque se opone al personaje central",
+          "is_correct": false,
+          "feedback": "Un antagonista debe participar activamente en la oposición; no basta con aparecer una vez."
+        },
+        {
+          "letter": "C",
+          "text": "Es el narrador, porque cuenta los hechos del relato",
+          "is_correct": false,
+          "feedback": "El narrador es una voz dentro del relato y no un personaje más dentro de la trama."
+        },
+        {
+          "letter": "D",
+          "text": "Es un personaje incidental, que sirve para sostener la verosimilitud o la atmósfera del relato",
+          "is_correct": true,
+          "feedback": "Los personajes incidentales no desarrollan el conflicto, pero ayudan a que el mundo del relato resulte creíble."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "No todos los personajes de un relato cumplen la misma función. Los personajes principales sostienen el conflicto y los incidentales dan textura, atmósfera y verosimilitud al mundo representado. Saber distinguirlos ayuda a explicar por qué un cuento puede tener un solo protagonista y varios personajeshlores de paso sin que la historia pierda fuerza.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v9",
+      "statement": "Dos cuentos Draper cuentan la muerte de un abuelo: uno lo narra el nieto con humor y el otro la hija con tristeza. ¿Qué conclusión se puede sacar con más rigor?",
+      "context": "En un proyecto de lectura de Bucaramanga, los estudiantes comparan dos cuentos que cuentan la misma situación desde voces diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mismo hecho produce lecturas distintas según la voz y la intención de quien narra",
+          "is_correct": true,
+          "feedback": "La perspectiva del narrador transforma la valoración del hecho y, con ella, la experiencia del lector."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos cuentos son incorrectos porque no coinciden en los hechos",
+          "is_correct": false,
+          "feedback": "Los hechos pueden ser los mismos y la interpretación variar según quién los narre."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo cuento es mejor porque expresa más emociones",
+          "is_correct": false,
+          "feedback": "La calidad de un cuento no se mide por la cantidad de emoción que expresa, sino por cómo construye la historia."
+        },
+        {
+          "letter": "D",
+          "text": "El primero pertenece al género lírico y el segundo al narrativo",
+          "is_correct": false,
+          "feedback": "Ambos son narrativos; la diferencia está en el tono, no en el género."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos versiones del mismo hecho enseña que la narrativa no solo transmite hechos, sino que los organiza desde una mirada. La voz del nieto y la de la hija producen efectos distintos sobre el mismo episodio. Este ejercicio de comparación por voces es una de las estrategias más usadas en la enseñanza de la literatura en noveno grado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v10",
+      "statement": "Un cuento tiene quince personajes, ninguno con conflicto propio, y ocurre en cuatro ciudades durante veinte años. ¿Cuál es la evaluación más sólida de esa propuesta?",
+      "context": "En la revista escolar de Ibagué, el comité editorial evalúa la calidad de un cuento enviado por estudiantes de noveno grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El relato es excelente porque tiene muchos personajes, lo que demuestra Invention narrativa",
+          "is_correct": false,
+          "feedback": "La cantidad de personajes no es un indicio de calidad, especialmente si ninguno sostiene el conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "El relato tiene exceso de datos para un formato breve y pierde el foco narrativo",
+          "is_correct": true,
+          "feedback": "El cuento exige concentración; tantos personajes y tantas acciones sin conflicto debilitan el relato."
+        },
+        {
+          "letter": "C",
+          "text": "El relato es inválido porque el cuento solo puede ocurrir en un lugar",
+          "is_correct": false,
+          "feedback": "El cuento puede Gonzaga recorre varios lugares; no hay una restricción geográfica."
+        },
+        {
+          "letter": "D",
+          "text": "El relato pertenece al género dramático porque tiene tantos personajes",
+          "is_correct": false,
+          "feedback": "El número de personajes no determina el género de un texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar un cuento exige medir su economía narrativa: cada personaje y cada situación deben contribuir al conflicto central. Cuando sobran elementos que no aportan, el relato pierde foco y el lector pierde interés. Este criterio de análisis es uno de los que la prueba Saber evalúa a través de preguntas de razonamiento sobre la estructura textual.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v11",
+      "statement": "Un grupo de noveno grado afirma: todo final abierto produce un cuento mejor porque deja libertad al lector. ¿Qué evaluación es más sólida?",
+      "context": "En un debate de aula en Florencia, un grupo defender la idea de que un final abierto es mejor que un final cerrado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el cierre determinista siempre resulta pobre",
+          "is_correct": false,
+          "feedback": "Muchos cuentos con final cerrado son memorables y no resultan pobres por deterministas."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta porque el cuento colombiano no admite finales abiertos",
+          "is_correct": false,
+          "feedback": "La tradición colombiana admite con soltura ambos tipos de final."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es absoluta, porque un final abierto solo funciona cuando el relato ha dejado suficientes indicios",
+          "is_correct": true,
+          "feedback": "El final abierto requiere una construcción previa que haga plausible la indefinición del cierre."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta si el relato tiene menos de diez páginas",
+          "is_correct": false,
+          "feedback": "La extensión del relato no determina la calidad de su final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un final abierto no es mejor ni peor en sí mismo: depende de cómo se preparó a lo largo del relato. Si el texto sembró indicios y resolvió lo esencial, la indefinición resulta deliberada. Si no, se percibe como un final abrupto. Este razonamiento sobre la construcción del final es un contenido de nivel alto dentro del componente lector.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v12",
+      "statement": "Un cuento del Chocó narra una tradición de la comunidad, con un relato insertion dentro de otro y una voz que comenta lo que va contando. ¿Qué descripción es la más precisa?",
+      "context": "En la--+ de Español de Quibdó, los estudiantes aplican todo lo aprendido a la evaluación de un cuento de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto dramático, porque hay alguien que narra y hay personajes",
+          "is_correct": false,
+          "feedback": "Narrar y tener personajes no basta; la representación ante público define al género dramático."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto lírico, porque la tradición se expresaa con Hep emotions colectivas",
+          "is_correct": false,
+          "feedback": "El valor de la tradición no convierte el texto en lírico; predomina la representación de hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto argumentativo, porque defiende la comunidad",
+          "is_correct": false,
+          "feedback": "Un texto que refleje valores no se vuelve argumentativo; no hay tesis ni demostración."
+        },
+        {
+          "letter": "D",
+          "text": "Es un cuento narrativo de estructura compleja, con narrator intradiegético y relato encabalgado",
+          "is_correct": true,
+          "feedback": "Describe con exactitud los recursos narrativos: la voz que comenta y el relato dentro del relato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los recursos del relato pueden combinarse: una voz que comenta lo que narra es un narrador intradiegético, y un relato dentro de otro es una estructura encabalgada. Reconocer estos recursos permite describir con precisión textos que rompen las formas simples. Es un nivel de análisis que la prueba Saber incluye en sus preguntas de comprensión e inferencia textual.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
