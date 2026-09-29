@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-17-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T15:31:01.917Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 2, ¿qué es la idea principal de un texto?",
+      "context": "En una clase de tercero en Bogotá, los niños repasan qué es la idea principal de un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La idea más importante que el autor quiere comunicar sobre el texto",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que la idea principal es el mensaje central que el autor deja para el lector."
+        },
+        {
+          "letter": "B",
+          "text": "La frase que el autor repite muchas veces a lo largo del texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición de un dato no lo convierte en idea principal, que depende del propósito del autor."
+        },
+        {
+          "letter": "C",
+          "text": "El detalle más interesante que cuenta el autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los detalles pueden ser muy interesantes y aun así no ser el mensaje central de la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "La oración más larga que aparece en el texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no determina la importancia, porque la idea principal puede ser una oración muy corta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La idea principal responde a la pregunta de qué trata principalmente un texto. No es la frase más larga ni la más repetida, sino la que resume el mensaje central. Cuando los estudiantes la identifican, pueden explicar de qué trata una lectura con sus propias palabras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, ¿cuál oración contiene la idea principal?",
+      "context": "En un colegio de Medellín, los niños de tercero buscan la idea principal de un texto corto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La señora Rodríguez llegó a la ciudad en 2019",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este dato biográfico es un detalle de la historia y no resume de qué trata la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Los manglares de Buenaventura son bosques que crecen con las aguas saladas del Pacífico colombiano",
+          "is_correct": true,
+          "feedback": "Correcto. Esta oración presenta el tema central del texto, que es qué son los manglares, sin desviarse hacia otros detalles."
+        },
+        {
+          "letter": "C",
+          "text": "El vivero tiene más de mil plantas jóvenes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de plantas es un dato de apoyo que complementa la idea, pero no la resume."
+        },
+        {
+          "letter": "D",
+          "text": "Cuarenta estudiantes participaron en una jornada de siembra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación de los estudiantes es un detalle del relato y no la idea que presenta el texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La idea principal suele aparecer en la primera oración, donde se presenta el tema del texto. Los demás datos respaldan y amplían esa idea, pero no la sustituyen. Saber distinguir la idea central de los detalles de apoyo ayuda a los estudiantes a comprender mejor cualquier lectura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v3",
+      "statement": "Camila leyó un texto que explica cómo se prepara un pandebono en Nariño, con sus ingredientes, su horno y su tiempo de horneado. ¿Cuál oración resume mejor la idea principal de ese texto?",
+      "context": "En una tarea en Pereira, los niños de tercero deben escribir la idea principal de un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pandebono necesita muchos ingredientes y bastante tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración resume características del pandebono y no el propósito completo del texto, que es explicar la preparación."
+        },
+        {
+          "letter": "B",
+          "text": "El texto está escrito con frases sencillas para que los niños lo entiendan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración habla de cómo está escrito el texto y no del contenido que el texto explica."
+        },
+        {
+          "letter": "C",
+          "text": "El texto explica cómo se prepara un pandebono, desde los ingredientes hasta el horneado",
+          "is_correct": true,
+          "feedback": "Correcto. Esta oración resume el propósito del texto, que es mostrar el proceso completo de preparar el pandebono."
+        },
+        {
+          "letter": "D",
+          "text": "El pandebono se hornea dentro de un horno caliente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración describe un solo paso del proceso y por eso no resume la idea completa del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para encontrar la idea principal, el estudiante debe preguntar de qué trata el texto y responder en una sola oración. Los detalles sobre el horno o los ingredientes son importantes, pero solo respaldan la idea central. Esta habilidad es la base para resumir y para estudiar mejor cualquier materia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v4",
+      "statement": "Un texto de tres párrafos habla del Festival de la Arepa de Vehiche en Cartagena. El primer párrafo describe el festival, el segundo cuenta los platillos y el tercero menciona a los músicos que tocan. ¿Cuál oración expresa mejor la idea principal del texto?",
+      "context": "En un taller en Barranquilla, los niños de tercero distinguen la idea principal de los detalles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La arepa de huevo es un alimento típico de la región",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración habla de un platillo en particular, que es solo uno de los detalles del texto."
+        },
+        {
+          "letter": "B",
+          "text": "El texto tiene tres párrafos y describe una fiesta tradicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de párrafos dice cómo está organizado el texto, no cuál es su idea principal."
+        },
+        {
+          "letter": "C",
+          "text": "En el festival tocan músicos que interpretan cumbia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este es un detalle del tercer párrafo y no resume el tema común de los tres párrafos."
+        },
+        {
+          "letter": "D",
+          "text": "El texto presenta el Festival de la Arepa de Vehiche y lo que ocurre en él",
+          "is_correct": true,
+          "feedback": "Correcto. Esta oración resume el tema central del texto, que es el festival y todo lo que sucede en él."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La idea principal debe cubrir las partes importantes del texto y no solamente una de ellas. Cuando un texto tiene varios párrafos, el estudiante debe preguntar qué ocurre en todos para encontrar el mensaje común. Buscar ese hilo común es la clave para identificar ideas principales en textos más largos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v5",
+      "statement": "Un periodista escribió una noticia sobre un festival de música en Cartagena. La noticia explica de qué es el evento, cuáles son sus fechas y qué grupos van a participar. ¿Cuál debe ser la idea principal de un resumen de esta noticia?",
+      "context": "En un colegio de Cartagena, la profesora pide resumir una noticia para la cartelera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia está escrita con un lenguaje sencillo dirigido a los niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta oración habla de cómo está escrita la noticia y no del contenido que la noticia informa."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia incluye todas las fechas y la lista completa de grupos participantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fechas y los grupos son detalles de apoyo, y la idea principal debe resumir el conjunto del texto."
+        },
+        {
+          "letter": "C",
+          "text": "La noticia informa sobre un festival de música que se realizará en Cartagena",
+          "is_correct": true,
+          "feedback": "Correcto. Esta idea señala el qué y el dónde del evento, que es lo que el lector necesita saber de la noticia."
+        },
+        {
+          "letter": "D",
+          "text": "La noticia fue escrita por un periodista de la ciudad de Cartagena",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre del autor es un dato aparte que no resume el contenido principal de la noticia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La idea principal de una noticia debe responder las preguntas más importantes sobre el hecho informado. Los detalles como fechas, nombres o listas sirven para ampliar la información, pero no reemplazan el mensaje central. Practicar este criterio con noticias del barrio enseña a los estudiantes a leer información de forma más rápida y segura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v6",
+      "statement": "Dos niños leyeron un texto sobre el mar de Santa Marta. El niño A dijo que la idea principal era que el mar protege a las tortugas. El niño B dijo que la idea principal era que hubo una tormenta fuerte. ¿Cuál de los dos identificó mejor la idea principal y por qué?",
+      "context": "En el aula de Santa Marta, los niños de tercero comparan dos versiones de una lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El niño A, porque su oración resume de qué trata todo el texto y no un solo hecho",
+          "is_correct": true,
+          "feedback": "Correcto. La idea principal cubre el tema central de la lectura completa, mientras que la tormenta es solamente un episodio del relato."
+        },
+        {
+          "letter": "B",
+          "text": "El niño B, porque la tormenta es el hecho más llamativo de la lectura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un hecho sea llamativo no significa que represente el conjunto del texto, que es lo que exige una idea principal."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno de los dos, porque la idea principal siempre es la última oración del texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La idea principal puede estar en cualquier oración del texto, y lo importante es que capture el mensaje central."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos niños, porque cualquier oración del texto puede ser la idea principal",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cualquier oración sirve, sino la que recoge los mensajes más importantes de toda la lectura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar las respuestas de dos lectores ayuda a los estudiantes a entender que la idea principal depende del conjunto del texto y no de una oración llamativa. Un buen lector revisa si la oración que eligió resume los mensajes más importantes de la lectura. Este ejercicio desarrolla el criterio para evaluar comprensiones propias y ajenas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v7",
+      "statement": "Un grupo de niños de Bucaramanga escribió resúmenes de un texto sobre la fiesta de la Virgen de la Peña. El resumen de Ana dice que el texto habla de las danzas y las comidas de la región. El resumen de Luis dice que el texto habla del día en que la iglesia se ilumina con miles de velas. ¿Cuál de los dos resúmenes expresa mejor la idea principal?",
+      "context": "En Bucaramanga, un grupo de estudiantes revisa resúmenes escritos sobre un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno de los dos, porque un resumen debe copiar palabra por palabra del texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen se escribe con palabras del estudiante, pero debe conservar la idea principal del texto original."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos resúmenes, porque cualquier detalle puede ser la idea principal de un texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No cualquier detalle sirve, sino la oración que recoge los mensajes más importantes del texto completo."
+        },
+        {
+          "letter": "C",
+          "text": "El de Luis, porque la iglesia iluminada es la imagen más llamativa del texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que una imagen sea llamativa no significa que represente el conjunto de la lectura, como exige una idea principal."
+        },
+        {
+          "letter": "D",
+          "text": "El de Ana, porque las danzas y las comidas aparecen a lo largo de todo el texto",
+          "is_correct": true,
+          "feedback": "Correcto. El resumen de Ana cubre el contenido completo de la lectura, mientras que el de Luis se limita a un solo momento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar cuál resumen conserva mejor la idea principal enseña a los estudiantes a usar criterios y no solamente opiniones. El resumen debe cubrir los mensajes más importantes de todo el texto, no quedarse en un único detalle. Practicar esta revisión entre compañeros ayuda a cada estudiante a mejorar su propia forma de escribir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle-v8",
+      "statement": "Un compañero escribió un resumen de un texto e incluyó cada detalle: el color del cielo, el número de personas, el nombre de una calle y el sonido de un altavoz. Sus compañeros no pudieron responder de qué trataba la lectura. ¿Qué nos enseña este ejemplo sobre la idea principal?",
+      "context": "En un proyecto de lectura en Manizales, los niños de tercero infieren por qué la idea principal importa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que un buen resumen siempre debe tener muchas páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no importa; lo que importa es que el resumen conserve la idea central."
+        },
+        {
+          "letter": "B",
+          "text": "Que un resumen con muchos detalles puede no dejar clara la idea principal del texto",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el resumen se queda en los detalles, el lector no puede saber de qué trataba la lectura completa."
+        },
+        {
+          "letter": "C",
+          "text": "Que la idea principal no sirve para entender un texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La idea principal es justamente lo que permite entender de qué trata una lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Que el lector nunca puede encontrar la idea principal por sí mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con práctica, los estudiantes cada vez reconocen mejor la idea principal por sus propios medios."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir por qué la idea principal importa ayuda a los estudiantes a valorar la lectura con criterio propio. Si un lector no puede decir de qué trata un texto, es porque la idea central no quedó clara. Por eso conviene resumir primero la idea principal y luego agregar los detalles que la sostienen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
