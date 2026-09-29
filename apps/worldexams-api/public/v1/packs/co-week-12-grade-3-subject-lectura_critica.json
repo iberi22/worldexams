@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-12-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T14:31:56.033Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 2, ¿qué artículo debe acompañamiento al sustantivo \"mercado\" en la frase \"Fue al mercado\"?",
+      "context": "En el salón de tercero, la profesora proyectó la ficha del Texto 2 y pidió a sus estudiantes que escribieran el artículo que corresponde a cada sustantivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Un\", porque el mercado aparece por primera vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo \"un\" se usa cuando el sustantivo se presenta por primera vez, y no cuando se habla de algo conocido."
+        },
+        {
+          "letter": "B",
+          "text": "\"El\", porque la ficha indica que el mercado es un lugar conocido para quien lee",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha dice que el artículo definido se usa con sustantivos conocidos, y la frase ya había presentado el lugar."
+        },
+        {
+          "letter": "C",
+          "text": "\"Una\", porque el mercado es un lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo \"una\" es femenino, y la ficha muestra que \"mercado\" es masculino y por eso lleva \"el\"."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los\", porque el mercado tiene muchas tiendas",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Los\" indica plural, y el Texto 1 habla de un solo mercado al que fueron los dos hermanos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Escoger el artículo correcto es una habilidad de lectura que se entrena con el uso cotidiano de la lengua. La ficha explica que el artículo definido señala algo que el lector ya conoce. Cuando el estudiante reconoce que el mercado ya fue presentado, entiende que el artículo no es un adorno sino una manera de organizar la información del texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿qué función cumplen los artículos dentro de una oración?",
+      "context": "En la clase, la profesora les explica a sus estudiantes por qué no se puede decir \"compré naranjas\" sin decir cuáles naranjas se compraron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indican si el sustantivo nombra uno o varios y si el lector ya lo conoce o aparece por primera vez en el texto",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha define los artículos definidos e indefinidos con esas dos funciones, y por eso son tan necesarios."
+        },
+        {
+          "letter": "B",
+          "text": "Señalan que el sustantivo es un verbo, para que el lector lo entienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los artículos no convierten un sustantivo en verbo, porque el verbo y el sustantivo son categorias distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Indican el tiempo verbal, para que el lector sepa si la acción ya ocurrió",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo verbal lo muestran los verbos, y los artículos no tienen esa función."
+        },
+        {
+          "letter": "D",
+          "text": "No tienen función, porque el sustantivo ya está completo sin ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha muestra que el artículo indica si el sustantivo es uno o varios y si es conocido o no."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender la función del artículo permite entender por qué las oraciones del español necesitan esas palabras delante de los sustantivos. El artículo le dice al lector si se trata de algo nuevo o de algo que ya se había mencionado. Esa información es la que permite que un texto con muchos nombres propios sea fácil de seguir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v3",
+      "statement": "Un grupo debe completar la oración \"Compraron ___ kilos de naranjas en la frutería\". ¿Qué artículo debe poner para que la oración signifique lo que pasó en el Texto 1?",
+      "context": "En el trabajo en grupo, la profesora entrega oraciones del Texto 1 a las que les falta el artículo y pide a los equipos que las completen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los\", porque el Texto 1 habla de varias bolsas",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Los\" indica plural de un sustantivo masculino, y lo que se compró en el Texto 1 fueron tres kilos, que es singular."
+        },
+        {
+          "letter": "B",
+          "text": "\"Un\", porque se compró por primera vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frutería ya había sido mencionada, y la ficha reserva el artículo indefinido para sustantivos que se presentan por primera vez."
+        },
+        {
+          "letter": "C",
+          "text": "\"El\", porque la ficha indica que se trata de una cantidad ya presentada en el texto",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha indica que el artículo definido se usa con la cantidad que el lector ya conoce, y aquí la cantidad está clara en la frase."
+        },
+        {
+          "letter": "D",
+          "text": "\"Unas\", porque las naranjas son varias y se pueden contar",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Unas\" acompaña a un sustantivo plural, y en esta oración el sustantivo es \"kilo\", que va en singular."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la regla del artículo consiste en revisar primero si el sustantivo va en singular o en plural, y después decidir si el lector ya lo conoce. En esta oración el sustantivo es \"kilo\" y la cantidad está determinada, así que el artículo definido es el que corresponde. Este ejercicio prepara a los estudiantes para usar el plural con seguridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v4",
+      "statement": "En la frase del Texto 1 \"un tarro de miel de $12.500\", ¿qué palabras son los artículos y qué palabra es el sustantivo al que acompaña el artículo?",
+      "context": "La profesora de tercero pide a los estudiantes que revisen el Texto 1 y anoten qué palabras son artículos y qué palabras son sustantivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El artículo es \"$12.500\" y el sustantivo es \"tarro\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra con pesos no es un artículo, porque los artículos solo se colocan delante de sustantivos."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo es \"miel\" y el sustantivo es \"tarro\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Miel\" es un sustantivo y no un artículo, porque los artículos son un, una, unos, unas, el, la, los y las."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo es \"un\" y el sustantivo es \"tarro\"",
+          "is_correct": true,
+          "feedback": "Correcto. \"Un\" acompaña al sustantivo \"tarro\" y le indica que se trata de uno solo, de acuerdo con la ficha."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo es \"de\" y el sustantivo es \"miel\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"De\" es una preposición que une dos sustantivos, y no un artículo, según la definición de la ficha."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir el artículo del sustantivo es un paso necesario para comprender cómo se construye una oración. La ficha define el artículo como la palabra que se coloca delante de un sustantivo para indicar cantidad o conocimiento. Cuando el estudiante separa las dos clases de palabras, ya puede explicar por qué \"un tarro\" y \"el tarro\" no significan lo mismo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v5",
+      "statement": "Si en el Texto 1 la frase \"un tarro de miel\" se convierte en \"varios tarros de miel\", ¿cómo debe cambiar el artículo según la ficha?",
+      "context": "En la actividad de la semana, cada estudiante debe cambiar el número del sustantivo y acomodar el artículo para que la oración siga siendo correcta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El artículo debe cambiar de \"un\" a \"una\", porque el sustantivo pasa a ser plural",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Una\" es el artículo femenino singular, y el sustantivo \"tarro\" es masculino, así que esa regla no aplica."
+        },
+        {
+          "letter": "B",
+          "text": "El artículo se queda igual, porque los artículos nunca cambian con el sustantivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha explica que el artículo definido e indefinido tienen formas de singular y de plural."
+        },
+        {
+          "letter": "C",
+          "text": "El artículo debe cambiar de \"un\" a \"el\", porque el sustantivo ya no es nuevo para el lector",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paso a plural no cambia si el sustantivo es conocido o no, y el enunciado no dice que aparezca por segunda vez."
+        },
+        {
+          "letter": "D",
+          "text": "El artículo debe cambiar de \"un\" a \"unos\", porque el sustantivo pasa a plural y conserva el género masculino",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha muestra que los indefinidos tienen formas de plural y que el género del sustantivo se conserva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Acomodar el artículo cuando cambia el número del sustantivo es una habilidad que se necesita para escribir correctamente. La ficha explica que el plural se forma con \"unos\" y \"unas\", y que el género del sustantivo se mantiene. Cuando los estudiantes practican este cambio, evitan errores frecuentes y comprenden la relación entre las dos clases de palabras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor forma de demostrar que quitar los artículos sí cambia la comprensión del Texto 1?",
+      "context": "En la discusión de lectura, un compañero de tercero sostiene que los artículos se pueden quitar de cualquier oración sin cambiar lo que el texto cuenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrarlo explicando que los artículos hacen que el texto sea más largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar una palabra sí acorta el texto, pero esa es una consecuencia formal y no una razón de comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "Demostrarlo explicando que en el Texto 1 los hermanos compraron varias veces en la frutería",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 cuenta que compraron una sola vez, y el enunciado no se apoya en lo que el texto dice."
+        },
+        {
+          "letter": "C",
+          "text": "Demostrarlo explicando que \"un tarro de miel\" y \"el tarro de miel\" no dicen lo mismo, porque uno presenta algo nuevo y el otro algo ya conocido",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha explica esa diferencia y por eso muestra que el artículo cambia lo que el lector entiende."
+        },
+        {
+          "letter": "D",
+          "text": "Demostrarlo explicando que los artículos no son palabras del español",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los artículos son parte del español, y el Texto 2 los define como una clase de palabras del idioma."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un texto implica explicar cómo un cambio pequeño produce un cambio en lo que el lector comprende. En el Texto 1 el artículo le dice al lector si algo aparece por primera vez o si ya se había mencionado, y esa información ordena la historia. Reconocer esta función muestra que las palabras pequeñas sostienen la comprensión del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la diferencia más importante entre lo que aporta el Texto 1 y lo que aporta el Texto 2?",
+      "context": "La profesora de tercero pide a cada grupo que presente en la cartelera qué aprendió con el Texto 1 y qué aprendió con el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos cuentan la salida de Berta y Tomás, así que la diferencia está en el número de alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 no cuenta ninguna historia, porque es una ficha de definiciones y ejemplos sobre los artículos."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 explica qué es un artículo y el Texto 2 muestra qué pasa cuando se cambia el artículo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función está al revés: el Texto 1 narra la escena y el Texto 2 es el que define."
+        },
+        {
+          "letter": "C",
+          "text": "El Texto 1 clasifica los artículos definidos e indefinidos, y el Texto 2 cuenta lo que compraron en el mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no clasifica artículos, y el Texto 2 no cuenta lo que compraron en el mercado."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 muestra los artículos y los sustantivos funcionando dentro de una escena, y el Texto 2 explica sus reglas y sus formas",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 presenta el uso de los artículos en las compras de la historia y el Texto 2 organiza las reglas en una ficha."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar los dos textos de la semana ayuda a ver que un concepto gramatical se puede estudiar desde dos ángulos distintos. El cuento muestra el artículo en uso dentro de una situación real de lectura, y la ficha permite nombrarlo y aplicarlo. Cuando el estudiante distingue esos papeles, entiende por qué la clase siempre combina un texto narrativo con un texto informativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la valoración más sólida que puede hacer el grupo frente a esa afirmación?",
+      "context": "En la puesta en común final, un estudiante de tercero afirma que se puede usar el artículo \"el\" delante de cualquier sustantivo, sin importar cuál sea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque el artículo \"el\" sirve para todos los sustantivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una valoración sólida se apoya en la ficha, y esa ficha muestra que hay sustantivos que piden otras formas."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque el Texto 1 usa \"el\" delante de todas las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 usa otras formas, como \"un tarro\" y \"unas naranjas\", así que esa razón no se sostiene."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incompleta, porque los artículos no se usan delante de los sustantivos propios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado se ocupa del artículo \"el\" y de los sustantivos en general, y no de esa distinción."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque el Texto 2 muestra que el artículo cambia según el género, el número y si el sustantivo es conocido o no",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha presenta las reglas de plural, de género y de conocimiento, y esas reglas desmienten la afirmación del compañero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar es emitir un juicio y defenderlo con pruebas del texto leído. La afirmación del compañero generaliza un uso que la ficha limita a muchas condiciones distintas. Un buen argumento de lectura menciona esas condiciones y explica con claridad por qué la evidencia del texto informativo desmiente la afirmación.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W12-los-sustantivos-y-los-articulos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
