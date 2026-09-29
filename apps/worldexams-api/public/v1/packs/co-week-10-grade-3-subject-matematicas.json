@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-3-subject-matematicas",
+    "generated_at": "2026-09-29T20:11:28.540Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v1",
+      "statement": "En el número decimal 8,4, ¿qué número ocupa el lugar de las décimas?",
+      "context": "En el mercado de Risaralda, la señora Gloria revisa el precio de un kilo de queso antes de comprarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. En 8,4 el número 4 está después de la coma y ocupa el lugar de las décimas."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 8 está antes de la coma y ocupa el lugar de las unidades."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el número 8,4 no hay ningún 0, y el lugar de las décimas lo ocupa el 4."
+        },
+        {
+          "letter": "D",
+          "text": "84",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 84 no aparece en el número 8,4, que tiene un 8 y un 4."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los números decimales se separan con una coma. Lo que está antes de la coma son las unidades, y lo que está después son las décimas, los centésimas y así sucesivamente. En 8,4 el 4 está en el lugar de las décimas, y por eso el número se lee 8 coma 4.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v2",
+      "statement": "El litro de leche cuesta 2,7 mil pesos en una tienda y 2,3 mil pesos en otra. ¿En cuál de las dos tiendas la leche es más cara?",
+      "context": "En un mercado de Bogotá, el litro de leche cuesta 2,7 mil pesos en una tienda y 2,3 mil pesos en otra del mismo barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la tienda donde cuesta 2,3",
+          "is_correct": false,
+          "feedback": "Incorrecto. La leche de 2,3 es la más barata, porque 2,3 es menor que 2,7."
+        },
+        {
+          "letter": "B",
+          "text": "En las dos tiendas cuesta lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2,7 y 2,3 son dos números decimales diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "En la tienda donde cuesta 2,7",
+          "is_correct": true,
+          "feedback": "Correcto. Como 2,7 es mayor que 2,3, la leche de la primera tienda es la más cara."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos números sí se pueden comparar, porque tienen la misma parte entera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos decimales tienen la misma parte entera, basta con comparar las décimas. En 2,7 la décima es 7 y en 2,3 la décima es 3. Como 7 es mayor que 3, el número 2,7 es el mayor y por eso esa leche es la más cara.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v3",
+      "statement": "Un jugo cuesta 2.500 pesos y un sándwich cuesta 4.250 pesos. Si se compran los dos, ¿cuánto se paga en total?",
+      "context": "En un café de Manizales, un jugo cuesta 2.500 pesos y un sándwich cuesta 4.250 pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.250 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma está mal hecha, porque 2.500 más 4.250 da 6.750 pesos."
+        },
+        {
+          "letter": "B",
+          "text": "6.750 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar 2.500 + 4.250 = 6.750 pesos, ese es el total de los dos alimentos."
+        },
+        {
+          "letter": "C",
+          "text": "5.750 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado no corresponde a sumar los dos precios que da el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "6.450 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número no sale de sumar 2.500 y 4.250, y la cuenta del problema es exacta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para sumar estos precios, alineamos las partes enteras y las partes decimales. Sumamos las unidades, 2 + 4 = 6, y sumamos las décimas, 500 + 250 = 750. El total es 6.750 pesos. Otra forma de hacerlo es separar el precio del sándwich en 4.200 y 50, y sumar en dos pasos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v4",
+      "statement": "Un carro recorre 3,5 kilómetros y después 4,25 kilómetros. ¿Cuántos kilómetros recorre en total?",
+      "context": "En una carretera cerca de Tunja, un carro recorre 3,5 kilómetros y luego continúa 4,25 kilómetros más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7,25 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma está mal hecha, porque 3,5 más 4,25 da 7,75 kilómetros."
+        },
+        {
+          "letter": "B",
+          "text": "6,75 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número no corresponde a la suma de los dos tramos del recorrido."
+        },
+        {
+          "letter": "C",
+          "text": "8,75 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste un poco más, y el total de los dos tramos es 7,75 kilómetros."
+        },
+        {
+          "letter": "D",
+          "text": "7,75 kilómetros",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar 3,5 más 4,25 obtenemos 7,75 kilómetros, que es el recorrido total."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando hay decimales, primero podemos igualar el número de cifras decimales. El 3,5 se escribe como 3,50. Ahora sumamos 3,50 más 4,25 y obtenemos 7,75 kilómetros. Igualar las cifras decimales facilita mucho la cuenta y evita equivocarse con las décimas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v5",
+      "statement": "Una habitación de hotel cuesta 45.500 pesos la noche. Si una familia se queda 2 noches, ¿cuánto debe pagar?",
+      "context": "En un hotel de Salento, el precio de una noche de habitación es de 45.500 pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "68.000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste en lugar de multiplicar, y dos noches cuestan el doble y no menos."
+        },
+        {
+          "letter": "B",
+          "text": "90.000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número no corresponde al producto de 45.500 por 2, que da 91.000 pesos."
+        },
+        {
+          "letter": "C",
+          "text": "45.500 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el precio de una sola noche, y la familia se queda dos noches."
+        },
+        {
+          "letter": "D",
+          "text": "91.000 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Al multiplicar 45.500 por 2 obtenemos 91.000 pesos, que es el valor de las dos noches."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Como las dos noches cuestan lo mismo, el total se obtiene multiplicando el precio de una noche por la cantidad de noches: 45.500 x 2 = 91.000 pesos. Podemos comprobarlo sumando dos veces el mismo precio: 45.500 + 45.500 = 91.000 pesos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v6",
+      "statement": "Cuatro niños anotaron estas cantidades de pesos: 0,9; 0,85; 0,99 y 0,5. ¿Cuál de las cuatro cantidades es la mayor?",
+      "context": "En un proyecto de clase de Armenia, cada niño anotó una cantidad de pesos y luego compararon sus notas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,9",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 0,9 es igual a 0,90, y el 0,99 es un poquito más grande."
+        },
+        {
+          "letter": "B",
+          "text": "0,99",
+          "is_correct": true,
+          "feedback": "Correcto. El 0,99 es el mayor, porque es igual a 0,90 y por eso supera a 0,85 y a 0,5."
+        },
+        {
+          "letter": "C",
+          "text": "0,85",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 0,85 es menor que 0,90 y también menor que 0,99."
+        },
+        {
+          "letter": "D",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 0,5 es el menor de los cuatro números de la lista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para comparar decimales hay que igualarlos con el mismo número de cifras decimales. El 0,9 se escribe como 0,90 y el 0,5 como 0,50. Cuando todos tienen dos cifras, la comparación es sencilla: 0,99 es mayor que 0,90, y 0,90 es mayor que 0,85.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v7",
+      "statement": "En una ferretería, el cable cuesta 1.750 pesos el metro y el tubo cuesta 2.400 pesos el metro. Ana compró 2 metros de cable y 1 metro de tubo. ¿Cuánto pagó Ana en total?",
+      "context": "En una ferretería de Yopal, un metro de cable cuesta 1.750 pesos y un metro de tubo cuesta 2.400 pesos. Ana compró 2 metros de cable y 1 metro de tubo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.900 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. El cable cuesta 1.750 x 2 = 3.500 pesos, y con el tubo el total es 3.500 + 2.400 = 5.900 pesos."
+        },
+        {
+          "letter": "B",
+          "text": "4.150 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado corresponde a un solo metro de cable más el tubo, y Ana compró 2 metros de cable."
+        },
+        {
+          "letter": "C",
+          "text": "8.300 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste los dos precios, cuando Ana solo compró un metro de tubo."
+        },
+        {
+          "letter": "D",
+          "text": "6.650 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número no corresponde a la compra que hizo Ana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este problema tiene dos pasos. Primero calculamos el costo del cable, que depende de la cantidad: 1.750 x 2 = 3.500 pesos. Después sumamos el costo del tubo, que es un solo metro: 3.500 + 2.400 = 5.900 pesos. La clave es leer si cada producto se compra por metros o por unidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle-v8",
+      "statement": "Cada entrada de cine cuesta 6.500 pesos. Ana compró 2 entradas y pagó con 20.000 pesos. ¿Cuánto dinero le devolvieron en el cambio?",
+      "context": "En la sala de cine de Sincelejo, cada entrada cuesta 6.500 pesos y Ana compró 2 entradas pagando con un billete de 20.000 pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.500 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el precio de una sola entrada, y Ana compró dos."
+        },
+        {
+          "letter": "B",
+          "text": "3.500 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número es la mitad de 7.000, y el cambio completo es 7.000 pesos."
+        },
+        {
+          "letter": "C",
+          "text": "7.000 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos entradas cuestan 6.500 x 2 = 13.000 pesos, y el cambio es 20.000 - 13.000 = 7.000 pesos."
+        },
+        {
+          "letter": "D",
+          "text": "33.000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 6.500 por 5, y solo se compraron 2 entradas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero calculamos el costo de las dos entradas: 6.500 x 2 = 13.000 pesos. Después hallamos el cambio restando lo pagado menos lo que costó: 20.000 - 13.000 = 7.000 pesos. Podemos comprobarlo sumando: 13.000 + 7.000 = 20.000, que es exactamente el billete con el que pagó.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
