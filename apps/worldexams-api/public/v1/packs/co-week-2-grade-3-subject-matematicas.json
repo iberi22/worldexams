@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-3-subject-matematicas",
+    "generated_at": "2026-09-29T02:57:11.355Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v1",
+      "statement": "Si 3 kg más 2 kg es igual a 5 kg, ¿qué operación representa la suma que hizo don Hernán?",
+      "context": "En el puesto de don Hernán en la plaza de mercado de Bogotá, un cliente compra 3 kg de papa y 2 kg de cebolla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 + 2 = 5",
+          "is_correct": true,
+          "feedback": "¡Correcto! Al juntar los 3 kg de papa con los 2 kg de cebolla se obtiene una suma de 5 kg."
+        },
+        {
+          "letter": "B",
+          "text": "2 + 3 = 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cuenta está bien planteada, pero 2 + 3 no es igual a 6, es igual a 5."
+        },
+        {
+          "letter": "C",
+          "text": "3 - 2 = 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta se usa cuando se quitan cantidades, no cuando se juntan las dos."
+        },
+        {
+          "letter": "D",
+          "text": "5 + 3 = 8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ya tenías el resultado de la suma (5) y le sumaste otra vez los 3 kg de papa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La suma sirve para juntar dos o más cantidades y saber cuánto hay en total. La resta sirve para quitar una cantidad de otra. En este problema, don Hernán junta 3 kg de papa con 2 kg de cebolla, así que corresponde usar la suma: 3 + 2 = 5 kg. Reconocer en qué momento se suma y en qué momento se resta es el primer paso para resolver cualquier problema. Un buen truco es dibujar las dos cantidades y juntarlas.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v2",
+      "statement": "Si la profesora reparte 8 crayones a cada grupo y hay 3 grupos, ¿cuántos crayones reparte en total?",
+      "context": "En el salón de clases de una escuela de Pereira, la profesora deja una caja con 24 crayones y le entrega 8 crayones a cada uno de los tres grupos de trabajo que hay en el salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 crayones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 8 por 4, pero en el salón hay solamente 3 grupos."
+        },
+        {
+          "letter": "B",
+          "text": "24 crayones",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se suman los 8 crayones de cada grupo tres veces: 8 + 8 + 8 = 24."
+        },
+        {
+          "letter": "C",
+          "text": "11 crayones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumaste dos grupos (8 + 8 = 16), pero hay 3 grupos y el último también recibe 8."
+        },
+        {
+          "letter": "D",
+          "text": "16 crayones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumaste los crayones de dos de los tres grupos; falta sumar el tercer grupo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando una misma cantidad se repite para varios grupos, se puede sumar repetidamente o usar la multiplicación. Aquí hay 3 grupos y cada uno recibe 8 crayones: 8 + 8 + 8 = 16 + 8 = 24. La multiplicación 3 x 8 da el mismo resultado y puede ser más rápida cuando hay muchos grupos. Conviene verificar el resultado contando hacia atrás: si gastaste 24 crayones y la caja tenía 24, entonces no sobra ninguno.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v3",
+      "statement": "Si Julián suma el dinero de la alcancía con el dinero que le da su mamá, ¿cuánto dinero tendrá para el uniforme?",
+      "context": "Julián tiene 4.500 pesos en una alcancía y su mamá le da 2.800 pesos más para comprar un uniforme escolar en un almacén de Bucaramanga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.300 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 4.500 - 2.800, pero como las dos cantidades se juntan, se debe sumar."
+        },
+        {
+          "letter": "B",
+          "text": "2.800 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste el dinero que dio la mamá y te faltó sumar los 4.500 pesos de la alcancía."
+        },
+        {
+          "letter": "C",
+          "text": "7.300 pesos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La suma es 4.500 + 2.800 = 7.300 pesos, que es lo que tendrá para el uniforme."
+        },
+        {
+          "letter": "D",
+          "text": "8.300 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado de 4.500 + 2.800 es 7.300 y no 8.300."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para sumar números de tres o cuatro cifras se suman primero las unidades, luego las decenas, luego las centenas y por último los miles, llevando a la izquierda cuando el resultado pasa de 9. En 4.500 + 2.800: unidades 0 + 0 = 0; decenas 0 + 0 = 0; centenas 5 + 8 = 13, se escribe 3 y se lleva 1 a los miles; miles 4 + 2 + 1 = 7. El resultado es 7.300. Un control sencillo es comprobar que el resultado sea mayor que la mayor de las dos cantidades sumadas, y 7.300 cumple esa condición.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v4",
+      "statement": "Si el señor Carlos pagó 200.000 pesos y le devolvieron 62.000 pesos, ¿cuánto cuestan los artículos que compró?",
+      "context": "En una ferretería de Medellín, el señor Carlos compró una taladro, un juego de destornilladores y una caja de tornillos, y pagó con un billete de 200.000 pesos. Le devolvieron 62.000 pesos de cambio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "62.000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste el valor del cambio y te faltó restarlo de lo que pagó."
+        },
+        {
+          "letter": "B",
+          "text": "128.000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta está mal calculada: 200.000 menos 62.000 es igual a 138.000 y no 128.000."
+        },
+        {
+          "letter": "C",
+          "text": "262.000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 200.000 + 62.000, pero el cambio se resta porque no fue parte del gasto."
+        },
+        {
+          "letter": "D",
+          "text": "138.000 pesos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La resta es 200.000 - 62.000 = 138.000 pesos, que es el costo de los artículos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los problemas de dinero, la forma de verificar el costo es restar el cambio de lo que se pagó. Si 200.000 menos 62.000 da 138.000, entonces los artículos cuestan 138.000 pesos. Se puede comprobar en el otro sentido: 138.000 + 62.000 = 200.000, y se vuelve a la cantidad con la que se pagó. Esta comprobación, sumar el resultado con lo restado, es muy útil porque detecta los errores de la resta.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v5",
+      "statement": "El bibliotecario dice: \"Esta semana presté menos libros que la semana pasada, donde presté 64\". Analiza los datos: ¿es cierto lo que dice el bibliotecario?",
+      "context": "En una biblioteca de Tunja, el bibliotecario registra los libros prestados en una semana. El lunes prestó 12 libros, el martes 9, el miércoles 15, el jueves 7 y el viernes 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No es cierto, porque esta semana prestó 54 libros y esa cantidad es menor que 64",
+          "is_correct": true,
+          "feedback": "¡Correcto! 12 + 9 + 15 + 7 + 11 = 54, y como 54 es menor que 64, esta semana prestó menos libros."
+        },
+        {
+          "letter": "B",
+          "text": "Sí es cierto, porque cualquier suma de cinco números da menos de 64",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de los cinco días es 54, pero eso no se puede afirmar sin comparar con el dato de la semana pasada."
+        },
+        {
+          "letter": "C",
+          "text": "No es cierto, porque esta semana prestó 64 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El total de esta semana es 54, y el número 64 corresponde a la semana pasada."
+        },
+        {
+          "letter": "D",
+          "text": "Sí es cierto, porque el día que más prestó fue el lunes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El día con más libros fue el miércoles con 15, y ese dato no dice nada sobre el total de la semana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para saber si una afirmación es verdadera hay que calcular el dato y compararlo con lo que se afirma. Primero sumamos los préstamos de los cinco días: 12 + 9 = 21, 21 + 15 = 36, 36 + 7 = 43 y 43 + 11 = 54. Ahora comparamos: 54 es menor que 64, así que el bibliotecario sí acertó al decir que esta semana prestó menos libros. Muchas veces el error aparece porque la persona compara un solo día con el total de la semana, y eso no es una comparación válida.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v6",
+      "statement": "Analiza los datos: ¿el número de panes vendidos en cada hora baja siempre a medida que pasa el tiempo?",
+      "context": "En una panadería de Cali, doña Julia anota cuántos panes vende cada hora de la mañana. A las 7:00 vendió 18 panes, a las 8:00 vendió 26, a las 9:00 vendió 21 y a las 10:00 vendió 24.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, el número baja siempre, porque cada hora se venden menos panes que en la anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre las 7:00 y las 8:00 el número subió de 18 a 26, y entre las 9:00 y las 10:00 subió de 21 a 24."
+        },
+        {
+          "letter": "B",
+          "text": "No, el número no baja siempre, porque entre las 7:00 y las 8:00 el número de panes aumentó",
+          "is_correct": true,
+          "feedback": "¡Correcto! Se pasó de 18 panes a 26, es decir, el número aumentó y no disminuyó, como el enunciado afirma."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la hora más temprana siempre tiene la venta más baja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa regla no se cumple: el menor valor es el de las 9:00 con 21 panes, no el de las 7:00."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque a las 8:00 no se vendió ningún pan",
+          "is_correct": false,
+          "feedback": "Incorrecto. A las 8:00 sí se vendieron 26 panes, que es la cantidad más alta de las cuatro horas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar cómo cambia una cantidad a lo largo del tiempo exige comparar cada valor con el anterior. Los datos son 18, 26, 21 y 24. De 18 a 26 el número aumentó, de 26 a 21 disminuyó, y de 21 a 24 volvió a aumentar. Como en dos momentos el número subió, la afirmación de que baja siempre es falsa. Este tipo de pregunta enseña que una tendencia general no siempre describe todos los casos, y que hay que revisar los datos uno por uno.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v7",
+      "statement": "El niño dice: \"Si compro la camiseta me alcanza y me sobra plata para los calcetines\". ¿Es correcto lo que dice?",
+      "context": "En una tienda de ropa de Bogotá, un niño de ocho años tiene 15.000 pesos y quiere comprar una camiseta que cuesta 12.500 pesos y unos calcetines que cuestan 4.000 pesos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque con 15.000 pesos alcanza para comprar cualquier cosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 15.000 pesos alcanza para algunas cosas, pero no para todas las combinaciones de precios."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 12.500 pesos son menos que 15.000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La camiseta sí le alcanza, pero al sumar las dos cosas el total supera el dinero que tiene."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque comprar la camiseta y los calcetines costaría 16.500 pesos, más de los 15.000 que tiene",
+          "is_correct": true,
+          "feedback": "¡Correcto! 12.500 + 4.000 = 16.500, y como 16.500 es mayor que 15.000, no le alcanza para las dos cosas."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la camiseta cuesta más de lo que él tiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. La camiseta cuesta 12.500 pesos y él tiene 15.000 pesos, así que la camiseta sí le alcanza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para decidir si alcanza la plata es necesario calcular el costo total de todo lo que se quiere comprar y compararlo con el dinero disponible. El costo total es 12.500 + 4.000 = 16.500 pesos. Como el niño tiene 15.000 pesos, le faltan 16.500 - 15.000 = 1.500 pesos. Por eso no le alcanza para las dos cosas, aunque sí le alcanzaría para comprar solo la camiseta. En el presupuesto siempre hay que sumar primero todos los precios antes de concluir.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle-v8",
+      "statement": "Un padre le pregunta al niño cómo calcularía las sillas que sobrarán si se llevan 5 sillas. El niño responde: \"Se restan\". ¿Qué operación completa correctamente la respuesta del niño?",
+      "context": "En un parque de Cartagena, un niño observa que hay 12 sillas ocupadas y 9 sillas vacías en una zona que se va a usar para un evento del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 - 12 - 9 = -16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empezaste restando por las sillas que se llevan, cuando lo que se resta es lo que sale del total."
+        },
+        {
+          "letter": "B",
+          "text": "12 - 5 - 9 = -2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste el número de sillas que se llevan antes de juntar las sillas ocupadas con las vacías."
+        },
+        {
+          "letter": "C",
+          "text": "12 - 9 - 5 = -2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste entre sí dos cantidades que se suman: las sillas ocupadas y las vacías están en el mismo espacio."
+        },
+        {
+          "letter": "D",
+          "text": "12 + 9 - 5 = 16",
+          "is_correct": true,
+          "feedback": "¡Correcto! Primero se juntan las sillas ocupadas y las vacías (12 + 9 = 21) y luego se restan las que se llevan (21 - 5 = 16)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Formular bien una operación es ordenar los pasos del cálculo. Primero juntamos las sillas que ya están ocupadas (12) con las que están vacías (9) porque todas forman parte del total disponible: 12 + 9 = 21 sillas. Como luego se llevan 5 sillas, se restan: 21 - 5 = 16 sillas que quedan. El orden importa: si se resta antes de sumar, se están quitando sillas que nunca se contaron. Comprobar que el resultado sea menor que 21 y positivo ayuda a detectar el error.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W02-suma-y-resta-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
