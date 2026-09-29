@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-24-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.265Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un símbolo dentro de un texto literario?",
+      "context": "En la clase de lectura crítica de Bucaramanga, la profesora prepara una unidad sobre el lenguaje simbólico con ejemplos del entorno escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una palabra que se repite varias veces para llamar la atención del lector.",
+          "is_correct": false,
+          "feedback": "La repetición es un recurso, pero un símbolo es un elemento con significado propio."
+        },
+        {
+          "letter": "B",
+          "text": "Es un personaje que aparece en todos los capítulos de la novela.",
+          "is_correct": false,
+          "feedback": "Un personaje recurrente no es un símbolo: es un personaje con función narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Es una descripción detallada de un objeto que ocupa muchas líneas en el texto.",
+          "is_correct": false,
+          "feedback": "La extensión de la descripción no convierte un objeto en símbolo."
+        },
+        {
+          "letter": "D",
+          "text": "Es un elemento concreto que representa una idea o un valor más amplio dentro de la obra.",
+          "is_correct": true,
+          "feedback": "El símbolo funciona como sustituto de una idea, una emoción o un valor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un símbolo es un elemento del texto, un objeto, una persona, un lugar o un color, que significa algo más allá de sí mismo dentro de la obra. Su valor no está en su forma material, sino en la relación que establece con el resto del texto. Por eso el mismo objeto puede ser símbolo en una obra y un detalle cualquiera en otra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v2",
+      "statement": "En el texto, una paloma blanca aparece cada vez que el protagonista va a tomar una decisión importante. ¿Qué se puede concluir sobre esa paloma?",
+      "context": "En un taller de lectura de Medellín, un grupo analiza el primer capítulo de una novela de aventura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona como símbolo, porque se repite asociada a un mismo tipo de momentos.",
+          "is_correct": true,
+          "feedback": "La repetición vinculada a un significado la convierte en símbolo del valor que representa."
+        },
+        {
+          "letter": "B",
+          "text": "Es un error del autor, porque un personaje no puede aparecer tantas veces.",
+          "is_correct": false,
+          "feedback": "La repetición es deliberada: el autor organiza la recurrencia para producir sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Es una descripción realista, porque las palomas vuelan en las ciudades colombianas.",
+          "is_correct": false,
+          "feedback": "La veracidad del animal no explica su función dentro del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Es una metáfora, porque compara la paloma con el viento que sopla.",
+          "is_correct": false,
+          "feedback": "No hay comparación explícita: la paloma no se iguala a otra cosa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando un elemento reaparece en situaciones que comparten un mismo valor, el lector entiende que ese elemento lo representa. Esa relación sistemática es lo que convierte un detalle en símbolo. Reconocer la asociación permite descubrir el significado que el autor construyó a lo largo de la obra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v3",
+      "statement": "El texto dice: \"El barrio se había puesto gris, como si hubiera perdido el color de la alegría\". ¿Qué recurso se está usando?",
+      "context": "En la biblioteca de Santa Marta, los estudiantes leen un cuento sobre un barrio que cambia de aspecto con el paso de los años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una alegoría, porque aparecen dos personajes que discuten.",
+          "is_correct": false,
+          "feedback": "No hay personajes: hay una comparación mediante la palabra \"como\"."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción enumerativa, porque se mencionan colores en el texto.",
+          "is_correct": false,
+          "feedback": "No hay enumeración: hay una sola imagen con sentido figurado."
+        },
+        {
+          "letter": "C",
+          "text": "Un símbolo, porque el gris representa la tristeza del barrio.",
+          "is_correct": false,
+          "feedback": "El gris podría volverse símbolo en el conjunto, pero aquí la operación central es comparar."
+        },
+        {
+          "letter": "D",
+          "text": "Una metáfora, porque se afirma que el barrio es gris y luego se explica el significado de esa imagen.",
+          "is_correct": true,
+          "feedback": "La construcción \"como si\" establece una comparación que atribuye al barrio un color humano."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La metáfora establece una relación de semejanza entre dos elementos, y aquí se expresa con la fórmula como si. Cuando esa imagen se repite a lo largo de la obra y termina representando una idea, deja de ser una metáfora puntual y se convierte en símbolo. Por eso es importante distinguir la operación de comparar de la operación de representar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v4",
+      "statement": "En una novela sin título, los médicos aparecen representados como dos lobos que pelean por un paciente. ¿Qué es una alegoría?",
+      "context": "En clase de Pasto, la profesora pide explicar el sentido de una alegoría a partir de un fragmento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un recurso que compara dos objetos usando la palabra \"como\".",
+          "is_correct": false,
+          "feedback": "Esa es la definición de una comparación, no la de una alegoría."
+        },
+        {
+          "letter": "B",
+          "text": "Una representación en la que personajes y elementos simbólicos encarnan una idea general.",
+          "is_correct": true,
+          "feedback": "En la alegoría, las figuras no dicen lo que significan: lo encarnan."
+        },
+        {
+          "letter": "C",
+          "text": "Una frase que resume el sentido completo de la obra en pocas palabras.",
+          "is_correct": false,
+          "feedback": "Esa frase sería un tema o una tesis, no una alegoría."
+        },
+        {
+          "letter": "D",
+          "text": "Un recurso que solo se usa en el género poético y nunca en la novela.",
+          "is_correct": false,
+          "feedback": "La alegoría aparece en la novela, en el cuento, en el drama y en la poesía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La alegoría es una representación en la que los personajes, los lugares y los objetos funcionan como figuras de un sentido que no aparece dicho de forma directa. Una novela entera puede ser una alegoría de una situación política o social. Su efecto depende de que el lector comprenda la correspondencia entre la figura y aquello que representa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v5",
+      "statement": "En una obra, una mazorca de maíz representa la abundancia del campo; en la historia del país, la mazorca de maíz se volvió símbolo de la riqueza agrícola. ¿Qué se observa?",
+      "context": "En un proyecto de lectura de Bogotá, un grupo compara un símbolo literario con un símbolo de la historia del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que un mismo elemento puede adoptar valor simbólico en contextos distintos.",
+          "is_correct": true,
+          "feedback": "El significado simbólico depende de la obra y de la historia, no del objeto aislado."
+        },
+        {
+          "letter": "B",
+          "text": "Que la mazorca siempre significa abundancia, con independencia del texto.",
+          "is_correct": false,
+          "feedback": "El mismo objeto puede cambiar de significado según la obra y el momento."
+        },
+        {
+          "letter": "C",
+          "text": "Que los símbolos literarios son menos importantes que los históricos.",
+          "is_correct": false,
+          "feedback": "Ambos tipos de símbolo cumplen una función de representación comparable."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo el contexto histórico permite crear símbolos.",
+          "is_correct": false,
+          "feedback": "Las obras literarias también construyen símbolos a partir de elementos cotidianos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El símbolo no tiene un significado fijo: lo que lo convierte en símbolo es el vínculo que se establece dentro de un texto o dentro de una comunidad. Reconocer que un mismo elemento puede tener valor simbólico en la literatura y en la historia ayuda a ampliar el horizonte de lectura y a valorar la tradición cultural como fuente de imágenes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v6",
+      "statement": "El fragmento A dice: \"La llave quedó sobre la mesa, brillante y sola\". El fragmento B dice: \"Desde que su madre murió, la llave de la casa que ya nadie abre brilla sobre la mesa\". ¿Qué diferencia hay?",
+      "context": "En el aula de Duitama, un grupo compara dos fragmentos que contienen el mismo detalle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En B la llave funciona como símbolo, porque el texto construye alrededor de ella un significado.",
+          "is_correct": true,
+          "feedback": "El contexto convierte el objeto en símbolo; en A solo hay un detalle luminoso."
+        },
+        {
+          "letter": "B",
+          "text": "En A la llave es símbolo, porque la palabra \"brillante\" es un adjetivo valorativo.",
+          "is_correct": false,
+          "feedback": "Un adjetivo por sí solo no convierte un detalle en símbolo."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos usan el mismo recurso, porque ambos mencionan una llave.",
+          "is_correct": false,
+          "feedback": "Nombrar el mismo objeto no garantiza que su función narrativa sea la misma."
+        },
+        {
+          "letter": "D",
+          "text": "En B la llave es una metáfora, porque se compara con el sol.",
+          "is_correct": false,
+          "feedback": "En B no hay comparación explícita: hay una asociación simbólica con la ausencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El mismo elemento cambia de función según el contexto. Cuando el texto organiza la narración alrededor de un objeto y le asigna un valor que rebasa su aspecto material, ese objeto se vuelve símbolo. Por eso la lectura simbólica exige mirar no solo qué aparece en la escena, sino qué carga significativa le da el autor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v7",
+      "statement": "En el texto, el amarillo aparece asociado al atardecer, a las farolas encendidas y a un recuerdo de la abuela. ¿Qué puede concluir un lector crítico?",
+      "context": "En un seminario de lectura crítica de Cali, dos estudiantes discuten sobre el color amarillo en un cuadro del museo municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el amarillo es un símbolo nacional por aparecer en un cuadro.",
+          "is_correct": false,
+          "feedback": "El hecho de estar en un cuadro no convierte el color en símbolo nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Que el amarillo es un símbolo íntimo en esa obra, por la asociación con el recuerdo y la memoria.",
+          "is_correct": true,
+          "feedback": "La acumulación de asociaciones construye un significado que pertenece a esa historia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el amarillo no tiene significado, porque los colores son elementos neutros.",
+          "is_correct": false,
+          "feedback": "En un texto, los colores suelen portar significado y no son neutros."
+        },
+        {
+          "letter": "D",
+          "text": "Que el amarillo representa a Colombia, porque el cuadro es de un museo del país.",
+          "is_correct": false,
+          "feedback": "El lugar del cuadro no define el significado del color dentro de la obra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un lector crítico acumula las asociaciones que el texto construye alrededor de un elemento y observa hacia dónde convergen. Si el amarillo se liga al atardecer, a la luz de las farolas y a la abuela, ese color condensa un conjunto de recuerdos y se convierte en símbolo íntimo. El significado no se importa de fuera: se construye en el interior del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v8",
+      "statement": "En el fragmento \"El parque estaba vacío; nadie pisaba el pasto; la hasta quedó olvidada\", ¿qué efecto produce el uso repetido del pasado?",
+      "context": "En clase de Bogotá, la profesora analiza cómo un tiempo verbal construye el sentido simbólico de un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un hecho que ocurre mientras el lector lee el texto.",
+          "is_correct": false,
+          "feedback": "El tiempo pasado sitúa la escena en un momento-away anterior y terminado."
+        },
+        {
+          "letter": "B",
+          "text": "Proyecta una escena como recuerdo o como situación superada.",
+          "is_correct": true,
+          "feedback": "El pasado en tercera persona convierte la escena en una evocación distante."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte la descripción en una orden dirigida al lector.",
+          "is_correct": false,
+          "feedback": "El texto no pide acciones: solo describe, y lo hace en pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Indica que la acción está a punto de ocurrir en el siguiente párrafo.",
+          "is_correct": false,
+          "feedback": "Nada en el fragmento anuncia un hecho futuro: la escena ya quedó atrás."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo verbal orienta la lectura simbólica. El pasado en tercera persona convierte la escena en evocación o en distancia, y ese matiz puede formar parte del significado de un símbolo. Un lector atento no solo identifica qué se nombra, sino también desde qué momento se dice y con qué intención.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de estas interpretaciones está mejor sustentada por el texto?",
+      "context": "En un concurso escolar de lectura crítica de Valledupar, cuatro estudiantes interpretaban el símbolo central de un cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La cerca rota representa la libertad\", porque toda cerca representa la libertad en las novelas.",
+          "is_correct": false,
+          "feedback": "Es una asociación sin fundamento en el texto: generaliza una regla inexistente."
+        },
+        {
+          "letter": "B",
+          "text": "\"La cerca rota es un símbolo del diálogo\", porque el narrador la menciona una vez.",
+          "is_correct": false,
+          "feedback": "Una sola mención no construye un símbolo: hace falta relación con el resto del texto."
+        },
+        {
+          "letter": "C",
+          "text": "\"La cerca rota es símbolo del vínculo roto, porque el texto la repite tras cada decisión del personaje\".",
+          "is_correct": true,
+          "feedback": "La repetición vinculada a decisiones importantes fundamenta la interpretación simbólica."
+        },
+        {
+          "letter": "D",
+          "text": "\"La cerca rota es símbolo de la capacidad\", porque el autor lo consideró importante.",
+          "is_correct": false,
+          "feedback": "Esta opción no se apoya en ningún elemento observable del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una interpretación simbólica se sostiene cuando se apoya en evidencias del texto: la repetición del elemento, su relación con momentos clave y las palabras que lo acompañan. Las interpretaciones que dependen de asociaciones generales o de suposiciones sobre el autor no pueden comprobarse. Por eso citar el comportamiento del elemento en la obra es lo que da solidez a la lectura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle-v10",
+      "statement": "¿Con qué criterio se puede distinguir mejor una alegoría completa de un símbolo aislado?",
+      "context": "En un proyecto de cierre de período en Popayán, un grupo compara una alegoría política con un símbolo literario aislado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contando cuántas páginas ocupa cada uno dentro de la obra.",
+          "is_correct": false,
+          "feedback": "La extensión no define el género: ambos recursos pueden ocupar poco o mucho espacio."
+        },
+        {
+          "letter": "B",
+          "text": "Comprobando si el autor usa la palabra \"alegoría\" en el primer capítulo.",
+          "is_correct": false,
+          "feedback": "Que el autor lo nombre no garantiza que el recurso esté desarrollado."
+        },
+        {
+          "letter": "C",
+          "text": "Mirando si los personajes y acciones encarnan de manera sostenida una idea general.",
+          "is_correct": true,
+          "feedback": "La alegoría es una estructura: el símbolo es un elemento dentro de una representación."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntando si el texto tiene final feliz o final triste.",
+          "is_correct": false,
+          "feedback": "El desenlace no es lo que distingue una alegoría de un símbolo: la alegoría puede tener cualquier final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia es de alcance y de estructura. La alegoría es una representación sostenida en la que personajes, ambientes y acciones encarnan un sentido general, y por eso ocupa buena parte de la obra. El símbolo es un elemento puntual que condensa un significado y funciona dentro de esa representación más amplia o dentro de una escena concreta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W24-el-simbolo-y-la-alegoria-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
