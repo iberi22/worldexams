@@ -121,7 +121,7 @@ La intención comunicativa del ensayo es argumentativa: el autor quiere que su l
   <!-- feedback: Incorrecto. Es una frase de cierre sintética: condensa el argumento, pero no es la tesis inicial. -->
 
 ### Explicacion Pedagogica
-La tesis suele aparecer al comienzo del ensayo, en el primer o segundo parrafo, y organiza todo lo que viene despues. En el Texto 1, La frase que abre el fragmento enuncia el sentido del cambio constitucional y funciona como criterio de lectura para todo el argumento. Identificarla permite preguntar luego si los datos y las fechas que se presentan son realmente los que sostienen esa afirmación.
+La tesis suele aparecer al comienzo del ensayo, en el primer o segundo parrafo, y organiza todo lo que viene después. En el Texto 1, La frase que abre el fragmento enuncia el sentido del cambio constitucional y funciona como criterio de lectura para todo el argumento. Identificarla permite preguntar luego si los datos y las fechas que se presentan son realmente los que sostienen esa afirmación.
 
 ## Question 5 [D5-D6]
 **ID:** CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v5
@@ -167,7 +167,7 @@ La expresión «más de un siglo» es una afirmación de duración y cumple una 
   <!-- feedback: Incorrecto. El texto no es un manual: es una argumentación con conclusión. -->
 
 ### Explicacion Pedagogica
-El ensayo identifica a un lector concreto, y en este caso es alguien informado que puede seguir la secuencia de argumentos y comprobar las fechas citadas. Definir ese lector permite entender el tono del texto y el tipo de pruebas que resultan pertinentes. Tambien orienta la lectura hacia una pregunta clave: si el lector es exigente, entonces cada afirmación del texto quedara sometida a verificación.
+El ensayo identifica a un lector concreto, y en este caso es alguien informado que puede seguir la secuencia de argumentos y comprobar las fechas citadas. Definir ese lector permite entender el tono del texto y el tipo de pruebas que resultan pertinentes. También orienta la lectura hacia una pregunta clave: si el lector es exigente, entonces cada afirmación del texto quedara sometida a verificación.
 
 ## Question 7 [D5-D6]
 **ID:** CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v7
@@ -259,7 +259,7 @@ En la oración «Una constitución no describe el país: lo organiza», ¿que ef
   <!-- feedback: Incorrecto. No hay comillas ni referencia a otra fuente: es una oración del propio autor. -->
 
 ### Explicacion Pedagogica
-Los dos puntos pueden introducir una explicación, una enumeración o una corrección según lo que venga despues. En la oración de cierre del Texto 1 cumplen la última función: la segunda parte corrige a la primera y le da su sentido exacto. Reconocer ese uso ayuda a entender que el ensayo cierra también con una maniobra retórica que refuerza la postura defendida a lo largo del texto.
+Los dos puntos pueden introducir una explicación, una enumeración o una corrección según lo que venga después. En la oración de cierre del Texto 1 cumplen la última función: la segunda parte corrige a la primera y le da su sentido exacto. Reconocer ese uso ayuda a entender que el ensayo cierra también con una maniobra retórica que refuerza la postura defendida a lo largo del texto.
 
 ## Question 11 [D9-D10]
 **ID:** CO-LC-9-2026-W25-el-genero-ensayistico-y-su-cronologia-en-colombia-001-MASTERY-bundle-v11
