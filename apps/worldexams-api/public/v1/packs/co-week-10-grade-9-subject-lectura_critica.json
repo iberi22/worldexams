@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-10-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:17:45.927Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v1",
+      "statement": "En un texto narrativo, ¿qué determina la posición del narrador?",
+      "context": "En Girardot, la profesora de noveno grado pregunta quién cuenta la historia y desde dónde la cuenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre que el autor firma al final del relato, porque la firma fija la posición del narrador.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la firma identifica al autor, pero no dice desde qué lugar ni con qué grado de involvement se narra."
+        },
+        {
+          "letter": "B",
+          "text": "El grado de participación del narrador en los hechos y el modo en que presenta lo que sabe.",
+          "is_correct": true,
+          "feedback": "Correcto. La posición depende de si el narrador xrxdiparte, testemunha o solo referencia, y de cómo ordena esa información."
+        },
+        {
+          "letter": "C",
+          "text": "El número de páginas que tiene el relato, porque los textos largos permiten una narración más profunda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la posición del narrador: dos relatos breves pueden usar voces muy distintas."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar donde se imprime el texto, porque la ciudad de publicación condiciona la narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar de publicación no determina la voz narrativa: lo hace la relación del narrador con los hechos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La posición del narrador es el lugar desde el cual se cuentan los hechos y el tipo de conocimiento que se tiene de ellos. Un narrador que participa conoce de cerca y puede mostrar emociones; uno que solo referencia conoce de lejos y necesita explicarlo. Reconocer esta diferencia permite entender por qué dos relatos de un mismo asunto no coinciden. En noveno grado, es la base para leer relatos con mirada crítica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v2",
+      "statement": "¿Qué posición del narrador se identifica en el Texto 1?",
+      "context": "En Palmira, el grupo de noveno grado clasifica a los narradores de los dos textos antes de compararlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de un narrador externo que conoce los hechos por referencias de terceros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador dice que estuvo presente y que vio lo queoccurring en la casa: no conoce por referencias."
+        },
+        {
+          "letter": "B",
+          "text": "La de un narrador testigo, que participa en la escena y cuenta lo que vio y lo que sintio.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso de la primera persona y la presencia física en el lugar lo convierten en testigo directo de los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "La de un narrador ausente, que describe la casa sin haber entrado nunca en ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador llegó a la casa, permaneció allí y observó lo que ocurría."
+        },
+        {
+          "letter": "D",
+          "text": "La de un narrador que cuenta con documentos y estadísticas, en lugar de apoyarse solo en su experiencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no incluye datos ni documentos: la fuente es la experiencia directa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la posición del narrador es el paso inicial para leer cualquier relato con criterio. En el Texto 1 el uso constante de la primera persona y la presencia en el lugar indican que el narrador fue testigo. Ese tipo de voz aporta cercanía y permite describir emociones, pero también puede introducir sesgos. En noveno grado, reconocer si el narrador estuvo o no en la escena ayuda a valorar la fuerza de lo que afirma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v3",
+      "statement": "Cuando un narrador cuenta lo que vio y lo que sintió, ¿qué además está comunicando sobre sí mismo?",
+      "context": "En Barrancabermeja, la profesora explica que el narrador también comunica algo sobre su propia manera de ver.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada: la narración de hechos no revela nada sobre la persona que narra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La selección de detalles y el tono de la voz sí dan pistas sobre quien narra, aunque no lo diga de forma explícita."
+        },
+        {
+          "letter": "B",
+          "text": "Que el narrador conoce perfectamente todos los hechos, porque quien estuvo presente lo sabe todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia garantiza conocimiento directo, no conocimiento completo: el relato deja cosas sin explicar."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador es sensitivo a ciertos detalles, y que esos detalles reflejan lo que considera importante.",
+          "is_correct": true,
+          "feedback": "Correcto. Un narrador participante elige qué observar, y esa elección revela el lugar desde el cual está mirando."
+        },
+        {
+          "letter": "D",
+          "text": "Que el narrador es neutral, porque todo relato directo carece de valoración personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el relato directo incluye elecciones y tonos, por lo que nunca es por completo neutral."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El narrador nunca es completamente invisible. La elección de qué hechos contar y con qué tono revela algo sobre quien narra. En el Texto 1, por ejemplo, el narrador recuerda los ojos rojos de la mujer, un detalle que orienta la lectura hacia el sufrimiento del barrio. Reconocer que el relato también habla del narrador es una de las ideas centrales de la lectura crítica. En noveno grado, esto prepara para distinguir el hecho de la interpretación que lo acompaña.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v4",
+      "statement": "El Texto 2 menciona la hora exacta de cada acción, desde las seis y media hasta el mediodía. ¿Qué efecto tiene esa precisión en el relato?",
+      "context": "En San Pedro, los estudiantes de noveno grado comparan cómo se presenta el tiempo en los dos relatos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convierte el relato en un documento técnico, porque las horas exactas exigen un tono de informe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precisión horaria no cambia el género del texto: el relato conserva su tono de crónica."
+        },
+        {
+          "letter": "B",
+          "text": "Da verosimilitud al relato, porque permite al lector contrastar la secuencia de hechos con su propia experiencia del lugar.",
+          "is_correct": true,
+          "feedback": "Correcto. El detalle horario hace que la escena se pueda reconocer y verificar, que es lo que da credibilidad a la crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Debilita el relato, porque al fijar los tiempos deja menos espacio para la imaginación del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la precisión no quita espacio a la imaginación, le da un marco en el que apoyarse mejor."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que el narrador no confaba en su propia memoria y por eso necesita consultarla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no explica cómo conoce las horas: la precisión se presenta como parte de la crónica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La precisión temporal es uno de los recursos que dan verosimilitud a un relato de hechos. Cuando un narrador indica la hora y la secuencia, el lector puede contrastar la escena con lo que conoce del lugar. En la crónica, ese detalle es un procedimiento habitual que refuerza la credibilidad de lo narrado. Reconocerlo ayuda a valorar el relato y a no confundir exactitud conuled boring neutralidad. En noveno grado, es un criterio sencillo y útil para evaluar relatos de lugares reales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v5",
+      "statement": "El Texto 1 termina con «el agua es un asunto serio». ¿Qué cambio de posición del narrador produciría la frase «el agua fue un asunto serio»?",
+      "context": "En La Dorada, el grupo de noveno grado reescribe la última oración del Texto 1 con una posición distinta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno: el cambio de tiempo verbal no altera nada, porque el sentido final es el mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo verbal sí cambia la lectura: el presente afirma, y el pasado sitúa la afirmación en otro momento."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte la frase en una afirmación individual, porque el pasado la presenta como una opinión personal del narrador.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de tiempo no la vuelve más personal: la mantiene dentro de la voz del narrador."
+        },
+        {
+          "letter": "C",
+          "text": "Sitúa la conclusión en el pasado, lo que sugiere que la percepción del narrador sobre el agua cambió con la experiencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El uso del pasado indica que aquella convicción pertenece a un momento anterior y que hoy puede ser distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Elimina la proyección hacia el futuro, porque el pasado no permite anticipar resultados sobre el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase sigue siendo una valoración; lo que cambia es el tiempo en que se sitúa, no su carácter general."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tiempo verbal forma parte de la posición del narrador, porque indica desde cuándo y hasta cuándo se sostiene su convicción. En el Texto 1 el presente mantiene viva la convicción aprendida; al pasarlo al pasado, el relato sugiere que esa convicción fue una etapa. Reconocer este matiz ayuda a entender cómo un texto cuenta su propia historia. En noveno grado, es un detalle fino que ayuda a entender por qué un narrador a veces toma distancia de lo que antes afirmaba.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia de efecto se puede esperar entre el Texto 1 y el Texto 2?",
+      "context": "En Quibdó, el grupo de noveno grado compara el efecto que produce cada relato en quien lo lee.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna: los dos textos relat hechos del barrio y por eso producen la misma reacción en el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos relatan hechos, pero lo hacen con voces distintas y eso cambia la reacción queBuscan."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 1 emociona más, porque incluye el diálogo directo de alguna persona de la casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 1 no incluye ninguna voz ajena transcrita: su fuerza viene de la observación directa."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos buscan el mismo efecto: dar a conocer un problema de la comunidad con datos objetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos incluye datos objetivos: ambos construyen la efecto con imágenes."
+        },
+        {
+          "letter": "D",
+          "text": "El Texto 1 provoca identificación al llevar a una escena privada, mientras el Texto 2 orienta a ver el trabajo cotidiano de otros.",
+          "is_correct": true,
+          "feedback": "Correcto: cada relato construye una mirada distinta, y esa diferencia explica el efecto que deja en el lector."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El efecto de un relato depende de la distancia que el narrador pone entre el lector y los hechos. En el Texto 1 la escena es íntima y el lector se acerca a una familia concreta, lo que genera identificación. En el Texto 2 la mirada se dirige al trabajo oculto de una vendedora, lo que orienta la atención hacia lo cotidiano. Reconocer esa diferencia ayuda a explicar por qué dos textos sobre el mismo barrio se leen de manera distinta. En noveno grado, es una herramienta para comparar relatos con criterio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v7",
+      "statement": "En el Texto 1, el narrador dice «yo llegué» y «me quedé». ¿Qué efecto tiene el uso de la primera persona?",
+      "context": "en Armenia, los estudiantes de noveno grado estudian el uso de la primera persona en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señala que el narrador estuvo en el lugar y la experiencia de primera mano.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera persona afirma presencia y hace que el relato se apoye en la experiencia vivida."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el relato en una crónica periodística, porque la primera persona es obligatoria en ese género.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona no define el género: puede aparecer en un relato, en una novela o en una crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el relato es ficción, porque en la realidad nadie recuerda su propia vida de esa manera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona no determina la ficción: también la usan los testimonios y las crónicas."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce la credibilidad del narrador, porque el uso de yo impide que el texto tenga objectivity.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el uso de yo no impide la objetividad, y en una crónica indica justamente presencia en el lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La primera persona es una señal directa de que quien narra estuvo presente y puede dar cuenta desde la experiencia. En el Texto 1 esa marca apoya la fuerza de lo que se cuenta, porque el lector sabe que el narrador vio la escena. No se trata de que el yo sustituya al dato duro, sino de que indique el origen del conocimiento. En noveno grado, entender esta diferencia ayuda a valorar relatos y testimonios con una precisión que antes no se tenía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v8",
+      "statement": "El Texto 2 termina diciendo que ese es el trabajo que no se ve. ¿Qué hace esa frase con lo que el lector acaba de leer?",
+      "context": "En Santa Marta, el grupo de noveno grado analiza por qué el Texto 2 cierra con una reflexión general.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce una contradicción, porque el texto había descrito un trabajo visible y ahora afirma que no lo es.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción: el texto muestra que el trabajo no es visible para quien no lo realiza."
+        },
+        {
+          "letter": "B",
+          "text": "Generaliza la escena concreta y convierte un hecho del mercado en una reflexión sobre el trabajo cotidiano de todos.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase amplía el alcance del relato y conecta la escena del mercado con la experiencia diaria del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Debilita el relato, porque al terminar en una idea general le quita el detalle concreto que lo hacía valioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre no elimina los detalles: los usa como base para una reflexión más amplia."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la crónica en un sermón, porque el narrador predica una lección moral al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión es breve y está apoyada en la escena, no es una prédica ni una lección moral explícita."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un cierre reflexivo cumple la función de ampliar el alcance de lo narrado. En el caso del Texto 2, la frase final recoge el gesto de la señora Rosa y lo convierte en una reflexión sobre el trabajo que nadie ve. Esa ampliación es propia de la crónica y distingue este género de un relato cerrado en sí mismo. Reconocerla ayuda a explicar por qué el lector recuerda el texto mucho después de leerlo. En noveno grado, es un rasgo estilístico que conviene identificar y valorar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v9",
+      "statement": "¿Qué observación sostiene mejor la comparación entre los dos relatos?",
+      "context": "En Chía, el semillero de lectura de noveno grado compara los dos textos para valorar la confianza que cada uno genera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Texto 1 es más confiable porque el narrador es testigo, y el Texto 2 no aporta ninguna prueba de lo que dice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Texto 2 aporta una escena con hora, lugar y acción, que es un tipo de prueba equivalente."
+        },
+        {
+          "letter": "B",
+          "text": "El Texto 2 es más confiable porque su narración es más ordenada y su última frase resume lo ocurrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calidad de la redacción no garantiza la veracidad: la reflexión final es una interpretación."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos construyen confianza con recursos distintos, y esa diferencia hace que exijan formas distintas de verificación.",
+          "is_correct": true,
+          "feedback": "Correcto: cada relato convence con su propio tipo de detalle, y por eso conviene comprobarlos de manera diferente."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos son igualmente confiables porque los dos terminan con una reflexión sobre el trabajo de los demás.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el Texto 2 termina con una reflexión: el Texto 1 cierra con una convicción del narrador."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada relato convence con los recursos propios de su posición. El Texto 1 apoya su versión en la experiencia vivida y en los gestos que el narrador recuerda. El Texto 2 la apoya en la precisión de la escena y en la indicación de las horas. La comparación muestra que hay formas distintas de comprobar lo que se afirma. Reconocerlo evita pedir a un texto pruebas de otro tipo, que es un error frecuente al valorar relatos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 1, el narrador menciona que «vi que la mujer tenía los ojos rojos, aunque no dijera nada». ¿Qué se puede inferir de ese detalle?",
+      "context": "En Apartadó, el grupo de noveno grado examina un detalle del Texto 1 que parece poco importante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la mujer estaba enferma y por eso tenía los ojos rojos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no dice eso, y una inferencia de ese tipo excede lo que el relato permite."
+        },
+        {
+          "letter": "B",
+          "text": "Que el narrador comprendió algo que la mujer no lo dijo, y que por eso calla y lo cuenta por nosotros.",
+          "is_correct": true,
+          "feedback": "Correcto. El detalle revela que el narrador interpreta lo que observa y que comunica ese significado sin explicarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Que el narrador estaba inventando, porque un relato que no muestra|–showshowhideShowHide \",\"\"|\" el diálogo no puede ser verdadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de diálogo no invalida un relato: el narrador comunica con gestos y descripciones."
+        },
+        {
+          "letter": "D",
+          "text": "Que la familia Pérez estaba en desacuerdo con el narrador, porque los ojos rojos muestran enojo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no atribuye el enojo ni habla de desacuerdo: esa lectura excede lo que se puede inferir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los detalles que un narrador elige mencionar suelen decir tanto como los que deja fuera. En el Texto 1, la mención de los ojos rojos y la frase «aunque no dijera nada» muestran que el narrador interpreta la escena. Su relato no se limita a copiar lo ocurrido: comunica el significado que le da. Reconocer esta operación es esencial para leer con mirada crítica. En noveno grado, permite distinguir lo que el texto muestra de lo que el narrador concluye.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v11",
+      "statement": "Un grupo presenta un relato que empieza en primera persona y termina con una reflexión general sobre el agua en el barrio. ¿Qué juicio merece el texto?",
+      "context": "En Tuluá, la comisión de noveno grado decide si un relato propio merece publicarse en la revista del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede publicarse, porque combina un relato basado en la experiencia con un cierre que amplía el alcance de lo narrado.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa estructura es propia de un texto bien construido: la escena da verosimilitud y el cierre da alcance."
+        },
+        {
+          "letter": "B",
+          "text": "No puede publicarse, porque un relato en primera persona no admite una reflexión final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona se combina bien con un cierre reflexivo: de hecho, esa combinación es habitual."
+        },
+        {
+          "letter": "C",
+          "text": "Puede publicarse, porque la reflexión final garantiza que el relato sea verdadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reflexión es una interpretación del narrador y no garantiza por sí misma la verdad de lo ocurrido."
+        },
+        {
+          "letter": "D",
+          "text": "No puede publicarse, porque toda reflexión general vuelve confuso un relato que empezó con una escena concreta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre amplía el relato, pero no lo vuelve confuso: esa ampliación es un recurso reconocido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un relato narrativo exige valorar sus dos planos: la escena y la interpretación que la acompaña. Una buena construcción combina la verosimilitud de lo ocurrido con una lectura que orienta al lector. La reflexión final cumple esa segunda función, y no contradice la primera. Reconocer que ambos planos pueden convivir es lo que permite hacer un juicio equilibrado. En noveno grado, esto se aplica tanto a la lectura como a la escritura de relatos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle-v12",
+      "statement": "Una versión de la escena del mercado cuenta que un niño dejó la basura y siguió de largo. Otra versión cuenta que la señora Rosa la recogió y que el mercado terminó limpio. ¿Qué procedimiento permite evaluar mejor ambas versiones?",
+      "context": "En Duitama, el semillero de lectura de noveno grado prepara un informe sobre dos versiones de una misma escena de mercado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir la versión más larga, porque un texto más extenso tiene más detalles y por eso resulta más confiable.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no mide la confianza: un texto largo puede añadir detalles sin verificarlos."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir la versión que resulta más emocional, porque la emoción es una señal de verdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La emoción es un recurso del relato, no un criterio de verificación."
+        },
+        {
+          "letter": "C",
+          "text": "Contrastar los detalles verificables con fuentes de la época, como los registros del mercado y los testimonios de los vendedores.",
+          "is_correct": true,
+          "feedback": "Correcto. Contrastar los datos concretos con fuentes independientes es lo que permite sostener una versión sobre otra."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir la versión escrita en segunda persona, porque los relatos en segunda persona son más objetivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la persona narrativa no determina la objetividad, y ese criterio no permite contrastar ninguna versión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos versiones de una misma escena difieren, la evaluación exige buscar fuentes que permitan contrastar los detalles concretos. Cada versión aporta datos verificables, como la hora, el lugar o la acción realizada, y esos datos se pueden confrontar con otras fuentes. Ese cruce es lo que convierte la lectura comparada en un método. En noveno grado, aplicarlo enseña a no decidir solo por la fuerza del relato, sino por la solidez de los hechos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W10-el-texto-narrativo-y-el-discurso-del-narrador-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

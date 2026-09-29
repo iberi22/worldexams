@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-8-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:17:45.926Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes corresponde a la secuencia propia de un párrafo argumentativo?",
+      "context": "En Armenia, la profesora de noveno grado pide a sus estudiantes que listen con el oído los cambios de tema dentro de un párrafo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Título, subtítulo, ilustración y cierre, que son los cuatro apartados que todo texto debe tener.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa estructura pertenece a la organización de un texto completo, no a la secuencia interna de un párrafo."
+        },
+        {
+          "letter": "B",
+          "text": "Tesis, argumento, evidencia y conclusión, que ordenan la defensa de una idea dentro de un solo párrafo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esas cuatro partes permiten seguir el razonamiento completo de una idea sin salir del párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Sujeto, verbo y sustantivo, porque la estructura de un párrafo se define por su oración principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la estructura de una oración, no la secuencia argumentativa completa de un párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Antecedente, consequentia y conclusión, que son las partes obligatorias de todo razonamiento escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El antecedente y el consecuencia no son partes fijas de un párrafo, y la lista de la opción es imprecisa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un párrafo argumentativo organiza internamente una defensa breve, y reconocer su secuencia ayuda a no perder el hilo de la lectura. La tesis anuncia lo que se va a sostener, el argumento explica por qué, la evidencia respalda y la conclusión cierra el razonamiento. No todos los párrafos en orden estricto, pero sí es posible rastrear esas funciones. En noveno grado conocer este esquema facilita tanto el análisis de lo que se lee como la organización de lo que se escribe.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, ¿cuál de las siguientes oraciones funciona como tesis del párrafo?",
+      "context": "En Tuluá, el grupo de noveno grado subraya, en el Texto 1, la oración que expresa lo que el autor defiende.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quien lee por gusto se detiene, pregunta y vuelve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración es un ejemplo que distingue a los dos tipos de lector: sostiene la tesis, pero no la enuncia."
+        },
+        {
+          "letter": "B",
+          "text": "Un espacio así no resuelve el problema de fondo, pero sí cambia la relación de los estudiantes con los libros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración matiza una limitación y cierra el párrafo: funciona como conclusión, no como tesis."
+        },
+        {
+          "letter": "C",
+          "text": "La lectura en noveno grado llega por obligación y no por gusto, y esa diferencia se nota en todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oración describe una contraste entre dos actitudes, pero no es la defensa central del párrafo."
+        },
+        {
+          "letter": "D",
+          "text": "Por eso vale la pena organizar un club de lectura en el patio, no como privilegio para los que ya leen bien, sino como punto de partida para los que no encuentran motivo.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta oración propone la acción que el párrafo defiende y establece la razón por la que conviene realizarla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identificar la tesis de un párrafo consiste en localizar la oración que asume una posición y no solo la que describe una situación. En el Texto 1 esa función la cumple la propuesta del club de lectura, que además se apoya en la comparación con los que ya leen bien. Reconocerla permite distinguirla de los ejemplos y de la conclusión que la acompaña. Esta distinción es el punto de partida para comprobar si el resto del párrafo la sostiene.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la función comunicativa principal del Texto 2?",
+      "context": "En Sogamoso, la profesora de noveno grado muestra cómo un párrafo puede describir sin tomar partido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar al lector sobre cómo es y cómo funciona la biblioteca pública de la comuna.",
+          "is_correct": true,
+          "feedback": "Correcto. El párrafo describe espacios, actividades y routines del horario sin defender ninguna idea."
+        },
+        {
+          "letter": "B",
+          "text": "Convencer al lector de que la biblioteca pública debería abrir los domingos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no propone ningún cambio: se limita a describir lo que ya existe."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar al municipio por mantener la biblioteca abierta solo entre semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto menciona un cierre en diciembre como un dato del horario, no como una crítica."
+        },
+        {
+          "letter": "D",
+          "text": "Recomendar la lectura de libros a los niños de la comuna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no contiene ninguna recomendación: su función es puramente informativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un párrafo expositivo informa y describe, mientras que uno argumentativo defiende una idea. En el Texto 2 no hay tesis, ni razones para defenderla, niValoración del autor. Las referencias al horario y al cuaderno de préstamos son datos que ordenan la descripción del espacio y su funcionamiento. Saber cuándo un texto no toma partido evita inventar intenciones donde no las hay. En noveno grado, esta distinción es la base para clasificar correctamente los textos de una prueba.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v4",
+      "statement": "Un párrafo dice: «La biblioteca del centro tiene mil doscientos títulos y cuarenta sillas, y el promedio de visitas es de cien. Con esos datos, la biblioteca es el espacio más usado del barrio». ¿Cómo debe clasificarse ese párrafo?",
+      "context": "En Villamayor, los estudiantes de noveno grado reciben cuatro párrafos sin título y deben clasificarlos por su función.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expositivo, porque todo su contenido son datos sobre el número de títulos, las sillas y las visitas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos están ahí, pero la última oración los usa para defender una conclusión sobre el barrio."
+        },
+        {
+          "letter": "B",
+          "text": "Expositivo y argumentativo a la vez, porque todo párrafo puede pertenecer a las dos categorías sin problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un párrafo tiene una función dominante: aquí los datos se subordinan a una conclusión valorativa."
+        },
+        {
+          "letter": "C",
+          "text": "Argumentativo, porque presenta evidencia para sostener la valoración de que la biblioteca es el espacio más usado.",
+          "is_correct": true,
+          "feedback": "Correcto. Los datos funcionan como respaldo de una afirmación general, que es lo propio de un párrafo argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Narrativo, porque cuenta la historia de la biblioteca y de sus visitantes a lo largo del tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay personajes ni secuencia de hechos: hay datos que se usan para defender una idea."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clasificar un párrafo exige mirar para qué se usan sus elementos, y no solo qué elementos tiene. Un mismo conjunto de datos puede servir para describir o para defender, según la conclusión a la que sirven. En este caso la cifra de visitas se convierte en evidencia de una valoración sobre el barrio. Por eso la presencia de datos no convierte automáticamente un párrafo en expositivo. Reconocer la subordinación de los datos a la tesis es una habilidad esencial en noveno grado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 1, ¿qué función cumple la expresión «por eso» dentro del párrafo?",
+      "context": "En Quibdó, el grupo de noveno grado busca el conector que hace visible el salto entre la observación y la propuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Introduce un ejemplo concreto que ilustra la tesis defendida en la oración anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión no introduce un ejemplo: marca una relación de consecuencia entre dos afirmaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Conecta la observación sobre las dos formas de leer con la propuesta de crear un club de lectura.",
+          "is_correct": true,
+          "feedback": "Correcto. El conector convierte la observación en fundamento de la propuesta, que es lo que organiza el párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "Concede un punto a la posición contraria para después refutarla con un argumento más fuerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no presenta una posición contraria: el conector solo señala consecuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Cierra el párrafo con una conclusión que modera el tono de la propuesta presentada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La moderación aparece al final, con otra oración: «por eso» aparece a mitad del párrafo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores lógicos son las señales que leen al lector la estructura interna de un párrafo. En el Texto 1 la expresión «por eso» marca la consecuencia, y con ella la observación inicial se convierte en fundamento de la propuesta. Detectar ese salto permite entender por qué el párrafo no es una lista de frases sueltas. En noveno grado, reconocer el papel de los conectores mejora tanto la comprensión como la propia escritura argumentativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v6",
+      "statement": "En un texto argumentativo de seis párrafos, ¿qué criterio permite identificar con mayor seguridad cuál de ellos contiene la tesis principal?",
+      "context": "En Girardot, los estudiantes de noveno grado revisan un texto largo y se preguntan qué función cumple cada párrafo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El párrafo que ocupa el segundo lugar, porque en todo texto argumentativo la tesis aparece al final del primer párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis puede aparecer en cualquier momento: la posición no es un criterio fiable."
+        },
+        {
+          "letter": "B",
+          "text": "El párrafo más largo, porque el que más palabras tiene es el que más información aporta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la función: un párrafo largo puede ser solo descriptivo."
+        },
+        {
+          "letter": "C",
+          "text": "El párrafo que no menciona a nadie más, porque todo tesis carece de nombres propios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de nombres propios no caracteriza a los párrafos que sostienen la tesis."
+        },
+        {
+          "letter": "D",
+          "text": "El párrafo del que dependen los demás, es decir, aquel que presenta la idea que los otros dependen de él.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis se reconoce porque organiza lo que viene después y porque los demás párrafos se relacionan con ella."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un texto argumentativo la tesis no siempre ocupa el primer párrafo ni el más visible. Una forma segura de localizarla es observar qué idea reaparece, se apoya o se limita en los demás párrafos. Ese párrafo es el que funciona como eje de la organización. Esta comprobación es más confiable que apoyarse en la posición o en la extensión del párrafo. En noveno grado, aplicarla permite localizar con seguridad el centro de cualquier texto largo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v7",
+      "statement": "Un párrafo termina con la frase «la situacion es complicada». ¿Cuál de las siguientes es una conclusión mejor construida para el mismo párrafo?",
+      "context": "En El Espinal, el grupo de noveno grado reescribe la conclusión de un párrafo para hacerla más precisa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La empresa municipal no publica los tramos afectados, y esa omisión impide a los usuarios organizarse antes del corte.",
+          "is_correct": true,
+          "feedback": "Correcto. La nueva oración señala la causa concreta y la consecuencia práctica, en lugar de usar una expresión vaga."
+        },
+        {
+          "letter": "B",
+          "text": "La situación es grave, y por eso hay que tomar medidas claras con respecto al servicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la expresión sigue siendo general y añade una exigencia que el párrafo no había establecido."
+        },
+        {
+          "letter": "C",
+          "text": "En conclusión, la situación actual no puede resolverse con los recursos disponibles, como ya se ha visto en los anteriores consideraciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concluye con una afirmación sin respaldo en el párrafo y con una fórmula vacía de contenido."
+        },
+        {
+          "letter": "D",
+          "text": "Como se ha demostrado, todo el problema se origina en la mala gestión de los últimos años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atribuye una causa general que el párrafo no había demostrado y generaliza sin evidencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una conclusión bien construida resume lo que el párrafo ha sostenido y no añade afirmaciones nuevas. La frase «la situación es complicada» es demasiado vaga: no dice qué situación ni por qué importa. Reescribirla exige volver al párrafo y extraer de allí la causa y la consecuencia que efectivamente se sostiene. En noveno grado, este ejercicio de reescritura mejora tanto los trabajos escritos como la lectura crítica de textos ajenos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v8",
+      "statement": "Un párrafo dice: «El transporte público es un problema serio. Este texto analiza tres causas de ese problema. La primera causa es el número de rutas». ¿Qué problema tiene este párrafo?",
+      "context": "en Chía, el semillero de lectura de noveno grado revisa si un párrafo de un trabajo propio tiene sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene problema, porque el párrafo anuncia su estructura y luego la cumple en la primera oración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo anuncia tres causas y solo presenta una: el anuncio no se cumple."
+        },
+        {
+          "letter": "B",
+          "text": "La ruptura de coherencia, porque el párrafo anuncia tres causas y solo desarrolla una.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay una promesa de estructura que el contenido no cumple, y esa distancia es lo que impide seguir el razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "El problema es que usa la primera persona, cuando un párrafo académico debería impersonal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo no usa la primera persona: el problema que tiene es de coherencia interna."
+        },
+        {
+          "letter": "D",
+          "text": "El problema es que la tesis queda sin defender, porque el párrafo no menciona ninguna fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un párrafo breve puede no citar fuentes: aquí el defecto es que no desarrolla lo que promete."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar la coherencia interna de un párrafo consiste en comparar lo que se anuncia con lo que efectivamente se desarrolla. Cuando el párrafo declara que analizará tres causas y solo presenta una, el lector queda sin la estructura prometida. Esa ruptura se llama incoherencia y es una falla frecuente en trabajos de noveno grado. Reconocerla en textos propios y ajenos es el primer paso para corregirla y para leer con criterio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v9",
+      "statement": "En el Texto 1, el autor anticipa la objeción de que un club de lectura no resuelve el problema de fondo. ¿Qué función tiene esa anticipación?",
+      "context": "En Barrancabermeja, los estudiantes de noveno grado estudian cómo un párrafo bien armado resiste una crítica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilita la tesis, porque muestra que el propio autor sabe que su propuesta no sirve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anticipar una limitación no debilita la defensa: la vuelve más honesta y, con ello, más convincente."
+        },
+        {
+          "letter": "B",
+          "text": "Refuerza la tesis, porque demuestra que el autor conoce los límites de su propuesta y aun así sostiene su valor.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer una limitación y sostener la propuesta pese a ella aumenta la credibilidad del argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia la tesis, porque el autor termina defendiendo que ningún club de lectura sirve para nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo mantiene su propuesta y solo matiza qué esperar de ella: no cambia de posición."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el párrafo en expositivo, porque ya no hay ninguna afirmación que defender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sigue habiendo una defensa: lo que se agrega es una precisión sobre sus límites."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Anticipar la objeción más fuerte es un recurso que refuerza la argumentación en lugar de debilitarla. Al reconocer que la propuesta no resuelve todo, el autor evita que el lector lo descarte por esa misma razón. Después vuelve a sostener el valor de lo que sí funciona. Este movimiento, propio de los buenos textos argumentativos, se observa con claridad en el Texto 1. Reconocerlo ayuda a evaluar la calidad de una defensa y a construir argumentos más sólidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v10",
+      "statement": "Un párrafo dice: «Doña Gladys preguntó por el agua, el operador respondió que había una falla y ella pidió el teléfono de la empresa». ¿Qué diferencia estructural presenta frente a un párrafo como el del Texto 1?",
+      "context": "En Lebrija, el grupo de noveno grado compara cómo está construido un párrafo monológico y uno dialógico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No presenta ninguna diferencia, porque en ambos casos el párrafo defiende una idea y la apoya con razones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia es estructural: aquí las intervenciones se alternan y no hay una sola voz que defienda."
+        },
+        {
+          "letter": "B",
+          "text": "Solo cambia el número de oraciones, porque el párrafo dialógico necesita más espacio para desarrollar la misma información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia no está en la cantidad de oraciones, sino en cómo se distribuyen las voces."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta una tesis al final, mientras que en el Texto 1 la tesis aparece a mitad del párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El párrafo citado no enuncia ninguna tesis: se limita a registrar un intercambio de voces."
+        },
+        {
+          "letter": "D",
+          "text": "Organiza la información por turnos de habla, mientras que el párrafo del Texto 1 la organiza por partes de una argumentación.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia de voces es el principio organizador del primero, mientras que en el segundo manda el razonamiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "No todos los párrafos se organizan por la misma lógica. Un párrafo monológico sigue el curso de una argumentación: tesis, razones y cierre. Un párrafo dialógico sigue el curso de los turnos de habla, de modo que la información se revela por el contraste entre dos voces. Comparar ambos formatos ayuda a no forzar una tesis donde no la hay. En noveno grado, entender esta diferencia ayuda a reconocer el estilo de un relato breve o de una entrevista.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v11",
+      "statement": "Un grupo presenta dos párrafos: el primero afirma que «el transporte público es malo y hay que cambiarlo»; el segundo afirma lo mismo, explica la causa que investigaron, reconoce un límite y propone un paso concreto. ¿Cuál debe publicarse y con qué criterio?",
+      "context": "En San Gil, la comisión de noveno grado debe elegir el párrafo que mejor exponga su postura ante el concejo municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo, porque cumple las cuatro funciones de un párrafo argumentativo: enuncia, explica, acota y propone.",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación muestra que el segundo párrafo es verificable, matizado y orientado a una acción posible."
+        },
+        {
+          "letter": "B",
+          "text": "El primero, porque es más corto y resulta más fácil de leer en una reunión corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad no sustituye al argumento: sin razones, el párrafo no sostiene lo que afirma."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo, porque concede un límite, y todo límite demuestra que el autor dudó de su propia tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reconocer un límite no es dudar: es mostrar que el argumento se sostiene con alcances conocidos."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos cumplen igual, porque la diferencia entre ellos es solo de estilo y no afecta la calidad de la defensa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia no es de estilo: uno ofrece razones y el otro solo una afirmación sin sustento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un párrafo argumentativo exige comprobar si cumple las funciones que lo hacen una defensa y no una simple afirmación. El segundo párrafo enuncia una postura, ofrece una causa investigada, delimita su alcance y propone un paso. Ese conjunto de funciones lo vuelve utilizable ante una autoridad que pide rendición de cuentas. En noveno grado, aplicar esos criterios al propio trabajo y al de los demás es lo que convierte un párrafo en un argumento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle-v12",
+      "statement": "Un párrafo de un texto histórico afirma que «los trabajadores de la fábrica aceptaron de mejor manera el cambio de turno». ¿Qué criterio debe usarse para evaluar si esa frase describe bien a quienes viven hoy?",
+      "context": "En Pitalito, el semillero de lectura de noveno grado escribe un informe que cita un texto histórico de 1985.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La claridad de la frase, porque un texto antiguo bien escrito resulta automáticamente válido para el presente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La claridad no sustituye la vigencia: un texto puede escribirse muy bien y estar superado por los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "La cercanía en el tiempo, porque solo un texto reciente puede explicar el comportamiento de las personas de hoy.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto antiguo puede conservar valor explicativo: lo relevante es su coherencia con lo que sabemos hoy."
+        },
+        {
+          "letter": "C",
+          "text": "La correspondencia entre lo que el texto dice y lo que muestran otras fuentes de la época y los estudios posteriores.",
+          "is_correct": true,
+          "feedback": "Correcto. Contrastar la afirmación con otras fuentes permite medir su valor histórico y decidir si sigue siendo útil."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de páginas del texto, porque los textos extensos tienen más posibilidades de equivocarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no mide el valor histórico: lo que importa es el respaldo de la afirmación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto de archivo no se acepta ni se descarta por su fecha, sino por lo que su contenido puede aportar hoy. La afirmación sobre el cambio de turno es un caso donde hace falta contrastar con otras fuentes de la época y con estudios posteriores. Ese cruce de evidencias permite conservar lo que sigue siendo válido y marcar lo que quedó superado. En noveno grado, este criterio prepara para trabajar con documentos históricos sin caer en dos extremos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W08-la-estructura-del-parrafo-argumentativo-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

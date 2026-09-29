@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-11-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:17:45.927Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la intertextualidad?",
+      "context": "En Rionegro, la profesora de noveno grado explica que leer bien exige saber qué textos están dialogando dentro del que se tiene en la mano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la dificultad que presenta un texto cuando usa un vocabulario poco conocido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad de las palabras es un asunto de acceso al texto, no una relación entre textos."
+        },
+        {
+          "letter": "B",
+          "text": "Es la relación que un texto establece con otros textos, a los que cita, adapta o responde.",
+          "is_correct": true,
+          "feedback": "Correcto. La intertextualidad incluye la cita, la referencia, la paráfrasis y las respuestas a otros autores."
+        },
+        {
+          "letter": "C",
+          "text": "Es la costumbre de escribir varios textos sobre el mismo tema en un mismo periodo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escribir sobre el mismo asunto no genera por sí mismo una relación intertextual explícita."
+        },
+        {
+          "letter": "D",
+          "text": "Es el número de textos que un autor leyó antes de escribir el suyo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que importa es la relación que el texto establece, no la cantidad de lecturas previas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intertextualidad es el conjunto de relaciones que un texto mantiene con otros textos, ya sea porque los cita, los parafrasea, los critica o los usa como modelo. Reconocer estas relaciones permite entender que ninguna lectura es una lectura solitaria. También explica por qué un texto puede tener varias claves de lectura según los textos con los que se conecta. En noveno grado, es la base para trabajar con citas, referencias y fuentes de manera crítica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 2, la mención del informe de Planeación y del registro de la empresa de acueducto corresponde a:",
+      "context": "En Villavicencio, el grupo de noveno grado revisa cómo el Texto 2 presenta sus datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cita textual, porque el texto reproduce literalmente los documentos mencionados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El informe no reproduce frases de los documentos: toma de ellos algunos datos para cruzarlos."
+        },
+        {
+          "letter": "B",
+          "text": "Una ironía, porque el informe critica implícitamente a los organismos oficiales que menciona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no ironiza con las fuentes: las utiliza como respaldo de sus propias conclusiones."
+        },
+        {
+          "letter": "C",
+          "text": "Una paráfrasis de una sola obra, porque todo el texto se deriva de un único documento extenso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto utiliza dos fuentes distintas y las combina: no se trata de una sola obra resumida."
+        },
+        {
+          "letter": "D",
+          "text": "Una referencia a fuentes, porque el texto indica de dónde provienen los datos que utiliza.",
+          "is_correct": true,
+          "feedback": "Correcto. Nombra las fuentes y explica qué toma de cada una, que es lo propio de una referencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Referenciar una fuente es indicar de dónde viene la información que un texto utiliza. En el caso del Texto 2, esa referencia es explícita porque se nombran los organismos y se explica qué se toma de cada uno. Una referencia bien hecha permite rastrear los datos hasta su origen. Reconocer este tipo de relación textual es lo que permite comprobar un trabajo basado en datos. En noveno grado, esta habilidad sostiene todo el trabajo con fuentes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la diferencia entre citar un texto y parafrasearlo?",
+      "context": "En Puerto Tejada, la profesora de noveno grado explica qué distingue una cita de una paráfrasis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia: las dos operaciones consisten en mencionar a otro autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos mencionan a otro autor, pero una reproduce sus palabras y la otra reescribe su contenido."
+        },
+        {
+          "letter": "B",
+          "text": "La paráfrasis solo puede usarse con textos antiguos, y la cita con textos recientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ambas formas se emplean con cualquier tipo de texto, antiguo o reciente."
+        },
+        {
+          "letter": "C",
+          "text": "La cita siempre es más larga que la paráfrasis, porque necesita más espacio para explicarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extensión depende del propósito del texto y no de la forma de relación con la fuente."
+        },
+        {
+          "letter": "D",
+          "text": "La cita reproduce las palabras exactas del otro texto, mientras la paráfrasis explica esa misma idea con otra formulación.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa diferencia es la que permite distinguir una cita textual de un resumen o una explicación reformulada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Citar significa reproducir las palabras de otro texto, y parafrasear significa expresar con otras palabras lo que ese texto dijo. La diferencia importa porque una cita se puede verificar palabra por palabra y una paráfrasis no. También cambia la responsabilidad de quien escribe, porque debe dejar claro hasta dónde llega lo que es del otro autor. En noveno grado, entender esta diferencia es indispensable para evitar el plagio y para dar crédito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v4",
+      "statement": "El Texto 1 menciona a García Márquez pero no indica la obra en la que aparece la frase. ¿Qué efecto tiene esa omisión?",
+      "context": "En Pitalito, los estudiantes de noveno grado revisan si la columna del Texto 1 da crédito a quien cita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque nombrar al autor ya es suficiente para dar crédito completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar al autor es necesario, pero no basta: sin la obra no se puede localizar la frase."
+        },
+        {
+          "letter": "B",
+          "text": "Dificulta la verificación, porque el lector no puede rastrear de dónde procede la afirmación que se le presenta como respaldo.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin referencia completa, la cita se apoya en la autoridad del autor y no en un texto que pueda consultarse."
+        },
+        {
+          "letter": "C",
+          "text": "Mejora el texto, porque las referencias entre paréntesis distraen al lector de la idea principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una referencia breve no distrae: permite comprobar lo que se afirma."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte la afirmación en ficción, porque lo que no tiene fuente se considera inventado.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la falta de referencia impide verificar, pero no convierte por sí sola la afirmación en ficción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Nombrar a un autor no completa una cita: para rastrear una afirmación es necesario indicar la obra y, en muchos casos, la página. Cuando esa referencia falta, el lector solo puede apoyarse en la autoridad del nombre, que es exactamente lo que la lectura crítica busca evitar. Reconocer esta diferencia ayuda a evaluar la solidez de un texto y a entender por qué las normas de citación existen. En noveno grado, este criterio se aplica desde los primeros trabajos de investigación escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 1, el autor menciona «un pueblo como Macondo» y enseguida dice que allí todos sabían de todos. ¿Qué relación ironica se establece con el texto de García Márquez?",
+      "context": "En Samaná, el grupo de noveno grado descubre una relación ironica en el Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una coincidencia: el autor repite la idea del novelista porque comparte su visión del mundo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay coincidencia neutral: el autor toma prestada la imagen y después la contradice con su propia tesis."
+        },
+        {
+          "letter": "B",
+          "text": "Una cita directa: el autor reproduce literalmente la escena de Macondo tal como aparece en la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen está abreviada y reformulada: no es una reproducción literal de la escena."
+        },
+        {
+          "letter": "C",
+          "text": "Una paráfrasis fiel, porque el autor resume con exactitud la idea central de la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no resume la novela: usa un rasgo de su mundo para sostener una tesis propia y distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Una ironía, porque se apoya en una imagen conocida para luego mostrar que esa misma imagen esconde un problema.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto apela a la referencia y enseguida la invierte, lo que constituye un uso irónico del intertexto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ironía intertextual aparece cuando un texto se apoya en una referencia conocida para decir algo distinto de lo que esa referencia significa en su origen. En el caso del Texto 1, la imagen del pueblo donde todo se sabe se usa para señalar que esa es la razón del problema. Reconocer este mecanismo permite entender por qué un texto puede apoyarse en otro y, al mismo tiempo, criticarlo. En noveno grado, es una de las operaciones más finas del análisis de textos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v6",
+      "statement": "En el Texto 2, ¿por qué es importante que el texto diga qué toma de cada fuente y no solo las nombre?",
+      "context": "En San Andrés, el grupo de noveno grado revisa cómo el Texto 2 usa sus fuentes para sostener una conclusión propia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así el texto ocupa más espacio y parece más riguroso a primera vista.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la longitud no aporta rigor, y el texto no busca parecer largo sino comprobable."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permite saber qué dato sostiene cada conclusión y, con ello, comprobar el razonamiento completo.",
+          "is_correct": true,
+          "feedback": "Correcto. Indicar el origen de cada dato hace que el razonamiento pueda seguirse paso a paso y verificarse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque obliga a las fuentes a publicar sus propios resultados, lo que garantiza que sean confiables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no obliga a nadie a publicar: solo informa de qué se sirvió para sus cálculos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sustituye la necesidad de consultar los documentos originales en el momento de la revisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Facilita la revisión, pero no la reemplaza: consultar las fuentes sigue siendo necesario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un trabajo con fuentes debe mostrar de dónde viene cada dato, no simplemente qué documentos menciona. Esa precisión permite recorrer el razonamiento y detectar en qué punto se apoya cada conclusión. En el caso del Texto 2, la indicación es sencilla pero decisiva: separa el dato de Planeación del dato de la empresa. Reconocer la importancia de esa separación mejora tanto el trabajo propio como la lectura crítica. En noveno grado, es un criterio básico de los trabajos de investigación escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v7",
+      "statement": "En el Texto 2, ¿cuál de las dos fuentes es primaria y por qué?",
+      "context": "En Chía, los estudiantes de noveno grado distinguen la fuente primaria de la fuente secundaria en el Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El informe de Planeación, porque es más extenso y contiene más datos que el registro de la empresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extensión no determina qué fuente es primaria, y el criterio es otro."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna es primaria, porque el Texto 2 mezcla los datos de las dos y eso las convierte en secundarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Combinar fuentes no cambia su naturaleza: cada una conserva la que le corresponde."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son primarias, porque las dos fueron consultadas directamente por los autores del informe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un texto consulte una fuente no la convierte en primaria: la primaria es la que produce el dato."
+        },
+        {
+          "letter": "D",
+          "text": "El registro de la empresa de acueducto, porque es el documento que produce directamente la información que se mide.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la fuente que genera los datos por sí misma, y por eso puede rastrearse hasta el origen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una fuente primaria es aquella que produce directamente la información que se utiliza, mientras que una secundaria la transmite o la interpreta. En el caso del Texto 2, el registro de la empresa es primario y el informe de Planeación es secundario. Distinguirlas ayuda a valorar cuánto peso tiene cada dato y cuánto depende de la interpretación de otro. En noveno grado, esta distinción organiza el trabajo con fuentes desde el principio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v8",
+      "statement": "El Texto 2 afirma que el cruce de las dos fuentes produce «una conclusión que ninguna de las dos mostraba por separado». ¿Por qué es posible que eso ocurra?",
+      "context": "En San Gil, la cátedra de noveno grado estudia por qué el cruce de fuentes del Texto 2 produce un conocimiento nuevo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al cruzar los datos se cambia la redacción y por eso las fuentes parecen decir algo distinto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La redacción cambia al escribir, pero aquí lo que se combina son datos, no palabras."
+        },
+        {
+          "letter": "B",
+          "text": "Porque una de las fuentes contiene datos que la otra contradice, y la contradicción produce el nuevo conocimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de contradicción: habla de datos que se complementan al cruzarse."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cada fuente mide una dimensión distinta del mismo asunto, y solo la combinación permite ver la relación entre ambas.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación entre dos dimensiones es justamente lo que ninguna de las dos fuentes podía mostrar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el cruce de fuentes siempre produce un conocimiento más amplio que cualquiera de las dos por separado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cruce no garantiza siempre un resultado nuevo: depende de que las fuentes midan dimensiones relacionadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cruzar dos fuentes puede producir un conocimiento que ninguna ofrece por separado, siempre que ambas midan dimensiones relacionadas del mismo asunto. En el caso del Texto 2, la inversión por habitante y las horas de servicio se complementan y esa relación es la que el informe expone. Reconocer cuándo un cruce es productivo evita suponer que combinar datos siempre aporta algo nuevo. En noveno grado, esa capacidad es la base del trabajo analítico con información pública.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v9",
+      "statement": "¿Qué problema presenta el uso del Texto 1 como fuente en un trabajo escolar?",
+      "context": "En Quibdó, el grupo de noveno grado evalúa si la columna del Texto 1 puede usarse en un trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un problema grave, porque el texto cita a otro autor y eso vuelve irregular cualquier trabajo académico.",
+          "is_correct": false,
+          "feedback": "Incorrecto: citar a otro autor es una práctica esperada y hasta necesaria en un trabajo académico."
+        },
+        {
+          "letter": "B",
+          "text": "No presenta ningún problema, porque el texto es de opinión y por eso puede usarse sin verificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: un texto de opinión también exige verificar las afirmaciones y fuentes que utiliza."
+        },
+        {
+          "letter": "C",
+          "text": "Presenta una limitación, porque su tesis es una valoración personal y su cita no permite rastrear la obra de origen.",
+          "is_correct": true,
+          "feedback": "Correcto. La columna aporta una perspectiva, pero ni su tesis ni su intertexto pueden comprobarse tal como están."
+        },
+        {
+          "letter": "D",
+          "text": "Presenta un problema técnico, porque el texto es demasiado breve para usarse en un trabajo de investigación.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extensión de un texto no determina si sirve como fuente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Valorar una fuente exige distinguir lo que aporta de lo que le falta. Una columna de opinión puede dar una perspectiva útil y, al mismo tiempo, apoyarse en una tesis personal y en una cita sin referencia completa. Reconocer esas dos limitaciones permite usar el texto con las precauciones debidas, sin descartarlo del todo. En noveno grado, este criterio enseña a trabajar con fuentes de distintos tipos y a declarar hasta dónde llega su valor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v10",
+      "statement": "En el Texto 1, ¿qué función cumple la frase «García Márquez escribió que la memoria era un peso inevitable» dentro de la columna?",
+      "context": "En Garzón, el grupo de noveno grado analiza cómo el Texto 1 transforma una cita en un argumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta un dato que demuestra por sí solo que la memoria es un problema en los pueblos de hoy.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no es un dato sobre los pueblos actuales: es una afirmación de otro autor sobre la memoria."
+        },
+        {
+          "letter": "B",
+          "text": "Ofrece el punto de partida de una tesis propia que el autor desarrolla y desplaza hacia su propia lectura del problema.",
+          "is_correct": true,
+          "feedback": "Correcto. La cita sirve de apoyo inicial y luego el autor la reorienta para defender una posición que no es la del novelista."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye la evidencia que el texto necesitaría, de modo que la columna queda sin argumentos propios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor sí desarrolla un argumento propio después de la cita: no queda sin fundamento."
+        },
+        {
+          "letter": "D",
+          "text": "Funciona como cierre del texto, porque condensa la posición del autor en una frase atribuida a otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase aparece a mitad del párrafo y la columna cierra con otra idea, escrita en voz propia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando un texto cita a otro autor, esa cita puede ocupar distintas funciones dentro del argumento. En el caso del Texto 1, la cita funciona como punto de partida, porque el autor la usa para desarrollar una tesis que reorienta lo que el novelista dijo. Reconocer esa función evita confundir el apoyo inicial con el pensamiento del autor. En noveno grado, distinguir el uso de las citas es lo que permite valorar quién dice qué en un texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v11",
+      "statement": "Un trabajo escolar incluye la frase «según García Márquez, la memoria es un peso inevitable», sin nombrar la obra ni la página. ¿Qué debe hacer el equipo?",
+      "context": "En Barrancabermeja, la comisión de noveno grado revisa un trabajo que cita a García Márquez sin indicar la obra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar la obra de origen, verificar la frase y añadir la referencia completa antes de entregar el trabajo.",
+          "is_correct": true,
+          "feedback": "Correcto. Localizar y comprobar la cita, y anotarla con libro y página, es lo que hace verificable el trabajo."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar la frase como está, porque nombrar al autor ya cumple con la norma de dar crédito.",
+          "is_correct": false,
+          "feedback": "Incorrecto: nombrar al autor no basta, y sin referencia la cita no puede comprobarse."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar la frase, porque toda cita sin página debe obligatoriamente desaparecer del trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La solución es completar la referencia, no borrar el contenido, que puede ser pertinente."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la cita por una paráfrasis, porque las paráfrasis no exigen referencia de ningún tipo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La paráfrasis también necesita indicación de la fuente: el problema es el crédito, no la forma."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un trabajo académico debe permitir que cualquiera encuentre y compruebe las fuentes que utiliza. Cuando una cita aparece sin obra ni página, esa condición no se cumple y el trabajo queda expuesto. La solución es buscar el texto original, verificar que la frase existe tal como se cita y completar la referencia. Ese procedimiento enseña a distinguir dar crédito de mencionar un nombre. En noveno grado, es el hábito que sostiene un trabajo serio desde las primeras páginas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle-v12",
+      "statement": "El equipo ha reunido el Texto 1, el Texto 2 y un informe oficial del municipio. ¿Qué procedimiento le permitiría sostener mejor su conclusión?",
+      "context": "En El Colegio, el semillero de lectura de noveno grado prepara un informe sobre el agua del municipio usando varios textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar solo la columna de opinión, porque su tesis es la más clara de las tres y por eso resulta más convincente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La claridad de una tesis no garantiza su fundamento: la columna es una valoración personal."
+        },
+        {
+          "letter": "B",
+          "text": "Usar solo el informe oficial, porque los documentos del municipio son la única fuente admisible en trabajos escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la restricción no existe, y dejar fuera otras fuentes impide triangular la información."
+        },
+        {
+          "letter": "C",
+          "text": "Contrastar la columna con el informe comunitario y con el documento oficial, y declarar qué se confirma y qué queda como valoración.",
+          "is_correct": true,
+          "feedback": "Correcto. Triangular las fuentes permite separar lo verificable de lo opinativo y sostener la conclusión con claridad."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir la fuente más reciente, porque en una investigación el documento más nuevo siempre resulta el más válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha importa en algunos casos, pero no reemplaza el contraste ni la verificación del contenido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Triangular fuentes significa contrastar la información entre documentos de distinto tipo para distinguir lo verificable de lo opinativo. En este caso, la columna aporta una mirada, el informe comunitario un registro propio y el documento oficial un dato institucional. Poner los tres en diálogo permite sostener una conclusión y declarar con precisión qué parte es hecho y qué parte es valoración. En noveno grado, esta disciplina de trabajo con fuentes es la que distingue una investigación de un resumen.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W11-la-intertextualidad-y-las-fuentes-citadas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
