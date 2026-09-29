@@ -1,0 +1,276 @@
+---
+id: "CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle"
+country: "colombia"
+grado: 8
+asignatura: "lectura_critica"
+tema: "la-leyenda-urbana-y-el-mito"
+periodo: "weekly"
+week: "W16"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia / Saber 2026"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: La leyenda urbana y el mito - Grado 8 (W16)
+
+## Semana W16
+
+En la semana dieciséis los estudiantes de octavo grado estudian dos relatos que circulan de memoria: el mito, que explica el origen del mundo o de un lugar, y la leyenda urbana, una historia reciente que se cuenta como vivida por alguien cercano. Con versiones recogidas en un colegio de Bucaramanga, en un archivo de Cartagena y en un cuaderno de Manizales, comparan cómo cambian los detalles según quién narra. La semana termina con un trabajo que exige distinguir la tradición popular del dato verificado.
+
+## Question 1 [D3-D4]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Textual
+**Contexto:** En el aula de un colegio de Bucaramanga, la profesora escribe dos tarjetas en el tablero. En la primera dice "relato antiguo que explica el origen de un lugar" y en la segunda dice "historia reciente, contada como si a alguien le hubiera ocurrido hace poco". Pide que el grupo decida a qué tipo de relato corresponde cada tarjeta.
+**Expected_Success:** 0.85
+
+### Enunciado
+¿Cuál de las siguientes afirmaciones describe correctamente una leyenda urbana?
+
+### Opciones
+- [ ] A) Que es un relato antiguo que explica el origen del mundo y que se conserva por igual en todos los pueblos. <!-- feedback: Incorrecta: esa descripción corresponde a un mito, porque trata del origen del mundo y no de un episodio reciente. -->
+- [ ] B) Que es un texto escrito por un historiador y publicado en un libro de historia de la ciudad. <!-- feedback: Incorrecta: un libro de historia registra datos comprobables, y una leyenda urbana se transmite de boca en boca, no en un libro. -->
+- [x] C) Que es un relato que se presenta como ocurrido hace poco, en un lugar conocido, y que circula entre personas que no siempre se conocen. <!-- feedback: Es la opción correcta: la leyenda urbana se apoya en un sitio y una época recientes y se transmite por voces encadenadas. -->
+- [ ] D) Que es una composición que solo puede leerse en los libros de texto de primaria. <!-- feedback: Incorrecta: las leyendas urbanas se cuentan en conversaciones y en grupos de mensajes, no únicamente en libros de texto. -->
+
+### Explicacion Pedagogica
+La leyenda urbana es un relato breve que se presenta como verdadero y que se apoya en un lugar y una época recientes. Su credibilidad no viene de pruebas sino de la cercanía aparente con la vida del oyente. El mito, en cambio, es un relato antiguo que explica el origen del mundo o de un lugar y que pertenece a una tradición. Distinguir los dos desde el primer rasgo del texto evita tratarlos como si fueran un mismo género narrativo.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Semántico
+**Contexto:** Un compañero de un colegio de Medellín contó en clase que en un parque de Envigado se había apagado un farol y que nadie volvió a prenderlo. Antes de empezar la narración, dijo: "Se dice que".
+**Expected_Success:** 0.82
+
+### Enunciado
+¿Qué efecto tiene la expresión "se dice que" en esa narración?
+
+### Opciones
+- [x] A) Señala que lo que se va a contar no está comprobado y que quien habla no se hace responsable de su verdad. <!-- feedback: Es la opción correcta: la expresión marca la distancia del narrador frente al relato, y por eso el dato queda en el campo de la conjetura. -->
+- [ ] B) Confirma que el hecho es cierto, porque quien lo cuenta afirma haberlo visto con sus propios ojos. <!-- feedback: Incorrecta: la expresión no aporta ninguna prueba, y muestra justamente que el narrador no se presenta como testigo directo. -->
+- [ ] C) Indica que la historia se cuenta en voz baja para no despertar a los vecinos del parque. <!-- feedback: Incorrecta: la expresión no habla del volumen de la voz, sino de la procedencia de lo que se afirma. -->
+- [ ] D) Abre la narración a la discusión de los compañeros, porque el autor no tiene una versión propia del hecho. <!-- feedback: Incorrecta: aunque el autor narre, el efecto de la expresión está en la falta de comprobación y no en una falta de opinión. -->
+
+### Explicacion Pedagogica
+Las palabras que acompañan a un relato indican cómo se presenta lo que se dice. En el caso del farol de Envigado, la expresión "se dice que" actúa como una marca de distancia: el narrador no presenta el hecho como suyo ni como verificado, y el oyente entiende que la información viene de otras voces. Reconocer estas marcas lingüísticas es la herramienta más sencilla para empezar a poner en duda un relato que llega sin fuentes.
+
+---
+
+## Question 3 [D3-D4]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Pragmático
+**Contexto:** En un grupo de mensajes de padres de un colegio de Pereira, alguien escribió que a una madre de la institución le había ocurrido una situación extraña en el parque del colegio y terminó la publicación con la frase "pásasela a todo el grupo". En los días siguientes el mensaje circuló por otros chats de familias.
+**Expected_Success:** 0.80
+
+### Enunciado
+¿Cuál es la intención comunicativa más probable de ese mensaje?
+
+### Opciones
+- [ ] A) Informar con pruebas verificables sobre un caso real, indicando las fuentes y la fecha en que ocurrió. <!-- feedback: Incorrecta: el mensaje no cita ninguna fuente ni fecha, y esa ausencia hace poco probable esa intención informativa. -->
+- [ ] B) Invitar a los padres a una reunión sobre la seguridad en los espacios del colegio. <!-- feedback: Incorrecta: la publicación no anuncia ninguna reunión, y su efecto se observa en el reenvío del mensaje a otros chats. -->
+- [ ] C) Advertir sobre una norma del colegio que los padres deben cumplir desde la próxima semana. <!-- feedback: Incorrecta: el mensaje no menciona normas ni sanciones, y su contenido es una historia contada como cierta. -->
+- [x] D) Conseguir que los demás lo reenvíen y lo compartan, explotando el miedo o la curiosidad que despierta. <!-- feedback: Es la opción correcta: la invitación final y la circulación posterior muestran que la meta no era informar, sino difundir el relato. -->
+
+### Explicacion Pedagogica
+Un mensaje que circula en un grupo cumple una intención que va más allá de contar algo. En el caso del colegio de Pereira, la frase final invita a reenviar y la circulación posterior en otros chats de familias confirma que ese era el propósito: sacar el relato de su círculo de origen. Analizar el propósito pragmático de una publicación enseña a preguntarse a quién beneficia la difusión de un relato y no solamente si su contenido resulta entretenido.
+
+---
+
+## Question 4 [D3-D4]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v4
+**Bloom:** Understand
+**ICFES:** Discursivo
+**Contexto:** La leyenda del farol apagado se cuenta en tres versiones dentro de un mismo colegio de Pereira. En la primera los testigos son "unos amigos", en la segunda "un primo de un amigo" y en la tercera "alguien del barrio". Ninguna versión menciona una fecha, un nombre ni un lugar exacto.
+**Expected_Success:** 0.78
+
+### Enunciado
+¿Qué se puede observar en esa cadena de versiones de la leyenda?
+
+### Opciones
+- [ ] A) Que el relato se vuelve más corto a medida que se transmite, porque se pierden los detalles más importantes. <!-- feedback: Incorrecta: lo que ocurre en las tres versiones es un alargamiento de los testigos, no una reducción del relato. -->
+- [x] B) Que la distancia entre quien propone el relato y quien lo cuenta se alarga en cada versión, y por eso resulta difícil comprobar los hechos. <!-- feedback: Es la opción correcta: cada transmision se aleja del primer testigo, y con esa distancia aumenta la pérdida de la fuente original. -->
+- [ ] C) Que los nombres propios se sustituyen por apodos para proteger a las personas contadas en la historia. <!-- feedback: Incorrecta: en las versiones no aparecen nombres propios, y ese reemplazo no ocurre en ningún momento de la cadena. -->
+- [ ] D) Que el orden de los hechos se altera hasta volver irreconocible la secuencia de la leyenda. <!-- feedback: Incorrecta: el contexto no presenta órdenes contradictorios, porque lo que se repite en la cadena es el cambio de testigos. -->
+
+### Explicacion Pedagogica
+Una leyenda urbana no tiene un autor identificable, sino una cadena de narradores. En el colegio de Pereira, el relato pasa de "unos amigos" a "un primo de un amigo" y luego a "alguien del barrio", de manera que el primer testigo queda cada vez más lejos de quien escucha. Esa cadena de voces explica por qué los detalles cambian y por qué resulta tan difícil comprobar lo que se cuenta.
+
+---
+
+## Question 5 [D5-D6]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Textual
+**Contexto:** La profesora de un colegio de Bogotá entrega dos textos breves. El primero dice: "En el tiempo en que no había gente, el sol se escondía porque la codicia lo había ennegrecido". El segundo dice: "En 2019, un empleado contó que en el piso séptimo de una oficina de la calle 45 oía pasos a las tres de la mañana y que nunca encontró a nadie".
+**Expected_Success:** 0.72
+
+### Enunciado
+¿Cuál es el razonamiento correcto para clasificar los dos textos?
+
+### Opciones
+- [ ] A) El primero es una leyenda urbana, porque cualquier texto antiguo que hable del sol se considera una leyenda. <!-- feedback: Incorrecta: la antigüedad del relato no lo convierte en leyenda urbana, y el texto primero pertenece a la tradición de los mitos. -->
+- [ ] B) El segundo es un mito, porque el lugar donde aparecen los pasos está en la ciudad de Bogotá. <!-- feedback: Incorrecta: un mito no se ancla en una dirección concreta y reciente, y el texto segundo es el ejemplo típico de una leyenda urbana. -->
+- [x] C) El primero es un mito, porque explica el origen de un fenómeno natural y pertenece a una tradición; el segundo es una leyenda urbana, porque se presenta como un hecho reciente en un lugar concreto. <!-- feedback: Es la opción correcta: cada texto se clasifica por sus rasgos, la explicación de un origen en el primero y la fecha reciente en el segundo. -->
+- [ ] D) Los dos son mitos, porque los dos textos usan personajes y lugares que no existen en la realidad. <!-- feedback: Incorrecta: el segundo texto no pretende explicar un origen del mundo, de modo que esa característica no le corresponde. -->
+
+### Explicacion Pedagogica
+Clasificar un relato exige aplicar los criterios del género y no las impresiones personales. En el primer texto, la explicación del ennegrecimiento del sol y su pertenencia a una tradición antigua corresponden a un mito. En el segundo, la fecha de 2019, la dirección exacta y el testigo que no vio a nadie corresponden a una leyenda urbana. Comparar caso por caso enseña que cada clasificación se apoya en rasgos observables del texto.
+
+---
+
+## Question 6 [D5-D6]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**ICFES:** Semántico
+**Contexto:** En la revista de un colegio de Manizales aparecen dos frases. La primera dice: "La portera más legendaria de la institución lleva doce años sin recibir un gol". La segunda dice: "En los relatos de la región la cigüeña es un ave legendaria, y así aparece en los cuentos que cuentan los mayores".
+**Expected_Success:** 0.70
+
+### Enunciado
+¿Qué diferencia de sentido se observa en el uso de la palabra "legendario" en las dos frases?
+
+### Opciones
+- [x] A) En la primera indica que la portera es famosa entre los estudiantes por su trayectoria; en la segunda alude a que el ave aparece en los relatos tradicionales. <!-- feedback: Es la opción correcta: la palabra admite dos sentidos, y cada frase activa el que corresponde a su situación. -->
+- [ ] B) En las dos frases significa que algo no ha sido comprobado por nadie, porque ese es su único sentido posible. <!-- feedback: Incorrecta: en la primera frase la palabra habla de fama y en la segunda de tradición, no de falta de comprobación. -->
+- [ ] C) En la primera significa algo antiguo y en la segunda significa algo reciente. <!-- feedback: Incorrecta: la oposición entre antiguo y reciente no aparece en ninguna de las dos frases del contexto. -->
+- [ ] D) En las dos frases significa que algo es falso, porque los diccionarios la definen como falsa. <!-- feedback: Incorrecta: la primera frase elogia a la portera, de modo que la palabra ahí no puede tener un valor de falsedad. -->
+
+### Explicacion Pedagogica
+Una palabra puede tener varios significados y es el contexto el que decide cuál se activa. En la revista de Manizales, "legendario" designa en un caso una fama entre estudiantes y en el otro la presencia de un personaje dentro de relatos tradicionales. Reconocer esta polisedad es útil al leer relatos de miedo y de tradición, porque palabras como "leyenda", "fantasma" o "maldición" también cambian de contenido según quién habla y en qué situación.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**ICFES:** Crítico-Intertextual
+**Contexto:** Estudiantes de grado octavo de un colegio de Barranquilla comparan dos versiones de la leyenda de la mujer que aparece cerca del río. La versión del barrio menciona un barrio, una cuadra y una hora de la noche. La versión publicada en una página de internet agrega tres detalles: que la mujer viste de blanco, que no se le puede mirar y que desaparece si se dice su nombre.
+**Expected_Success:** 0.68
+
+### Enunciado
+¿Qué muestra la comparación de las dos versiones de esa leyenda?
+
+### Opciones
+- [ ] A) Que la versión de la página de internet es la original, porque la versión del barrio se escribió después. <!-- feedback: Incorrecta: el contexto no indica cuándo se escribió cada versión, y esa conclusión no sale de la comparación. -->
+- [x] B) Que hay un núcleo de la tradición que se conserva en las dos versiones, mientras que los detalles concretos cambian según el lugar y el momento en que se cuenta. <!-- feedback: Es la opción correcta: la comparación muestra qué es estable en la tradición y qué se modifica en cada versión. -->
+- [ ] C) Que las dos versiones son errores, porque una leyenda verdadera debe tener un único final reconocido por todos. <!-- feedback: Incorrecta: la existencia de variantes es propia de la tradición oral, y ese rasgo no convierte a las versiones en errores. -->
+- [ ] D) Que la leyenda perdió su valor porque al publicarse en una página cualquier persona puede modificarla a voluntad. <!-- feedback: Incorrecta: el enunciado no habla de la publicación como problema, y el valor de un relato no depende de esa pregunta. -->
+
+### Explicacion Pedagogica
+Las variantes de una leyenda muestran cómo funciona la tradición oral: hay un núcleo que se conserva y detalles que se adaptan al lugar y a la época de quien narra. En Barranquilla, la versión del barrio y la versión de internet coinciden en la aparición de la mujer cerca del río, pero difieren en las reglas que se le imponen. Reconocer qué es estable y qué es variable permite comparar dos versiones reales en lugar de tratar una de ellas como la única verdadera.
+
+---
+
+## Question 8 [D7-D8]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Sintáctico
+**Contexto:** En una transcripción de la leyenda recogida en un colegio de Cartagena aparece esta oración: "Se dice que el faro de la bahía se apagó solo una noche de 1998 y que desde entonces nadie lo ha encendido". El profesor la compara con otra versión: "El faro se apagó solo una noche de 1998 y nadie lo ha encendido".
+**Expected_Success:** 0.65
+
+### Enunciado
+¿Qué cambia en la estructura de la oración y qué efecto tiene ese cambio en la forma de presentar el hecho?
+
+### Opciones
+- [ ] A) La versión con "se dice que" resulta más clara, porque las palabras añadidas explican mejor los dos hechos. <!-- feedback: Incorrecta: la primera versión no aclara nada por sí sola, y su efecto depende de la construcción impersonal y no de la cantidad de palabras. -->
+- [ ] B) La segunda versión es pasiva, porque el faro es el sujeto y por eso se esconde quién lo apagó. <!-- feedback: Incorrecta: en la segunda versión el faro es el sujeto activo de "se apagó", y la estructura no oculta a ningún responsable. -->
+- [ ] C) Las dos versiones son equivalentes, porque la primera no cambia el sentido del relato. <!-- feedback: Incorrecta: la primera versión marca el relato como dicho por otros, mientras la segunda lo presenta como un hecho del narrador. -->
+- [x] D) La primera usa una construcción impersonal y una subordinada encadenada con "que", y eso permite presentar el relato como algo que otros afirman y no como un hecho comprobado. <!-- feedback: Es la opción correcta: la estructura impersonal y el encadenamiento son los que cargan la marca de relatividad del relato. -->
+
+### Explicacion Pedagogica
+La estructura de la oración comunica la relación lógica entre las ideas y también la postura del narrador frente a ellas. En la versión recogida en Cartagena, "se dice que" introduce una construcción impersonal y la segunda proposición se encadena con "que", de modo que los dos hechos quedan dentro de lo que otros afirman. En la versión simple, en cambio, el narrador asume el relato. Analizar esa diferencia es lo que permite ver cómo el lenguaje relativiza una leyenda.
+
+---
+
+## Question 9 [D7-D8]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Contexto:** Tres estudiantes de un colegio de Barranquilla contaron la misma leyenda de maneras distintas. La primera vez dijeron "una mujer". La segunda, "una mujer de blanco". La tercera, "una mujer de blanco con el cabello largo que aparece en el pasillo del segundo piso".
+**Expected_Success:** 0.62
+
+### Enunciado
+¿Qué rasgo discursivo explica que las versiones parezcan más verdaderas a medida que se repiten?
+
+### Opciones
+- [x] A) La adición progresiva de detalles concretos y comprobables, que hace que el relato parezca basado en hechos observados. <!-- feedback: Es la opción correcta: cada versión suma un dato específico y verificable, y eso refuerza la apariencia de verdad del relato. -->
+- [ ] B) La repetición de las mismas palabras, que hace que el relato suene antiguo y por eso verdadero. <!-- feedback: Incorrecta: las versiones no repiten las mismas palabras, sino que las amplían, y la repetición no es lo que produce ese efecto. -->
+- [ ] C) El uso de un lenguaje formal, que imita el estilo de un documento oficial y da la impresión de un testimonio. <!-- feedback: Incorrecta: el lenguaje de las tres versiones es colloquial, y la formalidad no aparece en ninguno de los relatos contados. -->
+- [ ] D) La falta de detalles en la versión inicial, porque mientras menos se dice, más espacio queda para suponer. <!-- feedback: Incorrecta: la versión inicial ya contiene un dato, y el efecto de verdad se produce por la adición de detalles, no por su ausencia. -->
+
+### Explicacion Pedagogica
+Un relato oral gana credibilidad cuando se apoya en detalles que cualquiera podría verificar. En esta leyenda de Barranquilla, cada versión suma un dato concreto, desde el color blanco hasta el pasillo del segundo piso, y esa acumulación hace que la historia parezca observada y no inventada. Reconocer que la especificidad funciona como señal de verdad es clave para leer relatos que llegan sin fuentes, y para explicar por qué las leyendas se vuelven más convincentes al repetirse.
+
+---
+
+## Question 10 [D7-D8]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**ICFES:** Pragmático
+**Contexto:** En una página de noticias locales aparece un video de treinta segundos en el que una persona habla frente a la cámara. Sobre la imagen hay un rótulo rojo que dice "ASÍ OCURRIÓ" y debajo un botón que dice "COMPARTE ANTES DE QUE LO BORREN".
+**Expected_Success:** 0.58
+
+### Enunciado
+¿Qué recursos pragmáticos se combinan en esa publicación para lograr que el lector la difunda?
+
+### Opciones
+- [ ] A) La cantidad de datos técnicos y las fuentes citadas, que permiten comprobar lo ocurrido antes de publicarlo. <!-- feedback: Incorrecta: la publicación no cita fuentes ni datos, y esa ausencia hace improbable ese recurso. -->
+- [ ] B) El tono tranquilo de quien narra y la música de fondo, que invitan a reflexionar sin urgencia. <!-- feedback: Incorrecta: el recurso central no es la calma del tono, sino la exigencia de compartir que aparece en el rótulo y en el botón. -->
+- [x] C) Una voz que habla con seguridad, un rótulo que afirma que los hechos ocurrieron y una amenaza de que el contenido desaparecerá. <!-- feedback: Es la opción correcta: la autoridad del tono, la afirmación categórica y la urgencia se combinan para empujar al lector a compartir. -->
+- [ ] D) La invitación a entrar en la página oficial del colegio, que reemplaza la información del video con datos verificables. <!-- feedback: Incorrecta: la publicación no menciona ninguna página oficial, y no reemplaza el relato con datos comprobables. -->
+
+### Explicacion Pedagogica
+Un recurso pragmático es cualquier elemento que se usa para obtener una respuesta del lector. En esta publicación, la voz con seguridad da autoridad, el rótulo afirma como un hecho lo que es un relato y el botón añade urgencia. Esa combinación no informa: persuade. Analizarla como discurso permite entender por qué una publicación sin pruebas puede difundirse más rápido que una nota periodística bien documentada, y qué señales conviene revisar antes de compartir algo.
+
+---
+
+## Question 11 [D9-D10]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Contexto:** En un trabajo de grado octavo de un colegio de Manizales, un grupo presentó la leyenda de un río como si explicara realmente el origen de sus aguas. En ninguna parte del trabajo se marcó la diferencia entre lo que dice la tradición y lo que muestra la ciencia.
+**Expected_Success:** 0.48
+
+### Enunciado
+¿Cuál es el juicio más adecuado sobre ese trabajo si se toma como criterio el rigor de la información?
+
+### Opciones
+- [ ] A) El trabajo es incorrecto, porque en un trabajo de grado octavo no se puede usar un relato de la tradición regional. <!-- feedback: Incorrecta: el problema del trabajo no es el uso de la tradición, sino la falta de distinción entre tradición y dato comprobado. -->
+- [x] B) El trabajo presenta como hecho demostrado algo que pertenece al imaginario colectivo, y esa falta de distinción es el problema principal. <!-- feedback: Es la opción correcta: el criterio de rigor exige separar lo que la tradición cuenta de lo que la ciencia puede verificar. -->
+- [ ] C) El trabajo es aceptable, porque en la región la tradición es una forma válida de conocimiento científico. <!-- feedback: Incorrecta: la tradición es un saber valioso y narrativo, pero no responde al criterio de comprobación que se pidió. -->
+- [ ] D) El trabajo está bien, porque al lector no le corresponde distinguir entre relato tradicional y dato verificado. <!-- feedback: Incorrecta: distinguir ambos es justamente la tarea que se evaluó, y por eso esa razón no sostiene el trabajo. -->
+
+### Explicacion Pedagogica
+Evaluar con un criterio exige observar si el texto cumple o no con ese criterio, y solo después emitir el juicio. En este trabajo, la leyenda del río se presenta como explicación del origen de las aguas sin marcar su condición de relato tradicional, de modo que el rigor falla en el punto central. Una evaluación bien fundada señala el criterio, describe lo observado y propone la corrección, y con esa estructura la crítica sirve para mejorar el trabajo y no solo para calificarlo.
+
+---
+
+## Question 12 [D9-D10]
+**ID:** CO-LC-8-2026-W16-la-leyenda-urbana-y-el-mito-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Crítico-Intertextual
+**Contexto:** Un equipo de un colegio de Pereira recogió dos versiones de la leyenda de la sirena del río. Una versión cuenta que la sirena pedía a los pescadores que devolvieran las redes. La otra, recogida de una persona mayor del lugar, dice que la sirena avisaba de las crecientes y que por eso los pescadores le ofrecían parte de la pesca.
+**Expected_Success:** 0.45
+
+### Enunciado
+¿Cuál es el mejor juicio evaluativo que puede hacer el equipo al comparar las dos versiones?
+
+### Opciones
+- [ ] A) La versión de la persona mayor es la única verdadera, porque las variantes orales siempre se deforman con el tiempo. <!-- feedback: Incorrecta: en las tradiciones orales hay variantes sin que unas sean copias deformadas de otras, y el equipo no tiene forma de probar cuál es la original. -->
+- [ ] B) Las dos versiones son equivalentes, porque en una leyenda todos los detalles pueden cambiar sin que cambie el relato. <!-- feedback: Incorrecta: el cambio de una amenaza a una advertencia no es un detalle menor, porque transforma por completo el papel de la sirena. -->
+- [ ] C) La versión de la persona mayor deja de ser una leyenda, porque en ella la sirena cumple una función útil para la comunidad. <!-- feedback: Incorrecta: seguir siendo una leyenda no depende de que el personaje sea útil o perjudicial, sino de cómo se cuenta y se transmite. -->
+- [x] D) La versión de la persona mayor cambia a la sirena de amenaza a advertencia, y esa diferencia muestra que las variantes conservan valores distintos según quien las transmite. <!-- feedback: Es la opción correcta: el contraste entre las dos versiones revela que cada narrador conserva en la leyenda un valor distinto. -->
+
+### Explicacion Pedagogica
+Comparar versiones de una leyenda permite ver qué se conserva y qué se transforma. En el caso de la sirena del río, una versión la presenta como una amenaza y la otra como una advertencia, y en las dos el personaje ocupa el lugar central del relato. Reconocer ese cambio de sentido ayuda a explicar por qué las tradiciones orales no se contradicen entre sí: cada versión expresa el valor que su comunidad quiere transmitir.
