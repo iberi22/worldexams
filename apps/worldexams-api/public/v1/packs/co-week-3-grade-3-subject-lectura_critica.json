@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-3-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T13:20:49.117Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿cuál de estos hechos ocurrió primero?",
+      "context": "En Chía, dos estudiantes de la Escuela Urbana revisearon la cartuchera de su compañera y encontraron esta ficha después de la clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscaron a don Eliseo en el taller de la esquina.",
+          "is_correct": false,
+          "feedback": "Este hecho es posterior, porque solo van a buscarlo después de ver la bicicleta rota."
+        },
+        {
+          "letter": "B",
+          "text": "Daniela y Sara volvieron del colegio y encontraron la bicicleta en el suelo.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque el texto dice que volvieron del colegio el martes por la tarde y ese hallazgo inicia toda la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Apretaron los tornillos de la rueda con el juego de llaves.",
+          "is_correct": false,
+          "feedback": "Esto ocurre al final de la tarde, cuando ya tenían las herramientas en las manos."
+        },
+        {
+          "letter": "D",
+          "text": "La bicicleta quedó derecha y elas celebraron.",
+          "is_correct": false,
+          "feedback": "Este es el último hecho de la secuencia, porque es el resultado de todo lo que hicieron."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La secuencia de los hechos se construye siguiendo el orden en que ocurrieron las cosas, no el orden en que el autor los escribió. Identificar el primer hecho es el punto de partida para comprender el cuento completo. Cuando el estudiante ubica el comienzo, puede ordenar los demás con seguridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué palabra del Texto 1 anuncia la razón por la que las niñas fueron a buscar a don Eliseo?",
+      "context": "Un grupo de estudiantes de Medellín lee el Texto 1 en clase y marca las palabras que conectan unos hechos con otros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Aunque\"",
+          "is_correct": false,
+          "feedback": "\"Aunque\" introduce una concesión o un contraste, no la razón de una acción."
+        },
+        {
+          "letter": "B",
+          "text": "\"Luego\"",
+          "is_correct": false,
+          "feedback": "\"Luego\" solo indica que algo pasó más tarde, sin explicar por qué."
+        },
+        {
+          "letter": "C",
+          "text": "\"Como\"",
+          "is_correct": true,
+          "feedback": "Es la palabra correcta porque introduce la explicación o causa de lo que las niñas hicieron enseguida."
+        },
+        {
+          "letter": "D",
+          "text": "\"Tal vez\"",
+          "is_correct": false,
+          "feedback": "\"Tal vez\" expresa duda, y el texto sí afirma con seguridad que ellas fueron a buscarlo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores del texto cumplen la función de mostrar causas, consecuencias y contrastes. Reconocerlos ayuda al estudiante a justificar por qué ocurrió un hecho y no otro. Esta habilidad sostiene después la explicación de cada respuesta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el orden correcto de estos tres hechos de la Ficha?",
+      "context": "La docente de Bogotá entrega la Ficha de la secuencia a los estudiantes y les pide que armen la historia con los hechos en orden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apretaron los tornillos, buscaron a don Eliseo y él les prestó las llaves.",
+          "is_correct": false,
+          "feedback": "Este orden es imposible, porque no se puede apretar tornillos con llaves que todavía no tienen."
+        },
+        {
+          "letter": "B",
+          "text": "Buscaron a don Eliseo, él les prestó las llaves y ellas apretaron los tornillos.",
+          "is_correct": true,
+          "feedback": "Es el orden correcto porque primero necesitan las llaves y solo después pueden usarlas para reparar la rueda."
+        },
+        {
+          "letter": "C",
+          "text": "Él les prestó las llaves, apretaron los tornillos y luego buscaron a don Eliseo.",
+          "is_correct": false,
+          "feedback": "Invierte el orden: primero llegaron al taller y solo entonces recibieron las llaves."
+        },
+        {
+          "letter": "D",
+          "text": "Buscaron a don Eliseo, apretaron los tornillos y después él les prestó las llaves.",
+          "is_correct": false,
+          "feedback": "Coloca el préstamo de las llaves después de usarlas, lo cual no tiene sentido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ordenar los hechos exige detectar cuál es la causa y cuál es el efecto. En este caso, recibir las llaves habilita la acción de apretar los tornillos. Aplicar ese razonamiento permite reconstruir la historia completa con ayuda de la Ficha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v4",
+      "statement": "Las apretaron todas con mucho cuidado y, al final del trabajo, la bicicleta quedó derecha y ellas la llevaron hasta la casa. ¿Qué palabra une mejor esas dos ideas?",
+      "context": "En un taller de lectura de Cali, los estudiantes completan la oración con el conector que mejor exprese la relación entre dos hechos del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "\"Sin embargo\" introduce una oposición y aquí no hay ningún conflicto entre los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "A pesar de que",
+          "is_correct": false,
+          "feedback": "Esta expresión exige un contraste con una situación difícil, y el texto no menciona ninguna."
+        },
+        {
+          "letter": "C",
+          "text": "Aunque",
+          "is_correct": false,
+          "feedback": "\"Aunque\" también funciona como contraste, por eso no sirve para unir la reparación con su resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Finalmente",
+          "is_correct": true,
+          "feedback": "Es la palabra correcta porque anuncia el último paso de la reparación y cierra la secuencia del relato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El conector que se elige cambia la manera en que el lector entiende la relación entre dos hechos. Un conector de resultado aclara que lo segundo se produjo gracias a lo primero. Practicar esta elección mejora la comprensión de los enlaces del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el efecto directo de que don Eliseo les prestara el juego de llaves?",
+      "context": "Un grupo de estudiantes de grado 3 analiza el Texto 1 buscando cuál hecho fue producido directamente por otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ellas volvieron del colegio el martes por la tarde.",
+          "is_correct": false,
+          "feedback": "Volver del colegio ocurrió al principio del día y no tiene relación con el préstamo de las llaves."
+        },
+        {
+          "letter": "B",
+          "text": "Ellas fueron a buscar a don Eliseo al taller de la esquina.",
+          "is_correct": false,
+          "feedback": "Esa visita es anterior al préstamo; por eso es una causa, no un efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Ellas pudieron apretar los tornillos de la rueda y reparar la bicicleta.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta porque las llaves fueron el medio necesario para realizar la reparación."
+        },
+        {
+          "letter": "D",
+          "text": "Ellas llegaron tarde a casa y las regañaron.",
+          "is_correct": false,
+          "feedback": "Ese hecho llega mucho después en la secuencia y depende de otros dos, no solo de las llaves."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No todos los hechos de una secuencia dependen por igual del hecho anterior. Separar el efecto directo de los efectos lejanos permite explicar con precisión la historia. Esta distinción evita que el estudiante mezcla momentos muy separados en el tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de los hechos de la Ficha NO aparece contado en el Texto 1?",
+      "context": "Un equipo de estudiantes de Bucaramanga compara el Texto 1 con la Ficha de la secuencia para detectar si ambas fuentes cuentan lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscaron a don Eliseo en el taller de la esquina.",
+          "is_correct": false,
+          "feedback": "Este hecho sí aparece en el Texto 1, cuando las dos van a buscar al señor del taller."
+        },
+        {
+          "letter": "B",
+          "text": "Llegaron tarde a casa y las regañaron.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta porque el Texto 1 termina cuando ellas celebraron la bicicleta reparada en el parque."
+        },
+        {
+          "letter": "C",
+          "text": "Apretaron los tornillos de la rueda.",
+          "is_correct": false,
+          "feedback": "Este hecho sí está contado, porque ellas trabajan toda la tarde apretando los tornillos."
+        },
+        {
+          "letter": "D",
+          "text": "La bicicleta quedó derecha.",
+          "is_correct": false,
+          "feedback": "Este hecho también aparece en el Texto 1 y es el resultado final de la reparación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos sobre la misma historia permite ver qué información está y qué información falta. La Ficha tiene un hecho que el Texto 1 no narra porque la historia termina antes. Reconocer esa diferencia enseña a no dar por supuesto todo lo que se lee en otra fuente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de estos títulos representa mejor la historia completa del Texto 1?",
+      "context": "En una estación de lectura de Pereira, los estudiantes de grado 3 eligen el título que mejor representa toda la secuencia de hechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fiesta del parque",
+          "is_correct": false,
+          "feedback": "No hubo fiesta en el texto; el parque es solamente el lugar donde encontraron la bicicleta."
+        },
+        {
+          "letter": "B",
+          "text": "El taller de don Eliseo",
+          "is_correct": false,
+          "feedback": "El taller es un lugar de paso, no el tema central de la historia, que es la reparación de la bicicleta."
+        },
+        {
+          "letter": "C",
+          "text": "El día de la bicicleta",
+          "is_correct": true,
+          "feedback": "Es el título adecuado porque nombra el día y el objeto que reúne todos los hechos de la secuencia."
+        },
+        {
+          "letter": "D",
+          "text": "La bicicleta nueva",
+          "is_correct": false,
+          "feedback": "La bicicleta no era nueva, estaba rota y la repararon, así que este título no corresponde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un título exige revisar toda la secuencia y detectar cuál es el hilo que une los hechos. El mejor título nombra el elemento que aparece en la mayoría de los momentos del relato. Descartar títulos por datos que el texto no menciona evita inventar información.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el autordecided contar que don Eliseo les prestó las llaves sin pedirles dinero?",
+      "context": "La docente de lectura de Pereira pide a sus estudiantes de grado 3 que expliquen para qué cuenta el autor ese encuentro con don Eliseo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para distraer al lector con un personaje que no tiene relación con el problema.",
+          "is_correct": false,
+          "feedback": "Don Eliseo es justamente quien les da las llaves, por lo que sí tiene relación directa con la reparación."
+        },
+        {
+          "letter": "B",
+          "text": "Para mostrar que pedir ayuda y trabajar en equipo son buenas formas de resolver un problema.",
+          "is_correct": true,
+          "feedback": "Es la intención correcta porque ese detalle enseña la lección que el autor quiere transmitir con la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Para demostrar que las niñas podían arreglar la bicicleta ellas solas.",
+          "is_correct": false,
+          "feedback": "El texto muestra lo contrario, porque recurrieron a un adulto del barrio y con esa ayuda lograron reparar la bicicleta."
+        },
+        {
+          "letter": "D",
+          "text": "Para contar cuántas herramientas tiene un taller de Chía.",
+          "is_correct": false,
+          "feedback": "El autor no busca informar sobre un taller, sino contar una historia con una secuencia de hechos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto se escribe con una intención y el lector puede identificarla en los detalles. En este caso, el autor muestra cómo una ayuda externa resolvió el problema de las niñas. Evaluar la intención del autor permite comprender el mensaje que hay detrás de cada hecho.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W03-la-secuancia-de-los-hechos-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
