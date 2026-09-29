@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-2-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T13:20:49.117Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v1",
+      "statement": "En la primera línea del diálogo de la huerta, ¿quién pregunta por las semillas de la acelga?",
+      "context": "En una escuela de Bogotá, la profesora de lenguaje lee en voz alta el diálogo de la huerta de la abuela Rosa y pide a los niños que señalen quién habla en cada línea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Martina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Martina es quien responde que sí trajo las semillas, no quien pregunta por ellas."
+        },
+        {
+          "letter": "B",
+          "text": "Julián",
+          "is_correct": true,
+          "feedback": "¡Correcto! La primera línea dice \"Martina, ¿tú trajiste las semillas de la acelga?\", así que la pregunta la hace Julián."
+        },
+        {
+          "letter": "C",
+          "text": "Doña Rosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doña Rosa los espera en la huerta, pero en esa primera línea no aparece hablando."
+        },
+        {
+          "letter": "D",
+          "text": "Sebastián",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sebastián aparece más adelante en el diálogo y habla de su propia siembra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un diálogo las palabras de cada personaje ocupan un turno propio dentro de la conversación. Al leer la primera línea se nota que quien pregunta es Julián, porque él se dirige a Martina por su nombre. Reconocer al hablante es el primer paso para entender el diálogo y seguir los hechos del cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v2",
+      "statement": "Doña Rosa dice: \"Las hojas se comen, las semillas se siembran\". ¿Qué quiere que los niños entiendan con esa frase?",
+      "context": "En una clase de tercero en Pereira, un grupo de niños lee la ficha de personajes y debe explicar con sus propias palabras qué quiso decir doña Rosa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la acelga es una fruta que se come sin semillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acelga es una verdura de hoja, no una fruta, y el texto no dice que no tenga semillas."
+        },
+        {
+          "letter": "B",
+          "text": "Que en la huerta no hay nada que servir, solo hay plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase explica que sí hay cosas que sirven, y además dice qué se hace con cada una."
+        },
+        {
+          "letter": "C",
+          "text": "Que las hojas y las semillas tienen usos diferentes dentro de la huerta",
+          "is_correct": true,
+          "feedback": "¡Correcto! La frase separa las dos partes de la planta y muestra que cada una sirve para algo distinto."
+        },
+        {
+          "letter": "D",
+          "text": "Que las semillas se siembran pero las hojas no sirven para nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase dice justamente que las hojas se comen, así que también tienen una utilidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender un diálogo significa entender el significado de lo que se dice, no solo memorizar la frase. La frase de doña Rosa contrasta dos ideas: las hojas alimentan y las semillas permiten sembrar. Reconocer ese contraste ayuda a explicar con palabras propias lo que el personaje quiso enseñar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v3",
+      "statement": "Julián dice: \"¿Me dejas llevar la bolsa? Prometo que la cuido bien\". Al revisar la ficha de personajes, ¿con qué intención habla Julián?",
+      "context": "En un salón de Medellín, una madre lee el diálogo con su hijo y le explica por qué él siempre pide las cosas con educación y no dando órdenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pide permiso con educación para poder llevar la bolsa",
+          "is_correct": true,
+          "feedback": "¡Correcto! La ficha indica que Julián pide permiso, y la forma de la pregunta con punto y signo de interrogación lo confirma."
+        },
+        {
+          "letter": "B",
+          "text": "Le ordena a Martina que le entregue la bolsa sin preguntar nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pedido no es una orden: aquí Julián consulta, no manda, y él mismo pregunta si puede."
+        },
+        {
+          "letter": "C",
+          "text": "Quiere contar que él ya sembró acelga el mes pasado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase la dice Sebastián más adelante, no Julián."
+        },
+        {
+          "letter": "D",
+          "text": "Quiere que la bolsa se quede en la huerta porque no le gusta cargar peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Julián está pidiendo llevarla, no pidiendo que la dejen allí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intención es el para qué se dice algo, y no siempre aparece escrita con esas palabras. Aunque Julián no diga \"quiero tu ayuda\", su pregunta muestra que busca permiso para colaborar. Saber distinguir un pedido de una orden ayuda a conseguir favores, a pedir permisos y a convivir con los demás sin problemas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v4",
+      "statement": "Julián dice: \"Mamá, ¿me dejas coger una hoja de acelga?\" y su madre responde: \"Coge una grande, pero deja las que están pequeñas\". ¿Qué quiere decir con esta respuesta?",
+      "context": "En un colegio de Tunja, un grupo de estudiantes lee el diálogo de la casa de Julián y marca cuál respuesta está de acuerdo con la pregunta que se hizo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su madre no deja coger ninguna hoja porque la huerta es suya",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta sí autoriza coger una hoja, así que no se está prohibiendo todo."
+        },
+        {
+          "letter": "B",
+          "text": "Que su madre quiere que Julián siembre acelga antes de comer",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ninguna parte de la respuesta se habla de sembrar, y la pregunta era solamente por una hoja."
+        },
+        {
+          "letter": "C",
+          "text": "Que la acelga de la casa ya está lista para preparar la cena",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta habla de hojas grandes y pequeñas, no de una comida ni de una cena."
+        },
+        {
+          "letter": "D",
+          "text": "Que su madre permite coger una hoja grande, pero no las que todavía son pequeñas",
+          "is_correct": true,
+          "feedback": "¡Correcto! La respuesta acepta un permiso y al mismo tiempo pone una condición sobre las hojas pequeñas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un diálogo, la respuesta debe estar de acuerdo con la pregunta que se hizo antes. Cuando alguien pide permiso, la respuesta acepta, rechaza o acepta con una condición. En este caso la madre acepta con una condición, y por eso Julián sabe qué puede hacer y qué no.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v5",
+      "statement": "Un niño compara el diálogo de la huerta con esta frase que su mamá le dice a su hermana en la casa: \"Lávate las manos antes de sentarte a la mesa\". ¿Qué diferencia hay entre las dos formas de hablar?",
+      "context": "En una biblioteca de Armenia, un grupo de niños lee el diálogo de la huerta y compara la manera de hablar de cada personaje con la forma de hablar de los adultos que conocen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay ninguna diferencia, porque las dos situaciones terminan con la misma persona obedecendo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se parece el resultado, pero no el modo de hablar: en un caso se pregunta y en el otro se manda."
+        },
+        {
+          "letter": "B",
+          "text": "En la huerta los niños hablan con frases cortas para pedir y para acordar, mientras que la mamá da una instrucción para que la hija cumpla",
+          "is_correct": true,
+          "feedback": "¡Correcto! El diálogo reparte turnos y pide permisos, y en cambio la frase de la mamá ordena una acción concreta."
+        },
+        {
+          "letter": "C",
+          "text": "En la huerta todos hablan igual, y la frase de la mamá solo agrega información sobre las manos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la huerta cada personaje habla distinto: una pregunta, una explicación y un comentario."
+        },
+        {
+          "letter": "D",
+          "text": "La frase de la mamá es un diálogo porque incluye la palabra mamá dentro de la oración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un diálogo necesita al menos dos turnos de habla, y la frase de la mamá es un solo turno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos ayuda a entender mejor cada uno, porque las diferencias muestran qué función cumple cada diálogo. En la huerta los niños se piden cosas entre ellos, y en la casa la mamá indica una conducta que debe seguirse. Reconocer esos dos usos del lenguaje permite entender quién habla y con qué intención en cualquier lectura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v6",
+      "statement": "Si se quitara del diálogo la frase de doña Rosa, ¿qué cambiaría en lo que entiende el lector sobre la huerta?",
+      "context": "En una escuela de Bello, la profesora pregunta a sus alumnos qué cambiaría del diálogo de la huerta si la abuela no estuviera presente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lector ya no sabría quién es la persona que espera a los niños en la huerta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración dice que la abuela Rosa los esperaba, y eso se sabe aunque ella no hable."
+        },
+        {
+          "letter": "B",
+          "text": "El lector no podría saber que los niños llevan semillas desde la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso se conoce por la respuesta de Martina, no por la frase de la abuela."
+        },
+        {
+          "letter": "C",
+          "text": "El lector se quedaría sin la explicación de para qué sirven las hojas y las semillas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Esa frase es la única que enseña una idea nueva sobre el uso de cada parte de la planta."
+        },
+        {
+          "letter": "D",
+          "text": "El lector perdería la noticia de que Sebastián sembró acelga el mes pasado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa noticia la trae la frase de Sebastián, que es un personaje distinto de doña Rosa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un diálogo consiste en observar cómo cada frase aporta información distinta al conjunto. La frase de doña Rosa cumple la función de enseñar, porque explica el uso de las hojas y de las semillas. Si se quitara, el resto de la escena seguiría ocurriendo igual, pero el lector perdería el conocimiento que la abuela quería transmitir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v7",
+      "statement": "Si un ilustrador tuviera que quitar una sola frase del diálogo de la huerta, ¿cuál debería quitar y por qué?",
+      "context": "En una escuela de Cartagena, la profesora pide a los niños que justifiquen cuál de las frases del diálogo es la más importante para comprender la escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La frase de doña Rosa, porque es la única que enseña para qué sirven las hojas y las semillas",
+          "is_correct": true,
+          "feedback": "¡Correcto! Quitar esa frase deja la escena sin la explicación que da sentido a la huerta y al trabajo de los niños."
+        },
+        {
+          "letter": "B",
+          "text": "La pregunta de Julián por la bolsa, porque el lector puede saber lo mismo sin ella",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa pregunta muestra el turno de palabra y la intención de Julián, y sin ella se pierde ese momento."
+        },
+        {
+          "letter": "C",
+          "text": "La frase de Sebastián, porque habla de otro personaje que no aparece en la escena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sebastián sí aparece en la puerta de la huerta, y su frase agrega que la acelga se cultiva allí desde antes."
+        },
+        {
+          "letter": "D",
+          "text": "La respuesta de Martina, porque las semillas aparecen mencionadas en la narración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración no dice que las semillas vinieran de la casa, y esa respuesta es la que lo aclara."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un diálogo consiste en justificar con razones qué parte es más importante para el conjunto del texto. La frase que enseña un conocimiento nuevo suele ser la más difícil de reemplazar cuando se quita. Un buen argumento señala la pérdida que produce esa ausencia y la conecta con la intención del personaje.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle-v8",
+      "statement": "Julián escribe en el grupo: \"¿Me dejan llevar la bolsa? Prometo que la cuido bien\". Teniendo en cuenta lo que aprendimos en el diálogo del cuento, ¿qué respuesta es la más adecuada para ese grupo de amigos?",
+      "context": "Un grupo de WhatsApp de un colegio de Villavicencio recibe un mensaje de Julián sobre la siembra de la acelga, y los compañeros discuten qué deberían responderle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tú siempre haces todo mal, mejor no te metas\", porque así cada quien sabe lo que le toca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa respuesta es una falta de respeto y además no contesta lo que Julián pidió."
+        },
+        {
+          "letter": "B",
+          "text": "\"Hagan silencio, que el agua ya llega\", porque avisa a todos sobre el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no responde sobre la bolsa de las semillas, así que deja el pedido sin solución."
+        },
+        {
+          "letter": "C",
+          "text": "\"No, porque las semillas no se siembran en este país\", porque corrige una idea equivocada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo explica que las semillas sí se siembran, y esa respuesta tampoco atiende el pedido."
+        },
+        {
+          "letter": "D",
+          "text": "\"Sí, llévala, pero cuéntanos cómo te va\", porque acepta la petición y mantiene la amistad",
+          "is_correct": true,
+          "feedback": "¡Correcto! La respuesta respeta lo que Julián pidió, lo trata con educación y deja abierta la conversación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir cómo se responde es también parte de la lectura de un diálogo, porque la intención de quien escribe se entiende por la respuesta que recibe. Una buena respuesta atiende lo que se pidió, lo hace con educación y no humilla a nadie. En este caso, aceptar la bolsa y pedir la cuenta del cultivo mantiene el turno de palabra y el respeto entre los amigos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
