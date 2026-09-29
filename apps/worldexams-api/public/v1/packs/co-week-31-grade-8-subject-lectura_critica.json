@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-31-grade-8-subject-lectura_critica",
+    "generated_at": "2026-09-29T08:19:21.980Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v1",
+      "statement": "Según el caso, ¿qué datos debe incluir el encabezamiento de una reseña crítica para que el lector sepa qué obra está juzgando?",
+      "context": "En la revista cultural de un colegio de Bogotá aparece una reseña que empieza así: \"Reseña. Gabriel García Márquez. Cien años de soledad. Editorial Sur, 1967\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título de la obra, su autoría, la editorial y el año de publicación.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: el encabezamiento identifica la obra para que cualquier lector pueda localizarla en una biblioteca o en una librería."
+        },
+        {
+          "letter": "B",
+          "text": "La biografía completa de quien escribe la reseña.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los datos del reseñista no son parte del encabezamiento de la obra y suelen aparecer al final, como firma."
+        },
+        {
+          "letter": "C",
+          "text": "El precio, el número de páginas y el código de barras de la edición.",
+          "is_correct": false,
+          "feedback": "Incorrecta: esos son datos comerciales de la edición, no datos de identificación de la obra que se juzga."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen completo de cada uno de los capítulos de la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el recorrido por todos los capítulos corresponde a la sinopsis, no al encabezamiento de una reseña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La reseña crítica se reconoce desde su encabezamiento porque allí aparecen los datos mínimos que permiten identificar la obra comentada: título, autoría, editorial y año. Ese pequeño bloque evita la ambigüedad y le ahorra al lector el trabajo de adivinar sobre qué texto se está opinando. Reconocer estos elementos desde temprano facilita después una tarea más difícil, que es distinguir una reseña de una sinopsis o de un aviso publicitario.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v2",
+      "statement": "¿Qué valor tiene, en esa oración, la expresión \"se rompe el ritmo\"?",
+      "context": "Una reseña de una novela de Buenaventura para escalar, escrita por un trabajador del puerto, afirma: \"El ritmo pausado de la primera mitad se rompe en el último capítulo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ritmo de la lectura del reseñista se vuelve lento y pesado.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la expresión describe lo que ocurre dentro de la obra, no la experiencia de quien la comenta."
+        },
+        {
+          "letter": "B",
+          "text": "La obra cambia de forma, porque su narración deja de ser pausada al final.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: la imagen del ritmo que se rompe alude al cambio en la manera de narrar dentro del texto reseñado."
+        },
+        {
+          "letter": "C",
+          "text": "El libro tiene páginas ilegibles que impiden seguir la lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecta: nada en la expresión alude a la legibilidad de la impresión, sino a la construcción narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "El reseñista interrumpió la lectura antes de llegar al final del libro.",
+          "is_correct": false,
+          "feedback": "Incorrecta: quien escribe la reseña llegó al final, pues de eso precisamente habla al comentar el último capítulo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En esta oración, romperse el ritmo es una imagen que describe un cambio interno de la obra: la forma de contar deja de ser lenta y tranquila. Comprender que el reseñista habla de la construcción de la novela y no de su propio lector permite interpretar correctamente los juicios sobre estilo. Esa capacidad de separar lo que el texto hace de lo que el comentario dice de él es un punto de partida para leer cualquier reseña con criterio propio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes textos cumple mejor el encargo de la coordinadora?",
+      "context": "La coordinadora de un colegio de Bucaramanga pide a los alumnos escribir reseñas de las novelas que leyeron para el boletín del colegio. Ella lo dice así: \"Quiero que cualquier lector que no haya abierto el libro entienda de qué trata y por qué vale la pena leerlo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto que empieza con una definición de novela y continúa con datos biográficos del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ocupa casi todo el espacio en información externa y no dice nada sobre la obra que el lector debe conocer."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que transcribe los capítulos completos para que nadie tenga que leer la novela por su cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecta: reproduce la obra entera en lugar de analizarla, lo cual desvirtúa el género y el propósito del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que identifica la obra, explica de qué trata en pocas líneas y expone un juicio sostenido en fragmentos del libro.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: cumple las dos tareas del encargo, informar lo esencial y justificar con razones por qué la recomendación tiene sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que cierra con una lista de los libros más vendidos del año en el país.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el dato de ventas es ajeno a la obra reseñada y no permite entender de qué trata ni juzgarla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto escrito para cumplir una solicitud concreta debe ajustarse a la situación de comunicación, en este caso un boletín escolar dirigido a lectores que no leyeron la obra. Por eso el mejor texto identifica el libro, resume su núcleo y formula un juicio con apoyo en el propio texto. Conocer el propósito real de un escrito es lo que permite elegir entre textos que son correctos en sus hechos pero inútiles para la tarea.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes afirmaciones funciona como el juicio central de esa reseña?",
+      "context": "En la sección cultural de un periódico de Pereira aparece una reseña de una crónica sobre el río Magdalena. La página incluye cuatro afirmaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La edición, a cargo de la Editorial del Río, tiene 245 páginas y una bibliografía de 32 fuentes.\"",
+          "is_correct": false,
+          "feedback": "Incorrecta: son datos descriptivos de la edición que podrían aparecer en cualquier ficha de libro, sin juzgar la obra."
+        },
+        {
+          "letter": "B",
+          "text": "\"Es un libro que vale la pena comprar en la librería más cercana de la ciudad.\"",
+          "is_correct": false,
+          "feedback": "Incorrecta: es una recomendación de compra sin argumentos, no un juicio sobre cómo funciona el texto."
+        },
+        {
+          "letter": "C",
+          "text": "\"El autor nació en una población del occidente colombiano y estudió en la capital.\"",
+          "is_correct": false,
+          "feedback": "Incorrecta: es información biográfica del autor, un dato externo que no evalúa la crónica."
+        },
+        {
+          "letter": "D",
+          "text": "\"La crónica consigue que el lector entienda por qué el río cambió de cauce, porque une los documentos con las voces de sus habitantes.\"",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: afirma un efecto de la obra y señala el procedimiento con el que lo consigue, propio de una reseña crítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El juicio central de una reseña es la afirmación que valora la obra y, al mismo tiempo, explica por qué se la valora. En el ejemplo, la frase no solo dice que la crónica es lograda, sino que señala el recurso que lo consigue, unir documentos y voces. Identificar esta frase entre datos descriptivos, datos biográficos y recomendaciones de compra es un ejercicio directo de análisis de la estructura argumentativa del género.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v5",
+      "statement": "¿Qué función cumple la segunda oración respecto de la primera?",
+      "context": "Una estudiante de Pereira está escribiendo la reseña de un cuento. Escribió: \"El personaje principal de la historia es un niño de la Costa\" y después: \"El autor usa un solo párrafo para toda la narración\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repite con otras palabras lo afirmado en la oración anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecta: las dos oraciones tratan de aspectos distintos, uno del personaje y otro de la forma de escribir."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia el tema de la reseña hacia la descripción del párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la segunda oración no abre un tema nuevo, sino que profundiza en el análisis de la misma obra."
+        },
+        {
+          "letter": "C",
+          "text": "Sostiene la afirmación anterior con un dato comprobable dentro del texto.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: un juicio sobre la obra necesita pruebas verificables, y la segunda oración aporta una."
+        },
+        {
+          "letter": "D",
+          "text": "Contradice lo que se afirmó sobre el personaje principal del cuento.",
+          "is_correct": false,
+          "feedback": "Incorrecta: nada en la segunda oración desmiente que el personaje sea un niño de la Costa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un texto crítico, toda afirmación sobre la obra debe ir acompañada de pruebas que el lector pueda comprobar. La segunda oración cumple esa función porque aporta un rasgo objetivo de la narración, la extensión en párrafos. Practicar esta relación entre juicio y evidencia es lo que separa una reseña útil de una simple opinión. Cuando un estudiante escribe, puede preguntarse dónde están sus pruebas y añadirlas si faltan.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación debe establecer el lector crítico entre esa afirmación de la reseña y la obra reseñada?",
+      "context": "Una reseña de una novela histórica ambientada en Popayán afirma: \"El autor no inventa: recupera archivos y cronistas que nadie había vuelto a mirar\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprobar si los documentos y las fuentes que la reseña menciona aparecen realmente en la novela.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: verificar la afirmación en la obra es el puente entre el comentario y el texto que se comenta."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántos capítulos tiene la novela y dividirlos entre las fuentes citadas.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el número de capítulos no dice nada sobre si la afirmación del reseñista es cierta."
+        },
+        {
+          "letter": "C",
+          "text": "Consultar el precio de la novela en las librerías de Bogotá y compararlo con el de otras.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el dato comercial es ajeno a la afirmación que se debe comprobar."
+        },
+        {
+          "letter": "D",
+          "text": "Averiguar si el diseño de la portada fue elaborado por el mismo autor de la novela.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la portada no interviene en la afirmación sobre el uso de fuentes históricas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leer una reseña con sentido crítico exige tratar cada afirmación como una hipótesis que se puede poner a prueba en la obra. Cuando el reseñista dice que el autor recupera fuentes, el lector tiene que buscar esos documentos dentro del texto y ver si aparecen. Ese cruce entre lo que se afirma y lo que se puede verificar es el ejercicio central de la lectura intertextual. Solo así la opinión deja de ser una autoridad y pasa a ser un punto de partida comprobado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el problema principal de ese juicio, si el texto se presenta como una reseña crítica?",
+      "context": "En la sección de opiniones de un periódico de Cali, un adolescente escribe sobre una novela: \"Este libro es pésimo porque no me gustó nada\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa un lenguaje coloquial que no corresponde al tono de un periódico.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el tono puede ajustarse, pero eso no es lo que impide que el texto funcione como reseña."
+        },
+        {
+          "letter": "B",
+          "text": "Es demasiado corto para publicarse dentro de un periódico de circulación departamental.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la extensión del texto no es el criterio que define si un juicio es o no una crítica."
+        },
+        {
+          "letter": "C",
+          "text": "No menciona el título de la obra, lo que impide saber de qué libro se habla.",
+          "is_correct": false,
+          "feedback": "Incorrecta: en el caso presentado sí se alude a un libro concreto, y el problema central es otro."
+        },
+        {
+          "letter": "D",
+          "text": "No ofrece ninguna razón, dato ni fragmento que permita entender el juicio.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: un juicio sin razones no se puede valorar ni discutir, y por eso la reseña pierde su función crítica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diferencia entre una queja y una reseña crítica está en el apoyo: la primera expresa una molestia, la segunda formula un juicio que puede sostenerse y discutirse. El ejemplo muestra un juicio valorativo sin ninguna razón, por lo que ni siquiera puede ser refutado. Detectar esa ausencia de razones es un gesto de lectura evaluativa que se puede aplicar a reseñas profesionales. Es también una guía útil al propio escribir: cada juicio necesita su porqué.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la diferencia que separa a los dos textos en cuanto a la relación entre sus oraciones?",
+      "context": "Camila, estudiante de Barranquilla, preparó dos textos sobre la misma novela: una sinopsis de cuatro líneas y una reseña de una página.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sinopsis une sus oraciones con conectores de suma y la reseña con conectores de oposición.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los conectores existen en ambos textos; lo que cambia no es su tipo sino la operación que realiza cada uno."
+        },
+        {
+          "letter": "B",
+          "text": "La sinopsis usa oraciones largas con sujeto tácito y la reseña oraciones cortas con sujeto explícito.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la longitud y la expresión del sujeto pueden variar en los dos textos sin que cambie su género."
+        },
+        {
+          "letter": "C",
+          "text": "La sinopsis se construye con oraciones simples y la reseña con oraciones compuestas por subordinación.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los dos textos pueden presentar ambos tipos de oraciones sin que eso los distinga como sinopsis o reseña."
+        },
+        {
+          "letter": "D",
+          "text": "La sinopsis encadena hechos con conectores de tiempo y la reseña enlaza razones con conectores de causa y consecuencia.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: el tipo de relación que se establece entre las oraciones es lo que define la operación de cada texto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La estructura de las oraciones revela la lógica interna de cada texto. En la sinopsis, las oraciones se enlazan con relaciones de tiempo y secuencia porque lo que se recounts es una sucesión de hechos narrados. En la reseña, predominan las relaciones de causa y consecuencia porque lo que se construye es un juicio. Observar qué conectores y qué relaciones se repiten en un párrafo es una herramienta precisa para identificar la operación discursiva de un texto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v9",
+      "statement": "Frente a esos criterios, ¿cómo debe ser juzgada esa reseña y por qué?",
+      "context": "El profesor de Pasto propone evaluar las reseñas del curso con tres criterios: identificar la obra, formular un juicio con razones y no afirmar cosas que el texto no sostenga. Una reseña del grupo afirma: \"El autor nunca usa metáforas\", y el grupo no revisó el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debe ser aprobada, porque toda afirmación negativa sobre un autor es una opinión personal.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los criterios del profesor distinguen claramente entre opinión libre y afirmación comprobable sobre la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Debe ser rechazada solo por el primer criterio, porque no identifica el título de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecta: aunque ese dato falta en el ejemplo, el problema más grave es la afirmación que el texto no sostiene."
+        },
+        {
+          "letter": "C",
+          "text": "Debe ser rechazada por el tercer criterio, porque una afirmación absoluta sobre el estilo solo vale si se comprueba en la obra.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: un juicio absoluto y no verificado es exactamente lo que el tercer criterio busca evitar."
+        },
+        {
+          "letter": "D",
+          "text": "Debe ser rechazada porque las reseñas no pueden contener ningún juicio sobre la calidad de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el género existe justamente para formular juicios, siempre que Accompanados de razones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un texto crítico contra criterios explícitos es una tarea ordenada: se revisan uno por uno los compromisos y se identifica cuál se incumple. En este caso, la afirmación absoluta y sin revisión es la falla más seria, porque presenta como hecho algo que nadie comprobó. Reconocer que un juicio puede ser legítimo solo si está verificado enseña a distinguir opinión fundamentada de afirmación sin base. Esa distinción es el fundamento de una lectura crítica responsable.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las dos reseñas sirve mejor para decidir si vale la pena leer la novela, y por qué?",
+      "context": "En una librería de Medellín hay dos reseñas de la misma novela. Una, escrita por un sitio web de ventas, dice solamente \"un libro que no puedes dejar de leer\" y no menciona a la autoría ni el argumento. La otra, publicada por un diario regional, identifica la obra, explica su núcleo y da dos razones para recomendarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del sitio de ventas, porque un juicio tan rotundo demuestra que la obra es excelente.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la seguridad del tono no sustituye la información y no permite formarse un juicio propio."
+        },
+        {
+          "letter": "B",
+          "text": "La del diario regional, porque ofrece datos identificables de la obra que permiten verificar su juicio.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: solo un texto que aporta información comprobable sobre la obra puede sostener una decisión de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos, porque las dos presentan a la novela como algo que vale la pena.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la coincidencia en la recomendación no compensa la diferencia en la calidad informativa de cada texto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque para elegir un libro es indispensable leerlo completo de antemano.",
+          "is_correct": false,
+          "feedback": "Incorrecta: las reseñas existen precisamente para orientar una decisión previa a la lectura completa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La utilidad de una reseña como herramienta de decisión depende de si entrega información que el lector pueda comprobar. El texto publicitario usa un lenguaje de elogio que no describe la obra, mientras que la reseña del diario ofrece elementos concretos y verificables. Confrontar dos textos sobre la misma obra enseña a pesar la calidad de un comentario por su contenido y no por su tono. Esa comparación prepara al estudiante para evaluar fuentes de información en contextos digitales.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v11",
+      "statement": "¿Qué criterio pragmático debe guiar la redacción de esas reseñas?",
+      "context": "El blog del colegio de Bogotá debe publicar reseñas de las novelas que leyó el grado. La profesora les pide a los grupos: \"No revelen el final, porque el blog también lo leerán estudiantes de grados menores\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir de qué trata la obra y el efecto que produjo, sin anticipar los detalles que le quitarían la sorpresa a los lectores jóvenes.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: el criterio pragmático pesa a la situación real de comunicación, con su audiencia concreta y sus restricciones."
+        },
+        {
+          "letter": "B",
+          "text": "Publicar el desenlace completo, porque el blog está dirigido a personas mayores de edad.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la indicación de la profesora se refiere a todo el público del blog, incluidos los grados menores."
+        },
+        {
+          "letter": "C",
+          "text": "Redactar únicamente la sinopsis del argumento y suprimir cualquier valoración de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecta: eliminar todo juicio vacía la reseña de su función crítica y no resuelve el asunto del desenlace."
+        },
+        {
+          "letter": "D",
+          "text": "Omitir toda mención al autor de la obra, porque ahí está el origen del problema con los finales.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el dato del autor es parte del encabezamiento y no interviene en la cuestión del final."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Elegir cómo escribir un texto significa ajustar el contenido a la situación de comunicación real, con su audiencia y con sus límites. En este caso, la restricción proviene de una indicación de la profesora sobre la composición del público del blog. Cumplirla no significa callar la valoración, sino encontrar la manera de valorarla sin revelar el desenlace. Practicar esta medida de la situación enseña a escribir textos responsables para audiencias concretas.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle-v12",
+      "statement": "¿Qué debe contener ese párrafo de cierre para que la reseña cumpla a la vez su función informativa y su función crítica?",
+      "context": "En la evaluación final, cada grupo de Cartagena debe escribir el párrafo de cierre de su reseña, después de haber analizado la obra y haber comparado dos reseñas publicadas sobre ella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un resumen detallado de todo el argumento, capítulo por capítulo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ese desarrollo corresponde a la sinopsis y desplaza el peso hacia la información, no hacia el juicio."
+        },
+        {
+          "letter": "B",
+          "text": "Una decisión argumentada: a qué tipo de lector recomienda la obra y con qué razones.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: el cierre condensa el análisis y resuelve la reseña en un juicio, que es lo propio del género."
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de los datos biográficos y de publicación del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecta: reunir datos de autor es un procedimiento de investigación, no el cierre de un texto crítico."
+        },
+        {
+          "letter": "D",
+          "text": "Una recomendación de compra acompañada del precio del libro en la librería.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el dato de precio no es una valoración de la obra y no permite decidir si vale la pena leerla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cierre de una reseña debe resolver lo que el texto abrió: decir de qué se trata la obra y qué juicio merece. La mejor forma de lograrlo es una decisión argumentada, dirigida a un lector concreto y sostenida con las razones analizadas a lo largo del texto. Ese párrafo reutiliza todo lo aprendido en la semana y muestra la diferencia entre resumir y valorar. También prepara el terreno para la evaluación integradora del final del semestre.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W31-la-resena-critica-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
