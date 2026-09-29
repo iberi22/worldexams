@@ -34,10 +34,10 @@ Semana 29 de 40 del año escolar 2026. Esta semana acerca la literatura a la con
 ¿Qué es un testimonio en el contexto de la literatura sobre derechos humanos?
 
 ### Opciones
-- [ ] A) Es un documento legal que enumera los derechos de los ciudadanos.
-  <!-- feedback: El documento legal es parte del marco normativo, no un testimonio personal. -->
-- [x] B) Es el relato de una persona que expone su experiencia y la dignidad de lo vivido.
+- [x] A) Es el relato de una persona que expone su experiencia y la dignidad de lo vivido.
   <!-- feedback: El testimonio da voz a una experiencia concreta y respeta su valor humano. -->
+- [ ] B) Es un documento legal que enumera los derechos de los ciudadanos.
+  <!-- feedback: El documento legal es parte del marco normativo, no un testimonio personal. -->
 - [ ] C) Es una biografía escrita por alguien que nunca conoció al protagonista.
   <!-- feedback: La biografía es un género distinto: aquí la voz es la de quien vivió. -->
 - [ ] D) Es una canción popular que Franklin cuenta la historia de un barrio.
@@ -57,10 +57,10 @@ El testimonio es el relato de quien vivió o presenció una experiencia y la nar
 El poema dice: "La memoria no guarda fechas, guarda nombres". ¿Qué idea sobre la memoria histórica sostiene?
 
 ### Opciones
-- [ ] A) Que la historia solo existe en los documentos de archivo.
-  <!-- feedback: El poema no reduce la historia a los documentos: la vincula con las personas. -->
-- [x] B) Que el recuerdo se sostiene sobre las personas y no sobre las fechas administrativas.
+- [x] A) Que el recuerdo se sostiene sobre las personas y no sobre las fechas administrativas.
   <!-- feedback: La primera persona de la frase sugiere que lo esencial es la vida de alguien. -->
+- [ ] B) Que la historia solo existe en los documentos de archivo.
+  <!-- feedback: El poema no reduce la historia a los documentos: la vincula con las personas. -->
 - [ ] C) Que las fechas son equivocadas y por eso deben eliminarse de los archivos.
   <!-- feedback: El poema no pide eliminar las fechas: les da menor peso frente a los nombres. -->
 - [ ] D) Que la memoria pertenece solo a las generaciones que vinieron antes.
@@ -82,12 +82,12 @@ Un texto dice: "Ninguna persona es ilegal por el hecho de buscar un lugar donde 
 ### Opciones
 - [ ] A) Que toda migración es un derecho que no admite restricciones.
   <!-- feedback: El texto defiende la dignidad de la persona, no la ausencia de reglas. -->
-- [x] B) Que las personas no pierden su dignidad por sus circunstancias de origen.
-  <!-- feedback: La frase afirma que la dignidad no depende del lugar de nacimiento. -->
+- [ ] B) Que las personas deben permanecer siempre en su lugar de origen.
+  <!-- feedback: La frase no habla de permanencia: habla del valor de cada persona. -->
 - [ ] C) Que los gobiernos deben abrir todas sus fronteras sin condiciones.
   <!-- feedback: Eso sería una consecuencia política, no lo que la frase enuncia. -->
-- [ ] D) Que las personas deben permanecer siempre en su lugar de origen.
-  <!-- feedback: La frase no habla de permanencia: habla del valor de cada persona. -->
+- [x] D) Que las personas no pierden su dignidad por sus circunstancias de origen.
+  <!-- feedback: La frase afirma que la dignidad no depende del lugar de nacimiento. -->
 
 ### Explicacion Pedagogica
 La dignidad humana es el reconocimiento del valor de cada persona por el simple hecho de existir. Cuando un texto la defiende frente a circunstancias como el origen, la pobreza o la migración, estáathlethicando un principio de derechos humanos. Reconocer ese principio permite evaluar muchas afirmaciones sobre la convivencia y la igualdad.
@@ -103,10 +103,10 @@ La dignidad humana es el reconocimiento del valor de cada persona por el simple 
 En un cuento, una niña pierde su lugar en el equipo de fútbol, pero sigue entrenando y funda un club nuevo. ¿Qué muestra el texto?
 
 ### Opciones
-- [ ] A) Que perder algo siempre destruye a una persona para siempre.
-  <!-- feedback: El texto muestra lo contrario: la adversidad puede transformarse en un proyecto. -->
-- [x] B) Que la adversidad puede convertirse en un impulso para construir algo nuevo.
+- [x] A) Que la adversidad puede convertirse en un impulso para construir algo nuevo.
   <!-- feedback: La continuidad de la acción del personaje expresa la resiliencia. -->
+- [ ] B) Que perder algo siempre destruye a una persona para siempre.
+  <!-- feedback: El texto muestra lo contrario: la adversidad puede transformarse en un proyecto. -->
 - [ ] C) Que el talento no sirve de nada cuando las circunstancias son difíciles.
   <!-- feedback: Nada en el texto invalida el talento: la historia se resuelve con esfuerzo. -->
 - [ ] D) Que hay que evitar las adversidades para no tener que enfrentarlas.
@@ -152,10 +152,10 @@ El texto A cuenta la situación desde la persona afectada y nombra lo que vivió
   <!-- feedback: Describir lo mismo desde voces distintas produce textos distintos. -->
 - [ ] B) El texto A es más objetivo, porque no emite juicios.
   <!-- feedback: La objetividad no se logra con omisión de la voz: hay que dar espacio a la persona. -->
-- [x] C) El texto A da la palabra a quien vivió la situación; el texto B la analiza desde fuera.
-  <!-- feedback: Esa diferencia de posición cambia lo que el lector puede comprender. -->
-- [ ] D) El texto B es más valioso, porque cualquier persona puede escribir sobre el tema.
+- [ ] C) El texto B es más valioso, porque cualquier persona puede escribir sobre el tema.
   <!-- feedback: La acceso a escribir no determina el valor: importa la posición desde la que se narra. -->
+- [x] D) El texto A da la palabra a quien vivió la situación; el texto B la analiza desde fuera.
+  <!-- feedback: Esa diferencia de posición cambia lo que el lector puede comprender. -->
 
 ### Explicacion Pedagogica
 Un mismo hecho puede narrarse desde la voz de quien lo vivió o desde la voz de quien lo analiza. La primera opción entrega la experiencia; la segunda ofrece interpretación y datos. Ambas aportan, y reconocer la diferencia de posición evita exigir a un testimonio la frialdad de un informe o a un informe la emotionally cercanía de una voz personal.

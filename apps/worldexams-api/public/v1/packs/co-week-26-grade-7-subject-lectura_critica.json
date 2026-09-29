@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-26-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.266Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un narrador testigo?",
+      "context": "En la clase de lectura crítica de Bogotá, la profesora presenta los tipos de narrador antes de leer un cuento del libro escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alguien que participa en los hechos y los cuenta desde su propia experiencia.",
+          "is_correct": true,
+          "feedback": "El testigo es un personaje implicado que relata lo que le tocó vivir."
+        },
+        {
+          "letter": "B",
+          "text": "Alguien que cuenta la historia y conoce los pensamientos de todos los personajes.",
+          "is_correct": false,
+          "feedback": "Eso describe al narrador omnisciente, no al testigo."
+        },
+        {
+          "letter": "C",
+          "text": "Alguien que cuenta la historia sin haber participado en ella.",
+          "is_correct": false,
+          "feedback": "Un narrador que no participa se limita a observar, no es el testigo."
+        },
+        {
+          "letter": "D",
+          "text": "Alguien que resume la obra completa al final para explicar su sentido.",
+          "is_correct": false,
+          "feedback": "Resumir y explicar el sentido no es lo que define al narrador testigo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El narrador testigo es un personaje dentro de la historia que relata lo que le pasó, con las limitaciones de quien no estuvo presente en todo. Esa limitación es su principal valor, porque el lector recibe la información desde una posición concreta y limitada. Por eso su narración suele tener un tono cercano y un alcance limitado de información.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v2",
+      "statement": "El narrador dice: \"Abrí la puerta y vi el pasillo vacío. Pero, por alguna razón, el pelo de mis brazos se erizó\". ¿Qué posición adopta el narrador?",
+      "context": "En un taller de lectura de Popayán, un grupo lee el inicio de un cuento de terror.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Omnisciente, porque anticipa lo que va a ocurrir al final de la historia.",
+          "is_correct": false,
+          "feedback": "El narrador no anticipa nada: solo registra lo que ocurre y lo que siente."
+        },
+        {
+          "letter": "B",
+          "text": "Segunda persona, porque le pide al lector que abra la puerta.",
+          "is_correct": false,
+          "feedback": "El pronombre es yo: la narración es en primera persona."
+        },
+        {
+          "letter": "C",
+          "text": "Testigo neutral, porque describe la escena sin valorarla.",
+          "is_correct": false,
+          "feedback": "La reacción del pelo erizado revela una experiencia personal, no neutralidad."
+        },
+        {
+          "letter": "D",
+          "text": "Participante en primera persona, porque forma parte de lo que narra.",
+          "is_correct": true,
+          "feedback": "Habla como un yo implicado, con percepciones y reacciones propias."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando el narrador dice yo, adopta una posición participante: cuenta los hechos y también sus equivocaciones, sus emociones. Esa combinación de acción y reacción es lo que distingue al personaje narrador de un testigo ajeno a lo que ocurre. Reconocer el pronombre es el paso inicial para clasificar la voz narrativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v3",
+      "statement": "La versión A dice: \"Caminaba solo por el parque cuando alguien me llamó por el nombre\". La versión B dice: \"Un joven que caminaba solo por el parque oyó que alguien lo llamaba por el nombre\". ¿Qué cambia entre ambas?",
+      "context": "En la biblioteca de Pasto, un grupo compara dos versiones del mismo episodio de un relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A pone la voz en primera persona y la B usa tercera persona.",
+          "is_correct": true,
+          "feedback": "El pronombre define la perspectiva y el nivel de información disponible."
+        },
+        {
+          "letter": "B",
+          "text": "No cambia nada, porque las dos frases dicen lo mismo.",
+          "is_correct": false,
+          "feedback": "Cambia la posición del narrador y, con ella, lo que el lector puede saber."
+        },
+        {
+          "letter": "C",
+          "text": "La versión A es un resumen y la B es un monólogo interior.",
+          "is_correct": false,
+          "feedback": "Ninguna de las dos es monólogo: ambas narran un hecho desde una distancia distinta."
+        },
+        {
+          "letter": "D",
+          "text": "La versión A es más larga, y por eso aporta más información.",
+          "is_correct": false,
+          "feedback": "La longitud no es lo que cambia: lo determinante es el pronombre empleado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cambiar la persona del verbo cambia el punto de vista. En primera persona, el lector accede a lo que el personaje vive; en tercera persona, el narrador puede observar sin participar y puede añadir datos que el personaje ignora. Comparar las dos versiones ayuda a ver cómo la forma del enunciado orienta la información que recibe el lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v4",
+      "statement": "En el fragmento, el texto dice: \"Pensé que si le decía la verdad, se iría para siempre. Y el corazón me latía más rápido\". ¿Qué evidencia del monólogo interior se observa?",
+      "context": "En clase de Medellín, la profesora explica el monólogo interior con un fragmento de novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de varios personajes dialogando entre sí.",
+          "is_correct": false,
+          "feedback": "Solo hay una voz: la del personaje, y no hay diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "La exposición de datos objetivos sobre el entorno del personaje.",
+          "is_correct": false,
+          "feedback": "El fragmento expresa un mundo subjetivo, no datos objetivos."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción minuciosa del físico de todos los personajes.",
+          "is_correct": false,
+          "feedback": "La descripción física no aparece: lo que se relata es el mundo interior."
+        },
+        {
+          "letter": "D",
+          "text": "La narración de pensamientos, recuerdos y los del personaje no dichos.",
+          "is_correct": true,
+          "feedback": "El monólogo interior transmite la vida mental del personaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El monólogo interior es la representación de los pensamientos, las dudas y los recuerdos de un personaje que no dice en voz alta. Se reconoce por la entrada en la conciencia y por la mezcla de preguntas, imágenes y emociones. Su presencia acerca al lector al personaje y permite conocer lo que la voz externa no diría.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v5",
+      "statement": "Una escena cuenta que \"la mochila desapareció de la sala y nadie vio nada\". ¿Qué debe hacer quien la reescriba desde otro personaje?",
+      "context": "En un taller de escritura de Duitama, los estudiantes reescriben una escena desde otro punto de vista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener exactamente las mismas palabras, porque la información ya es suficiente.",
+          "is_correct": false,
+          "feedback": "Cambiar la perspectiva sin cambiar el enfoque deja igual la escena."
+        },
+        {
+          "letter": "B",
+          "text": "Contar lo que vio y sintió ese otro personaje, aunque no coincida con lo del primer narrador.",
+          "is_correct": true,
+          "feedback": "Cambiar de personaje cambia la información disponible, las emociones y el tono."
+        },
+        {
+          "letter": "C",
+          "text": "Añadir datos que el primer narrador no mencionó, sin relación con la escena.",
+          "is_correct": false,
+          "feedback": "Los datos deben mantener verosimilitud con la nueva voz."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar la escena original, porque dos versiones del mismo hecho son redundantes.",
+          "is_correct": false,
+          "feedback": "Las dos versiones pueden convivir: muestran la pluralidad de la experiencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reescribir una escena desde otro personaje implica asumir una mirada distinta, con lo que vio, lo que sintió y lo que no puede comprobar. Esta limitación es precisamente el valor del ejercicio: permite ver que el mismo hecho puede vivirse de maneras diferentes según quién lo narre, y que la verdad de una historia depende en parte de quién la cuenta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v6",
+      "statement": "En el capítulo final, la narración pasa de la voz omnisciente a la del antagonista. ¿Qué efecto tiene ese cambio?",
+      "context": "En el aula de Barranquilla, un grupo analiza el efecto de un cambio de narrador en un relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite conocer los motivos del antagonista, que antes quedaban ocultos.",
+          "is_correct": true,
+          "feedback": "El cambio de voz hace visible lo que la voz anterior no mostraba."
+        },
+        {
+          "letter": "B",
+          "text": "Elimina la información del narrador anterior, de modo que el lector la pierde.",
+          "is_correct": false,
+          "feedback": "El lector conserva lo anterior: el cambio amplía, no borra."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el relato en una biografía del antagonista.",
+          "is_correct": false,
+          "feedback": "Una voz en primera persona no convierte el relato en biografía."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce la tensión, porque el lector ya sabe cómo termina la historia.",
+          "is_correct": false,
+          "feedback": "Conocer los motivos del antagonista puede aumentar la tensión dramática."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cambio de perspectiva es una herramienta narrativa poderosa porque desplaza el foco de la acción. Cuando la voz omnisciente da paso a la del antagonista, el lector accede a un conocimiento que antes le estaba oculto. Ese desplazamiento genera efectos como ironía, compasión o peligro, según el caso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v7",
+      "statement": "En el texto A, el personaje llega tarde y el narrador dice que fue por la lluvia. En el texto B, llega tarde y el narrador dice que fue por negligencia. ¿Qué se puede concluir?",
+      "context": "En un proyecto de lectura de Santa Marta, dos estudiantes comparan cómo dos autores tratan el mismo personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en el texto A el personaje sí tuvo la culpa y en el texto B no.",
+          "is_correct": false,
+          "feedback": "La valoración es del narrador, no una certeza sobre los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la diferencia de valoración está en la perspectiva del narrador de cada texto.",
+          "is_correct": true,
+          "feedback": "Los hechos relatados son semejantes; cambia el juicio de quien los cuenta."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto A es más corto, por eso usa menos palabras.",
+          "is_correct": false,
+          "feedback": "La longitud no explica la diferencia de valoración."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto B es más viejo, y por eso su lenguaje está desactualizado.",
+          "is_correct": false,
+          "feedback": "Nada en el ejemplo permite deducir la antigüedad del texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos que narran hechos semejantes permite observar cómo la perspectiva cambia la interpretación. El mismo comportamiento puede ser explicado por causas benignas o negligentes según el narrador, sin que los hechos varien. Por eso leer con criterio implica preguntar siempre quién cuenta y con qué intención.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v8",
+      "statement": "Un narrador dice: \"Se dice que el barrio perdió el río por la construcción de las obras\". ¿Qué efecto tiene la construcción?",
+      "context": "En clase de Santa Marta, la profesora analiza cómo ciertas construcciones verbales construyen la distancia narrativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierra el relato con una conclusión firme sobre lo ocurrido.",
+          "is_correct": false,
+          "feedback": "La construcción abre el relato a la duda, no a la certeza."
+        },
+        {
+          "letter": "B",
+          "text": "Introduce un rumor, porque se remite a lo que otros dicen sin confirmarlo.",
+          "is_correct": true,
+          "feedback": "El enunciado introduce la versión de terceros y la marca como no verificada."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte al narrador en un testigo directo de los hechos.",
+          "is_correct": false,
+          "feedback": "El narrador no estaba: se limita a repetir lo que se dice."
+        },
+        {
+          "letter": "D",
+          "text": "Fija una fecha exacta para los hechos relatados.",
+          "is_correct": false,
+          "feedback": "La construcción no aporta ningún dato temporal preciso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos de la voz indirecta, como se dice que, permiten introducir información que el narrador no puede confirmar. El lector recibe un dato con una marca explícita de conjetura, y esa marca orienta la lectura crítica. Reconocerla evita tomar como hecho lo que solo es un rumor o una versión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v9",
+      "statement": "¿Con qué criterio se puede juzgar mejor si la perspectiva elegida funciona en el relato?",
+      "context": "En un seminario de lectura crítica de Valledupar, se evalúa un relato que presenta un conflicto desde un solo punto de vista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contando cuántos capítulos narran desde esa misma voz.",
+          "is_correct": false,
+          "feedback": "La cantidad de capítulos no garantiza que la perspectiva sea eficaz."
+        },
+        {
+          "letter": "B",
+          "text": "Comprobando si el autor escribió en primera persona durante toda la obra.",
+          "is_correct": false,
+          "feedback": "Mantener el pronombre no resuelve si esa decisión funciona narrativamente."
+        },
+        {
+          "letter": "C",
+          "text": "Evaluando si esa voz aporta información específica y sostiene la tensión del relato.",
+          "is_correct": true,
+          "feedback": "El criterio es funcional: la perspectiva debe servir al relato, no repetirse."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntando si el lector se divierte con el relato, porque su opinión es definitiva.",
+          "is_correct": false,
+          "feedback": "El entretenimiento es un efecto posible, no un criterio de validez narrativa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La perspectiva narrativa se evalúa por su función. Una voz puede sostenerse a lo largo de toda la obra y aun así no aportar nada: si no da información propia, no genera tensión y no obliga a interpretar, la decisión narrativa falla. El criterio es narrativo, no formal ni de gusto personal.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v10",
+      "statement": "Si un personaje cuenta que se salvó porque Rappelled una puerta, y otro cuenta que se salvó porque Rappelled un árbol, ¿qué lectura crítica es más adecuada?",
+      "context": "En un proyecto de cierre de período en Palmira, un grupo lee el mismo acontecimiento de una inundación narrado por dos personajes distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concluir que la segunda versión es falsa, porque contradice a la primera.",
+          "is_correct": false,
+          "feedback": "Dos testimonios pueden diferir sin que uno sea falso: ambos son experiencias parciales."
+        },
+        {
+          "letter": "B",
+          "text": "Concluir que la primera versión es correcta, porque se narró primero.",
+          "is_correct": false,
+          "feedback": "El orden de narración no determina la exactitud de un testimonio."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer que cada versión muestra lo que ese personaje vio y buscar una fuente que complemente.",
+          "is_correct": true,
+          "feedback": "Complementar las versiones es el camino para reconstruir el hecho completo."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar ambos testimonios, porque no coinciden entre sí.",
+          "is_correct": false,
+          "feedback": "El desacuerdo no invalida: indica que falta información para contrastar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pluralidad de versiones es habitual en cualquier relato y más todavía en el testimonio. Cada narrador aporta lo que percibió desde su lugar, y por eso las versiones pueden ser complementarias. La lectura crítica no elimina el desacuerdo: lo usa para buscar fuentes adicionales y reconstruir una versión más completa de lo ocurrido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W26-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

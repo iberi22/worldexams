@@ -34,10 +34,10 @@ Semana 26 de 40 del año escolar 2026. Esta semana entrena el análisis de la vo
 ¿Qué es un narrador testigo?
 
 ### Opciones
-- [ ] A) Alguien que cuenta la historia y conoce los pensamientos de todos los personajes.
-  <!-- feedback: Eso describe al narrador omnisciente, no al testigo. -->
-- [x] B) Alguien que participa en los hechos y los cuenta desde su propia experiencia.
+- [x] A) Alguien que participa en los hechos y los cuenta desde su propia experiencia.
   <!-- feedback: El testigo es un personaje implicado que relata lo que le tocó vivir. -->
+- [ ] B) Alguien que cuenta la historia y conoce los pensamientos de todos los personajes.
+  <!-- feedback: Eso describe al narrador omnisciente, no al testigo. -->
 - [ ] C) Alguien que cuenta la historia sin haber participado en ella.
   <!-- feedback: Un narrador que no participa se limita a observar, no es el testigo. -->
 - [ ] D) Alguien que resume la obra completa al final para explicar su sentido.
@@ -59,12 +59,12 @@ El narrador dice: "Abrí la puerta y vi el pasillo vacío. Pero, por alguna raz�
 ### Opciones
 - [ ] A) Omnisciente, porque anticipa lo que va a ocurrir al final de la historia.
   <!-- feedback: El narrador no anticipa nada: solo registra lo que ocurre y lo que siente. -->
-- [x] B) Participante en primera persona, porque forma parte de lo que narra.
-  <!-- feedback: Habla como un yo implicado, con percepciones y reacciones propias. -->
+- [ ] B) Segunda persona, porque le pide al lector que abra la puerta.
+  <!-- feedback: El pronombre es yo: la narración es en primera persona. -->
 - [ ] C) Testigo neutral, porque describe la escena sin valorarla.
   <!-- feedback: La reacción del pelo erizado revela una experiencia personal, no neutralidad. -->
-- [ ] D) Segunda persona, porque le pide al lector que abra la puerta.
-  <!-- feedback: El pronombre es yo: la narración es en primera persona. -->
+- [x] D) Participante en primera persona, porque forma parte de lo que narra.
+  <!-- feedback: Habla como un yo implicado, con percepciones y reacciones propias. -->
 
 ### Explicacion Pedagogica
 Cuando el narrador dice yo, adopta una posición participante: cuenta los hechos y también sus equivocaciones, sus emociones. Esa combinación de acción y reacción es lo que distingue al personaje narrador de un testigo ajeno a lo que ocurre. Reconocer el pronombre es el paso inicial para clasificar la voz narrativa.
@@ -80,10 +80,10 @@ Cuando el narrador dice yo, adopta una posición participante: cuenta los hechos
 La versión A dice: "Caminaba solo por el parque cuando alguien me llamó por el nombre". La versión B dice: "Un joven que caminaba solo por el parque oyó que alguien lo llamaba por el nombre". ¿Qué cambia entre ambas?
 
 ### Opciones
-- [ ] A) No cambia nada, porque las dos frases dicen lo mismo.
-  <!-- feedback: Cambia la posición del narrador y, con ella, lo que el lector puede saber. -->
-- [x] B) La versión A pone la voz en primera persona y la B usa tercera persona.
+- [x] A) La versión A pone la voz en primera persona y la B usa tercera persona.
   <!-- feedback: El pronombre define la perspectiva y el nivel de información disponible. -->
+- [ ] B) No cambia nada, porque las dos frases dicen lo mismo.
+  <!-- feedback: Cambia la posición del narrador y, con ella, lo que el lector puede saber. -->
 - [ ] C) La versión A es un resumen y la B es un monólogo interior.
   <!-- feedback: Ninguna de las dos es monólogo: ambas narran un hecho desde una distancia distinta. -->
 - [ ] D) La versión A es más larga, y por eso aporta más información.
@@ -105,12 +105,12 @@ En el fragmento, el texto dice: "Pensé que si le decía la verdad, se iría par
 ### Opciones
 - [ ] A) La presencia de varios personajes dialogando entre sí.
   <!-- feedback: Solo hay una voz: la del personaje, y no hay diálogo. -->
-- [x] B) La narración de pensamientos, recuerdos y los del personaje no dichos.
-  <!-- feedback: El monólogo interior transmite la vida mental del personaje. -->
+- [ ] B) La exposición de datos objetivos sobre el entorno del personaje.
+  <!-- feedback: El fragmento expresa un mundo subjetivo, no datos objetivos. -->
 - [ ] C) La descripción minuciosa del físico de todos los personajes.
   <!-- feedback: La descripción física no aparece: lo que se relata es el mundo interior. -->
-- [ ] D) La exposición de datos objetivos sobre el entorno del personaje.
-  <!-- feedback: El fragmento expresa un mundo subjetivo, no datos objetivos. -->
+- [x] D) La narración de pensamientos, recuerdos y los del personaje no dichos.
+  <!-- feedback: El monólogo interior transmite la vida mental del personaje. -->
 
 ### Explicacion Pedagogica
 El monólogo interior es la representación de los pensamientos, las dudas y los recuerdos de un personaje que no dice en voz alta. Se reconoce por la entrada en la conciencia y por la mezcla de preguntas, imágenes y emociones. Su presencia acerca al lector al personaje y permite conocer lo que la voz externa no diría.

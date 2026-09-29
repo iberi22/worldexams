@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-27-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.266Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una fuente primaria?",
+      "context": "En la clase de lectura crítica de Medellín, la profesora explica cómo se clasifican las fuentes de un trabajo de investigación escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un documento o testimonio original, producido en el momento por quienes vivieron el hecho.",
+          "is_correct": true,
+          "feedback": "La fuente primaria es el testimonio directo, el archivo o el registro original."
+        },
+        {
+          "letter": "B",
+          "text": "Es un documento escrito después, que resume lo que dijeron otras personas.",
+          "is_correct": false,
+          "feedback": "Esa es una fuente secundaria: interpreta y resume información previa."
+        },
+        {
+          "letter": "C",
+          "text": "Es un artículo de opinión que comenta un tema de actualidad.",
+          "is_correct": false,
+          "feedback": "Un artículo de opinión expresa una posición y no es un registro original del hecho."
+        },
+        {
+          "letter": "D",
+          "text": "Es la bibliografía final del trabajo, donde se anotan las páginas consultadas.",
+          "is_correct": false,
+          "feedback": "La bibliografía es un listado de fuentes: no es en sí misma una fuente primaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fuente primaria proviene de quien vivió o produjo el hecho en ese momento: cartas, actas, fotografías, recordings o testimonios directos. La fuente secundaria la estudia, la resume o la interpreta. Reconocer la diferencia permite apoyar una investigación en el material más cercano a los hechos, en lugar de repetir versiones de terceros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v2",
+      "statement": "Un texto dice: \"Según el informe municipal, 3 de cada 10 estudiantes llegan tarde\". ¿Qué aporta la expresión \"según el informe municipal\"?",
+      "context": "En un taller de investigación de Pasto, un equipo analiza cómo se presenta la información en un texto informativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identifica la fuente del dato y permite al lector verificarlo.",
+          "is_correct": true,
+          "feedback": "La atribución señala de dónde sale el dato y abre la posibilidad de contrastarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Expresa la opinión del periodista sobre la puntualidad de los estudiantes.",
+          "is_correct": false,
+          "feedback": "Atribuir a un informe no convierte el dato en opinión: define su origen."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el dato es estimado por el autor del texto.",
+          "is_correct": false,
+          "feedback": "El autor no estima: se limita a repetir lo que dice el informe."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que la información es secreta y por eso no se puede comprobar.",
+          "is_correct": false,
+          "feedback": "Nombrar la fuente no la vuelve secreta: al contrario, la hace localizable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La atribución de fuentes es el primer paso de la verificación. Cuando un dato se acompaña del referente que lo respalda, el lector puede buscarlo, compararlo y confirmarlo. Sin esa referencia, la afirmación queda como una versión más, difícil de comprobar y fácil de confundir con un hecho.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v3",
+      "statement": "Una página afirma: \"Todos los peces del río se han perdido por culpa de la contaminación\". ¿Qué debe hacer antes de usar ese dato?",
+      "context": "En la biblioteca de Bogotá, un estudiante prepara una exposición sobre el río Magdalena y consulta distintas páginas web.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiarlo tal como está, porque si está publicado debe ser cierto.",
+          "is_correct": false,
+          "feedback": "Publicar un dato no garantiza su verdad: hay que revisar quién lo afirma."
+        },
+        {
+          "letter": "B",
+          "text": "Buscar otra página que diga lo mismo, y usar esa como confirmación.",
+          "is_correct": false,
+          "feedback": "Dos páginas que repiten lo mismo pueden copiar de una sola fuente."
+        },
+        {
+          "letter": "C",
+          "text": "Pedirle al profesor que lo lea, porque él sabe si es cierto.",
+          "is_correct": false,
+          "feedback": "La autoridad del profesor no sustituye la comprobación de la fuente."
+        },
+        {
+          "letter": "D",
+          "text": "Buscar la fuente original del dato y contrastarla con otras dos publicaciones independientes.",
+          "is_correct": true,
+          "feedback": "Rastrear el origen y contrastar es el procedimiento que permite verificar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Verificar un dato exige rastrear su origen y contrastarlo con fuentes independientes. Si varias páginas repiten la misma cifra, puede que todas copien de un único origen, y eso no confirma nada. La comprobación real consiste en llegar a la fuente primaria o a organismos que tengan esa información.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v4",
+      "statement": "Un medio afirma que \"la ciudad está más segura que nunca\", y no menciona ningún dato. ¿Qué problema tiene esa afirmación?",
+      "context": "En clase de Sincelejo, la profesora explica el concepto de sesgo con un ejemplo cotidiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usa un superlativo, y por eso es poco legible para los lectores jóvenes.",
+          "is_correct": false,
+          "feedback": "La dificultad de lectura no es el problema: lo grave es la ausencia de respaldo."
+        },
+        {
+          "letter": "B",
+          "text": "Es una opinión presentada como dato, porque no aporta evidencia que la sostenga.",
+          "is_correct": true,
+          "feedback": "Afirmar sin datos y presentarlo como hecho es precisamente un sesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Falta mencionar el nombre del periodista que escribió la nota.",
+          "is_correct": false,
+          "feedback": "La autoría ayuda, pero el defecto principal es que la afirmación no se apoya en nada."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque todas las ciudades Colombian mejoran su seguridad con el tiempo.",
+          "is_correct": false,
+          "feedback": "Esa generalización no demuestra nada sobre la ciudad que se está evaluando."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sesgo aparece cuando una afirmación se presenta como objetiva, pero en realidad expresa una posición sin respaldo. Un superlativo como nunca o más segura que nunca exige evidencia, porque es una afirmación fuerte. Detectar esta estrategia es esencial para no confundir la opinión disfrazada de dato con la información verificada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v5",
+      "statement": "Un párrafo dice: \"A la mayoría de los niños de Medellín no les gusta leer\". ¿Qué opción convierte esa afirmación en un dato comprobable?",
+      "context": "En un taller de escritura de Duitama, los estudiantes transforman una opinión en un dato verificable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"En una encuesta con 200 estudiantes de siete colegios, el 62 por ciento lee solo por obligación\".",
+          "is_correct": true,
+          "feedback": "El dato incluye muestra, tamaño y resultado, y por eso puede verificarse."
+        },
+        {
+          "letter": "B",
+          "text": "\"Seguro que la culpa es de los profesores que no leen a sus hijos\".",
+          "is_correct": false,
+          "feedback": "Atribuir la culpa a un grupo es una opinión, no un dato verificable."
+        },
+        {
+          "letter": "C",
+          "text": "\"Es que leer es aburrido y todos lo sabemos\".",
+          "is_correct": false,
+          "feedback": "Esa es una generalización valorativa: sigue siendo una opinión."
+        },
+        {
+          "letter": "D",
+          "text": "\"La lectura es importante y todosuco debemos apoyar a los jóvenes lectores\".",
+          "is_correct": false,
+          "feedback": "Es una recomendación moral: expresa un valor, no un dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un dato verificable especifica quién respondió, cuántos fueron y qué respondieron. La estructura de la opción correcta incluye esos tres elementos, lo que permite que cualquier lector repita la consulta o la contraste. En cambio, las generalizaciones, las culpas asignadas y las recomendaciones expresan una postura y no un dato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v6",
+      "statement": "La nota A dice: \"Un estudio de la universidad encontró que el 40 por ciento de los hogares no tiene acceso a internet\". La nota B dice: \"La mayoría de los hogares de la ciudad sigue sin internet\". ¿Qué se puede observar?",
+      "context": "En el aula de Cali, un grupo compara dos notas sobre el mismo asunto de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos notas dicen lo mismo con distinta redacción.",
+          "is_correct": false,
+          "feedback": "No dicen lo mismo: una aporta un dato medible y la otra una apreciación general."
+        },
+        {
+          "letter": "B",
+          "text": "La nota A es opinión, porque menciona una universidad.",
+          "is_correct": false,
+          "feedback": "Nombrar una institución no convierte el dato en opinión: lo respalda."
+        },
+        {
+          "letter": "C",
+          "text": "La nota B es más precisa, porque usa la palabra mayoría.",
+          "is_correct": false,
+          "feedback": "La palabra mayoría no aporta precisión: no dice cuántos ni sobre qué base."
+        },
+        {
+          "letter": "D",
+          "text": "La nota A es un dato verificable; la nota B es una generalización sin respaldo.",
+          "is_correct": true,
+          "feedback": "El porcentaje con estudio identificado es comprobable, y la otra versión no lo es."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos versiones de una misma afirmación permite ver la diferencia entre el dato y la impressionsgeneralización. El dato incluye un porcentaje y una fuente identificable, de modo que puede comprobarse. La generalización, aunque suene rotunda, no ofrece elementos para verificar ni para refutar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v7",
+      "statement": "La versión A, firmada por una asociación vecinal, dice que \"el agua embotellada es la única segura\". La versión B, firmada por un laboratorio, dice que \"el agua del acueducto cumple las normas revisadas este año\". ¿Qué lectura crítica corresponde?",
+      "context": "En un proyecto de lectura de Santa Marta, dos estudiantes comparan dos versiones sobre el consumo de agua en un municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A es mejor, porque representa a los vecinos del municipio.",
+          "is_correct": false,
+          "feedback": "La cercanía con el público no garantiza la calidad técnica de la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "La versión B es automáticamente cierta, porque viene de un laboratorio.",
+          "is_correct": false,
+          "feedback": "Una institución técnica puede equivocarse o tener conflictos de interés."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas versiones tienen sesgos distintos, y conviene revisar quién las firma y con qué interés.",
+          "is_correct": true,
+          "feedback": "Reconocer el sesgo de cada una permite buscar una tercera fuente que confirme o desmienta."
+        },
+        {
+          "letter": "D",
+          "text": "No hay problema, porque las dos afirmaciones son opuestas y ambas son válidas.",
+          "is_correct": false,
+          "feedback": "Dos afirmaciones opuestas no pueden ser ambas válidas: hay que resolver el conflicto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Frente a dos fuentes en conflicto, la lectura crítica busca el sesgo de cada una: qué intereses representa y qué evidencia ofrece. La versión de la asociación responde a un interés comunitario, y la del laboratorio, a uno técnico. La mejor estrategia es buscar una fuente adicional que permita resolver el desacuerdo, en lugar de elegir por simpatía o por autoridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v8",
+      "statement": "Una publicación no firma a su autor, no indica de dónde tomó los datos y no puede corregirse. ¿Qué valor tiene como fuente?",
+      "context": "En clase de Bogotá, la profesora pide evaluar la confiabilidad de una publicación digital Anonymous anonymous anonymous anonymous anonymous.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alto, porque cualquiera puede publicar sin censura previa.",
+          "is_correct": false,
+          "feedback": "La libertad de publicar no equivale a la calidad de la información."
+        },
+        {
+          "letter": "B",
+          "text": "Bajo, porque sin autor, sin origen y sin mecanismo de corrección no puede comprobarse.",
+          "is_correct": true,
+          "feedback": "La trazabilidad es lo que permite verificar: si falta, la fuente pierde valor."
+        },
+        {
+          "letter": "C",
+          "text": "Medio, porque al menos está publicada y eso le da legitimidad.",
+          "is_correct": false,
+          "feedback": "Publicar un texto en línea no garantiza que su contenido sea correcto."
+        },
+        {
+          "letter": "D",
+          "text": "Alto, porque las redes sociales permiten corregir errores rápidamente.",
+          "is_correct": false,
+          "feedback": "Las redes sociales permiten difundir cualquier contenido, también el que no se sostiene."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una fuente confiable es trazable: se sabe quién la produce, de dónde salen sus datos y cómo se corrigen los errores. Si falta cualquiera de esos elementos, el lector no tiene con qué contrastar y el valor de la fuente cae. Reconocer estos indicadores permite Valorar con fundamento y no por apariencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v9",
+      "statement": "Un equipo sostiene su conclusión en tres artículos de un mismo portal de noticias. ¿Qué problema tiene ese procedimiento?",
+      "context": "En un seminario de lectura crítica de Valledupar, se revisa una investigación escolar sobre el consumo de energía en el colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, porque tres artículos son suficientes para cualquier investigación.",
+          "is_correct": false,
+          "feedback": "La cantidad de textos no sustituye la diversidad ni la independencia de las fuentes."
+        },
+        {
+          "letter": "B",
+          "text": "Que las tres fuentes pueden repetir a un mismo informante, de modo que no hay contraste real.",
+          "is_correct": true,
+          "feedback": "Si las tres dependen del mismo origen, no existe verificación cruzada."
+        },
+        {
+          "letter": "C",
+          "text": "Que los artículos son demasiado largos para leerse en una semana.",
+          "is_correct": false,
+          "feedback": "La longitud de las fuentes no es lo que se está evaluando en este caso."
+        },
+        {
+          "letter": "D",
+          "text": "Que el equipo debería usar artículos en inglés en lugar de español.",
+          "is_correct": false,
+          "feedback": "El idioma no determina la confiabilidad: la determinan la fuente y el método."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La verificación cruzada requiere fuentes independientes entre sí. Tres artículos que copian a un mismo informante cuentan como una sola fuente, aunque aparezcan en páginas diferentes. Por eso una investigación debe rastrear el origen de cada dato y buscar Confirmation con fuentes realmente distintas, con datos oficiales y con registros propios.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle-v10",
+      "statement": "Si una versión menciona una fecha, otra da un porcentaje de crecimiento y una tercera no aporta ningún dato, ¿cuál usar como base y por qué?",
+      "context": "En un proyecto de cierre de período en Palmira, un grupo debe decidir qué versión de un hecho sobre la construcción de un puente usar en su exposición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tercera, porque al no dar datos no se puede equivocar.",
+          "is_correct": false,
+          "feedback": "No aportar datos no equivale a acertar: equivale a no poder comprobar."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda, porque los porcentajes suenan más científicos que las fechas.",
+          "is_correct": false,
+          "feedback": "El porcentaje no es mejor por su forma: lo que importa es su origen y su pertinencia."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar una fuente primaria que permita contrastar las tres versiones y reconstruir el hecho.",
+          "is_correct": true,
+          "feedback": "Resolver el conflicto con una fuente primaria es la actitud más sólida."
+        },
+        {
+          "letter": "D",
+          "text": "La primera, porque toda historia oficial empieza con una fecha.",
+          "is_correct": false,
+          "feedback": "Tener una fecha no convierte la versión en fuente primaria ni la vuelve fiable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando varias fuentes discrepan, la estrategia correcta no es escoger la más clara, sino buscar la que permita verificar a las demás. La fuente primaria, como un documento oficial o el registro de la época, funciona como referencia frente a la cual se contrastan las versiones. Solo después de ese contraste se puede escribir con seguridad sobre el hecho.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W27-la-verificacion-de-fuentes-y-el-pensamiento-critico-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

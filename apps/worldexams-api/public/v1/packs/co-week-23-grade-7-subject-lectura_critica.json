@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.265Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a una crónica como género periodístico?",
+      "context": "En la clase de lectura crítica de Popayán, la profesora presenta una sección del periódico escolar dedicada a los barrios de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo publica cifras y estadísticas sobre un hecho del día.",
+          "is_correct": false,
+          "feedback": "El dato en exclusiva corresponde a la noticia, no a la crónica."
+        },
+        {
+          "letter": "B",
+          "text": "Que expresa la opinión política del periodista sin datos comprobables.",
+          "is_correct": false,
+          "feedback": "La opinión sin datos corresponde al artículo de opinión, no a la crónica."
+        },
+        {
+          "letter": "C",
+          "text": "Que cuentan historias inventadas con el fin de entretener al público.",
+          "is_correct": false,
+          "feedback": "La crónica se apoya en hechos reales: la ficción pertenece a la literatura."
+        },
+        {
+          "letter": "D",
+          "text": "Que narra hechos reales desde la voz de alguien que observa o participa en ellos.",
+          "is_correct": true,
+          "feedback": "La crónica combina información verificada con una mirada personal y fechada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La crónica es un género periodístico que narra hechos reales de forma contemporánea y desde una voz identificable, la del cronista. Esa voz observa, interpreta y da contexto, pero no inventa los hechos. Por eso la crónica ocupa un lugar intermedio entre la noticia, que solo informa, y el artículo de opinión, que expone una posición argumentada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v2",
+      "statement": "El cronista escribe: \"A las seis de la mañana caminé por la plaza y vi cómo los vendedores montaban sus puestos\". ¿Qué aporta esa primera persona?",
+      "context": "En un taller de lectura de textos en Pasto, un grupo analiza el uso de la primera persona en una crónica del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitúa al autor como testigo directo de lo que narra y da veracidad a la escena.",
+          "is_correct": true,
+          "feedback": "El yo del cronista da testimonio y garantiza su vínculo con los hechos descritos."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el texto en una autobiografía completa de la vida del cronista.",
+          "is_correct": false,
+          "feedback": "La primera persona no implica autobiografía: solo marca presencia y punto de vista."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el texto es una novela escrita en primera persona.",
+          "is_correct": false,
+          "feedback": "El género depende de los hechos y de la fecha, no solo del pronombre usado."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que el texto es una carta privada dirigida a un amigo del cronista.",
+          "is_correct": false,
+          "feedback": "No hay destinatario ni marcas de carta: es una narración periodística."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La primera persona del cronista construye el valor testimonial del texto: quien escribe dice dónde estaba y qué vio. Ese yo no es decorativo, porque permite al lector medir la cercanía de la mirada. Al mismo tiempo, el cronista distingue entre lo que observó y lo que otros le relataron, y esa distinción es clave para no confundir experiencia con hecho comprobado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v3",
+      "statement": "Un vecino dice: \"Yo tenía mi puesto desde hace 22 años. Cuando llegaron las obras, nos movimos tres veces\". ¿Qué elemento del texto es el testimonio?",
+      "context": "En la biblioteca de Barranquilla, un proyecto escolar recoge voces de vecinos sobre un mercado que cambió de ubicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La descripción de las obras que se hicieron en la calle.",
+          "is_correct": false,
+          "feedback": "Esa descripción es información externa, no la voz del vecino."
+        },
+        {
+          "letter": "B",
+          "text": "La experiencia vivida y recordada por el vecino, contada desde su propia voz.",
+          "is_correct": true,
+          "feedback": "El testimonio es el relato de lo vivido, con marcas de tiempo y de memoria."
+        },
+        {
+          "letter": "C",
+          "text": "El número de puestos que había antes de la mudanza.",
+          "is_correct": false,
+          "feedback": "El dato es información, aunque venga de quien relata la experiencia."
+        },
+        {
+          "letter": "D",
+          "text": "La opinión de un tercero que explica el mercado como un problema de la ciudad.",
+          "is_correct": false,
+          "feedback": "La valoración externa no es testimonio: el testimonio viene de quien vivió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El testimonio es el relato en primera persona de quien vivió o presenció un hecho. Se apoya en la memoria, incluye marcas temporales y detalles concretos, y por eso tiene una fuerza informativa particular. A diferencia de un dato aislado, el testimonio conserva la experiencia completa: lo que pasó, cuándo ocurrió y a quién afectó.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v4",
+      "statement": "Un testigo recuerda un festival de hace veinte años y otro vecino lo recuerda de hace cinco años. ¿Qué efecto tiene la distancia temporal en la memoria?",
+      "context": "En clase de Medellín, la profesora pide comparar dos versiones del mismo recuerdo sobre un festival del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene efecto, porque la memoria guarda los hechos tal como ocurrieron.",
+          "is_correct": false,
+          "feedback": "La memoria es reconstructiva: los años influyen en cómo se recuerda."
+        },
+        {
+          "letter": "B",
+          "text": "Puede hacer que se recuerden mejor los detalles sensoriales y se pierdan las fechas exactas.",
+          "is_correct": true,
+          "feedback": "Es un patrón frecuente: lo emocional permanece y lo exacto se difumina."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que los dos recuerdos sean idénticos, porque la memoria es igual para todos.",
+          "is_correct": false,
+          "feedback": "La distancia temporal no iguala los recuerdos: cada uno recuerda según su vida."
+        },
+        {
+          "letter": "D",
+          "text": "Impide que la persona pueda relatar lo vivido en el pasado.",
+          "is_correct": false,
+          "feedback": "Recordar con imprecisión no impide relatar: permite relatar con matices."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La memoria no es una grabación: se reconstruye cada vez que se evoca. Por eso dos testigos de un mismo hecho pueden diferir en fechas, nombres o detalles, y coincidir en el núcleo emocional. Leer un testimonio con criterio significa tener presente esta distancia entre lo vivido y lo recordado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v5",
+      "statement": "La noticia dice: \"El mercado se reubicó en el barrio Norte\". ¿Cómo debería comenzar el párrafo de crónica para conservar el género?",
+      "context": "En un taller de escritura de Duitama, los estudiantes deben transformar un dato de la noticia en un párrafo de crónica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con una escena observada: \"El martes a las cinco de la mañana los toldos ya se armaban en la nueva cuadra\".",
+          "is_correct": true,
+          "feedback": "La escena situada en tiempo y lugar es propia de la voz del cronista."
+        },
+        {
+          "letter": "B",
+          "text": "Con un dato estadístico: \"Según la secretaría, el 40 por ciento de los puestos cambió de sede\".",
+          "is_correct": false,
+          "feedback": "El dato es informativo, pero desplaza la mirada hacia la cifra y no hacia la escena."
+        },
+        {
+          "letter": "C",
+          "text": "Con una afirmación general: \"Los mercados siempre cambian de ubicación en las ciudades\".",
+          "is_correct": false,
+          "feedback": "La generalización no sitúa ni muestra: describe en abstracto."
+        },
+        {
+          "letter": "D",
+          "text": "Con un juicio: \"El mercado fue reubicado de manera responsable y justa\".",
+          "is_correct": false,
+          "feedback": "El juicio valorativo pertenece al artículo de opinión, no a la crónica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La crónica se construye con escenas: un momento, un lugar, un detalle sensorial y una voz que observa. Convertir un dato noticioso en crónica exige situar ese dato en el tiempo y en el espacio, mostrándolo a través de quien lo vivió. Así el lector recibe información y, al mismo tiempo, la experiencia de haber estado ahí.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v6",
+      "statement": "El texto A dice: \"Las lluvias de ayer causaron la inundación de tres barrios del norte\". El texto B dice: \"Ayer, mientras el agua subía por la calle 40, doña Rosa sacaba sus muebles a la acera\". ¿Qué diferencia hay entre ambos textos?",
+      "context": "En el aula de Barranquilla, un grupo compara dos textos publicados el mismo día sobre una inundación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A informa de manera general y sin testigo; B narra una escena observada desde el lugar.",
+          "is_correct": true,
+          "feedback": "B convierte el hecho general en una experiencia situada, propia de la crónica."
+        },
+        {
+          "letter": "B",
+          "text": "A es crónica porque menciona lugares; B es noticia porque menciona a una persona.",
+          "is_correct": false,
+          "feedback": "Los lugares y las personas no definen por sí solos el género de un texto."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos son noticias, porque relatan el mismo hecho del mismo día.",
+          "is_correct": false,
+          "feedback": "La diferencia de tratamiento es justamente lo que distingue noticia de crónica."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos son cuentos, porque describen escenas completas con personajes.",
+          "is_correct": false,
+          "feedback": "Los hechos son verificables y actuales: no hay invención narrativa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La noticia informa del hecho y lo generaliza; la crónica lo narra situando al autor y a sus protagonistas en el momento. La diferencia no está en que se cuente lo mismo, sino en cómo se presenta: una descripción operativa frente a una escena. Reconocerla ayuda a valorar qué aporta cada género a la información pública.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v7",
+      "statement": "La versión A dice: \"Todavía me acuerdo del ruido de las sirenas\". La versión B dice: \"Fue en 1998, cuando yo tenía 14 años y me llamaron para evacuar\". ¿Qué se gana en la versión B?",
+      "context": "En un proyecto de lectura de Santa Marta, dos estudiantes analizan el uso del tiempo en dos versiones del mismo testimonio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gana en emotividad, porque el detalle personal conmueve más que la fecha.",
+          "is_correct": false,
+          "feedback": "La versión B gana en precisión: la emoción está en la versión A."
+        },
+        {
+          "letter": "B",
+          "text": "Gana en velocidad de lectura, porque sus frases son más cortas.",
+          "is_correct": false,
+          "feedback": "La longitud de la frase no es la diferencia relevante entre las dos versiones."
+        },
+        {
+          "letter": "C",
+          "text": "Gana en neutralidad, porque elimina la voz del testigo.",
+          "is_correct": false,
+          "feedback": "La versión B mantiene la primera persona y añade datos: no elimina la voz."
+        },
+        {
+          "letter": "D",
+          "text": "Gana en anclaje: sitúa el recuerdo en una fecha y en una edad concretas.",
+          "is_correct": true,
+          "feedback": "El anclaje temporal y biográfico vuelve el testimonio más verificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un testimonio gana fuerza cuando ancla su relato en datos concretos: fechas, edades, nombres y lugares. El anclaje permite contrastar la versión con otras fuentes y le da verificabilidad. La emoción también es valiosa, pero por sí sola no permite comprobar el hecho, de modo que un buen testimonio combina la voz sentida con la precisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v8",
+      "statement": "En el testimonio \"Yo cuidaba mi escuela;Todos los vecinos cuidamos nuestra escuela así\", ¿qué efecto produce el paso del yo al plural?",
+      "context": "En clase de Cali, un grupo estudia cómo el lenguaje del testimonio pasa de lo individual a lo colectivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduce la fuerza del testimonio, porque se pierde la experiencia directa.",
+          "is_correct": false,
+          "feedback": "El testimonio conserva su anclaje en el yo, pero amplía el alcance de lo que dice."
+        },
+        {
+          "letter": "B",
+          "text": "Amplía la vivencia individual y la convierte en una experiencia compartida.",
+          "is_correct": true,
+          "feedback": "El plural generaliza desde lo vivido, y eso da alcance colectivo al relato."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el texto en un informe técnico, por el uso de la tercera persona.",
+          "is_correct": false,
+          "feedback": "El plural no cambia el registro: el texto sigue siendo un testimonio."
+        },
+        {
+          "letter": "D",
+          "text": "Introduce datos estadísticos que antes no estaban en el relato.",
+          "is_correct": false,
+          "feedback": "El plural no aporta cifras: solo extiende la afirmación a un grupo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el testimonio pasa de yo a todos o a nosotros, proyecta la experiencia vivida sobre el colectivo. Es un recurso frecuente y potente, pero también exige cuidado: generalizar a partir de lo propio puede ampliar el alcance sin comprobar. Reconocer este paso ayuda a distinguir la experiencia verdadera de la generalización.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v9",
+      "statement": "La crónica menciona a un solo vecino, no da fechas y no incluye datos oficiales. ¿Qué juicio es más preciso sobre ese texto?",
+      "context": "En un seminario de lectura crítica de Bogotá, se evalúa una crónica escrita por un estudiante de séptimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto es falso, porque no incluye datos oficiales que lo respalden.",
+          "is_correct": false,
+          "feedback": "La ausencia de un dato oficial no vuelve falso un texto: limita su respaldo."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es inválido, porque toda crónica debe tener al menos cinco fuentes.",
+          "is_correct": false,
+          "feedback": "No existe ese requisito numérico: el problema no es la cantidad de fuentes."
+        },
+        {
+          "letter": "C",
+          "text": "El texto ofrece una mirada valiosa, pero su información es difícil de contrastar.",
+          "is_correct": true,
+          "feedback": "Es un juicio equilibrado: reconoce el valor del relato y señala su límite."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es impecable, porque la experiencia del autor basta para probar los hechos.",
+          "is_correct": false,
+          "feedback": "La experiencia personal no sustituye la posibilidad de contraste."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un testimonio o una crónica exige pesar valor y límite. Su valor está en la experiencia, el detalle y la voz; su límite está en la dificultad de comprobar datos cuando faltan fechas, fuentes o contrastes. Un juicio equilibrado evita los dos extremos: ni descartar todo relato personal ni tomarlo como prueba definitiva.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle-v10",
+      "statement": "Si la crónica y el reporte llegan a conclusiones distintas, ¿qué debe hacer el lector crítico?",
+      "context": "En un proyecto de cierre de período en Popayán, un grupo lee una crónica de memoria de un barrio y la compara con un reporte oficial sobre ese mismo barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir la crónica, porque el lenguaje más cercano resulta más claro.",
+          "is_correct": false,
+          "feedback": "La cercanía no garantiza exactitud: son dos tareas informativas distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el reporte, porque los datos oficiales siempre son correctos.",
+          "is_correct": false,
+          "feedback": "Ninguna fuente es infalible: un reporte puede tener errores o vacíos."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar qué aporta cada fuente, contrastar los datos y reconocer los límites de ambas.",
+          "is_correct": true,
+          "feedback": "Contrastar es la actitud correcta: ninguna de las dos se resuelve por descarte."
+        },
+        {
+          "letter": "D",
+          "text": "No decidir nada hasta que las dos fuentes coincidan exactamente.",
+          "is_correct": false,
+          "feedback": "La coincidencia total no es exigible: el desacuerdo también informa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura crítica no consiste en escoger la fuente que resulta más agradable, sino en preguntar qué aporta cada una y hasta dónde llega. Una crónica ofrece experiencia, contexto y detalle humano; un reporte ofrece datos comparables. Confrontar ambas permite detectar tanto el dato que faltaba como la versión que se exagera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W23-la-cronica-y-el-relato-testimonial-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -34,10 +34,10 @@ Semana 28 de 40 del año escolar 2026. Esta semana entrena la lectura de textos 
 ¿Qué es una adaptación literaria?
 
 ### Opciones
-- [ ] A) Es un resumen que cambia el final de la obra para actualizarla.
-  <!-- feedback: Una adaptación puede cambiar detalles, pero no consiste en inventar un final distinto. -->
-- [x] B) Es una versión de una obra en otro soporte, como el cine, el teatro o el cómic.
+- [x] A) Es una versión de una obra en otro soporte, como el cine, el teatro o el cómic.
   <!-- feedback: La adaptación traslada una obra de un lenguaje a otro, con su propia técnica. -->
+- [ ] B) Es un resumen que cambia el final de la obra para actualizarla.
+  <!-- feedback: Una adaptación puede cambiar detalles, pero no consiste en inventar un final distinto. -->
 - [ ] C) Es una traducción de la obra a otro idioma, sin cambiar el soporte.
   <!-- feedback: Traducir a otro idioma no es lo que caracteriza una adaptación. -->
 - [ ] D) Es una copia exacta de la obra, sin ningún cambio en el estilo.
@@ -82,12 +82,12 @@ Una novela tiene un pasaje de miedo. En el cómic se conserva con un cuadro oscu
 ### Opciones
 - [ ] A) Que solo el cine puede transmitir miedo, porque es el soporte más tecnológica.
   <!-- feedback: Cada soporte tiene sus recursos: el cómic también puede generar miedo. -->
-- [x] B) Que cada soporte resuelve el mismo efecto con recursos propios y distintos.
-  <!-- feedback: La adaptación conserva la intención dramática y cambia el procedimiento. -->
+- [ ] B) Que la novela pierde sentido cuando se adapta a otro formato.
+  <!-- feedback: El sentido se conserva en buena medida, aunque cambie su forma de expresarse. -->
 - [ ] C) Que el cómic es una versión incompleta de la novela, porque le faltan palabras.
   <!-- feedback: La historieta no es incompleta: usa imágenes y bocetos como lenguaje propio. -->
-- [ ] D) Que la novela pierde sentido cuando se adapta a otro formato.
-  <!-- feedback: El sentido se conserva en buena medida, aunque cambie su forma de expresarse. -->
+- [x] D) Que cada soporte resuelve el mismo efecto con recursos propios y distintos.
+  <!-- feedback: La adaptación conserva la intención dramática y cambia el procedimiento. -->
 
 ### Explicacion Pedagogica
 La adaptación mantiene la esencia de la obra y transforma su expresión. Cuando un pasaje de miedo pasa del texto a la historieta o al cine, se resuelve con imágenes, bocetos, música o actuación. Reconocer esta correspondencia permite comparar versiones sin suponer que una de ellas es la única versión válida.
@@ -103,10 +103,10 @@ La adaptación mantiene la esencia de la obra y transforma su expresión. Cuando
 En una novela, el narrador describe despacio el recuerdo de un personaje. En la película, la escena dura cuatro segundos. ¿Qué se pierde principalmente?
 
 ### Opciones
-- [ ] A) El nombre del personaje, porque el cine nunca muestra nombres.
-  <!-- feedback: El nombre sí suele aparecer: lo que falta es la duración del recuerdo. -->
-- [x] B) La duración y la textura interna del recuerdo, que el cine comprime en el tiempo.
+- [x] A) La duración y la textura interna del recuerdo, que el cine comprime en el tiempo.
   <!-- feedback: El tiempo de la pantalla limita lo que el relato puede desarrollar despacio. -->
+- [ ] B) El nombre del personaje, porque el cine nunca muestra nombres.
+  <!-- feedback: El nombre sí suele aparecer: lo que falta es la duración del recuerdo. -->
 - [ ] C) El espacio físico, porque el cine no puede mostrar lugares.
   <!-- feedback: El cine muestra los lugares con mucha precisión: esa no es la pérdida. -->
 - [ ] D) El final de la historia, porque toda adaptación cambia el final.
@@ -130,10 +130,10 @@ El pasaje dice: "Caminó por el pasillo oscuro, con el corazón latiendo cada ve
   <!-- feedback: Copiar la frase sin acompañarla de imagen no aprovecha el lenguaje del cómic. -->
 - [ ] B) Sustituir toda la frase por un cuadro blanco vacío, sin texto.
   <!-- feedback: El vacío puede tener sentido en algún momento, pero aquí no transmite la escena. -->
-- [x] C) Un cuadro amplio con el pasillo en penumbra y un pequeño globo con la última frase.
-  <!-- feedback: La imagen ubica la escena y el globo conserva la voz del personaje. -->
-- [ ] D) Cambiar la frase por una descripción de objetos, quitando la voz del personaje.
+- [ ] C) Cambiar la frase por una descripción de objetos, quitando la voz del personaje.
   <!-- feedback: Quitar la voz pierde la relación entre lo que piensa y lo que ocurre. -->
+- [x] D) Un cuadro amplio con el pasillo en penumbra y un pequeño globo con la última frase.
+  <!-- feedback: La imagen ubica la escena y el globo conserva la voz del personaje. -->
 
 ### Explicacion Pedagogica
 Adaptar a historieta exige combinar imagen y texto. El cuadro crea la atmósfera y el globo conserva la voz del personaje o su narración. Esa combinación es propia de este lenguaje y por eso una adaptación efectiva no se limita a pegar frases dentro de figuras, sino a distribuir la información entre los dos códigos.

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-25-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.265Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué diferencia existe entre el tiempo del relato y el tiempo de la historia?",
+      "context": "En la clase de lectura crítica de Cali, la profesora explica la organización temporal de los relatos con ejemplos de la antología escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tiempo del relato es el orden en que el narrador presenta los hechos; el de la historia es la sucesión real de esos hechos.",
+          "is_correct": true,
+          "feedback": "La narración puede alterar el orden cronológico, y por eso se distinguen ambos tiempos."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo del relato son los años que dura la acción; el tiempo de la historia es el momento de lectura.",
+          "is_correct": false,
+          "feedback": "Se han intercambiado los conceptos: la historia son los hechos y el relato es su narración."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos términos son sinónimos y se pueden usar indistintamente.",
+          "is_correct": false,
+          "feedback": "No son sinónimos: la diferencia entre orden narrado y orden de los hechos es esencial."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo de la historia es el número de capítulos; el del relato es el número de páginas.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos depende de la extensión del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo de la historia corresponde a la sucesión real de los hechos, la que un calendario podría registrar. El tiempo del relato corresponde al orden en que el narrador decide contarlos, y ese orden puede avanzar, retroceder o detenerse. Distinguir ambos tiempos es lo que permite entender por qué un relato no siempre se lee en orden cronológico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v2",
+      "statement": "El texto dice: \"Aquel día, en 2019, el protagonista había aprendido a leer\". ¿Qué información temporal aporta?",
+      "context": "En un taller de lectura de Barranquilla, un grupo lee el inicio de un relato sobre un viaje escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indica el momento en que la historia relatada ocurrió dentro de la línea temporal de los hechos.",
+          "is_correct": false,
+          "feedback": "Eso es exactamente lo que aporta: sitúa un hecho en el tiempo de la historia."
+        },
+        {
+          "letter": "B",
+          "text": "Señala que el narrador lee la escena en voz alta en el momento actual.",
+          "is_correct": false,
+          "feedback": "La marca temporal sitúa los hechos, no la lectura ni la voz del narrador."
+        },
+        {
+          "letter": "C",
+          "text": "Indica el número de capítulos que el autor escribió antes de esa escena.",
+          "is_correct": false,
+          "feedback": "Las marcas temporales no hablan de la estructura del libro, sino del momento de los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Sitúa la escena en el tiempo de la historia, no en el orden en que se narra.",
+          "is_correct": true,
+          "feedback": "La expresión \"aquel día\" remite a un momento de la historia, que el relato recupera después."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las expresiones como aquel día, en 2019 o cuando tenía diez años anclan los hechos en un momento del tiempo de la historia. El anclaje es lo que permite al lector reubicar cada escena en una línea temporal, incluso cuando el relato no los presenta en orden.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v3",
+      "statement": "En medio de la acción presente, el narrador interrumpe para contar un episodio de cuando el protagonista tenía ocho años. ¿Qué recurso se está usando?",
+      "context": "En la biblioteca de Popayán, un grupo lee un cuento en el que el protagonista recuerda un año de su infancia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un salto hacia atrás o flashback, que interrumpe el presente narrativo con un pasado.",
+          "is_correct": true,
+          "feedback": "Es el recurso típico del flashback: se vuelve a un tiempo anterior dentro del relato."
+        },
+        {
+          "letter": "B",
+          "text": "Un salto hacia adelante, porque la narración se adelanta a la Childhood termination.",
+          "is_correct": false,
+          "feedback": "La narración retrocede: el episodio ocurre antes de la acción presente."
+        },
+        {
+          "letter": "C",
+          "text": "Una descripción estática, porque no cambia la acción durante varias líneas.",
+          "is_correct": false,
+          "feedback": "Hay un cambio de tiempo, no una mera pausa en la descripción."
+        },
+        {
+          "letter": "D",
+          "text": "Un diálogo interno, porque el protagonista habla consigo mismo.",
+          "is_correct": false,
+          "feedback": "El recurso se define por el retroceso temporal, no por la presencia de habla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El flashback, o salto hacia atrás, interrumpe la línea del relato para mostrar un momento anterior de la historia. Es un recurso frecuente porque permite explicar el presente a partir del pasado. Reconocerlo ayuda a no perder el hilo de la historia, porque el tiempo del relato se aparta del tiempo de los hechos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v4",
+      "statement": "Si el relato dice \"muchos años después, volvió al pueblo donde había nacido\", ¿qué operación se puede hacer con esa información?",
+      "context": "En clase de Medellín, un estudiante intenta ordenar las escenas de un relato para escribir un resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar la frase, porque no aporta información sobre el lugar.",
+          "is_correct": false,
+          "feedback": "La frase sí aporta información: vincula el regreso con un tiempo muy posterior al nacimiento."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar la frase por \"siempre\", porque el regreso no tiene fecha definida.",
+          "is_correct": false,
+          "feedback": "Aunque no haya fecha exacta, la relación temporal con el nacimiento sí está marcada."
+        },
+        {
+          "letter": "C",
+          "text": "Colocar el regreso antes que el nacimiento, porque el narrador lo cuenta primero.",
+          "is_correct": false,
+          "feedback": "El orden del relato no es el orden de los hechos: la frase indica que el regreso es posterior."
+        },
+        {
+          "letter": "D",
+          "text": "Ordenar el regreso después de la escena del nacimiento, siguiendo la cronología de los hechos.",
+          "is_correct": true,
+          "feedback": "Esa información temporal permite ubicar el regreso en un punto posterior de la línea del tiempo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los conectores temporales como muchos años después o de repente permiten reconstruir el orden cronológico de los hechos aunque el relato no lo presente así. Esa reconstrucción es la base del resumen y de la línea temporal, dos herramientas útiles para cualquier lectura comprensiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál oración emplea un marcador temporal que fija un momento exacto de la historia?",
+      "context": "En un taller de escritura de Duitama, los estudiantes redactan una escena con adverbios de tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El bus llegó después de la lluvia\".",
+          "is_correct": false,
+          "feedback": "\"Después\" es relativo: no fija un momento exacto, solo una posición en la sucesión."
+        },
+        {
+          "letter": "B",
+          "text": "\"El bus llegó a las cuatro de la tarde del 12 de marzo\".",
+          "is_correct": true,
+          "feedback": "La fecha y la hora sitúan el hecho en un punto preciso de la línea temporal."
+        },
+        {
+          "letter": "C",
+          "text": "\"El bus llegó cuando por fin cedió la presión del tráfico\".",
+          "is_correct": false,
+          "feedback": "\"Cuando\" introduce una relación, pero no precisa un momento exacto."
+        },
+        {
+          "letter": "D",
+          "text": "\"El bus llegó en ese momento\".",
+          "is_correct": false,
+          "feedback": "\"Ese momento\" es una referencia interna al relato, no un dato del tiempo de la historia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "No todos los marcadores temporales son iguales. Los relativos, como después o antes, ordenan los hechos entre sí; los absolutos, como una fecha o una hora, los sitúan en un punto preciso. Distinguir los dos tipos ayuda a redactar con precisión y a entender cuándo el narrador habla desde la historia y cuándo desde el relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v6",
+      "statement": "Un relato empieza con una escena de la fiesta de graduación de un personaje adulto y luego retrocede a su infancia. ¿Qué efecto tiene esa apertura?",
+      "context": "En el aula de Pasto, un grupo analiza el efecto de una alteración del orden narrativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crea un efecto de anticipación, porque el lector conoce un desenlace antes de conocer su origen.",
+          "is_correct": true,
+          "feedback": "Esa anticipación hace que el lector busque en el pasado la explicación de lo que ya vio."
+        },
+        {
+          "letter": "B",
+          "text": "Ordena la historia de principio a fin, porque así la narración es más clara.",
+          "is_correct": false,
+          "feedback": "El relato altera el orden cronológico: no respeta la sucesión de los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina el conflicto, porque la historia ya está resuelta en la primera escena.",
+          "is_correct": false,
+          "feedback": "Conocer el desenlace no elimina el conflicto: cambia la forma en que se sigue."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el texto en una biografía, porque aparecen dos momentos de la vida.",
+          "is_correct": false,
+          "feedback": "Dos momentos no convierten el relato en biografía: la cronología sigue alterada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Alterar el orden cronológico es una decisión deliberada que produce efectos concretos. Cuando la narración comienza por una escena tardía y luego retrocede, genera intriga y obliga al lector a reconstruir por qué se llegó a ese punto. Analizar ese efecto es parte del trabajo con la temporalidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v7",
+      "statement": "La versión A dice: \"Salió de la casa a las siete, tomó el bus y llegó a la escuela a las siete y media\". La versión B dice: \"Cuando por fin llegó a la escuela, ya habían empezado las clases\". ¿Qué se observa?",
+      "context": "En un proyecto de lectura de Santa Marta, dos estudiantes comparan dos versiones de una misma secuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión A es mejor, porque siempre es preferible el estilo indirecto.",
+          "is_correct": false,
+          "feedback": "La diferencia de estilo es secundaria: lo relevante es la información temporal."
+        },
+        {
+          "letter": "B",
+          "text": "La versión A aporta datos horarios; la versión B aporta una relación, pero no fija la hora.",
+          "is_correct": true,
+          "feedback": "A permite medir la duración del trayecto; B solo señala que llegó tarde."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos versiones dicen exactamente lo mismo con distinta longitud.",
+          "is_correct": false,
+          "feedback": "No dicen lo mismo: una permite calcular tiempos y la otra no."
+        },
+        {
+          "letter": "D",
+          "text": "La versión B es incorrecta, porque toda narración debe incluir horas.",
+          "is_correct": false,
+          "feedback": "Un texto puede ser coherente sin datos horarios: esa es una elección, no un error."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La precisión temporal depende del tipo de marcador que se use. Las horas y las fechas permiten medir duraciones y comparar; las expresiones relativas, como cuando por fin, comunica la urgencia o el retraso sin permitir cálculos. Reconocer esta diferencia ayuda a valorar el nivel de información de cada texto narrativo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v8",
+      "statement": "En \"Estudiaba entonces cuando sonó el timbre y tuvo que salir\", ¿qué efecto produce el pretérito imperfecto de \"estudiaba\"?",
+      "context": "En clase de Bogotá, la profesora analiza el uso de los tiempos verbales en un fragmento narrativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sitúa la acción en un momento único y delimitado del tiempo.",
+          "is_correct": false,
+          "feedback": "El imperfecto expresa una duración, no un momento único: esa función corresponde al pretérito perfecto."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta la acción como algo en curso, y el pretérito perfecto la interrumpe de golpe.",
+          "is_correct": true,
+          "feedback": "El contraste entre continuo y concluido produce la sensación de interrupción súbita."
+        },
+        {
+          "letter": "C",
+          "text": "Indica que la acción terminó mucho antes del momento de la narración.",
+          "is_correct": false,
+          "feedback": "El imperfecto sitúa la acción en el pasado, no en un pasado lejano."
+        },
+        {
+          "letter": "D",
+          "text": "Señala que el narrador no está seguro de la hora en que ocurrió.",
+          "is_correct": false,
+          "feedback": "La falta de hora no se expresa con el imperfecto, sino con expresiones de duda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pretérito imperfecto presenta una acción como proceso en curso, sin marcar su conclusión. El pretérito perfecto, en cambio, señala una acción concluida. Cuando ambos aparecen juntos, el contraste produce la sensación de que algo interrumpió lo que estaba acontecendo. Ese contraste es una herramienta habitual para marcar momentos de quiebre en la narración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué procedimiento es más adecuado para reconstruir el orden cronológico de los hechos?",
+      "context": "En un seminario de lectura crítica de Sincelejo, un grupo debe reconstruir la línea temporal de un relato con varios saltos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer el relato al revés, desde la última línea hasta la primera.",
+          "is_correct": false,
+          "feedback": "Leer al revés no garantiza recuperar el orden de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Contar cuántos flashbacks hay, porque cada uno equivale a un período.",
+          "is_correct": false,
+          "feedback": "La cantidad de saltos no revela el orden de los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Anotar los marcadores temporales y situar cada escena según su relación con las demás.",
+          "is_correct": true,
+          "feedback": "Es el procedimiento que aprovecha la información temporal que el texto sí ofrece."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir la escena más larga y suponer que allí ocurre el hecho central.",
+          "is_correct": false,
+          "feedback": "La extensión de una escena no indica su lugar en la línea temporal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconstruir la cronología es una tarea inferencial. El procedimiento consiste en identificar las pistas temporales del texto, anotarlas y ordenar cada escena según su relación con las demás, ya sea anterior, simultánea o posterior. Este ejercicio revela la diferencia entre el orden del relato y el orden de la historia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle-v10",
+      "statement": "Si la versión A cuenta los hechos en orden cronológico y la versión B alteró ese orden, ¿qué puede concluir un lector crítico?",
+      "context": "En un proyecto de cierre de período en Palmira, un grupo compara dos versiones del mismo relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión B es peor, porque la historia resulta más difícil de seguir.",
+          "is_correct": false,
+          "feedback": "Alterar el orden puede ser una decisión válida si produce un efecto buscado."
+        },
+        {
+          "letter": "B",
+          "text": "La versión A es mejor, porque cualquier lector prefiere el orden natural.",
+          "is_correct": false,
+          "feedback": "La preferencia del lector no define la calidad: hay efectos distintos posibles."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son válidas si la alteración de la versión B produce el efecto que el autor buscaba.",
+          "is_correct": true,
+          "feedback": "El criterio no es la comodidad, sino si el nuevo orden cumple una función narrativa clara."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos sirve, porque un relato debe ser siempre lineal.",
+          "is_correct": false,
+          "feedback": "La narración no tiene una forma única: el orden cronológico es solo una opción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El orden cronológico no es obligatorio en la narración. Cuando un autor altera la secuencia, lo hace para generar intriga, enfatizar un personaje o revelar información en un momento preciso. La lectura crítica evalúa esa decisión por sus efectos, no por su comodidad, y distingue el valor de la secuencia alterada del valor de la secuencia simple.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W25-la-temporalidad-en-la-narracion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
