@@ -36,12 +36,12 @@ Según la Constitución de 1991, ¿por qué se afirma que Colombia es una Repúb
 ### Opciones
 - [x] A) Porque existe una sola autoridad soberana, la nacional, y las entidades territoriales ejercen las competencias que asignan la Constitución y la ley, sin ser estados soberanos.
   <!-- feedback: Correcto. En una República unitaria hay un solo centro de soberanía; los departamentos y los municipios no poseen soberanía ni constituciones propias. -->
-- [ ] B) Porque cada departamento posee constituciones propias y una autoridad superior al poder central.
-  <!-- feedback: Incorrecto. Esa descripción corresponde a un Estado federal, que es precisamente lo que Colombia no es según el artículo 1. -->
-- [ ] C) Porque las entidades territoriales no tienen autoridad alguna y solo cumplen órdenes del Gobierno nacional.
-  <!-- feedback: Incorrecto. Los departamentos y los municipios son autónomos: administran sus asuntos locales con base en competencias propias. -->
-- [ ] D) Porque la Constitución establece que las autoridades territoriales pueden suprimirse por decisión del Gobierno nacional.
+- [ ] B) Porque la Constitución establece que las autoridades territoriales pueden suprimirse por decisión del Gobierno nacional.
   <!-- feedback: Incorrecto. La autonomía de las entidades territoriales es una garantía constitucional y su supresión no es una facultad discrecional del Ejecutivo. -->
+- [ ] C) Porque cada departamento posee constituciones propias y una autoridad superior al poder central.
+  <!-- feedback: Incorrecto. Esa descripción corresponde a un Estado federal, que es precisamente lo que Colombia no es según el artículo 1. -->
+- [ ] D) Porque las entidades territoriales no tienen autoridad alguna y solo cumplen órdenes del Gobierno nacional.
+  <!-- feedback: Incorrecto. Los departamentos y los municipios son autónomos: administran sus asuntos locales con base en competencias propias. -->
 
 ### Explicacion Pedagogica
 Comprender la forma unitaria del Estado colombiano es indispensable para analizar su sistema político. El artículo 1 consagra la República unitaria, lo que significa que la soberanía nacional no se reparte entre las entidades territoriales, como ocurre en un Estado federal. Esa característica no niega la autonomía local: los municipios y los departamentos siguen administrando sus propios asuntos y cuentan con autoridades propias. La diferencia que se evalúa es de soberanía, no de capacidad administrativa.
@@ -57,14 +57,14 @@ Comprender la forma unitaria del Estado colombiano es indispensable para analiza
 ¿Qué diferencia existe entre una democracia representativa y una democracia participativa?
 
 ### Opciones
-- [x] A) En la representativa los ciudadanos delegan la decisión en elegidos, mientras que en la participativa intervienen de manera directa en las decisiones y en el control de la gestión pública.
-  <!-- feedback: Correcto. La democracia representativa delega en electos y la participativa incorpora la intervención directa de la ciudadanía en asuntos de interés público. -->
-- [ ] B) La democracia participativa existe solo en países que no tienen elecciones, mientras que la representativa se apoya únicamente en el voto.
-  <!-- feedback: Incorrecto. Ambas formas pueden convivir con elecciones: la participación se suma a la representación como un principio complementario. -->
-- [ ] C) La democracia representativa garantiza que todos los ciudadanos debaten públicamente, mientras que la participativa se limita a hacer cumplir la ley.
-  <!-- feedback: Incorrecto. La distinción se apoya en el lugar que ocupa la ciudadanía: si delega la decisión o si participa directamente en ella. -->
-- [ ] D) La democracia participativa fue creada en el siglo veinte y la representativa pertenece al siglo diecinueve, de modo que ambas formas están separadas por motivos históricos.
+- [ ] A) La democracia participativa fue creada en el siglo veinte y la representativa pertenece al siglo diecinueve, de modo que ambas formas están separadas por motivos históricos.
   <!-- feedback: Incorrecto. La diferencia es de fondo constitucional y no de época: se trata de dos formas distintas de organizar el ejercicio del poder. -->
+- [x] B) En la representativa los ciudadanos delegan la decisión en elegidos, mientras que en la participativa intervienen de manera directa en las decisiones y en el control de la gestión pública.
+  <!-- feedback: Correcto. La democracia representativa delega en electos y la participativa incorpora la intervención directa de la ciudadanía en asuntos de interés público. -->
+- [ ] C) La democracia participativa existe solo en países que no tienen elecciones, mientras que la representativa se apoya únicamente en el voto.
+  <!-- feedback: Incorrecto. Ambas formas pueden convivir con elecciones: la participación se suma a la representación como un principio complementario. -->
+- [ ] D) La democracia representativa garantiza que todos los ciudadanos debaten públicamente, mientras que la participativa se limita a hacer cumplir la ley.
+  <!-- feedback: Incorrecto. La distinción se apoya en el lugar que ocupa la ciudadanía: si delega la decisión o si participa directamente en ella. -->
 
 ### Explicacion Pedagogica
 La comparación entre estas dos formas de democracia permite entender cómo interviene la ciudadanía en el poder. En la democracia representativa, los ciudadanos eligen representantes y estos ejercen las funciones públicas por un tiempo determinado, lo que exige vigilancia permanente para evitar el abuso. En la democracia participativa, la ciudadanía actúa de manera directa en la formulación, la ejecución o el control de las decisiones, por ejemplo mediante los mecanismos de participación previstos en la Constitución. Colombia es formalmente un país de democracia representativa, pero también incluye instrumentos participativos que combinan las dos lógicas.
@@ -80,14 +80,14 @@ La comparación entre estas dos formas de democracia permite entender cómo inte
 ¿Por qué se afirma que un sistema electoral respeta la igualdad política de la ciudadanía cuando el voto es universal, libre, igualitario y secreto?
 
 ### Opciones
-- [x] A) Porque esos principios garantizan que cada ciudadano cuenta con el mismo peso, sin coacción, sin presión y con protección frente a la observación de sus preferencias.
-  <!-- feedback: Correcto. El voto universal, libre, igualitario y secreto asegura que todas las personas que cumplen la edad legal prevista voten en condiciones de igualdad. -->
-- [ ] B) Porque esos principios aumentan la cantidad de candidatos que pueden presentarse en cada elección.
+- [ ] A) Porque esos principios aumentan la cantidad de candidatos que pueden presentarse en cada elección.
   <!-- feedback: Incorrecto. El número de candidatos depende del régimen electoral y de las normas de inscripción, no de los principios del voto. -->
-- [ ] C) Porque esos principios obligan a todos los ciudadanos a votar con el mismo criterio ideológico.
-  <!-- feedback: Incorrecto. El voto es libre precisamente porque cada elector decide según sus propias convicciones, sin uniformidad forzada. -->
-- [ ] D) Porque esos principios permiten que el Gobierno observe el comportamiento electoral de cada ciudadano.
+- [ ] B) Porque esos principios permiten que el Gobierno observe el comportamiento electoral de cada ciudadano.
   <!-- feedback: Incorrecto. El secreto del voto impide que el Gobierno o cualquier autoridad siga el comportamiento de los votantes. -->
+- [x] C) Porque esos principios garantizan que cada ciudadano cuenta con el mismo peso, sin coacción, sin presión y con protección frente a la observación de sus preferencias.
+  <!-- feedback: Correcto. El voto universal, libre, igualitario y secreto asegura que todas las personas que cumplen la edad legal prevista voten en condiciones de igualdad. -->
+- [ ] D) Porque esos principios obligan a todos los ciudadanos a votar con el mismo criterio ideológico.
+  <!-- feedback: Incorrecto. El voto es libre precisamente porque cada elector decide según sus propias convicciones, sin uniformidad forzada. -->
 
 ### Explicacion Pedagogica
 El carácter igualitario del voto se conecta con el principio de igualdad política que se deriva de la soberanía popular. Universal significa que puede ejercer el voto toda persona que cumpla la edad legal; libre significa que nadie puede obligar ni comprar la decisión; igualitario significa que el peso de cada voto es el mismo; y secreto protege la autonomía de la voluntad del elector. Cuando uno de estos principios se vulnera, el resultado electoral deja de expresar la voluntad popular y la democracia representativa pierde legitimidad.
@@ -103,14 +103,14 @@ El carácter igualitario del voto se conecta con el principio de igualdad polít
 De acuerdo con el artículo 74 de la Constitución, que considera el trabajo un derecho y un deber social, y con lo dispuesto sobre seguridad social, ¿qué reflexión es la más adecuada sobre la situación del trabajador?
 
 ### Opciones
-- [x] A) La situación revela una falla del sistema, porque el trabajo debe ser digno y protegido, y la seguridad social constituye un servicio público a cargo del Estado.
-  <!-- feedback: Correcto. El trabajo es un derecho y un deber social, y su protección exige que el Estado organice la seguridad social como un servicio público obligatorio. -->
-- [ ] B) La situación es normal, porque la seguridad social solo cubre a los trabajadores que trabajan con un contrato formal.
-  <!-- feedback: Incorrecto. La Constitución protege el trabajo de todas las personas y obliga al Estado a garantizar la seguridad social, incluida la población informal cuando la ley lo reglule. -->
-- [ ] C) La situación corresponde exclusivamente a una decisión equivocada del trabajador, porque los empleadores no tienen responsabilidad alguna.
-  <!-- feedback: Incorrecto. Reducir el problema a la conducta individual ignora que la garantía de la seguridad social es una obligación institucional del Estado. -->
-- [ ] D) La situación se resuelve solo con la iniciativa de los empleadores, porque el mercado laboral se ajusta por sí mismo sin intervención del Estado.
+- [ ] A) La situación se resuelve solo con la iniciativa de los empleadores, porque el mercado laboral se ajusta por sí mismo sin intervención del Estado.
   <!-- feedback: Incorrecto. El ajuste espontáneo del mercado no sustituye la garantía constitucional de la seguridad social ni la regulación del trabajo. -->
+- [ ] B) La situación corresponde exclusivamente a una decisión equivocada del trabajador, porque los empleadores no tienen responsabilidad alguna.
+  <!-- feedback: Incorrecto. Reducir el problema a la conducta individual ignora que la garantía de la seguridad social es una obligación institucional del Estado. -->
+- [ ] C) La situación es normal, porque la seguridad social solo cubre a los trabajadores que trabajan con un contrato formal.
+  <!-- feedback: Incorrecto. La Constitución protege el trabajo de todas las personas y obliga al Estado a garantizar la seguridad social, incluida la población informal cuando la ley lo reglule. -->
+- [x] D) La situación revela una falla del sistema, porque el trabajo debe ser digno y protegido, y la seguridad social constituye un servicio público a cargo del Estado.
+  <!-- feedback: Correcto. El trabajo es un derecho y un deber social, y su protección exige que el Estado organice la seguridad social como un servicio público obligatorio. -->
 
 ### Explicacion Pedagogica
 Aplicar la norma constitucional al caso del trabajador informal exige unir dos ideas: el trabajo es un derecho y un deber social, y la seguridad social es un servicio público obligatorio a cargo del Estado. El artículo 74 consagra esa doble condición del trabajo, y la Constitución garantiza la seguridad social como un derecho. Reconocer esta relación permite analizar por qué la informalidad laboral no es un asunto que se resuelva solo con la voluntad del mercado. El estudiante debe distinguir entre una conducta individual equivocada y una omisión institucional, y reconocer que la garantía del acceso a la seguridad social es un deber público cuyo cumplimiento se verifica en los hechos.
@@ -149,14 +149,14 @@ Analizar el comercio exterior desde la Constitución exige entender dos dimensio
 Desde la perspectiva constitucional sobre el uso de los recursos naturales, ¿qué criterio debe orientar la decisión del municipio sobre la ampliación del proyecto?
 
 ### Opciones
-- [x] A) El criterio debe combinar el beneficio económico y social con la protección del ambiente y el interés general, porque la riqueza pública no se administra solo en función de la rentabilidad inmediata.
-  <!-- feedback: Correcto. La Constitución reconoce un ambiente sano y somete las decisiones al interés general, por lo que el beneficio económico debe pesarse junto a otros criterios. -->
-- [ ] B) El criterio debe ser únicamente el beneficio económico, porque los recursos naturales están llamados a producir riqueza para el sector privado.
+- [ ] A) El criterio debe ser únicamente el beneficio económico, porque los recursos naturales están llamados a producir riqueza para el sector privado.
   <!-- feedback: Incorrecto. Reducir la decisión al beneficio económico desatendería la protección del ambiente y el interés general, que tienen rango constitucional. -->
-- [ ] C) El criterio debe ser la prohibición absoluta de usar los recursos naturales, porque así lo establece la Constitución.
-  <!-- feedback: Incorrecto. La Constitución no prohíbe el uso de los recursos naturales: lo sujeta a regulación, a la protección del ambiente y al interés nacional. -->
-- [ ] D) El criterio debe ser la rapidez de la inversión, porque el desarrollo sostenible se opone a la llegada de nuevas empresas al municipio.
+- [x] B) El criterio debe combinar el beneficio económico y social con la protección del ambiente y el interés general, porque la riqueza pública no se administra solo en función de la rentabilidad inmediata.
+  <!-- feedback: Correcto. La Constitución reconoce un ambiente sano y somete las decisiones al interés general, por lo que el beneficio económico debe pesarse junto a otros criterios. -->
+- [ ] C) El criterio debe ser la rapidez de la inversión, porque el desarrollo sostenible se opone a la llegada de nuevas empresas al municipio.
   <!-- feedback: Incorrecto. El desarrollo sostenible no se opone a la inversión: la exige en condiciones que equilibren lo económico, lo social y lo ambiental. -->
+- [ ] D) El criterio debe ser la prohibición absoluta de usar los recursos naturales, porque así lo establece la Constitución.
+  <!-- feedback: Incorrecto. La Constitución no prohíbe el uso de los recursos naturales: lo sujeta a regulación, a la protección del ambiente y al interés nacional. -->
 
 ### Explicacion Pedagogica
 Aplicar la Constitución a una decisión sobre recursos naturales exige reconocer que estos bienes tienen una dimensión pública. La Constitución reconoce un ambiente sano como un derecho de todas las personas y establece que su protección es un deber compartido, de modo que el aprovechamiento de los recursos no puede medirse solo por la rentabilidad. Analizar bien la situación implica comparar criterios como: empleo e ingresos para el municipio, calidad de vida de la población, protección de los ecosistemas y coordinación con las autoridades ambientales.
@@ -172,14 +172,14 @@ Aplicar la Constitución a una decisión sobre recursos naturales exige reconoce
 ¿Qué análisis explica mejor por qué ese partido puede administrar la ciudad si no alcanzó la mitad de los votos?
 
 ### Opciones
-- [x] A) Porque el sistema electoral entrega la administración a la opción más votada y la segunda queda como oposición, de modo que puede gobernar una fuerza con apoyo minoritario.
-  <!-- feedback: Correcto. En el sistema mayoritario simple la opción más votada gana, y los votos de las demás opciones se suman a la oposición. -->
+- [ ] A) Porque el alcalde es elegido por el Congreso de la República y no por los ciudadanos del municipio.
+  <!-- feedback: Incorrecto. La elección de los cargos locales es directa, universal y secreta, y se realiza a cargo de los ciudadanos del municipio. -->
 - [ ] B) Porque en Colombia las personas pueden votar en varias elecciones al mismo tiempo, lo que multiplica el apoyo recibido.
   <!-- feedback: Incorrecto. El voto es único en cada elección y el resultado se define por los votos válidamente emitidos en una sola fecha. -->
-- [ ] C) Porque la Constitución obliga a que solo pueda gobernar quien obtenga la mayoría absoluta del electorado.
+- [x] C) Porque el sistema electoral entrega la administración a la opción más votada y la segunda queda como oposición, de modo que puede gobernar una fuerza con apoyo minoritario.
+  <!-- feedback: Correcto. En el sistema mayoritario simple la opción más votada gana, y los votos de las demás opciones se suman a la oposición. -->
+- [ ] D) Porque la Constitución obliga a que solo pueda gobernar quien obtenga la mayoría absoluta del electorado.
   <!-- feedback: Incorrecto. La Constitución no exige una mayoría absoluta para las elecciones locales, y esa exigencia bloquearía legitimaciones de gobierno muy comunes. -->
-- [ ] D) Porque el alcalde es elegido por el Congreso de la República y no por los ciudadanos del municipio.
-  <!-- feedback: Incorrecto. La elección de los cargos locales es directa, universal y secreta, y se realiza a cargo de los ciudadanos del municipio. -->
 
 ### Explicacion Pedagogica
 Analizar un resultado electoral exige comprender cómo el sistema electoral traduce la voluntad ciudadana en gobierno. En el sistema mayoritario simple, que rige las elecciones locales colombianas, la lista o el candidato con mayor número de votos obtiene la administración sin necesidad de alcanzar la mitad del electorado. La consecuencia es que puede gobernar una fuerza con apoyo relativo mientras la oposición reúne una proporción importante de los votos. Reconocer esta característica permite valorar por qué la legitimidad del ganador depende del consenso y de la vigilancia ciudadana, y no solo del resultado electoral.
@@ -194,14 +194,14 @@ Analizar un resultado electoral exige comprender cómo el sistema electoral trad
 ¿Qué lectura espacial del mapa es la más adecuada para explicar esas diferencias entre municipios vecinos?
 
 ### Opciones
-- [x] A) El voto no se distribuye de manera uniforme: cambia según las condiciones económica y sociales de cada territorio, de modo que el espacio político expresa diferencias locales.
-  <!-- feedback: Correcto. El mapa electoral muestra que la votación varía según la realidad económica, social y cultural de cada municipio. -->
-- [ ] B) Los colores del mapa indican que todos los municipios del departamento votan de la misma manera, porque el voto es universal.
-  <!-- feedback: Incorrecto. El voto universal garantiza el derecho a votar de cada ciudadano, pero no obliga a que los votos se distribuyan de manera uniforme en el territorio. -->
-- [ ] C) El cambio de color entre vecinos se debe a que cada municipio cuenta con un número diferente de habitantes.
-  <!-- feedback: Incorrecto. La variación de resultados no se explica solo por la población, sino por las diferencias sociales y económicas que esa población expresa en su voto. -->
-- [ ] D) El mapa demuestra que la ubicación geográfica de los municipios no tiene ninguna relación con los resultados electorales.
+- [ ] A) El mapa demuestra que la ubicación geográfica de los municipios no tiene ninguna relación con los resultados electorales.
   <!-- feedback: Incorrecto. La distribución espacial de los votos sí está relacionada con el territorio, sus actividades económicas y su historia política. -->
+- [ ] B) El cambio de color entre vecinos se debe a que cada municipio cuenta con un número diferente de habitantes.
+  <!-- feedback: Incorrecto. La variación de resultados no se explica solo por la población, sino por las diferencias sociales y económicas que esa población expresa en su voto. -->
+- [ ] C) Los colores del mapa indican que todos los municipios del departamento votan de la misma manera, porque el voto es universal.
+  <!-- feedback: Incorrecto. El voto universal garantiza el derecho a votar de cada ciudadano, pero no obliga a que los votos se distribuyan de manera uniforme en el territorio. -->
+- [x] D) El voto no se distribuye de manera uniforme: cambia según las condiciones económica y sociales de cada territorio, de modo que el espacio político expresa diferencias locales.
+  <!-- feedback: Correcto. El mapa electoral muestra que la votación varía según la realidad económica, social y cultural de cada municipio. -->
 
 ### Explicacion Pedagogica
 Leer un mapa electoral exige relacionar espacio y sociedad. La distribución de los votos no es un hecho aislado: refleja la economía local, la historia política, la presencia de movimientos sociales y las condiciones de vida de cada territorio. Por eso dos municipios vecinos pueden presentar resultados opuestos. Comprender esta relación espacial ayuda a evitar dos errores frecuentes: creer que el voto es uniforme porque es universal, o creer que los resultados dependen solo del número de habitantes.
@@ -219,12 +219,12 @@ Al analizar la Constitución, que reconoce la diversidad étnica y cultural de l
 ### Opciones
 - [x] A) El reconocimiento de la diversidad exige que los sistemas de representación y las instituciones reflejen esa pluralidad, porque solo entonces la democracia puede ser realmente inclusiva.
   <!-- feedback: Correcto. Reconocer la pluralidad étnica exige su presencia efectiva en las instituciones y en los sistemas de representación política. -->
-- [ ] B) El reconocimiento de la diversidad es un asunto cultural que no guarda relación con la forma en que se organiza el poder político.
-  <!-- feedback: Incorrecto. La Constitución vincula el reconocimiento de la diversidad con el ejercicio de la ciudadanía y con la organización del poder. -->
-- [ ] C) El reconocimiento de la diversidad obliga a que todos los ciudadanos voten siempre por candidatos de las mismas comunidades.
+- [ ] B) El reconocimiento de la diversidad obliga a que todos los ciudadanos voten siempre por candidatos de las mismas comunidades.
   <!-- feedback: Incorrecto. El reconocimiento de la pluralidad no restringe la libertad política de los ciudadanos ni impone un voto obligatorio por pertenencia étnica. -->
-- [ ] D) El reconocimiento de la diversidad es suficiente por sí mismo y no necesita medidas concretas de participación para producir efectos.
+- [ ] C) El reconocimiento de la diversidad es suficiente por sí mismo y no necesita medidas concretas de participación para producir efectos.
   <!-- feedback: Incorrecto. Un reconocimiento que no incluye espacios reales de participación permanece en el papel y no garantiza la inclusividad. -->
+- [ ] D) El reconocimiento de la diversidad es un asunto cultural que no guarda relación con la forma en que se organiza el poder político.
+  <!-- feedback: Incorrecto. La Constitución vincula el reconocimiento de la diversidad con el ejercicio de la ciudadanía y con la organización del poder. -->
 
 ### Explicacion Pedagogica
 Analizar el vínculo entre diversidad y democracia exige comprender que el reconocimiento constitucional de la pluralidad tiene consecuencias políticas concretas. Si una parte sustancial de la población tiene una identidad, una historia y unas necesidades distintas, el sistema político debe permitir que esa diferencia esté representada y pueda participar en las decisiones. Reconocer la diversidad solo en el discurso, sin instancias de participación, deja la igualdad formal sin contenido material y debilita la legitimidad del sistema.
@@ -239,10 +239,10 @@ Analizar el vínculo entre diversidad y democracia exige comprender que el recon
 Frente a la decisión sobre el proyecto, ¿cuál razonamiento muestra una evaluación más sólida de los intereses en conflicto?
 
 ### Opciones
-- [x] A) El concejo debe comparar el beneficio económico y el empleo con el daño ambiental y el derecho de la comunidad, y decidir con base en criterios técnicos y legales.
-  <!-- feedback: Correcto. Un buen razonamiento pondera los intereses en conflicto con criterios técnicos, jurídicos y sociales, y no con una sola ventaja inmediata. -->
-- [ ] B) El concejo debe aprobar el proyecto porque traerá empleo, ya que cualquier beneficio económico justifica la decisión.
+- [ ] A) El concejo debe aprobar el proyecto porque traerá empleo, ya que cualquier beneficio económico justifica la decisión.
   <!-- feedback: Incorrecto. Considerar solo el empleo reduce el análisis y deja de lado el daño ambiental y los derechos de la comunidad. -->
+- [x] B) El concejo debe comparar el beneficio económico y el empleo con el daño ambiental y el derecho de la comunidad, y decidir con base en criterios técnicos y legales.
+  <!-- feedback: Correcto. Un buen razonamiento pondera los intereses en conflicto con criterios técnicos, jurídicos y sociales, y no con una sola ventaja inmediata. -->
 - [ ] C) El concejo debe rechazar el proyecto porque toda actividad económica genera algún efecto negativo en el ambiente.
   <!-- feedback: Incorrecto. Rechazar toda actividad por sus posibles efectos ambientales también es un razonamiento absoluto que no pondera el caso. -->
 - [ ] D) El concejo debe aplazar la decisión hasta que el sector privado opine sobre el proyecto.
@@ -262,14 +262,14 @@ Evaluar un dilema económico, social y ambiental exige ordenar los intereses en 
 Frente a esta denuncia por el uso de recursos públicos en actividades privadas, ¿cuál razonamiento se ajusta mejor a una evaluación ética y política responsable?
 
 ### Opciones
-- [x] A) La denuncia debe verificarse con información pública y, si se confirma, activar los mecanismos de control y de responsabilidad, porque el uso de los recursos del Estado tiene reglas claras.
-  <!-- feedback: Correcto. Evaluar con responsabilidad exige verificar los hechos y utilizar los mecanismos legales de control y rendición de cuentas. -->
+- [ ] A) La denuncia debe convertirse en un argumento para ampliar las facultades de la autoridad política, con el fin de evitar nuevosINARYE debates públicos sobre el control.
+  <!-- feedback: Incorrecto. Usar una denuncia para ampliar poderes sin fundamento debilita los controles y la vigilancia sobre el poder. -->
 - [ ] B) La denuncia debe rechazarse de inmediato, porque en un sistema democrático el Gobierno decide cómo usar los recursos públicos sin explicación.
   <!-- feedback: Incorrecto. En una democracia el uso del presupuesto público está sujeto a reglas, vigilancia y explicación ante la ciudadanía. -->
-- [ ] C) La denuncia basta para declarar culpable al funcionario, porque la opinión pública tiene siempre la razón.
+- [x] C) La denuncia debe verificarse con información pública y, si se confirma, activar los mecanismos de control y de responsabilidad, porque el uso de los recursos del Estado tiene reglas claras.
+  <!-- feedback: Correcto. Evaluar con responsabilidad exige verificar los hechos y utilizar los mecanismos legales de control y rendición de cuentas. -->
+- [ ] D) La denuncia basta para declarar culpable al funcionario, porque la opinión pública tiene siempre la razón.
   <!-- feedback: Incorrecto. La opinión pública puede señalar un problema, pero la determinación de responsabilidades exige un procedimiento legal. -->
-- [ ] D) La denuncia debe convertirse en un argumento para ampliar las facultades de la autoridad política, con el fin de evitar nuevosINARYE debates públicos sobre el control.
-  <!-- feedback: Incorrecto. Usar una denuncia para ampliar poderes sin fundamento debilita los controles y la vigilancia sobre el poder. -->
 
 ### Explicacion Pedagogica
 Evaluar éticamente una denuncia sobre el uso de recursos públicos exige separar la sospecha de la verificación. En una democracia, los recursos del Estado están destinados al interés general y su uso debe ser transparente, eficiente y vigilado por la ciudadanía y los organismos de control. Reconocer esto permite rechazar tanto la indiferencia ante una denuncia, que debilita la confianza pública, como la acusación precipitada, que vulnera el debido proceso. El razonamiento responsable combina información verificable, vías institucionales y respeto por los derechos de las personas y de las comunidades.
@@ -285,14 +285,14 @@ Evaluar éticamente una denuncia sobre el uso de recursos públicos exige separa
 Frente a la relación entre el sistema político y la construcción de paz, ¿cuál razonamiento evalúa con mayor profundidad la importancia de la paz para la democracia?
 
 ### Opciones
-- [x] A) La paz sostiene las condiciones mínimas para ejercer derechos y participar políticamente, por lo que sin ella la democracia se debilita en su fundamento.
-  <!-- feedback: Correcto. La paz garantiza condiciones de convivencia que permiten el ejercicio de los derechos y la participación política sin violencia. -->
+- [ ] A) La paz es equivalente a la ausencia total de diferencias y de conflictos de opinión entre los ciudadanos.
+  <!-- feedback: Incorrecto. La paz no es la desaparición de las diferencias, sino la garantía de que esas diferencias se resuelven sin violencia. -->
 - [ ] B) La paz es un asunto ajeno a la política, porque la democracia se sostiene solo con elecciones regulares.
   <!-- feedback: Incorrecto. Las elecciones son un componente esencial, pero sin paz no se pueden garantizar la seguridad de la población ni el libre ejercicio de los derechos. -->
 - [ ] C) La paz es importante solo mientras persistan conflictos, y una vez alcanzada pierde relevancia política.
   <!-- feedback: Incorrecto. La paz es una condición permanente que sostiene la vida pública y no un asunto temporal. -->
-- [ ] D) La paz es equivalente a la ausencia total de diferencias y de conflictos de opinión entre los ciudadanos.
-  <!-- feedback: Incorrecto. La paz no es la desaparición de las diferencias, sino la garantía de que esas diferencias se resuelven sin violencia. -->
+- [x] D) La paz sostiene las condiciones mínimas para ejercer derechos y participar políticamente, por lo que sin ella la democracia se debilita en su fundamento.
+  <!-- feedback: Correcto. La paz garantiza condiciones de convivencia que permiten el ejercicio de los derechos y la participación política sin violencia. -->
 
 ### Explicacion Pedagogica
 Evaluar la relación entre paz y democracia exige comprender que la paz es una condición política y no un simple resultado histórico. La convivencia sin violencia permite que las personas ejerzan sus derechos, participen en las decisiones y resuelvan sus diferencias por la vía del diálogo y de las instituciones. Reconocer que la paz no es la ausencia de diversidad, sino el marco que hace posible la discusión pública, permite valorar con precisión por qué la construcción de paz es un fundamento del proyecto constitucional y no un asunto accesorio de la política.

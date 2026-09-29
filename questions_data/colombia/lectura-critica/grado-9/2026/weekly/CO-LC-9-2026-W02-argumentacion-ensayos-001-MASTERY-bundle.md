@@ -39,12 +39,12 @@ Según el texto, ¿qué es la tesis en un ensayo?
 ### Opciones
 - [x] A) Es la afirmación central que el autor propone y que se compromete a defender a lo largo del texto.
   <!-- feedback: Correcto. El texto presenta la tesis como la afirmación central que el autor defiende con argumentos y datos. -->
-- [ ] B) Es el conjunto de datos citados para respaldar la opinión del autor.
-  <!-- feedback: Incorrecto. Los datos son las evidencias que sostienen la tesis, pero no son la tesis en sí misma. -->
-- [ ] C) Es la conclusión final en la que el autor resume su postura ante el lector.
-  <!-- feedback: Incorrecto. La conclusión recoge el resultado del razonamiento, mientras que la tesis es la afirmación que se debe defender. -->
-- [ ] D) Es el título del ensayo, que resume el tema que se va a tratar.
+- [ ] B) Es el título del ensayo, que resume el tema que se va a tratar.
   <!-- feedback: Incorrecto. El título anuncia el tema, pero la tesis es la afirmación argumentada que sostiene todo el texto. -->
+- [ ] C) Es el conjunto de datos citados para respaldar la opinión del autor.
+  <!-- feedback: Incorrecto. Los datos son las evidencias que sostienen la tesis, pero no son la tesis en sí misma. -->
+- [ ] D) Es la conclusión final en la que el autor resume su postura ante el lector.
+  <!-- feedback: Incorrecto. La conclusión recoge el resultado del razonamiento, mientras que la tesis es la afirmación que se debe defender. -->
 
 ### Explicacion Pedagogica
 Reconocer la tesis como la afirmación central que el autor defiende es el primer paso para comprender cómo se organiza un ensayo. El texto base explica que un buen ensayo propone una tesis clara y luego la sostiene con argumentos y datos pertinentes. Distinguir la tesis de la evidencia, de la conclusión y del título evita confusiones frecuentes y permite seguir el hilo del razonamiento del autor.
@@ -59,14 +59,14 @@ Reconocer la tesis como la afirmación central que el autor defiende es el prime
 ¿Cuál es la idea central que el texto base defiende?
 
 ### Opciones
-- [x] A) Escribir un ensayo requiere sostener una postura con argumentos y datos, y no solamente expresar una opinión personal.
-  <!-- feedback: Correcto. Esta es la tesis del texto: escribir un ensayo es demostrar una idea, no solo enunciarla. -->
-- [ ] B) Escribir un ensayo consiste en repetir la opinión de los expertos más reconocidos en cada tema.
-  <!-- feedback: Incorrecto. El texto no propone copiar autoridades, sino construir un razonamiento propio con argumentos pertinentes. -->
-- [ ] C) Escribir un ensayo exige usar un lenguaje muy formal que evite toda opinión personal.
-  <!-- feedback: Incorrecto. El texto no dice que deba evitarse la opinión: pide sostenerla con argumentos y datos verificables. -->
-- [ ] D) Escribir un ensayo es una actividad reservada a los estudiantes que tienen facilidad natural para la escritura.
+- [ ] A) Escribir un ensayo es una actividad reservada a los estudiantes que tienen facilidad natural para la escritura.
   <!-- feedback: Incorrecto. El ensayo se escribe con cualquiera de los estudiantes: lo que se exige es un razonamiento ordenado y no un talento especial para la escritura. -->
+- [x] B) Escribir un ensayo requiere sostener una postura con argumentos y datos, y no solamente expresar una opinión personal.
+  <!-- feedback: Correcto. Esta es la tesis del texto: escribir un ensayo es demostrar una idea, no solo enunciarla. -->
+- [ ] C) Escribir un ensayo consiste en repetir la opinión de los expertos más reconocidos en cada tema.
+  <!-- feedback: Incorrecto. El texto no propone copiar autoridades, sino construir un razonamiento propio con argumentos pertinentes. -->
+- [ ] D) Escribir un ensayo exige usar un lenguaje muy formal que evite toda opinión personal.
+  <!-- feedback: Incorrecto. El texto no dice que deba evitarse la opinión: pide sostenerla con argumentos y datos verificables. -->
 
 ### Explicacion Pedagogica
 Comprender la idea central exige reducir el texto a la afirmación que el autor quiere demostrar. En este caso, la tesis del texto es que el ensayo no consiste en expresar una opinión, sino en sostenerla con argumentos y datos pertinentes. Identificar esta idea ayuda a organizar la lectura: cada elemento posterior del texto, como la anticipación de objeciones o la fuerza de la conclusión, se entiende como una consecuencia de esa afirmación principal.
@@ -82,14 +82,14 @@ Comprender la idea central exige reducir el texto a la afirmación que el autor 
 En la estructura de un párrafo argumentativo, ¿cómo se relacionan la afirmación, la razón que la sostiene y la evidencia que la respalda?
 
 ### Opciones
-- [x] A) La afirmación se apoya en una razón, y esa razón se comprueba con una evidencia, de modo que la evidencia existe para sostener la razón.
-  <!-- feedback: Correcto. La evidencia no sustituye la razón: cumple la función de comprobar o demostrar lo que la razón afirma. -->
-- [ ] B) La evidencia ocupa el lugar de la razón, porque el dato por sí solo explica por qué la afirmación es verdadera.
+- [ ] A) La evidencia ocupa el lugar de la razón, porque el dato por sí solo explica por qué la afirmación es verdadera.
   <!-- feedback: Incorrecto. Un dato aislado no explica nada: su valor depende de la razón que lo conecta con la afirmación. -->
-- [ ] C) La razón sustituye a la evidencia, porque basta con explicar la idea sin necesidad de comprobarla.
-  <!-- feedback: Incorrecto. La razón explica, pero la evidencia es la que permite comprobar que la explicación se sostiene en los hechos. -->
-- [ ] D) La afirmación y la evidencia son equivalentes, porque decir lo mismo con palabras distintas ya es demostrar.
+- [ ] B) La afirmación y la evidencia son equivalentes, porque decir lo mismo con palabras distintas ya es demostrar.
   <!-- feedback: Incorrecto. Repetir una afirmación con otras palabras no constituye una demostración: hace falta una razón y una evidencia. -->
+- [x] C) La afirmación se apoya en una razón, y esa razón se comprueba con una evidencia, de modo que la evidencia existe para sostener la razón.
+  <!-- feedback: Correcto. La evidencia no sustituye la razón: cumple la función de comprobar o demostrar lo que la razón afirma. -->
+- [ ] D) La razón sustituye a la evidencia, porque basta con explicar la idea sin necesidad de comprobarla.
+  <!-- feedback: Incorrecto. La razón explica, pero la evidencia es la que permite comprobar que la explicación se sostiene en los hechos. -->
 
 ### Explicacion Pedagogica
 Analizar la estructura de un párrafo argumentativo exige distinguir tres funciones: afirmar, razonar y demostrar. La afirmación es lo que se sostiene; la razón explica por qué se sostiene esa afirmación; y la evidencia comprueba que la razón es válida. Comprender esta jerarquía es esencial para escribir y para evaluar ensayos, porque permite detectar el error frecuente de presentar muchos datos sin una razón que los organice, lo que produce un texto que acumula información pero no demuestra nada.
@@ -105,14 +105,14 @@ Analizar la estructura de un párrafo argumentativo exige distinguir tres funcio
 ¿Qué reformulación convierte mejor esa frase inicial en una tesis defendible para un ensayo?
 
 ### Opciones
-- [x] A) Reducir el consumo de agua en los hogares del barrio exige corregir fugas y usar el agua con cuidado, porque cada familia puede ahorrar una cantidad importante en su factura mensual.
-  <!-- feedback: Correcto. La reformulación afirma una idea concreta, la limita a un lugar y ofrece una razón que podrá sostener con datos en el desarrollo. -->
-- [ ] B) El agua es importante y hay que cuidar el recurso, porque el agua es importante.
-  <!-- feedback: Incorrecto. La frase repite la misma idea sin añadir una razón, de modo que sigue siendo una afirmación general y no una tesis. -->
-- [ ] C) El agua es importante, pero todas las personas del barrio deben pensar en este problema.
-  <!-- feedback: Incorrecto. La frase mantiene la generalidad y añade una recomendación, pero no enuncia una posición que el autor pueda demostrar. -->
-- [ ] D) El agua es tan importante como la luz y el gas, porque los tres servicios son básicos.
+- [ ] A) El agua es tan importante como la luz y el gas, porque los tres servicios son básicos.
   <!-- feedback: Incorrecto. La comparación no aclara la posición del autor sobre el problema que se estudia en el ensayo. -->
+- [ ] B) El agua es importante, pero todas las personas del barrio deben pensar en este problema.
+  <!-- feedback: Incorrecto. La frase mantiene la generalidad y añade una recomendación, pero no enuncia una posición que el autor pueda demostrar. -->
+- [ ] C) El agua es importante y hay que cuidar el recurso, porque el agua es importante.
+  <!-- feedback: Incorrecto. La frase repite la misma idea sin añadir una razón, de modo que sigue siendo una afirmación general y no una tesis. -->
+- [x] D) Reducir el consumo de agua en los hogares del barrio exige corregir fugas y usar el agua con cuidado, porque cada familia puede ahorrar una cantidad importante en su factura mensual.
+  <!-- feedback: Correcto. La reformulación afirma una idea concreta, la limita a un lugar y ofrece una razón que podrá sostener con datos en el desarrollo. -->
 
 ### Explicacion Pedagogica
 Transformar una afirmación general en una tesis defendible exige responder tres preguntas: sobre qué se va a afirmar, en qué lugar o situación concreta y por qué se sostiene esa afirmación. La opción correcta limita el tema, enuncia una postura y ofrece una razón comprobable, de modo que el estudiante podrá reunir datos sobre fugas y consumo para sostenerla. Las otras opciones repiten la idea inicial, la dejan demasiado general o añaden una recomendación sin una posición que demostrar.
@@ -150,14 +150,14 @@ Reconocer una falacia ayuda a construir argumentos sólidos. En el caso presenta
 ¿Qué organización del párrafo presenta correctamente la estructura afirmación, razón y evidencia?
 
 ### Opciones
-- [x] A) Afirmar que el transporte público es usado por la mayoría de los estudiantes, explicar que esto genera congestión y citar el dato de porcentaje de usuarios.
-  <!-- feedback: Correcto. La afirmación, la razón y la evidencia aparecen en el orden en que se construyen y comprueban el razonamiento. -->
-- [ ] B) Presentar primero el dato de porcentaje de usuarios, luego la afirmación y cerrar con la explicación de la congestión.
+- [ ] A) Presentar primero el dato de porcentaje de usuarios, luego la afirmación y cerrar con la explicación de la congestión.
   <!-- feedback: Incorrecto. Invertir el orden rompe la lógica del párrafo, porque la evidencia se presenta antes de saber qué afirmación sostiene. -->
-- [ ] C) Empezar con la explicación de la congestión, seguir con el dato y terminar con la afirmación sobre el uso del transporte.
-  <!-- feedback: Incorrecto. En este orden el lector no identifica pronto la postura que el párrafo defenderá, lo que dificulta la comprensión. -->
-- [ ] D) Presentar las tres ideas como una lista de oraciones separadas por puntos, sin nexos entre ellas.
+- [x] B) Afirmar que el transporte público es usado por la mayoría de los estudiantes, explicar que esto genera congestión y citar el dato de porcentaje de usuarios.
+  <!-- feedback: Correcto. La afirmación, la razón y la evidencia aparecen en el orden en que se construyen y comprueban el razonamiento. -->
+- [ ] C) Presentar las tres ideas como una lista de oraciones separadas por puntos, sin nexos entre ellas.
   <!-- feedback: Incorrecto. Una lista sin nexos no muestra la relación lógica entre afirmación, razón y evidencia. -->
+- [ ] D) Empezar con la explicación de la congestión, seguir con el dato y terminar con la afirmación sobre el uso del transporte.
+  <!-- feedback: Incorrecto. En este orden el lector no identifica pronto la postura que el párrafo defenderá, lo que dificulta la comprensión. -->
 
 ### Explicacion Pedagogica
 Construir un párrafo argumentativo requiere ordenar las ideas de manera que el lector pueda seguir el razonamiento. La afirmación debe aparecer primero para que se sepa qué se defiende; la razón explica la causa y la evidencia comprueba esa explicación. Un orden distinto puede hacer que la evidencia se quede sin propósito. Además, las ideas deben conectarse con nexos lógicos, porque un párrafo argumentativo no es una lista de oraciones.
@@ -173,14 +173,14 @@ Construir un párrafo argumentativo requiere ordenar las ideas de manera que el 
 ¿De qué depende que la conclusión de un ensayo sea coherente con el desarrollo del texto?
 
 ### Opciones
-- [x] A) Depende de que la conclusión recoja lo demostrado en el desarrollo y no introduzca afirmaciones que no se hayan probado.
-  <!-- feedback: Correcto. La conclusión cierra el razonamiento, por lo que debe limitarse a lo que los argumentos y las evidencias efectivamente sostienen. -->
+- [ ] A) Depende de que la conclusión exprese la opinión personal del autor, aunque no se haya demostrado con argumentos.
+  <!-- feedback: Incorrecto. La opinión del autor pertenece a la tesis, y la conclusión debe seguir la demostración realizada en el texto. -->
 - [ ] B) Depende de que la conclusión repita literalmente la introducción, porque la repetición garantiza la coherencia.
   <!-- feedback: Incorrecto. Repetir la introducción no garantiza coherencia: puede ocurrir que el desarrollo haya llegado a una posición distinta. -->
-- [ ] C) Depende de que la conclusión incluya datos nuevos que el desarrollo no había mencionado, porque eso enriquece el texto.
+- [x] C) Depende de que la conclusión recoja lo demostrado en el desarrollo y no introduzca afirmaciones que no se hayan probado.
+  <!-- feedback: Correcto. La conclusión cierra el razonamiento, por lo que debe limitarse a lo que los argumentos y las evidencias efectivamente sostienen. -->
+- [ ] D) Depende de que la conclusión incluya datos nuevos que el desarrollo no había mencionado, porque eso enriquece el texto.
   <!-- feedback: Incorrecto. Introducir datos nuevos en la conclusión impide al lector verificar el razonamiento completo del ensayo. -->
-- [ ] D) Depende de que la conclusión exprese la opinión personal del autor, aunque no se haya demostrado con argumentos.
-  <!-- feedback: Incorrecto. La opinión del autor pertenece a la tesis, y la conclusión debe seguir la demostración realizada en el texto. -->
 
 ### Explicacion Pedagogica
 Analizar la relación entre las partes del ensayo exige verificar que la conclusión se desprenda del desarrollo. Un texto bien argumentado lleva al lector, por medio de razones y evidencias, hasta una posición que la conclusión explicita sin agregar nada nuevo. Cuando la conclusión introduce ideas no demostradas, el lector percibe una ruptura y pierde confianza en el razonamiento. Revisar esta coherencia es una habilidad esencial tanto para escribir como para evaluar ensayos ajenos.
@@ -195,14 +195,14 @@ Analizar la relación entre las partes del ensayo exige verificar que la conclus
 ¿Qué postura revela el uso de esa expresión sarcástica en el texto?
 
 ### Opciones
-- [x] A) El autor expresa distancia frente a la medida, porque el sarcasmo sugiere que la ciclovía no cumple la meta de mover a todos los ciudadanos.
-  <!-- feedback: Correcto. El sarcasmo es un recurso pragmático que revela la intención del autor y su valoración negativa de la medida. -->
-- [ ] B) El autor apoya sin reservas la construcción de ciclovías, porque el sarcasmo expresa entusiasmo por la medida.
-  <!-- feedback: Incorrecto. El sarcasmo se usa aquí para marcar ironía y distancia, no para mostrar apoyo incondicional a la medida. -->
-- [ ] C) El autor pretende dejar de opinar sobre el tema, porque el sarcasmo declara que el asunto no requiere debate público.
-  <!-- feedback: Incorrecto. El sarcasmo comunica una posición, no la suspension del juicio o del debate sobre el tema. -->
-- [ ] D) El autor cita cifras sobre el uso de la ciclovía, porque el sarcasmo es una forma de presentar datos estadísticos.
+- [ ] A) El autor cita cifras sobre el uso de la ciclovía, porque el sarcasmo es una forma de presentar datos estadísticos.
   <!-- feedback: Incorrecto. El sarcasmo es un recurso de intención y de valoración, no un procedimiento para presentar datos. -->
+- [ ] B) El autor pretende dejar de opinar sobre el tema, porque el sarcasmo declara que el asunto no requiere debate público.
+  <!-- feedback: Incorrecto. El sarcasmo comunica una posición, no la suspension del juicio o del debate sobre el tema. -->
+- [ ] C) El autor apoya sin reservas la construcción de ciclovías, porque el sarcasmo expresa entusiasmo por la medida.
+  <!-- feedback: Incorrecto. El sarcasmo se usa aquí para marcar ironía y distancia, no para mostrar apoyo incondicional a la medida. -->
+- [x] D) El autor expresa distancia frente a la medida, porque el sarcasmo sugiere que la ciclovía no cumple la meta de mover a todos los ciudadanos.
+  <!-- feedback: Correcto. El sarcasmo es un recurso pragmático que revela la intención del autor y su valoración negativa de la medida. -->
 
 ### Explicacion Pedagogica
 Comprender la intención del autor exige atender a los recursos que van más allá del contenido literal. El sarcasmo introduce ironía y expresa una valoración que contradice lo que se dice en apariencia, de modo que ayuda a reconstruir la postura real del autor. Reconocer estos recursos evita dos errores: leer de manera literal un enunciado irónico o suponer que todo juicio del autor es neutral.
@@ -220,12 +220,12 @@ Comprender la intención del autor exige atender a los recursos que van más all
 ### Opciones
 - [x] A) La segunda versión delimita hasta dónde llega el dato y evita pedirle a un caso particular que pruebe una conclusión general.
   <!-- feedback: Correcto. Delimitar el alcance del dato y no generalizar sin fundamento es lo que hace sólido un argumento. -->
-- [ ] B) La segunda versión es más larga y por eso resulta más convincente para el lector.
-  <!-- feedback: Incorrecto. La extensión no garantiza solidez: la calidad del razonamiento depende de cómo se enlazan los datos con la conclusión. -->
-- [ ] C) La segunda versión utiliza un lenguaje más complicado, porque los públicos especializados exigen tecnicismos.
+- [ ] B) La segunda versión utiliza un lenguaje más complicado, porque los públicos especializados exigen tecnicismos.
   <!-- feedback: Incorrecto. Un lenguaje complejo no mejora el argumento: la solidez depende del respaldo y no de la forma de expresión. -->
-- [ ] D) La segunda versión presenta la opinión del autor sin datos, porque la opinión tiene más autoridad que las cifras.
+- [ ] C) La segunda versión presenta la opinión del autor sin datos, porque la opinión tiene más autoridad que las cifras.
   <!-- feedback: Incorrecto. La segunda versión es más sólida justamente porque respalda su afirmación con un dato acotado, no porque se apoye en la opinión. -->
+- [ ] D) La segunda versión es más larga y por eso resulta más convincente para el lector.
+  <!-- feedback: Incorrecto. La extensión no garantiza solidez: la calidad del razonamiento depende de cómo se enlazan los datos con la conclusión. -->
 
 ### Explicacion Pedagogica
 Analizar dos versiones de un mismo párrafo exige identificar dónde está la diferencia de razonamiento. En la primera versión, un dato particular se usa para sostener una conclusión general, lo que constituye una generalización apresurada. En la segunda, el dato se delimita y se usa dentro del alcance para el que es válido. Reconocer esta diferencia enseña a evaluar argumentos por la relación entre lo que se afirma y lo que efectivamente se demuestra.
@@ -240,10 +240,10 @@ Analizar dos versiones de un mismo párrafo exige identificar dónde está la di
 Frente a esa discusión, ¿qué juicio sobre la solidez del ensayo resulta más fundamentado?
 
 ### Opciones
-- [x] A) El ensayo es sólido en su estructura argumentativa, pero su validez depende de que sus datos sigan siendo representativos, de modo que el juicio debe considerar ambos aspectos.
-  <!-- feedback: Correcto. Evaluar con rigor exige separar la calidad del razonamiento de la pertinencia y la vigencia de las evidencias. -->
-- [ ] B) El ensayo es completamente sólido, porque la buena estructura de los argumentos no puede ser cuestionada por el contenido de los datos.
+- [ ] A) El ensayo es completamente sólido, porque la buena estructura de los argumentos no puede ser cuestionada por el contenido de los datos.
   <!-- feedback: Incorrecto. Un argumento bien organizado puede apoyarse en información antigua y perder validez. -->
+- [x] B) El ensayo es sólido en su estructura argumentativa, pero su validez depende de que sus datos sigan siendo representativos, de modo que el juicio debe considerar ambos aspectos.
+  <!-- feedback: Correcto. Evaluar con rigor exige separar la calidad del razonamiento de la pertinencia y la vigencia de las evidencias. -->
 - [ ] C) El ensayo es débil en su totalidad, porque un solo dato discutible invalida todo el razonamiento del texto.
   <!-- feedback: Incorrecto. Un problema puntual no invalida por sí solo el conjunto del argumento: hay que valorar todas las razones. -->
 - [ ] D) El ensayo no puede valorarse hasta conocer la opinión de los autores de los textos que cita.
@@ -262,14 +262,14 @@ Valorar la solidez de un ensayo exige aplicar criterios y no preferencias. Los d
 ¿Qué evaluación del uso de esa fuente resulta la más adecuada?
 
 ### Opciones
-- [x] A) La fuente solo sirve si el lector puede verificar su origen y su relación con la realidad descrita, de modo que conviene actualizarla o limitar el alcance de la afirmación.
-  <!-- feedback: Correcto. Evaluar una fuente exige comprobar quién la elaboró, cuándo y respecto de qué realidad, para decidir si sostiene la afirmación. -->
+- [ ] A) La fuente no requiere ninguna observación, porque en un ensayo la calidad depende solo de la extensión del texto.
+  <!-- feedback: Incorrecto. La extensión no determina la calidad: importa que las evidencias sean pertinentes, verificables y actuales. -->
 - [ ] B) La fuente es válida porque cualquier estudio publicado por una universidad tiene la misma autoridad para cualquier lugar y época.
   <!-- feedback: Incorrecto. La autoridad de una fuente no depende solo de quién la publica, sino de su pertinencia para el lugar y el momento que se analiza. -->
-- [ ] C) La fuente es suficiente porque el ensayo no necesita cifras propias de la región si ya existe un dato internacional disponible.
+- [x] C) La fuente solo sirve si el lector puede verificar su origen y su relación con la realidad descrita, de modo que conviene actualizarla o limitar el alcance de la afirmación.
+  <!-- feedback: Correcto. Evaluar una fuente exige comprobar quién la elaboró, cuándo y respecto de qué realidad, para decidir si sostiene la afirmación. -->
+- [ ] D) La fuente es suficiente porque el ensayo no necesita cifras propias de la región si ya existe un dato internacional disponible.
   <!-- feedback: Incorrecto. Sustituir la realidad local por un dato extranjero antiguo debilita la demostración, porque la evidencia no corresponde al fenómeno estudiado. -->
-- [ ] D) La fuente no requiere ninguna observación, porque en un ensayo la calidad depende solo de la extensión del texto.
-  <!-- feedback: Incorrecto. La extensión no determina la calidad: importa que las evidencias sean pertinentes, verificables y actuales. -->
 
 ### Explicacion Pedagogica
 Evaluar las fuentes es una tarea central de la lectura crítica. Un dato, por más autoridad que tenga quien lo produzca, solo tiene fuerza demostrativa si es pertinente respecto del lugar, el periodo y la población que se estudia. Ante una fuente antigua o ajena, el estudiante debe decidir entre actualizar la evidencia, buscar una más adecuada o limitar el alcance de lo que afirma. Reconocer esto permite construir ensayos más honestos y también más fáciles de verificar.
@@ -284,14 +284,14 @@ Evaluar las fuentes es una tarea central de la lectura crítica. Un dato, por m�
 Frente a este desacuerdo, ¿qué evaluación permite decidir mejor cuál de las dos tesis es más sólida?
 
 ### Opciones
-- [x] A) Comparar cómo cada autor justifica su postura, qué evidencia presenta y si esa evidencia sostiene lo que afirma, porque la solidez depende del razonamiento y no de la postura elegida.
-  <!-- feedback: Correcto. Confrontar dos tesis exige examinar el razonamiento de cada una y no limitarse a escoger la posición que se prefiere. -->
+- [ ] A) Elegir la tesis de la persona cuya opinión personal se parezca más a la propia, porque el criterio personal garantiza imparcialidad.
+  <!-- feedback: Incorrecto. La cercanía con la opinión propia no es un criterio de valoración, pues introduce un sesgo en el juicio. -->
 - [ ] B) Elegir la tesis que presenta mayor cantidad de datos, porque el volumen de cifras garantiza la solidez del argumento.
   <!-- feedback: Incorrecto. Acumular datos no garantiza solidez: importa que sean pertinentes y que el razonamiento que los une sea válido. -->
 - [ ] C) Elegir la tesis que está escrita con una redacción más elaborada, porque el estilo demuestra la capacidad del autor.
   <!-- feedback: Incorrecto. La redacción elaborada puede hacer que un argumento débil parezca sólido, y la solidez depende de la demostración. -->
-- [ ] D) Elegir la tesis de la persona cuya opinión personal se parezca más a la propia, porque el criterio personal garantiza imparcialidad.
-  <!-- feedback: Incorrecto. La cercanía con la opinión propia no es un criterio de valoración, pues introduce un sesgo en el juicio. -->
+- [x] D) Comparar cómo cada autor justifica su postura, qué evidencia presenta y si esa evidencia sostiene lo que afirma, porque la solidez depende del razonamiento y no de la postura elegida.
+  <!-- feedback: Correcto. Confrontar dos tesis exige examinar el razonamiento de cada una y no limitarse a escoger la posición que se prefiere. -->
 
 ### Explicacion Pedagogica
 Evaluar dos tesis enfrentadas exige aplicar los mismos criterios a las dos, de manera que el juicio no dependa de las preferencias del lector. El procedimiento consiste en identificar la tesis de cada autor, revisar qué razones ofrece, comprobar si las evidencias son pertinentes y verificar que la conclusión se desprenda de lo expuesto. Solo después de ese análisis comparativo se puede afirmar cuál de las dos es más sólida y explicar con precisión el motivo de la preferencia.
