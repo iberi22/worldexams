@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-2-grade-8-subject-lectura_critica",
+    "generated_at": "2026-09-29T04:18:13.096Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v1",
+      "statement": "En una noticia, la primera oración se conoce como lead o entrada. Según el taller de los estudiantes de La Candelaria, ¿cuál es la función comunicativa principal que cumple esa parte del texto?",
+      "context": "Los estudiantes de grado octavo del colegio de La Candelaria, en Bogotá, recibieron en clase la edición matutina de un periódico y la profesora les propuso una pregunta para su taller de lectura. Debían identificar cuál parte de la noticia le entrega al lector los datos más importantes del hecho, sin necesidad de que lea todo el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar de inmediato los datos esenciales del hecho, es decir qué pasó, quién, cuándo y dónde.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el lead cumple la función de informar y resume los datos básicos del hecho en la primera oración."
+        },
+        {
+          "letter": "B",
+          "text": "Dar a conocer la opinión personal del periodista sobre lo ocurrido.",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa es la función de una columna de opinión, no de la entrada informativa de una noticia."
+        },
+        {
+          "letter": "C",
+          "text": "Anunciar solamente el tema general, sin dar ningún dato concreto sobre el hecho.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el lead sí entrega datos concretos; dejarlos para más adelante corresponde a otros recursos del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Repetir con otras palabras lo que ya dice el titular para llenar espacio antes del cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el lead amplía y precisa la información, no la repite, porque si solo repitiera no aportaría nada nuevo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lead o entrada es la primera oración de la noticia y cumple una doble función: informar con rapidez y adelantar los hechos más relevantes. Por eso responde a las preguntas qué, quién, cuándo y dónde, mientras que el porqué suele aparecer en el cuerpo o en párrafos posteriores. Cuando el lead cumple esta función, el lector comprende el hecho central sin leer el resto de la nota, lo que vuelve más eficiente la lectura de un diario impreso o de una página web.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v2",
+      "statement": "Un lector que solo lee el titular ya sabe de qué trata la nota, pero también siente curiosidad por seguir leyendo. ¿Cuál es la función comunicativa que cumple el titular dentro del texto periodístico?",
+      "context": "En la edición que llegó al aula de un colegio de Ibagué, el titular anuncia: «Abren en Bogotá el parque más grande construido en el barrio El Tunal». La profesora pregunta a sus estudiantes de grado octavo qué función cumple ese titular dentro de la organización del texto periodístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reproducir textualmente el lead para ahorrarle al lector el primer párrafo de la noticia.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el titular y el lead se complementan porque el titular es más breve y anuncia, no lo copia."
+        },
+        {
+          "letter": "B",
+          "text": "Anticipar el contenido de la nota y captar la atención del lector que después ampliará el lead.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el titular cumple la doble función de informar de manera anticipada y de atraer al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Introducir el tema sin mencionar ningún hecho comprobable, para generar expectativa en el público.",
+          "is_correct": false,
+          "feedback": "Incorrecta: un buen titular sí anuncia un hecho comprobable; si no lo hace, pierde su valor informativo."
+        },
+        {
+          "letter": "D",
+          "text": "Resumir la nota completa, incluidas las conclusiones y todos los datos que aparecen en el cuerpo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el titular es breve y no cabe en una sola línea la conclusión ni todos los datos de la nota."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El titular es la primera línea de la nota y cumple dos tareas: informar de manera anticipada y atraer la atención del lector. Como es una frase breve, solo puede anticipar el tema, y por eso necesita que el lead y el cuerpo desarrollen lo que él deja pendiente. Desde el punto de vista de la organización del texto, el titular funciona como una promesa de contenido que el resto de la nota debe cumplir.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v3",
+      "statement": "Observe el titular «Cinco robberías en el centro en una sola noche». ¿Cuál de los siguientes análisis describe correctamente la estructura de esa oración?",
+      "context": "En la portada de La Tarde, de Cali, el titular de una nota breve sobre seguridad dice: «Cinco robberías en el centro en una sola noche». La profesora de lenguaje escribe esa oración en el tablero y les pide a los alumnos de San Fernando que analicen su estructura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una oración con verbo impersonal, porque el sustantivo «roberías» funciona como verbo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: «roberías» es un sustantivo, y una oración impersonal se construye con «se» más una forma verbal."
+        },
+        {
+          "letter": "B",
+          "text": "Es un sintagma adjetival, porque el sustantivo «robos» está modificado por un adjetivo calificativo.",
+          "is_correct": false,
+          "feedback": "Incorrecta: no hay ningún adjetivo calificativo en el titular, así que no se forma un sintagma adjetival."
+        },
+        {
+          "letter": "C",
+          "text": "Es un enunciado nominal, con «cinco robberías» como núcleo y el resto en función de complemento.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el titular omite el verbo y construye la información alrededor de un sintagma nominal."
+        },
+        {
+          "letter": "D",
+          "text": "Es una oración pasiva refleja, porque el sujeto aparece después del verbo que realiza la acción.",
+          "is_correct": false,
+          "feedback": "Incorrecta: no hay verbo ni pasiva en el titular, y el sintagma inicial funciona como núcleo, no como objeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los titulares de prensa suelen usar recursos de síntesis para llamar la atención dentro de poco espacio, y uno de ellos es la elipsis del verbo. En este caso, el enunciado «Cinco robberías en el centro en una sola noche» se organiza como un sintagma nominal: el numeral cardinal «cinco» actúa como determinante del núcleo «roberías» y los demás elementos son complementos. Analizar esta estructura explica por qué un titular puede entenderse sin verbo, algo que sería imposible en un párrafo corrido.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v4",
+      "statement": "En una nota periodística, el lead organiza la información de una manera precisa. Según el ejemplo, ¿qué datos entrega la primera oración de esta noticia y qué deja para el resto del texto?",
+      "context": "Un periódico de Cúcuta publicó esta primera oración de una nota sobre el aguacero de la semana anterior: «Una fuerte lluvia cayó sobre el barrio San Vicente el martes por la tarde, y varias calles de la zona se inundaron». Los estudiantes de la Normal completaron con ella una guía de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Responde las cinco preguntas, porque el lead ya incluye el porqué, las cifras y la fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el ejemplo no explica las causas del aguacero, así que el porqué no está resuelto en el lead."
+        },
+        {
+          "letter": "B",
+          "text": "No entrega datos, porque se limita a presentar el tema general para que el lector decida si sigue.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la oración sí da un día, un lugar y una consecuencia concreta, por lo que sí aporta datos."
+        },
+        {
+          "letter": "C",
+          "text": "Responde solo cuándo y dónde, dejando por fuera cualquier indicación sobre lo que ocurrió.",
+          "is_correct": false,
+          "feedback": "Incorrecta: además de la fecha y el barrio, la oración dice que cayó una lluvia fuerte y hubo inundaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Responde qué, dónde y cuándo, y deja el porqué, las cifras y la fuente para los párrafos siguientes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque así funciona la organización de la noticia: lo esencial primero y el contexto después."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los periodistas responden a una secuencia de preguntas básicas al redactar el lead: qué pasó, quién participó, cuándo y dónde. El ejemplo de Cúcuta resuelve las cuatro en una sola oración, mientras que el porqué, las cifras exactas y las declaraciones de los habitantes quedan para el desarrollo. Reconocer esta distribución de la información ayuda al lector a distinguir la noticia de un simple comentario y también le permite anticipar qué encontrará más adelante en el texto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v5",
+      "statement": "Las cuatro oraciones anteriores pertenecen a la misma nota. Según el significado y la intención de sus palabras, ¿cuál de ellas NO es un dato verificable, sino un juicio de valor del periodista?",
+      "context": "En La Concepción, Barranquilla, la docente copió cuatro oraciones de una nota sobre la cancha del barrio: «La cancha se abrió el lunes a las ocho de la mañana. Es la mejor del departamento y eso es inobjetable. En la inauguración hubo 200 asistentes. Según la secretaría de deporte, el terreno cumple las normas de seguridad».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Es la mejor del departamento y eso es inobjetable».",
+          "is_correct": true,
+          "feedback": "Es correcta porque «la mejor» y «inobjetable» expresan una valoración personal que no se puede comprobar con una cifra."
+        },
+        {
+          "letter": "B",
+          "text": "«La cancha se abrió el lunes a las ocho de la mañana».",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa oración sí es verificable, pues indica un día, una hora y un lugar que se pueden confirmar."
+        },
+        {
+          "letter": "C",
+          "text": "«En la inauguración hubo 200 asistentes».",
+          "is_correct": false,
+          "feedback": "Incorrecta: la cantidad de asistentes es un dato comprobable, así que la oración es informativa y no valorativa."
+        },
+        {
+          "letter": "D",
+          "text": "«Según la secretaría de deporte, el terreno cumple las normas de seguridad».",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa oración atribuye el dato a una fuente identificada, de modo que puede verificarse con ella."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el lenguaje periodístico, el dato verificable se apoya en fechas, cifras, lugares y fuentes que cualquier lector puede confirmar, mientras que el juicio de valor incorpora la valoración del periodista. En el ejemplo de Barranquilla, tres oraciones cumplen con esa primera condición, pero la segunda usa adjetivos valorativos que expresan una opinión. Reconocer esta diferencia es clave para que un lector decida en qué parte de la nota puede confiar en los hechos y en qué parte debe mantener una postura crítica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de estas reescrituras hace que la oración de Pasto cumpla mejor su función informativa frente al lector de la noticia?",
+      "context": "En el taller de periódico del colegio de Pasto, unos estudiantes de grado octavo encontraron una oración demasiado vaga: «Hubo un accidente grave en el centro». Debían reescribirla para que cumpliera bien su función informativa frente a los lectores de la nota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Ocurrió un accidente gravísimo en el centro de la ciudad».",
+          "is_correct": false,
+          "feedback": "Incorrecta: solo cambia el adjetivo «grave» por «gravísimo» y sigue sin decir cuándo, en qué calle ni a quién afectó."
+        },
+        {
+          "letter": "B",
+          "text": "«En el centro de la ciudad todos saben que los accidentes son peligrosísimos».",
+          "is_correct": false,
+          "feedback": "Incorrecta: la oración pasa a una valoración general sobre todos los accidentes y deja de informar sobre este hecho."
+        },
+        {
+          "letter": "C",
+          "text": "«El jueves 8 de mayo, un carro particular se chocó contra una moto en la carrera 12 con la 20 y el conductor resultó herido».",
+          "is_correct": true,
+          "feedback": "Es correcta porque la nueva versión precisa qué, cuándo, dónde y a quién afecta, y así el lector puede verificar cada dato."
+        },
+        {
+          "letter": "D",
+          "text": "«Fue un accidente muy grave, tal como ocurre en todas las ciudades del país».",
+          "is_correct": false,
+          "feedback": "Incorrecta: la comparación con otras ciudades no aporta datos del hecho y desplaza la atención hacia otros lugares."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una oración vaga sirve para comentarios de redes sociales, pero no para una noticia, porque el lector no puede comprobarla ni entenderla con precisión. En el taller de Pasto, la reescritura correcta precisa qué ocurrió, cuándo, dónde y cuántas personas quedaron involucradas. Este ejercicio muestra que la precisión no es solo cuestión de estilo: es una condición para que la información sea útil y verificable dentro del género periodístico.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v7",
+      "statement": "Compare los dos textos del contexto. ¿Qué explicación describe mejor por qué la información de un medio y la del otro no es idéntica, aunque traten del mismo hecho?",
+      "context": "Dos medios colombianos cubrieron el cierre de la ciclorruta de la calle 85, en Teusaquillo, Bogotá. Radio Nacional escribió: «Vecinos de Teusaquillo se quejan porque la ciclorruta lleva días cerrada y dicen que el paso se vuelve peligroso». El Espectador escribió: «Entre el lunes 14 y el viernes 25, la secretaría tapó 300 metros con barreras y señalización».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque uno de los dos medios se equivocó al informar y registró una fecha que no corresponde.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los dos textos pueden ser ciertos al mismo tiempo, porque no se contradicen en ningún dato."
+        },
+        {
+          "letter": "B",
+          "text": "Porque cada medio atiende a una audiencia distinta y prioriza datos diferentes según su formato.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la radio destaca la reacción de la gente y el impreso destaca las fechas y las cantidades."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el hecho en realidad ocurrió en dos fechas diferentes y cada medio informó una versión.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el contexto no muestra contradicción de fechas, y la diferencia entre los textos está en el enfoque."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la secretaría entregó dos versiones del cierre y solo una llegó al medio escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el contexto no menciona ninguna versión oficial contradictoria, sino dos formas distintas de contar el mismo hecho."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando dos medios cubren un mismo suceso, sus textos suelen ser complementarios y no contradictorios, porque cada uno responde a las necesidades de su audiencia. La nota de radio de Teusaquillo destaca la reacción de los vecinos y el efecto que tiene el cierre en ellos, mientras que la nota del periódico impreso precisa las fechas y la cantidad de metros afectados. Esta comparación enseña que leer dos versiones del mismo hecho no es una tarea repetida, sino una forma de ampliar la información disponible.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v8",
+      "statement": "Un lector que lee solo el lead de cada nota se forma una idea distinta del mismo hecho. Desde la organización interna del texto, ¿qué explica mejor esa diferencia?",
+      "context": "Dos medios abrieron la nota sobre la futura sede de un colegio de Pasto con frases distintas. El Tiempo escribió: «Comienza la construcción de la nueva sede del colegio San Jocabito». El Espectador escribió: «Tras 14 años de espera, los 1.200 estudiantes del colegio San Jocabito por fin tendrán salones nuevos».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el segundo medio usa un lenguaje más sencillo, y eso cambia por sí solo la interpretación.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la dificultad de las palabras no explica por sí sola el cambio de enfoque que produce la primera oración."
+        },
+        {
+          "letter": "B",
+          "text": "Que la primera nota es más corta que la segunda, y el tamaño del texto define la lectura del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la diferencia se explica por el contenido del lead, no por la cantidad de palabras de cada nota."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo una de las dos primeras oraciones termina con punto, y por eso resulta mejor construida.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la puntuación final es un rasgo de forma menor y no cambia el enfoque con el que se lee la nota."
+        },
+        {
+          "letter": "D",
+          "text": "Que cada lead prioriza información distinta, y ese párrafo inicial fija el punto de vista de toda la nota.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el primer párrafo organiza la lectura: anuncia el hecho y establece desde dónde se interpreta el resto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La organización de una nota no es casual: el primer párrafo establece el tema y el enfoque con el que se leen los demás. El lead de El Tiempo abre con la acción de la obra, mientras que el de El Espectador abre con la espera de los estudiantes y el número de afectados. Esa diferencia de contenido funciona como una estructura que encuadra el resto de la información y orienta las conclusiones que el lector puede formarse sobre el evento.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v9",
+      "statement": "Según los datos que aparecen en el contexto, ¿cuál de los dos titulares es más preciso y por qué?",
+      "context": "La biblioteca móvil del Ministerio llegó el lunes a la plaza principal de Bucaramanga, con 3.000 libros, y su ruta solo recorre cuatro municipios. Sobre ese mismo hecho, El Tiempo tituló: «Llega a Bucaramanga la biblioteca móvil»; un portal regional tituló: «¡Llega con tres millones de textos para todo Santander!».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El del portal regional, porque los signos de exclamación y las cifras grandes llaman más la atención.",
+          "is_correct": false,
+          "feedback": "Incorrecta: llamar la atención no equivale a informar bien, y ese titular no respeta el criterio de veracidad."
+        },
+        {
+          "letter": "B",
+          "text": "El de El Tiempo, porque anuncia únicamente lo que consta en el texto: que la biblioteca llegó a Bucaramanga.",
+          "is_correct": true,
+          "feedback": "Es correcta porque se limita a lo verificado y no agrega cifras ni alcances que la nota no confirma."
+        },
+        {
+          "letter": "C",
+          "text": "El del portal regional, porque mencionar el número de libros vuelve confiable cualquier titular.",
+          "is_correct": false,
+          "feedback": "Incorrecta: justamente esa cifra es el problema, porque el texto dice que el vehículo transporta 3.000 libros."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos titulares son igual de precisos, porque en un título cabe cualquier dato del hecho.",
+          "is_correct": false,
+          "feedback": "Incorrecta: un titular debe ajustarse a los datos confirmados, y expandirlos o deformarlos es una falta de precisión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La calidad de un titular se juzga por su precisión y no por su capacidad de llamar la atención. En el caso de Bucaramanga, el titular de El Tiempo se limita a lo que consta en la nota, mientras que el del portal regional multiplica el número de libros y amplía el alcance a todo el departamento. Analizar esta diferencia enseña que el engaño en un titular no es una exageración menor, sino una alteración del hecho que puede llevar al lector a conclusiones equivocadas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v10",
+      "statement": "Un párrafo informativo debe sostener sus afirmaciones con datos y con fuentes identificables. Al analizar el párrafo citado, ¿cuál es el problema principal que usted encuentra?",
+      "context": "En el aula de grado octavo de un colegio de Manizales compararon dos textos sobre el aumento del pasaje. El portal regional escribió en su tercer párrafo: «Un estudio de la universidad demuestra que el aumento mejorará la movilidad en toda la ciudad».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Afirma que un estudio lo demuestra, pero no dice cuál es, quién lo hizo ni dónde se publicó.",
+          "is_correct": true,
+          "feedback": "Es correcta porque, sin esos datos, el lector no puede localizar la evidencia ni verificar la afirmación."
+        },
+        {
+          "letter": "B",
+          "text": "Incluye una afirmación sobre el aumento, cuando los periódicos no pueden opinar sobre temas públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecta: los periódicos sí informan sobre decisiones públicas; lo que no pueden es presentar opiniones como hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Menciona a la universidad, y por eso la nota se convierte en publicidad académica.",
+          "is_correct": false,
+          "feedback": "Incorrecta: nombrar una institución como posible fuente no es publicidad, siempre que el estudio pueda identificarse."
+        },
+        {
+          "letter": "D",
+          "text": "No presenta ningún problema, porque cualquier afirmación puede apoyarse en un estudio que exista.",
+          "is_correct": false,
+          "feedback": "Incorrecta: una afirmación periodística necesita una fuente verificable, no la simple posibilidad de que exista un estudio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un discurso informativo se sostiene sobre la relación entre una afirmación y la evidencia que la respalda, y esa evidencia debe ser localizable por el lector. En el párrafo de Manizales, la expresión «un estudio de la universidad» funciona como respaldo aparente, pero al no indicar qué estudio, qué autores ni dónde se publicó, deja la conclusión sin fundamento. Detectar estas afirmaciones sin fuente es una habilidad de lectura crítica que protege al lector de opiniones presentadas como hechos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v11",
+      "statement": "¿Qué valoraría usted para decidir si esa publicación viral es confiable, y qué conclusión sacaría en este caso concreto?",
+      "context": "Un video corto se volvió viral entre estudiantes de varios colegios de Pereira y afirma que el agua de la quebrada San Antonio está contaminada y no debe beberse. La publicación no menciona quién comprobó esa situación ni la fecha en que se grabó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de reproducciones, porque si el video llegó a muchas personas su contenido está verificado.",
+          "is_correct": false,
+          "feedback": "Incorrecta: la viralidad mide cuántas personas lo vieron, no si la afirmación tiene respaldo verificable."
+        },
+        {
+          "letter": "B",
+          "text": "El tono de alarma del video, porque un tono urgente es una prueba evidente de que la información es cierta.",
+          "is_correct": false,
+          "feedback": "Incorrecta: el tono dramático es un recurso de persuasión y no un argumento que permita comprobar el hecho."
+        },
+        {
+          "letter": "C",
+          "text": "Que varios usuarios lo hayan reenviado, porque la repetición de un mensaje confirma su veracidad.",
+          "is_correct": false,
+          "feedback": "Incorrecta: que otros usuarios reenvíen el contenido no añade una fuente nueva que permita comprobar la afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "El autor, la fuente y la fecha, contrastados con un comunicado oficial; sin ese respaldo, no lo daría por cierto.",
+          "is_correct": true,
+          "feedback": "Es correcta porque solo una fuente oficial e identificable permite confirmar o descartar una afirmación de salud pública."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Antes de compartir una publicación que circula en redes, un lector responsable necesita preguntar quién la hizo, con qué evidencia y en qué fecha, y contrastarla con una fuente oficial. En el caso de la quebrada San Antonio, el video no identifica a ningún responsable de la medición ni permite localizar un comunicado de la autoridad sanitaria, de modo que la afirmación sobre el agua no puede darse por confirmada. Valorar la viralidad como una garantía de verdad es un riesgo frecuente, especialmente cuando la alerta toca la salud pública de un municipio.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v12",
+      "statement": "Al analizar el sentido y la connotación de las palabras del titular, ¿cuál de ellas es la que incumple el criterio de no sensacionalismo que fijó el diario?",
+      "context": "Un diario regional publicó una nota sobre un accidente en la vía que sale de Pasto hacia el sur. Su criterio editorial exige no escribir con sensacionalismo y dar derecho de réplica a los implicados, y su titular dice: «Brutal accidente en la vía que sale de Pasto deja dos heridos y acusa a un conductor ebrio».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Accidente», porque es una palabra tan genérica que impide entender la magnitud del hecho.",
+          "is_correct": false,
+          "feedback": "Incorrecta: «accidente» es un término neutro del género informativo y no genera una expectativa que exagere el hecho."
+        },
+        {
+          "letter": "B",
+          "text": "«En la vía que sale de Pasto», porque la referencia al lugar hace que la nota tenga un tono publicitario.",
+          "is_correct": false,
+          "feedback": "Incorrecta: ubicar el hecho en un lugar es una precisión informativa y no una caída en el sensacionalismo."
+        },
+        {
+          "letter": "C",
+          "text": "«Brutal», porque es un adjetivo valorativo que connota violencia extrema y amplifica el hecho.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa palabra añade una connotación de violencia que el dato verificado no sostenía."
+        },
+        {
+          "letter": "D",
+          "text": "«Ebrio», porque esa palabra es neutra y describe un hecho comprobable, por lo que respeta el criterio del diario.",
+          "is_correct": false,
+          "feedback": "Incorrecta: esa expresión acusa a alguien sin fuente y sin derecho de réplica, y vulnera el segundo criterio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sensacionalismo se detecta en el significado connotativo que el lenguaje periodístico añade a los hechos, no solo en los datos que se presentan. En el titular de Pasto, el adjetivo «brutal» incorpora una valoración de violencia extrema que no aparece en la información básica del accidente, mientras que «accidente» y la referencia al lugar son elementos neutros y precisos. Evaluar el criterio editorial de un medio exige, entonces, analizar qué connotan las palabras que elige y no solo qué afirma el texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
