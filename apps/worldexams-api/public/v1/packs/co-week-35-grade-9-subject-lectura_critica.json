@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-35-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T13:20:49.119Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué momento del relato aparece primero en la transcripción que Camila escribe en su cuaderno?",
+      "context": "Camila transcribe la respuesta de su abuelo en el cuaderno de IxED y necesita ubicar el primer momento que quedó registrado allí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fila de la familia en el puesto de salud",
+          "is_correct": false,
+          "feedback": "Ese momento aparece en la fila de la narración del abuelo, pero en el cuaderno de Camila queda en segundo lugar."
+        },
+        {
+          "letter": "B",
+          "text": "La llegada del agua al pueblo",
+          "is_correct": true,
+          "feedback": "Es correcto porque Camila coloca primero la llegada del agua y solo después menciona la fila en el puesto de salud y la visita del médico."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada de la visita de un médico",
+          "is_correct": false,
+          "feedback": "La visita del médico aparece en la transcripción después de la fila en el puesto de salud, no como el primer hecho registrado."
+        },
+        {
+          "letter": "D",
+          "text": "La compra de la bicicleta",
+          "is_correct": false,
+          "feedback": "La bicicleta es el último hecho de la línea de tiempo y además no hace parte de la historia que Camila transcribe."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El enunciado pide identificar un dato explícito del texto, no interpretarlo. La respuesta se localiza leyendo de nuevo la transcripción descrita en el Texto 1. Este tipo de pregunta de reconocimiento entrena la atención al detalle como base para después analizar los saltos temporales del relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "Según el contenido de la semana, ¿qué es un cronopema?",
+      "context": "Un compañero de Camila pregunta qué significa cronopema, porque leyó la palabra en el cuaderno de la clase y no entendió su uso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El orden en que aparecen los hechos en la hoja de la ficha",
+          "is_correct": false,
+          "feedback": "Eso describe la línea de tiempo, que es un apoyo visual, no el cronopema, que es una expresión del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La persona que cuenta la historia desde el pasado",
+          "is_correct": false,
+          "feedback": "Se está confundiendo el narrador con las expresiones que marcan el tiempo; el narrador es quien relata."
+        },
+        {
+          "letter": "C",
+          "text": "Una expresión que sitúa un hecho en el tiempo dentro del relato",
+          "is_correct": true,
+          "feedback": "Es correcto porque el cronopema es la marca lingüística, como \"un jueves\" o \"un día después\", que ubica los hechos en el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar donde ocurre el hecho recordado",
+          "is_correct": false,
+          "feedback": "La ficha ubica lugares como el puesto de salud, pero el cronopema se refiere al tiempo y no al espacio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pregunta evalúa comprensión de un término del contenido de la semana. El cronopema funciona como una señal dentro del texto que le indica al lector si el hecho ocurre ahora, antes o después de otro momento. Reconocer su función es indispensable para analizar después cómo se organizan los retrocesos del relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué expresión del relato del abuelo le permite a Camila saber que la visita del médico ocurrió después de la llegada del agua?",
+      "context": "Camila busca en la transcripción la expresión que le permitió reconstruir el orden real de los hechos del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Eso fue un jueves\"",
+          "is_correct": false,
+          "feedback": "Esa expresión solo ubica el hecho en un día de la semana y no establece su posición frente a los demás hechos."
+        },
+        {
+          "letter": "B",
+          "text": "\"El día que llegó el agua al pueblo\"",
+          "is_correct": false,
+          "feedback": "Esa frase identifica el momento de la llegada del agua, pero no señala cuándo llegó el médico."
+        },
+        {
+          "letter": "C",
+          "text": "\"La lista de espera en la puerta del puesto de salud\"",
+          "is_correct": false,
+          "feedback": "Es una descripción de lugar y de escena, no una marca de tiempo que ordene los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "\"Un día después llegó la visita de un médico\"",
+          "is_correct": true,
+          "feedback": "Es correcta porque la expresión \"un día después\" establece una relación de posterioridad entre los dos hechos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aquí se pide reconocer el valor temporal de una expresión concreta. Las palabras \"un día después\" funcionan como puente lógico entre dos acontecimientos. Detectar este tipo de marcas temporales es lo que permite reconstruir la línea de tiempo correcta del relato.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "Si Camila debe construir la línea de tiempo con los hechos en el orden en que ocurrieron, ¿cuál de estas secuencias es la correcta?",
+      "context": "La profesora de noveno grado pide a Camila que ordene los cuatro momentos del relato según ocurrieron en la vida real del abuelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llegada del agua, fila en el puesto de salud, visita de un médico, compra de la bicicleta",
+          "is_correct": true,
+          "feedback": "Es correcta porque respeta la secuencia que Camila reconstruye a partir de las marcas temporales del relato del abuelo."
+        },
+        {
+          "letter": "B",
+          "text": "Fila en el puesto de salud, llegada del agua, visita de un médico, compra de la bicicleta",
+          "is_correct": false,
+          "feedback": "Esta secuencia invierte los dos primeros hechos, es decir, corresponde a la fila de la narración y no a la de los acontecimientos."
+        },
+        {
+          "letter": "C",
+          "text": "Llegada del agua, visita de un médico, fila en el puesto de salud, compra de la bicicleta",
+          "is_correct": false,
+          "feedback": "En esta secuencia la visita del médico se adelanta a la fila, lo que contradice la marca \"un día después\" del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Visita de un médico, llegada del agua, fila en el puesto de salud, compra de la bicicleta",
+          "is_correct": false,
+          "feedback": "Coloca la visita del médico al principio, cuando el texto la ubica como un hecho posterior a la llegada del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar consiste en usar las marcas temporales para ordenar información dispersa. El estudiante debe apoyarse en el Texto 2 y reconstruir la secuencia de los acontecimientos, no simplemente copiar el orden en que se narran. Esta habilidad es el insumo directo para distinguir un retroceso del relato de una secuencia lineal.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "Si Camila quiere iniciar su exposición con la escena más vívida que recuerda, ¿qué decisión narrativa debe tomar?",
+      "context": "Camila redacta un resumen para la exposición oral y necesita decidir qué orden narrativo le conviene mejor para captar la atención.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrir con la llegada del agua y luego agregar la fila, siguiendo el orden de los hechos",
+          "is_correct": false,
+          "feedback": "Este recurso respeta la cronología, pero no aprovecha la escena vívida como gancho inicial de la exposición."
+        },
+        {
+          "letter": "B",
+          "text": "Abrir con la fila en el puesto de salud y luego retroceder a la llegada del agua",
+          "is_correct": true,
+          "feedback": "Es correcta porque abre con la escena que ella recuerda mejor y después usa un salto hacia atrás hacia el origen de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Abrir con la compra de la bicicleta y luego retroceder a toda la historia",
+          "is_correct": false,
+          "feedback": "Aunque usa un salto hacia atrás, elige como punto de partida el momento menos relevante del relato."
+        },
+        {
+          "letter": "D",
+          "text": "Abrir con la lista de espera y luego contar la historia completa en orden estricto",
+          "is_correct": false,
+          "feedback": "Repite el momento inicial y no produce ningún retroceso, de modo que no hay ruptura de ritmo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La aplicación del retroceso narrativo se evalúa por la capacidad de elegir el orden más eficaz. Un buen inicio con una escena concreta invita al lector a seguir, mientras que el salto hacia atrás explica el origen. Elegir el hecho adecuado es tan importante como la técnica en sí.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "Un compañero quiere conservar los mismos hechos pero hacer la narración más lenta y reflexiva. ¿Qué cambio debe hacer?",
+      "context": "En la clase de lectura crítica, la profesora pide a los estudiantes que reescriban una parte del relato cambiando su ritmo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añadir más fechas y aumentar el número de hechos",
+          "is_correct": false,
+          "feedback": "Agregar datos y fechas acelera el ritmo de la narración en lugar de volverlo más lento."
+        },
+        {
+          "letter": "B",
+          "text": "Resumir toda la historia en tres oraciones sin detalles",
+          "is_correct": false,
+          "feedback": "El resumen extremo comprime el relato y acelera su ritmo, sin lograr un carácter reflexivo."
+        },
+        {
+          "letter": "C",
+          "text": "Quitar marcas de tiempo y detenerse en los detalles de cada escena",
+          "is_correct": true,
+          "feedback": "Es correcto porque al eliminar el cronopema y ampliar los detalles, la narración pierde velocidad y se vuelve reflexiva."
+        },
+        {
+          "letter": "D",
+          "text": "Contar los hechos en orden cronológico estricto",
+          "is_correct": false,
+          "feedback": "El orden cronológico fluidifica el relato y no produce por sí mismo un ritmo lento ni reflexivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pregunta pide aplicar el concepto de ritmo a una transformación del texto. El ritmo depende de cuánto se detiene el narrador en cada momento, no solamente del orden de los hechos. Comprender esta relación ayuda a controlar deliberadamente la experiencia de lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "¿Por qué la narración del abuelo puede considerarse un retroceso en el tiempo aunque no use la palabra \"recuerdo\"?",
+      "context": "Camila nota que su cuaderno y el relato del abuelo contienen los mismos hechos, pero en distinto orden, y pregunta a la profesora cuál de los dos cuenta la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el abuelo nombra el día exacto en que llegó el agua",
+          "is_correct": false,
+          "feedback": "Nombrar un día de la semana fija un momento, pero no implica por sí mismo un retroceso dentro de la narración."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el relato fue escuchado y no leído",
+          "is_correct": false,
+          "feedback": "El canal oral puede contener saltos, pero también puede ser completamente lineal, como ocurre aquí en parte."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la historia trata sobre hechos que ocurrieron en el pasado",
+          "is_correct": false,
+          "feedback": "Que los hechos sean antiguos no convierte el relato en un retroceso temporal, porque toda la historia contada aquí lo es."
+        },
+        {
+          "letter": "D",
+          "text": "Porque interrumpe el avance de los hechos y vuelve a un momento anterior",
+          "is_correct": true,
+          "feedback": "Es correcta porque un retroceso narrativo se define por la vuelta a un momento anterior dentro del relato y no por una palabra específica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar exige separar dos ideas que suelen confundirse: la fecha de los hechos y la estructura de la narración. Un retroceso depende de la secuencia del discurso, es decir, del orden en que el narrador presenta los hechos. Reconocer esta diferencia es fundamental para leer textos con líneas narrativas no lineales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué diferencia estructural se observa entre la fila de la narración y la fila cronológica de la ficha?",
+      "context": "La profesora proyecta en el tablero las dos filas de la ficha y pide justificar cuál de ellas refleja mejor la forma de contar del abuelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fila de la narración altera el orden de los hechos, mientras la cronológica respeta la secuencia real",
+          "is_correct": true,
+          "feedback": "Es correcta porque ambas filas contienen los mismos momentos, pero solo una respeta el orden en que ocurrieron."
+        },
+        {
+          "letter": "B",
+          "text": "La fila cronológica incluye un hecho que no aparece en la narración del abuelo",
+          "is_correct": false,
+          "feedback": "Las dos filas contienen exactamente los mismos cuatro momentos, de modo que no hay hechos exclusivos de una fila."
+        },
+        {
+          "letter": "C",
+          "text": "La fila de la narración omite el momento de la llegada del agua al pueblo",
+          "is_correct": false,
+          "feedback": "La llegada del agua sí aparece en la fila narrativa, aunque en segundo lugar y no como apertura."
+        },
+        {
+          "letter": "D",
+          "text": "La fila cronológica repite un mismo hecho para alargar la línea de tiempo",
+          "is_correct": false,
+          "feedback": "Ninguna fila repite hechos, y la diferencia entre ambas es exclusivamente el orden de presentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comparación de las dos filas permite aislar la variable central del ejercicio: el orden. Los contenidos son idénticos y lo que cambia es la secuencia del discurso. Analizar esta diferencia prepara al estudiante para distinguir la estructura del relato de los datos del mundo narrado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué efecto esperaría Camila en sus compañeros al abrir la exposición con la escena de la fila, en lugar de mostrar primero la llegada del agua?",
+      "context": "Camila prepara la exposición oral y quiere anticipar cómo responderán sus compañeros a un fragmento que rompe el orden de la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los escuchadores confundan la escena con el final de la historia",
+          "is_correct": false,
+          "feedback": "El efecto buscado no es confundir el desenlace, sino sostener la atención mientras se reconstruye el pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Que se genere una expectativa por conocer la causa de esa escena",
+          "is_correct": true,
+          "feedback": "Es correcta porque generar una pregunta pendiente es un efecto típico de la ruptura del orden cronológico."
+        },
+        {
+          "letter": "C",
+          "text": "Que la exposición pierda todo su contenido informativo y se vuelva confusa",
+          "is_correct": false,
+          "feedback": "Un buen uso del retroceso narrativo no destruye la comprensión, por el contrario ordena mejor la información para el oyente."
+        },
+        {
+          "letter": "D",
+          "text": "Que los escuchadores pierdan el interés por no entender la referencia al pasado",
+          "is_correct": false,
+          "feedback": "El salto hacia atrás genera curiosidad por la causa y no desinterés, siempre que el narrador luego retome el hilo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el efecto de un recurso narrativo exige anticipar la reacción del receptor. El retroceso narrativo crea una tensión cognitiva que se resuelve cuando el narrador vuelve al presente y explica el origen. Evaluar este efecto ayuda a justificar decisiones de escritura con argumentos y no por gusto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "Entre las dos versiones del Texto 2, ¿cuál resulta más adecuada para explicar a un público que no conoce la historia y por qué?",
+      "context": "La profesora propone dos versiones del mismo relato y pregunta a los estudiantes cuál resultaría más adecuada para un público que no conoce la historia familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fila de la narración, porque oculta el orden real de los hechos",
+          "is_correct": false,
+          "feedback": "Ocultar la secuencia no facilita la comprensión de quien no conoce la historia, aunque el lenguaje sea más cercano."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos filas por igual, porque contienen exactamente los mismos momentos",
+          "is_correct": false,
+          "feedback": "Contener los mismos momentos no las hace equivalentes, porque el orden determina qué entiende el lector."
+        },
+        {
+          "letter": "C",
+          "text": "La fila cronológica, porque permite reconstruir sin esfuerzo la secuencia de los hechos",
+          "is_correct": true,
+          "feedback": "Es correcta porque ofrece el orden de los acontecimientos, que es lo que necesita un lector que no conoce la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos filas, porque faltan datos del contexto familiar de la familia",
+          "is_correct": false,
+          "feedback": "El ejercicio no exige datos biográficos completos, sino hacer explícito el orden temporal de los hechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar supone justificar una elección narrativa con criterios explícitos. La decisión depende del propósito y del público al que se dirige el texto. Este tipo de razonamiento enseña que no hay un orden mejor en abstracto, sino uno más adecuado para cada situación comunicativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "Califique la afirmación: \"El abuelo narra los hechos sin ningún orden, por eso su relato no puede usarse como fuente\". ¿Cuál es la mejor evaluación?",
+      "context": "Camila escribe una conclusión para su exposición oral y debe decidir si puede afirmar que su abuelo narra la historia de forma desordenada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque un orden distinto al cronológico equivale a ausencia de orden",
+          "is_correct": false,
+          "feedback": "Cambiar el orden de presentación no elimina la organización interna del relato ni lo vuelve inutilizable."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque los cuatro hechos del relato no pueden acomodarse en una sola secuencia",
+          "is_correct": false,
+          "feedback": "La ficha demuestra que los cuatro momentos sí se pueden ordenar sin contradicciones en una línea de tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque la única forma válida de narrar es siguiendo el orden en que ocurrieron los hechos",
+          "is_correct": false,
+          "feedback": "El orden cronológico es una opción y no la única forma válida de contar una historia."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque el relato sí tiene un orden y ese orden no descarta los hechos, solo que no es el cronológico",
+          "is_correct": true,
+          "feedback": "Es la mejor evaluación porque el abuelo ordena su relato de manera personal, y eso no invalida su valor como fuente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ejercicio pide juzgar con fundamento una afirmación fuerte y se apoya en la comparación con la ficha. La narración del abuelo es personal, memorizada y está claramente ordenada desde su experiencia. Criticar el orden del relato como si fuera desorden equivale a confundir una decisión narrativa con un defecto del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1",
+      "statement": "Un equipo debe defender que \"el orden del relato no cambia lo que el lector comprende\", usando la historia de Camila como evidencia. ¿Qué postura es la más sostenida?",
+      "context": "Al final de la unidad, la profesora propone redactar una propuesta corta que exprese cómo se relaciona el tiempo narrativo con la comprensión lectora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis no se sostiene, porque el salto hacia atrás y las marcas temporales sí cambian cómo el lector ordena y comprende los hechos",
+          "is_correct": true,
+          "feedback": "Es la postura más sólida porque la historia muestra que la reorganización temporal altera la reconstrucción de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis se sostiene, porque en las dos filas aparecen los mismos cuatro momentos del relato",
+          "is_correct": false,
+          "feedback": "Que los hechos sean los mismos no demuestra que el orden sea irrelevante, porque la comprensión depende justamente de cómo se organizan."
+        },
+        {
+          "letter": "C",
+          "text": "La tesis se sostiene, porque el lector puede deducir el orden correcto por su cuenta sin ayuda del texto",
+          "is_correct": false,
+          "feedback": "Si bastara la deducción del lector, las marcas temporales y la estructura del relato serían innecesarias."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis no se sostiene, pero solo porque el texto de la historia es muy breve y no permite concluir nada",
+          "is_correct": false,
+          "feedback": "El tamaño del texto no es el argumento central, y la evidencia relevante es el cambio de orden entre las dos filas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La última pregunta exige construir una postura argumentada con base en el texto. Evaluar una tesis implica contrastarla con la evidencia y exponer por qué se sostiene o por qué no. Este cierre de la semana conecta el análisis del cronopema con una conclusión transferible a otros textos narrativos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

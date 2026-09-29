@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "ciencias_naturales",
+    "country": "co",
+    "pack_id": "co-week-40-grade-9-subject-ciencias_naturales",
+    "generated_at": "2026-09-29T13:20:49.114Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v1",
+      "statement": "Una señora en Tunja extiende la ropa mojada al sol de la mañana para que se seque. ¿Qué forma de energía se aprovecha en esa situación y qué transformación se produce?",
+      "context": "La profesora de Bucaramanga pide a sus estudiantes que identifiquen qué forma de energía se observa en un acto cotidiano de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía luminosa del Sol que se convierte en energía térmica, que calienta el agua y permite que se evapore.",
+          "is_correct": true,
+          "feedback": "Correcto. La radiación solar calienta la tela y el agua; esa energía térmica hace que el agua pase al estado gaseoso y abandone la ropa."
+        },
+        {
+          "letter": "B",
+          "text": "Energía química de la ropa que se convierte en energía nuclear al calentarse el agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ropa no libera energía nuclear; el origen de la energía es la radiación solar que llega desde el Sol."
+        },
+        {
+          "letter": "C",
+          "text": "Energía eléctrica del circuito del barrio que se convierte directamente en vapor de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El secado al sol depende de la radiación, no de un circuito eléctrico conectado a la lavadora."
+        },
+        {
+          "letter": "D",
+          "text": "Energía cinética de las gotas de agua que aumenta cuando el Sol ilumina la tela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento del agua existe, pero lo que permite el secado es el aporte de energía térmica y no la energía cinética del líquido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El estudiante reconoce que la energía tiene varias formas y que puede transformarse de una a otra sin desaparecer. La radiación del Sol calienta la tela y el agua, y esa energía térmica facilita la evaporación. Reconocer esta transformación explica por qué la ropa se seca al sol y por qué se seca más rápido en un día despejado que en un día nublado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v2",
+      "statement": "Según lo estudiado este año, ¿qué relación correcta existe entre la fotosíntesis, la energía luminosa y los seres vivos?",
+      "context": "En el proyecto de aula de un colegio de Pereira, los estudiantes de noveno grado explican cómo llega el alimento a la mesa de sus familias a partir de lo que aprendieron sobre plantas y energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fotosíntesis libera energía luminosa que las plantas aprovechan para producir materia orgánica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis no libera luz; capta energía luminosa que queda guardada como energía química en la materia orgánica que produce."
+        },
+        {
+          "letter": "B",
+          "text": "La fotosíntesis consume energía luminosa para transformar agua y dióxido de carbono en glucosa y oxígeno, y esa energía queda almacenada en la glucosa.",
+          "is_correct": true,
+          "feedback": "Correcto. La materia orgánica producida guarda energía química disponible para los seres vivos que la consumen al oxidar los alimentos."
+        },
+        {
+          "letter": "C",
+          "text": "La fotosíntesis ocurre solo en la raíz porque allí hay más agua que luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis ocurre principalmente en las hojas, donde llega la luz; la raíz absorbe agua y sales minerales."
+        },
+        {
+          "letter": "D",
+          "text": "La fotosíntesis es la única fuente de energía de la naturaleza y no depende de la temperatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura influye en la velocidad de la fotosíntesis y existen otras fuentes de energía además de la luminosa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender la fotosíntesis permite relacionar la energía luminosa con la materia orgánica. La planta funciona como un convertidor de energía: capta luz y la guarda como energía química en los compuestos orgánicos. Esa energía química es la que luego los animales y el propio ser humano obtienen al oxidar los alimentos durante la respiración celular.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v3",
+      "statement": "¿Qué propiedad de los elementos de la tabla periódica explica que tanto el cobre como el aluminio conduzcan la corriente eléctrica cuando forman parte de un circuito?",
+      "context": "En un taller de electrónica de un colegio de Medellín, una alumna nota que el cable de cobre de una lámpara se calienta y que un utensilio de aluminio también conduce la electricidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son gases nobles que conducen porque su capa de electrones externa está completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gases nobles no conducen la electricidad porque su capa de valencia es completa y muy estable."
+        },
+        {
+          "letter": "B",
+          "text": "Son elementos radiactivos que conducen porque liberan partículas que empujan a los electrones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni el cobre ni el aluminio son radiactivos; su conducción se explica por su estructura metálica."
+        },
+        {
+          "letter": "C",
+          "text": "Son elementos no metálicos que conducen porque tienen muchos protones en el núcleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cobre y el aluminio son metales, y el flujo de corriente se debe a los electrones, no a los protones."
+        },
+        {
+          "letter": "D",
+          "text": "Son elementos metálicos y presentan electrones que pueden desplazarse a lo largo del material, por eso conducen la corriente.",
+          "is_correct": true,
+          "feedback": "Correcto. En los metales hay electrones libres que se mueven de forma ordenada y eso constituye la corriente eléctrica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La conductividad eléctrica es una propiedad que se explica desde la organización de los electrones en el átomo. En los metales hay electrones que no quedan localizados en un solo enlace y pueden desplazarse a lo largo del material. Ese movimiento ordenado constituye la corriente eléctrica, por lo que el cobre se usa en cables y el aluminio en utensilios y perfiles.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v4",
+      "statement": "Un bus recorre 900 metros en 30 segundos. ¿Cuál es su velocidad en metros por segundo y qué interpretación es correcta?",
+      "context": "Un grupo de estudiantes de Cúcuta mide el tiempo que tarda un bus escolar en recorrer un tramo conocido de 900 metros, para revisar el reporte de velocidad de su empresa de transporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 metros por segundo, porque el tiempo siempre es la primera magnitud que se divide.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia es lo que se divide entre el tiempo, no al revés, y el resultado debe ser menor que la distancia recorrida."
+        },
+        {
+          "letter": "B",
+          "text": "27 000 metros por segundo, porque basta con multiplicar distancia por tiempo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad se obtiene dividiendo la distancia entre el tiempo, nunca multiplicando las dos magnitudes."
+        },
+        {
+          "letter": "C",
+          "text": "30 metros por segundo, que equivale a 108 kilómetros por hora y es coherente con un bus urbano en movimiento.",
+          "is_correct": true,
+          "feedback": "Correcto. Al dividir 900 entre 30 se obtiene 30 metros por segundo, y al convertir a kilómetros por hora el valor es coherente con un bus en marcha."
+        },
+        {
+          "letter": "D",
+          "text": "60 metros por segundo, porque el tiempo medido se cuenta dos veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo empleado es 30 segundos y no 60; dividir 900 entre 60 daría una velocidad que no corresponde al dato medido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar la velocidad implica dividir la distancia recorrida entre el tiempo empleado. La conversión a kilómetros por hora permite comparar el resultado con valores conocidos del tráfico urbano. Reconocer que 30 metros por segundo equivale a 108 kilómetros por hora muestra la necesidad de verificar la unidad de trabajo para no interpretar mal el dato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v5",
+      "statement": "Se tiene una disolución de 200 mililitros con una concentración de 2 moles por litro. ¿Cuántos moles de soluto contiene en total y qué volumen tendría esa misma cantidad de soluto si se preparara una disolución de 1 mol por litro?",
+      "context": "En el laboratorio de uno de los colegios oficiales de Sincelejo, la profesora de noveno grado pide preparar una disolución de limpieza y necesita cambiar su concentración con lo que se estudió sobre disoluciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contiene 0,4 moles y necesitaría 0,4 mililitros de disolución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los moles totales están bien calculados, pero con una concentración de 1 mol por litro el volumen necesario es 0,4 litros y no 0,4 mililitros."
+        },
+        {
+          "letter": "B",
+          "text": "Contiene 4 moles y necesita 4 litros de disolución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al dividir 2 moles por litro entre 5 litros por litro el resultado es 0,4 moles y no 4 moles."
+        },
+        {
+          "letter": "C",
+          "text": "Contiene 0,4 moles y necesita 0,4 litros de disolución para quedar a 1 mol por litro.",
+          "is_correct": true,
+          "feedback": "Correcto. Moles es igual a concentración por volumen: 2 moles por litro por 0,2 litros da 0,4 moles, y con 0,4 moles a 1 mol por litro el volumen es 0,4 litros."
+        },
+        {
+          "letter": "D",
+          "text": "Contiene 400 moles y necesita 400 litros de disolución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado está tres órdenes de magnitud equivocado: la cantidad de soluto es 0,4 moles y el volumen requerido es 0,4 litros."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el concepto de concentración permite calcular cuánta sustancia disuelta hay en un volumen determinado. La cantidad de moles se obtiene multiplicando la concentración por el volumen expresado en litros. Este tipo de cálculo es el que se usa para preparar disoluciones de distinta concentración a partir de la misma cantidad de soluto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v6",
+      "statement": "Un cultivo de lechuga recibe más luz en la mañana y casi ninguna luz en la tarde. ¿Qué se espera que ocurra con la producción de glucosa de la planta y por qué?",
+      "context": "Una familia de Armenia cultiva lechuga en un patio trasero dentro de una caja de madera, y la profesora les pide explicar por qué la planta crece mejor en un lado de la caja que en otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La producción de glucosa disminuye en la mañana porque el agua se evapora antes de ser usada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación principal aquí es entre la cantidad de luz disponible y la velocidad de la fotosíntesis, no entre la evaporación y el azúcar."
+        },
+        {
+          "letter": "B",
+          "text": "La producción de glucosa aumenta con la luz disponible y por eso la planta de la mañana crece mejor.",
+          "is_correct": true,
+          "feedback": "Correcto. La energía luminosa es el insumo que impulsa la fotosíntesis, y más luz en un periodo dado significa más energía para producir azúcar."
+        },
+        {
+          "letter": "C",
+          "text": "La producción de glucosa es igual porque la planta puede hacer fotosíntesis de noche.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis depende de la luz; de noche la planta sigue consumiendo sus propias reservas mediante la respiración celular."
+        },
+        {
+          "letter": "D",
+          "text": "La producción de glucosa depende solo de la cantidad de agua y no tiene relación con la luz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el agua es necesaria, sin energía luminosa la planta no puede llevar a cabo la fotosíntesis ni producir glucosa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la relación entre luz y fotosíntesis permite interpretar datos de un cultivo real. La velocidad con que una planta produce azúcar depende de la energía luminosa disponible, junto con otros factores como el agua y la temperatura. Por eso un cultivo con más horas de luz en el día muestra un crecimiento mayor que uno que permanece en la sombra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v7",
+      "statement": "El equipo cultivó frijoles en tres huertas: una con compost, otra solo con tierra y otra con tierra más sal de cocina. La huerta con compost creció más y la que tenía sal de cocina creció menos que la de tierra sola. ¿Qué interpretación es la más adecuada?",
+      "context": "El equipo de grado noveno de un colegio rural de Tuluán cultiva frijoles en tres huertas parecidas y registra la altura de las plantas durante seis semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El compost aporta sales minerales que la planta necesita, y el exceso de sal de cocina eleva la concentración del suelo y dificulta la absorción de agua por la raíz.",
+          "is_correct": true,
+          "feedback": "Correcto. La planta necesita nutrientes en concentración adecuada; el exceso de solutos del suelo hace más difícil la absorción de agua por ósmosis."
+        },
+        {
+          "letter": "B",
+          "text": "El compost sirve para dar sombra a las plantas y la sal de cocina sirve para alejar los insectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos materiales actúa de esa manera; el efecto observado se explica por la concentración de sales disueltas en el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas con compost crecieron más porque el compost contiene clorofila lista para ser usada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El compost aporta materia orgánica y sales minerales, no clorofila prefabricada que la planta pueda aprovechar directamente."
+        },
+        {
+          "letter": "D",
+          "text": "Las plantas con sal de cocina crecieron menos porque la sal absorbe la luz del Sol y la planta no puede hacer fotosíntesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal de cocina no absorbe la luz de forma relevante; el daño se explica por el efecto de la alta concentración de solutos sobre la absorción de agua por la raíz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar estos datos exige relacionar química y biología en un mismo fenómeno. La planta necesita agua y sales minerales, y la concentración del suelo influye en la entrada de agua por ósmosis. Un aporte moderado de nutrientes favorece el crecimiento, mientras que un exceso de solutos dificulta la absorción de agua y debilita la planta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v8",
+      "statement": "En muchas fincas de papa del sur de Colombia el suelo es ácido, y los agricultores aplican cal o caliza. ¿Qué efecto químico tiene la aplicación de cal sobre ese suelo y por qué mejora el cultivo?",
+      "context": "En un colegio de Pasto, el profesor de ciencias explica a sus estudiantes por qué muchas fincas de papa del sur de Colombia necesitan encalado antes de sembrar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la cantidad de sales ácidas del suelo y por eso la papa crece mejor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cal no aumenta la acidez; su función es reducir la acidez del suelo para que los nutrientes queden disponibles."
+        },
+        {
+          "letter": "B",
+          "text": "Transforma la materia orgánica del suelo directamente en sales minerales disueltas que la planta absorbe por las hojas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cal actúa sobre la acidez del suelo; no convierte la materia orgánica en sales y la absorción ocurre principalmente por la raíz."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye el pH del suelo hasta volverlo fuertemente ácido para que la planta se acostumbre a condiciones difíciles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cal eleva el pH porque neutraliza la acidez, y ese aumento es precisamente lo que favorece la disponibilidad de nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "Reacciona con los ácidos del suelo y los neutraliza, elevando el pH y permitiendo que la planta absorba mejor los nutrientes.",
+          "is_correct": true,
+          "feedback": "Correcto. La cal aporta iones que se combinan con los responsables de la acidez, elevando el pH y mejorando la absorción de nutrientes por la raíz."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar este caso exige conectar la química de ácidos y bases con la biología de la absorción de nutrientes. Un suelo demasiado ácido mantiene muchos nutrientes en formas que la planta no puede asimilar. Al neutralizar esa acidez con cal se mejora la disponibilidad de los minerales y, con ella, el crecimiento del cultivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v9",
+      "statement": "La botella de agua queda caliente después de varias horas al Sol. ¿Cuál de las siguientes explicaciones integra mejor lo que se estudió sobre transferencia de calor, luz y propiedades de los materiales?",
+      "context": "Un grupo de estudiantes de Villavicencio deja una botella de plástico cheia de agua junto a una ventana durante una mañana soleada y luego toca la botella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Sol aumenta la energía interna del agua y del plástico, y además el plástico se vuelve un mejor conductor térmico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calentamiento no convierte el plástico en un buen conductor; sigue siendo un material pobre en conducción térmica, aunque su energía interna aumente."
+        },
+        {
+          "letter": "B",
+          "text": "La radiación solar calienta el agua y la botella, el plástico es un conductor pobre que transfiere parte de esa energía al aire y a nuestras manos, y la energía térmica aumenta.",
+          "is_correct": true,
+          "feedback": "Correcto. Integra los tres elementos: la radiación del Sol aporta la energía, la conduction depende del material y el aumento de temperatura es el resultado medible."
+        },
+        {
+          "letter": "C",
+          "text": "El aire dentro de la botella se calienta, se expande y por eso obliga al agua a salir con más fuerza hacia nuestras manos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La botella está cerrada y el aire no sale; el calentamiento se explica por la radiación y no por una expansión que empuje el líquido."
+        },
+        {
+          "letter": "D",
+          "text": "El agua contiene materia radiactiva natural que libera energía y calienta la botella por dentro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no libera energía radiactiva apreciable en esta situación; el calor tiene un origen externo, la radiación solar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar el caso permite integrar óptica, física y propiedades de los materiales. La radiación solar aporta energía que calienta el agua y la botella, y el material de la botella determina qué parte de esa energía se transmite al exterior. Entender cada transformación por separado hace posible explicar el fenómeno completo con precisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v10",
+      "statement": "El equipo propone poner un imán dentro de un vaso con agua de río, agitarlo diez minutos y luego concluir que el agua ya es apta para consumo. ¿Cuál es la evaluación más adecuada de esa propuesta?",
+      "context": "En un colegio de Florencia, Caquetá, un equipo de noveno grado quiere comprobar si un agua de río \"endulzada\" con un imán realmente sirve para consumo humano antes de llevarla a sus familias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta es válida porque si el agua se ve limpia después de pasar el imán, ya cumple las condiciones de potabilidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aspecto visual no garantiza que el agua esté libre de microorganismos ni de sustancias disueltas peligrosas."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta es inválida porque el imán siempre destruye la estructura del agua y la convierte en un líquido diferente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imán no transforma la molécula de agua; su limitación es que solo retira poco material magnético y nada más."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta es válida si se repite con dos imanes, porque más imanes eliminan necesariamente todas las impurezas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Añadir otro imán no elimina las impurezas que no son magnéticas, que son la mayoría de las que hacen insegura el agua."
+        },
+        {
+          "letter": "D",
+          "text": "La propuesta es inválida porque un imán solo retira partículas magnéticas, no microorganismos, sales disueltas ni sustancias contaminantes, así que el agua sigue sin ser segura.",
+          "is_correct": true,
+          "feedback": "Correcto. Un imán atrapa únicamente lo que tiene propiedades magnéticas, y la potabilidad depende de otros factores que esa prueba no mide."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un diseño experimental exige preguntar si la evidencia producida permite sostener la conclusión. Un imán retira solo partículas con propiedades magnéticas, mientras que la potabilidad depende también de microorganismos, sales y contaminantes químicos. Reconocer esa diferencia enseña a no confundir un resultado visible con una demostración científica válida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v11",
+      "statement": "Un equipo registró en dos municipios la cantidad de lluvia y el aumento promedio del tamaño de las plantas de ñame durante un trimestre. El municipio A recibió 1 100 milímetros de lluvia y las plantas crecieron 8 centímetros; el municipio B recibió 600 milímetros y las plantas crecieron 3 centímetros. El equipo concluye que \"la lluvia es la única causa del crecimiento\". ¿Qué evaluación de esa conclusión es correcta?",
+      "context": "En una clase de noveno grado de Popayán, la profesora entrega una tabla con datos de lluvia y de crecimiento de ñame en dos municipios del Cauca y pide evaluar la conclusión del equipo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión es válida porque los dos datos de lluvia y de crecimiento están en la misma tabla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir la misma tabla no demuestra causalidad; hace falta controlar otras variables que también afectan el crecimiento de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión es válida porque el equipo midió la lluvia con un instrumento y por eso el dato es exacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precisión de una medición no convierte una relación en una causa; el problema está en la explicación, no en el instrumento."
+        },
+        {
+          "letter": "C",
+          "text": "La conclusión no se sostiene porque se reemplaza una relación observada por una causa única, sin controlar la fertilidad del suelo, la temperatura y la duración de la luz.",
+          "is_correct": true,
+          "feedback": "Correcto. Varias variables cambian al mismo tiempo, así que la lluvia no puede identificarse como la única causa a partir de estos dos datos."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión no se sostiene porque el ñame es una planta que necesita poca agua y no sirve para este tipo de análisis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ñame sí necesita agua; la debilidad del análisis no está en la planta elegida sino en atribuir la causa sin controlar otras variables."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una conclusión científica exige distinguir entre una relación observada y una explicación causal. En este caso la lluvia y el crecimiento varían juntos, pero también varían el suelo, la temperatura y la luz. Un análisis correcto tendría que mantener constantes esas otras variables para poder atribuir el efecto a la lluvia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle-v12",
+      "statement": "La masa de pan dejó de estar plana y terminó ocupando más volumen en un recipiente cerrado. ¿Cuál explicación integra correctamente la química y la biología de lo que ocurrió?",
+      "context": "En la cocina de una casa de Ibagué, una alumna deja una masa de pan en un recipiente cerrado y al día siguiente observa que la masa creció de volumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los microorganismos de la masa transformaron los azúcares en un gas que quedó atrapado en la red del gluten e hizo crecer el volumen.",
+          "is_correct": true,
+          "feedback": "Correcto. La fermentación es una reacción química ejecutada por microorganismos vivos, y el gas liberado queda retenido en la masa."
+        },
+        {
+          "letter": "B",
+          "text": "El calor de la cocina convirtió directamente el azúcar de la masa en gas, sin intervención de los seres vivos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transformación del azúcar en gas la realizan los microorganismos de la masa mediante fermentación, no el calor por sí solo."
+        },
+        {
+          "letter": "C",
+          "text": "El aire del recipiente se metió dentro de la masa y por eso el volumen aumentó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recipiente estaba cerrado y el aire no se introduce en la masa; el aumento proviene del gas liberado en la fermentación."
+        },
+        {
+          "letter": "D",
+          "text": "La masa hizo fotosíntesis durante la noche y por eso liberó oxígeno que la hizo crecer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fotosíntesis ocurre en las plantas y no se realiza en la masa; el proceso observado es una fermentación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar este caso obliga a conectar las dos ramas que casi nunca se mezclan en una sola pregunta. La biología aporta la presencia de microorganismos vivos y la química aporta la transformación de azúcares en dióxido de carbono. Reconocer que un mismo fenómeno puede explicarse con conceptos de dos áreas distintas es la esencia del repaso integrado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-9-2026-W40-sintesis-integradora-de-ciencias-naturales-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias_naturales",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
