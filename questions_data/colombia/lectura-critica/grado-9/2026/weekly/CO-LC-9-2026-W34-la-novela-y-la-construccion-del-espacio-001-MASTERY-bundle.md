@@ -1,0 +1,308 @@
+---
+id: "CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle"
+country: "colombia"
+grado: 9
+asignatura: "lectura_critica"
+tema: "la-novela-y-la-construccion-del-espacio"
+periodo: "weekly"
+week: "W34"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: La Novela y la Construccion del Espacio - Grado 9 (W34)
+
+## Semana W34
+
+Esta semana estudia cómo la novela construye el espacio físico y el espacio social, y qué información aporta ese espacio a la trama. Los estudiantes de noveno grado leen un fragmento de novela ambientado en un barrio de Cartagena y lo comparan con una ficha que ordena los elementos del espacio. La pregunta central de la semana es si un lugar descrito con detalle es apenas un decorado o si ese lugar decide lo que la historia puede contar. El ejercicio final pide justificar una adaptación del fragmento que respete la coherencia entre el espacio y los hechos.
+
+## Textos Base
+
+**Texto 1 (Fragmento de novela, barrio La Esmeralda):** «Doña Rosalba decía que la casa de la esquina se caía sola, ladrillo por ladrillo, desde la muerte de su marido. Guardaba una llave de latón atada con un hilo rojo y solo la usaba los domingos, cuando sacaba la silla al solar y miraba la pared que ya no cerraba con la calle. En ese solar crecía una totuma y, detrás de la totuma, dormía un perro que nadie reconocía. Los vecinos decían que el perro era de una familia que se fue sin decir nada, pero Doña Rosalba sostenía que el perro esperaba a alguien de la casa y no a una familia. Una tarde, mientras ella dormía la siesta, un muchacho se asomó por la ventana rota, vio el perro y se quedó quieto. Desde ese día, Doña Rosalba dejó de decir que la casa se caía sola».
+
+**Texto 2 (Ficha de análisis del espacio del texto base):** «Ficha de análisis del espacio. Espacio físico: lugar cerrado, con solar, ventana rota y pared que ya no cierra con la calle. Espacio abierto de referencia: la calle, observada desde afuera. Espacio social: la vecindad, que interpreta y comenta, pero no tiene acceso al interior. Objeto umbral: la llave de latón, que separa el interior del exterior. Objeto asociado al vínculo: el perro, que ocupa el lugar entre la ausencia y la presencia. Marcador de tiempo: los domingos, ritmo que ordena la vida del solar. Dato que la novela deja vacío: quién es el muchacho que aparece por la ventana rota».
+
+## Question 1 [D3-D4]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Textual
+**Expected_Success:** 0.90
+**Contexto:** En Cartagena, la profesora de noveno grado pide al grupo que ubique los objetos físicos que aparecen en el Texto 1.
+
+### Enunciado
+¿Qué objeto concreto del espacio aparece asociado a Doña Rosalba en el Texto 1?
+
+### Opciones
+- [x] A) Una llave de latón atada con un hilo rojo.
+  <!-- feedback: Correcto. El texto dice que ella guarda esa llave y que solo la usa los domingos, cuando se instala en el solar. -->
+- [ ] B) Una ventana de madera con dos postigos de color.
+  <!-- feedback: Incorrecto. La ventana que aparece en el fragmento está rota, y en ningún momento se mencionan postigos. -->
+- [ ] C) Una silla que la familia nunca volvió a sacar del interior.
+  <!-- feedback: Incorrecto. La silla sí se saca, todos los domingos, y es justamente el gesto con el que Doña Rosalba ocupa el solar. -->
+- [ ] D) Una puerta metálica con candado nuevo, colocada por la vecindad.
+  <!-- feedback: Incorrecto. El fragmento no describe ninguna puerta metálica ni la intervención de la vecindad en la casa. -->
+
+### Explicacion Pedagogica
+Reconocer los objetos físicos de un relato es el primer paso para leer el espacio como parte de la trama. En el Texto 1 la llave de latón aparece junto al detalle del hilo rojo, y ese detalle la convierte en un objeto personal, no en un utensilio común. Un lector que solo busca la acción principal puede pasar por encima de estos objetos y no notar que la trama cambia de rumbo por ellos. En noveno grado, este ejercicio prepara para distinguir el decorado de los elementos que sostienen el relato.
+
+## Question 2 [D3-D4]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Semántico
+**Expected_Success:** 0.85
+**Contexto:** En el barrio La Esmeralda, el grupo de noveno grado discute qué significa la frase que abre el fragmento.
+
+### Enunciado
+¿Qué afirma la expresión «la casa se caía sola» dentro del Texto 1?
+
+### Opciones
+- [ ] A) Que la lluvia de la estación había derribado el techo de la casa.
+  <!-- feedback: Incorrecto. Ninguna lluvia aparece en el fragmento y la casa se sostiene en pie mientras Doña Rosalba la vigila. -->
+- [x] B) Que la familia que habitó la casa se marchó y el barrio fue abandonando el lugar poco a poco.
+  <!-- feedback: Correcto. La expresión es figurada: no hay derrumbe, sino una desaparición de la vida que sostendía esa casa. -->
+- [ ] C) Que la casa estaba descendiendo por la pendiente de la ciudad hasta el río.
+  <!-- feedback: Incorrecto. El fragmento no menciona pendiente, río ni ningún movimiento del terreno. -->
+- [ ] D) Que el perro había tumbado la pared que unía la casa con la calle.
+  <!-- feedback: Incorrecto. El perro aparece dormido detrás de la totuma y no participa en ningún derrumbe. -->
+
+### Explicacion Pedagogica
+Cuando un relato usa una expresión como «se caía sola», hay que preguntarse si describe un hecho material o un proceso social. Aquí la frase resume el abandono: se va la familia, la vecindad deja de pasar y el lugar queda a la deriva. Reconocer el sentido figurado evita que el estudiante reemplace la lectura profunda por una explicación literal sin apoyo en el texto. En noveno grado, este hábito de lectura sostenida es la base de cualquier análisis literario posterior.
+
+## Question 3 [D3-D4]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Discursivo
+**Expected_Success:** 0.85
+**Contexto:** En Rionegro, el profesor pide a sus estudiantes de noveno que señalen el momento del fragmento donde se explica el desenlace.
+
+### Enunciado
+¿Qué hecho narrado al final del Texto 1 explica el cambio de la frase final?
+
+### Opciones
+- [ ] A) Que la vecindad decidió demoler el solar.
+  <!-- feedback: Incorrecto. En ningún momento se anuncia una demolición, y la casa sigue en pie cuando termina el fragmento. -->
+- [ ] B) Que la llave de latón se partió dentro del bolsillo de Doña Rosalba.
+  <!-- feedback: Incorrecto. El fragmento no menciona que la llave se dane ni que eso cambie la vida del solar. -->
+- [x] C) Que un muchacho se asomó por la ventana rota, vio el perro y se quedó quieto.
+  <!-- feedback: Correcto. Esa aparición explica por qué Doña Rosalba deja de afirmar que la casa se cae sola: alguien ha vuelto a mirar ese espacio. -->
+- [ ] D) Que la vecindad recogió al perro y lo sacó a la calle.
+  <!-- feedback: Incorrecto. El perro permanece dormido en el solar y nadie se lo lleva. -->
+
+### Explicacion Pedagogica
+Un buen lector narrativo identifica el detonante que reorganiza los hechos finales. En este fragmento, el muchacho que aparece por la ventana rota funciona como ese detonante: es la primera señal de que la casa puede volver a sermirada por alguien. La frase final del texto solo cobra sentido si se conecta con ese momento. En noveno grado, aprender a localizar el detonante enseña que el desenlace no se impone solo, y que el relato siempre prepara su propio cierre.
+
+## Question 4 [D5-D6]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Semántico
+**Expected_Success:** 0.85
+**Contexto:** En Santa Marta, un equipo de noveno usa la ficha del Texto 2 para clasificar los elementos del Texto 1.
+
+### Enunciado
+Según la ficha del Texto 2, ¿qué función cumple la llave de latón en la trama?
+
+### Opciones
+- [x] A) Separar el interior de la casa del espacio abierto de la calle.
+  <!-- feedback: Correcto. La ficha la ubica como objeto umbral, y eso explica que Doña Rosalba la use solo los domingos, al salir al solar. -->
+- [ ] B) Marcar el ritmo doméstico de la casa con los domingos.
+  <!-- feedback: Incorrecto. Ese papel de marcador de tiempo corresponde a los domingos, no a la llave, que es un objeto y no un momento. -->
+- [ ] C) Representar a la vecindad que observa e interpreta desde la calle.
+  <!-- feedback: Incorrecto. La vecindad es el espacio social del relato; la llave no la representa, la separa. -->
+- [ ] D) Sostener la idea de que el perro esperaba a una familia y no a una persona.
+  <!-- feedback: Incorrecto. Esa creencia pertenece a la voz de Doña Rosalba y a la discusión con los vecinos, no a la llave. -->
+
+### Explicacion Pedagogica
+Aplicar una ficha de análisis consiste en emparejar cada elemento del relato con la categoría que le corresponde, no con una palabra parecida. La llave es un objeto umbral porque abre y cierra el paso entre el interior privado y la calle observada. Reconocer ese umbral ayuda a explicar por qué el fragmento se concentra en un solar y no en toda la cuadra. En noveno grado, esta clasificación prepara para revisiones de un texto narrativo con dos categorías claras.
+
+## Question 5 [D5-D6]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Pragmático
+**Expected_Success:** 0.80
+**Contexto:** En Manizales, un grupo de noveno prepara una puesta en escena pequeña del fragmento de la semana.
+
+### Enunciado
+La obra de teatro se monta en un escenario muy pequeño. ¿Qué ajuste del espacio respeta mejor la construcción del espacio del Texto 1?
+
+### Opciones
+- [ ] A) Sustituir el solar por una sala amplia y muy iluminada, para que el público vea bien a los actores.
+  <!-- feedback: Incorrecto. Un espacio abierto y luminoso elimina la diferencia entre interior oculto y exterior mirando, que es lo que sostiene la trama. -->
+- [x] B) Mantener un espacio cerrado con una entrada lateral, una ventana y un rincón oculto detrás.
+  <!-- feedback: Correcto. La entrada, la ventana y el rincón reproducen el umbral y el lugar escondido que el fragmento necesita para funcionar. -->
+- [ ] C) Dejar el escenario completamente vacío y narrar el lugar solo con la voz de los actores.
+  <!-- feedback: Incorrecto. Sin ambiente no hay forma de mostrar quién entra, quién mira y qué permanece oculto, y la escena pierde su sentido. -->
+- [ ] D) Ubicar la acción en una plaza pública con mucha gente, para que se vea mejor el espacio social.
+  <!-- feedback: Incorrecto. Una plaza muy poblada borra el contraste entre lo que Doña Rosalba guarda y lo que la vecindad comenta. -->
+
+### Explicacion Pedagogica
+Adaptar un fragmento a otro formato obliga a decidir qué elementos del espacio son indispensables. En el caso del teatro, no basta con pintar un decorado bonito: hay que conservar el umbral, la ventana y el escondite, porque ahí se juega lo que la novela cuenta. Descartar esos elementos y quedarse solo con la luz o el tamaño produce una escena legible pero sin tensión narrativa. En noveno grado, esta práctica enseña que el espacio es una decisión del autor y también del adaptador.
+
+## Question 6 [D5-D6]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**ICFES:** Textual
+**Expected_Success:** 0.80
+**Contexto:** En Ibagué, la profesora de lectura crítica propone reescribir una escena del fragmento con otro registro.
+
+### Enunciado
+Si el novelista reemplaza la descripción del solar por datos exactos de medidas, clima y superficie, ¿qué cambiaría principalmente?
+
+### Opciones
+- [ ] A) Nada importante, porque la trama ya está decidida y los datos solo tienen función decorativa.
+  <!-- feedback: Incorrecto. En este relato el espacio participa en la trama, así que cambiar su forma de describirse sí tiene consecuencias de lectura. -->
+- [ ] B) La trama avanzaría más rápido, porque los datos obligan al lector a saltar a la acción.
+  <!-- feedback: Incorrecto. Los datos no aceleran la acción: cambian el tono de la escena, no su ritmo narrativo. -->
+- [ ] C) El narrador tendría que cambiar de posición, porque los datos exigen una voz técnica.
+  <!-- feedback: Incorrecto. La posición del narrador no depende del tipo de datos que incluya, y el fragmento mantiene la misma voz si los agrega. -->
+- [x] D) La escena perdería parte de su capacidad de sugerir, porque la precisión medida deja menos espacio a la imaginación del lector.
+  <!-- feedback: Correcto. El fragmento sugiere el abandono con imágenes; los datos exactos describen el lugar, pero no dejan que el lector lo interprete. -->
+
+### Explicacion Pedagogica
+Comparar dos formas de describir un mismo lugar ayuda a ver que la novela no elige sus palabras al azar. En el Texto 1, el solar se presenta con objetos y con un gesto repetido, no con mediciones, y eso permite que el lector perciba el abandono. Sustituir esa descripción por datos conserva la información y pierde la sugerencia. En noveno grado, entender esta diferencia prepara para valorar estilos de descripción en obras latinoamericanas.
+
+## Question 7 [D7-D8]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Semántico
+**Expected_Success:** 0.80
+**Contexto:** En Armenia, el grupo de noveno analiza por qué el fragmento insiste en separar la casa de la calle.
+
+### Enunciado
+¿Por qué el contraste entre la casa y la calle es central en la trama del Texto 1?
+
+### Opciones
+- [ ] A) Porque el narrador quiere mostrar que el barrio era pobre.
+  <!-- feedback: Incorrecto. El fragmento no busca caracterizar la pobreza del barrio y nunca usa ese juicio para explicar la historia. -->
+- [x] B) Porque la línea que separa el interior del exterior decide quién puede guardar la memoria de la casa y quién solo la comenta.
+  <!-- feedback: Correcto. La pared que ya no cierra con la calle vuelve visible una frontera social entre quienes guardan el pasado y quienes opinan sobre él. -->
+- [ ] C) Porque la calle permite medir la distancia entre el solar y el centro de la ciudad.
+  <!-- feedback: Incorrecto. El fragmento nunca habla de distancias, rutas ni de la ciudad como un espacio medible. -->
+- [ ] D) Porque el solar necesita luz natural que la calle le niega.
+  <!-- feedback: Incorrecto. No hay ninguna referencia a la luz, al sol ni a la oscuridad en el fragmento. -->
+
+### Explicacion Pedagogica
+Analizar el espacio novelesco consiste en preguntar qué decisiones del relato se toman dentro y cuáles fuera de un lugar. La casa rota concentra la memoria íntima y la calle representa el juicio colectivo, y esa frontera organiza casi todos los conflictos del fragmento. Cuando el estudiante entiende que el muro es también una frontera social, la lectura deja de ser descriptiva y se vuelve crítica. En noveno grado, esta lectura prepara para examinar la presencia del espacio social en cualquier novela.
+
+## Question 8 [D7-D8]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Crítico-Intertextual
+**Expected_Success:** 0.75
+**Contexto:** En Villavicencio, el profesor pide comparar el fragmento de novela con la ficha de análisis del mismo espacio.
+
+### Enunciado
+Al comparar el Texto 1 y el Texto 2, ¿qué diferencia se observa entre las dos formas de presentar el espacio?
+
+### Opciones
+- [ ] A) La novela explica el espacio con datos y la ficha lo presenta con emociones.
+  <!-- feedback: Incorrecto. Está invertido: los datos ordenados pertenecen a la ficha y la experiencia vivida pertenece a la novela. -->
+- [ ] B) Las dos fuentes describen el espacio con la misma intención y en el mismo orden.
+  <!-- feedback: Incorrecto. La ficha ordena el espacio por categorías y la novela lo presenta en una secuencia de hechos que termina con un cambio. -->
+- [x] C) La novela muestra el espacio desde la experiencia y la ficha lo ordena y lo explica.
+  <!-- feedback: Correcto. El fragmento deja que el lector perciba el solar por objetos y gestos, mientras la ficha lo clasifica por categorías. -->
+- [ ] D) La ficha omite por completo el espacio social, mientras la novela lo inventa sin apoyo.
+  <!-- feedback: Incorrecto. La ficha sí incluye el espacio social, y la novela no lo inventa: lo muestra a través de los vecinos que comenta. -->
+
+### Explicacion Pedagogica
+Poner dos textos distintos frente al mismo tema permite ver que cada género organiza la información de otra manera. La ficha es un instrumento de estudio: separa componentes para que el estudiante los vea. La novela hace lo contrario, los une en una escena donde cada objeto tiene una función dramática. Reconocer que ambos hacen falta para la lectura crítica evita que el estudiante confunda el estudio con el relato. En noveno grado, este contraste enseña a valorar cada fuente según lo que se propone.
+
+## Question 9 [D7-D8]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Expected_Success:** 0.75
+**Contexto:** En Pereira, el grupo de noveno busca el efecto de las frases del Texto 1 que Lorentz nada revela.
+
+### Enunciado
+¿Qué efecto produce la insistencia del Texto 1 en expresiones como «nadie reconocía» y «sin decir nada»?
+
+### Opciones
+- [ ] A) Presentar a la vecindad como responsable directa del abandono de la casa.
+  <!-- feedback: Incorrecto. El fragmento no acusa a la vecindad: muestra que ella comenta lo que no conoce, sin mostrar que haya abandonado el lugar. -->
+- [ ] B) Mostrar que el narrador duda de que el perro exista realmente.
+  <!-- feedback: Incorrecto. El narrador no duda de la existencia del perro: lo que se desconoce es de quién es. -->
+- [ ] C) Demostrar que la casa nunca fue habitada por una familia, porque nadie la reconocía.
+  <!-- feedback: Incorrecto. La frase habla del perro y de lo que nadie alcanza a saber, no de la historia completa de la casa. -->
+- [x] D) Convertir la falta de información sobre el pasado del perro en un vacío que la trama necesita llenar.
+  <!-- feedback: Correcto. Las dos frases dejan un dato sin resolver, y ese vacío es justamente lo que mueve la curiosidad del lector hacia el final. -->
+
+### Explicacion Pedagogica
+Detectar lo que el texto se niega a decir es una habilidad de lectura avanzada. Cuando un relato repite que nadie sabe ni reconoce algo, está señalando un vacío que la trama explorará después. Ese vacío no es una falla de información: es el mecanismo que mantiene al lector pendiente del desenlace. En noveno grado, aprender a identificar estos vacíos imaginados ayuda a explicar por qué la historia avanza en el Texto 1.
+
+## Question 10 [D9-D10]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.75
+**Contexto:** En Tunja, un grupo de noveno discute una lectura de trabajo escrita por un compañero.
+
+### Enunciado
+Un compañero afirma que el solar del Texto 1 es apenas un decorado para dar color local a la historia. ¿Cuál es la mejor respuesta a esa afirmación?
+
+### Opciones
+- [ ] A) La afirmación es correcta, porque la descripción del solar ocupa la mayor parte del fragmento.
+  <!-- feedback: Incorrecto. La cantidad de palabras no demuestra la función del espacio, y aquí el solar interviene además en el desenlace. -->
+- [ ] B) La afirmación es incorrecta, porque el autor nunca menciona el barrio donde ocurre la historia.
+  <!-- feedback: Incorrecto. El fragmento sí ubica la acción en un barrio, y ese dato no es lo que convierte el espacio en decorado o en parte de la trama. -->
+- [ ] C) La afirmación es correcta, porque Doña Rosalba nunca habla del solar, lo que confirma que el lugar no importa.
+  <!-- feedback: Incorrecto. Los domingos en el solar son la rutina que ella sostiene y organiza, así que el lugar sí ocupa un lugar central en la historia. -->
+- [x] D) La afirmación es incorrecta, porque el solar funciona como umbral: en él se decide quién guarda la memoria de la casa y quién la cuenta desde afuera.
+  <!-- feedback: Correcto. Mostrar esa función refuta la lectura de decorado con una razón tomada del propio comportamiento del espacio en la trama. -->
+
+### Explicacion Pedagogica
+Evaluar una lectura crítica exige responder con argumentos del texto y no con opiniones. La afirmación del compañero confunde cantidad de descripción con función narrativa, un error frecuente al leer novelas. La respuesta sólida muestra que el solar organiza quién sabe, quién calla y quién aparece al final. En noveno grado, practicar este tipo de réplica enseña a sostener un juicio y a defenderlo con evidencia textual.
+
+## Question 11 [D9-D10]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Crítico-Intertextual
+**Expected_Success:** 0.70
+**Contexto:** En Pasto, un taller de noveno grado propone cambiar el lugar de la escena por una plaza pública muy transitada.
+
+### Enunciado
+Si el mismo episodio del Texto 1 ocurriera en una plaza pública muy transitada, ¿qué consecuencia de la trama se perdería con mayor claridad?
+
+### Opciones
+- [x] A) La posibilidad de que Doña Rosalba guarde el pasado de la casa sin que nadie pueda intervenir en ese espacio.
+  <!-- feedback: Correcto. Un espacio abierto y muy transitado elimina la frontera entre lo guardado y lo comenta, que sostiene el conflicto central del fragmento. -->
+- [ ] B) La posibilidad de que un perro aparezca cerca de la casa.
+  <!-- feedback: Incorrecto. Un perro puede estar en cualquier espacio, público o privado, y su presencia no depende del lugar donde esté. -->
+- [ ] C) La posibilidad de que exista una ventana por la que alguien pueda asomarse.
+  <!-- feedback: Incorrecto. En una plaza el episodio podría transcurrir igual, porque el dato relevante del fragmento no es la ventana sino la separación entre interior y exterior. -->
+- [ ] D) La posibilidad de que existan objetos que Doña Rosalba guarde en el interior de la casa.
+  <!-- feedback: Incorrecto. Los objetos pueden trasladarse de un espacio a otro, así que no son la consecuencia que el cambio de lugar borra. -->
+
+### Explicacion Pedagogica
+Probar un relato en otro escenario ayuda a ver qué elementos del espacio son verdaderos pilares y cuáles son reemplazables. Al mudar la escena a una plaza, la acción podría continuar, pero se pierde la frontera entre lo que se guarda y lo que se comenta, y con ella la tensión del fragmento. Un buen análisis narrativo distingue el decorado móvil de la estructura que sostiene la trama. En noveno grado, este ejercicio forma criterio para evaluar cambios de escenario más allá de lo visual.
+
+## Question 12 [D9-D10]
+**ID:** CO-LC-9-2026-W34-la-novela-y-la-construccion-del-espacio-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.70
+**Contexto:** En Neiva, la profesora cierra la semana pidiendo a noveno grado una síntesis sobre el tema de la novela y el espacio.
+
+### Enunciado
+¿Cuál afirmación resume mejor lo que el fragmento enseña sobre el espacio en la novela?
+
+### Opciones
+- [ ] A) En la novela, el espacio sirve para mostrar cómo viven las personas en un barrio.
+  <!-- feedback: Incorrecto. Mostrar cómo viven es apenas una función decorativa, y el fragmento va más lejos al usar el espacio como parte del conflicto. -->
+- [ ] B) En la novela, el espacio es el conjunto de lugares donde ocurre la acción.
+  <!-- feedback: Incorrecto. Definir el espacio como simple lugar de los hechos reduce lo que el fragmento muestra sobre las relaciones entre las personas. -->
+- [x] C) En la novela, el espacio organiza las relaciones: define quién entra, quién mira y qué queda oculto.
+  <!-- feedback: Correcto. Esa formulación recoge el umbral, el solar y la ventana rota, es decir, el modo en que el lugar decide lo que la trama puede contar. -->
+- [ ] D) En la novela, el espacio debe describirse con precisión para que el lector pueda entenderlo.
+  <!-- feedback: Incorrecto. La ficha técnica sirve para analizar el espacio, pero la novela lo sugiere con objetos y acciones, no con medidas. -->
+
+### Explicacion Pedagogica
+Cerrar la semana con una afirmación que ordene todo lo trabajado ayuda a fijar la idea central del tema. En el Texto 1, el espacio no acompaña la acción: la hace posible, porque decide quién tiene acceso a la casa y qué información circula. Esa lectura explica por qué el desenlace depende de una ventana rota y no de un diálogo cualquiera. En noveno grado, este tipo de síntesis prepara para aplicar el mismo criterio a otras novelas latinoamericanas.
