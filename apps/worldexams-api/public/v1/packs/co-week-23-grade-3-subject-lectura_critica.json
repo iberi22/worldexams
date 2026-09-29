@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-23-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T15:31:01.919Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿qué hizo la familia el sábado pasado?",
+      "context": "Los niños de tercero de Manizales leen en clase el cuento del viaje a la finca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salió temprano de Manizales hacia una finca cafetera.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que la familia salió temprano de Manizales hacia una finca del departamento de Caldas."
+        },
+        {
+          "letter": "B",
+          "text": "Permaneció toda la semana en el municipio de Manizales.",
+          "is_correct": false,
+          "feedback": "El viaje ya se había realizado, porque la familia salió de Manizales y regresó el mismo día."
+        },
+        {
+          "letter": "C",
+          "text": "Llegó a la finca para sembrar semillas de huerta.",
+          "is_correct": false,
+          "feedback": "Quien sembró las semillas fue Violeta después de comer, no toda la familia al llegar a la finca."
+        },
+        {
+          "letter": "D",
+          "text": "Volvió a Manizales antes de que saliera el sol.",
+          "is_correct": false,
+          "feedback": "El texto dice que el bus llegó a la finca a las siete de la mañana, así que el viaje no fue de madrugada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los verbos en pasado permiten contar hechos que ya ocurrieron, como el viaje del sábado. Al leer el texto, los estudiantes identifican verbos como \"salió\", \"llegó\" y \"regresó\". Reconocer estos verbos ayuda a entender rápidamente lo que pasó en una lectura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.95,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué en el Texto 1 el autor escribió \"la familia regresó a Manizales\" y no \"la familia regresa a Manizales\"?",
+      "context": "En el salón de Bucaramanga, la profesora Elena explica cuándo se usa un verbo en pasado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el verbo \"regresar\" solo se puede escribir en pasado.",
+          "is_correct": false,
+          "feedback": "\"Regresar\" también se puede escribir en presente, como en \"la familia regresa cada diciembre\"."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el viaje ya terminó y el regreso ya ocurrió.",
+          "is_correct": true,
+          "feedback": "Correcto. El hecho ya pasó y por eso el verbo se escribe en pasado: \"regresó\"."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la familia todavía no volvió y la acción es futura.",
+          "is_correct": false,
+          "feedback": "Si la acción fuera futura, el verbo tendría que ir en futuro y no en pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la oración suena más corta con el verbo en pasado.",
+          "is_correct": false,
+          "feedback": "La longitud de la oración no determina el tiempo del verbo; lo que importa es si el hecho ya ocurrió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El tiempo del verbo depende de si el hecho ya terminó o todavía está ocurriendo. En esta oración, la familia ya volvió a Manizales, así que se usa el pasado. Cuando los estudiantes cambian entre presente y pasado, están entendiendo el significado de cada tiempo verbal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de estas frases usa correctamente un verbo en pasado?",
+      "context": "En la finca del departamento de Caldas, el abuelo cuenta lo que hizo la familia durante la mañana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toda la familia trabaja durante la mañana y llenó tres canastas.",
+          "is_correct": false,
+          "feedback": "Aquí se mezclan dos tiempos: \"trabaja\" está en presente y \"llenó\" en pasado, y la frase se vuelve inconsistente."
+        },
+        {
+          "letter": "B",
+          "text": "Toda la familia trabaje durante la mañana y llena tres canastas.",
+          "is_correct": false,
+          "feedback": "\"Trabaje\" es una forma de imperativo; aquí se quiere contar un hecho que ya ocurrió, no dar una orden."
+        },
+        {
+          "letter": "C",
+          "text": "Toda la familia trabajó durante la mañana y llenó tres canastas.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Trabajó\" y \"llenó\" cuentan hechos que ya terminaron, y usan las terminaciones del pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Toda la familia trabaja durante la mañana y llena tres canastas.",
+          "is_correct": false,
+          "feedback": "Los dos verbos están en presente, así que la frase cuenta una acción que todavía no termina."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando escribimos un relato, todos los verbos que cuentan lo que ya pasó deben ir en pasado. Si un verbo queda en presente, el lector entiende que la acción todavía está ocurriendo. Por eso hay que revisar que el relato no mezcle tiempos verbales. Practicar esta revisión es una buena estrategia para mejorar los textos propios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v4",
+      "statement": "Jhon dice: \"Yo ___ el fruto del café y estaba muy amargo\". ¿Qué verbo en pasado completa la frase?",
+      "context": "En el cafetal, Jhon narra a sus compañeros lo que hizo con el fruto del café.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "probaré",
+          "is_correct": false,
+          "feedback": "\"Probaré\" está en futuro, porque cuenta algo que todavía va a ocurrir."
+        },
+        {
+          "letter": "B",
+          "text": "probaba",
+          "is_correct": false,
+          "feedback": "El imperfecto se usa para hábitos o acciones que se repiten, no para una acción puntual ya terminada."
+        },
+        {
+          "letter": "C",
+          "text": "pruebo",
+          "is_correct": false,
+          "feedback": "\"Pruebo\" está en presente, así que diría que Jhon está probando el fruto en este momento."
+        },
+        {
+          "letter": "D",
+          "text": "probé",
+          "is_correct": true,
+          "feedback": "Correcto. \"Probé\" cuenta una acción que ya ocurrió, y el Texto 1 dice que Jhon probó un fruto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir el verbo correcto depende de saber si la acción ya terminó, si se repite o si va a ocurrir. En esta frase, Jhon ya probó el fruto y por eso el verbo va en pasado. Practicar con las formas \"probé\", \"pruebo\" y \"probaré\" ayuda a diferenciar los tiempos verbales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v5",
+      "statement": "Según el Texto 2, ¿cuál de estos verbos es irregular, es decir, no se escribe con las terminaciones ron, aron o ieron?",
+      "context": "La profesora Elena escribe en la pizarra la regla del Texto 2 junto a un ejemplo del Texto 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aprendieron",
+          "is_correct": false,
+          "feedback": "\"Aprendieron\" también es regular, ya que usa la terminación \"ieron\" que explica el Texto 2."
+        },
+        {
+          "letter": "B",
+          "text": "estudiaron",
+          "is_correct": false,
+          "feedback": "\"Estudiaron\" sigue la regla, porque termina en \"ieron\" como los demás verbos regulares del pasado."
+        },
+        {
+          "letter": "C",
+          "text": "hizo",
+          "is_correct": true,
+          "feedback": "Correcto. \"Hizo\" es irregular porque termina en \"izo\" y no en \"ron\", \"aron\" o \"ieron\"."
+        },
+        {
+          "letter": "D",
+          "text": "cantaron",
+          "is_correct": false,
+          "feedback": "\"Cantaron\" es un verbo regular, porque termina en \"aron\" como indica la regla del Texto 2."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Texto 1 muestra verbos usados y el Texto 2 explica cómo se forman. Al comparar los dos textos, el estudiante descubre que la mayoría de los verbos siguen una regla y que unos pocos, como \"hizo\", se deben aprender de memoria. Leer para comparar es una estrategia que fortalece la comprensión.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede inferir del Texto 1 a partir del uso de los verbos en pasado?",
+      "context": "En el camino de regreso a Manizales, los niños de la familia hablan de la cosecha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todo el viaje ya había ocurrido cuando el autor escribió el texto.",
+          "is_correct": true,
+          "feedback": "Correcto. El autor cuenta con verbos en pasado hechos que ya estaban terminados al momento de escribir."
+        },
+        {
+          "letter": "B",
+          "text": "Que la familia todavía iba de camino al cafetal cuando empezó el cuento.",
+          "is_correct": false,
+          "feedback": "El viaje ya terminó, porque el texto incluye el regreso a Manizales y la llegada a la casa."
+        },
+        {
+          "letter": "C",
+          "text": "Que la familia volverá a Manizales el mismo día del viaje.",
+          "is_correct": false,
+          "feedback": "La familia ya regresó ese mismo día, y el viaje completo está contado con verbos en pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Que el abuelo seguía trabajando en el cafetal desde antes del viaje.",
+          "is_correct": false,
+          "feedback": "El texto solo cuenta lo que pasó ese sábado; no dice nada sobre trabajos anteriores ni posteriores del abuelo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir es deducir información que el texto no escribe de manera directa, pero que se puede descubrir si se leen los verbos. Al ver que todos los hechos están en pasado, se entiende que la historia ya había terminado. Estas inferencias ayudan a entender mejor la línea de tiempo de cualquier relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v7",
+      "statement": "Un compañero escribió: \"Ayer nosotros comimos empanadas y mañana nosotros comimos arepas\". ¿Qué problema tiene esta frase?",
+      "context": "En un trabajo grupal de Cartagena, un compañero escribió su descripción del viaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confunde la palabra \"ayer\" con el nombre de un barrio de la ciudad.",
+          "is_correct": false,
+          "feedback": "\"Ayer\" es un marcador de tiempo, no un nombre de barrio, así que esa no es la razón del error."
+        },
+        {
+          "letter": "B",
+          "text": "Usa correctamente el pasado, porque la frase empieza con la palabra \"ayer\".",
+          "is_correct": false,
+          "feedback": "La palabra \"ayer\" solo explica el primer hecho; el segundo hecho todavía no ha pasado y no puede ir en pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Repite el mismo verbo y por eso el texto pierde la variedad.",
+          "is_correct": false,
+          "feedback": "Repetir el verbo no es el error principal; el problema es que el segundo hecho todavía no ha ocurrido."
+        },
+        {
+          "letter": "D",
+          "text": "Cuenta con pasado un hecho que todavía no ocurre, porque el verbo \"comimos\" está en pasado.",
+          "is_correct": true,
+          "feedback": "Correcto. Lo que pasa mañana todavía no ha ocurrido, así que el verbo debe estar en futuro y no en pasado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Revisar el tiempo de cada verbo permite corregir los errores de un texto escrito por otra persona. En este caso, un hecho que ya pasó y otro que va a pasar no pueden llevar el mismo verbo en pasado. Saber evaluar estos casos enseña a distinguir el pasado del futuro y del presente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué un relato como el Texto 1 necesita verbos en pasado y no verbos en presente?",
+      "context": "En la clase de tercero en Bucaramanga, la profesora pregunta por qué un relato necesita verbos en pasado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el pasado evita que el lector se entere de lo que pasó.",
+          "is_correct": false,
+          "feedback": "Al contrario: el pasado permite que el lector entienda con claridad todo lo que sucede en el relato."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el pasado ordena los hechos en el tiempo y muestra que la historia ya ocurrió.",
+          "is_correct": true,
+          "feedback": "Correcto. El pasado permite contar los hechos en el orden en que ocurrieron y deja claro que ya terminaron."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los verbos en presente son más difíciles de escribir que los del pasado.",
+          "is_correct": false,
+          "feedback": "La dificultad no es el motivo; los verbos en presente y en pasado se usan con la misma facilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en pasado los verbos ocupan más palabras y llenan mejor la página.",
+          "is_correct": false,
+          "feedback": "La longitud de las palabras no importa; lo importante es que el tiempo verbal corresponde a lo que ya ocurrió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un relato necesita un tiempo verbal coherente para que el lector siga la historia. Al usar verbos en pasado, el escritor ubica cada hecho en el momento en que ocurrió y el lector entiende el orden de la historia. Reconocer esta función ayuda a escribir relatos más claros y fáciles de comprender.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
