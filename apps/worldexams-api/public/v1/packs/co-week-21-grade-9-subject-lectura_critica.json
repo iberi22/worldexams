@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-21-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:59:58.833Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un texto no continuo?",
+      "context": "En el aula de noveno grado de un colegio de Bogotá, la profesora reparte la página de una revista del Metro y pregunta qué tiene en común con un libro de Português.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un texto que presenta la información en bloques separados, mediante gráficos, tablas, diagramas o listas, y se lee por partes.",
+          "is_correct": true,
+          "feedback": "Correcto. Se apoya en esquemas visuales y en bloques con organización propia, no en una secuencia de párrafos."
+        },
+        {
+          "letter": "B",
+          "text": "Es un texto que se lee de principio a fin, como una narración, pero escrito en frases muy cortas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lectura seguida de principio a fin es propia del texto continuo, no del no continuo."
+        },
+        {
+          "letter": "C",
+          "text": "Es un texto que no tiene imágenes porque toda la información aparece en una sola página de texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de imágenes no define a estos textos: la clave está en la organización en bloques."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto pensado para ser decorativo, que se mira por su apariencia y no se interpreta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede tener componente visual, su función es informar, no solo decorar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos no continuos agrupan la información en bloques separados que el lector activa uno por uno: rótulos, tablas, gráficos de barras, líneas de tiempo, diagramas, listas e infografías. Cada bloque tiene su propia lógica de lectura y se apoya en elementos visuales como colores, símbolos y columnas. Comprender esta organización evita que el estudiante busque una narración que el texto no tiene y permite recuperar los datos con precisión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre un texto continuo y un texto no continuo?",
+      "context": "En Bucaramanga, el grupo de noveno grado compara una tabla de precios de una panadería con un cuento breve de la misma cartilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto continuo usa solamente imágenes y el texto no continuo no las usa nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de imágenes no es lo que distingue a los dos tipos de texto."
+        },
+        {
+          "letter": "B",
+          "text": "El texto continuo se lee por partes y el no continuo se lee seguido de principio a fin.",
+          "is_correct": false,
+          "feedback": "Incorrecto: está invertido. El texto continuo se lee seguido y el no continuo se lee por partes."
+        },
+        {
+          "letter": "C",
+          "text": "El texto continuo presenta las ideas en una secuencia de párrafos encadenados, y el no continuo las distribuye en bloques visuales independientes.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia de párrafos enlazados es propia del texto continuo, no de los bloques del no continuo."
+        },
+        {
+          "letter": "D",
+          "text": "El texto continuo informa datos y el no continuo expresa opiniones, sin diferencia entre ambos casos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto continuo también informa y un no continuo también puede opinar: no es esa la diferencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La diferencia es de organización, no de contenido. Un texto continuo avanza por una secuencia de oraciones y párrafos encadenados por conectores, de manera que se lee de principio a fin. Un texto no continuo reparte la información en bloques que funcionan por separado y que el lector recorre según su necesidad. En el caso del Metro y del recibo de agua, cada bloque es un fragmento que aporta un dato específico y no un paso de la misma historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v3",
+      "statement": "En un gráfico, ¿para qué sirve la leyenda o recuadro de colores y símbolos?",
+      "context": "En el laboratorio de informática de un colegio de Medellín, los estudiantes de noveno grado revisan el recuadro de colores de una gráfica sobre el agua en cada barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para cambiar el número de barras y de columnas del gráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La leyenda no modifica la cantidad de barras: solo explica lo que ya está representado."
+        },
+        {
+          "letter": "B",
+          "text": "Para identificar a qué categoría o variable corresponde cada color, símbolo o línea del gráfico.",
+          "is_correct": true,
+          "feedback": "Correcto. La leyenda es la clave de lectura que permite saber qué significa cada signo del gráfico."
+        },
+        {
+          "letter": "C",
+          "text": "Para escribir la conclusión final que el lector debe sacar del gráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concluir es tarea del lector: la leyenda solo traduce los signos en categorías."
+        },
+        {
+          "letter": "D",
+          "text": "Para indicar el precio del producto que se está investigando con el gráfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un precio no es un elemento de la leyenda: esta identifica datos, no costos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La leyenda es la clave que traduce el lenguaje visual del gráfico al lenguaje de los datos. Sin ella, un lector que no está familiarizado con el tema no podría saber si el color rojo significa \"consumo alto\" o \"zona rural\". Reconocer esta función es lo que permite usar correctamente infografías de entidades que cambian los colores de un período a otro, porque el significado de cada color está siempre atado a la leyenda que acompaña al gráfico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v4",
+      "statement": "Según el Texto 1, ¿cuál fue el mes con mayor número de viajes en el Metro de Medellín y cuánto se registró ese valor?",
+      "context": "En Cali, la profesora de noveno grado proyecta el Texto 1 y pide que el grupo identifique el mes de mayor número de viajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marzo, con 6.800.000 viajes.",
+          "is_correct": true,
+          "feedback": "Correcto. Es el valor más alto de los seis meses y coincide con la barra más alta del gráfico."
+        },
+        {
+          "letter": "B",
+          "text": "Enero, con 6.200.000 viajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enero supera a febrero y junio, pero queda por debajo de marzo y de mayo."
+        },
+        {
+          "letter": "C",
+          "text": "Mayo, con 6.500.000 viajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es el segundo valor más alto del gráfico, no el más alto."
+        },
+        {
+          "letter": "D",
+          "text": "Febrero, con 5.400.000 viajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es justamente el mes con menor número de viajes del período."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Leer un gráfico de barras exige comparar alturas y leer el valor exacto en el eje vertical. Al ordenar los seis datos de mayor a menor se obtiene: marzo 6.800.000, mayo 6.500.000, enero 6.200.000, abril 6.000.000, junio 5.900.000 y febrero 5.400.000. Comparar antes de responder evita confundir el mes más alto con el mes más cercano al promedio, un error frecuente cuando se lee el gráfico de un vistazo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 2, ¿qué sector del gráfico de torta corresponde al 40% y qué dato de la tabla lo confirma?",
+      "context": "En el colegio de Bogotá donde se estudia el Texto 2, los estudiantes de noveno deben ubicar en la torta el aparato que más agua consume.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corresponde a duchas, porque 1.200 litros es el mayor valor de la tabla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las duchas son el segundo valor más alto: 1.200 litros frente a los 1.850 de los inodoros."
+        },
+        {
+          "letter": "B",
+          "text": "Corresponde a lavandería, porque esa fila ocupa la cuarta parte de la torta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lavandería representa el 24%, no el 40% que indica el enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "Corresponde a inodoros, porque 1.850 litros es el valor más alto de la tabla y equivale a cerca de dos quintas partes del total.",
+          "is_correct": true,
+          "feedback": "Correcto. 1.850 de 4.630 litros equivalen aproximadamente al 40% del consumo del hogar."
+        },
+        {
+          "letter": "D",
+          "text": "Corresponde a limpieza de pisos, porque los 480 litros son el total de la casa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La limpieza de pisos aporta solo 480 litros y ocupa el sector más pequeño de la torta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El gráfico de torta y la tabla del Texto 2 expresan los mismos datos con dos códigos distintos: la torta distribuye porcentajes y la tabla entrega valores en litros. Contrastar ambos permite verificar que la proporción indicada en el sector corresponde al dato de la fila. Ese cruce de fuentes es exactamente lo que distingue a una lectura crítica de una lectura superficial de un texto no continuo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué la campaña del Texto 2 optó por usar iconos en lugar de un bloque largo de texto explicativo?",
+      "context": "En el municipio de Soacha, el área de comunicación diseña una campaña de ahorro de agua para carteles que se pegan en los buses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los textos largos no pueden contener información sobre consumo de agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un párrafo puede informar igual; no es la extensión lo que limita la información."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los iconos ocupan menos papel y por eso cuestan menos a la administración municipal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo del papel es un detalle material, no la razón comunicativa de la elección."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el lector de un afiche solo busca la información principal y descarta los textos largos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón no es que el lector descarte lo largo, sino que la imagen comunica mejor el dato."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el ícono permite identificar el dato de un vistazo, sin exigir una lectura seguida, y ese es el modo de lectura del texto no continuo.",
+          "is_correct": true,
+          "feedback": "Correcto. Cada bloque visual se lee por separado, así que un ícono funciona mejor que un párrafo corrido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto no continuo se recorre por partes, y cada parte se detiene por un instante breve. Por eso los formatos como la infografía y el afiche en las estaciones piden datos puntuales que puedan localizarse al instante. Entender la relación entre la intención comunicativa y el formato elegido ayuda al estudiante a justificar por qué un mismo contenido se presenta de una manera en un afiche y de otra en un informe de cuatro páginas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v7",
+      "statement": "Al combinar el título del Texto 1 con los datos de sus barras, ¿qué mensaje completo construye el gráfico?",
+      "context": "En un proyecto de aula de Barranquilla, los estudiantes de noveno redactan la presentación de un afiche sobre movilidad en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el uso del Metro de Medellín se mantiene alto y estable durante todo el primer semestre de 2025.",
+          "is_correct": true,
+          "feedback": "Correcto. Los seis meses se sitúan entre 5,4 y 6,8 millones, con una variación estrecha y sostenida."
+        },
+        {
+          "letter": "B",
+          "text": "Que el Metro de Medellín tuvo un crecimiento acelerado después de marzo de 2025.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Después de marzo los valores bajan y vuelven a subir sin superar el pico, no crecen de forma sostenida."
+        },
+        {
+          "letter": "C",
+          "text": "Que el Metro de Medellín transportó más pasajeros en junio que en marzo de 2025.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Junio registró 5.900.000 viajes, muy por debajo de los 6.800.000 de marzo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el Metro de Medellín pierde pasajeros de manera constante durante el primer semestre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una caída constante no aparece: hay subidas y bajas dentro de un rango estrecho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto no continuo también comunica una interpretación, no solo datos. El título declara de qué trata el gráfico y las barras describen el comportamiento, pero la conclusión depende del patrón que el lector detecta al comparar los meses. En este caso, la variación reducida en torno a los seis millones sostiene la lectura de estabilidad, que es un mensaje que no está escrito literalmente en ninguna barra. Reconocer ese mensaje implícito es lo que permite usar un gráfico como evidencia y no como simple adorno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v8",
+      "statement": "En el encabezado «Gasto promedio mensual de agua de un hogar en Bogotá, 2025», ¿qué palabra da nombre a la variable que se está midiendo?",
+      "context": "En un colegio de Pereira, los estudiantes de noveno analizan el encabezado de la tabla del Texto 2 palabra por palabra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Gasto», porque es la primera palabra del sintagma y anuncia el tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Indica la acción medida, pero no es el nombre de la magnitud que se registra."
+        },
+        {
+          "letter": "B",
+          "text": "«Promedio», porque explica que el dato es un valor medio entre varios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un adjetivo que modifica al sustantivo y precisa el tipo de dato, no la variable."
+        },
+        {
+          "letter": "C",
+          "text": "«Litros», porque es el sustantivo que nombra la unidad en que se expresa esa cantidad.",
+          "is_correct": true,
+          "feedback": "Correcto. En la etiqueta, la unidad de medida nombra la variable que el lector busca en cada fila."
+        },
+        {
+          "letter": "D",
+          "text": "«Bogotá», porque delimita el lugar donde se hizo la medición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un dato de contexto geográfico, no el nombre de la magnitud medida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un texto no continuo los rótulos cumplen una función gramatical precisa. El sustantivo final del encabezado es el que nombra la unidad o la variable, mientras que los adjetivos y los nombres propios delimitan el ámbito de la medición. Distinguir el sustantivo clave de los modificadores es lo que permite entender rótulos complejos como «porcentaje de participación» o «costos en miles de millones de pesos» y evita que el estudiante busque en la fila un dato que no corresponde a lo medido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v9",
+      "statement": "Si el título del Texto 1 desapareciera y solo quedaran las seis barras, ¿qué información del mensaje se perdería y por qué?",
+      "context": "En el aula de noveno grado de Ibagué, la profesora borra el título del Texto 1 y pide al grupo que describa qué se pierde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No se perdería nada, porque las barras por sí solas ya indican qué sistema se está midiendo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las barras no nombran ni el sistema ni el período: esos datos llegan por el título."
+        },
+        {
+          "letter": "B",
+          "text": "Se perdería el valor de junio, porque es el dato que solo aparece en el rótulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de junio se lee en el eje vertical, no depende del título."
+        },
+        {
+          "letter": "C",
+          "text": "Se perdería el sentido de la lectura: sin el título no se sabría qué se midió, en qué ciudad ni en qué período.",
+          "is_correct": true,
+          "feedback": "Correcto. El título fija el tema, el lugar y el tiempo, y sin él las barras quedan como datos sin contexto."
+        },
+        {
+          "letter": "D",
+          "text": "Se perdería la fuente de los datos, porque la fuente solo puede aparecer en el título.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente es un bloque aparte: el título no es el lugar donde se declara."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un texto no continuo cada bloque aporta un tipo de información distinto y ninguno es prescindible. Las barras aportan la cantidad, los ejes aportan la escala y la referencia, y el título aporta el qué, el dónde y el cuándo. Analizar qué se pierde al retirar un bloque enseña que la comprensión depende de la coordinación entre las partes del texto, y no de la lectura aislada de una de ellas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v10",
+      "statement": "En la fila «Duchas — 1.200 litros», ¿qué función sintáctica cumple la cifra 1.200?",
+      "context": "En un taller de lectura de Tunja, los estudiantes de noveno revisan cómo funciona la cifra en cada fila de la tabla del Texto 2.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un cuantificador que modifica al sustantivo «duchas» y precisa cuánto de ese aparato se usó.",
+          "is_correct": true,
+          "feedback": "Correcto. La cifra cuantifica el sustantivo y da medida a la fila sin actuar como sujeto de la oración."
+        },
+        {
+          "letter": "B",
+          "text": "Es el sujeto de la oración, porque la fila entera se organiza alrededor de ese número.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra acompaña y cuantifica un dato ya nombrado: no es el sujeto."
+        },
+        {
+          "letter": "C",
+          "text": "Es un conector que enlaza la fila con la siguiente dentro de la tabla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un conector enlaza segmentos de texto: aquí no hay ningún enlace entre filas."
+        },
+        {
+          "letter": "D",
+          "text": "Es un predicado que atribuye una acción a las duchas durante todo el mes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cifra expresa cantidad, no una acción atribuida a ningún sujeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una tabla, la cifra ocupa sistemáticamente la función de cuantificador: precisa la cantidad de la fila y depende gramaticalmente del sustantivo que acompaña. Reconocerlo evita dos errores frecuentes: tomar el número por el asunto de la fila o buscar en él un verbo que no tiene. Esta misma comprensión sintáctica de los rótulos y las cifras es la que permite después calcular porcentajes, comparar filas y detectar datos incoherentes dentro de un mismo texto no continuo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v11",
+      "statement": "Un compañero propone titular «Cada mes viajan más de seis millones de pasajeros en el Metro de Medellín» usando el Texto 1. ¿Cuál es la evaluación más precisa de esa propuesta?",
+      "context": "En una reunión de periódico escolar de Bogotá, un estudiante propone titular «Cada mes viajan más de seis millones de pasajeros».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque todos los valores del gráfico están entre 5,4 y 6,8 millones y ese rango supera los seis millones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rango incluye 5,4 y 5,9 millones: el rango no equivale a cada mes."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta si se cambia «mes» por «trimestre», porque el promedio del período sí supera los seis millones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la unidad: los datos de febrero y junio contradicen la afirmación también agrupados."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta por la fuente, porque un gráfico de una empresa de transporte no puede usarse en periodismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuente no invalida el dato: la discusión debe centrarse en la correspondencia entre el titular y los valores."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque dos meses del gráfico (febrero y junio) quedan por debajo de seis millones, de modo que el titular generaliza más de lo que muestran los datos.",
+          "is_correct": true,
+          "feedback": "Correcto. La universalización «cada mes» contradice dos de los seis valores y por eso excede lo que el texto permite afirmar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto no continuo implica contrastar la afirmación con los datos uno por uno. En este caso, un cuantificador universal como «cada mes» queda desmentido por los valores de febrero y junio, y esa diferencia entre el alcance de la frase y el alcance de los datos es precisamente el núcleo del pensamiento crítico. Reconocer el exceso de generalización permite rastrear errores frecuentes en titulares, portadas y publicaciones de redes sociales que exageran un dato aislado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle-v12",
+      "statement": "Un equipo debe comparar el precio de cuatro productos de limpieza durante seis meses en distintas tiendas de Bogotá. ¿Qué formato es el más adecuado y por qué?",
+      "context": "En el proyecto final de noveno grado en Medellín, cada grupo debe elegir el formato adecuado para presentar una comparación de precios de productos de limpieza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tabla, porque permite escribir la interpretación completa de cada dato y el motivo de la variación de precios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tabla ordena los datos, pero no admite la interpretación argumentada que exige un análisis."
+        },
+        {
+          "letter": "B",
+          "text": "Una tabla acompanhada de un gráfico de barras, porque la tabla permite comparar exactamente los valores y el gráfico muestra con rapidez la tendencia y las diferencias entre productos.",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación cubre los dos marcos del análisis: la precisión numérica y la lectura visual de la tendencia."
+        },
+        {
+          "letter": "C",
+          "text": "Solo un gráfico de torta, porque cada porción comunica con mayor claridad la diferencia de precios entre los meses.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La torta sirve para proporciones de un total, no para comparar la evolución de precios en el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Una crónica escrita, porque la forma narrativa permite registrar con detalle el día a día de la compra de productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La crónica no es el formato adecuado para un conjunto ordenado de datos comparables entre meses."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La elección del formato debe responder a la tarea que se quiere realizar. Comparar magnitudes exactas entre varios elementos y varios periodos exige la tabla, y mostrar la tendencia de esa comparación exige el gráfico de barras. Justificar la elección con criterios de lectura, y no con preferencias estéticas, es lo que convierte el trabajo en una aplicación consciente de la lectura crítica de textos no continuos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W21-los-textos-no-continuos-y-su-comprension-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

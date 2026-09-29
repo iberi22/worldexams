@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-17-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T10:59:58.831Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones define correctamente la tesis de un texto argumentativo?",
+      "context": "En un colegio de Bogotá, la profesora de noveno grado explica por qué no todas las afirmaciones de un texto tienen el mismo peso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la afirmación principal que el autor defiende y que el resto del texto intenta demostrar.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis es la posición sostenida por el autor, y los argumentos existen para fundamentarla."
+        },
+        {
+          "letter": "B",
+          "text": "Es la primera oración del texto, porque todo texto argumentativo empieza con su conclusión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis puede aparecer al principio, al final o en medio, según la estrategia del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Es el dato numérico más importante que aparece en el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un dato es una evidencia; la tesis es la afirmación que esa evidencia apoya."
+        },
+        {
+          "letter": "D",
+          "text": "Es el título del texto, porque el título resume siempre la postura del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título puede ser informativo, descriptivo o incluso neutro; no siempre enuncia la tesis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tesis es el Nuclear de la argumentación: la afirmación que el autor considera defendible y que organiza todo lo demás. Reconocerla permite entender la estructura del texto y decidir si los argumentos que siguen son pertinentes o se apartan del punto. En lectura crítica, una tesis clara es la primera condición de un texto bien construido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre el argumento central y una evidencia utilizada en el texto?",
+      "context": "Un grupo de estudiantes de noveno grado en Bogotá compara el artículo de opinión con el comunicado institucional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El argumento central es el dato, y la evidencia es la opinión que el autor expresa sobre el dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los roles: la evidencia es el apoyo material y el argumento es la razón que se construye con ella."
+        },
+        {
+          "letter": "B",
+          "text": "El argumento central es la razón que sostiene la tesis, mientras que la evidencia es el dato o ejemplo que respalda esa razón.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento es una inferencia; la evidencia es el material con el que se verifica."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos son lo mismo, porque en todo texto se usan las mismas palabras para sostener la tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el autor puede repetir fórmulas, argumento y evidencia cumplen funciones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "La evidencia es obligatoria en todo texto argumentativo, y el argumento central es opcional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede sostener una tesis con razones sin datos numéricos; lo que no puede hacer es sostenerla sin razones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El argumento central es el puente lógico entre lo que se afirma y lo que se demuestra. La evidencia es el insumo que ese puente utiliza: un porcentaje, un caso, una cita de un experto. Un lector crítico distingue ambas cosas porque un texto puede tener muchas evidencias y un solo argumento, o puede presentar un argumento sin bringing ninguna evidencia verificable, lo que debilita la demostración.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v3",
+      "statement": "En un texto argumentativo, ¿cuál de los siguientes elementos corresponde a la razón principal que el autor ofrece para sostener su tesis?",
+      "context": "En un aula de noveno grado en Bogotá se revisa cómo un autor presenta su postura y sus razones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis, porque es la razón principal que el autor quiere demostrar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis es lo que se demuestra, no la razón que lo demuestra."
+        },
+        {
+          "letter": "B",
+          "text": "El título, porque en los textos de opinión siempre enuncia la razón del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título es un recurso de presentación y puede o no revelar el argumento."
+        },
+        {
+          "letter": "C",
+          "text": "El argumento central, porque enuncia la lógica que conecta la tesis con las evidencias.",
+          "is_correct": true,
+          "feedback": "Correcto. El argumento central explicita la relación entre lo que se defiende y lo que se demuestra."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión, porque cierra el texto con la razón más importante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión puede recapitular la tesis, pero la razón principal suele aparecer antes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Identificar el argumento central exige separar la afirmación de su justificación. En el Texto 1, por ejemplo, la tesis es que el uso del celular en el aula no mejora la educación, y el argumento central es que la tecnología no sustituye el trabajo en grupo, porque ese trabajo desarrolla habilidades que un dispositivo no reproduce. Distinguir ambos elementos es lo que permite evaluar si el razonamiento se sostiene.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v4",
+      "statement": "Un texto argumentativo sobre el consumo de azúcar empieza así: «Mi abuelo vivía en una calle sin tiendas de barrio y comía frutas. Mi generación creció con gaseosas en cada esquina, y sin embargo los casos de diabetes en el colegio se dispararon. Nadie necesita una máquina expendedora para estar sano». ¿Cuál es la tesis del texto?",
+      "context": "En un colegio de Bogotá, estudiantes de noveno grado reciben un texto que comienza con una anecdote personal y deben ubicar la tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el abuelo del autor comía frutas y por eso vivía muchos años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es un detalle narrativo del ejemplo, no la postura que el texto defiende."
+        },
+        {
+          "letter": "B",
+          "text": "Que las máquinas expendedoras deberían prohibirse en todos los colegios de Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no propone esa medida; eso sería una conclusión derivada, no la tesis expresada."
+        },
+        {
+          "letter": "C",
+          "text": "Que las gaseosas son msClockfmUnhealthy sanas que las frutas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce la tesis a una comparación entre alimentos y pierde la relación que el texto establece con la salud."
+        },
+        {
+          "letter": "D",
+          "text": "Que el acceso fácil a productos azucarados es un factor que contribuye al aumento de enfermedades como la diabetes en los jóvenes.",
+          "is_correct": true,
+          "feedback": "Correcto. La anecdote sirve como ejemplo ilustrativo, pero la tesis es la afirmación general que el autor quiere defender."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tesis se enuncia en forma de afirmación general y defendible, no como anécdota ni como medida política. Cuando un texto comienza con una historia personal, esa historia es evidencia ilustrativa; la tesis aparece cuando el autor generaliza a partir del caso. Un lector que confunde el ejemplo con la tesis pierde de vista la estructura completa y no puede evaluar los argumentos posteriores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v5",
+      "statement": "Un texto afirma: «La tecnología del siglo XXI exige que los estudiantes aprendan a usarla con criterio, no que les prohibamos su uso en clase». ¿Cuál opción reescribe correctamente esa tesis sin alterar su sentido?",
+      "context": "En un taller de lectura de noveno grado en Bogotá, un estudiante debe reescribir la tesis de un texto con sus propias palabras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«La prohibición del celular en el aula es la mejor solución para formar estudiantes críticos».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte la postura del texto, que rechaza la prohibición en lugar de respaldarla."
+        },
+        {
+          "letter": "B",
+          "text": "«Aprender a usar la tecnología con criterio es una necesidad de la educación actual, y la prohibición en el aula no es la respuesta».",
+          "is_correct": true,
+          "feedback": "Correcto. Conserva las dos partes de la afirmación: la necesidad de formar usuarios críticos y el rechazo a la prohibición."
+        },
+        {
+          "letter": "C",
+          "text": "«Los estudiantes no necesitan aprender sobre tecnología porque la escuela no la usa».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elimina la afirmación principal y agrega una idea sobre la escuela que el texto no sostiene."
+        },
+        {
+          "letter": "D",
+          "text": "«La tecnología es un problema serio en la educación colombiana de hoy».",
+          "is_correct": false,
+          "feedback": "Incorrecto. Generaliza y cambia el objeto de la afirmación: el texto no habla de la tecnología en general, sino de su uso en el aula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reescribir una tesis sin alterarla exige conservar tanto la afirmación como su alcance. Si el texto dice que formar en tecnología es necesario y que prohibir no es la vía, la reformulación debe mantener las dos ideas y la relación entre ellas. Este ejercicio/develope una habilidad central de lectura crítica: comprende que un cambio de una sola palabra puede invertir completamente el sentido de un texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v6",
+      "statement": "Un artículo de opinión presenta primero datos sobre el uso de pantallas, luego cuenta dos casos de estudiantes y termina con una afirmación directa. ¿En qué parte del texto se encuentra, con mayor probabilidad, la tesis?",
+      "context": "En noveno grado, en un colegio de Bogotá, se analiza dónde se enuncia la tesis en un texto de opinión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el primer dato, porque los números siempre expresan la opinión del autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos son evidencias; pueden aparecer al inicio o al final según la estrategia del texto."
+        },
+        {
+          "letter": "B",
+          "text": "En los casos de estudiantes, porque una anécdota personal nunca puede contener una tesis.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una anécdota puede ilustrar la tesis, pero no suele enunciarla con precisión general."
+        },
+        {
+          "letter": "C",
+          "text": "En la afirmación final, porque los autores suelen enunciar su postura después de presentar las evidencias que la sostienen.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura deduction-evidentias-conclusión es frecuente en los artículos de opinión."
+        },
+        {
+          "letter": "D",
+          "text": "En ninguna parte, porque los textos de opinión no tienen tesis explícita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los textos argumentativos sostienen una postura; puede estar implícita o explícita, pero siempre está."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tesis puede ubicarse en distintas posiciones según el género y la estrategia del autor. En los artículos de opinión es frecuente el orden en que se presentan datos y casos antes de formular la conclusión que los interpreta. Saber anticipar esa ubicación ayuda al lector a distinguir las evidencias, que sostienen la demostración, de la afirmación que las organiza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v7",
+      "statement": "Un texto afirma que las medidas de seguridad escolar deben reforzarse, presenta cifras sobre accidentes y termina volviendo al mismo asunto sin explicar por qué esas cifras harían necesario reforzar las medidas. ¿Qué problema tiene el texto desde el punto de vista argumentativo?",
+      "context": "En un aula de noveno grado en Bogotá, la profesora pide justificar por qué un texto no tiene un argumento central identificable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene tesis, porque el texto nunca dice si está de acuerdo o en desacuerdo con reforzar las medidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La postura sí está presente; lo que falta es la razón que la demuestra."
+        },
+        {
+          "letter": "B",
+          "text": "El texto es incorrecto porque utiliza cifras en lugar de ejemplos de estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras son evidencias válidas; el problema no está en el tipo de dato."
+        },
+        {
+          "letter": "C",
+          "text": "El texto es incompleto porque no incluye un título que anuncie su contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de un título no determina la solidez del razonamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene tesis, pero carece de argumento central: los datos aparecen sin la inferencia que los conecte con la conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. La ausencia del nexo lógico entre evidencia y tesis impide que la demostración se sostenga."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto argumentativo necesita tres elementos: tesis, argumento y evidencia. Si el texto ofrece tesis y evidencias pero no formula la inferencia que las vincula, el lector recibe información sin explicación. Esta es una falla frecuente en textos divulgativos y en publicaciones de redes sociales, y detectarla equivale a reconocer que se presentan hechos sin argumentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1, el autor critica el uso del celular en el aula. ¿Cuál es el análisis más preciso de la relación entre su tesis y su argumento central?",
+      "context": "En un colegio de Bogotá, estudiantes de noveno grado analizan cómo la tesis del Texto 1 se relaciona con su argumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis es que la pantalla no mejora la educación, y el argumento es que el trabajo en grupo desarrolla habilidades que ningún dispositivo puede reemplazar; la crítica al celular se sostiene en esa comparación.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis y el argumento se corresponden: el segundo justifica el primero y no se limita a repetirlo."
+        },
+        {
+          "letter": "B",
+          "text": "La tesis es que las aulas deben ser totalmente digitales, y el argumento es que la digitalización es irreversible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sostiene la postura contraria: cuestiona que la pantalla mejore la educación."
+        },
+        {
+          "letter": "C",
+          "text": "El texto no tiene tesis, porque se limita a describir el aumento del tiempo frente a la pantalla sin pronunciarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase «ese argumento no convince» y el desarrollo posterior muestran una postura explícita."
+        },
+        {
+          "letter": "D",
+          "text": "La tesis y el argumento son lo mismo, porque el autor repite su postura en cada párrafo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay repetición, el argumento introduce una razón nueva que la tesis por sí sola no contiene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar la relación entre tesis y argumento permite distinguir la repetición del razonamiento. Un texto que solo repite su postura no argumenta; uno que expone por qué su postura es correcta sí lo hace. La comparación entre el trabajo en grupo y el dispositivo es el núcleo lógico del Texto 1, y es lo que convierte una posición en una demostración.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v9",
+      "statement": "Un texto argumentativo employs construcciones como «por lo tanto», «en efecto» y «sin embargo». ¿Qué función cumplen esos conectores en la relación entre la tesis y el argumento?",
+      "context": "En un taller de lectura de noveno grado en Bogotá, los estudiantes examinan cómo las marcas del texto señalan la relación entre tesis y argumento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo cumplen una función decorativa, porque el sentido del texto se entiende sin ellos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores lógicos son parte de la estructura semántica: sin ellos la relación queda ambigua."
+        },
+        {
+          "letter": "B",
+          "text": "Indican que el texto es de carácter científico, porque ese tipo de palabras solo se usa en textos técnicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores lógicos son comunes en cualquier texto argumentativo, no solo en los técnicos."
+        },
+        {
+          "letter": "C",
+          "text": "Señalan explícitamente la relación lógica: causa, consecuencia o contraposición entre lo que se afirma y lo que se demuestra.",
+          "is_correct": true,
+          "feedback": "Correcto. Los conectores hacen visible la estructura del razonamiento y guían la reconstrucción del sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituyen a las evidencias, de modo que un texto con buenos conectores no necesita datos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores articulan el razonamiento, pero no reemplazan la evidencia que lo respalda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores lógicos hacen explícita la estructura del discurso argumentativo. «Por lo tanto» introduce una conclusión, «en efecto» anuncia la razón o la prueba, y «sin embargo» introduce una contraposición. Reconocerlos ayuda al lector a seguir el hilo del razonamiento y a detectar cuándo el autor cambia de plano, algo especialmente útil en textos largos con varios argumentos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v10",
+      "statement": "Un texto sostiene que el celular en el aula debe permitting siempre que el estudiante lo use para consultar fuentes. Otro texto afirma que el celular en el aula debe estar prohibido. ¿Qué conclusión se puede extraer correctamente?",
+      "context": "En noveno grado, en un colegio de Bogotá, se compara la tesis de un texto con la de otro sobre el mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos textos tienen la misma tesis, porque se ocupan del celular en el aula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tratar el tema como tesis confunde el asunto tratado con la postura sostenida."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos son equivalentes, porque en ambos casos se menciona el uso de fuentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo uno de los dos menciona las fuentes; el otro propone la prohibición completa."
+        },
+        {
+          "letter": "C",
+          "text": "No es posible comparar las tesis, porque los textos están escritos por autores diferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad del autor no impide la comparación; la tesis es una propiedad del texto."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos comparten tema, pero sus tesis son incompatibles porque sostienen una postura opuesta sobre la misma cuestión.",
+          "is_correct": true,
+          "feedback": "Correcto. La coincidencia temática no implica coincidencia de tesis; aquí las posturas se contradicen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Distinguir tema de tesis evita uno de los errores más frecuentes al comparar textos. El tema es la cuestión que se aborda; la tesis es la respuesta que el autor propone a esa cuestión. Dos textos pueden tratar el celular en el aula y sostener posturas opuestas, y esa oposición es precisamente lo que hace posible un análisis comparativo serio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v11",
+      "statement": "Un texto afirma que la seguridad en los colegios de Bogotá mejoró, porque según su autor «la ciudad es más segura que nunca». ¿Cuál es el juicio más preciso sobre la solidez de ese texto?",
+      "context": "Un grupo de docentes de Bogotá evalúa la solidez argumentativa de un texto sobre seguridad escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es sólido, porque la tesis es clara y cualquier lector puede aceptar «más segura que nunca» como una verdad evidente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que una tesis sea clara no la hace correcta: falta la evidencia que la respalde."
+        },
+        {
+          "letter": "B",
+          "text": "Es débil: enuncia una tesis sin evidencia que la sostenga, y el argumento central es una afirmación general que no puede verificarse.",
+          "is_correct": true,
+          "feedback": "Correcto. Una valoración absoluta sin datos ni razonamiento no constituye una demostración, por más segura que parezca la intención."
+        },
+        {
+          "letter": "C",
+          "text": "Es sólido, porque un texto breve comunica mejor su mensaje que uno extenso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no determina la solidez; lo decisivo es la relación entre tesis, argumento y evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Es débil únicamente por su extensión, porque un argumento necesita al menos cinco páginas para ser válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe un mínimo de páginas: existe la necesidad de una relación lógica verificable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la solidez de un texto argumentativo requiere verificar tres condiciones: tesis identificable, argumento pertinente y evidencia pertinente. Un texto que afirma «más segura que nunca» sin datos ni comparación viola las dos últimas, porque presenta una afirmación absoluta como si fuera una demostración. Reconocer esta falla es esencial para no aceptar como probadas las afirmaciones sweeping de quien solo expresa una impresión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle-v12",
+      "statement": "Un autor sostiene su tesis sobre el celular en el aula con el argumento de que la tecnología prepara para el mundo real. Una estudiante responde que ese argumento no se verifica, porque el texto no cita ningún estudio sobre las habilidades que desarrollan los estudiantes. ¿Cuál es la evaluación más sólida de la respuesta de la estudiante?",
+      "context": "En un colegio de Bogotá, un grupo de estudiantes de noveno grado debe evaluar dos versiones de un argumento sobre el uso del celular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pertinente, porque señala que el argumento es una afirmación sin respaldo, aunque podría seguir siendo verdadero; observación no es refutación.",
+          "is_correct": true,
+          "feedback": "Correcto. La estudiante detecta una carencia probatoria, que es un punto débil del texto, sin afirmar que la tesis sea falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque todo argumento necesita una cita académica para ser válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un argumento puede apoyarse en razones o ejemplos; la cita es solo una de las formas posibles de evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque el texto sí presenta la tesis de los defensores del celular y eso la respalda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar la postura contraria no es aportar evidencia: es atribuir una afirmación a otro autor."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque la ausencia de estudios demuestra que la tesis del autor es falsa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de evidencia debilita la demostración, pero no permite concluir que la tesis sea falsa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir entre solidez y verdad es una habilidad de lectura crítica de alto nivel. Un texto puede tener una tesis verdadera y, aun así, demostrarla mal; en ese caso la crítica correcta señala la carencia de respaldo, no la falsedad de la afirmación. La estudiante de este caso hace exactamente eso: identifica que el argumento es una afirmación sin pruebas y, por tanto, la demostración queda incompleta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
