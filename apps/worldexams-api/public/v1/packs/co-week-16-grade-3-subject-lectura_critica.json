@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-16-grade-3-subject-lectura_critica",
+    "generated_at": "2026-09-29T15:31:01.902Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 2, ¿qué es la coherencia en un texto?",
+      "context": "En clase de tercero en Bogotá, los niños repasan qué significa que un texto sea coherente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todas las partes del texto se conecten y hablen del mismo tema",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que un texto coherente es como un rompecabezas, donde todas las piezas encajan y cuentan sobre el mismo tema."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto tenga muchas palabras largas y difíciles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coherencia no depende del tamaño ni de la dificultad de las palabras, sino de que las ideas se conecten entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto tenga imágenes y colores en cada página",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las imágenes son un adorno visual; la coherencia es una relación entre las ideas que se escriben en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto cuente solamente sobre lugares de Colombia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede ser coherente hablando de cualquier lugar, siempre que sus ideas se conecten y se entiendan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La coherencia es la forma en que las partes de un texto se unen para formar un todo que se pueda seguir. Piensa en un rompecabezas: si una pieza no encaja, el dibujo queda incompleto. Lo mismo pasa con un texto: si las ideas no se conectan, el lector no puede entender el mensaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, la palabra \"Después\" muestra que una acción ocurre más tarde que otra. ¿Qué acción ocurre después de que la abuela compró las arepas y el jugo?",
+      "context": "Los estudiantes de tercero en Medellín revisan qué palabras usa el Texto 1 para unir sus ideas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bajar a la plaza de mercado con la abuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajar a la plaza ocurre al principio del relato, antes de la compra y antes de la panadería."
+        },
+        {
+          "letter": "B",
+          "text": "Pasar por la panadería y comer un pandebono",
+          "is_correct": true,
+          "feedback": "Correcto. En el texto dice \"Después pasaron por una panadería\", lo que muestra que la visita a la panadería es posterior a la compra."
+        },
+        {
+          "letter": "C",
+          "text": "Ver al señor que pintaba el letrero de la librería",
+          "is_correct": false,
+          "feedback": "Incorrecto. El señor que pinta el letrero aparece antes de la compra, no después de ella."
+        },
+        {
+          "letter": "D",
+          "text": "Llegar temprano a la plaza donde había toldos de colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llegar a la plaza es el primer hecho que se cuenta, de modo que no puede ser el que ocurre después de la compra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores como \"después\", \"antes\" y \"entonces\" ordenan los hechos dentro de un texto. Reconocerlos ayuda a los estudiantes a reconstruir la secuencia de lo que leyeron y a no mezclar los momentos de la historia. Practicar esta habilidad desde grado tercero prepara a los niños para entender y resumir textos más largos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v3",
+      "statement": "Un niño de tercero tiene cuatro tarjetas: \"Primero fue al mercado\", \"Luego compró frutas\", \"Después salió a la plaza\", \"Al final regresó a casa\". ¿Cuál es el orden que produce un texto coherente?",
+      "context": "Una tarea en Bucaramanga pide a los niños de tercero ordenar tarjetas y armar un texto coherente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al final regresó a casa, luego compró frutas, después salió a la plaza y primero fue al mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden está invertido por completo y hace que los conectores no correspondan con la secuencia real de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Después salió a la plaza, al final regresó a casa, primero fue al mercado y luego compró frutas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este orden empieza por el final de la historia, de modo que los conectores ya no coinciden con lo que ocurre."
+        },
+        {
+          "letter": "C",
+          "text": "Primero fue al mercado, luego compró frutas, después salió a la plaza y al final regresó a casa",
+          "is_correct": true,
+          "feedback": "Correcto. Este orden respeta la secuencia lógica de una tarde de compras, y por eso el lector puede seguir el relato sin esfuerzo."
+        },
+        {
+          "letter": "D",
+          "text": "Primero fue al mercado, después salió a la plaza, al final regresó a casa y luego compró frutas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colocar la compra de frutas después de haber regresado a casa rompe la secuencia lógica de los hechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Armar un texto coherente implica decidir qué va primero, qué va después y cómo se enlazan las partes. Cuando los estudiantes ordenan tarjetas, practican la secuencia lógica, que es la base para escribir sus propios relatos. Entender que un orden ilógico rompe la comprensión es un aprendizaje muy valioso a esta edad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v4",
+      "statement": "Un niño quiere unir estas dos oraciones de manera coherente: \"Camila plantó un árbol en la plaza\" y \"Lo regó con agua\". ¿Qué palabra conectora encaja mejor entre las dos oraciones?",
+      "context": "En un taller en Pereira, los niños de tercero eligen la palabra que mejor conecta dos ideas sobre su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por lo tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Por lo tanto\" expresa una relación de causa y efecto entre las ideas, no una secuencia de hechos."
+        },
+        {
+          "letter": "B",
+          "text": "A pesar de",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"A pesar de\" expresa una oposición entre dos ideas, y esa relación no corresponde entre plantar y regar."
+        },
+        {
+          "letter": "C",
+          "text": "Sin embargo",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sin embargo\" introduce una idea de contraste u oposición, pero aquí los dos hechos simplemente se siguen en el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Después",
+          "is_correct": true,
+          "feedback": "Correcto. \"Después\" indica que el riego ocurrió luego de la plantación, lo cual respeta el orden lógico de los hechos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las palabras conectoras dan sentido a la relación que existe entre las ideas de un texto. Saber si dos hechos ocurren uno después del otro, si se contradicen o si uno causa al otro permite elegir la palabra correcta. Dominar esta diferencia entre secuencia, contraste y causa es una herramienta esencial para escribir con claridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v5",
+      "statement": "Camila leyó un texto largo sobre las aves de los manglares de Barranquilla. Ahora debe escribir una versión corta para leerle a su hermano menor, que tiene seis años. ¿Qué debe hacer Camila para que su texto resulte coherente para ese lector?",
+      "context": "En un colegio de Cartagena, la profesora pide adaptar un texto para leerle a un hermano menor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mezclar varios temas sobre aves, peces y el clima para que el texto tenga más información",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezclar temas sin relación rompe la coherencia, porque el lector pequeño no puede identificar cuál es el tema central."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir las ideas en el orden en que le gusten, sin importar si tienen relación entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un orden personal sin relación entre las ideas produce un texto incoherente, sin importar qué tan interesante sea para quien lo escribe."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener un solo tema, ordenar las ideas de lo más sencillo a lo más complicado y usar palabras fáciles de entender",
+          "is_correct": true,
+          "feedback": "Correcto. Un texto coherente para niños pequeños necesita un tema claro, un orden entendible y palabras adequadas a la edad de quien lee."
+        },
+        {
+          "letter": "D",
+          "text": "Añadir muchos datos técnicos sobre los nombres científicos de las aves para hacer el texto más completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregar información técnica sin necesidad no ayuda a un niño de seis años y vuelve el texto más confuso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia depende de para quién y para qué se escribe un texto. Un lector pequeño necesita un tema claro, ideas ordenadas y palabras que pueda comprender. Enseñar a los estudiantes a cuidar estos tres elementos desde temprano desarrolla la empatía y la claridad al escribir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v6",
+      "statement": "Un texto de un periódico de Valledupar empieza hablando de un partido de fútbol, luego salta a una receta de sopa y termina contando unas vacaciones en el Caribe. ¿Cuál es el problema principal de este texto?",
+      "context": "En el aula de Santa Marta, los niños de tercero analizan por qué un texto del periódico local no se entiende.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto no es coherente porque sus partes hablan de temas distintos que no se conectan entre sí",
+          "is_correct": true,
+          "feedback": "Correcto. Al cambiar de tema sin relacionar las ideas, el texto pierde su hilo conductor y el lector ya no puede seguirlo."
+        },
+        {
+          "letter": "B",
+          "text": "El texto no tiene problema porque menciona lugares del Caribe, y eso siempre resulta interesante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar lugares conocidos no garantiza coherencia; lo esencial es que las ideas se conecten entre sí."
+        },
+        {
+          "letter": "C",
+          "text": "El problema es que el texto usa palabras que los niños de tercero no conocen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque pueda haber vocabulario desconocido, el problema central es la falta de relación entre las ideas del texto."
+        },
+        {
+          "letter": "D",
+          "text": "El problema es que el texto es muy corto para lo que quiere contar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión no es el problema, porque lo que falla es que las ideas no tienen relación entre sí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar por qué un texto resulta incoherente es una habilidad de lectura crítica que conviene desarrollar desde temprana edad. Los estudiantes aprenden que un texto puede tener datos interesantes y, aun así, ser difícil de seguir. Reconocer el hilo conductor de una lectura es la base para detectar problemas en cualquier texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v7",
+      "statement": "Tres niños de Cúcuta escribieron versiones de un texto sobre el mercado. La versión A cuenta la llegada al mercado, luego la compra de frutas y después el regreso a casa. La versión B empieza por el regreso a casa, luego cuenta la llegada y termina con la compra. La versión C menciona la llegada, salta a una historia sobre el mar y vuelve a la compra. ¿Cuál versión es la más coherente y por qué?",
+      "context": "En Cúcuta, un grupo de estudiantes de tercero debate cuál versión de un texto es la más coherente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión B, porque empieza por el final de la historia, lo que la hace más interesante para el lector",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empezar por el final rompe la secuencia lógica, y que sea interesante no compensa la falta de orden entre las partes."
+        },
+        {
+          "letter": "B",
+          "text": "La versión C, porque menciona el mar y de ese modo agrega información nueva y valiosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluir información sobre otro tema no mejora la coherencia; al contrario, rompe la unidad temática del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Las tres versiones son coherentes porque las tres mencionan el mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar el mismo lugar no garantiza coherencia; lo esencial es que las ideas estén ordenadas y relacionadas."
+        },
+        {
+          "letter": "D",
+          "text": "La versión A, porque respeta el orden natural de los hechos y todas sus partes se conectan",
+          "is_correct": true,
+          "feedback": "Correcto. La versión A mantiene una secuencia lógica y un solo tema, por lo que el lector puede seguir la historia sin perderse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar cuál versión de un texto es la más coherente enseña a los estudiantes a usar criterios y no solamente opiniones. El orden, el tema único y la conexión entre las partes son criterios claros que cualquier lector puede aplicar. Esta práctica los prepara para revisar sus propios trabajos y los de sus compañeros de manera constructiva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle-v8",
+      "statement": "Un compañero escribió un texto donde cada oración habla de algo diferente: una de fútbol, otra de una arepa, otra de un libro y otra de un autobús. Al leerlo, los demás niños no pueden decir de qué trata. ¿Qué nos enseña este ejemplo sobre la coherencia?",
+      "context": "En un proyecto de lectura en Manizales, los niños de tercero infieren qué efecto tiene un texto mal armado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos los textos largos deben tener varios temas para ser buenos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede ser excelente con un solo tema bien desarrollado, y la coherencia no depende de tener muchos temas."
+        },
+        {
+          "letter": "B",
+          "text": "Que sin coherencia el lector no puede saber de qué trata el texto",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando las ideas no se conectan, el lector no identifica el tema central y se queda sin un mensaje claro."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto resulta interesante porque la variedad de temas lo hace más entretenido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La variedad de temas sin relación no hace el texto interesante, lo vuelve confuso e imposible de seguir."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto necesita más páginas para que los lectores puedan entenderlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agregar más páginas no resuelve el problema de fondo, porque lo que falta es conexión entre las ideas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir el efecto de la falta de coherencia ayuda a los estudiantes a comprender por qué esta propiedad es tan importante para la lectura. Cuando un lector no puede decir de qué trata un texto, es porque sus ideas no forman un conjunto. Reconocerlo ayuda a los niños a valorar la estructura correcta al leer y al escribir.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
