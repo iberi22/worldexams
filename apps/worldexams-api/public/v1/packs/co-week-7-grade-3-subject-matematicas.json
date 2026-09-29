@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-3-subject-matematicas",
+    "generated_at": "2026-09-29T20:11:28.540Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v1",
+      "statement": "Una cinta métrica tiene 100 marcas de un centímetro. ¿Cuántos centímetros tiene un metro?",
+      "context": "En el patio de una escuela de Neiva, la profesora mide la pista de carreras con una cinta métrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 cm",
+          "is_correct": true,
+          "feedback": "Correcto. El metro es la unidad de longitud y equivale exactamente a 100 centímetros."
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 cm es un decímetro, que es la décima parte de un metro."
+        },
+        {
+          "letter": "C",
+          "text": "1.000 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1.000 cm corresponden a un kilómetro, que es mil veces más grande que un metro."
+        },
+        {
+          "letter": "D",
+          "text": "50 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 cm equivalen a medio metro, es decir la mitad de un metro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para pasar de metros a centímetros multiplicamos por 100, y así 1 metro = 100 centímetros. Otra forma de verlo es con la cinta métrica: si la cinta tiene 100 marcas de un centímetro, desde la marca 0 hasta la marca 100 hay exactamente un metro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v2",
+      "statement": "Un bus sale a las 4:30 de la tarde y su viaje dura 25 minutos. ¿A qué hora llega a su destino?",
+      "context": "En una parada de bus de Soacha, el conductor anota en un cuaderno la hora a la que llega cada vehículo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4:05 de la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los 25 minutos en vez de sumarlos, y el viaje avanza hacia adelante en el reloj."
+        },
+        {
+          "letter": "B",
+          "text": "5:55 de la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 85 minutos en lugar de 25, es decir una hora completa de más."
+        },
+        {
+          "letter": "C",
+          "text": "4:55 de la tarde",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar 25 minutos a las 4:30 se obtienen las 4:55 de la tarde."
+        },
+        {
+          "letter": "D",
+          "text": "4:55 de la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de la hora está bien, pero si el bus salió a las 4:30 de la tarde llega a las 4:55 de la tarde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para sumar minutos primero sumamos las unidades: 30 + 25 = 55. Como 55 es menor que 60, no hay que pasar una hora completa, así que la hora se queda en 4 y el resultado es 4:55 de la tarde. Cuando los minutos llegan a 60 o más, ahí sí hay que sumar una hora y restar 60 a los minutos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v3",
+      "statement": "Una tabla de 1 metro se corta en segmentos de 25 cm. ¿Cuántos segmentos de 25 cm salen de la tabla?",
+      "context": "En una ferretería de Cúcuta, el señor Omar corta una tabla de 1 metro en segmentos iguales de 25 cm para hacer un soporte de escritorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 segmentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 x 3 = 75 cm, así que quedarían 25 cm de tabla sin usar."
+        },
+        {
+          "letter": "B",
+          "text": "4 segmentos",
+          "is_correct": true,
+          "feedback": "Correcto. 1 metro son 100 cm y al dividir entre 25 queda 4 segmentos, porque 25 x 4 = 100."
+        },
+        {
+          "letter": "C",
+          "text": "5 segmentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 x 5 = 125 cm, que es más largo que el metro completo de la tabla."
+        },
+        {
+          "letter": "D",
+          "text": "2 segmentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 x 2 = 50 cm, así que usarías solamente la mitad de la tabla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para resolverlo primero convertimos el metro a centímetros, porque los segmentos están medidos en centímetros: 1 metro = 100 cm. Luego dividimos 100 entre 25 y obtenemos 4. Podemos comprobarlo multiplicando: 25 x 4 = 100 cm, que es exactamente la longitud de la tabla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v4",
+      "statement": "El pastor Carlos camina 3 kilómetros en 1 hora. Si camina 4 horas por el camino, ¿cuántos kilómetros recorre en total?",
+      "context": "En una finca de Boyacá, el pastor Carlos camina 3 kilómetros cada hora por el camino que une dos veredas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3 + 4 = 7, pero las distancias repetidas no se suman, se multiplican."
+        },
+        {
+          "letter": "B",
+          "text": "34 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pegaste los números formando 34, y aquí la operación correcta es la multiplicación."
+        },
+        {
+          "letter": "C",
+          "text": "3 kilómetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo tomaste la distancia de una hora y te faltaron las otras 3 horas."
+        },
+        {
+          "letter": "D",
+          "text": "12 kilómetros",
+          "is_correct": true,
+          "feedback": "Correcto. Multiplica 3 kilómetros por 4 horas y obtienes 12 kilómetros recorridos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando la distancia recorrida es la misma en cada hora, la distancia total se obtiene multiplicando distancia por tiempo: 3 km x 4 horas = 12 km. Podemos pensarlo como una tabla: en la hora 1 hay 3 km, en la hora 2 hay otros 3 km, y así hasta la hora 4, sumando 12 kilómetros en total.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v5",
+      "statement": "El arroz de 5 kg cuesta 21.500 pesos en la marca A y 20.100 pesos en la marca B. ¿Cuántos pesos más cuesta el de la marca A que el de la marca B?",
+      "context": "En una tienda de barrio de Montería, un señor compara dos ofertas de arroz de 5 kg a distintos precios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "41.600 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los dos precios, pero para comparar precios hay que restar."
+        },
+        {
+          "letter": "B",
+          "text": "200 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La resta de 21.500 menos 20.100 no da 200, así que el cálculo está mal hecho."
+        },
+        {
+          "letter": "C",
+          "text": "21.500 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo el precio de la marca A y te faltó restar el precio de la marca B."
+        },
+        {
+          "letter": "D",
+          "text": "1.400 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia se obtiene restando: 21.500 - 20.100 = 1.400 pesos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para saber cuánto más cuesta un producto que otro, restamos el precio del más barato al precio del más caro: 21.500 - 20.100 = 1.400 pesos. Podemos comprobarlo sumando otra vez: 20.100 + 1.400 = 21.500, entonces la diferencia que calculamos es correcta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v6",
+      "statement": "Cuatro niños miden su estatura y obtienen estos resultados: 1,20 m, 1,35 m, 1,05 m y 1,30 m. ¿Cuál es la diferencia entre el niño más alto y el niño más bajo?",
+      "context": "En la clase de educación física de Florencia, en Caquetá, los niños miden su estatura con una cinta métrica pegada a la pared.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,15 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 1,35 menos 1,20, que es la diferencia entre dos niños, no entre el más alto y el más bajo."
+        },
+        {
+          "letter": "B",
+          "text": "0,30 m",
+          "is_correct": true,
+          "feedback": "Correcto. El más alto mide 1,35 m y el más bajo 1,05 m, entonces 1,35 - 1,05 = 0,30 m."
+        },
+        {
+          "letter": "C",
+          "text": "2,65 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste todas las estaturas, cuando lo que se pide es una diferencia entre la mayor y la menor."
+        },
+        {
+          "letter": "D",
+          "text": "0,45 m",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cálculo no corresponde, porque el niño más bajo de la lista mide 1,05 m."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar la diferencia entre la mayor y la menor medida primero identificamos los extremos: la mayor estatura es 1,35 m y la menor es 1,05 m. Luego restamos: 1,35 - 1,05 = 0,30 m, es decir 30 centímetros. Un paso importante para comparar es ordenar primero los datos de menor a mayor.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v7",
+      "statement": "En una carrera de 100 metros, el primer lugar tardó 12 segundos y el segundo lugar tardó 14 segundos. ¿Cuántos segundos de diferencia hubo entre el primer y el segundo lugar?",
+      "context": "En un evento deportivo escolar de Rionegro, se cronometra una carrera de 100 metros en la que participan muchos niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 segundos",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia entre los dos primeros lugares es 14 - 12 = 2 segundos."
+        },
+        {
+          "letter": "B",
+          "text": "26 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los dos tiempos, cuando lo que se necesita es la diferencia entre ellos."
+        },
+        {
+          "letter": "C",
+          "text": "1 segundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entre 12 y 14 hay 2 unidades de diferencia, no una sola."
+        },
+        {
+          "letter": "D",
+          "text": "12 segundos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo el tiempo del ganador y te faltó restar el tiempo del segundo lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando dos participantes llegan en momentos distintos, la diferencia entre ellos se obtiene restando el tiempo mayor menos el tiempo menor: 14 - 12 = 2 segundos. Hay que tener en cuenta que el mejor resultado es el que tarda menos tiempo, por eso se resta en ese orden.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle-v8",
+      "statement": "Un niño pesaba 24,5 kg en su primera consulta. En la consulta de un año después pesaba 26,5 kg. ¿Cuántos kilogramos ganó el niño en ese año?",
+      "context": "En el centro de salud de Duitama, la enfermera pesa a un niño en una báscula que marca 24,5 kg.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 kilogramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 5 corresponde a la diferencia entre las partes enteras de los números, no a la diferencia completa."
+        },
+        {
+          "letter": "B",
+          "text": "51 kilogramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 24,5 + 26,5 = 51, cuando lo que se pregunta es cuánto ganó y no el total."
+        },
+        {
+          "letter": "C",
+          "text": "2 kilogramos",
+          "is_correct": true,
+          "feedback": "Correcto. Al restar 26,5 menos 24,5 el resultado es 2, que son los kilogramos que ganó."
+        },
+        {
+          "letter": "D",
+          "text": "1,5 kilogramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia entre 24,5 y 26,5 no es 1,5, porque las partes decimales son iguales y se anulan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los decimales se pueden restar por partes: primero restamos las unidades enteras, 26 - 24 = 2, y como las partes decimales son iguales, 0,5 y 0,5, se anulan entre sí. El resultado es 2 kilogramos. Podemos comprobarlo sumando: 24,5 + 2 = 26,5.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
