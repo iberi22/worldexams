@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-31-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T01:41:32.172Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa la parodia en lectura crítica?",
+      "context": "En el taller de lectura de Duitama, un estudiante busca en el diccionario la palabra parodia antes de explicar un texto de la obra de teatro del curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La copia fiel de un texto original, sin modificar ninguna de sus palabras.",
+          "is_correct": false,
+          "feedback": "La parodia no es copia: es una imitación que desvía y transforma el original."
+        },
+        {
+          "letter": "B",
+          "text": "La imitación de un texto o de un estilo que invierte su sentido para provocar una reacción.",
+          "is_correct": true,
+          "feedback": "Esa definición reúne los dos rasgos esenciales: imitar y alterar el sentido del modelo."
+        },
+        {
+          "letter": "C",
+          "text": "El resumen de una historia contada con la menor cantidad posible de palabras.",
+          "is_correct": false,
+          "feedback": "Resumir no imita a nadie: la parodia parte siempre de un texto al que responde."
+        },
+        {
+          "letter": "D",
+          "text": "La traducción de una obra escrita en otra lengua al español.",
+          "is_correct": false,
+          "feedback": "Traducir es una tarea de lengua distinta que no altera el sentido del original."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La parodia se define por dos operaciones simultáneas: imitar un texto o un estilo reconocible y desviar su contenido para provocar una reacción, casi siempre la risa o la crítica. Entender que la risa cumple una función argumentativa permite leer estos textos como documentos sobre la sociedad que los produce, y no solo como un pasatiempo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v2",
+      "statement": "El crítico pone en boca de un árbitro frases que imitan el tono de un programa de televisión para mostrar lo absurdo de sus decisiones. ¿Qué procedimiento de la parodia aparece en ese fragmento?",
+      "context": "En una clase de Medellín, la profesora lee en voz alta un fragmento de una columna política de un periódico local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El traslado del tono del programa a una situación absurda, que invierte el sentido original.",
+          "is_correct": true,
+          "feedback": "Llevar un tono ligero a un asunto grave produce la inversión que caracteriza la parodia."
+        },
+        {
+          "letter": "B",
+          "text": "La copia exacta, palabra por palabra, de las frases del programa de televisión.",
+          "is_correct": false,
+          "feedback": "Si fuera copia exacta no habría inversión: la parodia necesita modificar el modelo."
+        },
+        {
+          "letter": "C",
+          "text": "La sustitución de los diálogos por una narración breve en tercera persona.",
+          "is_correct": false,
+          "feedback": "El fragmento conserva el estilo del programa: no cambia de modo narrativo, cambia de contexto."
+        },
+        {
+          "letter": "D",
+          "text": "La adición de datos estadísticos sobre el fútbol profesional colombiano.",
+          "is_correct": false,
+          "feedback": "No hay cifras en el fragmento: la fuerza del efecto está en el cambio de tono."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La parodia no necesita copiar, sino reconocer un estilo y llevarlo a un contexto donde su sentido se invierte. En el fragmento, el tono ligero del programa aplicado a una decisión absurda genera la reacción buscada. Identificar qué se conserva y qué se cambia es el primer paso del análisis de un texto paródico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v3",
+      "statement": "El cartel dice: \"Receta para no enfermar: tome dos litros de agua al día y no deposite basura en el río\". ¿Qué efecto busca esa campaña?",
+      "context": "En Cartagena, una administración municipal lanza una campaña de protección del río con un cartel que imita una receta de cocina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar la receta completa con todos sus ingredientes y sus cantidades.",
+          "is_correct": false,
+          "feedback": "La receta es el recurso paródico y no el objetivo: nadie va a cocinar esa lista."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir los datos oficiales que el municipio tiene sobre la contaminación del río.",
+          "is_correct": false,
+          "feedback": "Ninguna fuente fue reemplazada: la campaña solo cambia el modo de entregar el mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "Lograr que el mensaje sobre el agua y el río se recuerde mejor por su tono cercano y divertido.",
+          "is_correct": true,
+          "feedback": "El tono cotidiano hace memorable una recomendación que un aviso formal no lograría."
+        },
+        {
+          "letter": "D",
+          "text": "Mostrar que la oficina de comunicación municipal contrató a un cocinero.",
+          "is_correct": false,
+          "feedback": "Inferir quién escribió el texto no es una lectura del propósito comunicativo del cartel."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El propósito comunicativo se deduce del efecto que la forma produce en el destinatario. Un tono de receta acerca el mensaje y lo vuelve recordable, que es lo que necesita una campaña de protección ambiental. Reconocer el efecto esperado permite evaluar después si el recurso paródico cumplió la función que se le asignó.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v4",
+      "statement": "El aviso original dice: \"Por resolución 014 se prohíbe el ingreso de animales al parque municipal\". ¿Cuál reformulación convierte ese aviso en una parodia?",
+      "context": "En una clase de Bucaramanga, un estudiante debe construir un ejercicio de escritura paródica a partir de un aviso del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los dueños de animales deben pagar una tarifa adicional por cada mascota que ingrese\".",
+          "is_correct": false,
+          "feedback": "La opción agrega una obligación nueva: es una reforma del aviso y no una imitación desviada."
+        },
+        {
+          "letter": "B",
+          "text": "\"El parque municipal cuenta con tres canchas, dos bancas y un punto de agua potable\".",
+          "is_correct": false,
+          "feedback": "La descripción de instalaciones no guarda relación con el tono reglamentario que se parodia."
+        },
+        {
+          "letter": "C",
+          "text": "\"El parque municipal cierra a las seis de la tarde y abre de nuevo a las siete en punto\".",
+          "is_correct": false,
+          "feedback": "Esa frase solo informa un horario: no invierte el tono ni desvía el sentido del original."
+        },
+        {
+          "letter": "D",
+          "text": "\"Por resolución 014 se prohíbe el ingreso de las margaritas al parque, y se sanciona a quien las corte sin permiso.\"",
+          "is_correct": true,
+          "feedback": "El lenguaje burocrático aplicado a un asunto trivial produce la inversión paródica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La parodia conserva la estructura formal del original y cambia el contenido por algo desproporcionado. Al llevar el tono reglamentario a las margaritas aparece el absurdo que revela lo exagerado del tono mismo. Ese procedimiento se aplica a instrucciones, contratos y discursos, y enseña a leer los formatos rígidos con distancia crítica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v5",
+      "statement": "El programa hace que un personaje imite la manera de hablar de un presentador de noticias para señalar sus exageraciones. ¿Cuál es la función principal de esa imitación?",
+      "context": "En Quibdó, un grupo de séptimo grado analiza un programa de televisión que incluye un personaje humorístico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar sin crítica la información que entrega el noticiero a la audiencia.",
+          "is_correct": false,
+          "feedback": "El recurso no valida el noticiero: la imitación sirve justamente para ponerlo en ridículo."
+        },
+        {
+          "letter": "B",
+          "text": "Mostrar por contraste de estilos el exceso del discurso que se está parodiando.",
+          "is_correct": true,
+          "feedback": "El choque entre el tono ejecutado y el tono real es lo que vuelve visible la exageración."
+        },
+        {
+          "letter": "C",
+          "text": "Convertir al presentador de noticias en el protagonista de la historia narrada.",
+          "is_correct": false,
+          "feedback": "El presentador es objeto de la burla y no héroe: esa confusión cambia el sentido del recurso."
+        },
+        {
+          "letter": "D",
+          "text": "Explicar al público cómo se organiza internamente un noticiero de televisión.",
+          "is_correct": false,
+          "feedback": "El objetivo no es explicar el medio de comunicación: es señalar un exceso en el discurso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando un personaje imita un estilo conocido, el efecto surge de la distancia entre la imitación y el original. Esa distancia vuelve audible lo que en el discurso real pasaba inadvertido, en este caso la exageración del tono informativo. Reconocer el contraste estilístico permite distinguir una parodia crítica de una simple payasa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v6",
+      "statement": "La parodia cambia la letra de la canción y conserva la melodía original. ¿Qué efecto produce esa estrategia?",
+      "context": "En un proyecto de lectura de Popayán, dos estudiantes comparan una canción muy conocida en el colegio con la versión paródica que circula por internet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir confrontar lo que la canción original afirmaba con lo que la parodia termina diciendo.",
+          "is_correct": true,
+          "feedback": "Conocer la versión original activa la comparación y hace visible el desvío de significado."
+        },
+        {
+          "letter": "B",
+          "text": "Crear una obra musical nueva, porque el cambio de letra la vuelve completamente distinta.",
+          "is_correct": false,
+          "feedback": "Si fuera una obra nueva no habría relación con el original: aquí el efecto depende del vínculo."
+        },
+        {
+          "letter": "C",
+          "text": "Obligar al público a aprender a tocar un instrumento distinto para poder entenderla.",
+          "is_correct": false,
+          "feedback": "Conservar la melodía evita precisamente esa exigencia: el efecto no es musical sino de sentido."
+        },
+        {
+          "letter": "D",
+          "text": "Reducir la importancia de la melodía hasta volverla irrelevante durante la escucha.",
+          "is_correct": false,
+          "feedback": "La melodía es el ancla que reconoce la audiencia: no pierde relevancia, la presta al texto nuevo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La parodia musical funciona por contraste con un original que el público ya reconoce. Al conservar la melodía, la versión paródica obliga a comparar dos contenidos que se contradicen dentro de un mismo marco. Analizar esa relación es un ejercicio de lectura intertextual, porque el sentido de la versión nueva solo existe en diálogo con la anterior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v7",
+      "statement": "En el chiste, alguien dice: \"Ya llegaron los de la empresa de luz\" y el interlocutor responde: \"¿Y eso es malo?\". ¿Qué recurso permite que la respuesta tenga dos lecturas?",
+      "context": "En una clase de Bogotá, la profesora analiza un chiste breve que circula entre los estudiantes del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exageración numérica, porque aumenta la cantidad de personas que llegan.",
+          "is_correct": false,
+          "feedback": "No hay cifras en el chiste: el efecto depende del sentido y no de la cantidad."
+        },
+        {
+          "letter": "B",
+          "text": "La personificación, porque la empresa recibe acciones propias de una persona.",
+          "is_correct": false,
+          "feedback": "No hay acción antropomórfica: la ambigüedad viene del vocabulario y no de las acciones."
+        },
+        {
+          "letter": "C",
+          "text": "La polisemia, porque la expresión admite más de un significado dentro de la situación.",
+          "is_correct": true,
+          "feedback": "La doble lectura se apoya en una palabra que significa cosas distintas según el contexto."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de fecha, porque sin fecha ninguna frase puede tener dos significados.",
+          "is_correct": false,
+          "feedback": "La fecha no interviene en el chiste: la ambigüedad es interna a la frase y está en las palabras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El doble sentido se construye con una palabra que el contexto permite leer de dos maneras, y es la base de buena parte del humor verbal. Reconocer la polisemia evita explicar el chiste como un absurdo sin lógica. Analizar qué palabra se usa en dos sentidos es un procedimiento que sirve también para entender por qué un mismo enunciado provoca reacciones opuestas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v8",
+      "statement": "Un chiste construye una oración muy larga para terminar con una frase de apenas dos palabras. ¿Qué efecto produce esa alargación?",
+      "context": "En un aula de Valledupar, la profesora pide comparar la longitud de las oraciones de dos chistes sobre el tráfico de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elimina el humor, porque al alargarse la frase pierde el remate final.",
+          "is_correct": false,
+          "feedback": "El remate es justamente el chiste: la longitud lo prepara en lugar de destruirlo."
+        },
+        {
+          "letter": "B",
+          "text": "Retrasa el remate y refuerza el efecto sorpresa en el momento en que llega.",
+          "is_correct": true,
+          "feedback": "La espera acumulada aumenta la expectativa y hace más fuerte el golpe final del remate."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte el chiste en una definición de diccionario del término tratado.",
+          "is_correct": false,
+          "feedback": "Nada se define en el chiste: la estructura larga sostiene la gracia y no una acepción."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el número de ideas hasta dejar una sola, sin relación con el remate.",
+          "is_correct": false,
+          "feedback": "La reducción a dos palabras no elimina el contenido: condensa el remate que cierra la construcción."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oración larga funciona como demora deliberada: acumula palabras para que la frase final tenga mayor peso. Ese retraso de la risa es un recurso de la sintaxis, porque depende de cómo se organiza el enunciado y no solo de lo que se dice. Medir y comparar la longitud de las oraciones es un ejercicio que refuerza la lectura crítica del humor escrito.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el juicio más responsable sobre esa propuesta?",
+      "context": "En un proyecto de lectura en Cartagena, un grupo prepara una presentación escolar sobre humor comunitario y propone una parodia dirigida a un compañero de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida, porque en el humor todo está permitido mientras resulte divertido.",
+          "is_correct": false,
+          "feedback": "El humor no exime de responsabilidad: la risa no elimina el daño que la burla causa."
+        },
+        {
+          "letter": "B",
+          "text": "Es inválida, porque la parodia no puede usarse nunca dentro del colegio.",
+          "is_correct": false,
+          "feedback": "La prohibición absoluta también falla: la parodia es un recurso legítimo de lectura crítica."
+        },
+        {
+          "letter": "C",
+          "text": "Es inválida, porque señalar a una persona concreta siempre constituye violencia verbal.",
+          "is_correct": false,
+          "feedback": "Confundir crítica con agresión descarta recursos válidos y no da criterio para separarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Es válida solo si la gracia no depende de atacar la identidad o la dignidad de una persona real.",
+          "is_correct": true,
+          "feedback": "El criterio está en el blanco del ataque: se puede hacer humor sin humillar a nadie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar una parodia exige distinguir la risa que cuestiona una conducta o un estilo de la risa que se apoya en la dignidad de alguien. El primer caso es crítica y el segundo es agresión. Aplicar ese criterio con claridad permite que un grupo use el humor con responsabilidad y que el profesor evalúe la propuesta con fundamento, sin arbitrariedad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio permite valorar con equilibrio esa parodia?",
+      "context": "En una feria escolar de Sincelejo, un grupo representa una parodia sobre el transporte público y varios vecinos se quejan por su tono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar cuántos vecinos se quejaron, porque esa cifra demuestra su éxito o su fracaso.",
+          "is_correct": false,
+          "feedback": "La reacción es un dato y no un criterio: mide el impacto, pero no la calidad del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Decidir según la opinión de los profesores, porque su autoridad resuelve la discusión.",
+          "is_correct": false,
+          "feedback": "La autoridad del docente orienta el trabajo, pero el texto debe justificarse por sí mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Comprobar si la parodia expone un problema real, se apoya en datos y no ataca a una persona concreta.",
+          "is_correct": true,
+          "feedback": "Reúne las tres condiciones: problema verificable, respaldo y respeto por las personas."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar si la parodia estaba escrita en rima, porque la forma poética mejora el mensaje.",
+          "is_correct": false,
+          "feedback": "La rima es un recurso formal y no garantiza ni la verdad ni el respeto del mensaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un juicio equilibrado sobre un texto humorístico combina tres pruebas: que el problema señalado exista, que el texto no lo invente y que el objetivo no sea humillar a alguien. Con esos tres elementos la crítica pierde su carácter gratuito. El procedimiento sirve tanto para una parodia escolar como para una caricatura política de un medio de comunicación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W31-la-parodia-y-el-humor-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
