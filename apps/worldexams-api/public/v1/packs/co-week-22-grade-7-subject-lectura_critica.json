@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-22-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T00:09:13.264Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v1",
+      "statement": "¿Qué afirma la estructura llamada pirámide invertida?",
+      "context": "En la clase de lectura crítica de Bogotá, la profesora explica la estructura de la prensa escrita antes de que los estudiantes lean la primera página del periódico escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto empieza por lo menos importante y termina con la conclusión más relevante.",
+          "is_correct": false,
+          "feedback": "La pirámide invertida empieza por lo más importante, no por lo menos importante."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto separa las opiniones del periodista de los hechos verificados.",
+          "is_correct": false,
+          "feedback": "Esa es una norma de objetividad, distinta de la organización interna del texto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto ordena la información siguiendo la línea del tiempo, de lo antiguo a lo reciente.",
+          "is_correct": false,
+          "feedback": "La estructura organiza por grado de importancia, no por fechas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto presenta primero el hecho central y después los detalles menos urgentes.",
+          "is_correct": true,
+          "feedback": "El principio se llama pirámide invertida porque lo más relevante ocupa la parte superior."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La pirámide invertida es el orden con el que la prensa organiza la noticia: el hecho más importante y el lead aparecen en las primeras líneas, y hacia el final se incorporan los datos complementarios, como nombres, cifras o antecedentes. Este orden permite que el lector se informe rápidamente e impide que un dato relevante quede escondido, porque todo lo importante queda arriba.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v2",
+      "statement": "¿Qué diferencia funcional existe entre esos dos titulares?",
+      "context": "En el taller de medios del colegio de Medellín, los estudiantes analizan dos versiones del mismo hecho: \"Obreros reparan el puente\" y \"Gobierno invierte 3.200 millones en reparar el puente del río\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero informa de manera neutral; el segundo añade el dato económico que explica la importancia del hecho.",
+          "is_correct": true,
+          "feedback": "El segundo titular incorpora un elemento noticioso, la inversión, que el primero omite."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos son neutrales, porque los dos usan adjetivos valorativos.",
+          "is_correct": false,
+          "feedback": "El segundo no es neutral, pero su carga informativa es lo que lo diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "El primero es una opinión y el segundo es un dato, porque el segundo trae una cifra.",
+          "is_correct": false,
+          "feedback": "Ninguno de los dos es opinión: la diferencia está en la cantidad de información."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos son idénticos, porque expresan el mismo hecho de la misma manera.",
+          "is_correct": false,
+          "feedback": "Aportar la cifra cambia el titular de manera relevante para el lector."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un titular bien construido debe informar sin adjetivos valorativos y, al mismo tiempo, señalar qué es importante del hecho. Cuanto más concreto es el titular, mejor cumple su función de anticipar la noticia y de permitir que el lector decida si le interesa o no leerla.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v3",
+      "statement": "Si lee la noticia completa y nota que el párrafo inicial ya responde qué pasó, dónde y cuándo, ¿qué elemento está leyendo?",
+      "context": "En la biblioteca de Barranquilla, un alumno lee una noticia que empieza así: \"La Sequía reduce el caudal del río Magdalena durante agosto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lead o entradilla, que resume el hecho principal en las primeras líneas.",
+          "is_correct": true,
+          "feedback": "El lead o entradilla concentrates el lo esencial de la noticia al comienzo."
+        },
+        {
+          "letter": "B",
+          "text": "El subtítulo, que va justo debajo del titular.",
+          "is_correct": false,
+          "feedback": "El subtítulo complementa el titular; no es el primer párrafo del cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "El cierre, que retoma el hecho para terminar la nota.",
+          "is_correct": false,
+          "feedback": "El cierre aparece al final y amplía; no responde de entrada lo esencial."
+        },
+        {
+          "letter": "D",
+          "text": "La fuente citada, que identifica a quien entregó la información.",
+          "is_correct": false,
+          "feedback": "La fuente citada identifica al informante, no la función del primer párrafo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lead o entradilla es el primer párrafo de la noticia y cumple la función de responder las preguntas básicas: qué ocurrió, dónde, cuándo y a quién afecta. Gracias a la pirámide invertida, un lector con poco tiempo puede detenerse después de este párrafo y quedarse razonablemente informado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v4",
+      "statement": "Una noticia escribe: \"Según la vocera de la alcaldía, el programa de bibliotecas llegó a 145 mil niños\". ¿Qué función cumple \"según la vocera de la alcaldía\"?",
+      "context": "En clase de Cali, los estudiantes revisan cómo se presentan las personas en las noticias de su departamento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Señala que el dato es una opinión personal de la periodista sobre el programa.",
+          "is_correct": false,
+          "feedback": "Atribuir a una fuente no convierte el dato en opinión: cambia su procedencia."
+        },
+        {
+          "letter": "B",
+          "text": "Identifica la fuente citada, es decir, de dónde proviene la información.",
+          "is_correct": true,
+          "feedback": "La atribución permite saber quién dice y, con ello, valorar el dato."
+        },
+        {
+          "letter": "C",
+          "text": "Introduce un adjetivo valorativo que orienta la lectura del lector.",
+          "is_correct": false,
+          "feedback": "No hay adjetivo valorativo: la expresión solo identifica al informante."
+        },
+        {
+          "letter": "D",
+          "text": "Cierra el párrafo con la conclusión periodística de la nota.",
+          "is_correct": false,
+          "feedback": "Cierra no: la expresión abre la fuente y deja claro de dónde sale el dato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fuente citada es el referente verificable de una noticia. Nombrar a una persona, institución o documento permite que el lector contraste la información y sepa con qué respaldo se publica. Cuando la fuente no se menciona, la noticia se vuelve más difícil de comprobar y, por tanto, menos confiable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál versión respeta mejor el criterio de objetividad?",
+      "context": "En el taller de redacción del colegio de Bucaramanga, un practicante reescribe una frase para cumplir la norma de objetividad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Un Gemeinschaft awesome(dp) generale milagrosamente salva a una familia en Popayán\".",
+          "is_correct": false,
+          "feedback": "\"Milagrosamente\" es un adjetivo valorativo que introduce el juicio del periodista."
+        },
+        {
+          "letter": "B",
+          "text": "\"Una persona salva a una familia en Popayán tras un incendio en su vivienda\".",
+          "is_correct": false,
+          "feedback": "La versión no identifica a quien realizó la acción, así que pierde precisión."
+        },
+        {
+          "letter": "C",
+          "text": "\"Un héroe anónimo salva a una familia en Popayán, en un gesto que nunca será olvidada\".",
+          "is_correct": false,
+          "feedback": "\"Héroe\" y \"nunca será olvidada\" son juicios valorativos del periodista."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los bomberos de Popayán rescataron a una familia tras un incendio en su vivienda\".",
+          "is_correct": true,
+          "feedback": "Identifica a los responsables, la acción y el lugar, sin adjetivos de valor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El lenguaje periodístico aspira a la objetividad: informa sobre hechos comprobables, identifica a los sujetos y evita los adjetivos que expresan la posición del periodista. Reescribir un enunciado para cumplir esta norma implica quitar la valoración, precisar los sujetos y mantener los datos verificables.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia separa los dos textos?",
+      "context": "En Pasto, la profesora coloca dos textos en la cartelera: uno informa de un cierre de vías; el otro afirma que ese cierre es culpa de un funcionario del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero informa hechos verificables; el segundo expresa un juicio que atribuye responsabilidades.",
+          "is_correct": true,
+          "feedback": "La noticia describe; el artículo de opinión valora y señala culpables."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos son noticias, porque los dos ocupan el mismo espacio en la cartelera.",
+          "is_correct": false,
+          "feedback": "El lugar de publicación no determina el género del texto."
+        },
+        {
+          "letter": "C",
+          "text": "El primero es opinión, porque no cita fuentes; el segundo es noticia, porque cita fuentes.",
+          "is_correct": false,
+          "feedback": "La ausencia de fuentes no hace que sea opinión: lo hace la valoración del autor."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos son opinión, porque los dos emiten opiniones sobre el municipio.",
+          "is_correct": false,
+          "feedback": "El segundo sí expresa un juicio; el primero se limita a informar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La noticia responde hechos comprobables y se apoya en fuentes citadas; la opinión expone la posición de quien escribe y la acompaña de argumentos. Reconocer esta diferencia protege al lector frente a dos riesgos: tomar como hecho lo que es un juicio, y desatender un juicio disfrazado de dato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v7",
+      "statement": "¿Qué problema tiene ese titular frente a las normas del lenguaje periodístico?",
+      "context": "En el aula de Duitama, un grupo lee un titular sensacionalista: \"¡Increíble! Estudiantes se sortearon 300 becas con solo 50 minutos al día\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No menciona a ningún lugar, por lo que incumple la norma de la geographicidad.",
+          "is_correct": false,
+          "feedback": "La falta del lugar se observa, pero no es el problema central del ejemplo."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene sobrecarga de elementos y usa un tono sensacionalista que distrae del hecho.",
+          "is_correct": true,
+          "feedback": "La acumulación de recursos y el tono escandaloso contradicen la norma de objetividad."
+        },
+        {
+          "letter": "C",
+          "text": "No incluye cifras, a pesar de que toda noticia debe traer datos numéricos.",
+          "is_correct": false,
+          "feedback": "Include cifras, de modo que ese no es el defecto que se observa."
+        },
+        {
+          "letter": "D",
+          "text": "Es demasiado extenso, porque los titulares deben tener una sola palabra.",
+          "is_correct": false,
+          "feedback": "Un titular extenso no es incorrecto en sí mismo; aquí el problema es el tono, no la longitud."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El lenguaje periodístico se rige por la claridad, la concisión y la objetividad. Un titular sensacionalista recurre a la exageración, la alarma y la acumulación de signos de exclamación para captar la atención del lector, y con ello se aleja de la norma informativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v8",
+      "statement": "El medio A titula: \"Hallan vasijas de 800 años en una excavación del valle del Magdalena\". El medio B titula: \"Descubren posible tesoro arqueológico en una finca privada del valle del Magdalena\". ¿Qué puede compararse?",
+      "context": "En un proyecto de lectura de Duitama, dos medios cubren el mismo hallazgo arqueológico en el valle del Magdalena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de palabras, porque los dos titulares son igualmente largos.",
+          "is_correct": false,
+          "feedback": "La comparación relevante no es formal, sino sobre el tratamiento del hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Que el medio B usa un término valorativo como \"tesoro\" que el medio A evita.",
+          "is_correct": true,
+          "feedback": "\"Tesoro\" supone un valor extraordinario; \"vasijas\" describe el objeto tal como es."
+        },
+        {
+          "letter": "C",
+          "text": "Que el medio A cita fuentes y el medio B no, por eso el primero es noticia.",
+          "is_correct": false,
+          "feedback": "El ejemplo no aporta datos sobre fuentes: lo observable es el término elegido."
+        },
+        {
+          "letter": "D",
+          "text": "Que el medio B está equivocado, porque los objetos hallados no fueron vasijas.",
+          "is_correct": false,
+          "feedback": "Nada en el ejemplo permite afirmar que los hallazgos no fueran vasijas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos medios sobre un mismo hecho es una forma temprana de pensamiento crítico. La comparación permite ver que un mismo evento puede narrarse con palabras neutras o con palabras cargadas de valor, y entender que esa elección orienta la reacción del lector sin necesidad de manipular los datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de estos criterios permite mejor evaluar la confiabilidad de una publicación?",
+      "context": "En clase de Santa Marta, los estudiantes reciben tres publicaciones que hablan del aumento del precio del transporte en el Magdalena y deben decidir cuál consultar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la publicación tenga más colores en sus imágenes para llamar la atención.",
+          "is_correct": false,
+          "feedback": "El diseño no es un criterio de verificación del contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mensaje se pueda reenviar por redes sociales con un clic.",
+          "is_correct": false,
+          "feedback": "La difusión viral mide interés, no veracidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que identifique fuentes verificables, corrija errores y separe la información de la opinión.",
+          "is_correct": true,
+          "feedback": "Estos tres rasgos distinguen a un medio que se puede comprobar de uno que solo informa."
+        },
+        {
+          "letter": "D",
+          "text": "Que sus autores publiquen muchos artículos al día sin descanso.",
+          "is_correct": false,
+          "feedback": "La frecuencia de publicación no garantiza que la información sea correcta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un medio confiable es el que permite verificar lo que publica. Por eso cita sus fuentes, reconoce y corrige sus errores, y distingue los hechos de las opiniones. Evaluar con estos criterios ayuda al estudiante a no tomar decisiones importantes a partir de información publicada sin respaldo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle-v10",
+      "statement": "¿Qué consecuencia tiene colocar los datos de contexto al principio y dejar el hecho principal al final?",
+      "context": "En un seminario de lectura crítica en Popayán, un grupo analiza qué ocurriría si se alterara el orden interno de una noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, porque el contenido completo sigue siendo el mismo.",
+          "is_correct": false,
+          "feedback": "El contenido no cambia, pero sí cambia la función informativa de cada parte."
+        },
+        {
+          "letter": "B",
+          "text": "La noticia se vuelve más neutral, porque el dato de contexto anula el sesgo.",
+          "is_correct": false,
+          "feedback": "Poner el contexto arriba no neutraliza el hecho: lo entierra y confunde al lector."
+        },
+        {
+          "letter": "C",
+          "text": "Se rompe la pirámide invertida y el lector puede no detectar el hecho más importante.",
+          "is_correct": true,
+          "feedback": "Sin el hecho principal al inicio, la pirámide pierde su función de informar rápido."
+        },
+        {
+          "letter": "D",
+          "text": "La noticia se convierte en un artículo de opinión, porque el autor elige el orden.",
+          "is_correct": false,
+          "feedback": "Elegir el orden no convierte el texto en opinión: el género depende de cómo se presenta el contenido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La pirámide invertida existe para que lo esencial esté siempre disponible. Si el dato más importante queda al final, el lector que solo lee los primeros párrafos se queda con el contexto y sin el hecho. Reconocer esta consecuencia permite avaliar la calidad informativa de un texto periodístico más allá de su apariencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W22-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

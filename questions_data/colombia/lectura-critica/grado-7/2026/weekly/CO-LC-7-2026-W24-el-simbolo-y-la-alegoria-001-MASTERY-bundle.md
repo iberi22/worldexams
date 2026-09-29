@@ -36,12 +36,12 @@ Semana 24 de 40 del año escolar 2026. Esta semana entrena la lectura simbólica
 ### Opciones
 - [ ] A) Es una palabra que se repite varias veces para llamar la atención del lector.
   <!-- feedback: La repetición es un recurso, pero un símbolo es un elemento con significado propio. -->
-- [x] B) Es un elemento concreto que representa una idea o un valor más amplio dentro de la obra.
-  <!-- feedback: El símbolo funciona como sustituto de una idea, una emoción o un valor. -->
+- [ ] B) Es un personaje que aparece en todos los capítulos de la novela.
+  <!-- feedback: Un personaje recurrente no es un símbolo: es un personaje con función narrativa. -->
 - [ ] C) Es una descripción detallada de un objeto que ocupa muchas líneas en el texto.
   <!-- feedback: La extensión de la descripción no convierte un objeto en símbolo. -->
-- [ ] D) Es un personaje que aparece en todos los capítulos de la novela.
-  <!-- feedback: Un personaje recurrente no es un símbolo: es un personaje con función narrativa. -->
+- [x] D) Es un elemento concreto que representa una idea o un valor más amplio dentro de la obra.
+  <!-- feedback: El símbolo funciona como sustituto de una idea, una emoción o un valor. -->
 
 ### Explicacion Pedagogica
 Un símbolo es un elemento del texto, un objeto, una persona, un lugar o un color, que significa algo más allá de sí mismo dentro de la obra. Su valor no está en su forma material, sino en la relación que establece con el resto del texto. Por eso el mismo objeto puede ser símbolo en una obra y un detalle cualquiera en otra.
@@ -82,12 +82,12 @@ El texto dice: "El barrio se había puesto gris, como si hubiera perdido el colo
 ### Opciones
 - [ ] A) Una alegoría, porque aparecen dos personajes que discuten.
   <!-- feedback: No hay personajes: hay una comparación mediante la palabra "como". -->
-- [x] B) Una metáfora, porque se afirma que el barrio es gris y luego se explica el significado de esa imagen.
-  <!-- feedback: La construcción "como si" establece una comparación que atribuye al barrio un color humano. -->
+- [ ] B) Una descripción enumerativa, porque se mencionan colores en el texto.
+  <!-- feedback: No hay enumeración: hay una sola imagen con sentido figurado. -->
 - [ ] C) Un símbolo, porque el gris representa la tristeza del barrio.
   <!-- feedback: El gris podría volverse símbolo en el conjunto, pero aquí la operación central es comparar. -->
-- [ ] D) Una descripción enumerativa, porque se mencionan colores en el texto.
-  <!-- feedback: No hay enumeración: hay una sola imagen con sentido figurado. -->
+- [x] D) Una metáfora, porque se afirma que el barrio es gris y luego se explica el significado de esa imagen.
+  <!-- feedback: La construcción "como si" establece una comparación que atribuye al barrio un color humano. -->
 
 ### Explicacion Pedagogica
 La metáfora establece una relación de semejanza entre dos elementos, y aquí se expresa con la fórmula como si. Cuando esa imagen se repite a lo largo de la obra y termina representando una idea, deja de ser una metáfora puntual y se convierte en símbolo. Por eso es importante distinguir la operación de comparar de la operación de representar.

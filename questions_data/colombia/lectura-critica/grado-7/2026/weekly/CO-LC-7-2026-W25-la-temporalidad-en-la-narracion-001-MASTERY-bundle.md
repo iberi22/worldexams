@@ -34,10 +34,10 @@ Semana 25 de 40 del año escolar 2026. Esta semana entrena la comprensión del t
 ¿Qué diferencia existe entre el tiempo del relato y el tiempo de la historia?
 
 ### Opciones
-- [ ] A) El tiempo del relato son los años que dura la acción; el tiempo de la historia es el momento de lectura.
-  <!-- feedback: Se han intercambiado los conceptos: la historia son los hechos y el relato es su narración. -->
-- [x] B) El tiempo del relato es el orden en que el narrador presenta los hechos; el de la historia es la sucesión real de esos hechos.
+- [x] A) El tiempo del relato es el orden en que el narrador presenta los hechos; el de la historia es la sucesión real de esos hechos.
   <!-- feedback: La narración puede alterar el orden cronológico, y por eso se distinguen ambos tiempos. -->
+- [ ] B) El tiempo del relato son los años que dura la acción; el tiempo de la historia es el momento de lectura.
+  <!-- feedback: Se han intercambiado los conceptos: la historia son los hechos y el relato es su narración. -->
 - [ ] C) Los dos términos son sinónimos y se pueden usar indistintamente.
   <!-- feedback: No son sinónimos: la diferencia entre orden narrado y orden de los hechos es esencial. -->
 - [ ] D) El tiempo de la historia es el número de capítulos; el del relato es el número de páginas.
@@ -59,12 +59,12 @@ El texto dice: "Aquel día, en 2019, el protagonista había aprendido a leer". �
 ### Opciones
 - [ ] A) Indica el momento en que la historia relatada ocurrió dentro de la línea temporal de los hechos.
   <!-- feedback: Eso es exactamente lo que aporta: sitúa un hecho en el tiempo de la historia. -->
-- [x] B) Sitúa la escena en el tiempo de la historia, no en el orden en que se narra.
-  <!-- feedback: La expresión "aquel día" remite a un momento de la historia, que el relato recupera después. -->
+- [ ] B) Señala que el narrador lee la escena en voz alta en el momento actual.
+  <!-- feedback: La marca temporal sitúa los hechos, no la lectura ni la voz del narrador. -->
 - [ ] C) Indica el número de capítulos que el autor escribió antes de esa escena.
   <!-- feedback: Las marcas temporales no hablan de la estructura del libro, sino del momento de los hechos. -->
-- [ ] D) Señala que el narrador lee la escena en voz alta en el momento actual.
-  <!-- feedback: La marca temporal sitúa los hechos, no la lectura ni la voz del narrador. -->
+- [x] D) Sitúa la escena en el tiempo de la historia, no en el orden en que se narra.
+  <!-- feedback: La expresión "aquel día" remite a un momento de la historia, que el relato recupera después. -->
 
 ### Explicacion Pedagogica
 Las expresiones como aquel día, en 2019 o cuando tenía diez años anclan los hechos en un momento del tiempo de la historia. El anclaje es lo que permite al lector reubicar cada escena en una línea temporal, incluso cuando el relato no los presenta en orden.
@@ -80,10 +80,10 @@ Las expresiones como aquel día, en 2019 o cuando tenía diez años anclan los h
 En medio de la acción presente, el narrador interrumpe para contar un episodio de cuando el protagonista tenía ocho años. ¿Qué recurso se está usando?
 
 ### Opciones
-- [ ] A) Un salto hacia adelante, porque la narración se adelanta a la Childhood termination.
-  <!-- feedback: La narración retrocede: el episodio ocurre antes de la acción presente. -->
-- [x] B) Un salto hacia atrás o flashback, que interrumpe el presente narrativo con un pasado.
+- [x] A) Un salto hacia atrás o flashback, que interrumpe el presente narrativo con un pasado.
   <!-- feedback: Es el recurso típico del flashback: se vuelve a un tiempo anterior dentro del relato. -->
+- [ ] B) Un salto hacia adelante, porque la narración se adelanta a la Childhood termination.
+  <!-- feedback: La narración retrocede: el episodio ocurre antes de la acción presente. -->
 - [ ] C) Una descripción estática, porque no cambia la acción durante varias líneas.
   <!-- feedback: Hay un cambio de tiempo, no una mera pausa en la descripción. -->
 - [ ] D) Un diálogo interno, porque el protagonista habla consigo mismo.
@@ -105,12 +105,12 @@ Si el relato dice "muchos años después, volvió al pueblo donde había nacido"
 ### Opciones
 - [ ] A) Eliminar la frase, porque no aporta información sobre el lugar.
   <!-- feedback: La frase sí aporta información: vincula el regreso con un tiempo muy posterior al nacimiento. -->
-- [x] B) Ordenar el regreso después de la escena del nacimiento, siguiendo la cronología de los hechos.
-  <!-- feedback: Esa información temporal permite ubicar el regreso en un punto posterior de la línea del tiempo. -->
+- [ ] B) Cambiar la frase por "siempre", porque el regreso no tiene fecha definida.
+  <!-- feedback: Aunque no haya fecha exacta, la relación temporal con el nacimiento sí está marcada. -->
 - [ ] C) Colocar el regreso antes que el nacimiento, porque el narrador lo cuenta primero.
   <!-- feedback: El orden del relato no es el orden de los hechos: la frase indica que el regreso es posterior. -->
-- [ ] D) Cambiar la frase por "siempre", porque el regreso no tiene fecha definida.
-  <!-- feedback: Aunque no haya fecha exacta, la relación temporal con el nacimiento sí está marcada. -->
+- [x] D) Ordenar el regreso después de la escena del nacimiento, siguiendo la cronología de los hechos.
+  <!-- feedback: Esa información temporal permite ubicar el regreso en un punto posterior de la línea del tiempo. -->
 
 ### Explicacion Pedagogica
 Los conectores temporales como muchos años después o de repente permiten reconstruir el orden cronológico de los hechos aunque el relato no lo presente así. Esa reconstrucción es la base del resumen y de la línea temporal, dos herramientas útiles para cualquier lectura comprensiva.

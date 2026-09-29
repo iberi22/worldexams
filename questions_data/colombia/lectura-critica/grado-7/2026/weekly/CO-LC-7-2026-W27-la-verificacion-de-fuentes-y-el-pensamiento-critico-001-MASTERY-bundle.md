@@ -34,10 +34,10 @@ Semana 27 de 40 del año escolar 2026. Esta semana entrena el pensamiento críti
 ¿Qué es una fuente primaria?
 
 ### Opciones
-- [ ] A) Es un documento escrito después, que resume lo que dijeron otras personas.
-  <!-- feedback: Esa es una fuente secundaria: interpreta y resume información previa. -->
-- [x] B) Es un documento o testimonio original, producido en el momento por quienes vivieron el hecho.
+- [x] A) Es un documento o testimonio original, producido en el momento por quienes vivieron el hecho.
   <!-- feedback: La fuente primaria es el testimonio directo, el archivo o el registro original. -->
+- [ ] B) Es un documento escrito después, que resume lo que dijeron otras personas.
+  <!-- feedback: Esa es una fuente secundaria: interpreta y resume información previa. -->
 - [ ] C) Es un artículo de opinión que comenta un tema de actualidad.
   <!-- feedback: Un artículo de opinión expresa una posición y no es un registro original del hecho. -->
 - [ ] D) Es la bibliografía final del trabajo, donde se anotan las páginas consultadas.
@@ -57,10 +57,10 @@ La fuente primaria proviene de quien vivió o produjo el hecho en ese momento: c
 Un texto dice: "Según el informe municipal, 3 de cada 10 estudiantes llegan tarde". ¿Qué aporta la expresión "según el informe municipal"?
 
 ### Opciones
-- [ ] A) Expresa la opinión del periodista sobre la puntualidad de los estudiantes.
-  <!-- feedback: Atribuir a un informe no convierte el dato en opinión: define su origen. -->
-- [x] B) Identifica la fuente del dato y permite al lector verificarlo.
+- [x] A) Identifica la fuente del dato y permite al lector verificarlo.
   <!-- feedback: La atribución señala de dónde sale el dato y abre la posibilidad de contrastarlo. -->
+- [ ] B) Expresa la opinión del periodista sobre la puntualidad de los estudiantes.
+  <!-- feedback: Atribuir a un informe no convierte el dato en opinión: define su origen. -->
 - [ ] C) Indica que el dato es estimado por el autor del texto.
   <!-- feedback: El autor no estima: se limita a repetir lo que dice el informe. -->
 - [ ] D) Señala que la información es secreta y por eso no se puede comprobar.
@@ -82,12 +82,12 @@ Una página afirma: "Todos los peces del río se han perdido por culpa de la con
 ### Opciones
 - [ ] A) Copiarlo tal como está, porque si está publicado debe ser cierto.
   <!-- feedback: Publicar un dato no garantiza su verdad: hay que revisar quién lo afirma. -->
-- [x] B) Buscar la fuente original del dato y contrastarla con otras dos publicaciones independientes.
-  <!-- feedback: Rastrear el origen y contrastar es el procedimiento que permite verificar. -->
+- [ ] B) Buscar otra página que diga lo mismo, y usar esa como confirmación.
+  <!-- feedback: Dos páginas que repiten lo mismo pueden copiar de una sola fuente. -->
 - [ ] C) Pedirle al profesor que lo lea, porque él sabe si es cierto.
   <!-- feedback: La autoridad del profesor no sustituye la comprobación de la fuente. -->
-- [ ] D) Buscar otra página que diga lo mismo, y usar esa como confirmación.
-  <!-- feedback: Dos páginas que repiten lo mismo pueden copiar de una sola fuente. -->
+- [x] D) Buscar la fuente original del dato y contrastarla con otras dos publicaciones independientes.
+  <!-- feedback: Rastrear el origen y contrastar es el procedimiento que permite verificar. -->
 
 ### Explicacion Pedagogica
 Verificar un dato exige rastrear su origen y contrastarlo con fuentes independientes. Si varias páginas repiten la misma cifra, puede que todas copien de un único origen, y eso no confirma nada. La comprobación real consiste en llegar a la fuente primaria o a organismos que tengan esa información.
@@ -126,12 +126,12 @@ El sesgo aparece cuando una afirmación se presenta como objetiva, pero en reali
 Un párrafo dice: "A la mayoría de los niños de Medellín no les gusta leer". ¿Qué opción convierte esa afirmación en un dato comprobable?
 
 ### Opciones
-- [ ] A) "Es que leer es aburrido y todos lo sabemos".
-  <!-- feedback: Esa es una generalización valorativa: sigue siendo una opinión. -->
+- [x] A) "En una encuesta con 200 estudiantes de siete colegios, el 62 por ciento lee solo por obligación".
+  <!-- feedback: El dato incluye muestra, tamaño y resultado, y por eso puede verificarse. -->
 - [ ] B) "Seguro que la culpa es de los profesores que no leen a sus hijos".
   <!-- feedback: Atribuir la culpa a un grupo es una opinión, no un dato verificable. -->
-- [x] C) "En una encuesta con 200 estudiantes de siete colegios, el 62 por ciento lee solo por obligación".
-  <!-- feedback: El dato incluye muestra, tamaño y resultado, y por eso puede verificarse. -->
+- [ ] C) "Es que leer es aburrido y todos lo sabemos".
+  <!-- feedback: Esa es una generalización valorativa: sigue siendo una opinión. -->
 - [ ] D) "La lectura es importante y todosuco debemos apoyar a los jóvenes lectores".
   <!-- feedback: Es una recomendación moral: expresa un valor, no un dato. -->
 
@@ -153,10 +153,10 @@ La nota A dice: "Un estudio de la universidad encontró que el 40 por ciento de 
   <!-- feedback: No dicen lo mismo: una aporta un dato medible y la otra una apreciación general. -->
 - [ ] B) La nota A es opinión, porque menciona una universidad.
   <!-- feedback: Nombrar una institución no convierte el dato en opinión: lo respalda. -->
-- [x] C) La nota A es un dato verificable; la nota B es una generalización sin respaldo.
-  <!-- feedback: El porcentaje con estudio identificado es comprobable, y la otra versión no lo es. -->
-- [ ] D) La nota B es más precisa, porque usa la palabra mayoría.
+- [ ] C) La nota B es más precisa, porque usa la palabra mayoría.
   <!-- feedback: La palabra mayoría no aporta precisión: no dice cuántos ni sobre qué base. -->
+- [x] D) La nota A es un dato verificable; la nota B es una generalización sin respaldo.
+  <!-- feedback: El porcentaje con estudio identificado es comprobable, y la otra versión no lo es. -->
 
 ### Explicacion Pedagogica
 Comparar dos versiones de una misma afirmación permite ver la diferencia entre el dato y la impressionsgeneralización. El dato incluye un porcentaje y una fuente identificable, de modo que puede comprobarse. La generalización, aunque suene rotunda, no ofrece elementos para verificar ni para refutar.
