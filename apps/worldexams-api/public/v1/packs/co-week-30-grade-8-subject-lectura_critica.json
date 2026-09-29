@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-30-grade-8-subject-lectura_critica",
+    "generated_at": "2026-09-29T06:43:26.283Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones describe correctamente qué es una síntesis integradora?",
+      "context": "En Medellín, el equipo del grado 8° tiene sobre la mesa cuatro textos del semestre: una noticia que informa el cierre de una vía, una crónica sobre un mercado barrial, una biografía de una líder del barrio y un informe que describe el aire del municipio. La profesora pregunta qué distingue a la síntesis de un simple resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un texto que reúne ideas de dos o más fuentes y las relaciona entre sí para sostener una posición propia.",
+          "is_correct": true,
+          "feedback": "Es la respuesta correcta: la síntesis combina fuentes, establece relaciones y produce un contenido nuevo, no solo una reducción."
+        },
+        {
+          "letter": "B",
+          "text": "Un texto que copia textualmente los fragmentos más importantes de cada fuente sin cambiar palabra alguna.",
+          "is_correct": false,
+          "feedback": "Copiar sin seleccionar es un procedimiento mecánico: la síntesis exige seleccionar, organizar y relacionar, no transcribir."
+        },
+        {
+          "letter": "C",
+          "text": "Un texto que enumera las fuentes en orden de publicación, una detrás de otra, sin establecer relaciones entre ellas.",
+          "is_correct": false,
+          "feedback": "La enumeración de fuentes es un listado de referencias: le faltan el trabajo de comparación y la articulación argumentativa."
+        },
+        {
+          "letter": "D",
+          "text": "Un texto que reduce cada fuente a una sola oración y las coloca en párrafos independientes.",
+          "is_correct": false,
+          "feedback": "Condensar sin relacionar descarta justamente el trabajo central de la síntesis, que es construir un conjunto nuevo con sentido propio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer la estructura de la síntesis permite entenderla como un género de respuesta y no como un trámite escolar. En la mesa de Medellín, cada grupo recoge lo esencial de fuentes distintas, pero el ejercicio de integrarlas es lo que revela si comprendió qué dice cada una y cómo se relaciona con las otras. Un equipo que solo copia fragmentos todavía no ha elaborado un pensamiento propio sobre el asunto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v2",
+      "statement": "Según el texto, ¿qué relación lógica establece la expresión «a pesar del»?",
+      "context": "En Cali, un texto del periódico local afirma: «A pesar del esfuerzo de los vecinos del barrio San Fernando, el río Cali sigue recibiendo aguas residuales desde diciembre». La profesora pide al grupo explicar qué relación lógica introduce el conector empleado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de causa: el esfuerzo de los vecinos produjo el aumento de aguas residuales.",
+          "is_correct": false,
+          "feedback": "No hay relación de causa: el conector no enlaza dos efectos, sino que enfrenta una expectativa con un resultado contrario a ella."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de consecuencia: por eso el río Cali recibe aguas residuales.",
+          "is_correct": false,
+          "feedback": "Con «a pesar del» no se explica un efecto, sino que se registra un contraste entre lo esperado y lo ocurrido realmente."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de concesión: se reconoce un hecho favorable y se muestra que no fue suficiente para impedir el resultado.",
+          "is_correct": true,
+          "feedback": "Correcto: la concesión presenta un argumento que se esperaba que protegiera y luego lo revoca al mostrar que no surtió efecto."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de enumeración: el texto enumera dos hechos ocurridos en el barrio San Fernando.",
+          "is_correct": false,
+          "feedback": "La enumeración se marcaría con comas o con conectores como «y» y «además»; aquí la relación es de contraste argumentativo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender el valor de los conectores permite decodificar la lógica interna de un texto, no solo su superficie. En el ejemplo de Cali, la expresión «a pesar del» obliga al lector a esperar una conclusión favorable y encuentra lo contrario, de modo que la información resulta más informativa. Dominar esta relación lógica es indispensable para construir después una síntesis donde las ideas de distintas fuentes dialogúen con claridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v3",
+      "statement": "De las cuatro partes que Salma identificó, ¿cuál corresponde a la tesis del texto?",
+      "context": "En Quibdó, Salma, del grado 8° A, marcó con colores un texto argumentativo sobre el acceso al agua en su municipio. Identificó cuatro partes: la primera enuncia una posición general, la segunda presenta datos que la respaldan, la tercera menciona una opinión contraria y la cuarta fija un compromiso. Pide que le indiquen qué parte representa la postura del texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda parte, porque presenta los datos que respaldan la posición.",
+          "is_correct": false,
+          "feedback": "Esa parte corresponde a la evidencia: las razones demuestran la tesis, pero no la enuncian."
+        },
+        {
+          "letter": "B",
+          "text": "La primera parte, porque enuncia la posición general que el texto defenderá.",
+          "is_correct": true,
+          "feedback": "Es correcto: la tesis es la afirmación central que el resto del texto busca sostener con razones y ejemplos."
+        },
+        {
+          "letter": "C",
+          "text": "La tercera parte, porque menciona la opinión contraria de otro lector.",
+          "is_correct": false,
+          "feedback": "Esa parte corresponde a la refutación o contraargumento, que existe para defender la tesis, no para sustituirla."
+        },
+        {
+          "letter": "D",
+          "text": "La cuarta parte, porque fija un compromiso que el texto propone a los lectores.",
+          "is_correct": false,
+          "feedback": "Esa parte corresponde a la conclusión o recomendación: cierra el desarrollo, pero no enuncia la postura central."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identificar la tesis dentro de un texto permite comprender cómo se estructura el discurso argumentativo. En el caso de Quibdó, el texto de Salma sigue un movimiento característico: se enuncia una postura, se la sostiene con datos, se responde a las objeciones y se cierra con un compromiso. Reconocer cada movimiento prepara al estudiante para construir su propia síntesis, donde debe formular una tesis y sostenerla con fuentes ajenas y propias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v4",
+      "statement": "¿Qué actuación del equipo resulta más adecuada para presentar la síntesis ante un público que no maneja el lenguaje técnico?",
+      "context": "En Pereira, un equipo de grado 8° debe presentar en el auditorio del colegio su síntesis sobre el consumo de agua en su barrio. El texto que trajeron está lleno de tablas técnicas, unidades de medición y siglas que el profesor de química no comprende con facilidad. La profesora les pide que decidan cómo usarlo ante ese público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leer el texto técnico tal como está para no alterar el trabajo del equipo de investigación.",
+          "is_correct": false,
+          "feedback": "Leerlo todo igual respeta la forma del original, pero incumple la meta comunicativa: un texto que nadie comprende no cumple su función ante el público."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir todas las cifras por afirmaciones generales para evitar confusiones entre los estudiantes.",
+          "is_correct": false,
+          "feedback": "Quitar los datos debilita el argumento: sin cifras verificables, la síntesis pierde solidez y se convierte en una opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar una sola cifra, la más favorable, para que el mensaje sea claro y no se distraiga a la audiencia.",
+          "is_correct": false,
+          "feedback": "Elegir solo la cifra conveniente es una selección interesada: la síntesis pierde confiabilidad si calla los datos que no apoyan la postura."
+        },
+        {
+          "letter": "D",
+          "text": "Traducir los datos difíciles a un lenguaje sencillo, mantener las cifras verificables y señalar de dónde proviene cada una.",
+          "is_correct": true,
+          "feedback": "Es la mejor opción: adaptar el registro sin eliminar el rigor permite que el público comprenda y pueda confiar en la información."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura crítica incluye la capacidad de decidir cómo se comunica una información según el público y el propósito. En Pereira, el equipo enfrenta un problema real: el lenguaje técnico que permite recoger datos valiosos puede resultar inaccesible para la comunidad del auditorio. La solución competente no simplifica hasta la vacilación ni oculta lo incómodo, sino que traduce el contenido y conserva, al mismo tiempo, la posibilidad de verificar cada afirmación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes secuencias organiza mejor los fragmentos de Camilo?",
+      "context": "En Armenia, Camilo tiene cuatro fragmentos escritos para su síntesis: uno con datos sobre el parque de su barrio, otro con la postura de un vecino entrevistado, un tercero con una cita de un informe de la secretaría de planeación y un cuarto con una conclusión que propone una acción. La profesora le pide ordenar los fragmentos para que el texto fluya con lógica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tesis y problema, datos del parque, postura del vecino, informe de la secretaría y conclusión con propuesta.",
+          "is_correct": true,
+          "feedback": "Correcto: la síntesis parte de una posición clara, acumula fuentes que la sostienen y cierra con un compromiso coherente con el resto."
+        },
+        {
+          "letter": "B",
+          "text": "Informe de la secretaría, datos del parque, postura del vecino, tesis y problema, y conclusión.",
+          "is_correct": false,
+          "feedback": "Esta secuencia empieza con las fuentes antes de presentar la posición: el lector recibe información sin saber qué se está defendiendo ni por qué importa."
+        },
+        {
+          "letter": "C",
+          "text": "Tesis y problema, conclusión con propuesta, datos del parque, postura del vecino e informe.",
+          "is_correct": false,
+          "feedback": "Poner la propuesta en el segundo párrafo rompe la progresión: la conclusión pierde efecto cuando aparece antes de la evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Datos del parque, informe de la secretaría, tesis y problema, postura del vecino y conclusión.",
+          "is_correct": false,
+          "feedback": "Agrupar primero los datos y luego la tesis produce un texto que acumula información sin un hilo conductor que la ordene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ordenar los fragmentos de un texto es una habilidad de construcción, no un detalle de forma. La síntesis de Camilo sigue el movimiento clásico del discurso argumentativo: plantear el problema, presentar la postura propia, reunir las fuentes en orden de solidez creciente y cerrar con una propuesta. Cuando el estudiante sabe qué función cumple cada fragmento, puede reorganizar el material con intención y no solo por costumbre.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v6",
+      "statement": "¿Qué reformulación de la oración de Laura resuelve la ambigüedad señalada?",
+      "context": "En Manizales, Laura escribió en su síntesis la oración «Se llevaron las copias del informe a la biblioteca», pero la profesora le explicó que esa redacción deja sin claridad quién realizó la acción y por eso el grupo no sabía si se refería a los estudiantes o a los profesores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Las copias del informe fueron llevadas a la biblioteca por alguien».",
+          "is_correct": false,
+          "feedback": "El agente queda indeterminado con «por alguien», de modo que la ambigüedad del sujeto se mantiene intacta."
+        },
+        {
+          "letter": "B",
+          "text": "«Se llevaron a la biblioteca las copias del informe del grado 8°».",
+          "is_correct": false,
+          "feedback": "Reordenar los términos no resuelve el problema: la construcción con «se» sigue ocultando quién lleva a cabo la acción."
+        },
+        {
+          "letter": "C",
+          "text": "«Los estudiantes del grado 8° llevaron las copias del informe a la biblioteca».",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: el sujeto explícito y el verbo en tercera persona dejan claro quién ejecuta la acción."
+        },
+        {
+          "letter": "D",
+          "text": "«Las copias del informe se llevaron a la biblioteca, finalmente».",
+          "is_correct": false,
+          "feedback": "El adverbio «finalmente» solo indica momento y no sujeto: la oración sigue sin decir quién realizó el desplazamiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Detectar la ambigüedad de un enunciado y corregirla es una forma directa de comprender cómo la estructura de la oración transmite u oculta información. La oración de Laura usa una construcción con «se», muy frecuente en español, que desplaza el sujeto gramatical. Un lector que domina el tema puede suponer quién actúa, pero un lector que no conoce la situación se queda sin respuesta; por eso la síntesis debe escribirse con sujetos claros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v7",
+      "statement": "¿Qué explicación sobre la relación entre los dos textos es más precisa?",
+      "context": "En Riohacha, Andrés comparó dos textos sobre el mismo parque de su ciudad: una noticia de 2015 que decía que el parque «tenía 120 árboles» y una crónica de 2026 que afirma que «hoy quedan menos de cincuenta y se observan raíces expuestas». El chico quiere entender por qué los dos textos pueden coexistir sin que uno sea necesariamente falso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La crónica de 2026 está equivocada porque los datos de una noticia siempre están verificados por periodistas.",
+          "is_correct": false,
+          "feedback": "La autoridad de quien escribe no garantiza la veracidad: cada fuente tiene su momento, sus informantes y sus límites, y debe evaluarse por eso."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos se refieren al mismo referente en momentos distintos y la diferencia entre sus datos puede deberse al cambio ocurrido en el parque entre 2015 y 2026.",
+          "is_correct": true,
+          "feedback": "Es la explicación correcta: comparar exige fijar el referente, el momento y el propósito de cada fuente antes de inferir que una se equivoca."
+        },
+        {
+          "letter": "C",
+          "text": "La noticia de 2015 se refiere a un parque distinto de la crónica, porque en Riohacha hay varios parques públicos.",
+          "is_correct": false,
+          "feedback": "Hay una pista común en los datos y en el entorno que autoriza a pensar que se trata del mismo referente, así que la explicación no se sostiene."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos son incompatibles porque la cifra de 120 árboles contradice la expresión «menos de cincuenta».",
+          "is_correct": false,
+          "feedback": "Las cifras solo se contradicen si se refieren al mismo momento; como los textos son de años diferentes, la diferencia se explica sin descartar a ninguno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer de manera crítica en clave intertextual significa poner dos textos en diálogo y examinar qué los une y qué los separa. En Riohacha, Andrés no necesita declarar un ganador: necesita identificar el referente común, comparar el momento de cada fuente y explicar la diferencia. Este procedimiento evita dos errores frecuentes, que son tratar toda diferencia como un error y descartar una fuente solo porque su estructura narrativa no es periodística.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v8",
+      "statement": "¿Qué observación sobre el razonamiento del texto es más precisa?",
+      "context": "En Villavicencio, un texto de opinión publica la siguiente afirmación: «Como el 90 % de los estudiantes de octavo grado usa la aplicación de transporte, esta debe volverse obligatoria para todos los estudiantes de la ciudad». La profesora de Ibagué, que llegó como visitante a la clase, pregunta a sus alumnos qué le falta a ese razonamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falta indicar el nombre del periodista, porque sin él el lector no puede evaluar el texto.",
+          "is_correct": false,
+          "feedback": "La firma da información sobre el autor, pero no resuelve la cadena lógica: el problema central es la distancia entre la evidencia y la conclusión."
+        },
+        {
+          "letter": "B",
+          "text": "Falta que el texto incluya más datos numéricos, porque siempre se necesita un porcentaje mayor para sostener cualquier posición.",
+          "is_correct": false,
+          "feedback": "Añadir porcentajes no subsana el problema: la dificultad está en que los datos de un grupo no autorizan por sí solos una obligación universal."
+        },
+        {
+          "letter": "C",
+          "text": "Falta que la aplicación tenga un nombre más llamativo, porque el título influye en la aceptación de la idea.",
+          "is_correct": false,
+          "feedback": "El título puede atraer atención, pero no modifica la validez del argumento: el punto débil es la inferencia, no la presentación."
+        },
+        {
+          "letter": "D",
+          "text": "Falta justificar por qué la aceptación de un grupo específico justifica la obligación para toda la población, y falta valorar si esa medida es proporcional.",
+          "is_correct": true,
+          "feedback": "Correcto: la conclusión general no se deduce del dato presentado y además omite una evaluación de los efectos de obligar a todos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un razonamiento consiste en examinar el paso de la evidencia a la conclusión, no solo en describir el tema tratado. En el caso de Villavicencio, el dato es real y está bien citado, pero la inferencia salta una escala: pasa de un grupo reducido a toda la ciudad sin justificación. Reconocer ese salto es lo que permite a un lector responder con argumentos y no solo con desacuerdo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v9",
+      "statement": "¿Qué análisis sostiene la comparación entre las dos síntesis?",
+      "context": "En Cartagena, dos grupos del grado 8° entregaron síntesis sobre el acceso al agua en sus barrios. La del grupo 1 menciona que un estudio de 2024 reporta una mejora del 20 % en cobertura. La del grupo 2 menciona ese mismo dato y además una nota que dice que en dos barrios la cobertura bajó un 5 %. La profesora pregunta cuál de los dos textos es más riguroso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda es más rigurosa porque presenta la evidencia favorable y la desfavorable, de modo que el lector puede valorar la situación completa.",
+          "is_correct": true,
+          "feedback": "Correcto: incluir datos que no apoyan la propia postura evita la selección tendida y da al lector elementos para juzgar por sí mismo."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es más rigurosa porque presenta un dato claro, mientras la segunda se contradice al incluir dos cifras distintas.",
+          "is_correct": false,
+          "feedback": "Incluir dos datos de periodos o zonas diferentes no es contradicción: es exactamente lo que permite entender la complejidad del asunto."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos son igualmente rigurosas porque ambas citan un estudio, sin importar qué datos específicos seleccionaron.",
+          "is_correct": false,
+          "feedback": "Citar no garantiza el rigor: la calidad de una síntesis depende también de la selección de la evidencia y de si esa selección está razonada."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda es menos rigurosa porque da más peso a la información negativa que a la positiva en el orden de los datos.",
+          "is_correct": false,
+          "feedback": "Incluir un dato negativo no debilita un texto: lo que sería débil es presentar la tendencia sin explicar el periodo, la zona ni la fuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la solidez de un texto exige mirar el criterio con el que se seleccionó la evidencia. En Cartagena, la síntesis del grupo 2 muestra una habilidad de lectura crítica poco común en grado octavo: la disposición a conservar la información incómoda. Un texto que solo recoge lo que confirma su posición es más débil, aunque sus datos sean correctos, porque la síntesis no es un resumen selectivo sino una reconstrucción equilibrada del problema.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v10",
+      "statement": "¿Qué juicio sobre la situación es más pertinente?",
+      "context": "En Sincelejo, la síntesis de un grupo atribuye a una investigadora de la Universidad de Cartagena la frase «el programa de agua potable no reduce la desigualdad». La revisión de la fuente muestra que la frase original decía «el programa de agua potable no reduce la desigualdad en las zonas rurales del departamento». El profesor evalúa la síntesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La síntesis es aceptable porque la idea central se conserva, y el detalle territorial puede considerarse un exceso de tecnicismo.",
+          "is_correct": false,
+          "feedback": "En un texto crítico, el alcance no es tecnicismo: definir dónde se aplica una afirmación es parte de su significado y de su valor probatorio."
+        },
+        {
+          "letter": "B",
+          "text": "La síntesis es incorrecta porque debe citar textualmente la fuente completa, sin ningún tipo de paráfrasis.",
+          "is_correct": false,
+          "feedback": "La paráfrasis es un recurso legítimo de la síntesis; lo inaceptable no es reformular, sino reformular alterando el sentido o el alcance."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis amplía el alcance de la afirmación al quitarle la restricción territorial, por lo que debe restituir el dato original o atribuir el uso general a los autores de la síntesis.",
+          "is_correct": true,
+          "feedback": "Es la opción correcta: alterar el alcance de una cita por recorte es una falta de fidelidad que debe corregirse o explicitarse como posición propia."
+        },
+        {
+          "letter": "D",
+          "text": "La síntesis es incorrecta porque toda fuente académica debe complementarse con la voz del estudiante, sin importar la fidelidad al texto original.",
+          "is_correct": false,
+          "feedback": "La voz propia puede convivir con las citas, pero no sustituye la fidelidad: atribuir a otro un enunciado que no dijo rompe la responsabilidad del texto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la relación entre un texto propio y las fuentes que utiliza es el nivel más exigente de la lectura crítica. En Sincelejo, el problema no es una palabra falsa sino el estrechamiento del alcance: quitarle a la afirmación su limitación territorial la convierte en algo más fuerte de lo que la fuente defender. Un lector experto distingue entre resumir y desplazar, y corrige el segundo caso haciendo explícito qué dice cada quien.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las tesis propuestas puede sostenerse mejor con la evidencia reunida en la investigación?",
+      "context": "En Neiva, cuatro equipos propusieron tesis diferentes para su síntesis sobre las bibliotecas públicas del municipio: una dice que «deben cerrar las que funcionan mal», otra afirma que «son el único espacio gratuito de aprendizaje del barrio», una tercera sostiene que «deben ajustarse a las nuevas tecnologías» y la cuarta plantea que «solo las bibliotecas con más lectores deberían recibir presupuesto». El profesor pide evaluar cuál se puede sostener con la evidencia recogida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Deben cerrar las bibliotecas que funcionan mal», porque propone una acción clara y directa que no admite discusión.",
+          "is_correct": false,
+          "feedback": "Una acción clara no garantiza una tesis sólida: sin evidencia sobre qué significa funcionar mal ni qué efectos tendría el cierre, es una propuesta sin sustento."
+        },
+        {
+          "letter": "B",
+          "text": "«Las bibliotecas públicas son el único espacio gratuito de aprendizaje del barrio», porque se apoya en datos observados sobre el uso, los equipos y las limitaciones de otras opciones gratuitas.",
+          "is_correct": true,
+          "feedback": "Es la mejor elección: la tesis es comprobable, delimita su alcance y puede sostenerse con observaciones y con la comparación de otras opciones."
+        },
+        {
+          "letter": "C",
+          "text": "«Deben ajustarse a las nuevas tecnologías», porque menciona un recurso actual que resulta atractivo para todos los lectores.",
+          "is_correct": false,
+          "feedback": "Nominar una tecnología sin explicar el problema que resuelve ni con qué evidencia se midió su necesidad deja la tesis en el plano del deseo."
+        },
+        {
+          "letter": "D",
+          "text": "«Solo las bibliotecas con más lectores deberían recibir presupuesto», porque establece un criterio único que facilita la asignación del dinero.",
+          "is_correct": false,
+          "feedback": "Un criterio único de lectoría simplifica de más: ignora variables como la zona, las edades atendidas y el acceso de quien no puede desplazarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una tesis consiste en contrastarla con la evidencia disponible y en medir su alcance, no solo en valorar si suena convincente. En Neiva, la tesis mejor formulada es la que delimita su campo, afirma algo comprobable y admite conclusiones contrarias. Ese criterio, el de la mejor evidencia, es el mismo que se aplicó a lo largo del semestre con los géneros trabajados, y distingue una síntesis defendible de una simple opinión argumentada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle-v12",
+      "statement": "¿Qué argumento sostiene mejor la decisión de conservar la gráfica en la revista?",
+      "context": "En Tunja, el comité de la revista escolar repasó la síntesis del grado 8° sobre el consumo de agua. Una editora propuso eliminar la gráfica que compara el consumo de los últimos tres años porque, según ella, «se ve compleja y confunde a quien lee». Un miembro del comité no está de acuerdo, porque la gráfica es la única que muestra la tendencia real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conservarla tal como está, porque cualquier esfuerzo por simplificar una gráfica es una forma de manipular la información.",
+          "is_correct": false,
+          "feedback": "Confundir complejidad con manipulación absolutiza la defensa: adaptar la presentación visual no modifica los datos que se comunican."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminarla y reemplazarla por un párrafo con los tres valores, porque el texto resulta más rápido de leer que cualquier imagen.",
+          "is_correct": false,
+          "feedback": "Sustituir la tendencia por valores sueltos elimina justamente la información más valiosa, que es la dirección en que cambiaron los datos."
+        },
+        {
+          "letter": "C",
+          "text": "Conservarla solo si el comité garantiza la exactitud de la fuente, porque en cuanto se publique deja de ser responsabilidad de sus autores.",
+          "is_correct": false,
+          "feedback": "La responsabilidad no se transfiere con la publicación: verificar la fuente y asumirla sigue siendo parte del compromiso ético del trabajo escolar."
+        },
+        {
+          "letter": "D",
+          "text": "Conservar la gráfica y acompañarla de un texto breve que explique la tendencia, porque muestra información que las cifras aisladas no permiten ver y así la publicación cumple su propósito informativo.",
+          "is_correct": true,
+          "feedback": "Es el mejor argumento: no se descarta la evidencia, se ajusta el acompañamiento, y con ello se respeta tanto al lector como al rigor del dato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una decisión editorial implica considerar el propósito del medio, la audiencia a la que se dirige y la responsabilidad que se asume con la información. En Tunja, la discusión sobre la gráfica muestra que no se trata de elegir entre simpleza y profundidad, sino de acompañar los datos con el apoyo que el lector necesita. La postura crítica no rechaza lo complejo: evalúa si la complejidad está al servicio del propósito o si estorba a su cumplimiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W30-sintesis-integradora-semestre-3-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
