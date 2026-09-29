@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-3-grade-8-subject-lectura_critica",
+    "generated_at": "2026-09-29T04:18:13.097Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v1",
+      "statement": "De acuerdo con la primera línea de Camila, ¿qué elementos de la narrativa aparecen de manera explícita en el fragmento?",
+      "context": "En el taller de escritura de un colegio de Bogotá, Camila dejó esta primera línea de su novela: \"Aurelio llegó a la plaza de mercado de Chapinero cuando ya nadie compraba pescado. Traía un cuaderno en la mano y la lluvia le tamborileaba en la nuca.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador, los personajes, el tiempo y el espacio, rasgos que se distinguen desde la primera frase.",
+          "is_correct": true,
+          "feedback": "El fragmento presenta a alguien que cuenta, a Aurelio como personaje, un momento preciso y un lugar identificable: la plaza de mercado de Chapinero."
+        },
+        {
+          "letter": "B",
+          "text": "El tema, la moraleja y el mensaje final que la autora pretende transmitir al público.",
+          "is_correct": false,
+          "feedback": "Ninguno de esos tres elementos aparece enunciado: la línea inicial solo muestra una escena, sin anticipar conclusión ni enseñanza."
+        },
+        {
+          "letter": "C",
+          "text": "El autor, la editorial y el año de publicación de la obra que Camila está escribiendo.",
+          "is_correct": false,
+          "feedback": "Esos datos pertenecen a la vida real del libro y no al mundo que el texto construye; la frase no informa quién lo publica ni cuándo."
+        },
+        {
+          "letter": "D",
+          "text": "El conflicto, el punto más alto de la tensión y el desenlace de toda la historia.",
+          "is_correct": false,
+          "feedback": "Esos tres momentos exigen una secuencia narrativa desarrollada, algo que una sola frase inicial todavía no construye."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer los elementos básicos de la narrativa es el punto de partida del análisis literario en grado octavo. En la línea de Camila se distinguen con claridad quién cuenta, quién actúa, cuándo ocurre el hecho y dónde sucede. La lluvia y el cuaderno son detalles de ambientación que sirven para dibujar la escena y no el tema de la novela. Esta distinción prepara al estudiante para separar el mundo representado del significado que la obra busca transmitir.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v2",
+      "statement": "¿Qué formas del enunciado permiten afirmar que el fragmento está narrado en primera persona y que quien narra participa en la historia?",
+      "context": "Diana escribe en su diario de lectura: \"Yo subí al bus de la línea 193 en Bosa. Cuando por fin logré sentarme, miré por la ventana y pensé que el barrio había cambiado sin que nadie me avisara.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los artículos \"el\" y \"la\" y el sustantivo abstracto \"cambio\", que marcarían la distancia del narrador.",
+          "is_correct": false,
+          "feedback": "Los artículos determinados y los sustantivos aparecen igual en primera y en tercera persona; no son marcas de persona gramatical."
+        },
+        {
+          "letter": "B",
+          "text": "El pronombre \"yo\", el pronombre \"me\" y la forma verbal \"pensé\", todos en primera persona.",
+          "is_correct": true,
+          "feedback": "\"Yo\" y \"me\" son formas pronominales de primera persona, y \"pensé\" está conjugado en esa misma persona del discurso."
+        },
+        {
+          "letter": "C",
+          "text": "El adverbio \"por fin\" y la conjunción \"cuando\", que volverían impersonal el relato.",
+          "is_correct": false,
+          "feedback": "Esos conectores organizan el tiempo de los hechos, pero no indican quién los vive: pueden aparecer igual en un relato en tercera persona."
+        },
+        {
+          "letter": "D",
+          "text": "La expresión \"el barrio\" con artículo determinado, que lo convertiría en un personaje más.",
+          "is_correct": false,
+          "feedback": "\"El barrio\" es un lugar del escenario narrativo y no un personaje, y el artículo no señala la persona del verbo que narra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La persona narrativa se reconoce por marcas gramaticales y no por intuiciones. En el fragmento de Diana, el pronombre \"yo\", el pronombre átono \"me\" y el verbo \"pensé\" aparecen desde la voz que relata. Comprender esta diferencia ayuda a interpretar la cercanía emocional con los hechos, porque quien cuenta en primera persona vive lo que relata. Esa distancia o cercanía es la base de muchos análisis de tono que se desarrollan más adelante en la secuencia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v3",
+      "statement": "¿Qué función cumplen los conectores temporales del resumen de Mileidy y qué orden reconstructoriano ofrecen al lector?",
+      "context": "En el círculo de lectura de Medellín, Mileidy resumió así el primer capítulo de una novela: \"Al amanecer, doña Rosalba cerró la tienda de abarrotes. Mientras tanto, su nieto Simón preparaba el arroz. Al día siguiente, los dos salieron a caminar por el parque.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indicar que el resumen reproduce un diario real, porque el texto consigna horas y fechas precisas.",
+          "is_correct": false,
+          "feedback": "Ninguno de los conectores citados señala una hora exacta ni una fecha de calendario; solo organizan la sucesión de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "Separar la descripción de los personajes de sus acciones para impedir que el lector confunda a los dos protagonistas.",
+          "is_correct": false,
+          "feedback": "Las expresiones usadas no distinguen descripciones de acciones, sino momentos distintos de una misma secuencia narrativa."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenar los hechos de manera sucesiva: primero el cierre de la tienda, luego la preparación del arroz, después la salida al parque.",
+          "is_correct": true,
+          "feedback": "Las tres expresiones inician, superponen y trasladan los hechos en el tiempo, de modo que la secuencia queda bien reconstruida."
+        },
+        {
+          "letter": "D",
+          "text": "Convertir el resumen en un diálogo, porque cada conector introduce la intervención de un personaje.",
+          "is_correct": false,
+          "feedback": "Ninguna de esas expresiones señaladas introduce intervención de voz ajena: el resumen permanece en narración indirecta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conectores temporales son el andamiaje que sostiene la comprensión de cualquier relato. En el resumen de Mileidy, \"al amanecer\" abre la secuencia, \"mientras tanto\" superpone dos hechos simultáneos y \"al día siguiente\" avanza hacia un momento posterior. Reconocer esa diferencia muestra que narrar no es apenas enumerar acciones, sino situarlas unas respecto de otras. Esta herramienta se reutiliza más adelante para evaluar la coherencia interna de un argumento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v4",
+      "statement": "En el fragmento, la expresión \"el pueblo respiraba despacio\" no tiene un sentido literal. ¿Cuál es la lectura adecuada de esa imagen y qué permite inferir sobre el narrador?",
+      "context": "El círculo de lectura de Pereira discutió un fragmento de novela ambientado en un pueblo cafetero: \"Aquel pueblo respiraba despacio, como si el verde de las fincas le hubiera enseñado a no hacer ruido.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describe que en el pueblo el aire circulaba con lentitud por la altitud de la región.",
+          "is_correct": false,
+          "feedback": "Esa lectura literal desaprovecha la imagen y reduce la expresión a un dato físico que el fragmento no menciona en ningún momento."
+        },
+        {
+          "letter": "B",
+          "text": "Explica que los habitantes tenían dificultades para respirar mientras trabajaban en las fincas de café.",
+          "is_correct": false,
+          "feedback": "El texto no habla de salud ni de esfuerzo físico: el asunto es el ritmo apacible del lugar y no una dificultad respiratoria."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que el narrador confundió el paisaje con una persona y escribió de manera confusa.",
+          "is_correct": false,
+          "feedback": "Trasladar rasgos humanos al paisaje es un recurso poético frecuente en la novela, no una falla en la escritura del narrador."
+        },
+        {
+          "letter": "D",
+          "text": "Es una imagen que traslada al lugar y a sus habitantes la lentitud y el silencio del entorno.",
+          "is_correct": true,
+          "feedback": "La acción humana de respirar, aplicada a un pueblo, proyecta sobre él la misma calma que el fragmento describe."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender el valor figurado de las palabras es indispensable para leer novelas con criterio. En este caso, el verbo \"respirar\" aplicado a un pueblo no informa sobre el aire, sino que traslada a los habitantes la lentitud y el silencio del paisaje. Reconocer ese desplazamiento permite inferir que el narrador conoce de cerca ese entorno y lo describe con cariño. La misma operación se repite después con metáforas aplicadas a personajes y a objetos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v5",
+      "statement": "¿Con qué intención pragmática habla el narrador en estas líneas y qué efecto busca provocar en el lector?",
+      "context": "Así comienza la novela que escribe un grupo de noveno grado de Ibagué: \"No reescribas esta historia, yo no escribí nada de lo que sigue. Y si algo te parece raro, échale la culpa al que te lo contó en el kiosco de la esquina.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rehúsa asumir la responsabilidad del relato y se coloca por encima de él, lo que genera curiosidad y complicidad en quien lee.",
+          "is_correct": true,
+          "feedback": "El \"no\" inicial y la frase \"yo no escribí nada\" desarman la certeza del lector y lo invitan a seguir leyendo con desconfianza."
+        },
+        {
+          "letter": "B",
+          "text": "Invita al lector a verificar los hechos en otras fuentes, porque presenta la historia como un documento que necesita comprobación.",
+          "is_correct": false,
+          "feedback": "\"No reescribas\" e \"yo no escribí\" niegan cualquier intención de revisión documental: el narrador rechaza, no invita a verificar."
+        },
+        {
+          "letter": "C",
+          "text": "Ironiza sobre sí mismo y admite que lo que viene a contar es falso, para que el lector no le crea nada.",
+          "is_correct": false,
+          "feedback": "El fragmento no confiesa una falsedad; usa el humor para colocarse por encima de la responsabilidad de lo que cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "Advierte sobre un daño concreto que podría sufrir el grupo que escribe, y por eso pide prudencia antes de seguir leyendo.",
+          "is_correct": false,
+          "feedback": "\"Échale la culpa al que te lo contó\" apunta al chisme de la esquina y no a un riesgo escolar o laboral alguno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La intención del narrador se revela en lo que afirma y también en lo que se niega a afirmar. Aquí, el \"no\" inicial y la expresión \"yo no escribí nada de lo que sigue\" liberan al narrador de su relato para colocarse por encima de él. Ese gesto irónico, rematado con la referencia al kiosco de la esquina, produce curiosidad y complicidad en el lector. Reconocer estas estrategias permite valorar el humor como un recurso serio de la novela.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v6",
+      "statement": "Además de lo que el fragmento cuenta sobre una casa y una familia, ¿qué relación guarda con otra obra que el lector colombiano puede reconocer?",
+      "context": "En un taller de lectura de Cartagena, un alumno leyó este fragmento: \"La casa verde se caía sola, sin que nadie la empujara. Después vinieron las moscas, y con ellas el olor a cacao que la familia no había vuelto a preparar desde aquel invierno.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copia literalmente el capítulo inicial de una novela que el autor publicó en su blog personal.",
+          "is_correct": false,
+          "feedback": "Nada en el fragmento remite a una publicación digital concreta: la relación que se reconoce es con una obra literaria de amplia difusión."
+        },
+        {
+          "letter": "B",
+          "text": "Remite a la novela de Gabriel García Márquez \"Pedro Páramo\", que también cuenta la historia de una familia y un pueblo.",
+          "is_correct": false,
+          "feedback": "\"Pedro Páramo\" es una novela de Juan Rulfo ambientada en un pueblo de México y no una obra de García Márquez."
+        },
+        {
+          "letter": "C",
+          "text": "Alude a \"Cien años de soledad\", pues evoca una casa que envejece hasta derrumbarse con la presencia constante de las moscas.",
+          "is_correct": true,
+          "feedback": "La casa que se deteriora sola y el olor que regresa con las moscas evocan el imaginario de la casa de los Buendía en Macondo."
+        },
+        {
+          "letter": "D",
+          "text": "Se apoya en un cuento de Rafael Pombo, un poeta de Boyacá que escribió sobre la casa de sus abuelos.",
+          "is_correct": false,
+          "feedback": "Pombo fue un poeta infantil de Boyacá, no un narrador de cuentos de casas que se derrumban ni de familias con olor a cacao."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer alusiones permite que el lector lea una novela dentro de una tradición y no como un texto aislado. Aquí, la casa que se cae sola, el olor que regresa y la llegada de las moscas remiten a imágenes bien conocidas de \"Cien años de soledad\", la novela de Gabriel García Márquez sobre la familia Buendía en Macondo. Detectar ese vínculo amplía la comprensión de las decisiones del autor. El ejercicio enseña a leer cada fragmento como parte de un diálogo entre textos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación existe entre el espacio descrito y el tono que adopta el narrador en este fragmento?",
+      "context": "En la novela que analiza el club de lectura de Cúcuta, el narrador describe así su barrio: \"En nuestro conjunto hay patio interior, televisión de tubo y la costumbre de medir el piso de cada casa. En eso, según don Eliécer, sí funcionaba la escala.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espacio genera un tono solemne y grave, porque el narrador presenta su barrio como un ejemplo de arquitectura protegida.",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona ninguna protección ni valor patrimonial: el Inventario de detalles sirve para construir humor, no solemnidad."
+        },
+        {
+          "letter": "B",
+          "text": "El espacio sostiene un tono irónico, porque el narrador aplica a la jerarquía social del barrio la misma precisión con que enumera sus objetos.",
+          "is_correct": true,
+          "feedback": "El inventario detallado de objetos y la frase final sobre \"la escala\" invierten la jerarquía de lo importante y producen ironía."
+        },
+        {
+          "letter": "C",
+          "text": "El espacio permite que el narrador se vuelva neutral, porque se limita a informar datos sin emitir ningún juicio.",
+          "is_correct": false,
+          "feedback": "La atribución a don Eliécer y la expresión \"sí funcionaba la escala\" contienen un juicio claro sobre el vecindario."
+        },
+        {
+          "letter": "D",
+          "text": "El espacio instala un conflicto dramático, porque dos familias del conjunto se disputan el piso más alto.",
+          "is_correct": false,
+          "feedback": "El fragmento no presenta ninguna pelea: la costumbre se menciona como un rasgo general y no como un conflicto entre personajes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar cómo un espacio influye en el tono exige relacionar los detalles de ambientación con la intención del narrador. En este caso, el inventario de objetos antiguos y la expresión final sobre \"la escala\" funcionan como una ironía que se burla de las prioridades de sus habitantes. Reconocer ese mecanismo muestra que la descripción del lugar nunca es inocente. El ejercicio prepara para valorar el espacio como un recurso con efectos, no como un simple decorado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las cuatro caracterizaciones de Aurelio respeta lo que el texto permite afirmar y evita atribuirle rasgos que nunca aparecen?",
+      "context": "La alumna Sara de un colegio de Manizales leyó un fragmento en clase: \"Aurelio no gritaba nunca. En la cocina su abuela le pedía que hablara más fuerte y él respondía bajando la voz, como si tuviera que ganarse un permiso que ya no le iban a dar.\" Después, el grupo discutió cómo describir a ese personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aurelio es un muchacho cobarde que se callaba siempre por miedo a su abuela.",
+          "is_correct": false,
+          "feedback": "El fragmento no menciona miedo ni cobardía: la comparación con el permiso es una interpretación del narrador y no una descripción de su carácter."
+        },
+        {
+          "letter": "B",
+          "text": "Aurelio es un joven educado que respondía con educación y voz suave porque era esa su costumbre.",
+          "is_correct": false,
+          "feedback": "La costumbre que propone esta opción contradice el texto, que asocia esa forma de hablar con algo que se ganaba, no con un hábito."
+        },
+        {
+          "letter": "C",
+          "text": "Aurelio es un joven que pidió permiso para hablar y nunca consiguió la autorización de su abuela.",
+          "is_correct": false,
+          "feedback": "El texto nunca dice que él pidiera permiso ni que se lo negaran: el narrador solo supone ese trámite mediante un \"como si\"."
+        },
+        {
+          "letter": "D",
+          "text": "Aurelio es alguien que bajaba la voz y que el narrador asocia con la idea de ganarse un permiso.",
+          "is_correct": true,
+          "feedback": "Esta lectura se apoya en los dos datos explícitos del fragmento y no añade intenciones que el texto no atribuye al personaje."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Valorar una descripción de personaje exige contrastarla con lo que el texto dice y con lo que solo insinúa. La comparación \"como si tuviera que ganarse un permiso\" es una hipótesis del narrador, no un hecho confirmado sobre Aurelio. Por eso la caracterización más fiel es la que reproduce los gestos observados y respeta esa ambigüedad. Descartar las otras opciones entrena al estudiante a no completar vacíos con suposiciones propias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de estos cuatro resúmenes mantiene la coherencia interna de la escena, es decir, respeta el orden de los hechos y su relación de causa y efecto?",
+      "context": "En el círculo de lectura de Barranquilla compararon cuatro resúmenes de una misma escena de novela. El texto original ocurre así: Julián llega a la casa de su tía, golpea tres veces, ella no abre y él se sienta en la portería a esperar el amanecer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Julián llegó a la casa de su tía, se sentó en la portería, golpeó tres veces y, como ella no abrió, se marchó a buscar trabajo.",
+          "is_correct": false,
+          "feedback": "Este resumen altera el orden de las acciones y añade una decisión final que el texto nunca relata."
+        },
+        {
+          "letter": "B",
+          "text": "Julián llegó a la casa de su tía y golpeó tres veces; como ella no abrió, se sentó en la portería a esperar el amanecer.",
+          "is_correct": true,
+          "feedback": "La secuencia llega, golpea, no le abren y espera respeta tanto el orden de los hechos como la relación causa y efecto."
+        },
+        {
+          "letter": "C",
+          "text": "Julián golpeó tres veces antes de llegar a la casa de su tía, ella abrió la puerta y él entró a esperar allí el amanecer.",
+          "is_correct": false,
+          "feedback": "Este resumen invierte el orden de llegada y golpe, además de suponer que la tía abrió, cuando el texto dice lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Mientras Julián esperaba el amanecer en la portería, su tía abrió la puerta, y por eso él se marchó a buscar trabajo.",
+          "is_correct": false,
+          "feedback": "El resumen fabrica dos hechos ausentes del original, la apertura de la puerta y la partida del personaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un discurso es coherente cuando los hechos se conectan de manera lógica y guardan el orden del texto. En los cuatro resúmenes propuestos, solo uno mantiene la llegada, el golpeo, la puerta cerrada y la espera, respetando además la causa que explica cada gesto. Los demás alteran la secuencia o agregan acontecimientos que la escena no contiene. Esta habilidad de contraste resulta indispensable para resumir textos y para argumentar en las pruebas de lectura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v10",
+      "statement": "¿Qué elementos del discurso llevan al lector a poner en duda la versión del narrador y a no darla por cierta?",
+      "context": "En el fragmento que estudia un grupo de Cartagena, el narrador dice: \"Yo salvé a mi hermana de aquel incendio porque llegué antes que todos. Mis vecinos pueden confirmarlo, aunque antes juraran que yo no estaba en la casa.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador invoca como prueba a unos testigos que, según él mismo, desmienten su presencia y no aporta pruebas independientes.",
+          "is_correct": true,
+          "feedback": "Esa contradicción interna debilita el argumento del narrador y obliga al lector a contrastar su versión con los hechos narrados."
+        },
+        {
+          "letter": "B",
+          "text": "El narrador omite el nombre del barrio donde ocurrió el incendio, por lo que su versión no puede considerarse ficción.",
+          "is_correct": false,
+          "feedback": "El fragmento no da el lugar del incendio y eso no invalida nada: muchas obras relatan escenarios sin nombrarlos."
+        },
+        {
+          "letter": "C",
+          "text": "El narrador se contradice sobre la hora del incendio, porque vuelve a mencionar el amanecer más adelante.",
+          "is_correct": false,
+          "feedback": "En el fragmento no se indica ninguna hora del incendio, de modo que la contradicción señalada no existe."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador usa un verbo valorativo como \"salvó\" y por eso su relato no puede leerse como un testimonio objetivo.",
+          "is_correct": false,
+          "feedback": "Los verbos valorativos son frecuentes en la ficción y no impiden leer un pasaje como testimonio; el problema está en otro lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un narrador no confiable es aquel cuya versión choca con lo que el propio texto deja ver. En este fragmento, el narrador invoca a los vecinos como testigos y al mismo tiempo reconoce que ellos lo negaban en la casa, lo que debilita sérieusement su afirmación. Detectar esa grieta enseña al lector a desconfiar de los personajes que se defienden a sí mismos. Esta habilidad resulta especialmente útil en las novelas de investigación y en los relatos de campo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v11",
+      "statement": "Teniendo en cuenta el sentido de la palabra \"nunca\" y lo que el propio narrador relata después del juramento, ¿cuál de los dos desenlaces propuestos es más coherente con el personaje construido?",
+      "context": "En el fragmento que analizan los estudiantes de Pasto, el narrador confiesa: \"Le juré a mi hermana que no volvería nunca a la finca. Nunca. Esa misma semana volví a cruzar el potrero con un bulto de ropa.\" El profesor les pidió elegir entre dos desenlaces propuestos por el grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desenlace en el que el juramento se cumple y el narrador jamás regresa a la finca, porque esa era la promesa.",
+          "is_correct": false,
+          "feedback": "Esa opción contradice la confesión del fragmento, que afirma que él volvió a cruzar el potrero esa misma semana."
+        },
+        {
+          "letter": "B",
+          "text": "El desenlace en el que la hermana muere y el narrador regresa a la finca para cumplir la promesa.",
+          "is_correct": false,
+          "feedback": "El fragmento no anuncia la muerte de la hermana y el regreso que describe ocurre contra lo jurado, no para cumplirlo."
+        },
+        {
+          "letter": "C",
+          "text": "El desenlace en el que el narrador borra el juramento del relato, de modo que el texto deja de mencionar la promesa.",
+          "is_correct": false,
+          "feedback": "Borrar la promesa resuelve la contradicción solo en la superficie, cuando el conflicto del personaje depende precisamente de haberla hecho."
+        },
+        {
+          "letter": "D",
+          "text": "El desenlace en el que el narrador admite que volvió a la finca y explica qué lo llevó a hacerlo pese al juramento.",
+          "is_correct": true,
+          "feedback": "Reconocer la ruptura del juramento y explicarla respeta el sentido de \"nunca\" y encaja con la confesión que el fragmento ya anticipa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La palabra \"nunca\" significa en ningún tiempo, y por eso el juramento del narrador establece una expectativa muy fuerte. El fragmento refuerza esa promesa con una repetición y luego la incumple, de modo que un desenlace coherente debe reconocer esa ruptura y darle una razón. Evaluar con este criterio enseña que el final de una novela no se inventa libremente, sino que se deduce de lo que el texto ya construyó. La precisión semántica se convierte así en un criterio de lectura argumentada.\n\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semántico",
+      "expected_success": 0.48,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las dos propuestas cumple mejor la indicación del profesor y qué efecto de lectura consigue con esa decisión?",
+      "context": "En un taller de escritura de Bogotá, el profesor pidió una apertura que generara misterio sin mostrar los sentimientos del personaje. Andrés propuso: \"Yo desperté con las manos amarradas; sentí un miedo que no supe nombrar.\" Yuliet propuso: \"Andrés despertó con las manos amarradas y miró la puerta como quien mira un abismo.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La propuesta de Andrés es la adecuada, porque el pronombre \"yo\" impide que el lector acceda a los sentimientos del personaje.",
+          "is_correct": false,
+          "feedback": "Esa apertura declara el miedo del personaje con \"sentí\", de modo que sí permite entrar en sus sentimientos."
+        },
+        {
+          "letter": "B",
+          "text": "La propuesta de Yuliet es la adecuada, porque nombrar al personaje desde el inicio permite que el lector imagine quién es.",
+          "is_correct": false,
+          "feedback": "Nombrar al personaje no responde a la indicación del profesor, que pedía mantenerlo fuera de los sentimientos."
+        },
+        {
+          "letter": "C",
+          "text": "La propuesta de Yuliet es la adecuada, porque la tercera persona describe las acciones desde afuera sin declarar lo que el personaje siente.",
+          "is_correct": true,
+          "feedback": "La narración en tercera persona mantiene la distancia emocional pedida y deja que la comparación con el abismo genere el misterio."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos propuestas cumplen la indicación, porque en ambos casos el lector permanece fuera de los sentimientos del personaje.",
+          "is_correct": false,
+          "feedback": "La apertura de Andrés nombra el miedo sentido por el personaje, así que no cumple la restricción del profesor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir la posición del narrador es elegir el efecto que se quiere provocar en quien lee. La indicación del profesor pide misterio y distancia emocional, y solo la propuesta de Yuliet la respeta, porque describe lo que Andrés hace y mira sin declarar lo que siente. La propuesta de Andrés, en cambio, entra de inmediato en la interioridad. Valorar esta elección muestra que el punto de vista narrativo es una decisión deliberada del autor y no un simple recurso disponible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
