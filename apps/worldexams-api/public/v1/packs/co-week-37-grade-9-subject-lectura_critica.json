@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-37-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T13:20:49.120Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v1",
+      "statement": "¿Qué función cumple la exposición en un relato?",
+      "context": "En el aula de noveno grado de Bogotá, la profesora pregunta por el nombre de la primera parte de cualquier relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierra la historia y comunica la solución definitiva del conflicto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa es la función del desenlace. La exposición aparece al comienzo y prepara el terreno, no cierra la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Presenta a los personajes y las circunstancias que anteceden al conflicto.",
+          "is_correct": true,
+          "feedback": "Correcto. La exposición sitúa al lector: quién aparece, dónde está y qué desea antes de que la trama se tense."
+        },
+        {
+          "letter": "C",
+          "text": "Expone la opinión del autor sobre el comportamiento de los personajes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la opinión del autor pertenece al texto argumentativo. La exposición narrativa presenta hechos y no emite juicios de valor."
+        },
+        {
+          "letter": "D",
+          "text": "Resume el desenlace para que el lector no se pierda en los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: resumir el final es una tarea de comprensión, no la función de la exposición. Además, la exposición va antes del conflicto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La exposición es la parte inicial del relato y cumple la tarea de instalar al lector en un mundo: personajes, lugar, tiempo y situación previa. Sin ella, el nudo no tendría sentido porque el lector no sabría qué se está perdiendo cuando aparece el conflicto. Reconocer la exposición permite afirmar, por ejemplo, que la primera oración del Texto 1 presenta a Sara y el lugar, mientras que el nudo llega más adelante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿qué oración corresponde al nudo?",
+      "context": "La profesora de La Prosperidad pide a sus estudiantes que marquen en el cuaderno la oración donde cambia la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "«Sara llegó al colegio de La Prosperidad con el cuaderno abierto sobre el pupitre.»",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa oración presenta a la protagonista y el lugar, así que pertenece a la exposición."
+        },
+        {
+          "letter": "B",
+          "text": "«Desde hacía cuatro semanas preparaba un cuento para la feria de literatura.»",
+          "is_correct": false,
+          "feedback": "Incorrecto: la frase explica lo que ocurre antes de la tensión; es información de fondo y por tanto de la exposición."
+        },
+        {
+          "letter": "C",
+          "text": "«Ese martes, cuando el profesor-organizador pasó la lista, el nombre de Sara no apareció.»",
+          "is_correct": true,
+          "feedback": "Correcto. La oración introduce la dificultad que rompe el equilibrio y obliga al personaje a reaccionar, que constituye el fondo del nudo."
+        },
+        {
+          "letter": "D",
+          "text": "«Sara lo leyó y el salón aplaudió.»",
+          "is_correct": false,
+          "feedback": "Incorrecto: el aplauso cierra la tensión del relato, así que esa oración hace parte del desenlace."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El nudo es el momento en que el conflicto se hace presente y el personaje debe tomar una decisión. En el Texto 1 ese momento llega cuando Sara descubre que su nombre no está en la lista, porque hasta entonces ella tenía un plan y después de esa frase tiene que reaccionar. Localizar el nudo en el texto es el primer paso para entender cómo el autor organiza la tensión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v3",
+      "statement": "¿Qué es el desenlace de un relato?",
+      "context": "En un taller de lectura en Tunja, un estudiante pregunta por qué el relato no puede terminar en el nudo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera dificultad que detiene al personaje en su propósito.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa descripción corresponde al nudo, que es el momento de máxima tensión y no la parte final."
+        },
+        {
+          "letter": "B",
+          "text": "La presentación del personaje y del lugar donde transcurren los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la presentación del personaje y del lugar es la exposición, que abre el relato y no lo cierra."
+        },
+        {
+          "letter": "C",
+          "text": "El instante en que el narrador aparece por primera vez en el relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la aparición del narrador es un asunto de voz narrativa y no un momento de la estructura de la trama."
+        },
+        {
+          "letter": "D",
+          "text": "La parte final donde el conflicto se resuelve y la historia llega a su término.",
+          "is_correct": true,
+          "feedback": "Correcto. El desenlace da respuesta a la tensión abierta por el nudo y puede cerrarla o transformarla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El desenlace es la sección del relato que responde a lo que el nudo dejó abierto. Puede resolver el conflicto de manera favorable, desfavorable o ambigua, pero siempre transforma el estado inicial de la historia. En el Texto 1, el desenlace aparece cuando el profesor acepta la inscripción y Sara lee su cuento. Reconocerlo ayuda a evaluar si el final es coherente con lo que el relato prometió.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v4",
+      "statement": "Aplicando la ficha del Texto 2, ¿cuál de estos conflictos explica mejor el nudo del Texto 1?",
+      "context": "Los estudiantes de noveno grado de Medellín usan la ficha del Texto 2 para clasificar el problema central del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Social, porque Sara se enfrenta a una norma que decide quién participa en la feria.",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha define el conflicto social como la oposición entre un personaje y una norma, y el cupo de la feria funciona como esa norma."
+        },
+        {
+          "letter": "B",
+          "text": "Interno, porque Sara duda entre insistir y aceptar que no hay cupo disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la duda de Sara existe, pero es subordinada. El relato no se detiene en su vacilación, sino en la regla que la excluyó."
+        },
+        {
+          "letter": "C",
+          "text": "Con el entorno, porque la historia ocurre en un patio donde Sara respira antes de volver.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el patio solo sirve para representar una pausa momentánea. No genera la oposición que sostiene el relato."
+        },
+        {
+          "letter": "D",
+          "text": "Sobrenatural, porque nadie explica cómo desapareció el nombre de la lista.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la desaparición de la lista tiene una explicación administrativa, no sobrenatural. El texto no registra hechosparanormales ni milagros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Clasificar un conflicto exige comparar lo que ocurre en el relato con las definiciones de la ficha, no con la impresión personal del lector. La ficha dice que el conflicto social aparece entre un personaje y una norma, y en el Texto 1 la inscripción previa es precisamente esa norma que excluye a Sara. Aplicar esta clasificación permite distinguir el conflicto que ordena la trama de los conflictos menores que la acompañan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v5",
+      "statement": "¿Qué recurso del Texto 1 comunica con mayor eficacia el nudo?",
+      "context": "En el salón de Cali, la profesora pide explicar por qué el lector se tensa al leer la tercera oración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso del pasado, porque el narrador cuenta hechos que ya terminaron.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el uso de un tiempo verbal indica cuándo transcurre la historia, pero no genera la tensión del nudo."
+        },
+        {
+          "letter": "B",
+          "text": "La ruptura de la expectativa, porque el lector esperaba ver a Sara en la lista.",
+          "is_correct": true,
+          "feedback": "Correcto. El relato prepara una expectativa y la incumple, y ese desajuste es lo que obliga al lector a seguir leyendo."
+        },
+        {
+          "letter": "C",
+          "text": "La mención de dos lugares distintos, porque el contraste geográfico genera el conflicto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto menciona un colegio y un patio, pero la tensión no proviene del espacio sino de la ausencia de un nombre."
+        },
+        {
+          "letter": "D",
+          "text": "El crecimiento de la longitud de los párrafos, que se vuelven más largos hasta el final.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la longitud del párrafo no es un recurso que construya tensión aquí, y el texto mantiene oraciones de tamaño parecida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ruptura de expectativa ocurre cuando el relato prepara una situación y luego la contradice, y en este texto eso sucede con la lista. El lector anticipa que Sara aparecerá porque la exposición la presenta como una participante esperada, y esa anticipación se rompe en el nudo. Reconocer el mecanismo discursivo de la tensión enseña que el conflicto no solo se cuenta, también se construye por la forma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto busca el desenlace del Texto 1 en el lector?",
+      "context": "En una institución educativa de Pereira, la profesora pregunta qué busca provocar el desenlace del relato en sus lectores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunicar cuántos estudiantes participaron en la feria de literatura.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no informa cifras ni asistentes. Un desenlace narrativo no funciona como un dato estadístico."
+        },
+        {
+          "letter": "B",
+          "text": "Advertir que llegar temprano no garantiza un lugar en actividades escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa conclusión no se desprende de la historia, porque el problema de Sara fue un registro perdido y no una falta de puntualidad."
+        },
+        {
+          "letter": "C",
+          "text": "Animar a preguntar y defender el propio derecho cuando un trámite deja a alguien afuera.",
+          "is_correct": true,
+          "feedback": "Correcto. El desenlace muestra que insistir ante una norma injusta produce un resultado favorable, y esa es la invitación que el texto deja."
+        },
+        {
+          "letter": "D",
+          "text": "Desaconsejar que los estudiantes participen en actividades escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el relato valoriza la participación de Sara y no pide que los estudiantes se abstengan de participar en ellas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El desenlace no solo cierra la historia, también comunica una postura sobre cómo actuar frente a un conflicto social. En el Texto 1, Sara recupera su lugar no por favoritismo sino por preguntar, y ese es el modelo que el texto propone. Reconocer ese efecto pragmático ayuda a los estudiantes a explicar por qué un final puede ser más convincente que otro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación se puede establecer entre el Texto 1 y la ficha del Texto 2?",
+      "context": "En el aula de Barranquilla, un grupo de estudiantes compara la ficha de la semana con el relato leído en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El relato ilustra la ficha, porque muestra un conflicto social activado por una norma.",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha funciona como marco conceptual y el relato ofrece un caso concreto que encaja en esa clasificación."
+        },
+        {
+          "letter": "B",
+          "text": "La ficha contradice el relato, porque clasifica hechos que el texto nunca narra.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la ficha no contradice nada, sino que describe tipos generales de conflicto aplicables a relatos como este."
+        },
+        {
+          "letter": "C",
+          "text": "El relato corrige la ficha, porque incluye un tipo de conflicto que la tabla omite.",
+          "is_correct": false,
+          "feedback": "Incorrecto: las categorías de la ficha alcanzan a explicar el relato, de modo que no hace falta corregir la tabla."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos son equivalentes, porque tratan el mismo asunto con la misma intención.",
+          "is_correct": false,
+          "feedback": "Incorrecto: un texto explica y clasifica tipos de conflicto, mientras el otro narra un caso; sus funciones no son intercambiables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto de apoyo cumple su función cuando permite comprender mejor el texto principal. La ficha ofrece categorías y el Texto 1 ofrece un caso: la inscripción previa es la norma y Sara es el personaje afectado. Analizar esta relación enseña que la teoría y el ejemplo se validan mutuamente, y que una buena lectura crítica ordena varias fuentes para responder una misma pregunta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo construye el Texto 1 el clima emocional durante el nudo?",
+      "context": "En la clase de Bucaramanga, la profesora pide describir el clima emocional del momento de mayor tensión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mediante un diálogo extenso en que los personajes discuten el problema por un buen rato.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el relato no incluye esa discusión. La obra resuelve el asunto con un silencio y una pregunta breve."
+        },
+        {
+          "letter": "B",
+          "text": "Mediante oraciones largas y una acción física que interrumpen el movimiento del personaje.",
+          "is_correct": true,
+          "feedback": "Correcto. Las oraciones largas, el silencio de Sara y la salida al patio producen una pausa que se lee como incomodidad y como un momento de duda."
+        },
+        {
+          "letter": "C",
+          "text": "Mediante el nombre del barrio, que garantiza por sí solo un ambiente de tensión.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el topónimo no genera la tensión. La atmósfera se construye con la narración, no con la toponimia del lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Mediante un tono irónico del narrador que se burla de la situación de Sara.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el narrador no ironiza. El tono del relato es sobrio y la narración trata la situación con seriedad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El clima emocional se construye con decisiones del narrador: el ritmo de las oraciones, los silencios y las acciones de los personajes. En el Texto 1, el relato se detiene en un detalle físico, la garganta y la salida al patio, para hacer que el lector sienta lo que Sara siente. Analizar ese mecanismo permite explicar cómo un texto narrativo consigue que el lector se tense sin apelar a la propia posición del narrador.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v9",
+      "statement": "Si el Texto 1 terminara con «Sara se fue del colegio y no volvió a escribir», ¿qué cambiaría?",
+      "context": "En un taller de lectura en Armenia, la profesora propone reescribir el final del relato para comparar versiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No cambiaría nada relevante, porque la exposición seguiría siendo la misma.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la exposición puede mantenerse, pero el desenlace sí cambia y ese cambio altera la lectura de toda la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiaría solamente el lugar, porque la acción se trasladaría a otra ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el final alternativo no menciona ninguna ciudad, de modo que no hay un traslado geográfico."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiaría el narrador, porque tendría que pasar a la primera persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el narrador del Texto 1 ya cuenta en tercera persona y el final alternativo no lo modifica."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiaría el desenlace y el sentido del relato, porque la respuesta al conflicto sería el abandono.",
+          "is_correct": true,
+          "feedback": "Correcto. Un final de abandono convierte la tensión en derrota y con ello reorienta hacia dónde apunta toda la historia contada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Probar finales alternativos es una forma eficaz de entender qué hace el desenlace dentro de la trama. Si Sara se retira, el relato pasa de defender la inscripción a narrar un fracaso, y esa variación obliga a releer el nudo con otra interpretación. Este ejercicio muestra que el final no se añade al relato, sino que le da dirección a todo lo que viene antes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de estos desenlaces alternativos sería más coherente con el valor que propone el Texto 1?",
+      "context": "En la institución de Villavicencio, los estudiantes evalúan versiones alternativas antes de escribir su propio relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sara entrega su cuaderno, acepta la decisión del comité y no vuelve a participar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ese final contradice el mensaje final del texto, que presenta una actitud de sumisión opuesta a la que propone."
+        },
+        {
+          "letter": "B",
+          "text": "Sara se matricula en otro club, borra su cuento y cambia de área.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ese final alternativo borra la escritura de Sara y con ella la idea de que insistir produce resultados."
+        },
+        {
+          "letter": "C",
+          "text": "Sara participa en la organización de la feria y ayuda a otros inscritos a reclamar su lugar.",
+          "is_correct": true,
+          "feedback": "Correcto. Este final prolonga el valor del texto y lo lleva a la escala colectiva, sin contradecir nada de lo narrado antes."
+        },
+        {
+          "letter": "D",
+          "text": "Sara gana un premio nacional con su cuento y se aleja de las historias de su barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el premio cambia el valor del texto hacia el reconocimiento individual, no hacia la defensa de un derecho."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un desenlace exige confrontarlo con la postura que el relato defiende en su conjunto, no solo con lo narrado. El Texto 1 valoriza que una persona insista para recuperar lo que le corresponde, y el desenlace de la opción correcta amplía ese valor a un grupo. Un final alternativo es coherente cuando no contradice las decisiones anteriores del personaje ni el sentido general de la obra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v11",
+      "statement": "¿Qué ajuste mejoraría el uso de la ficha del Texto 2 como apoyo al Texto 1?",
+      "context": "En el comité académico de Ibagué, un grupo evalúa si la ficha de la semana apoya bien la lectura del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Añadir una frase que nombre de manera explícita el tipo de conflicto del relato.",
+          "is_correct": true,
+          "feedback": "Correcto. Nombrar la categoría al final del relato conectaría el ejemplo concreto con la clasificación de la ficha."
+        },
+        {
+          "letter": "B",
+          "text": "Sustituir el nombre del colegio por uno más conocido por los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el topónimo no es el problema pedagógico. Cambiar el nombre del colegio no mejora la relación entre la ficha y el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Reemplazar el relato por la tabla, porque las tablas son más fáciles de interpretar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: eliminar el relato destruiría el ejercicio. La ficha clasifica casos que solo existen si hay una narración que los ilustre."
+        },
+        {
+          "letter": "D",
+          "text": "Suprimir el desenlace, porque la tensión se conserva mejor cuando el conflicto queda abierto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: quitar el desenlace le quitaría a los estudiantes el modelo de resolución que la semana busca enseñar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un material de apoyo cumple su función cuando orienta la lectura del texto principal sin reemplazarlo. En este caso, la ficha ofrece las categorías y el relato ofrece el caso, de modo que reforzar la conexión entre ambos requiere una frase puente, no la sustitución de un texto por otro. Evaluar los materiales del aula con este criterio ayuda a construir mejores secuencias de lectura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué este tema resulta útil en la formación de un lector de noveno grado?",
+      "context": "En una reunión de docentes de lectura en Manizales, se discute por qué esta semana se incluye en el plan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite memorizar la lista de tipos de conflicto sin necesidad de leer relatos completos.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la memorización no es el objetivo. La semana propone interpretar cómo funciona un relato, no sustituirlo por una definición."
+        },
+        {
+          "letter": "B",
+          "text": "Entrega un modelo de examen que los estudiantes pueden reproducir palabra por palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el bundle no ofrece respuestas reproductibles, sino un relato que exige comparación y razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Evita el esfuerzo de interpretar, porque presenta todo lo que hay que saber ya clasificado.",
+          "is_correct": false,
+          "feedback": "Incorrecto: leer no equivale a recibir información clasificada. La ficha acompaña el trabajo de lectura, no lo reemplaza."
+        },
+        {
+          "letter": "D",
+          "text": "Forma una lectura comprensiva que permite reconocer cómo un relato organiza y cierra un conflicto.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer la exposición, el nudo y el desenlace es la base para evaluar con criterio cualquier obra narrativa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La utilidad pedagógica de un tema se mide por la habilidad de lectura que desarrolla en el estudiante. Estudiar la trama y los tipos de conflicto entrena al lector para preguntar por qué un relato funciona y para justificar su respuesta con evidencia del texto. Esa capacidad después se transfiere a obras literarias más complejas y a textos de cualquier género narrativo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-9-2026-W37-la-trama-y-la-conflictividad-narrativa-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

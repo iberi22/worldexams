@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-38-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T13:20:49.120Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el lector implícito de un texto?",
+      "context": "En el aula de noveno grado de Bello, la profesora pregunta con qué nombre se conoce al lector que un texto da por sentado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el lector que el texto supone, con ciertos conocimientos, intereses y expectativas.",
+          "is_correct": true,
+          "feedback": "Correcto. El lector implícito es una construcción del texto: quien escribe decide qué sabe, qué interesa y qué espera quien va a leer."
+        },
+        {
+          "letter": "B",
+          "text": "Es la persona real y concreta que lee el texto en este momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa es la figura del lector concreto, que cambia en cada lectura. El lector implícito permanece igual aunque lo lean personas muy distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Es el autor, que se relee a sí mismo mientras escribe.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el autor es un emisor, no un destinatario. Confundir al autor con el lector implícito borra la distancia entre quien produce el texto y quien lo recibe."
+        },
+        {
+          "letter": "D",
+          "text": "Es el ilustrador de las imágenes que acompañan el texto escrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el ilustrador es un autor más del material. El lector implícito es una categoría de la recepción, no de la producción del texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El lector implícito es la figura de un lector ideal que el texto construye a partir de lo que supone que su público sabe, le interesa y conoce. No aparece escrito en ninguna página, pero se deduce de los términos usados, de lo que se explica y de lo que se calla. Reconocerlo ayuda a justificar por qué un mismo texto resulta claro para unos lectores y opaco para otros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 1, ¿qué elemento es un ejemplo claro de saber que el texto supone de su lector?",
+      "context": "Los estudiantes de Bello marcan en el folder los lugares donde el material no explica nada y sospechan que ahí está suponiendo algo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pregunta inicial con la que se abre el folder.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la pregunta inicial es una propuesta del equipo que arma el material, no una presuposición dirigida al lector. Además, preguntar no supone saber."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre de la lámina, numerada para que pueda citarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la numeración de las láminas organiza el archivo, pero no da por sentado ningún conocimiento del lector. Es una convención de archivo, no un saber supuesto."
+        },
+        {
+          "letter": "C",
+          "text": "El pie de foto «Barrio Gonzalo, comercio hacia mil novecientos sesenta».",
+          "is_correct": true,
+          "feedback": "Correcto. Ese pie de foto supone que el lector ya reconoce qué es un barrio, qué fue el comercio de esa época y cómo se leen los datos de un archivo."
+        },
+        {
+          "letter": "D",
+          "text": "La oración final que compara observar y no observar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa oración explica una conclusión del propio texto para que el lector la entienda. Es una explicitación, no un saber presupuesto por el material."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un texto supone un saber cuando utiliza un término, una referencia o un dato sin explicarlo, confiando en que el lector ya lo maneja. En el Texto 1, el pie de foto no aclara qué es un barrio, qué se entiende por comercio en esa época ni cómo se interpretan las fechas de un archivo. Detectar esa omisión es la base para preguntar luego por la segunda dirección de la lectura, la que va del lector hacia el texto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v3",
+      "statement": "Según el Texto 2, ¿qué ocurre en la dirección que va del texto al lector?",
+      "context": "La profesora de Bello proyecta la ficha de las dos direcciones y pide un ejemplo de cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto organiza la información de modo que un lector con los saberes necesarios la entienda sin explicaciones.",
+          "is_correct": true,
+          "feedback": "Correcto. En esta dirección el texto construye a su destinatario: elige el nivel de detalle y el vocabulario según lo que supone que su lector ya sabe."
+        },
+        {
+          "letter": "B",
+          "text": "El lector completa los espacios que el autor dejó sin llenar.",
+          "is_correct": false,
+          "feedback": "Incorrecto: esa es la dirección que va del lector al texto, en la que el lector reconstruye lo que no está escrito. Aquí el punto de partida es el texto, no el lector."
+        },
+        {
+          "letter": "C",
+          "text": "El lector ordena cronológicamente las láminas del archivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: ordenar las láminas es una tarea de comprensión que realiza el lector, es decir, pertenece a la dirección contraria. La ficha separa con claridad ambas direcciones."
+        },
+        {
+          "letter": "D",
+          "text": "El texto cambia de tema cada vez que el lector se aburre.",
+          "is_correct": false,
+          "feedback": "Incorrecto: un texto no se adapta al ánimo de cada lector. La construcción del lector ideal se decide al escribir, no mientras se lee."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La doble dirección de la lectura describe un intercambio, no una entrega en un solo sentido. En la primera dirección, el texto arma un lector ideal y calibra el nivel de dificultad de lo que escribe. En la segunda, el lector aporta lo que falta e interpreta lo que está escrito. Reconocer la primera dirección permite evaluar si un material es adecuado para la audiencia a la que dice dirigirse.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v4",
+      "statement": "Un museo reemplaza en la versión para primaria el término «archivo» por la explicación «el lugar donde se guardan documentos viejos». ¿Qué demuestra ese ajuste?",
+      "context": "Un museo de Medellín prepara dos versiones del mismo material histórico, una para estudiantes de primaria y otra para estudiantes de noveno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la versión para noveno tiene menos valor académico que la de primaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la versión para noveno no vale menos, solo se apoya en saberes que el museo da por sentado. Suprimir la definición no deprecia el material, lo hace coherente con el público al que atiende."
+        },
+        {
+          "letter": "B",
+          "text": "Que los textos con palabras técnicas no tienen lector implícito.",
+          "is_correct": false,
+          "feedback": "Incorrecto: los textos técnicos tienen un lector implícito muy específico. Lo que cambia entre versiones es el nivel de ese lector, no su existencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el autor de la versión para primaria desconoce los términos de su propia especialidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: se trata de una decisión de adecuación al público, no de desconocimiento. El museo conoce el término y decide explicarlo para una audiencia que lo necesita."
+        },
+        {
+          "letter": "D",
+          "text": "Que la versión para primaria necesita definir un término que la versión para noveno puede dar por supuesto.",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar el nivel de explicación es cambiar el lector implícito: el texto se ajusta a los conocimientos que supone en cada audiencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ajustar un texto a su público es una operación deliberada sobre el lector implícito. En este caso, el museo mantiene la información y modifica el nivel de presuposición, porque un lector de primaria no tiene el mismo saber enciclopédico que uno de noveno. La misma lógica se aplica a los mensajes institucionales, a las guías de lectura y a los textos escolares de cada grado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v5",
+      "statement": "Si el pie de foto dice «El mercado de Cauca, mil novecientos noventa y ocho» y el resto de la información está en las imágenes, ¿qué ocurre en la dirección del lector al texto?",
+      "context": "Un equipo de estudiantes de noveno debe redactar el pie de foto de una fotografía de su propio archivo escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lector debe reconstruir datos que el texto no escribió, y esa reconstrucción es parte de la lectura.",
+          "is_correct": true,
+          "feedback": "Correcto. El pie de foto entrega muy poca información explícita, así que el lector completa, ordena e interpreta. Esa es justamente la dirección que va del lector al texto."
+        },
+        {
+          "letter": "B",
+          "text": "El pie de foto está mal escrito porque debería tener un mínimo de cinco líneas.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no existe una cantidad mínima de líneas para un pie de foto. Se evalúa según la información que aporta a la lectura de la imagen, no por su extensión."
+        },
+        {
+          "letter": "C",
+          "text": "El pie de foto cumple una función mecánica, la de identificar el archivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: identificar el archivo es una de sus funciones, pero no la única. También orienta la interpretación de lo que se ve en la imagen."
+        },
+        {
+          "letter": "D",
+          "text": "El pie de foto repite toda la información de las imágenes y por eso sobra.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el pie de foto no repite las imágenes, las orienta. Sin esa línea breve, el lector vería objetos sin contexto y perdería la referencia histórica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto nunca está terminado cuando se entrega: falta la parte que el lector aporta. En este pie de foto, los datos ausentes, quién vendía, qué se compraba y cómo se llamaba el barrio, se recuperan gracias a lo que el lector ya sabe y a lo que observa en la imagen. Reconocer ese trabajo de reconstrucción es lo que distingue una lectura crítica de una lectura mecánica de datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v6",
+      "statement": "Según el Texto 1, ¿cuál es la razón principal de esa dificultad?",
+      "context": "La profesora pide justificar por qué la primera lámina del folder no se entiende para quien llega de otra ciudad y no conoce la vida de ese barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto está escrito en un idioma que ese lector no comprende.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el folder está escrito en español y el problema no es el idioma, sino la falta de contexto local que el texto da por sentada."
+        },
+        {
+          "letter": "B",
+          "text": "El texto supone conocimientos que ese lector no tiene.",
+          "is_correct": true,
+          "feedback": "Correcto. El material está construido para alguien que ya reconoce la calle, el afiche y el letrero, por eso a un lector que no los conoce le sobran palabras sin sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Las fotografías del archivo están de baja calidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el Texto 1 no menciona problemas de calidad. La dificultad que se describe se produce aunque las imágenes sean muy buenas y perfectamente legibles."
+        },
+        {
+          "letter": "D",
+          "text": "El texto usa demasiadas palabras técnicas en cada línea.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el folder es escueto, casi todo lo que dice cabe en un pie de foto. Su dificultad no viene de la cantidad de tecnicismos, sino de lo que deja sin explicar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender por qué un texto no se entiende exige separar dos causas: las propiedades del texto y los conocimientos del lector. En este caso, el folder es breve y legible, así que la falla está en el desajuste entre lo que el texto supone y lo que el lector trae. Ese análisis es la puerta de entrada a la lectura crítica, porque permite corregir la brecha sin descalificar el material.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto tiene ese cambio en la relación entre el texto y su lector?",
+      "context": "Un museo edita una versión del folder y añade al pie de la primera lámina un párrafo que explica qué era una droguería y cómo funcionaba el transporte de la época.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refuerza la dirección del texto al lector, porque explicita un saber que antes solo se presuponía.",
+          "is_correct": true,
+          "feedback": "Correcto. Al definir el término, el texto deja de delegar en el lector el conocimiento del mundo y lo entrega él mismo, ajustando su nivel de presuposición."
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el texto se independice del saber del lector y se vuelva más plano.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto no deja de depender del lector, cambia el punto del espectro. Un texto que explica todo necesita un lector con menos saber previo, no un lector cero."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte al documento histórico en un texto de otro género.",
+          "is_correct": false,
+          "feedback": "Incorrecto: agregar un párrafo explicativo no cambia el género. El material sigue siendo un documento de archivo, solo con un nivel de detalle mayor."
+        },
+        {
+          "letter": "D",
+          "text": "Eleva el nivel de exigencia, porque ahora el lector debe saber más para comprenderlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el párrafo agregado quita exigencia, no la sube. El lector ya no necesita saber de antemano qué es una droguería para interpretar la lámina."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar una edición exige preguntar qué saberes quedan dentro del texto y cuáles pasan al lector. Al explicar el término, el museo convierte una presuposición en información explícita, y con eso refuerza la dirección que va del texto hacia el lector. La versión editada sirve mejor a un público con menos saber previo, mientras que la original rinde más entre lectores iniciados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v8",
+      "statement": "Según el Texto 1, ¿qué explica que el lector «vea» una historia completa en un pie de foto de poucas palabras?",
+      "context": "En clase, los estudiantes de Bello discuten por qué el folder puede armar una historia completa aunque nunca diga los nombres de quienes aparecen en las fotografías.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el folder está incompleto y por eso el lector se inventa cualquier cosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la reconstrucción del lector no es invención arbitraria. Se apoya en lo que el texto y la imagen sí ofrecen, y ese trabajo es productivo, no un defecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el lector no necesita ningún conocimiento previo para interpretar las imágenes.",
+          "is_correct": false,
+          "feedback": "Incorrecto: interpretar sin contexto es justamente lo que el Texto 1describe como resultado negativo. Quien no sabe qué es una droguería no observa la calle, encuentra palabras sueltas."
+        },
+        {
+          "letter": "C",
+          "text": "Que la imagen y la descripción se completan entre sí, y ese trabajo de completar ocurre en el lector.",
+          "is_correct": true,
+          "feedback": "Correcto. El pie de foto orienta la imagen y la imagen expande el pie de foto. Ninguno de los dos alcanza a contarlo todo, y el lector arma la historia con lo que falta."
+        },
+        {
+          "letter": "D",
+          "text": "Que el pie de foto es el único elemento del material que aporta información real.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la imagen también porta información. Reducir el valor del texto a una sola línea contradice la idea de que la lectura es un trabajo de reconstrucción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La dirección del lector al texto describe la parte de la lectura que no aparece escrita. En el Texto 1, el pie de foto orienta la mirada y la imagen aporta los datos, pero el relato completo surge en quien lee. Ese producto es coherente con el saber previo del lector, y por eso dos personas pueden mirar la misma lámina y obtener historias distintas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué se dice que ese lector está implicado y no explícito?",
+      "context": "La profesora de Bello pide a sus estudiantes que justifiquen por qué el término «implicado» describe mejor al lector construido por el texto que el término «explícito».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el lector nunca aparece mencionado con su nombre propio dentro del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la ausencia de un nombre propio es un detalle menor. La categoría depende de cómo el texto configura a su destinatario, no de si lo identifica con nombre y apellido."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el texto lo construye a partir de lo que supone que su lector sabe, interesa y espera, sin presentarlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Está implicado porque su presencia se deduce de las decisiones del texto, y es explícito solo si el propio texto lo describe o lo nombra."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cada texto está dirigido a un lector único que nunca cambia de un texto a otro.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el lector implícito cambia según el texto. El folder de Bello y un manual de química construyen destinatarios muy distintos, y eso es precisamente lo que permite analizar la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el lector debe ser un miembro reconocido de la comunidad de la que trata el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: no se exige ser miembro de la comunidad. Un lector de otra ciudad y otro país puede entender un texto, aunque con mayores dificultades para reconstruir su mundo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia entre implicado y explícito es una diferencia de evidencia, no de existencia. Un lector puede ser real y nunca aparecer en el texto, y una frase puede presentar de forma explícita un lector ideal, por ejemplo, al presentarse como un libro para principiantes. Analizar el grado de la configuración implícita o explícita de un texto ayuda a prever quién queda por fuera de la lectura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es la evaluación mejor justificada de ese material?",
+      "context": "Un museo edita una versión de su archivo dirigida a estudiantes de noveno: una línea de pie de foto por lámina y ninguna explicación de los términos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un material deficiente, porque no explica ninguno de los términos que usa.",
+          "is_correct": false,
+          "feedback": "Incorrecto: un archivo no es un manual. La ausencia de definiciones responde al género y al lector implícito que el museo construye, no a una carencia del texto."
+        },
+        {
+          "letter": "B",
+          "text": "No se puede evaluar sin conocer la historia exacta del barrio que se muestra.",
+          "is_correct": false,
+          "feedback": "Incorrecto: para evaluar la relación texto-lector basta con comparar la información que el texto da con la que presupone. No es necesario conocer la historia completa del barrio."
+        },
+        {
+          "letter": "C",
+          "text": "El material está pensado para especialistas de archivo y no para estudiantes de colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el texto dice justamente a quién se dirige. Si fuera para especialistas, tendría un vocabulario mucho más exigente y un desarrollo mayor, no una sola línea por lámina."
+        },
+        {
+          "letter": "D",
+          "text": "Es coherente con un lector de noveno, porque el registro es el de un archivo y supone un lector capaz de reconstruir el contexto.",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia se juzga comparando lo que el texto explica con lo que presupone, y en este caso ambas cosas corresponden a un lector escolar con formación en fuentes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar exige sostener el juicio con criterios, y el criterio pertinente aquí es la coherencia entre el lector declarado y el lector construido. El material del museo no busca formar a un especialista, sino formar a un lector escolar que ya maneja el registro documental y las fechas. Reconocer que un texto puede ser escueto y aun así bien construido es una habilidad propia de la lectura crítica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v11",
+      "statement": "¿Qué problema presenta ese texto frente a la lectoría que dice atender?",
+      "context": "Una editorial de Bogotá lanza una colección de novelas para lectores juveniles y el primer libro emplea un vocabulario especializado sin explicar y un humor dirigido a personas con formación universitaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incumple el pacto con su lector implícito, porque asume saberes e ironías que no corresponden al público juvenil anunciado.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay una distancia entre el lector que el texto construye y el lector que la portada promete. Esa distancia es un problema de diseño del lector implícito."
+        },
+        {
+          "letter": "B",
+          "text": "No hay problema, porque cualquier persona puede ser el lector implícito de cualquier texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el lector implícito es una construcción específica en cada texto. Asumir saberes que no corresponden a la audiencia anunciada produce el efecto contrario al buscado."
+        },
+        {
+          "letter": "C",
+          "text": "El problema es de extensión, porque el libro es demasiado corto para su público.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la extensión no se menciona en el enunciado. El desajuste que se analiza es de saberes y de humor, es decir, del lector implícito construido."
+        },
+        {
+          "letter": "D",
+          "text": "El problema es que el libro no incluye datos verificables, solo opiniones.",
+          "is_correct": false,
+          "feedback": "Incorrecto: se trata de una novela, un género que no exige datos verificables. El punto en discusión es la distancia con la audiencia, no la ausencia de información documental."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la relación entre un texto y su público exige comparar dos cosas: el lector que el texto construye y el lector que se anuncia. Cuando ambas no coinciden, aparecen confusiones, ironías que no se captan y palabras que no dicen nada para quien empieza. Reconocer ese incumplimiento es un criterio útil para valorar géneros, periódicos, campanhas de lectura y materiales de clase.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle-v12",
+      "statement": "¿Qué revela ese mensaje sobre el lector implícito que el colegio construyó?",
+      "context": "Un colegio de Soacha envía a los padres de familia el mensaje: «Se les recuerda pasar por el salón 204 antes del inicio de la jornada del lunes».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mensaje solo resulta claro para los padres que tienen hijos en los últimos grados.",
+          "is_correct": false,
+          "feedback": "Incorrecto: la relación con el grado no tiene ninguna base en el texto. El mensaje presupone conocimiento del colegio en general, no un nivel específico del estudiante."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mensaje fue escrito para alguien que ya conoce el funcionamiento de la vida escolar y no necesita definiciones.",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión «inicio de la jornada» y el número del salón no se explican porque se presupone un lector familiarizado con la institución."
+        },
+        {
+          "letter": "C",
+          "text": "Que al colegio le falta información sobre cómo es su propia sede.",
+          "is_correct": false,
+          "feedback": "Incorrecto: escribir para alguien que conoce la institución es una decisión de audiencia, no una muestra de desconocimiento de la sede. Elige la presuposición, no el azar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el mensaje en realidad se dirige a los estudiantes y no a los padres de familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto: el enunciado del texto dice «a los padres de familia». La pregunta es qué saben los lectores, no quién recibe el mensaje, que ya está determinado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mensajes institucionales también construyen un lector implícito, y esa construcción se nota en lo que deciden no explicar. Un mensaje escolar que no define la jornada ni el recorrido de los salones está dirigida a quien ya recorre la institución todos los días. Evaluar un texto comunicativo con este criterio permite mejorar su claridad sin volverlo inservible para su audiencia real.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W38-el-lector-implicado-y-la-doble-direccion-de-la-lectura-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
