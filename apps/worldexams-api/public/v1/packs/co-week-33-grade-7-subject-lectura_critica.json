@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-33-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T01:41:32.173Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v1",
+      "statement": "¿Qué característica distingue a un cuento popular?",
+      "context": "En un trabajo grupal de Villavicencio, una estudiante pregunta cómo se distingue un cuento popular de un cuento escrito por un autor identificado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está escrito con reglas fijas de métrica y rima.",
+          "is_correct": false,
+          "feedback": "La métrica pertenece a la poesía: un cuento popular se cuenta en prosa y sin métrica fija."
+        },
+        {
+          "letter": "B",
+          "text": "Aparece siempre publicado por una casa editorial con su nombre en la portada.",
+          "is_correct": false,
+          "feedback": "El cuento popular circula sin editorial: su existencia no depende de una publicación."
+        },
+        {
+          "letter": "C",
+          "text": "Se transmite de boca en boca y existe en distintas versiones según quien lo cuenta.",
+          "is_correct": true,
+          "feedback": "La transmisión oral y la variedad de versiones son las dos marcas que definen ese género."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene un único autor conocido cuyo nombre la tradición conserva.",
+          "is_correct": false,
+          "feedback": "El autor individual es propio del cuento escrito: en el popular la autoría es colectiva y difusa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un cuento popular pertenece a la tradición oral: se cuenta en voz alta, se adapta al que escucha y por eso existe en muchas versiones. Reconocer esa característica ayuda a explicar por qué el mismo relato puede tener finales distintos en distintas familias. También permite valorar la tradición como una forma de conocimiento y no como un texto incompleto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v2",
+      "statement": "El cuento empieza así: \"Había una vez una niña que perdió su bastón. Fue a buscarlo y tropezó con un perro. El perro la mordió. Ella gritó y el susto llegó hasta la cocina\". ¿Qué estructura presenta?",
+      "context": "En una clase de Pereira, la profesora lee en voz alta el inicio de un cuento popular que las estudiantes de un curso ya conocían por su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una secuencia acumulativa de episodios encadenados, en la que cada aventura agrega un problema nuevo.",
+          "is_correct": true,
+          "feedback": "Cada episodio se encadena al anterior y añade una dificultad: esa es la estructura acumulativa."
+        },
+        {
+          "letter": "B",
+          "text": "Una descripción ordenada de un lugar y de sus partes más importantes.",
+          "is_correct": false,
+          "feedback": "El fragmento no describe espacios: encadena hechos que le ocurren a una niña."
+        },
+        {
+          "letter": "C",
+          "text": "Un diálogo continuo entre dos personajes que nunca llega a su final.",
+          "is_correct": false,
+          "feedback": "Solo hay una frase dialogada al final: el grueso del fragmento es narración de hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de consejos que el narrador da al personaje para que aprenda.",
+          "is_correct": false,
+          "feedback": "El narrador no da indicaciones: el fragmento encadena hechos, no recomendaciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura acumulativa encadena un episodio tras otro, de modo que cada aventura genera la siguiente hasta llegar al desenlace. Es una fórmula muy frecuente en los cuentos populares y facilita la memorización oral. Reconocerla ayuda a anticipar cómo termina el relato y a comparar versiones que cambian detalles del medio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v3",
+      "statement": "El familiar cuenta el mismo relato de tres maneras distintas y una estudiante se queja de que eso no es el cuento. ¿Qué respuesta explica mejor lo ocurrido?",
+      "context": "En Armenia, el profesor pide a los estudiantes que registren por escrito la versión de un cuento que les cuenta un familiar en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El familiar se equivocó al contarlo y debe repetir la versión del libro de texto.",
+          "is_correct": false,
+          "feedback": "Ningún libro fija una única versión: la variación es propia de los relatos orales."
+        },
+        {
+          "letter": "B",
+          "text": "Las tres versiones son falsas, porque no coinciden exactamente entre sí.",
+          "is_correct": false,
+          "feedback": "Que no coincidan no las invalida: son variaciones legítimas de la misma tradición."
+        },
+        {
+          "letter": "C",
+          "text": "El libro es la única versión válida y las otras son copias equivocadas.",
+          "is_correct": false,
+          "feedback": "En los cuentos populares no hay un texto original único: la variación es parte del género."
+        },
+        {
+          "letter": "D",
+          "text": "Las tres son versiones del mismo relato tradicional, y la variación es propia de la transmisión oral.",
+          "is_correct": true,
+          "feedback": "Reconocer la tradición como un conjunto de versiones explica la diferencia sin descalificarla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La variación entre versiones es una señal de salud de la tradición oral: cada narrador adapta el relato a su audiencia. Pedir que se registren esas versiones protege la riqueza del relato frente a la idea de que solo existe una forma correcta. Ese criterio sostiene el trabajo de recuperación de la tradición en las comunidades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v4",
+      "statement": "¿Qué elemento debe conservar el equipo para que el relato siga reconociéndose como el mismo cuento?",
+      "context": "En una clase de Sincelejo, un equipo prepara una versión del cuento de la niña que perdió el bastón, ambientada en su propio barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del autor que lo escribió por primera vez, para dar crédito a su origen.",
+          "is_correct": false,
+          "feedback": "Los cuentos populares no tienen un autor individual conocido: esa pista no identifica el relato."
+        },
+        {
+          "letter": "B",
+          "text": "La secuencia de problemas encadenados que da forma al relato.",
+          "is_correct": true,
+          "feedback": "El encadenamiento de episodios es la estructura que el público reconoce, no el lugar ni las palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Las palabras exactas con que la abuela del grupo lo contaba en casa.",
+          "is_correct": false,
+          "feedback": "Ningún grupo tiene esa versión: la oralidad impide fijar una única redacción literal."
+        },
+        {
+          "letter": "D",
+          "text": "La ortografía del texto escrito que la maestra leyó al principio de la clase.",
+          "is_correct": false,
+          "feedback": "La forma de escribir no es lo que reconoce al cuento popular: lo que lo identifica es su estructura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al adaptar un cuento popular hay que conservar su estructura, porque el público reconoce el relato por la secuencia de hechos y no por las palabras exactas. Cambiar el lugar o los nombres de los personajes es legítimo; romper el encadenamiento de problemas no lo es. Ese criterio permite actualizar un relato sin traicionar su identidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v5",
+      "statement": "En esa versión, la tortuga gana gracias a su inteligencia. ¿Qué función cumple ese relato en la comunidad?",
+      "context": "En Cali, un grupo estudia un cuento de animales muy conocido en familias de la Costa Pacífica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmitir valores y enseñar una lección sobre la manera de actuar frente a los demás.",
+          "is_correct": true,
+          "feedback": "El desenlace comunica una idea sobre cómo conviene actuar: esa es su función educativa y social."
+        },
+        {
+          "letter": "B",
+          "text": "Documentar con precisión los nombres de los animales que viven en la región.",
+          "is_correct": false,
+          "feedback": "El relato no es un inventario de fauna: su sentido no está en nombrar animales."
+        },
+        {
+          "letter": "C",
+          "text": "Enseñar a contar la cantidad exacta de días que dura un viaje.",
+          "is_correct": false,
+          "feedback": "No hay cálculo de días en el relato: la enseñanza no es de aritmética, sino de conducta."
+        },
+        {
+          "letter": "D",
+          "text": "Fijar un único final para que todos los niños aprendan la misma versión.",
+          "is_correct": false,
+          "feedback": "La tradición admite varias versiones: su función nunca fue la uniformidad del relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cuentos populares transmiten conocimientos, valores y normas de convivencia a través de la ficción. El desenlace de la tortuga comunica una idea sobre cómo resolver un problema usando la inteligencia. Reconocer esa función muestra que la tradición oral educa sin necesidad de una lección explícita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v6",
+      "statement": "En la versión A la niña se tropieza con un perro. En la versión B se tropieza con una vaca. Todo lo demás ocurre igual. ¿Qué información aporta esa diferencia?",
+      "context": "En un proyecto de lectura de Florencia, dos estudiantes comparan dos versiones del mismo cuento popular recogidas en familias distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la versión B está mal contada y no puede usarse en el trabajo.",
+          "is_correct": false,
+          "feedback": "Ninguna versión es falsa: ambas transmiten el mismo relato con un detalle cambiado."
+        },
+        {
+          "letter": "B",
+          "text": "Que la versión A es la original y la B una copia alterada posterior.",
+          "is_correct": false,
+          "feedback": "Con los dos textos no se puede establecer cuál es la original: ambas son versiones orales."
+        },
+        {
+          "letter": "C",
+          "text": "Que el relato conserva su estructura aunque cambie un elemento del segundo episodio.",
+          "is_correct": true,
+          "feedback": "La diferencia confirma la estructura acumulativa: cambia un episodio y la cadena permanece."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dos relatos cuentan historias distintas, porque el animal es el protagonista.",
+          "is_correct": false,
+          "feedback": "El animal es un episodio, no el protagonista: la historia y su desenlace siguen siendo los mismos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar versiones permite separar lo estructural de lo accesorio. Si el encadenamiento de hechos se mantiene y solo cambia un elemento, se demuestra que la forma del relato es lo que lo hace reconocible. Ese análisis enseña a detectar qué puede variar sin que el cuento pierda su identidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v7",
+      "statement": "El cuento impreso empieza así: \"Había una vez, en un pueblo donde el río bajaba nivel cada invierno, una niña que perdió su bastón\". ¿Qué señal del relato tradicional se reconoce en ese comienzo?",
+      "context": "En un taller de lectura de Garzón, un grupo busca señales de la tradición oral en un cuento impreso en un libro escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de cifras y porcentajes para describir el clima del pueblo.",
+          "is_correct": false,
+          "feedback": "No hay datos numéricos: la señal tradicional está en la fórmula de apertura."
+        },
+        {
+          "letter": "B",
+          "text": "La fórmula de apertura, que sitúa la acción en un tiempo y un lugar indefinidos.",
+          "is_correct": true,
+          "feedback": "La frase típica de la tradición deja el tiempo y el lugar sin precisar."
+        },
+        {
+          "letter": "C",
+          "text": "La descripción técnica del terreno, con datos de geografía y de población.",
+          "is_correct": false,
+          "feedback": "El comienzo no aporta datos precisos: ese registro pertenece a otro tipo de texto."
+        },
+        {
+          "letter": "D",
+          "text": "El uso de un narrador que se identifica con su nombre y su dirección.",
+          "is_correct": false,
+          "feedback": "El narrador es anónimo: la tradición borra la identidad de quien cuenta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fórmula con que se abre un cuento popular pertenece a un repertorio compartido por la tradición oral. Situar la acción en un lugar y un tiempo vagos permite que cada quien imagine el pueblo al que pertenece el relato. Reconocer esas marcas facilita identificar el género y explica su facilidad de memorización.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v8",
+      "statement": "El cuento enlaza sus episodios con la misma fórmula: \"y entonces pasó algo, y entonces pasó otra cosa\". ¿Qué efecto produce esa repetición?",
+      "context": "En una clase de Ocaña, la profesora analiza cómo se construye el ritmo de un cuento que varias estudiantes escucharon en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alarga el relato sin agregar información, porque repite lo ya dicho.",
+          "is_correct": false,
+          "feedback": "Cada enlace incorpora un episodio nuevo: no es una repetición vacía."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el relato en una lista de consejos sobre cómo comportarse.",
+          "is_correct": false,
+          "feedback": "El efecto es rítmico y narrativo: el texto sigue contando hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Borra la estructura acumulativa, porque interrumpe el encadenamiento.",
+          "is_correct": false,
+          "feedback": "La repetición refuerza la cadena: es la base del ritmo del relato acumulativo."
+        },
+        {
+          "letter": "D",
+          "text": "Marca el ritmo de la narración y hace fácil seguir el avance de la cadena.",
+          "is_correct": true,
+          "feedback": "La fórmula repetida guía al oyente y sostiene la memorización del relato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La repetición de una fórmula sintáctica fija marca el ritmo de la narración oral y facilita que el oyente siga el avance de la historia. No es un defecto del texto: es un recurso de organización que depende de la estructura acumulativa. Analizar cómo se enlazan los episodios por la sintaxis explica por qué estos cuentos se recuerdan con facilidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio es más preciso sobre esa adaptación?",
+      "context": "En un proyecto de lectura en Neiva, un grupo decide adaptar un cuento popular para que resulte interesante a los estudiantes de séptimo grado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pertinente si conserva la estructura y la enseñanza, aunque cambie el contexto.",
+          "is_correct": true,
+          "feedback": "Conservar la forma y el sentido protege la identidad del cuento y lo hace legible para nuevos lectores."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta siempre, porque adaptar un cuento popular es traicionar la tradición.",
+          "is_correct": false,
+          "feedback": "La tradición cambia con cada transmisión: adaptar el contexto no es una traición."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta si se elimina la moraleja, porque a los jóvenes les interesan más las aventuras.",
+          "is_correct": false,
+          "feedback": "Quitar la enseñanza lo convierte en un relato de entretenimiento y le quita su función."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta si se cambia el final, porque la tradición admite cualquier desenlace.",
+          "is_correct": false,
+          "feedback": "La variación afecta detalles, no la enseñanza que el relato comunica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Adaptar un cuento popular sin traicionarlo exige conservar su estructura, su ritmo y la enseñanza que transmite, aunque se actualice el contexto. Quitarle la moraleja ni reducirlo a un relato de acción borra su función educativa. Ese criterio equilibra la necesidad de menarik a los nuevos lectores con el respeto por la tradición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle-v10",
+      "statement": "¿Qué criterio permite valorar mejor ese trabajo de registro?",
+      "context": "En una feria escolar del Chocó, un grupo presenta las tres versiones de un mismo cuento que recogió en distintas familias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión más larga, porque el detalle siempre mejora el relato.",
+          "is_correct": false,
+          "feedback": "La extensión no mide la calidad del registro: una versión breve puede ser fiel."
+        },
+        {
+          "letter": "B",
+          "text": "La fidelidad de cada versión, los datos de quién la contó y las diferencias entre ellas.",
+          "is_correct": true,
+          "feedback": "Registrar la fuente y comparar variantes es lo que hace del trabajo un documento confiable."
+        },
+        {
+          "letter": "C",
+          "text": "El número de versiones recogidas, porque mientras más se registre mejor será el trabajo.",
+          "is_correct": false,
+          "feedback": "La cantidad de copias no importa tanto como el rigor con que se documenta cada una."
+        },
+        {
+          "letter": "D",
+          "text": "La versión que la profesora considere más antigua, porque la antigüedad determina el valor.",
+          "is_correct": false,
+          "feedback": "La antigüedad no se puede establecer con estos datos y tampoco define el valor del registro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recoger versiones de un relato tradicional exige anotar quién lo contó, en qué lugar y qué diferencias presenta cada una. Con esa información el trabajo sirve como evidencia de la tradición y permite compararla con otras fuentes. Ese rigor convierte una tarea escolar en un aporte real al conocimiento cultural de la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W33-el-cuento-popular-y-el-relato-tradicional-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

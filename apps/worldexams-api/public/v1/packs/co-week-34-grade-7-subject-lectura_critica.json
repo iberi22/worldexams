@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-34-grade-7-subject-lectura_critica",
+    "generated_at": "2026-09-29T01:41:32.173Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una oda?",
+      "context": "En el taller de lectura de Duitama, un grupo de séptimo grado busca en el diccionario la palabra oda antes de explicar un poema extenso que el profesor entregó sobre un oficio del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un poema narrativo que cuenta en verso una serie de acontecimientos de una comunidad.",
+          "is_correct": false,
+          "feedback": "La oda no narra una sucesión de hechos: su eje es la alabanza dirigida a un sujeto."
+        },
+        {
+          "letter": "B",
+          "text": "Un poema lírico de elogio, dirigido a un sujeto al que el poeta se dirige por su nombre.",
+          "is_correct": true,
+          "feedback": "Reúne los tres rasgos del género: tono lírico, propósito de elogio y destinatario explícito."
+        },
+        {
+          "letter": "C",
+          "text": "Un poema breve que resume en cuatro versos la historia completa de un país.",
+          "is_correct": false,
+          "feedback": "La extensión y el resumen no definen el género: una oda puede ser larga y argumentada."
+        },
+        {
+          "letter": "D",
+          "text": "Un poema que solo existe en la voz de quien lo recita y nunca puede escribirse.",
+          "is_correct": false,
+          "feedback": "La oda se escribe como cualquier poema: su condición no es oral, sino de elogio dirigido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oda se define por su intención encomiástica y por la existencia de un destinatario al que el poeta se dirige de manera explícita. Comprender esa estructura permite distinguirla de la crónica o del cuento en verso, que narran hechos sin alagar a alguien. El género prepara el camino hacia la poesía social, donde el sujeto elogiado suele ser un oficio o una comunidad entera.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semántico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v2",
+      "statement": "El poema comienza con un saludo dirigido a las personas que venden en la plaza. ¿Para qué cumple esa apertura?",
+      "context": "En una clase de lectura de Cali, la profesora lee los primeros versos de una oda que un estudiante de su colegio escribió para la plaza de mercado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para presentar a quién se dirige el poema y preparar la alabanza que viene después.",
+          "is_correct": true,
+          "feedback": "El saludo funciona como dedicatoria: identifica al destinatario y anuncia el tono del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Para resumir en dos versos toda la historia de la plaza de mercado.",
+          "is_correct": false,
+          "feedback": "Un resumen histórico no cabe en un saludo: la apertura presenta, no narra."
+        },
+        {
+          "letter": "C",
+          "text": "Para apartar la atención del asunto anunciado en el título del poema.",
+          "is_correct": false,
+          "feedback": "El saludo refuerza el vínculo con el título: no lo cambia ni lo desvía."
+        },
+        {
+          "letter": "D",
+          "text": "Para demostrar que el autor domina los términos técnicos del comercio.",
+          "is_correct": false,
+          "feedback": "El saber técnico aparecería después, al describir el oficio, no en la fórmula de saludo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La apertura de la oda cumple una función comunicativa: instalar al destinatario como interlocutor y hacer que el lector comparta esa relación directa con el sujeto elogiado. Reconocer ese gesto inicial evita confundir el poema con un relato y muestra que toda la argumentación posterior depende de a quién se le habla. El mismo recurso aparece en las odas regionales colombianas dedicadas a un oficio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v3",
+      "statement": "El poema dedica varios versos a quienes venden desde la madrugada en el mercado y llama \"corazón de la ciudad\" a ese conjunto de personas. ¿Cuál es el sujeto social del poema?",
+      "context": "En un taller de lectura de Bogotá, el profesor pide a sus estudiantes que identifiquen el sujeto social de una oda escrita por un compañero del curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El edificio del mercado, entendido en sus materiales y en su construcción.",
+          "is_correct": false,
+          "feedback": "El poema no elogia la obra física: la alabanza se dirige a las personas que la usan."
+        },
+        {
+          "letter": "B",
+          "text": "El sol que aparece sobre la plaza cuando los vendedores abren sus puestos.",
+          "is_correct": false,
+          "feedback": "El sol es parte del paisaje y no el destinatario de la alabanza del poema."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra \"corazón\", entendida como una metáfora sobre el poeta mismo.",
+          "is_correct": false,
+          "feedback": "La metáfora califica a un colectivo: no desvía la atención hacia la biografía del autor."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto de quienes venden y sostienen cada día la vida de ese lugar.",
+          "is_correct": true,
+          "feedback": "El sujeto social es la comunidad de trabajo que el poema transforma en destinataria del elogio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El sujeto social es aquel grupo de personas cuyo trabajo y cuya vida comunitaria se convierten en materia del poema. Reconocerlo exige separar a las personas de los objetos y del paisaje que las rodean, porque la poesía social exalta a quienes sostienen una actividad colectiva. Identificarlo es el paso inicial para preguntarse después por qué se elige elogiar a ese grupo y no a otro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v4",
+      "statement": "La primera estrofa describe el oficio, la segunda enumera lo que produce, la tercera muestra sus dificultades y la cuarta pide ayuda. ¿Qué función cumple esa organización?",
+      "context": "En Medellín, un grupo de séptimo grado analiza un poema que describe un oficio en cuatro estrofas y termina pidiendo apoyo para quienes lo ejercen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultar la crítica, porque la petición final borra los problemas descritos antes.",
+          "is_correct": false,
+          "feedback": "La organización no borra nada: la petición se apoya precisamente en las dificultades."
+        },
+        {
+          "letter": "B",
+          "text": "Convertir el poema en un inventario sin ninguna intención argumentativa.",
+          "is_correct": false,
+          "feedback": "Hay una conclusión pedida al final: la secuencia completa forma un argumento."
+        },
+        {
+          "letter": "C",
+          "text": "Ordenar la exposición, la prueba y la petición para sostener una conclusión.",
+          "is_correct": true,
+          "feedback": "Cada estrofa cumple un papel distinto y las cuatro se articulan hacia una misma conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "Repetir el mismo contenido cinco veces para alcanzar la extensión del género.",
+          "is_correct": false,
+          "feedback": "Las estrofas avanzan: describen, enumeran, contrastan y piden, sin duplicarse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estrofa funciona como una unidad argumentativa dentro del poema y no como un simple recipiente de versos. En este caso la secuencia sigue el orden de exponer, sostener con pruebas y cerrar con una solicitud. Comprender esa arquitectura permite ver la poesía social como un discurso organizado, y no como una acumulación de frases bonitas sin propósito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v5",
+      "statement": "El autor repite la misma estructura en casi todos los versos y los cierra con palabras que riman entre sí. ¿Qué efecto produce esa construcción?",
+      "context": "En Cartagena, unos estudiantes recitan en clase una oda que varios compañeros escribieron sobre quienes trabajan en el puerto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostiene el ritmo y la rima para que la afirmación pueda compartirse y recordarse.",
+          "is_correct": true,
+          "feedback": "La repetición de la forma permite que un grupo cante y recuerde la misma afirmación colectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Impide que el poema exprese una posición, porque lo repetitivo lo vuelve neutro.",
+          "is_correct": false,
+          "feedback": "La repetición aquí intensifica el reclamo: no vuelve neutra la postura del poema."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte cada verso en una frase independiente sin relación con los demás.",
+          "is_correct": false,
+          "feedback": "La estructura compartida hace lo contrario: vincula los versos entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el poema a una canción y le quita todo valor como texto poético.",
+          "is_correct": false,
+          "feedback": "Ritmo y rima son recursos poéticos legítimos que no borran el contenido del poema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La repetición de esquemas sintácticos y de rimas sostenida a lo largo del poema produce la sensación de una voz colectiva, capaz de interpretar y repetir lo que dice. Ese recurso no es un adorno: en la poesía social facilita que la afirmación se trasmita y se recuerde. Por eso el ritmo se analiza junto al sentido y no como un asunto aislado de la forma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v6",
+      "statement": "Después de varios versos de elogio, el poema incluye una línea que dice que los elogios no cambian las condiciones de trabajo de esas mujeres. ¿Cómo funciona ese verso?",
+      "context": "En Pasto, un grupo analiza una oda escrita por un compañero que exalta a las cocineras que venden comida en la calle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cancela todo lo elogiado antes, porque el poema se contradice de principio a fin.",
+          "is_correct": false,
+          "feedback": "El poema se completa: la crítica amplia su alcance en lugar de anular la alabanza."
+        },
+        {
+          "letter": "B",
+          "text": "Convierte el texto en una crónica, porque ya no hay lenguaje poético en él.",
+          "is_correct": false,
+          "feedback": "El registro sigue siendo poético: una línea crítica no cambia el género de la oda."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que el autor no conoce el oficio que celebra.",
+          "is_correct": false,
+          "feedback": "Conocer el oficio se ve en los detalles del elogio, no en la crítica final."
+        },
+        {
+          "letter": "D",
+          "text": "Complementa el elogio con una advertencia que impide que se vuelva una idealización.",
+          "is_correct": true,
+          "feedback": "La crítica funciona como freno: mantiene honesto el elogio y evita una celebración vacía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un poema de elogio incluye una crítica, la combinación define un tipo de alabanza que no se conforma con la superficie del asunto. La crítica no destruye el elogio: acota lo que este afirma y obliga a leerlo con precisión. Reconocer ese movimiento ayuda a distinguir la poesía social comprometida de una mera celebración que deja de ver los problemas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v7",
+      "statement": "La oda exalta el barrio y la crónica registra sus problemas. ¿Qué aporta la comparación entre los dos textos?",
+      "context": "En Bucaramanga, un equipo de séptimo grado prepara una exposición comparando una oda sobre un barrio con una crónica escrita en clase sobre el mismo lugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite elegir la oda como la versión verdadera y descartar la crónica.",
+          "is_correct": false,
+          "feedback": "Descartar un texto por su tono no es un criterio válido: los dos describen el mismo lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Permite contrastar lo que se celebra con lo que se registra y detectar los silencios.",
+          "is_correct": true,
+          "feedback": "La comparación hace visibles tanto lo elogiado como aquello que la oda deja afuera del poema."
+        },
+        {
+          "letter": "C",
+          "text": "Demuestra que los dos textos sirven para el mismo propósito informativo.",
+          "is_correct": false,
+          "feedback": "Sus propósitos difieren: uno elogia y otro informa, y esa diferencia es la que se analiza."
+        },
+        {
+          "letter": "D",
+          "text": "Obliga a escoger como más confiable el texto que tiene más versos.",
+          "is_correct": false,
+          "feedback": "La extensión no mide la veracidad: un texto largo puede ser igual de parcial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Poner dos textos sobre la misma realidad, uno tras otro permite ver el cruce entre lo que se exalta y lo que se documenta. Ese contraste es lo que revela los silencios: los grupos que la oda celebra y los problemas que la crónica sí registra. El ejercicio supone leer cada obra con su propio propósito y evitar que uno de los dos determine lo que el otro significa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v8",
+      "statement": "El poema presenta el pasado como si toda la vida dependiera únicamente de la pesca y no menciona el trabajo de las mujeres ni los cambios del clima. ¿Qué riesgo de lectura señala ese silencio?",
+      "context": "En una comunidad del Chocó, un grupo estudia una oda que describe un río, un puerto y las familias que viven a sus orillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un riesgo de estilo, porque el poema debería incluir imágenes de la naturaleza.",
+          "is_correct": false,
+          "feedback": "La ausencia de imágenes no es el asunto: el poema sí describe el paisaje de su entorno."
+        },
+        {
+          "letter": "B",
+          "text": "Un riesgo de ortografía, porque los términos del oficio están escritos de forma incorrecta.",
+          "is_correct": false,
+          "feedback": "No se señala ningún problema de escritura: la cuestión es qué se menciona y qué se calla."
+        },
+        {
+          "letter": "C",
+          "text": "Un riesgo de idealización, porque el pasado se presenta más ordenado de lo que fue.",
+          "is_correct": true,
+          "feedback": "Silenciar trabajos y problemas permite dibujar un pasado más armónico que el real."
+        },
+        {
+          "letter": "D",
+          "text": "Un riesgo de extensión, porque la oda tiene menos versos de los que el género permite.",
+          "is_correct": false,
+          "feedback": "La cantidad de versos no altera lo que el poema afirma: el silencio sí cambia su lectura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La idealización aparece cuando el poema borra los conflictos y los aportes que existían en la realidad que celebra. Al dejar fuera el trabajo de las mujeres y las condiciones del clima, el texto presenta un pasado más ordenado y más armónico de lo que fue. Identificar ese procedimiento es indispensable para leer con criterio cualquier loa al progreso de un barrio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v9",
+      "statement": "El poema no menciona a quienes trabajan en el cuidado de la salud del mismo barrio. ¿Cuál es el juicio más responsable sobre esa oda?",
+      "context": "En una feria escolar de Pasto, un grupo presenta una oda que celebra a quienes construyen viviendas en un barrio de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hay que preguntar a qué trabajos omite, porque el alcance del elogio decide a quién representa.",
+          "is_correct": true,
+          "feedback": "El criterio está en la selección del sujeto: ella muestra si el poema habla de toda la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Hay que repetirla completa, porque solo las odas largas se leen con atención.",
+          "is_correct": false,
+          "feedback": "La extensión no reemplaza el análisis: un texto breve también puede tener omisiones graves."
+        },
+        {
+          "letter": "C",
+          "text": "Hay que buscar la firma del autor, porque el nombre explica mejor los silencios del texto.",
+          "is_correct": false,
+          "feedback": "Conocer al autor no responde por las ausencias: el silencio se juzga dentro del poema."
+        },
+        {
+          "letter": "D",
+          "text": "Hay que traducirla a otro idioma, porque otras lenguas muestran lo que la nuestra esconde.",
+          "is_correct": false,
+          "feedback": "Ninguna traducción añade la información que falta en el texto que ya se tiene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Valorar una oda de tema social exige examinar a quién representa y a quién deja por fuera, porque la elección del sujeto define su mirada sobre la comunidad. Un elogio parcial no es falso por incompleto, pero sí es limitado, y reconocer ese límite evita leerlo como el retrato entero de un barrio. El criterio se apoya en el contenido y no en la persona que firma el poema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el juicio más sólido sobre esa oda?",
+      "context": "En un proyecto de lectura de Duitama, un grupo prepara una exposición sobre poesía social y presenta una oda dedicada a un oficio de su barrio junto con una crónica de la misma comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es suficiente por sí sola, porque el elogio poético ya dice toda la verdad sobre ese oficio.",
+          "is_correct": false,
+          "feedback": "La poetización no garantiza la verdad: su valor depende también de lo que omite."
+        },
+        {
+          "letter": "B",
+          "text": "Debe descartarse, porque las odas no sirven para hablar de trabajos cotidianos.",
+          "is_correct": false,
+          "feedback": "El género trata con frecuencia de oficios y comunidades: esa limitación es falsa."
+        },
+        {
+          "letter": "C",
+          "text": "Es válida si su ritmo es regular y puede recitarse sin acompañamiento de música.",
+          "is_correct": false,
+          "feedback": "La música y el ritmo son recursos de forma: no deciden el valor de lo que el texto afirma."
+        },
+        {
+          "letter": "D",
+          "text": "Es más creíble cuando sus afirmaciones pueden contrastarse con otros textos y fuentes.",
+          "is_correct": true,
+          "feedback": "Contrastar con la crónica y con otras fuentes permite medir el alcance de lo que la oda afirma."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un juicio responsable sobre poesía social combina la lectura del texto con la verificación de lo que este afirma, contrastándolo con la crónica y con otras fuentes del entorno. Ese cruce no elimina el valor del poema: le asigna un lugar exacto dentro de lo que sabemos. La práctica de contrastar enseña a distinguir la fuerza expresiva de la potencia probatoria de un texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-7-2026-W34-la-oda-y-la-poesia-social-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
