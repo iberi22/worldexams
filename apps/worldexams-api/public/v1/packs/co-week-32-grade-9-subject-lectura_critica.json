@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-32-grade-9-subject-lectura_critica",
+    "generated_at": "2026-09-29T12:08:17.264Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v1",
+      "statement": "Según el Texto 1, ¿de qué ciudad sale el viajero al comenzar su trayecto?",
+      "context": "En un colegio de Bogotá, el profesor pide a sus estudiantes que ubiquen en un mapa el trayecto que narra el texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sale de Bucaramanga antes del amanecer.",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración del relato indica la ciudad de partida y también la hora temprana de la salida."
+        },
+        {
+          "letter": "B",
+          "text": "Sale de Cúcuta, donde lo espera la señora que le indica el camino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cúcuta no aparece como punto de partida: es el nombre de una señora que el viajero conoce en el camino."
+        },
+        {
+          "letter": "C",
+          "text": "Sale de la capital, a la que regresa al final del trayecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no nombra la capital y solo menciona un regreso sin especificar la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Sale de un puesto del camino, donde una señora le indicó la margen izquierda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El puesto es un lugar del trayecto y no el origen del camino que el viajero recorrió a pie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Localizar los datos básicos del trayecto es el primer paso para leer un relato viajero sin perder el hilo de los hechos. La ciudad de partida, la hora de salida y la duración son referencias que luego sostienen las descripciones. Reconocerlas ayuda a distinguir el marco físico del trayecto de las emociones del narrador. Esa distinción resulta indispensable cuando se comparan dos textos sobre un mismo recorrido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, la expresión «el paisaje me parecía una conversación» comunica que el viajero:",
+      "context": "En Armenia, un grupo de estudiantes intenta explicar con sus propias palabras una imagen difícil del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oía voces reales de los habitantes que lo acompañaban durante el trayecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no menciona voces ni compañía: el paisaje solo despierta una sensación en quien camina."
+        },
+        {
+          "letter": "B",
+          "text": "Sintió que el paisaje le transmitía algo, aunque nadie hablara durante la caminata.",
+          "is_correct": true,
+          "feedback": "Correcto. La metáfora humaniza el paisaje y expresa que el lugar provoca en él una respuesta propia."
+        },
+        {
+          "letter": "C",
+          "text": "Necesitaba conversar con alguien y por eso imaginaba que el paisaje era una persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no expresa soledad: la imagen muestra su manera de relacionarse con el lugar."
+        },
+        {
+          "letter": "D",
+          "text": "Entendió que los habitantes del camino le contaban historias sobre el trayecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie le narra historias: la única persona que le habla es la señora del puesto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una metáfora atribuye a una cosa una cualidad propia de otra, y por eso exige decodificar qué se está comparando. Aquí el paisaje se humaniza al presentarlo como una conversación, lo que indica que el lugar comunica algo al viajero. Comprender la imagen permite advertir que el texto no informa sobre el paisaje, sino sobre la manera de verlo. Esa distinción es la diferencia entre una descripción literaria y una descripción informativa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v3",
+      "statement": "¿Qué cambio de actitud muestra el viajero entre el comienzo y el final del Texto 1?",
+      "context": "En Pasto, la profesora pide a sus estudiantes que describan el cambio que experimentó el narrador a lo largo del fragmento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasa de confiar en el camino a dudar de las indicaciones que recibió en el puesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no duda de la indicación de la señora y ni siquiera vuelve a mencionarla en el cierre."
+        },
+        {
+          "letter": "B",
+          "text": "Pasa de ignorar el paisaje a prestarle atención después de conocer a la señora del puesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El paisaje aparece desde las primeras líneas y nunca es objeto de rechazo por parte del viajero."
+        },
+        {
+          "letter": "C",
+          "text": "Pasa de buscar dificultades a descubrir que el valor del trayecto estaba en aprender a mirar.",
+          "is_correct": true,
+          "feedback": "Correcto. La idea de camino difícil y el cierre sobre mirar delimitan las dos etapas de la mirada del narrador."
+        },
+        {
+          "letter": "D",
+          "text": "Pasa de necesitar compañía a decidir que debe viajar siempre acompañado durante sus trayectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador afirma lo contrario: caminó dos días sin hablar con nadie y no lo presenta como un problema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El relato viajero construye su sentido a través de una transformación del narrador, y esa transformación es lo que se evalúa. Aquí el viaje no modifica el paisaje, sino la manera de interpretarlo, desde la búsqueda de una dificultad hasta una comprensión más pausada. Reconocer ese recorrido permite distinguir el valor literario del texto de un simple registro de desplazamientos. También prepara para evaluar conclusiones que el autor propone sobre su propia experiencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v4",
+      "statement": "Según el Texto 2, ¿qué dato confirma la indicación que la señora del Texto 1 dio sobre el camino?",
+      "context": "En Manizales, un grupo de estudiantes compara el relato con la ficha para saber si los dos textos coinciden en los datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ficha registra que el clima del trayecto es frío durante la madrugada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha describe un clima cálido y no contiene ninguna referencia a la madrugada ni a su temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La ficha señala que la población del trayecto es numerosa y vive junto al camino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha habla de una población dispersa y no menciona concentración de habitantes en ningún punto."
+        },
+        {
+          "letter": "C",
+          "text": "La ficha indica que el nacimiento de agua se encuentra al lado derecho del camino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha solo ubica el nacimiento de agua a cuatro kilómetros y no especifica el lado del camino."
+        },
+        {
+          "letter": "D",
+          "text": "La ficha recomienda seguir por la margen izquierda, porque ese tramo se encuentra más sombreado.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa recomendación confirma y justifica la indicación de la señora sobre tomar mejor el camino por la izquierda."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cruzar dos textos permite comprobar si un dato narrado tiene respaldo en una fuente descriptiva. La indicación de la señora y la recomendación de la ficha se refieren al mismo tramo del camino, de modo que el dato queda confirmado. Ese cruce demuestra además la utilidad de las fuentes informativas frente a los relatos de experiencia. Reconocer cuándo un dato narrado está verificado evita convertir una impresión personal en información comprobada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v5",
+      "statement": "En el Texto 1, la expresión «Me encontré, en cambio, con una llanura» cumple una función de contraste. ¿Cuál es?",
+      "context": "En Ibagué, la profesora pide que el grupo explique el valor de un conector del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Marca la diferencia entre lo que el viajero esperaba y lo que realmente encontró.",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión opone la expectativa del comienzo al paisaje que el narrador describe después."
+        },
+        {
+          "letter": "B",
+          "text": "Introduce una comparación entre dos ciudades distintas del recorrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay dos ciudades en esa oración: el contraste ocurre entre una idea previa y un lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Señala que el narrador relata un hecho que ocurrió después de su regreso a la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración no anuncia el regreso: sitúa la comparación en el momento en que comienza el camino."
+        },
+        {
+          "letter": "D",
+          "text": "Convierte el relato en una narración objetiva, como la ficha descriptiva del Texto 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración conserva la voz del viajero y su expectativa, muy distinta al registro de la ficha."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los conectores de contraste organizan el relato y le dan la forma de una comparación entre lo esperado y lo ocurrido. Al usarlos, el narrador muestra que su idea inicial no se cumplió, y ese desajuste es el primer paso de su transformación. Reconocer la función de un contraste permite explicar por qué el fragmento no se lee como una simple lista de lugares. También ayuda a identificar la estructura mínima de cualquier relato de viaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v6",
+      "statement": "Si se eliminara del Texto 1 la frase «con la idea de encontrar un camino difícil» y la que dice «Me encontré, en cambio», ¿qué se perdería en el relato?",
+      "context": "En Cartagena, el profesor propone un ejercicio de edición sobre el fragmento del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se perdería la información sobre la hora de salida del viajero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hora de salida aparece en otra oración del relato y no depende de esas dos frases."
+        },
+        {
+          "letter": "B",
+          "text": "Se perdería el contraste que estructura el relato y da sentido a la transformación del viajero.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin el par de frases, la transformación final quedaría sin el punto de partida que la explica."
+        },
+        {
+          "letter": "C",
+          "text": "Se perdería la descripción del puesto de agua y de la señora que indicó el camino.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese episodio aparece completo más adelante y no se ve afectado por la eliminación propuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Se perdería el dato de que el trayecto duró dos días a pie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duración aparece en el relato y también en la ficha, de modo que ese dato se conserva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un fragmento narrativo se sostiene sobre relaciones, y eliminar una parte puede romper el sentido de todo lo demás. En este caso, las dos frases eliminadas son las que contrastan la expectativa inicial con la experiencia real del camino. Sin ellas, el cierre sobre aprender a mirar quedaría sin el punto de partida que lo justifica. Saber qué fragmento sostiene el sentido de un relato permite defender una edición sin perder su estructura. Esta misma lógica se aplica a cualquier texto que se estructura mediante contrastes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la relación más precisa entre el Texto 1 y el Texto 2?",
+      "context": "En Neiva, la profesora pide una comparación escrita entre el relato y la ficha del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos se contradicen, porque la ficha describe un clima que el relato no menciona nunca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos textos coinciden en el calor y ninguno lo niega: no existe contradicción entre ellos."
+        },
+        {
+          "letter": "B",
+          "text": "La ficha sirve para demostrar que el paisaje descrito en el relato no existe en la realidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha corrobora el terreno, el clima y la duración que el viajero relata en su trayecto."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos textos tratan el mismo trayecto, pero el primero lo narra desde la experiencia y el segundo lo registra como dato.",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha organiza información verificable, mientras el relato añade la mirada y las decisiones del viajero."
+        },
+        {
+          "letter": "D",
+          "text": "El relato complementa a la ficha con información que esta no pudo recoger, como el nombre de los lugares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no aporta nombres de lugares: la ficha es la única que organiza los datos del trayecto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos textos pueden describir lo mismo y cumplir funciones muy distintas, y esa diferencia es lo que interesa al lector crítico. La ficha organiza datos comprobables del trayecto, mientras el relato enseña la experiencia de quien lo recorre a pie. Reconocer que el dato y la vivencia no son equivalentes permite valorar cada fuente por lo que realmente ofrece. También explica por qué un texto literario nunca puede reducirse a una ficha descriptiva.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v8",
+      "statement": "En la oración «Salí de Bucaramanga antes del amanecer, con la idea de encontrar un camino difícil», ¿qué función cumple el gerundio final?",
+      "context": "En Montería, la profesora pide al grupo que analice la primera oración completa del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresa una acción simultánea que el viajero realiza mientras sale de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gerundio no describe otra acción: introduce la intención que acompaña a la salida."
+        },
+        {
+          "letter": "B",
+          "text": "Indica el tiempo que le tomó al viajero llegar al punto de partida del trayecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gerundio no expresa duración y el texto no da cuenta de ese tiempo de traslado."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte la oración en una descripción objetiva, como la que realiza la ficha del Texto 2.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oración conserva la voz del viajero y su expectativa, propia de un relato en primera persona."
+        },
+        {
+          "letter": "D",
+          "text": "Añade una circunstancia que explica la intención con la que el viajero comenzó el camino.",
+          "is_correct": true,
+          "feedback": "Correcto. El gerundio completa la salida con la expectativa que la condiciona y anticipa el resto del relato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El gerundio expresa aquí una circunstancia y no una acción simultánea. Aquí no describe otra acción del viajero, sino la intención que acompaña a su partida. Reconocer esa función ayuda a escribir con una voz narrativa clara y coherente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v9",
+      "statement": "¿Por qué la ficha del Texto 2 incluye la duración estimada de dos días a pie?",
+      "context": "En Santa Marta, el profesor pregunta para qué sirve un dato aparentemente frío dentro de la ficha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para demostrar que el relato del Texto 1 exagera cuando dice que el camino fue difícil.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no busca refutar el relato y su duración coincide con la que el viajero menciona."
+        },
+        {
+          "letter": "B",
+          "text": "Para sustituir la experiencia del viajero por un dato que resulta más valioso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha y el relato cumplen funciones distintas: ninguno reemplaza al otro en la lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Para que el lector pueda planear con tiempo un trayecto parecido en vacaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese propósito no aparece en la ficha y el texto no se dirige a coordinar viajes."
+        },
+        {
+          "letter": "D",
+          "text": "Para permitir que el lector compare la experiencia del viajero con una medida objetiva del trayecto.",
+          "is_correct": true,
+          "feedback": "Correcto. Con ese dato, el tiempo que el viajero narra puede contrastarse con una estimación verificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ficha sirve para contrastar el relato, y cada dato cumple una tarea en esa comparación. La duración estimada permite ver cuánto caminó el viajero y cuánto de esa caminada se describe con detalle. Sin ese dato, el relato quedaría sin una medida externa de su propia duración. Por eso una ficha descriptiva nunca es un adorno: aporta el contraste que da sentido a la experiencia narrada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v10",
+      "statement": "El Texto 1 dice que la llanura «se extendía hasta donde la vista alcanzaba». ¿Qué evaluación de esa imagen es la más precisa?",
+      "context": "En Buenaventura, el profesor pide a sus estudiantes que valoren una imagen del relato antes de compararla con la ficha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una imagen propia del narrador, y la ficha no permite comprobarla ni desmentirla.",
+          "is_correct": true,
+          "feedback": "Correcto. La ficha no consigna datos de visibilidad y, por tanto, no resuelve lo que la imagen afirma."
+        },
+        {
+          "letter": "B",
+          "text": "Es una afirmación comprobable, porque la ficha confirma que el terreno es una llanura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha confirma el tipo de terreno, pero no mide hasta dónde alcanzaba la vista del viajero."
+        },
+        {
+          "letter": "C",
+          "text": "Es una exageración del viajero, porque ningún campo abierto puede verse tan lejos como él dice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa afirmación no aparece en el texto base y el relato no busca exagerar la extensión del campo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una descripción neutral, porque el narrador no expresa ninguna emoción al hablar del paisaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imagen trae una impresión personal y además sostiene la idea de una gran extensión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una imagen literaria no se valida con una ficha descriptiva, porque responde a lo que el narrador percibió y no a una medición. La ficha puede confirmar el tipo de terreno, pero nada en ella informa sobre el alcance visual. Reconocer ese límite evita usar una fuente para algo que no puede demostrar. También enseña que la valoración de un texto literario se apoya en su coherencia interna.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.58,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v11",
+      "statement": "Un estudiante escribe que «la llanura es más amplia de lo que imaginaba cualquiera que nunca la haya visto». ¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En el trabajo final del período en Arauca, un estudiante quiere sostener una afirmación sobre el terreno con la ficha del texto base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válida, porque la ficha del Texto 2 confirma que el terreno es una llanura abierta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha confirma el tipo de terreno, pero no mide su amplitud ni la experiencia de quien lo ve."
+        },
+        {
+          "letter": "B",
+          "text": "No puede sostenerse con la ficha, porque un dato descriptivo no mide lo que imaginaba el viajero.",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación mezcla un dato del terreno con una experiencia mental que la ficha no registra."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque el relato del Texto 1 nunca menciona una llanura en su recorrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La llanura aparece expresamente en la segunda oración del relato y ocupa buena parte de la descripción."
+        },
+        {
+          "letter": "D",
+          "text": "Es aceptable, porque cualquier lector del relato podría imaginar lo mismo que el viajero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posibilidad de imaginar algo no convierte la afirmación en un dato verificable sobre el lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una buena evaluación distingue lo que el texto dice de lo que el texto sugiere. La ficha permite afirmar cómo es el terreno, pero no mide la experiencia de quien camina por él ni lo que otros podrían imaginar. Por eso la frase del estudiante mezcla planos distintos y no se sostiene con esa fuente. Reconocer la mezcla entre dato e imaginación protege la calidad de los argumentos académicos escritos con dos fuentes a la vista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.5,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle-v12",
+      "statement": "El Texto 1 cierra con la idea de que «el viaje no consistía en llegar sino en aprender a mirar». ¿Cuál es la evaluación más sólida de ese cierre?",
+      "context": "En la exposición final de noveno grado en Florencia, la profesora pide justificar el valor del cierre del relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es débil, porque el relato no muestra ninguna comparación que respalde esa afirmación final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato sí ofrece un contraste: la expectativa del comienzo y la experiencia que la corrige."
+        },
+        {
+          "letter": "B",
+          "text": "Es sólida, porque la ficha del Texto 2 demuestra que dos días de camino cambian la mirada del viajero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha no mide cambios de mirada y no puede demostrar un efecto de esa naturaleza."
+        },
+        {
+          "letter": "C",
+          "text": "Es coherente con lo narrado, aunque se apoya en la experiencia del viajero y no en una comparación sistemática.",
+          "is_correct": true,
+          "feedback": "Correcto. La idea se desprende del relato, pero su base es vivencial y no proviene de un estudio comparado."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque un relato de viaje debe terminar siempre en el lugar de destino y no en una reflexión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género admite cierres reflexivos y el texto base propone precisamente ese tipo de cierre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un cierre exige preguntar qué lo sostiene dentro del texto y qué le faltaría para ser una demostración. La reflexión final se desprende con claridad del recorrido narrado, de la expectativa inicial a la experiencia aprendida. Su límite está en que se apoya en una vivencia y no en una comparación sistemática de trayectos. Reconocer ese límite permite defender el cierre sin presentarlo como una prueba.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.45,
+      "bundle_id": "CO-LC-9-2026-W32-la-literatura-de-la-ruta-y-el-relato-viajero-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
