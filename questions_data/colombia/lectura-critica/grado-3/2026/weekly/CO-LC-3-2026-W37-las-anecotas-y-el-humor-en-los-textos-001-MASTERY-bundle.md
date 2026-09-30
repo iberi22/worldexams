@@ -160,7 +160,7 @@ El humor también se construye con recursos lingüísticos: la repetición marca
 **Bloom:** Evaluate
 **ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.70
-**Contexto:** Un libro de lectura de Bogotá cuenta el mismo suceso en dos versiones. Versión 1: "Un niño se perdió en un centro comercial y su mamá lo encontró muy rápido". Versión 2: "Un niño se perdió en un centro comercial, se metió en todas las vitrinas, fue tomado por ladrón y terminó durmiendo en una carrija de bebé mientras un guardia lo buscaba".
+**Contexto:** Un libro de lectura de Bogotá cuenta el mismo suceso en dos versiones. Versión 1: "Un niño se perdió en un centro comercial y su mamá lo encontró muy rápido". Versión 2: "Un niño se perdió en un centro comercial, se metió en todas las vitrinas, fue tomado por un ladrón y terminó durmiendo en una carrija de bebé mientras un guardia lo buscaba".
 
 ### Enunciado
 ¿Cuál de las dos versiones es la más adecuada como texto de humor y por qué?
