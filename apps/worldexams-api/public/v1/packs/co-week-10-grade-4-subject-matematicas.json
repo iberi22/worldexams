@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-4-subject-matematicas",
+    "generated_at": "2026-09-30T15:17:18.738Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el volumen de un sólido?",
+      "context": "En un almacén de Bogotá, doña Olga guarda la ropa en cajas y las cajas en un depósito, y le explica a su hijo por qué las ocupa menos espacio que si todo estuviera suelto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de las caras que tiene un sólido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma de las caras es el área total de la superficie, que mide el exterior y no el espacio interior."
+        },
+        {
+          "letter": "B",
+          "text": "El peso que tiene un sólido cuando está lleno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso depende de la masa y del material, mientras que el volumen mide espacio y no peso."
+        },
+        {
+          "letter": "C",
+          "text": "El espacio que ocupa un sólido",
+          "is_correct": true,
+          "feedback": "¡Correcto! El volumen indica cuánto espacio ocupa un cuerpo, y por eso la caja ocupa menos lugar que la ropa suelta."
+        },
+        {
+          "letter": "D",
+          "text": "La medida de la superficie exterior de un sólido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso corresponde al área de la superficie, que es distinta del espacio que el sólido ocupa por dentro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen es la cantidad de espacio que ocupa un sólido. Un bloque de madera y una caja del mismo tamaño exterior pueden tener volúmenes muy distintos, porque la madera llena todo el espacio y la caja tiene paredes y un interior vacío. Por eso el volumen se mide en unidades cúbicas, como centímetros cúbicos o litros, y no en unidades de longitud ni de peso.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos centímetros cúbicos equivalen a un litro?",
+      "context": "En la cocina de un restaurante de Medellín, el chef anota en su cuaderno las equivalencias de capacidad para preparar jugos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número corresponde a un centímetro cúbico dividido en cien partes, y no a un litro completo."
+        },
+        {
+          "letter": "B",
+          "text": "1.000 centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "¡Correcto! Un cubo de 10 centímetros de arista tiene 1.000 centímetros cúbicos, y ese cubo es justamente un litro."
+        },
+        {
+          "letter": "C",
+          "text": "10 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el volumen de un cubo de 1 centímetro de arista, que es una fracción muy pequeña de un litro."
+        },
+        {
+          "letter": "D",
+          "text": "1 centímetro cúbico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un centímetro cúbico es apenas una milésima parte de un litro, así que falta multiplicar por mil."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un litro equivale a 1.000 centímetros cúbicos porque un centímetro cúbico es el volumen de un cubo de 1 centímetro de arista, y un litro es el volumen de un cubo de 10 centímetros de arista. Como 10 x 10 x 10 = 1.000, esa es la equivalencia. Con ella se pueden convertir las capacidades de los recipientes y calcular cuántos litros caben en un tanque.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el volumen de esa caja y cuántos litros caben en ella?",
+      "context": "En una tienda de Cali se vende una caja de cartón de 40 centímetros de largo, 30 de ancho y 20 de alto, usada para empacar juguetes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las tres medidas en lugar de multiplicarlas, y el volumen no se obtiene sumando dimensiones."
+        },
+        {
+          "letter": "B",
+          "text": "2.400 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo dos de las tres medidas, y el volumen de la caja necesita largo, ancho y alto."
+        },
+        {
+          "letter": "C",
+          "text": "240.000 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste una medida por 10 de más y el resultado quedó diez veces más grande que el real."
+        },
+        {
+          "letter": "D",
+          "text": "24.000 centímetros cúbicos, que equivalen a 24 litros",
+          "is_correct": true,
+          "feedback": "¡Correcto! 40 x 30 x 20 = 24.000, y al dividir entre 1.000 se obtienen los 24 litros de capacidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El volumen de una caja se obtiene multiplicando sus tres dimensiones: largo por ancho por alto. En este caso 40 x 30 = 1.200 y 1.200 x 20 = 24.000 centímetros cúbicos. Como 1.000 centímetros cúbicos equivalen a 1 litro, esa caja tiene capacidad para 24 litros. Este cálculo sirve para saber cuántos litros caben en una nevera, en una caneca o en una piscina pequeña.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el volumen de cada bloque?",
+      "context": "En una fábrica de Cartagena, cada bloque de cemento tiene base cuadrada de 5 centímetros de lado y una altura de 8 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el lado de la base con la altura, y el volumen exige multiplicar las tres dimensiones."
+        },
+        {
+          "letter": "B",
+          "text": "200 centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "¡Correcto! La base cuadrada tiene área 5 x 5 = 25, y 25 x 8 = 200 centímetros cúbicos."
+        },
+        {
+          "letter": "C",
+          "text": "18 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los tres lados que se conocen, cuando hay que multiplicar para conocer el espacio ocupado."
+        },
+        {
+          "letter": "D",
+          "text": "80 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste la base por la altura sin elevar la base al cuadrado, y eso omite una de sus dimensiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando la base es un cuadrado, primero se calcula su área, que es lado por lado, y luego esa base se multiplica por la altura. En este caso 5 x 5 = 25 centímetros cuadrados y 25 x 8 = 200 centímetros cúbicos. Este camino, base por altura, sirve para cualquier prisma, y es especialmente útil en la industria donde los bloques tienen siempre base cuadrada.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el volumen aproximado de ese cilindro?",
+      "context": "En una panadería de Bogotá, don Gerardo prepara un cilindro de masa con 3 centímetros de radio y 10 centímetros de alto, y usa 3,14 como aproximación del número pi.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "94,2 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 3,14 por el radio y por el alto, pero falta elevar el radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "31,4 centímetros cúbicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo multiplicaste 3,14 por 10, como si el cilindro tuviera un área de 1 centímetro cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "282,6 centímetros cúbicos",
+          "is_correct": true,
+          "feedback": "¡Correcto! 3,14 x 3 x 3 x 10 = 282,6, porque el área de la base es 3,14 por el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "282,6 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número es correcto, pero un volumen se expresa en unidades cúbicas y no en cuadradas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El volumen de un cilindro se calcula con el área de la base multiplicada por la altura. El área de la base circular es 3,14 multiplicado por el radio al cuadrado, y aquí el radio es 3, así que 3 x 3 = 9 y 3,14 x 9 = 28,26. Al multiplicar esa base por los 10 centímetros de alto se obtiene 282,6 centímetros cúbicos. Las unidades cúbicas son obligatorias porque se trata de espacio ocupado.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de los dos recipientes tiene mayor capacidad?",
+      "context": "Doña Rosa de Bucaramanga debe guardar agua en uno de dos recipientes. El recipiente A tiene base de 20 por 20 centímetros y 25 centímetros de alto. El recipiente B tiene base de 20 por 30 centímetros y 10 centímetros de alto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El recipiente A, porque 10.000 centímetros cúbicos son más que 6.000",
+          "is_correct": true,
+          "feedback": "¡Correcto! A tiene 10.000 centímetros cúbicos y B tiene 6.000, así que A ofrece más espacio para el agua."
+        },
+        {
+          "letter": "B",
+          "text": "El recipiente B, porque su base es más larga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una base más larga no basta: B es más ancho pero también es tres veces más bajo que A."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos tienen la misma capacidad, porque los dos miden 20 centímetros de ancho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir una medida no iguala los volúmenes, porque las otras dimensiones son diferentes en cada recipiente."
+        },
+        {
+          "letter": "D",
+          "text": "El recipiente B, porque es más bajo y por eso pesa menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura menor se compensa con una base mayor, y el resultado es un volumen más pequeño que el de A."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar capacidades hay que calcular el volumen de cada recipiente y luego comparar los resultados. El recipiente A da 20 x 20 x 25 = 10.000 centímetros cúbicos y el recipiente B da 20 x 30 x 10 = 6.000 centímetros cúbicos, así que A tiene más capacidad aunque B tenga la base más larga. En la práctica esto equivale a 10 litros frente a 6 litros, es decir 4 litros de diferencia.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v7",
+      "statement": "¿Cuánto tiempo se necesita para llenar un tanque de 1.500 litros?",
+      "context": "Un tanque de una finca en Medellín se llena con 500 litros de agua en 10 minutos y la mangera siempre suelta el mismo caudal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 minutos, porque el tanque es el mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tanque que se llena ahora tiene el triple de litros, así que el tiempo también debe aumentar."
+        },
+        {
+          "letter": "B",
+          "text": "20 minutos, porque 1.500 es el triple de 500 pero el tiempo no",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el caudal es constante, el tiempo sí crece en la misma proporción que los litros que se necesitan."
+        },
+        {
+          "letter": "C",
+          "text": "5 minutos, porque cada litro entra más rápido que antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El caudal de la mangera no cambia durante el llenado, así que no se puede acortar el tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "30 minutos, porque la cantidad de litros se triplica y el tiempo también",
+          "is_correct": true,
+          "feedback": "¡Correcto! Si 500 litros tardan 10 minutos, 1.500 litros tardan tres veces eso, es decir 30 minutos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando el caudal es constante, el tiempo que se tarda es directamente proporcional al volumen que se necesita llenar. Como 1.500 litros son el triple de 500, el tiempo también es el triple: 10 x 3 = 30 minutos. Esta relación se puede comprobar calculando cuántos litros entran por minuto, 500 entre 10 da 50 litros por minuto, y luego multiplicando 50 por 30 minutos para llegar a 1.500 litros.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué razonamiento determina la altura de esa caja?",
+      "context": "En un proyecto escolar de Bogotá, una caja tiene un volumen de 1.200 centímetros cúbicos y su base mide 15 centímetros de largo por 20 de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dividir el volumen entre el área de la base, porque 1.200 entre (15 x 20) da 4 centímetros",
+          "is_correct": true,
+          "feedback": "¡Correcto! El área de la base es 300 centímetros cuadrados y 1.200 entre 300 da 4, que es la altura de la caja."
+        },
+        {
+          "letter": "B",
+          "text": "Dividir el volumen entre la altura, porque 1.200 entre 4 da la base",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura es justamente lo que se busca, así que no se puede usar como dato para despejarla."
+        },
+        {
+          "letter": "C",
+          "text": "Sumar el largo y el ancho de la base, porque 15 más 20 da 35 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar dimensiones no da la altura, porque el volumen relaciona las tres medidas por multiplicación."
+        },
+        {
+          "letter": "D",
+          "text": "Tomar el volumen dividido entre 1, porque con un divisor de 1 se obtiene la altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir el volumen entre 1 solo devuelve el mismo volumen, y eso no representa una longitud."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar una dimensión que falta en una caja se divide el volumen entre el área de la base, porque el volumen es base por altura. El área de la base se calcula primero, 15 x 20 = 300 centímetros cuadrados, y luego se divide 1.200 entre 300 para obtener 4 centímetros de altura. Comprobar es sencillo: 15 x 20 x 4 vuelve a dar 1.200 centímetros cúbicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-4-2026-W10-volumen-y-capacidad-de-solidos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-4-subject-matematicas",
+    "generated_at": "2026-09-30T15:17:18.737Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v1",
+      "statement": "¿Cómo se calcula el área de un triángulo con la medida de su base y de su altura?",
+      "context": "En un taller de cartografía de Bogotá, la profesora dibuja un terreno triangular para explicar cómo se calcula la superficie que ocupa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se suman la base y la altura, porque el triángulo se construye con las dos medidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar base y altura da una longitud y no una superficie, así que ese resultado no puede ser un área."
+        },
+        {
+          "letter": "B",
+          "text": "Se multiplica la base por la altura y luego se divide entre 2",
+          "is_correct": true,
+          "feedback": "¡Correcto! El triángulo ocupa la mitad del rectángulo que tiene la misma base y la misma altura."
+        },
+        {
+          "letter": "C",
+          "text": "Se multiplica la base por la altura y se multiplica otra vez entre 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahí se está duplicando la superficie, que es justamente lo que el triángulo no tiene respecto al rectángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Se suman los tres lados, porque el triángulo tiene tres lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar los lados da el perímetro y no el área, y el área se mide en unidades cuadradas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El triángulo tiene la mitad del área de un rectángulo que tiene la misma base y la misma altura. Por eso el área se obtiene multiplicando base por altura y dividiendo el resultado entre 2, y el resultado se escribe en unidades cuadradas, como centímetros cuadrados. Esta relación permite calcular el área de triángulos reales, como los tejados o las parcelas triangulares de una finca.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué superficie ocupa esa cartelera?",
+      "context": "En una clase de cuarto grado de Medellín, la profesora escribe en el tablero que el rectangular de la cartelera mide 8 centímetros de base y 5 centímetros de altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste la base y la altura, y ese es el resultado de una longitud, no de una superficie."
+        },
+        {
+          "letter": "B",
+          "text": "40 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número es correcto, pero un área se expresa en unidades cuadradas y no en centímetros sueltos."
+        },
+        {
+          "letter": "C",
+          "text": "26 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 2 el resultado, como si la superficie fuera el doble de la que se obtiene con la fórmula."
+        },
+        {
+          "letter": "D",
+          "text": "40 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "¡Correcto! 8 x 5 = 40, porque el área de un rectángulo es base por altura y se mide en unidades cuadradas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área de un rectángulo se obtiene multiplicando la base por la altura, y aquí 8 x 5 = 40 centímetros cuadrados. Es muy importante escribir las unidades correctas: un área se expresa siempre en centímetros cuadrados, porque la superficie ocupa un lugar de dos dimensiones. Si solo se escribe centímetros, la respuesta queda incompleta aunque el número sea el correcto.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el área total de esa figura irregular?",
+      "context": "En un parque de Bogotá hay una figura de forma irregular formada por un rectángulo de 8 centímetros de largo por 3 de ancho, con un cuadrado de 2 centímetros de lado pegado en un extremo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las dos medidas de cada parte sin multiplicarlas, y así no obtuviste ninguna superficie."
+        },
+        {
+          "letter": "B",
+          "text": "24 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste solamente el área del rectángulo y olvidaste sumar la del cuadrado pegado."
+        },
+        {
+          "letter": "C",
+          "text": "28 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "¡Correcto! 8 x 3 = 24 y 2 x 2 = 4, y 24 + 4 = 28 centímetros cuadrados de superficie total."
+        },
+        {
+          "letter": "D",
+          "text": "22 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 2 al resultado de multiplicar, cuando la pieza cuadrada se suma porque hace parte de la figura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una figura irregular se puede dividir en figuras conocidas y calcular el área de cada una por separado. Al final los resultados se suman. En este caso el rectángulo aporta 24 centímetros cuadrados y el cuadrado aporta 4, de modo que la superficie total es 28 centímetros cuadrados. Este método es el que se usa para medir lotes, patios con esquinas y regiones que aparecen recortadas en un mapa.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el área del pedazo de cartulina, expresada en metros cuadrados?",
+      "context": "En un taller de Bucaramanga, doña Olga quiere un pedazo de cartulina rectangular para un afiche y anota que el largo es de 2,5 metros y el ancho es de 40 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 metro cuadrado",
+          "is_correct": true,
+          "feedback": "¡Correcto! 40 centímetros son 0,4 metros, y 2,5 x 0,4 = 1, así que el área es un metro cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "100 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 2,5 por 40 sin convertir los centímetros a metros, y el resultado quedó cien veces más grande."
+        },
+        {
+          "letter": "C",
+          "text": "0,1 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste en lugar de multiplicar, y el área de un rectángulo se obtiene con base por altura."
+        },
+        {
+          "letter": "D",
+          "text": "4 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado corresponde a convertir 40 centímetros en 4 metros, lo que no es una conversión válida de unidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Antes de calcular un área hay que dejar todas las medidas en la misma unidad. Como aquí una medida está en metros y la otra en centímetros, se convierte 40 centímetros en 0,4 metros, porque un metro tiene 100 centímetros. Luego se multiplica 2,5 x 0,4 y se obtiene 1 metro cuadrado. Convertir mal las unidades es el error más frecuente en estos problemas y siempre hay que revisarlo antes de operar.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área aproximada del círculo pintado?",
+      "context": "En un taller de artes oficios de Cali, doña Olga pinta un círculo de 5 centímetros de radio sobre una cartulina y toma 3,14 como el valor aproximado de la razón entre el diámetro y el radio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15,7 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado sale de multiplicar el radio por el mismo número sin elevar el radio al cuadrado, y el área no se obtiene así."
+        },
+        {
+          "letter": "B",
+          "text": "78,5 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "¡Correcto! 3,14 x 5 x 5 = 78,5, porque el área del círculo se calcula con el radio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "31,4 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 3,14 por 5 por 2, tomando el diámetro, y el diámetro no se usa para el área."
+        },
+        {
+          "letter": "D",
+          "text": "25 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo elevaste el radio al cuadrado y te faltó el 3,14 que acompaña a esa fórmula del área del círculo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un círculo se obtiene multiplicando el número 3,14 por el radio elevado al cuadrado. Como el radio mide 5 centímetros, primero se calcula 5 x 5 = 25 y luego se multiplica 3,14 x 25 = 78,5 centímetros cuadrados. Un control útil es comparar: el círculo debe ocupar más superficie que el cuadrado de lado 5, que es 25 centímetros cuadrados, y menos que el cuadrado de lado 10.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede concluir al comparar las áreas de los dos rectángulos?",
+      "context": "En un proyecto de cuarto grado en Medellín, dos rectángulos tienen perímetros iguales: uno mide 4 centímetros por 5 y el otro mide 1 centímetro por 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos figuras tienen la misma área, porque los dos tienen un perímetro de 18 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener el mismo perímetro no obliga a que las superficies sean iguales: depende de cómo se distribuyan los lados."
+        },
+        {
+          "letter": "B",
+          "text": "El rectángulo de 1 por 8 tiene mayor área, porque tiene un lado más largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lado más largo no garantiza mayor superficie, porque el otro lado es mucho más corto."
+        },
+        {
+          "letter": "C",
+          "text": "El rectángulo de 4 por 5 tiene mayor área, porque su área es 20 y la del otro es 8",
+          "is_correct": true,
+          "feedback": "¡Correcto! 4 x 5 = 20 y 1 x 8 = 8, así que el primer rectángulo ocupa el doble de superficie."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin dibujar las dos figuras a escala",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conociendo el largo y el ancho de cada rectángulo sí se puede calcular el área y compararla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos figuras pueden tener el mismo perímetro y áreas muy diferentes. Al calcular, el rectángulo de 4 por 5 ocupa 20 centímetros cuadrados y el de 1 por 8 ocupa 8, aunque los dos midan 18 centímetros de perímetro. Entre dos rectángulos con el mismo perímetro, el que se parece más a un cuadrado es el que tiene mayor área, y con los datos de este problema se puede comprobar.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántos metros cuadrados de pasto se deben sembrar?",
+      "context": "Un colegio de Bogotá tiene un jardín rectangular de 20 metros de largo por 15 de ancho, y alrededor se va a sembrar una franja de pasto de 1 metro de ancho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el área del jardín completo, y la franja de pasto es solo una parte más pequeña de ese terreno."
+        },
+        {
+          "letter": "B",
+          "text": "374 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el área del terreno incluyendo la franja, es decir el total que queda después de ensanchar el jardín."
+        },
+        {
+          "letter": "C",
+          "text": "22 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste solo el largo del lado exterior, pero la franja rodea el jardín por los cuatro lados."
+        },
+        {
+          "letter": "D",
+          "text": "74 metros cuadrados",
+          "is_correct": true,
+          "feedback": "¡Correcto! El terreno exterior mide 22 x 17 = 374 y el jardín 20 x 15 = 300, y 374 - 300 = 74 metros cuadrados de pasto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para calcular el área de una franja que rodea una figura hay que calcular primero el área del conjunto y luego restarle el área de la figura interior. Como la franja tiene 1 metro de ancho a cada lado, el largo exterior pasa de 20 a 22 metros y el ancho exterior de 15 a 17 metros. El área del pasto es 374 menos 300, es decir 74 metros cuadrados.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el área del rectángulo con esos datos?",
+      "context": "En una clase de cuarto grado de Cali, la profesora da estos datos de un rectángulo: su perímetro mide 30 centímetros y su base mide 9 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "54 centímetros cuadrados, porque la altura es 6 centímetros",
+          "is_correct": true,
+          "feedback": "¡Correcto! La altura es 30 : 2 - 9 = 6, y 9 x 6 = 54 centímetros cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "30 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetiste la medida del perímetro como si fuera el área, y las dos magnitudes tienen significado distinto."
+        },
+        {
+          "letter": "C",
+          "text": "90 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste la base por el perímetro, cuando lo que se necesita es la base por la altura."
+        },
+        {
+          "letter": "D",
+          "text": "15 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hallaste la mitad del perímetro, que es 15, pero eso todavía no es la altura ni el área del rectángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Con el perímetro y un lado se puede hallar el lado que falta. Como el perímetro suma dos bases y dos alturas, la mitad del perímetro, 30 entre 2, da 15, que es la suma de la base y la altura. Si la base es 9, la altura es 15 - 9 = 6, y el área es 9 x 6 = 54 centímetros cuadrados. Este camino resuelve problemas donde solo se conoce el contorno y un lado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-MAT-4-2026-W09-perimetro-y-area-de-figuras-planas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
