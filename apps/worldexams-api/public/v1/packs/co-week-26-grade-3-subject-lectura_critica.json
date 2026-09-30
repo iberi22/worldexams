@@ -1,12 +1,380 @@
 {
   "metadata": {
     "grade": 3,
-    "subject": "lectura-critica",
+    "subject": "lectura_critica",
     "country": "co",
     "pack_id": "co-week-26-grade-3-subject-lectura_critica",
     "generated_at": "2026-09-29T19:06:57.865Z"
   },
   "questions": [
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿cuánto costaba cada cuaderno que compró la profesora el viernes?",
+      "context": "La profesora Marta revisa los cuadernos que compró para la semana del resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.800",
+          "is_correct": false,
+          "feedback": "Error. Ese es el precio de las tarjetas de cartulina que armaron el jueves, no el de los cuadernos."
+        },
+        {
+          "letter": "B",
+          "text": "$3.500",
+          "is_correct": false,
+          "feedback": "Error. En el Texto 1 no hay ningún objeto que costara $3.500, porque los precios que aparecen son otros."
+        },
+        {
+          "letter": "C",
+          "text": "$4.500",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que la profesora compró veinticuatro cuadernos de $4.500 el viernes."
+        },
+        {
+          "letter": "D",
+          "text": "$6.000",
+          "is_correct": false,
+          "feedback": "Error. El texto no menciona cuadornos de $6.000, y el precio escrito para los cuadernos es $4.500."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este ejercicio entrena la localización de un dato escrito de manera explícita en el texto. Los estudiantes de tercero deben aprender que la respuesta está en el párrafo y que se puede volver a leer para comprobarla. Reconocer precios, cantidades y días fija la escena de la lectura y le da sentido al resumen que van a escribir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v2",
+      "statement": "Según el Texto 2, ¿qué hace un resumen?",
+      "context": "En la clase de tercero se pregunta qué se guarda y qué se suelta al resumir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conserva lo esencial del texto y deja fuera los detalles que no cambian el sentido",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 2 explica que el resumen guarda la idea, los personajes, el orden y los datos importantes, y descarta lo que no altera el sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Copia todas las oraciones del texto en un orden distinto",
+          "is_correct": false,
+          "feedback": "Error. Cambiar el orden de las oraciones no es resumir, porque el resumen se escribe con palabras nuevas del lector."
+        },
+        {
+          "letter": "C",
+          "text": "Copia solamente los datos concretos, como los precios y las cantidades",
+          "is_correct": false,
+          "feedback": "Error. Los datos importantes son solo una parte del resumen; también hay que decir de qué trata el texto y quiénes participan."
+        },
+        {
+          "letter": "D",
+          "text": "Reescribe la lectura con palabras difíciles para demostrar que aprendió",
+          "is_correct": false,
+          "feedback": "Error. El propósito de un resumen es que otra persona entienda la lectura, no usar un lenguaje complicado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprender qué es un resumen evita que los estudiantes confundan esta estrategia con copiar o con cambiar palabras. El Texto 2 muestra que resumir es una decisión: se conserva lo esencial y se suelta lo que no cambia el sentido. Entender ese criterio es el punto de partida para poder resumir bien más adelante.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v3",
+      "statement": "Andrés escribió un resumen de tres oraciones sobre la lectura del parque, pero en su resumen no aparece ningún personaje ni se dice quién hizo cada cosa. Cuando otra persona lea su resumen, ¿qué pregunta le sirve más para saber qué información le falta?",
+      "context": "Un compañero de Medellín entregó un resumen de una lectura y algo le quedó sonando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "¿Cuántas palabras tiene mi resumen?",
+          "is_correct": false,
+          "feedback": "Error. Contar palabras no muestra qué información falta, porque un resumen puede ser largo y aun así estar incompleto."
+        },
+        {
+          "letter": "B",
+          "text": "¿Qué información necesita el lector para saber de qué trataba el texto y qué hicieron los personajes?",
+          "is_correct": true,
+          "feedback": "Correcto. Esa pregunta lleva a revisar las partes del resumen que deben estar, y en este caso a recuperar a los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "¿Mi resumen tiene el mismo número de oraciones que el texto original?",
+          "is_correct": false,
+          "feedback": "Error. Un resumen suele tener menos oraciones que el texto, así que comparar cantidades no ayuda a completarlo."
+        },
+        {
+          "letter": "D",
+          "text": "¿Los precios que aparecen en la lectura son altos o bajos?",
+          "is_correct": false,
+          "feedback": "Error. Esa pregunta se ocupa de un dato puntual y no de la información que le falta al resumen completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Usar el criterio del Texto 2 como lista de comprobación enseña a los estudiantes a revisar su propio resumen. Cuando falta un personaje o una acción, el lector no puede reconstruir la historia. Preguntarse qué necesita saber quien lea es una estrategia útil para cualquier materia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v4",
+      "statement": "A Camilo le tocó hacer el resumen oral de la lectura del Texto 1 y solo tiene un minuto. ¿Cuál de estas es la mejor forma de empezar su resumen oral?",
+      "context": "En el salón de Bucaramanga llega el turno de resumir en voz alta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leyendo otra vez el texto completo desde la primera palabra hasta la última",
+          "is_correct": false,
+          "feedback": "Error. Leer el texto entero para resumirlo se contradice con la estrategia y además no cabe en un minuto."
+        },
+        {
+          "letter": "B",
+          "text": "Contando el color de la puerta del salón y el nombre de todos sus compañeros",
+          "is_correct": false,
+          "feedback": "Error. Esos son detalles que no cambian el sentido, y el Texto 2 enseña que un resumen los deja fuera."
+        },
+        {
+          "letter": "C",
+          "text": "Empezando por decir cuánto costaron los cuadernos y cuántos niños havia en la clase",
+          "is_correct": false,
+          "feedback": "Error. Los datos concretos son importantes, pero por sí solos no le dicen al lector de qué trataba la lectura."
+        },
+        {
+          "letter": "D",
+          "text": "Diciendo de qué trataba la lectura, quiénes participaron y en qué orden ocurrieron los hechos",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el orden que propone el Texto 2: idea principal, personajes y secuencia de los hechos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El resumen oral exige lo mismo que el escrito, solo que con la voz y en poco tiempo. Planear las tres o cuatro ideas antes de hablar evita que el estudiante se quede sin saber qué decir. Practicarlo en clase enseña a organizar el pensamiento y a explicar una lectura con confianza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v5",
+      "statement": "El resumen de un niño de Manizales dice solamente esto: \"En la escuela de La Julita, en Pereira, una semilla cayó, se sembró y luego salió un tallo de seis centímetros en ocho días. El cuaderno cuesta $4.500\". ¿Qué problema le causa esa omisión a quien lo lea?",
+      "context": "En Villavicencio, la profesora compara el resumen de un niño con el texto original.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lector no puede saber quién recogió la semilla ni dónde la sembró, porque el resumen quitó datos que cambian el sentido",
+          "is_correct": true,
+          "feedback": "Correcto. Sin los personajes y sus acciones, la historia pierde su sentido y el resumen ya no permite reconstruir lo que pasó."
+        },
+        {
+          "letter": "B",
+          "text": "El lector no puede saber cuánto costaba cada cuaderno, porque el resumen quitó ese dato",
+          "is_correct": false,
+          "feedback": "Error. El precio de $4.500 sí está escrito en el resumen, así que ese dato no fue el que se perdió."
+        },
+        {
+          "letter": "C",
+          "text": "El lector no puede saber el color de la puerta del salón, porque el resumen no lo menciona",
+          "is_correct": false,
+          "feedback": "Error. Es verdad que el color no aparece, pero ese es un detalle que un resumen puede dejar fuera sin problema."
+        },
+        {
+          "letter": "D",
+          "text": "El lector no puede saber en qué ciudad está el colegio, porque el resumen no lo escribió",
+          "is_correct": false,
+          "feedback": "Error. El resumen sí dice que la escuela está en Pereira, de modo que la ciudad no fue el dato perdido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Notar qué le falta a un resumen enseña que dejar fuera detalles está bien, pero quitar datos que sí cambian el sentido es un problema. El estudiante debe comparar su resumen con el texto y preguntarse si alguien que no lo leyó podría reconstruir la historia. Ese hábito convierte al resumen en una herramienta útil de estudio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v6",
+      "statement": "Dos estudiantes resumieron el Texto 1. El resumen de Laura dice: \"El texto cuenta la semana de una clase de tercero en Pereira, donde se leyó La semilla de chirimoya y después se aprendió a resumir\". El resumen de Andrés dice: \"El texto cuenta la semana de una clase de tercero en Pereira: el lunes se leyó la historia de una semilla de chirimoya que cayó del patio, se recogió y se sembró, y el viernes se compraron los cuadernos de $4.500\". ¿Cuál de los dos resúmenes conserva mejor lo esencial y por qué?",
+      "context": "En el aula de Cartagena se revisan dos resúmenes de la misma lectura de la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Laura, porque entre más pocos detalles tenga un resumen, mejor es el resumen",
+          "is_correct": false,
+          "feedback": "Error. Un resumen no se mide por la cantidad de detalles, sino por conservar la idea, los personajes y el orden de los hechos."
+        },
+        {
+          "letter": "B",
+          "text": "El de Andrés, porque dice de qué trata la lectura, quiénes participaron y en qué orden ocurrieron los hechos",
+          "is_correct": true,
+          "feedback": "Correcto. Su resumen reúne las partes que el Texto 2 señala como esenciales, mientras que el de Laura deja la historia casi vacía."
+        },
+        {
+          "letter": "C",
+          "text": "El de Laura, porque menciona el nombre del barrio y el título del texto que se leyó",
+          "is_correct": false,
+          "feedback": "Error. Esos datos aparecen en la lectura, pero no bastan para que el lector sepa de qué trataba ni qué pasó."
+        },
+        {
+          "letter": "D",
+          "text": "El de Andrés, porque repite los precios y las cantidades que aparecen en el texto original",
+          "is_correct": false,
+          "feedback": "Error. La razón no es repetir cifras, sino decir de qué trata la lectura y en qué orden sucedió lo importante."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos resúmenes permite entrar al criterio del Texto 2 y aplicarlo con criterio propio. El estudiante observa que un resumen puede tener el mismo número de oraciones y aun así conservar información muy distinta. Revisar el trabajo de un compañero enseña a evaluar con razones y no solamente porque dos textos se parezcan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v7",
+      "statement": "En una reunión de padres de Ibagué, una madre afirmó que en esa escuela el resumen es copiar el texto con menos palabras. Un estudiante de tercero le respondió que esa frase no era correcta. ¿Cuál es la mejor respuesta del estudiante para explicar por qué?",
+      "context": "En la reunión de padres de un colegio de Ibagué se habla de cómo se evalúa un resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La madre tiene razón, porque el resumen siempre es una copia más corta del texto original",
+          "is_correct": false,
+          "feedback": "Error. Copiar el texto no es resumir, porque el objetivo es que otra persona entienda de qué trataba la lectura."
+        },
+        {
+          "letter": "B",
+          "text": "La madre se equivoca, porque un resumen debe tener exactamente la mitad de palabras del texto",
+          "is_correct": false,
+          "feedback": "Error. No existe una regla de palabras, porque un buen resumen se decide por la información que conserva."
+        },
+        {
+          "letter": "C",
+          "text": "La madre tiene razón, porque un resumen nunca puede conservar los datos importantes de la lectura",
+          "is_correct": false,
+          "feedback": "Error. Al contrario, el Texto 2 dice que los datos importantes sí se guardan en el resumen."
+        },
+        {
+          "letter": "D",
+          "text": "La madre se equivoca, porque un resumen conserva lo esencial con palabras del estudiante y deja fuera los detalles que no cambian el sentido",
+          "is_correct": true,
+          "feedback": "Correcto. Esa respuesta explica la diferencia entre copiar y resumir, y además se apoya en lo que enseña el Texto 2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una afirmación con argumentos ayuda a los estudiantes a defender su manera de entender la estrategia lectora. La respuesta correcta no se apoya en opiniones, sino en las partes que un resumen debe conservar. Este tipo de discusión les da a los niños herramientas para explicar su criterio a otras personas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle-v8",
+      "statement": "Un niño de Villavicencio escribió su resumen en una sola oración muy larga: \"Leí la historia de la semilla y le conté a mi mamá y mi mamá le contó a mi abuela y después fui a la casa y también compré un cuaderno y el cuaderno me costó cuatro mil quinientos\". ¿Qué problema tiene esa oración para quien la lea?",
+      "context": "En el taller de escritura de Pasto revisan cómo están construidas las oraciones de los resúmenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene ningún problema, porque entre más larga sea la oración, más completo resulta el resumen",
+          "is_correct": false,
+          "feedback": "Error. La extensión no garantiza que el resumen sea claro, porque lo esencial es que las ideas se entiendan."
+        },
+        {
+          "letter": "B",
+          "text": "El problema está en cómo se escriben los números, porque todas las cantidades se deben escribir con letras",
+          "is_correct": false,
+          "feedback": "Error. La dificultad no está en cómo se escriben las cantidades, sino en que la oración encadena muchas acciones sin orden."
+        },
+        {
+          "letter": "C",
+          "text": "Está llena de y y no dice con claridad qué hizo cada personaje ni en qué orden, así que conviene separarla en oraciones cortas",
+          "is_correct": true,
+          "feedback": "Correcto. Al unirlo todo con la conjunción, el lector pierde el orden de los hechos y no ubica bien a cada personaje."
+        },
+        {
+          "letter": "D",
+          "text": "El problema es que usa palabras del texto original, lo cual no está permitido en un resumen",
+          "is_correct": false,
+          "feedback": "Error. Un resumen puede conservar algunas palabras del texto, y lo que no se puede es perder el sentido de la lectura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Revisar cómo están construidas las oraciones del resumen enseña que la forma también afecta la comprensión. Cuando todo va unido con la conjunción, se pierde el orden de los hechos que el Texto 2 pide conservar. Separar el resumen en oraciones cortas es una recomendación sencilla que los estudiantes pueden aplicar de inmediato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W26-el-resumen-de-un-texto-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 3,
+      "country": "co"
+    },
     {
       "id": "CO-LC-3-2026-W26-los-sentimientos-de-los-personajes-001-MASTERY-bundle-v1",
       "statement": "En el Texto 1, ¿qué siente Camila cuando ve que la cartulina se mojó?",
@@ -49,7 +417,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -95,7 +463,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -141,7 +509,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -187,7 +555,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -233,7 +601,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -279,7 +647,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -325,7 +693,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     },
@@ -371,7 +739,7 @@
       "periodo": 26,
       "protocol_version": "5.2",
       "cefr_level": null,
-      "subject": "lectura-critica",
+      "subject": "lectura_critica",
       "grade": 3,
       "country": "co"
     }

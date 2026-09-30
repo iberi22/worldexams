@@ -374,6 +374,374 @@
       "subject": "lectura-critica",
       "grade": 3,
       "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v1",
+      "statement": "En el Texto 1, ¿cuánto pagaron los cuatro niños por el cuaderno de 120 hojas?",
+      "context": "En el salón 2-04 de la Escuela Los Arrayones de Pereira, los niños de tercero anotan los datos de una lectura para no olvidarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6.800",
+          "is_correct": false,
+          "feedback": "Ese es el precio de los marcadores de colores, no el del cuaderno de 120 hojas."
+        },
+        {
+          "letter": "B",
+          "text": "$9.500",
+          "is_correct": true,
+          "feedback": "Correcto. El Texto 1 dice que el cuaderno de 120 hojas costó $9.500 en la papelería del centro."
+        },
+        {
+          "letter": "C",
+          "text": "$12.300",
+          "is_correct": false,
+          "feedback": "Ninguna compra del texto suma $12.300, así que ese valor no aparece en el Texto 1."
+        },
+        {
+          "letter": "D",
+          "text": "$15.600",
+          "is_correct": false,
+          "feedback": "El Texto 1 no menciona ese valor, porque el cuaderno y los marcadores se compraron por separado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura textual permite recuperar un dato explícito del texto, como el precio de un objeto, y entrena la atención a los números y a los símbolos monetarios. En tercero este tipo de pregunta es la base para comprobar que el niño leyó hasta el final. Reconocer datos concretos también le da seguridad porque puede volver al texto y encontrarlos con facilidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v2",
+      "statement": "En el Texto 1, ¿por qué dice Sebastián que la caneca azul se llena más rápido que las otras?",
+      "context": "En el barrio Cuba de Pereira hay tres canecas de colores para separar la basura, y los niños quieren entender para qué sirve cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la caneca azul es más grande que la verde y la gris.",
+          "is_correct": false,
+          "feedback": "El texto no compara tamaños, solo cuenta cuántas botellas llegan a cada caneca."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la familia de Sebastián cambia el color de la caneca cada semana.",
+          "is_correct": false,
+          "feedback": "El Texto 1 dice que las canecas siempre son verde, azul y gris, y no que cambien de color."
+        },
+        {
+          "letter": "C",
+          "text": "Porque llegan muchas botellas de refresco, que son las que se echan en la azul.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto explica que la caneca azul se llena más rápido por la cantidad de botellas de refresco."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en el parque hay más árboles que en el barrio.",
+          "is_correct": false,
+          "feedback": "El Texto 1 no habla de árboles ni de comparaciones entre el parque y el barrio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comprensión inferencial pide unir dos datos del texto para deducir una causa que el escritor no escribe de forma explícita. Cuando un niño entiende por qué la caneca azul se llena más rápido, ya no está decorando, está pensando. Estas preguntas preparan el camino hacia el análisis, porque enseña a buscar la relación entre lo que dice el texto y lo que significa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué debe hacer el niño con el texto de seis páginas para poder explicarle a su mamá de qué trata sin copiarlo todo?",
+      "context": "En una casa de Villavicencio llega un texto de seis páginas sobre el cuidado del agua, y el niño debe dejarle un resumen a su mamá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leerlo y después escribir un esquema con un título, subtítulos y las ideas principales debajo de cada uno.",
+          "is_correct": true,
+          "feedback": "Correcto. Así organiza lo importante y luego puede explicarlo siguiendo su propio esquema."
+        },
+        {
+          "letter": "B",
+          "text": "Copiar las seis páginas completas en el cuaderno para tenerlas a la mano.",
+          "is_correct": false,
+          "feedback": "Copiar todo ocupa muchas páginas y, como dice el Texto 2, no obliga a decidir qué es clave."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar solo la palabra agua y escribirla veinte veces en una hoja.",
+          "is_correct": false,
+          "feedback": "Escribir la misma palabra no organiza las ideas del texto, solamente la repite."
+        },
+        {
+          "letter": "D",
+          "text": "Contar cuántas páginas tiene el texto y no escribir nada más.",
+          "is_correct": false,
+          "feedback": "Contar páginas sirve para saber el tamaño, pero no permite explicar de qué trata el texto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar una técnica de estudio significa saber usarla en una situación nueva, no solo repetir lo que dijo el maestro. Elegir el esquema para un texto largo enseña a tomar decisiones sobre cómo estudiar. El niño descubre que organizar no es un trámite, sino una manera de comprender mejor y de explicar con sus propias palabras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semántico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v4",
+      "statement": "Como Sara debe explicar sin leer la hoja y sin aprenderse párrafos de memoria, ¿qué ayuda le conviene tener en la mano?",
+      "context": "En el salón 2-04 de la Escuela Los Arrayones, Sara va a hablar el viernes frente a sus compañeros y solo tiene dos minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una copia completa del texto del reciclaje, para tenerla a la vista.",
+          "is_correct": false,
+          "feedback": "La copia completa obliga a leer la hoja, y Sara justamente debe explicar sin leerla."
+        },
+        {
+          "letter": "B",
+          "text": "El texto del coloreado que usaron el martes, porque era más bonito.",
+          "is_correct": false,
+          "feedback": "La apariencia del texto no ayuda a explicar de forma ordenada lo leído el martes."
+        },
+        {
+          "letter": "C",
+          "text": "Una hoja en blanco, para no tener nada frente a ella al hablar.",
+          "is_correct": false,
+          "feedback": "Hablar sin ningún apoyo hace más difícil recordar las ideas y el orden del tema."
+        },
+        {
+          "letter": "D",
+          "text": "Su esquema con un título, dos subtítulos y tres ideas cortas, para seguirlo con la mirada.",
+          "is_correct": true,
+          "feedback": "Correcto. El esquema ordena las ideas y permite explicarlas oralmente sin memorizar párrafos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Este ejercicio muestra para qué sirve organizar ideas en la vida real del aula: hablar frente a los demás sin leer ni memorizar. El niño connecta la herramienta escrita con una tarea concreta de comunicación oral. Esa transferencia es la que demuestra que entendió el concepto y no solamente la definición del Texto 2.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v5",
+      "statement": "Los ocho títulos del mural deben ordenar el tema y sus partes, como indica el Texto 2. ¿Cuál lista de títulos cumple mejor esa condición?",
+      "context": "En Cartagena la profesora Yineth Martínez pide ocho títulos para el mural de tercero sobre el cuidado de la lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lluvia lluvia lluvia lluvia lluvia lluvia lluvia lluvia",
+          "is_correct": false,
+          "feedback": "Repite la misma palabra y no crea títulos ni partes, así que no ordena nada."
+        },
+        {
+          "letter": "B",
+          "text": "DÓNDE LLUEVE / CUÁNTA AGUA SE USA / QUIÉN CUIDA LAS CANECAS / QUÉ SE PUEDE RECICLAR",
+          "is_correct": true,
+          "feedback": "Correcto. Son títulos claros que separan el tema en partes distintas y ordenadas."
+        },
+        {
+          "letter": "C",
+          "text": "agua, tubo, llave, flor, ventana, bus, plaza, sol",
+          "is_correct": false,
+          "feedback": "Son palabras sueltas sin relación entre sí, porque el tema no aparece en ninguna de ellas."
+        },
+        {
+          "letter": "D",
+          "text": "Un solo título largo que copia el texto completo en una sola línea",
+          "is_correct": false,
+          "feedback": "Un solo bloque de texto no crea partes ni subtítulos, que es justo lo que pide el Texto 2."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La lectura discursiva atiende a cómo se organiza un conjunto de textos y a la relación entre las partes de un tema. Al construir títulos, el niño descubre que un buen esquema lleva la información principal de cada parte. Esa habilidad le será útil después en resúmenes, exposición y hasta en las pruebas, donde las preguntas suelen venir agrupadas por bloques.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v6",
+      "statement": "El Texto 2 afirma que ordenar las ideas obliga a decidir cuál es la importante. ¿Cómo explica esa afirmación lo que le pasó a Andrés y a Sara?",
+      "context": "En el aula de Ibagué, Andrés copió el texto del reciclaje y luego no pudo hablar sin leerlo; Sara hizo un esquema y sí habló sola.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explica que copiar el texto completo es siempre mejor, por eso Sara no pudo hablar sola.",
+          "is_correct": false,
+          "feedback": "El Texto 2 dice lo contrario: ordenar exige decidir qué es clave y eso no es copiar."
+        },
+        {
+          "letter": "B",
+          "text": "Explica que el esquema solo sirve para los textos que tienen dibujos y fotos.",
+          "is_correct": false,
+          "feedback": "El esquema sirve justamente para textos largos, como el de las seis páginas del Texto 2."
+        },
+        {
+          "letter": "C",
+          "text": "Explica que Andrés copió sin decidir qué era importante, y Sara sí tuvo que elegirlo al ordenar sus ideas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa diferencia entre copiar y decidir es la idea central del Texto 2."
+        },
+        {
+          "letter": "D",
+          "text": "No explica nada, porque el Texto 2 solo habla de títulos y nunca menciona la exposición oral.",
+          "is_correct": false,
+          "feedback": "El Texto 2 sí menciona la exposición oral y dice que el esquema evita memorizar párrafos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar significa confrontar lo que dice un texto con lo que pasó en una situación real y encontrar la relación. Aquí el niño usa el Texto 2 para explicar por qué Sara pudo hablar sola y Andrés no. Esa comparación enseña que la diferencia no está en leer bien, sino en decidir qué se guarda.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v7",
+      "statement": "Según el Texto 2, ¿cuál es la mejor razón para pedir un esquema en vez de una copia cuando el texto es muy largo?",
+      "context": "En el colegio de Manizales la profesora compara dos maneras de estudiar un texto de ocho páginas sobre el cuidado de los ríos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque obliga a escoger lo importante y después permite explicar el tema sin leer la hoja ni memorizar párrafos.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la ventaja que el Texto 2 le da a organizar las ideas frente a copiar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque escribir a mano un texto largo ocupa menos tiempo que hacer títulos y subtítulos.",
+          "is_correct": false,
+          "feedback": "Hacer un esquema exige más trabajo, no menos, porque hay que decidir y separar las ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así el niño no tiene que volver a leer el texto ni en la casa ni en el salón.",
+          "is_correct": false,
+          "feedback": "El esquema se hace después de leer, así que la lectura inicial siempre sigue siendo necesaria."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el esquema sirve para dibujar mejor y ocupa menos cuaderno que el texto.",
+          "is_correct": false,
+          "feedback": "La razón no es el dibujo ni el espacio, sino la organización de las ideas importantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un método de estudio exige justificar por qué una opción es mejor que las otras, no solo decir que funciona. El niño aprende a usar el texto como apoyo de su respuesta, y no como algo que hay que memorizar. Esa habilidad de razonar sobre su propio aprendizaje lo prepara para tomar decisiones en casos nuevos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle-v8",
+      "statement": "En el Texto 1 aparece la oración \"Sebastián contó que en su casa usan tres canecas\". ¿Cuál es el sujeto y cuál es el predicado de esa oración?",
+      "context": "En Pasto, un niño de tercero escribe en su lista la oración que leyó sobre las tres canecas de su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sujeto es \"usan tres canecas\" y el predicado es \"Sebastián contó que en su casa\".",
+          "is_correct": false,
+          "feedback": "Se han invertido las partes, porque el sujeto es quien cuenta y el predicado es lo que cuenta."
+        },
+        {
+          "letter": "B",
+          "text": "El sujeto es \"en su casa\" y el predicado es \"Sebastián contó que usan tres canecas\".",
+          "is_correct": false,
+          "feedback": "\"En su casa\" es un lugar dentro del predicado, no el sujeto de la oración."
+        },
+        {
+          "letter": "C",
+          "text": "El sujeto es \"que\" y el predicado es \"en su casa usan tres canecas\".",
+          "is_correct": false,
+          "feedback": "La palabra \"que\" solamente introduce lo que Sebastián contó, no indica quién habla."
+        },
+        {
+          "letter": "D",
+          "text": "El sujeto es \"Sebastián\" y el predicado es \"contó que en su casa usan tres canecas\".",
+          "is_correct": true,
+          "feedback": "Correcto. Sebastián es quien cuenta y todo lo demás es lo que cuenta, es decir, el predicado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer el sujeto y el predicado ayuda a entender cómo está construida cada oración de la lista, que es el orden que exige la técnica. Cuando el niño separa esas dos partes, puede resumir con sus propias palabras sin romper el sentido. También nota que una idea escrita en una línea corta conserva la oración completa del texto original.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sintáctico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura-critica",
+      "grade": 3,
+      "country": "co"
     }
   ]
 }

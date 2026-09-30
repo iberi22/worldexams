@@ -75,7 +75,7 @@ Reconocer el nombre de una actividad y seguirla a lo largo de la narración ense
 Este ejercicio prepara la mente del niño para el análisis, porque si no identifica la tarea que hacen los personajes, no podrá entender por qué sus comparaciones son importantes.
 
 ## Question 2 [D3-D4]
-**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1
+**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.88
@@ -103,7 +103,7 @@ Cuando el estudiante entiende que comparar es poner dos cosas al lado, puede usa
 Esta base conceptual sostiene los tres niveles siguientes, porque las preguntas de aplicación, análisis y evaluación dependen de esta definición.
 
 ## Question 3 [D5-D6]
-**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1
+**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Inferencial
 **Expected_Success:** 0.80
@@ -131,7 +131,7 @@ El niño debe conectar el precio mayor con la forma más, y no con menos, que es
 Dominar esta elección permite escribir descripciones precisas, porque el lector entiende de inmediato cuál de las dos cosas supera a la otra.
 
 ## Question 4 [D5-D6]
-**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1
+**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Sintáctico
 **Expected_Success:** 0.78
@@ -159,7 +159,7 @@ El niño separa la comparación en dos partes, lo que compara y aquello con lo q
 Esta habilidad le permite después revisar sus propios escritos y detectar cuándo una comparación está mal construida.
 
 ## Question 5 [D5-D6]
-**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1
+**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Pragmático
 **Expected_Success:** 0.75
@@ -187,7 +187,7 @@ El texto base explica que comparar con algo ya conocido ayuda a formar una image
 Elegir la comparación más útil enseña a pensar en el lector que tenemos al frente, un criterio que refuerza todas las lecturas que vendrán después en el año.
 
 ## Question 6 [D7-D8]
-**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1
+**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Discursivo
 **Expected_Success:** 0.74
@@ -215,7 +215,7 @@ El estudiante reconoce que la regla del Texto 2 explica lo que los niños ya hic
 Entender esta complementariedad cambia la forma de estudiar, porque permite pasar de copiar definiciones a usar el conocimiento para resolver algo.
 
 ## Question 7 [D7-D8]
-**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1
+**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
 **Expected_Success:** 0.72
@@ -243,7 +243,7 @@ El estudiante aprende que comparar no es poner cualquier cosa al lado, sino busc
 Este criterio de calidad fortalece su escritura, porque le da un patrón con el cual juzgar y corregir lo que él mismo produce.
 
 ## Question 8 [D7-D8]
-**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v1
+**ID:** CO-LC-3-2026-W31-los-comparativos-y-los-similes-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.70
