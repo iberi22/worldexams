@@ -167,7 +167,6 @@ En la oración «Cuando el presupuesto se gasta en subsidiar el viaje antes de r
   <!-- feedback: Incorrecto. La pasiva refleja se emplea en el verbo se gasta, y no en toda la oración. -->
 
 ### Explicacion Pedagogica
-
 Reconocer la estructura de una oración permite ver cómo el columnista ordena sus razones y cuál de ellas se presenta como conclusión. En este caso la subordinada temporal coloca la condición y la proposición principal lanza el veredicto, de modo que el lector recibe el juicio solo después de conocer la causa. Esa misma arquitectura puede usarse en los trabajos escritos del curso.
 
 ## Question 7 [D7-D8]
