@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lectura_critica",
+    "country": "co",
+    "pack_id": "co-week-25-grade-4-subject-lectura_critica",
+    "generated_at": "2026-09-30T09:32:40.365Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v1",
+      "statement": "Lee la etiqueta de la botella de bebida.\n\n*\"Gaseosa de cola, sabor clásico. Contenido neto: 1,5 litros. Ingredientes: agua carbonatada, azúcar, caramelo coloring, ácido cítrico, cafeína y conservantes. Registro sanitario INVIMA número INV-2417. Fecha de vencimiento: 15 de mayo de 2026. Lote 0427. Consérvese en lugar fresco. Código de barras: 7501234567890.\"*\n\nSegún la etiqueta, ¿cuánto producto trae la botella?",
+      "context": "En una clase de cuarto en Medellín, la profesora pide a los niños revisar la etiqueta de una bebida que trajeron de la tienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quince litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etiqueta dice contenido neto de 1,5 litros, y no hay ningún dato que indique una cantidad de quince litros."
+        },
+        {
+          "letter": "B",
+          "text": "Un litro y medio por cada lado de la botella",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad total es de un litro y medio, y no hay que dividirla entre los dos lados de la botella."
+        },
+        {
+          "letter": "C",
+          "text": "Un litro y medio de bebida",
+          "is_correct": true,
+          "feedback": "Correcto. El contenido neto de 1,5 litros corresponde a un litro y medio de bebida en la botella."
+        },
+        {
+          "letter": "D",
+          "text": "El peso de la botella vacío, porque el contenido neto se mide sin la bebida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contenido neto es la cantidad de producto que trae el envase, y en este caso son 1,5 litros de bebida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La etiqueta es un texto informativo que dice qué trae el envase, qué contiene y hasta cuándo se puede usar. El contenido neto sirve para saber si lo que compras corresponde a lo que esperabas y para comparar precios con la misma medida. En Colombia este dato aparece siempre y se escribe con unidades del sistema, como litros, mililitros o gramos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Literal",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v2",
+      "statement": "Observa un fragmento de la etiqueta de un medicamento de la casa.\n\n*\"Medicamento de uso oral. Composición: principio activo y excipientes. Uso: este producto es un medicamento. Antes de usarlo, lea la etiqueta y la información interna del producto. Si los síntomas persisten o empeoran, consulte al médico o al farmacéutico. No se administers por vía oral. Mantener fuera del alcance de los niños. Prohibida su venta.\"*\n\n¿Qué quiere decir la expresión \"mantener fuera del alcance de los niños\"?",
+      "context": "En un taller de lectura de cuarto en Pereira, los niños estudian una etiqueta de un medicamento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el medicamento debe guardarse a una altura que los niños no alcancen",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura a la que se guarda no es lo que explica la frase, y el texto pide además mantener el producto fuera de su vista."
+        },
+        {
+          "letter": "B",
+          "text": "Que los niños deben tomar el medicamento porque sirve para aliviar los síntomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase dice justamente lo contrario, y el texto indica que el uso en niños debe consultarse con el médico."
+        },
+        {
+          "letter": "C",
+          "text": "Que la caja del medicamento debe esconderse para que nadie la compre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder el producto no es lo que significa la expresión, y además el texto dice que su venta está prohibida."
+        },
+        {
+          "letter": "D",
+          "text": "Que el medicamento es un producto que solo debe usar una persona adulta bajo indicación del médico",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión advierte que los niños no deben tomar el producto por su cuenta, y por eso debe guardarse lejos de ellos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las etiquetas de medicamentos tienen advertencias que protegen a los niños y a las familias. Estas frases aparecen con palabras sencillas para que cualquier persona pueda entenderlas sin ayuda. Cuando los estudiantes leen estas indicaciones, reconocen que ningún medicamento se toma sin la indicación de un profesional de la salud.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semántico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v3",
+      "statement": "Lee la etiqueta de un paquete de galletas y responde la pregunta.\n\n*\"Galletas de avena con pasas. Contenido neto: 400 gramos. Ingredientes: harina de trigo, avena, azúcar, pasas, mantequilla, polvo de hornear y sal. Contiene gluten y leche. Fecha de vencimiento: 8 de marzo de 2026. Lote 118. Consumir preferiblemente antes de esa fecha. Almacenar en lugar seco y fresco, lejos de la humedad.\"*\n\n¿Qué se puede inferir a partir de esta etiqueta?",
+      "context": "En una actividad de cuarto en Ibagué, los niños revisan las etiquetas de dos paquetes de la tienda del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la bolsa de galletas no es adecuada para alguien que no pueda consumir gluten ni leche",
+          "is_correct": true,
+          "feedback": "Correcto. La línea sobre gluten y leche advierte de esos ingredientes, y por eso alguien que los evita no debería comer estas galletas."
+        },
+        {
+          "letter": "B",
+          "text": "Que las galletas deben guardarse en la nevera porque la humedad les hace daño de inmediato",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etiqueta pide un lugar seco y fresco, y no dice que haya que usar la nevera ni que el daño sea inmediato."
+        },
+        {
+          "letter": "C",
+          "text": "Que la fecha de vencimiento aparece en la etiqueta solo para looks bonito y decorativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fecha indica hasta cuándo se recomienda consumir el producto, y es un dato de seguridad, no un adorno."
+        },
+        {
+          "letter": "D",
+          "text": "Que el paquete tiene por lo menos cuatrocientas galletas, porque trae 400 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los 400 gramos son el peso total del paquete, y la etiqueta no dice cuántas galletas hay en total."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Inferir significa deducir algo que el texto no dice de manera directa pero que se deduce de los datos que sí aparecen. Las advertencias sobre gluten y leche, el lugar de almacenamiento y la fecha límite son pistas que exigen decisiones. Cuando los niños practican estas inferencias, pueden elegir productos adecuadas para personas con restricciones alimentarias.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Inferencial",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v4",
+      "statement": "Observa los cuatro datos de la etiqueta de un donar de jugo de naranja.\n\n*\"Dato 1: \"Registro sanitario INVIMA número INV-5530\". Dato 2: \"Contenido neto: 1 litro\". Dato 3: \"Fecha de vencimiento: 20 de julio de 2026\". Dato 4: \"Ingredientes: agua, jugo de naranja, azúcar y ácido cítrico\".\"*\n\n¿Cuál es el orden en que aparecen esos datos en la etiqueta?",
+      "context": "En el aula de cuarto en Armenia, los estudiantes deben ubicar los datos de una etiqueta en el lugar que les corresponde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dato 2, dato 4, dato 1, dato 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la etiqueta el contenido neto aparece en la parte superior, pero los ingredientes preceden al registro sanitario."
+        },
+        {
+          "letter": "B",
+          "text": "Dato 2, dato 3, dato 4, dato 1",
+          "is_correct": true,
+          "feedback": "Correcto. La etiqueta empieza con el contenido neto, sigue con la fecha de vencimiento, luego viene la lista de ingredientes y al final el registro sanitario."
+        },
+        {
+          "letter": "C",
+          "text": "Dato 4, dato 2, dato 3, dato 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lista de ingredientes no aparece antes del contenido neto, y ese dato se ubica en la parte superior de la etiqueta."
+        },
+        {
+          "letter": "D",
+          "text": "Dato 3, dato 2, dato 1, dato 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden pone la fecha antes del contenido neto, y en la etiqueta el contenido neto se lee primero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las etiquetas siguen un orden que permite encontrar los datos con rapidez, como los nombres, el contenido neto, la fecha, los ingredientes y el registro sanitario. Reconocer ese orden ayuda a los niños a usar la etiqueta como una fuente de información y no como un simple adorno. Con la práctica, ellos solos pueden revisar si un producto cumple lo que dicen en clase.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v5",
+      "statement": "Observa cómo están escritos algunos datos en la etiqueta de una caja de loza.\n\n*\"Dato en etiqueta: \"Contenido neto 500 mL\". Dato en etiqueta: \"Energía 210 kcal\". Dato en etiqueta: \"Fecha de venc.: 11/12/2026\". Dato en etiqueta: \"Cons.: bajo en sodio\". \"*\n\n¿Qué efecto buscan esas abreviaturas y esas cifras en la etiqueta?",
+      "context": "En una clase de cuarto en Cartagena, la profesora pregunta por qué la etiqueta usa abreviaturas y número.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la etiqueta parezca más bonita y por eso llame más la atención en la tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto no es decorativo, y estas formas cortas sirven para que quepa mucha información en un espacio pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto de la etiqueta sea más fácil de modificar después por el fabricante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las abreviaturas no se usan para cambiar el texto, y la etiqueta es un texto fijo que debe decir la verdad del producto."
+        },
+        {
+          "letter": "C",
+          "text": "Que la información quepa completa en un espacio pequeño, sin quitarle al lector los datos que necesita",
+          "is_correct": true,
+          "feedback": "Correcto. Las abreviaturas como mL, kcal y el punto y coma en la fecha permiten escribir mucho dato sin ocupar lugar ni perder información."
+        },
+        {
+          "letter": "D",
+          "text": "Que los niños de cuarto grado no tengan que leer las palabras largas de la etiqueta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las abreviaturas se usan para compactar el texto, y no para evitar la lectura, que es justamente lo que enseña la etiqueta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar un texto de etiqueta es preguntarse qué efecto tiene cada recurso en el lector. Las abreviaturas y las cifras hacen que entre mucha información en poco espacio sin perder precisión, como cuando el contenido neto aparece en mililitros. Cuando los niños entienden esta intención, leen las etiquetas con más seguridad y pueden explicarle a su familia qué significan esos datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmático",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v6",
+      "statement": "Lee las dos etiquetas que describieron dos grupos de cuarto para un yogur de sabor vainilla.\n\n*\"Etiqueta A: \"Yogur de vainilla. Contenido neto 500 g. Ingredientes: leche entera, azúcar, esencia de vainilla, almidón y fermentos. Contiene leche y gluten. Fecha de vencimiento: 5 de octubre de 2026. Consérvese refrigerado. Registro sanitario INVIMA INV-3012.\" Etiqueta B: \"Este yogur es de vainilla, sabe muy bien, es grande y no es feo. Le encanta a su mamá y a su hermano le gusta mucho.\"*\n\n¿Cuál es la diferencia principal entre las dos etiquetas?",
+      "context": "En un trabajo en grupo de cuarto en Barranquilla, se comparan dos etiquetas del mismo tipo de producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La etiqueta A informa con datos verificables, mientras que la etiqueta B solo expresa opiniones sin datos",
+          "is_correct": true,
+          "feedback": "Correcto. La primera da contenido, ingredientes, advertencias y fecha, mientras que la segunda usa palabras de gusto y de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "La etiqueta A está escrita por una señora y la etiqueta B está escrita por un niño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice quién escribió cada etiqueta, y la diferencia está en el tipo de información que cada una entrega."
+        },
+        {
+          "letter": "C",
+          "text": "La etiqueta B es mejor porque las opiniones hacen que uno quiera comprar el yogur",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una opinión no sirve para saber el contenido, la fecha ni las advertencias, y por eso no reemplaza a los datos."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos etiquetas son iguales, porque las dos mencionan el sabor vainilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar el sabor no las hace iguales, y una de ellas no aporta ningún dato que sirva para revisar el producto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos textos del mismo tipo de producto permite ver la diferencia entre informar y opinar. Un texto informativo entrega datos que se pueden comprobar, como el contenido, los ingredientes y la fecha de vencimiento, mientras que una opinión dice si algo gusta o no. Cuando los niños distinguen estos dos casos, pueden detectar etiquetas que dicen mucho y no dicen nada importante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v7",
+      "statement": "Un compañero de tu grupo afirma lo siguiente.\n\n*\"Ese alimento tiene todos los datos, por eso podemos estar tranquilos y no tenemos que revisar nada más, porque si la etiqueta está completa ya no hay nada que consultar.\"*\n\n¿Cuál es la respuesta más sólida que puede darle el grupo a esa afirmación?",
+      "context": "En una reunión de aula en Villavicencio, un estudiante de cuarto defiende una idea sobre la etiqueta de un producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es correcta, porque la etiqueta es un texto confiable y por eso no conviene dudar de él",
+          "is_correct": false,
+          "feedback": "Incorrecto. La etiqueta es un texto confiable, pero conviene leerla con atención y comprobar datos como el contenido neto y la fecha de vencimiento."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque el contenido neto de la etiqueta ya incluye todos los ingredientes del alimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contenido neto dice cuánto producto trae, y los ingredientes van aparte en otra parte de la etiqueta."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es incorrecta, porque las etiquetas de alimentos nunca traen datos, solo nombres y logotipos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las etiquetas sí traen datos, y por eso precisamente son un texto informativo muy completo."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es incorrecta, porque una etiqueta completa sirve para revisar el producto, pero para el uso de un medicamento siempre hay que consultar al médico o al farmacéutico",
+          "is_correct": true,
+          "feedback": "Correcto. Ningún texto sustituye el consejo de un profesional de la salud, y esa es una advertencia que aparece en las cajas de medicamentos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto informativo implica poner a prueba lo que afirma y sostener la respuesta con criterios comprobables. Una etiqueta bien escrita sirve para revisar un alimento, pero los textos de medicamentos incluyen advertencias que piden consultar al profesional de la salud. Cuando los niños aprenden a distinguir qué se puede comprobar y qué necesita un profesional, evitan riesgos innecesarios en casa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle-v8",
+      "statement": "Los cuatro grupos escribieron la etiqueta para un postre que preparan para una feria escolar.\n\n*\"Grupo 1: \"Postre de la casa, sabor a chocolate y muy rico, pregúntenos.\" Grupo 2: \"Postre de chocolate. Contiene leche, gluten y huevo. Registro sanitario INVIMA INV-8821. Fecha de vencimiento: 3 de junio de 2026. Peso del contenido neto: 500 gramos. Almacenar en lugar fresco. Lote 045.\" Grupo 3: \"Postre de chocolate con leche, gluten y huevo, y con chocolate, y con más chocolate, y con sprinkles.\" Grupo 4: \"El postre de chocolate es el mejor de toda la feria, porque el chocolate tiene mucho calcio y es bueno para el cuerpo.\"*\n\n¿Cuál de las cuatro etiquetas es la más conveniente para la feria escolar?",
+      "context": "Como tarea final, los grupos de cuarto deben escribir la etiqueta más completa para un postre que venden en la feria escolar de Pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La del grupo 1, porque es la más sencilla y los compradores no necesitan saber tanto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa etiqueta no dice qué contiene, cuánto pesa ni hasta cuándo se puede consumir, y esos datos son obligatorios."
+        },
+        {
+          "letter": "B",
+          "text": "La del grupo 2, porque informa el contenido, la cantidad, los alérgenos, la fecha de vencimiento y el registro sanitario",
+          "is_correct": true,
+          "feedback": "Correcto. Esa etiqueta reúne los datos que el comprador necesita para decidir y para guardar el producto de manera segura."
+        },
+        {
+          "letter": "C",
+          "text": "La del grupo 3, porque menciona muchas veces el chocolate y así se entiende mejor de qué está hecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir la palabra chocolate no aporta datos, y ese texto no indica cantidades, fecha ni registro sanitario."
+        },
+        {
+          "letter": "D",
+          "text": "La del grupo 4, porque afirma que el postre es el mejor y por eso todos van a comprarlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es una opinión que el texto no puede demostrar, y una etiqueta sirve para informar, no para convencer con una frase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir la etiqueta más conveniente es una tarea de evaluación porque pide comparar opciones y justificar la decisión con criterios verificables. Una etiqueta completa debe decir el contenido, la cantidad del contenido neto, los alérgenos, la fecha de vencimiento y el registro sanitario. Cuando los niños practican estos criterios, pueden corregir sus propias etiquetas y revisar las de los productos que compran en casa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Crítico-Intertextual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LC-4-2026-W25-el-texto-informativo-del-artefacto-o-la-etiqueta-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lectura_critica",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
